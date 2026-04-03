@@ -150,7 +150,7 @@ The blog post system has an "Alex review" quality gate that appears to be blocki
 
 ### 3.6 Canonical URL Inconsistency
 
-The sitemap and some meta tags reference `beyondelevation.net` while the live domain is `beyondelevation.com`. This canonical mismatch can confuse search engines and AI crawlers, diluting authority between two domains.
+The sitemap and some meta tags reference `beyondelevation.com` while the live domain is `beyondelevation.com`. This canonical mismatch can confuse search engines and AI crawlers, diluting authority between two domains.
 
 ---
 
@@ -422,7 +422,7 @@ To build the third-party coverage needed for Wikipedia notability and AI citatio
 
 ### 6.1 Immediate Actions (This Week)
 
-- [ ] Fix all canonical URLs from `beyondelevation.net` to `beyondelevation.com`
+- [ ] Fix all canonical URLs from `beyondelevation.com` to `beyondelevation.com`
 - [ ] Update schema markup `@id` references to use `.com`
 - [ ] Set up 301 redirects from `.net` to `.com`
 - [ ] Add `GPTBot` to robots.txt Allow list (currently missing -- only `ChatGPT-User` is listed)

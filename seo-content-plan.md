@@ -66,7 +66,7 @@
 **Weaknesses:**
 - Only 1 blog post in sitemap
 - Blog post is JS-rendered via dynamic slug loading — NOT crawlable by search engines as static HTML
-- Blog index canonical points to beyondelevation.net (wrong domain — critical bug)
+- Blog index canonical points to beyondelevation.com (wrong domain — critical bug)
 - No blog content visible to crawlers = zero blog SEO value
 - No author pages, categories, or tags
 - No RSS feed
@@ -116,7 +116,7 @@
 | Issue | Severity | Details |
 |---|---|---|
 | Empty/dynamic H1 | Critical | H1 appears to be dynamically rendered — may not be crawlable |
-| Blog canonical mismatch | Critical | Blog index canonical points to beyondelevation.net, not beyondelevation.com |
+| Blog canonical mismatch | Critical | Blog index canonical points to beyondelevation.com, not beyondelevation.com |
 | JS-rendered blog posts | Critical | Blog posts load content via JavaScript — not indexable by search engines |
 | Only 5 URLs in sitemap | High | Extremely thin site structure for competitive IP strategy niche |
 | No individual case study URLs | High | 6 case studies sharing 1 URL — wasted ranking potential |
@@ -205,7 +205,7 @@ Each case study should become its own page (1,500-2,000 words) with:
 ### Phase 1: Foundation (Weeks 1-4)
 
 **Technical Fixes:**
-1. Fix blog canonical URL (beyondelevation.net -> beyondelevation.com)
+1. Fix blog canonical URL (beyondelevation.com -> beyondelevation.com)
 2. Ensure H1 is server-rendered, not JS-only
 3. Pre-render or SSG blog posts so content is crawlable
 4. Implement clean URLs for blog (/blog/slug/ instead of post.html?slug=)
