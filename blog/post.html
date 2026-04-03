@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Article — Beyond Elevation</title>
+    <meta name="description" content="IP strategy insights from Beyond Elevation — patents, licensing revenue, and valuation growth for founders and CEOs." />
+    <link rel="canonical" href="https://beyondelevation.com/blog/" id="canonical-link" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='black'/%3E%3Ctext x='50%25' y='53%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-size='24' font-weight='700' fill='white'%3EBE%3C/text%3E%3C/svg%3E" />
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="article" id="og-type">
+    <meta property="og:url" content="" id="og-url">
+    <meta property="og:title" content="" id="og-title">
+    <meta property="og:description" content="" id="og-description">
+    <meta property="og:image" content="https://beyondelevation.com/assets/og-image.jpg" id="og-image">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="article:published_time" content="" id="og-published">
+    <meta property="article:author" content="Beyond Elevation">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="" id="twitter-url">
+    <meta property="twitter:title" content="" id="twitter-title">
+    <meta property="twitter:description" content="" id="twitter-description">
+    <meta property="twitter:image" content="https://beyondelevation.com/assets/og-image.jpg" id="twitter-image">
+    <meta name="twitter:site" content="@BeyondElevation">
+    <meta name="twitter:creator" content="@HayatAmin">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="../styles.css" />
+    <style>
+      .post-page { padding: 120px 0 90px; }
+      .post-shell { max-width: 720px; margin: 0 auto; }
+      .post-shell h1 { font-size: clamp(2.1rem, 5vw, 3.7rem); max-width: 14ch; line-height: 1.04; letter-spacing: -0.03em; }
+      .post-meta { display:flex; gap: 14px; flex-wrap:wrap; color:#666; margin: 18px 0 30px; font-size: 0.92rem; }
+      .post-body { color:#1f1f1f; line-height: 1.92; font-size: 1.08rem; }
+      .post-body p { margin: 0 0 24px; }
+      .author-block { display:flex; align-items:center; gap: 12px; margin: 18px 0 24px; padding: 0; border: 0; background: transparent; box-shadow:none; }
+      .author-photo { width: 34px; height: 34px; border-radius: 999px; object-fit: cover; }
+      .author-copy strong { display:block; font-size:1rem; color:#1a1a1a; }
+      .author-copy span { color:#666; font-size: 0.93rem; }
+      .post-hero { width: 100%; border-radius: 16px; margin: 24px 0 28px; object-fit: cover; }
+      /* Share bar */
+      .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
+      .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
+      .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+      .share-btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.01em; border-radius: 100px; border: 1.5px solid #e0e0e0; background: #fff; color: #333; text-decoration: none; cursor: pointer; transition: all 0.25s ease; }
+      .share-btn:hover { border-color: #333; background: #1a1a1a; color: #fff; transform: translateY(-1px); }
+      .share-btn svg { width: 16px; height: 16px; fill: currentColor; flex-shrink: 0; }
+      .share-btn--linkedin:hover { background: #0077b5; border-color: #0077b5; }
+      .share-btn--x:hover { background: #000; border-color: #000; }
+      .share-btn--facebook:hover { background: #1877f2; border-color: #1877f2; }
+      .share-btn--copy { position: relative; }
+      .share-btn--copy.copied { border-color: #16a34a; color: #16a34a; }
+      .share-btn--copy.copied:hover { background: #16a34a; border-color: #16a34a; color: #fff; }
+      @media (max-width: 760px) {
+        .post-page { padding: 102px 0 72px; }
+        .post-shell { max-width: 100%; }
+        .post-shell h1 { max-width: none; }
+        .share-buttons { gap: 8px; }
+        .share-btn { padding: 9px 16px; font-size: 0.78rem; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="topbar shell is-scrolled">
+      <a class="brand" href="../index.html">
+        <span class="brand-dot"></span>
+        <span>Beyond Elevation</span>
+      </a>
+      <nav>
+        <a href="./index.html">Insights</a>
+        <a href="../index.html#contact">Contact</a>
+      </nav>
+      <a class="button button-ghost small" href="../index.html#contact">Book a Strategy Session</a>
+    </header>
+
+    <main class="shell post-page">
+      <article id="post" class="post-shell"></article>
+    </main>
+
+    <script>
+      async function loadPost() {
+        const slug = new URLSearchParams(location.search).get('slug');
+        const res = await fetch('../data/posts.json');
+        const posts = await res.json();
+
+        const approvedPosts = posts.filter(post => post.status === 'published' && post.alexReview && post.alexReview.approved === true);
+        const candidate = posts.find(p => p.slug === slug);
+
+        if (!candidate || !candidate.alexReview || candidate.alexReview.approved !== true) {
+          document.getElementById('post').innerHTML = `
+            <span class="eyebrow">Quality gate</span>
+            <h1>Post is waiting for Alex review</h1>
+            <div class="author-block">
+              <strong>Publishing pause</strong>
+              <span style="margin-left:10px;color:#4a4a4a;">This piece is not public until the Hormozi-style review is completed.</span>
+            </div>
+            <p style="color:#1a1a1a;line-height:1.7;">Apply the Alex framework (offer, leverage, proof, and conversion angle), mark <em>alexReview.approved</em> as <em>true</em>, then publish.</p>
+          `;
+          return;
+        }
+
+        const post = approvedPosts.find(p => p.slug === slug) || approvedPosts[0];
+
+        if (!post) {
+          document.getElementById('post').innerHTML = `
+            <span class="eyebrow">Quality gate</span>
+            <h1>No approved article available</h1>
+            <p style="color:#1a1a1a;line-height:1.7;">No article is marked as Alex-approved right now.</p>
+          `;
+          return;
+        }
+
+        // Update basic meta
+        document.title = `${post.title} — Beyond Elevation`;
+        document.querySelector('meta[name="description"]').setAttribute('content', post.excerpt);
+        
+        // Update canonical
+        const canonicalUrl = `https://beyondelevation.com/blog/post.html?slug=${post.slug}`;
+        document.getElementById('canonical-link').setAttribute('href', canonicalUrl);
+        
+        // Update Open Graph
+        document.getElementById('og-url').setAttribute('content', canonicalUrl);
+        document.getElementById('og-title').setAttribute('content', post.title);
+        document.getElementById('og-description').setAttribute('content', post.excerpt);
+        document.getElementById('og-published').setAttribute('content', post.date);
+        
+        // Update Twitter
+        document.getElementById('twitter-url').setAttribute('content', canonicalUrl);
+        document.getElementById('twitter-title').setAttribute('content', post.title);
+        document.getElementById('twitter-description').setAttribute('content', post.excerpt);
+
+        // Update OG/Twitter images (use og-image.jpg for consistent branding)
+        const ogImageUrl = 'https://beyondelevation.com/assets/og-image.jpg';
+        document.getElementById('og-image').setAttribute('content', ogImageUrl);
+        document.getElementById('twitter-image').setAttribute('content', ogImageUrl);
+
+        const heroImage = post.heroImage || '../assets/blog-series-b-hero.jpg';
+        const authorPhoto = post.authorPhoto || '../assets/be-linkedin-still-v2.jpg';
+        document.getElementById('post').innerHTML = `
+          <span class="eyebrow">${post.category}</span>
+          <h1>${post.title}</h1>
+          <div class="author-block">
+            <img class="author-photo" src="${authorPhoto}" alt="Hayat Amin" loading="eager" />
+            <div class="author-copy">
+              <strong>Hayat Amin</strong>
+              <span>CEO of Beyond Elevation</span>
+            </div>
+          </div>
+          <img class="post-hero" src="${heroImage}" alt="${post.title}" loading="eager" />
+          <div class="post-meta">
+            <span>${post.author}</span>
+            <span>${post.date}</span>
+            <span>${post.readingTime}</span>
+          </div>
+          <div class="post-body">
+            ${post.body}
+          </div>
+          <div class="share-bar">
+            <div class="share-bar-label">Share this article</div>
+            <div class="share-buttons">
+              <a class="share-btn share-btn--linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(canonicalUrl)}" target="_blank" rel="noopener" aria-label="Share on LinkedIn">
+                <svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                LinkedIn
+              </a>
+              <a class="share-btn share-btn--x" href="https://x.com/intent/tweet?url=${encodeURIComponent(canonicalUrl)}&text=${encodeURIComponent(post.title + ' — Beyond Elevation')}" target="_blank" rel="noopener" aria-label="Share on X">
+                <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                X
+              </a>
+              <a class="share-btn share-btn--facebook" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(canonicalUrl)}" target="_blank" rel="noopener" aria-label="Share on Facebook">
+                <svg viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                Facebook
+              </a>
+              <button class="share-btn share-btn--copy" onclick="navigator.clipboard.writeText('${canonicalUrl}').then(()=>{this.classList.add('copied');this.querySelector('span').textContent='Copied!';setTimeout(()=>{this.classList.remove('copied');this.querySelector('span').textContent='Copy link'},2000)})" aria-label="Copy link">
+                <svg viewBox="0 0 24 24"><path d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                <span>Copy link</span>
+              </button>
+            </div>
+          </div>
+        `;
+      }
+      loadPost();
+    </script>
+  </body>
+</html>
