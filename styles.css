@@ -339,7 +339,7 @@ p{line-height:1.7;letter-spacing:-.01em}
 @media(max-width:760px){.marquee-inner{gap:48px;animation-duration:22s}.marquee-logo svg{height:22px}.section-logo-marquee{padding:24px 0 36px}}
 
 /* Dark proof sections — Position Imaging & DGS */
-#testimonials-preproblem,#testimonials-dgs{background:#0e0e0e;border-radius:0;border-top:none}
+#testimonials-preproblem,#testimonials-dgs{background:#0e0e0e;border-radius:0;border-top:none;width:100vw;margin-left:calc(50% - 50vw);padding-left:calc(50vw - 50%);padding-right:calc(50vw - 50%)}
 #testimonials-preproblem .section-head,#testimonials-dgs .section-head{color:#fff}
 #testimonials-preproblem .eyebrow,#testimonials-dgs .eyebrow{color:rgba(255,255,255,.5);border-color:rgba(255,255,255,.18)}
 #testimonials-preproblem h2,#testimonials-dgs h2{color:#fff}
