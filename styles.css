@@ -326,6 +326,10 @@ p{line-height:1.7;letter-spacing:-.01em}
 .system-card .system-visual{margin-bottom:8px}
 
 /* ── Logo Marquee ── */
+.hero-marquee-wrap{margin-top:32px;overflow:hidden;position:relative;width:100vw;margin-left:calc(50% - 50vw)}
+.hero-marquee-wrap::before,.hero-marquee-wrap::after{content:'';position:absolute;top:0;bottom:0;width:120px;z-index:2;pointer-events:none}
+.hero-marquee-wrap::before{left:0;background:linear-gradient(90deg,var(--bg) 0%,transparent 100%)}
+.hero-marquee-wrap::after{right:0;background:linear-gradient(270deg,var(--bg) 0%,transparent 100%)}
 .section-logo-marquee{padding:32px 0 48px;overflow:hidden;position:relative}
 .section-logo-marquee::before,.section-logo-marquee::after{content:'';position:absolute;top:0;bottom:0;width:120px;z-index:2;pointer-events:none}
 .section-logo-marquee::before{left:0;background:linear-gradient(90deg,var(--bg) 0%,transparent 100%)}
