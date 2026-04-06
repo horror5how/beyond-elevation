@@ -338,18 +338,6 @@ p{line-height:1.7;letter-spacing:-.01em}
 @keyframes marqueeScroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
 @media(max-width:760px){.marquee-inner{gap:48px;animation-duration:22s}.marquee-logo svg{height:22px}.section-logo-marquee{padding:24px 0 36px}}
 
-/* Dark proof sections — Position Imaging & DGS */
-#testimonials-preproblem,#testimonials-dgs{background:#0e0e0e;border-radius:0;border-top:none;width:100vw;margin-left:calc(50% - 50vw);padding-left:calc(50vw - 50%);padding-right:calc(50vw - 50%)}
-#testimonials-preproblem .section-head,#testimonials-dgs .section-head{color:#fff}
-#testimonials-preproblem .eyebrow,#testimonials-dgs .eyebrow{color:rgba(255,255,255,.5);border-color:rgba(255,255,255,.18)}
-#testimonials-preproblem h2,#testimonials-dgs h2{color:#fff}
-#testimonials-preproblem .proof-diagram-node,#testimonials-dgs .proof-diagram-node{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.1);color:#f0ece6}
-#testimonials-preproblem .proof-diagram-node p,#testimonials-dgs .proof-diagram-node p{color:#f0ece6}
-#testimonials-preproblem .proof-diagram-step,#testimonials-dgs .proof-diagram-step{background:#fff;color:#0e0e0e}
-#testimonials-preproblem .testimonials-photo,#testimonials-dgs .testimonials-photo{border-radius:18px;background:#1a1a1a}
-#testimonials-preproblem a[href*="case-studies"],#testimonials-dgs a[href*="case-studies"]{color:rgba(255,255,255,.55) !important;border-color:rgba(255,255,255,.2) !important}
-#testimonials-preproblem a[href*="case-studies"]:hover,#testimonials-dgs a[href*="case-studies"]:hover{color:#fff !important;border-color:rgba(255,255,255,.5) !important}
-
 /* Force CTA buttons to stay text-aligned and left-shifted */
 .section-inline-cta .inline-cta{align-items:flex-start !important; justify-content:flex-start !important;}
 .section-inline-cta .inline-cta-actions{align-self:flex-start !important;}
