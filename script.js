@@ -260,3 +260,74 @@ if (!reduce) {
 
   startAuto();
 })();
+
+/* ── Mobile Hamburger Toggle ── */
+(function(){
+  const hamburger = document.querySelector('.hamburger');
+  const nav = document.querySelector('header nav');
+  if(!hamburger||!nav) return;
+  hamburger.addEventListener('click',()=>{
+    const open = hamburger.classList.toggle('is-open');
+    nav.classList.toggle('is-open', open);
+    hamburger.setAttribute('aria-expanded', open);
+    document.body.style.overflow = open ? 'hidden' : '';
+  });
+  nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{
+    hamburger.classList.remove('is-open');
+    nav.classList.remove('is-open');
+    hamburger.setAttribute('aria-expanded','false');
+    document.body.style.overflow='';
+  }));
+})();
+
+/* ── Stats CountUp Animation ── */
+(function(){
+  const counters = document.querySelectorAll('[data-count]');
+  if(!counters.length) return;
+  const countObserver = new IntersectionObserver((entries)=>{
+    entries.forEach(entry=>{
+      if(!entry.isIntersecting) return;
+      const el = entry.target;
+      if(el.classList.contains('counted')) return;
+      el.classList.add('counted');
+      const target = parseFloat(el.dataset.count);
+      const prefix = el.dataset.prefix || '';
+      const suffix = el.dataset.suffix || '';
+      const isDecimal = String(target).includes('.');
+      const duration = 1500;
+      const start = performance.now();
+      const animate = (now)=>{
+        const elapsed = now - start;
+        const progress = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 3);
+        const current = eased * target;
+        el.textContent = prefix + (isDecimal ? current.toFixed(1) : Math.round(current)) + suffix;
+        if(progress < 1) requestAnimationFrame(animate);
+      };
+      el.textContent = prefix + '0' + suffix;
+      requestAnimationFrame(animate);
+      el.closest('.metric-popout')?.classList.add('counted');
+    });
+  },{threshold:0.3});
+  counters.forEach(c=>countObserver.observe(c));
+})();
+
+/* ── Hero Word Stagger Animation ── */
+(function(){
+  const h1 = document.querySelector('.hero-instant h1');
+  if(!h1 || reduce) return;
+  const text = h1.textContent.trim();
+  const words = text.split(/\s+/);
+  h1.innerHTML = words.map((word, i) =>
+    `<span class="hero-word" style="animation-delay:${i * 0.08}s">${word}</span>`
+  ).join(' ');
+})();
+
+/* ── Intersection Observer threshold fix ── */
+// Override the default observer with a faster one
+const fastObserver = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) entry.target.classList.add('is-visible');
+  });
+}, { threshold: 0.06 });
+document.querySelectorAll('.reveal:not(.hero-instant)').forEach((el) => fastObserver.observe(el));
