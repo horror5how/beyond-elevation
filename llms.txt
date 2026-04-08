@@ -61,5 +61,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your AI Agents Are Creating IP Right Now. You Probably Don't Own Any of It.](https://beyondelevation.com/blog/post.html?slug=ai-agent-ip-ownership-strategy) — /blog/md/ai-agent-ip-ownership-strategy.md
 - [You Open-Sourced Your AI Model. You Just Gave Away the Only Leverage You Had.](https://beyondelevation.com/blog/post.html?slug=open-source-ai-ip-valuation-trap) — /blog/md/open-source-ai-ip-valuation-trap.md
 - [Your Biggest Competitor Filed 19 Patents Last Quarter. You Have Not Checked Once.](https://beyondelevation.com/blog/post.html?slug=competitor-patent-blind-spot) — /blog/md/competitor-patent-blind-spot.md
+- [Your Term Sheet Has a Clause That Hands Your IP to Your Investor. You Already Signed It.](https://beyondelevation.com/blog/post.html?slug=ip-term-sheet-trap-founders) — /blog/md/ip-term-sheet-trap-founders.md
 
 > Full blog content available at /llms-full.txt

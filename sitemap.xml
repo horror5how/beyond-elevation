@@ -187,7 +187,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-    <url>
+      <url>
     <loc>https://beyondelevation.com/llms.txt</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -345,6 +345,12 @@
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/competitor-patent-blind-spot.md</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ip-term-sheet-trap-founders.md</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

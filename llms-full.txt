@@ -580,3 +580,25 @@ Beyond Elevation runs competitive patent landscapes for tech and AI founders bec
 Competitive patent intelligence is the systematic process of identifying, analyzing, and monitorin
 
 ---
+
+## Your Term Sheet Has a Clause That Hands Your IP to Your Investor. You Already Signed It.
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-term-sheet-trap-founders
+
+A $12M Series A. Two licensable patents. An $800K-per-year royalty deal on the table. Killed in a single email from the founder's own investor.
+
+The reason was on page 14 of the term sheet. A blanket security interest over all company intellectual property. Every patent. Every trade secret. Every line of proprietary code. The investor had veto power over any IP transaction — and the founder did not know the clause existed until Beyond Elevation reviewed the agreement six months after closing.
+
+His startup lawyer had not flagged it. The investor's counsel had drafted it as boilerplate. And this is not a one-off horror story. It is the default. Roughly 70% of the venture-backed term sheets that Beyond Elevation reviews contain IP provisions that restrict the founder's ability to license, sell, or leverage their own patents.
+
+Your IP is probably the most valuable asset your company owns. And there is a very good chance you have already signed away control of it.
+
+## What Are the IP Clauses in Term Sheets That Cost Founders Millions?
+
+Four IP provisions appear in standard term sheets and venture loan agreements. None of them are illegal. All of them are negotiable. Most founders never push back because they do not know these clauses exist until the damage is done.
+
+### 1. The Blanket IP Security Interest
+
+This is the most common and the most dangerous. It grants the investor or lender a security interest in all company intellectual property as collateral. If the company defaults 
+
+---
