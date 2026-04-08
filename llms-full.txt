@@ -532,3 +532,51 @@ AI agents broke that model.
 In 2023, the US Patent and Trademark Office confirmed that AI cannot be listed as an inventor on a patent. The US Copyright Office ruled that purely AI-generated works cannot be registered. The UK, EU, and most other major jurisdictions followed su
 
 ---
+
+## You Open-Sourced Your AI Model. You Just Gave Away the Only Leverage You Had.
+
+URL: https://beyondelevation.com/blog/post.html?slug=open-source-ai-ip-valuation-trap
+
+A founder walked into an acquisition meeting last quarter with an AI model that outperformed the market leader on three industry benchmarks. The buyer's opening question was not about performance, team, or traction. It was: "Why are your model weights public on GitHub?"
+
+The offer came in 58% below comparable proprietary-model acquisitions that quarter. The founder had spent $4.2M training that model. The buyer valued it at near-zero — because anyone could download it for free.
+
+That is not a negotiation failure. That is the direct, predictable consequence of open-sourcing your core AI and calling it a "growth strategy."
+
+## Why Does Open-Sourcing Your AI Model Destroy Valuation?
+
+Open-sourcing an AI model eliminates the legal exclusivity that drives acquisition premiums, licensing revenue, and investor confidence. When your model weights are public, you are not building a moat. You are filling one in.
+
+Intangible assets — proprietary algorithms, patents, trade secrets — now represent 90% of S&P 500 market value according to Ocean Tomo. When you open-source your model, you voluntarily convert a protectable intangible asset into a public good. The valuation impact is immediate and severe.
+
+AI companies with proprietary model IP command median valuations 2.6x higher than those with open-source cores at Series B. Not because the models are better. Because the buyer is purchasing exclusivity, not performance.
+
+**Investors do not pay premiums for things anyone can copy.**
+
+## The 
+
+---
+
+## Your Biggest Competitor Filed 19 Patents Last Quarter. You Have Not Checked Once.
+
+URL: https://beyondelevation.com/blog/post.html?slug=competitor-patent-blind-spot
+
+A founder came to Beyond Elevation last year, three weeks before closing his $18M Series B. During IP due diligence, the lead investor's counsel ran a standard freedom-to-operate search. They found 11 granted patents — owned by the founder's direct competitor — that covered three core features of his product. The round collapsed in 48 hours.
+
+He had never searched competitor patents. Not once in four years of building. He was running a company on top of technology someone else legally owned.
+
+This is not rare. It is the norm. And it is one of the most expensive mistakes in tech.
+
+## Why Do Most Founders Ignore Competitor Patents?
+
+Because they think patents only matter if someone sues them. Wrong. Competitor patents matter every time you raise capital, negotiate a partnership, plan an exit, or enter a new market. They are landmines. And most founders are sprinting through the field blindfolded.
+
+The USPTO granted over 350,000 utility patents in 2025. In AI and software, patent filings grew 31% year-over-year. Your competitors are filing. Their competitors are filing. Everyone is filing — except the founders who have not even checked what has already been filed against their own technology.
+
+Beyond Elevation runs competitive patent landscapes for tech and AI founders because this blind spot is not just risky. It is a valuation killer.
+
+## What Is Competitive Patent Intelligence?
+
+Competitive patent intelligence is the systematic process of identifying, analyzing, and monitorin
+
+---
