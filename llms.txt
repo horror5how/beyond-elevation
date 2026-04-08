@@ -31,3 +31,33 @@ Hayat Amin, Founder & CEO. Team of exited C-suite operators. Techstars mentors. 
 https://usemotion.com/meet/hayat-amin/be
 Phone: +1-571-380-7699
 Address: 178 Broadway, 3rd Floor #4542, New York, NY 10001, United States
+
+## Blog Articles
+
+Beyond Elevation publishes expert articles on IP strategy and licensing revenue. Individual markdown files available at /blog/md/{slug}.md
+
+- [In AI, the moat is not just the model. It is the IP around it.](https://beyondelevation.com/blog/post.html?slug=ai-moat-not-just-the-model) — /blog/md/ai-moat-not-just-the-model.md
+- [How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For](https://beyondelevation.com/blog/post.html?slug=ai-company-valuations-ip-role) — /blog/md/ai-company-valuations-ip-role.md
+- [IP Strategy for Startups: A Founder's Complete Guide to Protecting Innovation](https://beyondelevation.com/blog/post.html?slug=ip-strategy-startups-guide) — /blog/md/ip-strategy-startups-guide.md
+- [How to Build a Patent Licensing Revenue Model That Generates Recurring Income](https://beyondelevation.com/blog/post.html?slug=patent-licensing-revenue-model) — /blog/md/patent-licensing-revenue-model.md
+- [The IP Premium: How Intellectual Property Boosts Tech Company Valuations](https://beyondelevation.com/blog/post.html?slug=tech-company-valuation-ip-premium) — /blog/md/tech-company-valuation-ip-premium.md
+- [Data Monetization Strategy: A Framework for Turning Your Data Into Revenue](https://beyondelevation.com/blog/post.html?slug=data-monetization-strategy-framework) — /blog/md/data-monetization-strategy-framework.md
+- [IP Valuation Methods Explained: How to Determine What Your Intellectual Property Is Worth](https://beyondelevation.com/blog/post.html?slug=ip-valuation-methods-explained) — /blog/md/ip-valuation-methods-explained.md
+- [Patent Strategy Consulting: What to Expect and How It Creates Value for Your Business](https://beyondelevation.com/blog/post.html?slug=patent-strategy-consulting-what-to-expect) — /blog/md/patent-strategy-consulting-what-to-expect.md
+- [How to License Patents: A Step-by-Step Guide for Patent Holders](https://beyondelevation.com/blog/post.html?slug=how-to-license-patents-step-by-step) — /blog/md/how-to-license-patents-step-by-step.md
+- [Trade Secrets vs Patents: When to Use Each in Your IP Strategy](https://beyondelevation.com/blog/post.html?slug=trade-secrets-vs-patents-strategy-guide) — /blog/md/trade-secrets-vs-patents-strategy-guide.md
+- [IP Due Diligence for M&A: What Acquirers Scrutinize and How to Prepare](https://beyondelevation.com/blog/post.html?slug=ip-due-diligence-ma-guide) — /blog/md/ip-due-diligence-ma-guide.md
+- [AI Engineering IP: What's Actually Protectable in Your Stack](https://beyondelevation.com/blog/post.html?slug=ai-engineering-ip-what-is-protectable) — /blog/md/ai-engineering-ip-what-is-protectable.md
+- [AI Training Data Valuation: What Your Dataset Is Worth](https://beyondelevation.com/blog/post.html?slug=ai-training-data-valuation) — /blog/md/ai-training-data-valuation.md
+- [Your Series B Will Stall Without an IP Portfolio. Here Is the Proof.](https://beyondelevation.com/blog/post.html?slug=ip-portfolio-series-b-fundraising) — /blog/md/ip-portfolio-series-b-fundraising.md
+- [Know-How Licensing: The Revenue Stream Hiding Inside Your Team's Heads](https://beyondelevation.com/blog/post.html?slug=know-how-licensing-hidden-revenue) — /blog/md/know-how-licensing-hidden-revenue.md
+- [Your AI Startup's Code Is Worth Millions. You Are Giving It Away for Free.](https://beyondelevation.com/blog/post.html?slug=copyright-strategy-ai-tech-companies) — /blog/md/copyright-strategy-ai-tech-companies.md
+- [Your IP Could Add 40% to Your Exit Price. Most Founders Never Collect It.](https://beyondelevation.com/blog/post.html?slug=ip-exit-value-multiplier) — /blog/md/ip-exit-value-multiplier.md
+- [Your Patents Should Pay You Every Quarter. Most Founders Collect Once and Walk Away.](https://beyondelevation.com/blog/post.html?slug=recurring-patent-revenue-streams) — /blog/md/recurring-patent-revenue-streams.md
+- [Most AI Founders Have Patents. Almost None Have a Portfolio. That Gap Is Worth Millions.](https://beyondelevation.com/blog/post.html?slug=ai-patent-portfolio-strategy) — /blog/md/ai-patent-portfolio-strategy.md
+- [Your Balance Sheet Is Lying. 90% of Your Company's Value Is Not On It.](https://beyondelevation.com/blog/post.html?slug=intangible-asset-valuation-hidden-worth) — /blog/md/intangible-asset-valuation-hidden-worth.md
+- [You Are 10.2x More Likely to Get Funded With Patents. Most Founders File After the Round.](https://beyondelevation.com/blog/post.html?slug=patent-strategy-seed-series-a-fundraising) — /blog/md/patent-strategy-seed-series-a-fundraising.md
+- [Your Patents Are Worth Cash Right Now. Stop Diluting Yourself to Get It.](https://beyondelevation.com/blog/post.html?slug=ip-backed-lending-patents-as-collateral) — /blog/md/ip-backed-lending-patents-as-collateral.md
+- [Your AI Agents Are Creating IP Right Now. You Probably Don't Own Any of It.](https://beyondelevation.com/blog/post.html?slug=ai-agent-ip-ownership-strategy) — /blog/md/ai-agent-ip-ownership-strategy.md
+
+> Full blog content available at /llms-full.txt

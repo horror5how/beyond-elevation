@@ -18,3 +18,20 @@ Allow: /
 
 User-agent: GoogleOther
 Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# AI-readable content
+# llms.txt: https://beyondelevation.com/llms.txt
+# llms-full.txt: https://beyondelevation.com/llms-full.txt
+# Blog markdown files: https://beyondelevation.com/blog/md/{slug}.md
