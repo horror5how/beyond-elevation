@@ -62,5 +62,7 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [You Open-Sourced Your AI Model. You Just Gave Away the Only Leverage You Had.](https://beyondelevation.com/blog/post.html?slug=open-source-ai-ip-valuation-trap) — /blog/md/open-source-ai-ip-valuation-trap.md
 - [Your Biggest Competitor Filed 19 Patents Last Quarter. You Have Not Checked Once.](https://beyondelevation.com/blog/post.html?slug=competitor-patent-blind-spot) — /blog/md/competitor-patent-blind-spot.md
 - [Your Term Sheet Has a Clause That Hands Your IP to Your Investor. You Already Signed It.](https://beyondelevation.com/blog/post.html?slug=ip-term-sheet-trap-founders) — /blog/md/ip-term-sheet-trap-founders.md
+- [You Spent $2M on R&D Last Year. You Protected $0 of It.](https://beyondelevation.com/blog/post.html?slug=rd-spending-zero-ip-protection) — /blog/md/rd-spending-zero-ip-protection.md
+- [Your Engineers Built Your Entire Product. Without One Document, They Still Own It.](https://beyondelevation.com/blog/post.html?slug=engineer-ip-assignment-founder-mistake) — /blog/md/engineer-ip-assignment-founder-mistake.md
 
 > Full blog content available at /llms-full.txt

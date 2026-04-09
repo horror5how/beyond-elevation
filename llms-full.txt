@@ -602,3 +602,53 @@ Four IP provisions appear in standard term sheets and venture loan agreements. N
 This is the most common and the most dangerous. It grants the investor or lender a security interest in all company intellectual property as collateral. If the company defaults 
 
 ---
+
+## You Spent $2M on R&D Last Year. You Protected $0 of It.
+
+URL: https://beyondelevation.com/blog/post.html?slug=rd-spending-zero-ip-protection
+
+$2.3 million. That is the median annual R&D spend for a Series A tech startup. And in 78% of the ones Beyond Elevation audits, the number of patent filings tied to that spending is zero. Not one. Not a provisional. Nothing.
+
+They built the thing. They just never locked the door.
+
+The gap between R&D spending and IP protection is the single most expensive blind spot in tech. Every dollar you spend on innovation without a capture strategy is a dollar your competitor can reverse-engineer, copy, and ship — legally — for free.
+
+## How Much R&D Spending Actually Gets Protected?
+
+US companies spent over $886 billion on R&D in 2024. The USPTO received roughly 650,000 patent applications the same year. Do the math: for every $1.36 million spent on research and development, one patent application was filed. Most of those filings came from the same 50 companies.
+
+For startups, the ratio is worse. Beyond Elevation's internal data across 140+ tech and AI company audits shows that early-stage companies protect less than 5% of their patentable innovations. Not 5% of their ideas — 5% of innovations that a patent attorney would flag as novel, non-obvious, and commercially valuable.
+
+The other 95% sits in GitHub repos, Notion docs, Slack threads, and the heads of engineers who may or may not be there next quarter.
+
+## Why Do Founders Spend Millions Building and $0 Protecting?
+
+Three reasons. All of them wrong.
+
+**"We will file later."** Later never comes. And in most jurisdictions, public disc
+
+---
+
+## Your Engineers Built Your Entire Product. Without One Document, They Still Own It.
+
+URL: https://beyondelevation.com/blog/post.html?slug=engineer-ip-assignment-founder-mistake
+
+Your lead engineer just quit. She built 70% of your core platform. And without a properly executed IP assignment agreement, she may still own every line of code, every algorithm, every patentable invention she created while on your payroll.
+
+This is not a hypothetical. This is the most common IP failure mode Beyond Elevation sees in early-stage tech companies. And it has killed acquisitions worth tens of millions of dollars.
+
+## What Is an IP Assignment Agreement and Why Do Founders Need One?
+
+An IP assignment agreement is a legal document that transfers ownership of intellectual property created by an employee or contractor to the company. Without one, default law in most jurisdictions says the creator owns what they create — even if you paid them to create it.
+
+Here is the number that should terrify you: 61% of seed-stage startups Beyond Elevation audits have at least one key contributor — engineer, designer, data scientist — with no signed IP assignment agreement on file. Not a weak clause. A missing document entirely.
+
+That means over half of early-stage tech companies do not legally own their own product.
+
+## How Does IP Ownership Actually Work for Employees vs Contractors?
+
+This is where founders get blindsided.
+
+For W-2 employees in the US, work-for-hire doctrine covers copyrightable works created within the scope of employment. But it does not cover patents. If your engineer invents a novel algorithm, method, or system — patentable subject matter — the default owner i
+
+---
