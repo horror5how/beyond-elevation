@@ -652,3 +652,25 @@ This is where founders get blindsided.
 For W-2 employees in the US, work-for-hire doctrine covers copyrightable works created within the scope of employment. But it does not cover patents. If your engineer invents a novel algorithm, method, or system — patentable subject matter — the default owner i
 
 ---
+
+## Your Patent Stops at the Border. Your Competitor's Product Doesn't.
+
+URL: https://beyondelevation.com/blog/post.html?slug=patent-international-filing-strategy
+
+You filed a patent. In one country. Your product ships to 47. That means in 46 of those markets, anyone can legally copy your technology, undercut your price, and sell it under their own brand. No lawsuit. No injunction. No recourse. You did not protect the thing. You protected a fraction of it.
+
+This is the most expensive mistake in IP strategy that nobody talks about. And it is happening in 83% of the venture-backed startups Beyond Elevation audits.
+
+## How Many Startups Only File Patents in One Country?
+
+83%. That is the number from Beyond Elevation’s internal data across 140+ tech and AI company audits. The overwhelming majority of early-stage founders file a single US utility patent — or worse, a single provisional — and call it done. Meanwhile, their product is generating revenue in the EU, the UK, Japan, South Korea, Canada, and Australia.
+
+Each of those markets has its own patent system. A US patent gives you exactly zero protection in any of them. It is like locking the front door and leaving every window in the house wide open.
+
+Here is what makes this worse: 72% of global patent licensing revenue comes from outside the United States. If your IP only works in America, you are defending the minority of your market and ignoring where the real money is.
+
+## What Is the PCT and Why Do Most Founders Miss It?
+
+The Patent Cooperation Treaty (PCT) is the single most important tool in international IP strategy. It lets you file one application that preserves your right to se
+
+---
