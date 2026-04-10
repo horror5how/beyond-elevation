@@ -193,6 +193,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/post.html?slug=freedom-to-operate-patent-clearance</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
         <url>
     <loc>https://beyondelevation.com/llms.txt</loc>
     <lastmod>2026-04-10</lastmod>
@@ -381,6 +387,12 @@
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/employee-ip-assignment-gap.md</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/freedom-to-operate-patent-clearance.md</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
