@@ -1,0 +1,101 @@
+name: Auto-merge scheduled-task blog posts into main
+
+# Fallback for the scheduled cloud tasks that generate blog posts. The tasks
+# push to claude/<name> branches; this workflow fast-forwards/merges them into
+# main so the Vercel production deploy workflow can pick them up.
+#
+# Safety guardrails:
+#  1. Only branches whose head commit author is Claude are eligible.
+#  2. Only branches that modify files on the allow-list are eligible
+#     (blog posts content, not arbitrary code).
+#  3. Branches with zero commits ahead of main are skipped (e.g. empty LinkedIn
+#     task branches).
+#  4. Anything matching `claude/debug-*` is skipped so interactive debugging
+#     sessions are never auto-merged.
+
+on:
+  push:
+    branches:
+      - 'claude/**'
+
+concurrency:
+  group: auto-merge-scheduled-posts
+  cancel-in-progress: false
+
+jobs:
+  auto-merge:
+    if: github.event.head_commit.author.email == 'noreply@anthropic.com'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Skip debug branches
+        if: startsWith(github.ref_name, 'claude/debug-')
+        run: |
+          echo "Skipping debug branch ${{ github.ref_name }} — not auto-merging."
+          exit 0
+
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch pushed branch
+        run: |
+          git fetch origin "${{ github.ref }}:refs/remotes/origin/${{ github.ref_name }}"
+
+      - name: Verify branch is ahead of main
+        id: ahead
+        run: |
+          AHEAD=$(git rev-list --count "main..${{ github.sha }}")
+          echo "commits_ahead=$AHEAD" >> "$GITHUB_OUTPUT"
+          if [ "$AHEAD" = "0" ]; then
+            echo "Branch has 0 commits ahead of main — nothing to merge, skipping."
+          fi
+
+      - name: Verify only blog-content files changed
+        id: safety
+        if: steps.ahead.outputs.commits_ahead != '0'
+        run: |
+          CHANGED=$(git diff --name-only "main...${{ github.sha }}")
+          echo "Changed files:"
+          echo "$CHANGED"
+          BAD=$(echo "$CHANGED" | grep -v -E '^(data/posts\.json|sitemap\.xml|llms\.txt|llms-full\.txt|blog/md/[^/]+\.md)$' || true)
+          if [ -n "$BAD" ]; then
+            echo "Branch touches files outside the allow-list:"
+            echo "$BAD"
+            echo "safe=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "safe=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configure git
+        if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Merge branch into main
+        if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'
+        run: |
+          set -e
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            # Prefer fast-forward (clean linear history); fall back to merge commit.
+            if git merge --ff-only "${{ github.sha }}" 2>/dev/null; then
+              :
+            else
+              git merge --no-ff "${{ github.sha }}" -m "Auto-merge ${{ github.ref_name }} into main"
+            fi
+            if git push origin main; then
+              echo "Merged ${{ github.ref_name }} into main on attempt $attempt."
+              exit 0
+            fi
+            echo "Push failed on attempt $attempt, retrying..."
+            sleep $((attempt * 3))
+          done
+          echo "Failed to merge after 5 attempts."
+          exit 1
