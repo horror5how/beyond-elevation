@@ -99,3 +99,11 @@ jobs:
           done
           echo "Failed to merge after 5 attempts."
           exit 1
+
+      - name: Trigger Vercel deploy (GITHUB_TOKEN push cannot cascade to push triggers)
+        if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh workflow run "Deploy to Vercel Production" --ref main
+          echo "Dispatched Deploy to Vercel Production on main."
