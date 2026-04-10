@@ -8,8 +8,8 @@ name: Auto-merge scheduled-task blog posts into main
 #  1. Only branches whose head commit author is Claude are eligible.
 #  2. Only branches that modify files on the allow-list are eligible
 #     (blog posts content, not arbitrary code).
-#  3. Branches with zero commits ahead of main are skipped (e.g. empty LinkedIn
-#     task branches).
+#  3. Branches with zero commits ahead of main are skipped (empty task
+#     branches that never committed work).
 #  4. Anything matching `claude/debug-*` is skipped so interactive debugging
 #     sessions are never auto-merged.
 
