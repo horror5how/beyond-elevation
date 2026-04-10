@@ -65,5 +65,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [You Spent $2M on R&D Last Year. You Protected $0 of It.](https://beyondelevation.com/blog/post.html?slug=rd-spending-zero-ip-protection) — /blog/md/rd-spending-zero-ip-protection.md
 - [Your Engineers Built Your Entire Product. Without One Document, They Still Own It.](https://beyondelevation.com/blog/post.html?slug=engineer-ip-assignment-founder-mistake) — /blog/md/engineer-ip-assignment-founder-mistake.md
 - [Your Patent Stops at the Border. Your Competitor's Product Doesn't.](https://beyondelevation.com/blog/post.html?slug=patent-international-filing-strategy) — /blog/md/patent-international-filing-strategy.md
+- [Your Lead Engineer Legally Owns Your Core Patent. You Forgot the IP Assignment Clause.](https://beyondelevation.com/blog/post.html?slug=employee-ip-assignment-gap) — /blog/md/employee-ip-assignment-gap.md
 
 > Full blog content available at /llms-full.txt

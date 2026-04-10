@@ -674,3 +674,21 @@ Here is what makes this worse: 72% of global patent licensing revenue comes from
 The Patent Cooperation Treaty (PCT) is the single most important tool in international IP strategy. It lets you file one application that preserves your right to se
 
 ---
+
+## Your Lead Engineer Legally Owns Your Core Patent. You Forgot the IP Assignment Clause.
+
+URL: https://beyondelevation.com/blog/post.html?slug=employee-ip-assignment-gap
+
+A CTO walked out of his Series A startup in Q3 last year. Three weeks later, his former company received a cease and desist letter. He was the sole named inventor on the company's core patent, and he had never signed an IP assignment agreement. The startup did not legally own the single most valuable asset on its balance sheet.
+
+\n\nThis is not a one-off horror story. Beyond Elevation has audited 180+ tech and AI startup IP portfolios in the last 24 months. In 31% of them, at least one critical patent was filed without a properly executed inventor-to-company assignment. Nearly a third of founders are sitting on patents their own engineers legally own.
+
+\n\nYour IP is not yours until the paperwork says it is. And in US patent law, the default rule is brutal: the individual inventor owns the invention, not the company that paid for it.
+
+\n\n## Who Actually Owns the Patents Your Engineers File?
+
+\n\nUnder US patent law, the named inventor is the default owner. Not the CEO. Not the company. Not the investor who funded the R&D. The individual human whose name appears on the patent application holds all rights, unless a signed, written assignment transfers those rights to the company.
+
+\n\nEmployment alone does not transfer patent rights. "We pay him a salary" is not an assignment. "It is in the employee handbook" is not an assignment. "His offer letter mentions IP" is usually not an assignment either. The Federal Circuit has been brutally consistent on this: patent assignment requ
+
+---
