@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Patent Intelligence Dashboard — Beyond Elevation</title>
+    <meta name="description" content="Real-time competitive patent intelligence built by operators, not lawyers. Know exactly which patents in your space are blocking you, which to file, which to license, and which to ignore — before your next board meeting." />
+    <link rel="canonical" href="https://beyondelevation.com/services/ai-patent-intelligence-dashboard/" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="GPTBot" content="index, follow" />
+    <meta name="ClaudeBot" content="index, follow" />
+    <meta name="PerplexityBot" content="index, follow" />
+    <meta name="Google-Extended" content="index, follow" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='black'/%3E%3Ctext x='50%25' y='53%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-size='24' font-weight='700' fill='white'%3EBE%3C/text%3E%3C/svg%3E" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://beyondelevation.com/services/ai-patent-intelligence-dashboard/" />
+    <meta property="og:title" content="AI Patent Intelligence Dashboard — Beyond Elevation" />
+    <meta property="og:description" content="Real-time competitive patent intelligence built by operators, not lawyers. Know exactly which patents in your space are blocking you, which to file, which to license, and which to ignore — before your next board meeting." />
+    <meta property="og:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Beyond Elevation" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="AI Patent Intelligence Dashboard — Beyond Elevation" />
+    <meta name="twitter:description" content="Real-time competitive patent intelligence built by operators, not lawyers. Know exactly which patents in your space are blocking you, which to file, which to license, and which to ignore — before your next board meeting." />
+    <meta name="twitter:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <style>
+      .svc-page { padding: 120px 0 90px; }
+      .svc-shell { max-width: 880px; margin: 0 auto; }
+      .svc-eyebrow { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #6b6b6b; margin: 0 0 14px; }
+      .svc-shell h1 { font-size: clamp(2.4rem, 5.6vw, 4rem); line-height: 1.02; letter-spacing: -0.03em; margin: 0 0 22px; max-width: 18ch; }
+      .svc-tagline { font-size: clamp(1.15rem, 2vw, 1.35rem); color: #2a2a2a; line-height: 1.55; margin: 0 0 14px; max-width: 56ch; font-weight: 500; }
+      .svc-sub { font-size: 1.05rem; color: #444; line-height: 1.7; margin: 0 0 38px; max-width: 66ch; }
+      .svc-cta-row { display: flex; gap: 14px; flex-wrap: wrap; margin: 0 0 18px; }
+      .svc-cta-primary, .svc-cta-secondary { display: inline-flex; align-items: center; gap: 10px; padding: 16px 28px; font-size: 0.98rem; font-weight: 700; border-radius: 100px; text-decoration: none; transition: all 0.25s ease; letter-spacing: -0.005em; }
+      .svc-cta-primary { background: #1a1a1a; color: #fff; border: 2px solid #1a1a1a; }
+      .svc-cta-primary:hover { background: #000; transform: translateY(-1px); }
+      .svc-cta-secondary { background: #fff; color: #1a1a1a; border: 2px solid #1a1a1a; }
+      .svc-cta-secondary:hover { background: #f5f5f5; }
+      .svc-price { display: inline-block; padding: 8px 16px; border-radius: 100px; background: #f4f4f0; font-size: 0.92rem; font-weight: 600; color: #1a1a1a; margin-left: 8px; }
+      .svc-price-note { display: block; font-size: 0.85rem; color: #777; margin-top: 8px; }
+      .svc-section { margin: 64px 0; }
+      .svc-section h2 { font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1.18; letter-spacing: -0.02em; margin: 0 0 22px; max-width: 22ch; }
+      .svc-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
+      .svc-list li { padding: 18px 22px; border: 1px solid #e8e8e8; border-radius: 14px; background: #fafafa; line-height: 1.6; color: #2a2a2a; }
+      .svc-deliverables { display: grid; gap: 16px; }
+      .svc-deliverables .item { padding: 22px 24px; border: 1px solid #e8e8e8; border-radius: 16px; background: #fff; }
+      .svc-deliverables .item strong { display: block; font-size: 1.08rem; color: #1a1a1a; margin: 0 0 8px; letter-spacing: -0.01em; }
+      .svc-deliverables .item p { margin: 0; color: #444; line-height: 1.65; font-size: 0.98rem; }
+      .svc-edge { padding: 32px 36px; border-radius: 18px; background: #1a1a1a; color: #f4f4f0; line-height: 1.7; font-size: 1.05rem; }
+      .svc-edge strong { color: #fff; display: block; font-size: 0.78rem; letter-spacing: 0.16em; text-transform: uppercase; margin: 0 0 12px; opacity: 0.7; }
+      .svc-guarantee { padding: 28px 32px; border: 2px solid #1a1a1a; border-radius: 18px; background: #fff; line-height: 1.65; font-size: 1.05rem; }
+      .svc-guarantee strong { display: block; font-size: 0.78rem; letter-spacing: 0.16em; text-transform: uppercase; margin: 0 0 10px; }
+      .svc-faq h3 { font-size: 1.12rem; margin: 28px 0 8px; line-height: 1.35; }
+      .svc-faq p { margin: 0 0 12px; line-height: 1.7; color: #2a2a2a; }
+      .svc-final { margin: 80px 0 0; padding: 56px 48px; text-align: center; background: #1a1a1a; color: #fff; border-radius: 22px; }
+      .svc-final h2 { color: #fff; max-width: none; margin: 0 0 14px; }
+      .svc-final p { color: #ccc; margin: 0 0 28px; font-size: 1.05rem; }
+      .svc-final .svc-cta-primary { background: #fff; color: #1a1a1a; border-color: #fff; }
+      .svc-final .svc-cta-primary:hover { background: #f4f4f0; }
+      .svc-final .svc-cta-secondary { background: transparent; color: #fff; border-color: #fff; }
+      .svc-final .svc-cta-secondary:hover { background: rgba(255,255,255,0.08); }
+      @media (max-width: 760px) {
+        .svc-page { padding: 102px 0 64px; }
+        .svc-shell h1 { max-width: none; }
+        .svc-final { padding: 40px 28px; }
+      }
+    </style>
+
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"AI Patent Intelligence Dashboard","description":"Real-time competitive patent intelligence built by operators, not lawyers. Know exactly which patents in your space are blocking you, which to file, which to license, and which to ignore — before your next board meeting.","url":"https://beyondelevation.com/services/ai-patent-intelligence-dashboard/","provider":{"@type":"Organization","name":"Beyond Elevation","url":"https://beyondelevation.com","founder":{"@type":"Person","name":"Hayat Amin","jobTitle":"CEO of Beyond Elevation"}},"areaServed":{"@type":"Country","name":"Worldwide"},"serviceType":"AI + Human IP Intelligence","offers":{"@type":"Offer","price":"$980 / month","priceCurrency":"USD","url":"https://beyondelevation.com/services/ai-patent-intelligence-dashboard/","availability":"https://schema.org/InStock"}}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How is this different from PatSnap or Questel?","acceptedAnswer":{"@type":"Answer","text":"Those tools were built for patent attorneys to do prior art searches. Ours was built for CEOs to make commercial decisions. We score patents on revenue potential and defensibility, not legal novelty. Different output, different decisions, different price."}},{"@type":"Question","name":"Do I need to know anything about patents?","acceptedAnswer":{"@type":"Answer","text":"No. The whole point. Every report is written for an operator, not a litigator. If you can read a P&L you can read this dashboard."}},{"@type":"Question","name":"What if my company has no patents yet?","acceptedAnswer":{"@type":"Answer","text":"Start with our Patentability Audit instead. The dashboard is for companies who already have at least one filed application. Once you have one, you graduate to the dashboard."}},{"@type":"Question","name":"Can I cancel?","acceptedAnswer":{"@type":"Answer","text":"Yes, any time, no notice period, no clawback. We earn the renewal every month."}},{"@type":"Question","name":"Is there a setup fee?","acceptedAnswer":{"@type":"Answer","text":"No. Onboarding and your first competitive map are included in month one."}}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://beyondelevation.com"},{"@type":"ListItem","position":2,"name":"Services","item":"https://beyondelevation.com/services/"},{"@type":"ListItem","position":3,"name":"AI Patent Intelligence Dashboard","item":"https://beyondelevation.com/services/ai-patent-intelligence-dashboard/"}]}</script>
+  </head>
+  <body>
+    <header class="topbar shell">
+      <a class="brand" href="/" aria-label="Beyond Elevation home">
+        <span class="brand-mark" aria-hidden="true">BE</span>
+        <span>Beyond Elevation</span>
+      </a>
+      <nav>
+        <a href="/#thesis">Problem</a>
+        <a href="/services/">Services</a>
+        <a href="/case-studies/">Case Studies</a>
+        <a href="/blog/">Blog</a>
+      </nav>
+      <div class="topbar-right">
+        <a class="topbar-phone" href="tel:+15713807699">(571) 380-7699</a>
+        <a class="button button-ghost small" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic</a>
+      </div>
+    </header>
+
+    <main class="shell svc-page">
+      <article class="svc-shell">
+        <p class="svc-eyebrow">AI + Human IP Intelligence</p>
+        <h1>AI Patent Intelligence Dashboard</h1>
+        <p class="svc-tagline">Most patent attorneys charge $30K to tell you what our AI tells you in 8 minutes.</p>
+        <p class="svc-sub">Real-time competitive patent intelligence built by operators, not lawyers. Know exactly which patents in your space are blocking you, which to file, which to license, and which to ignore — before your next board meeting.</p>
+
+        <div class="svc-cta-row">
+          <a class="svc-cta-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Start Your Dashboard →</a>
+          <a class="svc-cta-secondary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Book a 15-min Demo</a>
+          <span class="svc-price">$980 / month</span>
+        </div>
+        <small class="svc-price-note">Cancel anytime. Onboarding included.</small>
+
+        <section class="svc-section">
+          <h2>Who this is for</h2>
+          <ul class="svc-list">
+            <li>Founders raising a Series A or B who need a defensibility story VCs actually believe</li>
+            <li>CEOs whose engineering team is shipping faster than their patent strategy</li>
+            <li>GCs and CFOs sick of paying $30K every quarter for patent landscape reports that arrive a month late</li>
+            <li>Operators who want to know what their competitors are filing, this week, not next quarter</li>
+          </ul>
+        </section>
+
+        <section class="svc-section">
+          <h2>What you get</h2>
+          <div class="svc-deliverables">
+            <div class="item"><strong>Live competitor patent feed</strong><p>Every patent your top 20 competitors file, indexed and explained in plain English the day it publishes. No more $1,200/hour associates summarising PDFs.</p></div>
+            <div class="item"><strong>AI patentability scoring</strong><p>Drop in any technical idea, get a defensibility score against the entire prior art landscape in under 8 minutes. Built on our proprietary scoring framework refined across 200+ portfolios.</p></div>
+            <div class="item"><strong>White-space map</strong><p>A real visual showing exactly where the patent gaps are in your category — the unfiled claims your competitors haven&#39;t seen yet. This is where the licensing revenue lives.</p></div>
+            <div class="item"><strong>Block + leverage alerts</strong><p>We tell you the moment a competitor&#39;s filing creates a blocking risk to your roadmap, and the moment a white-space window opens up. Both are time-sensitive. Both are revenue.</p></div>
+            <div class="item"><strong>Monthly operator review</strong><p>Once a month, a senior Beyond Elevation strategist (not a junior analyst) walks you through what changed and what to do about it. Human + AI. Always.</p></div>
+          </div>
+        </section>
+
+        <section class="svc-section">
+          <h2>The unfair advantage</h2>
+          <div class="svc-edge">
+            <strong>Why we win</strong>
+            Every other patent intelligence tool was built by lawyers for lawyers. Ours was built by operators who have closed eight-figure licensing deals. The dashboard does not tell you what is patentable — it tells you what is profitable. There is a difference and it is the entire game.
+          </div>
+        </section>
+
+        <section class="svc-section">
+          <h2>Our guarantee</h2>
+          <div class="svc-guarantee">
+            <strong>The risk reversal</strong>
+            If your dashboard does not surface at least one revenue lever or competitive risk in your first 30 days, we refund the month. No forms. No call.
+          </div>
+        </section>
+
+        <section class="svc-section svc-faq">
+          <h2>FAQ</h2>
+          <h3>How is this different from PatSnap or Questel?</h3>
+          <p>Those tools were built for patent attorneys to do prior art searches. Ours was built for CEOs to make commercial decisions. We score patents on revenue potential and defensibility, not legal novelty. Different output, different decisions, different price.</p>
+          <h3>Do I need to know anything about patents?</h3>
+          <p>No. The whole point. Every report is written for an operator, not a litigator. If you can read a P&amp;L you can read this dashboard.</p>
+          <h3>What if my company has no patents yet?</h3>
+          <p>Start with our Patentability Audit instead. The dashboard is for companies who already have at least one filed application. Once you have one, you graduate to the dashboard.</p>
+          <h3>Can I cancel?</h3>
+          <p>Yes, any time, no notice period, no clawback. We earn the renewal every month.</p>
+          <h3>Is there a setup fee?</h3>
+          <p>No. Onboarding and your first competitive map are included in month one.</p>
+        </section>
+
+        <section class="svc-final">
+          <h2>Most patent attorneys charge $30K to tell you what our AI tells you in 8 minutes.</h2>
+          <p>$980 / month · Cancel anytime. Onboarding included.</p>
+          <div class="svc-cta-row" style="justify-content:center;">
+            <a class="svc-cta-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Start Your Dashboard →</a>
+            <a class="svc-cta-secondary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Book a 15-min Demo</a>
+          </div>
+        </section>
+      </article>
+    </main>
+
+    <footer class="footer shell">
+      <div class="footer-inner">
+        <div>
+          <strong>Beyond Elevation</strong><br/>
+          IP strategy, licensing revenue, valuation engineering for tech founders.
+        </div>
+        <div>
+          <a href="/services/">All services</a> · <a href="/case-studies/">Case studies</a> · <a href="/blog/">Insights</a> · <a href="/#contact">Contact</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

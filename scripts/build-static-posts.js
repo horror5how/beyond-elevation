@@ -110,6 +110,14 @@ function pageTemplate(post) {
     <meta name="description" content="${escapeHtml(description)}" />
     <link rel="canonical" href="${canonical}" />
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="GPTBot" content="index, follow" />
+    <meta name="ChatGPT-User" content="index, follow" />
+    <meta name="ClaudeBot" content="index, follow" />
+    <meta name="Claude-Web" content="index, follow" />
+    <meta name="anthropic-ai" content="index, follow" />
+    <meta name="PerplexityBot" content="index, follow" />
+    <meta name="Google-Extended" content="index, follow" />
+    <meta name="Applebot-Extended" content="index, follow" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='black'/%3E%3Ctext x='50%25' y='53%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-size='24' font-weight='700' fill='white'%3EBE%3C/text%3E%3C/svg%3E" />
 
     <!-- Open Graph -->
@@ -219,6 +227,140 @@ ${post.body}
 `;
 }
 
+function blogIndexTemplate(posts) {
+  const sorted = posts.slice().sort((a, b) => new Date(b.date) - new Date(a.date));
+  const canonical = `${SITE}/blog/`;
+  const cards = sorted.map(post => {
+    const href = `/blog/posts/${post.slug}/`;
+    const cat = escapeHtml(post.category || 'IP Strategy');
+    const title = escapeHtml(post.title);
+    const excerpt = escapeHtml(post.excerpt || '');
+    const author = escapeHtml(post.author || 'Beyond Elevation');
+    const date = escapeHtml(post.date || '');
+    const reading = escapeHtml(post.readingTime || '');
+    return `          <article class="blog-list-card">
+            <span class="eyebrow">${cat}</span>
+            <h2><a href="${href}">${title}</a></h2>
+            <p>${excerpt}</p>
+            <div class="blog-meta-row">
+              <span class="blog-author">
+                <img src="/assets/be-linkedin-still-v2.jpg" alt="Beyond Elevation" loading="lazy" />
+                <span>${author}</span>
+              </span>
+              <span>${date}</span>
+              ${reading ? `<span>${reading}</span>` : ''}
+              <a href="${href}">Read article</a>
+            </div>
+          </article>`;
+  }).join('\n');
+
+  const itemList = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    itemListElement: sorted.map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${SITE}/blog/posts/${p.slug}/`,
+      name: p.title,
+    })),
+  };
+
+  return `<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IP Strategy Insights for Founders &amp; CEOs | Beyond Elevation</title>
+    <meta name="description" content="Practical IP strategy insights for founders: turn hidden assets into revenue, valuation growth &amp; competitive moats. Read the latest from Beyond Elevation." />
+    <link rel="canonical" href="${canonical}" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="GPTBot" content="index, follow" />
+    <meta name="ClaudeBot" content="index, follow" />
+    <meta name="PerplexityBot" content="index, follow" />
+    <meta name="Google-Extended" content="index, follow" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='black'/%3E%3Ctext x='50%25' y='53%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-size='24' font-weight='700' fill='white'%3EBE%3C/text%3E%3C/svg%3E" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="${canonical}" />
+    <meta property="og:title" content="IP Strategy Insights for Founders &amp; CEOs | Beyond Elevation" />
+    <meta property="og:description" content="Practical IP strategy insights for founders: turn hidden assets into revenue, valuation growth &amp; competitive moats." />
+    <meta property="og:image" content="${SITE}/assets/og-image.jpg" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="${canonical}" />
+    <meta name="twitter:title" content="IP Strategy Insights for Founders &amp; CEOs" />
+    <meta name="twitter:description" content="Practical IP strategy insights for founders: turn hidden assets into revenue, valuation growth &amp; competitive moats." />
+    <meta name="twitter:image" content="${SITE}/assets/og-image.jpg" />
+    <meta name="twitter:site" content="@BeyondElevation" />
+    <meta name="twitter:creator" content="@HayatAmin" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <style>
+      .blog-page { padding: 126px 0 88px; max-width: 760px; margin: 0 auto; }
+      .section-head { margin-bottom: 56px; padding: 0 24px; }
+      .section-head .eyebrow { margin-bottom: 16px; text-transform: uppercase; letter-spacing: .08em; font-size: 0.74rem; }
+      .section-head h1 { margin: 0 0 16px; max-width: 16ch; line-height: 1.05; font-size: clamp(2.2rem, 4.9vw, 3.3rem); }
+      .section-head p { max-width: 55ch; line-height: 1.65; color:#2d2d2d; margin: 0; }
+      .blog-list { display:flex; flex-direction:column; border-top: 1px solid rgba(16, 16, 16, 0.12); }
+      .blog-list-card { padding: 32px 24px; border-bottom: 1px solid rgba(16, 16, 16, 0.12); background: transparent; border-radius: 0; box-shadow: none; }
+      .blog-list-card .eyebrow { margin-bottom: 12px; }
+      .blog-list-card h2 { font-size: clamp(1.6rem, 3vw, 2.2rem); line-height: 1.15; letter-spacing: -0.028em; margin: 0 0 12px; font-weight: 500; max-width: 18ch; }
+      .blog-list-card h2 a { color: inherit; text-decoration: none; }
+      .blog-list-card h2 a:hover { text-decoration: underline; }
+      .blog-list-card p { color:#262626; line-height: 1.8; margin: 0 0 22px; font-size: 1rem; max-width: 68ch; }
+      .blog-meta-row { display:flex; gap: 16px; flex-wrap:wrap; color:#666; font-size: 0.9rem; align-items:center; }
+      .blog-meta-row a { margin-left: auto; font-weight: 600; color: #111; text-decoration: none; border-bottom: 1px solid rgba(17,17,17,0.35); padding-bottom: 1px; }
+      .blog-author { display:flex; align-items:center; gap: 10px; }
+      .blog-author img { width: 32px; height: 32px; border-radius: 999px; object-fit:cover; }
+      @media (max-width: 760px) {
+        .blog-page { padding-top: 112px; }
+        .section-head { padding: 0 18px; }
+        .section-head h1 { line-height: 1.08; }
+        .blog-list-card { padding: 28px 18px; }
+        .blog-list-card p { line-height: 1.7; }
+        .blog-list-card h2 { max-width: none; }
+      }
+    </style>
+
+    <script type="application/ld+json">${JSON.stringify(itemList)}</script>
+  </head>
+  <body>
+    <header class="topbar shell is-scrolled">
+      <a class="brand" href="/">
+        <span class="brand-dot"></span>
+        <span>Beyond Elevation</span>
+      </a>
+      <nav>
+        <a href="/#offer">Leverage</a>
+        <a href="/#system">Model</a>
+        <a href="/services/">Services</a>
+        <a href="/case-studies/">Case Studies</a>
+        <a href="/blog/">Blog</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+      <a class="button button-ghost small" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Book a Strategy Session</a>
+    </header>
+
+    <main class="blog-page">
+      <div class="section-head">
+        <span class="eyebrow">Insights</span>
+        <h1>Ideas on IP, valuation, and strategic leverage.</h1>
+        <p>Practical thinking on IP, valuation, defensibility, and strategic leverage for founders and CEOs.</p>
+      </div>
+      <section id="blog-list" class="blog-list">
+${cards}
+      </section>
+    </main>
+  </body>
+</html>
+`;
+}
+
 function main() {
   const posts = JSON.parse(fs.readFileSync(POSTS_JSON, 'utf8'));
   const approved = posts.filter(p =>
@@ -242,9 +384,16 @@ function main() {
     written++;
   });
 
+  // Regenerate the blog listing page as STATIC HTML with real <a href> links.
+  // This fixes the root cause of blog posts failing to show up in Google:
+  // previously /blog/index.html was a JS-only shell with zero crawlable links.
+  const blogIndexPath = path.join(ROOT, 'blog', 'index.html');
+  fs.writeFileSync(blogIndexPath, blogIndexTemplate(approved));
+
   console.log(`Generated ${written} static post page(s) into ${OUT_DIR}`);
+  console.log(`Rebuilt static blog listing at ${blogIndexPath}`);
 }
 
 if (require.main === module) main();
 
-module.exports = { pageTemplate };
+module.exports = { pageTemplate, blogIndexTemplate };

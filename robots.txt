@@ -4,10 +4,19 @@ Allow: /
 Sitemap: https://beyondelevation.com/sitemap.xml
 
 # AI Crawlers
+User-agent: GPTBot
+Allow: /
+
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: ClaudeBot
+Allow: /
+
 User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
 Allow: /
 
 User-agent: PerplexityBot
