@@ -1,4 +1,12 @@
 {
+  "redirects": [
+    {
+      "source": "/blog/post.html",
+      "has": [{ "type": "query", "key": "slug", "value": "(?<slug>[a-z0-9-]+)" }],
+      "destination": "/blog/posts/:slug/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
