@@ -7,6 +7,11 @@
       "has": [{ "type": "query", "key": "slug", "value": "(?<slug>[a-z0-9-]+)" }],
       "destination": "/blog/posts/:slug/",
       "permanent": true
+    },
+    {
+      "source": "/blog/how-to-value-intellectual-property-for-fundraising.html",
+      "destination": "/blog/posts/ip-valuation-for-fundraising/",
+      "permanent": true
     }
   ],
   "headers": [

@@ -49,8 +49,13 @@ Address: 178 Broadway, 3rd Floor #4542, New York, NY 10001, United States
 
 Beyond Elevation publishes expert articles on IP strategy and licensing revenue. Individual markdown files available at /blog/md/{slug}.md
 
+- [The 7-Point IP Defensibility Assessment That Exposes Most Startup Portfolios](https://beyondelevation.com/blog/posts/ip-defensibility-assessment-framework/) — /blog/md/ip-defensibility-assessment-framework.md
+- [IP Valuation for Fundraising: How VCs Actually Price Your IP (And Why Your Patent Attorney Has No Idea)](https://beyondelevation.com/blog/posts/ip-valuation-for-fundraising/) — /blog/md/ip-valuation-for-fundraising.md
+- [Patent Licensing Consultant for Founders: The Only Playbook You Need Under $20M Revenue](https://beyondelevation.com/blog/posts/patent-licensing-consultant-founders/) — /blog/md/patent-licensing-consultant-founders.md
 - [Patent Attorney vs Patent Strategist: Your Attorney Files. A Strategist Gets You Paid.](https://beyondelevation.com/blog/posts/patent-attorney-vs-patent-strategist/) — /blog/md/patent-attorney-vs-patent-strategist.md
 - [The Best Patent Licensing Firms Compared: I Reviewed Every Major Player. Here Is Who to Actually Hire.](https://beyondelevation.com/blog/posts/best-patent-licensing-firms-compared/) — /blog/md/best-patent-licensing-firms-compared.md
+- [Patent Monetization Consulting: What These Firms Actually Do (And What You Should Pay Them)](https://beyondelevation.com/blog/posts/patent-monetization-consulting-guide/) — /blog/md/patent-monetization-consulting-guide.md
+- [When You Should Hire a Fractional IP Strategist Instead of a Full-Time Lawyer](https://beyondelevation.com/blog/posts/fractional-ip-strategist-when-to-hire/) — /blog/md/fractional-ip-strategist-when-to-hire.md
 - [Your Lead Engineer Legally Owns Your Core Patent. You Forgot the IP Assignment Clause.](https://beyondelevation.com/blog/posts/employee-ip-assignment-gap/) — /blog/md/employee-ip-assignment-gap.md
 - [Your Product Is Infringing Patents Right Now. You Just Have Not Run the Search.](https://beyondelevation.com/blog/posts/freedom-to-operate-patent-clearance/) — /blog/md/freedom-to-operate-patent-clearance.md
 - [Your Provisional Patent Is a 12-Month Weapon. Most Founders File It and Forget It.](https://beyondelevation.com/blog/posts/provisional-patent-12-month-strategy/) — /blog/md/provisional-patent-12-month-strategy.md
