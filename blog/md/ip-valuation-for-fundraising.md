@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # IP Valuation for Fundraising: How VCs Actually Price Your IP (And Why Your Patent Attorney Has No Idea)
 
-Companies with patents are 10.2x more likely to secure early-stage funding. But that stat hides a brutal truth: most founders who have patents still walk into VC meetings with zero IP valuation data. They filed. They never priced. And the difference between filing and pricing is the difference between a $12M pre-money and a $20M pre-money.
+Companies with patents are 10.2x more likely to secure early-stage funding. But that stat hides a brutal truth: most founders who have patents still have no IP valuation for fundraising when they walk into VC meetings. They filed. They never priced. And the difference between filing and pricing is the difference between a $12M pre-money and a $20M pre-money.
 
 Hayat Amin argues this is the single most expensive gap in founder fundraising prep. "Founders spend six months polishing their pitch deck and thirty minutes thinking about how their IP affects their valuation," says Amin, who restructured Position Imaging's 66-patent portfolio into eight figures of recurring royalty revenue. "That is not a documentation problem. That is a pricing problem."
 
