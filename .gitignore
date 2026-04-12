@@ -1,2 +1,3 @@
 .vercel
 .indexing-cache.json
+.gcp-indexing-key.json

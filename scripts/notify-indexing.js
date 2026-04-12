@@ -13,11 +13,17 @@
  *
  * IndexNow is free, instant, and requires no GCP service account.
  * Supported by: Bing, Yandex, Seznam, Naver. Google is testing support.
+ *
+ * Also calls the Google Indexing API (via service account) for direct
+ * Google crawl requests when a key file is available.
  */
 
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const { google } = (() => { try { return require('googleapis'); } catch { return { google: null }; } })();
+
+const GCP_KEY_PATH = path.join(__dirname, '..', '.gcp-indexing-key.json');
 
 const ROOT = path.resolve(__dirname, '..');
 const SITEMAP = path.join(ROOT, 'sitemap.xml');
@@ -151,6 +157,35 @@ async function main() {
     } catch (err) {
       console.log(`  Sitemap ping failed: ${err.message}`);
     }
+  }
+
+  // Google Indexing API (service account) — direct crawl request
+  if (google && fs.existsSync(GCP_KEY_PATH)) {
+    console.log('\nSubmitting to Google Indexing API...');
+    try {
+      const auth = new google.auth.GoogleAuth({
+        keyFile: GCP_KEY_PATH,
+        scopes: ['https://www.googleapis.com/auth/indexing'],
+      });
+      const indexing = google.indexing({ version: 'v3', auth });
+      let ok = 0, fail = 0;
+      for (const url of newUrls) {
+        try {
+          await indexing.urlNotifications.publish({
+            requestBody: { url, type: 'URL_UPDATED' },
+          });
+          ok++;
+        } catch (err) {
+          fail++;
+          if (fail === 1) console.log(`  Google Indexing API error: ${err.message}`);
+        }
+      }
+      console.log(`  Google Indexing API: ${ok} succeeded, ${fail} failed`);
+    } catch (err) {
+      console.log(`  Google Indexing API auth error: ${err.message}`);
+    }
+  } else {
+    console.log('\nGoogle Indexing API: skipped (no key file or googleapis not installed)');
   }
 
   saveCache(currentUrls);
