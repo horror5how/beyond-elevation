@@ -1,5 +1,5 @@
 {
-  "buildCommand": "node scripts/build-static-posts.js && node scripts/build-service-pages.js && node scripts/build-sitemap.js",
+  "buildCommand": "node scripts/build-static-posts.js && node scripts/build-service-pages.js && node scripts/build-sitemap.js && node scripts/notify-indexing.js",
   "outputDirectory": ".",
   "redirects": [
     {
