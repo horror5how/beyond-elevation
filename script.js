@@ -88,7 +88,7 @@ const onScroll = () => {
   if (heroStage && heroWrap) {
     const rect = heroWrap.getBoundingClientRect();
     const progress = Math.max(0, Math.min(1, (window.innerHeight - rect.top) / (window.innerHeight * 1.2)));
-    const scale = 1 + progress * 0.12;
+    const scale = 1 + progress * 0.06;
     document.documentElement.style.setProperty('--terminal-scale', scale.toFixed(3));
   }
 
