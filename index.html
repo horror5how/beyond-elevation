@@ -255,9 +255,7 @@
         <span>Beyond Elevation</span>
       </a>
       <nav>
-        <a href="#thesis">Problem</a>
-        <a href="#offer">Leverage</a>
-        <a href="#system">Model</a>
+        <a href="#services">Services</a>
         <a class="nav-case-studies" href="./case-studies/index.html">Case Studies</a>
         <a class="nav-blog" href="./blog/index.html">Blog</a>
       </nav>
@@ -489,57 +487,201 @@
           </div>
 
           <div class="install-visual" aria-hidden="true">
-            <div class="install-panel install-panel-ai">
-              <div class="ai-panel-glow"></div>
-              <div class="ai-chip ai-chip-a">AI-native defensibility</div>
-              <div class="ai-chip ai-chip-b">Investor-ready IP narrative</div>
-              <div class="ai-chip ai-chip-c">New revenue pathways</div>
+            <div class="install-panel install-panel-ai" style="padding:0;overflow:hidden;background:#e8e2da">
 
-              <div class="ai-showcase-card">
-                <div class="ai-showcase-topline">
-                  <span>Beyond Elevation Intelligence</span>
-                  <span class="ai-status-dot"></span>
+              <!-- Embedded Patent Dashboard -->
+              <div class="ip-dash" id="ipDash">
+                <style>
+                  .ip-dash{position:relative;width:100%;height:100%;min-height:560px;padding:24px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#3d3428}
+                  .ip-dash *{box-sizing:border-box;margin:0;padding:0}
+                  .ip-dash .ip-header{margin-bottom:18px}
+                  .ip-dash .ip-header h3{font-size:14px;font-weight:600;color:#3d3428;letter-spacing:-.2px}
+                  .ip-dash .ip-header p{font-size:10.5px;color:#9c8e7c;margin-top:3px}
+                  .ip-g{background:rgba(255,255,255,.48);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.55);border-radius:14px}
+                  .ip-stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:8px}
+                  .ip-stat{padding:14px 16px}
+                  .ip-stat .ip-lbl{font-size:8.5px;font-weight:600;color:#9c8e7c;text-transform:uppercase;letter-spacing:.6px;margin-bottom:8px}
+                  .ip-stat .ip-val{font-size:24px;font-weight:700;color:#2c2318;line-height:1;letter-spacing:-.5px}
+                  .ip-stat .ip-badge{display:inline-block;font-size:9px;font-weight:600;margin-left:6px;padding:2px 7px;border-radius:14px;color:#6b8f71;background:rgba(107,143,113,.1);vertical-align:middle}
+                  .ip-stat .ip-sub{font-size:9px;color:#b0a393;margin-top:6px}
+                  .ip-panels{display:grid;grid-template-columns:1.3fr 1fr;gap:8px}
+                  .ip-panel{padding:16px}
+                  .ip-panel h4{font-size:10.5px;font-weight:600;margin-bottom:12px;color:#3d3428;display:flex;align-items:center;gap:6px}
+                  .ip-panel h4 .ip-dot{width:5px;height:5px;border-radius:50%;background:#6b8f71}
+                  .ip-panel canvas{width:100%!important;height:90px!important}
+                  .ip-row{display:flex;align-items:center;padding:7px 0;border-bottom:1px solid rgba(180,165,145,.08)}
+                  .ip-row:last-child{border-bottom:none}
+                  .ip-row .ip-name{font-size:10px;font-weight:500;color:#3d3428;flex:1}
+                  .ip-row .ip-cnt{font-size:10px;font-weight:600;color:#6b8f71;width:32px;text-align:right}
+                  .ip-row .ip-pct{font-size:9px;font-weight:600;width:36px;text-align:right}
+                  .ip-pct.up{color:#6b8f71}.ip-pct.dn{color:#b07c6a}
+
+                  /* Dim overlay inside panel */
+                  .ip-dim{position:absolute;inset:0;background:rgba(40,32,22,.32);z-index:4;opacity:0;pointer-events:none;transition:opacity .7s ease;border-radius:36px}
+                  .ip-dim.on{opacity:1}
+                  .ip-dash-content{transition:filter .7s ease}
+                  .ip-dash-content.blur{filter:blur(2px) brightness(.9)}
+
+                  /* BE AI Chat Card */
+                  .be-ai{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%) scale(.88);z-index:5;width:min(340px,88%);opacity:0;pointer-events:none;transition:opacity .5s ease,transform .5s cubic-bezier(.16,1,.3,1)}
+                  .be-ai.show{opacity:1;pointer-events:auto;transform:translate(-50%,-50%) scale(1)}
+                  .be-card{background:rgba(255,255,255,.82);backdrop-filter:blur(28px);-webkit-backdrop-filter:blur(28px);border:1.2px solid rgba(255,255,255,.85);border-radius:18px;padding:20px 22px;box-shadow:0 8px 36px rgba(60,45,20,.12),0 2px 6px rgba(60,45,20,.06)}
+                  .be-top{display:flex;align-items:center;gap:7px;margin-bottom:12px}
+                  .be-orb{width:26px;height:26px;border-radius:50%;background:radial-gradient(ellipse at 30% 20%,#a8d8ea 0%,#4a90c4 25%,#1b3a6b 50%,#0d1b3e 72%,#060d1f 100%);position:relative;overflow:hidden;flex-shrink:0;box-shadow:0 2px 8px rgba(20,50,100,.3)}
+                  .be-orb::after{content:'';position:absolute;inset:0;border-radius:50%;background:radial-gradient(1px 1px at 20% 30%,rgba(255,255,255,.9) 0%,transparent 100%),radial-gradient(1px 1px at 70% 20%,rgba(255,255,255,.7) 0%,transparent 100%),radial-gradient(1px 1px at 45% 65%,rgba(255,255,255,.8) 0%,transparent 100%),radial-gradient(.8px .8px at 80% 70%,rgba(255,255,255,.6) 0%,transparent 100%),radial-gradient(.8px .8px at 15% 75%,rgba(255,255,255,.5) 0%,transparent 100%),radial-gradient(1.2px 1.2px at 55% 15%,rgba(255,255,255,1) 0%,transparent 100%),radial-gradient(.6px .6px at 35% 50%,rgba(255,255,255,.6) 0%,transparent 100%),radial-gradient(1px 1px at 60% 85%,rgba(255,255,255,.7) 0%,transparent 100%),radial-gradient(ellipse at 50% 60%,rgba(180,160,255,.12) 0%,transparent 60%);animation:betwinkle 3s ease-in-out infinite alternate}
+                  @keyframes betwinkle{from{opacity:.7}to{opacity:1}}
+                  .be-lbl{font-size:9.5px;font-weight:700;color:#a68966;text-transform:uppercase;letter-spacing:.5px}
+                  .be-ts{font-size:8.5px;color:#c4b8a8;margin-left:auto}
+                  .be-msg{font-size:11.5px;line-height:1.6;color:#5a4d3e;margin-bottom:14px}
+                  .be-msg strong{color:#2c2318;font-weight:600}
+                  .be-chart-wrap{background:rgba(244,238,230,.6);border:1px solid rgba(220,210,195,.4);border-radius:12px;padding:14px 16px 10px}
+                  .be-chart-title{font-size:9px;font-weight:600;color:#8c7c6a;margin-bottom:4px}
+                  .be-chart-val{font-size:20px;font-weight:700;color:#2c2318;letter-spacing:-.4px}
+                  .be-chart-val span{font-size:10px;font-weight:600;color:#6b8f71;margin-left:5px;vertical-align:middle}
+                  .be-chart-wrap canvas{width:100%!important;height:58px!important;margin-top:6px}
+                  .be-legend{display:flex;gap:12px;margin-top:6px}
+                  .be-legend span{font-size:8.5px;color:#9c8e7c;display:flex;align-items:center;gap:4px}
+                  .be-legend i{width:6px;height:6px;border-radius:2px;display:inline-block}
+                  .be-legend i.cur{background:rgba(160,150,135,.35)}
+                  .be-legend i.proj{background:#6b8f71}
+                  .be-field{background:rgba(255,255,255,.7);backdrop-filter:blur(28px);-webkit-backdrop-filter:blur(28px);border:1.2px solid rgba(255,255,255,.8);border-radius:24px;padding:6px 7px 6px 16px;display:flex;align-items:center;gap:6px;margin-top:10px;box-shadow:0 3px 14px rgba(60,45,20,.06)}
+                  .be-field input{border:none;outline:none;flex:1;font-size:11px;color:#3d3428;background:transparent}
+                  .be-field input::placeholder{color:#c4b8a8}
+                  .be-field button{width:26px;height:26px;border-radius:50%;border:none;background:linear-gradient(135deg,#c4a882,#a68966);color:#fff;font-size:12px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+                </style>
+
+                <div class="ip-dash-content" id="ipContent">
+                  <div class="ip-header">
+                    <h3>IP Patent Portfolio</h3>
+                    <p>Assets, filings, and citation activity</p>
+                  </div>
+
+                  <div class="ip-stats">
+                    <div class="ip-stat ip-g">
+                      <div class="ip-lbl">Active Patents</div>
+                      <div class="ip-val">47<span class="ip-badge">+3</span></div>
+                      <div class="ip-sub">12 utility &middot; 29 design &middot; 6 prov.</div>
+                    </div>
+                    <div class="ip-stat ip-g">
+                      <div class="ip-lbl">Potential Filings</div>
+                      <div class="ip-val">14<span class="ip-badge">+5</span></div>
+                      <div class="ip-sub">8 high &middot; 6 exploratory</div>
+                    </div>
+                    <div class="ip-stat ip-g">
+                      <div class="ip-lbl">Total Citations</div>
+                      <div class="ip-val">1,283<span class="ip-badge">+22%</span></div>
+                      <div class="ip-sub">31 citing entities</div>
+                    </div>
+                  </div>
+
+                  <div class="ip-panels">
+                    <div class="ip-panel ip-g">
+                      <h4><span class="ip-dot"></span>Citation Growth</h4>
+                      <canvas id="ipCiteChart"></canvas>
+                    </div>
+                    <div class="ip-panel ip-g">
+                      <h4><span class="ip-dot"></span>Top Cited</h4>
+                      <div class="ip-row"><span class="ip-name">Neural interface auth</span><span class="ip-cnt">342</span><span class="ip-pct up">+31%</span></div>
+                      <div class="ip-row"><span class="ip-name">Adaptive LLM routing</span><span class="ip-cnt">287</span><span class="ip-pct up">+18%</span></div>
+                      <div class="ip-row"><span class="ip-name">Edge compute sync</span><span class="ip-cnt">214</span><span class="ip-pct dn">-4%</span></div>
+                      <div class="ip-row"><span class="ip-name">Tokenised IP licensing</span><span class="ip-cnt">198</span><span class="ip-pct up">+45%</span></div>
+                      <div class="ip-row"><span class="ip-name">Privacy-preserving ML</span><span class="ip-cnt">152</span><span class="ip-pct up">+12%</span></div>
+                    </div>
+                  </div>
                 </div>
 
-                <div class="ai-prompt-box">
-                  <span class="ai-prompt-label">Patent strategies initiating for:</span>
-                  <div class="ai-typing-line" id="robot-code"></div>
-                </div>
+                <!-- Dim overlay -->
+                <div class="ip-dim" id="ipDim"></div>
 
-                <div class="ai-output-grid">
-                  <article>
-                    <span>Output</span>
-                    <strong>Protectable assets</strong>
-                  </article>
-                  <article>
-                    <span>Impact</span>
-                    <strong>Valuation leverage</strong>
-                  </article>
-                  <article>
-                    <span>Pathway</span>
-                    <strong>Licensing revenue</strong>
-                  </article>
+                <!-- BE AI Chat -->
+                <div class="be-ai" id="beAi">
+                  <div class="be-card">
+                    <div class="be-top">
+                      <div class="be-orb"></div>
+                      <span class="be-lbl">BE AI</span>
+                      <span class="be-ts">Just now</span>
+                    </div>
+                    <div class="be-msg">
+                      Hey Chris, quick suggestion: <strong>Microsoft is building something near our Patent #5</strong>. I suggest we file <strong>Patent XYZ</strong> asap &mdash; that will increase our revenue by <strong>$2.4M</strong> in licensing revenue.
+                    </div>
+                    <div class="be-chart-wrap">
+                      <div class="be-chart-title">Projected Licensing Revenue</div>
+                      <div class="be-chart-val">$4.8M<span>+92%</span></div>
+                      <canvas id="beRevChart"></canvas>
+                      <div class="be-legend">
+                        <span><i class="cur"></i>Current</span>
+                        <span><i class="proj"></i>With new patent</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="be-field">
+                    <input type="text" placeholder="Ask your IP advisor...">
+                    <button>&uarr;</button>
+                  </div>
                 </div>
               </div>
 
-              <div class="future-icons">
-                <div class="future-icon drone drone-a">
-                  <span></span><span></span><span></span><span></span>
-                </div>
-                <div class="future-icon drone drone-b">
-                  <span></span><span></span><span></span><span></span>
-                </div>
-                <div class="future-icon flying-car">
-                  <div class="car-body"></div>
-                  <div class="car-wing wing-left"></div>
-                  <div class="car-wing wing-right"></div>
-                  <div class="car-glow"></div>
-                </div>
-                <div class="future-icon robot-orb">
-                  <div class="orb-core"></div>
-                  <div class="orb-ring"></div>
-                </div>
-              </div>
+              <script>
+              (function(){
+                // Citation chart
+                var c=document.getElementById('ipCiteChart');if(!c)return;
+                var x=c.getContext('2d'),dpr=window.devicePixelRatio||1;
+                function drawCite(){
+                  var w=c.clientWidth,h=c.clientHeight;c.width=w*dpr;c.height=h*dpr;x.scale(dpr,dpr);
+                  var d=[120,180,210,310,420,540,620,780,890,1050,1180,1283],max=Math.max.apply(null,d)*1.1,step=w/(d.length-1);
+                  x.strokeStyle='rgba(180,165,145,.08)';x.lineWidth=1;
+                  for(var i=0;i<4;i++){var y=(h/4)*i+4;x.beginPath();x.moveTo(0,y);x.lineTo(w,y);x.stroke();}
+                  x.beginPath();x.moveTo(0,h);
+                  for(var i=0;i<d.length;i++)x.lineTo(i*step,h-(d[i]/max)*(h-10));
+                  x.lineTo(w,h);x.closePath();
+                  var g=x.createLinearGradient(0,0,0,h);g.addColorStop(0,'rgba(107,143,113,.14)');g.addColorStop(1,'rgba(107,143,113,.01)');
+                  x.fillStyle=g;x.fill();
+                  x.beginPath();for(var i=0;i<d.length;i++){var px=i*step,py=h-(d[i]/max)*(h-10);i===0?x.moveTo(px,py):x.lineTo(px,py);}
+                  x.strokeStyle='#6b8f71';x.lineWidth=1.8;x.lineJoin='round';x.stroke();
+                  var lx=(d.length-1)*step,ly=h-(d[d.length-1]/max)*(h-10);
+                  x.beginPath();x.arc(lx,ly,2.5,0,Math.PI*2);x.fillStyle='#6b8f71';x.fill();
+                }
+                drawCite();
+
+                // Revenue chart
+                function drawRev(){
+                  var c2=document.getElementById('beRevChart');if(!c2)return;
+                  var x2=c2.getContext('2d'),w=c2.clientWidth,h=c2.clientHeight;
+                  c2.width=w*dpr;c2.height=h*dpr;x2.scale(dpr,dpr);
+                  var cur=[1.2,1.4,1.6,1.8,2,2.2,2.5],proj=[1.2,1.5,2,2.6,3.2,4,4.8],max=5.5,bw=10;
+                  var gap=(w-bw*cur.length)/(cur.length+1);
+                  for(var i=0;i<cur.length;i++){var bx=gap+i*(bw+gap),bh=(cur[i]/max)*(h-6);
+                    x2.fillStyle='rgba(160,150,135,.22)';x2.beginPath();x2.roundRect(bx,h-bh,bw,bh,2);x2.fill();}
+                  var pts=[];for(var i=0;i<proj.length;i++)pts.push({x:gap+i*(bw+gap)+bw/2,y:h-(proj[i]/max)*(h-6)});
+                  x2.beginPath();x2.moveTo(pts[0].x,h);for(var i=0;i<pts.length;i++)x2.lineTo(pts[i].x,pts[i].y);
+                  x2.lineTo(pts[pts.length-1].x,h);x2.closePath();
+                  var g2=x2.createLinearGradient(0,0,0,h);g2.addColorStop(0,'rgba(107,143,113,.18)');g2.addColorStop(1,'rgba(107,143,113,.02)');
+                  x2.fillStyle=g2;x2.fill();
+                  x2.beginPath();for(var i=0;i<pts.length;i++)i===0?x2.moveTo(pts[i].x,pts[i].y):x2.lineTo(pts[i].x,pts[i].y);
+                  x2.strokeStyle='#6b8f71';x2.lineWidth=1.8;x2.lineJoin='round';x2.stroke();
+                  var last=pts[pts.length-1];x2.beginPath();x2.arc(last.x,last.y,2.5,0,Math.PI*2);x2.fillStyle='#6b8f71';x2.fill();
+                }
+
+                // Animation: dashboard visible → 3s → dim + blur → chat pops
+                var obs=new IntersectionObserver(function(entries){
+                  entries.forEach(function(e){
+                    if(e.isIntersecting){
+                      obs.disconnect();
+                      setTimeout(function(){
+                        document.getElementById('ipDim').classList.add('on');
+                        document.getElementById('ipContent').classList.add('blur');
+                        setTimeout(function(){
+                          document.getElementById('beAi').classList.add('show');
+                          setTimeout(drawRev,120);
+                        },450);
+                      },2800);
+                    }
+                  });
+                },{threshold:0.3});
+                obs.observe(document.getElementById('ipDash'));
+              })();
+              </script>
+
             </div>
           </div>
         </div>
