@@ -96,7 +96,7 @@ h1 span{display:block;color:#000000}
 .hero-terminal-text{max-width:34ch !important;margin:0 auto !important;text-align:center !important;align-self:center !important;font-family:"Inter", -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Arial, sans-serif !important;font-size:1.02rem !important;line-height:1.65 !important;font-weight:400 !important;letter-spacing:-0.01em !important;color:#1a1a1a !important}
 .hero-actions{display:flex;flex-wrap:wrap;gap:16px;margin-top:34px;width:100%;justify-content:center}
 
-.terminal-stage{position:relative;width:min(960px,100%);margin-top:42px;margin-bottom:-40px;padding-bottom:40px}
+.terminal-stage{position:relative;width:min(960px,100%);margin-top:42px}
 .terminal-shell{position:relative;border-radius:30px;background:linear-gradient(180deg,#05080d 0%, #0b0f14 48%, #111827 100%);border:1px solid rgba(29,78,216,.28);box-shadow:0 34px 90px rgba(3,7,18,.42), 0 0 0 1px rgba(96,165,250,.06) inset;overflow:hidden;transform:perspective(1400px) rotateX(8deg) scale(var(--terminal-scale,1));transform-origin:center top;transition:transform .12s linear}
 .terminal-topline{height:34px;display:flex;align-items:center;justify-content:center;color:rgba(203,213,225,.72);font-size:.76rem;letter-spacing:.04em;background:linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.02))}
 .terminal-dots{position:absolute;top:13px;left:16px;display:flex;gap:7px}
