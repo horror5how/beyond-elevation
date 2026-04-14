@@ -662,23 +662,41 @@
                   var last=pts[pts.length-1];x2.beginPath();x2.arc(last.x,last.y,2.5,0,Math.PI*2);x2.fillStyle='#6b8f71';x2.fill();
                 }
 
-                // Animation: dashboard visible → 3s → dim + blur → chat pops
-                var obs=new IntersectionObserver(function(entries){
-                  entries.forEach(function(e){
-                    if(e.isIntersecting){
-                      obs.disconnect();
-                      setTimeout(function(){
-                        document.getElementById('ipDim').classList.add('on');
-                        document.getElementById('ipContent').classList.add('blur');
-                        setTimeout(function(){
-                          document.getElementById('beAi').classList.add('show');
-                          setTimeout(drawRev,120);
-                        },450);
-                      },2800);
-                    }
-                  });
-                },{threshold:0.3});
-                obs.observe(document.getElementById('ipDash'));
+                // Scroll-driven: chat appears on scroll down, hides on scroll up
+                var revDrawn=false;
+                var chatVisible=false;
+                var dash=document.getElementById('ipDash');
+
+                function showChat(){
+                  if(chatVisible)return;
+                  chatVisible=true;
+                  document.getElementById('ipDim').classList.add('on');
+                  document.getElementById('ipContent').classList.add('blur');
+                  setTimeout(function(){
+                    document.getElementById('beAi').classList.add('show');
+                    if(!revDrawn){revDrawn=true;setTimeout(drawRev,120);}
+                  },300);
+                }
+                function hideChat(){
+                  if(!chatVisible)return;
+                  chatVisible=false;
+                  document.getElementById('beAi').classList.remove('show');
+                  setTimeout(function(){
+                    document.getElementById('ipDim').classList.remove('on');
+                    document.getElementById('ipContent').classList.remove('blur');
+                  },300);
+                }
+
+                var lastY=0;
+                window.addEventListener('scroll',function(){
+                  var rect=dash.getBoundingClientRect();
+                  var inView=rect.top<window.innerHeight*0.7&&rect.bottom>window.innerHeight*0.2;
+                  var y=window.scrollY;
+                  var down=y>lastY;
+                  lastY=y;
+                  if(inView&&down)showChat();
+                  else if(!down&&chatVisible)hideChat();
+                },{passive:true});
               })();
               </script>
 
