@@ -288,7 +288,7 @@ ${footer()}
 
 function indexPageHTML(services) {
   const canonical = `${SITE}/services/`;
-  const title = 'Services — Beyond Elevation | AI + Human IP Strategy for Tech Founders';
+  const title = 'Services & Pricing — Beyond Elevation | Choose What Fits';
   const description = 'Three services. One playbook. AI patent intelligence, patentability audits for early-stage companies, and embedded fractional IP CxOs for growth-stage leaders. Operators, not lawyers.';
 
   const itemListSchema = {
@@ -302,31 +302,88 @@ function indexPageHTML(services) {
     })),
   };
 
+  // Card visual configs
+  const cardConfigs = [
+    { bg: 'linear-gradient(145deg, #1a1a1a 0%, #2d2d2d 100%)', orb: '#4a9eff', tag: 'AI', metrics: [{l:'Filings Tracked',v:'24/7'},{l:'Time Saved',v:'$30K+'}], tags: ['Licensing Revenue','Real-time Alerts','Audit & IP Strategy'] },
+    { bg: 'linear-gradient(145deg, #1a3a2a 0%, #2d4a3a 100%)', orb: '#4aff8a', tag: 'Human + AI', metrics: [{l:'IP Assets',v:'12+'},{l:'Valuation Lift',v:'$4.2M'}], tags: ['Audit & IP Strategy','Exit Multiple','Fundraising Ready'] },
+    { bg: 'linear-gradient(145deg, #2a1a0a 0%, #3d2a18 100%)', orb: '#ffa64a', tag: 'Human + AI', metrics: [{l:'Licensing Rev.',v:'$1.8M+'},{l:'Patents Filed',v:'66'}], tags: ['Licensing Revenue','Exit Multiple','Audit & IP Strategy'] },
+  ];
+
+  const priceDisplay = (s) => {
+    if (s.price.includes('touch')) return '<div class="sc-price">Custom</div><div class="sc-price-sub">Get in touch for pricing</div>';
+    const match = s.price.match(/\$([\d,]+)/);
+    const amount = match ? match[0] : s.price;
+    const period = s.price.includes('month') ? '/mo' : '';
+    const note = s.priceNote || '';
+    return `<div class="sc-price">${amount}<span class="sc-price-period">${period}</span></div><div class="sc-price-sub">${escapeHtml(note)}</div>`;
+  };
+
   return `<!DOCTYPE html>
 <html lang="en">
   <head>
 ${commonHead(title, description, canonical, [itemListSchema])}
+    <style>
+      /* === Horizontal 3-column service cards === */
+      .sc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin:48px 0 0}
+      .sc-card{border-radius:22px;overflow:hidden;display:flex;flex-direction:column;background:#fff;border:1px solid #e8e4df;transition:transform .4s cubic-bezier(.16,1,.3,1),box-shadow .4s ease}
+      .sc-card:hover{transform:translateY(-6px);box-shadow:0 24px 60px rgba(0,0,0,.12)}
+
+      .sc-visual{position:relative;padding:28px 24px;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:200px;overflow:hidden}
+      .sc-visual-tag{display:inline-block;font-size:.65rem;font-weight:600;padding:4px 12px;border-radius:100px;background:rgba(255,255,255,.12);color:rgba(255,255,255,.7);letter-spacing:.04em;text-transform:uppercase;margin-bottom:12px}
+      .sc-visual h3{color:#fff;font-size:1.15rem;line-height:1.25;letter-spacing:-.02em;margin:0 0 16px;text-align:center;max-width:240px}
+      .sc-metrics{display:flex;gap:10px}
+      .sc-metric{background:rgba(255,255,255,.08);backdrop-filter:blur(8px);border-radius:10px;padding:10px 14px;border:1px solid rgba(255,255,255,.1);text-align:left;min-width:90px}
+      .sc-metric-label{font-size:.55rem;color:rgba(255,255,255,.45);text-transform:uppercase;letter-spacing:.05em}
+      .sc-metric-val{font-size:1.1rem;font-weight:700;color:#fff;margin-top:2px}
+      .sc-orb{position:absolute;border-radius:50%;filter:blur(50px);opacity:.25;width:120px;height:120px;bottom:-20px;right:-20px}
+
+      .sc-body{padding:28px 24px 32px;display:flex;flex-direction:column;flex:1}
+      .sc-price-block{margin:0 0 14px}
+      .sc-price{font-size:2rem;font-weight:800;color:#1a1a1a;letter-spacing:-.02em;line-height:1.1}
+      .sc-price-period{font-size:.5em;font-weight:500;color:#888}
+      .sc-price-sub{font-size:.82rem;color:#888;margin-top:2px}
+      .sc-desc{font-size:.95rem;color:#555;line-height:1.65;margin:0 0 16px;flex:1}
+      .sc-tags{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 20px}
+      .sc-tag{font-size:.68rem;font-weight:600;padding:5px 12px;border-radius:100px;background:#f4f0eb;color:#6b5b4a;letter-spacing:.02em}
+      .sc-link{display:inline-flex;align-items:center;gap:6px;font-size:.9rem;font-weight:700;color:#1a1a1a;text-decoration:none;transition:gap .2s ease}
+      .sc-link:hover{gap:10px}
+      .sc-link svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2}
+
+      @media(max-width:900px){.sc-grid{grid-template-columns:1fr;max-width:420px;margin:48px auto 0}}
+    </style>
   </head>
   <body>
 ${header()}
 
     <main class="shell svc-page">
-      <article class="svc-shell">
-        <p class="svc-eyebrow">Services</p>
-        <h1>AI + Human IP strategy. Built by operators. Priced for outcomes.</h1>
-        <p class="svc-tagline">We are not patent attorneys. We are operators and business strategists who turn patents, data, and know-how into licensing revenue, higher valuation, and exit multiples.</p>
-        <p class="svc-sub">Three services. One playbook. Pick the one that matches where your company is right now — and the one that gets you to where you need to be in 12 months.</p>
+      <article class="svc-shell" style="max-width:1200px">
+        <p class="svc-eyebrow">Services &amp; Pricing</p>
+        <h1>Choose what fits.</h1>
+        <p class="svc-tagline">We are not patent attorneys. We are operators who turn patents, data, and know-how into licensing revenue, higher valuation, and exit multiples.</p>
 
-        <section class="svc-section">
-          <div class="svc-deliverables">
-${services.map(s => `            <div class="item">
-              <strong>${escapeHtml(s.title)}</strong>
-              <p style="margin:8px 0 14px; font-size:0.95rem; color:#666;">${escapeHtml(s.price)}</p>
-              <p>${escapeHtml(s.tagline)}</p>
-              <p style="margin-top:16px;"><a href="/services/${s.slug}/" style="color:#1a1a1a; font-weight:700; text-decoration:underline;">Read the full breakdown →</a></p>
-            </div>`).join('\n')}
-          </div>
-        </section>
+        <div class="sc-grid">
+${services.map((s, i) => {
+  const c = cardConfigs[i] || cardConfigs[0];
+  return `          <div class="sc-card">
+            <div class="sc-visual" style="background:${c.bg}">
+              <div class="sc-orb" style="background:${c.orb}"></div>
+              <span class="sc-visual-tag">${c.tag}</span>
+              <h3>${escapeHtml(s.title)}</h3>
+              <div class="sc-metrics">
+${c.metrics.map(m => `                <div class="sc-metric"><div class="sc-metric-label">${m.l}</div><div class="sc-metric-val">${m.v}</div></div>`).join('\n')}
+              </div>
+            </div>
+            <div class="sc-body">
+              <div class="sc-price-block">${priceDisplay(s)}</div>
+              <p class="sc-desc">${escapeHtml(s.tagline)}</p>
+              <div class="sc-tags">
+${c.tags.map(t => `                <span class="sc-tag">${t}</span>`).join('\n')}
+              </div>
+              <a class="sc-link" href="/services/${s.slug}/">Read the full breakdown <svg viewBox="0 0 16 16"><path d="M3 8h10M9 4l4 4-4 4"/></svg></a>
+            </div>
+          </div>`;
+}).join('\n')}
+        </div>
 
         <section class="svc-final">
           <h2>Not sure which one fits?</h2>
@@ -338,7 +395,36 @@ ${services.map(s => `            <div class="item">
       </article>
     </main>
 
-${footer()}
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        <div class="site-footer-brand">
+          <strong>Beyond Elevation</strong>
+          <p>Turn your company's data, patents and know-how into licensing revenue, higher valuation and market domination.</p>
+        </div>
+        <nav class="site-footer-nav" aria-label="Footer navigation">
+          <div class="site-footer-col">
+            <span class="site-footer-heading">Navigate</span>
+            <a href="/#thesis">Why IP Monetization</a>
+            <a href="/services/">Services</a>
+            <a href="/#system">How It Works</a>
+            <a href="/#faq">FAQ</a>
+          </div>
+          <div class="site-footer-col">
+            <span class="site-footer-heading">Proof</span>
+            <a href="/case-studies/">Case Studies</a>
+            <a href="/blog/">Insights</a>
+          </div>
+          <div class="site-footer-col">
+            <span class="site-footer-heading">Resources</span>
+            <a href="/blog/">Blog</a>
+            <a href="/#end-cap">Contact</a>
+          </div>
+        </nav>
+      </div>
+      <div class="site-footer-bottom">
+        <span>&copy; 2026 Beyond Elevation. All rights reserved.</span>
+      </div>
+    </footer>
   </body>
 </html>
 `;
