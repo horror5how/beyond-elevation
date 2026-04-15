@@ -97,9 +97,9 @@ function header() {
       </a>
       <nav>
         <a href="/#thesis">Problem</a>
-        <a href="/services/">Services</a>
+        <a href="/services/">Pricing</a>
         <a href="/case-studies/">Case Studies</a>
-        <a href="/blog/">Blog</a>
+        <a href="/blog/">Insights</a>
       </nav>
       <div class="topbar-right">
         <a class="topbar-phone" href="tel:+15713807699">(571) 380-7699</a>
@@ -405,7 +405,7 @@ ${c.tags.map(t => `                <span class="sc-tag">${t}</span>`).join('\n')
           <div class="site-footer-col">
             <span class="site-footer-heading">Navigate</span>
             <a href="/#thesis">Why IP Monetization</a>
-            <a href="/services/">Services</a>
+            <a href="/services/">Pricing</a>
             <a href="/#system">How It Works</a>
             <a href="/#faq">FAQ</a>
           </div>
@@ -416,7 +416,7 @@ ${c.tags.map(t => `                <span class="sc-tag">${t}</span>`).join('\n')
           </div>
           <div class="site-footer-col">
             <span class="site-footer-heading">Resources</span>
-            <a href="/blog/">Blog</a>
+            <a href="/blog/">Insights</a>
             <a href="/#end-cap">Contact</a>
           </div>
         </nav>
