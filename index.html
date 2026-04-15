@@ -286,7 +286,7 @@
             </p>
             <div class="hero-actions hero-actions-center">
               <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic</a>
-              <a class="button button-ghost" href="#system">See the Model</a>
+              <a class="button button-ghost" href="#system">See Our Services</a>
             </div>
 
           </div>
@@ -479,223 +479,145 @@
         <div class="install-layout reveal">
           <div class="install-copy" data-parallax="0.03">
             <span class="install-chip">Intangible Property = Asset, Revenue, 10x multiple</span>
-            <h2>Winners don't protect IP. They weaponize it. We've helped clients turn ideas into <span class="highlight-word">billions</span>.</h2>
+            <h2>Introducing <span class="highlight-word">be.ai</span> One AI agent. Every patent filing monitored. Every strategic gap identified. 24/7.</h2>
             <div class="install-actions">
               <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic</a>
-              <a class="button button-ghost" href="#system">See How the Model Works</a>
+              <a class="button button-ghost" href="#system">See Our Services</a>
             </div>
           </div>
 
           <div class="install-visual" aria-hidden="true">
-            <div class="install-panel install-panel-ai" style="padding:0;overflow:hidden;background:#e8e2da">
+            <div class="install-panel install-panel-ai" style="padding:0;overflow:hidden;background:#fff">
 
-              <!-- Embedded Patent Dashboard -->
-              <div class="ip-dash" id="ipDash">
-                <style>
-                  .ip-dash{position:relative;width:100%;height:100%;min-height:560px;padding:24px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#3d3428;display:flex;flex-direction:column;justify-content:center}
-                  .ip-dash *{box-sizing:border-box;margin:0;padding:0}
-                  .ip-dash .ip-header{margin-bottom:18px}
-                  .ip-dash .ip-header h3{font-size:14px;font-weight:600;color:#3d3428;letter-spacing:-.2px}
-                  .ip-dash .ip-header p{font-size:10.5px;color:#9c8e7c;margin-top:3px}
-                  .ip-g{background:rgba(255,255,255,.48);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.55);border-radius:14px}
-                  .ip-stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:8px}
-                  .ip-stat{padding:14px 16px}
-                  .ip-stat .ip-lbl{font-size:8.5px;font-weight:600;color:#9c8e7c;text-transform:uppercase;letter-spacing:.6px;margin-bottom:8px}
-                  .ip-stat .ip-val{font-size:24px;font-weight:700;color:#2c2318;line-height:1;letter-spacing:-.5px}
-                  .ip-stat .ip-badge{display:inline-block;font-size:9px;font-weight:600;margin-left:6px;padding:2px 7px;border-radius:14px;color:#6b8f71;background:rgba(107,143,113,.1);vertical-align:middle}
-                  .ip-stat .ip-sub{font-size:9px;color:#b0a393;margin-top:6px}
-                  .ip-panels{display:grid;grid-template-columns:1.3fr 1fr;gap:8px}
-                  .ip-panel{padding:16px}
-                  .ip-panel h4{font-size:10.5px;font-weight:600;margin-bottom:12px;color:#3d3428;display:flex;align-items:center;gap:6px}
-                  .ip-panel h4 .ip-dot{width:5px;height:5px;border-radius:50%;background:#6b8f71}
-                  .ip-panel canvas{width:100%!important;height:90px!important}
-                  .ip-row{display:flex;align-items:center;padding:7px 0;border-bottom:1px solid rgba(180,165,145,.08)}
-                  .ip-row:last-child{border-bottom:none}
-                  .ip-row .ip-name{font-size:10px;font-weight:500;color:#3d3428;flex:1}
-                  .ip-row .ip-cnt{font-size:10px;font-weight:600;color:#6b8f71;width:32px;text-align:right}
-                  .ip-row .ip-pct{font-size:9px;font-weight:600;width:36px;text-align:right}
-                  .ip-pct.up{color:#6b8f71}.ip-pct.dn{color:#b07c6a}
+              <style>
+                .beai-glass{position:relative;width:100%;padding:16px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;display:flex;flex-direction:column;gap:8px}
 
-                  /* Dim overlay inside panel */
-                  .ip-dim{position:absolute;inset:0;background:rgba(40,32,22,.32);z-index:4;opacity:0;pointer-events:none;transition:opacity 1.4s ease;border-radius:36px}
-                  .ip-dim.on{opacity:1}
-                  .ip-dash-content{transition:filter 1.4s ease}
-                  .ip-dash-content.blur{filter:blur(2px) brightness(.9)}
+                /* Compact stats row */
+                .beai-stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;position:relative;z-index:1}
+                .beai-stat{background:#f8f6f2;border:1px solid #eee;border-radius:10px;padding:10px 10px}
+                .beai-stat-label{font-size:7px;font-weight:600;color:#999;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px}
+                .beai-stat-val{font-size:18px;font-weight:700;color:#1a1a1a;line-height:1;letter-spacing:-.3px}
+                .beai-stat-badge{display:inline-block;font-size:7px;font-weight:600;margin-left:3px;padding:2px 5px;border-radius:8px;color:#16a34a;background:rgba(22,163,74,.08);vertical-align:middle}
 
-                  /* BE AI Chat Card */
-                  .be-ai{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%) scale(.92);z-index:5;width:min(340px,88%);opacity:0;pointer-events:none;transition:opacity 1.2s ease,transform 1.2s cubic-bezier(.16,1,.3,1)}
-                  .be-ai.show{opacity:1;pointer-events:auto;transform:translate(-50%,-50%) scale(1)}
-                  .be-card{background:rgba(255,255,255,.85);backdrop-filter:blur(28px);-webkit-backdrop-filter:blur(28px);border:1.2px solid rgba(255,220,180,.5);border-radius:18px;padding:20px 22px;box-shadow:0 0 120px 40px rgba(232,135,58,.35),0 0 200px 80px rgba(255,179,71,.2),0 0 300px 120px rgba(255,200,100,.12),0 0 60px rgba(232,135,58,.3),0 8px 36px rgba(60,45,20,.1)}
-                  .be-top{display:flex;align-items:center;gap:7px;margin-bottom:12px}
-                  .be-orb{width:28px;height:28px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#ffe0b2 0%,#ffb347 22%,#e8873a 48%,#c45e20 72%,#8b3a0f 100%);position:relative;overflow:hidden;flex-shrink:0;box-shadow:0 0 16px rgba(232,135,58,.45),0 0 6px rgba(255,179,71,.3)}
-                  .be-orb::after{content:'';position:absolute;inset:0;border-radius:50%;background:radial-gradient(circle at 30% 25%,rgba(255,255,255,.5) 0%,transparent 45%);animation:betwinkle 2.5s ease-in-out infinite alternate}
-                  @keyframes betwinkle{from{opacity:.6}to{opacity:1}}
-                  .be-lbl{font-size:11px;font-weight:700;color:#a68966;text-transform:uppercase;letter-spacing:.5px}
-                  .be-ts{font-size:8.5px;color:#c4b8a8;margin-left:auto}
-                  .be-msg{font-size:14px;line-height:1.65;color:#5a4d3e;margin-bottom:14px}
-                  .be-msg strong{color:#2c2318;font-weight:600}
-                  .be-chart-wrap{background:rgba(244,238,230,.6);border:1px solid rgba(220,210,195,.4);border-radius:12px;padding:14px 16px 10px}
-                  .be-chart-title{font-size:9px;font-weight:600;color:#8c7c6a;margin-bottom:4px}
-                  .be-chart-val{font-size:20px;font-weight:700;color:#2c2318;letter-spacing:-.4px}
-                  .be-chart-val span{font-size:10px;font-weight:600;color:#6b8f71;margin-left:5px;vertical-align:middle}
-                  .be-chart-wrap canvas{width:100%!important;height:58px!important;margin-top:6px}
-                  .be-legend{display:flex;gap:12px;margin-top:6px}
-                  .be-legend span{font-size:8.5px;color:#9c8e7c;display:flex;align-items:center;gap:4px}
-                  .be-legend i{width:6px;height:6px;border-radius:2px;display:inline-block}
-                  .be-legend i.cur{background:rgba(160,150,135,.35)}
-                  .be-legend i.proj{background:#6b8f71}
-                  .be-field{background:rgba(255,255,255,.7);backdrop-filter:blur(28px);-webkit-backdrop-filter:blur(28px);border:1.2px solid rgba(255,255,255,.8);border-radius:24px;padding:6px 7px 6px 16px;display:flex;align-items:center;gap:6px;margin-top:10px;box-shadow:0 3px 14px rgba(60,45,20,.06)}
-                  .be-field input{border:none;outline:none;flex:1;font-size:11px;color:#3d3428;background:transparent}
-                  .be-field input::placeholder{color:#c4b8a8}
-                  .be-field button{width:26px;height:26px;border-radius:50%;border:none;background:linear-gradient(135deg,#c4a882,#a68966);color:#fff;font-size:12px;cursor:pointer;display:flex;align-items:center;justify-content:center}
-                </style>
+                /* Chat window — HERO element */
+                .beai-chat{position:relative;z-index:1;background:#f8f6f2;border:1px solid #e8e4de;border-radius:14px;overflow:hidden;flex:1;display:flex;flex-direction:column;min-height:320px;box-shadow:0 0 30px rgba(201,154,103,.12),0 0 60px rgba(201,154,103,.06)}
+                .beai-chat-head{padding:10px 14px;border-bottom:1px solid #e8e4de;display:flex;align-items:center;gap:8px;background:#fff}
+                .beai-chat-orb{width:22px;height:22px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#ffe0b2,#e8873a 50%,#8b3a0f);flex-shrink:0;box-shadow:0 0 10px rgba(232,135,58,.35);position:relative;overflow:hidden}
+                .beai-chat-orb::after{content:'';position:absolute;inset:0;border-radius:50%;background:radial-gradient(circle at 30% 25%,rgba(255,255,255,.5),transparent 45%);animation:betwinkle2 2.5s ease-in-out infinite alternate}
+                @keyframes betwinkle2{from{opacity:.5}to{opacity:1}}
+                .beai-chat-name{font-size:11px;font-weight:700;color:#1a1a1a;letter-spacing:.3px}
+                .beai-chat-dot{width:6px;height:6px;border-radius:50%;background:#16a34a;margin-left:2px;animation:dotBlink 2s ease-in-out infinite}
+                @keyframes dotBlink{0%,100%{opacity:1}50%{opacity:.3}}
+                .beai-chat-ts{font-size:8px;color:#bbb;margin-left:auto}
+                .beai-chat-body{flex:1;padding:14px 14px;display:flex;flex-direction:column;gap:8px;justify-content:flex-end;overflow-y:auto}
 
-                <div class="ip-dash-content" id="ipContent">
-                  <div class="ip-header">
-                    <h3>IP Patent Portfolio</h3>
-                    <p>Assets, filings, and citation activity</p>
+                /* Glowing animated bubbles */
+                .beai-bubble{max-width:85%;padding:9px 13px;border-radius:14px;font-size:11px;line-height:1.55;opacity:0;transform:translateY(10px);animation:beaiBubble .5s ease forwards}
+                .beai-bubble.bot{background:#fff;color:#333;align-self:flex-start;border-bottom-left-radius:3px;border:1px solid #eee;box-shadow:0 0 20px rgba(201,154,103,.1),0 2px 8px rgba(0,0,0,.04);animation-name:beaiBubbleGlow}
+                .beai-bubble.user{background:linear-gradient(135deg,#c99a67,#a68966);color:#fff;align-self:flex-end;border-bottom-right-radius:3px;box-shadow:0 0 16px rgba(201,154,103,.25),0 2px 6px rgba(0,0,0,.06);animation-name:beaiBubbleGlow}
+                .beai-bubble strong{font-weight:700}
+                .beai-bubble.bot strong{color:#1a1a1a}
+                .beai-bubble:nth-child(1){animation-delay:.3s}
+                .beai-bubble:nth-child(2){animation-delay:1.2s}
+                .beai-bubble:nth-child(3){animation-delay:2.1s}
+                .beai-bubble:nth-child(4){animation-delay:3s}
+                .beai-bubble:nth-child(5){animation-delay:3.9s}
+                .beai-bubble:nth-child(6){animation-delay:4.8s}
+                @keyframes beaiBubbleGlow{
+                  0%{opacity:0;transform:translateY(10px);box-shadow:0 0 0 rgba(201,154,103,0)}
+                  60%{opacity:1;transform:translateY(0);box-shadow:0 0 24px rgba(201,154,103,.2),0 0 48px rgba(201,154,103,.08)}
+                  100%{opacity:1;transform:translateY(0);box-shadow:0 0 12px rgba(201,154,103,.08),0 2px 6px rgba(0,0,0,.04)}
+                }
+
+                /* Typing indicator */
+                .beai-typing{align-self:flex-start;display:flex;gap:3px;padding:8px 12px;background:#fff;border-radius:14px;border:1px solid #eee;opacity:0;animation:beaiBubbleGlow .4s ease 5.6s forwards}
+                .beai-typing span{width:5px;height:5px;border-radius:50%;background:#ccc;animation:typDot 1.2s ease-in-out infinite}
+                .beai-typing span:nth-child(2){animation-delay:.15s}
+                .beai-typing span:nth-child(3){animation-delay:.3s}
+                @keyframes typDot{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
+
+                /* Compact revenue bar */
+                .beai-rev{position:relative;z-index:1;background:#f8f6f2;border:1px solid #eee;border-radius:10px;padding:10px 12px}
+                .beai-rev-head{display:flex;align-items:baseline;gap:6px;margin-bottom:4px}
+                .beai-rev-title{font-size:7px;font-weight:600;color:#999;text-transform:uppercase;letter-spacing:.5px}
+                .beai-rev-val{font-size:16px;font-weight:700;color:#1a1a1a;letter-spacing:-.3px}
+                .beai-rev-pct{font-size:9px;font-weight:600;color:#16a34a;margin-left:3px}
+                .beai-rev-chart{width:100%;height:32px}
+                .beai-rev-bar{fill:#e8e4de;rx:1}
+                .beai-rev-line{stroke:#16a34a;stroke-width:1.5;fill:none;stroke-dasharray:300;stroke-dashoffset:300;animation:revDraw 2s ease .8s forwards}
+                @keyframes revDraw{to{stroke-dashoffset:0}}
+
+                /* Compact input */
+                .beai-input{position:relative;z-index:1;background:#f8f6f2;border:1px solid #e8e4de;border-radius:20px;padding:5px 6px 5px 14px;display:flex;align-items:center;gap:4px}
+                .beai-input input{border:none;outline:none;flex:1;font-size:10px;color:#666;background:transparent}
+                .beai-input input::placeholder{color:#bbb}
+                .beai-input button{width:22px;height:22px;border-radius:50%;border:none;background:linear-gradient(135deg,#c99a67,#a68966);color:#fff;font-size:10px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+              </style>
+
+              <div class="beai-glass">
+                <!-- Compact stats row -->
+                <div class="beai-stats">
+                  <div class="beai-stat">
+                    <div class="beai-stat-label">Active Patents</div>
+                    <div class="beai-stat-val">47<span class="beai-stat-badge">+3</span></div>
                   </div>
-
-                  <div class="ip-stats">
-                    <div class="ip-stat ip-g">
-                      <div class="ip-lbl">Active Patents</div>
-                      <div class="ip-val">47<span class="ip-badge">+3</span></div>
-                      <div class="ip-sub">12 utility &middot; 29 design &middot; 6 prov.</div>
-                    </div>
-                    <div class="ip-stat ip-g">
-                      <div class="ip-lbl">Potential Filings</div>
-                      <div class="ip-val">14<span class="ip-badge">+5</span></div>
-                      <div class="ip-sub">8 high &middot; 6 exploratory</div>
-                    </div>
-                    <div class="ip-stat ip-g">
-                      <div class="ip-lbl">Total Citations</div>
-                      <div class="ip-val">1,283<span class="ip-badge">+22%</span></div>
-                      <div class="ip-sub">31 citing entities</div>
-                    </div>
+                  <div class="beai-stat">
+                    <div class="beai-stat-label">Gaps Found</div>
+                    <div class="beai-stat-val">14<span class="beai-stat-badge">+5</span></div>
                   </div>
-
-                  <div class="ip-panels">
-                    <div class="ip-panel ip-g">
-                      <h4><span class="ip-dot"></span>Citation Growth</h4>
-                      <canvas id="ipCiteChart"></canvas>
-                    </div>
-                    <div class="ip-panel ip-g">
-                      <h4><span class="ip-dot"></span>Top Cited</h4>
-                      <div class="ip-row"><span class="ip-name">Neural interface auth</span><span class="ip-cnt">342</span><span class="ip-pct up">+31%</span></div>
-                      <div class="ip-row"><span class="ip-name">Adaptive LLM routing</span><span class="ip-cnt">287</span><span class="ip-pct up">+18%</span></div>
-                      <div class="ip-row"><span class="ip-name">Edge compute sync</span><span class="ip-cnt">214</span><span class="ip-pct dn">-4%</span></div>
-                      <div class="ip-row"><span class="ip-name">Tokenised IP licensing</span><span class="ip-cnt">198</span><span class="ip-pct up">+45%</span></div>
-                      <div class="ip-row"><span class="ip-name">Privacy-preserving ML</span><span class="ip-cnt">152</span><span class="ip-pct up">+12%</span></div>
-                    </div>
+                  <div class="beai-stat">
+                    <div class="beai-stat-label">Citations</div>
+                    <div class="beai-stat-val">1.2K<span class="beai-stat-badge">+22%</span></div>
                   </div>
                 </div>
 
-                <!-- Dim overlay -->
-                <div class="ip-dim" id="ipDim"></div>
+                <!-- Chat — main attraction -->
+                <div class="beai-chat">
+                  <div class="beai-chat-head">
+                    <div class="beai-chat-orb"></div>
+                    <span class="beai-chat-name">be.ai</span>
+                    <span class="beai-chat-dot"></span>
+                    <span class="beai-chat-ts">Just now</span>
+                  </div>
+                  <div class="beai-chat-body">
+                    <div class="beai-bubble bot"><strong>Microsoft</strong> filed near your Patent #5. I recommend filing <strong>Patent XYZ</strong> now.</div>
+                    <div class="beai-bubble user">What's the revenue impact?</div>
+                    <div class="beai-bubble bot">Projected <strong>+$2.4M</strong> in licensing revenue. Filing window closes in 6 weeks.</div>
+                    <div class="beai-bubble user">Draft it. Flag for review.</div>
+                    <div class="beai-bubble bot">Done. Draft filed for <strong>Patent XYZ</strong>. Sent to your legal team for sign-off. ETA: 48 hours.</div>
+                    <div class="beai-bubble user">What else should I be watching?</div>
+                    <div class="beai-typing"><span></span><span></span><span></span></div>
+                  </div>
+                </div>
 
-                <!-- BE AI Chat -->
-                <div class="be-ai" id="beAi">
-                  <div class="be-card">
-                    <div class="be-top">
-                      <div class="be-orb"></div>
-                      <span class="be-lbl">BE AI</span>
-                      <span class="be-ts">Just now</span>
-                    </div>
-                    <div class="be-msg">
-                      Hey Chris, quick suggestion: <strong>Microsoft is building something near our Patent #5</strong>. I suggest we file <strong>Patent XYZ</strong> asap &mdash; that will increase our revenue by <strong>$2.4M</strong> in licensing revenue.
-                    </div>
-                    <div class="be-chart-wrap">
-                      <div class="be-chart-title">Projected Licensing Revenue</div>
-                      <div class="be-chart-val">$4.8M<span>+92%</span></div>
-                      <canvas id="beRevChart"></canvas>
-                      <div class="be-legend">
-                        <span><i class="cur"></i>Current</span>
-                        <span><i class="proj"></i>With new patent</span>
-                      </div>
+                <!-- Compact revenue chart -->
+                <div class="beai-rev">
+                  <div class="beai-rev-head">
+                    <div>
+                      <div class="beai-rev-title">Projected Licensing Revenue</div>
+                      <div class="beai-rev-val">$4.8M<span class="beai-rev-pct">+92%</span></div>
                     </div>
                   </div>
-                  <div class="be-field">
-                    <input type="text" placeholder="Ask your IP advisor...">
-                    <button>&uarr;</button>
-                  </div>
+                  <svg class="beai-rev-chart" viewBox="0 0 200 32" preserveAspectRatio="none">
+                    <rect class="beai-rev-bar" x="10" y="24" width="8" height="8"/>
+                    <rect class="beai-rev-bar" x="30" y="20" width="8" height="12"/>
+                    <rect class="beai-rev-bar" x="50" y="17" width="8" height="15"/>
+                    <rect class="beai-rev-bar" x="70" y="14" width="8" height="18"/>
+                    <rect class="beai-rev-bar" x="90" y="11" width="8" height="21"/>
+                    <rect class="beai-rev-bar" x="110" y="8" width="8" height="24"/>
+                    <rect class="beai-rev-bar" x="130" y="5" width="8" height="27"/>
+                    <rect class="beai-rev-bar" x="150" y="3" width="8" height="29"/>
+                    <rect class="beai-rev-bar" x="170" y="1" width="8" height="31"/>
+                    <path class="beai-rev-line" d="M14,26 L34,22 54,18 74,14 94,10 114,7 134,4 154,2 174,1"/>
+                  </svg>
+                </div>
+
+                <!-- Compact input -->
+                <div class="beai-input">
+                  <input type="text" placeholder="Ask your IP advisor...">
+                  <button>&uarr;</button>
                 </div>
               </div>
-
-              <script>
-              (function(){
-                // Citation chart
-                var c=document.getElementById('ipCiteChart');if(!c)return;
-                var x=c.getContext('2d'),dpr=window.devicePixelRatio||1;
-                function drawCite(){
-                  var w=c.clientWidth,h=c.clientHeight;c.width=w*dpr;c.height=h*dpr;x.scale(dpr,dpr);
-                  var d=[120,180,210,310,420,540,620,780,890,1050,1180,1283],max=Math.max.apply(null,d)*1.1,step=w/(d.length-1);
-                  x.strokeStyle='rgba(180,165,145,.08)';x.lineWidth=1;
-                  for(var i=0;i<4;i++){var y=(h/4)*i+4;x.beginPath();x.moveTo(0,y);x.lineTo(w,y);x.stroke();}
-                  x.beginPath();x.moveTo(0,h);
-                  for(var i=0;i<d.length;i++)x.lineTo(i*step,h-(d[i]/max)*(h-10));
-                  x.lineTo(w,h);x.closePath();
-                  var g=x.createLinearGradient(0,0,0,h);g.addColorStop(0,'rgba(107,143,113,.14)');g.addColorStop(1,'rgba(107,143,113,.01)');
-                  x.fillStyle=g;x.fill();
-                  x.beginPath();for(var i=0;i<d.length;i++){var px=i*step,py=h-(d[i]/max)*(h-10);i===0?x.moveTo(px,py):x.lineTo(px,py);}
-                  x.strokeStyle='#6b8f71';x.lineWidth=1.8;x.lineJoin='round';x.stroke();
-                  var lx=(d.length-1)*step,ly=h-(d[d.length-1]/max)*(h-10);
-                  x.beginPath();x.arc(lx,ly,2.5,0,Math.PI*2);x.fillStyle='#6b8f71';x.fill();
-                }
-                drawCite();
-
-                // Revenue chart
-                function drawRev(){
-                  var c2=document.getElementById('beRevChart');if(!c2)return;
-                  var x2=c2.getContext('2d'),w=c2.clientWidth,h=c2.clientHeight;
-                  c2.width=w*dpr;c2.height=h*dpr;x2.scale(dpr,dpr);
-                  var cur=[1.2,1.4,1.6,1.8,2,2.2,2.5],proj=[1.2,1.5,2,2.6,3.2,4,4.8],max=5.5,bw=10;
-                  var gap=(w-bw*cur.length)/(cur.length+1);
-                  for(var i=0;i<cur.length;i++){var bx=gap+i*(bw+gap),bh=(cur[i]/max)*(h-6);
-                    x2.fillStyle='rgba(160,150,135,.22)';x2.beginPath();x2.roundRect(bx,h-bh,bw,bh,2);x2.fill();}
-                  var pts=[];for(var i=0;i<proj.length;i++)pts.push({x:gap+i*(bw+gap)+bw/2,y:h-(proj[i]/max)*(h-6)});
-                  x2.beginPath();x2.moveTo(pts[0].x,h);for(var i=0;i<pts.length;i++)x2.lineTo(pts[i].x,pts[i].y);
-                  x2.lineTo(pts[pts.length-1].x,h);x2.closePath();
-                  var g2=x2.createLinearGradient(0,0,0,h);g2.addColorStop(0,'rgba(107,143,113,.18)');g2.addColorStop(1,'rgba(107,143,113,.02)');
-                  x2.fillStyle=g2;x2.fill();
-                  x2.beginPath();for(var i=0;i<pts.length;i++)i===0?x2.moveTo(pts[i].x,pts[i].y):x2.lineTo(pts[i].x,pts[i].y);
-                  x2.strokeStyle='#6b8f71';x2.lineWidth=1.8;x2.lineJoin='round';x2.stroke();
-                  var last=pts[pts.length-1];x2.beginPath();x2.arc(last.x,last.y,2.5,0,Math.PI*2);x2.fillStyle='#6b8f71';x2.fill();
-                }
-
-                // Scroll-driven: chat shows when section is in view, hides when out
-                var revDrawn=false;
-                var chatVisible=false;
-                var dash=document.getElementById('ipDash');
-
-                function showChat(){
-                  if(chatVisible)return;
-                  chatVisible=true;
-                  document.getElementById('ipDim').classList.add('on');
-                  document.getElementById('ipContent').classList.add('blur');
-                  setTimeout(function(){
-                    document.getElementById('beAi').classList.add('show');
-                    if(!revDrawn){revDrawn=true;setTimeout(drawRev,120);}
-                  },300);
-                }
-                function hideChat(){
-                  if(!chatVisible)return;
-                  chatVisible=false;
-                  document.getElementById('beAi').classList.remove('show');
-                  setTimeout(function(){
-                    document.getElementById('ipDim').classList.remove('on');
-                    document.getElementById('ipContent').classList.remove('blur');
-                  },300);
-                }
-
-                var obs=new IntersectionObserver(function(entries){
-                  entries.forEach(function(e){
-                    if(e.isIntersecting)showChat();
-                    else hideChat();
-                  });
-                },{threshold:0.35});
-                obs.observe(dash);
-              })();
-              </script>
 
             </div>
           </div>
@@ -826,6 +748,193 @@
         </div>
       </section>
 
+      <section id="system" class="shell section section-system scroll-section">
+        <div class="section-head reveal" data-parallax="0.03">
+          <span class="eyebrow">Three ways to work with us</span>
+          <h2>Choose what fits.</h2>
+        </div>
+
+        <style>
+          .sierra-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:40px}
+          .sierra-card{border-radius:24px;padding:32px 28px;color:#fff;position:relative;overflow:hidden;min-height:380px;display:flex;flex-direction:column;justify-content:space-between;transition:transform .4s cubic-bezier(.22,1,.36,1),box-shadow .4s ease;cursor:default}
+          .sierra-card:hover{transform:translateY(-8px);box-shadow:0 32px 64px rgba(0,0,0,.18)}
+          .sierra-card-1{background:linear-gradient(145deg,#2d7fc1,#1a5a8e)}
+          .sierra-card-2{background:linear-gradient(145deg,#8b5a8b,#6b3a6b)}
+          .sierra-card-3{background:linear-gradient(145deg,#c0704a,#9a5535)}
+          .sierra-card h3{font-size:1.65rem;font-weight:500;letter-spacing:-.06em;line-height:1.12;margin:0 0 20px;color:#fff}
+          .sierra-card-tag{display:inline-block;font-size:.7rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:5px 12px;border-radius:100px;background:rgba(255,255,255,.18);color:rgba(255,255,255,.9);margin-bottom:16px;backdrop-filter:blur(4px)}
+          .sierra-card p{font-size:.92rem;line-height:1.55;color:rgba(255,255,255,.85);margin:0 0 8px}
+          .sierra-card-points{list-style:none;padding:0;margin:16px 0 0}
+          .sierra-card-points li{font-size:.85rem;line-height:1.5;color:rgba(255,255,255,.8);padding:6px 0 6px 20px;position:relative}
+          .sierra-card-points li::before{content:'';position:absolute;left:0;top:13px;width:8px;height:8px;border-radius:50%;background:rgba(255,255,255,.4)}
+          .sierra-card-visual{width:100%;height:160px;position:relative;margin-bottom:20px;border-radius:16px;overflow:hidden;background:rgba(255,255,255,.08)}
+          .sierra-card-cta{display:inline-block;margin-top:20px;padding:10px 24px;font-size:.82rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:#fff;border:1.5px solid rgba(255,255,255,.4);border-radius:100px;text-decoration:none;transition:all .25s ease}
+          .sierra-card-cta:hover{background:rgba(255,255,255,.15);border-color:rgba(255,255,255,.7)}
+
+          /* Animated visuals inside cards */
+          .sierra-viz{position:absolute;inset:0}
+          .sierra-viz-orbs{position:absolute;inset:0}
+          .sierra-orb{position:absolute;border-radius:50%;opacity:.6;animation:sierraFloat 6s ease-in-out infinite}
+          .sierra-card-1 .sierra-orb:nth-child(1){width:80px;height:80px;background:rgba(255,255,255,.15);top:20%;left:15%;animation-delay:0s}
+          .sierra-card-1 .sierra-orb:nth-child(2){width:50px;height:50px;background:rgba(255,255,255,.1);top:40%;left:55%;animation-delay:1.5s}
+          .sierra-card-1 .sierra-orb:nth-child(3){width:120px;height:120px;background:rgba(255,255,255,.07);top:10%;left:60%;animation-delay:3s}
+          .sierra-card-1 .sierra-orb:nth-child(4){width:36px;height:36px;background:rgba(255,255,255,.2);top:60%;left:30%;animation-delay:2s}
+
+          .sierra-card-2 .sierra-orb:nth-child(1){width:90px;height:90px;background:rgba(255,255,255,.12);top:15%;left:10%;animation-delay:.5s}
+          .sierra-card-2 .sierra-orb:nth-child(2){width:60px;height:60px;background:rgba(255,255,255,.08);top:50%;left:50%;animation-delay:2s}
+          .sierra-card-2 .sierra-orb:nth-child(3){width:40px;height:40px;background:rgba(255,255,255,.18);top:25%;left:70%;animation-delay:1s}
+
+          .sierra-card-3 .sierra-orb:nth-child(1){width:70px;height:70px;background:rgba(255,255,255,.1);top:30%;left:20%;animation-delay:1s}
+          .sierra-card-3 .sierra-orb:nth-child(2){width:100px;height:100px;background:rgba(255,255,255,.06);top:10%;left:50%;animation-delay:2.5s}
+          .sierra-card-3 .sierra-orb:nth-child(3){width:44px;height:44px;background:rgba(255,255,255,.16);top:55%;left:65%;animation-delay:0s}
+
+          /* ── Card 1: Slack-style chat ── */
+          .chat-window{position:absolute;inset:8px;border-radius:12px;background:rgba(255,255,255,.1);backdrop-filter:blur(12px);display:flex;flex-direction:column;overflow:hidden;border:1px solid rgba(255,255,255,.12)}
+          .chat-header{padding:8px 12px;font-size:.65rem;font-weight:600;color:rgba(255,255,255,.7);border-bottom:1px solid rgba(255,255,255,.08);display:flex;align-items:center;gap:6px;letter-spacing:.03em}
+          .chat-header-dot{width:7px;height:7px;border-radius:50%;background:#4ade80;flex-shrink:0}
+          .chat-body{flex:1;padding:10px 12px;display:flex;flex-direction:column;gap:8px;justify-content:flex-end}
+          .chat-msg{max-width:85%;padding:7px 11px;border-radius:10px;font-size:.68rem;line-height:1.4;color:#fff;animation:chatFade .5s ease both}
+          .chat-msg.bot{background:rgba(255,255,255,.15);align-self:flex-start;border-bottom-left-radius:3px}
+          .chat-msg.user{background:rgba(255,255,255,.25);align-self:flex-end;border-bottom-right-radius:3px}
+          .chat-msg:nth-child(1){animation-delay:.6s}
+          .chat-msg:nth-child(2){animation-delay:1.8s}
+          .chat-msg:nth-child(3){animation-delay:3s}
+          .chat-msg:nth-child(4){animation-delay:4.2s}
+          .chat-typing{align-self:flex-start;display:flex;gap:3px;padding:8px 12px;animation:chatFade .5s ease 5s both}
+          .chat-typing span{width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,.4);animation:typingBounce 1.2s ease-in-out infinite}
+          .chat-typing span:nth-child(2){animation-delay:.15s}
+          .chat-typing span:nth-child(3){animation-delay:.3s}
+          @keyframes chatFade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+          @keyframes typingBounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
+
+          /* ── Card 2: Glass dashboard ── */
+          .glass-dash{position:absolute;inset:8px;border-radius:12px;background:rgba(255,255,255,.06);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.1);padding:12px;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto 1fr;gap:8px}
+          .glass-stat{background:rgba(255,255,255,.08);border-radius:8px;padding:8px 10px;border:1px solid rgba(255,255,255,.06)}
+          .glass-stat-label{font-size:.55rem;color:rgba(255,255,255,.5);text-transform:uppercase;letter-spacing:.06em}
+          .glass-stat-value{font-size:1.1rem;font-weight:600;color:#fff;margin-top:2px}
+          .glass-chart{grid-column:1/-1;background:rgba(255,255,255,.06);border-radius:8px;padding:10px;border:1px solid rgba(255,255,255,.06);position:relative;overflow:hidden}
+          .glass-chart svg{width:100%;height:100%}
+          .glass-chart-line{stroke:rgba(255,255,255,.6);stroke-width:2;fill:none;stroke-dasharray:300;stroke-dashoffset:300;animation:drawLine 2.5s ease 1s forwards}
+          .glass-chart-fill{fill:url(#glassFill);opacity:0;animation:fadeUp .8s ease 2.5s forwards}
+          .glass-chart-dot{fill:#fff;opacity:0;animation:dotPop .3s ease forwards}
+          .glass-chart-dot:nth-child(1){animation-delay:1.5s}
+          .glass-chart-dot:nth-child(2){animation-delay:2s}
+          .glass-chart-dot:nth-child(3){animation-delay:2.5s}
+          .glass-chart-dot:nth-child(4){animation-delay:3s}
+          @keyframes drawLine{to{stroke-dashoffset:0}}
+          @keyframes fadeUp{to{opacity:.25}}
+          @keyframes dotPop{to{opacity:1}}
+
+          /* ── Card 3: CFO composite ── */
+          .cfo-composite{position:absolute;inset:8px;border-radius:12px;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto 1fr;gap:6px;padding:8px}
+          .cfo-avatar{grid-column:1/-1;display:flex;align-items:center;justify-content:center;padding:8px 0}
+          .cfo-avatar-bubble{width:72px;height:72px;border-radius:50%;background:rgba(255,255,255,.15);backdrop-filter:blur(8px);border:2px solid rgba(255,255,255,.2);display:flex;align-items:center;justify-content:center;animation:sierraPulse 3s ease-in-out infinite;overflow:hidden}
+          .cfo-avatar-bubble svg{width:40px;height:40px;fill:rgba(255,255,255,.7)}
+          .cfo-mini-dash{background:rgba(255,255,255,.08);backdrop-filter:blur(8px);border-radius:8px;padding:7px 9px;border:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column;justify-content:center}
+          .cfo-mini-label{font-size:.5rem;color:rgba(255,255,255,.45);text-transform:uppercase;letter-spacing:.05em}
+          .cfo-mini-val{font-size:.85rem;font-weight:600;color:#fff;margin-top:1px}
+          .cfo-mini-bar{height:3px;border-radius:2px;background:rgba(255,255,255,.1);margin-top:4px;overflow:hidden}
+          .cfo-mini-bar-fill{height:100%;border-radius:2px;background:rgba(255,255,255,.4);animation:barGrow 2s ease 1s forwards;transform-origin:left;transform:scaleX(0)}
+          .cfo-mini-chat{background:rgba(255,255,255,.08);backdrop-filter:blur(8px);border-radius:8px;padding:7px 9px;border:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column;justify-content:flex-end;gap:4px}
+          .cfo-mini-msg{font-size:.52rem;color:rgba(255,255,255,.7);padding:3px 7px;background:rgba(255,255,255,.1);border-radius:6px;max-width:90%}
+          @keyframes barGrow{to{transform:scaleX(1)}}
+
+          @keyframes sierraFloat{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-12px) scale(1.05)}}
+          @keyframes sierraPulse{0%,100%{transform:translate(-50%,-50%) scale(1);opacity:1}50%{transform:translate(-50%,-50%) scale(1.08);opacity:.85}}
+
+          @media(max-width:1080px){.sierra-cards{grid-template-columns:1fr}.sierra-card{min-height:auto}}
+        </style>
+
+        <div class="sierra-cards">
+          <!-- Card 1: AI Agent -->
+          <article class="sierra-card sierra-card-1 reveal">
+            <div>
+              <div class="sierra-card-visual">
+                <div class="chat-window">
+                  <div class="chat-header"><span class="chat-header-dot"></span>BE Patent Agent &mdash; Online</div>
+                  <div class="chat-body">
+                    <div class="chat-msg bot">3 new competitor filings detected in your space this week.</div>
+                    <div class="chat-msg user">Which ones overlap with our claims?</div>
+                    <div class="chat-msg bot">2 overlap on data pipeline claims. Sending gap analysis now.</div>
+                    <div class="chat-msg user">Flag them for review.</div>
+                    <div class="chat-typing"><span></span><span></span><span></span></div>
+                  </div>
+                </div>
+              </div>
+              <span class="sierra-card-tag">AI</span>
+              <h3>AI Agent Intelligence &amp; Dashboard</h3>
+              <p>24/7 patent monitoring. Competitor filings, gap analysis, and filing recommendations &mdash; on autopilot.</p>
+            </div>
+            <div>
+              <a class="sierra-card-cta" href="./services/ai-patent-intelligence-dashboard/index.html">Learn more</a>
+            </div>
+          </article>
+
+          <!-- Card 2: Patentability Audit -->
+          <article class="sierra-card sierra-card-2 reveal delay-1">
+            <div>
+              <div class="sierra-card-visual">
+                <div class="glass-dash">
+                  <div class="glass-stat"><div class="glass-stat-label">IP Assets</div><div class="glass-stat-value">12</div></div>
+                  <div class="glass-stat"><div class="glass-stat-label">Valuation</div><div class="glass-stat-value">$4.2M</div></div>
+                  <div class="glass-chart">
+                    <svg viewBox="0 0 200 60" preserveAspectRatio="none">
+                      <defs><linearGradient id="glassFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#fff" stop-opacity=".3"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+                      <path class="glass-chart-fill" d="M0,55 L30,42 70,48 110,28 150,35 200,15 200,60 0,60Z"/>
+                      <path class="glass-chart-line" d="M0,55 L30,42 70,48 110,28 150,35 200,15"/>
+                      <circle class="glass-chart-dot" cx="30" cy="42" r="3"/>
+                      <circle class="glass-chart-dot" cx="110" cy="28" r="3"/>
+                      <circle class="glass-chart-dot" cx="150" cy="35" r="3"/>
+                      <circle class="glass-chart-dot" cx="200" cy="15" r="3"/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+              <span class="sierra-card-tag">Human + AI</span>
+              <h3>Patentability Audit &amp; IP Strategy Sprint</h3>
+              <p>No patents yet? Good. We turn what you've already built into fundraising leverage and investor-grade IP proof.</p>
+            </div>
+            <div>
+              <a class="sierra-card-cta" href="./services/patentability-audit/index.html">Learn more</a>
+            </div>
+          </article>
+
+          <!-- Card 3: Fractional IP Strategist -->
+          <article class="sierra-card sierra-card-3 reveal delay-2">
+            <div>
+              <div class="sierra-card-visual">
+                <div class="cfo-composite">
+                  <div class="cfo-avatar">
+                    <div class="cfo-avatar-bubble">
+                      <svg viewBox="0 0 24 24"><path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v2h20v-2c0-3.3-6.7-5-10-5z"/></svg>
+                    </div>
+                  </div>
+                  <div class="cfo-mini-dash">
+                    <div class="cfo-mini-label">Licensing Rev.</div>
+                    <div class="cfo-mini-val">$1.8M</div>
+                    <div class="cfo-mini-bar"><div class="cfo-mini-bar-fill" style="width:72%"></div></div>
+                  </div>
+                  <div class="cfo-mini-chat">
+                    <div class="cfo-mini-msg">Filing strategy updated</div>
+                    <div class="cfo-mini-msg">2 new claims ready</div>
+                  </div>
+                </div>
+              </div>
+              <span class="sierra-card-tag">Human + AI</span>
+              <h3>Fractional IP Strategist &amp; Intelligence Suite</h3>
+              <p>3+ patents filed? Unlock licensing revenue, real-time portfolio strategy, and a dedicated IP leader embedded in your team.</p>
+            </div>
+            <div>
+              <a class="sierra-card-cta" href="./services/fractional-ip-cxo/index.html">Learn more</a>
+            </div>
+          </article>
+        </div>
+
+        <div style="text-align:center;margin-top:48px" class="reveal">
+          <a class="button button-ghost" href="./services/index.html">See full service details</a>
+        </div>
+      </section>
+
       <section class="shell section section-inline-cta scroll-section">
         <div class="inline-cta reveal" data-tilt>
           <div>
@@ -833,61 +942,9 @@
             <h2>If you built the value, make sure you capture it.</h2>
           </div>
           <div class="inline-cta-actions">
-            <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic</a>
-            <a class="button button-ghost" href="#system">See the Model</a>
+            <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Book a Call</a>
+            <a class="button button-ghost" href="#system">See Our Services</a>
           </div>
-        </div>
-      </section>
-
-      <section id="system" class="shell section section-system scroll-section">
-        <div class="section-head reveal" data-parallax="0.03">
-          <span class="eyebrow">How it works</span>
-          <h2>It starts with knowing what you have.</h2>
-        </div>
-
-        <div class="system-grid">
-          <article class="system-card wide reveal" data-tilt>
-            <div class="system-visual visual-orbit"></div>
-            <div>
-              <h3>Step 1: The IP Diagnostic</h3>
-              <p>We audit your patents, data, trade secrets, and know-how. You get a full picture of what you're sitting on and what it's worth.</p>
-            </div>
-          </article>
-        </div>
-
-        <div class="section-head reveal" data-parallax="0.03" style="margin-top:64px">
-          <span class="eyebrow">Then choose what fits</span>
-          <h2>Three ways to work with us.</h2>
-        </div>
-
-        <div class="system-grid">
-          <article class="system-card reveal" data-tilt>
-            <div class="system-visual visual-orbit"></div>
-            <div>
-              <h3>AI Patent Intelligence</h3>
-              <p style="font-size:13px;font-weight:600;color:#a68966;margin-bottom:6px">$980/month</p>
-              <p>24/7 AI agent monitoring the patent landscape. Tracks competitor filings, identifies gaps, and recommends what to file next.</p>
-            </div>
-          </article>
-          <article class="system-card reveal delay-1" data-tilt>
-            <div class="system-visual visual-grid"></div>
-            <div>
-              <h3>Full Patent Strategy &amp; Valuation</h3>
-              <p>Human-driven patent audit, IP valuation reports, exit modelling, and fundraising support. Built for founders raising or preparing to sell.</p>
-            </div>
-          </article>
-          <article class="system-card reveal delay-2" data-tilt>
-            <div class="system-visual visual-beam"></div>
-            <div>
-              <h3>Fractional IP Strategist</h3>
-              <p>For companies with 5+ patents. A dedicated IP strategist embedded in your team, plus our full suite of agentic software. Ongoing, retained.</p>
-            </div>
-          </article>
-        </div>
-
-        <div style="text-align:center;margin-top:40px" class="reveal">
-          <p style="font-size:15px;color:#9c8e7c;margin-bottom:16px">Get in touch for pricing on Strategy &amp; Valuation and Fractional engagements.</p>
-          <a class="button button-ghost" href="./services/index.html">See full service details</a>
         </div>
       </section>
 
@@ -1009,7 +1066,7 @@
             <p>One session. We'll tell you exactly what your IP is worth and how to monetize it.</p>
             <div class="hero-actions">
               <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic</a>
-              <a class="button button-ghost" href="#system">See the Model</a>
+              <a class="button button-ghost" href="#system">See Our Services</a>
             </div>
           </div>
           <div class="endcap-window">

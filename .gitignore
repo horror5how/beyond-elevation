@@ -1,3 +1,4 @@
 .vercel
 .indexing-cache.json
 .gcp-indexing-key.json
+node_modules/
