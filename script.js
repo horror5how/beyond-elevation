@@ -264,7 +264,7 @@ if (!reduce) {
 /* ── Mobile Hamburger Toggle ── */
 (function(){
   const hamburger = document.querySelector('.hamburger');
-  const nav = document.querySelector('header nav');
+  const nav = document.querySelector('#mobile-nav');
   if(!hamburger||!nav) return;
   hamburger.addEventListener('click',()=>{
     const open = hamburger.classList.toggle('is-open');

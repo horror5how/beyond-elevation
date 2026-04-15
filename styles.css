@@ -48,8 +48,9 @@ h1,h2,h3,p,blockquote{margin-top:0}
 .topbar > *{position:relative;z-index:1}
 .brand{display:inline-flex;align-items:center;gap:12px;font-family:"Inter", sans-serif;font-weight:400;letter-spacing:.01em;text-transform:none;font-size:1rem;color:#1a1a1a}
 .brand-mark{position:relative;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:12px;background:#000;color:#ffffff;font-family:"Inter", sans-serif;font-weight:400;font-size:.82rem;letter-spacing:-.02em;box-shadow:0 0 0 1px rgba(255,255,255,.05) inset,0 14px 26px rgba(0,0,0,.32),0 0 20px rgba(255,255,255,.05);overflow:hidden;animation:brandPulse 3.8s ease-in-out infinite}.brand-mark::after{content:'';position:absolute;inset:-30% auto -30% -55%;width:58%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.4),transparent);transform:skewX(-24deg);animation:brandSweep 4.6s ease-in-out infinite}
-nav{display:flex;gap:22px;color:#1a1a1a;font-size:1rem}
-nav a:hover{color:var(--text)}
+nav.desktop-nav{display:flex;gap:22px;color:#1a1a1a;font-size:1rem}
+nav.desktop-nav a:hover{color:var(--text)}
+#mobile-nav{display:none}
 .nav-case-studies,.nav-blog{font-weight:400;color:#1a1a1a}
 
 .button{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:0 20px;border-radius:999px;border:1px solid transparent;font-weight:400;transition:transform .18s ease,background .18s ease,border-color .18s ease,box-shadow .18s ease;will-change:transform;font-family:"Inter", -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Arial, sans-serif;font-size:.9rem}
@@ -389,6 +390,7 @@ p{line-height:1.7;letter-spacing:-.01em}
 .hero-instant{opacity:1!important;transform:none!important}
 
 /* ── MOBILE HAMBURGER MENU ── */
+.mob-phone,.mob-cta{display:none}
 .hamburger{display:none;background:none;border:none;cursor:pointer;padding:8px;z-index:50;flex-direction:column;gap:5px}
 .hamburger span{display:block;width:22px;height:2px;background:#1a1a1a;border-radius:2px;transition:transform .3s ease,opacity .3s ease}
 .hamburger.is-open span:nth-child(1){transform:rotate(45deg) translate(5px,5px)}
@@ -396,11 +398,18 @@ p{line-height:1.7;letter-spacing:-.01em}
 .hamburger.is-open span:nth-child(3){transform:rotate(-45deg) translate(5px,-5px)}
 
 @media(max-width:760px){
-  .hamburger{display:flex}
-  nav{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(248,246,242,.98);backdrop-filter:blur(20px);flex-direction:column;align-items:center;justify-content:center;gap:32px;font-size:1.4rem;z-index:45;opacity:0;pointer-events:none;transition:opacity .3s ease}
-  nav.is-open{opacity:1;pointer-events:auto;display:flex}
+  .hamburger{display:flex;z-index:10000}
+  nav.desktop-nav{display:none}
+  #mobile-nav{position:fixed;top:0;left:0;right:0;bottom:0;width:100vw;height:100vh;background:#faf8f4;flex-direction:column;align-items:center;justify-content:center;padding:0 48px;gap:0;z-index:9999;opacity:0;pointer-events:none;transition:opacity .25s ease}
+  #mobile-nav.is-open{opacity:1;pointer-events:auto;display:flex}
+  #mobile-nav a{display:block;width:100%;padding:18px 0;font-size:.95rem;font-weight:500;letter-spacing:-.01em;color:#1a1a1a;text-decoration:none;border-bottom:1px solid rgba(186,173,156,.12);text-align:center;transition:color .2s ease}
+  #mobile-nav a:first-child{border-top:1px solid rgba(186,173,156,.12)}
+  #mobile-nav a:active{color:#c9a96e}
   .topbar-right{display:none}
-  .hamburger.is-open + nav + .topbar-right{display:none}
+  #mobile-nav .mob-phone,#mobile-nav .mob-cta{display:block}
+  #mobile-nav .mob-phone{margin-top:24px;padding:12px 0;font-size:.84rem;color:#999;border:none;border-bottom:none;letter-spacing:.02em}
+  #mobile-nav .mob-cta{margin-top:4px;padding:14px 0;font-size:.88rem;font-weight:600;color:#fff;background:#1a1a1a;border-radius:100px;text-align:center;border:none;border-bottom:none;letter-spacing:-.01em;max-width:240px;margin-left:auto;margin-right:auto}
+  #mobile-nav .mob-cta:active{background:#333}
 }
 
 /* ── FASTER REVEAL ANIMATIONS ── */
