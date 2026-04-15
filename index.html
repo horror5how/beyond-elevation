@@ -490,42 +490,47 @@
               <style>
                 .beai-glass{position:relative;width:100%;max-width:380px;margin:0 auto;padding:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;display:flex;flex-direction:column;gap:10px;align-items:center}
 
-                /* Frosted glass bubbles — Sierra style */
-                @keyframes beaiLoop{0%{opacity:0;transform:translateY(12px)}8%{opacity:1;transform:translateY(0)}42%{opacity:1;transform:translateY(0)}50%{opacity:0;transform:translateY(-6px)}100%{opacity:0;transform:translateY(12px)}}
-                .beai-bubble{max-width:88%;padding:14px 18px;border-radius:20px;font-size:12px;line-height:1.6;color:rgba(60,50,40,.75);background:rgba(220,210,198,.35);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border:none;opacity:0;transform:translateY(12px);animation:beaiLoop 12s ease infinite}
-                .beai-bubble strong{color:rgba(40,30,20,.85);font-weight:600}
+                /* Chat card bubbles — testimonial style */
+                @keyframes beaiLoop{0%{opacity:0;transform:translateY(10px)}10%{opacity:1;transform:translateY(0)}45%{opacity:1;transform:translateY(0)}55%{opacity:0;transform:translateY(-4px)}100%{opacity:0;transform:translateY(10px)}}
+                .beai-bubble{display:flex;align-items:flex-start;gap:12px;max-width:94%;padding:16px 18px;border-radius:100px;font-size:13px;line-height:1.5;color:#1a1a1a;background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.06);border:none;opacity:0;transform:translateY(10px);animation:beaiLoop 8s ease infinite}
+                .beai-bubble strong{color:#000;font-weight:700}
 
-                /* Bot bubble with agent label */
+                /* Bot bubble */
                 .beai-bubble.bot{align-self:center}
-                .beai-agent-label{display:flex;align-items:center;gap:6px;margin-bottom:6px}
-                .beai-agent-icon{width:18px;height:18px;border-radius:6px;background:linear-gradient(135deg,#7c3aed,#2563eb 50%,#06b6d4);position:relative;flex-shrink:0}
-                .beai-agent-icon::after{content:'';position:absolute;width:5px;height:5px;top:50%;left:50%;transform:translate(-50%,-50%);border-radius:50%;background:rgba(255,255,255,.7)}
-                .beai-agent-name{font-size:10px;font-weight:600;color:rgba(60,50,40,.5);letter-spacing:.2px}
+                .beai-avatar{width:36px;height:36px;border-radius:50%;overflow:hidden;flex-shrink:0;background:#f0ede8}
+                .beai-avatar img{width:100%;height:100%;object-fit:cover}
+                .beai-bubble-content{flex:1}
+                .beai-bubble-meta{display:flex;align-items:center;gap:6px;margin-top:4px}
+                .beai-bubble-name{font-size:10px;color:#888;font-weight:500}
 
                 /* Typing dots */
-                .beai-typing{display:flex;gap:4px;padding:14px 18px;background:rgba(220,210,198,.35);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:20px;opacity:0;align-self:center;animation:beaiLoop 12s ease infinite}
-                .beai-typing span{width:5px;height:5px;border-radius:50%;background:rgba(60,50,40,.25);animation:typDot 1.2s ease-in-out infinite}
+                .beai-typing{display:flex;align-items:center;gap:12px;padding:16px 18px;background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.06);border-radius:100px;opacity:0;align-self:center;animation:beaiLoop 8s ease infinite}
+                .beai-typing-dots{display:flex;gap:4px}
+                .beai-typing span{width:5px;height:5px;border-radius:50%;background:rgba(0,0,0,.2);animation:typDot 1.2s ease-in-out infinite}
                 .beai-typing span:nth-child(2){animation-delay:.15s}
                 .beai-typing span:nth-child(3){animation-delay:.3s}
                 @keyframes typDot{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
 
-                /* Action card — like Sierra's time picker */
-                .beai-action{background:rgba(220,210,198,.35);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:20px;padding:14px 18px;width:88%;align-self:center;opacity:0;animation:beaiLoop 12s ease infinite}
-                .beai-action-title{font-size:9px;font-weight:600;color:rgba(60,50,40,.4);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px}
+                /* Action card */
+                .beai-action{background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.06);border-radius:20px;padding:14px 18px;width:88%;align-self:center;opacity:0;animation:beaiLoop 8s ease infinite}
+                .beai-action-title{font-size:9px;font-weight:600;color:#888;text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px}
                 .beai-action-row{display:flex;gap:6px;margin-bottom:10px}
-                .beai-action-chip{padding:5px 12px;border-radius:20px;font-size:10px;color:rgba(60,50,40,.6);background:rgba(255,255,255,.4);cursor:default}
+                .beai-action-chip{padding:5px 12px;border-radius:20px;font-size:10px;color:#666;background:#f4f4f4;cursor:default}
                 .beai-action-chip.active{background:#16a34a;color:#fff}
-                .beai-action-btn{width:100%;padding:8px;border-radius:14px;background:rgba(255,255,255,.6);border:none;font-size:11px;font-weight:500;color:rgba(60,50,40,.5);cursor:default}
+                .beai-action-btn{width:100%;padding:8px;border-radius:14px;background:#f8f8f8;border:none;font-size:11px;font-weight:500;color:#888;cursor:default}
               </style>
 
               <div class="beai-glass">
-                <!-- 1. Microsoft filing alert + revenue impact -->
+                <!-- 1. Microsoft filing alert -->
                 <div class="beai-bubble bot" style="animation-delay:0s">
-                  <div class="beai-agent-label"><div class="beai-agent-icon"></div><span class="beai-agent-name">BE Patent Agent</span></div>
-                  Hey, I found that <strong>Microsoft</strong> has filed near one of our patents. Here is something we can do that will increase our licensing revenue by <strong>$2.4 million</strong>.
+                  <div class="beai-avatar"><img src="./assets/be-linkedin-still-v2.webp" alt="BE" width="36" height="36"></div>
+                  <div class="beai-bubble-content">
+                    <strong>"Microsoft</strong> filed near one of your patents — here's how to increase licensing revenue by <strong>$2.4M"</strong>
+                    <div class="beai-bubble-meta"><span class="beai-bubble-name">BE Patent Agent</span></div>
+                  </div>
                 </div>
 
-                <div class="beai-action" style="animation-delay:2.4s">
+                <div class="beai-action" style="animation-delay:1.6s">
                   <div class="beai-action-title">Projected Revenue Impact</div>
                   <div class="beai-action-row">
                     <span class="beai-action-chip active">+$2.4M</span>
@@ -536,18 +541,27 @@
                 </div>
 
                 <!-- 2. Gap analysis -->
-                <div class="beai-bubble bot" style="animation-delay:4.8s">
-                  <div class="beai-agent-label"><div class="beai-agent-icon"></div><span class="beai-agent-name">BE Patent Agent</span></div>
-                  I also found <strong>3 gaps</strong> in your edge computing claims. Competitors are filing in that space — worth protecting before they do.
+                <div class="beai-bubble bot" style="animation-delay:3.2s">
+                  <div class="beai-avatar"><img src="./assets/be-linkedin-still-v2.webp" alt="BE" width="36" height="36"></div>
+                  <div class="beai-bubble-content">
+                    <strong>"Found 3 gaps</strong> in your edge computing claims — competitors are filing in that space"
+                    <div class="beai-bubble-meta"><span class="beai-bubble-name">BE Patent Agent</span></div>
+                  </div>
                 </div>
 
                 <!-- 3. Action taken -->
-                <div class="beai-bubble bot" style="animation-delay:7.2s">
-                  <div class="beai-agent-label"><div class="beai-agent-icon"></div><span class="beai-agent-name">BE Patent Agent</span></div>
-                  I have just acted on one of the patents, and it is now filed. Draft sent to your legal team for sign-off.
+                <div class="beai-bubble bot" style="animation-delay:4.8s">
+                  <div class="beai-avatar"><img src="./assets/be-linkedin-still-v2.webp" alt="BE" width="36" height="36"></div>
+                  <div class="beai-bubble-content">
+                    <strong>"Patent filed.</strong> Draft sent to your legal team for sign-off"
+                    <div class="beai-bubble-meta"><span class="beai-bubble-name">BE Patent Agent</span></div>
+                  </div>
                 </div>
 
-                <div class="beai-typing" style="animation-delay:9.6s"><span></span><span></span><span></span></div>
+                <div class="beai-typing" style="animation-delay:6.4s">
+                  <div class="beai-avatar"><img src="./assets/be-linkedin-still-v2.webp" alt="BE" width="36" height="36"></div>
+                  <div class="beai-typing-dots"><span></span><span></span><span></span></div>
+                </div>
               </div>
 
             </div>
