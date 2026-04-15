@@ -506,29 +506,21 @@
                 .beai-agent-icon::after{content:'';position:absolute;width:5px;height:5px;top:50%;left:50%;transform:translate(-50%,-50%);border-radius:50%;background:rgba(255,255,255,.7)}
                 .beai-agent-name{font-size:10px;font-weight:600;color:rgba(60,50,40,.5);letter-spacing:.2px}
 
-                /* Staggered animation delays */
-                .beai-bubble:nth-child(1){animation-delay:.3s}
-                .beai-bubble:nth-child(2){animation-delay:1.1s}
-                .beai-bubble:nth-child(3){animation-delay:1.9s}
-                .beai-bubble:nth-child(4){animation-delay:2.7s}
-                .beai-bubble:nth-child(5){animation-delay:3.5s}
-                .beai-bubble:nth-child(6){animation-delay:4.3s}
-                .beai-bubble:nth-child(7){animation-delay:5.1s}
-                .beai-bubble:nth-child(8){animation-delay:5.9s}
+                /* Delays set inline for correct ordering */
                 @keyframes beaiFade{
                   0%{opacity:0;transform:translateY(12px)}
                   100%{opacity:1;transform:translateY(0)}
                 }
 
                 /* Typing dots */
-                .beai-typing{display:flex;gap:4px;padding:14px 18px;background:rgba(220,210,198,.35);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:20px;opacity:0;animation:beaiFade .4s ease 6.5s forwards;align-self:center}
+                .beai-typing{display:flex;gap:4px;padding:14px 18px;background:rgba(220,210,198,.35);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:20px;opacity:0;align-self:center}
                 .beai-typing span{width:5px;height:5px;border-radius:50%;background:rgba(60,50,40,.25);animation:typDot 1.2s ease-in-out infinite}
                 .beai-typing span:nth-child(2){animation-delay:.15s}
                 .beai-typing span:nth-child(3){animation-delay:.3s}
                 @keyframes typDot{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
 
                 /* Action card — like Sierra's time picker */
-                .beai-action{background:rgba(220,210,198,.35);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:20px;padding:14px 18px;width:88%;align-self:center;opacity:0;animation:beaiFade .5s ease 5.9s forwards}
+                .beai-action{background:rgba(220,210,198,.35);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:20px;padding:14px 18px;width:88%;align-self:center;opacity:0}
                 .beai-action-title{font-size:9px;font-weight:600;color:rgba(60,50,40,.4);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px}
                 .beai-action-row{display:flex;gap:6px;margin-bottom:10px}
                 .beai-action-chip{padding:5px 12px;border-radius:20px;font-size:10px;color:rgba(60,50,40,.6);background:rgba(255,255,255,.4);cursor:default}
@@ -537,17 +529,13 @@
               </style>
 
               <div class="beai-glass">
-                <!-- User question — plain text, no box -->
-                <div class="beai-bubble user">Can we file before Microsoft's window closes?</div>
-
-                <!-- Bot response — frosted glass card -->
-                <div class="beai-bubble bot">
+                <!-- 1. Microsoft filing alert + revenue impact -->
+                <div class="beai-bubble bot" style="animation-delay:.3s">
                   <div class="beai-agent-label"><div class="beai-agent-icon"></div><span class="beai-agent-name">BE Patent Agent</span></div>
-                  Yes, we have a 6-week window. I recommend filing <strong>Patent XYZ</strong> immediately.
+                  Hey, I found that <strong>Microsoft</strong> has filed near one of our patents. Here is something we can do that will increase our licensing revenue by <strong>$2.4 million</strong>.
                 </div>
 
-                <!-- Action card — like Sierra's time picker -->
-                <div class="beai-action">
+                <div class="beai-action" style="animation:beaiFade .5s ease 1.2s forwards">
                   <div class="beai-action-title">Projected Revenue Impact</div>
                   <div class="beai-action-row">
                     <span class="beai-action-chip active">+$2.4M</span>
@@ -557,22 +545,19 @@
                   <button class="beai-action-btn">Confirming...</button>
                 </div>
 
-                <!-- Continued conversation -->
-                <div class="beai-bubble user">What about the gap in our defence portfolio?</div>
-
-                <div class="beai-bubble bot">
+                <!-- 2. Gap analysis -->
+                <div class="beai-bubble bot" style="animation-delay:2.2s">
                   <div class="beai-agent-label"><div class="beai-agent-icon"></div><span class="beai-agent-name">BE Patent Agent</span></div>
-                  I found <strong>3 gaps</strong> in your claims around edge computing. Filing now protects against <strong>Samsung's recent cluster</strong>.
+                  I also found <strong>3 gaps</strong> in your edge computing claims. Competitors are filing in that space — worth protecting before they do.
                 </div>
 
-                <div class="beai-bubble user">Draft it. Flag for review.</div>
-
-                <div class="beai-bubble bot">
+                <!-- 3. Action taken -->
+                <div class="beai-bubble bot" style="animation-delay:3.4s">
                   <div class="beai-agent-label"><div class="beai-agent-icon"></div><span class="beai-agent-name">BE Patent Agent</span></div>
-                  Done. Draft sent to your legal team for sign-off. ETA: 48 hours.
+                  I have just acted on one of the patents, and it is now filed. Draft sent to your legal team for sign-off.
                 </div>
 
-                <div class="beai-typing"><span></span><span></span><span></span></div>
+                <div class="beai-typing" style="animation:beaiFade .4s ease 4.4s forwards"><span></span><span></span><span></span></div>
               </div>
 
             </div>
@@ -782,10 +767,12 @@
           @keyframes dotPop{to{opacity:1}}
 
           /* ── Card 3: CFO composite ── */
-          .cfo-composite{position:absolute;inset:8px;border-radius:12px;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto 1fr;gap:6px;padding:8px}
-          .cfo-avatar{grid-column:1/-1;display:flex;align-items:center;justify-content:center;padding:8px 0}
-          .cfo-avatar-bubble{width:72px;height:72px;border-radius:50%;background:rgba(255,255,255,.15);backdrop-filter:blur(8px);border:2px solid rgba(255,255,255,.2);display:flex;align-items:center;justify-content:center;animation:sierraPulse 3s ease-in-out infinite;overflow:hidden}
+          .cfo-composite{position:absolute;inset:8px;border-radius:12px;display:flex;flex-direction:column;align-items:center;gap:8px;padding:12px 8px}
+          .cfo-avatar{display:flex;align-items:center;justify-content:center;flex:1}
+          .cfo-avatar-bubble{width:80px;height:80px;border-radius:50%;background:rgba(255,255,255,.15);backdrop-filter:blur(8px);border:2px solid rgba(255,255,255,.25);display:flex;align-items:center;justify-content:center;overflow:hidden;box-shadow:0 0 20px rgba(255,255,255,.1)}
+          .cfo-avatar-bubble img{width:100%;height:100%;object-fit:cover}
           .cfo-avatar-bubble svg{width:40px;height:40px;fill:rgba(255,255,255,.7)}
+          .cfo-bottom{display:grid;grid-template-columns:1fr 1fr;gap:6px;width:100%}
           .cfo-mini-dash{background:rgba(255,255,255,.08);backdrop-filter:blur(8px);border-radius:8px;padding:7px 9px;border:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column;justify-content:center}
           .cfo-mini-label{font-size:.5rem;color:rgba(255,255,255,.45);text-transform:uppercase;letter-spacing:.05em}
           .cfo-mini-val{font-size:.85rem;font-weight:600;color:#fff;margin-top:1px}
@@ -862,17 +849,19 @@
                 <div class="cfo-composite">
                   <div class="cfo-avatar">
                     <div class="cfo-avatar-bubble">
-                      <svg viewBox="0 0 24 24"><path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v2h20v-2c0-3.3-6.7-5-10-5z"/></svg>
+                      <img src="./assets/cfo-exec-avatar.webp" alt="IP strategist" onerror="this.style.display='none';this.parentElement.innerHTML+='<svg viewBox=&quot;0 0 24 24&quot;><path d=&quot;M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v2h20v-2c0-3.3-6.7-5-10-5z&quot; fill=&quot;rgba(255,255,255,.7)&quot;/></svg>'">
                     </div>
                   </div>
-                  <div class="cfo-mini-dash">
-                    <div class="cfo-mini-label">Licensing Rev.</div>
-                    <div class="cfo-mini-val">$1.8M</div>
-                    <div class="cfo-mini-bar"><div class="cfo-mini-bar-fill" style="width:72%"></div></div>
-                  </div>
-                  <div class="cfo-mini-chat">
-                    <div class="cfo-mini-msg">Filing strategy updated</div>
-                    <div class="cfo-mini-msg">2 new claims ready</div>
+                  <div class="cfo-bottom">
+                    <div class="cfo-mini-dash">
+                      <div class="cfo-mini-label">Licensing Rev.</div>
+                      <div class="cfo-mini-val">$1.8M</div>
+                      <div class="cfo-mini-bar"><div class="cfo-mini-bar-fill" style="width:72%"></div></div>
+                    </div>
+                    <div class="cfo-mini-chat">
+                      <div class="cfo-mini-msg">Filing strategy updated</div>
+                      <div class="cfo-mini-msg">2 new claims ready</div>
+                    </div>
                   </div>
                 </div>
               </div>
