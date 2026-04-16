@@ -294,7 +294,7 @@ function indexPageHTML(services) {
   // Stronger, Hormozi-style card descriptions keyed by slug (override weaker JSON taglines on the pricing index)
   const descBySlug = {
     'ai-patent-intelligence-dashboard': {
-      desc: 'Your patent attorney charges $30K and takes 3 weeks. Our AI does it in 8 minutes, runs 24/7, and costs less than a team lunch. Competitor filings. Gap analysis. Freedom-to-operate. On autopilot — while you sleep.',
+      desc: 'Your patent attorney charges $30K and takes 3 weeks. Our AI does it in 8 minutes, runs 24/7, and costs less than a team lunch. What competitors filed. Where your gaps are. Filing recommendations. Hidden opportunities. All on autopilot.',
       fit: 'Pre-seed to Series A founders who need patent intelligence without a $30K retainer.',
     },
     'patentability-audit': {
