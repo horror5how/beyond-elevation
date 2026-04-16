@@ -408,7 +408,7 @@ ${header()}
       <article class="svc-shell" style="max-width:1200px">
         <p class="svc-eyebrow">Pricing &amp; Playbooks</p>
         <h1>Turn dormant IP into a revenue line, a fundraising weapon, or a bigger exit.</h1>
-        <p class="svc-tagline">We're not patent attorneys. We're operators. We turned 66 patents into $1.8M+ in royalty revenue. Now we do it for you — three ways, priced for outcomes.</p>
+        <p class="svc-tagline">We're not patent attorneys. We're operators.</p>
         <p class="svc-sub">Pick the playbook that matches where your company is. If you're not sure, we'll tell you on the call — including if the honest answer is none of them.</p>
 
         <div class="sc-grid">
