@@ -1,0 +1,42 @@
+name: Daily AI Digest Email
+
+# Sends a morning briefing to hayat@beyondelevation.com every day at 8 AM BST
+# (7 AM UTC = 8 AM BST in summer / British Summer Time, Mar–Oct).
+#
+# During winter (GMT, Nov–Mar) the email arrives at 7 AM GMT.
+# To switch to 8 AM GMT year-round change the cron to: '0 8 * * *'
+#
+# Required GitHub secret : RESEND_API_KEY  — sign up free at https://resend.com
+#   • Verify your domain (beyondelevation.com) in the Resend dashboard so the
+#     "From" address digest@beyondelevation.com is accepted.
+#
+# Optional GitHub secret : NEWS_API_KEY    — sign up free at https://newsapi.org
+#   • Adds mainstream press articles on top of Hacker News + Reddit sources.
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 07:00 UTC = 08:00 BST (British Summer Time)
+  workflow_dispatch:        # Manual trigger — useful for testing
+
+jobs:
+  send-digest:
+    name: Send Daily AI Digest
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Send digest email
+        run: node scripts/send-daily-digest.js
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NEWS_API_KEY:   ${{ secrets.NEWS_API_KEY }}
+          # GITHUB_TOKEN is automatically provided by Actions for authenticated
+          # GitHub Search API calls (avoids the 60-req/hr unauthenticated limit).
+          GITHUB_TOKEN:   ${{ secrets.GITHUB_TOKEN }}
