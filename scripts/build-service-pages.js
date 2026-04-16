@@ -407,7 +407,7 @@ ${header()}
     <main class="shell svc-page">
       <article class="svc-shell" style="max-width:1200px">
         <p class="svc-eyebrow">Pricing &amp; Playbooks</p>
-        <h1>Turn dormant IP into a revenue line, a fundraising weapon, or a bigger exit.</h1>
+        <h1>Turn your product data into valuation leverage, revenue and MOAT!</h1>
         <p class="svc-tagline">We're not patent attorneys. We're operators.</p>
         <p class="svc-sub">Pick the playbook that matches where your company is. If you're not sure, we'll tell you on the call — including if the honest answer is none of them.</p>
 
