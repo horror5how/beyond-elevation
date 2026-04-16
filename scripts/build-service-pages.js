@@ -288,8 +288,24 @@ ${footer()}
 
 function indexPageHTML(services) {
   const canonical = `${SITE}/services/`;
-  const title = 'Services & Pricing — Beyond Elevation | Choose What Fits';
-  const description = 'Three services. One playbook. AI patent intelligence, patentability audits for early-stage companies, and embedded fractional IP CxOs for growth-stage leaders. Operators, not lawyers.';
+  const title = 'Pricing — Beyond Elevation | Turn Dormant IP Into Revenue, Valuation, and Exit Multiple';
+  const description = 'Three playbooks, priced for outcomes. BE.AI Agent from $980/mo. 90-day IP Strategy Sprint at $6,500/mo. Fractional IP CxO, custom. 30-day leverage guarantee. Operators, not lawyers.';
+
+  // Stronger, Hormozi-style card descriptions keyed by slug (override weaker JSON taglines on the pricing index)
+  const descBySlug = {
+    'ai-patent-intelligence-dashboard': {
+      desc: 'Your patent attorney charges $30K and takes 3 weeks. Our AI does it in 8 minutes, runs 24/7, and costs less than a team lunch. Competitor filings. Gap analysis. Freedom-to-operate. On autopilot — while you sleep.',
+      fit: 'Pre-seed to Series A founders who need patent intelligence without a $30K retainer.',
+    },
+    'patentability-audit': {
+      desc: 'VCs don\'t fund ideas. They fund moats. In 90 days we audit your tech, draft fileable claims, and hand you the "why nobody else can do this" slide that closes rounds at a higher valuation.',
+      fit: 'Founders raising a round in the next 6 months who need investor-grade IP proof, not legal filings.',
+    },
+    'fractional-ip-cxo': {
+      desc: 'Hire the operator who turned 66 patents into $1.8M+ in royalty revenue at Position Imaging. Part-time CxO. Full-time leverage. Embedded in your company until your IP writes its own checks.',
+      fit: 'Series B+ companies with a technical moat that\'s sitting on the balance sheet instead of the P&L.',
+    },
+  };
 
   const itemListSchema = {
     '@context': 'https://schema.org',
@@ -348,8 +364,41 @@ ${commonHead(title, description, canonical, [itemListSchema])}
       .sc-link{display:inline-flex;align-items:center;gap:6px;font-size:.9rem;font-weight:700;color:#1a1a1a;text-decoration:none;transition:gap .2s ease}
       .sc-link:hover{gap:10px}
       .sc-link svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2}
+      .sc-fit{font-size:.8rem;color:#6b5b4a;margin:0 0 16px;padding:10px 14px;background:#faf7f3;border-left:3px solid #c9b896;border-radius:6px;line-height:1.5}
+      .sc-fit strong{color:#3a2e1f}
 
-      @media(max-width:900px){.sc-grid{grid-template-columns:1fr;max-width:420px;margin:48px auto 0}}
+      /* === Cost of doing nothing === */
+      .svc-compare{margin:88px 0 0;padding:56px 44px;background:#faf7f3;border-radius:22px;border:1px solid #eee6dc}
+      .svc-compare-inner{max-width:1000px;margin:0 auto;text-align:center}
+      .svc-compare h2{font-size:clamp(1.7rem,3.2vw,2.3rem);letter-spacing:-.02em;margin:0 auto 14px;max-width:22ch}
+      .svc-compare-sub{color:#555;font-size:1.02rem;line-height:1.65;margin:0 auto 40px;max-width:60ch}
+      .svc-compare-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;text-align:left}
+      .svc-compare-item{background:#fff;border-radius:16px;padding:28px 24px;border:1px solid #ece6dc}
+      .svc-compare-num{font-size:2.4rem;font-weight:800;letter-spacing:-.03em;color:#1a1a1a;line-height:1;margin:0 0 12px}
+      .svc-compare-item p{color:#555;font-size:.95rem;line-height:1.6;margin:0}
+
+      /* === Guarantee === */
+      .svc-guarantee-band{margin:36px 0 0;padding:56px 44px;background:linear-gradient(135deg,#1a3a2a 0%,#0f2419 100%);color:#fff;border-radius:22px}
+      .svc-guarantee-inner{max-width:760px;margin:0 auto;text-align:center}
+      .svc-guarantee-badge{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#9ad9b4;background:rgba(154,217,180,.12);padding:6px 14px;border-radius:100px;margin:0 0 18px;border:1px solid rgba(154,217,180,.24)}
+      .svc-guarantee-band h2{font-size:clamp(1.5rem,3vw,2rem);letter-spacing:-.02em;color:#fff;margin:0 auto 18px;max-width:22ch}
+      .svc-guarantee-band p{color:#d2e5d9;font-size:1.02rem;line-height:1.7;margin:0 0 14px}
+      .svc-guarantee-band p.svc-guarantee-sub{color:#9ebfa9;font-size:.92rem}
+
+      /* === FAQ === */
+      .svc-faq-band{margin:72px auto 0;max-width:820px}
+      .svc-faq-band h2{font-size:clamp(1.6rem,3vw,2rem);letter-spacing:-.02em;margin:0 0 28px;text-align:center}
+      .svc-faq-list{display:flex;flex-direction:column;gap:12px}
+      .svc-faq-item{background:#fff;border:1px solid #e8e4df;border-radius:14px;overflow:hidden;transition:border-color .2s ease}
+      .svc-faq-item[open]{border-color:#1a1a1a}
+      .svc-faq-item summary{padding:22px 26px;font-size:1.02rem;font-weight:600;color:#1a1a1a;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:12px}
+      .svc-faq-item summary::after{content:"+";font-size:1.5rem;font-weight:400;color:#888;flex-shrink:0}
+      .svc-faq-item[open] summary::after{content:"−"}
+      .svc-faq-item summary::-webkit-details-marker{display:none}
+      .svc-faq-item p{padding:0 26px 22px;color:#555;font-size:.98rem;line-height:1.7;margin:0}
+
+      @media(max-width:900px){.sc-grid{grid-template-columns:1fr;max-width:420px;margin:48px auto 0}.svc-compare-grid{grid-template-columns:1fr}}
+      @media(max-width:760px){.svc-compare{padding:40px 24px}.svc-guarantee-band{padding:40px 24px}.svc-faq-item summary{padding:18px 20px;font-size:.98rem}.svc-faq-item p{padding:0 20px 18px}}
     </style>
   </head>
   <body>
@@ -357,13 +406,15 @@ ${header()}
 
     <main class="shell svc-page">
       <article class="svc-shell" style="max-width:1200px">
-        <p class="svc-eyebrow">Services &amp; Pricing</p>
-        <h1>Choose what fits.</h1>
-        <p class="svc-tagline">We are not patent attorneys. We are operators who turn patents, data, and know-how into licensing revenue, higher valuation, and exit multiples.</p>
+        <p class="svc-eyebrow">Pricing &amp; Playbooks</p>
+        <h1>Turn dormant IP into a revenue line, a fundraising weapon, or a bigger exit.</h1>
+        <p class="svc-tagline">We're not patent attorneys. We're operators. We turned 66 patents into $1.8M+ in royalty revenue. Now we do it for you — three ways, priced for outcomes.</p>
+        <p class="svc-sub">Pick the playbook that matches where your company is. If you're not sure, we'll tell you on the call — including if the honest answer is none of them.</p>
 
         <div class="sc-grid">
 ${services.map((s, i) => {
   const c = cardConfigs[i] || cardConfigs[0];
+  const override = descBySlug[s.slug] || { desc: s.tagline, fit: '' };
   return `          <div class="sc-card">
             <div class="sc-visual" style="background:${c.bg}">
               <div class="sc-orb" style="background:${c.orb}"></div>
@@ -375,7 +426,8 @@ ${c.metrics.map(m => `                <div class="sc-metric"><div class="sc-metr
             </div>
             <div class="sc-body">
               <div class="sc-price-block">${priceDisplay(s)}</div>
-              <p class="sc-desc">${escapeHtml(s.tagline)}</p>
+              <p class="sc-desc">${escapeHtml(override.desc)}</p>
+              ${override.fit ? `<p class="sc-fit"><strong>Best for:</strong> ${escapeHtml(override.fit)}</p>` : ''}
               <div class="sc-tags">
 ${c.tags.map(t => `                <span class="sc-tag">${t}</span>`).join('\n')}
               </div>
@@ -385,11 +437,52 @@ ${c.tags.map(t => `                <span class="sc-tag">${t}</span>`).join('\n')
 }).join('\n')}
         </div>
 
+        <section class="svc-compare">
+          <div class="svc-compare-inner">
+            <h2>What it costs to do nothing.</h2>
+            <p class="svc-compare-sub">Every quarter without an IP strategy quietly taxes your company. Most founders don't see the bill until they raise or sell — when it's too late to fix.</p>
+            <div class="svc-compare-grid">
+              <div class="svc-compare-item">
+                <div class="svc-compare-num">$4.2M</div>
+                <p>Average valuation lift we've delivered per client when IP is restructured <em>before</em> the raise, not after.</p>
+              </div>
+              <div class="svc-compare-item">
+                <div class="svc-compare-num">2–3x</div>
+                <p>Exit-multiple compression when you go to market without defensible IP or a licensing story. Buyers pay for moats, not pitches.</p>
+              </div>
+              <div class="svc-compare-item">
+                <div class="svc-compare-num">$30K+</div>
+                <p>What law firms charge to produce what our BE.AI Agent produces in 8 minutes — and they still won't tell you how to monetize it.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="svc-guarantee-band">
+          <div class="svc-guarantee-inner">
+            <div class="svc-guarantee-badge">The 30-Day Leverage Guarantee</div>
+            <h2>Find $100K of IP leverage in 30 days — or we refund you.</h2>
+            <p>On the Audit Sprint and Fractional CxO tracks: if we can't identify at least $100K of defensible IP leverage, licensing opportunity, or valuation uplift in the first 30 days, we refund you in full. No paperwork. No argument. No hard feelings.</p>
+            <p class="svc-guarantee-sub">We can make this offer because we've never missed it. 66 patents restructured. $1.8M+ in royalty revenue generated. 4.5 on Trustpilot. You're not the first. You're the next.</p>
+          </div>
+        </section>
+
+        <section class="svc-faq-band">
+          <h2>Objections, killed.</h2>
+          <div class="svc-faq-list">
+            <details class="svc-faq-item"><summary>I already have a patent attorney. Why do I need you?</summary><p>Attorneys file. We monetize. A lawyer drafts claims to survive the USPTO. We build portfolios to survive a cap table, a licensing negotiation, and an exit. Different job. Different outcome. Most of our clients keep their attorney — and add us on top.</p></details>
+            <details class="svc-faq-item"><summary>Can't I just file patents myself and figure it out later?</summary><p>You can. You'll also burn $40K–$120K per patent family, file claims that don't map to revenue, and discover in diligence that the moat you thought you had doesn't exist. "Later" is when acquirers knock 2–3x off your multiple. We help you file the right 6 patents instead of the wrong 20.</p></details>
+            <details class="svc-faq-item"><summary>How fast before I see ROI?</summary><p>BE.AI Agent: week one — every hour of attorney billing you skip is ROI. Audit Sprint: 90 days — investor-grade IP deliverables priced to move a round. Fractional CxO: 6–12 months — first licensing checks, one full portfolio restructure, one clear exit story.</p></details>
+            <details class="svc-faq-item"><summary>We're pre-seed. Is it too early?</summary><p>No. Pre-seed is the cheapest it will ever be to build the moat. BE.AI Agent at $980/mo is designed for exactly this stage. File right, file cheap, file first — or explain to your Series A lead why a competitor got there before you did.</p></details>
+            <details class="svc-faq-item"><summary>What if none of these fit?</summary><p>We'll tell you on the call. We've told plenty of founders "not yet" or "not us." The 30-minute IP diagnostic is free — and the fastest straight answer you'll get all quarter.</p></details>
+          </div>
+        </section>
+
         <section class="svc-final">
-          <h2>Not sure which one fits?</h2>
-          <p>Book a free 30-minute IP diagnostic. We will tell you which service makes sense — or that none of them do.</p>
+          <h2>Your IP is either a revenue engine or a line item on a legal invoice. Pick one.</h2>
+          <p>Book the free 30-minute IP diagnostic. We'll tell you which playbook fits, what it's worth, and whether it makes sense at all. No pitch. Just a straight answer.</p>
           <div class="svc-cta-row" style="justify-content:center;">
-            <a class="svc-cta-primary" href="${CTA_URL}" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic →</a>
+            <a class="svc-cta-primary" href="${CTA_URL}" target="_blank" rel="noreferrer">Book Your Free IP Diagnostic →</a>
           </div>
         </section>
       </article>
