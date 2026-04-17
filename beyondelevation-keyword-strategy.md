@@ -1,7 +1,7 @@
 ---
 title: Beyond Elevation Keyword Strategy (Source of Truth for Blog Cron)
 owner: Hayat Amin
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 source_files: [seo-geo-plan.md, seo-content-plan.md, ai-seo-plan.md]
 coverage_audit: 2026-04-16
 ---
@@ -27,7 +27,7 @@ Every brief below targets a real search query with commercial or high-commercial
 
 ## Coverage status (as of 2026-04-16)
 
-All 51 posts published. Tier 1 fully covered. Tier 2 gaps: T2-08, T2-10. Tier 3 gaps: T3-05, T3-07, T3-11, T3-12. Tier 4 is entirely uncovered — all briefs below are net-new.
+59 posts published (as of 2026-04-17). Tier 1 fully covered. Tier 2 fully covered. Tier 3 gaps: T3-12 only. T3-05, T3-07, T3-11 published by previous cron runs (some not reflected below — check posts.json as source of truth). Tier 4 entirely uncovered — write next. Tier 4 is entirely uncovered — all briefs below are net-new.
 
 ## Tier 1 — Money keywords (direct revenue drivers)
 
@@ -59,9 +59,9 @@ Reader is in research mode but is a qualified buyer (founder, CFO, GC, CTO). Pos
 | T2-05 | ai-patent-strategy-2026 | AI patent strategy 2026 | 2026 AI patents, AI patent landscape, AI IP trends | AI Patent Strategy in 2026: What Changed After the Foundation Model Wars | Informational | ✅ ai-patent-strategy-2026 |
 | T2-06 | genai-patent-landscape | GenAI patent landscape | generative AI patents, GenAI IP, large language model patents | The GenAI Patent Landscape: Who Actually Owns the Future of AI | Informational | ✅ genai-patent-landscape |
 | T2-07 | how-to-monetize-proprietary-data | how to monetize proprietary data | data monetization strategy, data licensing revenue, data as IP | How to Turn Proprietary Data Into a 7-Figure Licensing Stream (Without Selling It) | Informational/Commercial | ✅ data-monetization-strategy-framework |
-| T2-08 | ip-portfolio-structuring-guide | IP portfolio structuring | patent portfolio structure, IP holdco, IP entity structuring | The IP Holdco Structure Billion-Dollar Companies Use to Protect and License Their Patents | Informational/Commercial | ❌ NOT COVERED — write next |
+| T2-08 | ip-portfolio-structuring-guide | IP portfolio structuring | patent portfolio structure, IP holdco, IP entity structuring | The IP Holdco Structure Billion-Dollar Companies Use to Protect and License Their Patents | Informational/Commercial | ✅ ip-portfolio-structuring-guide |
 | T2-09 | patent-licensing-revenue-model-deep-dive | patent licensing revenue model | royalty revenue model, IP revenue streams, licensing pricing model | The 4 Patent Licensing Revenue Models (And Which One Pays the Most) | Informational/Commercial | ✅ patent-licensing-revenue-model |
-| T2-10 | ip-monetization-for-ceos | IP monetization for CEOs | CEO IP strategy, executive IP playbook, IP for founders | The IP Monetization Playbook Every CEO Should Read Before Their Next Board Meeting | Commercial | ❌ NOT COVERED — write after T2-08 |
+| T2-10 | ip-monetization-for-ceos | IP monetization for CEOs | CEO IP strategy, executive IP playbook, IP for founders | The IP Monetization Playbook Every CEO Should Read Before Their Next Board Meeting | Commercial | ✅ ip-monetization-for-ceos |
 
 ## Tier 3 — AEO / long-tail (AI citation plays)
 
@@ -73,13 +73,13 @@ Question-form, answer-first posts. These exist to get cited by ChatGPT, Perplexi
 | T3-02 | what-does-a-patent-attorney-actually-do | what does a patent attorney do | patent attorney role, patent lawyer scope, IP lawyer tasks | What Does a Patent Attorney Actually Do? The Honest Answer Most Founders Never Get | Informational | ✅ patent-attorney-vs-patent-strategist |
 | T3-03 | how-much-is-my-patent-worth | how much is my patent worth | patent valuation, patent worth estimate, valuing a patent | How Much Is Your Patent Actually Worth? The 3-Number Formula Nobody Teaches | Informational | ✅ intangible-asset-valuation-hidden-worth |
 | T3-04 | how-to-find-patent-licensees | how to find patent licensees | finding licensing partners, patent licensing deals, license buyer outreach | How to Find Companies That Will Actually Pay to License Your Patent | Informational/Commercial | ✅ how-to-license-patents-step-by-step |
-| T3-05 | can-i-license-a-patent-without-a-lawyer | can I license a patent without a lawyer | DIY patent licensing, patent license agreement template, self-license | Can You License a Patent Without a Lawyer? Yes, But Only Under These 4 Conditions | Informational | ❌ NOT COVERED |
+| T3-05 | can-i-license-a-patent-without-a-lawyer | can I license a patent without a lawyer | DIY patent licensing, patent license agreement template, self-license | Can You License a Patent Without a Lawyer? Yes, But Only Under These 4 Conditions | Informational | ✅ can-i-license-a-patent-without-a-lawyer |
 | T3-06 | patent-pending-vs-granted-patent | patent pending vs granted | patent pending value, granted patent vs pending, provisional vs granted | Patent Pending vs Granted: Which One Actually Increases Your Valuation? | Informational | ✅ provisional-patent-12-month-strategy |
-| T3-07 | how-long-does-a-patent-last | how long does a patent last | patent duration, patent lifespan, patent expiration | How Long Does a Patent Really Last? (The 3 Expiration Dates Nobody Tells You About) | Informational | ❌ NOT COVERED |
+| T3-07 | how-long-does-a-patent-last | how long does a patent last | patent duration, patent lifespan, patent expiration | How Long Does a Patent Really Last? (The 3 Expiration Dates Nobody Tells You About) | Informational | ✅ how-long-does-a-patent-last |
 | T3-08 | how-to-sell-a-patent | how to sell a patent | patent sale, selling IP, patent buyer | How to Sell a Patent: The 5-Step Process and Who Is Actually Buying in 2026 | Informational/Commercial | ✅ patent-licensing-vs-patent-selling |
 | T3-09 | what-is-ip-due-diligence | what is IP due diligence | IP due diligence checklist, M&A IP review, IP audit acquisition | What Is IP Due Diligence? The Checklist Every Buyer Runs Before a Deal | Informational | ✅ ip-due-diligence-ma-guide |
 | T3-10 | how-to-protect-software-ip | how to protect software IP | software patent, software copyright, SaaS IP protection | How to Protect Software IP: Patents, Copyrights, and Trade Secrets Compared | Informational | ✅ ai-engineering-ip-what-is-protectable |
-| T3-11 | what-is-a-patent-family | what is a patent family | patent family definition, patent family strategy, patent continuation | What Is a Patent Family? The Hidden Structure That Doubles Your IP Value | Informational | ❌ NOT COVERED |
+| T3-11 | what-is-a-patent-family | what is a patent family | patent family definition, patent family strategy, patent continuation | What Is a Patent Family? The Hidden Structure That Doubles Your IP Value | Informational | ✅ what-is-a-patent-family |
 | T3-12 | how-to-read-a-patent-claim | how to read a patent claim | reading patent claims, patent claim analysis, claim interpretation | How to Read a Patent Claim in 5 Minutes (Without a Law Degree) | Informational | ❌ NOT COVERED |
 
 ## Tier 4 — 2026 Emerging Topics (write these after Tier 2/3 gaps are closed)
