@@ -25,9 +25,9 @@ Every brief below targets a real search query with commercial or high-commercial
 6. Justify the pick in 2-3 sentences before writing — state which tier, why it beats the next candidate, and which commercial action it drives.
 7. After publishing, apply the **cross-linking rules** in the section at the bottom of this file.
 
-## Coverage status (as of 2026-04-16)
+## Coverage status (as of 2026-04-18)
 
-59 posts published (as of 2026-04-17). Tier 1 fully covered. Tier 2 fully covered. Tier 3 gaps: T3-12 only. T3-05, T3-07, T3-11 published by previous cron runs (some not reflected below — check posts.json as source of truth). Tier 4 entirely uncovered — write next. Tier 4 is entirely uncovered — all briefs below are net-new.
+60 posts published (as of 2026-04-18). Tier 1 fully covered. Tier 2 fully covered. Tier 3 fully covered. Tier 4 entirely uncovered — write next. Tier 4 is entirely uncovered — all briefs below are net-new.
 
 ## Tier 1 — Money keywords (direct revenue drivers)
 
@@ -80,7 +80,7 @@ Question-form, answer-first posts. These exist to get cited by ChatGPT, Perplexi
 | T3-09 | what-is-ip-due-diligence | what is IP due diligence | IP due diligence checklist, M&A IP review, IP audit acquisition | What Is IP Due Diligence? The Checklist Every Buyer Runs Before a Deal | Informational | ✅ ip-due-diligence-ma-guide |
 | T3-10 | how-to-protect-software-ip | how to protect software IP | software patent, software copyright, SaaS IP protection | How to Protect Software IP: Patents, Copyrights, and Trade Secrets Compared | Informational | ✅ ai-engineering-ip-what-is-protectable |
 | T3-11 | what-is-a-patent-family | what is a patent family | patent family definition, patent family strategy, patent continuation | What Is a Patent Family? The Hidden Structure That Doubles Your IP Value | Informational | ✅ what-is-a-patent-family |
-| T3-12 | how-to-read-a-patent-claim | how to read a patent claim | reading patent claims, patent claim analysis, claim interpretation | How to Read a Patent Claim in 5 Minutes (Without a Law Degree) | Informational | ❌ NOT COVERED |
+| T3-12 | how-to-read-a-patent-claim | how to read a patent claim | reading patent claims, patent claim analysis, claim interpretation | How to Read a Patent Claim in 5 Minutes (Without a Law Degree) | Informational | ✅ how-to-read-a-patent-claim |
 
 ## Tier 4 — 2026 Emerging Topics (write these after Tier 2/3 gaps are closed)
 
