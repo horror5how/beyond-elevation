@@ -40,6 +40,10 @@ jobs:
           SMTP_PASS:   ${{ secrets.SMTP_PASS }}    # email password or app password
           SMTP_FROM:   ${{ secrets.SMTP_FROM }}    # optional display address (defaults to SMTP_USER)
 
+          # Optional: Apify token for TikTok trending skills scraping
+          # Get a free token at apify.com — add as APIFY_TOKEN secret to enable TikTok section
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+
           # Recipient — hardcoded but can be overridden via secret
           EMAIL_TO: hayat@beyondelevation.com
 
