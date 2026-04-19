@@ -1,154 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://beyondelevation.com/</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
-      <image:title>Beyond Elevation — IP Strategy and Licensing Revenue</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/proof-portrait-latest.jpg</image:loc>
-      <image:title>Position Imaging IP licensing case study</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/testimonial-dgs-final-v4.jpg</image:loc>
-      <image:title>DGS IP strategy case study — Fernando Murias CEO</image:title>
-    </image:image>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/services/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
   </url>
   <url>
     <loc>https://beyondelevation.com/case-studies/</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-moat-not-just-the-model</loc>
-    <lastmod>2026-03-20</lastmod>
+    <loc>https://beyondelevation.com/services/ai-patent-intelligence-dashboard/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/services/patentability-audit/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/services/fractional-ip-cxo/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/eu-ai-act-ip-compliance/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-company-valuations-ip-role</loc>
-    <lastmod>2026-03-28</lastmod>
+    <loc>https://beyondelevation.com/blog/posts/ai-readiness-assessment-enterprise/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ip-strategy-startups-guide</loc>
-    <lastmod>2026-03-27</lastmod>
+    <loc>https://beyondelevation.com/blog/posts/ai-governance-framework-sme/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=patent-licensing-revenue-model</loc>
-    <lastmod>2026-03-26</lastmod>
+    <loc>https://beyondelevation.com/blog/posts/build-vs-buy-ai-decision/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=tech-company-valuation-ip-premium</loc>
-    <lastmod>2026-03-25</lastmod>
+    <loc>https://beyondelevation.com/blog/posts/agentic-ai-business-strategy/</loc>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=data-monetization-strategy-framework</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://beyondelevation.com/blog/posts/ai-transformation-roi-framework/</loc>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ip-valuation-methods-explained</loc>
-    <lastmod>2026-03-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=patent-strategy-consulting-what-to-expect</loc>
-    <lastmod>2026-03-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=how-to-license-patents-step-by-step</loc>
-    <lastmod>2026-03-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=trade-secrets-vs-patents-strategy-guide</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ip-due-diligence-ma-guide</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-engineering-ip-what-is-protectable</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-training-data-valuation</loc>
+    <loc>https://beyondelevation.com/blog/posts/ai-training-data-valuation/</loc>
     <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=agentic-ai-business-strategy</loc>
-    <lastmod>2026-04-18</lastmod>
+    <loc>https://beyondelevation.com/blog/posts/trade-secrets-vs-patents-strategy-guide/</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-transformation-roi-framework</loc>
-    <lastmod>2026-04-18</lastmod>
+    <loc>https://beyondelevation.com/blog/posts/ip-due-diligence-ma-guide/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/ai-engineering-ip-what-is-protectable/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/how-to-license-patents-step-by-step/</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/patent-strategy-consulting-what-to-expect/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-valuation-methods-explained/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/data-monetization-strategy-framework/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/ai-moat-not-just-the-model/</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/tech-company-valuation-ip-premium/</loc>
+    <lastmod>2026-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/patent-licensing-revenue-model/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-strategy-startups-guide/</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</loc>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://beyondelevation.com/llms.txt</loc>
-    <lastmod>2026-03-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-readiness-assessment-enterprise</loc>
     <lastmod>2026-04-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-governance-framework-sme</loc>
-    <lastmod>2026-04-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=build-vs-buy-ai-decision</loc>
-    <lastmod>2026-04-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://beyondelevation.com/llms-full.txt</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ai-moat-not-just-the-model.md</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ai-company-valuations-ip-role.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ip-strategy-startups-guide.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/patent-licensing-revenue-model.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/tech-company-valuation-ip-premium.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/data-monetization-strategy-framework.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ip-valuation-methods-explained.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/patent-strategy-consulting-what-to-expect.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/how-to-license-patents-step-by-step.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/trade-secrets-vs-patents-strategy-guide.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ip-due-diligence-ma-guide.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ai-engineering-ip-what-is-protectable.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/eu-ai-act-ip-compliance.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ai-training-data-valuation.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/agentic-ai-business-strategy.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ai-transformation-roi-framework.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ai-readiness-assessment-enterprise.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ai-governance-framework-sme.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/build-vs-buy-ai-decision.md</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>

@@ -3,7 +3,7 @@ title: "12 Questions That Reveal If Your Business Is Actually Ready for AI (Most
 slug: ai-readiness-assessment-enterprise
 date: 2026-04-19
 url: https://beyondelevation.com/blog/post.html?slug=ai-readiness-assessment-enterprise
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -106,3 +106,6 @@ AI readiness and patent strategy are directly connected. The readiness assessmen
 ### When should a company conduct an AI readiness assessment?
 
 The ideal time is before committing significant capital to AI development — typically at the strategic planning stage, before vendor selection or team hiring. Companies already mid-deployment should still conduct an assessment to identify IP gaps and ownership risks before they compound. Running the assessment before a funding round or M&A process is especially critical because investors and acquirers scrutinise AI IP ownership during due diligence.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

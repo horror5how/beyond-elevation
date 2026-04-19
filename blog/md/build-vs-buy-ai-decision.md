@@ -3,7 +3,7 @@ title: "Build vs Buy AI: The Framework That Stops Founders Wasting £500K on the
 slug: build-vs-buy-ai-decision
 date: 2026-04-19
 url: https://beyondelevation.com/blog/post.html?slug=build-vs-buy-ai-decision
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -100,3 +100,6 @@ Buy when the AI capability is operational infrastructure — not your competitiv
 ### How does the build vs buy AI decision affect fundraising?
 
 Companies with patents are 10.2x more likely to secure early-stage funding. Building AI in-house creates patentable assets that signal defensibility to investors. Buying AI creates vendor dependencies that signal replaceability. Investors price the difference into your valuation — often at a 2–4x multiple premium for companies with proprietary AI IP.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

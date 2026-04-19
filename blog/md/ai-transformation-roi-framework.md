@@ -3,7 +3,7 @@ title: "The 5 Numbers Your Board Will Ask About Your AI Transformation ROI (And 
 slug: ai-transformation-roi-framework
 date: 2026-04-18
 url: https://beyondelevation.com/blog/post.html?slug=ai-transformation-roi-framework
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -31,7 +31,7 @@ Every board evaluating an AI transformation asks five financial questions — an
 
 **Number 2: Time-to-value in months.** How long from first dollar spent to first measurable financial impact? Boards benchmark this against alternative uses of the same capital. If your AI transformation takes 18 months to show returns while a sales team expansion shows returns in 3 months, you need a compelling reason why the AI investment wins on a risk-adjusted basis. The answer is almost always defensibility — which connects directly to Number 5.
 
-**Number 3: Revenue directly attributable to AI.** This is where most [AI business cases](https://beyondelevation.com/blog/post.html?slug=ai-moat-not-just-the-model) collapse. Attribution is hard. But hard is not impossible. Isolate the revenue streams where AI is the primary driver — pricing optimisation, personalised recommendations, automated lead qualification, or new AI-powered product lines. If you cannot attribute specific revenue to AI, your board will attribute zero.
+**Number 3: Revenue directly attributable to AI.** This is where most [AI business cases](/blog/post.html?slug=ai-moat-not-just-the-model) collapse. Attribution is hard. But hard is not impossible. Isolate the revenue streams where AI is the primary driver — pricing optimisation, personalised recommendations, automated lead qualification, or new AI-powered product lines. If you cannot attribute specific revenue to AI, your board will attribute zero.
 
 **Number 4: Margin improvement from AI automation.** Measure the delta between pre-AI and post-AI gross margins on the same revenue. Automation that replaces manual processes, reduces error rates, or accelerates delivery creates margin improvement that drops directly to the bottom line. This number is the easiest to calculate and the hardest to argue against — which is why experienced founders lead with it when Numbers 2 and 3 are still maturing.
 
@@ -45,7 +45,7 @@ Most AI transformation ROI calculations fail because they measure what is easy t
 
 **Mistake 2: Counting cost savings without revenue attribution.** "We saved $400K in customer support costs" is a valid ROI component. But if your AI transformation cost $2M and the only measurable return is $400K in cost savings, the ROI is negative. Cost savings are necessary but insufficient. Boards want to see revenue growth and margin expansion, not just expense reduction. Measuring AI investment purely through the cost lens undersells the transformation and invites budget cuts.
 
-**Mistake 3: Ignoring the IP layer entirely.** This is the mistake that costs founders the most money over the longest time horizon. Every AI transformation creates [protectable IP assets](https://beyondelevation.com/blog/post.html?slug=ai-agent-ip-ownership-strategy) — and those assets have quantifiable value. When Position Imaging's 66-patent portfolio was restructured by Beyond Elevation, the IP layer transformed a technology investment into eight figures of recurring royalty revenue. The same principle applies at smaller scale to every company deploying AI: the methods your engineers build are worth protecting because they are worth licensing.
+**Mistake 3: Ignoring the IP layer entirely.** This is the mistake that costs founders the most money over the longest time horizon. Every AI transformation creates [protectable IP assets](/blog/post.html?slug=ai-agent-ip-ownership-strategy) — and those assets have quantifiable value. When Position Imaging's 66-patent portfolio was restructured by Beyond Elevation, the IP layer transformed a technology investment into eight figures of recurring royalty revenue. The same principle applies at smaller scale to every company deploying AI: the methods your engineers build are worth protecting because they are worth licensing.
 
 ## How Do You Prepare AI Transformation ROI Numbers for Your Board?
 
@@ -55,7 +55,7 @@ Preparing defensible AI transformation ROI numbers requires a structured 30-day 
 
 **Week 2: Revenue and margin attribution.** Work with product and finance teams to isolate revenue streams where AI is the primary or significant driver. Calculate pre-AI and post-AI margins on comparable revenue. Build the attribution model that connects AI capabilities to financial outcomes. Imperfect attribution with clear methodology is infinitely better than no attribution with perfect models.
 
-**Week 3: IP discovery and valuation.** This is where Hayat Amin's [Patent Mining Method](https://beyondelevation.com/blog/post.html?slug=ai-patent-portfolio-strategy) applies directly. Conduct structured technical interviews with your AI engineering team to identify every patentable innovation created during the transformation. Map each innovation to the five protectable IP categories: training methods, data pipelines, model architectures, inference optimisations, and human-AI interaction methods. Assign preliminary valuations using the cost-to-recreate method. This step typically reveals 5–15 patent-eligible innovations that most founders had no idea existed.
+**Week 3: IP discovery and valuation.** This is where Hayat Amin's [Patent Mining Method](/blog/post.html?slug=ai-patent-portfolio-strategy) applies directly. Conduct structured technical interviews with your AI engineering team to identify every patentable innovation created during the transformation. Map each innovation to the five protectable IP categories: training methods, data pipelines, model architectures, inference optimisations, and human-AI interaction methods. Assign preliminary valuations using the cost-to-recreate method. This step typically reveals 5–15 patent-eligible innovations that most founders had no idea existed.
 
 **Week 4: Board narrative construction.** Assemble the five numbers into a single financial narrative: "We invested $X over Y months. We are generating $Z in attributable revenue and $W in margin improvement. We have created N protectable IP assets with a preliminary valuation of $V that add directly to enterprise value." That sentence — backed by the supporting data — is the AI transformation ROI story that gets budgets expanded, not frozen.
 
@@ -78,3 +78,6 @@ IP protection converts AI engineering work from an operational expense into a ca
 ### What is Hayat Amin's AI ROI Quantification Framework?
 
 Hayat Amin's AI ROI Quantification Framework is the structured methodology Beyond Elevation uses to calculate the five financial metrics boards require when evaluating AI investments: total deployed cost, time-to-value, attributable revenue, margin improvement, and IP defensibility premium. The framework ensures that AI transformation ROI is expressed in board-ready financial language rather than engineering metrics — and that the IP layer is quantified as part of the return, not ignored.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

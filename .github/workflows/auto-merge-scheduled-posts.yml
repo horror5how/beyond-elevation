@@ -63,7 +63,7 @@ jobs:
           CHANGED=$(git diff --name-only "main...${{ github.sha }}")
           echo "Changed files:"
           echo "$CHANGED"
-          BAD=$(echo "$CHANGED" | grep -v -E '^(data/posts\.json|sitemap\.xml|llms\.txt|llms-full\.txt|blog/md/[^/]+\.md)$' || true)
+          BAD=$(echo "$CHANGED" | grep -v -E '^(data/posts\.json|sitemap\.xml|llms\.txt|llms-full\.txt|blog/md/[^/]+\.md|blog/index\.html|blog/posts/[^/]+/index\.html)$' || true)
           if [ -n "$BAD" ]; then
             echo "Branch touches files outside the allow-list:"
             echo "$BAD"
@@ -82,6 +82,7 @@ jobs:
         if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'
         run: |
           set -e
+          MERGED=0
           for attempt in 1 2 3 4 5; do
             git fetch origin main
             git reset --hard origin/main
@@ -93,13 +94,65 @@ jobs:
             fi
             if git push origin main; then
               echo "Merged ${{ github.ref_name }} into main on attempt $attempt."
-              exit 0
+              MERGED=1
+              break
             fi
             echo "Push failed on attempt $attempt, retrying..."
             sleep $((attempt * 3))
           done
-          echo "Failed to merge after 5 attempts."
-          exit 1
+          if [ "$MERGED" != "1" ]; then
+            echo "Failed to merge after 5 attempts."
+            exit 1
+          fi
+
+      - name: Set up Node.js
+        if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate static blog pages, sitemap, markdown mirrors
+        if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'
+        run: |
+          set -e
+          git fetch origin main
+          git reset --hard origin/main
+          # Single authoritative publish step. Reads data/posts.json and
+          # regenerates:
+          #   - blog/posts/<slug>/index.html for every approved post
+          #   - blog/index.html (cards + JSON-LD ItemList)
+          #   - sitemap.xml
+          #   - blog/md/<slug>.md, llms.txt, llms-full.txt
+          # This guarantees the live site reflects posts.json even if the
+          # scheduled task only updates posts.json.
+          node scripts/build-static-posts.js
+          node scripts/build-sitemap.js
+          node scripts/generate-blog-markdown.js
+
+      - name: Commit and push generated files
+        if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'
+        run: |
+          set -e
+          git add blog/posts blog/index.html sitemap.xml llms.txt llms-full.txt blog/md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit — nothing to publish."
+          else
+            git commit -m "chore(publish): regenerate static pages, sitemap, markdown from posts.json"
+            for attempt in 1 2 3 4 5; do
+              if git push origin main; then
+                echo "Pushed generated files on attempt $attempt."
+                break
+              fi
+              echo "Push failed on attempt $attempt — rebasing and retrying..."
+              sleep $((attempt * 3))
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; exit 1; }
+              if [ "$attempt" = "5" ]; then
+                echo "Failed to push generated files after 5 attempts."
+                exit 1
+              fi
+            done
+          fi
 
       - name: Trigger Vercel deploy (GITHUB_TOKEN push cannot cascade to push triggers)
         if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'

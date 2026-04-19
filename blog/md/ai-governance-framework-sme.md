@@ -3,7 +3,7 @@ title: "The AI Governance Framework That Protects Your Business Without Killing 
 slug: ai-governance-framework-sme
 date: 2026-04-19
 url: https://beyondelevation.com/blog/post.html?slug=ai-governance-framework-sme
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -82,3 +82,6 @@ AI governance directly increases company valuation by creating documented, defen
 ### What is the difference between AI governance and AI compliance?
 
 AI compliance is meeting the minimum requirements of regulations like the EU AI Act. AI governance is the broader system of policies, controls, and documentation that manages AI risk, protects IP, and creates accountability. Compliance is the floor; governance is the operating system that makes compliance automatic and turns the process into a competitive advantage.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

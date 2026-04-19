@@ -3,7 +3,7 @@ title: "Agentic AI Is Not a Product Decision. It Is an IP Decision. Here Is Why.
 slug: agentic-ai-business-strategy
 date: 2026-04-18
 url: https://beyondelevation.com/blog/post.html?slug=agentic-ai-business-strategy
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -90,3 +90,6 @@ Provisional patent applications cost $1,500 to $3,000 each and establish your pr
 ### Should I patent my AI agent's prompts?
 
 No. Prompts are better protected as trade secrets because patenting requires public disclosure. Your system prompts, few-shot examples, and prompt engineering frameworks should be classified as confidential information with documented access controls. Patent the methods and architectures — trade-secret the configurations and prompts.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
