@@ -1,7 +1,7 @@
 ---
 title: Beyond Elevation Keyword Strategy (Source of Truth for Blog Cron)
 owner: Hayat Amin
-last_updated: 2026-04-17
+last_updated: 2026-04-19
 source_files: [seo-geo-plan.md, seo-content-plan.md, ai-seo-plan.md]
 coverage_audit: 2026-04-16
 ---
@@ -27,7 +27,7 @@ Every brief below targets a real search query with commercial or high-commercial
 
 ## Coverage status (as of 2026-04-18)
 
-60 posts published (as of 2026-04-18). Tier 1 fully covered. Tier 2 fully covered. Tier 3 fully covered. Tier 4 entirely uncovered — write next. Tier 4 is entirely uncovered — all briefs below are net-new.
+60 posts published (as of 2026-04-18). Tier 1 fully covered. Tier 2 fully covered. Tier 3 fully covered. Tier 4 partially covered — T4B-01 published 2026-04-19. Write T4A-01 next (agentic-ai-business-strategy).
 
 ## Tier 1 — Money keywords (direct revenue drivers)
 
@@ -102,7 +102,7 @@ New trending keywords in business consulting, AI transformation, and IP commerci
 
 | # | slug_hint | primary_keyword | supporting_keywords | angle | intent |
 |---|---|---|---|---|---|
-| T4B-01 | eu-ai-act-ip-compliance | EU AI Act IP compliance | AI Act patent strategy, EU AI regulation IP, AI Act compliance checklist | The EU AI Act Has a Patent Problem. Here Is What Every IP Owner Must Do Before August 2026. | Informational/Commercial |
+| T4B-01 | eu-ai-act-ip-compliance | EU AI Act IP compliance | AI Act patent strategy, EU AI regulation IP, AI Act compliance checklist | The EU AI Act Has a Patent Problem. Here Is What Every IP Owner Must Do Before August 2026. | Informational/Commercial | ✅ eu-ai-act-ip-compliance (2026-04-19) |
 | T4B-02 | ai-generated-invention-patent-eligibility | AI-generated invention patent eligibility | can AI own a patent, USPTO AI inventor guidance, AI inventorship | Can an AI Be a Patent Inventor? The 2026 Legal Reality (And What It Means for Your Portfolio) | Informational |
 | T4B-03 | trade-secret-protection-ai-models | trade secret protection for AI models | protecting AI model IP, AI model confidentiality, ML trade secrets | Why Most AI Companies Should Not Patent Their Models (And What to Do Instead) | Informational/Commercial |
 | T4B-04 | ai-training-data-licensing-agreements | AI training data licensing | data licensing deals, training data IP rights, dataset licensing | AI Training Data Licensing: The Contract Clause That Determines Who Owns the Model | Informational/Commercial |
