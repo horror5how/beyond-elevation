@@ -1,0 +1,1 @@
+2026-04-19 19:01 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-adoption-roadmap-ceo | CEOs asking "when should we start AI?" already lost 18 months.  Your competitors
