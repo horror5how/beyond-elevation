@@ -68,5 +68,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [12 Questions That Reveal If Your Business Is Actually Ready for AI (Most Fail Question 3)](https://beyondelevation.com/blog/post.html?slug=ai-readiness-assessment-enterprise) — /blog/md/ai-readiness-assessment-enterprise.md
 - [The AI Governance Framework That Protects Your Business Without Killing Your Roadmap](https://beyondelevation.com/blog/post.html?slug=ai-governance-framework-sme) — /blog/md/ai-governance-framework-sme.md
 - [Build vs Buy AI: The Framework That Stops Founders Wasting £500K on the Wrong Decision](https://beyondelevation.com/blog/post.html?slug=build-vs-buy-ai-decision) — /blog/md/build-vs-buy-ai-decision.md
+- [The CEO's 90-Day AI Adoption Roadmap That Delivers Measurable Results Before Month 4](https://beyondelevation.com/blog/post.html?slug=ai-adoption-roadmap-ceo) — /blog/md/ai-adoption-roadmap-ceo.md
 
 > Full blog content available at /llms-full.txt

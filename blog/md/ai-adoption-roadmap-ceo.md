@@ -3,7 +3,7 @@ title: "The CEO's 90-Day AI Adoption Roadmap That Delivers Measurable Results Be
 slug: ai-adoption-roadmap-ceo
 date: 2026-04-20
 url: https://beyondelevation.com/blog/post.html?slug=ai-adoption-roadmap-ceo
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -106,3 +106,6 @@ AI adoption increases company valuation when it produces protectable IP assets �
 ### What is the ROI of executive AI strategy consulting?
 
 Beyond Elevation's 90-day AI adoption programme benchmarks at 70% of clients hitting or exceeding their revenue target. For a typical engagement targeting £200K–£500K in AI-driven revenue within 90 days, the advisory cost represents a 5–10x return. The additional IP assets created — provisional patents, trade secrets, documented know-how — provide compounding value beyond the initial revenue metric.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
