@@ -748,20 +748,27 @@
           .sierra-card-3 .sierra-orb:nth-child(2){width:100px;height:100px;background:rgba(255,255,255,.06);top:10%;left:50%;animation-delay:2.5s}
           .sierra-card-3 .sierra-orb:nth-child(3){width:44px;height:44px;background:rgba(255,255,255,.16);top:55%;left:65%;animation-delay:0s}
 
-          /* ── Card 1: Slack-style chat (rolling) ── */
+          /* ── Card 1: Slack-style chat (rapid pop-in) ── */
           .chat-window{position:absolute;inset:8px;border-radius:12px;background:rgba(255,255,255,.1);backdrop-filter:blur(12px);display:flex;flex-direction:column;overflow:hidden;border:1px solid rgba(255,255,255,.12)}
           .chat-header{padding:8px 12px;font-size:.65rem;font-weight:600;color:rgba(255,255,255,.7);border-bottom:1px solid rgba(255,255,255,.08);display:flex;align-items:center;gap:6px;letter-spacing:.03em}
           .chat-header-dot{width:7px;height:7px;border-radius:50%;background:#4ade80;flex-shrink:0;animation:livePulse 1.6s ease-in-out infinite}
-          .chat-body{flex:1;padding:10px 12px;position:relative;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;-webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 22%,#000 100%);mask-image:linear-gradient(to bottom,transparent 0,#000 22%,#000 100%)}
-          .chat-stream{display:flex;flex-direction:column;gap:7px;animation:chatScroll 22s linear infinite;will-change:transform}
-          .chat-msg{max-width:85%;padding:6px 10px;border-radius:10px;font-size:.66rem;line-height:1.35;color:#fff;flex-shrink:0}
+          .chat-body{flex:1;padding:10px 12px;overflow:hidden;display:flex;flex-direction:column;gap:6px;justify-content:flex-end}
+          .chat-msg{max-width:85%;padding:6px 10px;border-radius:10px;font-size:.66rem;line-height:1.35;color:#fff;flex-shrink:0;opacity:0;animation-duration:5s;animation-timing-function:ease-in-out;animation-iteration-count:infinite;animation-fill-mode:both}
           .chat-msg.bot{background:rgba(255,255,255,.15);align-self:flex-start;border-bottom-left-radius:3px}
           .chat-msg.user{background:rgba(255,255,255,.25);align-self:flex-end;border-bottom-right-radius:3px}
-          .chat-typing{align-self:flex-start;display:flex;gap:3px;padding:6px 10px;background:rgba(255,255,255,.15);border-radius:10px;border-bottom-left-radius:3px}
-          .chat-typing span{width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,.6);animation:typingBounce 1.2s ease-in-out infinite}
+          .chat-msg:nth-child(1){animation-name:msgCycle1}
+          .chat-msg:nth-child(2){animation-name:msgCycle2}
+          .chat-msg:nth-child(3){animation-name:msgCycle3}
+          .chat-msg:nth-child(4){animation-name:msgCycle4}
+          .chat-typing{align-self:flex-start;display:flex;gap:3px;padding:7px 11px;background:rgba(255,255,255,.15);border-radius:10px;border-bottom-left-radius:3px;opacity:0;animation:msgCycle5 5s ease-in-out infinite both;flex-shrink:0}
+          .chat-typing span{width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,.65);animation:typingBounce 1.2s ease-in-out infinite}
           .chat-typing span:nth-child(2){animation-delay:.15s}
           .chat-typing span:nth-child(3){animation-delay:.3s}
-          @keyframes chatScroll{0%{transform:translateY(0)}100%{transform:translateY(-50%)}}
+          @keyframes msgCycle1{0%{opacity:0;transform:translateY(6px) scale(.94)}6%,88%{opacity:1;transform:translateY(0) scale(1)}96%,100%{opacity:0;transform:translateY(-4px) scale(.96)}}
+          @keyframes msgCycle2{0%,12%{opacity:0;transform:translateY(6px) scale(.94)}18%,88%{opacity:1;transform:translateY(0) scale(1)}96%,100%{opacity:0;transform:translateY(-4px) scale(.96)}}
+          @keyframes msgCycle3{0%,24%{opacity:0;transform:translateY(6px) scale(.94)}30%,88%{opacity:1;transform:translateY(0) scale(1)}96%,100%{opacity:0;transform:translateY(-4px) scale(.96)}}
+          @keyframes msgCycle4{0%,36%{opacity:0;transform:translateY(6px) scale(.94)}42%,88%{opacity:1;transform:translateY(0) scale(1)}96%,100%{opacity:0;transform:translateY(-4px) scale(.96)}}
+          @keyframes msgCycle5{0%,48%{opacity:0;transform:translateY(6px) scale(.94)}54%,88%{opacity:1;transform:translateY(0) scale(1)}96%,100%{opacity:0;transform:translateY(-4px) scale(.96)}}
           @keyframes typingBounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
           @keyframes livePulse{0%,100%{box-shadow:0 0 0 0 rgba(74,222,128,.6)}50%{box-shadow:0 0 0 5px rgba(74,222,128,0)}}
 
@@ -826,27 +833,11 @@
                 <div class="chat-window">
                   <div class="chat-header"><span class="chat-header-dot"></span>BE Patent Agent &mdash; Online</div>
                   <div class="chat-body">
-                    <div class="chat-stream">
-                      <div class="chat-msg bot">3 new competitor filings detected in your space this week.</div>
-                      <div class="chat-msg user">Which ones overlap with our claims?</div>
-                      <div class="chat-msg bot">2 overlap on data pipeline claims. Sending gap analysis now.</div>
-                      <div class="chat-msg user">Flag them for review.</div>
-                      <div class="chat-msg bot">Flagged. Drafting a counter-claim to protect your moat.</div>
-                      <div class="chat-msg user">What's the revenue at risk?</div>
-                      <div class="chat-msg bot">$2.4M licensing window. File within 14 days to hold priority.</div>
-                      <div class="chat-msg user">Do it. Send me the draft.</div>
-                      <div class="chat-typing"><span></span><span></span><span></span></div>
-                      <!-- duplicated for seamless loop -->
-                      <div class="chat-msg bot">3 new competitor filings detected in your space this week.</div>
-                      <div class="chat-msg user">Which ones overlap with our claims?</div>
-                      <div class="chat-msg bot">2 overlap on data pipeline claims. Sending gap analysis now.</div>
-                      <div class="chat-msg user">Flag them for review.</div>
-                      <div class="chat-msg bot">Flagged. Drafting a counter-claim to protect your moat.</div>
-                      <div class="chat-msg user">What's the revenue at risk?</div>
-                      <div class="chat-msg bot">$2.4M licensing window. File within 14 days to hold priority.</div>
-                      <div class="chat-msg user">Do it. Send me the draft.</div>
-                      <div class="chat-typing"><span></span><span></span><span></span></div>
-                    </div>
+                    <div class="chat-msg bot">3 new competitor filings detected.</div>
+                    <div class="chat-msg user">Which overlap with our claims?</div>
+                    <div class="chat-msg bot">2 on data pipeline. Drafting counter.</div>
+                    <div class="chat-msg user">Go. $2.4M at risk &mdash; file it.</div>
+                    <div class="chat-typing"><span></span><span></span><span></span></div>
                   </div>
                 </div>
               </div>
