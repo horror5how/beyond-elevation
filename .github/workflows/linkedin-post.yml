@@ -7,21 +7,17 @@ on:
       - 'linkedin-queue/next-caption.txt'
       - 'linkedin-queue/next-image.html'
   workflow_dispatch:
-    inputs:
-      caption_file:
-        description: 'Path to caption file in repo (relative)'
-        required: false
-        default: 'linkedin-queue/next-caption.txt'
-      html_template:
-        description: 'Path to BEIP HTML template in repo (relative)'
-        required: false
-        default: 'linkedin-queue/next-image.html'
+
+permissions:
+  contents: write
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -35,21 +31,19 @@ jobs:
 
       - name: Render BEIP image
         run: |
-          CAPTION_FILE="${{ inputs.caption_file || 'linkedin-queue/next-caption.txt' }}"
-          HTML_FILE="${{ inputs.html_template || 'linkedin-queue/next-image.html' }}"
           node -e "
           const { chromium } = require('playwright');
           (async () => {
             const browser = await chromium.launch();
             const page = await browser.newPage();
             await page.setViewportSize({ width: 1080, height: 1080 });
-            await page.goto('file://' + process.cwd() + '/$HTML_FILE'.replace('$HTML_FILE', process.env.HTML_FILE));
+            await page.goto('file://' + process.cwd() + '/linkedin-queue/next-image.html');
             await page.waitForTimeout(500);
             await page.screenshot({ path: '/tmp/be-li-image.png', fullPage: false });
             await browser.close();
             console.log('Image rendered');
           })().catch(e => { console.error(e); process.exit(1); });
-          " HTML_FILE="$HTML_FILE"
+          "
           ls -la /tmp/be-li-image.png
 
       - name: Publish to LinkedIn
@@ -57,10 +51,9 @@ jobs:
           LI_TOKEN: ${{ secrets.LI_TOKEN }}
           LI_URN: ${{ secrets.LI_URN }}
         run: |
-          CAPTION_FILE="${{ inputs.caption_file || 'linkedin-queue/next-caption.txt' }}"
           OUTPUT=$(node scripts/linkedin-publish.mjs \
             --image /tmp/be-li-image.png \
-            --text "$(cat "$CAPTION_FILE")")
+            --text "$(cat linkedin-queue/next-caption.txt)")
           ECODE=$?
           echo "$OUTPUT"
           echo "exit=$ECODE"
@@ -73,7 +66,7 @@ jobs:
             echo "$stamp | FAIL | 401 EMPTY_ACCESS_TOKEN - re-auth needed" >> linkedin-post-log.md
             git add linkedin-post-log.md
             git commit -m 'LinkedIn: re-auth required'
-            git push origin HEAD:main
+            git push
             exit 0
           fi
 
@@ -82,17 +75,17 @@ jobs:
             echo "$stamp | FAIL | publish error (see Actions run log)" >> linkedin-post-log.md
             git add linkedin-post-log.md
             git commit -m 'LinkedIn: publish failed'
-            git push origin HEAD:main
+            git push
             exit 1
           fi
 
           SHARE_URN=$(echo "$OUTPUT" | grep -oE 'urn:li:share:[0-9]+' | head -1)
           stamp=$(date -u '+%Y-%m-%d %H:%M')
-          first80=$(head -c 80 "$CAPTION_FILE" | tr '\n' ' ')
+          first80=$(head -c 80 linkedin-queue/next-caption.txt | tr '\n' ' ')
           echo "$stamp | $SHARE_URN | $first80" >> linkedin-post-log.md
           git add linkedin-post-log.md
           git commit -m 'LinkedIn post log update'
-          git push origin HEAD:main
+          git push
 
           echo ""
           echo "PUBLISHED: https://www.linkedin.com/feed/update/${SHARE_URN}/"
