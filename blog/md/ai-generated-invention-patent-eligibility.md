@@ -3,7 +3,7 @@ title: "Can an AI Be a Patent Inventor? The 2026 Legal Reality (And What It Mean
 slug: ai-generated-invention-patent-eligibility
 date: 2026-04-20
 url: https://beyondelevation.com/blog/post.html?slug=ai-generated-invention-patent-eligibility
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -104,3 +104,6 @@ Prove human inventorship through contemporaneous documentation of four contribut
 ### Does using AI tools affect patent validity?
 
 Using AI tools does not inherently affect patent validity. What matters is whether a natural person made a significant intellectual contribution to the claimed invention. Patents filed with proper human attribution documentation are equally valid whether the inventor used AI tools, computer simulations, or pencil and paper. The tool does not determine validity — the human contribution does.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

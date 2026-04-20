@@ -444,3 +444,21 @@ A CEO's AI adoption roadmap is a 90-day execution plan that sequences AI impleme
 The critical difference between CEOs who succeed with AI and those who burn capital on endless pilots is sequencing. Most adoption roadmaps start at the bottom of the stack — infrastr
 
 ---
+
+## Can an AI Be a Patent Inventor? The 2026 Legal Reality (And What It Means for Your Portfolio)
+
+URL: https://beyondelevation.com/blog/post.html?slug=ai-generated-invention-patent-eligibility
+
+Your AI systems are generating patentable inventions right now. Novel drug compounds. Optimised circuit designs. Unique data architectures. The output is real, the commercial value is obvious — and the patent office will reject every filing that names the AI as inventor.
+
+AI-generated invention patent eligibility is not a philosophical question anymore. It is a filing strategy question. Hayat Amin argues that founders who understand the legal boundary — and structure their human contribution correctly — are building patent portfolios worth 3x more than founders waiting for the law to change. The law is not changing. Your filing strategy must.
+
+Here is the 2026 legal reality across every major jurisdiction, the USPTO's latest guidance, and the exact framework Beyond Elevation uses to turn AI-assisted innovations into granted patents.
+
+## Can AI Be Named as a Patent Inventor in 2026?
+
+No. As of 2026, no major patent jurisdiction — including the US, EU, UK, China, Japan, or Australia — permits an artificial intelligence system to be named as an inventor on a patent application. Every jurisdiction requires a natural person as the named inventor. This legal position was confirmed by the US Supreme Court's denial of certiorari in Thaler v. Vidal (2023), the UK Supreme Court's ruling in the DABUS case, and the EPO's rejection of AI-designated applications.
+
+The ruling is unambiguous: patent law requires human inventorship. But the ruling does not say AI-assisted inventions are unpat
+
+---
