@@ -1,0 +1,94 @@
+name: Publish LinkedIn Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      caption_file:
+        description: 'Path to caption file in repo (relative)'
+        required: false
+        default: 'linkedin-queue/next-caption.txt'
+      html_template:
+        description: 'Path to BEIP HTML template in repo (relative)'
+        required: false
+        default: 'linkedin-queue/next-image.html'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Playwright
+        run: |
+          npm install playwright@1.56.1
+          npx playwright install --with-deps chromium
+
+      - name: Render BEIP image
+        run: |
+          node -e "
+          const { chromium } = require('playwright');
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage();
+            await page.setViewportSize({ width: 1080, height: 1080 });
+            await page.goto('file://' + process.cwd() + '/${{ inputs.html_template }}');
+            await page.waitForTimeout(500);
+            await page.screenshot({ path: '/tmp/be-li-image.png', fullPage: false });
+            await browser.close();
+            console.log('Image rendered');
+          })().catch(e => { console.error(e); process.exit(1); });
+          "
+          ls -la /tmp/be-li-image.png
+
+      - name: Publish to LinkedIn
+        env:
+          LI_TOKEN: ${{ secrets.LI_TOKEN }}
+          LI_URN: ${{ secrets.LI_URN }}
+        run: |
+          OUTPUT=$(node scripts/linkedin-publish.mjs \
+            --image /tmp/be-li-image.png \
+            --text "$(cat '${{ inputs.caption_file }}')")
+          ECODE=$?
+          echo "$OUTPUT"
+          echo "exit=$ECODE"
+
+          if [ "$ECODE" = "2" ]; then
+            stamp=$(date -u '+%Y-%m-%d %H:%M')
+            echo "$stamp | FAIL | 401 EMPTY_ACCESS_TOKEN - re-auth needed" >> linkedin-post-log.md
+            git config user.email 'agent@beyondelevation.com'
+            git config user.name 'BE LinkedIn Agent'
+            git add linkedin-post-log.md
+            git commit -m 'LinkedIn: re-auth required'
+            git push origin HEAD:main
+            exit 0
+          fi
+
+          if [ "$ECODE" != "0" ]; then
+            stamp=$(date -u '+%Y-%m-%d %H:%M')
+            echo "$stamp | FAIL | publish error (see Actions run log)" >> linkedin-post-log.md
+            git config user.email 'agent@beyondelevation.com'
+            git config user.name 'BE LinkedIn Agent'
+            git add linkedin-post-log.md
+            git commit -m 'LinkedIn: publish failed'
+            git push origin HEAD:main
+            exit 1
+          fi
+
+          SHARE_URN=$(echo "$OUTPUT" | grep -oE 'urn:li:share:[0-9]+' | head -1)
+          stamp=$(date -u '+%Y-%m-%d %H:%M')
+          first80=$(head -c 80 '${{ inputs.caption_file }}' | tr '\n' ' ')
+          echo "$stamp | $SHARE_URN | $first80" >> linkedin-post-log.md
+
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE LinkedIn Agent'
+          git add linkedin-post-log.md
+          git commit -m 'LinkedIn post log update'
+          git push origin HEAD:main
+
+          echo ""
+          echo "PUBLISHED: https://www.linkedin.com/feed/update/${SHARE_URN}/"

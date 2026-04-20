@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px; height: 1080px;
+    background: #f8f6f2;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: space-between;
+    padding: 72px 64px 56px;
+    position: relative;
+    overflow: hidden;
+  }
+  body::before {
+    content: '';
+    position: absolute;
+    top: -200px; left: -200px;
+    width: 700px; height: 700px;
+    background: radial-gradient(ellipse at center, rgba(230,185,140,0.18) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  body::after {
+    content: '';
+    position: absolute;
+    top: -200px; right: -200px;
+    width: 700px; height: 700px;
+    background: radial-gradient(ellipse at center, rgba(230,185,140,0.12) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .eyebrow {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    color: #1a1a1a;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 28px;
+  }
+  .headline {
+    font-size: 52px;
+    font-weight: 300;
+    letter-spacing: -0.05em;
+    color: #1a1a1a;
+    text-align: center;
+    line-height: 1.15;
+    max-width: 820px;
+    margin-bottom: 0;
+  }
+  .metrics-row {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    gap: 0;
+    margin: 0 auto;
+  }
+  .metric {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 32px;
+    position: relative;
+  }
+  .metric + .metric::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 10px; bottom: 10px;
+    width: 1px;
+    background: #d7b086;
+  }
+  .metric-number {
+    font-size: 96px;
+    font-weight: 300;
+    color: #1a1a1a;
+    letter-spacing: -0.04em;
+    line-height: 1;
+    margin-bottom: 14px;
+  }
+  .metric-underline {
+    width: 60px; height: 2px;
+    background: #d7b086;
+    margin-bottom: 14px;
+  }
+  .metric-label {
+    font-size: 11.5px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: #4a4a4a;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.4;
+  }
+  .footer {
+    width: 100%;
+    border-top: 1px solid #d7b086;
+    padding-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+  .be-wordmark {
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    color: #1a1a1a;
+    line-height: 1;
+  }
+  .powered {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: #1a1a1a;
+    text-transform: uppercase;
+  }
+  .tagline {
+    font-size: 11px;
+    font-weight: 400;
+    font-style: italic;
+    color: #4a4a4a;
+  }
+</style>
+</head>
+<body>
+  <div style="display:flex;flex-direction:column;align-items:center;width:100%;">
+    <div class="eyebrow">IP + Data Intelligence</div>
+    <div class="headline">The CEO's 90-Day AI Roadmap<br>That Builds an Unbeatable Moat</div>
+  </div>
+
+  <div class="metrics-row">
+    <div class="metric">
+      <div class="metric-number">90</div>
+      <div class="metric-underline"></div>
+      <div class="metric-label">Days to<br>First Revenue</div>
+    </div>
+    <div class="metric">
+      <div class="metric-number">3.4×</div>
+      <div class="metric-underline"></div>
+      <div class="metric-label">Valuation Lift<br>With IP Filed</div>
+    </div>
+    <div class="metric">
+      <div class="metric-number">$2M+</div>
+      <div class="metric-underline"></div>
+      <div class="metric-label">Average Licensing<br>Opportunity Unlocked</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="be-wordmark">BE</div>
+    <div class="powered">Powered by Beyond Elevation</div>
+    <div class="tagline">Turn IP and data into licensing revenue, higher valuation, and market domination.</div>
+  </div>
+</body>
+</html>
