@@ -1,7 +1,34 @@
 'use strict';
 
+const fs = require('fs');
+const path = require('path');
 const https = require('https');
 const nodemailer = require('nodemailer');
+
+// ── News-seen cache (persists across daily runs via git commit) ───────────────
+
+const CACHE_FILE = path.join(__dirname, '.news-seen.json');
+const CACHE_TTL_DAYS = 30;
+
+function loadSeenCache() {
+  try {
+    const raw = fs.readFileSync(CACHE_FILE, 'utf8');
+    return JSON.parse(raw).seen || {};
+  } catch {
+    return {};
+  }
+}
+
+function saveSeenCache(seen) {
+  const today = new Date().toISOString().split('T')[0];
+  const cutoff = new Date(Date.now() - CACHE_TTL_DAYS * 86400000).toISOString().split('T')[0];
+  const pruned = {};
+  for (const [url, date] of Object.entries(seen)) {
+    if (date >= cutoff) pruned[url] = date;
+  }
+  fs.writeFileSync(CACHE_FILE, JSON.stringify({ seen: pruned, updated: today }, null, 2));
+  return pruned;
+}
 
 // ── HTTP helpers ──────────────────────────────────────────────────────────────
 
@@ -96,14 +123,15 @@ const NEWS_FEEDS = [
   { name: 'Wired',           url: 'https://www.wired.com/feed/tag/ai/latest/rss', aiOnly: false },
 ];
 
-async function fetchNewsItems(totalLimit = 5) {
+async function fetchNewsItems(totalLimit = 5, previouslySeen = {}) {
   const allItems = [];
   const seenLinks = new Set();
+  // Fetch more candidates per feed so we have enough after filtering already-seen URLs
   await Promise.allSettled(
     NEWS_FEEDS.map(async (feed) => {
       try {
         const { body } = await fetchUrl(feed.url);
-        const items = parseFeed(body, feed.name, 5);
+        const items = parseFeed(body, feed.name, 10);
         const filtered = feed.aiOnly ? items.filter(isAiRelated) : items;
         for (const item of filtered) {
           if (!seenLinks.has(item.link)) {
@@ -116,7 +144,16 @@ async function fetchNewsItems(totalLimit = 5) {
       }
     })
   );
-  return allItems.slice(0, totalLimit);
+
+  // Prefer stories not yet sent; fall back to oldest-seen if supply is thin
+  const fresh = allItems.filter(item => !previouslySeen[item.link]);
+  if (fresh.length >= totalLimit) return fresh.slice(0, totalLimit);
+
+  // Supplement with least-recently-seen items if not enough fresh ones
+  const stale = allItems
+    .filter(item => previouslySeen[item.link])
+    .sort((a, b) => (previouslySeen[a.link] < previouslySeen[b.link] ? -1 : 1));
+  return [...fresh, ...stale].slice(0, totalLimit);
 }
 
 // ── GitHub trending repos ─────────────────────────────────────────────────────
@@ -449,8 +486,11 @@ function buildEmailHtml(newsItems, repos24h, repos7d, redditSkills, tiktokSkills
 async function main() {
   console.log('[digest] Starting daily digest generation...');
 
+  const seenCache = loadSeenCache();
+  console.log(`[digest] Loaded ${Object.keys(seenCache).length} previously-seen news URLs from cache`);
+
   const [newsItems, repos24h, repos7d, redditSkills, tiktokSkills] = await Promise.all([
-    fetchNewsItems(5),
+    fetchNewsItems(5, seenCache),
     fetchGithubRepos(5, 1),
     fetchGithubRepos(10, 7),
     fetchRedditSkills(),
@@ -483,6 +523,12 @@ async function main() {
   });
 
   console.log('[digest] Email sent successfully.');
+
+  // Persist sent URLs so tomorrow's run skips them
+  const today = new Date().toISOString().split('T')[0];
+  for (const item of newsItems) seenCache[item.link] = today;
+  saveSeenCache(seenCache);
+  console.log(`[digest] Cache updated — ${Object.keys(seenCache).length} URLs now marked as seen`);
 }
 
 main().catch(err => {
