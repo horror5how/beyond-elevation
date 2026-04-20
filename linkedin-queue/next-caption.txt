@@ -1,17 +1,15 @@
-CEOs asking "when should we start AI?" already lost 18 months.
+USPTO ruled: AI cannot be a named inventor. But your patent is still safe.
 
-Your competitors aren't waiting for perfect data.
+Here is what most founders miss.
 
-They're shipping imperfect AI that compounds.
+If a human directed the AI, shaped the prompt, and applied the output — that human is the inventor.
 
-90 days of structured rollout beats 3 years of committee review.
+The patent is theirs.
 
-Month 1: one high-ROI process automated end-to-end.
-Month 2: IP filed on the workflow. Proprietary moat built.
-Month 3: licensing conversation started with a competitor.
+Companies inventing with AI and skipping human-in-the-loop documentation are filing unenforceable patents.
 
-That's not transformation. That's arbitrage.
+USPTO, EPO, and UK IPO all require documented human inventive contribution in 2026.
 
-#AIStrategy #CEOPlaybook #BeyondElevation
+3 jurisdictions. 1 rule. Document it or lose it.
 
- 
+#IPStrategy #AIPatents #BeyondElevation
