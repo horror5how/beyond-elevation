@@ -748,58 +748,69 @@
           .sierra-card-3 .sierra-orb:nth-child(2){width:100px;height:100px;background:rgba(255,255,255,.06);top:10%;left:50%;animation-delay:2.5s}
           .sierra-card-3 .sierra-orb:nth-child(3){width:44px;height:44px;background:rgba(255,255,255,.16);top:55%;left:65%;animation-delay:0s}
 
-          /* ── Card 1: Slack-style chat ── */
+          /* ── Card 1: Slack-style chat (rolling) ── */
           .chat-window{position:absolute;inset:8px;border-radius:12px;background:rgba(255,255,255,.1);backdrop-filter:blur(12px);display:flex;flex-direction:column;overflow:hidden;border:1px solid rgba(255,255,255,.12)}
           .chat-header{padding:8px 12px;font-size:.65rem;font-weight:600;color:rgba(255,255,255,.7);border-bottom:1px solid rgba(255,255,255,.08);display:flex;align-items:center;gap:6px;letter-spacing:.03em}
-          .chat-header-dot{width:7px;height:7px;border-radius:50%;background:#4ade80;flex-shrink:0}
-          .chat-body{flex:1;padding:10px 12px;display:flex;flex-direction:column;gap:8px;justify-content:flex-end}
-          .chat-msg{max-width:85%;padding:7px 11px;border-radius:10px;font-size:.68rem;line-height:1.4;color:#fff;animation:chatFade .5s ease both}
+          .chat-header-dot{width:7px;height:7px;border-radius:50%;background:#4ade80;flex-shrink:0;animation:livePulse 1.6s ease-in-out infinite}
+          .chat-body{flex:1;padding:10px 12px;position:relative;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;-webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 22%,#000 100%);mask-image:linear-gradient(to bottom,transparent 0,#000 22%,#000 100%)}
+          .chat-stream{display:flex;flex-direction:column;gap:7px;animation:chatScroll 22s linear infinite;will-change:transform}
+          .chat-msg{max-width:85%;padding:6px 10px;border-radius:10px;font-size:.66rem;line-height:1.35;color:#fff;flex-shrink:0}
           .chat-msg.bot{background:rgba(255,255,255,.15);align-self:flex-start;border-bottom-left-radius:3px}
           .chat-msg.user{background:rgba(255,255,255,.25);align-self:flex-end;border-bottom-right-radius:3px}
-          .chat-msg:nth-child(1){animation-delay:.6s}
-          .chat-msg:nth-child(2){animation-delay:1.8s}
-          .chat-msg:nth-child(3){animation-delay:3s}
-          .chat-msg:nth-child(4){animation-delay:4.2s}
-          .chat-typing{align-self:flex-start;display:flex;gap:3px;padding:8px 12px;animation:chatFade .5s ease 5s both}
-          .chat-typing span{width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,.4);animation:typingBounce 1.2s ease-in-out infinite}
+          .chat-typing{align-self:flex-start;display:flex;gap:3px;padding:6px 10px;background:rgba(255,255,255,.15);border-radius:10px;border-bottom-left-radius:3px}
+          .chat-typing span{width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,.6);animation:typingBounce 1.2s ease-in-out infinite}
           .chat-typing span:nth-child(2){animation-delay:.15s}
           .chat-typing span:nth-child(3){animation-delay:.3s}
-          @keyframes chatFade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+          @keyframes chatScroll{0%{transform:translateY(0)}100%{transform:translateY(-50%)}}
           @keyframes typingBounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
+          @keyframes livePulse{0%,100%{box-shadow:0 0 0 0 rgba(74,222,128,.6)}50%{box-shadow:0 0 0 5px rgba(74,222,128,0)}}
 
-          /* ── Card 2: Glass dashboard ── */
+          /* ── Card 2: Glass dashboard (looping) ── */
           .glass-dash{position:absolute;inset:8px;border-radius:12px;background:rgba(255,255,255,.06);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.1);padding:12px;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto 1fr;gap:8px}
           .glass-stat{background:rgba(255,255,255,.08);border-radius:8px;padding:8px 10px;border:1px solid rgba(255,255,255,.06)}
           .glass-stat-label{font-size:.55rem;color:rgba(255,255,255,.5);text-transform:uppercase;letter-spacing:.06em}
-          .glass-stat-value{font-size:1.1rem;font-weight:600;color:#fff;margin-top:2px}
+          .glass-stat-value{font-size:1.1rem;font-weight:600;color:#fff;margin-top:2px;height:1.4em;line-height:1.4em;overflow:hidden;display:block}
+          .num-roll{display:flex;flex-direction:column}
+          .num-roll span{display:block;height:1.4em;line-height:1.4em}
+          .num-roll.assets{animation:numRoll4 9s cubic-bezier(.7,0,.3,1) infinite}
+          .num-roll.val{animation:numRoll4 9s cubic-bezier(.7,0,.3,1) infinite .5s}
+          @keyframes numRoll4{0%,15%{transform:translateY(0)}25%,40%{transform:translateY(-1.4em)}50%,65%{transform:translateY(-2.8em)}75%,90%{transform:translateY(-4.2em)}100%{transform:translateY(-5.6em)}}
           .glass-chart{grid-column:1/-1;background:rgba(255,255,255,.06);border-radius:8px;padding:10px;border:1px solid rgba(255,255,255,.06);position:relative;overflow:hidden}
+          .glass-chart::after{content:"";position:absolute;top:0;bottom:0;width:2px;background:linear-gradient(180deg,transparent,rgba(255,255,255,.6),transparent);animation:chartScan 5s linear infinite;pointer-events:none;filter:blur(.5px)}
           .glass-chart svg{width:100%;height:100%}
-          .glass-chart-line{stroke:rgba(255,255,255,.6);stroke-width:2;fill:none;stroke-dasharray:300;stroke-dashoffset:300;animation:drawLine 2.5s ease 1s forwards}
-          .glass-chart-fill{fill:url(#glassFill);opacity:0;animation:fadeUp .8s ease 2.5s forwards}
-          .glass-chart-dot{fill:#fff;opacity:0;animation:dotPop .3s ease forwards}
-          .glass-chart-dot:nth-child(1){animation-delay:1.5s}
-          .glass-chart-dot:nth-child(2){animation-delay:2s}
-          .glass-chart-dot:nth-child(3){animation-delay:2.5s}
-          .glass-chart-dot:nth-child(4){animation-delay:3s}
-          @keyframes drawLine{to{stroke-dashoffset:0}}
-          @keyframes fadeUp{to{opacity:.25}}
-          @keyframes dotPop{to{opacity:1}}
+          .glass-chart-line{stroke:rgba(255,255,255,.8);stroke-width:2;fill:none;stroke-dasharray:100;stroke-dashoffset:100;animation:drawLine 5s ease-in-out infinite}
+          .glass-chart-fill{fill:url(#glassFill);opacity:0;animation:fillPulse 5s ease-in-out infinite}
+          .glass-chart-dot{fill:#fff;opacity:0;animation:dotPulse 5s ease-in-out infinite}
+          .glass-chart-dot:nth-child(1){animation-delay:.4s}
+          .glass-chart-dot:nth-child(2){animation-delay:1s}
+          .glass-chart-dot:nth-child(3){animation-delay:1.5s}
+          .glass-chart-dot:nth-child(4){animation-delay:2s}
+          @keyframes drawLine{0%{stroke-dashoffset:100}45%,55%{stroke-dashoffset:0}100%{stroke-dashoffset:-100}}
+          @keyframes fillPulse{0%,100%{opacity:0}35%,65%{opacity:.3}}
+          @keyframes dotPulse{0%,10%,80%,100%{opacity:0}25%,70%{opacity:1}}
+          @keyframes chartScan{0%{left:-2px}100%{left:100%}}
 
-          /* ── Card 3: CFO composite ── */
+          /* ── Card 3: CFO composite (rolling) ── */
           .cfo-composite{position:absolute;inset:8px;border-radius:12px;display:flex;flex-direction:row;align-items:stretch;gap:10px;padding:10px}
-          .cfo-avatar{display:flex;align-items:center;justify-content:center;width:40%}
-          .cfo-avatar-bubble{width:90px;height:90px;border-radius:50%;background:rgba(255,255,255,.15);backdrop-filter:blur(8px);border:2px solid rgba(255,255,255,.25);display:flex;align-items:center;justify-content:center;overflow:hidden;box-shadow:0 0 20px rgba(255,255,255,.1)}
+          .cfo-avatar{display:flex;align-items:center;justify-content:center;width:40%;position:relative}
+          .cfo-avatar-bubble{width:90px;height:90px;border-radius:50%;background:rgba(255,255,255,.15);backdrop-filter:blur(8px);border:2px solid rgba(255,255,255,.25);display:flex;align-items:center;justify-content:center;overflow:hidden;box-shadow:0 0 20px rgba(255,255,255,.1);animation:avatarPulse 3.5s ease-in-out infinite}
           .cfo-avatar-bubble img{width:100%;height:100%;object-fit:cover}
           .cfo-avatar-bubble svg{width:40px;height:40px;fill:rgba(255,255,255,.7)}
+          @keyframes avatarPulse{0%,100%{box-shadow:0 0 20px rgba(255,255,255,.1)}50%{box-shadow:0 0 28px rgba(255,255,255,.25)}}
           .cfo-bottom{display:flex;flex-direction:column;gap:6px;width:60%;justify-content:center}
           .cfo-mini-dash{background:rgba(255,255,255,.08);backdrop-filter:blur(8px);border-radius:8px;padding:7px 9px;border:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column;justify-content:center}
           .cfo-mini-label{font-size:.5rem;color:rgba(255,255,255,.45);text-transform:uppercase;letter-spacing:.05em}
-          .cfo-mini-val{font-size:.85rem;font-weight:600;color:#fff;margin-top:1px}
-          .cfo-mini-bar{height:3px;border-radius:2px;background:rgba(255,255,255,.1);margin-top:4px;overflow:hidden}
-          .cfo-mini-bar-fill{height:100%;border-radius:2px;background:rgba(255,255,255,.4);animation:barGrow 2s ease 1s forwards;transform-origin:left;transform:scaleX(0)}
-          .cfo-mini-chat{background:rgba(255,255,255,.08);backdrop-filter:blur(8px);border-radius:8px;padding:7px 9px;border:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column;justify-content:flex-end;gap:4px}
-          .cfo-mini-msg{font-size:.52rem;color:rgba(255,255,255,.7);padding:3px 7px;background:rgba(255,255,255,.1);border-radius:6px;max-width:90%}
-          @keyframes barGrow{to{transform:scaleX(1)}}
+          .cfo-mini-val{font-size:.85rem;font-weight:600;color:#fff;margin-top:1px;height:1.25em;line-height:1.25em;overflow:hidden;display:block}
+          .cfo-mini-val .num-roll.cfo{animation:cfoRoll 10s cubic-bezier(.7,0,.3,1) infinite}
+          .cfo-mini-val .num-roll span{height:1.25em;line-height:1.25em}
+          @keyframes cfoRoll{0%,15%{transform:translateY(0)}25%,40%{transform:translateY(-1.25em)}50%,65%{transform:translateY(-2.5em)}75%,90%{transform:translateY(-3.75em)}100%{transform:translateY(-5em)}}
+          .cfo-mini-bar{height:3px;border-radius:2px;background:rgba(255,255,255,.1);margin-top:4px;overflow:hidden;position:relative}
+          .cfo-mini-bar-fill{height:100%;border-radius:2px;background:rgba(255,255,255,.55);transform-origin:left;animation:barPulse 4.5s ease-in-out infinite}
+          @keyframes barPulse{0%,100%{transform:scaleX(.35)}50%{transform:scaleX(.95)}}
+          .cfo-mini-chat{background:rgba(255,255,255,.08);backdrop-filter:blur(8px);border-radius:8px;padding:7px 9px;border:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column;justify-content:flex-end;gap:4px;overflow:hidden;height:50px;position:relative;-webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 28%,#000 100%);mask-image:linear-gradient(to bottom,transparent 0,#000 28%,#000 100%)}
+          .cfo-msg-roll{display:flex;flex-direction:column;gap:4px;animation:msgRoll 16s linear infinite;will-change:transform}
+          .cfo-mini-msg{font-size:.52rem;color:rgba(255,255,255,.75);padding:3px 7px;background:rgba(255,255,255,.12);border-radius:6px;max-width:95%;flex-shrink:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+          @keyframes msgRoll{0%{transform:translateY(0)}100%{transform:translateY(-50%)}}
 
           @keyframes sierraFloat{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-12px) scale(1.05)}}
           @keyframes sierraPulse{0%,100%{transform:translate(-50%,-50%) scale(1);opacity:1}50%{transform:translate(-50%,-50%) scale(1.08);opacity:.85}}
@@ -815,11 +826,27 @@
                 <div class="chat-window">
                   <div class="chat-header"><span class="chat-header-dot"></span>BE Patent Agent &mdash; Online</div>
                   <div class="chat-body">
-                    <div class="chat-msg bot">3 new competitor filings detected in your space this week.</div>
-                    <div class="chat-msg user">Which ones overlap with our claims?</div>
-                    <div class="chat-msg bot">2 overlap on data pipeline claims. Sending gap analysis now.</div>
-                    <div class="chat-msg user">Flag them for review.</div>
-                    <div class="chat-typing"><span></span><span></span><span></span></div>
+                    <div class="chat-stream">
+                      <div class="chat-msg bot">3 new competitor filings detected in your space this week.</div>
+                      <div class="chat-msg user">Which ones overlap with our claims?</div>
+                      <div class="chat-msg bot">2 overlap on data pipeline claims. Sending gap analysis now.</div>
+                      <div class="chat-msg user">Flag them for review.</div>
+                      <div class="chat-msg bot">Flagged. Drafting a counter-claim to protect your moat.</div>
+                      <div class="chat-msg user">What's the revenue at risk?</div>
+                      <div class="chat-msg bot">$2.4M licensing window. File within 14 days to hold priority.</div>
+                      <div class="chat-msg user">Do it. Send me the draft.</div>
+                      <div class="chat-typing"><span></span><span></span><span></span></div>
+                      <!-- duplicated for seamless loop -->
+                      <div class="chat-msg bot">3 new competitor filings detected in your space this week.</div>
+                      <div class="chat-msg user">Which ones overlap with our claims?</div>
+                      <div class="chat-msg bot">2 overlap on data pipeline claims. Sending gap analysis now.</div>
+                      <div class="chat-msg user">Flag them for review.</div>
+                      <div class="chat-msg bot">Flagged. Drafting a counter-claim to protect your moat.</div>
+                      <div class="chat-msg user">What's the revenue at risk?</div>
+                      <div class="chat-msg bot">$2.4M licensing window. File within 14 days to hold priority.</div>
+                      <div class="chat-msg user">Do it. Send me the draft.</div>
+                      <div class="chat-typing"><span></span><span></span><span></span></div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -837,13 +864,19 @@
             <div>
               <div class="sierra-card-visual">
                 <div class="glass-dash">
-                  <div class="glass-stat"><div class="glass-stat-label">IP Assets</div><div class="glass-stat-value">12</div></div>
-                  <div class="glass-stat"><div class="glass-stat-label">Valuation</div><div class="glass-stat-value">$4.2M</div></div>
+                  <div class="glass-stat">
+                    <div class="glass-stat-label">IP Assets</div>
+                    <div class="glass-stat-value"><div class="num-roll assets"><span>12</span><span>13</span><span>15</span><span>17</span><span>12</span></div></div>
+                  </div>
+                  <div class="glass-stat">
+                    <div class="glass-stat-label">Valuation</div>
+                    <div class="glass-stat-value"><div class="num-roll val"><span>$4.2M</span><span>$4.6M</span><span>$5.1M</span><span>$5.8M</span><span>$4.2M</span></div></div>
+                  </div>
                   <div class="glass-chart">
                     <svg viewBox="0 0 200 60" preserveAspectRatio="none">
                       <defs><linearGradient id="glassFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#fff" stop-opacity=".3"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
                       <path class="glass-chart-fill" d="M0,55 L30,42 70,48 110,28 150,35 200,15 200,60 0,60Z"/>
-                      <path class="glass-chart-line" d="M0,55 L30,42 70,48 110,28 150,35 200,15"/>
+                      <path class="glass-chart-line" pathLength="100" d="M0,55 L30,42 70,48 110,28 150,35 200,15"/>
                       <circle class="glass-chart-dot" cx="30" cy="42" r="3"/>
                       <circle class="glass-chart-dot" cx="110" cy="28" r="3"/>
                       <circle class="glass-chart-dot" cx="150" cy="35" r="3"/>
@@ -874,12 +907,23 @@
                   <div class="cfo-bottom">
                     <div class="cfo-mini-dash">
                       <div class="cfo-mini-label">Licensing Rev.</div>
-                      <div class="cfo-mini-val">$1.8M</div>
-                      <div class="cfo-mini-bar"><div class="cfo-mini-bar-fill" style="width:72%"></div></div>
+                      <div class="cfo-mini-val"><div class="num-roll cfo"><span>$1.8M</span><span>$2.1M</span><span>$2.4M</span><span>$2.7M</span><span>$1.8M</span></div></div>
+                      <div class="cfo-mini-bar"><div class="cfo-mini-bar-fill"></div></div>
                     </div>
                     <div class="cfo-mini-chat">
-                      <div class="cfo-mini-msg">Filing strategy updated</div>
-                      <div class="cfo-mini-msg">2 new claims ready</div>
+                      <div class="cfo-msg-roll">
+                        <div class="cfo-mini-msg">Filing strategy updated</div>
+                        <div class="cfo-mini-msg">2 new claims ready</div>
+                        <div class="cfo-mini-msg">Licensing deal +$320K</div>
+                        <div class="cfo-mini-msg">Patent #8 approved</div>
+                        <div class="cfo-mini-msg">Q2 review scheduled</div>
+                        <!-- duplicate for seamless loop -->
+                        <div class="cfo-mini-msg">Filing strategy updated</div>
+                        <div class="cfo-mini-msg">2 new claims ready</div>
+                        <div class="cfo-mini-msg">Licensing deal +$320K</div>
+                        <div class="cfo-mini-msg">Patent #8 approved</div>
+                        <div class="cfo-mini-msg">Q2 review scheduled</div>
+                      </div>
                     </div>
                   </div>
                 </div>
