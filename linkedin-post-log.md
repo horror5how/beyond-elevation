@@ -3,3 +3,4 @@
 2026-04-20 12:55 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-generated-invention-patent-eligibility | USPTO ruled: AI cannot be a named inventor. But your patent is still safe.
 2026-04-20 17:14 | urn:li:share:7452042005125369856 | CEOs asking "when should we start AI?" already lost 18 months.  Your competitors
 2026-04-20 17:17 | urn:li:share:7452042866383777792 | USPTO ruled: AI cannot be a named inventor. But your patent is still safe.  Here
+2026-04-20 17:53 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: trade-secret-protection-ai-models | Your AI model patent just handed competitors your training playbook.  Patents re
