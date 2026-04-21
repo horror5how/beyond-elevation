@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1000px;
+    height: 1000px;
+    background: #f8f6f2;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 60px 44px;
+    position: relative;
+    overflow: hidden;
+  }
+  body::before {
+    content: '';
+    position: absolute;
+    top: -200px;
+    left: -200px;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(255,220,180,0.35) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  body::after {
+    content: '';
+    position: absolute;
+    top: -200px;
+    right: -200px;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(255,210,170,0.28) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  /* ── EYEBROW ── */
+  .eyebrow {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    color: #1a1a1a;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  /* ── HEADLINE ── */
+  .headline {
+    font-size: 38px;
+    font-weight: 300;
+    letter-spacing: -0.05em;
+    color: #1a1a1a;
+    text-align: center;
+    line-height: 1.18;
+    max-width: 720px;
+  }
+
+  /* ── METRIC TILES ── */
+  .metrics {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+  }
+  .tile {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 24px;
+  }
+  .tile + .tile {
+    border-left: 1px solid #d7b086;
+  }
+  .tile-number {
+    font-size: 96px;
+    font-weight: 300;
+    color: #1a1a1a;
+    letter-spacing: -0.04em;
+    line-height: 1;
+  }
+  .tile-underline {
+    width: 60px;
+    height: 2px;
+    background: #d7b086;
+    margin: 14px auto 14px;
+  }
+  /* ── LABEL: larger, bolder, visible ── */
+  .tile-label {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #1a1a1a;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.5;
+  }
+
+  /* ── FOOTER ── */
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    border-top: 1px solid #d0ccc5;
+    padding-top: 22px;
+    gap: 8px;
+  }
+  .footer-logo {
+    height: 44px;
+    width: auto;
+    /* logo PNG has matching cream background — blends naturally */
+  }
+  .footer-property {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    color: #1a1a1a;
+    text-transform: uppercase;
+  }
+  .footer-quote {
+    font-size: 11.5px;
+    font-weight: 400;
+    font-style: italic;
+    color: #4a4a4a;
+    text-align: center;
+    max-width: 680px;
+    line-height: 1.55;
+  }
+</style>
+</head>
+<body>
+
+  <div class="eyebrow">IP + Data Intelligence</div>
+
+  <div class="headline">{{HEADLINE}}</div>
+
+  <div class="metrics">
+    <div class="tile">
+      <div class="tile-number">{{METRIC_1}}</div>
+      <div class="tile-underline"></div>
+      <div class="tile-label">{{LABEL_1}}</div>
+    </div>
+    <div class="tile">
+      <div class="tile-number">{{METRIC_2}}</div>
+      <div class="tile-underline"></div>
+      <div class="tile-label">{{LABEL_2}}</div>
+    </div>
+    <div class="tile">
+      <div class="tile-number">{{METRIC_3}}</div>
+      <div class="tile-underline"></div>
+      <div class="tile-label">{{LABEL_3}}</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <img
+      class="footer-logo"
+      src="file:///home/user/beyond-elevation/assets/brand/be-logo-horizontal.png"
+      alt="Beyond Elevation"
+    />
+    <div class="footer-property">Property of Beyond Elevation</div>
+    <div class="footer-quote">"Patent and data are the only thing differentiating tech companies today, and we master in its craft."</div>
+  </div>
+
+</body>
+</html>
