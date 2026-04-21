@@ -50,6 +50,8 @@ h1,h2,h3,p,blockquote{margin-top:0}
 .brand > span{display:inline-flex;align-items:center}
 .brand-mark{position:relative;display:inline-block;width:38px;height:38px;background:url('/assets/brand/be-mark-trimmed.webp') no-repeat center center;background-size:contain;color:transparent;font-size:0;border-radius:0;box-shadow:none;animation:none;overflow:visible}
 .brand-mark::after{display:none}
+.hero-headline-split{display:flex !important;flex-direction:column !important;gap:.05em}
+.hero-headline-split .hero-line{display:block !important;white-space:normal}
 @media (max-width:600px){.brand-mark{width:32px;height:32px}.brand{font-size:.95rem;gap:8px}}
 nav.desktop-nav{display:flex;gap:22px;color:#1a1a1a;font-size:1rem}
 nav.desktop-nav a:hover{color:var(--text)}

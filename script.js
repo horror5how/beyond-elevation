@@ -316,11 +316,23 @@ if (!reduce) {
 (function(){
   const h1 = document.querySelector('.hero-instant h1');
   if(!h1 || reduce) return;
-  const text = h1.textContent.trim();
-  const words = text.split(/\s+/);
-  h1.innerHTML = words.map((word, i) =>
-    `<span class="hero-word" style="animation-delay:${i * 0.08}s">${word}</span>`
-  ).join(' ');
+  const lines = [...h1.querySelectorAll('.hero-line')];
+  let globalIdx = 0;
+  if(lines.length){
+    lines.forEach(line => {
+      const words = line.textContent.trim().split(/\s+/);
+      line.innerHTML = words.map(word => {
+        const html = `<span class="hero-word" style="animation-delay:${globalIdx * 0.08}s">${word}</span>`;
+        globalIdx++;
+        return html;
+      }).join(' ');
+    });
+  } else {
+    const words = h1.textContent.trim().split(/\s+/);
+    h1.innerHTML = words.map((word, i) =>
+      `<span class="hero-word" style="animation-delay:${i * 0.08}s">${word}</span>`
+    ).join(' ');
+  }
 })();
 
 /* ── Intersection Observer threshold fix ── */
