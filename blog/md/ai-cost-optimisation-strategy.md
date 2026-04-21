@@ -3,7 +3,7 @@ title: "7 Ways to Cut Your AI Spend by 40% Without Touching Model Quality"
 slug: ai-cost-optimisation-strategy
 date: 2026-04-21
 url: https://beyondelevation.com/blog/post.html?slug=ai-cost-optimisation-strategy
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -25,7 +25,7 @@ Most CTOs frame AI costs as an infrastructure challenge. They optimise GPU utili
 
 The root cause of AI overspend is strategic: companies build what they should license. They pour £500K into developing an inference optimisation technique that three companies have already patented. They spend 18 months training a domain-specific model when a licensable foundation exists at 10% of the cost.
 
-Beyond Elevation's AI advisory starts with a single question: for every component in your AI stack, have you determined whether you should build it, license it, or acquire the IP outright? That question alone — answered rigorously — typically identifies 30–40% of addressable cost reduction.
+Beyond Elevation’s AI advisory starts with a single question: for every component in your AI stack, have you determined whether you should build it, license it, or acquire the IP outright? That question alone — answered rigorously — typically identifies 30–40% of addressable cost reduction.
 
 The connection to [the build vs buy AI decision](/blog/posts/build-vs-buy-ai-decision/) is direct. But cost optimisation goes further: it asks not just what to build but what to *license* — and how to structure those licences for maximum cost efficiency.
 
@@ -53,7 +53,7 @@ When you license training data from a third party, negotiate compute-sharing pro
 
 ### 5. Patent Your Efficiency Innovations for Licensing Revenue
 
-If your team invents a cost-saving technique, patent it. That patent becomes a revenue-generating asset you can license to others — offsetting your own compute costs entirely. Position Imaging's portfolio restructure with Hayat Amin followed this exact logic: operational innovations became licensable IP that generated eight figures in recurring royalties.
+If your team invents a cost-saving technique, patent it. That patent becomes a revenue-generating asset you can license to others — offsetting your own compute costs entirely. Position Imaging’s portfolio restructure with Hayat Amin followed this exact logic: operational innovations became licensable IP that generated eight figures in recurring royalties.
 
 ### 6. Audit Your AI Stack for Redundant IP Costs
 
@@ -61,7 +61,7 @@ Most AI companies unknowingly pay for the same underlying IP multiple times thro
 
 ### 7. Build an IP-First Vendor Selection Process
 
-Before selecting any AI vendor or tool, ask: what IP does this vendor actually own versus resell? Vendors who own their core IP price more aggressively and offer better terms. Those who sublicence add margin layers that inflate your costs. Hayat Amin's rule for vendor selection is simple: "If they cannot show you the patent numbers, you are paying rent on someone else's innovation."
+Before selecting any AI vendor or tool, ask: what IP does this vendor actually own versus resell? Vendors who own their core IP price more aggressively and offer better terms. Those who sublicence add margin layers that inflate your costs. Hayat Amin’s rule for vendor selection is simple: "If they cannot show you the patent numbers, you are paying rent on someone else’s innovation."
 
 ## How Does the AI Cost Stack Framework Deliver Results?
 
@@ -70,8 +70,11 @@ The AI Cost Stack Framework delivers results by converting abstract cost-cutting
 Here is how it works in practice. A Series B AI company spending £3.2M annually on compute engaged Beyond Elevation for a cost stack audit. The findings:
 
 - £480K in inference costs traceable to building a technique already available under licence for £95K/year
+
 - £340K in redundant vendor fees where three tools used the same underlying patented method
+
 - £220K in training compute reducible through proprietary data pipeline restructuring
+
 - Two internal innovations worth patenting — projected licensing revenue of £180K/year within 18 months
 
 Total addressable reduction: £1.04M — a 32% cut with zero degradation in model quality. Add the projected licensing revenue and the net improvement exceeds 38%.
@@ -84,9 +87,11 @@ Founders should start with a full IP audit of their AI stack — mapping every c
 
 The sequence matters. Do not start by renegotiating cloud contracts or switching GPU providers. Those moves save 5–10% at best. Start by asking:
 
-1. Which components of our AI stack are we building that we could license for less?
-2. Which of our internal innovations are patentable — and licensable to others?
-3. Where are we paying multiple vendors for access to the same underlying IP?
+- Which components of our AI stack are we building that we could license for less?
+
+- Which of our internal innovations are patentable — and licensable to others?
+
+- Where are we paying multiple vendors for access to the same underlying IP?
 
 These three questions, rigorously answered, identify 80% of addressable cost reduction. The remaining 20% comes from technical optimisation — which matters, but only after the IP-layer decisions are made correctly.
 
@@ -106,8 +111,11 @@ No. Series A and B startups see the largest proportional benefit because they ha
 
 ### How does IP strategy connect to reducing AI compute costs?
 
-Every AI compute cost traces back to an IP decision: build versus license, patent versus trade secret, single vendor versus multi-licence. When these decisions are made without IP strategy, companies default to building everything — the most expensive option. Hayat Amin's AI Cost Stack Framework forces each decision through an IP-economics lens, revealing where licensing or acquisition beats internal development on pure cost math.
+Every AI compute cost traces back to an IP decision: build versus license, patent versus trade secret, single vendor versus multi-licence. When these decisions are made without IP strategy, companies default to building everything — the most expensive option. Hayat Amin’s AI Cost Stack Framework forces each decision through an IP-economics lens, revealing where licensing or acquisition beats internal development on pure cost math.
 
 ### What is the first step to reducing AI spend through IP strategy?
 
 Conduct an IP audit of your AI stack. Map every component — inference engine, training pipeline, data processing, model architecture — to its IP ownership status. Identify which components use patented methods you are recreating internally. That map reveals immediate licensing opportunities that reduce costs without touching model quality.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

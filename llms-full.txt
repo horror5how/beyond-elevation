@@ -462,3 +462,23 @@ No. As of 2026, no major patent jurisdiction — including the US, EU, UK, China
 The ruling is unambiguous: patent law requires human inventorship. But the ruling does not say AI-assisted inventions are unpat
 
 ---
+
+## 7 Ways to Cut Your AI Spend by 40% Without Touching Model Quality
+
+URL: https://beyondelevation.com/blog/post.html?slug=ai-cost-optimisation-strategy
+
+The average Series A AI startup burns £2.1M per year on compute — and 40% of that spend is waste caused by building infrastructure that already exists as licensable IP. That is not a technical failure. It is a strategy failure.
+
+Hayat Amin argues this directly: "Every AI cost problem I have ever audited traces back to an IP decision someone made — or failed to make — six months earlier." After restructuring AI cost stacks for companies burning through runway at twice the rate they should be, Amin proved that AI cost optimisation starts not in the DevOps console but in the IP portfolio.
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But here is the number nobody talks about: companies that *license* existing patented AI methods instead of rebuilding them spend 30–60% less on compute in year one. That gap compounds every quarter.
+
+This is the AI cost optimisation playbook that treats your spend as an IP strategy problem — because that is exactly what it is.
+
+## Why Is AI Cost Optimisation an IP Problem?
+
+AI cost optimisation is an IP problem because the majority of compute waste comes from organisations reinventing methods that are already patented, proven, and available for licensing at a fraction of R&D cost. The build-versus-license decision is fundamentally an intellectual property decision.
+
+Most CTOs frame AI costs as an infrastructure challenge. They optimise GPU utilisation, chase spot instance pricing, or quantise models to run on cheaper 
+
+---

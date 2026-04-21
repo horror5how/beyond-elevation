@@ -70,5 +70,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Build vs Buy AI: The Framework That Stops Founders Wasting £500K on the Wrong Decision](https://beyondelevation.com/blog/post.html?slug=build-vs-buy-ai-decision) — /blog/md/build-vs-buy-ai-decision.md
 - [The CEO's 90-Day AI Adoption Roadmap That Delivers Measurable Results Before Month 4](https://beyondelevation.com/blog/post.html?slug=ai-adoption-roadmap-ceo) — /blog/md/ai-adoption-roadmap-ceo.md
 - [Can an AI Be a Patent Inventor? The 2026 Legal Reality (And What It Means for Your Portfolio)](https://beyondelevation.com/blog/post.html?slug=ai-generated-invention-patent-eligibility) — /blog/md/ai-generated-invention-patent-eligibility.md
+- [7 Ways to Cut Your AI Spend by 40% Without Touching Model Quality](https://beyondelevation.com/blog/post.html?slug=ai-cost-optimisation-strategy) — /blog/md/ai-cost-optimisation-strategy.md
 
 > Full blog content available at /llms-full.txt
