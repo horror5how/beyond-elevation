@@ -6,3 +6,4 @@
 2026-04-20 17:53 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: trade-secret-protection-ai-models | Your AI model patent just handed competitors your training playbook.  Patents re
 2026-04-21 07:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: agentic-ai-business-strategy | Agentic AI is not a product decision. It is an IP decision.  Most founders deplo
 2026-04-21 12:52 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-training-data-licensing-agreements | The AI model your team built might not belong to you.  Most founders sign data l
+2026-04-21 17:49 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-transformation-roi-framework | Your board just asked for the ROI on your AI spend.  You have usage stats. They 
