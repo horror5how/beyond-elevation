@@ -46,8 +46,11 @@ h1,h2,h3,p,blockquote{margin-top:0}
 .topbar::before{content:'';position:absolute;left:50%;top:0;transform:translateX(-50%);width:100vw;height:100%;background:rgba(248,246,242,.92);border-bottom:1px solid rgba(186,173,156,.10);opacity:0;pointer-events:none;transition:opacity .18s ease}
 .topbar.is-scrolled::before{opacity:1}
 .topbar > *{position:relative;z-index:1}
-.brand{display:inline-flex;align-items:center;gap:12px;font-family:"Inter", sans-serif;font-weight:400;letter-spacing:.01em;text-transform:none;font-size:1rem;color:#1a1a1a}
-.brand-mark{position:relative;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:12px;background:#000;color:#ffffff;font-family:"Inter", sans-serif;font-weight:400;font-size:.82rem;letter-spacing:-.02em;box-shadow:0 0 0 1px rgba(255,255,255,.05) inset,0 14px 26px rgba(0,0,0,.32),0 0 20px rgba(255,255,255,.05);overflow:hidden;animation:brandPulse 3.8s ease-in-out infinite}.brand-mark::after{content:'';position:absolute;inset:-30% auto -30% -55%;width:58%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.4),transparent);transform:skewX(-24deg);animation:brandSweep 4.6s ease-in-out infinite}
+.brand{display:inline-flex;align-items:center;gap:0;font-family:"Inter", sans-serif;font-weight:400;letter-spacing:.01em;text-transform:none;font-size:1rem;color:#1a1a1a;height:44px;text-decoration:none}
+.brand > span{display:none}
+.brand-mark{display:none}
+.brand::before{content:'';display:block;width:180px;height:40px;background:url('/assets/brand/be-logo-primary-trimmed.webp') no-repeat left center;background-size:contain}
+@media (max-width:600px){.brand::before{width:150px;height:34px}}
 nav.desktop-nav{display:flex;gap:22px;color:#1a1a1a;font-size:1rem}
 nav.desktop-nav a:hover{color:var(--text)}
 #mobile-nav{display:none}
