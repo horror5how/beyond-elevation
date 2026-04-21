@@ -500,3 +500,23 @@ Here is the framework Beyond Elevation uses to determine which AI assets to pate
 Most AI companies should not patent their core models because patent applications require public disclosure of the invention in sufficient detail for reproduction — and for AI models, that disclosure hands competitors a roadmap more valuable than any 20-year exclusivity period. Trade secret protection for AI models avoids this f
 
 ---
+
+## AI Training Data Licensing: The Contract Clause That Determines Who Owns the Model
+
+URL: https://beyondelevation.com/blog/post.html?slug=ai-training-data-licensing-agreements
+
+A single clause buried on page 14 of a standard AI training data licensing agreement can transfer ownership of your entire model to the data provider. Hayat Amin argues that the majority of AI startups Beyond Elevation audits have this clause — the "derivative works" provision — in at least one active contract. Most founders never read it. The ones who do read it rarely understand what it means for model ownership.
+
+AI training data licensing is not a procurement decision. It is an IP decision that determines who owns the model you build, who can license it, and who captures the exit value. Get the contract wrong and you have built a multimillion-dollar asset for someone else.
+
+This is the contract clause every AI founder needs to understand — and the framework for structuring data licensing deals that protect your model, your IP, and your cap table.
+
+## What Is AI Training Data Licensing and Why Does It Determine Model Ownership?
+
+AI training data licensing is the contractual framework that governs how a company acquires, uses, and retains rights over datasets used to train machine learning models. The licensing terms — not the model architecture, not the training compute — are what legally determine who owns the resulting model and its outputs.
+
+Most founders treat data licensing as a vendor agreement. They negotiate price, delivery format, and volume. They skip the IP clauses. This is the mistake that creates eight-figure problems at exit.
+
+Training data IP rights fall int
+
+---

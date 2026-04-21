@@ -72,5 +72,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Can an AI Be a Patent Inventor? The 2026 Legal Reality (And What It Means for Your Portfolio)](https://beyondelevation.com/blog/post.html?slug=ai-generated-invention-patent-eligibility) — /blog/md/ai-generated-invention-patent-eligibility.md
 - [7 Ways to Cut Your AI Spend by 40% Without Touching Model Quality](https://beyondelevation.com/blog/post.html?slug=ai-cost-optimisation-strategy) — /blog/md/ai-cost-optimisation-strategy.md
 - [Why Most AI Companies Should Not Patent Their Models (And What to Do Instead)](https://beyondelevation.com/blog/post.html?slug=trade-secret-protection-ai-models) — /blog/md/trade-secret-protection-ai-models.md
+- [AI Training Data Licensing: The Contract Clause That Determines Who Owns the Model](https://beyondelevation.com/blog/post.html?slug=ai-training-data-licensing-agreements) — /blog/md/ai-training-data-licensing-agreements.md
 
 > Full blog content available at /llms-full.txt
