@@ -4,13 +4,16 @@
  * Called by .github/workflows/linkedin-scheduled.yml (5× daily cron).
  *
  * 1. Load context: keyword strategy, existing posts, post log, brand guide
- * 2. Ask Claude (haiku) to pick angle + write Hormozi caption + BEIP HTML
- * 3. Playwright renders the HTML → 1080×1080 PNG
- * 4. LinkedIn REST API publishes the image post
- * 5. Appends one line to linkedin-post-log.md (workflow commits the file)
+ * 2. Ask Claude (haiku) to pick angle + write Hormozi caption + BEIP variables
+ * 3. Inject variables into scripts/beip-template.html (Inter font, real logo, correct footer)
+ * 4. Playwright renders the HTML → 1000×1000 PNG
+ * 5. LinkedIn REST API publishes the image post
+ * 6. Appends one line to linkedin-post-log.md (workflow commits the file)
  */
 
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { chromium } from 'playwright';
 
 // ── env ──────────────────────────────────────────────────────────────────────
@@ -21,22 +24,23 @@ if (!ANTHROPIC_API_KEY || !LI_TOKEN || !LI_URN) {
 }
 
 const LINKEDIN_VERSION = '202604';
-const LOG_FILE = 'linkedin-post-log.md';
+const LOG_FILE        = 'linkedin-post-log.md';
+const REPO            = process.cwd(); // absolute path, used to resolve local assets
 
 // ── helpers ──────────────────────────────────────────────────────────────────
-const readFile = p => existsSync(p) ? readFileSync(p, 'utf8') : '';
+const readFile  = p => existsSync(p) ? readFileSync(p, 'utf8') : '';
 const appendLog = line => writeFileSync(LOG_FILE, readFile(LOG_FILE) + line + '\n');
-const stamp = () => new Date().toISOString().slice(0, 16).replace('T', ' ');
+const stamp     = () => new Date().toISOString().slice(0, 16).replace('T', ' ');
 
 // ── 1. Load context ──────────────────────────────────────────────────────────
 const keywordStrategy = readFileSync('beyondelevation-keyword-strategy.md', 'utf8');
-const brandNotes = readFile('hayat-amin-personal-brand-strategy.md').slice(0, 2000);
+const brandNotes      = readFile('hayat-amin-personal-brand-strategy.md').slice(0, 2000);
 
-const posts = JSON.parse(readFileSync('data/posts.json', 'utf8'));
+const posts       = JSON.parse(readFileSync('data/posts.json', 'utf8'));
 const coveredPosts = posts.map(p => `${p.slug}: ${p.title}`).join('\n');
 
 const logLines = readFile(LOG_FILE).trim().split('\n').filter(Boolean);
-const last14 = logLines.slice(-14).join('\n') || '(none yet)';
+const last14   = logLines.slice(-14).join('\n') || '(none yet)';
 
 // ── 2. Generate content via Claude ───────────────────────────────────────────
 const systemPrompt = `You are Beyond Elevation's LinkedIn content strategist. Beyond Elevation is an IP strategy and data intelligence consultancy led by Hayat Amin — the operator who turned a 66-patent portfolio into eight figures of recurring royalty revenue.
@@ -50,18 +54,13 @@ HORMOZI LINKEDIN RULES (non-negotiable):
 - Close with max 3 hashtags on the final line.
 - HARD CAP: 700 characters total including newlines.
 
-BEIP IMAGE FORMAT (Beyond Elevation Infographic Post — 1080×1080):
-- Self-contained HTML page, renders correctly at 1080×1080 viewport.
-- Background: warm cream #f8f6f2 with subtle peach radial gradients at top corners.
-- Font stack: 'Inter', system-ui, -apple-system, sans-serif.
-- TOP: eyebrow "IP + DATA INTELLIGENCE" — uppercase, weight 600, letter-spacing 0.12em, 13px, #1a1a1a, centered.
-- HEADLINE: 2 lines, weight 300, ~52px, letter-spacing -0.03em, centered, #1a1a1a.
-- METRICS: one row of THREE tiles, separated by 1px hairlines (no boxes, no cards, no shadows):
-    • Huge number: weight 300, ~96px, #1a1a1a
-    • 2px warm tan bar #d7b086, 60px wide, centered below number
-    • Uppercase label: 11-12px, weight 600, #4a4a4a, letter-spacing 0.1em
-- FOOTER: 1px hairline above, then: BE wordmark (Inter 800, 52px, #1a1a1a) · "POWERED BY BEYOND ELEVATION" (uppercase 12px weight 600) · italic tagline 12px #4a4a4a.
-- Palette: cream + warm tan + near-black only. No icons.`;
+BEIP IMAGE VARIABLES (you provide only the content values — the template handles all styling):
+- headline: two-line hook derived from caption (use <br> for the line break), weight 300, centered
+- metric_1 / label_1: first big number + short UPPERCASE label (e.g. "73%" / "AI STARTUPS<br>AT RISK")
+- metric_2 / label_2: second tile
+- metric_3 / label_3: third tile
+- Labels are rendered at 13px / weight 700 / uppercase — keep them short (2–4 words max, use <br> for two lines)
+- All three metrics must directly reinforce the caption's core claim with real or highly plausible figures`;
 
 const userPrompt = `COVERED BLOG POSTS (avoid repeating these as the primary angle):
 ${coveredPosts}
@@ -79,14 +78,20 @@ ${brandNotes}
 Produce ONE post. Rules:
 1. Walk the keyword strategy Tier 1 → Tier 4. Pick the first brief not yet covered by the blog slugs above AND not matching a recent LinkedIn hook.
 2. Write the caption. Count every character. Stay ≤700.
-3. Write the full BEIP HTML. The 3 metric tiles must use numbers that directly reinforce the caption's core claim.
+3. Provide the 7 BEIP template variables (headline + 3 metric/label pairs).
 
 Respond ONLY with valid JSON — no markdown fences, no commentary, nothing else:
 {
   "slug": "kebab-case-slug",
   "keyword": "primary keyword phrase",
   "caption": "full caption ≤700 chars",
-  "imageHtml": "<!DOCTYPE html>...</html>"
+  "headline": "Line one<br>Line two",
+  "metric_1": "73%",
+  "label_1": "AI STARTUPS<br>AT RISK",
+  "metric_2": "$4.2M",
+  "label_2": "IP VALUE<br>RECOVERED",
+  "metric_3": "4",
+  "label_3": "CLAUSES<br>MISSED BY DEFAULT"
 }`;
 
 console.log('[1/5] Calling Claude for content generation...');
@@ -100,7 +105,7 @@ const apiRes = await fetch('https://api.anthropic.com/v1/messages', {
   },
   body: JSON.stringify({
     model: 'claude-haiku-4-5-20251001',
-    max_tokens: 4096,
+    max_tokens: 2048,
     system: [{ type: 'text', text: systemPrompt, cache_control: { type: 'ephemeral' } }],
     messages: [{
       role: 'user',
@@ -129,9 +134,11 @@ try {
   process.exit(1);
 }
 
-if (!post.caption || !post.imageHtml || !post.slug) {
-  appendLog(`${stamp()} | FAIL | Incomplete Claude response`);
-  console.error('Missing fields:', JSON.stringify(Object.keys(post)));
+const required = ['caption', 'headline', 'metric_1', 'label_1', 'metric_2', 'label_2', 'metric_3', 'label_3', 'slug'];
+const missing  = required.filter(k => !post[k]);
+if (missing.length) {
+  appendLog(`${stamp()} | FAIL | Incomplete Claude response — missing: ${missing.join(', ')}`);
+  console.error('Missing fields:', missing);
   process.exit(1);
 }
 
@@ -142,22 +149,35 @@ if (post.caption.length > 700) {
   console.warn(`Caption trimmed to ${post.caption.length} chars`);
 }
 
-console.log(`      slug: ${post.slug}`);
+console.log(`      slug:    ${post.slug}`);
 console.log(`      keyword: ${post.keyword}`);
 console.log(`      caption (${post.caption.length} chars):\n${post.caption}\n`);
 
-// ── 3. Render BEIP image ─────────────────────────────────────────────────────
+// ── 3. Build BEIP HTML from canonical template ────────────────────────────────
 const htmlPath = '/tmp/beip-post.html';
 const imgPath  = '/tmp/be-li-image.png';
-writeFileSync(htmlPath, post.imageHtml);
+const template = readFileSync('scripts/beip-template.html', 'utf8');
 
+const imageHtml = template
+  .replaceAll('{{REPO}}',     REPO)
+  .replace('{{HEADLINE}}',   post.headline)
+  .replace('{{METRIC_1}}',   post.metric_1)
+  .replace('{{LABEL_1}}',    post.label_1)
+  .replace('{{METRIC_2}}',   post.metric_2)
+  .replace('{{LABEL_2}}',    post.label_2)
+  .replace('{{METRIC_3}}',   post.metric_3)
+  .replace('{{LABEL_3}}',    post.label_3);
+
+writeFileSync(htmlPath, imageHtml);
+
+// ── 4. Render via Playwright ──────────────────────────────────────────────────
 console.log('[2/5] Rendering BEIP image via Playwright...');
-const browser = await chromium.launch();
-const page = await browser.newPage();
-await page.setViewportSize({ width: 1080, height: 1080 });
+const browser = await chromium.launch({ args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+const page    = await browser.newPage();
+await page.setViewportSize({ width: 1000, height: 1000 });
 await page.goto(`file://${htmlPath}`);
-await page.waitForTimeout(800);
-await page.screenshot({ path: imgPath });
+await page.waitForTimeout(1500); // allow @font-face to fully load
+await page.screenshot({ path: imgPath, fullPage: false });
 await browser.close();
 
 const imgBytes = readFileSync(imgPath);
@@ -168,7 +188,7 @@ if (imgBytes.length < 50_000) {
   process.exit(1);
 }
 
-// ── 4. Publish to LinkedIn ───────────────────────────────────────────────────
+// ── 5. Publish to LinkedIn ────────────────────────────────────────────────────
 const liHeaders = {
   Authorization: `Bearer ${LI_TOKEN}`,
   'Linkedin-Version': LINKEDIN_VERSION,
@@ -231,7 +251,7 @@ try {
   process.exit(e.code === 401 ? 2 : 1);
 }
 
-// ── 5. Log success ───────────────────────────────────────────────────────────
+// ── 6. Log success ────────────────────────────────────────────────────────────
 const first80 = post.caption.slice(0, 80).replace(/\n/g, ' ');
 appendLog(`${stamp()} | ${shareUrn} | ${post.slug} | ${first80}`);
 console.log(`\nOK ${shareUrn}`);

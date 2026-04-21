@@ -3,6 +3,7 @@
     "googleapis": "^171.4.0"
   },
   "devDependencies": {
+    "@fontsource/inter": "^5.2.8",
     "@napi-rs/canvas": "^0.1.99"
   }
 }
