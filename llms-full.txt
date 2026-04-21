@@ -482,3 +482,21 @@ AI cost optimisation is an IP problem because the majority of compute waste come
 Most CTOs frame AI costs as an infrastructure challenge. They optimise GPU utilisation, chase spot instance pricing, or quantise models to run on cheaper 
 
 ---
+
+## Why Most AI Companies Should Not Patent Their Models (And What to Do Instead)
+
+URL: https://beyondelevation.com/blog/post.html?slug=trade-secret-protection-ai-models
+
+Patenting your AI model forces you to publish the exact architecture competitors need to replicate your work. That is not protection — it is a blueprint.
+
+Hayat Amin argues this is the most expensive mistake in AI: "Founders spend £30K filing a patent that hands competitors a technical specification they could not have reverse-engineered for £3M." After advising AI companies that collectively hold over 200 model-related patents, Amin proved that trade secret protection for AI models is the correct default for most companies — and that the 20% who should patent almost always patent the wrong assets.
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But that stat applies to strategic patents on [protectable AI engineering innovations](/blog/posts/ai-engineering-ip-what-is-protectable/) — not to model weights and training recipes that should never see a patent office. The distinction is worth millions.
+
+Here is the framework Beyond Elevation uses to determine which AI assets to patent, which to protect as trade secrets, and why most founders get this decision backwards.
+
+## Why Should Most AI Companies Not Patent Their Models?
+
+Most AI companies should not patent their core models because patent applications require public disclosure of the invention in sufficient detail for reproduction — and for AI models, that disclosure hands competitors a roadmap more valuable than any 20-year exclusivity period. Trade secret protection for AI models avoids this f
+
+---
