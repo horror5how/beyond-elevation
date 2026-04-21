@@ -46,11 +46,11 @@ h1,h2,h3,p,blockquote{margin-top:0}
 .topbar::before{content:'';position:absolute;left:50%;top:0;transform:translateX(-50%);width:100vw;height:100%;background:rgba(248,246,242,.92);border-bottom:1px solid rgba(186,173,156,.10);opacity:0;pointer-events:none;transition:opacity .18s ease}
 .topbar.is-scrolled::before{opacity:1}
 .topbar > *{position:relative;z-index:1}
-.brand{display:inline-flex;align-items:center;gap:0;font-family:"Inter", sans-serif;font-weight:400;letter-spacing:.01em;text-transform:none;font-size:1rem;color:#1a1a1a;height:44px;text-decoration:none}
-.brand > span{display:none}
-.brand-mark{display:none}
-.brand::before{content:'';display:block;width:180px;height:40px;background:url('/assets/brand/be-logo-primary-trimmed.webp') no-repeat left center;background-size:contain}
-@media (max-width:600px){.brand::before{width:150px;height:34px}}
+.brand{display:inline-flex;align-items:center;gap:10px;font-family:"Inter", sans-serif;font-weight:500;letter-spacing:-.01em;text-transform:none;font-size:1.05rem;color:#1a1a1a;height:44px;text-decoration:none}
+.brand > span{display:inline-flex;align-items:center}
+.brand-mark{position:relative;display:inline-block;width:38px;height:38px;background:url('/assets/brand/be-mark-trimmed.webp') no-repeat center center;background-size:contain;color:transparent;font-size:0;border-radius:0;box-shadow:none;animation:none;overflow:visible}
+.brand-mark::after{display:none}
+@media (max-width:600px){.brand-mark{width:32px;height:32px}.brand{font-size:.95rem;gap:8px}}
 nav.desktop-nav{display:flex;gap:22px;color:#1a1a1a;font-size:1rem}
 nav.desktop-nav a:hover{color:var(--text)}
 #mobile-nav{display:none}
