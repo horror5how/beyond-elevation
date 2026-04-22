@@ -520,3 +520,19 @@ Most founders treat data licensing as a vendor agreement. They negotiate price, 
 Training data IP rights fall int
 
 ---
+
+## A Tech Startup Got a Patent Troll Letter. Here Is the Patent Troll Defense Strategy They Used to Win.
+
+URL: https://beyondelevation.com/blog/post.html?slug=patent-troll-defense-strategy
+
+83% of patent infringement lawsuits against tech startups in 2025 came from companies that never built a single product. One SaaS founder received a demand letter for $2.4 million in licensing fees — for a patent so broad it could describe half the apps on any smartphone. Six months later, the patent troll walked away with nothing. The difference was not luck. It was a patent troll defense strategy built before the letter arrived. Hayat Amin argues this scenario plays out identically every time: founders without a defense strategy settle out of fear, while founders with one fight — and win.
+
+## What Is a Patent Troll Defense Strategy?
+
+A patent troll defense strategy is a structured plan for identifying, evaluating, and defeating patent infringement claims brought by non-practicing entities — companies that own patents solely to extract licensing fees, not to build products. Every tech startup operating without one is already a target, and the cost of ignorance is measured in millions.
+
+Patent trolls — formally called patent assertion entities (PAEs) or non-practicing entities (NPEs) — filed over 4,000 lawsuits against technology companies in 2025. The median demand: $3.2 million. The median cost of fighting through trial: $2.1 million. Most founders do the math and settle, which is exactly what trolls count on. The settlement economics fund the next round of demand letters.
+
+The problem is structural. PAE litigation exploits the gap between what it costs to assert a weak pat
+
+---

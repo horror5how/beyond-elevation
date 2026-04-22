@@ -3,7 +3,7 @@ title: "A Tech Startup Got a Patent Troll Letter. Here Is the Patent Troll Defen
 slug: patent-troll-defense-strategy
 date: 2026-04-22
 url: https://beyondelevation.com/blog/post.html?slug=patent-troll-defense-strategy
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -86,3 +86,6 @@ No company can guarantee immunity from NPE lawsuits, but building a defensive pa
 ### What is inter partes review and why do patent trolls fear it?
 
 Inter partes review is a USPTO proceeding that challenges the validity of a granted patent. IPR succeeds at invalidating or narrowing claims over 70% of the time, costs a fraction of district court litigation, and directly threatens the asset trolls depend on for revenue. Filing an IPR frequently forces trolls into favorable settlement discussions or outright dismissal.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
