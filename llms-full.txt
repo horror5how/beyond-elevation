@@ -554,3 +554,21 @@ IP strategy for pre-revenue startups is the systematic process of identifying, c
 A pre-revenue IP strategy answers three questions that determine whether your company is investable. First: what do you know or build that a well-funded competitor cannot repl
 
 ---
+
+## Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing to Investors
+
+URL: https://beyondelevation.com/blog/post.html?slug=open-weight-model-ip-risks
+
+**8 out of 10 AI startups building on open-weight models have at least one material IP risk they have never disclosed to investors.** Not a theoretical risk. A valuation-killing, deal-cratering, due-diligence-failing risk sitting inside their tech stack right now.
+
+Hayat Amin argues this is the single biggest blind spot in AI fundraising today: "Founders treat open-weight models like free infrastructure. They are not free. They are IP time bombs with license terms most CTOs have never read and patent exposure most lawyers have never mapped."
+
+If you are building on Llama, Mistral, or any other open-weight model, here are the four open-weight AI model IP risks you need to understand — and disclose — before your next investor conversation.
+
+## What Are Open-Weight AI Model IP Risks?
+
+Open-weight AI model IP risks are the legal and commercial exposures companies face when building products on publicly released model weights like Meta's Llama 4 or Mistral AI's models. These risks span patent infringement, license non-compliance, derivative work ownership ambiguity, and training data provenance liability — and any single one can collapse a valuation during due diligence.
+
+Most founders assume "open-weight" means "free to use however you want." It does not. Open-weight means the model weights are publicly available. It says nothing about the patents covering the model architecture, the license conditions governing commercial use, or the IP status of the training data baked into tho
+
+---

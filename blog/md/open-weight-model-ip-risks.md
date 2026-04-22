@@ -3,7 +3,7 @@ title: "Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing t
 slug: open-weight-model-ip-risks
 date: 2026-04-22
 url: https://beyondelevation.com/blog/post.html?slug=open-weight-model-ip-risks
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -104,3 +104,6 @@ Open-source AI releases the full package: model weights, training code, training
 ### Should I stop using open-weight models entirely?
 
 No. Open-weight models are powerful tools that reduce development costs and accelerate time to market. The issue is not using them — it is using them without understanding and managing the IP risks. Run an audit, document your compliance posture, structure your fine-tuning for maximum ownership clarity, and disclose known risks to investors. Managed risk is fundable. Hidden risk is not.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

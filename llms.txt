@@ -75,5 +75,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [AI Training Data Licensing: The Contract Clause That Determines Who Owns the Model](https://beyondelevation.com/blog/post.html?slug=ai-training-data-licensing-agreements) — /blog/md/ai-training-data-licensing-agreements.md
 - [A Tech Startup Got a Patent Troll Letter. Here Is the Patent Troll Defense Strategy They Used to Win.](https://beyondelevation.com/blog/post.html?slug=patent-troll-defense-strategy) — /blog/md/patent-troll-defense-strategy.md
 - [The IP Moves You Must Make Before You Write a Single Line of Code](https://beyondelevation.com/blog/post.html?slug=ip-strategy-pre-revenue-startup) — /blog/md/ip-strategy-pre-revenue-startup.md
+- [Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing to Investors](https://beyondelevation.com/blog/post.html?slug=open-weight-model-ip-risks) — /blog/md/open-weight-model-ip-risks.md
 
 > Full blog content available at /llms-full.txt
