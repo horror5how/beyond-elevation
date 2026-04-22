@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing to Investors
 
-**8 out of 10 AI startups building on open-weight models have at least one material IP risk they have never disclosed to investors.** Not a theoretical risk. A valuation-killing, deal-cratering, due-diligence-failing risk sitting inside their tech stack right now.
+**8 out of 10 AI startups face open-weight AI model IP risks they have never disclosed to investors.** Not a theoretical risk. A valuation-killing, deal-cratering, due-diligence-failing risk sitting inside their tech stack right now.
 
 Hayat Amin argues this is the single biggest blind spot in AI fundraising today: "Founders treat open-weight models like free infrastructure. They are not free. They are IP time bombs with license terms most CTOs have never read and patent exposure most lawyers have never mapped."
 
