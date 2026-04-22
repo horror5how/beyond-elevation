@@ -1,9 +1,10 @@
 ---
 title: Beyond Elevation Keyword Strategy (Source of Truth for Blog Cron)
 owner: Hayat Amin
-last_updated: 2026-04-19
+last_updated: 2026-04-22
 source_files: [seo-geo-plan.md, seo-content-plan.md, ai-seo-plan.md]
-coverage_audit: 2026-04-16
+coverage_audit: 2026-04-22
+paa_last_scraped: 2026-04-22
 ---
 
 # Beyond Elevation — Keyword Strategy
@@ -16,7 +17,7 @@ Every brief below targets a real search query with commercial or high-commercial
 
 1. Read this file in full.
 2. Load `data/posts.json` and extract every `slug` and `title`.
-3. Walk the keyword briefs below in order (tier 1 → tier 4).
+3. Walk the keyword briefs below in order (tier 1 → tier 5). **Tier 5** is the live PAA harvest — treat 🟢 new rows as first-class blog briefs after Tier 4 gaps are closed, or fast-track a high-priority 🟢 row ahead of Tier 4 if it scores higher on commercial intent or AEO volume.
 4. Pick the FIRST brief whose `slug_hint` does not already exist in posts.json AND whose `primary_keyword` is not already covered by an existing title.
 5. Use the `angle`, `primary_keyword`, and `supporting_keywords` verbatim in the post:
    - `primary_keyword` goes in the H1, first 100 words, meta description, and at least two H2s
@@ -180,3 +181,37 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 8. **T4A-01** — agentic-ai-business-strategy (bridges AI transformation + IP service line)
 9. **T4B-02** — ai-generated-invention-patent-eligibility (trending question, AEO magnet)
 10. **T4C-01** — can-ai-own-a-patent (answer-first, high AI citation play)
+
+## Tier 5 — PAA Harvest (People Also Ask — new blog ideas from live Google SERPs)
+
+**Source:** Google "People Also Ask" boxes scraped via Apify on the date stamped in each row. These are verified live-SERP questions users ask right now — every uncovered row is a NEW blog idea the cron should consider after Tier 4 gaps are closed. Tier 5 posts should open with a 2-3 sentence direct answer (AEO-ready) and use `FAQPage` schema.
+
+**Status legend:** `🟢 new` = fresh blog idea, not yet written. `🟡 partial` = existing post covers adjacent ground but not this exact question — consider a follow-up or section update. `✅` = covered (link to slug).
+
+| # | scraped | question (primary_keyword) | hormozi_angle | supporting_keywords | status |
+|---|---|---|---|---|---|
+| T5-01 | 2026-04-22 | How do you calculate the value of a patent? | The 3-Number Formula Nobody Teaches (Yes, There Is Actual Math) | patent value calculation, patent valuation formula, how to value patents | 🟡 partial (see intangible-asset-valuation-hidden-worth) — write calc-focused follow-up |
+| T5-02 | 2026-04-22 | What is the 25% rule in valuing intellectual property? | The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks) | 25 percent rule patents, IP royalty rule of thumb, patent valuation heuristic | 🟢 new — zero coverage, high AEO |
+| T5-03 | 2026-04-22 | What is IP monetization? | IP Monetization Explained in 90 Seconds: The 4 Ways Smart Companies Turn Patents Into Cash | IP monetization definition, what is intellectual property monetization, patent monetization meaning | 🟢 new — definitional AEO gap |
+| T5-04 | 2026-04-22 | How to use IP to make money? | The 7 Ways to Make Money From IP (Ranked by What Actually Works in 2026) | make money from patents, IP revenue streams, profit from intellectual property | 🟢 new |
+| T5-05 | 2026-04-22 | Can IP assets be monetized? | Yes, IP Is an Asset. Here Is the Proof and the Playbook. | IP as an asset, patents as assets, intangible asset monetization | 🟢 new |
+| T5-06 | 2026-04-22 | How does IP make money? | How IP Actually Generates Revenue (Licensing, Sale, Enforcement, Backing) | how patents generate revenue, IP income streams, royalty revenue explained | 🟢 new |
+| T5-07 | 2026-04-22 | What are the 4 types of intellectual property? | The 4 Types of IP — And Why Founders Only Care About 2 of Them | patents trademarks copyrights trade secrets, IP types, intellectual property categories | 🟢 new — high-volume AEO foundation post |
+| T5-08 | 2026-04-22 | How to monetize your IP? | The Founder's IP Monetization Playbook: 5 Plays Ranked by Speed to Revenue | monetize your patents, IP monetization steps, startup IP revenue | 🟡 partial (see ip-monetization-for-ceos) — founder-specific angle still open |
+| T5-09 | 2026-04-22 | Can IP assets be monetized for profit? | The Real Margin on IP Monetization (With 3 Case Study P&Ls) | IP profit margin, patent revenue profitability, licensing ROI | 🟢 new |
+
+### Recommended write order (Tier 5)
+
+1. **T5-07** — 4 types of intellectual property (highest volume, foundation AEO post, internal-links to everything)
+2. **T5-02** — 25% rule (zero competition, high-authority niche question, links to valuation pillar)
+3. **T5-03** — what is IP monetization (definitional pillar that ranks forever)
+4. **T5-04** — 7 ways to make money from IP (listicle, strong CTA candidate)
+5. **T5-06** — how does IP make money (mechanics explainer, supports T5-04)
+6. **T5-09** — margin on IP monetization (differentiator — nobody writes P&L-style IP posts)
+7. **T5-05** — IP assets can be monetized (answer-first proof post)
+8. **T5-01 follow-up** — patent value calculation formula (extend existing valuation post)
+9. **T5-08 follow-up** — founder IP monetization playbook (re-angle existing CEO post for founder audience)
+
+### How to extend Tier 5
+
+The SEO Strategist scheduled task re-runs PAA scraping every Mon/Thu. New rows are appended here with the scrape date. Covered rows get struck through + the slug added. The Blog Publisher treats 🟢 rows as first-class briefs equivalent to Tier 3 (AEO plays).
