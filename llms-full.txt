@@ -536,3 +536,21 @@ Patent trolls — formally called patent assertion entities (PAEs) or non-practi
 The problem is structural. PAE litigation exploits the gap between what it costs to assert a weak pat
 
 ---
+
+## The IP Moves You Must Make Before You Write a Single Line of Code
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-strategy-pre-revenue-startup
+
+**Companies with patents are 10.2x more likely to secure early-stage funding. Yet 94% of pre-revenue startups have filed zero IP protection before their seed round.**
+
+That gap is not an oversight — it is a strategy failure that costs founders millions in dilution, competitive position, and exit value. Hayat Amin argues that IP strategy for pre-revenue startups is the single highest-leverage activity a founding team can execute before writing a single line of code. Not after the prototype. Not after the seed round. Before the first sprint.
+
+Most founders treat IP as a post-revenue checkbox — something the lawyers handle after there is money in the bank. That instinct is exactly backwards. The IP decisions that matter most happen when you have nothing to protect except an idea and a technical approach. By the time you have revenue, the most valuable filing windows have already closed.
+
+## What Is IP Strategy for Pre-Revenue Startups?
+
+IP strategy for pre-revenue startups is the systematic process of identifying, capturing, and protecting a company's intellectual property assets before the first dollar of revenue — so that every engineering decision, every architectural choice, and every data pipeline built from day one creates defensible, licensable, and fundable assets rather than unprotected know-how.
+
+A pre-revenue IP strategy answers three questions that determine whether your company is investable. First: what do you know or build that a well-funded competitor cannot repl
+
+---

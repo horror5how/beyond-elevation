@@ -49,6 +49,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-strategy-pre-revenue-startup/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/ai-cost-optimisation-strategy/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -193,33 +199,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-<<<<<<< Updated upstream
-=======
-    <loc>https://beyondelevation.com/blog/post.html?slug=trade-secrets-vs-patents-strategy-guide</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ip-due-diligence-ma-guide</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-engineering-ip-what-is-protectable</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ai-training-data-valuation</loc>
-    <lastmod>2026-04-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
->>>>>>> Stashed changes
     <loc>https://beyondelevation.com/llms.txt</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -377,6 +356,12 @@
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/patent-troll-defense-strategy.md</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ip-strategy-pre-revenue-startup.md</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
