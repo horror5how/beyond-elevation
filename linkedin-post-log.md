@@ -8,3 +8,4 @@
 2026-04-21 12:52 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-training-data-licensing-agreements | The AI model your team built might not belong to you.  Most founders sign data l
 2026-04-21 17:49 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-transformation-roi-framework | Your board just asked for the ROI on your AI spend.  You have usage stats. They 
 2026-04-22 07:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: open-weight-model-ip-risks | Using Llama or Mistral in your product?  Your investors don't know what they act
+2026-04-22 12:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: software-patent-eligibility-2026 | Your dev team built something patentable 3 times last quarter.  You filed 0 pate
