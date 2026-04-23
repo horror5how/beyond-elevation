@@ -3,7 +3,7 @@ title: "The IP Holding Company Structure: How to Legally Separate and Monetise Y
 slug: ip-holdco-structure-guide
 date: 2026-04-23
 url: https://beyondelevation.com/blog/post.html?slug=ip-holdco-structure-guide
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -31,7 +31,7 @@ Beyond asset protection, the IP holding company structure solves three problems 
 
 **Problem 1: Licensing revenue leaks.** When patents sit inside the operating entity, licensing income is taxed at the operating entity's rate and commingled with product revenue. A holdco structure lets licensing income flow through a purpose-built entity, often in a jurisdiction with favourable IP tax regimes. The UK Patent Box offers an effective 10% rate on patent income. Ireland's Knowledge Development Box sits at 6.25%. Singapore's IP Development Incentive drops to 5%. Compared to standard corporate rates of 19–25%, the savings are immediate and compound every quarter. Beyond Elevation has structured holdco arrangements that reduced clients' effective tax rate on licensing income by 40–60%.
 
-**Problem 2: M&A complexity.** When an acquirer buys your company, they buy everything — the IP and the liabilities. An IP holding company structure lets you sell the operating entity while retaining the holdco, or sell the holdco's assets separately at a premium. In one engagement, Hayat Amin showed a founder that separating their patent licensing revenue model into a holdco structure added $3.2M to their exit value — because the acquirer could price the recurring licensing stream independently from the volatile operating business.
+**Problem 2: M&A complexity.** When an acquirer buys your company, they buy everything — the IP and the liabilities. An IP holding company structure lets you sell the operating entity while retaining the holdco, or sell the holdco's assets separately at a premium. In one engagement, Hayat Amin showed a founder that separating their [patent licensing revenue model](/blog/posts/patent-licensing-revenue-model/) into a holdco structure added $3.2M to their exit value — because the acquirer could price the recurring licensing stream independently from the volatile operating business.
 
 **Problem 3: Third-party licensing credibility.** Potential licensees take a dedicated IP entity more seriously than an operating company offering side-deal licenses. A holdco signals professionalism, permanence, and a clear mandate to monetise. It also simplifies the licensee's due diligence — they are licensing from an entity whose sole purpose is IP management, not from a company with unknown liabilities and competing priorities.
 
@@ -41,7 +41,7 @@ Setting up an IP holding company structure requires five steps executed in seque
 
 **Step 1: Entity formation.** Incorporate the IP holdco in a jurisdiction that offers favourable IP tax treatment and strong legal protections. For UK-based companies, a UK limited company qualifying for Patent Box is the standard starting point. For companies with international licensing ambitions, Ireland, the Netherlands, or Singapore offer additional advantages. The holdco must be a separate legal entity with its own directors, bank accounts, and governance structure — not a paper division.
 
-**Step 2: IP valuation and assignment.** Transfer all intellectual property assets from the operating entity to the holdco at fair market value. This requires a formal IP valuation — using the income, market, or cost approach — to establish a defensible transfer price. Undervaluing the transfer invites tax authority challenges. Overvaluing it creates unnecessary liabilities on both sides.
+**Step 2: IP valuation and assignment.** Transfer all intellectual property assets from the operating entity to the holdco at fair market value. This requires a formal [IP valuation](/blog/posts/ip-valuation-methods-explained/) — using the income, market, or cost approach — to establish a defensible transfer price. Undervaluing the transfer invites tax authority challenges. Overvaluing it creates unnecessary liabilities on both sides.
 
 **Step 3: Intercompany license agreement.** Draft a license between the holdco (licensor) and the operating company (licensee). The royalty rate and terms must reflect what an independent party would negotiate in an open market — the arm's length standard. Typical intercompany royalty rates range from 3% to 8% of relevant revenue, depending on the technology category and the IP's contribution to product value.
 
@@ -57,7 +57,7 @@ There are three proven IP holding company structure models, each suited to diffe
 
 **Model 2: The dual-jurisdiction holdco.** An IP holding entity in a low-tax IP jurisdiction that licenses to both the domestic operating company and international subsidiaries. This structure fits companies with $10M–$100M in revenue and meaningful cross-border licensing income. Tax savings are substantial, but transfer pricing and substance requirements are more demanding.
 
-**Model 3: The portfolio holdco.** A holding entity that owns multiple IP portfolios — from multiple product lines or acquisitions — and licenses them independently. Hayat Amin used this model in the Position Imaging restructure, where 66 patents were organised into licensable clusters within a holdco that now generates eight figures in recurring royalties. This model suits companies with large, diverse patent portfolios or those acquiring IP through M&A transactions.
+**Model 3: The portfolio holdco.** A holding entity that owns multiple IP portfolios — from multiple product lines or acquisitions — and licenses them independently. Hayat Amin used this model in the Position Imaging restructure, where 66 patents were organised into licensable clusters within a holdco that now generates eight figures in recurring royalties. This model suits companies with large, diverse patent portfolios or those acquiring IP through [M&A transactions](/blog/posts/ip-due-diligence-ma-guide/).
 
 ## What Mistakes Destroy the IP Holding Company Structure Benefit?
 
@@ -90,3 +90,6 @@ Yes — this is one of the primary strategic benefits. A holdco can license to t
 ### What is the difference between an IP holding company and a patent holding company?
 
 A patent holding company owns only patents. An IP holding company owns all intellectual property — patents, trade secrets, copyrights, trademarks, and proprietary data. For most tech companies, the broader IP holdco structure is more appropriate because trade secrets and data assets often represent equal or greater value than the patent portfolio alone.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

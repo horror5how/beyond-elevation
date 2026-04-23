@@ -592,3 +592,21 @@ Software patent eligibility in 2026 means a software invention qualifies for pat
 The core test remains two steps. Step one: does the claim cover an abstract idea, law of nature, or natural phenomenon? Step two: if yes, does it include an "inventive concept" that transforms the abstract idea into something patentable? The 2024 and 2025 USPTO guidance memos refined both steps wi
 
 ---
+
+## The IP Holding Company Structure: How to Legally Separate and Monetise Your Patent Portfolio
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-holdco-structure-guide
+
+The average tech company holds its patents inside its operating entity. That is a $2M–$10M mistake.
+
+An IP holding company structure separates your most valuable assets — patents, trade secrets, proprietary data — from the entity that carries all the operating risk. The result: licensing revenue that flows tax-efficiently, assets shielded from operating creditors, and exit multiples that reflect the true value of what you own. Companies with patents are 10.2x more likely to secure early-stage funding — but founders who leave those patents exposed inside a liability-heavy operating entity are leaving the defensibility premium on the table.
+
+Hayat Amin argues that the IP holding company structure is the single most underused lever in tech founder IP strategy. "Founders protect their IP with patents," Hayat Amin says, "then leave those patents inside the same entity that faces lawsuits, payroll liabilities, and creditor claims. It is the equivalent of storing cash in a burning building."
+
+## What Is an IP Holding Company Structure?
+
+An IP holding company structure is a legal arrangement where a separate entity — the IP holdco — owns all intellectual property assets and licenses them back to the operating company for a royalty fee. This is not a loophole or an aggressive tax strategy. It is standard corporate practice used by companies from Qualcomm to 20-person SaaS startups.
+
+The operating company pays the holdco for the right to use the patents, trade secrets, and proprietary 
+
+---

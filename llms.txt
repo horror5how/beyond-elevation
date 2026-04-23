@@ -77,5 +77,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The IP Moves You Must Make Before You Write a Single Line of Code](https://beyondelevation.com/blog/post.html?slug=ip-strategy-pre-revenue-startup) — /blog/md/ip-strategy-pre-revenue-startup.md
 - [Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing to Investors](https://beyondelevation.com/blog/post.html?slug=open-weight-model-ip-risks) — /blog/md/open-weight-model-ip-risks.md
 - [Software Patents in 2026: What the Latest USPTO Guidance Actually Allows](https://beyondelevation.com/blog/post.html?slug=software-patent-eligibility-2026) — /blog/md/software-patent-eligibility-2026.md
+- [The IP Holding Company Structure: How to Legally Separate and Monetise Your Patent Portfolio](https://beyondelevation.com/blog/post.html?slug=ip-holdco-structure-guide) — /blog/md/ip-holdco-structure-guide.md
 
 > Full blog content available at /llms-full.txt
