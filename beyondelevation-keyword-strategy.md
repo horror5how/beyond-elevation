@@ -1,10 +1,10 @@
 ---
 title: Beyond Elevation Keyword Strategy (Source of Truth for Blog Cron)
 owner: Hayat Amin
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 source_files: [seo-geo-plan.md, seo-content-plan.md, ai-seo-plan.md]
-coverage_audit: 2026-04-22
-paa_last_scraped: 2026-04-22
+coverage_audit: 2026-04-23
+paa_last_scraped: 2026-04-23
 ---
 
 # Beyond Elevation — Keyword Strategy
@@ -188,6 +188,27 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 
 **Status legend:** `🟢 new` = fresh blog idea, not yet written. `🟡 partial` = existing post covers adjacent ground but not this exact question — consider a follow-up or section update. `✅` = covered (link to slug).
 
+---
+
+### 🗓 SEO Strategist Run — 2026-04-23
+
+**Phase 1 — Trending keyword signals this week:**
+1. **"patent licensing market 2026"** — PTAB institution rates declining to historic lows; conditions called "best in a decade" for patent monetizers. Angle opportunity: urgency post for founders sitting on dormant patents.
+2. **"IP-backed financing"** — fractionalized IP rights via blockchain and IP-backed non-dilutive capital is an emerging term gaining mainstream search traction. Zero BE coverage — high first-mover potential.
+3. **"AI patent litigation 2026"** — AI-related patent lawsuits up 500%+ since 2021; 1,000+ cases globally. High founder anxiety, high commercial intent. Feeds T4B-02 and T4B-05.
+
+**Phase 5 — Run summary:**
+- **8 new rows added** this run (T5-10 → T5-17): 6 🟢 new, 2 🟡 partial
+- **Seeds used** (date-rotated, April 23): IP strategy for startups, patent clustering IP moat, AI patent strategy 2026, patent pending vs granted, IP due diligence IP valuation fundraising, data monetization data licensing
+- **Top 3 🟢 rows for Blog Publisher to pick next:**
+  1. **T5-13** — "What is a patent moat?" (definitional, high-volume, no existing coverage, strong internal link target)
+  2. **T5-14** — "What are the 4 pillars of IP?" (foundation AEO post, feeds every category)
+  3. **T5-11** — "What are the 4 types of patents?" (evergreen high-volume, answer-first AEO magnet)
+- **High-leverage 🟡 partial follow-ups:** T5-17 (data monetization mechanics — existing post covers strategy, not process flow); T5-10 (patent pending vs provisional — existing post covers pending vs granted, not the definitional confusion)
+- **Coverage audit:** 27 posts confirmed in posts.json; no new T5 rows flipped to ✅ this run.
+
+---
+
 | # | scraped | question (primary_keyword) | hormozi_angle | supporting_keywords | status |
 |---|---|---|---|---|---|
 | T5-01 | 2026-04-22 | How do you calculate the value of a patent? | The 3-Number Formula Nobody Teaches (Yes, There Is Actual Math) | patent value calculation, patent valuation formula, how to value patents | 🟡 partial (see intangible-asset-valuation-hidden-worth) — write calc-focused follow-up |
@@ -199,18 +220,34 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 | T5-07 | 2026-04-22 | What are the 4 types of intellectual property? | The 4 Types of IP — And Why Founders Only Care About 2 of Them | patents trademarks copyrights trade secrets, IP types, intellectual property categories | 🟢 new — high-volume AEO foundation post |
 | T5-08 | 2026-04-22 | How to monetize your IP? | The Founder's IP Monetization Playbook: 5 Plays Ranked by Speed to Revenue | monetize your patents, IP monetization steps, startup IP revenue | 🟡 partial (see ip-monetization-for-ceos) — founder-specific angle still open |
 | T5-09 | 2026-04-22 | Can IP assets be monetized for profit? | The Real Margin on IP Monetization (With 3 Case Study P&Ls) | IP profit margin, patent revenue profitability, licensing ROI | 🟢 new |
+| T5-10 | 2026-04-23 | Is patent pending the same as a provisional patent? | Patent Pending ≠ Provisional Patent: The $47,000 Mistake Founders Make When They Confuse the Two | patent pending meaning, provisional patent definition, patent pending vs provisional | 🟡 partial (see T3-06 provisional-patent-12-month-strategy — write dedicated Q&A to capture this exact query) |
+| T5-11 | 2026-04-23 | What are the 4 types of patents? | The 4 Types of Patents — and the One Type That Covers 94% of Startup Innovations | utility patent, design patent, plant patent, patent types explained | 🟢 new |
+| T5-12 | 2026-04-23 | Is a provisional patent worth it? | Is a Provisional Patent Worth It? The Honest Answer After Reviewing 200+ Startup Filings | provisional patent cost benefit, provisional patent advantages, should I file provisional patent | 🟢 new |
+| T5-13 | 2026-04-23 | What is a patent moat? | What Is a Patent Moat? The 3-Layer IP Defense That Billion-Dollar Companies Use to Block Competitors | patent moat definition, IP moat strategy, building a patent moat | 🟢 new |
+| T5-14 | 2026-04-23 | What are the 4 pillars of IP? | The 4 Pillars of Intellectual Property — Most Founders Only Protect 1 of Them (And It Shows in Their Valuation) | four pillars of intellectual property, IP foundations, types of IP protection | 🟢 new |
+| T5-15 | 2026-04-23 | Is data monetization legal? | Is Data Monetization Legal? Yes — With These 4 Non-Negotiable Compliance Requirements | data monetization compliance, legal data selling, GDPR data monetization | 🟢 new |
+| T5-16 | 2026-04-23 | What does data licensing mean? | Data Licensing Explained in 60 Seconds: The Deal Structure That Generated $2.3M for a 12-Person Team | data licensing definition, data license agreement, data licensing revenue | 🟢 new |
+| T5-17 | 2026-04-23 | How does data monetization work? | How Data Monetization Actually Works: The 3-Step Flow From Raw Data to Recurring Revenue | data monetization process, data revenue model, monetizing data assets | 🟡 partial (see data-monetization-strategy-framework — write mechanics explainer as complementary process post) |
 
 ### Recommended write order (Tier 5)
 
 1. **T5-07** — 4 types of intellectual property (highest volume, foundation AEO post, internal-links to everything)
-2. **T5-02** — 25% rule (zero competition, high-authority niche question, links to valuation pillar)
-3. **T5-03** — what is IP monetization (definitional pillar that ranks forever)
-4. **T5-04** — 7 ways to make money from IP (listicle, strong CTA candidate)
-5. **T5-06** — how does IP make money (mechanics explainer, supports T5-04)
-6. **T5-09** — margin on IP monetization (differentiator — nobody writes P&L-style IP posts)
-7. **T5-05** — IP assets can be monetized (answer-first proof post)
-8. **T5-01 follow-up** — patent value calculation formula (extend existing valuation post)
-9. **T5-08 follow-up** — founder IP monetization playbook (re-angle existing CEO post for founder audience)
+2. **T5-13** — what is a patent moat (definitional, high-volume, zero existing coverage, feeds T1-05 IP defensibility cluster) ⬅ added 2026-04-23
+3. **T5-14** — 4 pillars of IP (foundation AEO, every category benefits, evergreen) ⬅ added 2026-04-23
+4. **T5-11** — 4 types of patents (high-volume evergreen, AEO magnet, complements T5-07) ⬅ added 2026-04-23
+5. **T5-02** — 25% rule (zero competition, high-authority niche question, links to valuation pillar)
+6. **T5-03** — what is IP monetization (definitional pillar that ranks forever)
+7. **T5-04** — 7 ways to make money from IP (listicle, strong CTA candidate)
+8. **T5-06** — how does IP make money (mechanics explainer, supports T5-04)
+9. **T5-12** — is a provisional patent worth it (practical, high-conversion, links to T3-06) ⬅ added 2026-04-23
+10. **T5-09** — margin on IP monetization (differentiator — nobody writes P&L-style IP posts)
+11. **T5-15** — is data monetization legal (compliance angle, feeds Data Monetization Hub) ⬅ added 2026-04-23
+12. **T5-16** — what does data licensing mean (definitional, feeds data cluster) ⬅ added 2026-04-23
+13. **T5-05** — IP assets can be monetized (answer-first proof post)
+14. **T5-01 follow-up** — patent value calculation formula (extend existing valuation post)
+15. **T5-08 follow-up** — founder IP monetization playbook (re-angle existing CEO post for founder audience)
+16. **T5-17 follow-up** — how data monetization works (process mechanics, complements data-monetization-strategy-framework) ⬅ added 2026-04-23
+17. **T5-10 follow-up** — patent pending vs provisional Q&A (dedicated definitional post to capture exact confusion query) ⬅ added 2026-04-23
 
 ### How to extend Tier 5
 
