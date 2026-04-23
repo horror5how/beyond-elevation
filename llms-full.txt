@@ -574,3 +574,21 @@ Most founders assume "open-weight" means "free to use however you want." It does
 The distinction ma
 
 ---
+
+## Software Patents in 2026: What the Latest USPTO Guidance Actually Allows
+
+URL: https://beyondelevation.com/blog/post.html?slug=software-patent-eligibility-2026
+
+72% of software patent applications hit an Alice rejection. Not because the inventions are unpatentable — because the claims are structured wrong.
+
+Software patent eligibility in 2026 looks nothing like it did three years ago. The USPTO has issued new guidance, the Federal Circuit has carved out clearer safe harbors, and founders who understand the shift are filing patents their competitors assumed were impossible. Hayat Amin argues this is the single biggest IP opportunity for software companies right now: "The window between a guidance change and the market catching up is where patents get cheapest and most valuable."
+
+Here is what the latest guidance actually allows — and how to structure claims that survive.
+
+## What Is Software Patent Eligibility in 2026?
+
+Software patent eligibility in 2026 means a software invention qualifies for patent protection when the claims describe a specific technical improvement — not an abstract idea implemented on a computer. The Alice Corp. v. CLS Bank decision set the boundary in 2014, but a decade of USPTO guidance memos and Federal Circuit rulings have expanded what qualifies far beyond what most founders and even most patent attorneys assume.
+
+The core test remains two steps. Step one: does the claim cover an abstract idea, law of nature, or natural phenomenon? Step two: if yes, does it include an "inventive concept" that transforms the abstract idea into something patentable? The 2024 and 2025 USPTO guidance memos refined both steps wi
+
+---
