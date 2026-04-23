@@ -12,3 +12,4 @@
 2026-04-22 17:52 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ip-holdco-structure-guide | Most founders keep IP in their trading entity.  Acquirers discount that exit by 
 2026-04-23 07:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: distressed-ip-portfolio-acquisition | Patent portfolios are selling at 80 cents on the dollar right now.  Most founder
 2026-04-23 12:51 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: patent-licensing-market-2026 | PTAB challenge rates just hit their lowest point in 12 years.  Your patent is sa
+2026-04-23 17:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: can-you-patent-an-algorithm | You can patent an algorithm. But only if you structure the claim this way.  Most
