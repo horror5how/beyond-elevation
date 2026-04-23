@@ -10,3 +10,4 @@
 2026-04-22 07:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: open-weight-model-ip-risks | Using Llama or Mistral in your product?  Your investors don't know what they act
 2026-04-22 12:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: software-patent-eligibility-2026 | Your dev team built something patentable 3 times last quarter.  You filed 0 pate
 2026-04-22 17:52 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ip-holdco-structure-guide | Most founders keep IP in their trading entity.  Acquirers discount that exit by 
+2026-04-23 07:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: distressed-ip-portfolio-acquisition | Patent portfolios are selling at 80 cents on the dollar right now.  Most founder
