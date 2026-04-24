@@ -51,6 +51,50 @@ Always use `/blog/posts/<slug>/` for internal links (NOT `/blog/post.html?slug=<
 - `node scripts/build-sitemap.js` — regenerates sitemap.xml
 - `node scripts/generate-blog-markdown.js` — regenerates blog/md/, llms.txt, llms-full.txt
 
+## LinkedIn Deduplication (MANDATORY — read before every LinkedIn task)
+
+**Duplicate posts have been sent. These rules exist to prevent recurrence. They are non-negotiable.**
+
+### The dedup source of truth
+
+`linkedin-slugs-used.txt` — one slug per line, every topic ever attempted (success OR fail).
+
+**Before picking any LinkedIn topic you MUST:**
+```bash
+cat linkedin-slugs-used.txt
+```
+If a slug or its close variant appears there, skip it entirely. No exceptions.
+
+### Three content pillars — rotate across them
+
+Every post must belong to one of these pillars. Never publish three consecutive posts in the same pillar.
+
+1. **IP** — patents, licensing, IP strategy, IP valuation, holdco structure, trade secrets, patent clustering, IP monetisation
+2. **AI** — AI strategy, AI governance, AI transformation, AI IP/patents, agentic AI, open-weight models, EU AI Act
+3. **Financial** — exit multiples, M&A/IP positioning, data monetisation, valuation methods, capital strategy, IP-backed financing
+
+### How to pick a topic
+
+1. `cat linkedin-slugs-used.txt` — note every slug present.
+2. `cat beyondelevation-keyword-strategy.md` — walk Tier 1 → Tier 5.
+3. Pick the first brief whose `slug_hint` is NOT in `linkedin-slugs-used.txt` AND whose topic is meaningfully different from every entry there (not just the exact slug — avoid semantic near-duplicates too).
+4. Check which pillar the last 2 posts used (look at `linkedin-post-log.md`). If both were IP pillar, pick AI or Financial next.
+
+### After publishing (or after a failed attempt)
+
+Immediately append the slug to `linkedin-slugs-used.txt`:
+```bash
+echo "the-slug-used" >> linkedin-slugs-used.txt
+```
+Commit both `linkedin-post-log.md` and `linkedin-slugs-used.txt` together. **Never skip this step even on failure** — a failed attempt still reserves the slug so the next run picks something fresh.
+
+### Why duplicates happened — do not repeat these mistakes
+
+- The automated script only checked the last 14 log lines, which were mostly error messages with no slug recorded.
+- FAIL log entries did not include the topic slug, so the next run could not see which topic had been tried.
+- The slug was only recorded on success, so crashes and network failures left no trace.
+- All three bugs are now fixed in `scripts/li-auto-post.mjs` (slug recorded pre-attempt, slug in every log line, full slug list passed to Claude).
+
 ## LinkedIn Image Generation (BEIP infographic — read before every LinkedIn post)
 
 **Every LinkedIn post image MUST be generated from the canonical template.**

@@ -56,7 +56,7 @@ jobs:
           git config user.email 'agent@beyondelevation.com'
           git config user.name 'BE LinkedIn Agent'
           git pull --rebase origin main
-          git add linkedin-post-log.md
+          git add linkedin-post-log.md linkedin-slugs-used.txt
           git diff --cached --quiet && exit 0
           git commit -m 'LinkedIn: scheduled post log'
           for i in 1 2 3 4; do

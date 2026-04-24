@@ -25,6 +25,7 @@ if (!ANTHROPIC_API_KEY || !LI_TOKEN || !LI_URN) {
 
 const LINKEDIN_VERSION = '202604';
 const LOG_FILE        = 'linkedin-post-log.md';
+const SLUGS_FILE      = 'linkedin-slugs-used.txt';
 const REPO            = process.cwd(); // absolute path, used to resolve local assets
 
 // ── helpers ──────────────────────────────────────────────────────────────────
@@ -32,15 +33,22 @@ const readFile  = p => existsSync(p) ? readFileSync(p, 'utf8') : '';
 const appendLog = line => writeFileSync(LOG_FILE, readFile(LOG_FILE) + line + '\n');
 const stamp     = () => new Date().toISOString().slice(0, 16).replace('T', ' ');
 
+function recordSlug(slug) {
+  const existing = readFile(SLUGS_FILE).split('\n').filter(Boolean);
+  if (!existing.includes(slug)) {
+    writeFileSync(SLUGS_FILE, existing.concat(slug).join('\n') + '\n');
+  }
+}
+
 // ── 1. Load context ──────────────────────────────────────────────────────────
 const keywordStrategy = readFileSync('beyondelevation-keyword-strategy.md', 'utf8');
 const brandNotes      = readFile('hayat-amin-personal-brand-strategy.md').slice(0, 2000);
 
-const posts       = JSON.parse(readFileSync('data/posts.json', 'utf8'));
+const posts        = JSON.parse(readFileSync('data/posts.json', 'utf8'));
 const coveredPosts = posts.map(p => `${p.slug}: ${p.title}`).join('\n');
 
-const logLines = readFile(LOG_FILE).trim().split('\n').filter(Boolean);
-const last14   = logLines.slice(-14).join('\n') || '(none yet)';
+// Full deduplicated list of every LinkedIn slug ever attempted (success OR fail)
+const allSlugsUsed = readFile(SLUGS_FILE).split('\n').filter(Boolean).join('\n') || '(none yet)';
 
 // ── 2. Generate content via Claude ───────────────────────────────────────────
 const systemPrompt = `You are Beyond Elevation's LinkedIn content strategist. Beyond Elevation is an IP strategy and data intelligence consultancy led by Hayat Amin — the operator who turned a 66-patent portfolio into eight figures of recurring royalty revenue.
@@ -65,10 +73,10 @@ BEIP IMAGE VARIABLES (you provide only the content values — the template handl
 const userPrompt = `COVERED BLOG POSTS (avoid repeating these as the primary angle):
 ${coveredPosts}
 
-LAST 14 LINKEDIN HOOKS TO AVOID (do not reuse these angles):
-${last14}
+ALL LINKEDIN SLUGS EVER USED — HARD BLOCK: never generate any of these slugs again:
+${allSlugsUsed}
 
-KEYWORD STRATEGY — pick the single highest-ROI uncovered brief (Tier 1 → Tier 4 order):
+KEYWORD STRATEGY — pick the single highest-ROI brief NOT in the block list above (Tier 1 → Tier 4 → Tier 5 order):
 ${keywordStrategy}
 
 PERSONAL BRAND NOTES:
@@ -76,9 +84,10 @@ ${brandNotes}
 
 ---
 Produce ONE post. Rules:
-1. Walk the keyword strategy Tier 1 → Tier 4. Pick the first brief not yet covered by the blog slugs above AND not matching a recent LinkedIn hook.
-2. Write the caption. Count every character. Stay ≤700.
-3. Provide the 7 BEIP template variables (headline + 3 metric/label pairs).
+1. Walk the keyword strategy Tier 1 → Tier 5. Pick the first brief whose slug_hint is NOT in the ALL LINKEDIN SLUGS block list AND whose topic is meaningfully different from every item in that list.
+2. The three topic pillars are IP strategy/patents/licensing, AI strategy/governance, and financial strategy (valuations/exit/M&A/data monetization). Rotate across pillars — avoid three consecutive posts in the same pillar.
+3. Write the caption. Count every character. Stay ≤700.
+4. Provide the 7 BEIP template variables (headline + 3 metric/label pairs).
 
 Respond ONLY with valid JSON — no markdown fences, no commentary, nothing else:
 {
@@ -153,6 +162,10 @@ console.log(`      slug:    ${post.slug}`);
 console.log(`      keyword: ${post.keyword}`);
 console.log(`      caption (${post.caption.length} chars):\n${post.caption}\n`);
 
+// Record slug immediately — before any network call so it's never lost on crash/fail
+recordSlug(post.slug);
+appendLog(`${stamp()} | RESERVED | ${post.slug} | ${post.caption.slice(0, 80).replace(/\n/g, ' ')}`);
+
 // ── 3. Build BEIP HTML from canonical template ────────────────────────────────
 const htmlPath = '/tmp/beip-post.html';
 const imgPath  = '/tmp/be-li-image.png';
@@ -183,7 +196,7 @@ await browser.close();
 const imgBytes = readFileSync(imgPath);
 console.log(`      ${imgPath} — ${(imgBytes.length / 1024).toFixed(1)} KB`);
 if (imgBytes.length < 50_000) {
-  appendLog(`${stamp()} | FAIL | Image render too small (${imgBytes.length}B) — likely blank`);
+  appendLog(`${stamp()} | FAIL | ${post.slug} | Image render too small (${imgBytes.length}B) — likely blank`);
   console.error('Image suspiciously small — render may have failed');
   process.exit(1);
 }
@@ -246,7 +259,7 @@ try {
   shareUrn = postRes.headers.get('x-restli-id') || postRes.headers.get('x-linkedin-id');
 } catch (e) {
   const msg = e.code === 401 ? '401 re-auth needed' : e.message.slice(0, 150);
-  appendLog(`${stamp()} | FAIL | ${msg}`);
+  appendLog(`${stamp()} | FAIL | ${post.slug} | ${msg}`);
   console.error(`\nFAIL ${e.message}`);
   process.exit(e.code === 401 ? 2 : 1);
 }
