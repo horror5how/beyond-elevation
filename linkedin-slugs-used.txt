@@ -13,3 +13,4 @@ patent-licensing-market-2026
 can-you-patent-an-algorithm
 ai-readiness-assessment-enterprise
 patent-moat-definition
+ai-governance-framework-sme
