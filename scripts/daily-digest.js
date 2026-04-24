@@ -88,12 +88,14 @@ function isAiRelated(item) {
 }
 
 const NEWS_FEEDS = [
-  { name: 'TechCrunch AI', url: 'https://techcrunch.com/tag/artificial-intelligence/feed/', aiOnly: false },
-  { name: 'The Verge AI',  url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', aiOnly: false },
-  { name: 'VentureBeat',   url: 'https://venturebeat.com/category/ai/feed/', aiOnly: false },
+  { name: 'TechCrunch AI',   url: 'https://techcrunch.com/tag/artificial-intelligence/feed/', aiOnly: false },
+  { name: 'The Verge AI',    url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', aiOnly: false },
+  { name: 'VentureBeat',     url: 'https://venturebeat.com/category/ai/feed/', aiOnly: false },
   { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/feed/', aiOnly: true },
   { name: 'Ars Technica',    url: 'https://feeds.arstechnica.com/arstechnica/technology-lab', aiOnly: true },
   { name: 'Wired',           url: 'https://www.wired.com/feed/tag/ai/latest/rss', aiOnly: false },
+  { name: 'r/ClaudeAI',     url: 'https://www.reddit.com/r/ClaudeAI/top.rss?t=day', aiOnly: false },
+  { name: 'r/Anthropic',    url: 'https://www.reddit.com/r/Anthropic/top.rss?t=day', aiOnly: false },
 ];
 
 async function fetchNewsItems(totalLimit = 5) {
@@ -117,6 +119,45 @@ async function fetchNewsItems(totalLimit = 5) {
     })
   );
   return allItems.slice(0, totalLimit);
+}
+
+// ── Hacker News AI stories (Algolia) ─────────────────────────────────────────
+
+async function fetchHackerNewsAI(limit = 4) {
+  const since = Math.floor((Date.now() - 24 * 60 * 60 * 1000) / 1000);
+  const queries = ['claude anthropic', 'openai gpt llm', 'artificial intelligence model'];
+  const allItems = [];
+  const seenUrls = new Set();
+
+  await Promise.allSettled(
+    queries.map(async (q) => {
+      try {
+        const url = `https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(q)}&tags=story&numericFilters=created_at_i%3E${since}&hitsPerPage=10`;
+        const { body } = await fetchUrl(url);
+        const data = JSON.parse(body);
+        for (const hit of (data.hits || [])) {
+          const link = hit.url || `https://news.ycombinator.com/item?id=${hit.objectID}`;
+          if (!seenUrls.has(link) && hit.title) {
+            seenUrls.add(link);
+            allItems.push({
+              title: decodeEntities(hit.title),
+              link,
+              description: '',
+              pubDate: hit.created_at,
+              source: `Hacker News (▲${hit.points || 0})`,
+              _hnPoints: hit.points || 0,
+            });
+          }
+        }
+      } catch (err) {
+        console.error(`[hn] query "${q}" failed:`, err.message);
+      }
+    })
+  );
+
+  return allItems
+    .sort((a, b) => b._hnPoints - a._hnPoints)
+    .slice(0, limit);
 }
 
 // ── GitHub trending repos ─────────────────────────────────────────────────────
@@ -449,15 +490,26 @@ function buildEmailHtml(newsItems, repos24h, repos7d, redditSkills, tiktokSkills
 async function main() {
   console.log('[digest] Starting daily digest generation...');
 
-  const [newsItems, repos24h, repos7d, redditSkills, tiktokSkills] = await Promise.all([
-    fetchNewsItems(5),
+  const [rssItems, hnItems, repos24h, repos7d, redditSkills, tiktokSkills] = await Promise.all([
+    fetchNewsItems(8),
+    fetchHackerNewsAI(4),
     fetchGithubRepos(5, 1),
     fetchGithubRepos(10, 7),
     fetchRedditSkills(),
     fetchTikTokSkills(),
   ]);
 
-  console.log(`[digest] news=${newsItems.length} repos24h=${repos24h.length} repos7d=${repos7d.length} redditSkills=${redditSkills.length} tiktokSkills=${tiktokSkills.length}`);
+  // Merge HN first (community-voted + Claude-specific), then RSS; deduplicate by title
+  const seenTitles = new Set();
+  const newsItems = [...hnItems, ...rssItems]
+    .filter(item => {
+      if (seenTitles.has(item.title)) return false;
+      seenTitles.add(item.title);
+      return true;
+    })
+    .slice(0, 5);
+
+  console.log(`[digest] news=${newsItems.length} (hn=${hnItems.length} rss=${rssItems.length}) repos24h=${repos24h.length} repos7d=${repos7d.length} redditSkills=${redditSkills.length} tiktokSkills=${tiktokSkills.length}`);
 
   if (newsItems.length === 0 && repos24h.length === 0) {
     console.error('[digest] No data fetched — aborting');

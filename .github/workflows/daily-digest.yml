@@ -6,6 +6,11 @@ name: Daily AI & GitHub Digest Email
 
 on:
   schedule:
+    # GitHub Actions cron runs in UTC. UK times:
+    #   Oct–Mar (GMT, UTC+0): 0 8 * * * = 8:00 AM ✓
+    #   Mar–Oct (BST, UTC+1): 0 8 * * * = 9:00 AM
+    # To shift to 8 AM BST in summer, change to '0 7 * * *' (gives 7 AM GMT in winter).
+    # We default to 8 AM UTC / 8 AM GMT — acceptable for both seasons.
     - cron: '0 8 * * *'
   workflow_dispatch:   # Enable manual run from GitHub Actions UI for testing
 
