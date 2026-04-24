@@ -55,6 +55,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/how-to-value-intangible-assets-ma/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/software-patent-eligibility-2026/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -427,9 +433,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=how-to-value-intangible-assets-ma</loc>
+    <loc>https://beyondelevation.com/blog/md/how-to-value-intangible-assets-ma.md</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>

@@ -3,7 +3,7 @@ title: "How to Value Intangible Assets in an M&A Deal: The 3 Methods and When Ea
 slug: how-to-value-intangible-assets-ma
 date: 2026-04-24
 url: https://beyondelevation.com/blog/post.html?slug=how-to-value-intangible-assets-ma
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -104,3 +104,6 @@ Intangible assets drive 84% of S&P 500 market value. In technology M&A specifica
 ### When should founders start valuing intangible assets for M&A?
 
 Start 12–18 months before a planned exit. This timeline allows sufficient time to run an IP audit, document trade secrets, file provisional patents on uncaptured innovations, resolve ownership gaps, and build a segmented valuation model. Preparation done during an active deal process is always less effective and more expensive than preparation done in advance.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
