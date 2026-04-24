@@ -15,3 +15,4 @@
 2026-04-23 17:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: can-you-patent-an-algorithm | You can patent an algorithm. But only if you structure the claim this way.  Most
 2026-04-24 07:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-readiness-assessment-enterprise | 12 questions reveal if your business is ready for AI.  Most CEOs fail question 3
 2026-04-24 12:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: patent-moat-definition | A single patent is not a moat.  It expires. Gets challenged. Gets designed aroun
+2026-04-24 17:51 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-governance-framework-sme | Most AI governance frameworks are built for enterprises. SMEs get a 90-page PDF 
