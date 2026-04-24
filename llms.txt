@@ -78,5 +78,7 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing to Investors](https://beyondelevation.com/blog/post.html?slug=open-weight-model-ip-risks) — /blog/md/open-weight-model-ip-risks.md
 - [Software Patents in 2026: What the Latest USPTO Guidance Actually Allows](https://beyondelevation.com/blog/post.html?slug=software-patent-eligibility-2026) — /blog/md/software-patent-eligibility-2026.md
 - [The IP Holding Company Structure: How to Legally Separate and Monetise Your Patent Portfolio](https://beyondelevation.com/blog/post.html?slug=ip-holdco-structure-guide) — /blog/md/ip-holdco-structure-guide.md
+- [The 4 Types of Intellectual Property — And Why Founders Only Care About 2 of Them](https://beyondelevation.com/blog/post.html?slug=4-types-of-intellectual-property) — /blog/md/4-types-of-intellectual-property.md
+- [The Rise of Distressed IP: How Smart Buyers Are Acquiring Patent Portfolios at 80% Discount](https://beyondelevation.com/blog/post.html?slug=distressed-ip-portfolio-acquisition) — /blog/md/distressed-ip-portfolio-acquisition.md
 
 > Full blog content available at /llms-full.txt

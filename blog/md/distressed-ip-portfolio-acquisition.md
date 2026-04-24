@@ -3,7 +3,7 @@ title: "The Rise of Distressed IP: How Smart Buyers Are Acquiring Patent Portfol
 slug: distressed-ip-portfolio-acquisition
 date: 2026-04-24
 url: https://beyondelevation.com/blog/post.html?slug=distressed-ip-portfolio-acquisition
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -100,3 +100,6 @@ Yes — the three biggest risks are prosecution history estoppel that limits enf
 ### Can startups benefit from distressed IP portfolio acquisition?
 
 Absolutely. Acquiring a distressed portfolio in your technology area provides instant IP density that would take years to build organically, strengthens your defensibility story for investors, and creates licensing revenue opportunities from day one. The key is acquiring patents with claims that align with your technology stack and commercial market.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

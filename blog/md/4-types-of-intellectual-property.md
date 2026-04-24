@@ -3,7 +3,7 @@ title: "The 4 Types of Intellectual Property — And Why Founders Only Care Abou
 slug: 4-types-of-intellectual-property
 date: 2026-04-24
 url: https://beyondelevation.com/blog/post.html?slug=4-types-of-intellectual-property
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -98,3 +98,6 @@ Yes. A single software product can have patent protection on its novel methods, 
 ### What is the difference between a patent and a trade secret?
 
 A patent requires public disclosure of the invention in exchange for a 20-year monopoly. A trade secret requires keeping the information confidential indefinitely — once disclosed, protection is lost forever. Patents protect the method while trade secrets protect the implementation. Smart founders use both together for maximum defensibility.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

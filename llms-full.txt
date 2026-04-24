@@ -610,3 +610,37 @@ An IP holding company structure is a legal arrangement where a separate entity �
 The operating company pays the holdco for the right to use the patents, trade secrets, and proprietary 
 
 ---
+
+## The 4 Types of Intellectual Property — And Why Founders Only Care About 2 of Them
+
+URL: https://beyondelevation.com/blog/post.html?slug=4-types-of-intellectual-property
+
+There are 4 types of intellectual property. Most founders know two of them. Almost none protect all four. Hayat Amin argues this is the single most preventable valuation leak in tech: founders over-invest in patents, completely ignore trade secrets and copyrights, and leave millions in defensible value unprotected.
+
+The 4 types of intellectual property are patents, trademarks, copyrights, and trade secrets. Each protects a different kind of business asset. Each has different filing requirements, durations, and strategic value. And each one, when structured correctly, increases what your company is worth to investors and acquirers.
+
+Here is the problem Beyond Elevation sees across every portfolio audit: founders treat IP like a single category. It is not. It is four separate weapons — and most companies are fighting with only one or two of them.
+
+## What Are the 4 Types of Intellectual Property?
+
+The 4 types of intellectual property are patents, trademarks, copyrights, and trade secrets. Each type protects a fundamentally different kind of innovation, and each operates under its own set of legal rules, costs, and timelines. Understanding all four is the foundation of any defensible IP strategy.
+
+**Patents** protect inventions — novel methods, processes, machines, and compositions of matter. A utility patent gives you a 20-year monopoly on your innovation, preventing competitors from making, using, or selling anything that falls within your claims. For tech founders, patents ar
+
+---
+
+## The Rise of Distressed IP: How Smart Buyers Are Acquiring Patent Portfolios at 80% Discount
+
+URL: https://beyondelevation.com/blog/post.html?slug=distressed-ip-portfolio-acquisition
+
+In 2025, more than $4.7 billion in patent portfolios traded hands from distressed sellers. Eighty percent of those buyers overpaid — because they valued the patents like assets instead of options. Distressed IP portfolio acquisition rewards a different kind of buyer: one who knows what a patent is actually worth when the seller cannot afford to wait.
+
+Hayat Amin says the market for distressed IP portfolio acquisition has never been more favourable for informed buyers. PTAB institution rates have declined to historic lows, patent enforcement conditions are the best in a decade, and startup failures are flooding the market with under-monetised portfolios at fire-sale prices. The question is not whether to buy — it is how to avoid the 80% of distressed deals that destroy value instead of creating it.
+
+## What Is Distressed IP Portfolio Acquisition?
+
+Distressed IP portfolio acquisition is the purchase of patent portfolios from companies that are bankrupt, restructuring, shutting down, or unable to maintain their IP assets — typically at 60–80% below fair market value. These deals happen because the seller is under time pressure, lacks the expertise to license the patents, or simply needs cash more than it needs exclusivity.
+
+The supply side is massive and growing. In Q1 2026 alone, more than 12,000 U.S. patents were abandoned for non-payment of maintenance fees — each one representing a technology its owner decided was not worth $1,600 to keep alive. Behind every abandoned patent
+
+---
