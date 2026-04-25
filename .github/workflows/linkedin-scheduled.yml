@@ -43,22 +43,21 @@ jobs:
           npm install playwright@1.56.1
           npx playwright install --with-deps chromium
 
-      - name: Generate and publish post
+      - name: Publish next pending post from queue
         env:
           LI_TOKEN: ${{ secrets.LI_TOKEN }}
           LI_URN: ${{ secrets.LI_URN }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/li-auto-post.mjs
 
-      - name: Commit log update
+      - name: Commit queue + log update
         if: always()
         run: |
           git config user.email 'agent@beyondelevation.com'
           git config user.name 'BE LinkedIn Agent'
           git pull --rebase origin main
-          git add linkedin-post-log.md linkedin-slugs-used.txt
+          git add linkedin-post-log.md linkedin-queue/daily-posts.md
           git diff --cached --quiet && exit 0
-          git commit -m 'LinkedIn: scheduled post log'
+          git commit -m 'LinkedIn: published next queued post'
           for i in 1 2 3 4; do
             git push origin main && break
             sleep $((i * 3))
