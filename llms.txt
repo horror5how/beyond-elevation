@@ -81,5 +81,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 4 Types of Intellectual Property — And Why Founders Only Care About 2 of Them](https://beyondelevation.com/blog/post.html?slug=4-types-of-intellectual-property) — /blog/md/4-types-of-intellectual-property.md
 - [The Rise of Distressed IP: How Smart Buyers Are Acquiring Patent Portfolios at 80% Discount](https://beyondelevation.com/blog/post.html?slug=distressed-ip-portfolio-acquisition) — /blog/md/distressed-ip-portfolio-acquisition.md
 - [How to Value Intangible Assets in an M&A Deal: The 3 Methods and When Each Applies](https://beyondelevation.com/blog/post.html?slug=how-to-value-intangible-assets-ma) — /blog/md/how-to-value-intangible-assets-ma.md
+- [What Is IP Monetisation? The 6 Routes That Turn Dormant Patents Into Cash](https://beyondelevation.com/blog/post.html?slug=what-is-ip-monetisation) — /blog/md/what-is-ip-monetisation.md
 
 > Full blog content available at /llms-full.txt

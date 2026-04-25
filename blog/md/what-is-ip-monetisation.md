@@ -3,7 +3,7 @@ title: "What Is IP Monetisation? The 6 Routes That Turn Dormant Patents Into Cas
 slug: what-is-ip-monetisation
 date: 2026-04-25
 url: https://beyondelevation.com/blog/post.html?slug=what-is-ip-monetisation
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -94,3 +94,6 @@ Fewer than 10% of patents are actively monetised through licensing, sale, or enf
 ### How does Beyond Elevation help with IP monetisation?
 
 Beyond Elevation runs structured IP monetisation audits that map every asset in a client's portfolio to its highest-value revenue route. The process covers patent licensing feasibility, data and trade secret licensing opportunities, IP-backed financing readiness, and strategic sale or cross-licensing options. Book an audit at [beyondelevation.com](https://beyondelevation.com) to identify which of the six routes applies to your portfolio.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
