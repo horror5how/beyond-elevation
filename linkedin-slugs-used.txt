@@ -15,3 +15,4 @@ ai-readiness-assessment-enterprise
 patent-moat-definition
 ai-governance-framework-sme
 how-to-value-intangible-assets
+ip-backed-financing
