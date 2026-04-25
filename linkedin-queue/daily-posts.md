@@ -3,7 +3,7 @@ date: 2026-04-26
 theme: World IP Day 2026 made it undeniable - patents are not legal documents, they are balance-sheet assets, and the founders who price them as revenue are eating the ones who price them as legal cost.
 generated_at: 2026-04-25T21:27:47.686Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ World IP Day 2026 lands the same week Churchill Downs paid $85M for the Preaknes
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-04-25T21:34:46.974Z
+share_urn: urn:li:share:7453919461566263297
 hook_format: contrarian
 cta_goal: follows
 slug: world-ip-day-churchill-downs-85m-lesson

@@ -20,3 +20,4 @@
 2026-04-25 12:49 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ip-backed-financing | Banks are lending against patents now.  Most founders still pitch VCs instead.  
 2026-04-25 17:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: build-vs-buy-ai-decision | Most founders pick "build" for the wrong reasons.  They want control. They want 
 2026-04-25 21:32 | urn:li:share:7453918825974083584 | post #1 | one-off-dispatch | theme: World IP Day 2026 made it undeniable - patents are not legal documents, t
+2026-04-25 21:34 | urn:li:share:7453919461566263297 | post #1 | world-ip-day-churchill-downs-85m-lesson | World IP Day 2026 just got an $85M punchline.  Churchill Downs paid $85 million 
