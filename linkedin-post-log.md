@@ -18,3 +18,4 @@
 2026-04-24 17:51 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ai-governance-framework-sme | Most AI governance frameworks are built for enterprises. SMEs get a 90-page PDF 
 2026-04-25 07:49 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: how-to-value-intangible-assets | 90% of the S&P 500's value is intangible.  Most M&A advisors still price it last
 2026-04-25 12:49 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ip-backed-financing | Banks are lending against patents now.  Most founders still pitch VCs instead.  
+2026-04-25 17:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: build-vs-buy-ai-decision | Most founders pick "build" for the wrong reasons.  They want control. They want 
