@@ -3,7 +3,7 @@ date: 2026-04-26
 theme: World IP Day 2026 made it undeniable - patents are not legal documents, they are balance-sheet assets, and the founders who price them as revenue are eating the ones who price them as legal cost.
 generated_at: 2026-04-25T21:27:47.686Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -50,7 +50,9 @@ Stop expensing your moat.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-04-25T21:32:15Z
+share_urn: urn:li:share:7453918825974083584
 hook_format: number-led
 cta_goal: clicks
 slug: ai-for-patents-120m-60-days

@@ -19,3 +19,4 @@
 2026-04-25 07:49 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: how-to-value-intangible-assets | 90% of the S&P 500's value is intangible.  Most M&A advisors still price it last
 2026-04-25 12:49 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: ip-backed-financing | Banks are lending against patents now.  Most founders still pitch VCs instead.  
 2026-04-25 17:50 | FAIL | network proxy blocks api.linkedin.com (Host not in allowlist) | angle: build-vs-buy-ai-decision | Most founders pick "build" for the wrong reasons.  They want control. They want 
+2026-04-25 21:32 | urn:li:share:7453918825974083584 | post #1 | one-off-dispatch | theme: World IP Day 2026 made it undeniable - patents are not legal documents, t
