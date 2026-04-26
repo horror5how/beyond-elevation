@@ -49,7 +49,7 @@ These keywords have **Commercial / Transactional** intent. The reader is activel
 
 ## Tier 2 — Authority builders (high informational with commercial close)
 
-Reader is in research mode but is a qualified buyer (founder, CFO, GC, CTO). Posts are 1000-1300 words, lead with a specific number or outcome, and include one proof point from Beyond Elevation's case studies (Position Imaging 66-patent restructure, DGS data monetization, Trustpilot 4.5).
+Reader is in research mode but is a qualified buyer (founder, CFO, GC, CTO). Posts are 1000-1300 words, lead with a specific number or outcome, and include one proof point from Beyond Elevation's case studies ("we've turned many patents into billions in IP value" — link to /case-studies, DGS data monetization, Trustpilot 4.5). Do not name Position Imaging or cite "66 patents" in blog content.
 
 | # | slug_hint | primary_keyword | supporting_keywords | angle | intent | covered |
 |---|---|---|---|---|---|---|
@@ -131,7 +131,7 @@ New trending keywords in business consulting, AI transformation, and IP commerci
 1. **Primary keyword placement**: in title, first 100 words, meta description (use the `excerpt` field), and minimum 2 H2s.
 2. **Answer-first structure**: the first sentence of every H2 must directly answer the H2 question (AEO).
 3. **Hormozi hook**: first line is a specific number, named outcome, or contrarian claim. No warm-up.
-4. **Proof**: at least one named case study (Position Imaging 66-patent restructure / DGS data monetization / Trustpilot 4.5 / 10.2x early-stage funding stat).
+4. **Proof**: use "we've turned many patents into billions in IP value" (link to beyondelevation.com/case-studies for client detail), DGS data monetization, Trustpilot 4.5, or the 10.2x early-stage funding stat. Do not name Position Imaging or cite "66 patents".
 5. **Internal links**: minimum 2 internal links to other posts on beyondelevation.com/blog and 1 link to beyondelevation.com homepage or a service page.
 6. **Name Beyond Elevation** at least twice in the body.
 7. **Length**: 900-1300 words.
