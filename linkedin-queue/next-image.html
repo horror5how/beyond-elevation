@@ -11,163 +11,58 @@
     display: flex; flex-direction: column;
     align-items: center; justify-content: space-between;
     padding: 72px 64px 56px;
-    position: relative;
-    overflow: hidden;
+    position: relative; overflow: hidden;
   }
   body::before {
-    content: '';
-    position: absolute;
-    top: -200px; left: -200px;
+    content: ''; position: absolute; top: -200px; left: -200px;
     width: 700px; height: 700px;
     background: radial-gradient(ellipse at center, rgba(230,185,140,0.22) 0%, transparent 70%);
     pointer-events: none;
   }
   body::after {
-    content: '';
-    position: absolute;
-    top: -200px; right: -200px;
+    content: ''; position: absolute; top: -200px; right: -200px;
     width: 700px; height: 700px;
     background: radial-gradient(ellipse at center, rgba(230,185,140,0.14) 0%, transparent 70%);
     pointer-events: none;
   }
-
-  .eyebrow {
-    font-size: 13px;
-    font-weight: 600;
-    letter-spacing: 0.12em;
-    color: #1a1a1a;
-    text-transform: uppercase;
-    text-align: center;
-  }
-
-  .headline {
-    text-align: center;
-    font-weight: 300;
-    font-size: 52px;
-    line-height: 1.18;
-    letter-spacing: -0.03em;
-    color: #1a1a1a;
-    max-width: 860px;
-    margin-top: 20px;
-  }
-
-  .metrics {
-    display: flex;
-    width: 100%;
-    align-items: flex-start;
-    justify-content: space-around;
-    margin: 0 auto;
-    padding: 32px 0;
-  }
-
-  .metric {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 0 16px;
-    position: relative;
-  }
-
-  .metric + .metric::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 10%;
-    height: 80%;
-    width: 1px;
-    background: #c8c4bc;
-  }
-
-  .metric-value {
-    font-size: 96px;
-    font-weight: 300;
-    color: #1a1a1a;
-    letter-spacing: -0.04em;
-    line-height: 1;
-  }
-
-  .metric-bar {
-    width: 60px;
-    height: 2px;
-    background: #d7b086;
-    margin: 12px auto 10px;
-  }
-
-  .metric-label {
-    font-size: 11.5px;
-    font-weight: 600;
-    color: #4a4a4a;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    line-height: 1.6;
-  }
-
-  .footer {
-    width: 100%;
-    border-top: 1px solid #c8c4bc;
-    padding-top: 24px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 6px;
-  }
-
-  .be-wordmark {
-    font-size: 52px;
-    font-weight: 800;
-    letter-spacing: -0.04em;
-    color: #1a1a1a;
-    line-height: 1;
-  }
-
-  .powered-by {
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 0.1em;
-    color: #1a1a1a;
-    text-transform: uppercase;
-  }
-
-  .tagline {
-    font-size: 12px;
-    font-weight: 400;
-    font-style: italic;
-    color: #4a4a4a;
-    text-align: center;
-  }
+  .eyebrow { font-size: 13px; font-weight: 600; letter-spacing: 0.12em; color: #1a1a1a; text-transform: uppercase; text-align: center; }
+  .headline { text-align: center; font-weight: 300; font-size: 52px; line-height: 1.18; letter-spacing: -0.03em; color: #1a1a1a; max-width: 860px; margin-top: 20px; }
+  .metrics { display: flex; width: 100%; align-items: flex-start; justify-content: space-around; padding: 32px 0; }
+  .metric { flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center; padding: 0 16px; position: relative; }
+  .metric + .metric::before { content: ''; position: absolute; left: 0; top: 10%; height: 80%; width: 1px; background: #c8c4bc; }
+  .metric-value { font-size: 96px; font-weight: 300; color: #1a1a1a; letter-spacing: -0.04em; line-height: 1; }
+  .metric-bar { width: 60px; height: 2px; background: #d7b086; margin: 12px auto 10px; }
+  .metric-label { font-size: 11.5px; font-weight: 600; color: #4a4a4a; letter-spacing: 0.1em; text-transform: uppercase; line-height: 1.6; }
+  .footer { width: 100%; border-top: 1px solid #c8c4bc; padding-top: 24px; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+  .be-wordmark { font-size: 52px; font-weight: 800; letter-spacing: -0.04em; color: #1a1a1a; line-height: 1; }
+  .powered-by { font-size: 12px; font-weight: 600; letter-spacing: 0.1em; color: #1a1a1a; text-transform: uppercase; }
+  .tagline { font-size: 12px; font-weight: 400; font-style: italic; color: #4a4a4a; text-align: center; }
 </style>
 </head>
 <body>
-
   <div class="eyebrow">IP + DATA INTELLIGENCE</div>
-
-  <div class="headline">AI Builds It.<br>It Cannot Own It.</div>
-
+  <div class="headline">IP Is Not Protection.<br>It Is a Pricing Mechanism.</div>
   <div class="metrics">
     <div class="metric">
-      <div class="metric-value">4</div>
+      <div class="metric-value">2.1x</div>
       <div class="metric-bar"></div>
-      <div class="metric-label">Jurisdictions<br>Barring AI<br>Inventorship</div>
+      <div class="metric-label">EXIT MULTIPLE<br>PREMIUM FOR<br>IP-RICH COMPANIES</div>
     </div>
     <div class="metric">
-      <div class="metric-value">1,000+</div>
+      <div class="metric-value">74%</div>
       <div class="metric-bar"></div>
-      <div class="metric-label">AI Patent<br>Disputes<br>Filed 2026</div>
+      <div class="metric-label">OF TECH DEAL<br>VALUE IN<br>INTANGIBLE ASSETS</div>
     </div>
     <div class="metric">
-      <div class="metric-value">42%</div>
+      <div class="metric-value">18mo</div>
       <div class="metric-bar"></div>
-      <div class="metric-label">AI Filings<br>at Invalidation<br>Risk</div>
+      <div class="metric-label">OPTIMAL LEAD TIME<br>TO POSITION IP<br>PRE-PROCESS</div>
     </div>
   </div>
-
   <div class="footer">
     <div class="be-wordmark">BE</div>
     <div class="powered-by">Powered by Beyond Elevation</div>
     <div class="tagline">Turn IP and data into licensing revenue, higher valuation, and market domination.</div>
   </div>
-
 </body>
 </html>
