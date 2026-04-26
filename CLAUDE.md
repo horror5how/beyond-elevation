@@ -95,44 +95,117 @@ Commit both `linkedin-post-log.md` and `linkedin-slugs-used.txt` together. **Nev
 - The slug was only recorded on success, so crashes and network failures left no trace.
 - All three bugs are now fixed in `scripts/li-auto-post.mjs` (slug recorded pre-attempt, slug in every log line, full slug list passed to Claude).
 
-## LinkedIn Image Generation (BEIP infographic — read before every LinkedIn post)
+## LinkedIn Publishing — The Only Correct Method (read before every post)
 
-**Every LinkedIn post image MUST be generated from the canonical template.**
+**The runtime environment blocks outbound calls to `api.linkedin.com`. Never call `scripts/linkedin-publish.mjs` directly. It will always fail here.**
 
-Template file: `scripts/beip-template.html`
+The correct, proven method is the **GitHub Actions queue**. Push two files to main → the `linkedin-post.yml` workflow triggers in CI (no proxy restriction) → CI renders the image and publishes. This is the only method that works.
 
-### Brand rules (non-negotiable)
+### End-to-end publishing steps (follow every time, no exceptions)
 
-- Logo: `assets/brand/be-logo-horizontal.png` — the arc/figure mark + "Beyond Elevation" wordmark. Never use a hand-typed "BE" text substitute.
-- Footer line 1: **PROPERTY OF BEYOND ELEVATION** (uppercase, weight 600, tracked)
-- Footer line 2 (quote, italic): *"Patent and data are the only thing differentiating tech companies today, and we master in its craft."*
-- Tile labels: 13px, weight 700, uppercase, #1a1a1a — large enough to be legible at LinkedIn feed scale.
+**1. Pick topic** (dedup rules above apply — read `linkedin-slugs-used.txt` first)
 
-### How to generate the image
+**2. Write caption → `linkedin-queue/next-caption.txt`**
+- Hormozi hook line 1 (contrarian / specific number / pattern break)
+- 2–3 one-line punches, one idea per line, blank line between each
+- Specific numbers, blunt voice, no emoji, no fluff
+- 3 hashtags max
+- Hard cap: ≤700 characters (`wc -c linkedin-queue/next-caption.txt`)
 
-1. Copy `scripts/beip-template.html` to `/tmp/beip-post.html` and replace the six placeholders:
-   - `{{HEADLINE}}` — two-line hook derived from the caption (use `<br>` for line break)
-   - `{{METRIC_1}}`, `{{LABEL_1}}` — first tile number + uppercase label
-   - `{{METRIC_2}}`, `{{LABEL_2}}` — second tile number + uppercase label
-   - `{{METRIC_3}}`, `{{LABEL_3}}` — third tile number + uppercase label
-2. Render to PNG via Playwright (1000×1000 px):
-   ```bash
-   node -e "
-   const { chromium } = require('/opt/node22/lib/node_modules/playwright');
-   (async () => {
-     const browser = await chromium.launch({ args: ['--no-sandbox','--disable-setuid-sandbox'] });
-     const page = await browser.newPage();
-     await page.setViewportSize({ width: 1000, height: 1000 });
-     await page.goto('file:///tmp/beip-post.html');
-     await page.waitForTimeout(2000);
-     await page.screenshot({ path: '/tmp/be-li-image.png', fullPage: false });
-     await browser.close();
-   })();
-   "
-   ```
-3. Verify: `ls -la /tmp/be-li-image.png` — must be >100 KB.
-4. Publish: `node scripts/linkedin-publish.mjs --image /tmp/be-li-image.png --text "$(cat /tmp/caption.txt)"`
+**3. Write BEIP image HTML → `linkedin-queue/next-image.html`**
 
-### Metric tile guidelines
+Model the file exactly on the working template below. **Do not reference local font files or local image paths** — the file must render correctly in a fresh CI checkout with only system fonts and no `node_modules`.
 
-Bake 3 specific numbers that reinforce the caption into the tiles. Use real or plausible figures; each number must relate directly to the post's hook. Do not repeat metrics from the last 3 posts.
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px; height: 1080px;
+    background: #f8f6f2;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: space-between;
+    padding: 72px 64px 56px;
+    position: relative; overflow: hidden;
+  }
+  body::before {
+    content: ''; position: absolute; top: -200px; left: -200px;
+    width: 700px; height: 700px;
+    background: radial-gradient(ellipse at center, rgba(230,185,140,0.22) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  body::after {
+    content: ''; position: absolute; top: -200px; right: -200px;
+    width: 700px; height: 700px;
+    background: radial-gradient(ellipse at center, rgba(230,185,140,0.14) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .eyebrow { font-size: 13px; font-weight: 600; letter-spacing: 0.12em; color: #1a1a1a; text-transform: uppercase; text-align: center; }
+  .headline { text-align: center; font-weight: 300; font-size: 52px; line-height: 1.18; letter-spacing: -0.03em; color: #1a1a1a; max-width: 860px; margin-top: 20px; }
+  .metrics { display: flex; width: 100%; align-items: flex-start; justify-content: space-around; padding: 32px 0; }
+  .metric { flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center; padding: 0 16px; position: relative; }
+  .metric + .metric::before { content: ''; position: absolute; left: 0; top: 10%; height: 80%; width: 1px; background: #c8c4bc; }
+  .metric-value { font-size: 96px; font-weight: 300; color: #1a1a1a; letter-spacing: -0.04em; line-height: 1; }
+  .metric-bar { width: 60px; height: 2px; background: #d7b086; margin: 12px auto 10px; }
+  .metric-label { font-size: 11.5px; font-weight: 600; color: #4a4a4a; letter-spacing: 0.1em; text-transform: uppercase; line-height: 1.6; }
+  .footer { width: 100%; border-top: 1px solid #c8c4bc; padding-top: 24px; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+  .be-wordmark { font-size: 52px; font-weight: 800; letter-spacing: -0.04em; color: #1a1a1a; line-height: 1; }
+  .powered-by { font-size: 12px; font-weight: 600; letter-spacing: 0.1em; color: #1a1a1a; text-transform: uppercase; }
+  .tagline { font-size: 12px; font-weight: 400; font-style: italic; color: #4a4a4a; text-align: center; }
+</style>
+</head>
+<body>
+  <div class="eyebrow">IP + DATA INTELLIGENCE</div>
+  <div class="headline">LINE ONE<br>LINE TWO</div>
+  <div class="metrics">
+    <div class="metric">
+      <div class="metric-value">NUMBER_1</div>
+      <div class="metric-bar"></div>
+      <div class="metric-label">LABEL<br>LINE TWO<br>LINE THREE</div>
+    </div>
+    <div class="metric">
+      <div class="metric-value">NUMBER_2</div>
+      <div class="metric-bar"></div>
+      <div class="metric-label">LABEL<br>LINE TWO<br>LINE THREE</div>
+    </div>
+    <div class="metric">
+      <div class="metric-value">NUMBER_3</div>
+      <div class="metric-bar"></div>
+      <div class="metric-label">LABEL<br>LINE TWO<br>LINE THREE</div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="be-wordmark">BE</div>
+    <div class="powered-by">Powered by Beyond Elevation</div>
+    <div class="tagline">Turn IP and data into licensing revenue, higher valuation, and market domination.</div>
+  </div>
+</body>
+</html>
+```
+
+Metric tile guidelines: 3 specific numbers that reinforce the caption. Use real or plausible figures. Do not repeat metrics from the last 3 posts.
+
+**4. Reserve the slug immediately**
+```bash
+echo "the-slug" >> linkedin-slugs-used.txt
+```
+Do this before committing. On any failure, the slug is still reserved — never skip.
+
+**5. Commit BOTH queue files + `linkedin-slugs-used.txt` and push to main**
+```bash
+git add linkedin-queue/next-caption.txt linkedin-queue/next-image.html linkedin-slugs-used.txt
+git commit -m "LinkedIn: queue <slug>"
+git push -u origin HEAD:main
+```
+
+The `linkedin-post.yml` workflow triggers automatically on changes to those two queue files. CI renders the image at 1080×1080, publishes via `scripts/linkedin-publish.mjs`, then commits the share URN back to `linkedin-post-log.md`.
+
+**6. Never do any of the following — they will always fail in this environment:**
+- Calling `scripts/linkedin-publish.mjs` directly
+- Calling `api.linkedin.com` with curl
+- Using Zapier or any third-party relay
+- Trying to render and upload locally
