@@ -27,3 +27,4 @@
 2026-04-26 11:37 | urn:li:share:7454131636796944385 | post #2 | ai-cap-table-broken-ip | I audited 11 AI cap tables this month.  9 of them had broken IP.  The 4 clauses 
 2026-04-26 12:51 | urn:li:share:7454150125758615552 | IP adds 2.1x to exit multiples.  Most founders find this out after the term shee
 2026-04-26 14:04 | urn:li:share:7454168497984823297 | post #3 | software-patent-filings-surge-2028-moats | Software patent filings are up 38% YoY. AI is the reason.  Goldstein IP flagged 
+2026-04-26 17:30 | urn:li:share:7454220436822900736 | post #4 | ip-is-pl-line-not-cost-center | Most founders book IP under "Legal."  Qualcomm books it under "Revenue."  $7.2B 

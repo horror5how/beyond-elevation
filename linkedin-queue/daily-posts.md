@@ -3,7 +3,7 @@ date: 2026-04-26
 theme: The IP-as-asset trade is now publicly repriced — a $3.99B patent valuation industry, 2,200 publishers booking AI licensing ARR, Qualcomm at $7.2B in rent — and founders who still expense IP as legal cost are watching their moat get rented out underneath them.
 generated_at: 2026-04-26T04:00:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -125,7 +125,9 @@ The cheapest moat you will ever buy is a provisional today.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-04-26T17:30:45.077Z
+share_urn: urn:li:share:7454220436822900736
 hook_format: story
 cta_goal: follows
 slug: ip-is-pl-line-not-cost-center
