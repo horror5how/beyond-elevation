@@ -3,7 +3,7 @@ date: 2026-04-26
 theme: The IP-as-asset trade is now publicly repriced — a $3.99B patent valuation industry, 2,200 publishers booking AI licensing ARR, Qualcomm at $7.2B in rent — and founders who still expense IP as legal cost are watching their moat get rented out underneath them.
 generated_at: 2026-04-26T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Two fresh signals dropped this week. (1) Patent valuation just got reported as a
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-04-26T09:55:32.820Z
+share_urn: urn:li:share:7454105879718805505
 hook_format: frame-break
 cta_goal: dms
 slug: deepseek-ip-theft-licensing-moat
