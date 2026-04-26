@@ -1,0 +1,47 @@
+name: LinkedIn Content Pipeline (Daily Queue)
+
+# Runs at 04:00 UTC — fills linkedin-queue/daily-posts.md before the
+# first publisher run at 07:00 UTC. Idempotent: skips if today's queue
+# already has pending posts (safe to re-run manually at any time).
+on:
+  schedule:
+    - cron: '0 4 * * *'    # 04:00 UTC daily — 3 hours before first post
+  workflow_dispatch:        # Manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate daily queue
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/li-generate-queue.mjs
+
+      - name: Commit queue file
+        run: |
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE LinkedIn Agent'
+          git add linkedin-queue/daily-posts.md
+          git diff --cached --quiet && { echo 'Queue unchanged — nothing to commit'; exit 0; }
+          git commit -m "LinkedIn: generated daily queue $(date -u '+%Y-%m-%d')"
+          for i in 1 2 3 4; do
+            git push origin main && exit 0
+            sleep $((i * 3))
+            git pull --rebase origin main
+          done
+          echo 'push failed after retries'
+          exit 1

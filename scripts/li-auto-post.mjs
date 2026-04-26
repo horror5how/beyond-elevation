@@ -226,7 +226,16 @@ updated = updated.replace(
 
 writeFileSync(QUEUE_FILE, updated);
 
-// ── 6. Log success ───────────────────────────────────────────────────────────
+// ── 6. Record slug + log success ─────────────────────────────────────────────
+if (meta.slug) {
+  const SLUGS_FILE = 'linkedin-slugs-used.txt';
+  const existing = existsSync(SLUGS_FILE) ? readFileSync(SLUGS_FILE, 'utf8') : '';
+  const slugs = existing.split('\n').filter(Boolean);
+  if (!slugs.includes(meta.slug)) {
+    writeFileSync(SLUGS_FILE, slugs.concat(meta.slug).join('\n') + '\n');
+  }
+}
+
 const first80 = caption.slice(0, 80).replace(/\n/g, ' ');
 appendLog(`${stamp()} | ${shareUrn} | post #${pending.num} | ${meta.slug || ''} | ${first80}`);
 console.log(`\nOK ${shareUrn}`);
