@@ -1,19 +1,13 @@
-IP adds 2.1x to exit multiples.
+The EU AI Act creates 3 IP obligations most founders haven't heard of yet.
 
-Most founders find this out after the term sheet is signed.
+If your AI outputs use third-party training data, you now have a licensing disclosure requirement.
 
-Acquirers run 3 valuation lenses on your IP: income, market, cost.
+If you deploy a high-risk AI system, your IP due diligence checklist just doubled.
 
-Most founders walk in with only the cost approach ready.
+Founders who read this as compliance theatre will pay fines.
 
-That is the cheapest one.
+Founders who treat it as positioning will own their category.
 
-The ones commanding a 2-4x premium positioned their IP 18 months before the process started.
+The EU AI Act is not a legal problem. It is an IP moat waiting to be claimed.
 
-74% of tech acquisition value is now intangible assets.
-
-Your patent is not the asset.
-
-How you structured, priced, and evidenced it is.
-
-#IPStrategy #MergersAndAcquisitions #ExitMultiples
+#IPStrategy #EUAIAct #AIGovernance
