@@ -1,91 +1,25 @@
 ---
 date: 2026-04-26
-theme: World IP Day 2026 made it undeniable - patents are not legal documents, they are balance-sheet assets, and the founders who price them as revenue are eating the ones who price them as legal cost.
-generated_at: 2026-04-25T21:27:47.686Z
+theme: The IP-as-asset trade is now publicly repriced — a $3.99B patent valuation industry, 2,200 publishers booking AI licensing ARR, Qualcomm at $7.2B in rent — and founders who still expense IP as legal cost are watching their moat get rented out underneath them.
+generated_at: 2026-04-26T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 0
 ---
 
 # Daily theme
-World IP Day 2026 lands the same week Churchill Downs paid $85M for the Preakness IP layer, the US accused DeepSeek of stealing AI IP, and three AI-for-patents startups closed $105M+ in Series B rounds. The pattern is one story: in 2026, IP is no longer a legal cost line - it is a balance-sheet asset, a P&L line, and an exit multiplier. Today's posts hammer that frame from six angles for founder, operator, and investor ICPs.
+Two fresh signals dropped this week. (1) Patent valuation just got reported as a $3.99B services market by 2030 with Kroll, Stout Risius Ross, FTI, CRA, and Metis pricing the asset most founders still book as legal overhead. (2) News/Media Alliance signed Bria AI to unlock recurring RAG licensing revenue for 2,200+ publishers — joining NYT, Reuters, AP, and FT already collecting $5M-$60M per year. Together with yesterday's carried posts (Qualcomm's $7.2B licensing ARR, broken AI cap tables, the 38% YoY software patent filing surge, IBM's $1.2B IP income), today hammers one message: in 2026 IP is a priced, traded, ARR-generating asset class — and the gap between founders who price it and founders who expense it is now measurable in basis points of valuation.
 
-# Topic shortlist (research notes - not posted)
-1. Churchill Downs buys Preakness IP for $85M - IP as enterprise asset - $85M acquisition value
-2. Solve Intelligence $40M Series B + 10x revenue + DeepIP $25M + Patlytics $40M - AI-for-patents category formed - $105M+ deployed in 60 days
-3. US accuses DeepSeek of AI IP theft + Qualcomm $7.2B licensing - moat economics - $7.2B ARR
-4. AI startup cap-table audit - broken IP clauses kill Series B - $4.2M average unrecovered value
-5. Software patents up 38% YoY (Goldstein IP) - AI collapsing filing cost - 38% growth, 18-30 month grant
-6. IBM $1.2B IP income + 25x exit multiple - IP as recurring ARR - 60%+ gross margin
+# Topic shortlist (research notes — not posted)
+1. Patent Valuation Service Industry to $3.99B by 2030 (Kroll, Stout, FTI, CRA, Metis named) — IP is a priced asset class — $3.99B market
+2. News/Media Alliance + Bria AI licensing for 2,200+ publishers — recurring RAG revenue — $5M-$60M per deal, 80%+ gross margin
+3. (carryover) Qualcomm $7.2B licensing ARR + DeepSeek IP theft accusation — moat economics — $7.2B ARR, 60%+ GM
+4. (carryover) AI cap-table audit — 9 of 11 startups broken — $4.2M avg unrecovered, 11-week DD delay
+5. (carryover) Software patent filings up 38% YoY (Goldstein IP) — AI collapsing filing cost — 38%, 18-30 month grant
+6. (carryover) IBM $1.2B IP income + 25x exit multiple — IP as recurring ARR — 60%+ GM
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-04-25T21:34:46.974Z
-share_urn: urn:li:share:7453919461566263297
-hook_format: contrarian
-cta_goal: follows
-slug: world-ip-day-churchill-downs-85m-lesson
-keyword: IP as balance sheet asset
-numbers_check: $85M, 153 years, 10-25x
-image_direction: Old racing trophy on a balance sheet, vault aesthetic
-headline: World IP Day 2026<br>just got an $85M lesson.
-metric_1: $85M
-label_1: PAID FOR<br>PREAKNESS IP
-metric_2: 153
-label_2: YEAR-OLD<br>TRADEMARK
-metric_3: 10-25x
-label_3: TYPICAL IP<br>REVENUE MULTIPLE
-
-World IP Day 2026 just got an $85M punchline.
-
-Churchill Downs paid $85 million for the Preakness Stakes IP. Not the racetrack. Not the brand. The intellectual property layer of a 153-year-old race.
-
-If you still treat IP as a legal cost line, you're funding someone else's balance sheet.
-
-IP is not overhead. It is enterprise asset value, and the going rate is a 10-25x revenue multiple.
-
-Stop expensing your moat.
-
-#WorldIPDay #IntellectualProperty #FounderEconomics
-
----
-
-## Post 2
-status: published
-published_at: 2026-04-25T21:32:15Z
-share_urn: urn:li:share:7453918825974083584
-hook_format: number-led
-cta_goal: clicks
-slug: ai-for-patents-120m-60-days
-keyword: AI for patents Series B
-numbers_check: $120M+, 10x, 3 rounds
-image_direction: Capital flow visualization with patent grant icons
-headline: VCs poured $120M into<br>AI-for-patents in 60 days.
-metric_1: $120M+
-label_1: NEW CAPITAL<br>DEPLOYED
-metric_2: 10x
-label_2: SOLVE REVENUE<br>GROWTH
-metric_3: 3
-label_3: SERIES B<br>ROUNDS Q1
-
-$120M+ flowed into AI-for-patents in the last 60 days.
-
-Solve Intelligence: $40M Series B, $55M total, 10x revenue growth.
-
-DeepIP: $25M Series B.
-
-Patlytics: $40M Series B.
-
-VCs are not betting on lawyers. They are betting on the data layer underneath them.
-
-If your company files patents but cannot search, draft, or chart them with AI in 2026, your IP team is now your bottleneck, not your moat.
-
-#AIPatents #VC #IPStrategy
-
----
-
-## Post 3
 status: pending
 hook_format: frame-break
 cta_goal: dms
@@ -117,7 +51,7 @@ DM "MOAT" if you want a 30-min audit.
 
 ---
 
-## Post 4
+## Post 2
 status: pending
 hook_format: listicle
 cta_goal: dms
@@ -154,7 +88,7 @@ DM "AUDIT" for the checklist.
 
 ---
 
-## Post 5
+## Post 3
 status: pending
 hook_format: prediction
 cta_goal: clicks
@@ -184,7 +118,7 @@ The cheapest moat you will ever buy is a provisional today.
 
 ---
 
-## Post 6
+## Post 4
 status: pending
 hook_format: story
 cta_goal: follows
@@ -214,3 +148,62 @@ If your finance deck has no licensing line, you are not running a tech company. 
 
 #IPMonetization #SaaS #FounderFinance
 
+---
+
+## Post 5
+status: pending
+hook_format: contrarian
+cta_goal: follows
+slug: patent-valuation-3-99b-industry-by-2030
+keyword: patent valuation industry
+numbers_check: $3.99B, 5, 10-25x
+image_direction: Auction gavel hitting a stack of patents priced like art lots, vault background
+headline: Patent valuation is now<br>a $3.99B industry.
+metric_1: $3.99B
+label_1: VALUATION MARKET<br>BY 2030
+metric_2: 5
+label_2: GLOBAL FIRMS<br>PRICING IT
+metric_3: 10-25x
+label_3: IP EXIT<br>MULTIPLE RANGE
+
+Patent valuation just got reported as a $3.99B services market by 2030.
+
+Kroll, Stout Risius Ross, FTI Consulting, CRA International, and Metis Partners are the five firms running it.
+
+Read that again. Five global advisory shops are paid to put a price on the asset most founders still book as "legal overhead."
+
+If a $3.99B industry exists to value your patents and you have never asked what yours are worth, you are a public company with no balance sheet.
+
+The market repriced IP. Founders did not get the memo.
+
+#PatentValuation #IPStrategy #FounderEconomics
+
+---
+
+## Post 6
+status: pending
+hook_format: number-led
+cta_goal: clicks
+slug: news-media-alliance-bria-ai-licensing-2200-publishers
+keyword: AI licensing recurring revenue
+numbers_check: 2,200, $5-60M, 80%
+image_direction: Newspaper archives flowing into a recurring revenue dashboard, BEIP vault palette
+headline: 2,200 publishers just<br>turned archives into ARR.
+metric_1: 2,200+
+label_1: PUBLISHERS<br>NOW LICENSED
+metric_2: $5-60M
+label_2: TYPICAL ANNUAL<br>LICENSING DEAL
+metric_3: 80%+
+label_3: GROSS MARGIN<br>ON IP RENT
+
+The News/Media Alliance just signed Bria AI.
+
+2,200+ US publishers now collect recurring RAG licensing revenue on archives they already wrote.
+
+NYT, Reuters, AP, FT, and WSJ are reportedly already locked in at $5M-$60M per year, per outlet.
+
+This is not a content deal. It is recurring high-margin ARR — 80%+ gross margin — booked on yesterday's IP.
+
+If your company holds proprietary data, code, or models and you are not licensing them in 2026, you are letting OpenAI, Anthropic, and Google rent your asset for free.
+
+#AILicensing #IPMonetization #DataAsAsset
