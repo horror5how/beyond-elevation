@@ -2,3 +2,5 @@
 .indexing-cache.json
 .gcp-indexing-key.json
 node_modules/
+.env
+.env.*
