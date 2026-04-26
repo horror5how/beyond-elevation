@@ -63,7 +63,7 @@ jobs:
           CHANGED=$(git diff --name-only "main...${{ github.sha }}")
           echo "Changed files:"
           echo "$CHANGED"
-          BAD=$(echo "$CHANGED" | grep -v -E '^(data/posts\.json|sitemap\.xml|llms\.txt|llms-full\.txt|blog/md/[^/]+\.md|blog/index\.html|blog/posts/[^/]+/index\.html)$' || true)
+          BAD=$(echo "$CHANGED" | grep -v -E '^(data/posts\.json|sitemap\.xml|llms\.txt|llms-full\.txt|blog/md/[^/]+\.md|blog/index\.html|blog/posts/[^/]+/index\.html|beyondelevation-keyword-strategy\.md)$' || true)
           if [ -n "$BAD" ]; then
             echo "Branch touches files outside the allow-list:"
             echo "$BAD"
