@@ -49,6 +49,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/4-types-of-patents/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/what-is-ip-monetisation/</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -475,9 +481,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=4-types-of-patents</loc>
+    <loc>https://beyondelevation.com/blog/md/4-types-of-patents.md</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>

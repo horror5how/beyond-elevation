@@ -3,7 +3,7 @@ title: "The 4 Types of Patents — and the One Type That Covers 94% of Startup I
 slug: 4-types-of-patents
 date: 2026-04-26
 url: https://beyondelevation.com/blog/post.html?slug=4-types-of-patents
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -92,3 +92,6 @@ Yes. Filing a utility patent on the underlying method and a design patent on the
 ### How long does each type of patent last?
 
 Utility patents last 20 years from the filing date. Design patents last 15 years from the grant date. Plant patents last 20 years from the filing date. Provisional patent applications expire after 12 months and must be converted to a full utility filing to maintain protection.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

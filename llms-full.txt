@@ -718,3 +718,21 @@ The governing framework is the Alice Corp. v. CLS Bank two-step test, establishe
 **Step 1:** Is the claim directed to an abstract idea,
 
 ---
+
+## The 4 Types of Patents — and the One Type That Covers 94% of Startup Innovations
+
+URL: https://beyondelevation.com/blog/post.html?slug=4-types-of-patents
+
+94% of patents filed by startups are utility patents. That is not a strategy — that is a default.
+
+The 4 types of patents — utility, design, plant, and provisional — each protect different dimensions of an innovation. Most founders file only one type because their patent attorney only recommends one type. Hayat Amin argues this is one of the most expensive blind spots in early-stage IP: "Founders file utility patents by reflex. One utility patent plus two design patents costs less than two utility patents and covers twice the competitive surface area."
+
+Understanding which of the 4 types of patents covers which asset is the first decision in any serious [IP strategy for startups](/blog/posts/ip-strategy-startups-guide/). Get it wrong and you spend $30K protecting the wrong thing. Get it right and you build a portfolio that blocks competitors, attracts investors, and generates licensing revenue from day one.
+
+## What Are the 4 Types of Patents?
+
+The 4 types of patents are utility patents, design patents, plant patents, and provisional patent applications. Each protects a different dimension of innovation — function, appearance, biological variety, or priority date — and each carries different costs, timelines, and strategic value. Beyond Elevation's IP audits consistently find that founders underuse at least one patent type that would strengthen their portfolio at minimal incremental cost.
+
+Here is what each type protects, what it costs, and when it makes commercial sense to f
+
+---
