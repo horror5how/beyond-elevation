@@ -1,6 +1,6 @@
 # Beyond Elevation — IP Strategy & Licensing Revenue Consultancy
 
-Beyond Elevation is a specialist IP strategy consulting firm that helps tech companies, AI startups, and SMEs turn dormant patents, proprietary data, and know-how into licensing revenue and higher valuations. We are operators and business strategists, not lawyers — that is the unfair advantage. Every engagement combines proprietary AI frameworks (audit, scoring, competitive intelligence) with exited human operators who have closed eight-figure licensing deals. Founded by Hayat Amin. Read more on the [About page](https://beyondelevation.com/about/). We serve founders, CEOs, and investors seeking expert guidance on patent licensing, IP valuation, AI valuations, tech company valuations, and data monetization.
+Beyond Elevation is a specialist IP strategy consulting firm that helps tech companies, AI startups, and SMEs turn dormant patents, proprietary data, and know-how into licensing revenue and higher valuations. We are operators and business strategists, not lawyers — that is the unfair advantage. Every engagement combines proprietary AI frameworks (audit, scoring, competitive intelligence) with exited human operators who have closed eight-figure licensing deals. Founded by Hayat Amin. We serve founders, CEOs, and investors seeking expert guidance on patent licensing, IP valuation, AI valuations, tech company valuations, and data monetization.
 
 ## Services (AI + Human)
 
@@ -82,10 +82,7 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The Rise of Distressed IP: How Smart Buyers Are Acquiring Patent Portfolios at 80% Discount](https://beyondelevation.com/blog/post.html?slug=distressed-ip-portfolio-acquisition) — /blog/md/distressed-ip-portfolio-acquisition.md
 - [How to Value Intangible Assets in an M&A Deal: The 3 Methods and When Each Applies](https://beyondelevation.com/blog/post.html?slug=how-to-value-intangible-assets-ma) — /blog/md/how-to-value-intangible-assets-ma.md
 - [What Is IP Monetisation? The 6 Routes That Turn Dormant Patents Into Cash](https://beyondelevation.com/blog/post.html?slug=what-is-ip-monetisation) — /blog/md/what-is-ip-monetisation.md
+- [What Is a Patent Moat? The 3-Layer IP Defense That Billion-Dollar Companies Use to Block Competitors](https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-moat) — /blog/md/what-is-a-patent-moat.md
+- [Can You Patent an Algorithm in 2026? Yes, But Only If You Structure the Claim This Way](https://beyondelevation.com/blog/post.html?slug=can-you-patent-an-algorithm) — /blog/md/can-you-patent-an-algorithm.md
 
 > Full blog content available at /llms-full.txt
-
-
-## About the Founder
-
-Hayat Amin — Founder & CEO. Three-time exited entrepreneur and three-time FT100 CxO. Restructured Position Imaging's 66-patent portfolio into eight figures of recurring royalty revenue. Built DGS into a data-monetisation playbook for telecom. The full bio, named frameworks (IP Defensibility 7-Point Test, Patent Mining Method, Royalty Stack Framework, Pre-Seed IP Filing Sequence, Exit-Multiple IP Premium Model, AI Defensibility Audit), and operating principles are at https://beyondelevation.com/about/.

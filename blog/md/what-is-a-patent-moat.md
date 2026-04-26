@@ -3,7 +3,7 @@ title: "What Is a Patent Moat? The 3-Layer IP Defense That Billion-Dollar Compan
 slug: what-is-a-patent-moat
 date: 2026-04-25
 url: https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-moat
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -80,3 +80,6 @@ A minimum viable patent moat takes 12 to 24 months from first provisional filing
 ### Does Beyond Elevation help companies build patent moats?
 
 Beyond Elevation runs structured patent moat assessments that map existing portfolios against the three-layer framework, identify gaps competitors could exploit, and build filing roadmaps to close those gaps. The same process that restructured Position Imaging's 66-patent portfolio into an eight-figure licensing programme is available as a diagnostic engagement. Visit [beyondelevation.com](https://beyondelevation.com) to book a strategy session.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

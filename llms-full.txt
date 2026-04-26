@@ -680,3 +680,41 @@ Most companies fail at IP monetisation because they file patents with no plan to
 Hayat Amin calls this the "patent graveyard problem." Founders spend $30K filing a patent, another $15K maintaining it over a decade, and never once ask the question that actually matters: who else needs this technology, and what wo
 
 ---
+
+## What Is a Patent Moat? The 3-Layer IP Defense That Billion-Dollar Companies Use to Block Competitors
+
+URL: https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-moat
+
+A patent moat is a layered portfolio of strategically filed patents that makes copying your technology so expensive and legally risky that rational competitors do not bother trying. One patent is a speed bump. A patent moat is a wall with guard towers.
+
+Hayat Amin argues that most founders confuse "having a patent" with "having a moat." They are not the same thing. A single patent, no matter how broad, can be designed around in 12 to 18 months by a well-funded competitor. A patent moat — a cluster of interlocking claims covering core technology, adjacent implementations, and future variations — cannot. That distinction is the difference between a defensible company and one that merely thinks it is defended.
+
+Companies with patent moats command 2 to 4x higher exit multiples than companies with scattered, unfocused filings. The 10.2x early-stage funding advantage for patent holders compounds further when those patents form an actual moat rather than isolated claims gathering dust in a forgotten portfolio.
+
+## What Exactly Is a Patent Moat?
+
+A patent moat is a strategically designed portfolio of patents that creates overlapping legal barriers around a core technology, making it economically irrational for competitors to replicate or design around the protected innovation. Unlike a single patent filing, a patent moat covers the core invention, adjacent methods, and future variations simultaneously.
+
+Think of it in physical terms. A castle with one wall can be breached by finding 
+
+---
+
+## Can You Patent an Algorithm in 2026? Yes, But Only If You Structure the Claim This Way
+
+URL: https://beyondelevation.com/blog/post.html?slug=can-you-patent-an-algorithm
+
+68% of algorithm patent applications get rejected under Section 101. Not because the algorithm is unpatentable — because the claim is structured wrong.
+
+Can you patent an algorithm? Yes. In 2026, the USPTO grants algorithm patents every week. But the founders who get them are not filing on the math. They are filing on the specific technical implementation that produces a measurable, concrete result. Hayat Amin argues this distinction is the single most expensive misunderstanding in startup IP: "Founders spend $15K filing a patent on their algorithm's logic. They should be filing on the system that makes the algorithm commercially useful. One gets rejected. The other gets granted and licensed."
+
+The difference between a worthless rejection and a granted patent worth seven figures in licensing revenue comes down to three claim structures. Here is exactly how they work.
+
+## Can You Patent an Algorithm? What the USPTO Actually Allows
+
+You can patent an algorithm in 2026 if — and only if — the patent claim ties the algorithm to a specific technical improvement, a concrete application, or a defined system that produces a useful result beyond abstract computation. Raw mathematical formulas and abstract ideas remain unpatentable, but their practical applications are fair game.
+
+The governing framework is the Alice Corp. v. CLS Bank two-step test, established by the Supreme Court in 2014 and refined by a decade of USPTO guidance:
+
+**Step 1:** Is the claim directed to an abstract idea,
+
+---
