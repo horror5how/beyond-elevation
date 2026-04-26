@@ -25,3 +25,4 @@
 2026-04-26 08:19 | urn:li:share:7454081793638559744 | AI built your invention. It cannot own the patent.  USPTO, EPO, UKIPO: all ruled
 2026-04-26 09:55 | urn:li:share:7454105879718805505 | post #1 | deepseek-ip-theft-licensing-moat | The US just accused DeepSeek of stealing AI IP.  Founders read that as a tech st
 2026-04-26 11:37 | urn:li:share:7454131636796944385 | post #2 | ai-cap-table-broken-ip | I audited 11 AI cap tables this month.  9 of them had broken IP.  The 4 clauses 
+2026-04-26 12:51 | urn:li:share:7454150125758615552 | IP adds 2.1x to exit multiples.  Most founders find this out after the term shee
