@@ -1,13 +1,21 @@
-€580B in financing is locked behind a gate most founders don't know exists.
+AI startups trade at 30x revenue. SaaS averages 6x.
 
-EUIPO's April 2026 report: only 13% of IP owners have ever attempted IP-backed financing.
+The difference is not the product.
 
-That leaves 87% of patent holders treating their IP like a sunk cost.
+It is the IP moat.
 
-Banks are now accepting patents as collateral.
+78% of AI startup value is intangible assets — data rights, model IP, workflow lock-in.
 
-The founders who know this are raising debt at half the dilution of equity.
+Founders who cannot name their defensible moat in one sentence get marked down 40–60% at term sheet.
 
-The ones who don't keep giving equity away for money their IP could have covered.
+Three things that move the multiple:
 
-#IPStrategy #IPFinancing #CapitalStrategy
+Proprietary training data with licensing protection
+
+Patent clustering around your core method
+
+Workflow embedding that raises switching costs
+
+Most founders have none of these documented.
+
+#IPStrategy #AIValuation #VentureCapital
