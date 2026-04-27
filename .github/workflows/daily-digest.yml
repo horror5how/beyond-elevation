@@ -1,12 +1,13 @@
 name: Daily AI & GitHub Digest Email
 
-# Runs at 8 AM UTC daily.
-# GMT (Oct–Mar): 8 AM GMT ✓
-# BST (Mar–Oct): 9 AM BST — change cron to '0 7 * * *' during summer if preferred.
+# Runs at 7 AM UTC daily.
+# BST (Mar–Oct, UTC+1): 8 AM BST ✓  ← majority of the year
+# GMT (Oct–Mar, UTC+0): 7 AM GMT     ← 1 hour early in winter
+# To flip for winter-first: change cron to '0 8 * * *' (8 AM GMT / 9 AM BST).
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:   # Enable manual run from GitHub Actions UI for testing
 
 jobs:
@@ -23,8 +24,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install nodemailer
-        run: npm install nodemailer
+      - name: Install dependencies
+        run: npm install
 
       - name: Send daily digest
         env:
