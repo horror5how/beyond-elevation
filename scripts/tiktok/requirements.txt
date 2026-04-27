@@ -1,7 +1,0 @@
-kokoro-onnx>=0.3
-soundfile>=0.12
-moviepy>=2.1
-numpy>=1.26,<3
-pillow>=10.4
-faster-whisper>=1.0
-requests>=2.31
