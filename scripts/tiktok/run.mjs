@@ -101,17 +101,18 @@ print('voice:', len(samples)/sr, 's')
 console.log('[bot] transcribing...');
 const srtPath = join(WORK, 'captions.srt');
 spawnSync(py, ['-c', `
-import whisper, re
-m = whisper.load_model('base')
-r = m.transcribe('${voicePath}', word_timestamps=True, fp16=False)
+from faster_whisper import WhisperModel
+import re
+m = WhisperModel('base', device='cpu', compute_type='int8')
+segments, _ = m.transcribe('${voicePath}', word_timestamps=True)
 srt, i = [], 1
-for seg in r['segments']:
-    words = seg.get('words') or []
+for seg in segments:
+    words = list(seg.words or [])
     for j in range(0, len(words), 2):
         chunk = words[j:j+2]
         if not chunk: continue
-        s, e = chunk[0]['start'], chunk[-1]['end']
-        text = ''.join(w['word'] for w in chunk).strip().upper()
+        s, e = chunk[0].start, chunk[-1].end
+        text = ''.join(w.word for w in chunk).strip().upper()
         text = re.sub(r'[.,!?;:]+$', '', text)
         if not text: continue
         def fmt(t):
