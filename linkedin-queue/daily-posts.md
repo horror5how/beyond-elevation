@@ -3,7 +3,7 @@ date: 2026-04-27
 theme: The week IP went institutional — $105M raised by AI-for-IP startups, Churchill Downs paying $85M for Preakness rights, DOE opening a public IP marketplace, US accusing DeepSeek of AI IP theft, and the $3.99B patent valuation industry going public.
 generated_at: 2026-04-27T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -84,7 +84,9 @@ If your company holds proprietary data, code, or models and you are not licensin
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-04-27T12:19:58.636Z
+share_urn: urn:li:share:7454504615917699072
 hook_format: story
 cta_goal: dms
 slug: ai-for-ip-startups-raised-105m-q2-2026

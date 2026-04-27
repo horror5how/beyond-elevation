@@ -32,3 +32,4 @@
 2026-04-27 07:52 | urn:li:share:7454437180627906560 | €580B in financing is locked behind a gate most founders don't know exists.  E
 2026-04-27 09:26 | urn:li:share:7454460876302098432 | post #1 | patent-valuation-3-99b-industry-by-2030 | Patent valuation just got reported as a $3.99B services market by 2030.  Kroll, 
 2026-04-27 11:07 | urn:li:share:7454486328198709249 | post #2 | news-media-alliance-bria-ai-licensing-2200-publishers | The News/Media Alliance just signed Bria AI.  2,200+ US publishers now collect r
+2026-04-27 12:19 | urn:li:share:7454504615917699072 | post #3 | ai-for-ip-startups-raised-105m-q2-2026 | DeepIP closed a $25M Series B last week.  Solve Intelligence closed $40M after a
