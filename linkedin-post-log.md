@@ -30,3 +30,4 @@
 2026-04-26 17:30 | urn:li:share:7454220436822900736 | post #4 | ip-is-pl-line-not-cost-center | Most founders book IP under "Legal."  Qualcomm books it under "Revenue."  $7.2B 
 2026-04-26 17:52 | urn:li:share:7454225806769414144 | The EU AI Act creates 3 IP obligations most founders haven't heard of yet.  If y
 2026-04-27 07:52 | urn:li:share:7454437180627906560 | €580B in financing is locked behind a gate most founders don't know exists.  E
+2026-04-27 09:26 | urn:li:share:7454460876302098432 | post #1 | patent-valuation-3-99b-industry-by-2030 | Patent valuation just got reported as a $3.99B services market by 2030.  Kroll, 
