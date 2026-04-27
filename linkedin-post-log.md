@@ -33,3 +33,4 @@
 2026-04-27 09:26 | urn:li:share:7454460876302098432 | post #1 | patent-valuation-3-99b-industry-by-2030 | Patent valuation just got reported as a $3.99B services market by 2030.  Kroll, 
 2026-04-27 11:07 | urn:li:share:7454486328198709249 | post #2 | news-media-alliance-bria-ai-licensing-2200-publishers | The News/Media Alliance just signed Bria AI.  2,200+ US publishers now collect r
 2026-04-27 12:19 | urn:li:share:7454504615917699072 | post #3 | ai-for-ip-startups-raised-105m-q2-2026 | DeepIP closed a $25M Series B last week.  Solve Intelligence closed $40M after a
+2026-04-27 12:54 | urn:li:share:7454513310688817152 | AI startups trade at 30x revenue. SaaS averages 6x.  The difference is not the p
