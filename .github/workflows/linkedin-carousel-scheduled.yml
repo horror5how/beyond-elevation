@@ -1,0 +1,64 @@
+name: LinkedIn Carousel Posts (5× Daily)
+
+# 5 carousel posts per day, interleaved with image posts (07,09,11,13,17 UTC)
+# Carousel times: 08:00, 10:00, 12:00, 16:00, 19:00 UTC
+# BST equivalents: 09:00, 11:00, 13:00, 17:00, 20:00 BST
+on:
+  schedule:
+    - cron: '0 8 * * *'    # 09:00 BST
+    - cron: '0 10 * * *'   # 11:00 BST
+    - cron: '0 12 * * *'   # 13:00 BST
+    - cron: '0 16 * * *'   # 17:00 BST
+    - cron: '0 19 * * *'   # 20:00 BST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never run two carousel posts at the same time
+concurrency:
+  group: linkedin-carousel-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: |
+          npm install
+          npm install playwright@1.56.1
+          npx playwright install --with-deps chromium
+
+      - name: Publish next pending carousel
+        env:
+          LI_TOKEN: ${{ secrets.LI_TOKEN }}
+          LI_URN: ${{ secrets.LI_URN }}
+        run: node scripts/li-carousel-post.mjs
+
+      - name: Commit queue + log update
+        if: always()
+        run: |
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE LinkedIn Agent'
+          git add linkedin-carousel-post-log.md linkedin-carousel-queue/daily-carousels.md linkedin-carousel-slugs-used.txt
+          git diff --cached --quiet && { echo 'nothing to commit'; exit 0; }
+          git commit -m 'LinkedIn carousel: published next queued post'
+          for i in 1 2 3 4; do
+            git push origin main && exit 0
+            sleep $((i * 3))
+            git pull --rebase origin main
+          done
+          echo 'push failed after retries'
+          exit 1

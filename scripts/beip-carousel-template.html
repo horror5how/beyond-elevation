@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+@page { size: 1080px 1350px; margin: 0; }
+
+@font-face { font-family: 'Inter'; font-weight: 300; font-style: normal;
+  src: url('file://{{REPO}}/node_modules/@fontsource/inter/files/inter-latin-300-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 400; font-style: normal;
+  src: url('file://{{REPO}}/node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 400; font-style: italic;
+  src: url('file://{{REPO}}/node_modules/@fontsource/inter/files/inter-latin-400-italic.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 600; font-style: normal;
+  src: url('file://{{REPO}}/node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 700; font-style: normal;
+  src: url('file://{{REPO}}/node_modules/@fontsource/inter/files/inter-latin-700-normal.woff2') format('woff2'); }
+@font-face { font-family: 'Inter'; font-weight: 800; font-style: normal;
+  src: url('file://{{REPO}}/node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2') format('woff2'); }
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* ── Base slide ── */
+.slide {
+  width: 1080px; height: 1350px;
+  background: #f8f6f2;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  position: relative; overflow: hidden;
+  page-break-after: always; break-after: page;
+  display: flex; flex-direction: column;
+  align-items: center;
+  padding: 56px 72px 44px;
+}
+.slide::before {
+  content: ''; position: absolute; top: -220px; left: -220px;
+  width: 680px; height: 680px;
+  background: radial-gradient(ellipse at center, rgba(230,185,140,0.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.slide::after {
+  content: ''; position: absolute; top: -220px; right: -220px;
+  width: 680px; height: 680px;
+  background: radial-gradient(ellipse at center, rgba(230,185,140,0.14) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+/* ── Shared elements ── */
+.slide-num {
+  position: absolute; top: 26px; right: 44px;
+  font-size: 12px; font-weight: 600;
+  letter-spacing: 0.12em; color: #b0a898;
+  text-transform: uppercase;
+}
+.eyebrow {
+  font-size: 13px; font-weight: 700;
+  letter-spacing: 0.18em; color: #1a1a1a;
+  text-transform: uppercase; text-align: center;
+  padding-bottom: 0;
+}
+.be-footer {
+  width: 100%; border-top: 1px solid #d0ccc5;
+  padding-top: 18px;
+  display: flex; align-items: center; justify-content: space-between;
+  margin-top: auto;
+}
+.be-wordmark {
+  font-size: 30px; font-weight: 800;
+  letter-spacing: -0.04em; color: #1a1a1a; line-height: 1;
+}
+.be-sub {
+  font-size: 11px; font-weight: 400; font-style: italic;
+  color: #4a4a4a; text-align: right; line-height: 1.55;
+}
+.warm-bar {
+  width: 72px; height: 2px; background: #d7b086;
+  margin: 20px 0;
+}
+
+/* ── SLIDE 1: Cover ── */
+.slide-cover { justify-content: space-between; }
+.cover-main {
+  display: flex; flex-direction: column;
+  align-items: center; gap: 22px;
+  flex: 1; justify-content: center;
+}
+.cover-hook {
+  font-size: 86px; font-weight: 300;
+  letter-spacing: -0.05em; color: #1a1a1a;
+  text-align: center; line-height: 1.07;
+  max-width: 940px;
+}
+.cover-sub {
+  font-size: 26px; font-weight: 400; font-style: italic;
+  color: #5a5a5a; text-align: center;
+}
+.swipe-cta {
+  font-size: 13px; font-weight: 700;
+  letter-spacing: 0.16em; color: #d7b086;
+  text-transform: uppercase; margin-bottom: 22px;
+}
+
+/* ── SLIDES 2–5: Metric ── */
+.slide-metric { justify-content: space-between; }
+.metric-main {
+  display: flex; flex-direction: column;
+  align-items: center; flex: 1; justify-content: center;
+}
+.big-stat {
+  font-size: 188px; font-weight: 300;
+  color: #1a1a1a; letter-spacing: -0.05em;
+  line-height: 1; text-align: center;
+}
+.stat-bar { width: 72px; height: 3px; background: #d7b086; margin: 18px auto 16px; }
+.stat-label {
+  font-size: 16px; font-weight: 700;
+  letter-spacing: 0.14em; color: #1a1a1a;
+  text-transform: uppercase; text-align: center; line-height: 1.5;
+}
+.stat-body {
+  font-size: 23px; font-weight: 300;
+  color: #3a3a3a; line-height: 1.65;
+  text-align: center; max-width: 900px;
+  border-top: 1px solid #d0ccc5;
+  padding-top: 28px; margin-top: 24px;
+}
+
+/* ── SLIDE 6: Takeaway ── */
+.slide-takeaway { justify-content: space-between; }
+.takeaway-main {
+  display: flex; flex-direction: column;
+  align-items: center; flex: 1; justify-content: center;
+}
+.takeaway-tag {
+  font-size: 13px; font-weight: 700;
+  letter-spacing: 0.16em; color: #d7b086;
+  text-transform: uppercase;
+}
+.takeaway-text {
+  font-size: 58px; font-weight: 300;
+  letter-spacing: -0.04em; color: #1a1a1a;
+  text-align: center; line-height: 1.18;
+  max-width: 920px;
+}
+
+/* ── SLIDE 7: About ── */
+.slide-about { justify-content: space-between; }
+.about-photo {
+  width: 176px; height: 176px;
+  border-radius: 50%; object-fit: cover; object-position: center top;
+  border: 3px solid #d7b086; margin-top: 8px;
+}
+.about-name {
+  font-size: 46px; font-weight: 300;
+  letter-spacing: -0.03em; color: #1a1a1a;
+  text-align: center; margin-top: 18px;
+}
+.about-title {
+  font-size: 13px; font-weight: 600;
+  letter-spacing: 0.1em; color: #5a5a5a;
+  text-transform: uppercase; text-align: center; margin-top: 8px;
+}
+.credentials {
+  width: 100%;
+  border-top: 1px solid #d0ccc5; border-bottom: 1px solid #d0ccc5;
+  padding: 20px 0; margin: 18px 0;
+  display: flex; flex-direction: column; gap: 13px;
+}
+.cred-row {
+  display: flex; align-items: center; gap: 16px;
+  font-size: 17px; font-weight: 400;
+  color: #1a1a1a; line-height: 1.4;
+}
+.cred-mark { width: 28px; height: 2px; background: #d7b086; flex-shrink: 0; }
+.about-cta {
+  font-size: 17px; font-weight: 700;
+  letter-spacing: 0.1em; color: #1a1a1a;
+  text-transform: uppercase; text-align: center;
+}
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1: Cover -->
+<section class="slide slide-cover">
+  <div class="slide-num">1 / 7</div>
+  <div class="eyebrow">IP + Data Intelligence</div>
+  <div class="cover-main">
+    <div class="cover-hook">{{COVER_HOOK}}</div>
+    <div class="cover-sub">{{COVER_SUB}}</div>
+  </div>
+  <div class="swipe-cta">&#8594;&nbsp;&nbsp;Swipe to see the data</div>
+  <div class="be-footer">
+    <div class="be-wordmark">BE</div>
+    <div class="be-sub">Turn IP and data into licensing revenue,<br>higher valuation, and market domination.</div>
+  </div>
+</section>
+
+<!-- SLIDE 2: Scale stat -->
+<section class="slide slide-metric">
+  <div class="slide-num">2 / 7</div>
+  <div class="eyebrow">IP + Data Intelligence</div>
+  <div class="metric-main">
+    <div class="big-stat">{{SLIDE2_STAT}}</div>
+    <div class="stat-bar"></div>
+    <div class="stat-label">{{SLIDE2_LABEL}}</div>
+  </div>
+  <div class="stat-body">{{SLIDE2_BODY}}</div>
+  <div class="be-footer">
+    <div class="be-wordmark">BE</div>
+    <div class="be-sub">beyondelevation.com</div>
+  </div>
+</section>
+
+<!-- SLIDE 3: Insight 1 -->
+<section class="slide slide-metric">
+  <div class="slide-num">3 / 7</div>
+  <div class="eyebrow">IP + Data Intelligence</div>
+  <div class="metric-main">
+    <div class="big-stat">{{SLIDE3_STAT}}</div>
+    <div class="stat-bar"></div>
+    <div class="stat-label">{{SLIDE3_LABEL}}</div>
+  </div>
+  <div class="stat-body">{{SLIDE3_BODY}}</div>
+  <div class="be-footer">
+    <div class="be-wordmark">BE</div>
+    <div class="be-sub">beyondelevation.com</div>
+  </div>
+</section>
+
+<!-- SLIDE 4: Insight 2 -->
+<section class="slide slide-metric">
+  <div class="slide-num">4 / 7</div>
+  <div class="eyebrow">IP + Data Intelligence</div>
+  <div class="metric-main">
+    <div class="big-stat">{{SLIDE4_STAT}}</div>
+    <div class="stat-bar"></div>
+    <div class="stat-label">{{SLIDE4_LABEL}}</div>
+  </div>
+  <div class="stat-body">{{SLIDE4_BODY}}</div>
+  <div class="be-footer">
+    <div class="be-wordmark">BE</div>
+    <div class="be-sub">beyondelevation.com</div>
+  </div>
+</section>
+
+<!-- SLIDE 5: Insight 3 -->
+<section class="slide slide-metric">
+  <div class="slide-num">5 / 7</div>
+  <div class="eyebrow">IP + Data Intelligence</div>
+  <div class="metric-main">
+    <div class="big-stat">{{SLIDE5_STAT}}</div>
+    <div class="stat-bar"></div>
+    <div class="stat-label">{{SLIDE5_LABEL}}</div>
+  </div>
+  <div class="stat-body">{{SLIDE5_BODY}}</div>
+  <div class="be-footer">
+    <div class="be-wordmark">BE</div>
+    <div class="be-sub">beyondelevation.com</div>
+  </div>
+</section>
+
+<!-- SLIDE 6: Takeaway -->
+<section class="slide slide-takeaway">
+  <div class="slide-num">6 / 7</div>
+  <div class="eyebrow">IP + Data Intelligence</div>
+  <div class="takeaway-main">
+    <div class="takeaway-tag">The bottom line</div>
+    <div class="warm-bar"></div>
+    <div class="takeaway-text">{{TAKEAWAY}}</div>
+  </div>
+  <div class="be-footer">
+    <div class="be-wordmark">BE</div>
+    <div class="be-sub">beyondelevation.com</div>
+  </div>
+</section>
+
+<!-- SLIDE 7: About Hayat Amin -->
+<section class="slide slide-about">
+  <div class="slide-num">7 / 7</div>
+  <div class="eyebrow">Who is sharing this?</div>
+  <img class="about-photo" src="file://{{REPO}}/assets/hayat-amin-portrait.jpg" alt="Hayat Amin" />
+  <div>
+    <div class="about-name">Hayat Amin</div>
+    <div class="about-title">IP Strategist &amp; Founder, Beyond Elevation</div>
+  </div>
+  <div class="credentials">
+    <div class="cred-row"><div class="cred-mark"></div>Turned 66 patents into 8-figure annual royalties</div>
+    <div class="cred-row"><div class="cred-mark"></div>Structured the DGS data monetisation deal</div>
+    <div class="cred-row"><div class="cred-mark"></div>Patent holders are 10.2× more likely to raise funding</div>
+    <div class="cred-row"><div class="cred-mark"></div>Trustpilot ★ 4.5 &nbsp;·&nbsp; beyondelevation.com</div>
+  </div>
+  <div class="about-cta">Follow for daily IP &amp; AI intelligence &#8594;</div>
+  <div class="be-footer">
+    <div class="be-wordmark">BE</div>
+    <div class="be-sub">Turn IP and data into licensing revenue,<br>higher valuation, and market domination.</div>
+  </div>
+</section>
+
+</body>
+</html>

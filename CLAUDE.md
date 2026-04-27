@@ -209,3 +209,70 @@ The `linkedin-post.yml` workflow triggers automatically on changes to those two 
 - Calling `api.linkedin.com` with curl
 - Using Zapier or any third-party relay
 - Trying to render and upload locally
+
+## LinkedIn Carousel Publishing (5× daily — separate from image posts)
+
+**The full daily posting routine is 10 posts per day:**
+- 5 × image posts (single BEIP slide) at 08, 10, 12, 14, 18 BST via `linkedin-scheduled.yml`
+- 5 × carousel posts (7-slide PDF) at 09, 11, 13, 17, 20 BST via `linkedin-carousel-scheduled.yml`
+
+### Carousel architecture
+
+| File | Purpose |
+|---|---|
+| `scripts/beip-carousel-template.html` | 7-slide HTML template (rendered to PDF by Playwright) |
+| `scripts/li-carousel-generate.mjs` | Generates `daily-carousels.md` at 03:00 UTC via Claude API |
+| `scripts/li-carousel-post.mjs` | Reads next pending carousel, renders PDF, posts to LinkedIn Document API |
+| `linkedin-carousel-queue/daily-carousels.md` | Daily carousel queue (5 carousels per day) |
+| `linkedin-carousel-slugs-used.txt` | Dedup file — one carousel slug per line |
+| `linkedin-carousel-post-log.md` | Success/fail log for carousel posts |
+
+### Carousel slide structure (7 slides, 1080×1350 portrait)
+
+1. **Cover**: Hook headline (`cover_hook` with `<br>` split) + italic sub-headline (`cover_sub`) + swipe prompt
+2. **Metric 1** (`slide2_*`): Big stat + label + 1–2 sentence body
+3. **Metric 2** (`slide3_*`): Big stat + label + 1–2 sentence body
+4. **Metric 3** (`slide4_*`): Big stat + label + 1–2 sentence body
+5. **Metric 4** (`slide5_*`): Big stat + label + 1–2 sentence body
+6. **Takeaway**: Single punchy insight sentence (`takeaway` field)
+7. **About**: Static Hayat Amin slide — photo, credentials, CTA (auto-generated, no fields)
+
+### Carousel queue format
+
+```markdown
+## Carousel 1
+status: pending
+slug: topic-name-carousel
+pillar: Financial
+cover_hook: Hook line one<br>Hook line two
+cover_sub: Italic sub-headline here
+slide2_stat: 30x
+slide2_label: AI REVENUE<br>MULTIPLE
+slide2_body: One or two sentence explanation with specific numbers.
+slide3_stat: 78%
+slide3_label: INTANGIBLE<br>ASSET SHARE
+slide3_body: ...
+slide4_stat: 10.2x
+slide4_label: FUNDING<br>ADVANTAGE
+slide4_body: ...
+slide5_stat: 60%
+slide5_label: MULTIPLE<br>MARKDOWN
+slide5_body: ...
+takeaway: Single punchy takeaway sentence without numbers.
+
+Caption line one (hook).
+
+Second line.
+
+Third line.
+
+#Hashtag1 #Hashtag2 #Hashtag3
+---
+```
+
+### Carousel dedup rules
+
+- Carousel slugs end in `-carousel` to distinguish from image post slugs
+- Check `linkedin-carousel-slugs-used.txt` before picking a topic
+- The same keyword angle can appear in both image posts and carousels (they serve different formats), but the carousel must add net-new data points or a deeper angle
+- Pillar rotation applies independently to carousels (check `linkedin-carousel-post-log.md`)
