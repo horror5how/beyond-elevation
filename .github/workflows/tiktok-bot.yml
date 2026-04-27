@@ -88,6 +88,8 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           INFSH_API_KEY: ${{ secrets.INFSH_API_KEY }}
           TIKTOK_COOKIES_JSON: ${{ secrets.TIKTOK_COOKIES_JSON }}
+          BROWSERBASE_API_KEY: ${{ secrets.BROWSERBASE_API_KEY }}
+          BROWSERBASE_PROJECT_ID: ${{ secrets.BROWSERBASE_PROJECT_ID }}
           PYTHON: python
         run: xvfb-run -a --server-args="-screen 0 1280x900x24" node scripts/tiktok/run.mjs
 

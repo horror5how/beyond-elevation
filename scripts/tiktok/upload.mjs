@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// TikTok upload via Playwright with cookie auth + aggressive modal handling.
+// TikTok upload via Browserbase (residential IP) + cookie auth + modal handling.
 import { chromium } from 'playwright';
 import { readFileSync } from 'node:fs';
 
@@ -18,16 +18,45 @@ const cookies = JSON.parse(COOKIES_JSON).map(c => ({
   sameSite: 'Lax',
 }));
 
-const browser = await chromium.launch({
-  headless: false,  // headed under Xvfb in CI
-  args: ['--disable-blink-features=AutomationControlled', '--no-sandbox', '--disable-dev-shm-usage'],
-});
-const ctx = await browser.newContext({
-  viewport: { width: 1280, height: 900 },
-  userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-});
-await ctx.addCookies(cookies);
-const page = await ctx.newPage();
+let browser, ctx, page;
+const useBrowserbase = !!(process.env.BROWSERBASE_API_KEY && process.env.BROWSERBASE_PROJECT_ID);
+
+if (useBrowserbase) {
+  console.log('[tt] using Browserbase residential session…');
+  const sessRes = await fetch('https://api.browserbase.com/v1/sessions', {
+    method: 'POST',
+    headers: {
+      'X-BB-API-Key': process.env.BROWSERBASE_API_KEY,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      projectId: process.env.BROWSERBASE_PROJECT_ID,
+      browserSettings: {
+        fingerprint: { devices: ['desktop'], operatingSystems: ['macos'] },
+      },
+      proxies: true,
+    }),
+  });
+  if (!sessRes.ok) throw new Error(`bb session: ${sessRes.status} ${await sessRes.text()}`);
+  const sess = await sessRes.json();
+  console.log(`[tt] bb session ${sess.id}`);
+  browser = await chromium.connectOverCDP(sess.connectUrl);
+  ctx = browser.contexts()[0] || await browser.newContext();
+  await ctx.addCookies(cookies);
+  page = ctx.pages()[0] || await ctx.newPage();
+} else {
+  console.log('[tt] using local headed Chromium…');
+  browser = await chromium.launch({
+    headless: false,
+    args: ['--disable-blink-features=AutomationControlled', '--no-sandbox', '--disable-dev-shm-usage'],
+  });
+  ctx = await browser.newContext({
+    viewport: { width: 1280, height: 900 },
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+  });
+  await ctx.addCookies(cookies);
+  page = await ctx.newPage();
+}
 await page.addInitScript(() => {
   Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
 });
