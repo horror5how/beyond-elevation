@@ -1,21 +1,19 @@
-AI startups trade at 30x revenue. SaaS averages 6x.
+VCs rejected 94% of AI pitches with no defensibility in Q1 2026.
 
-The difference is not the product.
+Not because the product was bad.
 
-It is the IP moat.
+Because GPT wrappers have no moat.
 
-78% of AI startup value is intangible assets — data rights, model IP, workflow lock-in.
+The 3 layers that pass the 2026 VC bar:
 
-Founders who cannot name their defensible moat in one sentence get marked down 40–60% at term sheet.
+1. Proprietary training data — you own it, they can't replicate it.
 
-Three things that move the multiple:
+2. Patent coverage on model architecture or workflow integration.
 
-Proprietary training data with licensing protection
+3. Workflow lock-in — switching costs that make migration a 6-month project.
 
-Patent clustering around your core method
+IP-protected AI companies raise at 10.2x the rate of model-only plays.
 
-Workflow embedding that raises switching costs
+The product is table stakes. The IP is the business.
 
-Most founders have none of these documented.
-
-#IPStrategy #AIValuation #VentureCapital
+#IPStrategy #AIStrategy #VentureCapital
