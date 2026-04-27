@@ -3,7 +3,7 @@ title: "The Rule of 40, Decoded: Why Most Tech Founders Fail It (And the 3 Lever
 slug: rule-of-40-tech-valuation
 date: 2026-04-27
 url: https://beyondelevation.com/blog/post.html?slug=rule-of-40-tech-valuation
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -96,3 +96,6 @@ The Rule of 40 remains the most widely used health metric for SaaS and tech valu
 ### What is the difference between the Rule of 40 and EBITDA margin?
 
 The Rule of 40 combines revenue growth rate and EBITDA margin into a single composite metric. EBITDA margin alone measures profitability but ignores growth. The Rule of 40 rewards companies that trade some margin for faster growth — or that maintain high margins while growing steadily — recognising that both paths create enterprise value for investors.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
