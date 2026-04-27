@@ -19,8 +19,8 @@ const cookies = JSON.parse(COOKIES_JSON).map(c => ({
 }));
 
 const browser = await chromium.launch({
-  headless: true,
-  args: ['--disable-blink-features=AutomationControlled', '--no-sandbox'],
+  headless: false,  // headed under Xvfb in CI
+  args: ['--disable-blink-features=AutomationControlled', '--no-sandbox', '--disable-dev-shm-usage'],
 });
 const ctx = await browser.newContext({
   viewport: { width: 1280, height: 900 },

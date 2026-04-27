@@ -41,8 +41,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install ffmpeg
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Install ffmpeg + Xvfb (for headed Playwright)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg xvfb
 
       - name: Install Python deps
         run: |
@@ -89,7 +89,7 @@ jobs:
           INFSH_API_KEY: ${{ secrets.INFSH_API_KEY }}
           TIKTOK_COOKIES_JSON: ${{ secrets.TIKTOK_COOKIES_JSON }}
           PYTHON: python
-        run: node scripts/tiktok/run.mjs
+        run: xvfb-run -a --server-args="-screen 0 1280x900x24" node scripts/tiktok/run.mjs
 
       - name: Commit log
         if: always()
