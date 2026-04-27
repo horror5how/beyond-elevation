@@ -34,3 +34,4 @@
 2026-04-27 11:07 | urn:li:share:7454486328198709249 | post #2 | news-media-alliance-bria-ai-licensing-2200-publishers | The News/Media Alliance just signed Bria AI.  2,200+ US publishers now collect r
 2026-04-27 12:19 | urn:li:share:7454504615917699072 | post #3 | ai-for-ip-startups-raised-105m-q2-2026 | DeepIP closed a $25M Series B last week.  Solve Intelligence closed $40M after a
 2026-04-27 12:54 | urn:li:share:7454513310688817152 | AI startups trade at 30x revenue. SaaS averages 6x.  The difference is not the p
+2026-04-27 15:06 | urn:li:share:7454546569812664320 | post #4 | churchill-downs-85m-preakness-ip-comps | Four IP comps from this week alone:  1. Churchill Downs: $85M for Preakness Stak
