@@ -1,0 +1,104 @@
+{
+  "rotation": [
+    {
+      "id": "ip_valuation",
+      "topic": "Patent & IP Valuation",
+      "chip": "YOUR PATENTS = MONEY",
+      "angle": "Most founders treat patents as legal cost. They're an unbooked balance sheet asset. Specific dollar example.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Macro shot of an antique brass scale weighing patent documents on one side and stacks of dollar bills on the other side, slowly tipping toward the dollars. Warm cream and amber palette, golden hour light, photorealistic, shallow depth of field, dramatic side lighting.",
+        "Cinematic vertical 9:16. Aerial top-down shot of a sleek walnut conference table with patent diagrams, valuation charts and signed contracts arranged neatly. Hands of executives in cream blazers placing pens on signature lines. Warm neutral palette, soft golden lighting, photorealistic."
+      ]
+    },
+    {
+      "id": "fractional_ip",
+      "topic": "Fractional Chief IP Officer",
+      "chip": "OUTSOURCED IP LEADERSHIP",
+      "angle": "Why hire a $400K Chief IP Officer when a fractional one runs your portfolio for a fraction of the cost.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Confident professional in tailored cream blazer working from a sun-drenched modern office, three monitors showing different brand patent portfolios. Slow orbit around the desk. Warm cream and amber palette, photorealistic, soft natural light.",
+        "Cinematic vertical 9:16. Time-lapse style scene of a corporate office where a single empty premium leather chair sits at the head of a conference table while screens around the room show holographic patent portfolios self-organizing. Warm neutral palette, photorealistic."
+      ]
+    },
+    {
+      "id": "data_asset",
+      "topic": "Data & AI Asset Valuation",
+      "chip": "YOUR DATA IS THE MOAT",
+      "angle": "AI-native companies trade at 20-30x revenue. API-reliant ones at 3-4x. Your proprietary data is the difference.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Server room with warm amber accent lighting. Rows of glowing data racks reflecting in a polished floor. Slow tracking shot down the aisle. Floating holographic dollar values rising near each rack. Warm neutral palette, cinematic, photorealistic.",
+        "Cinematic vertical 9:16. Close-up of a hand drawing a steeply ascending revenue multiple chart on a glass whiteboard, line going up labeled 'AI-NATIVE 30x' versus a flat line labeled 'API-RELIANT 4x'. Warm cream office in soft focus background, photorealistic."
+      ]
+    },
+    {
+      "id": "licensing_revenue",
+      "topic": "IP Licensing Revenue",
+      "chip": "PATENTS PAY YOU",
+      "angle": "Specific case: 66-patent portfolio restructured into licensing revenue. Your patents shouldn't sit on a shelf.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Macro shot of a stack of patent certificates being slid into a premium vault, then the vault door closes and a digital readout shows recurring license-fee deposits ticking up. Warm neutral palette, golden lighting, photorealistic.",
+        "Cinematic vertical 9:16. A confident professional in cream blazer reviewing licensing agreements at a sunlit walnut desk, multiple signed contracts visible. Slow push-in. Photorealistic, warm amber and cream tones, shallow depth of field."
+      ]
+    },
+    {
+      "id": "ip_for_ma",
+      "topic": "IP Valuation for M&A",
+      "chip": "BUYERS PAY FOR IP",
+      "angle": "83% of M&A buyers pay higher multiples for AI-native targets. Without IP valuation, you leave money on the table.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Boardroom handshake between two executives in cream and beige tailoring, M&A documents on a polished walnut table, golden hour streaming through floor-to-ceiling windows. Slow dolly forward. Warm neutral palette, photorealistic.",
+        "Cinematic vertical 9:16. Macro shot of a fountain pen signing an acquisition document, with the dollar value visibly increasing on a small screen behind the document. Warm amber lighting, photorealistic, shallow depth of field."
+      ]
+    },
+    {
+      "id": "intangibles",
+      "topic": "Intangible Assets = 90% of Market Cap",
+      "chip": "WHAT THE BALANCE SHEET HIDES",
+      "angle": "Intangibles are 90% of S&P 500 market cap. Your CFO is reporting 10% of your real value. Fix it.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Macro shot of a balance sheet on premium paper with a magnifying glass revealing hidden glowing intangible asset entries underneath the visible numbers. Warm cream and amber palette, photorealistic, shallow depth of field.",
+        "Cinematic vertical 9:16. Modern office at golden hour. CFO at a desk staring at two screens — one showing a small balance sheet number, the other showing a dramatically larger market cap. Slow zoom in. Warm neutral palette, cinematic."
+      ]
+    },
+    {
+      "id": "fractional_work",
+      "topic": "Fractional vs Full-Time Work",
+      "chip": "THE NEW DEAL",
+      "angle": "By 2030 half of knowledge work is fractional. Stop selling 40 hours. Start selling outcomes.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Empty modern open-plan office at golden hour, abandoned desks, soft volumetric light through floor-to-ceiling windows, slow dolly forward. Warm cream and amber palette, photorealistic, anamorphic lens flare.",
+        "Cinematic vertical 9:16. Confident professional in tailored cream blazer working across three monitors showing different brand dashboards, calm focused energy, slow orbit camera move. Warm neutral palette, photorealistic, soft golden lighting."
+      ]
+    },
+    {
+      "id": "ai_inventorship",
+      "topic": "AI Inventorship Debate",
+      "chip": "WHO OWNS AI INVENTIONS",
+      "angle": "AI invents. The law is fuzzy. Founders who lock down ownership now win the next decade.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Holographic glowing AI-generated invention diagram floating above a sunlit walnut desk. A hand reaches up to claim it. Warm cream and amber palette, photorealistic, ethereal soft golden lighting.",
+        "Cinematic vertical 9:16. Macro shot of a patent document with the inventor name field glowing softly while a digital cursor hovers over it. Warm neutral palette, dramatic side lighting, photorealistic, shallow depth of field."
+      ]
+    },
+    {
+      "id": "patent_cost_to_revenue",
+      "topic": "Patents: Cost Center to Revenue",
+      "chip": "FROM EXPENSE TO INCOME",
+      "angle": "Most companies treat patents as legal expense. Smart ones convert them to a recurring revenue line.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Macro shot of a balance sheet where a 'LEGAL EXPENSE' line item slowly transforms into a 'RECURRING REVENUE' line item with a glowing transition effect. Warm cream and gold palette, photorealistic, shallow depth of field.",
+        "Cinematic vertical 9:16. Modern office, executive in cream blazer reviewing a glowing dashboard showing recurring monthly licensing revenue ticking up. Slow push-in. Warm neutral palette, photorealistic, soft golden hour light."
+      ]
+    },
+    {
+      "id": "founder_ip_mistakes",
+      "topic": "Founder IP Mistakes",
+      "chip": "THE COSTLY MISS",
+      "angle": "The 3 IP mistakes founders make in their first 18 months that kill exit multiples.",
+      "veo_prompts": [
+        "Cinematic vertical 9:16. Founder in cream sweater at a startup desk crossing out 'NDA' on a yellow legal pad and replacing with 'PATENT FILING'. Slow zoom in on the pen tip. Warm amber lighting, photorealistic, shallow depth of field.",
+        "Cinematic vertical 9:16. Macro shot of a calendar with 18 months crossed off and a glowing red 'IP DEADLINE MISSED' stamp appearing. Warm neutral palette, dramatic lighting, photorealistic."
+      ]
+    }
+  ]
+}

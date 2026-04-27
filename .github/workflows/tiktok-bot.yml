@@ -1,0 +1,107 @@
+name: TikTok Bot (5× Daily)
+
+# 5 posts per day, spread across US daytime + evening UTC
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 09:00 EST / 14:00 BST
+    - cron: '0 16 * * *'   # 12:00 EST / 17:00 BST
+    - cron: '0 19 * * *'   # 15:00 EST / 20:00 BST
+    - cron: '0 22 * * *'   # 18:00 EST / 23:00 BST
+    - cron: '0 1 * * *'    # 21:00 EST (next day) / 02:00 BST
+  workflow_dispatch:
+    inputs:
+      theme_id:
+        description: 'Override theme id (optional)'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tiktok-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Install Python deps
+        run: |
+          pip install --quiet -r scripts/tiktok/requirements.txt
+
+      - name: Download Kokoro model + Inter font
+        run: |
+          set -e
+          if [ ! -f kokoro-v0_19.onnx ]; then
+            curl -sL https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files/kokoro-v0_19.onnx -o kokoro-v0_19.onnx
+          fi
+          if [ ! -f voices.bin ]; then
+            curl -sL https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files/voices.bin -o voices.bin
+          fi
+          mkdir -p scripts/tiktok/fonts
+          if [ ! -f scripts/tiktok/fonts/Inter-Black.ttf ]; then
+            curl -sSL "https://github.com/rsms/inter/releases/download/v4.0/Inter-4.0.zip" -o /tmp/inter.zip
+            unzip -j -o /tmp/inter.zip "extras/ttf/Inter-Black.ttf" "extras/ttf/Inter-Bold.ttf" -d scripts/tiktok/fonts/
+          fi
+
+      - name: Install inference.sh CLI
+        run: |
+          curl -fsSL https://cli.inference.sh | sh
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+          mkdir -p ~/.config/inference
+          echo "${INFSH_API_KEY}" > ~/.config/inference/api_key
+        env:
+          INFSH_API_KEY: ${{ secrets.INFSH_API_KEY }}
+
+      - name: Install Node deps + Playwright
+        run: |
+          npm install --silent @anthropic-ai/sdk playwright@1.56.1
+          npx playwright install --with-deps chromium
+
+      - name: Write TikTok cookies
+        run: |
+          echo '${{ secrets.TIKTOK_COOKIES_JSON }}' > tiktok_cookies.json
+          chmod 600 tiktok_cookies.json
+
+      - name: Run TikTok bot
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INFSH_API_KEY: ${{ secrets.INFSH_API_KEY }}
+          TIKTOK_COOKIES_JSON: ${{ secrets.TIKTOK_COOKIES_JSON }}
+          PYTHON: python
+        run: node scripts/tiktok/run.mjs
+
+      - name: Commit log
+        if: always()
+        run: |
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE TikTok Agent'
+          git add tiktok-post-log.md 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m 'TikTok: post log update'
+            for i in 1 2 3 4; do
+              git push origin main && exit 0
+              sleep $((i * 3))
+              git pull --rebase origin main
+            done
+            exit 1
+          fi
