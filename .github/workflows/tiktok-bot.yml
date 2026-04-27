@@ -64,12 +64,12 @@ jobs:
             unzip -j -o /tmp/inter.zip "extras/ttf/Inter-Black.ttf" "extras/ttf/Inter-Bold.ttf" -d scripts/tiktok/fonts/
           fi
 
-      - name: Install inference.sh CLI
+      - name: Install + login inference.sh CLI
         run: |
           curl -fsSL https://cli.inference.sh | sh
+          export PATH="$HOME/.local/bin:$PATH"
           echo "$HOME/.local/bin" >> $GITHUB_PATH
-          mkdir -p ~/.config/inference
-          echo "${INFSH_API_KEY}" > ~/.config/inference/api_key
+          infsh login --key "$INFSH_API_KEY"
         env:
           INFSH_API_KEY: ${{ secrets.INFSH_API_KEY }}
 
