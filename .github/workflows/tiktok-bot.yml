@@ -46,6 +46,7 @@ jobs:
 
       - name: Install Python deps
         run: |
+          pip install --quiet --upgrade pip setuptools wheel
           pip install --quiet -r scripts/tiktok/requirements.txt
 
       - name: Download Kokoro model + Inter font
