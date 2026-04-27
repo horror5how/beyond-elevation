@@ -3,7 +3,7 @@ title: "The 30% Rule in AI: The Pricing Heuristic Every Investor Whispers But No
 slug: 30-percent-rule-ai-valuation
 date: 2026-04-27
 url: https://beyondelevation.com/blog/post.html?slug=30-percent-rule-ai-valuation
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -84,3 +84,6 @@ Yes. AI startups demonstrating 30%+ improvement over incumbent processes trade a
 ### How does IP protection relate to the 30% rule?
 
 IP protection makes the 30% improvement durable. Without patents and trade secrets protecting the methods that deliver the improvement, competitors can replicate the advantage within 6–12 months. Companies that combine 30%+ improvement with strong IP protection command acquisition premiums 30–60% higher than unprotected competitors with comparable revenue.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

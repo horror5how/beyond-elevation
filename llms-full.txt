@@ -736,3 +736,21 @@ The 4 types of patents are utility patents, design patents, plant patents, and p
 Here is what each type protects, what it costs, and when it makes commercial sense to f
 
 ---
+
+## The 30% Rule in AI: The Pricing Heuristic Every Investor Whispers But Nobody Writes Down
+
+URL: https://beyondelevation.com/blog/post.html?slug=30-percent-rule-ai-valuation
+
+The 30% rule in AI is the single number that separates the AI companies investors fight over from the ones that die in pilot purgatory. Hayat Amin calls it "the invisible price tag on every AI pitch deck" — and most founders have never heard of it.
+
+Here is the rule: an AI product must deliver at least 30% cost reduction or performance improvement over the incumbent process to justify enterprise adoption, sustain premium pricing, and command the revenue multiples that make VC math work. Below 30%, procurement committees stall. Above 30%, budgets move. The 30% rule in AI is not written in any textbook. It lives in investor memos, partner meetings, and the quiet rejection emails founders never understand.
+
+Companies with patents are 10.2x more likely to secure early-stage funding. Combine that stat with the 30% rule and the equation becomes obvious: prove 30% improvement, protect it with IP, and you have a company worth funding. Miss either half and you have a demo.
+
+## What Is the 30% Rule in AI?
+
+The 30% rule in AI is the unwritten threshold investors and enterprise buyers use to determine whether an AI solution delivers enough value to justify switching costs, integration risk, and vendor dependency. Any improvement below 30% is considered incremental — not enough to overcome organisational inertia and the friction of adopting new technology.
+
+The number did not appear from nowhere. It emerged from two decades of enterprise software procurement data showing that buyers consi
+
+---

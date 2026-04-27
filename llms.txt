@@ -85,5 +85,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [What Is a Patent Moat? The 3-Layer IP Defense That Billion-Dollar Companies Use to Block Competitors](https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-moat) — /blog/md/what-is-a-patent-moat.md
 - [Can You Patent an Algorithm in 2026? Yes, But Only If You Structure the Claim This Way](https://beyondelevation.com/blog/post.html?slug=can-you-patent-an-algorithm) — /blog/md/can-you-patent-an-algorithm.md
 - [The 4 Types of Patents — and the One Type That Covers 94% of Startup Innovations](https://beyondelevation.com/blog/post.html?slug=4-types-of-patents) — /blog/md/4-types-of-patents.md
+- [The 30% Rule in AI: The Pricing Heuristic Every Investor Whispers But Nobody Writes Down](https://beyondelevation.com/blog/post.html?slug=30-percent-rule-ai-valuation) — /blog/md/30-percent-rule-ai-valuation.md
 
 > Full blog content available at /llms-full.txt
