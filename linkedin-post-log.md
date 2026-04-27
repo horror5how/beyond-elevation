@@ -36,3 +36,4 @@
 2026-04-27 12:54 | urn:li:share:7454513310688817152 | AI startups trade at 30x revenue. SaaS averages 6x.  The difference is not the p
 2026-04-27 15:06 | urn:li:share:7454546569812664320 | post #4 | churchill-downs-85m-preakness-ip-comps | Four IP comps from this week alone:  1. Churchill Downs: $85M for Preakness Stak
 2026-04-27 17:52 | QUEUED | ai-moat-playbook-vc-2026 | VCs rejected 94% of AI pitches with no defensibility in Q1 2026.
+2026-04-27 17:59 | urn:li:share:7454590054083108864 | post #5 | deepseek-ai-ip-enforcement-era | The US just accused China's DeepSeek of stealing AI intellectual property.  Pred
