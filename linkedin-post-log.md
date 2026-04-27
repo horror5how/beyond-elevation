@@ -31,3 +31,4 @@
 2026-04-26 17:52 | urn:li:share:7454225806769414144 | The EU AI Act creates 3 IP obligations most founders haven't heard of yet.  If y
 2026-04-27 07:52 | urn:li:share:7454437180627906560 | €580B in financing is locked behind a gate most founders don't know exists.  E
 2026-04-27 09:26 | urn:li:share:7454460876302098432 | post #1 | patent-valuation-3-99b-industry-by-2030 | Patent valuation just got reported as a $3.99B services market by 2030.  Kroll, 
+2026-04-27 11:07 | urn:li:share:7454486328198709249 | post #2 | news-media-alliance-bria-ai-licensing-2200-publishers | The News/Media Alliance just signed Bria AI.  2,200+ US publishers now collect r
