@@ -29,3 +29,4 @@
 2026-04-26 14:04 | urn:li:share:7454168497984823297 | post #3 | software-patent-filings-surge-2028-moats | Software patent filings are up 38% YoY. AI is the reason.  Goldstein IP flagged 
 2026-04-26 17:30 | urn:li:share:7454220436822900736 | post #4 | ip-is-pl-line-not-cost-center | Most founders book IP under "Legal."  Qualcomm books it under "Revenue."  $7.2B 
 2026-04-26 17:52 | urn:li:share:7454225806769414144 | The EU AI Act creates 3 IP obligations most founders haven't heard of yet.  If y
+2026-04-27 07:52 | urn:li:share:7454437180627906560 | €580B in financing is locked behind a gate most founders don't know exists.  E
