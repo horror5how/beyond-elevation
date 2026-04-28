@@ -38,3 +38,4 @@
 2026-04-27 17:52 | QUEUED | ai-moat-playbook-vc-2026 | VCs rejected 94% of AI pitches with no defensibility in Q1 2026.
 2026-04-27 17:59 | urn:li:share:7454590054083108864 | post #5 | deepseek-ai-ip-enforcement-era | The US just accused China's DeepSeek of stealing AI intellectual property.  Pred
 2026-04-28 07:53 | QUEUED | isle-of-man-data-asset-foundation | Isle of Man just created the world's first law that registers datasets as balanc
+2026-04-28 09:30 | urn:li:share:7454824373330284545 | post #1 | doe-public-ip-database-17-labs | The US Department of Energy unveiled a public IP database from its 17 national l
