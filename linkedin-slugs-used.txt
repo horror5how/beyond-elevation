@@ -34,3 +34,4 @@ ai-moat-playbook-vc-2026
 deepseek-ai-ip-enforcement-era
 isle-of-man-data-asset-foundation
 doe-public-ip-database-17-labs
+ip-ownership-65-percent-sme-value-uplift

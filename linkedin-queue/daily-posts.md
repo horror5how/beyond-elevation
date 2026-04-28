@@ -3,7 +3,7 @@ date: 2026-04-28
 theme: World IP Day 2026 — the data proves IP is a 65% valuation lever, a 10x revenue multiple, a 10-year prison sentence, and a multi-billion sports licensing engine — not legal overhead.
 generated_at: 2026-04-28T04:00:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -50,7 +50,9 @@ Public-sector IP gets monetised at a 25x multiple. Private founders still book i
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-04-28T11:07:32.060Z
+share_urn: urn:li:share:7454848772431572992
 hook_format: number-led
 cta_goal: follows
 slug: ip-ownership-65-percent-sme-value-uplift
