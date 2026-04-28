@@ -44,3 +44,4 @@
 2026-04-28 12:50 | QUEUED | how-ai-startups-valued-4-factors | Two AI companies. Same revenue. One raised at 8x. The other at 80x.  The differe
 2026-04-28 12:51 | urn:li:share:7454874977293709312 | Two AI companies. Same revenue. One raised at 8x. The other at 80x.  The differe
 2026-04-28 15:26 | urn:li:share:7454913912254263297 | post #4 | tsmc-ip-theft-10-year-sentence-trade-secrets | A Taiwan court sentenced TSMC IP-theft offenders up to 10 years in prison this w
+2026-04-28 17:31 | urn:li:share:7454945395559968768 | post #5 | world-ip-day-2026-four-datapoints | 4 datapoints from World IP Day 2026:  1. China's Supreme Procuratorate released 
