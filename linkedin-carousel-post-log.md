@@ -1,3 +1,4 @@
 2026-04-28 10:10 | FAIL | carousel #1 | createPost 422: {"message":"ERROR :: /content/document :: unrecognized field found but not allowed\nERROR :: /content :: \"document\" is not a member type of union","status":422}
 2026-04-28 11:42 | FAIL | carousel #1 | createPost 422: {"message":"ERROR :: /content/document :: unrecognized field found but not allowed\nERROR :: /content :: \"document\" is not a member type of union","status":422}
 2026-04-28 17:46 | FAIL | carousel #1 | createPost 422: {"message":"ERROR :: /content/document :: unrecognized field found but not allowed\nERROR :: /content :: \"document\" is not a member type of union","status":422}
+2026-04-28 20:11 | FAIL | carousel #1 | createPost 422: {"message":"ERROR :: /content/document :: unrecognized field found but not allowed\nERROR :: /content :: \"document\" is not a member type of union","status":422}
