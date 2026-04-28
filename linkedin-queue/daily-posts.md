@@ -1,188 +1,25 @@
 ---
-date: 2026-04-27
-theme: The week IP went institutional — $105M raised by AI-for-IP startups, Churchill Downs paying $85M for Preakness rights, DOE opening a public IP marketplace, US accusing DeepSeek of AI IP theft, and the $3.99B patent valuation industry going public.
-generated_at: 2026-04-27T04:00:00.000Z
+date: 2026-04-28
+theme: World IP Day 2026 — the data proves IP is a 65% valuation lever, a 10x revenue multiple, a 10-year prison sentence, and a multi-billion sports licensing engine — not legal overhead.
+generated_at: 2026-04-28T04:00:00.000Z
 posts_total: 6
-posts_published: 5
+posts_published: 0
 ---
 
 # Daily theme
-The week IP went institutional. AI-for-IP startups raised $105M in Q2 2026 alone (Solve Intelligence $40M, Patlytics $40M, DeepIP $25M). Churchill Downs paid $85M for Preakness Stakes IP rights. The US Department of Energy opened a public IP marketplace from 17 national labs. The US accused China's DeepSeek of AI IP theft. Combined with yesterday's pending carryover — the $3.99B patent valuation industry and 2,200 publishers booking AI licensing ARR — every public datapoint says the same thing: IP is being priced, traded, enforced, and bought as an asset class in 2026. The gap between founders who treat it that way and founders who still expense it as legal overhead is now measurable in 25x exit multiples.
+World IP Day 2026 hit yesterday and the numbers landed hard. EUIPO confirmed SMEs that own at least one IP asset trade at a 65% premium. Solve Intelligence raised a $40M Series B on the back of 10x revenue growth selling AI patent tooling. A Taiwan court handed down 10-year sentences in the TSMC trade-secret case. Churchill Downs closed the $85M Preakness IP deal. The DOE opened a public IP marketplace across 17 national labs. Every datapoint says the same thing: IP is being valued, traded, prosecuted, and acquired at multiples that look nothing like the legal-overhead model founders still default to. The gap between founders who treat IP as a balance-sheet asset and founders who don't is now measurable in 25x exit multiples.
 
 # Topic shortlist (research notes — not posted)
-1. (carryover) Patent Valuation Service Industry to $3.99B by 2030 (Kroll, Stout Risius Ross, FTI, CRA, Metis named) — IP priced as asset class — $3.99B market
-2. (carryover) News/Media Alliance + Bria AI licensing for 2,200+ publishers — recurring RAG revenue — $5M-$60M deals, 80%+ GM
-3. AI-for-IP startups raised $105M in Q2 2026 (DeepIP $25M, Solve Intelligence $40M, Patlytics $40M) — picks-and-shovels for IP ops — Series B at 10x revenue
-4. Churchill Downs acquires Preakness Stakes IP for $85M (Reuters, LA Times) — IP M&A is now a real comp set — $85M single-asset deal
-5. US accuses China's DeepSeek of stealing AI intellectual property — enforcement era starts — $7.2B Qualcomm precedent
-6. DOE unveils public database of IP from 17 national labs — public-sector IP listing as asset class — $40B+ annual federal R&D
+1. (carryover) DOE public IP database from 17 national labs — public-sector IP listing as asset class — $40B+ annual federal R&D
+2. EUIPO: IP ownership boosts SME business value by 65% — founder valuation lever — 27M EU SMEs exposed
+3. Solve Intelligence raises $40M Series B at 10x revenue (20VC, Visionaries) — picks-and-shovels for IP ops — $55M total funding
+4. TSMC trade-secret offenders sentenced up to 10 years (Taiwan) — trade-secret enforcement era — $7.2B Qualcomm precedent
+5. World IP Day 2026 + China Supreme Procuratorate 2025 IP prosecution white paper — global enforcement scale — 4 datapoints
+6. Churchill Downs $85M Preakness deal + Hawk-Eye expansion to 14 pro sports — sports IP licensing TAM — $2.5B by 2028
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-04-27T09:26:10.343Z
-share_urn: urn:li:share:7454460876302098432
-hook_format: contrarian
-cta_goal: follows
-slug: patent-valuation-3-99b-industry-by-2030
-keyword: patent valuation industry
-numbers_check: $3.99B, 5, 10-25x
-image_direction: Auction gavel hitting a stack of patents priced like art lots, vault background
-headline: Patent valuation is now<br>a $3.99B industry.
-metric_1: $3.99B
-label_1: VALUATION MARKET<br>BY 2030
-metric_2: 5
-label_2: GLOBAL FIRMS<br>PRICING IT
-metric_3: 10-25x
-label_3: IP EXIT<br>MULTIPLE RANGE
-
-Patent valuation just got reported as a $3.99B services market by 2030.
-
-Kroll, Stout Risius Ross, FTI Consulting, CRA International, and Metis Partners are the five firms running it.
-
-Read that again. Five global advisory shops are paid to put a price on the asset most founders still book as "legal overhead."
-
-If a $3.99B industry exists to value your patents and you have never asked what yours are worth, you are a public company with no balance sheet.
-
-The market repriced IP. Founders did not get the memo.
-
-#PatentValuation #IPStrategy #FounderEconomics
-
----
-
-## Post 2
-status: published
-published_at: 2026-04-27T11:07:18.627Z
-share_urn: urn:li:share:7454486328198709249
-hook_format: number-led
-cta_goal: clicks
-slug: news-media-alliance-bria-ai-licensing-2200-publishers
-keyword: AI licensing recurring revenue
-numbers_check: 2,200, $5-60M, 80%
-image_direction: Newspaper archives flowing into a recurring revenue dashboard, BEIP vault palette
-headline: 2,200 publishers just<br>turned archives into ARR.
-metric_1: 2,200+
-label_1: PUBLISHERS<br>NOW LICENSED
-metric_2: $5-60M
-label_2: TYPICAL ANNUAL<br>LICENSING DEAL
-metric_3: 80%+
-label_3: GROSS MARGIN<br>ON IP RENT
-
-The News/Media Alliance just signed Bria AI.
-
-2,200+ US publishers now collect recurring RAG licensing revenue on archives they already wrote.
-
-NYT, Reuters, AP, FT, and WSJ are reportedly already locked in at $5M-$60M per year, per outlet.
-
-This is not a content deal. It is recurring high-margin ARR — 80%+ gross margin — booked on yesterday's IP.
-
-If your company holds proprietary data, code, or models and you are not licensing them in 2026, you are letting OpenAI, Anthropic, and Google rent your asset for free.
-
-#AILicensing #IPMonetization #DataAsAsset
-
----
-
-## Post 3
-status: published
-published_at: 2026-04-27T12:19:58.636Z
-share_urn: urn:li:share:7454504615917699072
-hook_format: story
-cta_goal: dms
-slug: ai-for-ip-startups-raised-105m-q2-2026
-keyword: AI patent startups Series B
-numbers_check: $105M, $40M, $25M, 10x
-image_direction: Three Series B rounds stacked on a patent filing cabinet, BEIP vault palette
-headline: AI-for-IP startups raised<br>$105M in 90 days.
-metric_1: $105M
-label_1: SERIES B<br>RAISED Q2 2026
-metric_2: $40M
-label_2: SOLVE INTELLIGENCE<br>ROUND
-metric_3: 10x
-label_3: ANNUAL<br>REVENUE GROWTH
-
-DeepIP closed a $25M Series B last week.
-
-Solve Intelligence closed $40M after a 10x revenue jump. Patlytics closed $40M the same month.
-
-That is $105M of venture capital pumped into one thesis in 90 days: managing IP is the next vertical SaaS category.
-
-The smartest investors on the planet just priced the picks-and-shovels for IP at over $1B in aggregate.
-
-If VCs are funding the tools, the asset being mined is the moat. Founders still expensing IP as legal cost are short the trade.
-
-DM "STACK" for the four-tool IP ops stack.
-
-#IPStrategy #VerticalSaaS #AIPatents
-
----
-
-## Post 4
-status: published
-published_at: 2026-04-27T15:06:41.233Z
-share_urn: urn:li:share:7454546569812664320
-hook_format: listicle
-cta_goal: clicks
-slug: churchill-downs-85m-preakness-ip-comps
-keyword: IP mergers acquisitions multiples
-numbers_check: $85M, $7.2B, $1.2B, $539M, 25x
-image_direction: M&A comparable spreadsheet with IP deals highlighted, vault aesthetic
-headline: Churchill Downs paid<br>$85M for one race's IP.
-metric_1: $85M
-label_1: PREAKNESS IP<br>ACQUISITION
-metric_2: $7.2B
-label_2: QUALCOMM<br>LICENSING ARR
-metric_3: 25x
-label_3: IP-BACKED<br>EXIT MULTIPLE
-
-Four IP comps from this week alone:
-
-1. Churchill Downs: $85M for Preakness Stakes IP rights
-2. Qualcomm: $7.2B annual licensing ARR at 60%+ gross margin
-3. IBM: $1.2B annual IP income on a 60%+ margin line
-4. Apple v. Samsung: $539M cleared on rounded-corner design patents
-
-Pattern: IP gets bought, licensed, and litigated like real estate.
-
-If your company exits at a 10-25x IP multiple and you have not separated IP-backed revenue from operating revenue on the cap table, you are leaving 30-40% of enterprise value on the table.
-
-#IPStrategy #FounderEconomics #ExitMultiples
-
----
-
-## Post 5
-status: published
-published_at: 2026-04-27T17:59:28.822Z
-share_urn: urn:li:share:7454590054083108864
-hook_format: prediction
-cta_goal: follows
-slug: deepseek-ai-ip-enforcement-era
-keyword: AI patent enforcement
-numbers_check: 50+, 18, $7.2B, $539M
-image_direction: Map of US-China AI IP enforcement actions with rising trendline
-headline: US v. DeepSeek<br>opens the AI IP era.
-metric_1: 50+
-label_1: AI IP ACTIONS<br>NEXT 18 MONTHS
-metric_2: $7.2B
-label_2: QUALCOMM<br>LICENSING ARR
-metric_3: $539M
-label_3: APPLE-SAMSUNG<br>VERDICT
-
-The US just accused China's DeepSeek of stealing AI intellectual property.
-
-Prediction: this is the first of 50+ AI IP enforcement actions in the next 18 months.
-
-The math is too obvious to ignore. Qualcomm books $7.2B a year on patent licensing at 60%+ gross margin. Apple won $539M from Samsung on design patents. Every government with a tech sector is now mobilising IP enforcement.
-
-Founders shipping models, fine-tunes, and agents with zero filed claims by Q4 2026 are exporting their balance sheet for free.
-
-The filing window is closing faster than the funding window.
-
-#AIPatents #IPEnforcement #FounderMoats
-
----
-
-## Post 6
 status: pending
 hook_format: frame-break
 cta_goal: clicks
@@ -207,3 +44,159 @@ For comparison: Stanford booked $1.6B on the Cohen-Boyer patent alone. MIT's tec
 Public-sector IP gets monetised at a 25x multiple. Private founders still book it as a legal expense and exit at 0x.
 
 #IPStrategy #TechTransfer #FounderMoats
+
+---
+
+## Post 2
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: ip-ownership-65-percent-sme-value-uplift
+keyword: SME IP valuation
+numbers_check: 65%, 27M, 25x, 8-12%
+image_direction: Bar chart climbing 65% with IP filings stacking into a balance sheet column
+headline: IP ownership lifts<br>SME value by 65%.
+metric_1: 65%
+label_1: SME VALUE<br>UPLIFT
+metric_2: 27M
+label_2: EU SMES<br>NO IP FILED
+metric_3: 25x
+label_3: EXIT MULTIPLE<br>UPSIDE
+
+EUIPO data published this week: SMEs that own at least one IP asset trade at 65% higher business value than those that don't.
+
+27 million EU SMEs have zero IP filings. That's 27 million businesses giving away their balance sheet at 0x.
+
+Patents pull a 25x exit multiple in tech M&A. Trademarks lift gross margin by 8-12%. Design rights protect ASP under price pressure.
+
+Founders treating IP as a $5K legal line item are leaving 8-figure valuation on the table.
+
+Audit your filings before you raise.
+
+#IPStrategy #SMEGrowth #FounderEconomics
+
+---
+
+## Post 3
+status: pending
+hook_format: story
+cta_goal: clicks
+slug: solve-intelligence-10x-revenue-series-b
+keyword: AI patent platform
+numbers_check: 10x, $40M, $55M, 30x
+image_direction: Revenue curve hitting 10x growth with AI patent workflow overlay
+headline: 10x revenue.<br>$40M Series B.
+metric_1: 10x
+label_1: ARR GROWTH<br>12 MONTHS
+metric_2: $55M
+label_2: TOTAL FUNDING<br>RAISED
+metric_3: 30x
+label_3: LEGAL-TECH<br>EXIT MULTIPLE
+
+Solve Intelligence just raised a $40M Series B from 20VC and Visionaries.
+
+The trigger? 10x ARR growth in 12 months selling AI patent drafting to law firms. They just shipped a litigation claim-charting product on top.
+
+Total funding is now $55M. Y Combinator backed. Legal-tech is exiting at 30x ARR — that's the new picks-and-shovels category for the IP economy.
+
+The gold isn't filing patents anymore. It's building the workflow that drafts them 10x faster.
+
+If you're a SaaS founder ignoring legal-tech as a vertical, you're missing the next vertical AI wave.
+
+#LegalTech #AIPatents #SeriesB
+
+---
+
+## Post 4
+status: pending
+hook_format: contrarian
+cta_goal: dms
+slug: tsmc-ip-theft-10-year-sentence-trade-secrets
+keyword: trade secret enforcement
+numbers_check: 10 years, $7.2B, $533M, 5
+image_direction: Court gavel against silicon wafer, dark enforcement palette
+headline: 10 years prison<br>for stealing chip IP.
+metric_1: 10 yrs
+label_1: PRISON<br>SENTENCE
+metric_2: $7.2B
+label_2: QUALCOMM<br>SETTLEMENT
+metric_3: 5
+label_3: ENGINEERS<br>CONVICTED
+
+A Taiwan court sentenced TSMC IP-theft offenders up to 10 years in prison this week.
+
+For scale: Apple paid Qualcomm $7.2B to settle a patent dispute. Samsung paid Apple $533M. Five engineers in this case were convicted of leaking sub-28nm process know-how.
+
+Trade-secret enforcement is now the highest-margin legal product on earth. It moves chip equities, kills careers, freezes M&A pipelines.
+
+Founders treating their core process as "just the tech we built" are one disgruntled employee away from a 9-figure liability.
+
+DM me if you don't have a trade-secret policy. You need one before your next hire.
+
+#TradeSecrets #IPLitigation #CTOMoat
+
+---
+
+## Post 5
+status: pending
+hook_format: listicle
+cta_goal: follows
+slug: world-ip-day-2026-four-datapoints
+keyword: World IP Day 2026
+numbers_check: 4, 65%, 17, $3.99B, $40B+
+image_direction: Globe with 4 IP datapoints lit as nodes, BEIP gold accent
+headline: 4 datapoints from<br>World IP Day 2026.
+metric_1: $3.99B
+label_1: VALUATION<br>INDUSTRY 2030
+metric_2: 65%
+label_2: SME VALUE<br>UPLIFT
+metric_3: $40B+
+label_3: US R&D NOW<br>TRADABLE
+
+4 datapoints from World IP Day 2026:
+
+1. China's Supreme Procuratorate released its 2025 IP white paper — record criminal IP prosecutions, up year on year.
+
+2. EUIPO: SMEs with at least one IP filing trade at a 65% premium valuation.
+
+3. US DOE opened a public IP database from 17 national labs — $40B+ annual federal R&D made tradable.
+
+4. The patent valuation industry hits $3.99B by 2030.
+
+Every major economy is treating IP as a tradable, enforceable, valuable asset class. Founders still can't.
+
+Fix that by Q3.
+
+#WorldIPDay #IPStrategy #FounderEconomics
+
+---
+
+## Post 6
+status: pending
+hook_format: prediction
+cta_goal: dms
+slug: sports-ip-licensing-2-5b-market-2028
+keyword: sports IP licensing
+numbers_check: $2.5B, $85M, 14, 30x
+image_direction: Hawk-Eye camera rig over stadium with revenue uplift curve overlay
+headline: Sports IP just became<br>a $2.5B market.
+metric_1: $85M
+label_1: PREAKNESS<br>IP DEAL
+metric_2: $2.5B
+label_2: SPORTS-TECH<br>LICENSING TAM
+metric_3: 14
+label_3: HAWK-EYE<br>SPORTS DEPLOYED
+
+Prediction: sports-tech IP licensing crosses $2.5B annual revenue by 2028.
+
+Last week Churchill Downs paid $85M cash for the Preakness Stakes IP — single-asset deal.
+
+Hawk-Eye is now licensed to 14 pro sports including baseball this season. The IP stack — patents, trade secrets, broadcast data feeds — is the new line item on stadium P&Ls.
+
+Same playbook as music sync licensing: own the protocol, extract a margin every time it runs.
+
+Founders building sports-tech: file the patents now. The acquirer pays 30x ARR for the license book, not the SaaS revenue.
+
+DM if you want the filing checklist.
+
+#SportsTech #IPLicensing #FounderStrategy
