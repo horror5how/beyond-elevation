@@ -1,13 +1,17 @@
-Isle of Man just created the world's first law that registers datasets as balance-sheet assets.
+Two AI companies. Same revenue. One raised at 8x. The other at 80x.
 
-Your data has no collateral value until it is legally registered.
+The difference isn't the product. It's 4 factors investors actually price:
 
-The Data Asset Foundation: a legal entity where a dataset IS the registered property.
+IP defensibility. Patents, trade secrets, model weights. The moat, not the model.
 
-Companies with IP properly on the balance sheet raise at 2.3x better terms.
+Data exclusivity. Proprietary training data commands a premium. Scraped data is priced like a commodity.
 
-EUIPO: €580B in IP-backed financing sits unlocked because founders don't record assets correctly.
+Revenue quality. ARR with 130%+ NRR trades at 2x the multiple of churn-heavy contracts.
 
-Register the asset. Unlock the capital.
+Talent lock-in. Key-person dependency without IP assignment kills valuation in due diligence.
 
-#IPStrategy #DataMonetisation #CapitalStrategy
+Most founders pitch features. Investors price moat architecture.
+
+Fix the 4 factors before the roadshow.
+
+#IPStrategy #AIStartups #StartupValuation

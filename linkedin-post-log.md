@@ -41,3 +41,4 @@
 2026-04-28 09:30 | urn:li:share:7454824373330284545 | post #1 | doe-public-ip-database-17-labs | The US Department of Energy unveiled a public IP database from its 17 national l
 2026-04-28 11:07 | urn:li:share:7454848772431572992 | post #2 | ip-ownership-65-percent-sme-value-uplift | EUIPO data published this week: SMEs that own at least one IP asset trade at 65%
 2026-04-28 12:23 | urn:li:share:7454867894078705664 | post #3 | solve-intelligence-10x-revenue-series-b | Solve Intelligence just raised a $40M Series B from 20VC and Visionaries.  The t
+2026-04-28 12:50 | QUEUED | how-ai-startups-valued-4-factors | Two AI companies. Same revenue. One raised at 8x. The other at 80x.  The differe
