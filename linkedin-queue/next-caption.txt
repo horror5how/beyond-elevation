@@ -1,19 +1,13 @@
-VCs rejected 94% of AI pitches with no defensibility in Q1 2026.
+Isle of Man just created the world's first law that registers datasets as balance-sheet assets.
 
-Not because the product was bad.
+Your data has no collateral value until it is legally registered.
 
-Because GPT wrappers have no moat.
+The Data Asset Foundation: a legal entity where a dataset IS the registered property.
 
-The 3 layers that pass the 2026 VC bar:
+Companies with IP properly on the balance sheet raise at 2.3x better terms.
 
-1. Proprietary training data — you own it, they can't replicate it.
+EUIPO: €580B in IP-backed financing sits unlocked because founders don't record assets correctly.
 
-2. Patent coverage on model architecture or workflow integration.
+Register the asset. Unlock the capital.
 
-3. Workflow lock-in — switching costs that make migration a 6-month project.
-
-IP-protected AI companies raise at 10.2x the rate of model-only plays.
-
-The product is table stakes. The IP is the business.
-
-#IPStrategy #AIStrategy #VentureCapital
+#IPStrategy #DataMonetisation #CapitalStrategy
