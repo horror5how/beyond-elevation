@@ -1,0 +1,22 @@
+2026-04-28 17:24 | li-auto-post | render OK | post #1 | layout=b accent=#a87c7c hash=0000ffffe791ffe7 minDist=64 attempts=1
+2026-04-28 17:24 | li-auto-post | DRY_RUN OK | post #1 | hash=0000ffffe791ffe7 layout=b accent=#a87c7c
+2026-04-28 17:25 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 8) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=3 < 8) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 3 | TOO SIMILAR (dist=0 < 8) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 4 | TOO SIMILAR (dist=6 < 8) | trying different variant
+2026-04-28 17:25 | li-auto-post | render FAIL | post #1 | exhausted 4 variants | lastDist=6
+2026-04-28 17:25 | li-auto-post | render OK | post #1 | layout=b accent=#a87c7c hash=0010ffffe7ffff00 minDist=64 attempts=1
+2026-04-28 17:25 | li-auto-post | DRY_RUN OK | post #1 | hash=0010ffffe7ffff00 layout=b accent=#a87c7c
+2026-04-28 17:25 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 3 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:26 | li-auto-post | render OK | post #1 | layout=a accent=#7a8c6e hash=00ffffffff23a1a0 minDist=21 attempts=4
+2026-04-28 17:26 | li-auto-post | DRY_RUN OK | post #1 | hash=00ffffffff23a1a0 layout=a accent=#7a8c6e
+2026-04-28 17:26 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:26 | li-auto-post | render OK | post #1 | layout=c accent=#d7b086 hash=ffffe000ffe2ffff minDist=42 attempts=2
+2026-04-28 17:26 | li-auto-post | DRY_RUN OK | post #1 | hash=ffffe000ffe2ffff layout=c accent=#d7b086
+2026-04-28 17:27 | li-auto-post | render OK | post #1 | layout=b accent=#a87c7c hash=42c3e7ffc3c3ff99 minDist=64 attempts=1
+2026-04-28 17:27 | li-auto-post | DRY_RUN OK | post #1 | hash=42c3e7ffc3c3ff99 layout=b accent=#a87c7c
+2026-04-28 17:27 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:27 | li-auto-post | render OK | post #1 | layout=c accent=#d7b086 hash=fff9110113f0ffff minDist=34 attempts=2
+2026-04-28 17:27 | li-auto-post | DRY_RUN OK | post #1 | hash=fff9110113f0ffff layout=c accent=#d7b086

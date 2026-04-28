@@ -32,10 +32,11 @@ jobs:
         run: node scripts/li-generate-queue.mjs
 
       - name: Commit queue file
+        if: always()
         run: |
           git config user.email 'agent@beyondelevation.com'
           git config user.name 'BE LinkedIn Agent'
-          git add linkedin-queue/daily-posts.md
+          git add linkedin-queue/daily-posts.md linkedin-pipeline-log.md || true
           git diff --cached --quiet && { echo 'Queue unchanged — nothing to commit'; exit 0; }
           git commit -m "LinkedIn: generated daily queue $(date -u '+%Y-%m-%d')"
           for i in 1 2 3 4; do
