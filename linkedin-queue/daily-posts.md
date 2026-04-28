@@ -3,7 +3,7 @@ date: 2026-04-28
 theme: World IP Day 2026 — the data proves IP is a 65% valuation lever, a 10x revenue multiple, a 10-year prison sentence, and a multi-billion sports licensing engine — not legal overhead.
 generated_at: 2026-04-28T04:00:00.000Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -182,7 +182,9 @@ Fix that by Q3.
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-04-28T18:12:37.192Z
+share_urn: urn:li:share:7454955749031489536
 hook_format: prediction
 cta_goal: dms
 slug: sports-ip-licensing-2-5b-market-2028
