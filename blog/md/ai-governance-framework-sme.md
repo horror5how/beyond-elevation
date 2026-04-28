@@ -65,6 +65,20 @@ Hayat Amin reminds founders that compliance is the floor, not the ceiling. The r
 
 **The bottom line:** AI governance for SMEs is not about importing enterprise process. It is about building the thinnest viable layer of documentation and controls that protects your IP, satisfies regulators, and gives investors confidence — without slowing down the engineering team that is your actual competitive advantage. [Book a governance and IP audit with Beyond Elevation](https://beyondelevation.com) to deploy the 5-Layer Stack before August 2026.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-governance-framework-sme)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the best AI governance framework for small businesses?

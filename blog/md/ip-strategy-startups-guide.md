@@ -50,4 +50,17 @@ Another critical mistake is failing to separate founder IP from company IP. If a
 At Beyond Elevation, we work with founders to build comprehensive IP strategies that align with business objectives. A well-executed IP strategy for startups is not about spending heavily on legal fees — it is about making strategic decisions that maximize the value and defensibility of what you are building. The founders who win are not always the ones with the best technology. They are the ones who protect their technology the best. Start building your IP strategy today.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-strategy-startups-guide)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

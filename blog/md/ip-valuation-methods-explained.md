@@ -54,4 +54,17 @@ The most frequent errors in IP valuation include confusing patent prosecution co
 At Beyond Elevation, we guide companies through IP valuation using methods calibrated to their specific situation, purpose, and industry context — whether they are preparing for a licensing campaign, fundraising round, or strategic exit. Understanding IP valuation methods is the first step toward capturing the full value of what you have built.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-valuation-methods-explained)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -60,4 +60,17 @@ The trade secrets vs patents decision requires honest analysis of each innovatio
 At Beyond Elevation, we help founders and IP owners build strategies that assign the right protection mechanism to each innovation, creating portfolios that are both defensible and commercially valuable. Whether you are preparing for a fundraising round, approaching an acquisition conversation, or simply building a more durable competitive position, the trade secrets vs patents decision is one of the most important strategic choices in your IP program — and the one most worth getting right from the beginning.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-trade-secrets-vs-patents-strategy-guide)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

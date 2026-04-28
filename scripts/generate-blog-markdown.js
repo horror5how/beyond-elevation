@@ -22,6 +22,41 @@ const LLMS_FILE = path.join(BASE, 'llms.txt');
 const LLMS_FULL_FILE = path.join(BASE, 'llms-full.txt');
 const SITEMAP_FILE = path.join(BASE, 'sitemap.xml');
 
+// End-of-post conversion CTA in markdown form. Inserted between body and FAQ
+// (when present), otherwise appended. Mirrors the HTML CTA in
+// scripts/build-static-posts.js so /blog/md/<slug>.md and llms-full.txt also
+// surface the conversion path. ?ref=blog-<slug> attributes Motion bookings.
+function renderPostCTAMarkdown(slug) {
+  const ref = encodeURIComponent(slug || '');
+  return `
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-${ref})
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+`;
+}
+
+function injectCTAMarkdown(bodyMd, slug) {
+  if (!bodyMd) return bodyMd;
+  if (/Book the diagnostic/.test(bodyMd)) return bodyMd;
+  const cta = renderPostCTAMarkdown(slug);
+  const faqRegex = /(^|\n)##\s+(?:FAQ|Frequently\s+Asked)\b[^\n]*/i;
+  const m = bodyMd.match(faqRegex);
+  if (m && typeof m.index === 'number') {
+    const splitAt = m.index + (m[1] ? m[1].length : 0);
+    return bodyMd.slice(0, splitAt) + cta + '\n' + bodyMd.slice(splitAt);
+  }
+  return bodyMd + cta;
+}
+
 function htmlToMarkdown(html) {
   if (!html) return '';
   let md = html;
@@ -69,7 +104,7 @@ function main() {
   let blogFullContent = '';
 
   for (const post of approvedPosts) {
-    const bodyMd = htmlToMarkdown(post.body || '');
+    const bodyMd = injectCTAMarkdown(htmlToMarkdown(post.body || ''), post.slug);
     const date = post.publishDate || post.date || '';
 
     const mdContent = `---

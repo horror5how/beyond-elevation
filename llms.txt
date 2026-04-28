@@ -87,9 +87,5 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 4 Types of Patents — and the One Type That Covers 94% of Startup Innovations](https://beyondelevation.com/blog/post.html?slug=4-types-of-patents) — /blog/md/4-types-of-patents.md
 - [The 30% Rule in AI: The Pricing Heuristic Every Investor Whispers But Nobody Writes Down](https://beyondelevation.com/blog/post.html?slug=30-percent-rule-ai-valuation) — /blog/md/30-percent-rule-ai-valuation.md
 - [Yes, AI Is an Asset. Here Is How to Account For It (and Use It to Raise)](https://beyondelevation.com/blog/post.html?slug=can-ai-be-an-asset) — /blog/md/can-ai-be-an-asset.md
-- [The Rule of 40, Decoded: Why Most Tech Founders Fail It (And the 3 Levers That Pass It)](https://beyondelevation.com/blog/post.html?slug=rule-of-40-tech-valuation) — /blog/md/rule-of-40-tech-valuation.md
-- [What an AI Business Is Actually Worth: The 2026 Multiples Cheat Sheet (Seed to Series B)](https://beyondelevation.com/blog/post.html?slug=ai-business-worth-2026-multiples) — /blog/md/ai-business-worth-2026-multiples.md
-- [The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks)](https://beyondelevation.com/blog/post.html?slug=25-percent-rule-ip-valuation) — /blog/md/25-percent-rule-ip-valuation.md
-- [What Is a Good EBITDA for a Tech Company in 2026? The Honest Benchmark Across SaaS, AI, and Hardware](https://beyondelevation.com/blog/post.html?slug=good-ebitda-tech-company-2026) — /blog/md/good-ebitda-tech-company-2026.md
 
 > Full blog content available at /llms-full.txt

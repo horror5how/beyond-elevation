@@ -59,6 +59,20 @@ The companies commanding the highest AI valuations have quantified and documente
 
 Companies with strong intangible asset documentation close funding rounds at 2–4x higher multiples and command 30–60% acquisition premiums over peers with identical revenue and equivalent technology but weaker IP positions. The training data you have already built may be generating zero formal valuation today. That is not a data problem. It is a documentation and strategy problem — and it is entirely solvable. Book a strategy session at beyondelevation.com.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-training-data-valuation)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ: AI Training Data Valuation
 
 ### How do you value AI training data for a Series A or Series B fundraising round?

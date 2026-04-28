@@ -73,6 +73,20 @@ Hayat Amin reminds founders that the exit multiple premium is locked in years be
 
 **Book a pre-seed IP audit at [beyondelevation.com](https://beyondelevation.com)** and run the Pre-Seed IP Filing Sequence before your next investor conversation. The filing windows close whether you are ready or not.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-strategy-pre-revenue-startup)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does IP strategy for pre-revenue startups cost?

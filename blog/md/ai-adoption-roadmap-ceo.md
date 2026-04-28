@@ -85,6 +85,20 @@ The engagement includes: an initial AI readiness and IP audit, the Hayat Amin AI
 
 If you are a CEO evaluating AI transformation and want measurable results before month four — not another pilot that dies in a slide deck — [book an AI adoption strategy session with Beyond Elevation](https://beyondelevation.com).
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-adoption-roadmap-ceo)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the best AI adoption roadmap for CEOs?

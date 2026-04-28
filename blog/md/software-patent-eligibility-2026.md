@@ -89,6 +89,20 @@ This is exactly what Beyond Elevation does. Before a single application is draft
 
 The founders who get this right build IP portfolios that compound in value. The founders who skip it file one broad patent, watch it get rejected under Alice, and conclude that software patents do not work. They work — when the strategy comes before the filing. [Start by understanding what is protectable in your engineering stack](/blog/posts/ai-engineering-ip-what-is-protectable/), then build the filing plan from there.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-software-patent-eligibility-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can you still patent software in 2026?

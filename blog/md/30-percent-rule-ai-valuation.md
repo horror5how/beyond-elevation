@@ -63,6 +63,20 @@ Hayat Amin reminds founders that the 30% rule and IP strategy are not separate w
 
 For the full playbook on building an IP moat around your AI advantage, start with our guide to [what is protectable in your AI stack](/blog/posts/ai-engineering-ip-what-is-protectable/), then book a strategy session at [beyondelevation.com](https://beyondelevation.com).
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-30-percent-rule-ai-valuation)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the 30% rule in AI?

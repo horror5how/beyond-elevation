@@ -99,6 +99,20 @@ Beyond Elevation runs this diagnostic as part of every [agentic AI strategy enga
 
 If your AI compute bill is growing faster than your revenue, the problem is not your infrastructure. The problem is your IP strategy. [Book an AI Cost Stack audit with Beyond Elevation](https://beyondelevation.com) and identify six figures of addressable savings within 30 days.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-cost-optimisation-strategy)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much can AI cost optimisation actually save?

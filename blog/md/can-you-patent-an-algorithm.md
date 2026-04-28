@@ -71,6 +71,20 @@ Founders who skip the algorithm patent lose three things that directly impact th
 
 Beyond Elevation's IP advisory practice exists for exactly this decision point. If you have built an algorithm that drives your product's core value, the question is not whether to protect it — it is whether you protect it before or after a competitor does. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to find out which of your algorithms qualify for patent protection and which claim structure maximises your grant probability.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-can-you-patent-an-algorithm)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can you patent a mathematical formula?

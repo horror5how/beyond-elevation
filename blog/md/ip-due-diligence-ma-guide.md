@@ -56,4 +56,17 @@ The best outcome of a thorough due diligence review is not simply clearing all t
 The IP you have built represents a significant portion of what makes your company worth acquiring. How well it is protected, documented, and transferable determines how much of that value you actually capture at exit. The time to build that foundation is before the process starts — while there is still room to fix what needs fixing and document what needs documenting. That preparation is not just good legal hygiene; it is one of the highest-return investments a founder can make in the twelve months before an exit.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-due-diligence-ma-guide)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

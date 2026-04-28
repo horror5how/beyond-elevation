@@ -52,4 +52,17 @@ Tech company valuations are not just about revenue and growth rates. They reflec
 At Beyond Elevation, we help tech founders build IP strategies that translate directly into valuation premiums. Whether you are preparing for a Series A, scaling toward profitability, or positioning for acquisition, the time to build your IP foundation is before you need it — not during the due diligence process when it is too late to create what should already exist. The premium is real, measurable, and the founders who capture it are the ones who plan for it early and execute consistently.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-tech-company-valuation-ip-premium)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

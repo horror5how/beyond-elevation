@@ -48,4 +48,17 @@ The most compelling evidence comes from M&A data. AI companies acquired with str
 The takeaway for AI founders is clear: your technology is only as valuable as your ability to defend it. AI valuations in 2026 and beyond will increasingly reward companies that treat intellectual property as a core strategic asset, not an afterthought. The time to build that foundation is now — before your next funding round, partnership negotiation, or exit conversation.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-company-valuations-ip-role)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

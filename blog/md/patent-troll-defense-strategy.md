@@ -69,6 +69,20 @@ The strongest patent troll defense strategy is one you build before you need it.
 
 **Structure your [IP entity correctly](/blog/posts/trade-secrets-vs-patents-strategy-guide/).** How you hold IP matters for PAE litigation exposure. Proper entity structuring shields operating company assets from patent litigation while preserving licensing revenue capability. [Beyond Elevation's](https://beyondelevation.com) advisory practice starts with entity structure because it determines everything downstream — from tax efficiency to litigation exposure to exit multiples.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-troll-defense-strategy)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does it cost to defend against a patent troll?

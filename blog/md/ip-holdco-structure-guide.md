@@ -69,6 +69,20 @@ Three mistakes destroy the value of an IP holding company structure, and every o
 
 **Mistake 3: Creating a shell with no substance.** An IP holdco with no employees, no decision-making authority, and no real operations will be disregarded. The entity needs genuine economic substance — real people making real decisions about real assets. This is the difference between a legitimate corporate structure and an expensive legal filing that protects nothing.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-holdco-structure-guide)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does it cost to set up an IP holding company?

@@ -48,4 +48,17 @@ The best patent strategy consulting combines deep technical understanding with s
 At Beyond Elevation, patent strategy consulting is core to what we do. We help founders and CEOs build patent portfolios that serve business objectives — creating defensibility, driving valuations, and unlocking licensing revenue. If you are filing patents without a clear strategic framework, you are very likely spending too much on the wrong things and missing the filings that would create the most value.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-strategy-consulting-what-to-expect)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

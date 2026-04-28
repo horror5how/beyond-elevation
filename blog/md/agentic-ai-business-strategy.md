@@ -73,6 +73,20 @@ The founders who execute this 90-day playbook before their next board meeting ow
 
 **Book a strategy session at [beyondelevation.com](https://beyondelevation.com)** to run the Agentic IP Discovery Framework on your engineering team's work before a competitor files on what you built.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-agentic-ai-business-strategy)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can you patent an AI agent's decision-making process?

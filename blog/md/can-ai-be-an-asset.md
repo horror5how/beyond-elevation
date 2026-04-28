@@ -73,6 +73,20 @@ Start with an AI asset audit. Map every proprietary component in your stack — 
 
 Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to find out what your AI systems are actually worth — and how to make that value visible to investors, acquirers, and lenders.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-can-ai-be-an-asset)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can AI be classified as an intangible asset under IFRS?

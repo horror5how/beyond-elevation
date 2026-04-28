@@ -85,6 +85,20 @@ If your enterprise AI maturity assessment stops at technology, you are answering
 
 **Book an AI readiness assessment with [Beyond Elevation](https://beyondelevation.com) and find out which of the 12 questions your business fails — before your investors do.**
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-readiness-assessment-enterprise)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What does an AI readiness assessment include?

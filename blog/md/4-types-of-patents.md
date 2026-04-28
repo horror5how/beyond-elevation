@@ -71,6 +71,20 @@ The right patent type depends on what you are building, your timeline, and your 
 
 Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to map which of the 4 types of patents fits your innovation stack and build a filing roadmap that maximizes defensibility per dollar spent.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-4-types-of-patents)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What are the 4 types of patents?

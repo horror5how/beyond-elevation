@@ -48,4 +48,17 @@ The biggest barrier to data monetization is not technology or legal complexity �
 At Beyond Elevation, we help companies develop data monetization strategies that align with their business model, protect their competitive position, and generate sustainable revenue. We work across the entire process — from initial data asset assessment through legal structuring, go-to-market strategy, and ongoing optimization. If your company is sitting on valuable data assets that are generating zero external revenue, the question is not whether to monetize — it is how to do it right, and how quickly you can start.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-data-monetization-strategy-framework)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

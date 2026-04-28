@@ -83,6 +83,20 @@ At [Beyond Elevation](https://beyondelevation.com), we run IP audits before foun
 
 If you are making a build vs buy AI decision above £100K, [book an IP strategy consultation](https://beyondelevation.com) before you commit. The cost of getting this wrong is not the budget overrun. It is the IP you never created.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-build-vs-buy-ai-decision)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the biggest risk of buying AI instead of building?

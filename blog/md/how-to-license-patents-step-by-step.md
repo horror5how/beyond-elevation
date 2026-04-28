@@ -64,4 +64,17 @@ Learning how to license patents is valuable knowledge for any patent holder, but
 At Beyond Elevation, we help patent holders develop and execute licensing strategies that generate meaningful, sustainable revenue from their intellectual property. If you are sitting on patents that should be generating income but are not, the path from idle IP to active licensing revenue is more structured and accessible than you might think. The first step is an honest assessment of what you have and what it is worth.
 
 ---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-to-license-patents-step-by-step)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
