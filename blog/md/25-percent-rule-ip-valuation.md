@@ -3,7 +3,7 @@ title: "The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks)"
 slug: 25-percent-rule-ip-valuation
 date: 2026-04-28
 url: https://beyondelevation.com/blog/post.html?slug=25-percent-rule-ip-valuation
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -82,3 +82,6 @@ Start with comparable licensing transactions in your technology area. Map your p
 ### Why was the 25% rule rejected by the courts?
 
 In *Uniloc USA v. Microsoft* (2011), the Federal Circuit ruled that the 25% rule is fundamentally flawed because it does not account for the specific facts of each case — the patent's actual contribution to the product, the competitive landscape, or the deal-specific economics. The court found it was an arbitrary starting point that produced unreliable damages estimates.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

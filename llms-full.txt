@@ -806,3 +806,19 @@ An AI business in 2026 is worth between 8x and 45x annual recurring revenue at t
 The spread widens at Series A and B. AI companies that demonstrate a [patent moat](/blog/posts/what-is-a-patent-moat/), exclusive data rights, or trade-secret-protected training pipelines consistently close rounds at the top of the range. Those rel
 
 ---
+
+## The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks)
+
+URL: https://beyondelevation.com/blog/post.html?slug=25-percent-rule-ip-valuation
+
+The 25% rule in valuing intellectual property is the most cited — and most misunderstood — heuristic in patent licensing. It says the patent holder should receive 25% of the licensee's expected profits from the patented technology. Sounds simple. Sounds reasonable. Hayat Amin argues it is "the most expensive napkin math in IP" — a number that costs founders millions when they treat a rule of thumb as a negotiation strategy.
+
+In 2011, the Federal Circuit killed the 25% rule as admissible litigation evidence. But walk into any VC due diligence meeting, any licensing negotiation, any IP valuation engagement in 2026, and the number still appears on a whiteboard within the first hour. Understanding why it persists — and exactly where it fails — is the difference between pricing your IP correctly and leaving seven figures on the table.
+
+## What Is the 25% Rule in Valuing Intellectual Property?
+
+The 25% rule allocates 25% of the licensee's expected profits from using a patented technology to the patent holder as a reasonable royalty. The remaining 75% stays with the licensee to cover commercialisation costs, manufacturing, distribution, and risk. It was first documented by Robert Goldscheider in the 1950s after analysing hundreds of licensing transactions across industries.
+
+The appeal is obvious. In a negotiation where neither side can precisely quantify the value of a patent, the 25% rule provides a starting anchor backed by empirical data. For decades, it was accepted in US court
+
+---
