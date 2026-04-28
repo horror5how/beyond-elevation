@@ -3,7 +3,7 @@ title: "What an AI Business Is Actually Worth: The 2026 Multiples Cheat Sheet (S
 slug: ai-business-worth-2026-multiples
 date: 2026-04-28
 url: https://beyondelevation.com/blog/post.html?slug=ai-business-worth-2026-multiples
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -94,3 +94,6 @@ Yes. AI businesses with strong IP portfolios — patents, proprietary data, and 
 ### How do investors value an AI company differently from a SaaS company?
 
 Investors apply an IP defensibility premium to AI companies that standard SaaS companies rarely receive. While SaaS valuations focus on ARR growth, churn, and net revenue retention, AI valuations add a fourth dimension: the strength and exclusivity of the underlying technology and data assets. This is why two companies with identical revenue metrics receive different multiples — the AI premium is fundamentally an IP premium.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
