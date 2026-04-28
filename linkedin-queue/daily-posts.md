@@ -3,7 +3,7 @@ date: 2026-04-28
 theme: World IP Day 2026 — the data proves IP is a 65% valuation lever, a 10x revenue multiple, a 10-year prison sentence, and a multi-billion sports licensing engine — not legal overhead.
 generated_at: 2026-04-28T04:00:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -114,7 +114,9 @@ If you're a SaaS founder ignoring legal-tech as a vertical, you're missing the n
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-04-28T15:26:22.539Z
+share_urn: urn:li:share:7454913912254263297
 hook_format: contrarian
 cta_goal: dms
 slug: tsmc-ip-theft-10-year-sentence-trade-secrets

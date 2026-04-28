@@ -43,3 +43,4 @@
 2026-04-28 12:23 | urn:li:share:7454867894078705664 | post #3 | solve-intelligence-10x-revenue-series-b | Solve Intelligence just raised a $40M Series B from 20VC and Visionaries.  The t
 2026-04-28 12:50 | QUEUED | how-ai-startups-valued-4-factors | Two AI companies. Same revenue. One raised at 8x. The other at 80x.  The differe
 2026-04-28 12:51 | urn:li:share:7454874977293709312 | Two AI companies. Same revenue. One raised at 8x. The other at 80x.  The differe
+2026-04-28 15:26 | urn:li:share:7454913912254263297 | post #4 | tsmc-ip-theft-10-year-sentence-trade-secrets | A Taiwan court sentenced TSMC IP-theft offenders up to 10 years in prison this w
