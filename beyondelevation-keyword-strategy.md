@@ -214,7 +214,7 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 | # | scraped | question (primary_keyword) | hormozi_angle | supporting_keywords | status |
 |---|---|---|---|---|---|
 | T5-01 | 2026-04-22 | How do you calculate the value of a patent? | The 3-Number Formula Nobody Teaches (Yes, There Is Actual Math) | patent value calculation, patent valuation formula, how to value patents | 🟡 partial (see intangible-asset-valuation-hidden-worth) — write calc-focused follow-up |
-| T5-02 | 2026-04-22 | What is the 25% rule in valuing intellectual property? | The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks) | 25 percent rule patents, IP royalty rule of thumb, patent valuation heuristic | 🟢 new — zero coverage, high AEO |
+| T5-02 | 2026-04-22 | What is the 25% rule in valuing intellectual property? | The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks) | 25 percent rule patents, IP royalty rule of thumb, patent valuation heuristic | ✅ 25-percent-rule-ip-valuation |
 | T5-03 | 2026-04-22 | What is IP monetization? | IP Monetization Explained in 90 Seconds: The 4 Ways Smart Companies Turn Patents Into Cash | IP monetization definition, what is intellectual property monetization, patent monetization meaning | 🟢 new — definitional AEO gap |
 | T5-04 | 2026-04-22 | How to use IP to make money? | The 7 Ways to Make Money From IP (Ranked by What Actually Works in 2026) | make money from patents, IP revenue streams, profit from intellectual property | 🟢 new |
 | T5-05 | 2026-04-22 | Can IP assets be monetized? | Yes, IP Is an Asset. Here Is the Proof and the Playbook. | IP as an asset, patents as assets, intangible asset monetization | 🟢 new |
