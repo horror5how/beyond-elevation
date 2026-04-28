@@ -785,3 +785,71 @@ AI qualifies as an intangible asset under international and US accounting standa
 Under IAS 38, an internally generated intangible asset is recognised when the company can demonstrate technical feasibility, intention to complete, ability to use or sell, future economic benefits, available resources, and reliable cost measurement. Under US GAAP (ASC 350), similar
 
 ---
+
+## The Rule of 40, Decoded: Why Most Tech Founders Fail It (And the 3 Levers That Pass It)
+
+URL: https://beyondelevation.com/blog/post.html?slug=rule-of-40-tech-valuation
+
+72% of tech companies fail the rule of 40 at Series B. The standard advice is to cut costs. The actual fix is to add a revenue line most founders never consider.
+
+Hayat Amin argues this is the most misunderstood metric in tech: "Founders treat the Rule of 40 as a growth test. It is not. It is a capital-efficiency test — and the founders who understand the difference are the ones who pass it." Companies with patents are 10.2x more likely to secure early-stage funding, and the same defensibility logic that drives that stat is baked into Rule of 40 projections at every stage beyond seed.
+
+## What Is the Rule of 40 in Tech Valuation?
+
+The rule of 40 in tech valuation is a benchmark stating that a healthy technology company's revenue growth rate plus its profit margin should equal or exceed 40%. A company growing revenue at 30% year-over-year with a 10% EBITDA margin scores exactly 40 and passes. A company growing at 50% but burning at negative 20% scores 30 and fails.
+
+Investors use this single composite number to separate companies worth funding from those worth avoiding. The metric was popularised by Brad Feld and has become the default screening tool across venture capital, growth equity, and public SaaS investors. Bessemer Venture Partners, Battery Ventures, and most late-stage funds run a Rule of 40 threshold before engaging in diligence. For AI companies and SaaS businesses approaching Series B and beyond, failing this test means getting filtered out before a partner meetin
+
+---
+
+## What an AI Business Is Actually Worth: The 2026 Multiples Cheat Sheet (Seed to Series B)
+
+URL: https://beyondelevation.com/blog/post.html?slug=ai-business-worth-2026-multiples
+
+AI companies in 2026 trade at anywhere from 6x to 50x revenue. The gap is not random. It is driven by one variable most founders ignore until the term sheet lands: defensible intellectual property.
+
+How much is an AI business worth? The answer depends less on your revenue and more on whether a well-funded competitor can rebuild what you have built in eighteen months. Hayat Amin, who has structured IP-driven valuations from pre-seed to nine-figure exits at [Beyond Elevation](https://beyondelevation.com), puts it bluntly: "Revenue tells an investor what you earned last quarter. IP tells them what you will earn for the next decade. The multiple prices the second number, not the first."
+
+This post is the cheat sheet. Real multiples, by stage, by vertical, by IP strength — the numbers that show up in live deal rooms, not the averages that flatten out the signal.
+
+## How Much Is an AI Business Worth in 2026?
+
+An AI business in 2026 is worth between 8x and 45x annual recurring revenue at the median, depending on stage, vertical, and IP defensibility. Seed-stage AI companies with granted patents or documented proprietary datasets command 15x–25x, while comparable companies with no IP protection settle for 6x–10x — standard SaaS territory.
+
+The spread widens at Series A and B. AI companies that demonstrate a [patent moat](/blog/posts/what-is-a-patent-moat/), exclusive data rights, or trade-secret-protected training pipelines consistently close rounds at the top of the range. Those rel
+
+---
+
+## The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks)
+
+URL: https://beyondelevation.com/blog/post.html?slug=25-percent-rule-ip-valuation
+
+The 25% rule in valuing intellectual property is the most cited — and most misunderstood — heuristic in patent licensing. It says the patent holder should receive 25% of the licensee's expected profits from the patented technology. Sounds simple. Sounds reasonable. Hayat Amin argues it is "the most expensive napkin math in IP" — a number that costs founders millions when they treat a rule of thumb as a negotiation strategy.
+
+In 2011, the Federal Circuit killed the 25% rule as admissible litigation evidence. But walk into any VC due diligence meeting, any licensing negotiation, any IP valuation engagement in 2026, and the number still appears on a whiteboard within the first hour. Understanding why it persists — and exactly where it fails — is the difference between pricing your IP correctly and leaving seven figures on the table.
+
+## What Is the 25% Rule in Valuing Intellectual Property?
+
+The 25% rule allocates 25% of the licensee's expected profits from using a patented technology to the patent holder as a reasonable royalty. The remaining 75% stays with the licensee to cover commercialisation costs, manufacturing, distribution, and risk. It was first documented by Robert Goldscheider in the 1950s after analysing hundreds of licensing transactions across industries.
+
+The appeal is obvious. In a negotiation where neither side can precisely quantify the value of a patent, the 25% rule provides a starting anchor backed by empirical data. For decades, it was accepted in US court
+
+---
+
+## What Is a Good EBITDA for a Tech Company in 2026? The Honest Benchmark Across SaaS, AI, and Hardware
+
+URL: https://beyondelevation.com/blog/post.html?slug=good-ebitda-tech-company-2026
+
+The median SaaS company in 2026 runs a 22% EBITDA margin. The median AI startup runs negative 15%. Both numbers can represent a good EBITDA for a tech company — depending on exactly three factors most founders never benchmark correctly.
+
+Hayat Amin argues that raw EBITDA is the single most misunderstood number on a tech company's P&L. "Founders compare their EBITDA margin to industry averages and panic," Amin says. "But a 5% EBITDA margin in an AI company with $12M in defensible patent assets is a stronger business than a 30% margin SaaS company with zero IP protection." The benchmark that matters is not EBITDA alone — it is EBITDA relative to the intangible asset base underneath it.
+
+This guide breaks down what a good EBITDA for a tech company actually looks like in 2026, sector by sector, stage by stage — and why the number on your income statement tells investors less than you think without the IP context that frames it.
+
+## What Is a Good EBITDA Margin for a SaaS Company?
+
+A good EBITDA margin for a mature SaaS company in 2026 sits between 20% and 35%, with the median at approximately 22%. Early-stage SaaS companies (pre-$10M ARR) typically run negative to breakeven EBITDA as they invest in customer acquisition and product development. Growth-stage SaaS ($10M–$50M ARR) should target 10%–20%. At scale ($50M+ ARR), anything below 20% raises questions about unit economics.
+
+These benchmarks come from public filings and the latest cloud index data. But raw EBITDA margins in S
+
+---

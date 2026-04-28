@@ -77,6 +77,20 @@ These steps cost less than a single senior engineering hire. They add more to yo
 
 Book an IP valuation session at [beyondelevation.com](https://beyondelevation.com) to find out where your AI business sits on the multiples spectrum — and what specific IP moves would push it higher.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-business-worth-2026-multiples)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much is an AI startup worth at the seed stage?

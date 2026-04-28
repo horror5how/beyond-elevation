@@ -61,6 +61,20 @@ Never present it as your methodology. In a licensing negotiation, citing the 25%
 
 Companies with patents are 10.2x more likely to secure early-stage funding, but that funding premium depends on demonstrating that the IP has been valued rigorously — not with a rule of thumb. If you are approaching a fundraising round, a licensing negotiation, or an exit conversation, replace the 25% rule with analysis that reflects your specific technology, market, and deal structure. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to get that analysis right before the number on the whiteboard becomes the number in the contract.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-25-percent-rule-ip-valuation)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the 25% rule in IP valuation?

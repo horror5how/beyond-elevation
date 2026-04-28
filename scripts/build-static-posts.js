@@ -44,6 +44,35 @@ function escapeJsonLd(str = '') {
   return JSON.stringify(String(str));
 }
 
+// End-of-post conversion CTA. Inserted between body and FAQ (when present),
+// otherwise appended after the body. ?ref=blog-<slug> attributes Motion
+// bookings back to the originating blog post for conversion analytics.
+function renderPostCTA(slug) {
+  const ref = encodeURIComponent(slug || '');
+  return `
+<aside class="post-cta">
+  <h3>You just read the framework. Now price your own IP.</h3>
+  <p>Beyond Elevation runs a 60-minute IP &amp; licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.</p>
+  <a class="cta-primary" href="https://usemotion.com/meet/hayat-amin/be?ref=blog-${ref}" target="_blank" rel="noreferrer">Book the diagnostic →</a>
+  <p class="cta-fineprint">14 founders booked this month. Hayat takes 4/week.</p>
+</aside>
+`;
+}
+
+// Inject CTA into the post body just before the FAQ block; if no FAQ, append.
+// Idempotent: skips if a .post-cta is already present in the body.
+function injectCTA(body, slug) {
+  if (!body) return body;
+  if (/class=["']post-cta["']/.test(body)) return body;
+  const cta = renderPostCTA(slug);
+  const faqMatch = body.match(/<h2[^>]*>\s*(?:FAQ|Frequently\s+Asked)\b[^<]*<\/h2>/i);
+  if (faqMatch) {
+    const idx = body.indexOf(faqMatch[0]);
+    return body.slice(0, idx) + cta + body.slice(idx);
+  }
+  return body + cta;
+}
+
 function pageTemplate(post) {
   const canonical = `${SITE}/blog/posts/${post.slug}/`;
   const title = `${post.title} — Beyond Elevation`;
@@ -164,6 +193,13 @@ function pageTemplate(post) {
       .author-copy strong { display:block; font-size:1rem; color:#1a1a1a; }
       .author-copy span { color:#666; font-size: 0.93rem; }
       .post-hero { width: 100%; border-radius: 16px; margin: 24px 0 28px; object-fit: cover; }
+      .post-cta { margin: 48px 0 8px; padding: 28px 28px 24px; border-radius: 16px; background: #FAF7F2; border: 1px solid #ECE6DA; box-shadow: 0 1px 0 rgba(17,17,17,0.02); font-family: 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+      .post-cta h3 { margin: 0 0 12px; font-size: 1.32rem; line-height: 1.25; letter-spacing: -0.018em; color: #111; font-weight: 700; max-width: 28ch; }
+      .post-cta p { margin: 0 0 18px; color: #2a2a2a; line-height: 1.65; font-size: 1rem; }
+      .post-cta .cta-primary { display: inline-flex; align-items: center; gap: 8px; padding: 14px 24px; font-size: 0.95rem; font-weight: 700; letter-spacing: -0.005em; border-radius: 100px; background: #1a1a1a; color: #fff; text-decoration: none; border: 2px solid #1a1a1a; transition: transform 0.2s ease, background 0.2s ease; }
+      .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
+      .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
+      @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
       .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
       .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
       .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
@@ -212,7 +248,7 @@ function pageTemplate(post) {
           ${post.readingTime ? `<span>${escapeHtml(post.readingTime)}</span>` : ''}
         </div>
         <div class="post-body">
-${post.body}
+${injectCTA(post.body, post.slug)}
         </div>
         <div class="share-bar">
           <div class="share-bar-label">Share this article</div>

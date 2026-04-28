@@ -294,7 +294,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-      <url>
+        <url>
     <loc>https://beyondelevation.com/llms.txt</loc>
     <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -530,6 +530,30 @@
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/can-ai-be-an-asset.md</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/rule-of-40-tech-valuation.md</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ai-business-worth-2026-multiples.md</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/25-percent-rule-ip-valuation.md</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/good-ebitda-tech-company-2026.md</loc>
     <lastmod>2026-04-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

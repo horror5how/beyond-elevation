@@ -75,6 +75,20 @@ For AI companies, the bar is shifting. Investors expect higher growth rates from
 
 The Trustpilot 4.5-rated team at Beyond Elevation has seen the same pattern across dozens of advisory engagements: the companies that score above 50 on the Rule of 40 and can show an IP moat raise at 30-50% higher valuations than companies with the same score but no defensibility story. The Rule of 40 gets you into the room. The IP portfolio determines where you sit.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-rule-of-40-tech-valuation)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is a good Rule of 40 score for a SaaS startup?

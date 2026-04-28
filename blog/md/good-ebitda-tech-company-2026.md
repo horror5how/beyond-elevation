@@ -65,6 +65,20 @@ The right benchmark for a tech company is not raw EBITDA margin against a sector
 
 If your EBITDA looks weak on paper but your R&D is producing protectable, licensable IP, you do not have a profitability problem. You have a capture problem. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to run the IP-Adjusted EBITDA Model on your own numbers — and see what your business is actually worth.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-good-ebitda-tech-company-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is a good EBITDA margin for a tech startup?
