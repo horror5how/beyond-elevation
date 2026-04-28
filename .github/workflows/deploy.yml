@@ -4,11 +4,44 @@ on:
     branches: [main]
   workflow_dispatch:
 
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate static blog pages from posts.json
+        run: |
+          node scripts/build-static-posts.js
+          node scripts/build-sitemap.js
+          node scripts/generate-blog-markdown.js
+
+      - name: Commit regenerated files if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add blog/posts blog/index.html sitemap.xml llms.txt llms-full.txt blog/md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+          else
+            git commit -m "chore(publish): regenerate static pages from posts.json"
+            git push origin main
+          fi
+
       - name: Install Vercel CLI
         run: npm install -g vercel
       - name: Pull Vercel Environment
@@ -16,7 +49,7 @@ jobs:
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-      - name: Build (static site — no build step needed)
+      - name: Build
         run: vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
