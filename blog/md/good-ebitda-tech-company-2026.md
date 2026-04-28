@@ -3,7 +3,7 @@ title: "What Is a Good EBITDA for a Tech Company in 2026? The Honest Benchmark A
 slug: good-ebitda-tech-company-2026
 date: 2026-04-28
 url: https://beyondelevation.com/blog/post.html?slug=good-ebitda-tech-company-2026
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -86,3 +86,6 @@ Standard EBITDA adds back interest, taxes, depreciation, and amortisation. Adjus
 ### How can I improve my tech company's EBITDA margin?
 
 The highest-leverage EBITDA improvement for IP-rich tech companies is monetising existing intangible assets. Patent licensing, data licensing, and know-how licensing generate revenue at 70%–90% gross margins with near-zero incremental cost. One licensing programme on dormant patents can improve EBITDA margin by 2–5 percentage points. Beyond Elevation helps tech companies identify, protect, and monetise the IP assets their R&D has already created.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

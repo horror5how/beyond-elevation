@@ -822,3 +822,21 @@ The 25% rule allocates 25% of the licensee's expected profits from using a paten
 The appeal is obvious. In a negotiation where neither side can precisely quantify the value of a patent, the 25% rule provides a starting anchor backed by empirical data. For decades, it was accepted in US court
 
 ---
+
+## What Is a Good EBITDA for a Tech Company in 2026? The Honest Benchmark Across SaaS, AI, and Hardware
+
+URL: https://beyondelevation.com/blog/post.html?slug=good-ebitda-tech-company-2026
+
+The median SaaS company in 2026 runs a 22% EBITDA margin. The median AI startup runs negative 15%. Both numbers can represent a good EBITDA for a tech company — depending on exactly three factors most founders never benchmark correctly.
+
+Hayat Amin argues that raw EBITDA is the single most misunderstood number on a tech company's P&L. "Founders compare their EBITDA margin to industry averages and panic," Amin says. "But a 5% EBITDA margin in an AI company with $12M in defensible patent assets is a stronger business than a 30% margin SaaS company with zero IP protection." The benchmark that matters is not EBITDA alone — it is EBITDA relative to the intangible asset base underneath it.
+
+This guide breaks down what a good EBITDA for a tech company actually looks like in 2026, sector by sector, stage by stage — and why the number on your income statement tells investors less than you think without the IP context that frames it.
+
+## What Is a Good EBITDA Margin for a SaaS Company?
+
+A good EBITDA margin for a mature SaaS company in 2026 sits between 20% and 35%, with the median at approximately 22%. Early-stage SaaS companies (pre-$10M ARR) typically run negative to breakeven EBITDA as they invest in customer acquisition and product development. Growth-stage SaaS ($10M–$50M ARR) should target 10%–20%. At scale ($50M+ ARR), anything below 20% raises questions about unit economics.
+
+These benchmarks come from public filings and the latest cloud index data. But raw EBITDA margins in S
+
+---
