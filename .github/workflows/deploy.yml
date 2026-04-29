@@ -59,3 +59,18 @@ jobs:
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+      - name: Install indexing dependency
+        run: npm install --no-save --silent googleapis@^144
+
+      - name: Notify Google Indexing API + IndexNow
+        run: node scripts/notify-indexing.js
+        continue-on-error: true
+
+      - name: Commit indexing cache
+        run: |
+          git add .indexing-cache.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(indexing): update indexing cache after deploy" || true
+            git push origin main || true
+          fi
