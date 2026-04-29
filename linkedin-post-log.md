@@ -51,3 +51,4 @@
 2026-04-29 09:19 | urn:li:share:7455183865389805568 | post #1 | ai-for-patents-105m-two-weeks | $105M into AI-for-patents tools in 14 days.  DeepIP closed a $25M Series B. Patl
 2026-04-29 10:59 | urn:li:share:7455209049538740224 | post #2 | us-counterfeit-notification-act-cbp-enforcement | The U.S. House just turned IP rights into customs enforcement.  The Counterfeit 
 2026-04-29 12:16 | urn:li:share:7455228509083504640 | post #3 | china-spp-ip-prosecution-white-paper-2025 | Western founders still think China steals IP. The data says the opposite.  China
+2026-04-29 12:51 | QUEUED | ai-company-valuation-worksheet-2026 | Two AI companies. Same ARR. One valued at 8x. One at 80x.  The investor ran 6 nu
