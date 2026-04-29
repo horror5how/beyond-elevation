@@ -1,19 +1,19 @@
-Two AI companies. Same ARR. One valued at 8x. One at 80x.
+The UK Patent Box cuts your corporation tax to 10%.
 
-The investor ran 6 numbers.
+Standard rate is 25%.
 
-Data exclusivity — proprietary datasets command 30x. Scraped data gets 8x.
+That 15-point gap is not a loophole. It is the government paying founders to build IP.
 
-IP defensibility — patents, trade secrets, licensing potential scored to 100.
+Most tech companies still do not claim it.
 
-Model differentiation — fine-tuned architecture beats wrapper every time.
+The fix: ring-fence qualifying IP income. Register your patents. Apply before year-end.
 
-Workflow stickiness — embedded in daily ops vs bolt-on tool.
+Ireland's Knowledge Development Box goes to 6.25%.
 
-Intangible asset share — IP + data + know-how as % of total valuation.
+That is less than a third of the standard rate.
 
-Most founders track ARR. They ignore the 5 numbers driving 80% of the multiple.
+One IP audit. One filing. £50K–£150K back depending on your royalty revenue.
 
-That's how $50M+ gets left on the table at exit.
+Build the IP first. The tax advantage is already waiting.
 
-#AIValuation #IPStrategy #StartupFunding
+#IPStrategy #TaxStrategy #PatentBox
