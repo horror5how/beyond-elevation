@@ -3,7 +3,7 @@ date: 2026-04-29
 theme: Patent capital, customs power, and cross-border treaties moved together — AI-for-patents took $105M in 14 days, U.S. customs got new IP teeth, and three IP regulators (China SPP, EU-Japan, CNIPA) signalled IP is being instrumentalised as a state-grade asset class.
 generated_at: 2026-04-29T04:00:00.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -151,7 +151,9 @@ DM for the dual-jurisdiction filing playbook.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-04-29T18:07:24.805Z
+share_urn: urn:li:share:7455316826466598912
 hook_format: story
 cta_goal: clicks
 slug: china-cnipa-2026-rectification-bad-faith

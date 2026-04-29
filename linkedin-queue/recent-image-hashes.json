@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff9110113f0ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "test-pmr-template-2026-04-28",
-    "ts": "2026-04-28T17:27:30Z"
-  },
-  {
     "hash": "00ffffffffff0000",
     "layout": "a",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "eu-japan-ip-action-cross-border-licensing",
     "ts": "2026-04-29T15:11:37.409Z"
+  },
+  {
+    "hash": "00ffffffffff2505",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "china-cnipa-2026-rectification-bad-faith",
+    "ts": "2026-04-29T18:07:24.805Z"
   }
 ]
