@@ -52,3 +52,4 @@
 2026-04-29 10:59 | urn:li:share:7455209049538740224 | post #2 | us-counterfeit-notification-act-cbp-enforcement | The U.S. House just turned IP rights into customs enforcement.  The Counterfeit 
 2026-04-29 12:16 | urn:li:share:7455228509083504640 | post #3 | china-spp-ip-prosecution-white-paper-2025 | Western founders still think China steals IP. The data says the opposite.  China
 2026-04-29 15:11 | urn:li:share:7455272587493998592 | post #4 | eu-japan-ip-action-cross-border-licensing | Prediction: cross-border IP licensing revenue from the EU-Japan corridor doubles
+2026-04-29 17:51 | urn:li:share:7455312758667100160 | A 12-person team just licensed their existing data for $2.3M recurring.  No new 
