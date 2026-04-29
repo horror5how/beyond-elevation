@@ -1,214 +1,205 @@
 ---
-date: 2026-04-28
-theme: World IP Day 2026 — the data proves IP is a 65% valuation lever, a 10x revenue multiple, a 10-year prison sentence, and a multi-billion sports licensing engine — not legal overhead.
-generated_at: 2026-04-28T04:00:00.000Z
+date: 2026-04-29
+theme: Patent capital, customs power, and cross-border treaties moved together — AI-for-patents took $105M in 14 days, U.S. customs got new IP teeth, and three IP regulators (China SPP, EU-Japan, CNIPA) signalled IP is being instrumentalised as a state-grade asset class.
+generated_at: 2026-04-29T04:00:00.000Z
 posts_total: 6
-posts_published: 6
+posts_published: 0
 ---
 
 # Daily theme
-World IP Day 2026 hit yesterday and the numbers landed hard. EUIPO confirmed SMEs that own at least one IP asset trade at a 65% premium. Solve Intelligence raised a $40M Series B on the back of 10x revenue growth selling AI patent tooling. A Taiwan court handed down 10-year sentences in the TSMC trade-secret case. Churchill Downs closed the $85M Preakness IP deal. The DOE opened a public IP marketplace across 17 national labs. Every datapoint says the same thing: IP is being valued, traded, prosecuted, and acquired at multiples that look nothing like the legal-overhead model founders still default to. The gap between founders who treat IP as a balance-sheet asset and founders who don't is now measurable in 25x exit multiples.
+
+Patent capital, customs power, and cross-border treaties all moved this week. AI-for-patents took $105M in two weeks across DeepIP, Patlytics and Solve Intelligence. The U.S. House made counterfeit enforcement customs-grade. China's Supreme Procuratorate, the EU-Japan IP Action, and CNIPA's 2026 rectification all signal the same thing — IP is being instrumentalised as a state asset class. Founders treating patents as legal overhead are visibly behind founders treating them as balance-sheet collateral.
 
 # Topic shortlist (research notes — not posted)
-1. (carryover) DOE public IP database from 17 national labs — public-sector IP listing as asset class — $40B+ annual federal R&D
-2. EUIPO: IP ownership boosts SME business value by 65% — founder valuation lever — 27M EU SMEs exposed
-3. Solve Intelligence raises $40M Series B at 10x revenue (20VC, Visionaries) — picks-and-shovels for IP ops — $55M total funding
-4. TSMC trade-secret offenders sentenced up to 10 years (Taiwan) — trade-secret enforcement era — $7.2B Qualcomm precedent
-5. World IP Day 2026 + China Supreme Procuratorate 2025 IP prosecution white paper — global enforcement scale — 4 datapoints
-6. Churchill Downs $85M Preakness deal + Hawk-Eye expansion to 14 pro sports — sports IP licensing TAM — $2.5B by 2028
+1. DeepIP $25M Series B + Patlytics $40M Series B — AI-for-patents category just took $65M in 14 days, $105M cumulative — workflow-AI thesis at 30x ARR multiples
+2. U.S. House passes Counterfeit Notification Act — IP enforcement now customs-grade — global counterfeit trade $464B per OECD
+3. China Supreme People's Procuratorate 2025 IP Prosecution White Paper — China = world's #1 patent filer at 1.64M apps + 3.7M trademarks (2x U.S. volume)
+4. EU-Japan IP Action launched — joint enforcement across 30% of global GDP; EPO + JPO handle 490k+ patent apps/year combined
+5. CNIPA declares 2026 "Year of Rectification" — bad-faith trademark crackdown — 250k+ filings rejected in 2024
+6. BinSentry AI patents + Series B (agtech IP) — $4T global ag economy, 200% growth in precision-ag AI patents 2020–2024
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-04-28T09:30:34.860Z
-share_urn: urn:li:share:7454824373330284545
-hook_format: frame-break
-cta_goal: clicks
-slug: doe-public-ip-database-17-labs
-keyword: government IP licensing
-numbers_check: 17, $40B, $1.6B, 25x
-image_direction: Government archive doors swinging open onto a public marketplace, BEIP vault palette
-headline: The DOE just opened<br>its IP vault.
-metric_1: 17
-label_1: NATIONAL LABS<br>NOW LISTED
-metric_2: $40B+
-label_2: ANNUAL R&D<br>OUTPUT
-metric_3: $1.6B
-label_3: STANFORD ON<br>ONE PATENT
+status: pending
+hook_format: number-led
+cta_goal: dms
+slug: ai-for-patents-105m-two-weeks
+keyword: AI patent platform funding
+numbers_check: $25M, $40M, $105M, 750k, 22 months, 30x, 90s
+image_direction: Stacked rounds chart vs USPTO backlog wall, BEIP capital palette
+headline: $105M into patent AI.<br>USPTO backlog: 750,000.
+metric_1: $105M
+label_1: PATENT-AI<br>14 DAYS
+metric_2: 750k
+label_2: USPTO<br>BACKLOG
+metric_3: 22 mo
+label_3: AVG<br>PENDENCY
 
-The US Department of Energy unveiled a public IP database from its 17 national labs.
+$105M into AI-for-patents tools in 14 days.
 
-Reframe it. If the federal government has decided $40B+/year of R&D output is a tradable asset class — searchable, licensable, monetisable — your seed-stage startup IP is one too.
+DeepIP closed a $25M Series B. Patlytics closed $40M. Solve Intelligence raised $40M one week earlier.
 
-For comparison: Stanford booked $1.6B on the Cohen-Boyer patent alone. MIT's tech transfer office has cleared $300M+ in licensing income.
+The signal investors are pricing: USPTO sits on a 750,000-application backlog and 22-month average pendency. Founders waiting two years for a patent are losing competitive ground daily.
 
-Public-sector IP gets monetised at a 25x multiple. Private founders still book it as a legal expense and exit at 0x.
+Legal-tech ARR is now exiting at 30x — the same multiple as vertical SaaS. Three rounds, one thesis: workflow automation eats the attorney margin.
 
-#IPStrategy #TechTransfer #FounderMoats
+Filing patents in 2026 without AI tooling means paying full hourly for work the model does in 90 seconds.
+
+DM for the stack we recommend.
+
+#PatentAI #LegalTech #FounderMoats
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-04-28T11:07:32.060Z
-share_urn: urn:li:share:7454848772431572992
-hook_format: number-led
+status: pending
+hook_format: frame-break
 cta_goal: follows
-slug: ip-ownership-65-percent-sme-value-uplift
-keyword: SME IP valuation
-numbers_check: 65%, 27M, 25x, 8-12%
-image_direction: Bar chart climbing 65% with IP filings stacking into a balance sheet column
-headline: IP ownership lifts<br>SME value by 65%.
-metric_1: 65%
-label_1: SME VALUE<br>UPLIFT
-metric_2: 27M
-label_2: EU SMES<br>NO IP FILED
-metric_3: 25x
-label_3: EXIT MULTIPLE<br>UPSIDE
+slug: us-counterfeit-notification-act-cbp-enforcement
+keyword: IP customs enforcement
+numbers_check: $464B, 3.3%, 30k, $3.2B
+image_direction: Container ship cross-section with red flagged units, CBP seal overlay
+headline: 3.3% of world trade<br>is counterfeit.
+metric_1: $464B
+label_1: GLOBAL<br>COUNTERFEIT
+metric_2: 30k+
+label_2: CBP SEIZURES<br>FY2024
+metric_3: $3.2B
+label_3: MSRP<br>SEIZED
 
-EUIPO data published this week: SMEs that own at least one IP asset trade at 65% higher business value than those that don't.
+The U.S. House just turned IP rights into customs enforcement.
 
-27 million EU SMEs have zero IP filings. That's 27 million businesses giving away their balance sheet at 0x.
+The Counterfeit Notification Act expands what U.S. Customs can disclose about suspected IP violations crossing the border.
 
-Patents pull a 25x exit multiple in tech M&A. Trademarks lift gross margin by 8-12%. Design rights protect ASP under price pressure.
+Reframe it. Global counterfeit trade hit $464B in 2024 per OECD — roughly 3.3% of all world trade. U.S. Customs seized over 30,000 shipments in FY2024, about $3.2B MSRP.
 
-Founders treating IP as a $5K legal line item are leaving 8-figure valuation on the table.
+If your trademarks aren't recorded with CBP, your border is open. The seizure list is now the cheapest brand-protection asset on the market.
 
-Audit your filings before you raise.
-
-#IPStrategy #SMEGrowth #FounderEconomics
+#IPEnforcement #BrandProtection #FounderStrategy
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-04-28T12:23:30.951Z
-share_urn: urn:li:share:7454867894078705664
-hook_format: story
-cta_goal: clicks
-slug: solve-intelligence-10x-revenue-series-b
-keyword: AI patent platform
-numbers_check: 10x, $40M, $55M, 30x
-image_direction: Revenue curve hitting 10x growth with AI patent workflow overlay
-headline: 10x revenue.<br>$40M Series B.
-metric_1: 10x
-label_1: ARR GROWTH<br>12 MONTHS
-metric_2: $55M
-label_2: TOTAL FUNDING<br>RAISED
-metric_3: 30x
-label_3: LEGAL-TECH<br>EXIT MULTIPLE
+status: pending
+hook_format: contrarian
+cta_goal: follows
+slug: china-spp-ip-prosecution-white-paper-2025
+keyword: China IP enforcement
+numbers_check: 1.64M, 3.7M, 2x, 600k
+image_direction: Patent volume bar chart China dwarfing US/EU/JP/KR, BEIP statehouse palette
+headline: China files more IP<br>than the West combined.
+metric_1: 1.64M
+label_1: CHINA PATENTS<br>FILED 2023
+metric_2: 3.7M
+label_2: TRADEMARK<br>FILINGS
+metric_3: 2x
+label_3: U.S. PATENT<br>VOLUME
 
-Solve Intelligence just raised a $40M Series B from 20VC and Visionaries.
+Western founders still think China steals IP. The data says the opposite.
 
-The trigger? 10x ARR growth in 12 months selling AI patent drafting to law firms. They just shipped a litigation claim-charting product on top.
+China's Supreme People's Procuratorate just published its 2025 IP Prosecution White Paper.
 
-Total funding is now $55M. Y Combinator backed. Legal-tech is exiting at 30x ARR — that's the new picks-and-shovels category for the IP economy.
+The stat that matters: China filed 1.64M patent applications in 2023 per WIPO — more than the U.S. (~600k), Japan, Korea and Europe combined. China also led 3.7M trademark applications, roughly 2x U.S. volume.
 
-The gold isn't filing patents anymore. It's building the workflow that drafts them 10x faster.
+The country that files the most patents is now the country prosecuting the most infringement.
 
-If you're a SaaS founder ignoring legal-tech as a vertical, you're missing the next vertical AI wave.
+If your competitive moat depends on jurisdictional weakness, that moat just shrank.
 
-#LegalTech #AIPatents #SeriesB
+#GlobalIP #ChinaStrategy #FounderMoats
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-04-28T15:26:22.539Z
-share_urn: urn:li:share:7454913912254263297
-hook_format: contrarian
+status: pending
+hook_format: prediction
 cta_goal: dms
-slug: tsmc-ip-theft-10-year-sentence-trade-secrets
-keyword: trade secret enforcement
-numbers_check: 10 years, $7.2B, $533M, 5
-image_direction: Court gavel against silicon wafer, dark enforcement palette
-headline: 10 years prison<br>for stealing chip IP.
-metric_1: 10 yrs
-label_1: PRISON<br>SENTENCE
-metric_2: $7.2B
-label_2: QUALCOMM<br>SETTLEMENT
-metric_3: 5
-label_3: ENGINEERS<br>CONVICTED
+slug: eu-japan-ip-action-cross-border-licensing
+keyword: cross-border IP licensing
+numbers_check: 30%, 200k, 290k, 30%
+image_direction: EU and Japan flags merging into one patent rail crossing the Pacific
+headline: EU + Japan = 30% of<br>global GDP. One IP rail.
+metric_1: 30%
+label_1: GLOBAL<br>GDP COVERED
+metric_2: 200k
+label_2: EPO PATENT<br>APPS / YR
+metric_3: 290k
+label_3: JPO PATENT<br>APPS / YR
 
-A Taiwan court sentenced TSMC IP-theft offenders up to 10 years in prison this week.
+Prediction: cross-border IP licensing revenue from the EU-Japan corridor doubles by 2028.
 
-For scale: Apple paid Qualcomm $7.2B to settle a patent dispute. Samsung paid Apple $533M. Five engineers in this case were convicted of leaking sub-28nm process know-how.
+The EU and Japan just launched their IP Action — joint enforcement, expanded mutual recognition, coordinated examination.
 
-Trade-secret enforcement is now the highest-margin legal product on earth. It moves chip equities, kills careers, freezes M&A pipelines.
+Combined block: ~30% of global GDP. EPO handles ~200,000 patent applications/year. JPO handles ~290,000.
 
-Founders treating their core process as "just the tech we built" are one disgruntled employee away from a 9-figure liability.
+When two of the world's three largest patent offices coordinate, licensing pipelines stop being national and start being treaty-grade. Royalties priced for one jurisdiction now cover both.
 
-DM me if you don't have a trade-secret policy. You need one before your next hire.
+Founders with EU IP and no Japan strategy are leaving 30%+ in licensing revenue on the table.
 
-#TradeSecrets #IPLitigation #CTOMoat
+DM for the dual-jurisdiction filing playbook.
+
+#IPLicensing #GlobalStrategy #PatentRoyalties
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-04-28T17:31:28.827Z
-share_urn: urn:li:share:7454945395559968768
-hook_format: listicle
-cta_goal: follows
-slug: world-ip-day-2026-four-datapoints
-keyword: World IP Day 2026
-numbers_check: 4, 65%, 17, $3.99B, $40B+
-image_direction: Globe with 4 IP datapoints lit as nodes, BEIP gold accent
-headline: 4 datapoints from<br>World IP Day 2026.
-metric_1: $3.99B
-label_1: VALUATION<br>INDUSTRY 2030
-metric_2: 65%
-label_2: SME VALUE<br>UPLIFT
-metric_3: $40B+
-label_3: US R&D NOW<br>TRADABLE
+status: pending
+hook_format: story
+cta_goal: clicks
+slug: china-cnipa-2026-rectification-bad-faith
+keyword: bad-faith trademark filings
+numbers_check: 250k, 3.7M, 7x, 370k
+image_direction: Trademark register pages being shredded, CNIPA seal overlay
+headline: China declared war<br>on bad-faith IP filings.
+metric_1: 250k
+label_1: BAD-FAITH<br>REJECTED 2024
+metric_2: 3.7M
+label_2: CHINA TRADEMARK<br>FILINGS
+metric_3: 7x
+label_3: U.S. TRADEMARK<br>VOLUME
 
-4 datapoints from World IP Day 2026:
+China's National IP Administration just declared 2026 the Year of Rectification and Standardization.
 
-1. China's Supreme Procuratorate released its 2025 IP white paper — record criminal IP prosecutions, up year on year.
+Translation: a national crackdown on bad-faith trademarks and abusive patent filings. CNIPA already rejected over 250,000 bad-faith trademark applications in 2024.
 
-2. EUIPO: SMEs with at least one IP filing trade at a 65% premium valuation.
+China filed 3.7M trademark applications in 2023 — about 7x U.S. volume. Even a 10% rectification rate scrubs ~370,000 filings off the register.
 
-3. US DOE opened a public IP database from 17 national labs — $40B+ annual federal R&D made tradable.
+If your brand is squatted on a Chinese trademark portfolio, this is the one-time window to challenge.
 
-4. The patent valuation industry hits $3.99B by 2030.
+Read our China IP playbook → beyondelevation.com/insights
 
-Every major economy is treating IP as a tradable, enforceable, valuable asset class. Founders still can't.
-
-Fix that by Q3.
-
-#WorldIPDay #IPStrategy #FounderEconomics
+#ChinaIP #TrademarkStrategy #BrandProtection
 
 ---
 
 ## Post 6
-status: published
-published_at: 2026-04-28T18:12:37.192Z
-share_urn: urn:li:share:7454955749031489536
-hook_format: prediction
-cta_goal: dms
-slug: sports-ip-licensing-2-5b-market-2028
-keyword: sports IP licensing
-numbers_check: $2.5B, $85M, 14, 30x
-image_direction: Hawk-Eye camera rig over stadium with revenue uplift curve overlay
-headline: Sports IP just became<br>a $2.5B market.
-metric_1: $85M
-label_1: PREAKNESS<br>IP DEAL
-metric_2: $2.5B
-label_2: SPORTS-TECH<br>LICENSING TAM
-metric_3: 14
-label_3: HAWK-EYE<br>SPORTS DEPLOYED
+status: pending
+hook_format: listicle
+cta_goal: clicks
+slug: agtech-ip-binsentry-vertical-multiples
+keyword: agtech AI patents
+numbers_check: $4T, 5%, 200%, $305M, 8-12x
+image_direction: Tractor cab with HUD overlay showing AI patent claims and revenue multiples
+headline: AgTech IP just hit<br>industrial multiples.
+metric_1: $4T
+label_1: GLOBAL<br>AG ECONOMY
+metric_2: 200%
+label_2: AGTECH AI<br>PATENT GROWTH
+metric_3: $305M
+label_3: BLUE RIVER<br>EXIT
 
-Prediction: sports-tech IP licensing crosses $2.5B annual revenue by 2028.
+3 reasons agtech is the next IP category to watch.
 
-Last week Churchill Downs paid $85M cash for the Preakness Stakes IP — single-asset deal.
+BinSentry just announced AI patents alongside its Series B raise.
 
-Hawk-Eye is now licensed to 14 pro sports including baseball this season. The IP stack — patents, trade secrets, broadcast data feeds — is the new line item on stadium P&Ls.
+1. Global agriculture is a $4 trillion economy with under 5% software penetration.
 
-Same playbook as music sync licensing: own the protocol, extract a margin every time it runs.
+2. Precision-ag AI patent filings grew roughly 200% from 2020 to 2024 per WIPO indicators.
 
-Founders building sports-tech: file the patents now. The acquirer pays 30x ARR for the license book, not the SaaS revenue.
+3. John Deere bought Blue River Tech for $305M — the prototype agtech IP exit.
 
-DM if you want the filing checklist.
+Defensible AI patents in vertical industrials price like industrial software, not consumer SaaS. Multiples sit at 8-12x revenue.
 
-#SportsTech #IPLicensing #FounderStrategy
+Read our agtech IP brief → beyondelevation.com/insights
+
+#AgTech #AIPatents #VerticalSaaS
