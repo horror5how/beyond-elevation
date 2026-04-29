@@ -1,19 +1,19 @@
-The UK Patent Box cuts your corporation tax to 10%.
+A 12-person team just licensed their existing data for $2.3M recurring.
 
-Standard rate is 25%.
+No new product. No new hires.
 
-That 15-point gap is not a loophole. It is the government paying founders to build IP.
+Data licensing runs at 83% gross margin — higher than most SaaS businesses.
 
-Most tech companies still do not claim it.
+Most founders give their data away inside the product for free.
 
-The fix: ring-fence qualifying IP income. Register your patents. Apply before year-end.
+The deal structure is the IP.
 
-Ireland's Knowledge Development Box goes to 6.25%.
+3 formats that pay:
 
-That is less than a third of the standard rate.
+Non-exclusive data licence → quarterly payments
+API-gated access → usage-based royalties
+Exclusive window + audit rights → premium upfront plus royalties
 
-One IP audit. One filing. £50K–£150K back depending on your royalty revenue.
+The data already exists. You just need the contract.
 
-Build the IP first. The tax advantage is already waiting.
-
-#IPStrategy #TaxStrategy #PatentBox
+#DataLicensing #IPStrategy #Licensing
