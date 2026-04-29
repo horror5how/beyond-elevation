@@ -103,8 +103,22 @@ async function liFetch(path, init = {}) {
 
 async function fetchComments(shareUrn) {
   const encoded = encodeURIComponent(shareUrn);
-  const path = `/v2/socialActions/${encoded}/comments?count=50`;
-  return withRetry("fetchComments", () => liFetch(path));
+  // Try the versioned /rest/ endpoint first (works with w_member_social on some apps),
+  // then fall back to /v2/. If both 403, the token lacks r_member_social — we surface clean.
+  const tries = [
+    `/rest/socialActions/${encoded}/comments?count=50`,
+    `/v2/socialActions/${encoded}/comments?count=50`,
+  ];
+  let lastErr;
+  for (const path of tries) {
+    try {
+      return await withRetry("fetchComments", () => liFetch(path), 2);
+    } catch (e) {
+      lastErr = e;
+      if (!/^403/.test(e.message)) break;
+    }
+  }
+  throw lastErr;
 }
 
 async function postComment(shareUrn, text) {
@@ -200,12 +214,20 @@ async function main() {
       log(`FAIL | 401 — token expired, re-auth needed`);
       return;
     }
+    if (/^403/.test(e.message)) {
+      log(`SKIP | 403 ACCESS_DENIED on socialActions — token lacks r_member_social scope. Re-auth with r_member_social scope to enable comment reading. Exiting clean.`);
+      return;
+    }
     log(`FAIL | fetchComments: ${e.message}`);
     return;
   }
 
   const elements = comments.elements || [];
   log(`found ${elements.length} total comments on latest post`);
+
+  if (elements.length === 0 && (comments._error || comments.message)) {
+    log(`note: API returned no elements — likely scope-limited; exiting clean`);
+  }
 
   const seen = loadSeen();
   const seenSet = new Set(seen[shareUrn] || []);
