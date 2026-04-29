@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42c3e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "test-pmr-template-2026-04-28",
-    "ts": "2026-04-28T17:27:00Z"
-  },
-  {
     "hash": "fff9110113f0ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "china-spp-ip-prosecution-white-paper-2025",
     "ts": "2026-04-29T12:16:28.222Z"
+  },
+  {
+    "hash": "fff111310b75ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "eu-japan-ip-action-cross-border-licensing",
+    "ts": "2026-04-29T15:11:37.409Z"
   }
 ]
