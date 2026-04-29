@@ -22,3 +22,22 @@
 2026-04-28 17:27 | li-auto-post | DRY_RUN OK | post #1 | hash=fff9110113f0ffff layout=c accent=#d7b086
 2026-04-28 17:31 | li-auto-post | render OK | post #5 | layout=a accent=#8aa6b8 hash=00ffffffffff0000 minDist=28 attempts=1
 2026-04-28 18:12 | li-auto-post | render OK | post #6 | layout=c accent=#d7b086 hash=fff030111ff1ffff minDist=8 attempts=1
+2026-04-29 06:16 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: banned:" — ", banned_re:/\bleverage\b/i
+Post 2: hook_too_long(13w), banned:" — "
+Post 3: hook_too_long(13w), banned:" — "
+Post 4: hook_too_long(14w), banned:" — "
+Post 5: hook_too_long(14w), banned:" — "
+2026-04-29 06:17 | li-generate-queue | attempt 2 | quality gate failed:
+Post 1: banned:" — "
+Post 2: hook_too_long(13w), banned:" — "
+Post 3: hook_too_long(12w)
+Post 4: hook_too_long(15w), banned:" — "
+Post 5: hook_too_long(14w)
+2026-04-29 06:18 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: banned:" — ", banned_re:/\bleverage\b/i
+Post 2: banned:" — "
+Post 3: banned:" — "
+Post 4: hook_too_long(14w), banned:" — "
+Post 5: hook_too_long(10w), no_specific_number
+2026-04-29 06:18 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
