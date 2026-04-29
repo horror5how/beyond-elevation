@@ -1,17 +1,19 @@
-Two AI companies. Same revenue. One raised at 8x. The other at 80x.
+The UK Patent Box cuts your corporation tax to 10%.
 
-The difference isn't the product. It's 4 factors investors actually price:
+Standard rate is 25%.
 
-IP defensibility. Patents, trade secrets, model weights. The moat, not the model.
+That 15-point gap is not a loophole. It is the government paying founders to build IP.
 
-Data exclusivity. Proprietary training data commands a premium. Scraped data is priced like a commodity.
+Most tech companies still do not claim it.
 
-Revenue quality. ARR with 130%+ NRR trades at 2x the multiple of churn-heavy contracts.
+The fix: ring-fence qualifying IP income. Register your patents. Apply before year-end.
 
-Talent lock-in. Key-person dependency without IP assignment kills valuation in due diligence.
+Ireland's Knowledge Development Box goes to 6.25%.
 
-Most founders pitch features. Investors price moat architecture.
+That is less than a third of the standard rate.
 
-Fix the 4 factors before the roadshow.
+One IP audit. One filing. £50K–£150K back depending on your royalty revenue.
 
-#IPStrategy #AIStartups #StartupValuation
+Build the IP first. The tax advantage is already waiting.
+
+#IPStrategy #TaxStrategy #PatentBox
