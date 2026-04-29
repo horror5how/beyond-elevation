@@ -49,3 +49,4 @@
 2026-04-29 07:51 | QUEUED | patent-box-tax-regime-uk | The UK Patent Box cuts your corporation tax to 10%. Standard rate is 25%.
 2026-04-29 07:52 | urn:li:share:7455162019688820736 | The UK Patent Box cuts your corporation tax to 10%.  Standard rate is 25%.  That
 2026-04-29 09:19 | urn:li:share:7455183865389805568 | post #1 | ai-for-patents-105m-two-weeks | $105M into AI-for-patents tools in 14 days.  DeepIP closed a $25M Series B. Patl
+2026-04-29 10:59 | urn:li:share:7455209049538740224 | post #2 | us-counterfeit-notification-act-cbp-enforcement | The U.S. House just turned IP rights into customs enforcement.  The Counterfeit 
