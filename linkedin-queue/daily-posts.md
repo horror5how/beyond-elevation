@@ -3,7 +3,7 @@ date: 2026-04-29
 theme: Patent capital, customs power, and cross-border treaties moved together — AI-for-patents took $105M in 14 days, U.S. customs got new IP teeth, and three IP regulators (China SPP, EU-Japan, CNIPA) signalled IP is being instrumentalised as a state-grade asset class.
 generated_at: 2026-04-29T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -21,7 +21,9 @@ Patent capital, customs power, and cross-border treaties all moved this week. AI
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-04-29T09:19:04.407Z
+share_urn: urn:li:share:7455183865389805568
 hook_format: number-led
 cta_goal: dms
 slug: ai-for-patents-105m-two-weeks

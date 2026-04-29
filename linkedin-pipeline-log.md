@@ -41,3 +41,4 @@ Post 3: banned:" — "
 Post 4: hook_too_long(14w), banned:" — "
 Post 5: hook_too_long(10w), no_specific_number
 2026-04-29 06:18 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-04-29 09:19 | li-auto-post | render OK | post #1 | layout=a accent=#a87c7c hash=00ffffffff01b1fd minDist=18 attempts=1

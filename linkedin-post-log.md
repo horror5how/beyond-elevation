@@ -48,3 +48,4 @@
 2026-04-28 18:12 | urn:li:share:7454955749031489536 | post #6 | sports-ip-licensing-2-5b-market-2028 | Prediction: sports-tech IP licensing crosses $2.5B annual revenue by 2028.  Last
 2026-04-29 07:51 | QUEUED | patent-box-tax-regime-uk | The UK Patent Box cuts your corporation tax to 10%. Standard rate is 25%.
 2026-04-29 07:52 | urn:li:share:7455162019688820736 | The UK Patent Box cuts your corporation tax to 10%.  Standard rate is 25%.  That
+2026-04-29 09:19 | urn:li:share:7455183865389805568 | post #1 | ai-for-patents-105m-two-weeks | $105M into AI-for-patents tools in 14 days.  DeepIP closed a $25M Series B. Patl
