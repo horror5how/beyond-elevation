@@ -3,7 +3,7 @@ title: "Is a Provisional Patent Worth It? The Honest Answer After Reviewing 200+
 slug: is-a-provisional-patent-worth-it
 date: 2026-04-29
 url: https://beyondelevation.com/blog/post.html?slug=is-a-provisional-patent-worth-it
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -75,6 +75,20 @@ The provisional patent is not a magic shield. It is a 12-month strategic option 
 
 If you are deciding whether a provisional patent is worth it for your specific innovation, [book a consultation with Beyond Elevation](https://beyondelevation.com). We will assess your invention, map the competitive landscape, and tell you exactly whether — and how — to file.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-is-a-provisional-patent-worth-it)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a provisional patent cost?
@@ -96,3 +110,6 @@ You can file a provisional patent without a lawyer — the USPTO allows it. Howe
 ### Is a provisional patent worth it for software inventions?
 
 A provisional patent can be highly valuable for software inventions if the claims are structured around technical processes and system architectures rather than abstract ideas. [Software patent eligibility in 2026](/blog/posts/software-patent-eligibility-2026/) requires careful claim drafting to survive Alice challenges. A well-prepared provisional establishes your priority date while you refine the claims with a strategist who understands software patentability.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
