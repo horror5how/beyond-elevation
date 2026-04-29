@@ -236,7 +236,7 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 | T5-21 | 2026-04-27 | How much is an AI business worth? | What an AI Business Is Actually Worth: The 2026 Multiples Cheat Sheet (Seed to Series B) | AI business valuation, AI startup multiples, AI company worth | ✅ ai-business-worth-2026-multiples |
 | T5-22 | 2026-04-27 | What is the rule of 40 in tech valuation? | The Rule of 40, Decoded: Why Most Tech Founders Fail It (And the 3 Levers That Pass It) | rule of 40 SaaS, rule of 40 calculation, tech valuation rule of 40 | ✅ rule-of-40-tech-valuation |
 | T5-23 | 2026-04-27 | What is a good EBITDA for a tech company? | What's a "Good" EBITDA for a Tech Company in 2026? The Honest Benchmark Across SaaS, AI, and Hardware | tech EBITDA benchmark, SaaS EBITDA margin, healthy EBITDA tech | ✅ good-ebitda-tech-company-2026 |
-| T5-24 | 2026-04-27 | Is know-how an asset? | Yes, Know-How Is an Asset — And the 5 Steps to Get It Recognised on the Balance Sheet | know-how as asset, trade secret asset, proprietary knowledge balance sheet | 🟢 new |
+| T5-24 | 2026-04-27 | Is know-how an asset? | Yes, Know-How Is an Asset — And the 5 Steps to Get It Recognised on the Balance Sheet | know-how as asset, trade secret asset, proprietary knowledge balance sheet | ✅ know-how-is-an-asset |
 | T5-25 | 2026-04-27 | Can AI be an asset? | Yes, AI Is an Asset. Here's How to Account For It (and Use It to Raise) | AI as asset, AI on balance sheet, AI intellectual property asset | ✅ can-ai-be-an-asset |
 
 ### Recommended write order (Tier 5)
