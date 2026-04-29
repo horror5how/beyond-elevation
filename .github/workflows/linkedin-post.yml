@@ -89,3 +89,14 @@ jobs:
 
           echo ""
           echo "PUBLISHED: https://www.linkedin.com/feed/update/${SHARE_URN}/"
+
+      - name: Trigger first-30-min engagement (after 25min)
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Sleeping 25min then dispatching linkedin-engage workflow..."
+          sleep 1500
+          gh api repos/${{ github.repository }}/dispatches \
+            -f event_type=linkedin-engage \
+            || echo "dispatch failed — cron fallback (every 30min) will pick it up"

@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    { "source": "/pricing", "destination": "/services/", "permanent": true },
+    { "source": "/pricing/", "destination": "/services/", "permanent": true },
+    { "source": "/insights", "destination": "/blog/", "permanent": true },
+    { "source": "/insights/", "destination": "/blog/", "permanent": true },
+    { "source": "/insights/:slug*", "destination": "/blog/:slug*", "permanent": true }
+  ],
   "headers": [
     {
       "source": "/(.*)",

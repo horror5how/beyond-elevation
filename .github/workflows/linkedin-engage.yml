@@ -1,0 +1,45 @@
+name: LinkedIn First-30-Min Engagement
+
+on:
+  repository_dispatch:
+    types: [linkedin-engage]
+  workflow_dispatch:
+  schedule:
+    # fallback — runs every 30 min so engagement always happens even if dispatch missed
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  engage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install deps
+        run: |
+          npm install @anthropic-ai/sdk@^0.30.0
+
+      - name: Engage
+        env:
+          LI_TOKEN: ${{ secrets.LI_TOKEN }}
+          LI_URN: ${{ secrets.LI_URN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          mkdir -p linkedin-queue
+          node scripts/li-engage.mjs || echo "engage exited non-zero (already logged)"
+
+      - name: Commit engagement log
+        run: |
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE LinkedIn Agent'
+          git add linkedin-engagement-log.md linkedin-queue/seen-comments.json 2>/dev/null || true
+          git diff --cached --quiet && echo "no changes" || (git commit -m 'LinkedIn: engagement log update' && git push)

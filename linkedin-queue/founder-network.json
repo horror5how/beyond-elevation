@@ -1,0 +1,15 @@
+{
+  "_comment": "Curated founder/CEO network for the like-loop. Add { handle, lastShareUrn } per entry. lastShareUrn is the most recent post URN to like; refresh via daily-digest job.",
+  "handles": [
+    { "handle": "naval", "lastShareUrn": null },
+    { "handle": "garrytan", "lastShareUrn": null },
+    { "handle": "jasonlk", "lastShareUrn": null },
+    { "handle": "patrickc", "lastShareUrn": null },
+    { "handle": "elad", "lastShareUrn": null },
+    { "handle": "tobi", "lastShareUrn": null },
+    { "handle": "bchesky", "lastShareUrn": null },
+    { "handle": "dhh", "lastShareUrn": null },
+    { "handle": "sahilbloom", "lastShareUrn": null },
+    { "handle": "lennysan", "lastShareUrn": null }
+  ]
+}
