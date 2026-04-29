@@ -3,7 +3,7 @@ date: 2026-04-29
 theme: Patent capital, customs power, and cross-border treaties moved together — AI-for-patents took $105M in 14 days, U.S. customs got new IP teeth, and three IP regulators (China SPP, EU-Japan, CNIPA) signalled IP is being instrumentalised as a state-grade asset class.
 generated_at: 2026-04-29T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -85,7 +85,9 @@ If your trademarks aren't recorded with CBP, your border is open. The seizure li
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-04-29T12:16:28.222Z
+share_urn: urn:li:share:7455228509083504640
 hook_format: contrarian
 cta_goal: follows
 slug: china-spp-ip-prosecution-white-paper-2025
