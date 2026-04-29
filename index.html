@@ -1215,6 +1215,65 @@
         </div>
       </section>
 
+      <section class="shell section section-lead-magnet scroll-section" id="lead-magnet">
+        <div class="lead-magnet">
+          <div class="lead-magnet-copy reveal">
+            <span class="eyebrow">Free diagnostic</span>
+            <h2>Before you book a call, get the diagnostic.</h2>
+            <p>The IP Leverage Audit is a 7-step PDF that surfaces where founders raising Seed to Series B leak the most value. Score yourself in ten minutes.</p>
+            <ul class="lead-magnet-bullets">
+              <li>7 questions, each with why-it-matters context</li>
+              <li>0 to 21 score with three result bands</li>
+              <li>Built from 100+ founder conversations</li>
+            </ul>
+          </div>
+          <form class="lead-magnet-form reveal" id="lead-magnet-form" action="/api/lead-magnet" method="POST" novalidate>
+            <div class="lead-magnet-field">
+              <label for="lm-name">First name</label>
+              <input id="lm-name" name="firstName" type="text" autocomplete="given-name" required />
+            </div>
+            <div class="lead-magnet-field">
+              <label for="lm-email">Work email</label>
+              <input id="lm-email" name="email" type="email" autocomplete="email" required />
+            </div>
+            <button type="submit" class="lead-magnet-submit">Send me the PDF</button>
+            <p class="lead-magnet-fineprint">No spam. Unsubscribe in one click.</p>
+            <p class="lead-magnet-status" id="lead-magnet-status" aria-live="polite"></p>
+          </form>
+        </div>
+        <script>
+          (function () {
+            var form = document.getElementById("lead-magnet-form");
+            var status = document.getElementById("lead-magnet-status");
+            if (!form) return;
+            form.addEventListener("submit", function (e) {
+              e.preventDefault();
+              status.textContent = "Sending...";
+              var fd = new FormData(form);
+              fetch(form.action, {
+                method: "POST",
+                headers: { "Content-Type": "application/json", "Accept": "application/json" },
+                body: JSON.stringify({
+                  email: fd.get("email"),
+                  firstName: fd.get("firstName")
+                })
+              })
+              .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+              .then(function (res) {
+                if (res.ok && res.j && res.j.ok) {
+                  window.location.href = res.j.redirect || "/resources/thank-you/";
+                } else {
+                  status.textContent = "Could not submit. Please email hayat@beyondelevation.com.";
+                }
+              })
+              .catch(function () {
+                status.textContent = "Network error. Try again or email hayat@beyondelevation.com.";
+              });
+            });
+          })();
+        </script>
+      </section>
+
       <section class="shell section section-faq scroll-section" id="faq">
         <div class="section-head reveal" data-parallax="0.03">
           <span class="eyebrow">Common questions</span>

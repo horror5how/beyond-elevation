@@ -315,7 +315,26 @@ h1,h2,h3{letter-spacing:-.05em;line-height:1.05}
 body{letter-spacing:-.01em;line-height:1.6}
 p{line-height:1.7;letter-spacing:-.01em}
 .eyebrow{letter-spacing:.1em}
-.section-testimonials,.section-offer,.section-system,.section-ceo-testimonials,.section-faq{border-top:1px solid rgba(186,173,156,.10)}
+.section-testimonials,.section-offer,.section-system,.section-ceo-testimonials,.section-faq,.section-lead-magnet{border-top:1px solid rgba(186,173,156,.10)}
+/* ── Lead Magnet ── */
+.section-lead-magnet{padding:96px 0 80px}
+.section-lead-magnet .lead-magnet{display:grid;grid-template-columns:1.05fr 1fr;gap:64px;align-items:center;background:linear-gradient(135deg,rgba(250,248,244,.95) 0%,rgba(243,239,232,.85) 100%);border:1px solid rgba(186,173,156,.16);border-radius:24px;padding:56px 56px;box-shadow:0 22px 50px rgba(120,108,92,.06)}
+.section-lead-magnet .lead-magnet-copy h2{font-size:clamp(1.8rem,3vw,2.6rem);line-height:1.05;letter-spacing:-.04em;margin:14px 0 16px;color:var(--text);font-weight:500;max-width:18ch}
+.section-lead-magnet .lead-magnet-copy p{font-size:1rem;line-height:1.65;color:var(--muted);margin:0 0 18px;max-width:42ch}
+.section-lead-magnet .lead-magnet-bullets{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.section-lead-magnet .lead-magnet-bullets li{position:relative;padding-left:22px;font-size:.95rem;color:var(--text);line-height:1.55}
+.section-lead-magnet .lead-magnet-bullets li::before{content:'';position:absolute;left:0;top:.55rem;width:8px;height:8px;border-radius:50%;background:#7a6a52}
+.section-lead-magnet .lead-magnet-form{display:flex;flex-direction:column;gap:18px;background:#fff;border:1px solid rgba(186,173,156,.18);border-radius:16px;padding:32px}
+.section-lead-magnet .lead-magnet-field{display:flex;flex-direction:column;gap:6px}
+.section-lead-magnet .lead-magnet-field label{font-size:.8rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:#7a6a52}
+.section-lead-magnet .lead-magnet-field input{padding:14px 16px;border:1px solid rgba(186,173,156,.32);border-radius:10px;font-size:1rem;color:var(--text);background:#faf7f2;font-family:inherit;transition:border-color .18s ease,background .18s ease}
+.section-lead-magnet .lead-magnet-field input:focus{outline:none;border-color:#1a1a1a;background:#fff}
+.section-lead-magnet .lead-magnet-submit{margin-top:6px;padding:15px 22px;background:#1a1a1a;color:#faf7f2;border:none;border-radius:10px;font-size:1rem;font-weight:600;cursor:pointer;letter-spacing:-.01em;transition:transform .18s ease,box-shadow .18s ease;font-family:inherit}
+.section-lead-magnet .lead-magnet-submit:hover{transform:translateY(-1px);box-shadow:0 12px 24px rgba(26,26,26,.18)}
+.section-lead-magnet .lead-magnet-submit:active{transform:translateY(0)}
+.section-lead-magnet .lead-magnet-fineprint{font-size:.78rem;color:#7a6a52;margin:0;text-align:center}
+.section-lead-magnet .lead-magnet-status{font-size:.85rem;color:#1a1a1a;margin:0;min-height:1.2em;text-align:center}
+@media (max-width:880px){.section-lead-magnet .lead-magnet{grid-template-columns:1fr;gap:36px;padding:40px 28px}.section-lead-magnet .lead-magnet-form{padding:24px}}
 .section-head{margin-bottom:64px}
 .section-head p{margin-top:16px;line-height:1.75;letter-spacing:-.01em}
 
