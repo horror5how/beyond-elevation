@@ -853,3 +853,21 @@ A good EBITDA margin for a mature SaaS company in 2026 sits between 20% and 35%,
 These benchmarks come from public filings and the latest cloud index data. But raw EBITDA margins in S
 
 ---
+
+## Yes, Know-How Is an Asset — And the 5 Steps to Get It Recognised on the Balance Sheet
+
+URL: https://beyondelevation.com/blog/post.html?slug=know-how-is-an-asset
+
+Most tech companies are sitting on millions in proprietary know-how that never appears on a single financial statement. That is not a grey area. It is a measurable valuation gap.
+
+Know-how is an asset. International accounting standards say so. Investors price it. Acquirers pay premiums for it. But most founders treat proprietary knowledge like overhead rather than equity — because nobody taught them how to formalise it.
+
+Hayat Amin argues this is the most expensive mistake in tech: "Founders spend £200K filing patents on features that competitors design around in six months. Meanwhile, they let the trade secrets, training processes, and operational playbooks that actually drive their margins sit undocumented and unprotected." That is the know-how gap — and [Beyond Elevation](https://beyondelevation.com) sees it in every portfolio audit.
+
+## What Counts as Know-How — And Is Know-How Really an Asset?
+
+Know-how is an asset when it meets three conditions: it is identifiable, the company controls it, and it generates future economic benefit. Under IAS 38 — the international accounting standard for intangible assets — know-how qualifies as an intangible asset if the company can demonstrate these criteria. The recognition gap between what qualifies and what actually appears on balance sheets is enormous.
+
+Know-how includes proprietary processes, undocumented engineering methods, training recipes for machine learning models, customer onboarding playbooks, supplier negotiation framew
+
+---

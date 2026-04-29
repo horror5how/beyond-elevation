@@ -91,5 +91,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [What an AI Business Is Actually Worth: The 2026 Multiples Cheat Sheet (Seed to Series B)](https://beyondelevation.com/blog/post.html?slug=ai-business-worth-2026-multiples) — /blog/md/ai-business-worth-2026-multiples.md
 - [The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks)](https://beyondelevation.com/blog/post.html?slug=25-percent-rule-ip-valuation) — /blog/md/25-percent-rule-ip-valuation.md
 - [What Is a Good EBITDA for a Tech Company in 2026? The Honest Benchmark Across SaaS, AI, and Hardware](https://beyondelevation.com/blog/post.html?slug=good-ebitda-tech-company-2026) — /blog/md/good-ebitda-tech-company-2026.md
+- [Yes, Know-How Is an Asset — And the 5 Steps to Get It Recognised on the Balance Sheet](https://beyondelevation.com/blog/post.html?slug=know-how-is-an-asset) — /blog/md/know-how-is-an-asset.md
 
 > Full blog content available at /llms-full.txt

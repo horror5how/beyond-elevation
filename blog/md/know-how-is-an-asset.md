@@ -3,7 +3,7 @@ title: "Yes, Know-How Is an Asset — And the 5 Steps to Get It Recognised on th
 slug: know-how-is-an-asset
 date: 2026-04-29
 url: https://beyondelevation.com/blog/post.html?slug=know-how-is-an-asset
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ For founders, the practical implication is clear: the companies that formalise k
 
 The Trustpilot 4.5-rated advisory practice at [Beyond Elevation](https://beyondelevation.com) runs exactly this process for pre-exit founders: identify, document, protect, value, and present know-how as a formal intangible-asset class. The founders who act on this before their next raise or exit conversation capture the premium. The ones who wait leave it on the table.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-know-how-is-an-asset)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Is know-how the same as a trade secret?
@@ -94,3 +108,6 @@ Yes. Know-how typically represents 15% to 40% of total intangible-asset purchase
 ### What is the first step to treat know-how as an asset?
 
 Inventory every proprietary process, method, and undocumented capability across your organisation. Most founders discover 3x more protectable know-how than they expected. From there, classify by protectability, document, value using income or cost methods, and present to stakeholders as a formal intangible-asset schedule before your next fundraise or exit conversation.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
