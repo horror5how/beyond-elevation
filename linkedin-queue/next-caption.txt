@@ -1,19 +1,17 @@
-A 12-person team just licensed their existing data for $2.3M recurring.
+Two AI companies. Same revenue. Same year.
 
-No new product. No new hires.
+One raised at 12x. The other at 47x.
 
-Data licensing runs at 83% gross margin — higher than most SaaS businesses.
+The difference was not the model.
 
-Most founders give their data away inside the product for free.
+It was where the model lived.
 
-The deal structure is the IP.
+Q1 2026 VC data: AI startups with deep workflow integration score 3.2x higher valuations than wrapper products.
 
-3 formats that pay:
+LLM wrappers die on discovery. Embedded workflows survive five market cycles.
 
-Non-exclusive data licence → quarterly payments
-API-gated access → usage-based royalties
-Exclusive window + audit rights → premium upfront plus royalties
+The new AI moat is distribution and switching cost — not model quality.
 
-The data already exists. You just need the contract.
+Your patent protects the invention. Your architecture protects the business.
 
-#DataLicensing #IPStrategy #Licensing
+#AIStrategy #IPStrategy #Valuation
