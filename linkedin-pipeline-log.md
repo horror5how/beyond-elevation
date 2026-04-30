@@ -48,3 +48,19 @@ Post 5: hook_too_long(10w), no_specific_number
 2026-04-29 12:16 | li-auto-post | render OK | post #3 | layout=c accent=#a89968 hash=7ef830031ff5ffff minDist=6 attempts=2
 2026-04-29 15:11 | li-auto-post | render OK | post #4 | layout=c accent=#d7b086 hash=fff111310b75ffff minDist=8 attempts=1
 2026-04-29 18:07 | li-auto-post | render OK | post #5 | layout=a accent=#a89968 hash=00ffffffffff2505 minDist=5 attempts=1
+2026-04-30 06:21 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: banned:" — "
+Post 2: hook_too_long(11w), banned:" — "
+Post 3: hook_too_long(13w), banned:" — "
+Post 4: hook_too_long(13w), banned:" — "
+Post 5: hook_too_long(10w), banned:" — "
+2026-04-30 06:22 | li-generate-queue | attempt 2 | quality gate failed:
+Post 3: hook_too_long(10w)
+Post 5: hook_too_long(12w), no_specific_number
+2026-04-30 06:22 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: banned:" — "
+Post 2: hook_too_long(19w), banned:" — "
+Post 3: hook_too_long(12w), banned:" — "
+Post 4: hook_too_long(16w), banned:" — "
+Post 5: hook_too_long(15w), banned:" — "
+2026-04-30 06:22 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
