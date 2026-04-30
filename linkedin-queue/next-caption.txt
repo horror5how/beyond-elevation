@@ -1,17 +1,13 @@
-Two AI companies. Same revenue. Same year.
+Software patent licensing just set a price floor.
 
-One raised at 12x. The other at 47x.
+Stanzione 2026 data: software patents license at 8–12% of net sales.
 
-The difference was not the model.
+SaaS and pharma clear 15%.
 
-It was where the model lived.
+Automotive floors out at 2–4%.
 
-Q1 2026 VC data: AI startups with deep workflow integration score 3.2x higher valuations than wrapper products.
+That spread exists for one reason: embedding depth and switching cost.
 
-LLM wrappers die on discovery. Embedded workflows survive five market cycles.
+If you don't know where your IP sits on that range, you're pricing at the floor.
 
-The new AI moat is distribution and switching cost — not model quality.
-
-Your patent protects the invention. Your architecture protects the business.
-
-#AIStrategy #IPStrategy #Valuation
+#IPStrategy #PatentLicensing #Licensing
