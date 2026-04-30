@@ -54,3 +54,4 @@
 2026-04-29 15:11 | urn:li:share:7455272587493998592 | post #4 | eu-japan-ip-action-cross-border-licensing | Prediction: cross-border IP licensing revenue from the EU-Japan corridor doubles
 2026-04-29 17:51 | urn:li:share:7455312758667100160 | A 12-person team just licensed their existing data for $2.3M recurring.  No new 
 2026-04-29 18:07 | urn:li:share:7455316826466598912 | post #5 | china-cnipa-2026-rectification-bad-faith | China's National IP Administration just declared 2026 the Year of Rectification 
+2026-04-30 07:50 | QUEUED | ai-multiple-dispersion-workflow-moat | Two AI companies. Same revenue. Same year.  One raised at 12x. The other at 47x.
