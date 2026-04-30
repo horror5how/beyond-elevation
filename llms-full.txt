@@ -943,3 +943,21 @@ Data licensing is a contractual arrangement where one party grants another the r
 The distinction matters because it changes the economics entirely. A data sale is a one-time transaction. A data licensing agreement is a recurring revenue engine. The same dataset that might fetch $200,000 in a one-time sale can generate $80,000 per year from each of five licensees — $400,000 annually, $2 million over five years. That is the math that makes data licensin
 
 ---
+
+## The Real Margin on IP Monetization (With 3 Case Study P&Ls)
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-monetization-profit-margins
+
+IP monetization generates 60–90% gross margins. That number shocks most founders because they have been told patents are a cost — filing fees, prosecution, maintenance. Hayat Amin argues the opposite: a patent that does not generate revenue is a liability dressed up as an asset, and the founders who treat IP as a profit centre routinely out-earn those who treat it as insurance.
+
+The real question is not whether IP assets can be monetized for profit. They can. The question is how much profit — and what it costs to get there. Beyond Elevation has run the numbers across dozens of licensing programmes, and the margins consistently outperform every other revenue line a tech company operates.
+
+Here are three case study P&Ls that show what IP monetization profit actually looks like — stripped to the numbers that matter.
+
+## Can IP Assets Be Monetized for Profit?
+
+Yes — IP assets can be monetized for profit, and the margins are structurally higher than product revenue because the underlying asset does not deplete with use. A patent licensed to ten companies generates ten revenue streams from a single filing cost, with near-zero marginal cost per additional licensee.
+
+The 2026 patent licensing market is valued at $4.1 billion and growing at 7.77% CAGR, reaching $5.48 billion by 2035. Software patent royalties now settle at 8–12% of net sales. SaaS and pharma patents command 15% or higher. These are transaction-level numbers drawn from Stanzione 2026 licensing data across thousands of 
+
+---

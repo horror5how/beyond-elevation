@@ -3,7 +3,7 @@ title: "The Real Margin on IP Monetization (With 3 Case Study P&Ls)"
 slug: ip-monetization-profit-margins
 date: 2026-04-30
 url: https://beyondelevation.com/blog/post.html?slug=ip-monetization-profit-margins
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -72,7 +72,7 @@ The majority of patent-holding companies earn zero licensing revenue — not bec
 
 **They do not know what is licensable.** Most companies file patents defensively and never map claims against competitor products. Without a [patent licensing revenue model](/blog/posts/patent-licensing-revenue-model/), even a strong portfolio generates nothing.
 
-**They price too low.** Founders without licensing experience anchor to numbers that feel "fair" rather than data-backed benchmarks. Hayat Amin reminds founders that 8–12% of net sales is the 2026 software licensing benchmark — most first-time licensors propose 2–3% and leave 70% of the value on the table.
+**They price too low.** Founders without licensing experience anchor to numbers that feel “fair” rather than data-backed benchmarks. Hayat Amin reminds founders that 8–12% of net sales is the 2026 software licensing benchmark — most first-time licensors propose 2–3% and leave 70% of the value on the table.
 
 **They confuse filing with monetising.** A granted patent is a legal right, not a revenue stream. The revenue flows only when a licensing programme — claim mapping, licensee identification, outreach, negotiation, administration — is built around the portfolio. Hayat Amin says it directly: filing a patent without a licensing strategy is building a toll bridge and forgetting to collect the toll.
 
@@ -91,6 +91,20 @@ IP monetization ROI requires five inputs: portfolio size, licensable claim bread
 **Step 4: Estimate costs.** Portfolio audit: $20K–$50K. Claim charting: $5K–$15K per family. Outreach and negotiation: $30K–$80K. Annual administration: $25K–$50K. For enforcement, reserve $200K–$500K per hold-out.
 
 **Step 5: Run the P&L.** Subtract total costs from projected revenue. If the margin exceeds 50% in year two, the programme is viable. Most viable programmes show 70–90% margins by year three as the licensee base grows against fixed costs. Companies with patents are 10.2x more likely to secure early-stage funding — and a proven licensing P&L multiplies that advantage. For a free portfolio assessment, visit [beyondelevation.com](https://beyondelevation.com).
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-monetization-profit-margins)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -113,3 +127,6 @@ Invalidity — a licensee challenges your patent and wins, destroying the asset'
 ### How much does it cost to start an IP licensing programme?
 
 A focused programme costs $50K–$150K to launch, covering portfolio audit, claim mapping, licensee identification, and initial outreach. Annual operating costs run $30K–$80K. ROI typically exceeds 5:1 within 24 months for viable programmes.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

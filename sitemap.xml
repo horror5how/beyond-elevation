@@ -55,6 +55,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-monetization-profit-margins/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/know-how-is-an-asset/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -617,12 +623,6 @@
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ip-monetization-profit-margins</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/ip-monetization-profit-margins.md</loc>
