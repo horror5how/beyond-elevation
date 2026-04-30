@@ -8,3 +8,5 @@
 2026-04-30 11:40 | no new comments — exiting clean
 2026-04-30 11:40 | liked 0/5 network posts
 2026-04-30 11:40 | done
+2026-04-30 13:19 | latest post: urn:li:share:7455600415255220224
+2026-04-30 13:20 | SKIP | 403 ACCESS_DENIED on socialActions — provide LI_COOKIES_JSON for Voyager path or get r_member_social via Community Management API. Exiting clean.
