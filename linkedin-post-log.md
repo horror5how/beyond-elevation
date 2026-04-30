@@ -55,3 +55,4 @@
 2026-04-29 17:51 | urn:li:share:7455312758667100160 | A 12-person team just licensed their existing data for $2.3M recurring.  No new 
 2026-04-29 18:07 | urn:li:share:7455316826466598912 | post #5 | china-cnipa-2026-rectification-bad-faith | China's National IP Administration just declared 2026 the Year of Rectification 
 2026-04-30 07:50 | QUEUED | ai-multiple-dispersion-workflow-moat | Two AI companies. Same revenue. Same year.  One raised at 12x. The other at 47x.
+2026-04-30 09:22 | urn:li:share:7455546990312071168 | post #6 | agtech-ip-binsentry-vertical-multiples | 3 reasons agtech is the next IP category to watch.  BinSentry just announced AI 

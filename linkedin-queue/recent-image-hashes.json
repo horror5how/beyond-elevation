@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffffff0000",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "world-ip-day-2026-four-datapoints",
-    "ts": "2026-04-28T17:31:28.827Z"
-  },
-  {
     "hash": "fff030111ff1ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "china-cnipa-2026-rectification-bad-faith",
     "ts": "2026-04-29T18:07:24.805Z"
+  },
+  {
+    "hash": "fff1110333f4ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "agtech-ip-binsentry-vertical-multiples",
+    "ts": "2026-04-30T09:22:00.187Z"
   }
 ]

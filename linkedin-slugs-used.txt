@@ -48,3 +48,4 @@ eu-japan-ip-action-cross-border-licensing
 data-licensing-deal-structure-2-3m
 china-cnipa-2026-rectification-bad-faith
 ai-multiple-dispersion-workflow-moat
+agtech-ip-binsentry-vertical-multiples

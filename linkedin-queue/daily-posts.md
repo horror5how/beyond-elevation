@@ -3,7 +3,7 @@ date: 2026-04-29
 theme: Patent capital, customs power, and cross-border treaties moved together — AI-for-patents took $105M in 14 days, U.S. customs got new IP teeth, and three IP regulators (China SPP, EU-Japan, CNIPA) signalled IP is being instrumentalised as a state-grade asset class.
 generated_at: 2026-04-29T04:00:00.000Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -183,7 +183,9 @@ Read our China IP playbook → beyondelevation.com/insights
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-04-30T09:22:00.187Z
+share_urn: urn:li:share:7455546990312071168
 hook_format: listicle
 cta_goal: clicks
 slug: agtech-ip-binsentry-vertical-multiples
