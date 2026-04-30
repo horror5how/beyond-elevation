@@ -95,5 +95,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Is a Provisional Patent Worth It? The Honest Answer After Reviewing 200+ Startup Filings](https://beyondelevation.com/blog/post.html?slug=is-a-provisional-patent-worth-it) — /blog/md/is-a-provisional-patent-worth-it.md
 - [Is Data Monetization Legal? Yes — With These 4 Non-Negotiable Compliance Requirements](https://beyondelevation.com/blog/post.html?slug=is-data-monetization-legal) — /blog/md/is-data-monetization-legal.md
 - [The 7 Ways to Make Money From IP (Ranked by What Actually Works in 2026)](https://beyondelevation.com/blog/post.html?slug=7-ways-to-make-money-from-ip) — /blog/md/7-ways-to-make-money-from-ip.md
+- [Data Licensing Explained in 60 Seconds: The Deal Structure That Generated $2.3M for a 12-Person Team](https://beyondelevation.com/blog/post.html?slug=data-licensing-explained) — /blog/md/data-licensing-explained.md
 
 > Full blog content available at /llms-full.txt
