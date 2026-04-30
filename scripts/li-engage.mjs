@@ -4,21 +4,28 @@
  *
  * 1. Reads latest published `urn:li:share:*` from
  *    `Claude Database/linkedin-post-log.md` (CI: copied into ./linkedin-post-log.md)
- * 2. Fetches new comments via /v2/socialActions/{shareUrn}/comments
+ * 2. Fetches new comments via the LinkedIn Voyager API (cookie auth — no OAuth scope
+ *    needed; the official `/v2/socialActions/{urn}/comments` requires `r_member_social`
+ *    which LinkedIn only grants via Community Management API review)
  * 3. Drafts substantive replies using Anthropic Claude SDK in Hayat's voice
- * 4. Posts replies via socialActions/{shareUrn}/comments POST
- * 5. Likes 5 recent posts from linkedin-queue/founder-network.json
+ * 4. Posts replies via Voyager (cookie auth) with OAuth /rest/socialActions as fallback
+ * 5. Likes 5 recent posts from linkedin-queue/founder-network.json (OAuth, requires w_member_social)
  * 6. Logs every action to linkedin-engagement-log.md
  *
  * Routine resilience: every external call wrapped in 3-retry with 3-8s backoff.
  *
- * Env: LI_TOKEN, LI_URN, ANTHROPIC_API_KEY
+ * Env:
+ *   LI_TOKEN              — OAuth access token (w_member_social) for posts/likes fallback
+ *   LI_URN                — urn:li:person:... (Hayat's member URN)
+ *   LI_COOKIES_JSON       — JSON-stringified array of LinkedIn session cookies
+ *                           (must include li_at and JSESSIONID). Used for Voyager API calls.
+ *   ANTHROPIC_API_KEY     — Claude API
  */
 
 import { readFileSync, writeFileSync, existsSync, appendFileSync } from "node:fs";
 import Anthropic from "@anthropic-ai/sdk";
 
-const { LI_TOKEN, LI_URN, ANTHROPIC_API_KEY } = process.env;
+const { LI_TOKEN, LI_URN, LI_COOKIES_JSON, ANTHROPIC_API_KEY } = process.env;
 if (!LI_TOKEN || !LI_URN) {
   console.error("Missing LI_TOKEN or LI_URN");
   process.exit(1);
@@ -26,6 +33,23 @@ if (!LI_TOKEN || !LI_URN) {
 if (!ANTHROPIC_API_KEY) {
   console.error("Missing ANTHROPIC_API_KEY");
   process.exit(1);
+}
+
+// ── Voyager cookie auth (preferred for reads) ───────────────────────────
+let VOYAGER_COOKIE_HEADER = null;
+let VOYAGER_CSRF = null;
+if (LI_COOKIES_JSON) {
+  try {
+    const cookies = JSON.parse(LI_COOKIES_JSON);
+    const liAt = cookies.find((c) => c.name === "li_at")?.value;
+    const jsess = cookies.find((c) => c.name === "JSESSIONID")?.value;
+    if (liAt && jsess) {
+      VOYAGER_COOKIE_HEADER = `li_at=${liAt}; JSESSIONID=${jsess}`;
+      VOYAGER_CSRF = jsess.replace(/^"|"$/g, "");
+    }
+  } catch (e) {
+    console.error(`Bad LI_COOKIES_JSON: ${e.message}`);
+  }
 }
 
 const LI_VERSION = "202604";
@@ -101,10 +125,79 @@ async function liFetch(path, init = {}) {
   return text ? JSON.parse(text) : {};
 }
 
+// ── Voyager fetch (cookie auth) ─────────────────────────────────────────
+async function voyagerFetch(path) {
+  if (!VOYAGER_COOKIE_HEADER) {
+    const e = new Error("VOYAGER_DISABLED no LI_COOKIES_JSON");
+    e.code = "NO_VOYAGER";
+    throw e;
+  }
+  const url = path.startsWith("http") ? path : `https://www.linkedin.com${path}`;
+  const res = await fetch(url, {
+    headers: {
+      Cookie: VOYAGER_COOKIE_HEADER,
+      "Csrf-Token": VOYAGER_CSRF,
+      Accept: "application/vnd.linkedin.normalized+json+2.1",
+      "X-Restli-Protocol-Version": "2.0.0",
+      "X-Li-Lang": "en_US",
+      "User-Agent":
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      Referer: "https://www.linkedin.com/",
+    },
+  });
+  const text = await res.text();
+  if (res.status === 401 || res.status === 403) {
+    const e = new Error(`${res.status} VOYAGER_AUTH_EXPIRED`);
+    e.code = "VOYAGER_AUTH";
+    throw e;
+  }
+  if (!res.ok) throw new Error(`voyager ${res.status} ${path} :: ${text.slice(0, 300)}`);
+  return text ? JSON.parse(text) : {};
+}
+
+// Normalize Voyager comment elements into the shape the rest of the loop expects:
+//   { id, actor, message: { text } }
+function normalizeVoyagerComments(json) {
+  const elts = json?.data?.elements || json?.elements || [];
+  const included = json?.included || [];
+  // Voyager's normalized format: actor URN may be in element.commenter or element.actor.
+  return elts.map((el) => {
+    const id = el.commentUrn || el.entityUrn || el.urn || el.$URN || el.id;
+    const actor =
+      el.commenter || el.actor?.urn || el.actor || el["*commenter"] || el.author || "";
+    const text =
+      el.commentary?.text ||
+      el.message?.text ||
+      el.text ||
+      el.commentary ||
+      "";
+    return { id, actor, message: { text } };
+  });
+}
+
 async function fetchComments(shareUrn) {
   const encoded = encodeURIComponent(shareUrn);
-  // Try the versioned /rest/ endpoint first (works with w_member_social on some apps),
-  // then fall back to /v2/. If both 403, the token lacks r_member_social — we surface clean.
+
+  // Path A — Voyager (cookie auth, no OAuth scope needed). Preferred.
+  if (VOYAGER_COOKIE_HEADER) {
+    try {
+      const json = await withRetry(
+        "fetchComments-voyager",
+        () =>
+          voyagerFetch(
+            `/voyager/api/feed/comments?count=50&numReplies=0&q=comments&sortOrder=RELEVANCE&updateId=${encoded}`
+          ),
+        2
+      );
+      const elements = normalizeVoyagerComments(json);
+      return { elements, _source: "voyager" };
+    } catch (e) {
+      console.error(`voyager path failed: ${e.message} — falling back to OAuth`);
+      // fall through to OAuth path
+    }
+  }
+
+  // Path B — OAuth /rest then /v2 (requires r_member_social — likely 403 today).
   const tries = [
     `/rest/socialActions/${encoded}/comments?count=50`,
     `/v2/socialActions/${encoded}/comments?count=50`,
@@ -112,7 +205,8 @@ async function fetchComments(shareUrn) {
   let lastErr;
   for (const path of tries) {
     try {
-      return await withRetry("fetchComments", () => liFetch(path), 2);
+      const data = await withRetry("fetchComments-oauth", () => liFetch(path), 2);
+      return { ...data, _source: "oauth" };
     } catch (e) {
       lastErr = e;
       if (!/^403/.test(e.message)) break;
@@ -185,9 +279,18 @@ async function draftReply({ commenterFirstName, originalPost, commentText }) {
 
 // ── fetch commenter profile name ────────────────────────────────────────
 async function fetchFirstName(actorUrn) {
+  if (!actorUrn) return "there";
   try {
-    const id = actorUrn.split(":").pop();
-    const data = await withRetry("getName", () =>
+    const id = String(actorUrn).split(":").pop();
+    if (VOYAGER_COOKIE_HEADER) {
+      // Voyager identity dash: returns full profile object
+      const data = await withRetry("getName-voyager", () =>
+        voyagerFetch(`/voyager/api/identity/dash/profiles/${id}`)
+      );
+      const profile = data?.elements?.[0] || data?.data || data;
+      return profile?.firstName || profile?.localizedFirstName || "there";
+    }
+    const data = await withRetry("getName-oauth", () =>
       liFetch(`/v2/people/(id:${id})?projection=(localizedFirstName)`)
     );
     return data.localizedFirstName || "there";
@@ -210,12 +313,12 @@ async function main() {
   try {
     comments = await fetchComments(shareUrn);
   } catch (e) {
-    if (e.code === 401) {
-      log(`FAIL | 401 — token expired, re-auth needed`);
+    if (e.code === 401 || e.code === "VOYAGER_AUTH") {
+      log(`FAIL | auth expired (${e.message}) — refresh LI_COOKIES_JSON or LI_TOKEN`);
       return;
     }
     if (/^403/.test(e.message)) {
-      log(`SKIP | 403 ACCESS_DENIED on socialActions — token lacks r_member_social scope. Re-auth with r_member_social scope to enable comment reading. Exiting clean.`);
+      log(`SKIP | 403 ACCESS_DENIED on socialActions — provide LI_COOKIES_JSON for Voyager path or get r_member_social via Community Management API. Exiting clean.`);
       return;
     }
     log(`FAIL | fetchComments: ${e.message}`);
@@ -223,7 +326,7 @@ async function main() {
   }
 
   const elements = comments.elements || [];
-  log(`found ${elements.length} total comments on latest post`);
+  log(`found ${elements.length} total comments on latest post (source: ${comments._source || "unknown"})`);
 
   if (elements.length === 0 && (comments._error || comments.message)) {
     log(`note: API returned no elements — likely scope-limited; exiting clean`);
