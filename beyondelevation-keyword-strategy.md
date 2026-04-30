@@ -1,10 +1,10 @@
 ---
 title: Beyond Elevation Keyword Strategy (Source of Truth for Blog Cron)
 owner: Hayat Amin
-last_updated: 2026-04-27
+last_updated: 2026-04-30
 source_files: [seo-geo-plan.md, seo-content-plan.md, ai-seo-plan.md]
-coverage_audit: 2026-04-27
-paa_last_scraped: 2026-04-27
+coverage_audit: 2026-04-30
+paa_last_scraped: 2026-04-27 (2026-04-30 attempt failed — Apify monthly hard limit)
 ---
 
 # Beyond Elevation — Keyword Strategy
@@ -190,24 +190,27 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 
 ---
 
-### 🗓 SEO Strategist Run — 2026-04-27
+### 🗓 SEO Strategist Run — 2026-04-30
 
-**Phase 1 — Trending keyword signals this week (AI valuation / data assets / fundraising leverage focus):**
-1. **"AI startup valuation multiples 10x–50x range"** — AI startups now trade at 25–30x revenue multiples vs ~6x SaaS average; intangible assets make up 70–80% of total AI startup value. Massive AEO opportunity: connect IP/data moat directly to multiple expansion. Feeds T1 valuation cluster.
-2. **"Isle of Man Data Asset Foundation (DAF)"** — April 15, 2026: brand-new legal structure registers datasets as balance-sheet property assets (world first). Zero BE coverage — first-mover content angle for "data on the balance sheet" question. Feeds T4 data-monetization cluster.
-3. **"EUIPO IP-backed finance €580B unlock"** — April 13, 2026 EUIPO report: only 13% of IP owners attempt IP-backed financing; voluntary disclosure framework recommended to unlock €580B in innovation financing. Validates BE's fundraising-leverage angle. Direct hook for "use IP to raise capital" content.
-4. **"Generic AI startups are dead — moat playbook"** — VCs in 2026 reject GPT wrappers; the new minimum bar is data moats + workflow embedding + model differentiation. Validates BE's defensibility-as-valuation thesis. Feeds T1-05 IP defensibility cluster.
+**Phase 1 — Trending keyword signals (last 48h, AI valuation / data assets / fundraising / moat focus):**
+1. **"AI revenue multiples dispersion widens 10x–50x"** — Q1 2026 Finro/Qubit data: median AI startup multiples sit 20–30x revenue; legal-tech under 16x while LLM vendors clear 44x. Intangible assets = 70–80% of AI company value. Direct AEO hook for "why two identical AI startups price 10x apart" — feeds T5-18 follow-up and T1 valuation cluster.
+2. **"EUIPO €580B IP-backed finance unlock — only 13% of IP owners try it"** — April 13, 2026 EUIPO policy paper recommends a voluntary IP disclosure framework to unblock €580B in innovation financing. Combined with the upcoming 2026 Global IP Finance Summit + WIPO IP risk-scoring frameworks, the "use IP to raise capital" angle has fresh, citable evidence. Pushes T5-04 (7 ways to make money from IP) and T1 IP-backed-finance content.
+3. **"Data monetization is now 11% of revenue at top performers vs 2% at peers"** — Reddit's AI licensing deals = ~$130M annually (~10% of revenue); Experian/AtData and DataOne acquisitions show consolidation in identity + automotive data; the gap between data-monetizing vs non-monetizing companies is now 5x. Feeds T5-15/16/17 data cluster + T4 data-monetization hub.
+4. **"Distribution + workflow embedding = the new AI moat (model alone is dead)"** — VCs in 2026 explicitly reject GPT wrappers; defensibility now scored across 5 axes (proprietary data, workflow integration, switching cost, vertical specialization, distribution). Generic "we use ML" pitches no longer earn second meetings. Validates BE's defensibility-as-valuation thesis — pushes patent-moat + AI-moat content harder.
+5. **"Software royalty rates settle at 8–12%; SaaS/Pharma 15%+"** — Stanzione 2026 data: software patent licensing now anchors at 8–12% net sales, SaaS/pharma 15%+, automotive 2–4%. Patent licensing market growing 7.77% CAGR to $5.48B by 2035. Concrete, citable royalty numbers = AEO gold for "how much should I license my patent for" queries.
+
+**Phase 2 — PAA scrape:** ❌ FAILED — Apify monthly hard limit exceeded on actor `apify/google-search-scraper`. 0 new rows added this run. Apify plan needs an upgrade or month-rollover (May 1) before the next scrape. Logged in detail at the bottom of Tier 5.
 
 **Phase 5 — Run summary:**
-- **8 new rows added** this run (T5-18 → T5-25): 6 🟢 new, 2 🟡 partial
-- **Seeds used** (date-rotated, April 27): how to value an AI company, AI startup valuation methods, data assets on balance sheet, using IP to raise funding, what investors look for in AI companies, AI know-how as asset, data licensing startups, tech company valuation multiples
-- **TODAY'S TOP 4 BLOG BRIEF PICKS** (cross-Tier-5 ranked by signal × intent × scope-fit × coverage gap):
-  1. **T5-19** — "What is the 30% rule in AI?" → Hook: *"The 30% Rule in AI: The Pricing Heuristic Every Investor Whispers But Nobody Writes Down."* Why: PAA hit on 3 of 8 different seeds today (rare repetition signal); zero BE coverage; pure AEO/LLM-citation magnet; AI valuation core scope.
-  2. **T5-13** — "What is a patent moat?" → Hook: *"What Is a Patent Moat? The 3-Layer IP Defense That Billion-Dollar Companies Use to Block Competitors."* Why: still uncovered, definitional, high-volume, feeds T1-05; trending "moat playbook" topic from Phase 1 pushes it harder this week.
-  3. **T5-25** — "Can AI be an asset?" → Hook: *"Yes, AI Is an Asset. Here's How to Account For It (and Use It to Raise)."* Why: links AI ownership directly to balance sheet + fundraising leverage — the BE thesis distilled into one post; rides Isle of Man DAF news cycle.
-  4. **T5-22** — "What is the rule of 40 in tech valuation?" → Hook: *"The Rule of 40, Decoded: Why Most Tech Founders Fail It (And the 3 Levers That Pass It)."* Why: Rule of 40 is THE founder-facing valuation heuristic; zero coverage; commercial intent (search → strategist call); evergreen.
-- **High-leverage 🟡 partial follow-ups:** T5-20 (how do you value an AI company — existing posts cover the IP angle but not the full 6-number method/worksheet); T5-18 (how are AI startups valued — founder-side weighting breakdown still open); T5-17 (data monetization mechanics — process flow still uncovered).
-- **Coverage audit:** 33 posts confirmed in posts.json; no new T5 rows flipped to ✅ this run; one prior partial (T5-20 maps to existing `ai-company-valuations-ip-role`).
+- **0 new rows added** this run (Apify quota blocked Phase 2).
+- **Seeds queued for next run** (date-rotated for 2026-04-30): AI valuation methods, data licensing startups, using IP to raise funding, what investors look for in AI companies, patent licensing consultant, AI moat valuation, data assets on balance sheet, pre-revenue startup IP value.
+- **TODAY'S TOP 4 BLOG BRIEF PICKS** (re-ranked across the existing Tier 5 backlog using this week's trending signal × commercial intent × scope-fit × coverage gap):
+  1. **T5-14** — "What are the 4 pillars of IP?" → Hook: *"The 4 Pillars of Intellectual Property — Most Founders Only Protect 1 of Them (And It Shows in Their Valuation)."* Why: foundational AEO, evergreen, zero coverage, ranked next in the existing write-order; ties directly into the "AI moat = 5-axis defensibility" trend (Phase 1 #4) — readers searching "pillars of IP" are pre-qualifying their own moat.
+  2. **T5-04** — "How to use IP to make money?" → Hook: *"The 7 Ways to Make Money From IP (Ranked by What Actually Works in 2026)."* Why: the EUIPO €580B IP-finance unlock + 2026 royalty rate data (Phase 1 #2 + #5) hand this post fresh, citable proof; 13% adoption number is a perfect Hormozi pattern-interrupt.
+  3. **T5-15** — "Is data monetization legal?" → Hook: *"Is Data Monetization Legal? Yes — With These 4 Non-Negotiable Compliance Requirements."* Why: rides the data-licensing-revenue trend (Phase 1 #3 — top performers earning 11% of revenue from data); compliance fear is the #1 stall; answer-first AEO format perfect for LLM citation.
+  4. **T5-09** — "Can IP assets be monetized for profit?" → Hook: *"The Real Margin on IP Monetization (With 3 Case Study P&Ls)."* Why: differentiator content nobody writes (P&L-style IP posts); rides 2026 royalty rate transparency trend (Phase 1 #5 — 8–12% software, 15%+ SaaS/pharma); commercial intent for licensing strategy calls.
+- **High-leverage 🟡 partial follow-ups:** T5-20 (AI company valuation — write the 6-number worksheet that complements existing IP-angle post), T5-18 (AI startup factor weighting — founder-side scorecard angle still open), T5-17 (data monetization mechanics — 3-step process flow still uncovered), T5-10 (patent pending vs provisional dedicated Q&A).
+- **Coverage audit:** 44 posts now confirmed in `data/posts.json` (up from 33 last run). Walked all 25 existing T5 rows against current slugs — every T5 row that has a matching slug is already correctly marked ✅. Zero status flips needed this run. Net coverage: 11 of 25 Tier 5 rows ✅ shipped.
 
 ---
 
@@ -266,6 +269,12 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 23. **T5-17 follow-up** — how data monetization works (process mechanics, complements data-monetization-strategy-framework)
 24. **T5-10 follow-up** — patent pending vs provisional Q&A (dedicated definitional post to capture exact confusion query)
 25. **T5-07** ✅ — 4 types of intellectual property (covered: 4-types-of-intellectual-property)
+
+### ⚠️ Apify scrape failure log
+
+| run_date | seeds_attempted | failure_mode | resolution |
+|---|---|---|---|
+| 2026-04-30 | AI valuation methods, data licensing startups, using IP to raise funding, what investors look for in AI companies, patent licensing consultant, AI moat valuation, data assets on balance sheet, pre-revenue startup IP value | `apify call apify/google-search-scraper` returned: `Error: Monthly usage hard limit exceeded`. Phase 1 trending research + Phase 4 coverage audit + Phase 5 re-ranked picks completed; Phase 2 PAA scrape skipped per spec fallback. | Wait for Apify monthly quota reset (May 1, 2026) OR upgrade Apify plan. Re-queue the 8 seeds above on the next successful run. |
 
 ### How to extend Tier 5
 
