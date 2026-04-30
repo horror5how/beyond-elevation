@@ -58,3 +58,4 @@
 2026-04-30 09:22 | urn:li:share:7455546990312071168 | post #6 | agtech-ip-binsentry-vertical-multiples | 3 reasons agtech is the next IP category to watch.  BinSentry just announced AI 
 2026-04-30 12:53 | QUEUED | software-royalty-rates-2026 | Software patent licensing just set a price floor.  Stanzione 2026 data: software
 2026-04-30 12:54 | urn:li:share:7455600415255220224 | Software patent licensing just set a price floor.  Stanzione 2026 data: software
+2026-04-30 17:51 | urn:li:share:7455675157542793216 | Two AI companies. Same agent architecture. Same market.  One raised at 47x reven
