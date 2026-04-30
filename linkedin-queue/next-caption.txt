@@ -1,13 +1,21 @@
-Software patent licensing just set a price floor.
+Two AI companies. Same agent architecture. Same market.
 
-Stanzione 2026 data: software patents license at 8–12% of net sales.
+One raised at 47x revenue. The other at 9x.
 
-SaaS and pharma clear 15%.
+The difference: one owned its agent IP. The other didn't.
 
-Automotive floors out at 2–4%.
+Agentic AI is not a product decision. It is an IP decision.
 
-That spread exists for one reason: embedding depth and switching cost.
+Three moves the 47x company made:
 
-If you don't know where your IP sits on that range, you're pricing at the floor.
+1. Patented the orchestration logic, not the model.
 
-#IPStrategy #PatentLicensing #Licensing
+2. Registered training pipelines as trade secrets.
+
+3. Structured IP in a holdco before the Series B.
+
+74% of agentic AI startups skip all three.
+
+That is why their valuation looks like a commodity.
+
+#AgenticAI #IPStrategy #Valuation
