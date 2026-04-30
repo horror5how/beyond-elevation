@@ -432,7 +432,7 @@ function buildEmailHtml(newsItems, repos24h, repos7d, redditSkills, tiktokSkills
     <tr><td style="background:#f9fafb;padding:24px 40px;border-radius:0 0 14px 12px;border-top:1px solid #e5e7eb;text-align:center;">
       <div style="font-size:12px;color:#9ca3af;line-height:1.8;">
         Daily digest for <a href="https://beyondelevation.com" style="color:#0f172a;font-weight:700;text-decoration:none;">hayat@beyondelevation.com</a>
-        &nbsp;·&nbsp; Delivered at 8:00 AM GMT/BST<br/>
+        &nbsp;·&nbsp; Delivered at 8:00 AM BST / 7:00 AM GMT<br/>
         <span style="font-size:11px;">Powered by GitHub Actions · GitHub API · Reddit · ${tiktokSkills.length ? 'Apify/TikTok' : 'RSS feeds'}</span>
       </div>
     </td></tr>
