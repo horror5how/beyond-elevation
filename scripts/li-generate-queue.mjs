@@ -92,6 +92,33 @@ function stripHashtags(caption) {
   return caption.split('\n').filter(l => !/^#[A-Za-z0-9_ #]+$/.test(l.trim())).join('\n');
 }
 
+// 2026-05-01 COO audit: cheap pre-gate auto-fix. Claude Sonnet 4-6 ignores
+// "no em-dashes" and "no leverage" instructions ~100% of the time. Rather than
+// burn 3 retries fighting the model, normalise the obvious things first and
+// only fail the gate on stuff we can't safely auto-fix (hook length, missing
+// numbers, mechanism shape, audience framing). Cuts gate failures by ~70%.
+function autoCleanCaption(caption) {
+  return caption
+    // em-dash / en-dash → period+space (preserves sentence rhythm)
+    .replace(/\s+[—–]\s+/g, '. ')
+    .replace(/[—–]/g, '. ')
+    // "leverage" verb forms → "use" forms (banned per brand voice)
+    .replace(/\bLeveraging\b/g, 'Using')
+    .replace(/\bleveraging\b/g, 'using')
+    .replace(/\bLeveraged\b/g, 'Used')
+    .replace(/\bleveraged\b/g, 'used')
+    .replace(/\bLeverage\b/g, 'Use')
+    .replace(/\bleverage\b/g, 'use')
+    // Other lazy AI tics caught by BANNED_TOKENS
+    .replace(/\bDelving\b/g, 'Working through').replace(/\bdelving\b/g, 'working through')
+    .replace(/\bDelve\b/g, 'Work through').replace(/\bdelve\b/g, 'work through')
+    .replace(/\bSeamlessly\b/g, 'Cleanly').replace(/\bseamlessly\b/g, 'cleanly')
+    .replace(/\bSeamless\b/g, 'Clean').replace(/\bseamless\b/g, 'clean')
+    .replace(/navigate the landscape/gi, 'work the market')
+    // Collapse the double-period the dash replacement can leave
+    .replace(/\.\s*\./g, '.');
+}
+
 function validateCaption(caption) {
   const reasons = [];
   const body = stripHashtags(caption);
@@ -329,21 +356,38 @@ for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     continue;
   }
 
+  // Auto-clean every caption (em-dashes, "leverage", etc.) BEFORE gating.
+  // Re-emit the candidate with the cleaned bodies so the file we keep already
+  // has the cleanups baked in.
   const posts = parseGeneratedPosts(candidate);
   const failures = [];
+  const cleanedFailures = []; // for retry feedback: full text Claude can rewrite from
+  let totalAutoFixes = 0;
   for (const p of posts) {
+    const cleaned = autoCleanCaption(p.caption);
+    if (cleaned !== p.caption) {
+      totalAutoFixes++;
+      candidate = candidate.replace(p.caption, cleaned);
+      p.caption = cleaned;
+    }
     const v = validateCaption(p.caption);
-    if (!v.ok) failures.push(`Post ${p.num}: ${v.reasons.join(', ')}`);
+    if (!v.ok) {
+      failures.push(`Post ${p.num}: ${v.reasons.join(', ')}`);
+      cleanedFailures.push(`Post ${p.num} FAILED [${v.reasons.join(', ')}]\nCURRENT TEXT (rewrite ONLY this post — keep all other posts unchanged):\n${p.caption}`);
+    }
+  }
+  if (totalAutoFixes > 0) {
+    pipeLog(`attempt ${attempt} | auto-cleaned ${totalAutoFixes}/${posts.length} post(s) (em-dashes / leverage / etc.)`);
   }
 
   if (failures.length === 0) {
     raw = candidate;
-    pipeLog(`attempt ${attempt} | OK — all 5 posts pass P→M→R gate`);
+    pipeLog(`attempt ${attempt} | OK — all 5 posts pass P→M→R gate (auto-fixes=${totalAutoFixes})`);
     break;
   }
 
-  lastFailures = failures.join('\n');
-  pipeLog(`attempt ${attempt} | quality gate failed:\n${lastFailures}`);
+  lastFailures = failures.join('\n') + '\n\n' + cleanedFailures.join('\n\n');
+  pipeLog(`attempt ${attempt} | quality gate failed:\n${failures.join('\n')}`);
   if (attempt === MAX_ATTEMPTS) {
     pipeLog(`ABORT after ${MAX_ATTEMPTS} attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.`);
     process.exit(1);
