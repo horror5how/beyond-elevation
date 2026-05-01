@@ -212,11 +212,11 @@ try {
       targetEntities: [],
       thirdPartyDistributionChannels: [],
     },
+    // LinkedIn rejects title/altText override on documents (NATIVE_DOCUMENT category
+    // is fixed at upload time). Pass id only — the document already carries metadata.
     content: {
       media: {
         id: init.document,
-        title,
-        altText: title,
       },
     },
     lifecycleState: 'PUBLISHED',
