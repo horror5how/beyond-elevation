@@ -3,7 +3,7 @@ title: "What Is a Trade Secret? The Legal Definition, Famous Examples, and When 
 slug: what-is-a-trade-secret
 date: 2026-05-01
 url: https://beyondelevation.com/blog/post.html?slug=what-is-a-trade-secret
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -83,6 +83,20 @@ Companies with patents are 10.2x more likely to secure early-stage funding — b
 
 If you do not know how many trade secrets your company has today, you do not have a trade secret programme. You have a liability. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to find out what you are leaving exposed.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-what-is-a-trade-secret)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does a trade secret last?
@@ -104,3 +118,6 @@ An NDA is a contract restricting disclosure of specific information between part
 ### Do trade secrets appear on a company's balance sheet?
 
 Trade secrets can be recognised as intangible assets under IFRS and US GAAP when acquired in a business combination, but internally developed trade secrets are rarely carried on the balance sheet. This gap between balance sheet value and actual economic value is one reason [intangible asset valuation](/blog/posts/how-to-value-intangible-assets-ma/) matters so much in M&A transactions.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -97,5 +97,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 7 Ways to Make Money From IP (Ranked by What Actually Works in 2026)](https://beyondelevation.com/blog/post.html?slug=7-ways-to-make-money-from-ip) — /blog/md/7-ways-to-make-money-from-ip.md
 - [Data Licensing Explained in 60 Seconds: The Deal Structure That Generated $2.3M for a 12-Person Team](https://beyondelevation.com/blog/post.html?slug=data-licensing-explained) — /blog/md/data-licensing-explained.md
 - [The Real Margin on IP Monetization (With 3 Case Study P&Ls)](https://beyondelevation.com/blog/post.html?slug=ip-monetization-profit-margins) — /blog/md/ip-monetization-profit-margins.md
+- [What Is a Trade Secret? The Legal Definition, Famous Examples, and When It Beats a Patent](https://beyondelevation.com/blog/post.html?slug=what-is-a-trade-secret) — /blog/md/what-is-a-trade-secret.md
 
 > Full blog content available at /llms-full.txt

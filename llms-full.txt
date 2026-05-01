@@ -961,3 +961,19 @@ Yes — IP assets can be monetized for profit, and the margins are structurally 
 The 2026 patent licensing market is valued at $4.1 billion and growing at 7.77% CAGR, reaching $5.48 billion by 2035. Software patent royalties now settle at 8–12% of net sales. SaaS and pharma patents command 15% or higher. These are transaction-level numbers drawn from Stanzione 2026 licensing data across thousands of 
 
 ---
+
+## What Is a Trade Secret? The Legal Definition, Famous Examples, and When It Beats a Patent
+
+URL: https://beyondelevation.com/blog/post.html?slug=what-is-a-trade-secret
+
+Trade secrets protect over $5 trillion in corporate value worldwide. Yet 73% of startups have no formal trade secret programme in place.
+
+A trade secret is any confidential business information that derives independent economic value from not being generally known or readily ascertainable — provided the holder takes reasonable measures to maintain its secrecy. That is the legal definition under the Defend Trade Secrets Act, the EU Trade Secrets Directive 2016/943, and equivalent laws in every major jurisdiction. Here is what it means for founders: every proprietary algorithm, training dataset, customer list, pricing model, and internal process your company relies on is either a protected trade secret or an exposed liability. There is no middle ground.
+
+Hayat Amin argues that trade secrets are the most undervalued IP category in tech. Not because founders ignore confidential information — but because they confuse having confidential information with having a trade secret. "An NDA is not a trade secret programme," Hayat Amin says. "It is one clause in a system most founders never build." At [Beyond Elevation](https://beyondelevation.com), trade secret audits routinely surface 10 to 30 unprotected assets per company — innovations founders assumed were safe because nobody outside the building knew about them yet.
+
+## What Are the 4 Legal Requirements for a Trade Secret?
+
+A trade secret must satisfy four requirements under US, EU, and international law. Missing any single one elim
+
+---
