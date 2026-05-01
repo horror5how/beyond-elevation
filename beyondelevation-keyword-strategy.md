@@ -118,7 +118,7 @@ New trending keywords in business consulting, AI transformation, and IP commerci
 
 | # | slug_hint | primary_keyword | supporting_keywords | angle | intent |
 |---|---|---|---|---|---|
-| T4C-01 | can-ai-own-a-patent | can AI own a patent | AI inventor, AI patent ownership, artificial inventor | Can AI Own a Patent? The Answer in Every Major Jurisdiction (2026 Update) | Informational |
+| T4C-01 | can-ai-own-a-patent | can AI own a patent | AI inventor, AI patent ownership, artificial inventor | Can AI Own a Patent? The Answer in Every Major Jurisdiction (2026 Update) | Informational | ✅ can-ai-own-a-patent (2026-05-01) |
 | T4C-02 | what-is-a-patent-holdco | what is a patent holding company | IP holdco definition, patent holdco structure, IP vehicle | What Is a Patent Holding Company? The Structure That Protects Billions in IP | Informational |
 | T4C-03 | what-is-a-trade-secret | what is a trade secret | trade secret definition, trade secret examples, trade secret vs patent | What Is a Trade Secret? The Legal Definition, Famous Examples, and When It Beats a Patent | Informational |
 | T4C-04 | how-to-value-intangible-assets | how to value intangible assets for M&A | intangible asset valuation M&A, IP value in acquisition, goodwill vs IP | How to Value Intangible Assets in an M&A Deal: The 3 Methods and When Each Applies | Informational |
