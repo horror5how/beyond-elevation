@@ -1,21 +1,15 @@
-Two AI companies. Same agent architecture. Same market.
+A startup got a patent troll letter. Their lawyer said settle for $350K.
 
-One raised at 47x revenue. The other at 9x.
+They ignored that advice. Here's the 3-move playbook they used instead.
 
-The difference: one owned its agent IP. The other didn't.
+6,000+ NPE lawsuits filed in the U.S. last year alone.
 
-Agentic AI is not a product decision. It is an IP decision.
+80% of targets settle before discovery — average payout under $500K.
 
-Three moves the 47x company made:
+Startups that challenge validity via IPR win 67% of cases.
 
-1. Patented the orchestration logic, not the model.
+The difference isn't money. It's knowing which moves to make in the first 30 days.
 
-2. Registered training pipelines as trade secrets.
+Audit the troll's patent. Count their prior IPR losses. Then decide.
 
-3. Structured IP in a holdco before the Series B.
-
-74% of agentic AI startups skip all three.
-
-That is why their valuation looks like a commodity.
-
-#AgenticAI #IPStrategy #Valuation
+#PatentStrategy #IP #IPStrategy
