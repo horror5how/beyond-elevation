@@ -1,15 +1,20 @@
-A startup got a patent troll letter. Their lawyer said settle for $350K.
+Top data-monetizing companies earn 11% of revenue from their data.
 
-They ignored that advice. Here's the 3-move playbook they used instead.
+The rest earn 2%.
 
-6,000+ NPE lawsuits filed in the U.S. last year alone.
+That 5x gap compounds every year you delay.
 
-80% of targets settle before discovery — average payout under $500K.
+Reddit licenses data to AI labs for $130M annually. That is ~10% of total revenue.
 
-Startups that challenge validity via IPR win 67% of cases.
+Most founders sit on equivalent assets and call them costs.
 
-The difference isn't money. It's knowing which moves to make in the first 30 days.
+Three steps:
+- Identify your proprietary data advantage
+- Package it with clean licensing terms
+- Charge per-seat, per-call, or revenue-share
 
-Audit the troll's patent. Count their prior IPR losses. Then decide.
+One 12-person team licensed their existing data for $2.3M recurring. No new product.
 
-#PatentStrategy #IP #IPStrategy
+Your data is a P&L line. Not a byproduct.
+
+#DataMonetization #IPStrategy #AIAssets

@@ -52,3 +52,4 @@ agtech-ip-binsentry-vertical-multiples
 software-royalty-rates-2026
 agentic-ai-business-strategy
 patent-troll-defense-strategy
+data-monetization-revenue-gap
