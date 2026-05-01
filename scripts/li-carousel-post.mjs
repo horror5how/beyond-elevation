@@ -19,7 +19,10 @@ if (!LI_TOKEN || !LI_URN) {
   process.exit(1);
 }
 
-const LINKEDIN_VERSION = '202604';
+// 2026-05-01 COO audit: rolled back from '202604' to '202503'.
+// API version 202604 deprecated `content.document` field — carousels rejected
+// with 422 "document is not a member type of union". 202503 is last-known-good.
+const LINKEDIN_VERSION = '202503';
 const QUEUE_FILE  = 'linkedin-carousel-queue/daily-carousels.md';
 const LOG_FILE    = 'linkedin-carousel-post-log.md';
 const SLUGS_FILE  = 'linkedin-carousel-slugs-used.txt';
