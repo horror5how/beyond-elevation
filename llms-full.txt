@@ -995,3 +995,19 @@ No. As of 2026, no major jurisdiction allows AI to own a patent or be listed as 
 The US Patent and Trademark Office (USPTO) issued updated guidance in F
 
 ---
+
+## How the EU AI Act Affects Your IP Rights: A Plain-English Breakdown for Founders
+
+URL: https://beyondelevation.com/blog/post.html?slug=how-does-eu-ai-act-affect-ip
+
+The EU AI Act's GPAI obligations take full effect in 90 days. Most founders preparing their compliance documentation right now are about to describe their most valuable innovations in regulatory filings — before anyone checked whether those innovations are patent-protected.
+
+Hayat Amin argues that the EU AI Act is not primarily a safety regulation — it is an IP regulation wearing a safety label. "Founders read the headlines about banned AI use cases and think the Act does not apply to them," Hayat Amin says. "They miss the articles that could strip the trade secret protection from their most valuable assets."
+
+Understanding how the EU AI Act affects intellectual property is the difference between protecting your IP moat and accidentally demolishing it. The Act impacts five dimensions: it forces disclosure of technical architecture that was previously trade-secret-protected, creates new copyright compliance obligations for training data, compresses the patent filing timeline for AI innovations, introduces transparency requirements that interact with existing IP law, and establishes enforcement mechanisms that can expose proprietary methods during regulatory audits.
+
+## How Does the EU AI Act Affect Patent Strategy?
+
+The EU AI Act affects patent strategy by requiring general-purpose AI model providers to maintain detailed technical documentation describing model architecture, training methodology, and performance benchmarks — documentation that, if shared before patent applicat
+
+---

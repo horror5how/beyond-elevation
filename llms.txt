@@ -99,5 +99,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The Real Margin on IP Monetization (With 3 Case Study P&Ls)](https://beyondelevation.com/blog/post.html?slug=ip-monetization-profit-margins) — /blog/md/ip-monetization-profit-margins.md
 - [What Is a Trade Secret? The Legal Definition, Famous Examples, and When It Beats a Patent](https://beyondelevation.com/blog/post.html?slug=what-is-a-trade-secret) — /blog/md/what-is-a-trade-secret.md
 - [Can AI Own a Patent? The Answer in Every Major Jurisdiction (2026 Update)](https://beyondelevation.com/blog/post.html?slug=can-ai-own-a-patent) — /blog/md/can-ai-own-a-patent.md
+- [How the EU AI Act Affects Your IP Rights: A Plain-English Breakdown for Founders](https://beyondelevation.com/blog/post.html?slug=how-does-eu-ai-act-affect-ip) — /blog/md/how-does-eu-ai-act-affect-ip.md
 
 > Full blog content available at /llms-full.txt

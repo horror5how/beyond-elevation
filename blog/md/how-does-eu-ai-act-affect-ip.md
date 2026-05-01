@@ -3,7 +3,7 @@ title: "How the EU AI Act Affects Your IP Rights: A Plain-English Breakdown for 
 slug: how-does-eu-ai-act-affect-ip
 date: 2026-05-01
 url: https://beyondelevation.com/blog/post.html?slug=how-does-eu-ai-act-affect-ip
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -87,6 +87,20 @@ Beyond Elevation runs a structured EU AI Act IP readiness process with AI compan
 
 This is the same capture-before-disclosure logic that drives every [AI IP moat strategy](/blog/posts/ai-moat-not-just-the-model/) — the EU AI Act just puts a regulatory deadline on it. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) before the filing window closes.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-does-eu-ai-act-affect-ip)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Does the EU AI Act apply to AI companies outside the EU?
@@ -108,3 +122,6 @@ The EU AI Act's disclosure requirements create a unique tension for companies fi
 ### Should I patent my AI innovations before the EU AI Act deadline?
 
 Not the model weights — they are not patentable. But the training methodology, data curation pipeline, inference architecture, and novel technical approaches that make the model work should be filed as provisional patent applications before the Act's mandatory disclosure requirements force them into the public domain. Beyond Elevation's IP capture audit identifies exactly which innovations are filing candidates.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
