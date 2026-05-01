@@ -4,12 +4,22 @@ name: LinkedIn Carousel Posts (5× Daily)
 # Carousel times: 08:00, 10:00, 12:00, 16:00, 19:00 UTC
 # BST equivalents: 09:00, 11:00, 13:00, 17:00, 20:00 BST
 on:
-  schedule:
-    - cron: '0 8 * * *'    # 09:00 BST
-    - cron: '0 10 * * *'   # 11:00 BST
-    - cron: '0 12 * * *'   # 13:00 BST
-    - cron: '0 16 * * *'   # 17:00 BST
-    - cron: '0 19 * * *'   # 20:00 BST
+  # 2026-05-01 COO audit: carousel cron PAUSED.
+  # LinkedIn Posts API rejected all 3 attempted document-carousel payloads:
+  #   v202604: 422 — content.document not in union
+  #   v202503 + content.document: same 422
+  #   content.media (id only): 400 — media type validation failed for category
+  # Root cause: LinkedIn deprecated NATIVE_DOCUMENT via /posts in 2026.
+  # Re-enable by uncommenting once li-carousel-post.mjs is rewritten to either:
+  #   (a) /v2/ugcPosts (legacy API still supports documents), OR
+  #   (b) render 7 slides as PNGs and post via content.multiImage
+  # Image posts (linkedin-scheduled.yml) continue normally — only carousels paused.
+  # schedule:
+  #   - cron: '0 8 * * *'    # 09:00 BST
+  #   - cron: '0 10 * * *'   # 11:00 BST
+  #   - cron: '0 12 * * *'   # 13:00 BST
+  #   - cron: '0 16 * * *'   # 17:00 BST
+  #   - cron: '0 19 * * *'   # 20:00 BST
   workflow_dispatch:
 
 permissions:
