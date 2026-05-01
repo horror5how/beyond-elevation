@@ -39,8 +39,19 @@ jobs:
           node scripts/li-engage.mjs || echo "engage exited non-zero (already logged)"
 
       - name: Commit engagement log
+        if: always()
         run: |
           git config user.email 'agent@beyondelevation.com'
           git config user.name 'BE LinkedIn Agent'
           git add linkedin-engagement-log.md linkedin-queue/seen-comments.json 2>/dev/null || true
-          git diff --cached --quiet && echo "no changes" || (git commit -m 'LinkedIn: engagement log update' && git push)
+          git diff --cached --quiet && { echo 'no changes'; exit 0; }
+          git commit -m 'LinkedIn: engagement log update'
+          # 2026-05-01 COO audit: race-condition push fixed with rebase + retry
+          # (engage runs every 30 min and races carousel queue / publisher commits).
+          for i in 1 2 3 4; do
+            git push origin main && exit 0
+            sleep $((i * 3))
+            git pull --rebase origin main || true
+          done
+          echo 'push failed after retries'
+          exit 1
