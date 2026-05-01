@@ -15,3 +15,4 @@
 2026-05-01 09:43 | FAIL | carousel #1 | createPost 422: {"message":"ERROR :: /content/document :: unrecognized field found but not allowed\nERROR :: /content :: \"document\" is not a member type of union","status":422}
 2026-05-01 11:02 | FAIL | carousel #1 | createPost 422: {"message":"ERROR :: /content/document :: unrecognized field found but not allowed\nERROR :: /content :: \"document\" is not a member type of union","status":422}
 2026-05-01 11:47 | FAIL | carousel #1 | createPost 400: {"errorDetailType":"com.linkedin.common.error.BadRequest","message":"com.linkedin.content.common.exception.BadRequestResponseException: field override not supported for category","erro
+2026-05-01 11:50 | FAIL | carousel #1 | createPost 400: {"errorDetailType":"com.linkedin.common.error.BadRequest","message":"com.linkedin.content.common.exception.BadRequestResponseException: media type validation failed for category","erro
