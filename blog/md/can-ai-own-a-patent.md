@@ -3,7 +3,7 @@ title: "Can AI Own a Patent? The Answer in Every Major Jurisdiction (2026 Update
 slug: can-ai-own-a-patent
 date: 2026-05-01
 url: https://beyondelevation.com/blog/post.html?slug=can-ai-own-a-patent
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -75,6 +75,20 @@ The World Intellectual Property Organization (WIPO) published 2024 policy recomm
 
 For founders, this means the playbook is stable: document human contributions, update your IP assignment agreements, and file aggressively. The law is not changing. Competitors who wait for "clarity" on whether AI can own a patent are already four patent cycles behind the companies that are filing today.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-can-ai-own-a-patent)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can AI be listed as an inventor on a patent application?
@@ -96,3 +110,6 @@ No. The EU AI Act regulates the deployment and risk classification of AI systems
 ### How do investors evaluate AI-generated patents in 2026?
 
 Investors price AI-generated patent portfolios at a premium when the chain of title is clean. Defective inventor declarations or missing human contribution documentation are red flags in Series A+ due diligence. Properly structured AI-generated IP accelerates patent cluster development and increases defensibility multiples.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

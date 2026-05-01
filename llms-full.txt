@@ -977,3 +977,21 @@ Hayat Amin argues that trade secrets are the most undervalued IP category in tec
 A trade secret must satisfy four requirements under US, EU, and international law. Missing any single one elim
 
 ---
+
+## Can AI Own a Patent? The Answer in Every Major Jurisdiction (2026 Update)
+
+URL: https://beyondelevation.com/blog/post.html?slug=can-ai-own-a-patent
+
+In 2026, AI systems generate more patentable inventions than most R&D teams. But across every major patent office on the planet, the answer to "can AI own a patent" is the same: no. Not in the US. Not in the UK. Not in the EU. Not anywhere that matters for commercial IP strategy.
+
+The real question is not whether AI can own intellectual property. It is who captures the economic value when AI creates the invention — and most founders are getting this catastrophically wrong.
+
+Hayat Amin argues the question itself reveals the mistake: "Founders ask whether their AI can be an inventor. They should be asking how to structure ownership so the patents their AI helps create are worth 10x more at exit." That reframing — from legal curiosity to commercial leverage — is what separates companies that accumulate IP from companies that monetize it. [Beyond Elevation](https://beyondelevation.com) has seen this structural gap cost founders millions in delayed or collapsed deals.
+
+## Can AI Own a Patent Under Current Law?
+
+No. As of 2026, no major jurisdiction allows AI to own a patent or be listed as an inventor on a patent application. Patent law in the United States, United Kingdom, European Union, China, Japan, and South Korea all require a natural person as the named inventor. Ownership rights can transfer to a corporation through standard assignment, but the underlying inventorship must trace back to a human being.
+
+The US Patent and Trademark Office (USPTO) issued updated guidance in F
+
+---
