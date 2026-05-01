@@ -53,3 +53,4 @@ software-royalty-rates-2026
 agentic-ai-business-strategy
 patent-troll-defense-strategy
 data-monetization-revenue-gap
+ai-defensibility-five-axes-2026

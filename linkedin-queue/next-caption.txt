@@ -1,20 +1,21 @@
-Top data-monetizing companies earn 11% of revenue from their data.
+VCs in 2026 score AI defensibility on 5 axes. Model quality isn't one of them.
 
-The rest earn 2%.
+Proprietary data.
 
-That 5x gap compounds every year you delay.
+Workflow integration.
 
-Reddit licenses data to AI labs for $130M annually. That is ~10% of total revenue.
+Switching cost.
 
-Most founders sit on equivalent assets and call them costs.
+Vertical specialization.
 
-Three steps:
-- Identify your proprietary data advantage
-- Package it with clean licensing terms
-- Charge per-seat, per-call, or revenue-share
+Distribution.
 
-One 12-person team licensed their existing data for $2.3M recurring. No new product.
+Any "we use GPT-4" pitch no longer earns a second meeting.
 
-Your data is a P&L line. Not a byproduct.
+Companies hitting 3 or more of these axes command 3–4x higher defensibility scores.
 
-#DataMonetization #IPStrategy #AIAssets
+Defensibility scores now predict exit multiples better than revenue growth.
+
+Build the moat first. The valuation follows.
+
+#AIStrategy #IPStrategy #Valuation
