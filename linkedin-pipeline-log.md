@@ -84,3 +84,13 @@ Post 3: hook_too_long(12w), banned:" — "
 Post 4: hook_too_long(13w), banned:" — "
 Post 5: hook_too_long(15w), banned:" — "
 2026-05-01 06:32 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-01 18:41 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-01 18:41 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: hook_too_long(12w)
+Post 2: hook_too_long(13w)
+Post 3: hook_too_long(15w)
+Post 4: hook_too_long(17w)
+Post 5: hook_too_long(13w)
+2026-05-01 18:42 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-01 18:42 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=5)
+2026-05-01 18:42 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts

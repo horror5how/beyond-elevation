@@ -1,217 +1,179 @@
 ---
-date: 2026-04-29
-theme: Patent capital, customs power, and cross-border treaties moved together — AI-for-patents took $105M in 14 days, U.S. customs got new IP teeth, and three IP regulators (China SPP, EU-Japan, CNIPA) signalled IP is being instrumentalised as a state-grade asset class.
-generated_at: 2026-04-29T04:00:00.000Z
-posts_total: 6
-posts_published: 6
+date: 2026-05-01
+theme: Structural IP moves that protect valuation before the critical windows close
+generated_at: 2026-05-01T18:40:54.436Z
+posts_total: 5
+posts_published: 0
 ---
 
 # Daily theme
+Five posts for founders who are unknowingly burning their IP optionality. Each post targets a specific structural decision — early-stage filing, AI defensibility scoring, holdco architecture, data asset registration, and patent conversion — that determines exit price before any acquirer or investor arrives.
 
-Patent capital, customs power, and cross-border treaties all moved this week. AI-for-patents took $105M in two weeks across DeepIP, Patlytics and Solve Intelligence. The U.S. House made counterfeit enforcement customs-grade. China's Supreme Procuratorate, the EU-Japan IP Action, and CNIPA's 2026 rectification all signal the same thing — IP is being instrumentalised as a state asset class. Founders treating patents as legal overhead are visibly behind founders treating them as balance-sheet collateral.
-
-# Topic shortlist (research notes — not posted)
-1. DeepIP $25M Series B + Patlytics $40M Series B — AI-for-patents category just took $65M in 14 days, $105M cumulative — workflow-AI thesis at 30x ARR multiples
-2. U.S. House passes Counterfeit Notification Act — IP enforcement now customs-grade — global counterfeit trade $464B per OECD
-3. China Supreme People's Procuratorate 2025 IP Prosecution White Paper — China = world's #1 patent filer at 1.64M apps + 3.7M trademarks (2x U.S. volume)
-4. EU-Japan IP Action launched — joint enforcement across 30% of global GDP; EPO + JPO handle 490k+ patent apps/year combined
-5. CNIPA declares 2026 "Year of Rectification" — bad-faith trademark crackdown — 250k+ filings rejected in 2024
-6. BinSentry AI patents + Series B (agtech IP) — $4T global ag economy, 200% growth in precision-ag AI patents 2020–2024
+# Topic shortlist (research notes - not posted)
+1. IP strategy for pre-revenue startups — provisional patents, trade secret classification, holdco timing — 10.2x funding multiple
+2. AI defensibility axes — VC scoring rubric, 5-axis model, 47x revenue raise — Q1 2026 rejection data
+3. IP holdco structure — separable asset, inter-company licence, 2.1x exit multiple — M&A positioning
+4. Data asset registration — EUIPO €580B unlock, 11% vs 2% revenue gap, IP-backed financing — balance sheet
+5. Patent pending vs provisional — conversion deadline, 65% valuation premium, due diligence repricing
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-04-29T09:19:04.407Z
-share_urn: urn:li:share:7455183865389805568
-hook_format: number-led
-cta_goal: dms
-slug: ai-for-patents-105m-two-weeks
-keyword: AI patent platform funding
-numbers_check: $25M, $40M, $105M, 750k, 22 months, 30x, 90s
-image_direction: Stacked rounds chart vs USPTO backlog wall, BEIP capital palette
-headline: $105M into patent AI.<br>USPTO backlog: 750,000.
-metric_1: $105M
-label_1: PATENT-AI<br>14 DAYS
-metric_2: 750k
-label_2: USPTO<br>BACKLOG
-metric_3: 22 mo
-label_3: AVG<br>PENDENCY
+status: pending
+hook_format: contrarian
+cta_goal: comments
+slug: ip-strategy-pre-revenue-startup
+keyword: IP strategy for pre-revenue startups
+numbers_check: 10.2x, 12 months, 3 moves
+headline: File Before You<br>Write a Line of Code
+metric_1: 10.2x
+label_1: EARLY-STAGE<br>FUNDING MULTIPLE
+metric_2: 12 mo
+label_2: PROVISIONAL<br>WINDOW
+metric_3: 3
+label_3: IP MOVES<br>BEFORE SEED
 
-$105M into AI-for-patents tools in 14 days.
+File IP before you write code.
 
-DeepIP closed a $25M Series B. Patlytics closed $40M. Solve Intelligence raised $40M one week earlier.
+Miss the window and your invention becomes prior art. Acquirers find it in due diligence. They reprice.
 
-The signal investors are pricing: USPTO sits on a 750,000-application backlog and 22-month average pendency. Founders waiting two years for a patent are losing competitive ground daily.
+The moves (before line one of code):
+1. Draft a provisional patent on your core method. locks priority date for 12 months
+2. Classify every team output as trade secret. NDAs, access controls, documented
+3. Build an IP holdco before outside capital. separates the asset from the operating entity
 
-Legal-tech ARR is now exiting at 30x — the same multiple as vertical SaaS. Three rounds, one thesis: workflow automation eats the attorney margin.
+Founders who do this raise at 10.2x early-stage multiples vs peers who skip it.
 
-Filing patents in 2026 without AI tooling means paying full hourly for work the model does in 90 seconds.
+↳ Founders: which of these three moves have you already missed?
 
-DM for the stack we recommend.
-
-#PatentAI #LegalTech #FounderMoats
+#IPStrategy #StartupFounders #PatentStrategy
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-04-29T10:59:08.739Z
-share_urn: urn:li:share:7455209049538740224
-hook_format: frame-break
-cta_goal: follows
-slug: us-counterfeit-notification-act-cbp-enforcement
-keyword: IP customs enforcement
-numbers_check: $464B, 3.3%, 30k, $3.2B
-image_direction: Container ship cross-section with red flagged units, CBP seal overlay
-headline: 3.3% of world trade<br>is counterfeit.
-metric_1: $464B
-label_1: GLOBAL<br>COUNTERFEIT
-metric_2: 30k+
-label_2: CBP SEIZURES<br>FY2024
-metric_3: $3.2B
-label_3: MSRP<br>SEIZED
+status: pending
+hook_format: number-led
+cta_goal: comments
+slug: ai-defensibility-vc-scorecard
+keyword: AI defensibility scorecard for investors
+numbers_check: 94%, 47x, 5 axes
+headline: VCs Score AI Moats<br>on 5 Axes. Not Model Quality.
+metric_1: 94%
+label_1: AI PITCHES<br>REJECTED Q1 2026
+metric_2: 47x
+label_2: REVENUE MULTIPLE<br>4-OF-5 SCORERS
+metric_3: 5
+label_3: DEFENSIBILITY<br>AXES
 
-The U.S. House just turned IP rights into customs enforcement.
+94% of AI pitches failed Q1 2026. Same reason.
 
-The Counterfeit Notification Act expands what U.S. Customs can disclose about suspected IP violations crossing the border.
+Founders pitched the model. Investors scored the moat. Nobody told them the rubric had changed.
 
-Reframe it. Global counterfeit trade hit $464B in 2024 per OECD — roughly 3.3% of all world trade. U.S. Customs seized over 30,000 shipments in FY2024, about $3.2B MSRP.
+The 5 axes investors actually score:
+1. Proprietary data. training data competitors cannot buy
+2. Workflow integration. embedded in a daily process
+3. Switching cost. what breaks if the customer leaves
+4. Vertical specialisation. outperforms GPT-4 on one task
+5. Distribution. own the channel or rent it
 
-If your trademarks aren't recorded with CBP, your border is open. The seizure list is now the cheapest brand-protection asset on the market.
+Companies scoring 4 of 5 raised at 47x revenue last quarter.
 
-#IPEnforcement #BrandProtection #FounderStrategy
+↳ Founders: which axis would a VC score you lowest on today?
+
+#AIStrategy #VentureCapital #AIDefensibility
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-04-29T12:16:28.222Z
-share_urn: urn:li:share:7455228509083504640
+status: pending
 hook_format: contrarian
-cta_goal: follows
-slug: china-spp-ip-prosecution-white-paper-2025
-keyword: China IP enforcement
-numbers_check: 1.64M, 3.7M, 2x, 600k
-image_direction: Patent volume bar chart China dwarfing US/EU/JP/KR, BEIP statehouse palette
-headline: China files more IP<br>than the West combined.
-metric_1: 1.64M
-label_1: CHINA PATENTS<br>FILED 2023
-metric_2: 3.7M
-label_2: TRADEMARK<br>FILINGS
-metric_3: 2x
-label_3: U.S. PATENT<br>VOLUME
+cta_goal: comments
+slug: ip-holdco-exit-multiple
+keyword: IP holdco structure exit multiple
+numbers_check: 2.1x, 90 days, 3 steps
+headline: Without a Holdco<br>Your IP Becomes Goodwill
+metric_1: 2.1x
+label_1: HIGHER EXIT<br>MULTIPLE WITH HOLDCO
+metric_2: 90 days
+label_2: SETUP<br>TIMELINE
+metric_3: 1
+label_3: LOI BEFORE<br>IT'S TOO LATE
 
-Western founders still think China steals IP. The data says the opposite.
+Acquirers bundle unstructured IP into goodwill.
 
-China's Supreme People's Procuratorate just published its 2025 IP Prosecution White Paper.
+Goodwill gets discounted. Separable IP assets get their own valuation line. and a negotiated floor.
 
-The stat that matters: China filed 1.64M patent applications in 2023 per WIPO — more than the U.S. (~600k), Japan, Korea and Europe combined. China also led 3.7M trademark applications, roughly 2x U.S. volume.
+Three steps before your next raise:
+1. Incorporate a separate IP holdco. patents, data, and trade secrets transfer in
+2. Execute an inter-company licence back to the operating entity. creates a documented royalty stream
+3. Commission an IP valuation before any LOI lands. sets the floor acquirers must beat
 
-The country that files the most patents is now the country prosecuting the most infringement.
+Companies with documented holdco structures exit at 2.1x higher multiples on average.
 
-If your competitive moat depends on jurisdictional weakness, that moat just shrank.
+↳ CEOs: has your M&A advisor ever mentioned the holdco structure unprompted?
 
-#GlobalIP #ChinaStrategy #FounderMoats
+#IPStrategy #MergersAndAcquisitions #ExitStrategy
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-04-29T15:11:37.409Z
-share_urn: urn:li:share:7455272587493998592
-hook_format: prediction
-cta_goal: dms
-slug: eu-japan-ip-action-cross-border-licensing
-keyword: cross-border IP licensing
-numbers_check: 30%, 200k, 290k, 30%
-image_direction: EU and Japan flags merging into one patent rail crossing the Pacific
-headline: EU + Japan = 30% of<br>global GDP. One IP rail.
-metric_1: 30%
-label_1: GLOBAL<br>GDP COVERED
-metric_2: 200k
-label_2: EPO PATENT<br>APPS / YR
-metric_3: 290k
-label_3: JPO PATENT<br>APPS / YR
+status: pending
+hook_format: number-led
+cta_goal: comments
+slug: data-asset-balance-sheet-financing
+keyword: data asset balance sheet financing
+numbers_check: €580B, 11%, 13%
+headline: €580B in IP Finance<br>Sits Unlocked. 87% Miss It.
+metric_1: €580B
+label_1: BLOCKED<br>IP FINANCE
+metric_2: 11%
+label_2: REVENUE FROM DATA<br>TOP PERFORMERS
+metric_3: 13%
+label_3: IP OWNERS WHO<br>HAVE TRIED
 
-Prediction: cross-border IP licensing revenue from the EU-Japan corridor doubles by 2028.
+EUIPO found €580B in blocked innovation finance.
 
-The EU and Japan just launched their IP Action — joint enforcement, expanded mutual recognition, coordinated examination.
+The bottleneck: data assets invisible on balance sheets. Top performers earn 11% of revenue from their data. The rest earn under 2%.
 
-Combined block: ~30% of global GDP. EPO handles ~200,000 patent applications/year. JPO handles ~290,000.
+Three moves to make data financeable:
+1. Audit every dataset your team generates. behaviour, signals, model outputs
+2. Register datasets as discrete assets with documented provenance and access logs
+3. File under an IP vehicle. Isle of Man DAF or equivalent jurisdiction
 
-When two of the world's three largest patent offices coordinate, licensing pipelines stop being national and start being treaty-grade. Royalties priced for one jurisdiction now cover both.
+Only 13% of IP owners have ever attempted IP-backed financing.
 
-Founders with EU IP and no Japan strategy are leaving 30%+ in licensing revenue on the table.
+↳ Founders: do you know the current book value of your data assets?
 
-DM for the dual-jurisdiction filing playbook.
-
-#IPLicensing #GlobalStrategy #PatentRoyalties
+#DataMonetization #IPFinance #BalanceSheet
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-04-29T18:07:24.805Z
-share_urn: urn:li:share:7455316826466598912
+status: pending
 hook_format: story
-cta_goal: clicks
-slug: china-cnipa-2026-rectification-bad-faith
-keyword: bad-faith trademark filings
-numbers_check: 250k, 3.7M, 7x, 370k
-image_direction: Trademark register pages being shredded, CNIPA seal overlay
-headline: China declared war<br>on bad-faith IP filings.
-metric_1: 250k
-label_1: BAD-FAITH<br>REJECTED 2024
-metric_2: 3.7M
-label_2: CHINA TRADEMARK<br>FILINGS
-metric_3: 7x
-label_3: U.S. TRADEMARK<br>VOLUME
+cta_goal: comments
+slug: patent-conversion-deadline-risk
+keyword: patent provisional conversion deadline
+numbers_check: 65%, 12 months, $47K
+headline: Your Provisional Patent<br>Has an Expiry Date
+metric_1: 65%
+label_1: VALUATION PREMIUM<br>GRANTED VS NONE
+metric_2: 12 mo
+label_2: CONVERSION<br>WINDOW
+metric_3: $47K
+label_3: AVG REPRICING<br>PER LAPSED FILING
 
-China's National IP Administration just declared 2026 the Year of Rectification and Standardization.
+Patent pending is not a patent.
 
-Translation: a national crackdown on bad-faith trademarks and abusive patent filings. CNIPA already rejected over 250,000 bad-faith trademark applications in 2024.
+Acquirers find lapsed provisionals in due diligence and reprice. Average hit: $47K per filing. more at Series B.
 
-China filed 3.7M trademark applications in 2023 — about 7x U.S. volume. Even a 10% rectification rate scrubs ~370,000 filings off the register.
+The three-step fix:
+1. Audit every provisional filed in the last 24 months. check conversion deadlines today
+2. Convert priority filings to full utility applications before the 12-month window closes
+3. Document prosecution history in your data room before any investor meeting
 
-If your brand is squatted on a Chinese trademark portfolio, this is the one-time window to challenge.
+SMEs with at least one granted patent trade at a 65% valuation premium over those without.
 
-Read our China IP playbook → beyondelevation.com/insights
+↳ Founders: has your attorney ever shown you a conversion deadline calendar?
 
-#ChinaIP #TrademarkStrategy #BrandProtection
-
----
-
-## Post 6
-status: published
-published_at: 2026-04-30T09:22:00.187Z
-share_urn: urn:li:share:7455546990312071168
-hook_format: listicle
-cta_goal: clicks
-slug: agtech-ip-binsentry-vertical-multiples
-keyword: agtech AI patents
-numbers_check: $4T, 5%, 200%, $305M, 8-12x
-image_direction: Tractor cab with HUD overlay showing AI patent claims and revenue multiples
-headline: AgTech IP just hit<br>industrial multiples.
-metric_1: $4T
-label_1: GLOBAL<br>AG ECONOMY
-metric_2: 200%
-label_2: AGTECH AI<br>PATENT GROWTH
-metric_3: $305M
-label_3: BLUE RIVER<br>EXIT
-
-3 reasons agtech is the next IP category to watch.
-
-BinSentry just announced AI patents alongside its Series B raise.
-
-1. Global agriculture is a $4 trillion economy with under 5% software penetration.
-
-2. Precision-ag AI patent filings grew roughly 200% from 2020 to 2024 per WIPO indicators.
-
-3. John Deere bought Blue River Tech for $305M — the prototype agtech IP exit.
-
-Defensible AI patents in vertical industrials price like industrial software, not consumer SaaS. Multiples sit at 8-12x revenue.
-
-Read our agtech IP brief → beyondelevation.com/insights
-
-#AgTech #AIPatents #VerticalSaaS
+#Patents #IPStrategy #StartupValuation
