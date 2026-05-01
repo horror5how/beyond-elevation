@@ -61,3 +61,4 @@
 2026-04-30 17:51 | urn:li:share:7455675157542793216 | Two AI companies. Same agent architecture. Same market.  One raised at 47x reven
 2026-05-01 07:51 | urn:li:share:7455886718840369152 | A startup got a patent troll letter. Their lawyer said settle for $350K.  They i
 2026-05-01 12:56 | urn:li:share:7455963399685025792 | Top data-monetizing companies earn 11% of revenue from their data.  The rest ear
+2026-05-01 17:51 | QUEUED | ai-defensibility-five-axes-2026 | VCs in 2026 score AI defensibility on 5 axes. Model quality isn't one of them.  
