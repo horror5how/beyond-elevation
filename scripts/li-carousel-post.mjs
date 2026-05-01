@@ -200,6 +200,9 @@ try {
 
   console.log('[5/6] createPost (document carousel)...');
   const title = meta.cover_hook.replace(/<br>/g, ' ').slice(0, 120);
+  // 2026-05-01 COO audit: LinkedIn Posts API now rejects `content.document` —
+  // the field was unified under `content.media` (any uploaded asset). Doc URN
+  // from initializeUpload goes into the same `media.id` slot used by image/video.
   const postRes = await liReq('POST', '/posts', {
     author: LI_URN,
     commentary: caption,
@@ -210,7 +213,7 @@ try {
       thirdPartyDistributionChannels: [],
     },
     content: {
-      document: {
+      media: {
         id: init.document,
         title,
         altText: title,
