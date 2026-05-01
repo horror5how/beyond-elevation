@@ -1,12 +1,12 @@
 name: Daily AI & GitHub Digest Email
 
-# Runs at 8 AM UTC daily.
-# GMT (Oct–Mar): 8 AM GMT ✓
-# BST (Mar–Oct): 9 AM BST — change cron to '0 7 * * *' during summer if preferred.
+# Runs at 07:00 UTC daily.
+# BST (Mar–Oct): 8 AM BST ✓
+# GMT (Oct–Mar): 7 AM GMT  — change cron to '0 8 * * *' in winter if preferred.
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:   # Enable manual run from GitHub Actions UI for testing
 
 jobs:
