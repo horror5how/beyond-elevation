@@ -124,7 +124,7 @@ New trending keywords in business consulting, AI transformation, and IP commerci
 | T4C-04 | how-to-value-intangible-assets | how to value intangible assets for M&A | intangible asset valuation M&A, IP value in acquisition, goodwill vs IP | How to Value Intangible Assets in an M&A Deal: The 3 Methods and When Each Applies | Informational |
 | T4C-05 | can-you-patent-an-algorithm | can you patent an algorithm | algorithm patent eligibility, software algorithm patent, patenting software | Can You Patent an Algorithm in 2026? Yes, But Only If You Structure the Claim This Way | Informational |
 | T4C-06 | what-is-ip-monetisation | what is IP monetisation | IP monetisation definition, monetising intellectual property, IP revenue | What Is IP Monetisation? The 6 Routes That Turn Dormant Patents Into Cash | Informational |
-| T4C-07 | how-does-eu-ai-act-affect-ip | how does the EU AI Act affect intellectual property | EU AI Act patents, AI Act copyright, AI regulation IP rights | How the EU AI Act Affects Your IP Rights: A Plain-English Breakdown for Founders | Informational |
+| T4C-07 | how-does-eu-ai-act-affect-ip | how does the EU AI Act affect intellectual property | EU AI Act patents, AI Act copyright, AI regulation IP rights | How the EU AI Act Affects Your IP Rights: A Plain-English Breakdown for Founders | Informational | ✅ how-does-eu-ai-act-affect-ip (2026-05-01) |
 
 ## Global SEO requirements (apply to EVERY post the cron generates)
 
