@@ -65,3 +65,22 @@ Post 4: hook_too_long(16w), banned:" — "
 Post 5: hook_too_long(15w), banned:" — "
 2026-04-30 06:22 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
 2026-04-30 09:21 | li-auto-post | render OK | post #6 | layout=c accent=#d7b086 hash=fff1110333f4ffff minDist=8 attempts=1
+2026-05-01 06:31 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: hook_too_long(10w), banned:" — ", banned_re:/\bleverage\b/i
+Post 2: hook_too_long(11w), banned:" — "
+Post 3: hook_too_long(12w), banned:" — "
+Post 4: hook_too_long(15w), banned:" — "
+Post 5: banned:" — "
+2026-05-01 06:31 | li-generate-queue | attempt 2 | quality gate failed:
+Post 1: banned_re:/\bleverage\b/i
+Post 2: hook_too_long(10w)
+Post 3: hook_too_long(16w)
+Post 4: hook_too_long(18w)
+Post 5: hook_too_long(15w)
+2026-05-01 06:32 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: hook_too_long(11w), banned:" — "
+Post 2: hook_too_long(10w), banned:" — "
+Post 3: hook_too_long(12w), banned:" — "
+Post 4: hook_too_long(13w), banned:" — "
+Post 5: hook_too_long(15w), banned:" — "
+2026-05-01 06:32 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
