@@ -101,5 +101,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Can AI Own a Patent? The Answer in Every Major Jurisdiction (2026 Update)](https://beyondelevation.com/blog/post.html?slug=can-ai-own-a-patent) — /blog/md/can-ai-own-a-patent.md
 - [How the EU AI Act Affects Your IP Rights: A Plain-English Breakdown for Founders](https://beyondelevation.com/blog/post.html?slug=how-does-eu-ai-act-affect-ip) — /blog/md/how-does-eu-ai-act-affect-ip.md
 - [Patent Pending ≠ Provisional Patent: The $47,000 Mistake Founders Make When They Confuse the Two](https://beyondelevation.com/blog/post.html?slug=patent-pending-vs-provisional-patent) — /blog/md/patent-pending-vs-provisional-patent.md
+- [The 4 Pillars of Intellectual Property — Most Founders Only Protect 1 of Them (And It Shows in Their Valuation)](https://beyondelevation.com/blog/post.html?slug=4-pillars-of-intellectual-property) — /blog/md/4-pillars-of-intellectual-property.md
 
 > Full blog content available at /llms-full.txt

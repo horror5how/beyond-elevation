@@ -3,7 +3,7 @@ title: "The 4 Pillars of Intellectual Property — Most Founders Only Protect 1 
 slug: 4-pillars-of-intellectual-property
 date: 2026-05-02
 url: https://beyondelevation.com/blog/post.html?slug=4-pillars-of-intellectual-property
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -75,6 +75,20 @@ The fastest path from a single-pillar strategy to a four-pillar foundation is a 
 
 Start with one question: how many of the four pillars does your company actually have in place — with documentation, not just intention? If the answer is one, you are the 90%. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to find out what it takes to become the 10%.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-4-pillars-of-intellectual-property)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What are the 4 pillars of intellectual property?
@@ -96,3 +110,6 @@ A complete four-pillar IP programme for an early-stage startup typically costs $
 ### What is the difference between the 4 types of IP and the 4 pillars of IP?
 
 The four types and four pillars of intellectual property refer to the same four categories — patents, trade secrets, copyrights, and trademarks. The "pillars" framing emphasises that all four are load-bearing structural elements of a defensible business. Remove one and the structure weakens. The distinction matters because most founders treat IP types as a menu rather than a mandatory foundation.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
