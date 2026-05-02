@@ -3,7 +3,7 @@ date: 2026-05-02
 theme: Carryover queue topped up with AI Series B repricing — IP-native vs model-only multiples
 generated_at: 2026-05-02T06:04:17Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -90,7 +90,9 @@ Companies scoring 4 of 5 raised at 47x revenue last quarter.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-02T11:42:48.116Z
+share_urn: urn:li:share:7456307199594672128
 hook_format: contrarian
 cta_goal: comments
 slug: ip-holdco-exit-multiple

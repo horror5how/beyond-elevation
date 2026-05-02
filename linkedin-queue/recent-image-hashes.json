@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0081e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "us-counterfeit-notification-act-cbp-enforcement",
-    "ts": "2026-04-29T10:59:08.739Z"
-  },
-  {
     "hash": "7ef830031ff5ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-defensibility-vc-scorecard",
     "ts": "2026-05-02T09:59:41.189Z"
+  },
+  {
+    "hash": "62e3e7ffc3c1ff9f",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "ip-holdco-exit-multiple",
+    "ts": "2026-05-02T11:42:48.116Z"
   }
 ]

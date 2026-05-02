@@ -112,3 +112,5 @@ Post 5: hook_too_long(12w)
 2026-05-02 06:01 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
 2026-05-02 08:25 | li-auto-post | render OK | post #1 | layout=a accent=#7a8c6e hash=007effffff0d2dad minDist=10 attempts=1
 2026-05-02 09:59 | li-auto-post | render OK | post #2 | layout=b accent=#8aa6b8 hash=0042e7ffc381ff9f minDist=10 attempts=1
+2026-05-02 11:42 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=4 < 5) | trying different variant
+2026-05-02 11:42 | li-auto-post | render OK | post #3 | layout=b accent=#a89968 hash=62e3e7ffc3c1ff9f minDist=7 attempts=2

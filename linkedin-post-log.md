@@ -65,3 +65,4 @@
 2026-05-02 07:53 | QUEUED | ip-monetisation-six-routes | Your IP is generating £0.  There are 6 routes to fix that.  Licensing: fastest.
 2026-05-02 08:25 | urn:li:share:7456257521960456192 | post #1 | ip-strategy-pre-revenue-startup | File IP before you write code.  Miss the window and your invention becomes prior
 2026-05-02 09:59 | urn:li:share:7456281249658138624 | post #2 | ai-defensibility-vc-scorecard | 94% of AI pitches failed Q1 2026. Same reason.  Founders pitched the model. Inve
+2026-05-02 11:42 | urn:li:share:7456307199594672128 | post #3 | ip-holdco-exit-multiple | Acquirers bundle unstructured IP into goodwill.  Goodwill gets discounted. Separ
