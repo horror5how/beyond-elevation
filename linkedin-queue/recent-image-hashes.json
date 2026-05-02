@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff030111ff1ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "sports-ip-licensing-2-5b-market-2028",
-    "ts": "2026-04-28T18:12:37.192Z"
-  },
-  {
     "hash": "00ffffffff01b1fd",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "agtech-ip-binsentry-vertical-multiples",
     "ts": "2026-04-30T09:22:00.187Z"
+  },
+  {
+    "hash": "007effffff0d2dad",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "ip-strategy-pre-revenue-startup",
+    "ts": "2026-05-02T08:25:24.022Z"
   }
 ]

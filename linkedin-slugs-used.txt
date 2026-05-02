@@ -55,3 +55,4 @@ patent-troll-defense-strategy
 data-monetization-revenue-gap
 ai-defensibility-five-axes-2026
 ip-monetisation-six-routes
+ip-strategy-pre-revenue-startup

@@ -3,7 +3,7 @@ date: 2026-05-02
 theme: Carryover queue topped up with AI Series B repricing — IP-native vs model-only multiples
 generated_at: 2026-05-02T06:04:17Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Six posts for founders staring down the IP decisions that set their next valuati
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-02T08:25:24.022Z
+share_urn: urn:li:share:7456257521960456192
 hook_format: contrarian
 cta_goal: comments
 slug: ip-strategy-pre-revenue-startup
