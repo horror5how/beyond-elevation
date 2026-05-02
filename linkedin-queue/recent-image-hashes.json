@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff111310b75ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "eu-japan-ip-action-cross-border-licensing",
-    "ts": "2026-04-29T15:11:37.409Z"
-  },
-  {
     "hash": "00ffffffffff2505",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "data-asset-balance-sheet-financing",
     "ts": "2026-05-02T14:10:00.539Z"
+  },
+  {
+    "hash": "42c3e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "patent-conversion-deadline-risk",
+    "ts": "2026-05-02T17:36:28.265Z"
   }
 ]

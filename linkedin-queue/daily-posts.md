@@ -3,7 +3,7 @@ date: 2026-05-02
 theme: Carryover queue topped up with AI Series B repricing — IP-native vs model-only multiples
 generated_at: 2026-05-02T06:04:17Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -158,7 +158,9 @@ Only 13% of IP owners have ever attempted IP-backed financing.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-02T17:36:28.265Z
+share_urn: urn:li:share:7456396203170250752
 hook_format: story
 cta_goal: comments
 slug: patent-conversion-deadline-risk
