@@ -59,3 +59,4 @@ ip-strategy-pre-revenue-startup
 ai-defensibility-vc-scorecard
 ip-holdco-exit-multiple
 trademark-licensing-revenue-strategy
+data-asset-balance-sheet-financing

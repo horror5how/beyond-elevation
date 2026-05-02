@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef830031ff5ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "china-spp-ip-prosecution-white-paper-2025",
-    "ts": "2026-04-29T12:16:28.222Z"
-  },
-  {
     "hash": "fff111310b75ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ip-holdco-exit-multiple",
     "ts": "2026-05-02T11:42:48.116Z"
+  },
+  {
+    "hash": "fff010301735ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "data-asset-balance-sheet-financing",
+    "ts": "2026-05-02T14:10:00.539Z"
   }
 ]

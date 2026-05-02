@@ -3,7 +3,7 @@ date: 2026-05-02
 theme: Carryover queue topped up with AI Series B repricing — IP-native vs model-only multiples
 generated_at: 2026-05-02T06:04:17Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -124,7 +124,9 @@ Companies with documented holdco structures exit at 2.1x higher multiples on ave
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-02T14:10:00.539Z
+share_urn: urn:li:share:7456344245277306880
 hook_format: number-led
 cta_goal: comments
 slug: data-asset-balance-sheet-financing
