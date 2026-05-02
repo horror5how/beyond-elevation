@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffff01b1fd",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "ai-for-patents-105m-two-weeks",
-    "ts": "2026-04-29T09:19:04.407Z"
-  },
-  {
     "hash": "0081e7ffc3e7ff99",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ip-strategy-pre-revenue-startup",
     "ts": "2026-05-02T08:25:24.022Z"
+  },
+  {
+    "hash": "0042e7ffc381ff9f",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "ai-defensibility-vc-scorecard",
+    "ts": "2026-05-02T09:59:41.189Z"
   }
 ]

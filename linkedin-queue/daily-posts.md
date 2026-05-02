@@ -3,7 +3,7 @@ date: 2026-05-02
 theme: Carryover queue topped up with AI Series B repricing — IP-native vs model-only multiples
 generated_at: 2026-05-02T06:04:17Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ Founders who do this raise at 10.2x early-stage multiples vs peers who skip it.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-02T09:59:41.189Z
+share_urn: urn:li:share:7456281249658138624
 hook_format: number-led
 cta_goal: comments
 slug: ai-defensibility-vc-scorecard
