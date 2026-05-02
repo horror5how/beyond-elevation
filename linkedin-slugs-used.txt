@@ -54,3 +54,4 @@ agentic-ai-business-strategy
 patent-troll-defense-strategy
 data-monetization-revenue-gap
 ai-defensibility-five-axes-2026
+ip-monetisation-six-routes
