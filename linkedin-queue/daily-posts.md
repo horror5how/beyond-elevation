@@ -1,13 +1,13 @@
 ---
-date: 2026-05-01
-theme: Structural IP moves that protect valuation before the critical windows close
-generated_at: 2026-05-01T18:40:54.436Z
-posts_total: 5
+date: 2026-05-02
+theme: Carryover queue topped up with AI Series B repricing — IP-native vs model-only multiples
+generated_at: 2026-05-02T06:04:17Z
+posts_total: 6
 posts_published: 0
 ---
 
 # Daily theme
-Five posts for founders who are unknowingly burning their IP optionality. Each post targets a specific structural decision — early-stage filing, AI defensibility scoring, holdco architecture, data asset registration, and patent conversion — that determines exit price before any acquirer or investor arrives.
+Six posts for founders staring down the IP decisions that set their next valuation. Five carry over from yesterday — pre-revenue filing, AI defensibility scoring, holdco architecture, data asset registration, patent conversion. Today's add: AI startups without IP-native wedges are getting repriced at Series B, while IP-native peers like Solve Intelligence (10x revenue, $40M Series B) and DeepIP ($25M Series B) raise at premium multiples.
 
 # Topic shortlist (research notes - not posted)
 1. IP strategy for pre-revenue startups — provisional patents, trade secret classification, holdco timing — 10.2x funding multiple
@@ -15,6 +15,7 @@ Five posts for founders who are unknowingly burning their IP optionality. Each p
 3. IP holdco structure — separable asset, inter-company licence, 2.1x exit multiple — M&A positioning
 4. Data asset registration — EUIPO €580B unlock, 11% vs 2% revenue gap, IP-backed financing — balance sheet
 5. Patent pending vs provisional — conversion deadline, 65% valuation premium, due diligence repricing
+6. AI patents as Series B unlock — Solve Intelligence 10x revenue, $40M Series B, $55M total raised; DeepIP $25M Series B — IP-native AI premium
 
 ---
 
@@ -177,3 +178,36 @@ SMEs with at least one granted patent trade at a 65% valuation premium over thos
 ↳ Founders: has your attorney ever shown you a conversion deadline calendar?
 
 #Patents #IPStrategy #StartupValuation
+
+
+---
+
+## Post 6
+status: pending
+hook_format: prediction
+cta_goal: follows
+slug: ai-patents-series-b-unlock
+keyword: AI patents Series B funding multiple
+numbers_check: 10x, $40M, $55M, $25M
+image_direction: split-screen — model-only AI startup pitch deck (greyed) vs IP-native AI pitch deck (highlighted), Series B multiple delta visible
+headline: AI patents aren't legal docs.<br>They're Series B unlocks.
+metric_1: 10x
+label_1: REVENUE GROWTH<br>SOLVE INTEL
+metric_2: $40M
+label_2: SERIES B<br>Q2 2026
+metric_3: $25M
+label_3: DEEPIP<br>SERIES B
+
+Prediction: by 2027, IP-native AI startups raise at 3-4x the Series B multiple of model-only peers.
+
+Solve Intelligence just closed $40M Series B. Total raised: $55M. Revenue grew 10x in 12 months.
+
+DeepIP closed $25M Series B the same quarter. Same thesis: AI tied to a defensible asset class wins.
+
+Model-only AI now trades at a Series B discount. Investors are repricing the moat.
+
+Your wedge isn't your model weights. It's the legal-defensible layer underneath them.
+
+Follow for the founder playbook on building IP-native AI before your raise.
+
+#AIPatents #SeriesB #IPStrategy
