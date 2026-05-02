@@ -58,3 +58,4 @@ ip-monetisation-six-routes
 ip-strategy-pre-revenue-startup
 ai-defensibility-vc-scorecard
 ip-holdco-exit-multiple
+trademark-licensing-revenue-strategy
