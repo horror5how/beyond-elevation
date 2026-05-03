@@ -3,7 +3,7 @@ title: "How Do You Calculate the Value of a Patent? The 3-Number Formula Nobody 
 slug: patent-value-calculation-formula
 date: 2026-05-03
 url: https://beyondelevation.com/blog/post.html?slug=patent-value-calculation-formula
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ Get a professional patent valuation before any event where the number matters: f
 
 Beyond Elevation runs patent valuations using the income approach formula with proprietary market data, claim-by-claim mapping, and competitive analysis. The output is a defensible number you can put in front of investors, acquirers, and licensing counterparties — backed by the math, not a gut feeling. If you are heading into a negotiation where your patent value matters, [book a valuation](https://beyondelevation.com) that holds up under scrutiny.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-value-calculation-formula)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a patent valuation cost?
@@ -92,3 +106,6 @@ Investors use a combination of the income approach, comparable transaction analy
 ### Does a patent increase my company's valuation?
 
 Companies with patents are 10.2x more likely to secure early-stage funding and typically achieve 20–60% higher valuation multiples than comparable companies without IP protection. But the premium depends on the quality, breadth, and commercial relevance of the patents — not just their existence.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

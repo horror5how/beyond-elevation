@@ -103,5 +103,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Patent Pending ≠ Provisional Patent: The $47,000 Mistake Founders Make When They Confuse the Two](https://beyondelevation.com/blog/post.html?slug=patent-pending-vs-provisional-patent) — /blog/md/patent-pending-vs-provisional-patent.md
 - [The 4 Pillars of Intellectual Property — Most Founders Only Protect 1 of Them (And It Shows in Their Valuation)](https://beyondelevation.com/blog/post.html?slug=4-pillars-of-intellectual-property) — /blog/md/4-pillars-of-intellectual-property.md
 - [How Data Monetization Actually Works: The 3-Step Flow From Raw Data to Recurring Revenue](https://beyondelevation.com/blog/post.html?slug=how-data-monetization-works) — /blog/md/how-data-monetization-works.md
+- [How Do You Calculate the Value of a Patent? The 3-Number Formula Nobody Teaches](https://beyondelevation.com/blog/post.html?slug=patent-value-calculation-formula) — /blog/md/patent-value-calculation-formula.md
 
 > Full blog content available at /llms-full.txt
