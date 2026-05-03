@@ -1,17 +1,17 @@
-Coca-Cola's formula has been a trade secret for 137 years.
+6 numbers determine what your AI company is worth.
 
-A patent would have expired in 1903.
+Most founders can name 2.
 
-Most founders default to patents. Trade secrets often protect moats longer.
+Revenue multiple: 12x median. IP-native AI: 47x.
 
-Patents expire in 20 years. Trade secrets never expire.
+The gap is not the model. It is the IP wrapped around it.
 
-Patents publish your method to every competitor. Trade secrets keep it hidden.
+Investors score six inputs: ARR, comp multiples, patent count, workflow moat, data licensing value, defensibility score.
 
-Patents cost £15K+ to file and renew. Trade secret registration costs £0.
+Miss half and you price at median.
 
-The catch: once it leaks, you cannot enforce it. No proof, no case.
+The 30% rule: 30% of your valuation must trace to IP before institutional buyers move you above 20x.
 
-Know which tool fits your moat before you file.
+File before you raise.
 
-#IPStrategy #TradeSecrets #Innovation
+#IPStrategy #AIValuation #StartupFunding
