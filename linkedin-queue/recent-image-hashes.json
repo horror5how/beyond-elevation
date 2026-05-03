@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffffff2505",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "china-cnipa-2026-rectification-bad-faith",
-    "ts": "2026-04-29T18:07:24.805Z"
-  },
-  {
     "hash": "fff1110333f4ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "patent-conversion-deadline-risk",
     "ts": "2026-05-02T17:36:28.265Z"
+  },
+  {
+    "hash": "66e7e7ff81c3ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "ai-patents-series-b-unlock",
+    "ts": "2026-05-03T08:53:04.979Z"
   }
 ]

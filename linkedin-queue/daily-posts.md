@@ -3,7 +3,7 @@ date: 2026-05-02
 theme: Carryover queue topped up with AI Series B repricing — IP-native vs model-only multiples
 generated_at: 2026-05-02T06:04:17Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -193,7 +193,9 @@ SMEs with at least one granted patent trade at a 65% valuation premium over thos
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-05-03T08:53:04.979Z
+share_urn: urn:li:share:7456626876225052672
 hook_format: prediction
 cta_goal: follows
 slug: ai-patents-series-b-unlock

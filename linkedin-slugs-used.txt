@@ -62,3 +62,4 @@ trademark-licensing-revenue-strategy
 data-asset-balance-sheet-financing
 patent-conversion-deadline-risk
 30-percent-rule-ai-valuation
+ai-patents-series-b-unlock
