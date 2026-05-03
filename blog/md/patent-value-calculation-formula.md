@@ -31,7 +31,7 @@ The addressable market for patent valuation is not your company's TAM — it is 
 
 Start by mapping your patent claims to commercial products. If your patent covers a data compression method used in video streaming, your addressable market includes every streaming platform, CDN provider, and video conferencing tool that uses a substantially similar method. Patent claims define the boundary — not your product category, not your vertical, not your current customer list.
 
-Hayat Amin's Patent Mining Method starts here. "Most founders look at their own product and stop," Hayat Amin reminds founders. "The real value is in the 10 other companies using the same technique in adjacent markets. That is where the licensing revenue sits." One recent engagement uncovered $340M in addressable market across three industries the founder had never considered — all from a single patent family originally filed to protect a $2M product line.
+Hayat Amin's Patent Mining Method starts here. "Most founders look at their own product and stop. The real value is in the 10 other companies using the same technique in adjacent markets. That is where the licensing revenue sits." One recent engagement uncovered $340M in addressable market across three industries the founder had never considered — all from a single patent family originally filed to protect a $2M product line.
 
 For a software patent, the addressable market typically ranges from $50M to $5B in total revenue covered by the claims. The more broadly your claims read, the larger the market — and the higher the patent value calculation result.
 
