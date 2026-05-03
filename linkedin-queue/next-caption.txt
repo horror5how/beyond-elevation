@@ -1,17 +1,17 @@
-Investors use a rule they never publish.
+Coca-Cola's formula has been a trade secret for 137 years.
 
-The 30% rule.
+A patent would have expired in 1903.
 
-30% of an AI company's valuation premium comes from IP and data defensibility. Not model quality.
+Most founders default to patents. Trade secrets often protect moats longer.
 
-Generic AI wrapper: no premium. Valued like SaaS.
+Patents expire in 20 years. Trade secrets never expire.
 
-Proprietary training data: 12-18% uplift.
+Patents publish your method to every competitor. Trade secrets keep it hidden.
 
-Patented architecture plus data flywheel: 28-34% uplift.
+Patents cost £15K+ to file and renew. Trade secret registration costs £0.
 
-All three in an IP holdco: 30% or more above sector median on exit.
+The catch: once it leaks, you cannot enforce it. No proof, no case.
 
-Companies raising at 40-80x are not smarter. They are better structured.
+Know which tool fits your moat before you file.
 
-#IPStrategy #AIValuation #StartupFunding
+#IPStrategy #TradeSecrets #Innovation
