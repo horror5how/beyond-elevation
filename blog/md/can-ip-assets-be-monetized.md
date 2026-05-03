@@ -3,7 +3,7 @@ title: "Can IP Assets Be Monetized? Yes — Here Is the Proof and the Playbook"
 slug: can-ip-assets-be-monetized
 date: 2026-05-03
 url: https://beyondelevation.com/blog/post.html?slug=can-ip-assets-be-monetized
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ If your IP portfolio is generating zero licensing revenue, the problem is not th
 
 [Beyond Elevation](https://beyondelevation.com) helps founders turn dormant IP into structured licensing revenue. Book an IP monetization audit to find out what your portfolio is actually worth — and how to capture that value within 90 days.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-can-ip-assets-be-monetized)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can small companies monetize their IP assets?
@@ -92,3 +106,6 @@ Absolutely. Licensing is the most common IP monetization method precisely becaus
 ### Do I need a lawyer to monetize IP?
 
 You need legal support for drafting licensing agreements, but the strategic work — identifying monetizable assets, mapping target licensees, setting rates, and structuring deals — is IP strategy, not legal work. Starting with a lawyer often leads to defensive filing rather than commercial monetization. Start with an IP monetization strategy, then bring in legal counsel for agreement drafting.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
