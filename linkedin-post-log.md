@@ -69,3 +69,4 @@
 2026-05-02 12:52 | QUEUED | trademark-licensing-revenue-strategy | Your trademark generates £0 in passive income.  That is a choice, not a law.  T
 2026-05-02 14:10 | urn:li:share:7456344245277306880 | post #4 | data-asset-balance-sheet-financing | EUIPO found €580B in blocked innovation finance.  The bottleneck: data assets in
 2026-05-02 17:36 | urn:li:share:7456396203170250752 | post #5 | patent-conversion-deadline-risk | Patent pending is not a patent.  Acquirers find lapsed provisionals in due dilig
+2026-05-03 07:53 | urn:li:share:7456611998794092544 | Investors use a rule they never publish.  The 30% rule.  30% of an AI company's 
