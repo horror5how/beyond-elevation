@@ -72,3 +72,4 @@
 2026-05-03 07:53 | urn:li:share:7456611998794092544 | Investors use a rule they never publish.  The 30% rule.  30% of an AI company's 
 2026-05-03 08:53 | urn:li:share:7456626876225052672 | post #6 | ai-patents-series-b-unlock | Prediction: by 2027, IP-native AI startups raise at 3-4x the Series B multiple o
 2026-05-03 12:52 | QUEUED | what-is-a-trade-secret | Coca-Cola's formula has been a trade secret for 137 years.  A patent would have 
+2026-05-03 12:53 | urn:li:share:7456687401042776064 | Coca-Cola's formula has been a trade secret for 137 years.  A patent would have 
