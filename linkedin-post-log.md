@@ -80,3 +80,4 @@
 2026-05-04 11:07 | urn:li:share:7457023055752728577 | post #2 | solve-intelligence-10x-revenue-ip-category | Two years ago, patent drafting software was a sleepy category dominated by legac
 2026-05-04 12:20 | urn:li:share:7457041551064514560 | post #3 | deepip-patent-lifecycle-speed-arbitrage | DeepIP just raised $25M Series B to embed AI across the patent lifecycle. Read p
 2026-05-04 13:05 | urn:li:share:7457052845977190400 | The data monetization market is heading to $16 billion by 2034.  Most companies 
+2026-05-04 15:09 | urn:li:share:7457083994174648320 | post #4 | stanford-ai-index-us-china-defensive-filing | Stanford AI Index 2026 confirms what investors already model: the US-China capab

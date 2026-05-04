@@ -1,12 +1,5 @@
 [
   {
-    "hash": "62e3e7ffc3c1ff9f",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ip-holdco-exit-multiple",
-    "ts": "2026-05-02T11:42:48.116Z"
-  },
-  {
     "hash": "fff010301735ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "deepip-patent-lifecycle-speed-arbitrage",
     "ts": "2026-05-04T12:20:51.141Z"
+  },
+  {
+    "hash": "7ef901191375ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "stanford-ai-index-us-china-defensive-filing",
+    "ts": "2026-05-04T15:09:30.470Z"
   }
 ]

@@ -70,3 +70,4 @@ ai-patent-series-b-wave-105m
 solve-intelligence-10x-revenue-ip-category
 deepip-patent-lifecycle-speed-arbitrage
 data-zero-on-books-16b-market
+stanford-ai-index-us-china-defensive-filing

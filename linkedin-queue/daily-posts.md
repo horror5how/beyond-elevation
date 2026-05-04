@@ -3,7 +3,7 @@ date: 2026-05-04
 theme: The Series B AI-patent arms race — $105M raised across 3 IP-tech startups in 30 days has just repriced what a defensible AI moat is worth
 generated_at: 2026-05-04T04:00:00Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -118,7 +118,9 @@ If your CTO can ship features in two weeks but your IP file takes 18 months, the
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-04T15:09:30.470Z
+share_urn: urn:li:share:7457083994174648320
 hook_format: prediction
 cta_goal: follows
 slug: stanford-ai-index-us-china-defensive-filing
