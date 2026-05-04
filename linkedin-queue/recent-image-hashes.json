@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0042e7ffc381ff9f",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "ai-defensibility-vc-scorecard",
-    "ts": "2026-05-02T09:59:41.189Z"
-  },
-  {
     "hash": "62e3e7ffc3c1ff9f",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "solve-intelligence-10x-revenue-ip-category",
     "ts": "2026-05-04T11:07:21.570Z"
+  },
+  {
+    "hash": "7ef030011bf1ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "deepip-patent-lifecycle-speed-arbitrage",
+    "ts": "2026-05-04T12:20:51.141Z"
   }
 ]

@@ -78,3 +78,4 @@
 2026-05-04 07:57 | urn:li:share:7456975161372811264 | $2.52 trillion is going into AI in 2026. Most of it will earn commodity pricing.
 2026-05-04 09:28 | urn:li:share:7456998206787371010 | post #1 | ai-patent-series-b-wave-105m | VCs just told you what your moat should be.  In 30 days: Solve Intelligence rais
 2026-05-04 11:07 | urn:li:share:7457023055752728577 | post #2 | solve-intelligence-10x-revenue-ip-category | Two years ago, patent drafting software was a sleepy category dominated by legac
+2026-05-04 12:20 | urn:li:share:7457041551064514560 | post #3 | deepip-patent-lifecycle-speed-arbitrage | DeepIP just raised $25M Series B to embed AI across the patent lifecycle. Read p
