@@ -1,17 +1,13 @@
-6 numbers determine what your AI company is worth.
+$2.52 trillion is going into AI in 2026. Most of it will earn commodity pricing.
 
-Most founders can name 2.
+The companies commanding 25–35x revenue multiples have one thing others don't.
 
-Revenue multiple: 12x median. IP-native AI: 47x.
+It's not a better model.
 
-The gap is not the model. It is the IP wrapped around it.
+Gartner and FE International confirmed it in Q1 2026: premium concentrates in commercial execution, not algorithm novelty.
 
-Investors score six inputs: ARR, comp multiples, patent count, workflow moat, data licensing value, defensibility score.
+3 IP-backed proofs of execution add 40% to your multiple. Slideware adds zero.
 
-Miss half and you price at median.
+If your AI pitch leads with the model, you're pricing yourself at median.
 
-The 30% rule: 30% of your valuation must trace to IP before institutional buyers move you above 20x.
-
-File before you raise.
-
-#IPStrategy #AIValuation #StartupFunding
+#AIStrategy #IPStrategy #StartupFunding

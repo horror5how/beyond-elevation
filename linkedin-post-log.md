@@ -74,3 +74,4 @@
 2026-05-03 12:52 | QUEUED | what-is-a-trade-secret | Coca-Cola's formula has been a trade secret for 137 years.  A patent would have 
 2026-05-03 12:53 | urn:li:share:7456687401042776064 | Coca-Cola's formula has been a trade secret for 137 years.  A patent would have 
 2026-05-03 17:52 | urn:li:share:7456762510793330690 | 6 numbers determine what your AI company is worth.  Most founders can name 2.  R
+2026-05-04 07:56 | QUEUED | ai-spend-execution-premium-2026 | $2.52 trillion is going into AI in 2026. Most of it will earn commodity pricing.
