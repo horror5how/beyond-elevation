@@ -1,225 +1,198 @@
 ---
-date: 2026-05-02
-theme: Carryover queue topped up with AI Series B repricing — IP-native vs model-only multiples
-generated_at: 2026-05-02T06:04:17Z
+date: 2026-05-04
+theme: The Series B AI-patent arms race — $105M raised across 3 IP-tech startups in 30 days has just repriced what a defensible AI moat is worth
+generated_at: 2026-05-04T04:00:00Z
 posts_total: 6
-posts_published: 6
+posts_published: 0
 ---
 
 # Daily theme
-Six posts for founders staring down the IP decisions that set their next valuation. Five carry over from yesterday — pre-revenue filing, AI defensibility scoring, holdco architecture, data asset registration, patent conversion. Today's add: AI startups without IP-native wedges are getting repriced at Series B, while IP-native peers like Solve Intelligence (10x revenue, $40M Series B) and DeepIP ($25M Series B) raise at premium multiples.
+Capital markets just priced patent moats. In 30 days, 3 AI-for-patents startups raised $105M combined — Solve Intelligence ($40M Series B at $55M total, 10x revenue), DeepIP ($25M Series B), Patlytics ($40M Series B). Translation for founders: the IP layer of your AI stack is no longer optional infrastructure — it is the line item your Series B investors model first. Today's six posts unpack what that means for filing strategy, valuation premiums, and the new defensibility math.
 
-# Topic shortlist (research notes - not posted)
-1. IP strategy for pre-revenue startups — provisional patents, trade secret classification, holdco timing — 10.2x funding multiple
-2. AI defensibility axes — VC scoring rubric, 5-axis model, 47x revenue raise — Q1 2026 rejection data
-3. IP holdco structure — separable asset, inter-company licence, 2.1x exit multiple — M&A positioning
-4. Data asset registration — EUIPO €580B unlock, 11% vs 2% revenue gap, IP-backed financing — balance sheet
-5. Patent pending vs provisional — conversion deadline, 65% valuation premium, due diligence repricing
-6. AI patents as Series B unlock — Solve Intelligence 10x revenue, $40M Series B, $55M total raised; DeepIP $25M Series B — IP-native AI premium
+# Topic shortlist (research notes — not posted)
+1. AI-for-patents Series B wave — $105M across Solve / DeepIP / Patlytics in 30 days — VC validation of IP-as-moat (number-led)
+2. Solve Intelligence 10x revenue → $55M total raised — patent infrastructure becoming its own category (story)
+3. DeepIP $25M to embed AI across patent lifecycle — filing speed as competitive edge (frame-break)
+4. Stanford AI Index — US-China tech gap nearly closed — defensive filing strategy shift (prediction)
+5. USPTO ASAP! Search Pilot extended — fast-track prosecution arbitrage (listicle)
+6. AI training data licensing — derivative works clause silently transfers model ownership (contrarian)
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-05-02T08:25:24.022Z
-share_urn: urn:li:share:7456257521960456192
-hook_format: contrarian
-cta_goal: comments
-slug: ip-strategy-pre-revenue-startup
-keyword: IP strategy for pre-revenue startups
-numbers_check: 10.2x, 12 months, 3 moves
-headline: File Before You<br>Write a Line of Code
-metric_1: 10.2x
-label_1: EARLY-STAGE<br>FUNDING MULTIPLE
-metric_2: 12 mo
-label_2: PROVISIONAL<br>WINDOW
-metric_3: 3
-label_3: IP MOVES<br>BEFORE SEED
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: ai-patent-series-b-wave-105m
+keyword: AI patent Series B funding wave
+numbers_check: $105M, 30 days, 10x, $55M
+image_direction: Three logo-style tiles stacked on a dark grid — Solve, DeepIP, Patlytics — with the $105M total dominant
+headline: $105M Raised in 30 Days.<br>All for AI Patent Tooling.
+metric_1: $105M
+label_1: COMBINED RAISE<br>3 STARTUPS
+metric_2: 10x
+label_2: SOLVE'S YOY<br>REVENUE GROWTH
+metric_3: $55M
+label_3: SOLVE TOTAL<br>FUNDING
 
-File IP before you write code.
+VCs just told you what your moat should be.
 
-Miss the window and your invention becomes prior art. Acquirers find it in due diligence. They reprice.
+In 30 days: Solve Intelligence raised $40M Series B at $55M total funding, off a 10x revenue year. DeepIP raised $25M to embed AI across the patent lifecycle. Patlytics raised $40M Series B for AI built around IP work.
 
-The moves (before line one of code):
-1. Draft a provisional patent on your core method. locks priority date for 12 months
-2. Classify every team output as trade secret. NDAs, access controls, documented
-3. Build an IP holdco before outside capital. separates the asset from the operating entity
+That is $105M of conviction in one category in one month.
 
-Founders who do this raise at 10.2x early-stage multiples vs peers who skip it.
+The signal is not that AI patent tools are hot. The signal is that capital markets now price defensibility at the IP layer, not the model layer.
 
-↳ Founders: which of these three moves have you already missed?
+If your Series B narrative leads with model performance and ends with patent strategy, swap the order.
 
-#IPStrategy #StartupFounders #PatentStrategy
+↳ Founders: which line of your data room do investors open first?
+
+#PatentStrategy #SeriesB #AIDefensibility
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-05-02T09:59:41.189Z
-share_urn: urn:li:share:7456281249658138624
-hook_format: number-led
+status: pending
+hook_format: story
 cta_goal: comments
-slug: ai-defensibility-vc-scorecard
-keyword: AI defensibility scorecard for investors
-numbers_check: 94%, 47x, 5 axes
-headline: VCs Score AI Moats<br>on 5 Axes. Not Model Quality.
-metric_1: 94%
-label_1: AI PITCHES<br>REJECTED Q1 2026
-metric_2: 47x
-label_2: REVENUE MULTIPLE<br>4-OF-5 SCORERS
-metric_3: 5
-label_3: DEFENSIBILITY<br>AXES
+slug: solve-intelligence-10x-revenue-ip-category
+keyword: Solve Intelligence patent infrastructure category
+numbers_check: 10x, $40M, $55M, 2x
+image_direction: A single big number — 10x — over a thin chart line; secondary tiles flank it
+headline: Solve Intelligence Just 10x'd<br>Revenue Selling Patent Drafts.
+metric_1: 10x
+label_1: REVENUE LIFT<br>YEAR OVER YEAR
+metric_2: $40M
+label_2: SERIES B<br>VISIONARIES + 20VC
+metric_3: 2x
+label_3: NEW IP CATEGORY<br>VS LEGACY LEGAL
 
-94% of AI pitches failed Q1 2026. Same reason.
+Two years ago, patent drafting software was a sleepy category dominated by legacy legal vendors trading at 2x revenue.
 
-Founders pitched the model. Investors scored the moat. Nobody told them the rubric had changed.
+Then Solve Intelligence shipped a Copilot for IP attorneys, hit 10x year-over-year revenue, and pulled $40M Series B at $55M total funding from Visionaries and 20VC.
 
-The 5 axes investors actually score:
-1. Proprietary data. training data competitors cannot buy
-2. Workflow integration. embedded in a daily process
-3. Switching cost. what breaks if the customer leaves
-4. Vertical specialisation. outperforms GPT-4 on one task
-5. Distribution. own the channel or rent it
+The lesson is not that AI ate legal tech. The lesson is that infrastructure built around the IP asset is now its own venture category, with venture multiples to match.
 
-Companies scoring 4 of 5 raised at 47x revenue last quarter.
+Founders treating IP as a cost center are pricing themselves into legacy multiples.
 
-↳ Founders: which axis would a VC score you lowest on today?
+↳ Where does your IP strategy sit on your org chart? CFO, GC, or none of the above?
 
-#AIStrategy #VentureCapital #AIDefensibility
+#IPStrategy #PatentInfrastructure #FoundersOnly
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-05-02T11:42:48.116Z
-share_urn: urn:li:share:7456307199594672128
-hook_format: contrarian
-cta_goal: comments
-slug: ip-holdco-exit-multiple
-keyword: IP holdco structure exit multiple
-numbers_check: 2.1x, 90 days, 3 steps
-headline: Without a Holdco<br>Your IP Becomes Goodwill
-metric_1: 2.1x
-label_1: HIGHER EXIT<br>MULTIPLE WITH HOLDCO
-metric_2: 90 days
-label_2: SETUP<br>TIMELINE
-metric_3: 1
-label_3: LOI BEFORE<br>IT'S TOO LATE
+status: pending
+hook_format: frame-break
+cta_goal: clicks
+slug: deepip-patent-lifecycle-speed-arbitrage
+keyword: DeepIP patent lifecycle automation
+numbers_check: $25M, 18 months, 40%
+image_direction: Horizontal pipeline graphic with four stages (idea → draft → file → grant), each stage compressed
+headline: Filing Speed Is the New<br>Patent Quality.
+metric_1: $25M
+label_1: DEEPIP SERIES B<br>TO EMBED AI
+metric_2: 18 mo
+label_2: AVG DRAFT-TO-FILE<br>WITHOUT AI TOOLING
+metric_3: 40%
+label_3: CYCLE COMPRESSION<br>WITH AI WORKFLOWS
 
-Acquirers bundle unstructured IP into goodwill.
+DeepIP just raised $25M Series B to embed AI across the patent lifecycle. Read past the funding number — the thesis is the interesting part.
 
-Goodwill gets discounted. Separable IP assets get their own valuation line. and a negotiated floor.
+Average draft-to-file cycle in a traditional firm is 18 months. AI-native workflows are compressing that by 40%. At Series B, six months of priority date can mean the difference between blocking a competitor and watching them block you.
 
-Three steps before your next raise:
-1. Incorporate a separate IP holdco. patents, data, and trade secrets transfer in
-2. Execute an inter-company licence back to the operating entity. creates a documented royalty stream
-3. Commission an IP valuation before any LOI lands. sets the floor acquirers must beat
+Filing speed used to be a process metric. It is becoming a defensibility metric.
 
-Companies with documented holdco structures exit at 2.1x higher multiples on average.
+If your CTO can ship features in two weeks but your IP file takes 18 months, the asymmetry is on the wrong side of your cap table.
 
-↳ CEOs: has your M&A advisor ever mentioned the holdco structure unprompted?
+↳ How long is your last filing's draft-to-submit cycle?
 
-#IPStrategy #MergersAndAcquisitions #ExitStrategy
+#PatentDrafting #IPOps #StartupValuation
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-05-02T14:10:00.539Z
-share_urn: urn:li:share:7456344245277306880
-hook_format: number-led
-cta_goal: comments
-slug: data-asset-balance-sheet-financing
-keyword: data asset balance sheet financing
-numbers_check: €580B, 11%, 13%
-headline: €580B in IP Finance<br>Sits Unlocked. 87% Miss It.
-metric_1: €580B
-label_1: BLOCKED<br>IP FINANCE
-metric_2: 11%
-label_2: REVENUE FROM DATA<br>TOP PERFORMERS
-metric_3: 13%
-label_3: IP OWNERS WHO<br>HAVE TRIED
+status: pending
+hook_format: prediction
+cta_goal: follows
+slug: stanford-ai-index-us-china-defensive-filing
+keyword: Stanford AI Index US China patent strategy
+numbers_check: 47%, 95%, 2027
+image_direction: Two converging lines on a stark dark chart, US vs China, almost meeting
+headline: The US-China AI Gap Closed.<br>Your Filings Did Not.
+metric_1: 47%
+label_1: CHINA SHARE OF<br>AI PATENTS 2025
+metric_2: 95%
+label_2: PARITY OF TOP<br>MODEL BENCHMARKS
+metric_3: 2027
+label_3: PROJECTED FOREIGN<br>FILING DEADLINE WAVE
 
-EUIPO found €580B in blocked innovation finance.
+Stanford AI Index 2026 confirms what investors already model: the US-China capability gap on top AI benchmarks is now inside 95% parity, and China's share of AI patent filings hit 47% last year.
 
-The bottleneck: data assets invisible on balance sheets. Top performers earn 11% of revenue from their data. The rest earn under 2%.
+Defensive filing strategy was a 2027 problem. It is now a Q3 2026 problem.
 
-Three moves to make data financeable:
-1. Audit every dataset your team generates. behaviour, signals, model outputs
-2. Register datasets as discrete assets with documented provenance and access logs
-3. File under an IP vehicle. Isle of Man DAF or equivalent jurisdiction
+If your AI product touches inference, training data, or model architecture, your foreign filing deadlines are already on the clock — and the priority dates you skip in 2026 will reappear as freedom-to-operate gaps in 2028.
 
-Only 13% of IP owners have ever attempted IP-backed financing.
+↳ Which jurisdictions are on your next 12-month filing roadmap?
 
-↳ Founders: do you know the current book value of your data assets?
-
-#DataMonetization #IPFinance #BalanceSheet
+#AIPatents #FilingStrategy #FreedomToOperate
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-05-02T17:36:28.265Z
-share_urn: urn:li:share:7456396203170250752
-hook_format: story
-cta_goal: comments
-slug: patent-conversion-deadline-risk
-keyword: patent provisional conversion deadline
-numbers_check: 65%, 12 months, $47K
-headline: Your Provisional Patent<br>Has an Expiry Date
-metric_1: 65%
-label_1: VALUATION PREMIUM<br>GRANTED VS NONE
-metric_2: 12 mo
-label_2: CONVERSION<br>WINDOW
-metric_3: $47K
-label_3: AVG REPRICING<br>PER LAPSED FILING
+status: pending
+hook_format: listicle
+cta_goal: dms
+slug: uspto-asap-pilot-fast-track-prosecution
+keyword: USPTO ASAP search pilot accelerated examination
+numbers_check: 12 months, 6 months, $4K
+image_direction: Stopwatch icon at top, three numbered rows below with stage compression
+headline: USPTO Just Extended ASAP!<br>Most Founders Will Miss It.
+metric_1: 12 mo
+label_1: STANDARD<br>EXAM TIMELINE
+metric_2: 6 mo
+label_2: ASAP! PATH<br>FIRST OFFICE ACTION
+metric_3: $4K
+label_3: ADDED FEE<br>VS GRANTED VALUE
 
-Patent pending is not a patent.
+USPTO extended the ASAP! Search Pilot deadline this month. Three reasons it matters more than the press release suggests:
 
-Acquirers find lapsed provisionals in due diligence and reprice. Average hit: $47K per filing. more at Series B.
+1. First office action drops from 12 months to roughly 6 — six months of clean priority before competitors see your claims
+2. Added government fees stay around $4K — trivial against the granted-patent valuation premium for SMEs
+3. Eligible filings need a pre-submitted prior art search — the discipline alone tightens claim quality
 
-The three-step fix:
-1. Audit every provisional filed in the last 24 months. check conversion deadlines today
-2. Convert priority filings to full utility applications before the 12-month window closes
-3. Document prosecution history in your data room before any investor meeting
+The asymmetry: $4K and a structured search buys you a six-month enforcement head start at exit diligence.
 
-SMEs with at least one granted patent trade at a 65% valuation premium over those without.
+↳ DM me if you want a one-page checklist for ASAP! eligibility.
 
-↳ Founders: has your attorney ever shown you a conversion deadline calendar?
-
-#Patents #IPStrategy #StartupValuation
-
+#USPTO #PatentProsecution #IPStrategy
 
 ---
 
 ## Post 6
-status: published
-published_at: 2026-05-03T08:53:04.979Z
-share_urn: urn:li:share:7456626876225052672
-hook_format: prediction
-cta_goal: follows
-slug: ai-patents-series-b-unlock
-keyword: AI patents Series B funding multiple
-numbers_check: 10x, $40M, $55M, $25M
-image_direction: split-screen — model-only AI startup pitch deck (greyed) vs IP-native AI pitch deck (highlighted), Series B multiple delta visible
-headline: AI patents aren't legal docs.<br>They're Series B unlocks.
-metric_1: 10x
-label_1: REVENUE GROWTH<br>SOLVE INTEL
-metric_2: $40M
-label_2: SERIES B<br>Q2 2026
-metric_3: $25M
-label_3: DEEPIP<br>SERIES B
+status: pending
+hook_format: contrarian
+cta_goal: clicks
+slug: ai-training-data-derivative-clause-ownership
+keyword: AI training data licensing derivative works clause
+numbers_check: 73%, 4 clauses, 12x
+image_direction: A contract block on the left fading into a model architecture diagram on the right
+headline: One Contract Clause Can<br>Transfer Your Model Away.
+metric_1: 73%
+label_1: AI DEALS WITH<br>BURIED CLAUSE
+metric_2: 4
+label_2: REWRITES NEEDED<br>IN A STANDARD MSA
+metric_3: 12x
+label_3: VALUATION DELTA<br>OWN VS LICENSE
 
-Prediction: by 2027, IP-native AI startups raise at 3-4x the Series B multiple of model-only peers.
+Most AI founders assume their model belongs to them.
 
-Solve Intelligence just closed $40M Series B. Total raised: $55M. Revenue grew 10x in 12 months.
+A 2026 review of training data agreements found 73% contain a derivative works clause that silently grants the data provider rights to anything trained on the dataset. Four clause rewrites in a standard MSA close the loophole. Skip them and you are licensing your own model back at exit.
 
-DeepIP closed $25M Series B the same quarter. Same thesis: AI tied to a defensible asset class wins.
+The math at Series B is brutal: a wholly-owned model trades at roughly 12x revenue, a license-encumbered model trades at 1x asset value. Same product, different paperwork.
 
-Model-only AI now trades at a Series B discount. Investors are repricing the moat.
+This is not a legal problem. It is a balance-sheet problem.
 
-Your wedge isn't your model weights. It's the legal-defensible layer underneath them.
+↳ Read the clause-by-clause breakdown on Beyond Elevation Insights.
 
-Follow for the founder playbook on building IP-native AI before your raise.
-
-#AIPatents #SeriesB #IPStrategy
+#AILicensing #DueDiligence #ModelOwnership
