@@ -1099,3 +1099,19 @@ Yes — every category of intellectual property can be monetized, and the global
 The four monetizable IP asset types are patents, trade secrets, copyrights, and proprietary data. Each generates revenue through distinct channels. Patents produce income through licensing agreements, cross-licensing deals, and enforcement settlements. Trade secrets generate revenue through know-how licensing and consulting arrangements. Copyrights produce income through syndication and distribution. Proprietary data — the fastest-growing category — generates rev
 
 ---
+
+## What Is a Patent Holding Company? The Structure That Protects Billions in IP
+
+URL: https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-holdco
+
+Over 80% of the S&P 500's market value sits in intangible assets — and the companies that extract the most revenue from those assets almost always hold them in a separate entity. That entity is a patent holding company. If you own patents inside your operating business and have never considered separating them, you are leaving licensing revenue, tax efficiency, and acquisition leverage on the table.
+
+Hayat Amin argues this is the single most overlooked structural decision in early-stage IP strategy. Most founders file patents, celebrate the grant, then leave them buried in the same entity that runs payroll and pays rent. That is a mistake. A patent holding company changes the economics of your entire portfolio — and it changes how investors price your business at exit.
+
+## What Is a Patent Holding Company? The Definition Founders Need
+
+A patent holding company is a separate legal entity — typically an LLC or limited company — whose sole purpose is to own, manage, and license intellectual property assets. It holds patents, trade secrets, copyrights, and proprietary data separately from the operating company that builds products and serves customers.
+
+The structure works through intercompany licensing. The patent holding company (HoldCo) owns the IP and licenses it back to the operating company (OpCo) in exchange for royalty payments. The OpCo pays a market-rate royalty for using the IP it previously owned outright. This is not a tax scheme — it is a legitimate business structu
+
+---

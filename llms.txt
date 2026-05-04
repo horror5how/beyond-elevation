@@ -105,5 +105,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How Data Monetization Actually Works: The 3-Step Flow From Raw Data to Recurring Revenue](https://beyondelevation.com/blog/post.html?slug=how-data-monetization-works) — /blog/md/how-data-monetization-works.md
 - [How Do You Calculate the Value of a Patent? The 3-Number Formula Nobody Teaches](https://beyondelevation.com/blog/post.html?slug=patent-value-calculation-formula) — /blog/md/patent-value-calculation-formula.md
 - [Can IP Assets Be Monetized? Yes — Here Is the Proof and the Playbook](https://beyondelevation.com/blog/post.html?slug=can-ip-assets-be-monetized) — /blog/md/can-ip-assets-be-monetized.md
+- [What Is a Patent Holding Company? The Structure That Protects Billions in IP](https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-holdco) — /blog/md/what-is-a-patent-holdco.md
 
 > Full blog content available at /llms-full.txt

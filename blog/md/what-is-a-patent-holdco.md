@@ -3,7 +3,7 @@ title: "What Is a Patent Holding Company? The Structure That Protects Billions i
 slug: what-is-a-patent-holdco
 date: 2026-05-04
 url: https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-holdco
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -27,7 +27,7 @@ Companies use patent holding companies because separated IP is worth materially 
 
 **Liability isolation.** If your operating company faces a lawsuit, creditor claim, or bankruptcy, IP held in a separate entity is shielded. The patents cannot be seized to satisfy OpCo debts. For founders in capital-intensive industries where litigation risk is non-trivial, this protection alone justifies the structure. Hayat Amin's rule is blunt: if your patents are worth more than your last funding round, they should not sit in the same entity as your accounts payable.
 
-**Licensing economics.** A patent holding company can license IP to third parties without the operational complexity of the parent company. It can grant non-exclusive licences to multiple parties simultaneously, structure royalty stacks across industries, and generate revenue from patents the OpCo would never have monetized. The global patent licensing market is growing at 7.77% CAGR toward $5.48 billion by 2035 — and patent holdcos capture a disproportionate share because they are purpose-built for licensing.
+**Licensing economics.** A patent holding company can license IP to third parties without the operational complexity of the parent company. It can grant non-exclusive licences to multiple parties simultaneously, structure royalty stacks across industries, and generate revenue from patents the OpCo would never have monetized. The global patent licensing market is growing at 7.77% CAGR toward .48 billion by 2035 — and patent holdcos capture a disproportionate share because they are purpose-built for licensing.
 
 **M&A premium.** Acquirers pay more for cleanly separated IP. When patents sit in a holdco with clear ownership chains, no encumbrances, and documented licence agreements, due diligence moves faster and valuation arguments are stronger. Hayat Amin showed this in a recent engagement where restructuring a 12-patent portfolio into a dedicated holding entity — with no change to the patents themselves — increased the acquirer's offer by 34%. The IP was identical. The structure made it more valuable.
 
@@ -67,6 +67,20 @@ The distinction matters: patent holding companies managed by operating businesse
 
 For founders considering a patent holdco, the key safeguard is maintaining connection to the underlying innovation. The holdco should be owned or controlled by the same entity that developed the IP, and licensing programmes should offer genuine value to licensees — access to technology, not just avoidance of litigation cost.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-what-is-a-patent-holdco)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is a patent holding company used for?
@@ -88,3 +102,6 @@ Completely legal and widely used by companies from startups to Fortune 500s. The
 ### What is the difference between an IP holdco and an operating company?
 
 An IP holding company owns intellectual property and generates revenue through licensing. An operating company builds products, employs staff, and serves customers. The holdco licenses IP to the operating company (and third parties) in exchange for royalty payments. This separation protects IP assets from operational risk while creating a dedicated revenue channel from licensing.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
