@@ -1115,3 +1115,21 @@ A patent holding company is a separate legal entity — typically an LLC or limi
 The structure works through intercompany licensing. The patent holding company (HoldCo) owns the IP and licenses it back to the operating company (OpCo) in exchange for royalty payments. The OpCo pays a market-rate royalty for using the IP it previously owned outright. This is not a tax scheme — it is a legitimate business structu
 
 ---
+
+## How to Value an AI Company in 2026: The 6-Number Worksheet Investors Actually Run
+
+URL: https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-worksheet
+
+78% of AI company value now sits in intangible assets. Most founders walk into term sheet negotiations armed with revenue metrics and a pitch deck — and leave 2–4x of their valuation on the table because they cannot answer one question: how do you actually value an AI company?
+
+Hayat Amin argues that most AI founders make the same critical error: they let investors set the valuation framework. The investor runs a worksheet. The founder brings a narrative. The worksheet wins every time. "If you do not know the six numbers investors actually calculate," Hayat Amin says, "you are negotiating blind against someone who can see the whole board." That stat about companies with patents being 10.2x more likely to secure early-stage funding? It does not just apply to getting funded — it applies to getting funded at the right price.
+
+This is the worksheet. Six numbers. Plug in your own data. Know exactly what your AI company is worth before anyone else tells you.
+
+## Why Is Valuing an AI Company Different From Valuing a SaaS Business?
+
+Valuing an AI company requires a fundamentally different framework because 70–80% of enterprise value sits in intangible assets — patents, proprietary data, trained models, and know-how — that traditional SaaS multiples completely ignore. A Q1 2026 Finro analysis of 575 AI companies found median revenue multiples ranging from 15x to 35x, with a 15–20% premium for companies that demonstrated IP defensibility through independent audits.
+
+SaaS valuations anc
+
+---
