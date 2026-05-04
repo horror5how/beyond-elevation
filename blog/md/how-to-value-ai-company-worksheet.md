@@ -107,7 +107,7 @@ Leading with revenue metrics and ignoring intangible assets. In 2026, 70–80% o
 
 ### How does Beyond Elevation help founders value an AI company?
 
-Beyond Elevation runs a structured 90-minute valuation session using Hayat Amin's AI Valuation Worksheet to produce a one-page defensible valuation model. The process covers IP audit, data asset assessment, commercial execution scoring, and risk profiling. Book a session at [beyondelevation.com](https://beyondelevation.com) to get your six numbers before your next fundraise or exit conversation.
+Beyond Elevation runs a structured 90-minute valuation session using the AI Valuation Worksheet to produce a one-page defensible valuation model. The process covers IP audit, data asset assessment, commercial execution scoring, and risk profiling. Book a session at [beyondelevation.com](https://beyondelevation.com) to get your six numbers before your next fundraise or exit conversation.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
