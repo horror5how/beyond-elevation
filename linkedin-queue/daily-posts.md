@@ -3,7 +3,7 @@ date: 2026-05-04
 theme: The Series B AI-patent arms race — $105M raised across 3 IP-tech startups in 30 days has just repriced what a defensible AI moat is worth
 generated_at: 2026-05-04T04:00:00Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -148,7 +148,9 @@ If your AI product touches inference, training data, or model architecture, your
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-04T18:09:46.516Z
+share_urn: urn:li:share:7457129360270073857
 hook_format: listicle
 cta_goal: dms
 slug: uspto-asap-pilot-fast-track-prosecution
