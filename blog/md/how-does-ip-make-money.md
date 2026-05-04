@@ -3,7 +3,7 @@ title: "How Does IP Make Money? The 4 Mechanisms That Turn Patents Into Cash (Wi
 slug: how-does-ip-make-money
 date: 2026-05-04
 url: https://beyondelevation.com/blog/post.html?slug=how-does-ip-make-money
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ Hayat Amin proved this timeline on an [IP monetisation programme](/blog/posts/ip
 
 Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to find out which of your patents can generate revenue in the next 90 days.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-does-ip-make-money)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How does IP make money for small companies?
@@ -92,3 +106,6 @@ With a structured activation programme, founders can move from zero IP revenue t
 ### What is the difference between licensing and selling a patent?
 
 Licensing grants permission to use your patent in exchange for royalties while you retain ownership. Selling transfers full ownership for a lump-sum payment. Licensing generates recurring revenue and preserves optionality. Selling is faster but final. Over five years, licensing typically yields 3–7x more total revenue than a single sale.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

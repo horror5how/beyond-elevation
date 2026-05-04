@@ -55,6 +55,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/how-does-ip-make-money/</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/how-data-monetization-works/</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -749,12 +755,6 @@
     <lastmod>2026-05-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=how-does-ip-make-money</loc>
-    <lastmod>2026-05-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/how-does-ip-make-money.md</loc>
