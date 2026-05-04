@@ -76,3 +76,4 @@
 2026-05-03 17:52 | urn:li:share:7456762510793330690 | 6 numbers determine what your AI company is worth.  Most founders can name 2.  R
 2026-05-04 07:56 | QUEUED | ai-spend-execution-premium-2026 | $2.52 trillion is going into AI in 2026. Most of it will earn commodity pricing.
 2026-05-04 07:57 | urn:li:share:7456975161372811264 | $2.52 trillion is going into AI in 2026. Most of it will earn commodity pricing.
+2026-05-04 09:28 | urn:li:share:7456998206787371010 | post #1 | ai-patent-series-b-wave-105m | VCs just told you what your moat should be.  In 30 days: Solve Intelligence rais

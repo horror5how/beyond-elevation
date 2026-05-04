@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff1110333f4ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "agtech-ip-binsentry-vertical-multiples",
-    "ts": "2026-04-30T09:22:00.187Z"
-  },
-  {
     "hash": "007effffff0d2dad",
     "layout": "a",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-patents-series-b-unlock",
     "ts": "2026-05-03T08:53:04.979Z"
+  },
+  {
+    "hash": "00ffffffffff0010",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-patent-series-b-wave-105m",
+    "ts": "2026-05-04T09:28:37.324Z"
   }
 ]

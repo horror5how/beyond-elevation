@@ -3,7 +3,7 @@ date: 2026-05-04
 theme: The Series B AI-patent arms race — $105M raised across 3 IP-tech startups in 30 days has just repriced what a defensible AI moat is worth
 generated_at: 2026-05-04T04:00:00Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Capital markets just priced patent moats. In 30 days, 3 AI-for-patents startups 
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-04T09:28:37.324Z
+share_urn: urn:li:share:7456998206787371010
 hook_format: number-led
 cta_goal: follows
 slug: ai-patent-series-b-wave-105m
