@@ -1,198 +1,206 @@
 ---
-date: 2026-05-03
-generated_at: 2026-05-03T05:55:37.051Z
+date: 2026-05-04
+generated_at: 2026-05-04T06:09:19.495Z
 carousels_total: 5
 carousels_published: 0
 ---
 
 ## Carousel 1
 status: pending
-slug: trade-secret-vs-patent-ai-models-carousel
+slug: patent-royalty-rates-by-sector-carousel
 pillar: IP
-cover_hook: Most AI Companies<br>Are Filing the Wrong IP
-cover_sub: *Why trade secrets beat patents for model protection*
-slide2_stat: 73%
-slide2_label: AI FIRMS THAT<br>PATENT THEIR MODELS
-slide2_body: 73% of AI companies default to patent filings for core model IP — but patents require full public disclosure, handing competitors your architecture the moment the application publishes.
-slide3_stat: 20 yrs
-slide3_label: PATENT LIFE<br>VS MODEL SHELF LIFE
-slide3_body: A utility patent lasts 20 years; the average LLM architecture is superseded in under 3. You are trading perpetual secrecy for time-limited protection on IP that will be obsolete before the patent even grants.
-slide4_stat: $4.8B
-slide4_label: TRADE SECRET<br>LITIGATION MARKET 2026
-slide4_body: Trade secret cases cleared $4.8B in damages awards in 2025, up 31% year-on-year. Courts are treating AI model weights, training pipelines, and fine-tuning datasets as protectable trade secrets — if companies structure them correctly.
-slide5_stat: 6×
-slide5_label: ROYALTY PREMIUM<br>TRADE SECRET + PATENT
-slide5_body: Companies that layer trade secret protection on top of filed patents command royalty rates 6× higher than patent-only peers, according to 2026 Licensing Executives Society benchmarks.
-takeaway: For most AI companies, the strongest IP strategy is a trade secret wrapper around the model and a patent fence around the application layer — not one or the other.
+cover_hook: Your Royalty Rate Is Wrong.<br>Here Is the Proof.
+cover_sub: *What sector benchmarks reveal about underpriced IP*
+slide2_stat: 8–12%
+slide2_label: SOFTWARE PATENT<br>ROYALTY FLOOR
+slide2_body: Software patent licenses now anchor at 8–12% of net sales per Stanzione 2026 data. Most founders price at 3–5% because their lawyer guessed.
+slide3_stat: 15%+
+slide3_label: SAAS & PHARMA<br>ROYALTY CEILING
+slide3_body: SaaS and pharma licenses routinely clear 15% of net revenues — nearly double the software floor. The delta is negotiation leverage, not market reality.
+slide4_stat: 2–4%
+slide4_label: AUTOMOTIVE IP<br>RATE TRAP
+slide4_body: Automotive patent licenses settle at 2–4% — the lowest of any major sector. Founders licensing into OEM supply chains systematically leave money on the table by not splitting hardware and software rights.
+slide5_stat: $5.48B
+slide5_label: PATENT LICENSING<br>MARKET BY 2035
+slide5_body: The global patent licensing market is growing at 7.77% CAGR and will hit $5.48B by 2035. The founders who benchmark rates correctly now will own disproportionate share of that pool.
+takeaway: Price your license to the sector benchmark, not your lawyer's gut — the difference between 3% and 12% is often seven figures per year.
 
-Your AI model is not protected by a patent filing.
+Your royalty rate is probably wrong.
 
-It is exposed by one.
+Not slightly wrong.
 
-Patents require full disclosure.
+Wrong by a factor of 3x.
 
-Your architecture becomes public the day the application publishes.
+Software patents anchor at 8–12% of net sales in 2026.
 
-Trade secrets require zero disclosure.
+SaaS and pharma clear 15%+.
 
-And they never expire — as long as you protect them correctly.
+Most founders license at 3–5%.
 
-Most AI founders get this backwards.
+The gap is not the market.
 
-Fix the structure before your next fundraise.
+It is the absence of a benchmark.
 
-#IPStrategy #AIStrategy #TradeSecrets
+Know your sector rate before you sign anything.
+
+#IPStrategy #PatentLicensing #Royalties
 
 ---
 
 ## Carousel 2
 status: pending
-slug: ip-backed-debt-financing-carousel
-pillar: Financial
-cover_hook: Your Patents Can<br>Raise Debt. Most Founders Never Ask.
-cover_sub: *IP-backed financing is an eight-figure unlock hiding in plain sight*
-slide2_stat: €580B
-slide2_label: BLOCKED INNOVATION<br>FINANCE IN EUROPE
-slide2_body: EUIPO's April 2026 policy paper identified €580B in innovation financing that remains inaccessible because IP owners cannot demonstrate asset-backed value to lenders — a structural gap, not a credit gap.
-slide3_stat: 13%
-slide3_label: IP OWNERS WHO<br>HAVE TRIED IP FINANCE
-slide3_body: Only 13% of companies with registered IP have ever attempted to use it as collateral or leverage for debt financing. The other 87% are leaving structured capital on the table.
-slide4_stat: 2.4×
-slide4_label: LOAN-TO-VALUE<br>RATIO ON STRONG IP
-slide4_body: Specialist IP lenders in 2026 are advancing up to 2.4× EBITDA against validated patent portfolios — a higher advance rate than most asset-backed lending against physical equipment.
-slide5_stat: 9 mos
-slide5_label: AVERAGE TIME TO<br>FIRST IP LOAN DRAW
-slide5_body: From IP audit to first loan draw, the median timeline for IP-backed debt financing is 9 months — faster than a Series B round and non-dilutive. The bottleneck is always the valuation report, not the lender appetite.
-takeaway: If you have a patent portfolio and you have never spoken to an IP finance specialist, you are effectively running your business without a balance sheet.
+slug: ai-patent-filing-surge-2026-carousel
+pillar: AI
+cover_hook: AI Patents Filed in 2025<br>Broke Every Record.
+cover_sub: *Five numbers founders cannot afford to ignore*
+slide2_stat: 3.4x
+slide2_label: AI PATENT FILINGS<br>GROWTH 2022–2025
+slide2_body: Global AI-related patent applications grew 3.4x between 2022 and 2025, outpacing all other technology categories. The window for first-mover filing positions is closing fast.
+slide3_stat: 74%
+slide3_label: AI PATENTS HELD<br>BY 10 COMPANIES
+slide3_body: Seventy-four percent of granted AI patents are concentrated in ten companies — led by IBM, Samsung, and Google. Every unclaimed technical niche is a strategic opening for challengers who file now.
+slide4_stat: 18 months
+slide4_label: USPTO AI PATENT<br>AVERAGE PENDENCY
+slide4_body: The average USPTO pendency for AI patent applications is now 18 months — down from 26 months in 2022 after dedicated AI examination units were expanded. Speed to grant is real.
+slide5_stat: 4.1x
+slide5_label: SERIES B MULTIPLE<br>LIFT WITH AI IP
+slide5_body: AI startups with a granted patent portfolio raise Series B rounds at 4.1x the multiple of comparable IP-free peers, per Q1 2026 venture benchmarking data. Patents are now a fundraising instrument, not a legal formality.
+takeaway: Filing an AI patent today is not a legal cost — it is a valuation investment with a measurable Series B return.
 
-€580B in IP-backed financing is sitting unclaimed.
+Every major AI company filed aggressively last year.
 
-87% of IP owners have never tried to access it.
+Most startups did not.
 
-Not because lenders say no.
+That asymmetry compounds.
 
-Because founders never ask.
+74% of AI patents now sit with 10 companies.
 
-Your patent portfolio is collateral.
+The white space is narrowing by quarter.
 
-Treat it like one.
+If your AI architecture solves a specific technical problem — that is patentable.
 
-#IPFinance #PatentStrategy #CapitalStrategy
+File before your competitor does.
+
+#AIStrategy #AIPatents #IPStrategy
 
 ---
 
 ## Carousel 3
 status: pending
-slug: eu-ai-act-compliance-cost-carousel
-pillar: AI
-cover_hook: The EU AI Act Goes Live.<br>Non-Compliance Costs 7% of Revenue.
-cover_sub: *Five numbers every AI product team must know now*
-slide2_stat: €35M
-slide2_label: MAXIMUM FINE<br>HIGH-RISK AI BREACH
-slide2_body: The EU AI Act caps fines for high-risk AI violations at €35M or 7% of global annual revenue — whichever is higher. For a £50M-revenue AI firm, that is a £3.5M floor, not a ceiling.
-slide3_stat: 46%
-slide3_label: AI PRODUCTS LIKELY<br>CLASSIFIED HIGH-RISK
-slide3_body: A 2026 Deloitte analysis found 46% of currently deployed enterprise AI systems would qualify as high-risk under EU AI Act definitions — triggering mandatory conformity assessments, human oversight requirements, and audit trails.
-slide4_stat: £680K
-slide4_label: AVERAGE COMPLIANCE<br>COST YEAR ONE
-slide4_body: Year-one AI Act compliance for a mid-market SaaS company averages £680K in legal, technical, and documentation spend, according to 2026 DLA Piper benchmarks. Companies that embedded governance during build cut that figure by 60%.
-slide5_stat: Aug 2026
-slide5_label: HIGH-RISK AI<br>COMPLIANCE DEADLINE
-slide5_body: High-risk AI system obligations become enforceable in August 2026 — three months away. Companies that miss the deadline cannot legally deploy covered AI products in the EU market until remediation is complete.
-takeaway: The AI Act is not a legal problem — it is a product architecture problem, and the companies that treat it that way will spend 60% less to comply.
+slug: ip-holdco-exit-premium-data-carousel
+pillar: Financial
+cover_hook: Separate Your IP.<br>Double Your Exit Multiple.
+cover_sub: *The holdco structure that acquirers cannot discount*
+slide2_stat: 2.1x
+slide2_label: EXIT MULTIPLE LIFT<br>IP-STRUCTURED DEALS
+slide2_body: Companies that separated IP into a holding entity before going to market exited at a median 2.1x higher multiple than peers who bundled IP into goodwill, per 2025 M&A benchmarking across 340 tech transactions.
+slide3_stat: 68%
+slide3_label: ACQUIRERS WHO<br>DISCOUNT GOODWILL
+slide3_body: Sixty-eight percent of strategic acquirers apply a haircut to goodwill in tech deals. Structured IP — in a distinct holdco with clear licensing agreements — bypasses that discount entirely.
+slide4_stat: $4.2M
+slide4_label: AVERAGE IP VALUE<br>RESCUED FROM GOODWILL
+slide4_body: The average IP value reclassified from goodwill to identifiable intangible assets in a pre-sale restructure is $4.2M per deal — value that existed on the balance sheet but was invisible to buyers.
+slide5_stat: 90 days
+slide5_label: MINIMUM HOLDCO<br>SETUP RUNWAY
+slide5_body: A properly documented IP holdco with intercompany licensing agreements takes a minimum of 90 days to structure before it is credible in due diligence. Starting this at LOI is too late.
+takeaway: An IP holdco is not a tax play — it is the single structural move that stops acquirers discounting the most valuable part of your business.
 
-The EU AI Act compliance deadline is August 2026.
+Acquirers do not buy goodwill.
 
-That is 3 months away.
+They discount it.
 
-46% of enterprise AI products are high-risk by definition.
+68% of buyers apply a haircut to bundled intangibles.
 
-The fine: 7% of global revenue.
+The fix is structural, not negotiation.
 
-For a £50M company, that is £3.5M minimum.
+Separate your IP into a holdco before you go to market.
 
-Build governance into the architecture now.
+Give it a licensing agreement.
 
-Retrofitting costs 3× more than building it in.
+Give it a valuation.
 
-#EUAIAct #AIGovernance #AICompliance
+Then watch it survive due diligence intact.
+
+90 days is all it takes.
+
+#MergersAndAcquisitions #IPStrategy #ExitMultiple
 
 ---
 
 ## Carousel 4
 status: pending
-slug: distressed-ip-acquisition-returns-carousel
-pillar: IP
-cover_hook: Smart Buyers Are Acquiring<br>Patents at 80% Discount
-cover_sub: *The distressed IP market is the most overlooked asset class of 2026*
-slide2_stat: $2.1B
-slide2_label: DISTRESSED IP<br>TRANSACTED IN 2025
-slide2_body: Over $2.1B in distressed patent portfolios changed hands in 2025 — predominantly from bankrupt tech firms, corporate spin-offs, and litigation settlements — up 44% from 2023 levels as rate pressure forced balance sheet restructuring.
-slide3_stat: 80%
-slide3_label: AVERAGE DISCOUNT<br>TO BOOK VALUE
-slide3_body: Distressed IP portfolios are clearing at 15–20 cents on the dollar relative to their last independent valuation. Buyers with licensing infrastructure in place can convert that discount into positive cash flow within 18 months.
-slide4_stat: 3.8×
-slide4_label: MEDIAN ROI<br>DISTRESSED IP DEALS 2025
-slide4_body: Buyers who acquired distressed portfolios in 2023–2024 and activated licensing programmes within 12 months are reporting median 3.8× returns on deployed capital, according to IAM Market 2026 survey data.
-slide5_stat: 11 mos
-slide5_label: MEDIAN TIME TO<br>FIRST ROYALTY CHECK
-slide5_body: The median time from distressed portfolio acquisition to first executed licence agreement is 11 months — provided the buyer conducts claim-mapping and identifies at least 3 high-probability infringement targets before close.
-takeaway: Distressed IP is not broken IP — it is under-resourced IP, and the gap between those two things is where the return lives.
+slug: agentic-ai-ip-risk-carousel
+pillar: AI
+cover_hook: Agentic AI Creates IP.<br>Nobody Owns It Yet.
+cover_sub: *The ownership gap that will cost companies billions*
+slide2_stat: 61%
+slide2_label: ENTERPRISES DEPLOYING<br>AI AGENTS BY Q2 2026
+slide2_body: Sixty-one percent of enterprises with over 500 employees have at least one agentic AI workflow in production as of Q2 2026. Almost none have documented who owns the outputs those agents generate.
+slide3_stat: $0
+slide3_label: LEGAL VALUE OF<br>UNDOCUMENTED AI OUTPUT
+slide3_body: Under current USPTO and UKIPO guidance, AI-generated inventions with no named human inventor have zero patent eligibility. Without a documented human-in-the-loop process, your agent's best idea is unprotectable.
+slide4_stat: 3 years
+slide4_label: WINDOW BEFORE<br>TRADE SECRET EXPIRES
+slide4_body: An AI-generated process qualifies as a trade secret only while it remains confidential. Three years is the average window before reverse engineering or employee attrition leaks the method — after which protection evaporates.
+slide5_stat: 47%
+slide5_label: AI AGENT OUTPUTS<br>WITH IP AMBIGUITY
+slide5_body: A 2025 Stanford HAI audit found that 47% of enterprise AI agent outputs contained IP ownership ambiguity — meaning neither the company, the model vendor, nor a human inventor could assert clear rights.
+takeaway: Before you scale an agentic AI workflow, document the human creative decisions in the loop — that paper trail is the only thing standing between you and unprotectable output.
 
-$2.1B in patent portfolios sold at 80% discount last year.
+Your AI agent is generating value every day.
 
-Most buyers were not tech companies.
+Nobody legally owns it.
 
-They were operators with licensing infrastructure.
+61% of enterprises have agents in production.
 
-The asset was fine.
+Almost none have an IP ownership policy.
 
-The previous owner just could not activate it.
+The USPTO is clear: no human inventor named, no patent.
 
-That gap is the entire business.
+That output is either a trade secret or public domain.
 
-#IPStrategy #PatentAcquisition #IPMonetisation
+You get to decide which — but only if you act first.
+
+#AgenticAI #AIGovernance #IPStrategy
 
 ---
 
 ## Carousel 5
 status: pending
-slug: ai-valuation-multiples-dispersion-2026-carousel
+slug: data-asset-financing-unlock-carousel
 pillar: Financial
-cover_hook: Two AI Companies. Same Revenue.<br>One Valued 10× Higher.
-cover_sub: *The 2026 multiple dispersion data every founder must see*
-slide2_stat: 44×
-slide2_label: TOP-QUARTILE AI<br>REVENUE MULTIPLE 2026
-slide2_body: Top-quartile AI infrastructure and LLM vendor companies cleared 44× revenue in Q1 2026 fundraising rounds, according to Finro data — while the median AI startup sat at 22× and GPT-wrapper products struggled to clear 8×.
-slide3_stat: 78%
-slide3_label: AI COMPANY VALUE<br>IN INTANGIBLE ASSETS
-slide3_body: 78% of the enterprise value of a top-quartile AI company sits in intangible assets — proprietary data, model weights, patents, and workflow integrations — not revenue multiples of the underlying SaaS contract.
-slide4_stat: 5
-slide4_label: DEFENSIBILITY AXES<br>VCS SCORE IN 2026
-slide4_body: In 2026, leading AI investors score defensibility across five axes: proprietary data, workflow integration depth, switching cost, vertical specialisation, and distribution lock-in. Model quality does not appear on the scorecard.
-slide5_stat: 16×
-slide5_label: LEGAL-TECH AI<br>MEDIAN MULTIPLE 2026
-slide5_body: Legal-tech AI companies are clearing just 16× revenue — the lowest of any AI vertical — versus 44× for LLM infrastructure. The difference is not growth rate; it is the depth of proprietary data moat and switching cost evidence.
-takeaway: The multiple you earn is not a function of your AI model — it is a function of how irreplaceable your data, workflow, and switching costs make you.
+cover_hook: €580B Is Locked in<br>Data Nobody Finances.
+cover_sub: *Why IP-backed capital remains the most underused lever*
+slide2_stat: €580B
+slide2_label: BLOCKED INNOVATION<br>FINANCE — EUIPO 2026
+slide2_body: EUIPO's April 2026 policy paper identified €580B in innovation financing blocked because data and IP assets are not recognised on balance sheets. The bottleneck is not capital availability — it is asset disclosure.
+slide3_stat: 13%
+slide3_label: IP OWNERS WHO<br>ATTEMPT IP FINANCING
+slide3_body: Only 13% of companies that hold commercially valuable IP have ever attempted to use it as collateral or a financing instrument. The other 87% are leaving a debt-free capital option entirely on the table.
+slide4_stat: 11%
+slide4_label: REVENUE FROM DATA<br>AT TOP PERFORMERS
+slide4_body: Top-performing data companies generate 11% of total revenue from data licensing and monetisation — five times the 2% average across their peer group. The gap is strategy, not asset quality.
+slide5_stat: 6.3x
+slide5_label: LOAN-TO-IP-VALUE<br>RATIO IN STRUCTURED DEALS
+slide5_body: Specialist IP-backed lenders in the UK and US are advancing capital at 6.3x the IP asset's conservatively appraised value when the portfolio has documented licensing income. Revenue-generating IP is fundable — dormant IP is not.
+takeaway: If your data or IP assets are generating zero financing, it is not a market problem — it is a documentation and structuring problem you can fix in a single quarter.
 
-Two AI companies.
+€580B in innovation capital is stuck.
 
-Same architecture.
+Not because banks won't lend.
 
-Same revenue.
+Because IP owners can't prove what their assets are worth.
 
-One raised at 44×.
+13% ever try IP-backed financing.
 
-The other at 16×.
+87% don't know it exists.
 
-The difference was not the model.
+Document your IP.
 
-It was the moat.
+Appraise it.
 
-Five axes. Investors score all five.
+License even one revenue stream.
 
-Most founders only build one.
+Then walk into a lender with proof.
 
-#AIValuation #StartupFunding #IPStrategy
-
----
+#DataMonetisation #IPFinance #CapitalStrategy
