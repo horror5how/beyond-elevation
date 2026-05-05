@@ -73,3 +73,4 @@ data-zero-on-books-16b-market
 stanford-ai-index-us-china-defensive-filing
 uspto-asap-pilot-fast-track-prosecution
 patent-royalty-rate-underprice-2026
+ai-training-data-derivative-clause-ownership

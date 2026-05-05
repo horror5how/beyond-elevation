@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42c3e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "patent-conversion-deadline-risk",
-    "ts": "2026-05-02T17:36:28.265Z"
-  },
-  {
     "hash": "66e7e7ff81c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "uspto-asap-pilot-fast-track-prosecution",
     "ts": "2026-05-04T18:09:46.516Z"
+  },
+  {
+    "hash": "00ffffffffff3404",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "ai-training-data-derivative-clause-ownership",
+    "ts": "2026-05-05T09:12:44.187Z"
   }
 ]
