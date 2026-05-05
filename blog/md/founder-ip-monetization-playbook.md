@@ -37,7 +37,7 @@ Royalty stacking turns one patent into multiple revenue streams by licensing the
 
 Hayat Amin showed one founder how a single patent filing — originally written to protect a niche SaaS feature — generated $1.2M across four licensees in 14 months. The patent cost $18K to file. The licensing revenue compounds annually.
 
-Beyond Elevation structures royalty stacks using what Hayat Amin calls the **Licensable Unit Method**: decompose each patent into its individual claims, map each claim against every industry vertical it touches, then sequence outreach from smallest vertical (fastest close) to largest (highest revenue).
+Beyond Elevation structures royalty stacks using the **Licensable Unit Method**: decompose each patent into its individual claims, map each claim against every industry vertical it touches, then sequence outreach from smallest vertical (fastest close) to largest (highest revenue).
 
 This play takes 90–180 days because the second and third licensees close faster once the first deal sets a market rate.
 
@@ -63,7 +63,7 @@ Cross-licensing is underrated for founders building in crowded markets. If your 
 
 ## The Hayat Amin Speed-to-Revenue Test: Which Play to Run First
 
-Not every IP asset supports every play. Hayat Amin's Speed-to-Revenue Test is three questions that determine which monetization play to execute first:
+Not every IP asset supports every play. The test is three questions that determine which monetization play to execute first:
 
 **Question 1: Do you have a granted patent with claims that read on a competitor's shipping product?** If yes → Play #1 (Direct Licensing). Time to revenue: 60–90 days.
 
@@ -77,7 +77,7 @@ The 10.2x stat applies here: companies with patents are 10.2x more likely to sec
 
 ## Why Most Founders Wait Too Long to Monetize
 
-The standard advice is to build the product first, monetize IP later. Hayat Amin argues this backwards: early IP revenue de-risks the company, funds R&D without dilution, and proves to investors that the moat is real — not theoretical.
+The standard advice is to build the product first, monetize IP later. Hayat Amin argues this is backwards: early IP revenue de-risks the company, funds R&D without dilution, and proves to investors that the moat is real — not theoretical.
 
 A founder generating $200K in annual licensing revenue from a single patent is a fundamentally different fundraising story than a founder with 3 patents collecting dust. The first founder has proven commercial value. The second has proven an ability to file paperwork.
 
