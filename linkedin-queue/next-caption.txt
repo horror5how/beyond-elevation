@@ -1,17 +1,14 @@
-Most founders price a patent licence by guessing.
+Flat royalty rates leave 2x on the table.
 
-The median software royalty rate is 8–12% of net sales.
+Every licensing deal has 3 value layers.
 
-SaaS and pharma benchmark: 15%+.
+Layer 1: Upfront fee — compensates for exclusivity and integration costs.
+Layer 2: Running royalty — 3–7% net sales, 8–12% for software top quartile.
+Layer 3: Revenue milestones — unlocked at deal thresholds, not time.
 
-Electronics: 4–6%.
+Companies using all three collect 2–3x the lifetime deal value of flat-rate structures.
 
-If you are charging a flat fee with no escalation clause, you are leaving compounding revenue on the table.
+Most founders negotiate the rate.
+The smart ones negotiate the structure.
 
-The gap between a 3% rate and an 8% rate on £5M revenue is £250K per year — every year.
-
-Royalty rate is a financial decision. Not a legal one.
-
-Know your benchmark before you walk into any licensing room.
-
-#IPStrategy #PatentLicensing #Licensing
+#IPStrategy #Licensing #Valuation
