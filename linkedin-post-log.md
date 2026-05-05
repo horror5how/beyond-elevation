@@ -84,3 +84,4 @@
 2026-05-04 18:09 | urn:li:share:7457129360270073857 | post #5 | uspto-asap-pilot-fast-track-prosecution | USPTO extended the ASAP! Search Pilot deadline this month. Three reasons it matt
 2026-05-05 07:55 | urn:li:share:7457337123818508288 | Most founders price a patent licence by guessing.  The median software royalty r
 2026-05-05 09:12 | urn:li:share:7457356597883760640 | post #6 | ai-training-data-derivative-clause-ownership | Most AI founders assume their model belongs to them.  A 2026 review of training 
+2026-05-05 12:51 | urn:li:share:7457411672882876416 | Flat royalty rates leave 2x on the table.  Every licensing deal has 3 value laye
