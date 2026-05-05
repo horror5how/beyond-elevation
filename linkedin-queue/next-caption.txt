@@ -1,17 +1,17 @@
-The data monetization market is heading to $16 billion by 2034.
+Most founders price a patent licence by guessing.
 
-Most companies report their data worth at $0.
+The median software royalty rate is 8–12% of net sales.
 
-Not because it is worthless.
+SaaS and pharma benchmark: 15%+.
 
-Because nobody structured it as an asset.
+Electronics: 4–6%.
 
-Investment banks now assign multi-million-dollar valuations to proprietary datasets in M&A.
+If you are charging a flat fee with no escalation clause, you are leaving compounding revenue on the table.
 
-Top performers earn 11% of revenue from data. Average companies earn 2%.
+The gap between a 3% rate and an 8% rate on £5M revenue is £250K per year — every year.
 
-That gap is not talent. It is structure.
+Royalty rate is a financial decision. Not a legal one.
 
-The asset is already there. Fix the structure.
+Know your benchmark before you walk into any licensing room.
 
-#DataMonetization #IPStrategy #Valuation
+#IPStrategy #PatentLicensing #Licensing
