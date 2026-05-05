@@ -1187,3 +1187,21 @@ The mistake most founders make is treating valuation as a single number driven b
 Beyond Elevation runs this scorecard on every AI company we advise before they enter a fu
 
 ---
+
+## IP Valuation for Fundraising: How VCs Actually Price Your Patents (And Why Your Patent Attorney Has No Idea)
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-valuation-for-fundraising
+
+Intangible assets now account for 70–80% of technology company value. Yet most founders walk into investor meetings with zero IP valuation. That gap is not just a miss — it is dilution you volunteered for.
+
+IP valuation for fundraising is the single highest-leverage move a founder can make before opening a round. It translates patents, trade secrets, and proprietary data into the financial language investors actually use to price deals. Hayat Amin, who has structured IP valuations across dozens of pre-round engagements, argues that "most founders lose 15–30% of their negotiating position because they cannot put a number on the thing investors care about most — defensibility."
+
+Companies with patents are 10.2x more likely to secure early-stage funding. That is the headline stat. But the real story is what happens after you secure the round — and how much of your company you keep.
+
+## What Is IP Valuation for Fundraising?
+
+IP valuation for fundraising is the structured process of quantifying the economic value of your intellectual property assets — patents, trade secrets, proprietary datasets, and documented know-how — in terms that investors can model into their return calculations. It is not a legal review. It is a financial exercise that translates engineering innovation into investable defensibility. [Beyond Elevation](https://beyondelevation.com) runs this as a pre-round diagnostic for founders who want to price their IP before a VC does it for them.
+
+The distinction matte
+
+---

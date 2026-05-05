@@ -55,6 +55,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-valuation-for-fundraising/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/what-is-a-patent-holdco/</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -782,6 +788,12 @@
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/how-ai-startups-are-valued-scorecard.md</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/ip-valuation-for-fundraising.md</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

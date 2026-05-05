@@ -3,7 +3,7 @@ title: "IP Valuation for Fundraising: How VCs Actually Price Your Patents (And W
 slug: ip-valuation-for-fundraising
 date: 2026-05-05
 url: https://beyondelevation.com/blog/post.html?slug=ip-valuation-for-fundraising
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -77,6 +77,20 @@ Run these five steps before any investor conversation where valuation is on the 
 
 **5. Get an independent assessment.** Self-reported IP valuations are discounted by every investor who has seen one. An independent [IP valuation from Beyond Elevation](https://beyondelevation.com/case-studies) — with a Trustpilot 4.5 rating and a track record across dozens of IP monetisation engagements — carries the credibility that a founder's own estimate never will.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-valuation-for-fundraising)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### When should I get an IP valuation before fundraising?
@@ -98,3 +112,6 @@ Treating IP valuation as a legal exercise rather than a financial one. Your pate
 ### Does IP valuation for fundraising work for pre-revenue startups?
 
 Absolutely. Pre-revenue startups benefit most from IP valuation because it provides a concrete, quantifiable anchor for valuation discussions that would otherwise be entirely speculative. The cost-to-recreate method is particularly powerful at this stage because it demonstrates real R&D investment and competitive distance that pure revenue metrics cannot capture.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
