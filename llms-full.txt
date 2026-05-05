@@ -1169,3 +1169,21 @@ Beyond Elevation's approach starts here: identify the single highest-value licen
 ## Play #1: How t
 
 ---
+
+## How AI Startups Are Actually Valued: The 4-Factor Scorecard That Prices Two Identical Companies 10x Apart
+
+URL: https://beyondelevation.com/blog/post.html?slug=how-ai-startups-are-valued-scorecard
+
+Two AI startups. Same ARR. Same team size. Same vertical. One raises at $12M. The other at $120M. The gap is not luck, timing, or a better pitch deck. It is a scorecard — four factors, weighted differently at every stage — that investors run silently before they ever send a term sheet. Hayat Amin argues that how AI startups are valued comes down to a single insight most founders miss: revenue gets you in the room, but defensibility determines where you sit.
+
+The median AI startup in 2026 trades at 20–30x revenue. But the dispersion is 10x–50x. That range is not noise. It is signal. And the signal is a four-factor model that every serious investor applies — whether they admit it or not.
+
+## How Are AI Startups Valued in 2026?
+
+AI startups are valued using four factors weighted by stage: revenue quality, defensibility score, market position, and execution velocity. Revenue multiples are the entry point — the 20–30x median — but the 10x dispersion above and below that median is explained entirely by how a company scores on the other three factors. A Q1 2026 Finro dataset of 575 AI companies confirms this: IP-rich AI firms command a 15–20% premium over comparable companies with identical revenue profiles.
+
+The mistake most founders make is treating valuation as a single number driven by ARR growth. It is not. It is four numbers multiplied together. Miss one, and you leave 3–5x on the table.
+
+Beyond Elevation runs this scorecard on every AI company we advise before they enter a fu
+
+---

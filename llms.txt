@@ -109,5 +109,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How to Value an AI Company in 2026: The 6-Number Worksheet Investors Actually Run](https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-worksheet) — /blog/md/how-to-value-ai-company-worksheet.md
 - [How Does IP Make Money? The 4 Mechanisms That Turn Patents Into Cash (With 2026 Royalty Rates)](https://beyondelevation.com/blog/post.html?slug=how-does-ip-make-money) — /blog/md/how-does-ip-make-money.md
 - [How to Monetize Your IP: 5 Plays Ranked by Speed to Revenue (Not Boardroom Theater)](https://beyondelevation.com/blog/post.html?slug=founder-ip-monetization-playbook) — /blog/md/founder-ip-monetization-playbook.md
+- [How AI Startups Are Actually Valued: The 4-Factor Scorecard That Prices Two Identical Companies 10x Apart](https://beyondelevation.com/blog/post.html?slug=how-ai-startups-are-valued-scorecard) — /blog/md/how-ai-startups-are-valued-scorecard.md
 
 > Full blog content available at /llms-full.txt
