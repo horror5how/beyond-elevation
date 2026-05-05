@@ -1,14 +1,19 @@
-Flat royalty rates leave 2x on the table.
+We ran IP audits on 40 companies.
 
-Every licensing deal has 3 value layers.
+Every single one had assets they didn't know they owned.
 
-Layer 1: Upfront fee — compensates for exclusivity and integration costs.
-Layer 2: Running royalty — 3–7% net sales, 8–12% for software top quartile.
-Layer 3: Revenue milestones — unlocked at deal thresholds, not time.
+The 3 that show up every time:
 
-Companies using all three collect 2–3x the lifetime deal value of flat-rate structures.
+Undocumented know-how locked in senior engineers' heads.
 
-Most founders negotiate the rate.
-The smart ones negotiate the structure.
+Software workflows that qualify for trade secret protection but were never filed.
 
-#IPStrategy #Licensing #Valuation
+Lapsed provisional patents still within the re-filing window.
+
+EUIPO data: SMEs that register and document IP see a 65% valuation uplift.
+
+Most founders don't fail because they lack IP.
+
+They fail because they never looked.
+
+#IPStrategy #Founders #Valuation
