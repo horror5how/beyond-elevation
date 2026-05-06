@@ -3,7 +3,7 @@ date: 2026-05-06
 theme: In one week, IP stopped being a legal line item and started trading like an asset class — licensing revenue lines at News Corp, an EU rate-card from Munich, a Samsung-led patent audit, and three nine-figure IP valuations all priced the same memo
 generated_at: 2026-05-06T04:00:00Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -152,7 +152,9 @@ Samsung's CFO models royalty income as a top-3 P&L line. Yours should at least a
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-06T18:11:15.128Z
+share_urn: urn:li:share:7457854507587166208
 hook_format: story
 cta_goal: comments
 slug: gema-openai-genai-rate-card

@@ -95,3 +95,4 @@
 2026-05-06 15:26 | urn:li:share:7457813122951770112 | post #4 | samsung-leads-ai-patents-audit | OpenAI is winning the brand war. Samsung is winning the patent war.  A 500-firm 
 2026-05-06 17:51 | QUEUED | royalty-income-pl-premium-2026 | Royalty income is valued at 3x the multiple of services revenue.  Most founders 
 2026-05-06 17:53 | urn:li:share:7457850059171368971 | Royalty income is valued at 3x the multiple of services revenue.  Most founders 
+2026-05-06 18:11 | urn:li:share:7457854507587166208 | post #5 | gema-openai-genai-rate-card | February 2026: a Munich court forced OpenAI to pay GEMA — Germany's collecting s
