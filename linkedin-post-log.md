@@ -90,3 +90,4 @@
 2026-05-06 09:31 | urn:li:share:7457723830669844480 | post #1 | ai-licensing-revenue-category | AI didn't kill publishing. It refinanced it.  Gannett booked AI licensing as a n
 2026-05-06 11:09 | urn:li:share:7457748388965634048 | post #2 | ustr-special-301-china-patent-gap | Three signals this week say the IP cold war escalated.  USTR's 2026 Special 301 
 2026-05-06 12:27 | urn:li:share:7457767907020677120 | post #3 | eu-ip-backed-financing-untapped | Your patent isn't legal paper. It is unlent collateral.  EUIPO's April 2026 repo
+2026-05-06 12:51 | QUEUED | ai-intangible-asset-balance-sheet | 70-80% of your AI company's value is intangible.  Most founders can't prove a si
