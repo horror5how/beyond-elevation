@@ -1135,3 +1135,21 @@ The 6-number AI company valuation worksheet measures recurring revenue quality, 
 Revenue quality is the baseline investors use to set the floor. They score it on net revenue retention (NRR), contract length, and customer concentration. An AI company with 
 
 ---
+
+## How Does IP Make Money? 4 Mechanisms That Turn Patents Into Cash (With 2026 Royalty Rates)
+
+URL: https://beyondelevation.com/blog/post.html?slug=how-does-ip-make-money
+
+Software companies licensing their patents collect 8–12% of licensee net sales in royalties. Electronics firms collect 4–6%. SaaS and pharma companies collect 15% or more. These are not projections — they are 2026 industry benchmarks most founders have never seen.
+
+Yet 97% of patents never generate a single dollar in licensing revenue. Hayat Amin argues the problem is not the patents — it is that founders treat IP as a legal cost centre instead of a revenue engine. That mistake leaves millions on the table every year.
+
+So how does IP actually make money? Through four core mechanisms: licensing, outright sale, enforcement, and IP-backed financing. Each one works differently, pays differently, and fits different stages of business growth. This guide breaks down exactly how patents generate revenue — with the specific royalty rates and deal structures that determine what your IP is worth.
+
+## What Are the 4 Mechanisms That Turn IP Into Money?
+
+IP generates revenue through four distinct mechanisms, each with its own risk profile, timeline, and return structure. Understanding all four is essential because most founders default to just one — and it is usually the wrong one for their stage.
+
+**1. Licensing.** Patent licensing is the most reliable IP income stream. You grant another company the right to use your patented technology in exchange for ongoing royalty payments. The licence can be exclusive or non-exclusive, field-of-use restricted, or geography-limited. Licensing creates 
+
+---

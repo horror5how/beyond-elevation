@@ -107,5 +107,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Can IP Assets Be Monetized? Yes — Here Is the Proof and the Playbook](https://beyondelevation.com/blog/post.html?slug=can-ip-assets-be-monetized) — /blog/md/can-ip-assets-be-monetized.md
 - [What Is a Patent Holding Company? The Structure That Protects Billions in IP](https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-holdco) — /blog/md/what-is-a-patent-holdco.md
 - [How to Value an AI Company in 2026: The 6-Number Worksheet Investors Actually Run](https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-worksheet) — /blog/md/how-to-value-ai-company-worksheet.md
+- [How Does IP Make Money? 4 Mechanisms That Turn Patents Into Cash (With 2026 Royalty Rates)](https://beyondelevation.com/blog/post.html?slug=how-does-ip-make-money) — /blog/md/how-does-ip-make-money.md
 
 > Full blog content available at /llms-full.txt
