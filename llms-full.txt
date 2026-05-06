@@ -1115,3 +1115,23 @@ A patent holding company is a separate legal entity — typically an LLC or limi
 The structure works through intercompany licensing. The patent holding company (HoldCo) owns the IP and licenses it back to the operating company (OpCo) in exchange for royalty payments. The OpCo pays a market-rate royalty for using the IP it previously owned outright. This is not a tax scheme — it is a legitimate business structu
 
 ---
+
+## How to Value an AI Company in 2026: The 6-Number Worksheet Investors Actually Run
+
+URL: https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-worksheet
+
+Two AI companies. Same revenue. Same team size. Same market. One valued at $30M. The other at $300M.
+
+Hayat Amin sees this pricing gap every quarter — and the answer is never the pitch deck, the demo, or the founder's charisma. It is six numbers on a worksheet that most founders have never seen.
+
+Knowing how to value an AI company in 2026 is no longer optional. Median AI startup multiples sit at 20–30x revenue, but dispersion stretches from 10x to 50x. The difference between a fair valuation and a premium one comes down to six factors investors actually measure. Beyond Elevation has run this diagnostic on portfolio companies for two years. Hayat Amin's 6-Number AI Valuation Worksheet distils the investor scoring model into a framework any founder can use — and more importantly, can engineer upward before their next round.
+
+## What Are the 6 Numbers Investors Use to Value an AI Company?
+
+The 6-number AI company valuation worksheet measures recurring revenue quality, IP asset strength, data moat depth, switching cost, addressable market ceiling, and defensibility composite. Each number carries a weight. Each can be improved. Most founders optimise only for the first one and leave the rest to chance — which is why two companies with identical revenue price 10x apart.
+
+## Number 1: Recurring Revenue Quality
+
+Revenue quality is the baseline investors use to set the floor. They score it on net revenue retention (NRR), contract length, and customer concentration. An AI company with 
+
+---

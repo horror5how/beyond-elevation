@@ -3,7 +3,7 @@ title: "How to Value an AI Company in 2026: The 6-Number Worksheet Investors Act
 slug: how-to-value-ai-company-worksheet
 date: 2026-05-06
 url: https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-worksheet
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -75,6 +75,20 @@ The founder who understands how to value an AI company is the founder who engine
 
 Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to run the 6-number diagnostic on your company before your next raise.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-to-value-ai-company-worksheet)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How do you value an AI company in 2026?
@@ -96,3 +110,6 @@ AI companies with structured patent portfolios receive 15–20% higher valuation
 ### What is the fastest way to increase an AI company's valuation?
 
 The fastest lever for most AI companies is IP capture — filing provisional patents on existing innovations, documenting trade secrets, and structuring data rights. These moves take 60–90 days and improve the two worksheet numbers (IP asset strength and defensibility composite) that drive the widest valuation gaps.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

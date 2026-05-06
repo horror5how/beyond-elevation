@@ -43,6 +43,12 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/how-to-value-ai-company-worksheet/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/patent-value-calculation-formula/</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -685,9 +691,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-worksheet</loc>
+    <loc>https://beyondelevation.com/blog/md/how-to-value-ai-company-worksheet.md</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>
