@@ -1,0 +1,106 @@
+name: Gated Blog Publisher (NOT enabled — re-enable after Hayat reviews)
+
+# This is the replacement for the disabled auto-merge / auto-publish path.
+# It enforces TWO hard rules that the previous pipeline did not:
+#   1. Hard cap: at most 2 published posts per ROLLING 7-DAY window.
+#   2. Frontmatter gate: every post in posts.json MUST have human_reviewed: true
+#      AND a non-empty author field that is NOT "Beyond Elevation Team".
+#      (We require a NAMED human author because Google E-E-A-T expects it.)
+#
+# To re-enable:
+#   1. Read this file end-to-end and confirm the gates are correct.
+#   2. Rename to publish.yml (no .gated- suffix).
+#   3. Add the secret PUBLISH_GATE_TOKEN to the repo (any value, just a sentinel).
+#   4. Push to main.
+#
+# This workflow does NOT run on a cron. It only runs on push to main, and even
+# then it only acts when posts.json has changes that pass the gates.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/posts.json'
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type ENABLE to confirm a manual publish run'
+        required: true
+        default: 'NO'
+
+permissions:
+  contents: write
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    if: ${{ vars.PUBLISH_GATE_ENABLED == 'true' }}   # global kill switch via repo variable
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Enforce HUMAN_REVIEWED gate + named author + 2-per-week cap
+        env:
+          HUMAN_REVIEWED: ${{ vars.HUMAN_REVIEWED || 'false' }}
+        run: |
+          if [ "$HUMAN_REVIEWED" != "true" ]; then
+            echo "::error::HUMAN_REVIEWED is not 'true'. Set repo variable HUMAN_REVIEWED=true to allow publishing."
+            exit 1
+          fi
+          node -e "
+            const fs = require('fs');
+            const posts = JSON.parse(fs.readFileSync('data/posts.json','utf8'));
+            const today = new Date();
+            const weekAgo = new Date(today.getTime() - 7*24*3600*1000);
+            const recent = posts.filter(p =>
+              p.status === 'published'
+              && p.alexReview && p.alexReview.approved === true
+              && p.noIndex !== true
+              && new Date(p.date) >= weekAgo
+            );
+            if (recent.length > 2) {
+              console.error('::error::More than 2 posts in the last 7 days (' + recent.length + '). Hard cap exceeded.');
+              recent.forEach(p => console.error(' - ' + p.slug + ' (' + p.date + ')'));
+              process.exit(2);
+            }
+            const badAuthor = posts.filter(p =>
+              p.status === 'published'
+              && p.noIndex !== true
+              && (!p.author || p.author.trim() === '' || /beyond elevation team/i.test(p.author))
+            );
+            if (badAuthor.length > 0) {
+              console.error('::error::' + badAuthor.length + ' published posts have a missing/team author. Set a NAMED human author.');
+              badAuthor.slice(0,5).forEach(p => console.error(' - ' + p.slug + ' (author=' + (p.author||'<empty>') + ')'));
+              process.exit(3);
+            }
+            const unreviewed = posts.filter(p =>
+              p.status === 'published'
+              && p.noIndex !== true
+              && p.human_reviewed !== true
+            );
+            if (unreviewed.length > 0) {
+              console.error('::error::' + unreviewed.length + ' published posts lack per-post human_reviewed:true.');
+              unreviewed.slice(0,5).forEach(p => console.error(' - ' + p.slug));
+              process.exit(4);
+            }
+            console.log('Gate passed: ' + recent.length + ' posts in last 7d, all have named human author + human_reviewed:true.');
+          "
+
+      - name: Build sitemap + static posts
+        run: |
+          node scripts/build-static-posts.js
+          node scripts/build-sitemap.js
+
+      - name: Commit if changed
+        run: |
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE Gated Publisher'
+          git add blog/ sitemap.xml llms.txt
+          git diff --cached --quiet && { echo 'Nothing to commit'; exit 0; }
+          git commit -m "chore(publish): gated regenerate static + sitemap"
+          git push origin main

@@ -14,6 +14,8 @@
 const fs = require('fs');
 const path = require('path');
 
+const { execSync } = require('child_process');
+
 const ROOT = path.resolve(__dirname, '..');
 const POSTS_JSON = path.join(ROOT, 'data', 'posts.json');
 const SERVICES_JSON = path.join(ROOT, 'data', 'services.json');
@@ -23,12 +25,29 @@ const SITE = 'https://beyondelevation.com';
 const TODAY = new Date().toISOString().slice(0, 10);
 
 // Fixed routes — the high-priority non-content pages of the site.
+// Each gets its REAL last-modified date via git history (see lastmodForPath).
+// Previously every URL got TODAY which produced a "scaled content abuse" signal.
 const FIXED_ROUTES = [
-  { loc: '/', priority: '1.0', changefreq: 'weekly' },
-  { loc: '/services/', priority: '0.95', changefreq: 'weekly' },
-  { loc: '/case-studies/', priority: '0.9', changefreq: 'monthly' },
-  { loc: '/blog/', priority: '0.9', changefreq: 'weekly' },
+  { loc: '/', priority: '1.0', changefreq: 'weekly', sourceFile: 'index.html' },
+  { loc: '/services/', priority: '0.95', changefreq: 'weekly', sourceFile: 'services/index.html' },
+  { loc: '/case-studies/', priority: '0.9', changefreq: 'monthly', sourceFile: 'case-studies/index.html' },
+  { loc: '/blog/', priority: '0.9', changefreq: 'weekly', sourceFile: 'blog/index.html' },
 ];
+
+// Resolve a per-file lastmod from git (most recent commit that touched the file).
+// Falls back to fs mtime, then to TODAY. This stops the sitemap from claiming
+// every URL was modified today on every deploy.
+function lastmodForPath(relPath) {
+  const abs = path.join(ROOT, relPath);
+  try {
+    const out = execSync(`git log -1 --pretty=%cs -- "${relPath}"`, { cwd: ROOT }).toString().trim();
+    if (out) return out;
+  } catch (_) {}
+  try {
+    return new Date(fs.statSync(abs).mtime).toISOString().slice(0, 10);
+  } catch (_) {}
+  return TODAY;
+}
 
 function esc(s = '') {
   return String(s)
@@ -52,30 +71,47 @@ function main() {
   const posts = JSON.parse(fs.readFileSync(POSTS_JSON, 'utf8'));
   const services = JSON.parse(fs.readFileSync(SERVICES_JSON, 'utf8'));
 
+  // Filter out:
+  //  - status != 'published'
+  //  - alexReview.approved != true (legacy gate)
+  //  - noIndex === true (added 2026-05-06 for HCU triage)
+  //  - status === 'archived' (added 2026-05-06)
   const approvedPosts = posts
-    .filter(p => p.status === 'published' && p.alexReview && p.alexReview.approved === true)
+    .filter(p => p.status === 'published'
+              && p.alexReview && p.alexReview.approved === true
+              && p.noIndex !== true
+              && p.status !== 'archived')
     .sort((a, b) => new Date(b.date) - new Date(a.date));
 
   const entries = [];
 
-  // Fixed routes
-  FIXED_ROUTES.forEach(r => entries.push(urlEntry(r)));
+  // Fixed routes — use real per-file git lastmod, NOT today.
+  FIXED_ROUTES.forEach(r => entries.push(urlEntry({
+    loc: r.loc,
+    lastmod: lastmodForPath(r.sourceFile),
+    changefreq: r.changefreq,
+    priority: r.priority,
+  })));
 
-  // Service pages
+  // Service pages — use real per-file git lastmod.
   services.forEach(svc => {
     entries.push(urlEntry({
       loc: `/services/${svc.slug}/`,
-      lastmod: TODAY,
-      changefreq: 'weekly',
+      lastmod: lastmodForPath(`services/${svc.slug}/index.html`),
+      changefreq: 'monthly',
       priority: '0.9',
     }));
   });
 
-  // Blog posts
+  // Blog posts — prefer explicit dateModified, then date, then git lastmod, then TODAY.
   approvedPosts.forEach(post => {
+    const lastmod = post.dateModified
+      || post.date
+      || lastmodForPath(`blog/posts/${post.slug}/index.html`)
+      || TODAY;
     entries.push(urlEntry({
       loc: `/blog/posts/${post.slug}/`,
-      lastmod: esc(post.dateModified || post.date || TODAY),
+      lastmod: esc(lastmod),
       changefreq: 'monthly',
       priority: '0.7',
     }));

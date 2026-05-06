@@ -85,6 +85,13 @@ function pageTemplate(post) {
   const dateModified = post.dateModified || post.date;
   const author = post.author || 'Beyond Elevation Team';
   const category = post.category || 'IP Strategy';
+  // Per-post noindex flag (added 2026-05-06 for HCU triage). When true, the
+  // page renders with `noindex,follow` and is excluded from sitemap.xml.
+  const isNoIndex = post.noIndex === true || post.status === 'archived';
+  const robotsContent = isNoIndex
+    ? 'noindex, follow'
+    : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1';
+  const aiBotContent = isNoIndex ? 'noindex, follow' : 'index, follow';
 
   // JSON-LD Article schema. Author is Hayat Amin (Person) so the Knowledge
   // Graph still associates content with the personal brand, while the visible
@@ -138,15 +145,15 @@ function pageTemplate(post) {
     <title>${escapeHtml(title)}</title>
     <meta name="description" content="${escapeHtml(description)}" />
     <link rel="canonical" href="${canonical}" />
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <meta name="GPTBot" content="index, follow" />
-    <meta name="ChatGPT-User" content="index, follow" />
-    <meta name="ClaudeBot" content="index, follow" />
-    <meta name="Claude-Web" content="index, follow" />
-    <meta name="anthropic-ai" content="index, follow" />
-    <meta name="PerplexityBot" content="index, follow" />
-    <meta name="Google-Extended" content="index, follow" />
-    <meta name="Applebot-Extended" content="index, follow" />
+    <meta name="robots" content="${robotsContent}" />
+    <meta name="GPTBot" content="${aiBotContent}" />
+    <meta name="ChatGPT-User" content="${aiBotContent}" />
+    <meta name="ClaudeBot" content="${aiBotContent}" />
+    <meta name="Claude-Web" content="${aiBotContent}" />
+    <meta name="anthropic-ai" content="${aiBotContent}" />
+    <meta name="PerplexityBot" content="${aiBotContent}" />
+    <meta name="Google-Extended" content="${aiBotContent}" />
+    <meta name="Applebot-Extended" content="${aiBotContent}" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='black'/%3E%3Ctext x='50%25' y='53%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-size='24' font-weight='700' fill='white'%3EBE%3C/text%3E%3C/svg%3E" />
 
     <!-- Open Graph -->
