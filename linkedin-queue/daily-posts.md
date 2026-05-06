@@ -3,7 +3,7 @@ date: 2026-05-06
 theme: In one week, IP stopped being a legal line item and started trading like an asset class — licensing revenue lines at News Corp, an EU rate-card from Munich, a Samsung-led patent audit, and three nine-figure IP valuations all priced the same memo
 generated_at: 2026-05-06T04:00:00Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -88,7 +88,9 @@ If your last IP audit didn't name your top 5 China-origin landmines by applicati
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-06T12:27:07.953Z
+share_urn: urn:li:share:7457767907020677120
 hook_format: contrarian
 cta_goal: follows
 slug: eu-ip-backed-financing-untapped

@@ -89,3 +89,4 @@
 2026-05-06 07:50 | QUEUED | patent-portfolio-ma-negotiation-leverage | Most founders hand their IP over in due diligence. The smart ones use it to set 
 2026-05-06 09:31 | urn:li:share:7457723830669844480 | post #1 | ai-licensing-revenue-category | AI didn't kill publishing. It refinanced it.  Gannett booked AI licensing as a n
 2026-05-06 11:09 | urn:li:share:7457748388965634048 | post #2 | ustr-special-301-china-patent-gap | Three signals this week say the IP cold war escalated.  USTR's 2026 Special 301 
+2026-05-06 12:27 | urn:li:share:7457767907020677120 | post #3 | eu-ip-backed-financing-untapped | Your patent isn't legal paper. It is unlent collateral.  EUIPO's April 2026 repo

@@ -1,12 +1,5 @@
 [
   {
-    "hash": "e7e7e7ff8181ff9b",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "solve-intelligence-10x-revenue-ip-category",
-    "ts": "2026-05-04T11:07:21.570Z"
-  },
-  {
     "hash": "7ef030011bf1ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ustr-special-301-china-patent-gap",
     "ts": "2026-05-06T11:09:34.452Z"
+  },
+  {
+    "hash": "e700e7ffff28a5a5",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "eu-ip-backed-financing-untapped",
+    "ts": "2026-05-06T12:27:07.953Z"
   }
 ]

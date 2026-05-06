@@ -172,3 +172,5 @@ Post 4: hook_too_long(16w)
 2026-05-06 11:09 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=2 < 5) | trying different variant
 2026-05-06 11:09 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=3 < 5) | trying different variant
 2026-05-06 11:09 | li-auto-post | render OK | post #2 | layout=b accent=#7a8c6e hash=02e7e7ff81c3ff99 minDist=8 attempts=3
+2026-05-06 12:27 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-06 12:27 | li-auto-post | render OK | post #3 | layout=a accent=#a89968 hash=e700e7ffff28a5a5 minDist=21 attempts=2

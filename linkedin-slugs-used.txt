@@ -79,3 +79,4 @@ ip-audit-three-hidden-assets
 patent-portfolio-ma-negotiation-leverage
 ai-licensing-revenue-category
 ustr-special-301-china-patent-gap
+eu-ip-backed-financing-untapped
