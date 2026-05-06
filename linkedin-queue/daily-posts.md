@@ -3,7 +3,7 @@ date: 2026-05-06
 theme: In one week, IP stopped being a legal line item and started trading like an asset class — licensing revenue lines at News Corp, an EU rate-card from Munich, a Samsung-led patent audit, and three nine-figure IP valuations all priced the same memo
 generated_at: 2026-05-06T04:00:00Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ If you sit on a proprietary corpus — name it, price it, and put a contract tem
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-06T11:09:34.452Z
+share_urn: urn:li:share:7457748388965634048
 hook_format: prediction
 cta_goal: comments
 slug: ustr-special-301-china-patent-gap

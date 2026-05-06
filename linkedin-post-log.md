@@ -88,3 +88,4 @@
 2026-05-05 18:12 | UNKNOWN-URN | ci-push-conflict | ip-audit-three-hidden-assets | We ran IP audits on 40 companies. Every single one had assets they didn
 2026-05-06 07:50 | QUEUED | patent-portfolio-ma-negotiation-leverage | Most founders hand their IP over in due diligence. The smart ones use it to set 
 2026-05-06 09:31 | urn:li:share:7457723830669844480 | post #1 | ai-licensing-revenue-category | AI didn't kill publishing. It refinanced it.  Gannett booked AI licensing as a n
+2026-05-06 11:09 | urn:li:share:7457748388965634048 | post #2 | ustr-special-301-china-patent-gap | Three signals this week say the IP cold war escalated.  USTR's 2026 Special 301 

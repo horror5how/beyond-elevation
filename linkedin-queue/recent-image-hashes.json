@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffffff0010",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "ai-patent-series-b-wave-105m",
-    "ts": "2026-05-04T09:28:37.324Z"
-  },
-  {
     "hash": "e7e7e7ff8181ff9b",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-licensing-revenue-category",
     "ts": "2026-05-06T09:31:59.345Z"
+  },
+  {
+    "hash": "02e7e7ff81c3ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "ustr-special-301-china-patent-gap",
+    "ts": "2026-05-06T11:09:34.452Z"
   }
 ]
