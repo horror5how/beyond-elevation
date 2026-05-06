@@ -43,6 +43,12 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/patent-royalty-rates-founders-underprice/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/founder-ip-monetization-playbook/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -797,12 +803,6 @@
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/patent-royalty-rates-founders-underprice/</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/patent-royalty-rates-founders-underprice.md</loc>

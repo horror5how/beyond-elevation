@@ -3,7 +3,7 @@ title: "Why Founders Underprice Patent Royalties (And the 2026 Industry Rate Ben
 slug: patent-royalty-rates-founders-underprice
 date: 2026-05-06
 url: https://beyondelevation.com/blog/post.html?slug=patent-royalty-rates-founders-underprice
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -81,6 +81,20 @@ Third, the deal structure is designed for [recurring revenue](/blog/posts/patent
 
 Companies with patents are 10.2x more likely to secure early-stage funding. Companies with patents that generate licensing revenue at the right patent royalty rates are in a category of their own — they are revenue-generating IP businesses, not startups hoping their filings matter. The Trustpilot 4.5-rated team at Beyond Elevation has turned many patents into billions in IP value. The first step is pricing them correctly.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-royalty-rates-founders-underprice)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is a fair patent royalty rate?
@@ -102,3 +116,6 @@ Yes. US patent royalty rates tend to be 20–30% higher than equivalent European
 ### What happens if a licensee refuses to pay the market royalty rate?
 
 If a licensee refuses the market rate, they are either bluffing, planning to design around your patent, or preparing for litigation. In most cases, they are bluffing — 95% of licensing negotiations settle before any formal dispute. If they litigate, patent holders prevail in approximately 60% of cases that reach trial.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
