@@ -93,3 +93,4 @@
 2026-05-06 12:51 | QUEUED | ai-intangible-asset-balance-sheet | 70-80% of your AI company's value is intangible.  Most founders can't prove a si
 2026-05-06 12:52 | urn:li:share:7457774383651119106 | 70-80% of your AI company's value is intangible.  Most founders can't prove a si
 2026-05-06 15:26 | urn:li:share:7457813122951770112 | post #4 | samsung-leads-ai-patents-audit | OpenAI is winning the brand war. Samsung is winning the patent war.  A 500-firm 
+2026-05-06 17:51 | QUEUED | royalty-income-pl-premium-2026 | Royalty income is valued at 3x the multiple of services revenue.  Most founders 
