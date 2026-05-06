@@ -77,3 +77,4 @@ ai-training-data-derivative-clause-ownership
 licensing-milestone-payment-structure
 ip-audit-three-hidden-assets
 patent-portfolio-ma-negotiation-leverage
+ai-licensing-revenue-category

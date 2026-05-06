@@ -3,7 +3,7 @@ date: 2026-05-06
 theme: In one week, IP stopped being a legal line item and started trading like an asset class — licensing revenue lines at News Corp, an EU rate-card from Munich, a Samsung-led patent audit, and three nine-figure IP valuations all priced the same memo
 generated_at: 2026-05-06T04:00:00Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Five fresh signals this week stamped the same conclusion: the IP layer of a busi
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-06T09:31:59.345Z
+share_urn: urn:li:share:7457723830669844480
 hook_format: number-led
 cta_goal: follows
 slug: ai-licensing-revenue-category

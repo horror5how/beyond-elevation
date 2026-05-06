@@ -1,12 +1,5 @@
 [
   {
-    "hash": "66e7e7ff81c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "ai-patents-series-b-unlock",
-    "ts": "2026-05-03T08:53:04.979Z"
-  },
-  {
     "hash": "00ffffffffff0010",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-training-data-derivative-clause-ownership",
     "ts": "2026-05-05T09:12:44.187Z"
+  },
+  {
+    "hash": "8183e7ffc3e7ff99",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "ai-licensing-revenue-category",
+    "ts": "2026-05-06T09:31:59.345Z"
   }
 ]
