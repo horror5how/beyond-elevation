@@ -1115,3 +1115,109 @@ A patent holding company is a separate legal entity — typically an LLC or limi
 The structure works through intercompany licensing. The patent holding company (HoldCo) owns the IP and licenses it back to the operating company (OpCo) in exchange for royalty payments. The OpCo pays a market-rate royalty for using the IP it previously owned outright. This is not a tax scheme — it is a legitimate business structu
 
 ---
+
+## How to Value an AI Company in 2026: The 6-Number Worksheet Investors Actually Run
+
+URL: https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-worksheet
+
+78% of AI company value now sits in intangible assets. Most founders walk into term sheet negotiations armed with revenue metrics and a pitch deck — and leave 2–4x of their valuation on the table because they cannot answer one question: how do you actually value an AI company?
+
+Hayat Amin argues that most AI founders make the same critical error: they let investors set the valuation framework. The investor runs a worksheet. The founder brings a narrative. The worksheet wins every time. "If you do not know the six numbers investors actually calculate," Hayat Amin says, "you are negotiating blind against someone who can see the whole board." That stat about companies with patents being 10.2x more likely to secure early-stage funding? It does not just apply to getting funded — it applies to getting funded at the right price.
+
+This is the worksheet. Six numbers. Plug in your own data. Know exactly what your AI company is worth before anyone else tells you.
+
+## Why Is Valuing an AI Company Different From Valuing a SaaS Business?
+
+Valuing an AI company requires a fundamentally different framework because 70–80% of enterprise value sits in intangible assets — patents, proprietary data, trained models, and know-how — that traditional SaaS multiples completely ignore. A Q1 2026 Finro analysis of 575 AI companies found median revenue multiples ranging from 15x to 35x, with a 15–20% premium for companies that demonstrated IP defensibility through independent audits.
+
+SaaS valuations anc
+
+---
+
+## How Does IP Make Money? The 4 Mechanisms That Turn Patents Into Cash (With 2026 Royalty Rates)
+
+URL: https://beyondelevation.com/blog/post.html?slug=how-does-ip-make-money
+
+IP makes money through four mechanisms: licensing, sale, enforcement, and capital backing. Most founders know about one. The other three are where the real returns hide.
+
+The question "how does IP make money" comes up in every founder conversation Hayat Amin runs at [Beyond Elevation](https://beyondelevation.com) — usually after the founder has spent $50K on patents that sit in a drawer generating zero revenue. The 2026 data makes the gap impossible to ignore: software patents license at 8–12% of net sales, SaaS and pharma IP commands 15%+, and companies with structured IP portfolios are 10.2x more likely to secure early-stage funding. The problem is not that IP cannot make money. The problem is that most founders never activate it.
+
+## How Does IP Make Money? The 4 Revenue Mechanisms Explained
+
+IP generates revenue through licensing (recurring royalties), outright sale (lump-sum payment), enforcement (litigation or settlement proceeds), and capital backing (higher valuations and cheaper debt). Each mechanism suits a different stage and risk tolerance — and the highest-performing IP owners run two or three simultaneously.
+
+**Mechanism 1: Licensing.** Licensing is the highest-margin, most scalable IP revenue channel. You grant another company permission to use your patented technology in exchange for royalty payments — typically a percentage of net sales or a per-unit fee. The asset stays on your balance sheet. The revenue recurs. Every new licensee compounds the income withou
+
+---
+
+## How to Monetize Your IP: 5 Plays Ranked by Speed to Revenue (Not Boardroom Theater)
+
+URL: https://beyondelevation.com/blog/post.html?slug=founder-ip-monetization-playbook
+
+Most founders sit on monetizable IP for 18 months before generating a single dollar from it. The reason is simple: they hired a lawyer when they needed an operator. Hayat Amin argues that the question is not whether your IP has value — it is which of the 5 monetization plays gets you to revenue fastest. How to monetize your IP is not an academic exercise. It is a sequencing decision. The wrong play first costs you 6–12 months. The right play first puts cash in the bank within 90 days.
+
+Here are the 5 plays, ranked by speed to first revenue — not by theoretical ceiling.
+
+## What Does "Monetize Your IP" Actually Mean for a Sub-$10M Founder?
+
+To monetize your IP means converting patents, proprietary data, trade secrets, or protected know-how into recurring revenue through licensing, access fees, or structured enforcement — without selling the underlying asset. For founders under $10M revenue, it means choosing the single fastest path to cash rather than running a 5-year portfolio strategy designed for Fortune 500 companies.
+
+The distinction matters. Corporate IP monetization assumes a legal team, a 24-month timeline, and a diversified portfolio. Founder IP monetization assumes one or two key assets, no dedicated legal budget, and a 90-day window before the next board meeting.
+
+Beyond Elevation's approach starts here: identify the single highest-value licensable unit in your portfolio, then run the play that converts it to revenue in the shortest time possible.
+
+## Play #1: How t
+
+---
+
+## How AI Startups Are Actually Valued: The 4-Factor Scorecard That Prices Two Identical Companies 10x Apart
+
+URL: https://beyondelevation.com/blog/post.html?slug=how-ai-startups-are-valued-scorecard
+
+Two AI startups. Same ARR. Same team size. Same vertical. One raises at $12M. The other at $120M. The gap is not luck, timing, or a better pitch deck. It is a scorecard — four factors, weighted differently at every stage — that investors run silently before they ever send a term sheet. Hayat Amin argues that how AI startups are valued comes down to a single insight most founders miss: revenue gets you in the room, but defensibility determines where you sit.
+
+The median AI startup in 2026 trades at 20–30x revenue. But the dispersion is 10x–50x. That range is not noise. It is signal. And the signal is a four-factor model that every serious investor applies — whether they admit it or not.
+
+## How Are AI Startups Valued in 2026?
+
+AI startups are valued using four factors weighted by stage: revenue quality, defensibility score, market position, and execution velocity. Revenue multiples are the entry point — the 20–30x median — but the 10x dispersion above and below that median is explained entirely by how a company scores on the other three factors. A Q1 2026 Finro dataset of 575 AI companies confirms this: IP-rich AI firms command a 15–20% premium over comparable companies with identical revenue profiles.
+
+The mistake most founders make is treating valuation as a single number driven by ARR growth. It is not. It is four numbers multiplied together. Miss one, and you leave 3–5x on the table.
+
+Beyond Elevation runs this scorecard on every AI company we advise before they enter a fu
+
+---
+
+## IP Valuation for Fundraising: How VCs Actually Price Your Patents (And Why Your Patent Attorney Has No Idea)
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-valuation-for-fundraising
+
+Intangible assets now account for 70–80% of technology company value. Yet most founders walk into investor meetings with zero IP valuation. That gap is not just a miss — it is dilution you volunteered for.
+
+IP valuation for fundraising is the single highest-leverage move a founder can make before opening a round. It translates patents, trade secrets, and proprietary data into the financial language investors actually use to price deals. Hayat Amin, who has structured IP valuations across dozens of pre-round engagements, argues that “most founders lose 15–30% of their negotiating position because they cannot put a number on the thing investors care about most — defensibility.”
+
+Companies with patents are 10.2x more likely to secure early-stage funding. That is the headline stat. But the real story is what happens after you secure the round — and how much of your company you keep.
+
+## What Is IP Valuation for Fundraising?
+
+IP valuation for fundraising is the structured process of quantifying the economic value of your intellectual property assets — patents, trade secrets, proprietary datasets, and documented know-how — in terms that investors can model into their return calculations. It is not a legal review. It is a financial exercise that translates engineering innovation into investable defensibility. [Beyond Elevation](https://beyondelevation.com) runs this as a pre-round diagnostic for founders who want to price their IP before a VC does it for them.
+
+The distinction matte
+
+---
+
+## Why Founders Underprice Patent Royalties (And the 2026 Industry Rate Benchmarks That Prove It)
+
+URL: https://beyondelevation.com/blog/post.html?slug=patent-royalty-rates-founders-underprice
+
+73% of first-time patent licensors accept a royalty rate below the industry floor. The average founder leaves $180K per deal on the table — not because the patent is weak, but because nobody taught them how to price it. Hayat Amin argues that patent royalty rates are the single most mispriced variable in startup IP monetization: "Lawyers set conservative rates because their incentive is deal closure, not revenue maximization. Founders accept those rates because they have no benchmarks. The result is a licensing deal that looks like a win but leaves six figures on the floor."
+
+Patent royalty rates in 2026 range from 3% to 15%+ of licensee net sales depending on industry, claim strength, and competitive pressure. This post gives you the exact benchmarks by sector, the framework to calculate your rate, and the negotiation mistakes that destroy licensing revenue before the ink dries.
+
+## What Are Standard Patent Royalty Rates in 2026?
+
+Standard patent royalty rates in 2026 sit between 3% and 15% of licensee net sales, with the precise rate determined by industry vertical, claim breadth, and the licensee's alternative options. Software patents command 8–12%. Electronics patents sit at 4–6%. Automotive patents hover around 3–4%. SaaS and pharmaceutical patents reach 15% and above.
+
+These figures come from Stanzione, UpCounsel, and RoyaltyRange — the three most-cited 2026 benchmarking sources for patent licensing transactions. The critical detail most founders miss: these are median
+
+---

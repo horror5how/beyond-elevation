@@ -1,51 +1,51 @@
 [
   {
-    "hash": "fff1110333f4ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "agtech-ip-binsentry-vertical-multiples",
-    "ts": "2026-04-30T09:22:00.187Z"
-  },
-  {
-    "hash": "007effffff0d2dad",
-    "layout": "a",
-    "accent": "#7a8c6e",
-    "slug": "ip-strategy-pre-revenue-startup",
-    "ts": "2026-05-02T08:25:24.022Z"
-  },
-  {
-    "hash": "0042e7ffc381ff9f",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "ai-defensibility-vc-scorecard",
-    "ts": "2026-05-02T09:59:41.189Z"
-  },
-  {
-    "hash": "62e3e7ffc3c1ff9f",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ip-holdco-exit-multiple",
-    "ts": "2026-05-02T11:42:48.116Z"
-  },
-  {
-    "hash": "fff010301735ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "data-asset-balance-sheet-financing",
-    "ts": "2026-05-02T14:10:00.539Z"
-  },
-  {
-    "hash": "42c3e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "patent-conversion-deadline-risk",
-    "ts": "2026-05-02T17:36:28.265Z"
-  },
-  {
     "hash": "66e7e7ff81c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
     "slug": "ai-patents-series-b-unlock",
     "ts": "2026-05-03T08:53:04.979Z"
+  },
+  {
+    "hash": "00ffffffffff0010",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-patent-series-b-wave-105m",
+    "ts": "2026-05-04T09:28:37.324Z"
+  },
+  {
+    "hash": "e7e7e7ff8181ff9b",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "solve-intelligence-10x-revenue-ip-category",
+    "ts": "2026-05-04T11:07:21.570Z"
+  },
+  {
+    "hash": "7ef030011bf1ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "deepip-patent-lifecycle-speed-arbitrage",
+    "ts": "2026-05-04T12:20:51.141Z"
+  },
+  {
+    "hash": "7ef901191375ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "stanford-ai-index-us-china-defensive-filing",
+    "ts": "2026-05-04T15:09:30.470Z"
+  },
+  {
+    "hash": "00ffffffff642525",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "uspto-asap-pilot-fast-track-prosecution",
+    "ts": "2026-05-04T18:09:46.516Z"
+  },
+  {
+    "hash": "00ffffffffff3404",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "ai-training-data-derivative-clause-ownership",
+    "ts": "2026-05-05T09:12:44.187Z"
   }
 ]

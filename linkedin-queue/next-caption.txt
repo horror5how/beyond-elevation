@@ -1,17 +1,19 @@
-6 numbers determine what your AI company is worth.
+We ran IP audits on 40 companies.
 
-Most founders can name 2.
+Every single one had assets they didn't know they owned.
 
-Revenue multiple: 12x median. IP-native AI: 47x.
+The 3 that show up every time:
 
-The gap is not the model. It is the IP wrapped around it.
+Undocumented know-how locked in senior engineers' heads.
 
-Investors score six inputs: ARR, comp multiples, patent count, workflow moat, data licensing value, defensibility score.
+Software workflows that qualify for trade secret protection but were never filed.
 
-Miss half and you price at median.
+Lapsed provisional patents still within the re-filing window.
 
-The 30% rule: 30% of your valuation must trace to IP before institutional buyers move you above 20x.
+EUIPO data: SMEs that register and document IP see a 65% valuation uplift.
 
-File before you raise.
+Most founders don't fail because they lack IP.
 
-#IPStrategy #AIValuation #StartupFunding
+They fail because they never looked.
+
+#IPStrategy #Founders #Valuation

@@ -148,3 +148,23 @@ Post 1: hook_too_long(11w), no_specific_number
 Post 4: hook_too_long(15w)
 Post 5: hook_too_long(14w)
 2026-05-04 06:34 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-04 09:28 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-04 09:28 | li-auto-post | render OK | post #1 | layout=a accent=#a89968 hash=00ffffffffff0010 minDist=17 attempts=2
+2026-05-04 11:07 | li-auto-post | render OK | post #2 | layout=b accent=#d7b086 hash=e7e7e7ff8181ff9b minDist=5 attempts=1
+2026-05-04 12:20 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-04 12:20 | li-auto-post | render OK | post #3 | layout=c accent=#a87c7c hash=7ef030011bf1ffff minDist=11 attempts=2
+2026-05-04 15:09 | li-auto-post | render OK | post #4 | layout=c accent=#a89968 hash=7ef901191375ffff minDist=10 attempts=1
+2026-05-04 18:09 | li-auto-post | render OK | post #5 | layout=a accent=#a87c7c hash=00ffffffff642525 minDist=12 attempts=1
+2026-05-05 06:09 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-05 06:09 | li-generate-queue | attempt 1 | quality gate failed:
+Post 2: hook_too_long(11w)
+Post 4: hook_too_long(11w)
+Post 5: hook_too_long(12w)
+2026-05-05 06:10 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-05 06:10 | li-generate-queue | attempt 2 | quality gate failed:
+Post 3: hook_too_long(12w)
+2026-05-05 06:10 | li-generate-queue | attempt 3 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-05 06:10 | li-generate-queue | attempt 3 | quality gate failed:
+Post 4: hook_too_long(16w)
+2026-05-05 06:10 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-05 09:12 | li-auto-post | render OK | post #6 | layout=a accent=#d7b086 hash=00ffffffffff3404 minDist=5 attempts=1

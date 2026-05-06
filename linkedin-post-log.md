@@ -74,3 +74,15 @@
 2026-05-03 12:52 | QUEUED | what-is-a-trade-secret | Coca-Cola's formula has been a trade secret for 137 years.  A patent would have 
 2026-05-03 12:53 | urn:li:share:7456687401042776064 | Coca-Cola's formula has been a trade secret for 137 years.  A patent would have 
 2026-05-03 17:52 | urn:li:share:7456762510793330690 | 6 numbers determine what your AI company is worth.  Most founders can name 2.  R
+2026-05-04 07:56 | QUEUED | ai-spend-execution-premium-2026 | $2.52 trillion is going into AI in 2026. Most of it will earn commodity pricing.
+2026-05-04 07:57 | urn:li:share:7456975161372811264 | $2.52 trillion is going into AI in 2026. Most of it will earn commodity pricing.
+2026-05-04 09:28 | urn:li:share:7456998206787371010 | post #1 | ai-patent-series-b-wave-105m | VCs just told you what your moat should be.  In 30 days: Solve Intelligence rais
+2026-05-04 11:07 | urn:li:share:7457023055752728577 | post #2 | solve-intelligence-10x-revenue-ip-category | Two years ago, patent drafting software was a sleepy category dominated by legac
+2026-05-04 12:20 | urn:li:share:7457041551064514560 | post #3 | deepip-patent-lifecycle-speed-arbitrage | DeepIP just raised $25M Series B to embed AI across the patent lifecycle. Read p
+2026-05-04 13:05 | urn:li:share:7457052845977190400 | The data monetization market is heading to $16 billion by 2034.  Most companies 
+2026-05-04 15:09 | urn:li:share:7457083994174648320 | post #4 | stanford-ai-index-us-china-defensive-filing | Stanford AI Index 2026 confirms what investors already model: the US-China capab
+2026-05-04 18:09 | urn:li:share:7457129360270073857 | post #5 | uspto-asap-pilot-fast-track-prosecution | USPTO extended the ASAP! Search Pilot deadline this month. Three reasons it matt
+2026-05-05 07:55 | urn:li:share:7457337123818508288 | Most founders price a patent licence by guessing.  The median software royalty r
+2026-05-05 09:12 | urn:li:share:7457356597883760640 | post #6 | ai-training-data-derivative-clause-ownership | Most AI founders assume their model belongs to them.  A 2026 review of training 
+2026-05-05 12:51 | urn:li:share:7457411672882876416 | Flat royalty rates leave 2x on the table.  Every licensing deal has 3 value laye
+2026-05-05 18:12 | UNKNOWN-URN | ci-push-conflict | ip-audit-three-hidden-assets | We ran IP audits on 40 companies. Every single one had assets they didn
