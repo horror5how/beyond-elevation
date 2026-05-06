@@ -49,63 +49,37 @@ Address: 178 Broadway, 3rd Floor #4542, New York, NY 10001, United States
 
 Beyond Elevation publishes expert articles on IP strategy and licensing revenue. Individual markdown files available at /blog/md/{slug}.md
 
-- [In AI, the moat is not just the model. It is the IP around it.](https://beyondelevation.com/blog/post.html?slug=ai-moat-not-just-the-model) — /blog/md/ai-moat-not-just-the-model.md
-- [How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For](https://beyondelevation.com/blog/post.html?slug=ai-company-valuations-ip-role) — /blog/md/ai-company-valuations-ip-role.md
-- [IP Strategy for Startups: A Founder's Complete Guide to Protecting Innovation](https://beyondelevation.com/blog/post.html?slug=ip-strategy-startups-guide) — /blog/md/ip-strategy-startups-guide.md
-- [How to Build a Patent Licensing Revenue Model That Generates Recurring Income](https://beyondelevation.com/blog/post.html?slug=patent-licensing-revenue-model) — /blog/md/patent-licensing-revenue-model.md
-- [The IP Premium: How Intellectual Property Boosts Tech Company Valuations](https://beyondelevation.com/blog/post.html?slug=tech-company-valuation-ip-premium) — /blog/md/tech-company-valuation-ip-premium.md
-- [Data Monetization Strategy: A Framework for Turning Your Data Into Revenue](https://beyondelevation.com/blog/post.html?slug=data-monetization-strategy-framework) — /blog/md/data-monetization-strategy-framework.md
-- [IP Valuation Methods Explained: How to Determine What Your Intellectual Property Is Worth](https://beyondelevation.com/blog/post.html?slug=ip-valuation-methods-explained) — /blog/md/ip-valuation-methods-explained.md
-- [Patent Strategy Consulting: What to Expect and How It Creates Value for Your Business](https://beyondelevation.com/blog/post.html?slug=patent-strategy-consulting-what-to-expect) — /blog/md/patent-strategy-consulting-what-to-expect.md
-- [How to License Patents: A Step-by-Step Guide for Patent Holders](https://beyondelevation.com/blog/post.html?slug=how-to-license-patents-step-by-step) — /blog/md/how-to-license-patents-step-by-step.md
-- [Trade Secrets vs Patents: When to Use Each in Your IP Strategy](https://beyondelevation.com/blog/post.html?slug=trade-secrets-vs-patents-strategy-guide) — /blog/md/trade-secrets-vs-patents-strategy-guide.md
-- [IP Due Diligence for M&A: What Acquirers Scrutinize and How to Prepare](https://beyondelevation.com/blog/post.html?slug=ip-due-diligence-ma-guide) — /blog/md/ip-due-diligence-ma-guide.md
-- [AI Engineering IP: What's Actually Protectable in Your Stack](https://beyondelevation.com/blog/post.html?slug=ai-engineering-ip-what-is-protectable) — /blog/md/ai-engineering-ip-what-is-protectable.md
-- [The EU AI Act Has a Patent Problem. Here Is What Every IP Owner Must Do Before August 2026.](https://beyondelevation.com/blog/post.html?slug=eu-ai-act-ip-compliance) — /blog/md/eu-ai-act-ip-compliance.md
-- [AI Training Data Valuation: What Your Dataset Is Worth](https://beyondelevation.com/blog/post.html?slug=ai-training-data-valuation) — /blog/md/ai-training-data-valuation.md
-- [Agentic AI Is Not a Product Decision. It Is an IP Decision. Here Is Why.](https://beyondelevation.com/blog/post.html?slug=agentic-ai-business-strategy) — /blog/md/agentic-ai-business-strategy.md
-- [The 5 Numbers Your Board Will Ask About Your AI Transformation ROI (And How to Prepare Them)](https://beyondelevation.com/blog/post.html?slug=ai-transformation-roi-framework) — /blog/md/ai-transformation-roi-framework.md
-- [12 Questions That Reveal If Your Business Is Actually Ready for AI (Most Fail Question 3)](https://beyondelevation.com/blog/post.html?slug=ai-readiness-assessment-enterprise) — /blog/md/ai-readiness-assessment-enterprise.md
-- [The AI Governance Framework That Protects Your Business Without Killing Your Roadmap](https://beyondelevation.com/blog/post.html?slug=ai-governance-framework-sme) — /blog/md/ai-governance-framework-sme.md
-- [Build vs Buy AI: The Framework That Stops Founders Wasting £500K on the Wrong Decision](https://beyondelevation.com/blog/post.html?slug=build-vs-buy-ai-decision) — /blog/md/build-vs-buy-ai-decision.md
-- [The CEO's 90-Day AI Adoption Roadmap That Delivers Measurable Results Before Month 4](https://beyondelevation.com/blog/post.html?slug=ai-adoption-roadmap-ceo) — /blog/md/ai-adoption-roadmap-ceo.md
-- [Can an AI Be a Patent Inventor? The 2026 Legal Reality (And What It Means for Your Portfolio)](https://beyondelevation.com/blog/post.html?slug=ai-generated-invention-patent-eligibility) — /blog/md/ai-generated-invention-patent-eligibility.md
-- [7 Ways to Cut Your AI Spend by 40% Without Touching Model Quality](https://beyondelevation.com/blog/post.html?slug=ai-cost-optimisation-strategy) — /blog/md/ai-cost-optimisation-strategy.md
-- [Why Most AI Companies Should Not Patent Their Models (And What to Do Instead)](https://beyondelevation.com/blog/post.html?slug=trade-secret-protection-ai-models) — /blog/md/trade-secret-protection-ai-models.md
-- [AI Training Data Licensing: The Contract Clause That Determines Who Owns the Model](https://beyondelevation.com/blog/post.html?slug=ai-training-data-licensing-agreements) — /blog/md/ai-training-data-licensing-agreements.md
-- [A Tech Startup Got a Patent Troll Letter. Here Is the Patent Troll Defense Strategy They Used to Win.](https://beyondelevation.com/blog/post.html?slug=patent-troll-defense-strategy) — /blog/md/patent-troll-defense-strategy.md
-- [The IP Moves You Must Make Before You Write a Single Line of Code](https://beyondelevation.com/blog/post.html?slug=ip-strategy-pre-revenue-startup) — /blog/md/ip-strategy-pre-revenue-startup.md
-- [Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing to Investors](https://beyondelevation.com/blog/post.html?slug=open-weight-model-ip-risks) — /blog/md/open-weight-model-ip-risks.md
-- [Software Patents in 2026: What the Latest USPTO Guidance Actually Allows](https://beyondelevation.com/blog/post.html?slug=software-patent-eligibility-2026) — /blog/md/software-patent-eligibility-2026.md
-- [The IP Holding Company Structure: How to Legally Separate and Monetise Your Patent Portfolio](https://beyondelevation.com/blog/post.html?slug=ip-holdco-structure-guide) — /blog/md/ip-holdco-structure-guide.md
-- [The 4 Types of Intellectual Property — And Why Founders Only Care About 2 of Them](https://beyondelevation.com/blog/post.html?slug=4-types-of-intellectual-property) — /blog/md/4-types-of-intellectual-property.md
-- [The Rise of Distressed IP: How Smart Buyers Are Acquiring Patent Portfolios at 80% Discount](https://beyondelevation.com/blog/post.html?slug=distressed-ip-portfolio-acquisition) — /blog/md/distressed-ip-portfolio-acquisition.md
-- [How to Value Intangible Assets in an M&A Deal: The 3 Methods and When Each Applies](https://beyondelevation.com/blog/post.html?slug=how-to-value-intangible-assets-ma) — /blog/md/how-to-value-intangible-assets-ma.md
-- [What Is IP Monetisation? The 6 Routes That Turn Dormant Patents Into Cash](https://beyondelevation.com/blog/post.html?slug=what-is-ip-monetisation) — /blog/md/what-is-ip-monetisation.md
-- [What Is a Patent Moat? The 3-Layer IP Defense That Billion-Dollar Companies Use to Block Competitors](https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-moat) — /blog/md/what-is-a-patent-moat.md
-- [Can You Patent an Algorithm in 2026? Yes, But Only If You Structure the Claim This Way](https://beyondelevation.com/blog/post.html?slug=can-you-patent-an-algorithm) — /blog/md/can-you-patent-an-algorithm.md
-- [The 4 Types of Patents — and the One Type That Covers 94% of Startup Innovations](https://beyondelevation.com/blog/post.html?slug=4-types-of-patents) — /blog/md/4-types-of-patents.md
-- [The 30% Rule in AI: The Pricing Heuristic Every Investor Whispers But Nobody Writes Down](https://beyondelevation.com/blog/post.html?slug=30-percent-rule-ai-valuation) — /blog/md/30-percent-rule-ai-valuation.md
-- [Yes, AI Is an Asset. Here Is How to Account For It (and Use It to Raise)](https://beyondelevation.com/blog/post.html?slug=can-ai-be-an-asset) — /blog/md/can-ai-be-an-asset.md
-- [The Rule of 40, Decoded: Why Most Tech Founders Fail It (And the 3 Levers That Pass It)](https://beyondelevation.com/blog/post.html?slug=rule-of-40-tech-valuation) — /blog/md/rule-of-40-tech-valuation.md
-- [What an AI Business Is Actually Worth: The 2026 Multiples Cheat Sheet (Seed to Series B)](https://beyondelevation.com/blog/post.html?slug=ai-business-worth-2026-multiples) — /blog/md/ai-business-worth-2026-multiples.md
-- [The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks)](https://beyondelevation.com/blog/post.html?slug=25-percent-rule-ip-valuation) — /blog/md/25-percent-rule-ip-valuation.md
-- [What Is a Good EBITDA for a Tech Company in 2026? The Honest Benchmark Across SaaS, AI, and Hardware](https://beyondelevation.com/blog/post.html?slug=good-ebitda-tech-company-2026) — /blog/md/good-ebitda-tech-company-2026.md
-- [Yes, Know-How Is an Asset — And the 5 Steps to Get It Recognised on the Balance Sheet](https://beyondelevation.com/blog/post.html?slug=know-how-is-an-asset) — /blog/md/know-how-is-an-asset.md
-- [Is a Provisional Patent Worth It? The Honest Answer After Reviewing 200+ Startup Filings](https://beyondelevation.com/blog/post.html?slug=is-a-provisional-patent-worth-it) — /blog/md/is-a-provisional-patent-worth-it.md
-- [Is Data Monetization Legal? Yes — With These 4 Non-Negotiable Compliance Requirements](https://beyondelevation.com/blog/post.html?slug=is-data-monetization-legal) — /blog/md/is-data-monetization-legal.md
-- [The 7 Ways to Make Money From IP (Ranked by What Actually Works in 2026)](https://beyondelevation.com/blog/post.html?slug=7-ways-to-make-money-from-ip) — /blog/md/7-ways-to-make-money-from-ip.md
-- [Data Licensing Explained in 60 Seconds: The Deal Structure That Generated $2.3M for a 12-Person Team](https://beyondelevation.com/blog/post.html?slug=data-licensing-explained) — /blog/md/data-licensing-explained.md
-- [The Real Margin on IP Monetization (With 3 Case Study P&Ls)](https://beyondelevation.com/blog/post.html?slug=ip-monetization-profit-margins) — /blog/md/ip-monetization-profit-margins.md
-- [What Is a Trade Secret? The Legal Definition, Famous Examples, and When It Beats a Patent](https://beyondelevation.com/blog/post.html?slug=what-is-a-trade-secret) — /blog/md/what-is-a-trade-secret.md
-- [Can AI Own a Patent? The Answer in Every Major Jurisdiction (2026 Update)](https://beyondelevation.com/blog/post.html?slug=can-ai-own-a-patent) — /blog/md/can-ai-own-a-patent.md
-- [How the EU AI Act Affects Your IP Rights: A Plain-English Breakdown for Founders](https://beyondelevation.com/blog/post.html?slug=how-does-eu-ai-act-affect-ip) — /blog/md/how-does-eu-ai-act-affect-ip.md
-- [Patent Pending ≠ Provisional Patent: The $47,000 Mistake Founders Make When They Confuse the Two](https://beyondelevation.com/blog/post.html?slug=patent-pending-vs-provisional-patent) — /blog/md/patent-pending-vs-provisional-patent.md
-- [The 4 Pillars of Intellectual Property — Most Founders Only Protect 1 of Them (And It Shows in Their Valuation)](https://beyondelevation.com/blog/post.html?slug=4-pillars-of-intellectual-property) — /blog/md/4-pillars-of-intellectual-property.md
-- [How Data Monetization Actually Works: The 3-Step Flow From Raw Data to Recurring Revenue](https://beyondelevation.com/blog/post.html?slug=how-data-monetization-works) — /blog/md/how-data-monetization-works.md
-- [How Do You Calculate the Value of a Patent? The 3-Number Formula Nobody Teaches](https://beyondelevation.com/blog/post.html?slug=patent-value-calculation-formula) — /blog/md/patent-value-calculation-formula.md
-- [Can IP Assets Be Monetized? Yes — Here Is the Proof and the Playbook](https://beyondelevation.com/blog/post.html?slug=can-ip-assets-be-monetized) — /blog/md/can-ip-assets-be-monetized.md
-- [What Is a Patent Holding Company? The Structure That Protects Billions in IP](https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-holdco) — /blog/md/what-is-a-patent-holdco.md
-- [How to Value an AI Company in 2026: The 6-Number Worksheet Investors Actually Run](https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-worksheet) — /blog/md/how-to-value-ai-company-worksheet.md
+- [The 4 Types of Intellectual Property — And Why Founders Only Care About 2 of Them](https://beyondelevation.com/blog/posts/4-types-of-intellectual-property/) — /blog/md/4-types-of-intellectual-property.md
+- [The Rise of Distressed IP: How Smart Buyers Are Acquiring Patent Portfolios at 80% Discount](https://beyondelevation.com/blog/posts/distressed-ip-portfolio-acquisition/) — /blog/md/distressed-ip-portfolio-acquisition.md
+- [How to Value Intangible Assets in an M&A Deal: The 3 Methods and When Each Applies](https://beyondelevation.com/blog/posts/how-to-value-intangible-assets-ma/) — /blog/md/how-to-value-intangible-assets-ma.md
+- [Software Patents in 2026: What the Latest USPTO Guidance Actually Allows](https://beyondelevation.com/blog/posts/software-patent-eligibility-2026/) — /blog/md/software-patent-eligibility-2026.md
+- [The IP Holding Company Structure: How to Legally Separate and Monetise Your Patent Portfolio](https://beyondelevation.com/blog/posts/ip-holdco-structure-guide/) — /blog/md/ip-holdco-structure-guide.md
+- [A Tech Startup Got a Patent Troll Letter. Here Is the Patent Troll Defense Strategy They Used to Win.](https://beyondelevation.com/blog/posts/patent-troll-defense-strategy/) — /blog/md/patent-troll-defense-strategy.md
+- [The IP Moves You Must Make Before You Write a Single Line of Code](https://beyondelevation.com/blog/posts/ip-strategy-pre-revenue-startup/) — /blog/md/ip-strategy-pre-revenue-startup.md
+- [Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing to Investors](https://beyondelevation.com/blog/posts/open-weight-model-ip-risks/) — /blog/md/open-weight-model-ip-risks.md
+- [7 Ways to Cut Your AI Spend by 40% Without Touching Model Quality](https://beyondelevation.com/blog/posts/ai-cost-optimisation-strategy/) — /blog/md/ai-cost-optimisation-strategy.md
+- [Why Most AI Companies Should Not Patent Their Models (And What to Do Instead)](https://beyondelevation.com/blog/posts/trade-secret-protection-ai-models/) — /blog/md/trade-secret-protection-ai-models.md
+- [AI Training Data Licensing: The Contract Clause That Determines Who Owns the Model](https://beyondelevation.com/blog/posts/ai-training-data-licensing-agreements/) — /blog/md/ai-training-data-licensing-agreements.md
+- [The CEO's 90-Day AI Adoption Roadmap That Delivers Measurable Results Before Month 4](https://beyondelevation.com/blog/posts/ai-adoption-roadmap-ceo/) — /blog/md/ai-adoption-roadmap-ceo.md
+- [Can an AI Be a Patent Inventor? The 2026 Legal Reality (And What It Means for Your Portfolio)](https://beyondelevation.com/blog/posts/ai-generated-invention-patent-eligibility/) — /blog/md/ai-generated-invention-patent-eligibility.md
+- [The EU AI Act Has a Patent Problem. Here Is What Every IP Owner Must Do Before August 2026.](https://beyondelevation.com/blog/posts/eu-ai-act-ip-compliance/) — /blog/md/eu-ai-act-ip-compliance.md
+- [12 Questions That Reveal If Your Business Is Actually Ready for AI (Most Fail Question 3)](https://beyondelevation.com/blog/posts/ai-readiness-assessment-enterprise/) — /blog/md/ai-readiness-assessment-enterprise.md
+- [The AI Governance Framework That Protects Your Business Without Killing Your Roadmap](https://beyondelevation.com/blog/posts/ai-governance-framework-sme/) — /blog/md/ai-governance-framework-sme.md
+- [Build vs Buy AI: The Framework That Stops Founders Wasting £500K on the Wrong Decision](https://beyondelevation.com/blog/posts/build-vs-buy-ai-decision/) — /blog/md/build-vs-buy-ai-decision.md
+- [Agentic AI Is Not a Product Decision. It Is an IP Decision. Here Is Why.](https://beyondelevation.com/blog/posts/agentic-ai-business-strategy/) — /blog/md/agentic-ai-business-strategy.md
+- [The 5 Numbers Your Board Will Ask About Your AI Transformation ROI (And How to Prepare Them)](https://beyondelevation.com/blog/posts/ai-transformation-roi-framework/) — /blog/md/ai-transformation-roi-framework.md
+- [AI Training Data Valuation: What Your Dataset Is Worth](https://beyondelevation.com/blog/posts/ai-training-data-valuation/) — /blog/md/ai-training-data-valuation.md
+- [Trade Secrets vs Patents: When to Use Each in Your IP Strategy](https://beyondelevation.com/blog/posts/trade-secrets-vs-patents-strategy-guide/) — /blog/md/trade-secrets-vs-patents-strategy-guide.md
+- [IP Due Diligence for M&A: What Acquirers Scrutinize and How to Prepare](https://beyondelevation.com/blog/posts/ip-due-diligence-ma-guide/) — /blog/md/ip-due-diligence-ma-guide.md
+- [AI Engineering IP: What's Actually Protectable in Your Stack](https://beyondelevation.com/blog/posts/ai-engineering-ip-what-is-protectable/) — /blog/md/ai-engineering-ip-what-is-protectable.md
+- [How to License Patents: A Step-by-Step Guide for Patent Holders](https://beyondelevation.com/blog/posts/how-to-license-patents-step-by-step/) — /blog/md/how-to-license-patents-step-by-step.md
+- [Patent Strategy Consulting: What to Expect and How It Creates Value for Your Business](https://beyondelevation.com/blog/posts/patent-strategy-consulting-what-to-expect/) — /blog/md/patent-strategy-consulting-what-to-expect.md
+- [IP Valuation Methods Explained: How to Determine What Your Intellectual Property Is Worth](https://beyondelevation.com/blog/posts/ip-valuation-methods-explained/) — /blog/md/ip-valuation-methods-explained.md
+- [Data Monetization Strategy: A Framework for Turning Your Data Into Revenue](https://beyondelevation.com/blog/posts/data-monetization-strategy-framework/) — /blog/md/data-monetization-strategy-framework.md
+- [In AI, the moat is not just the model. It is the IP around it.](https://beyondelevation.com/blog/posts/ai-moat-not-just-the-model/) — /blog/md/ai-moat-not-just-the-model.md
+- [The IP Premium: How Intellectual Property Boosts Tech Company Valuations](https://beyondelevation.com/blog/posts/tech-company-valuation-ip-premium/) — /blog/md/tech-company-valuation-ip-premium.md
+- [How to Build a Patent Licensing Revenue Model That Generates Recurring Income](https://beyondelevation.com/blog/posts/patent-licensing-revenue-model/) — /blog/md/patent-licensing-revenue-model.md
+- [IP Strategy for Startups: A Founder's Complete Guide to Protecting Innovation](https://beyondelevation.com/blog/posts/ip-strategy-startups-guide/) — /blog/md/ip-strategy-startups-guide.md
+- [How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For](https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/) — /blog/md/ai-company-valuations-ip-role.md
 
 > Full blog content available at /llms-full.txt
