@@ -3,7 +3,7 @@ date: 2026-05-06
 theme: In one week, IP stopped being a legal line item and started trading like an asset class — licensing revenue lines at News Corp, an EU rate-card from Munich, a Samsung-led patent audit, and three nine-figure IP valuations all priced the same memo
 generated_at: 2026-05-06T04:00:00Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -120,7 +120,9 @@ Cost of capital is the cost of your imagination about IP value.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-06T15:26:48.229Z
+share_urn: urn:li:share:7457813122951770112
 hook_format: frame-break
 cta_goal: dms
 slug: samsung-leads-ai-patents-audit
