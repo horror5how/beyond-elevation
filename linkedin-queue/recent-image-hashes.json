@@ -1,12 +1,5 @@
 [
   {
-    "hash": "8183e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ai-licensing-revenue-category",
-    "ts": "2026-05-06T09:31:59.345Z"
-  },
-  {
     "hash": "02e7e7ff81c3ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-patent-platforms-105m-30-days",
     "ts": "2026-05-07T11:10:44.933Z"
+  },
+  {
+    "hash": "66e7ffff01c3ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "solve-intelligence-10x-patent-saas",
+    "ts": "2026-05-07T12:30:30.765Z"
   }
 ]

@@ -86,3 +86,4 @@ royalty-income-pl-premium-2026
 gema-openai-genai-rate-card
 ip-valuations-new-arr-slide
 ai-patent-platforms-105m-30-days
+solve-intelligence-10x-patent-saas

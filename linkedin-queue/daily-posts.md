@@ -3,7 +3,7 @@ date: 2026-05-07
 theme: The 2026 IP balance sheet — patents are now a fundable, financeable, defensible asset class founders can no longer outsource to a law firm.
 generated_at: 2026-05-07T04:00:00Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -92,7 +92,9 @@ Patent ops is the next dev tools category. Treat it like Linear, not Latham.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-07T12:30:30.765Z
+share_urn: urn:li:share:7458131145877204992
 hook_format: contrarian
 cta_goal: follows
 slug: solve-intelligence-10x-patent-saas
