@@ -1,12 +1,5 @@
 [
   {
-    "hash": "02e7e7ff81c3ff99",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "ustr-special-301-china-patent-gap",
-    "ts": "2026-05-06T11:09:34.452Z"
-  },
-  {
     "hash": "e700e7ffff28a5a5",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "solve-intelligence-10x-patent-saas",
     "ts": "2026-05-07T12:30:30.765Z"
+  },
+  {
+    "hash": "7ef000713f3dffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "euipo-ip-collateral-balance-sheet",
+    "ts": "2026-05-07T15:33:51.998Z"
   }
 ]

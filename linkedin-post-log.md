@@ -100,3 +100,4 @@
 2026-05-07 11:10 | urn:li:share:7458111072584122369 | post #2 | ai-patent-platforms-105m-30-days | Three AI-patent platforms raised $105M in 30 days:  → DeepIP: $25M Series B (Apr
 2026-05-07 12:30 | urn:li:share:7458131145877204992 | post #3 | solve-intelligence-10x-patent-saas | Solve Intelligence just closed a $40M Series B at 10x revenue growth in 12 month
 2026-05-07 12:54 | urn:li:share:7458137230708989952 | Acquirers run a DCF on your patents before they run one on your P&L.  Most found
+2026-05-07 15:33 | urn:li:share:7458177288032067584 | post #4 | euipo-ip-collateral-balance-sheet | EUIPO just confirmed: IP-backed financing could unlock billions for European inn
