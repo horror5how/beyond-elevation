@@ -1,14 +1,15 @@
-Royalty income is valued at 3x the multiple of services revenue.
+Acquirers run a DCF on your patents before they run one on your P&L.
 
-Most founders own it. Almost none are collecting it.
+Most founders have never seen this formula.
 
-Patent licensing earns 8–12% of net sales — recurring, capital-light, bankable.
+The income approach to IP valuation: (Revenue × Royalty Rate) ÷ Discount Rate.
 
-Your consulting retainer prices at 3–5x EBITDA. Your royalty stream prices at 8–12x.
+Software patents: 8–12% royalty rate. SaaS and pharma IP: 15%+.
 
-Same company. Same innovation. Completely different exit story.
+Patent-backed companies exit at 2.1x the multiple of those without IP.
 
-Three moves to build a royalty line in 90 days:
-File a narrow claim. License before you raise. Document every deal.
+Intangibles now represent 65% of S&P 500 market cap.
 
-#IPStrategy #Licensing #ExitMultiple
+Your acquirer has this model. You should too.
+
+#IPStrategy #IPValuation #MergersAcquisitions

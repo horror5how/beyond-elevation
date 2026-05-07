@@ -87,3 +87,4 @@ gema-openai-genai-rate-card
 ip-valuations-new-arr-slide
 ai-patent-platforms-105m-30-days
 solve-intelligence-10x-patent-saas
+ip-valuation-dcf-income-approach
