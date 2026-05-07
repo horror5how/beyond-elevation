@@ -99,3 +99,4 @@
 2026-05-07 09:41 | urn:li:share:7458088631103225856 | post #1 | ip-valuations-new-arr-slide | Three IP valuations in 6 months reset what a 2026 startup balance sheet looks li
 2026-05-07 11:10 | urn:li:share:7458111072584122369 | post #2 | ai-patent-platforms-105m-30-days | Three AI-patent platforms raised $105M in 30 days:  → DeepIP: $25M Series B (Apr
 2026-05-07 12:30 | urn:li:share:7458131145877204992 | post #3 | solve-intelligence-10x-patent-saas | Solve Intelligence just closed a $40M Series B at 10x revenue growth in 12 month
+2026-05-07 12:54 | urn:li:share:7458137230708989952 | Acquirers run a DCF on your patents before they run one on your P&L.  Most found
