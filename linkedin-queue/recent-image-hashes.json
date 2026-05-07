@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffff642525",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "uspto-asap-pilot-fast-track-prosecution",
-    "ts": "2026-05-04T18:09:46.516Z"
-  },
-  {
     "hash": "00ffffffffff3404",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "gema-openai-genai-rate-card",
     "ts": "2026-05-06T18:11:15.128Z"
+  },
+  {
+    "hash": "7ef010701b35ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "ip-valuations-new-arr-slide",
+    "ts": "2026-05-07T09:41:34.491Z"
   }
 ]

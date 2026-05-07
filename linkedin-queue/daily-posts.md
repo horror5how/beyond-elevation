@@ -3,7 +3,7 @@ date: 2026-05-07
 theme: The 2026 IP balance sheet — patents are now a fundable, financeable, defensible asset class founders can no longer outsource to a law firm.
 generated_at: 2026-05-07T04:00:00Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Three Series B rounds, one EUIPO collateral report, one Cerence v Amazon suit, a
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-07T09:41:34.491Z
+share_urn: urn:li:share:7458088631103225856
 hook_format: listicle
 cta_goal: clicks
 slug: ip-valuations-new-arr-slide

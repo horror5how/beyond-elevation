@@ -84,3 +84,4 @@ ai-intangible-asset-balance-sheet
 samsung-leads-ai-patents-audit
 royalty-income-pl-premium-2026
 gema-openai-genai-rate-card
+ip-valuations-new-arr-slide

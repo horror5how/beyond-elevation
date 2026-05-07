@@ -96,3 +96,4 @@
 2026-05-06 17:51 | QUEUED | royalty-income-pl-premium-2026 | Royalty income is valued at 3x the multiple of services revenue.  Most founders 
 2026-05-06 17:53 | urn:li:share:7457850059171368971 | Royalty income is valued at 3x the multiple of services revenue.  Most founders 
 2026-05-06 18:11 | urn:li:share:7457854507587166208 | post #5 | gema-openai-genai-rate-card | February 2026: a Munich court forced OpenAI to pay GEMA — Germany's collecting s
+2026-05-07 09:41 | urn:li:share:7458088631103225856 | post #1 | ip-valuations-new-arr-slide | Three IP valuations in 6 months reset what a 2026 startup balance sheet looks li
