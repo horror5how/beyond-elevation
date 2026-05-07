@@ -3,7 +3,7 @@ title: "How AI Startups Are Actually Valued: The 4-Factor Model That Prices Two 
 slug: how-ai-startups-are-valued-scorecard
 date: 2026-05-07
 url: https://beyondelevation.com/blog/post.html?slug=how-ai-startups-are-valued-scorecard
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -34,8 +34,11 @@ Both assumptions are wrong. Hayat Amin argues that the patent-irrelevance myth i
 What investors actually score on IP defensibility:
 
 - Granted patents and pending applications covering core technology
+
 - Trade secret programmes with documented access controls
+
 - Freedom-to-operate analysis showing no third-party infringement risk
+
 - Patent clustering around the core product — not scattered vanity filings
 
 For a deep dive on building a defensible AI portfolio, see Beyond Elevation's guide to [the AI IP moat that outlasts your model](/blog/posts/ai-moat-not-just-the-model/).
@@ -75,8 +78,11 @@ Market timing determines whether the same AI startup is worth $20M or $200M beca
 What investors evaluate under this factor:
 
 - **TAM credibility** — is the market sizing grounded in identifiable buyer budgets, not hopeful extrapolation?
+
 - **Vertical specialisation** — AI startups focused on a specific domain command higher multiples than horizontal "AI for everything" plays
+
 - **Workflow embedding depth** — how deeply the AI product integrates into customer operations determines switching costs and retention
+
 - **Regulatory tailwinds** — sectors where regulation creates compliance demand (EU AI Act, healthcare, fintech) produce predictable buying cycles
 
 The venture consensus in May 2026 is clear: GPT-wrapper rejection is table stakes. Investors explicitly score defensibility on proprietary data flywheels, workflow integration depth, and vertical specialisation. The generic AI plays are dead. The vertical-specific, IP-defended, data-rich plays are where the premium multiples live.
@@ -96,6 +102,20 @@ Hayat Amin developed this scorecard after studying how investors actually price 
 A composite score above 7.5 correlates with top-quartile multiples (30x+ revenue). Below 4.0 and the startup is priced as a services company regardless of its technology. The gap between those two outcomes on $5M ARR is over $130M in enterprise value.
 
 Run this scorecard before your next fundraise. If you score below 6.0 on IP Defensibility, book a strategy session at [beyondelevation.com](https://beyondelevation.com) — the 90-day window before a funding round is the highest-ROI period to file patents and structure trade secrets.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-ai-startups-are-valued-scorecard)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -118,3 +138,6 @@ Treating IP as a legal afterthought instead of a valuation driver. Most AI found
 ### How does Beyond Elevation help AI startups increase their valuation?
 
 Beyond Elevation runs the IP Defensibility 7-Point Test on AI startup portfolios, identifies unfiled patent opportunities, structures trade secret programmes, and builds the documentation package investors expect during due diligence. The typical engagement uncovers 8–15 patentable innovations that founders considered routine engineering. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to see your score.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
