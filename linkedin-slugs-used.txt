@@ -89,3 +89,4 @@ ai-patent-platforms-105m-30-days
 solve-intelligence-10x-patent-saas
 ip-valuation-dcf-income-approach
 euipo-ip-collateral-balance-sheet
+ip-royalty-securitisation-bond-finance

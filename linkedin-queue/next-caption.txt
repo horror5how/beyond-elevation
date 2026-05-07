@@ -1,15 +1,19 @@
-Acquirers run a DCF on your patents before they run one on your P&L.
+David Bowie raised $55M in 1997 by packaging his song royalties into bonds.
 
-Most founders have never seen this formula.
+Most founders don't know the same structure now applies to patents.
 
-The income approach to IP valuation: (Revenue × Royalty Rate) ÷ Discount Rate.
+IP securitisation turns your royalty stream into a note investors can buy.
 
-Software patents: 8–12% royalty rate. SaaS and pharma IP: 15%+.
+You get liquidity today. You keep the IP.
 
-Patent-backed companies exit at 2.1x the multiple of those without IP.
+The numbers:
 
-Intangibles now represent 65% of S&P 500 market cap.
+→ Minimum viable royalty stream: ~$2M/year
+→ Advance rate against NPV: 60–70%
+→ Bowie Bond yield at issue: 7.9%
 
-Your acquirer has this model. You should too.
+Your patents are generating cash. That cash can be packaged.
 
-#IPStrategy #IPValuation #MergersAcquisitions
+Most founders leave this option entirely off the table.
+
+#IP #Licensing #Finance
