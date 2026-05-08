@@ -93,3 +93,4 @@ ip-royalty-securitisation-bond-finance
 cerence-amazon-patent-leverage
 llm-fine-tuning-ip-ownership
 ip-holdco-tax-structure-patent-box
+ai-defensibility-vc-scoring-axes

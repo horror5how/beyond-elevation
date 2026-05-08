@@ -3,7 +3,7 @@ date: 2026-05-08
 theme: Structural IP moves that compound at exit — holdco, data assets, AI defensibility, EU AI Act, exit multiples, and IP-backed financing
 generated_at: 2026-05-08T08:02:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ One BE client restructured before a Series B. The holdco unlocked eight figures 
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-08T10:26:14.297Z
+share_urn: urn:li:share:7458462258059268096
 hook_format: number-led
 cta_goal: comments
 slug: ai-defensibility-vc-scoring-axes

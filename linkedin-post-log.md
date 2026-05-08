@@ -103,3 +103,4 @@
 2026-05-07 15:33 | urn:li:share:7458177288032067584 | post #4 | euipo-ip-collateral-balance-sheet | EUIPO just confirmed: IP-backed financing could unlock billions for European inn
 2026-05-07 18:20 | urn:li:share:7458219172922241025 | post #5 | cerence-amazon-patent-leverage | Cerence just sued Amazon over voice tech patents.  Cerence market cap: ~$300M. A
 2026-05-08 08:26 | urn:li:share:7458432064233848832 | post #1 | ip-holdco-tax-structure-patent-box | IP inside your opco is a tax leak.  Royalties earned there are taxed as income. 
+2026-05-08 10:26 | urn:li:share:7458462258059268096 | post #2 | ai-defensibility-vc-scoring-axes | 5 axes determine your AI defensibility score.  Miss them and your pitch competes

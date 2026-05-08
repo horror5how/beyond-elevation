@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42c3e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "gema-openai-genai-rate-card",
-    "ts": "2026-05-06T18:11:15.128Z"
-  },
-  {
     "hash": "7ef010701b35ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ip-holdco-tax-structure-patent-box",
     "ts": "2026-05-08T08:26:15.395Z"
+  },
+  {
+    "hash": "e7e7e7ffc1e7ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "ai-defensibility-vc-scoring-axes",
+    "ts": "2026-05-08T10:26:14.297Z"
   }
 ]
