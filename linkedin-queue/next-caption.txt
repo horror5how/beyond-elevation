@@ -1,13 +1,19 @@
-78% of AI startups fine-tune an open-source model. Almost none legally own what they built.
+One licence. Seven years. £1.2M NPV.
 
-The weights are not automatically yours.
+Most founders sign flat-rate deals that expire.
+The smart ones build escalation clauses that compound.
 
-Meta's Llama licence restricts commercial derivatives. Mistral's is narrower. Most founders never read either.
+A well-structured patent licence includes:
+→ Base royalty of 8–12% of net sales
+→ Annual escalation triggers tied to revenue milestones
+→ Minimum annual guarantees that floor your downside
+→ Sublicensing rights that multiply the revenue stream
 
-Their Series B investors will — in due diligence.
+Flat deals trade compound returns for short-term certainty.
 
-Fine-tuned weights are your most defensible IP. Leaving them undocumented costs 3x on valuation.
+Structured correctly, one patent generates more in year 7 than years 1–3 combined.
 
-Three clauses to add to your IP policy before you raise.
+Most founders don't know to ask for escalation clauses.
+Now you do.
 
-#AIStrategy #IPStrategy #StartupValuation
+#IPStrategy #PatentLicensing #IPMonetisation
