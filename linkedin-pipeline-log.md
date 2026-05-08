@@ -189,3 +189,4 @@ Post 5: hook_too_long(11w)
 2026-05-08 05:51 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
 2026-05-08 05:51 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=5)
 2026-05-08 05:51 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
+2026-05-08 08:26 | li-auto-post | render OK | post #1 | layout=a accent=#8aa6b8 hash=007effffff232828 minDist=22 attempts=1

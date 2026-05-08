@@ -1,12 +1,5 @@
 [
   {
-    "hash": "2466e7ffc383ff99",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "samsung-leads-ai-patents-audit",
-    "ts": "2026-05-06T15:26:48.229Z"
-  },
-  {
     "hash": "42c3e7ffc3c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "cerence-amazon-patent-leverage",
     "ts": "2026-05-07T18:20:18.107Z"
+  },
+  {
+    "hash": "007effffff232828",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "ip-holdco-tax-structure-patent-box",
+    "ts": "2026-05-08T08:26:15.395Z"
   }
 ]

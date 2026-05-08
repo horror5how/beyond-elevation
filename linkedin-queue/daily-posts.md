@@ -3,7 +3,7 @@ date: 2026-05-08
 theme: Structural IP moves that compound at exit — holdco, data assets, AI defensibility, EU AI Act, exit multiples, and IP-backed financing
 generated_at: 2026-05-08T08:02:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Today's batch targets founders who are building value but structuring it wrong. 
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-08T08:26:15.395Z
+share_urn: urn:li:share:7458432064233848832
 hook_format: contrarian
 cta_goal: comments
 slug: ip-holdco-tax-structure-patent-box
