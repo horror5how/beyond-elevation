@@ -3,7 +3,7 @@ date: 2026-05-08
 theme: Structural IP moves that compound at exit — holdco, data assets, AI defensibility, EU AI Act, exit multiples, and IP-backed financing
 generated_at: 2026-05-08T08:02:00.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -158,7 +158,9 @@ The data monetisation market hits $16B by 2034. Founders who name the asset now 
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-08T18:04:03.220Z
+share_urn: urn:li:share:7458577471978827778
 hook_format: contrarian
 cta_goal: comments
 slug: patent-portfolio-exit-multiple-stack

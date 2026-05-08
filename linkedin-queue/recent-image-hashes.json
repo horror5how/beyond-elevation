@@ -1,12 +1,5 @@
 [
   {
-    "hash": "66e7ffff01c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "solve-intelligence-10x-patent-saas",
-    "ts": "2026-05-07T12:30:30.765Z"
-  },
-  {
     "hash": "7ef000713f3dffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "data-asset-ma-valuation-positioning",
     "ts": "2026-05-08T14:50:04.723Z"
+  },
+  {
+    "hash": "2062e7ffc3c3ffb9",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "patent-portfolio-exit-multiple-stack",
+    "ts": "2026-05-08T18:04:03.220Z"
   }
 ]

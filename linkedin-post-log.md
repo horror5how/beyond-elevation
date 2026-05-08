@@ -108,3 +108,4 @@
 2026-05-08 12:51 | urn:li:share:7458498753738641408 | One licence. Seven years. £1.2M NPV.  Most founders sign flat-rate deals that e
 2026-05-08 14:50 | urn:li:share:7458528656638881792 | post #4 | data-asset-ma-valuation-positioning | Your dataset is booked as an expense.  Investment banks now assign multi-million
 2026-05-08 17:51 | urn:li:share:7458574269774524417 | Most founders store patents in their trading company. That is a permanent tax le
+2026-05-08 18:04 | urn:li:share:7458577471978827778 | post #5 | patent-portfolio-exit-multiple-stack | Founders negotiate exit price on revenue. Acquirers price IP.  Structured patent
