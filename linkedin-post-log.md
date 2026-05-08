@@ -105,3 +105,4 @@
 2026-05-08 08:26 | urn:li:share:7458432064233848832 | post #1 | ip-holdco-tax-structure-patent-box | IP inside your opco is a tax leak.  Royalties earned there are taxed as income. 
 2026-05-08 10:26 | urn:li:share:7458462258059268096 | post #2 | ai-defensibility-vc-scoring-axes | 5 axes determine your AI defensibility score.  Miss them and your pitch competes
 2026-05-08 12:08 | urn:li:share:7458488057139408896 | post #3 | eu-ai-act-high-risk-august-deadline | August 2026 is closer than your roadmap.  High-risk AI system providers who miss
+2026-05-08 12:51 | urn:li:share:7458498753738641408 | One licence. Seven years. £1.2M NPV.  Most founders sign flat-rate deals that e
