@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef0301117f7ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "ai-patent-platforms-105m-30-days",
-    "ts": "2026-05-07T11:10:44.933Z"
-  },
-  {
     "hash": "66e7ffff01c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "eu-ai-act-high-risk-august-deadline",
     "ts": "2026-05-08T12:08:45.109Z"
+  },
+  {
+    "hash": "00ffffff05adefef",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "data-asset-ma-valuation-positioning",
+    "ts": "2026-05-08T14:50:04.723Z"
   }
 ]

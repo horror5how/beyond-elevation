@@ -3,7 +3,7 @@ date: 2026-05-08
 theme: Structural IP moves that compound at exit — holdco, data assets, AI defensibility, EU AI Act, exit multiples, and IP-backed financing
 generated_at: 2026-05-08T08:02:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -124,7 +124,9 @@ Non-compliance creates a regulatory liability that appears in every acquirer's d
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-08T14:50:04.723Z
+share_urn: urn:li:share:7458528656638881792
 hook_format: contrarian
 cta_goal: comments
 slug: data-asset-ma-valuation-positioning
