@@ -1,8 +1,8 @@
 ---
 date: 2026-05-08
-theme: Structural IP moves that compound at exit — holdco, data assets, and M&A positioning
-generated_at: 2026-05-08T05:49:52.213Z
-posts_total: 5
+theme: Structural IP moves that compound at exit — holdco, data assets, AI defensibility, EU AI Act, exit multiples, and IP-backed financing
+generated_at: 2026-05-08T08:02:00.000Z
+posts_total: 6
 posts_published: 0
 ---
 
@@ -15,6 +15,7 @@ Today's batch targets founders who are building value but structuring it wrong. 
 3. AI defensibility — 5-axis VC scoring, workflow embedding + proprietary data + switching cost, 15–20% valuation premium for IP-rich firms
 4. EU AI Act compliance costs — August 2026 high-risk deadline, non-compliance fines up to €30M or 6% global revenue, IP audit trigger
 5. M&A exit multiples — 2.1x premium for structured patent portfolios, royalty income at 3x services multiple, $14M unprotected IP found in 11 days
+6. IP-backed financing — Aon $61T global intangibles, royalty financing avoids 20% equity dilution per round, Royalty Pharma $12.6B IPO precedent
 
 ---
 
@@ -177,3 +178,35 @@ One BE client found $14M of unprotected IP in 11 days using this audit sequence.
 ↳ Founders: which of the 3 layers is missing from your cap table story?
 
 #MergersAndAcquisitions #ExitStrategy #PatentStrategy
+
+---
+
+## Post 6
+status: pending
+hook_format: frame-break
+cta_goal: follows
+slug: ip-backed-financing-non-dilutive-royalty
+keyword: IP-backed financing royalty non-dilutive capital
+numbers_check: $61T global intangibles, 20% dilution avoided, $12.6B Royalty Pharma IPO
+headline: Your Next Round<br>Doesn't Need Equity
+metric_1: $61T
+label_1: GLOBAL<br>INTANGIBLES VALUE
+metric_2: 20%
+label_2: DILUTION AVOIDED<br>PER ROUND
+metric_3: $12.6B
+label_3: ROYALTY PHARMA<br>IPO PRECEDENT
+
+Founders default to equity. Acquirers and lenders now finance IP directly.
+
+Aon and a wave of specialty lenders price IP-backed credit against the $61T in global intangibles sitting on company balance sheets. The instrument is simple: a senior facility or royalty-purchase deal collateralised by patent claims and licensing contracts, not equity.
+
+The 3-step non-dilutive stack:
+1. Get an independent IP valuation that names licensable claims and projected royalty cash flows
+2. Convert at least one license into a recurring royalty line on the P&L. lenders price predictability, not promise
+3. Take the facility before the equity round. it resets the pre-money the next investor must beat
+
+Royalty Pharma's $12.6B IPO proved royalty streams trade as a public asset class. A founder who replaces a 20% dilutive round with an IP-backed facility keeps the equity that compounds at exit.
+
+↳ Follow for more structural moves most founders miss.
+
+#IPFinance #NonDilutive #FounderStrategy
