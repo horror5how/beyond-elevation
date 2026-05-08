@@ -3,7 +3,7 @@ date: 2026-05-08
 theme: Structural IP moves that compound at exit — holdco, data assets, AI defensibility, EU AI Act, exit multiples, and IP-backed financing
 generated_at: 2026-05-08T08:02:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -90,7 +90,9 @@ IP-rich AI firms command a 15. 20% valuation premium over feature-equivalent pee
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-08T12:08:45.109Z
+share_urn: urn:li:share:7458488057139408896
 hook_format: prediction
 cta_goal: comments
 slug: eu-ai-act-high-risk-august-deadline

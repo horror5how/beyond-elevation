@@ -94,3 +94,4 @@ cerence-amazon-patent-leverage
 llm-fine-tuning-ip-ownership
 ip-holdco-tax-structure-patent-box
 ai-defensibility-vc-scoring-axes
+eu-ai-act-high-risk-august-deadline
