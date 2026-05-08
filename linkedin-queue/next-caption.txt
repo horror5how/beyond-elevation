@@ -1,19 +1,13 @@
-One licence. Seven years. £1.2M NPV.
+Most founders store patents in their trading company. That is a permanent tax leak.
 
-Most founders sign flat-rate deals that expire.
-The smart ones build escalation clauses that compound.
+UK Patent Box rate: 10% on royalties vs 25% corporation tax.
 
-A well-structured patent licence includes:
-→ Base royalty of 8–12% of net sales
-→ Annual escalation triggers tied to revenue milestones
-→ Minimum annual guarantees that floor your downside
-→ Sublicensing rights that multiply the revenue stream
+A patent holdco changes the math:
 
-Flat deals trade compound returns for short-term certainty.
+→ 60% lower effective rate on licensing income
+→ IP transfers cleanly at exit — no embedded tax liability
+→ Royalty streams flow to a separate entity your acquirer prices at a premium
 
-Structured correctly, one patent generates more in year 7 than years 1–3 combined.
+One restructure decision. Compounding for decades.
 
-Most founders don't know to ask for escalation clauses.
-Now you do.
-
-#IPStrategy #PatentLicensing #IPMonetisation
+#IPStrategy #PatentBox #StartupTax
