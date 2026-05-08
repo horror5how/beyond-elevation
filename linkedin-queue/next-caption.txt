@@ -1,19 +1,13 @@
-David Bowie raised $55M in 1997 by packaging his song royalties into bonds.
+78% of AI startups fine-tune an open-source model. Almost none legally own what they built.
 
-Most founders don't know the same structure now applies to patents.
+The weights are not automatically yours.
 
-IP securitisation turns your royalty stream into a note investors can buy.
+Meta's Llama licence restricts commercial derivatives. Mistral's is narrower. Most founders never read either.
 
-You get liquidity today. You keep the IP.
+Their Series B investors will — in due diligence.
 
-The numbers:
+Fine-tuned weights are your most defensible IP. Leaving them undocumented costs 3x on valuation.
 
-→ Minimum viable royalty stream: ~$2M/year
-→ Advance rate against NPV: 60–70%
-→ Bowie Bond yield at issue: 7.9%
+Three clauses to add to your IP policy before you raise.
 
-Your patents are generating cash. That cash can be packaged.
-
-Most founders leave this option entirely off the table.
-
-#IP #Licensing #Finance
+#AIStrategy #IPStrategy #StartupValuation
