@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffff232828",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "ip-holdco-tax-structure-patent-box",
-    "ts": "2026-05-08T08:26:15.395Z"
-  },
-  {
     "hash": "e7e7e7ffc1e7ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-patent-tooling-series-b-wave-2026",
     "ts": "2026-05-09T14:16:34.056Z"
+  },
+  {
+    "hash": "00ffffffff0581b1",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-licensing-recurring-revenue-line-founder-playbook",
+    "ts": "2026-05-09T17:41:03.900Z"
   }
 ]

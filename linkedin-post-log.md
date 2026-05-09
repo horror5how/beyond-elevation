@@ -113,3 +113,4 @@
 2026-05-09 11:50 | urn:li:share:7458845785686851584 | post #1 | ip-backed-financing-non-dilutive-royalty | Founders default to equity. Acquirers and lenders now finance IP directly.  Aon 
 2026-05-09 12:53 | urn:li:share:7458861608358834176 | Agentic AI is generating patentable outputs your competitors will own first.  $2
 2026-05-09 14:16 | urn:li:share:7458882610816139265 | post #2 | ai-patent-tooling-series-b-wave-2026 | $105M flowed into AI patent tooling in 90 days.  DeepIP closed $25M. Solve Intel
+2026-05-09 17:41 | urn:li:share:7458934074427113472 | post #3 | ai-licensing-recurring-revenue-line-founder-playbook | 3 ways to turn your content into a licensing line.  News Corp's Q1 earnings cite

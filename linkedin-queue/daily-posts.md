@@ -3,7 +3,7 @@ date: 2026-05-09
 theme: This week's signals — $105M flowing into AI patent tooling, AI licensing graduating to a real revenue line, valuation gaps from unresolved IP risk, and geographic filing arbitrage. IP is no longer a legal cost center; it's a balance sheet asset, a revenue stream, and a valuation lever — but only for founders who treat it that way.
 generated_at: 2026-05-09T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -90,7 +90,9 @@ A weak claim drafted in 2 hours is still a weak claim. Use AI to draft. Hire a s
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-09T17:41:03.900Z
+share_urn: urn:li:share:7458934074427113472
 hook_format: listicle
 cta_goal: comments
 slug: ai-licensing-recurring-revenue-line-founder-playbook

@@ -104,3 +104,4 @@ synthetic-data-ip-licensing
 ip-backed-financing-non-dilutive-royalty
 agentic-ai-ip-gap-2026
 ai-patent-tooling-series-b-wave-2026
+ai-licensing-recurring-revenue-line-founder-playbook
