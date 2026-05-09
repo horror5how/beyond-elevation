@@ -3,7 +3,7 @@ date: 2026-05-09
 theme: This week's signals — $105M flowing into AI patent tooling, AI licensing graduating to a real revenue line, valuation gaps from unresolved IP risk, and geographic filing arbitrage. IP is no longer a legal cost center; it's a balance sheet asset, a revenue stream, and a valuation lever — but only for founders who treat it that way.
 generated_at: 2026-05-09T04:00:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ Royalty Pharma's $12.6B IPO proved royalty streams trade as a public asset class
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-09T14:16:34.056Z
+share_urn: urn:li:share:7458882610816139265
 hook_format: number-led
 cta_goal: comments
 slug: ai-patent-tooling-series-b-wave-2026

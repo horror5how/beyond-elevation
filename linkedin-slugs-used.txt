@@ -103,3 +103,4 @@ synthetic-data-ip-licensing
 25-percent-rule-ip-valuation
 ip-backed-financing-non-dilutive-royalty
 agentic-ai-ip-gap-2026
+ai-patent-tooling-series-b-wave-2026
