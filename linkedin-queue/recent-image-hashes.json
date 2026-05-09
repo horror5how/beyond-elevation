@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef000713f3dffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "euipo-ip-collateral-balance-sheet",
-    "ts": "2026-05-07T15:33:51.998Z"
-  },
-  {
     "hash": "7e7800311f35ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "patent-portfolio-exit-multiple-stack",
     "ts": "2026-05-08T18:04:03.220Z"
+  },
+  {
+    "hash": "00ffffffffff2020",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ip-backed-financing-non-dilutive-royalty",
+    "ts": "2026-05-09T11:50:14.194Z"
   }
 ]

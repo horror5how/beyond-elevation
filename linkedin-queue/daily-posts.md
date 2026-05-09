@@ -3,7 +3,7 @@ date: 2026-05-09
 theme: This week's signals — $105M flowing into AI patent tooling, AI licensing graduating to a real revenue line, valuation gaps from unresolved IP risk, and geographic filing arbitrage. IP is no longer a legal cost center; it's a balance sheet asset, a revenue stream, and a valuation lever — but only for founders who treat it that way.
 generated_at: 2026-05-09T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Today's batch maps the structural moves founders are missing while VCs reprice t
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-09T11:50:14.194Z
+share_urn: urn:li:share:7458845785686851584
 hook_format: frame-break
 cta_goal: follows
 slug: ip-backed-financing-non-dilutive-royalty
