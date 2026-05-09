@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",
-    "@extractus/feed-extractor": "^7.3.6",
+    "@extractus/feed-extractor": "^7.2.1",
     "cheerio": "^1.0.0",
     "dotenv": "^16.4.5",
     "gray-matter": "^4.0.3",
