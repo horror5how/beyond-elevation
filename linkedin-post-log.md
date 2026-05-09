@@ -111,3 +111,4 @@
 2026-05-08 18:04 | urn:li:share:7458577471978827778 | post #5 | patent-portfolio-exit-multiple-stack | Founders negotiate exit price on revenue. Acquirers price IP.  Structured patent
 2026-05-09 11:47 | urn:li:share:7458845089021419520 | The 25% Rule. The 25% rule in valuing intellectual property says patent holders 
 2026-05-09 11:50 | urn:li:share:7458845785686851584 | post #1 | ip-backed-financing-non-dilutive-royalty | Founders default to equity. Acquirers and lenders now finance IP directly.  Aon 
+2026-05-09 12:53 | urn:li:share:7458861608358834176 | Agentic AI is generating patentable outputs your competitors will own first.  $2
