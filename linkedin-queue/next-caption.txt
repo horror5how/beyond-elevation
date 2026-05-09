@@ -1,13 +1,15 @@
-Most founders store patents in their trading company. That is a permanent tax leak.
+Your synthetic data is worth more than your model. Most founders don't know this.
 
-UK Patent Box rate: 10% on royalties vs 25% corporation tax.
+When you generate synthetic data at scale — you own a licensable IP asset.
 
-A patent holdco changes the math:
+Dataset licensing turns synthetic training data into $2-5M revenue streams.
 
-→ 60% lower effective rate on licensing income
-→ IP transfers cleanly at exit — no embedded tax liability
-→ Royalty streams flow to a separate entity your acquirer prices at a premium
+Synthetic datasets qualify as non-dilutive collateral at the right bank.
 
-One restructure decision. Compounding for decades.
+The synthetic data market hits $9.8B by 2030. Most founders build it, use it, delete it.
 
-#IPStrategy #PatentBox #StartupTax
+Your AI moat isn't the algorithm.
+
+It's what trained the algorithm.
+
+#AIStrategy #IPStrategy #StartupFunding
