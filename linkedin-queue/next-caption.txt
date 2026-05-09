@@ -1,11 +1,20 @@
-Agentic AI is generating patentable outputs your competitors will own first.
+Software patents earn 8–12% of net sales.
 
-$2.52T flows into AI in 2026. Most founders have zero IP filed on their agentic workflows.
+Most founders license theirs at 2%.
 
-VCs score 5 defensibility axes. Workflow lock-in is axis one.
+Industry royalty benchmarks (2026 RoyaltyRange + Stanzione data):
 
-IP-rich AI firms raise at 15–20% higher multiples on identical revenue.
+→ Software: 8–12%
+→ SaaS / Pharma: up to 15%
+→ Electronics: 4–6%
+→ Automotive: 3–4%
 
-Document it. File it. Own it.
+Net sales basis is now the industry default.
 
-#AIStrategy #IPStrategy #Startups
+If your licence uses gross revenue, your effective rate just halved.
+
+One renegotiation using these numbers added £340K to a client’s annual royalty line.
+
+Know your benchmark before you sign.
+
+#IPStrategy #Licensing #Valuation
