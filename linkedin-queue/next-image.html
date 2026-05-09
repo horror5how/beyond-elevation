@@ -1,25 +1,68 @@
-<!doctype html>
-<html><head><meta charset="utf-8"><title>The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks)</title>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&display=swap');
-  *{margin:0;padding:0;box-sizing:border-box}
-  body{width:1200px;height:1200px;background:#0d0d0d;color:#fff;display:flex;flex-direction:column;justify-content:space-between;padding:90px 80px;font-family:'Inter',system-ui,sans-serif;font-feature-settings:'ss01' on}
-  .top{display:flex;justify-content:space-between;align-items:center}
-  .brand{display:flex;align-items:center;gap:14px;font-weight:700;letter-spacing:-.01em;font-size:1.25rem}
-  .brand-mark{width:40px;height:40px;border-radius:10px;background:linear-gradient(145deg,#fff,#e8e3d8);color:#0d0d0d;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:1rem}
-  .eyebrow{font-size:.78rem;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.55);font-weight:600}
-  h1{font-size:5.4rem;line-height:1.05;letter-spacing:-.035em;font-weight:700;max-width:18ch}
-  .url{font-size:1.15rem;color:rgba(255,255,255,.6);font-weight:500;letter-spacing:-.005em}
-  .accent{display:inline-block;width:62px;height:6px;background:#e8e3d8;border-radius:4px;margin-bottom:42px}
-</style></head>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px; height: 1080px;
+    background: #f8f6f2;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: space-between;
+    padding: 72px 64px 56px;
+    position: relative; overflow: hidden;
+  }
+  body::before {
+    content: ''; position: absolute; top: -200px; left: -200px;
+    width: 700px; height: 700px;
+    background: radial-gradient(ellipse at center, rgba(230,185,140,0.22) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  body::after {
+    content: ''; position: absolute; top: -200px; right: -200px;
+    width: 700px; height: 700px;
+    background: radial-gradient(ellipse at center, rgba(230,185,140,0.14) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .eyebrow { font-size: 13px; font-weight: 600; letter-spacing: 0.12em; color: #1a1a1a; text-transform: uppercase; text-align: center; }
+  .headline { text-align: center; font-weight: 300; font-size: 52px; line-height: 1.18; letter-spacing: -0.03em; color: #1a1a1a; max-width: 860px; margin-top: 20px; }
+  .metrics { display: flex; width: 100%; align-items: flex-start; justify-content: space-around; padding: 32px 0; }
+  .metric { flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center; padding: 0 16px; position: relative; }
+  .metric + .metric::before { content: ''; position: absolute; left: 0; top: 10%; height: 80%; width: 1px; background: #c8c4bc; }
+  .metric-value { font-size: 96px; font-weight: 300; color: #1a1a1a; letter-spacing: -0.04em; line-height: 1; }
+  .metric-bar { width: 60px; height: 2px; background: #d7b086; margin: 12px auto 10px; }
+  .metric-label { font-size: 11.5px; font-weight: 600; color: #4a4a4a; letter-spacing: 0.1em; text-transform: uppercase; line-height: 1.6; }
+  .footer { width: 100%; border-top: 1px solid #c8c4bc; padding-top: 24px; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+  .be-wordmark { font-size: 52px; font-weight: 800; letter-spacing: -0.04em; color: #1a1a1a; line-height: 1; }
+  .powered-by { font-size: 12px; font-weight: 600; letter-spacing: 0.1em; color: #1a1a1a; text-transform: uppercase; }
+  .tagline { font-size: 12px; font-weight: 400; font-style: italic; color: #4a4a4a; text-align: center; }
+</style>
+</head>
 <body>
-  <div class="top">
-    <div class="brand"><span class="brand-mark">BE</span>Beyond Elevation</div>
-    <div class="eyebrow">Insights</div>
+  <div class="eyebrow">IP + DATA INTELLIGENCE</div>
+  <div class="headline">Agentic AI Creates IP.<br>Most Founders Give It Away.</div>
+  <div class="metrics">
+    <div class="metric">
+      <div class="metric-value">$2.52T</div>
+      <div class="metric-bar"></div>
+      <div class="metric-label">GLOBAL AI<br>SPEND<br>2026</div>
+    </div>
+    <div class="metric">
+      <div class="metric-value">15%</div>
+      <div class="metric-bar"></div>
+      <div class="metric-label">VALUATION<br>PREMIUM<br>IP-RICH AI</div>
+    </div>
+    <div class="metric">
+      <div class="metric-value">5</div>
+      <div class="metric-bar"></div>
+      <div class="metric-label">VC<br>DEFENSIBILITY<br>AXES</div>
+    </div>
   </div>
-  <div>
-    <span class="accent"></span>
-    <h1>The 25% Rule: The IP Valuation Shortcut VCs Use (And When It Breaks)</h1>
+  <div class="footer">
+    <div class="be-wordmark">BE</div>
+    <div class="powered-by">Powered by Beyond Elevation</div>
+    <div class="tagline">Turn IP and data into licensing revenue, higher valuation, and market domination.</div>
   </div>
-  <div class="url">beyondelevation.com</div>
-</body></html>
+</body>
+</html>

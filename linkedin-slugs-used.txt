@@ -102,3 +102,4 @@ patent-portfolio-exit-multiple-stack
 synthetic-data-ip-licensing
 25-percent-rule-ip-valuation
 ip-backed-financing-non-dilutive-royalty
+agentic-ai-ip-gap-2026
