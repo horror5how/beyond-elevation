@@ -1,15 +1,4 @@
-Your synthetic data is worth more than your model. Most founders don't know this.
-
-When you generate synthetic data at scale — you own a licensable IP asset.
-
-Dataset licensing turns synthetic training data into $2-5M revenue streams.
-
-Synthetic datasets qualify as non-dilutive collateral at the right bank.
-
-The synthetic data market hits $9.8B by 2030. Most founders build it, use it, delete it.
-
-Your AI moat isn't the algorithm.
-
-It's what trained the algorithm.
-
-#AIStrategy #IPStrategy #StartupFunding
+The 25% Rule.
+The 25% rule in valuing intellectual property says patent holders deserve 25% of a licensee&#39;s incremental profits. Here is why VCs still use it, when it fails, and the framework that replaces it.
+Read it: https://beyondelevation.com/blog/posts/25-percent-rule-ip-valuation/
+#IPStrategy #Founders #AIvaluation

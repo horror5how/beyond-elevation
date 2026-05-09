@@ -58,8 +58,12 @@ if (used.includes(slug)) {
 const postPath = `${POSTS_DIR}/${slug}/index.html`;
 if (!existsSync(postPath)) { console.error(`FAIL: ${postPath} not found`); process.exit(1); }
 const html = readFileSync(postPath, "utf8");
-const h1 = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/) || [, ""])[1].replace(/<[^>]+>/g, "").trim();
-const desc = (html.match(/<meta\s+name="description"\s+content="([^"]+)"/) || [, ""])[1];
+function decodeEntities(s){return String(s||"")
+  .replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">")
+  .replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&mdash;/g,"—")
+  .replace(/&ndash;/g,"–").replace(/&hellip;/g,"…").replace(/&nbsp;/g," ");}
+const h1 = decodeEntities((html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/) || [, ""])[1].replace(/<[^>]+>/g, "").trim());
+const desc = decodeEntities((html.match(/<meta\s+name="description"\s+content="([^"]+)"/) || [, ""])[1]);
 const url = `https://beyondelevation.com/blog/posts/${slug}/`;
 console.log(`[2/4] title: ${h1.slice(0, 80)}`);
 
