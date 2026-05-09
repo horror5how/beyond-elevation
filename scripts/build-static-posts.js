@@ -73,7 +73,63 @@ function injectCTA(body, slug) {
   return body + cta;
 }
 
-function pageTemplate(post) {
+// === Related posts cross-linking ===
+// Every post links out to 4 sibling posts so Google can flow PageRank between
+// posts and discover the full archive from any entry point. Without this,
+// posts are crawl dead-ends — the #1 reason Google verdicts "Discovered –
+// currently not indexed" on this site.
+
+const STOPWORDS = new Set('a,an,and,are,as,at,be,by,for,from,has,how,if,in,into,is,it,of,on,or,that,the,to,was,were,will,with,you,your,my,me,we,us,vs,about,why,what,when,where,does,do,can,not,2026,2025,2024'.split(','));
+
+function tokensFor(post) {
+  const fromSlug = (post.slug || '').split('-');
+  const fromTitle = (post.title || '').toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/);
+  const all = [...fromSlug, ...fromTitle].filter(t => t && t.length > 2 && !STOPWORDS.has(t));
+  return new Set(all);
+}
+
+function similarity(aSet, bSet) {
+  let inter = 0;
+  for (const t of aSet) if (bSet.has(t)) inter++;
+  const union = aSet.size + bSet.size - inter;
+  return union === 0 ? 0 : inter / union;
+}
+
+function pickRelated(post, allPosts, n = 4) {
+  const aTokens = tokensFor(post);
+  const cands = allPosts
+    .filter(p => p.slug && p.slug !== post.slug && p.noIndex !== true && p.status !== 'archived')
+    .map(p => ({ post: p, score: similarity(aTokens, tokensFor(p)) }))
+    .sort((a, b) => b.score - a.score || (b.post.date || '').localeCompare(a.post.date || ''));
+  return cands.slice(0, n).map(c => c.post);
+}
+
+function renderRelatedSection(related) {
+  if (!related || !related.length) return '';
+  const cards = related.map(p => {
+    const url = `/blog/posts/${p.slug}/`;
+    const cat = escapeHtml(p.category || 'IP Strategy');
+    const title = escapeHtml(p.title || '');
+    return `            <a class="related-card" href="${url}">
+              <span class="related-tag">${cat}</span>
+              <h3>${title}</h3>
+              <span class="related-cta">Read article →</span>
+            </a>`;
+  }).join('\n');
+  return `
+        <aside class="related-posts" aria-label="Related insights">
+          <div class="related-head">
+            <span class="related-eyebrow">Continue reading</span>
+            <h2>Related insights</h2>
+          </div>
+          <div class="related-grid">
+${cards}
+          </div>
+        </aside>
+`;
+}
+
+function pageTemplate(post, related) {
   const canonical = `${SITE}/blog/posts/${post.slug}/`;
   const title = `${post.title} — Beyond Elevation`;
   const description = post.excerpt || `IP strategy insights from Beyond Elevation — ${post.title}`;
@@ -207,6 +263,16 @@ function pageTemplate(post) {
       .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
       .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
       @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
+      .related-posts { margin: 64px 0 0; padding: 48px 0 0; border-top: 1px solid #e8e8e8; }
+      .related-eyebrow { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; }
+      .related-head h2 { margin: 8px 0 28px; font-size: 1.6rem; line-height: 1.18; letter-spacing: -0.02em; color: #1a1a1a; }
+      .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+      .related-card { display: flex; flex-direction: column; gap: 12px; padding: 22px 22px 20px; border-radius: 14px; border: 1px solid #e8e8e8; background: #fff; color: inherit; text-decoration: none; transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease; }
+      .related-card:hover { border-color: #1a1a1a; transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,0.06); }
+      .related-tag { display: inline-block; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #666; }
+      .related-card h3 { font-size: 1.05rem; line-height: 1.32; letter-spacing: -0.012em; color: #1a1a1a; margin: 0; }
+      .related-cta { font-size: 0.82rem; font-weight: 600; color: #1a1a1a; margin-top: auto; }
+      @media (max-width: 760px) { .related-grid { grid-template-columns: 1fr; } }
       .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
       .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
       .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
@@ -269,6 +335,7 @@ function pageTemplate(post) {
         <div class="post-body">
 ${injectCTA(post.body, post.slug)}
         </div>
+${renderRelatedSection(related)}
         <div class="share-bar">
           <div class="share-bar-label">Share this article</div>
           <div class="share-buttons">
@@ -451,7 +518,8 @@ function main() {
     const dir = path.join(OUT_DIR, post.slug);
     if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
     const file = path.join(dir, 'index.html');
-    fs.writeFileSync(file, pageTemplate(post));
+    const related = pickRelated(post, approved, 4);
+    fs.writeFileSync(file, pageTemplate(post, related));
     written++;
   });
 

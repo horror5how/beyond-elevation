@@ -1,0 +1,65 @@
+name: LinkedIn — Auto-post on new blog
+
+# Fires whenever a blog post is added or modified on main.
+# Picks the most recently changed post, generates a LinkedIn caption with the URL,
+# writes to linkedin-queue/. The existing linkedin-post.yml workflow detects the queue
+# change and publishes the native image post via scripts/linkedin-publish.mjs.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'blog/posts/**/index.html'
+      - 'blog/posts/**.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: linkedin-queue
+  cancel-in-progress: false
+
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 5
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+
+      - name: Queue latest blog post for LinkedIn
+        env:
+          GITHUB_BEFORE: ${{ github.event.before }}
+          GITHUB_AFTER: ${{ github.event.after }}
+        run: |
+          mkdir -p linkedin-queue
+          node scripts/queue-latest-blog-for-linkedin.mjs
+
+      - name: Commit + push queue (triggers linkedin-post.yml)
+        run: |
+          if [ -z "$(git status --porcelain linkedin-queue/ linkedin-slugs-used.txt)" ]; then
+            echo "No queue changes — slug already posted or no new blog detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Retry-with-rebase to dodge race conditions with the post-publish log push.
+          for i in 1 2 3 4; do
+            git add linkedin-queue/next-caption.txt linkedin-queue/next-image.html linkedin-slugs-used.txt
+            git commit -m "LinkedIn: queue latest blog post" || { echo "nothing to commit"; exit 0; }
+            git pull --rebase origin main || true
+            if git push origin main; then
+              echo "queued and pushed on attempt $i"
+              exit 0
+            fi
+            echo "push race; retry $i"
+            sleep $((i*5))
+          done
+          echo "FAIL: could not push after 4 attempts"
+          exit 1

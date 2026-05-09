@@ -68,6 +68,16 @@
       .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
       .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
       @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
+      .related-posts { margin: 64px 0 0; padding: 48px 0 0; border-top: 1px solid #e8e8e8; }
+      .related-eyebrow { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; }
+      .related-head h2 { margin: 8px 0 28px; font-size: 1.6rem; line-height: 1.18; letter-spacing: -0.02em; color: #1a1a1a; }
+      .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+      .related-card { display: flex; flex-direction: column; gap: 12px; padding: 22px 22px 20px; border-radius: 14px; border: 1px solid #e8e8e8; background: #fff; color: inherit; text-decoration: none; transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease; }
+      .related-card:hover { border-color: #1a1a1a; transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,0.06); }
+      .related-tag { display: inline-block; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #666; }
+      .related-card h3 { font-size: 1.05rem; line-height: 1.32; letter-spacing: -0.012em; color: #1a1a1a; margin: 0; }
+      .related-cta { font-size: 0.82rem; font-weight: 600; color: #1a1a1a; margin-top: auto; }
+      @media (max-width: 760px) { .related-grid { grid-template-columns: 1fr; } }
       .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
       .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
       .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
@@ -137,6 +147,36 @@
 </aside>
 <h2>FAQ</h2><h3>Can you patent an AI agent's decision-making process?</h3><p>Yes. The specific method by which an AI agent evaluates context, selects tools, routes decisions, and executes multi-step tasks is patentable as a computer-implemented method. You are not patenting artificial intelligence as a concept — you are patenting the novel, non-obvious way your system solves a specific problem. The claims must be tied to a concrete technical implementation, not an abstract idea.</p><h3>What is the difference between an agentic AI business strategy and a regular AI strategy?</h3><p>A regular AI strategy focuses on model selection, data pipelines, and deployment infrastructure. An agentic AI business strategy adds the IP capture layer — systematically identifying, protecting, and monetizing the novel methods your engineering team creates when building autonomous agent systems. The IP layer is what transforms a product investment into a defensible, licensable, and acquirable asset portfolio.</p><h3>How much does it cost to protect agentic AI IP?</h3><p>Provisional patent applications cost $1,500 to $3,000 each and establish your priority date for 12 months. Full utility filings cost $8,000 to $15,000 through prosecution. A typical agentic AI company with 5-10 patentable innovations can establish initial protection for under $25,000 — a fraction of the engineering cost to build the systems being protected. Beyond Elevation structures filing roadmaps that align IP spending with fundraising timelines.</p><h3>Should I patent my AI agent's prompts?</h3><p>No. Prompts are better protected as trade secrets because patenting requires public disclosure. Your system prompts, few-shot examples, and prompt engineering frameworks should be classified as confidential information with documented access controls. Patent the methods and architectures — trade-secret the configurations and prompts.</p>
         </div>
+
+        <aside class="related-posts" aria-label="Related insights">
+          <div class="related-head">
+            <span class="related-eyebrow">Continue reading</span>
+            <h2>Related insights</h2>
+          </div>
+          <div class="related-grid">
+            <a class="related-card" href="/blog/posts/patent-strategy-consulting-what-to-expect/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>Patent Strategy Consulting: What to Expect and How It Creates Value for Your Business</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/patent-troll-defense-strategy/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>A Tech Startup Got a Patent Troll Letter. Here Is the Patent Troll Defense Strategy They Used to Win.</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/data-monetization-strategy-framework/">
+              <span class="related-tag">Data Monetization</span>
+              <h3>Data Monetization Strategy: A Framework for Turning Your Data Into Revenue</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/trade-secrets-vs-patents-strategy-guide/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>Trade Secrets vs Patents: When to Use Each in Your IP Strategy</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+          </div>
+        </aside>
+
         <div class="share-bar">
           <div class="share-bar-label">Share this article</div>
           <div class="share-buttons">
