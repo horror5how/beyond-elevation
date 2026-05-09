@@ -1,29 +1,28 @@
 {
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.30.0",
-    "googleapis": "^171.4.0",
-    "jimp": "^1.6.1"
-  },
   "devDependencies": {
     "@fontsource/inter": "^5.2.8",
     "@napi-rs/canvas": "^0.1.99",
-    "playwright": "^1.56.1"
+    "playwright": "^1.59.1"
   },
   "name": "beyond-elevation",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://local_proxy@127.0.0.1:36599/git/horror5how/beyond-elevation"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@extractus/feed-extractor": "^7.3.6",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
+    "marked": "^12.0.0",
+    "node-fetch": "^3.3.2",
+    "rss-parser": "^3.13.0"
+  }
 }
