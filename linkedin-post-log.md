@@ -123,3 +123,4 @@
 2026-05-10 12:55 | QUEUED | ai-generated-content-copyright-gap | 3 court rulings. 0 jurisdictions. $2.52T at risk. US courts have ruled AI-generated content has no copyright protection.
 2026-05-10 17:42 | urn:li:share:7459296716538851328 | post #1 | meta-newscorp-ai-licensing-arr-line | Meta licensed News Corp's archive. Wall Street is repricing the publishing model
 2026-05-10 17:51 | QUEUED | data-flywheel-beats-algorithm-patent | VCs funded zero GPT-wrapper pitches in Q1 2026.
+2026-05-10 17:56 | urn:li:share:7459300393433395200 | VCs funded zero GPT-wrapper pitches in Q1 2026.  Algorithm novelty alone adds no
