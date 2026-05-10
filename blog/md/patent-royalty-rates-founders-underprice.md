@@ -51,7 +51,7 @@ The right patent royalty rate is calculated using three inputs: the licensee's g
 
 **Step 2 — Isolate your patent's contribution.** If the licensee uses your patent alongside three other licensed technologies, your patent does not get credit for the full uplift. Assign a proportional contribution — typically 30–60% for a core-functionality patent, 10–25% for a supporting improvement.
 
-**Step 3 — Apply the capture rate.** The 25% rule — a long-standing IP valuation heuristic — says the licensor should capture 25% of the incremental profit the patent enables. But Hayat Amin's data shows that patents with strong claim scope and limited design-around options justify capture rates of 35–40%. The [25% rule is a floor, not a ceiling](/blog/posts/25-percent-rule-ip-valuation/).
+**Step 3 — Apply the capture rate.** The 25% rule — a long-standing IP valuation heuristic — says the licensor should capture 25% of the incremental profit the patent enables. But current market data shows that patents with strong claim scope and limited design-around options justify capture rates of 35–40%. The [25% rule is a floor, not a ceiling](/blog/posts/25-percent-rule-ip-valuation/).
 
 **Example calculation:** A software patent enables $6M in annual margin uplift for the licensee. Your patent contributes 50% of that uplift ($3M). At a 35% capture rate, your annual royalty should be $1.05M. If the licensee's net sales on the product are $12M, that translates to an 8.75% royalty rate — right in the middle of the 2026 software benchmark.
 
@@ -89,7 +89,7 @@ A typical patent royalty rate in 2026 ranges from 3% to 15%+ of net sales depend
 
 ### How are patent royalty rates calculated?
 
-Patent royalty rates are calculated by quantifying the licensee's gross margin uplift from the patented technology, isolating the patent's proportional contribution to that uplift, and applying a capture rate of 25–40%. This approach — used in the Hayat Amin Royalty Stack Framework — produces defensible rates anchored to economic value rather than arbitrary benchmarks.
+Patent royalty rates are calculated by quantifying the licensee's gross margin uplift from the patented technology, isolating the patent's proportional contribution to that uplift, and applying a capture rate of 25–40%. This approach — used in the Royalty Stack Framework — produces defensible rates anchored to economic value rather than arbitrary benchmarks.
 
 ### Why do founders underprice their patent royalties?
 
