@@ -3,7 +3,7 @@ date: 2026-05-10
 theme: This week the IP repricing wave hit public markets — Meta licensed News Corp, Getty surged on Perplexity, USPTO recalibrated AI claim eligibility, Patlytics named the filings-and-litigation curves, and the M&A intangible gap quietly cost founders 10-40% of deal value.
 generated_at: 2026-05-10T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Today's batch tracks the IP repricing wave as it lands on public-market tape and
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-10T17:42:04.742Z
+share_urn: urn:li:share:7459296716538851328
 hook_format: number-led
 cta_goal: follows
 slug: meta-newscorp-ai-licensing-arr-line

@@ -121,3 +121,4 @@
 2026-05-10 10:18 | urn:li:share:7459185000521879552 | post #5 | ip-intensive-companies-2x-multiple-by-2028 | By 2028, non-IP-intensive companies will trade at half the multiple of IP-intens
 2026-05-10 11:49 | urn:li:share:7459208106976313344 | post #6 | us-only-filing-9m-valuation-haircut | A founder we worked with had 14 US patents and zero international filings.  Seri
 2026-05-10 12:55 | QUEUED | ai-generated-content-copyright-gap | 3 court rulings. 0 jurisdictions. $2.52T at risk. US courts have ruled AI-generated content has no copyright protection.
+2026-05-10 17:42 | urn:li:share:7459296716538851328 | post #1 | meta-newscorp-ai-licensing-arr-line | Meta licensed News Corp's archive. Wall Street is repricing the publishing model

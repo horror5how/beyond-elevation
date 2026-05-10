@@ -1,12 +1,5 @@
 [
   {
-    "hash": "2062e7ffc3c3ffb9",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "patent-portfolio-exit-multiple-stack",
-    "ts": "2026-05-08T18:04:03.220Z"
-  },
-  {
     "hash": "00ffffffffff2020",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "us-only-filing-9m-valuation-haircut",
     "ts": "2026-05-10T11:49:58.313Z"
+  },
+  {
+    "hash": "0081e7ffe7c3ff99",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "meta-newscorp-ai-licensing-arr-line",
+    "ts": "2026-05-10T17:42:04.742Z"
   }
 ]
