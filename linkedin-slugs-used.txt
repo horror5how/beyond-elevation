@@ -109,3 +109,4 @@ patent-royalty-rates-by-industry-2026
 foundation-model-patent-concentration-2026
 suno-2-45b-valuation-ip-risk-asterisk
 ip-intensive-companies-2x-multiple-by-2028
+us-only-filing-9m-valuation-haircut

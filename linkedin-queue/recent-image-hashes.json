@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffff05adefef",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "data-asset-ma-valuation-positioning",
-    "ts": "2026-05-08T14:50:04.723Z"
-  },
-  {
     "hash": "2062e7ffc3c3ffb9",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ip-intensive-companies-2x-multiple-by-2028",
     "ts": "2026-05-10T10:18:09.410Z"
+  },
+  {
+    "hash": "7ef830113bf5ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "us-only-filing-9m-valuation-haircut",
+    "ts": "2026-05-10T11:49:58.313Z"
   }
 ]

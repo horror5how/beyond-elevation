@@ -119,3 +119,4 @@
 2026-05-10 09:00 | QUEUED | foundation-model-patent-concentration-2026 | 3 companies hold 47% of all generative AI patents filed in 2025.
 2026-05-10 09:00 | urn:li:share:7459165359758020608 | post #4 | suno-2-45b-valuation-ip-risk-asterisk | Suno raised $250M at $2.45B with copyright lawsuits unresolved.  That valuation 
 2026-05-10 10:18 | urn:li:share:7459185000521879552 | post #5 | ip-intensive-companies-2x-multiple-by-2028 | By 2028, non-IP-intensive companies will trade at half the multiple of IP-intens
+2026-05-10 11:49 | urn:li:share:7459208106976313344 | post #6 | us-only-filing-9m-valuation-haircut | A founder we worked with had 14 US patents and zero international filings.  Seri
