@@ -116,3 +116,4 @@
 2026-05-09 17:41 | urn:li:share:7458934074427113472 | post #3 | ai-licensing-recurring-revenue-line-founder-playbook | 3 ways to turn your content into a licensing line.  News Corp's Q1 earnings cite
 2026-05-09 17:53 | QUEUED | patent-royalty-rates-by-industry-2026 | Software patents earn 8–12% of net sales.  Most founders license theirs at 2%.
 2026-05-09 17:58 | urn:li:share:7458938458208841728 | Software patents earn 8–12% of net sales.  Most founders license theirs at 2%.
+2026-05-10 09:00 | QUEUED | foundation-model-patent-concentration-2026 | 3 companies hold 47% of all generative AI patents filed in 2025.
