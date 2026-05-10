@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0000e7ffc3c3ff9f",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "eu-ai-act-high-risk-august-deadline",
-    "ts": "2026-05-08T12:08:45.109Z"
-  },
-  {
     "hash": "00ffffff05adefef",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "suno-2-45b-valuation-ip-risk-asterisk",
     "ts": "2026-05-10T09:00:06.589Z"
+  },
+  {
+    "hash": "7ef810191330ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "ip-intensive-companies-2x-multiple-by-2028",
+    "ts": "2026-05-10T10:18:09.410Z"
   }
 ]
