@@ -71,7 +71,7 @@ solve-intelligence-10x-revenue-ip-category
 deepip-patent-lifecycle-speed-arbitrage
 data-zero-on-books-16b-market
 stanford-ai-index-us-china-defensive-filing
-uspto-asap-pilot-fast-track-prosecution
+uspsto-asap-pilot-fast-track-prosecution
 patent-royalty-rate-underprice-2026
 ai-training-data-derivative-clause-ownership
 licensing-milestone-payment-structure
@@ -110,3 +110,4 @@ foundation-model-patent-concentration-2026
 suno-2-45b-valuation-ip-risk-asterisk
 ip-intensive-companies-2x-multiple-by-2028
 us-only-filing-9m-valuation-haircut
+ai-generated-content-copyright-gap

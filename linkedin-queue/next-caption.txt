@@ -1,19 +1,15 @@
-3 companies hold 47% of all generative AI patents filed in 2025.
+3 court rulings. 0 jurisdictions. $2.52T at risk.
 
-If you're not one of them, you're building on IP you don't own.
+US courts have ruled AI-generated content has no copyright protection.
 
-That's not a technology gap.
+Your competitor can legally copy every piece of AI output you publish.
 
-That's a licensing liability.
+Most founders building on AI have no idea.
 
-The founders who act now are doing three things:
+The fix: document the human creative decisions inside your AI workflow. That process is what makes the output protectable — and licensable.
 
-→ Patent workflow-layer IP before it becomes prior art.
+Unprotected content cannot be enforced, licensed, or valued in M&A due diligence.
 
-→ Map licensing exposure before it becomes a demand letter.
+Your IP strategy needs to account for this before your next funding round.
 
-→ Use AI patent strategy as a Series B signal, not a footnote.
-
-The window for defensible AI IP is closing faster than your roadmap.
-
-#AIStrategy #Patents #IPStrategy
+#AIStrategy #IPStrategy #IntellectualProperty
