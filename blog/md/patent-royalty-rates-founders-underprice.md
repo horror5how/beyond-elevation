@@ -77,7 +77,7 @@ Seven factors consistently move patent royalty rates above or below industry ben
 
 ## The Bottom Line on Patent Royalty Rates
 
-Companies with patents are 10.2x more likely to secure early-stage funding — but the funding advantage only converts to real revenue if the patents are priced correctly in licensing deals. Patent royalty rates are not arbitrary. They follow documented industry benchmarks, respond to specific deal variables, and can be calculated using structured frameworks like Hayat Amin's Royalty Stack approach.
+Companies with patents are 10.2x more likely to secure early-stage funding — but the funding advantage only converts to real revenue if the patents are priced correctly in licensing deals. Patent royalty rates are not arbitrary. They follow documented industry benchmarks, respond to specific deal variables, and can be calculated using structured frameworks like the Royalty Stack Framework.
 
 The founders who capture the full value of their IP are the ones who walk into licensing negotiations with the benchmarks, the framework, and the confidence to name the number first. Book a licensing strategy session at [beyondelevation.com](https://beyondelevation.com) to find out what your patents are actually worth per unit — before a licensee tells you.
 
