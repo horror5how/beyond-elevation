@@ -3,7 +3,7 @@ date: 2026-05-09
 theme: This week's signals — $105M flowing into AI patent tooling, AI licensing graduating to a real revenue line, valuation gaps from unresolved IP risk, and geographic filing arbitrage. IP is no longer a legal cost center; it's a balance sheet asset, a revenue stream, and a valuation lever — but only for founders who treat it that way.
 generated_at: 2026-05-09T04:00:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -126,7 +126,9 @@ If your data trains someone else's model for free, you're funding their moat.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-10T09:00:06.589Z
+share_urn: urn:li:share:7459165359758020608
 hook_format: contrarian
 cta_goal: dms
 slug: suno-2-45b-valuation-ip-risk-asterisk

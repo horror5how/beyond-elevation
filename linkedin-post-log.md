@@ -117,3 +117,4 @@
 2026-05-09 17:53 | QUEUED | patent-royalty-rates-by-industry-2026 | Software patents earn 8–12% of net sales.  Most founders license theirs at 2%.
 2026-05-09 17:58 | urn:li:share:7458938458208841728 | Software patents earn 8–12% of net sales.  Most founders license theirs at 2%.
 2026-05-10 09:00 | QUEUED | foundation-model-patent-concentration-2026 | 3 companies hold 47% of all generative AI patents filed in 2025.
+2026-05-10 09:00 | urn:li:share:7459165359758020608 | post #4 | suno-2-45b-valuation-ip-risk-asterisk | Suno raised $250M at $2.45B with copyright lawsuits unresolved.  That valuation 
