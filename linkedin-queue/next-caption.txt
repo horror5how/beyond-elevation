@@ -1,15 +1,17 @@
-3 court rulings. 0 jurisdictions. $2.52T at risk.
+VCs funded zero GPT-wrapper pitches in Q1 2026.
 
-US courts have ruled AI-generated content has no copyright protection.
+Algorithm novelty alone adds no multiple.
 
-Your competitor can legally copy every piece of AI output you publish.
+AI defensibility now scores on 3 axes:
 
-Most founders building on AI have no idea.
+Proprietary data flywheel.
 
-The fix: document the human creative decisions inside your AI workflow. That process is what makes the output protectable — and licensable.
+Workflow embedding depth.
 
-Unprotected content cannot be enforced, licensed, or valued in M&A due diligence.
+Persistent memory / vector store.
 
-Your IP strategy needs to account for this before your next funding round.
+IP-rich AI firms command 20% valuation premium over algorithm-only peers.
 
-#AIStrategy #IPStrategy #IntellectualProperty
+Patent your data pipeline. Not just your model.
+
+#AIStrategy #IPStrategy #StartupFunding
