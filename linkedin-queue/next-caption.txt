@@ -1,20 +1,19 @@
-Software patents earn 8–12% of net sales.
+3 companies hold 47% of all generative AI patents filed in 2025.
 
-Most founders license theirs at 2%.
+If you're not one of them, you're building on IP you don't own.
 
-Industry royalty benchmarks (2026 RoyaltyRange + Stanzione data):
+That's not a technology gap.
 
-→ Software: 8–12%
-→ SaaS / Pharma: up to 15%
-→ Electronics: 4–6%
-→ Automotive: 3–4%
+That's a licensing liability.
 
-Net sales basis is now the industry default.
+The founders who act now are doing three things:
 
-If your licence uses gross revenue, your effective rate just halved.
+→ Patent workflow-layer IP before it becomes prior art.
 
-One renegotiation using these numbers added £340K to a client’s annual royalty line.
+→ Map licensing exposure before it becomes a demand letter.
 
-Know your benchmark before you sign.
+→ Use AI patent strategy as a Series B signal, not a footnote.
 
-#IPStrategy #Licensing #Valuation
+The window for defensible AI IP is closing faster than your roadmap.
+
+#AIStrategy #Patents #IPStrategy
