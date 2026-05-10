@@ -210,3 +210,16 @@ Post 3: hook_too_long(10w)
 2026-05-09 11:50 | li-auto-post | render OK | post #1 | layout=a accent=#a89968 hash=00ffffffffff2020 minDist=9 attempts=1
 2026-05-09 14:16 | li-auto-post | render OK | post #2 | layout=a accent=#a87c7c hash=42ffffffff04a5a7 minDist=16 attempts=1
 2026-05-09 17:41 | li-auto-post | render OK | post #3 | layout=a accent=#a89968 hash=00ffffffff0581b1 minDist=8 attempts=1
+2026-05-10 06:28 | li-generate-queue | attempt 1 | auto-cleaned 3/5 post(s) (em-dashes / leverage / etc.)
+2026-05-10 06:28 | li-generate-queue | attempt 1 | quality gate failed:
+Post 2: hook_too_long(10w)
+Post 4: hook_too_long(10w)
+Post 5: hook_too_long(16w)
+2026-05-10 06:28 | li-generate-queue | attempt 2 | auto-cleaned 3/5 post(s) (em-dashes / leverage / etc.)
+2026-05-10 06:28 | li-generate-queue | attempt 2 | quality gate failed:
+Post 3: hook_too_long(10w)
+2026-05-10 06:29 | li-generate-queue | attempt 3 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-10 06:29 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: hook_too_long(10w)
+Post 2: hook_too_long(13w)
+2026-05-10 06:29 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
