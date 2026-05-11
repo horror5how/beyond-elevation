@@ -233,3 +233,4 @@ Post 2: hook_too_long(13w)
 2026-05-11 06:57 | li-generate-queue | attempt 2 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
 2026-05-11 06:57 | li-generate-queue | attempt 3 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
 2026-05-11 06:57 | li-generate-queue | ABORT after 3 attempts — API unreachable
+2026-05-11 10:41 | li-auto-post | render OK | post #1 | layout=a accent=#a87c7c hash=02ffffffff0c84a5 minDist=5 attempts=1

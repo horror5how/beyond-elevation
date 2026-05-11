@@ -124,3 +124,4 @@
 2026-05-10 17:42 | urn:li:share:7459296716538851328 | post #1 | meta-newscorp-ai-licensing-arr-line | Meta licensed News Corp's archive. Wall Street is repricing the publishing model
 2026-05-10 17:51 | QUEUED | data-flywheel-beats-algorithm-patent | VCs funded zero GPT-wrapper pitches in Q1 2026.
 2026-05-10 17:56 | urn:li:share:7459300393433395200 | VCs funded zero GPT-wrapper pitches in Q1 2026.  Algorithm novelty alone adds no
+2026-05-11 10:41 | urn:li:share:7459553236966895616 | post #1 | getty-perplexity-licensing-data-infra-reprice | Getty surged on the Perplexity licensing deal. Wall Street isn't pricing the dea

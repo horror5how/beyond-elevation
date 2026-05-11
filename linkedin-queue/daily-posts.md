@@ -3,7 +3,7 @@ date: 2026-05-11
 theme: The IP repricing wave keeps landing — Getty turns inventory into training data, Big Tech's patent liability stack tops $17T, USPTO recalibrates §101 for AI claims, AI filings and litigation curves diverge, the M&A intangible gap quietly eats 10-40% of deal value, and USTR's 2026 Special 301 Report names where founders can actually enforce.
 generated_at: 2026-05-11T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's batch closes the loop on this week's IP repricing arc. The 5 carryover p
 
 ---
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-11T10:41:23.756Z
+share_urn: urn:li:share:7459553236966895616
 hook_format: contrarian
 cta_goal: comments
 slug: getty-perplexity-licensing-data-infra-reprice

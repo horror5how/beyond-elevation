@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffffff2020",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "ip-backed-financing-non-dilutive-royalty",
-    "ts": "2026-05-09T11:50:14.194Z"
-  },
-  {
     "hash": "42ffffffff04a5a7",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "meta-newscorp-ai-licensing-arr-line",
     "ts": "2026-05-10T17:42:04.742Z"
+  },
+  {
+    "hash": "02ffffffff0c84a5",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "getty-perplexity-licensing-data-infra-reprice",
+    "ts": "2026-05-11T10:41:23.756Z"
   }
 ]

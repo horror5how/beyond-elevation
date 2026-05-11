@@ -114,3 +114,4 @@ ai-generated-content-copyright-gap
 meta-newscorp-ai-licensing-arr-line
 data-flywheel-beats-algorithm-patent
 intangible-asset-book-value-gap
+getty-perplexity-licensing-data-infra-reprice
