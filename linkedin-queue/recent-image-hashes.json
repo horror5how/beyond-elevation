@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef810191330ffff",
-    "layout": "c",
-    "accent": "#7a8c6e",
-    "slug": "ip-intensive-companies-2x-multiple-by-2028",
-    "ts": "2026-05-10T10:18:09.410Z"
-  },
-  {
     "hash": "7ef830113bf5ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-filings-litigation-twin-curves",
     "ts": "2026-05-11T15:55:00.642Z"
+  },
+  {
+    "hash": "7ef910733334ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "ma-intangible-valuation-gap-deal-value-loss",
+    "ts": "2026-05-11T18:30:51.896Z"
   }
 ]
