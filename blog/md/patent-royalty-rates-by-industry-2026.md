@@ -3,7 +3,7 @@ title: "Patent Royalty Rates in 2026: The Industry-by-Industry Breakdown That Sh
 slug: patent-royalty-rates-by-industry-2026
 date: 2026-05-11
 url: https://beyondelevation.com/blog/post.html?slug=patent-royalty-rates-by-industry-2026
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -85,6 +85,20 @@ Get the benchmark data before you set a rate. Use the Royalty Stack Framework to
 
 Book a licensing strategy session at [beyondelevation.com](https://beyondelevation.com) to benchmark your patent royalty rates against the 2026 industry data. If you are licensing below the numbers on this page, you are leaving money on the table with every deal you sign.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-royalty-rates-by-industry-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is a fair patent royalty rate?
@@ -106,3 +120,6 @@ Yes — if your patent covers a standard-essential technology, blocks a competit
 ### Why do licensees offer low royalty rates?
 
 Licensees offer low rates because they can. Most patent holders lack benchmark data, accept the first offer to avoid negotiation risk, and rely on patent attorneys who price conservatively rather than commercially. Licensees use information asymmetry — access to licensing databases and market intelligence that most founders lack — to anchor negotiations below market rates.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

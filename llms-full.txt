@@ -1193,3 +1193,23 @@ The fastest way to monetize your IP is defensive licensing — approaching compa
 But speed depends on your situation. A founder with granted patents and identifiable infringers can monetize in weeks. A founder with untapped trade secrets and proprietary data might need 60 to 120 days. The mistake most founders make is starting with the longest play first — typically a broad outbound campaign — when a faster win is sitting right in f
 
 ---
+
+## Patent Royalty Rates in 2026: The Industry-by-Industry Breakdown That Shows Most Founders Price 3x Too Low
+
+URL: https://beyondelevation.com/blog/post.html?slug=patent-royalty-rates-by-industry-2026
+
+Software patent royalty rates in 2026 sit between 8% and 12% of net sales. SaaS and pharma command 15% or higher. Automotive hovers at 3–4%. Electronics lands at 4–6%.
+
+These are the benchmarks. Most founders have never seen them — and that is why they accept the first number a licensee slides across the table, a number that is almost always 40–60% below what the market supports.
+
+Hayat Amin argues that underpricing patent licences is the single most expensive mistake in IP monetisation — more costly than filing the wrong claims, more damaging than skipping a jurisdiction. "A bad royalty rate compounds against you for the life of the deal," Amin says. "Ten years at 2% when the benchmark is 8% is not a rounding error. It is millions in lost revenue."
+
+Here are the actual patent royalty rates by industry in 2026, the frameworks that determine where your rate should sit, and the negotiation levers that move it.
+
+## What Are Typical Patent Royalty Rates in 2026?
+
+Patent royalty rates in 2026 typically range from 3% to 15%+ of net sales, depending on the industry, the strength of the patent claims, and the commercial value the technology delivers to the licensee. The standard licensing deal anchors between 3% and 7% of net sales across most technology categories, with significant variation at the top end for high-margin verticals like software and pharmaceuticals.
+
+These rates are not arbitrary. They reflect decades of licensing precedent, court-determined reasonable royalties, an
+
+---
