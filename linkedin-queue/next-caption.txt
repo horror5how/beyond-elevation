@@ -1,17 +1,17 @@
-VCs funded zero GPT-wrapper pitches in Q1 2026.
+90% of S&P 500 value is intangible.
 
-Algorithm novelty alone adds no multiple.
+Most founders book it at zero.
 
-AI defensibility now scores on 3 axes:
+That gap is what acquirers exploit when pricing your business.
 
-Proprietary data flywheel.
+Three balance sheet errors that kill your IP valuation:
 
-Workflow embedding depth.
+Expensing R&D instead of capitalising it.
 
-Persistent memory / vector store.
+Booking patents at filing cost, not income value.
 
-IP-rich AI firms command 20% valuation premium over algorithm-only peers.
+Treating proprietary data as overhead, not an asset.
 
-Patent your data pipeline. Not just your model.
+Fix all three before your next raise.
 
-#AIStrategy #IPStrategy #StartupFunding
+#IPStrategy #MergersAndAcquisitions #Valuation

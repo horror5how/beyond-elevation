@@ -113,3 +113,4 @@ us-only-filing-9m-valuation-haircut
 ai-generated-content-copyright-gap
 meta-newscorp-ai-licensing-arr-line
 data-flywheel-beats-algorithm-patent
+intangible-asset-book-value-gap
