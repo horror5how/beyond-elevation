@@ -1,60 +1,24 @@
 ---
-date: 2026-05-10
-theme: This week the IP repricing wave hit public markets — Meta licensed News Corp, Getty surged on Perplexity, USPTO recalibrated AI claim eligibility, Patlytics named the filings-and-litigation curves, and the M&A intangible gap quietly cost founders 10-40% of deal value.
-generated_at: 2026-05-10T04:00:00.000Z
+date: 2026-05-11
+theme: The IP repricing wave keeps landing — Getty turns inventory into training data, Big Tech's patent liability stack tops $17T, USPTO recalibrates §101 for AI claims, AI filings and litigation curves diverge, the M&A intangible gap quietly eats 10-40% of deal value, and USTR's 2026 Special 301 Report names where founders can actually enforce.
+generated_at: 2026-05-11T04:00:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 0
 ---
 
 # Daily theme
-Today's batch tracks the IP repricing wave as it lands on public-market tape and private-deal tables. Meta's News Corp AI licensing deal turned archive content into an ARR line on Q1 earnings. Getty Images shares surged on the Perplexity announcement, repricing 477M+ visual assets as data infrastructure not stock photos. IPWatchdog's Magnificent Seven breakdown put hard dollars on Big Tech patent liability. The 2026 USPTO guidance rewrote AI claim eligibility under §101. Patlytics' Series B thesis quantified the simultaneous surge in AI patent filings and AI-adjacent litigation. And the M&A intangible valuation gap is now where founders lose 10-40% of deal value at close. Each post names the signal, the KPI, and the 3-step move.
+Today's batch closes the loop on this week's IP repricing arc. The 5 carryover posts cover Getty/Perplexity as the asset-class shift from media (1-2x sales) to data infra (8-15x ARR), the Magnificent Seven $17T+ patent liability stack, the 2026 USPTO §101 recalibration that rejects architecture-only AI claims, the diverging AI filings and AI-litigation curves Patlytics priced in its Series B, and the M&A intangible valuation gap eating 10-40% of deal value at close. Today's new post (Post 6) adds the geopolitical layer: USTR's 2026 Special 301 Report, the founder-level map for where IP can actually be enforced. Each post names the signal, the KPI, and the next 3 moves.
 
 # Topic shortlist (research notes — not posted)
-1. Meta–News Corp AI licensing — Q1 earnings booked AI licensing as recurring line — ~$250M OpenAI–News Corp 5yr deal as anchor, 80-90% gross margin, 4-6x ARR multiple
-2. Getty Images / Perplexity AI licensing deal — Getty shares surged on announcement — 477M+ assets, asset class shift from CPM advertising to enterprise data ARR (8-15x)
-3. Magnificent Seven patent liabilities (IPWatchdog) — $17T+ market cap stack — Apple/VirnetX $1.1B+ history, Masimo $250M jury, 8+ active suits at Microsoft, Nvidia $30M jury
-4. USPTO AI patent strategy recalibration — 2026 §101 guidance — architecture-only claims rejected, technical-effect-on-hardware claims allowed, 18-24mo lead window
-5. Patlytics Series B thesis — AI filings up 40%+ YoY, AI-adjacent suits up 30%+ — FTO time collapses 4 weeks → 4 days, litigation insurance becomes Series A line item
-6. M&A intangible valuation gap — 90%+ S&P 500 value is intangibles (Ocean Tomo) — 30% haircut on IP-adjacent revenue multiples, 10-40% deal value at risk at close
+1. Getty Images / Perplexity AI licensing — 477M+ assets reclassified from media inventory to data infrastructure — 8-15x ARR multiple vs 1-2x sales for old media
+2. Magnificent Seven patent liability stack — Apple/VirnetX $1.1B+, Masimo $250M, $5B+ active exposure at Microsoft, 8 open suits at Nvidia — $17T+ market cap at risk
+3. USPTO 2026 §101 recalibration — architecture-only AI claims rejected, technical-effect-on-hardware claims allowed — 18-24 month strategic lead window
+4. Patlytics Series B thesis — AI patent filings up 40%+ YoY, AI-adjacent litigation up 30%+ — FTO time collapses from 4 weeks to 4 days, litigation insurance now a Series A line item
+5. M&A intangible valuation gap — 90%+ of S&P 500 value is intangibles (Ocean Tomo) — 30% haircut on IP-adjacent revenue multiples, 10-40% deal value lost at close
+6. USTR 2026 Special 301 Report — 7+ Priority Watch List jurisdictions named, US IP theft pegged at $225B-$600B/yr — enforcement success drops 40-60% in PWL markets
 
 ---
-
 ## Post 1
-status: published
-published_at: 2026-05-10T17:42:04.742Z
-share_urn: urn:li:share:7459296716538851328
-hook_format: number-led
-cta_goal: follows
-slug: meta-newscorp-ai-licensing-arr-line
-keyword: AI licensing recurring revenue ARR margin multiple
-numbers_check: $250M, 5 years, 80-90%, 4-6x, $1B
-image_direction: stacked dollar tiles over publishing archive grid, BEIP warm neutrals, ARR motif
-headline: AI Licensing Is<br>The New ARR Line
-metric_1: $250M
-label_1: OPENAI–NEWS CORP<br>5-YEAR DEAL
-metric_2: 80-90%
-label_2: GROSS MARGIN<br>ON LICENSING
-metric_3: 4-6x
-label_3: ARR MULTIPLE<br>ON CONTENT IP
-
-Meta licensed News Corp's archive. Wall Street is repricing the publishing model.
-
-News Corp's Q1 earnings booked AI licensing as a recurring revenue line. The OpenAI deal alone runs ~$250M over 5 years. Meta's adds reach.
-
-What founders should hear:
-1. Archive content is now ARR. Not ads. Not subs. Software-class margin
-2. AI licensing carries 80-90% gross margin and 4-6x ARR multiples
-3. The next $1B publisher won't be born from clicks. It'll be born from API access
-
-Founders sitting on proprietary data should price it like Snowflake, not a content library.
-
-↳ Follow for the IP-as-revenue moves Wall Street is pricing in.
-
-#AILicensing #ContentMonetization #FounderStrategy
-
----
-
-## Post 2
 status: pending
 hook_format: contrarian
 cta_goal: comments
@@ -87,7 +51,7 @@ Any company sitting on proprietary visual or sensor data has the same playbook.
 
 ---
 
-## Post 3
+## Post 2
 status: pending
 hook_format: listicle
 cta_goal: comments
@@ -121,7 +85,7 @@ Patent liability is a balance sheet line item now, not a footnote. Track it like
 
 ---
 
-## Post 4
+## Post 3
 status: pending
 hook_format: frame-break
 cta_goal: follows
@@ -154,7 +118,7 @@ Founders adapting now will hold issued patents 18-24 months ahead of the wave st
 
 ---
 
-## Post 5
+## Post 4
 status: pending
 hook_format: prediction
 cta_goal: dms
@@ -187,7 +151,7 @@ Founders who file fast without FTO get hit. Founders who run FTO without filing 
 
 ---
 
-## Post 6
+## Post 5
 status: pending
 hook_format: story
 cta_goal: clicks
@@ -219,3 +183,36 @@ Audit IP like financials. Annually.
 ↳ Read the M&A IP playbook on beyondelevation.com
 
 #MA #IPValuation #FounderStrategy
+
+---
+
+## Post 6
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: ustr-2026-special-301-ip-enforcement-map
+keyword: USTR Special 301 Report IP enforcement priority watch list
+numbers_check: $225B, $600B, 7+, 40-60%, 5
+image_direction: world map with red Priority Watch List zones, BEIP warm neutrals, enforcement gap motif
+headline: Where You File Decides<br>If You Can Enforce
+metric_1: $225B-$600B
+label_1: ANNUAL US<br>IP THEFT COST
+metric_2: 7+
+label_2: PRIORITY WATCH<br>LIST COUNTRIES
+metric_3: 40-60%
+label_3: ENFORCEMENT GAP<br>IN PWL MARKETS
+
+USTR's 2026 Special 301 Report just dropped. Founders building globally — this is your enforcement map.
+
+The Priority Watch List names 7+ jurisdictions where IP protection is structurally weak. The Commission on Theft of American IP pegs losses at $225B-$600B every year.
+
+3 founder moves:
+1. A PCT filing alone is not protection — enforcement success drops 40-60% in PWL markets
+2. Layer trade secret, contract, and tech-side controls before entering those markets
+3. Prioritize EPO, JP, KR, CA, AU first if your revenue isn't China-led
+
+Patents are jurisdictional. Your IP needs a map, not just a portfolio.
+
+↳ Follow for the founder IP enforcement playbook.
+
+#IPStrategy #PatentEnforcement #FounderMoves
