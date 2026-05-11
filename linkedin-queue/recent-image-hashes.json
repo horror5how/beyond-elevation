@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fbf3b10131fbf5ff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "suno-2-45b-valuation-ip-risk-asterisk",
-    "ts": "2026-05-10T09:00:06.589Z"
-  },
-  {
     "hash": "7ef810191330ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "uspto-2026-ai-patent-claim-recalibration",
     "ts": "2026-05-11T13:47:14.357Z"
+  },
+  {
+    "hash": "007effffffff2400",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "ai-filings-litigation-twin-curves",
+    "ts": "2026-05-11T15:55:00.642Z"
   }
 ]

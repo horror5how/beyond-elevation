@@ -3,7 +3,7 @@ date: 2026-05-11
 theme: The IP repricing wave keeps landing — Getty turns inventory into training data, Big Tech's patent liability stack tops $17T, USPTO recalibrates §101 for AI claims, AI filings and litigation curves diverge, the M&A intangible gap quietly eats 10-40% of deal value, and USTR's 2026 Special 301 Report names where founders can actually enforce.
 generated_at: 2026-05-11T04:00:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -125,7 +125,9 @@ Founders adapting now will hold issued patents 18-24 months ahead of the wave st
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-11T15:55:00.642Z
+share_urn: urn:li:share:7459632160791179264
 hook_format: prediction
 cta_goal: dms
 slug: ai-filings-litigation-twin-curves

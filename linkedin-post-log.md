@@ -20,3 +20,4 @@
 2026-05-11 12:12 | urn:li:share:7459576228967043072 | post #2 | magnificent-seven-patent-liability-stack | The Magnificent Seven hold $17T+ market cap and a hidden patent liability stack 
 2026-05-11 12:54 | QUEUED | ai-training-data-lawsuit-2026 | 8,000 authors sued OpenAI. The copyright clock is running.  Every AI company tra
 2026-05-11 13:47 | urn:li:share:7459600006006751233 | post #3 | uspto-2026-ai-patent-claim-recalibration | Founders are filing AI patents the way they filed software in 2015. USPTO just r
+2026-05-11 15:55 | urn:li:share:7459632160791179264 | post #4 | ai-filings-litigation-twin-curves | AI is driving patent filings AND litigation at the same time. Most founders see 

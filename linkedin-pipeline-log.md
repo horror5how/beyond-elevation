@@ -236,3 +236,5 @@ Post 2: hook_too_long(13w)
 2026-05-11 10:41 | li-auto-post | render OK | post #1 | layout=a accent=#a87c7c hash=02ffffffff0c84a5 minDist=5 attempts=1
 2026-05-11 12:12 | li-auto-post | render OK | post #2 | layout=a accent=#a87c7c hash=42ffffffffff00a1 minDist=10 attempts=1
 2026-05-11 13:47 | li-auto-post | render OK | post #3 | layout=b accent=#7a8c6e hash=0046e7ffc3e7ff9b minDist=10 attempts=1
+2026-05-11 15:54 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-11 15:54 | li-auto-post | render OK | post #4 | layout=a accent=#a87c7c hash=007effffffff2400 minDist=9 attempts=2
