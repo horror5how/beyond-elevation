@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42ffffffff04a5a7",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "ai-patent-tooling-series-b-wave-2026",
-    "ts": "2026-05-09T14:16:34.056Z"
-  },
-  {
     "hash": "00ffffffff0581b1",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "getty-perplexity-licensing-data-infra-reprice",
     "ts": "2026-05-11T10:41:23.756Z"
+  },
+  {
+    "hash": "42ffffffffff00a1",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "magnificent-seven-patent-liability-stack",
+    "ts": "2026-05-11T12:12:45.449Z"
   }
 ]

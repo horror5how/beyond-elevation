@@ -3,7 +3,7 @@ date: 2026-05-11
 theme: The IP repricing wave keeps landing — Getty turns inventory into training data, Big Tech's patent liability stack tops $17T, USPTO recalibrates §101 for AI claims, AI filings and litigation curves diverge, the M&A intangible gap quietly eats 10-40% of deal value, and USTR's 2026 Special 301 Report names where founders can actually enforce.
 generated_at: 2026-05-11T04:00:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ Any company sitting on proprietary visual or sensor data has the same playbook.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-11T12:12:45.449Z
+share_urn: urn:li:share:7459576228967043072
 hook_format: listicle
 cta_goal: comments
 slug: magnificent-seven-patent-liability-stack

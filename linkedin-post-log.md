@@ -125,3 +125,4 @@
 2026-05-10 17:51 | QUEUED | data-flywheel-beats-algorithm-patent | VCs funded zero GPT-wrapper pitches in Q1 2026.
 2026-05-10 17:56 | urn:li:share:7459300393433395200 | VCs funded zero GPT-wrapper pitches in Q1 2026.  Algorithm novelty alone adds no
 2026-05-11 10:41 | urn:li:share:7459553236966895616 | post #1 | getty-perplexity-licensing-data-infra-reprice | Getty surged on the Perplexity licensing deal. Wall Street isn't pricing the dea
+2026-05-11 12:12 | urn:li:share:7459576228967043072 | post #2 | magnificent-seven-patent-liability-stack | The Magnificent Seven hold $17T+ market cap and a hidden patent liability stack 
