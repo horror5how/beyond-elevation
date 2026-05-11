@@ -1,17 +1,11 @@
-90% of S&P 500 value is intangible.
+8,000 authors sued OpenAI. The copyright clock is running.
 
-Most founders book it at zero.
+Every AI company training on scraped web data carries the same exposure.
 
-That gap is what acquirers exploit when pricing your business.
+The Ninth Circuit confirmed: unauthorised training = potential infringement. Up to $150,000 per work.
 
-Three balance sheet errors that kill your IP valuation:
+Most AI startups have set aside $0 for this risk.
 
-Expensing R&D instead of capitalising it.
+Three moves that convert a lawsuit exposure into a licensed data asset — and add a defensibility line to your next investor deck.
 
-Booking patents at filing cost, not income value.
-
-Treating proprietary data as overhead, not an asset.
-
-Fix all three before your next raise.
-
-#IPStrategy #MergersAndAcquisitions #Valuation
+#AIStrategy #IPStrategy #GenerativeAI
