@@ -82,9 +82,16 @@ const AI_KEYWORDS = [
   'OpenAI', 'Gemini', 'Grok', 'generative', 'Mistral', 'Llama',
 ];
 
+const PRIORITY_KEYWORDS = ['Claude', 'Anthropic', 'claude', 'anthropic'];
+
 function isAiRelated(item) {
   const text = `${item.title} ${item.description}`.toLowerCase();
   return AI_KEYWORDS.some(kw => text.toLowerCase().includes(kw.toLowerCase()));
+}
+
+function priorityScore(item) {
+  const text = `${item.title} ${item.description}`;
+  return PRIORITY_KEYWORDS.some(kw => text.includes(kw)) ? 1 : 0;
 }
 
 const NEWS_FEEDS = [
@@ -96,9 +103,37 @@ const NEWS_FEEDS = [
   { name: 'Wired',           url: 'https://www.wired.com/feed/tag/ai/latest/rss', aiOnly: false },
 ];
 
+async function fetchHackerNewsAI(limit = 8) {
+  try {
+    const url = 'https://hn.algolia.com/api/v1/search?query=Claude+Anthropic+AI+LLM&tags=story&hitsPerPage=20';
+    const { body } = await fetchUrl(url);
+    const data = JSON.parse(body);
+    return (data.hits || [])
+      .filter(h => h.url && h.title)
+      .slice(0, limit)
+      .map(h => ({
+        title: h.title,
+        link: h.url,
+        description: '',
+        pubDate: new Date(h.created_at).toUTCString(),
+        source: 'Hacker News',
+        points: h.points || 0,
+      }));
+  } catch (err) {
+    console.error('[news] Hacker News failed:', err.message);
+    return [];
+  }
+}
+
 async function fetchNewsItems(totalLimit = 5) {
   const allItems = [];
   const seenLinks = new Set();
+
+  const [hnItems] = await Promise.all([fetchHackerNewsAI(8)]);
+  for (const item of hnItems) {
+    if (!seenLinks.has(item.link)) { seenLinks.add(item.link); allItems.push(item); }
+  }
+
   await Promise.allSettled(
     NEWS_FEEDS.map(async (feed) => {
       try {
@@ -116,6 +151,9 @@ async function fetchNewsItems(totalLimit = 5) {
       }
     })
   );
+
+  // Claude/Anthropic stories first, then the rest
+  allItems.sort((a, b) => priorityScore(b) - priorityScore(a));
   return allItems.slice(0, totalLimit);
 }
 
