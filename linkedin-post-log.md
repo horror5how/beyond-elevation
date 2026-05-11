@@ -19,3 +19,4 @@
 2026-05-11 10:41 | urn:li:share:7459553236966895616 | post #1 | getty-perplexity-licensing-data-infra-reprice | Getty surged on the Perplexity licensing deal. Wall Street isn't pricing the dea
 2026-05-11 12:12 | urn:li:share:7459576228967043072 | post #2 | magnificent-seven-patent-liability-stack | The Magnificent Seven hold $17T+ market cap and a hidden patent liability stack 
 2026-05-11 12:54 | QUEUED | ai-training-data-lawsuit-2026 | 8,000 authors sued OpenAI. The copyright clock is running.  Every AI company tra
+2026-05-11 13:47 | urn:li:share:7459600006006751233 | post #3 | uspto-2026-ai-patent-claim-recalibration | Founders are filing AI patents the way they filed software in 2015. USPTO just r

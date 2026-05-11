@@ -3,7 +3,7 @@ date: 2026-05-11
 theme: The IP repricing wave keeps landing — Getty turns inventory into training data, Big Tech's patent liability stack tops $17T, USPTO recalibrates §101 for AI claims, AI filings and litigation curves diverge, the M&A intangible gap quietly eats 10-40% of deal value, and USTR's 2026 Special 301 Report names where founders can actually enforce.
 generated_at: 2026-05-11T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -90,7 +90,9 @@ Patent liability is a balance sheet line item now, not a footnote. Track it like
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-11T13:47:14.357Z
+share_urn: urn:li:share:7459600006006751233
 hook_format: frame-break
 cta_goal: follows
 slug: uspto-2026-ai-patent-claim-recalibration

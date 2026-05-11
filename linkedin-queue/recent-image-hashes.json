@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffff0581b1",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "ai-licensing-recurring-revenue-line-founder-playbook",
-    "ts": "2026-05-09T17:41:03.900Z"
-  },
-  {
     "hash": "fbf3b10131fbf5ff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "magnificent-seven-patent-liability-stack",
     "ts": "2026-05-11T12:12:45.449Z"
+  },
+  {
+    "hash": "0046e7ffc3e7ff9b",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "uspto-2026-ai-patent-claim-recalibration",
+    "ts": "2026-05-11T13:47:14.357Z"
   }
 ]

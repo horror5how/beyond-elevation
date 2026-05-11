@@ -117,3 +117,4 @@ intangible-asset-book-value-gap
 getty-perplexity-licensing-data-infra-reprice
 magnificent-seven-patent-liability-stack
 ai-training-data-lawsuit-2026
+uspto-2026-ai-patent-claim-recalibration
