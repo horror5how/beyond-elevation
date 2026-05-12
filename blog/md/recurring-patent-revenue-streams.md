@@ -3,7 +3,7 @@ title: "How to Build Recurring Patent Revenue Streams That Compound Every Quarte
 slug: recurring-patent-revenue-streams
 date: 2026-05-12
 url: https://beyondelevation.com/blog/post.html?slug=recurring-patent-revenue-streams
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -93,6 +93,20 @@ That is why Hayat Amin tells every founder who walks through the door at Beyond 
 
 If you are sitting on patents generating zero revenue — or worse, lump-sum deals that expired years ago — the recurring patent revenue you are leaving on the table is likely 3-5x what you have already collected. That gap does not shrink with time. It widens. [Book a licensing strategy review with Beyond Elevation](https://beyondelevation.com) and find out exactly what your IP should be earning on a recurring basis.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-recurring-patent-revenue-streams)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much recurring patent revenue can a single patent generate?
@@ -114,3 +128,6 @@ Yes, but only at renewal or when the licensee expands into new markets or produc
 ### Do I need an IP holding company to collect recurring patent revenue?
 
 Not required, but recommended once you have 3+ active licensees. An [IP holding company](/blog/posts/ip-holdco-structure-guide/) separates licensing income from operating revenue, simplifies tax treatment, and creates a clean vehicle for future portfolio transactions.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
