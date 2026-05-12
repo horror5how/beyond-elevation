@@ -122,3 +122,4 @@ ai-filings-litigation-twin-curves
 ma-intangible-valuation-gap-deal-value-loss
 patent-cluster-licensing-leverage-multiplier
 ustr-2026-special-301-ip-enforcement-map
+ip-deal-pipeline-exit-multiple-3-7x
