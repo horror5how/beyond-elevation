@@ -23,3 +23,4 @@
 2026-05-11 15:55 | urn:li:share:7459632160791179264 | post #4 | ai-filings-litigation-twin-curves | AI is driving patent filings AND litigation at the same time. Most founders see 
 2026-05-11 18:30 | urn:li:share:7459671382885363712 | post #5 | ma-intangible-valuation-gap-deal-value-loss | A founder lost $40M in deal value last quarter. Not from EBITDA. From an unprice
 2026-05-12 07:55 | QUEUED | patent-cluster-licensing-leverage-multiplier | A single patent earns 3% royalties on net sales.  Cluster 7 patents around the s
+2026-05-12 09:46 | urn:li:share:7459901701722959872 | post #6 | ustr-2026-special-301-ip-enforcement-map | USTR's 2026 Special 301 Report just dropped. Founders building globally — this i

@@ -121,3 +121,4 @@ uspsto-2026-ai-patent-claim-recalibration
 ai-filings-litigation-twin-curves
 ma-intangible-valuation-gap-deal-value-loss
 patent-cluster-licensing-leverage-multiplier
+ustr-2026-special-301-ip-enforcement-map
