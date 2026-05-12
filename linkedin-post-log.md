@@ -24,3 +24,4 @@
 2026-05-11 18:30 | urn:li:share:7459671382885363712 | post #5 | ma-intangible-valuation-gap-deal-value-loss | A founder lost $40M in deal value last quarter. Not from EBITDA. From an unprice
 2026-05-12 07:55 | QUEUED | patent-cluster-licensing-leverage-multiplier | A single patent earns 3% royalties on net sales.  Cluster 7 patents around the s
 2026-05-12 09:46 | urn:li:share:7459901701722959872 | post #6 | ustr-2026-special-301-ip-enforcement-map | USTR's 2026 Special 301 Report just dropped. Founders building globally — this i
+2026-05-12 12:53 | QUEUED | ip-deal-pipeline-exit-multiple-3-7x | Your IP licensing pipeline has a 3-7x acquisition multiple. You have no pipeline.
