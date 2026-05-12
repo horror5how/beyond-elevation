@@ -1,0 +1,117 @@
+name: Gated Blog Publisher
+
+# Re-activated 2026-05-11. The HUMAN_REVIEWED gate is now live.
+# Enforces THREE hard rules:
+#   1. Hard cap: at most 2 published posts per ROLLING 7-DAY window.
+#   2. Frontmatter gate: every published post in posts.json MUST have human_reviewed: true.
+#   3. Named-author gate: every published post MUST have a real human author
+#      (no "Beyond Elevation Team", no empty author) — Google E-E-A-T.
+#
+# Posts written by scripts/publish.js arrive as status='draft' + human_reviewed=false.
+# Hayat runs `node scripts/be-approve.mjs` (or replies to the daily digest email)
+# to flip them to published + human_reviewed=true, which lets this workflow ship.
+#
+# Triggers on push to main when data/posts.json changes.
+# Refuses to run unless BOTH repo vars are set:
+#   PUBLISH_GATE_ENABLED=true  (master kill switch)
+#   HUMAN_REVIEWED=true        (global review acknowledged)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/posts.json'
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type ENABLE to confirm a manual publish run'
+        required: true
+        default: 'NO'
+
+permissions:
+  contents: write
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    if: ${{ vars.PUBLISH_GATE_ENABLED == 'true' }}   # global kill switch via repo variable
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Enforce HUMAN_REVIEWED gate + named author + delta cap
+        env:
+          HUMAN_REVIEWED: ${{ vars.HUMAN_REVIEWED || 'false' }}
+        run: |
+          if [ "$HUMAN_REVIEWED" != "true" ]; then
+            echo "::error::HUMAN_REVIEWED is not 'true'. Set repo variable HUMAN_REVIEWED=true to allow publishing."
+            exit 1
+          fi
+          # Capture previous posts.json from HEAD~1 for delta comparison.
+          git show HEAD~1:data/posts.json > /tmp/posts.prev.json 2>/dev/null || echo "[]" > /tmp/posts.prev.json
+          node -e "
+            const fs = require('fs');
+            const posts = JSON.parse(fs.readFileSync('data/posts.json','utf8'));
+            const prev = JSON.parse(fs.readFileSync('/tmp/posts.prev.json','utf8'));
+            const prevPublished = new Set(prev.filter(p => p.status === 'published' && p.noIndex !== true).map(p => p.slug));
+            const newlyPublished = posts.filter(p =>
+              p.status === 'published'
+              && p.noIndex !== true
+              && !prevPublished.has(p.slug)
+            );
+
+            // Hard cap: max 2 new published posts per rolling 7d window.
+            const today = new Date();
+            const weekAgo = new Date(today.getTime() - 7*24*3600*1000);
+            const recentPublished = posts.filter(p =>
+              p.status === 'published'
+              && p.noIndex !== true
+              && new Date(p.date) >= weekAgo
+            );
+            console.log('Newly-published in this push: ' + newlyPublished.length);
+            console.log('Total indexable published in last 7d: ' + recentPublished.length);
+            if (newlyPublished.length > 0 && recentPublished.length > 2) {
+              console.error('::error::Rolling 7d cap exceeded. Cannot add ' + newlyPublished.length + ' new published post(s); 7d total would be ' + recentPublished.length + '.');
+              recentPublished.forEach(p => console.error(' - ' + p.slug + ' (' + p.date + ')'));
+              process.exit(2);
+            }
+
+            // Author gate — applies ONLY to newly-published posts (grandfather old state).
+            const badAuthor = newlyPublished.filter(p =>
+              !p.author || p.author.trim() === '' || /beyond elevation team/i.test(p.author)
+            );
+            if (badAuthor.length > 0) {
+              console.error('::error::' + badAuthor.length + ' newly-published post(s) have missing/team author. Set a NAMED human author.');
+              badAuthor.forEach(p => console.error(' - ' + p.slug + ' (author=' + (p.author||'<empty>') + ')'));
+              process.exit(3);
+            }
+
+            // human_reviewed gate — applies ONLY to newly-published posts.
+            const unreviewed = newlyPublished.filter(p => p.human_reviewed !== true);
+            if (unreviewed.length > 0) {
+              console.error('::error::' + unreviewed.length + ' newly-published post(s) lack human_reviewed:true.');
+              unreviewed.forEach(p => console.error(' - ' + p.slug));
+              process.exit(4);
+            }
+
+            console.log('Gate passed.');
+          "
+
+      - name: Build sitemap + static posts
+        run: |
+          node scripts/build-static-posts.js
+          node scripts/build-sitemap.js
+
+      - name: Commit if changed
+        run: |
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE Gated Publisher'
+          git add blog/ sitemap.xml llms.txt
+          git diff --cached --quiet && { echo 'Nothing to commit'; exit 0; }
+          git commit -m "chore(publish): gated regenerate static + sitemap"
+          git push origin main

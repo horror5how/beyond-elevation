@@ -1,23 +1,22 @@
-name: Auto-merge scheduled-task blog posts into main [DISABLED 2026-05-06]
+name: Auto-merge scheduled-task blog posts into main
 
-# DISABLED 2026-05-06 by Hayat after Google March 2026 Core / Scaled Content
-# Abuse hit. 12 templated posts were auto-published 2026-05-04 with
-# generic "Here Is the Proof" phrasing and no first-person voice.
-# Re-enable only after publisher gates HUMAN_REVIEWED=true frontmatter flag.
+# Fallback for the scheduled cloud tasks that generate blog posts. The tasks
+# push to claude/<name> branches; this workflow fast-forwards/merges them into
+# main so the Vercel production deploy workflow can pick them up.
 #
-# (original triggers below — kept for reference, neutered)
-# on:
-#   push:
-#     branches:
-#       - 'claude/**'
+# Safety guardrails:
+#  1. Only branches whose head commit author is Claude are eligible.
+#  2. Only branches that modify files on the allow-list are eligible
+#     (blog posts content, not arbitrary code).
+#  3. Branches with zero commits ahead of main are skipped (empty task
+#     branches that never committed work).
+#  4. Anything matching `claude/debug-*` is skipped so interactive debugging
+#     sessions are never auto-merged.
 
 on:
-  workflow_dispatch:
-    inputs:
-      confirm:
-        description: 'Type ENABLE to confirm manual run (auto-merge is disabled by default)'
-        required: true
-        default: 'NO'
+  push:
+    branches:
+      - 'claude/**'
 
 concurrency:
   group: auto-merge-scheduled-posts

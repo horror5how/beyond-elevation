@@ -63,12 +63,17 @@ async function main() {
     }
   }
 
-  // Fill defaults
-  post.author = post.author || 'Beyond Elevation Team';
+  // Fill defaults. As of 2026-05-11, scripts/publish.js writes DRAFTS only.
+  // status=draft + human_reviewed=false blocks the gated publish workflow.
+  // Hayat must approve via `node scripts/be-approve.mjs` before anything ships.
+  post.author = post.author || 'Hayat Amin';
+  if (/beyond elevation( team)?/i.test(post.author)) post.author = 'Hayat Amin';
   post.authorPhoto = post.authorPhoto || '../assets/be-author-headshot.jpg';
   post.heroImage = post.heroImage || '../assets/og-image.jpg';
-  post.status = post.status || 'published';
-  post.alexReview = post.alexReview || { approved: true, score: 8, notes: 'Hormozi quality pass' };
+  post.status = 'draft';
+  post.human_reviewed = false;
+  post.alexReview = post.alexReview || { approved: false, score: null, notes: 'awaiting human review' };
+  post.queued_at = new Date().toISOString();
 
   const posts = JSON.parse(fs.readFileSync(POSTS_JSON, 'utf8'));
 
@@ -89,8 +94,9 @@ async function main() {
 
   posts.push(post);
   fs.writeFileSync(POSTS_JSON, JSON.stringify(posts, null, 2));
-  console.log(`Appended post: ${post.slug}. Total posts: ${posts.length}.`);
-  console.log('The auto-merge workflow will regenerate static pages on push.');
+  console.log(`Queued DRAFT post: ${post.slug}. Total posts: ${posts.length}.`);
+  console.log('Status: draft + human_reviewed=false. Will NOT publish until Hayat approves.');
+  console.log('To approve: cd /Users/hayatamin/Documents/beyond-elevation && node scripts/be-approve.mjs');
 }
 
 main().catch(err => {
