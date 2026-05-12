@@ -1,11 +1,15 @@
-8,000 authors sued OpenAI. The copyright clock is running.
+A single patent earns 3% royalties on net sales.
 
-Every AI company training on scraped web data carries the same exposure.
+Cluster 7 patents around the same technology and licensees pay 18–22%.
 
-The Ninth Circuit confirmed: unauthorised training = potential infringement. Up to $150,000 per work.
+That's not negotiation skill. That's structural leverage.
 
-Most AI startups have set aside $0 for this risk.
+One patent can be designed around. A cluster cannot.
 
-Three moves that convert a lawsuit exposure into a licensed data asset — and add a defensibility line to your next investor deck.
+IBM, Qualcomm, and InterDigital don't license individual patents. They license portfolios.
 
-#AIStrategy #IPStrategy #GenerativeAI
+The royalty rate difference between one patent and a cluster of seven is 6x.
+
+Beyond Elevation builds patent clusters. Not just patents.
+
+#IPStrategy #Patents #Licensing
