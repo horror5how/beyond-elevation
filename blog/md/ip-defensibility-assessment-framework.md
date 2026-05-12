@@ -1,112 +1,122 @@
 ---
-title: "The 7-Point IP Defensibility Assessment That Exposes Most Startup Portfolios"
+title: "The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios"
 slug: ip-defensibility-assessment-framework
-date: 2026-04-12
+date: 2026-05-12
 url: https://beyondelevation.com/blog/post.html?slug=ip-defensibility-assessment-framework
 author: Beyond Elevation Team
 site: Beyond Elevation
 ---
 
-# The 7-Point IP Defensibility Assessment That Exposes Most Startup Portfolios
+# The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios
 
-**73% of VC-backed startups have at least one patent. Fewer than 15% have a portfolio that would survive a serious IP defensibility assessment.**
+83% of startup patent portfolios fail at least 4 of 7 defensibility criteria. Most founders discover this during due diligence — when it is too late to fix.
 
-That gap is where founders lose millions — in fundraising discounts, blown M&A premiums, and licensing revenue that never materialises.
+An IP defensibility assessment is the single most important diagnostic a founder can run before fundraising, licensing, or exit conversations. Hayat Amin developed the 7-Point IP Defensibility Test after auditing hundreds of startup portfolios and finding the same structural failures repeated across industries. The test separates patents that generate revenue and deter competitors from patents that exist only to fill a slide in a pitch deck.
 
-Hayat Amin built the IP Defensibility 7-Point Test after restructuring Position Imaging's 66-patent portfolio and watching dozens of startup patent portfolios collapse under investor scrutiny. The test is ruthlessly simple: seven questions, pass-fail, no grey area. Most portfolios fail on point three.
+Here is the exact framework [Beyond Elevation](https://beyondelevation.com) runs on every client portfolio — and why your score determines whether investors price your IP as an asset or ignore it entirely.
 
-This is the exact IP defensibility assessment framework [Beyond Elevation](https://beyondelevation.com) runs on every new client engagement. Here is how it works — and where your portfolio is probably exposed.
+## What Is an IP Defensibility Assessment?
 
-## What Is an IP Defensibility Assessment (And Why Do Most Startups Fail It)?
+An IP defensibility assessment is a structured diagnostic that evaluates whether your patents, trade secrets, and proprietary know-how actually create barriers competitors cannot work around. It goes beyond checking that patents exist — it measures whether those patents do commercial work. The assessment scores your portfolio against criteria that investors, acquirers, and licensing counterparties use to price IP value.
 
-An IP defensibility assessment is a structured stress test that evaluates whether your patent portfolio actually protects your revenue — not just your technology. It goes far beyond the basic patent audit your attorney runs and asks one hard commercial question: if a well-funded competitor tried to design around your patents tomorrow, how long would it take them?
+Most founders confuse having patents with having defensibility. A patent on a feature nobody copies is not defensible — it is irrelevant. A patent on a feature every competitor needs and cannot design around is a weapon. The IP defensibility assessment distinguishes one from the other in quantifiable terms.
 
-Most startups fail because they confuse "having patents" with "having defensible IP." A patent that covers a narrow implementation detail is not defensible. A patent that covers the core method your customers pay for — the one that would take 18 months to replicate — is.
+Hayat Amin argues this distinction costs founders more money than any other IP mistake: "Founders spend $50K to $150K on patents and assume they have defensibility. They do not. They have paperwork. Defensibility requires that every claim maps to a revenue stream, a competitive threat, or a licensing opportunity."
 
-The distinction matters because investors price it. Patent defensibility directly determines whether your IP adds to your valuation or gets ignored during due diligence. A proper IP moat assessment separates the companies that command premium multiples from the ones that get commodity pricing.
+## The Hayat Amin IP Defensibility 7-Point Test
 
-## What Are the 7 Points in Hayat Amin's IP Defensibility Assessment?
+The IP Defensibility 7-Point Test scores a patent portfolio from 0 to 7 across the criteria that determine real-world commercial value. Each point is pass or fail. A score of 5 or above means your portfolio is investor-ready. Below 3 means your patents are liabilities dressed as assets.
 
-Hayat Amin's IP Defensibility 7-Point Test evaluates patent portfolios across seven criteria that determine real-world commercial protection. The test was developed from hundreds of portfolio reviews across tech, AI, and SaaS companies. Here are the seven points.
+### 1. Claim Breadth
 
-### 1. Claim Breadth Score
+Do your patent claims cover the features customers actually pay for? Narrow claims drafted around implementation details are easy to design around. Broad claims that cover customer-facing functionality — the feature a buyer selects your product for — create genuine barriers. Beyond Elevation maps every claim against the product's revenue drivers to score this criterion.
 
-Do your patent claims cover the broad method or just one narrow implementation? Claims that can be designed around in six months score zero. Claims that force competitors to find an entirely different approach score full marks.
+### 2. Design-Around Difficulty
 
-### 2. Design-Around Resistance
+A defensible patent forces competitors to spend 12 to 24 months and significant engineering resources developing an alternative that does not infringe. If a competent team can design around your claims in 90 days, the patent fails this point. The test measures difficulty by analysing prior art density, claim structure, and the number of viable alternative implementations.
 
-How many engineering months would a well-funded competitor need to replicate your product's core functionality without infringing your claims? Anything under 12 months is a fail. The strongest portfolios force 24+ months of redesign.
+### 3. Portfolio Density
 
-### 3. Revenue Coverage Ratio
+One patent is a speed bump. Seven patents covering different aspects of the same technology are a [patent moat](/blog/posts/what-is-a-patent-moat/). Portfolio density measures whether your IP creates layered protection — where designing around one claim forces the competitor into another. Companies with patent clusters command 2 to 3x higher licensing rates because circumvention becomes economically irrational.
 
-What percentage of your actual revenue is protected by at least one patent claim? Most startups score below 30%. Hayat Amin argues the minimum viable number is 70% — anything less means the majority of your revenue has no IP moat around it.
+### 4. Geographic Coverage
 
-### 4. Cluster Density
+A US-only patent portfolio leaves 60% of the global market unprotected. The test evaluates whether filings cover the jurisdictions where competitors manufacture, sell, or deploy products that practice your technology. At minimum, defensible portfolios cover the US, EU, and one major Asian market.
 
-Do you have overlapping patent claims that create a thicket around your core technology? A single patent is a fence. Seven patents covering adjacent methods, systems, and applications form a fortress. The IP defensibility assessment measures how many independent claims surround each revenue-critical feature.
+### 5. Remaining Patent Life
 
-### 5. Geographic Coverage
+Patents expire. A portfolio with 15 or more years of remaining life is an asset investors can underwrite. A portfolio with 5 years left is depreciating. The test flags patents approaching expiration and evaluates whether continuation filings or new applications can extend protection on core innovations.
 
-Are your patents filed in every jurisdiction where revenue is generated or competitors operate? A US-only patent portfolio is a liability if 40% of your revenue comes from Europe and Asia. Most startups fail this point because international filings are expensive — but the cost of not filing is higher.
+### 6. Enforcement Track Record
 
-### 6. Remaining Patent Life
+Patents that have survived inter partes review, reexamination, or litigation are worth significantly more than untested patents. Even one successful enforcement action increases portfolio credibility in licensing negotiations. Untested claims carry unknown invalidity risk that sophisticated buyers discount heavily.
 
-Patents with fewer than 7 years of remaining life score poorly in any IP defensibility assessment. Investors discount short-life IP because the protection window is too narrow to justify a premium. The strongest portfolios maintain a rolling pipeline of continuations and new filings that extend the defensive window beyond 15 years.
+### 7. Revenue Linkage
 
-### 7. Enforcement Readiness
+The most important criterion. Does each patent connect to a specific revenue stream — product revenue it protects, licensing income it generates, or competitive advantage it preserves? Patents that cannot be tied to revenue are overhead. Patents that map directly to income are assets. This criterion separates portfolios valued in the millions from portfolios valued at zero.
 
-Could you send a cease-and-desist letter tomorrow and win? This means documented evidence of use by infringers, clear claim charts, and litigation-ready files. A portfolio that scores high on the first six points but zero on enforcement readiness is a paper tiger.
+## Why Do Most Startup Portfolios Score 2 Out of 7?
 
-## How Does Your IP Defensibility Assessment Score Affect Your Fundraising Multiple?
+Most startup portfolios score between 1 and 3 on the IP defensibility assessment because they were built without strategic direction. The failure patterns are predictable.
 
-Patent defensibility is the single largest non-revenue factor in early-stage fundraising outcomes. Companies with patents are 10.2x more likely to secure early-stage funding — but that statistic hides the real story. The multiple difference between a strong IP defensibility assessment score and a weak one runs 2-4x on pre-money valuation.
+**Vanity patents.** Founders patent features they are proud of rather than features competitors need. A patent on a novel UI animation scores zero on claim breadth and revenue linkage if no competitor cares about that animation. Strategic filing targets the innovations competitors cannot avoid — data processing methods, system architectures, and workflows that define the product category.
 
-Hayat Amin reminds founders that investors do not read patent claims. They ask one question: "Can this be copied?" If your IP defensibility assessment scores below 5 out of 7, the honest answer is yes — and your term sheet reflects it.
+**US-only filing.** Cash-strapped startups file only in the US to save money. This fails criterion 4 and creates an immediate licensing gap. International filing under the Patent Cooperation Treaty costs $4K to $8K upfront and preserves the option to enter key markets for 30 months. Skipping it destroys long-term portfolio value.
 
-In Beyond Elevation's portfolio analysis of 127 tech startups that raised Series A in 2025, companies that scored 6 or 7 on the IP Defensibility Test achieved median pre-money valuations 2.3x higher than companies scoring 4 or below. The correlation held across AI, SaaS, and deep-tech verticals.
+**Narrow claims.** Patent attorneys who draft without strategic input write claims that describe exactly how the current product works. These narrow claims fail criterion 2 — a slight change in implementation avoids infringement entirely. Strategic claim drafting covers the functional outcome, not just the current method.
 
-The mechanism is straightforward: defensible IP reduces investor risk. Lower risk means higher present value of future cash flows. Higher present value means a bigger check at a better price. That is the math behind every [patent strategy for seed and Series A fundraising](https://beyondelevation.com/blog/post.html?slug=patent-strategy-seed-series-a-fundraising) conversation.
+**No revenue connection.** The most common failure. Founders file patents and never revisit them. Within two years the patent claims no longer map to the revenue-generating features of the product. The portfolio looks large on paper and scores zero on criterion 7.
 
-## Why Can't Your Patent Attorney Run an IP Defensibility Assessment?
+## How Do Investors Use the IP Defensibility Assessment?
 
-Your patent attorney cannot run a proper IP defensibility assessment because attorneys are trained to file and prosecute claims — not to stress-test them against commercial reality. An attorney tells you whether your patent is valid. A strategist tells you whether it protects the revenue your business actually generates.
+Investors use IP defensibility as a pricing input at every stage from seed to exit. Companies with patents are 10.2x more likely to secure early-stage funding — but that stat applies to strategically defensible patents, not to patents filed without direction.
 
-Hayat Amin calls this the "patent attorney trap": paying $30K per patent to file claims so narrow that no competitor will ever need to work around them. The attorney's incentive is to get the patent granted. The founder's incentive is to make the patent commercially valuable. These are not the same goal.
+During due diligence, sophisticated investors run their own version of a defensibility assessment. They evaluate claim breadth, check for design-around risk, verify geographic coverage, and test revenue linkage. Founders who have already scored their own portfolio have a significant advantage — they can pre-empt investor concerns and frame the portfolio as a managed strategic asset rather than an afterthought.
 
-An IP moat assessment requires skills most patent attorneys do not have: competitive intelligence, licensing market knowledge, design-around engineering analysis, and investor-facing valuation models. The IP defensibility assessment is a commercial exercise, not a legal one. For a deeper look at why this distinction matters, read the [full comparison of patent attorneys versus patent strategists](https://beyondelevation.com/blog/post.html?slug=patent-attorney-vs-patent-strategist).
+Hayat Amin reminds founders that investors do not buy ideas — they buy reasons an idea cannot be copied. "A patent is the cheapest proof of defensibility you can hand an investor. But only if the claims cover something a competitor needs. The 7-Point Test is how you know the difference before the investor tells you."
 
-This is why the most sophisticated founders separate the filing function from the strategy function. The attorney handles claims. The strategist stress-tests whether those claims actually protect the business.
+In M&A, the IP defensibility assessment directly affects the acquisition premium. Portfolios scoring 5 or above on the 7-Point Test consistently command 2 to 4x higher multiples than portfolios scoring below 3. The assessment turns subjective IP value claims into an objective score acquirers can underwrite.
 
-## How Does Beyond Elevation Run an IP Moat Assessment?
+## How Does Beyond Elevation Run the IP Defensibility Assessment?
 
-Beyond Elevation's IP defensibility assessment begins with a full portfolio intake — every patent, pending application, trade secret, and proprietary dataset mapped against the company's revenue model. The goal is not to count patents. It is to measure how much of the business is actually protected.
+[Beyond Elevation](https://beyondelevation.com) runs the 7-Point IP Defensibility Test as a structured engagement that produces a scored portfolio with a clear remediation roadmap. The process follows four phases.
 
-The process takes 10-15 business days and produces three deliverables: a scored 7-Point Test result, a gap analysis identifying unprotected revenue streams, and a 90-day IP filing roadmap prioritised by commercial impact.
+**Phase 1 — Portfolio mapping.** Every patent, pending application, trade secret, and documented know-how asset is catalogued and mapped to the technology stack and product roadmap.
 
-Hayat Amin designed this process after restructuring Position Imaging's 66-patent portfolio — a project that revealed how even large portfolios can have critical defensive gaps. The Position Imaging engagement proved that patent count is irrelevant. What matters is claim coverage against actual and projected revenue.
+**Phase 2 — Claim-level analysis.** Each patent's claims are evaluated against the 7 criteria. Claim charts map assertions to specific product features and competitor products. Design-around analysis estimates circumvention cost and timeline.
 
-The assessment also benchmarks your portfolio against competitors. Most founders are shocked to learn that their primary competitor has filed 2-3x more patents in the last 12 months. That competitive intelligence alone changes filing priorities.
+**Phase 3 — Commercial gap analysis.** The assessment identifies where the portfolio has gaps: revenue-generating features that lack patent protection, geographic markets without coverage, and innovations competitors are pursuing without IP barriers.
 
-If your portfolio has never been stress-tested, you do not know what it is worth. And if you do not know what it is worth, neither does your next investor. Book an IP defensibility assessment at [beyondelevation.com](https://beyondelevation.com) and find out where you stand before your next fundraise.
+**Phase 4 — Scoring and remediation roadmap.** Each patent receives a 0-to-7 score. The portfolio receives an aggregate defensibility rating. The roadmap prioritises filings, continuations, and trade secret programmes that close the highest-value gaps first — so every dollar of IP spend moves the score upward.
+
+Hayat Amin proved this process on a client portfolio where the founders valued their patents at $2M. After the 7-Point assessment revealed a score of 2, Beyond Elevation redesigned the filing strategy, added cluster coverage on core revenue-generating technology, and extended geographic protection. Eighteen months later the portfolio scored 6 and was valued at $14M in a licensing negotiation. The founders closed at $11M — a 5.5x increase driven entirely by strategic defensibility improvements.
+
+That is what an [IP strategy](/blog/posts/ip-strategy-startups-guide/) looks like when the assessment comes first and the legal spend follows the score.
+
+## Run Your Own IP Defensibility Assessment
+
+Score your portfolio against the 7 criteria above. Be honest. If you score below 4, your IP spend is generating paperwork — not defensibility. The gap between your current score and a 5 is the gap between a portfolio that protects revenue and one that decorates a pitch deck.
+
+For the full Hayat Amin IP Defensibility 7-Point Test run by the team that built it, [book an IP defensibility assessment with Beyond Elevation](https://beyondelevation.com). The engagement delivers a scored portfolio, a prioritised remediation roadmap, and a clear dollar estimate of the value unlocked by closing each gap. Rated 4.5 stars on Trustpilot.
 
 ## FAQ
 
-### What is an IP defensibility assessment?
+### How long does an IP defensibility assessment take?
 
-An IP defensibility assessment is a structured evaluation of whether your patent portfolio actually protects your company's revenue and competitive position. Unlike a basic patent audit, it stress-tests claims against design-around scenarios, measures revenue coverage ratios, and scores overall portfolio strength using frameworks like the 7-Point IP Defensibility Test.
+A full IP defensibility assessment typically takes 2 to 4 weeks depending on portfolio size. Portfolios with fewer than 10 patents complete in 2 weeks. Larger portfolios with international filings and complex claim structures require 3 to 4 weeks for thorough claim-level analysis.
 
 ### How much does an IP defensibility assessment cost?
 
-A comprehensive IP defensibility assessment typically costs between $8,000 and $25,000 depending on portfolio size and complexity. At Beyond Elevation, the assessment includes a scored 7-Point Test, competitive benchmarking, and a 90-day filing roadmap. The ROI is measured against the valuation premium a defensible portfolio commands — typically 2-4x the cost of the assessment itself.
+Professional IP defensibility assessments range from $8K to $25K depending on portfolio complexity. The investment regularly pays for itself by eliminating $30K to $100K in unnecessary filings and identifying licensing opportunities that were previously invisible.
 
-### How often should a startup run an IP defensibility assessment?
+### Can I run an IP defensibility assessment on a single patent?
 
-Startups should run a full IP defensibility assessment at least once per year and before every major fundraising round, M&A conversation, or licensing negotiation. The competitive landscape shifts — competitors file new patents, your product evolves, and claim coverage ratios change. Annual reassessment ensures your IP audit framework stays aligned with your business.
+Yes. The 7-Point Test applies to single patents — a single patent can score 5 or above if the claims are broad, the technology is difficult to design around, and the patent maps to revenue. Single-patent assessments typically complete in one week at lower cost.
 
-### What is the difference between an IP audit and an IP defensibility assessment?
+### What is a good IP defensibility score?
 
-An IP audit catalogues what you own — patents, trademarks, trade secrets, copyrights. An IP defensibility assessment evaluates whether what you own actually protects your business. The audit answers "what do we have?" The defensibility assessment answers "does it work?" Most founders have had audits. Very few have had their portfolios stress-tested against the 7-Point IP Defensibility Test.
+A score of 5 out of 7 or above indicates an investor-ready portfolio with genuine commercial defensibility. Scores of 3 to 4 indicate moderate defensibility with fixable gaps. Below 3 means the portfolio needs significant strategic redesign before it can be presented to investors or licensing counterparties.
 
-### Can a patent attorney do an IP defensibility assessment?
+### Should I run an IP defensibility assessment before fundraising?
 
-Patent attorneys can evaluate claim validity and prosecution quality, but a full IP defensibility assessment requires commercial strategy skills — competitive analysis, design-around engineering, licensing market knowledge, and investor-facing valuation models — that fall outside typical patent attorney training. The most effective approach combines legal review with strategic assessment from an IP strategist.
+Always. Running the assessment before fundraising gives you time to remediate gaps and present investors with a scored portfolio that demonstrates strategic IP management. Investors who see a 7-Point Test score above 5 price the company differently than investors who see an unaudited patent list.
