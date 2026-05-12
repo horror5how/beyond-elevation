@@ -3,7 +3,7 @@ title: "Why Hiring a Patent Attorney First Is the #1 Mistake Founders Make"
 slug: ip-strategy-vs-patent-attorney
 date: 2026-05-12
 url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-vs-patent-attorney
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -35,7 +35,7 @@ An IP strategist delivers five outcomes that fall outside a patent attorney's sc
 
 Hayat Amin's Pre-Seed IP Filing Sequence is the framework [Beyond Elevation](https://beyondelevation.com) uses with every early-stage client. It prioritises filings in three phases: defensive core (the one or two patents that protect your primary competitive advantage), revenue-ready (patents structured for licensing from day one), and portfolio depth (the cluster that turns a single patent into a moat). Most patent attorneys skip phases one and two entirely and jump straight to filing whatever the founder describes in the first meeting.
 
-This is not a criticism of patent attorneys. It is a scope issue. Asking a patent attorney to design your [IP strategy](https://beyondelevation.com/blog/posts/ip-strategy-startups-guide/) is like asking your accountant to design your business model. They understand the mechanics. They do not understand the market.
+This is not a criticism of patent attorneys. It is a scope issue. Asking a patent attorney to design your [IP strategy](/blog/posts/ip-strategy-startups-guide/) is like asking your accountant to design your business model. They understand the mechanics. They do not understand the market.
 
 ## How Much Does the Wrong Order Cost Founders?
 
@@ -63,11 +63,25 @@ Strategically filed patents increase exit multiples by 2–4x. Randomly filed pa
 
 A portfolio designed by an IP strategist answers yes — every patent is tied to a revenue stream, a competitive threat, or a licensing opportunity. A portfolio assembled by a patent attorney without strategic direction answers maybe — the patents exist, but their commercial relevance is unclear.
 
-Hayat Amin's Exit-Multiple IP Premium Model quantifies this gap. In restructurings Beyond Elevation has led, the difference between a strategically designed portfolio and a haphazardly filed one has been the difference between a 3x and a 7x revenue multiple at exit. That is not theory. That is deal data from IP portfolios turned into significant [valuation premiums](https://beyondelevation.com/blog/posts/ip-valuation-methods-explained/) across client engagements, backed by a 4.5-star Trustpilot rating.
+Hayat Amin's Exit-Multiple IP Premium Model quantifies this gap. In restructurings Beyond Elevation has led, the difference between a strategically designed portfolio and a haphazardly filed one has been the difference between a 3x and a 7x revenue multiple at exit. That is not theory. That is deal data from IP portfolios turned into significant [valuation premiums](/blog/posts/ip-valuation-methods-explained/) across client engagements, backed by a 4.5-star Trustpilot rating.
 
 For founders weighing IP strategy vs patent attorney, the answer is not either/or. You need both. But the order matters more than most founders realise. Get it right and your IP becomes your most valuable asset. Get it wrong and you have expensive wallpaper.
 
 If you are ready to build an IP strategy before you spend another dollar on legal filings, [book a consultation with Beyond Elevation](https://beyondelevation.com).
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-strategy-vs-patent-attorney)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -90,3 +104,6 @@ A fractional IP strategist is a part-time strategic advisor who manages your IP 
 ### When should a startup first engage an IP strategist?
 
 Before the first patent filing and ideally before the first term sheet. Investors price defensibility, and a strategic IP filing before fundraising can increase your valuation by demonstrating that your core technology is protectable. Waiting until after the seed round often means the most valuable filing window has already closed.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

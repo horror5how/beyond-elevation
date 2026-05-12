@@ -1213,3 +1213,19 @@ Patent royalty rates in 2026 typically range from 3% to 15%+ of net sales, depen
 These rates are not arbitrary. They reflect decades of licensing precedent, court-determined reasonable royalties, an
 
 ---
+
+## Why Hiring a Patent Attorney First Is the #1 Mistake Founders Make
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-strategy-vs-patent-attorney
+
+73% of tech founders hire a patent attorney before they have an IP strategy. That is like hiring a contractor before you have blueprints — you will build something, but it will not be what you actually need.
+
+The difference between IP strategy vs patent attorney is not semantic. It is the difference between spending $15K on the right patent and spending $90K on five patents that protect nothing your competitors care about. Hayat Amin, the IP strategist behind [Beyond Elevation](https://beyondelevation.com), argues this is the single most expensive sequencing mistake founders make: "Patent attorneys are incentivised to file. IP strategists are incentivised to make sure you file the right thing at the right time."
+
+## What Is the Difference Between IP Strategy and a Patent Attorney?
+
+An IP strategist designs which intellectual property to protect, in what order, and why — aligned to your business model, competitive landscape, and fundraising timeline. A patent attorney drafts and files the legal claims. The difference between IP strategy vs patent attorney is the difference between architecture and construction: you need both, but one must come first.
+
+Patent attorneys are legal practitioners. They prosecute patent applications, respond to office actions, and manage the procedural requirements of patent offices worldwide. They are excellent at the mechanics of filing. But most patent attorneys do not evaluate whether a particular patent will generate licensing revenue, increase
+
+---
