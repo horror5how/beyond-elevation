@@ -1,10 +1,3 @@
-2026-05-08 14:50 | urn:li:share:7458528656638881792 | post #4 | data-asset-ma-valuation-positioning | Your dataset is booked as an expense.  Investment banks now assign multi-million
-2026-05-08 17:51 | urn:li:share:7458574269774524417 | Most founders store patents in their trading company. That is a permanent tax le
-2026-05-08 18:04 | urn:li:share:7458577471978827778 | post #5 | patent-portfolio-exit-multiple-stack | Founders negotiate exit price on revenue. Acquirers price IP.  Structured patent
-2026-05-09 11:47 | urn:li:share:7458845089021419520 | The 25% Rule. The 25% rule in valuing intellectual property says patent holders 
-2026-05-09 11:50 | urn:li:share:7458845785686851584 | post #1 | ip-backed-financing-non-dilutive-royalty | Founders default to equity. Acquirers and lenders now finance IP directly.  Aon 
-2026-05-09 12:53 | urn:li:share:7458861608358834176 | Agentic AI is generating patentable outputs your competitors will own first.  $2
-2026-05-09 14:16 | urn:li:share:7458882610816139265 | post #2 | ai-patent-tooling-series-b-wave-2026 | $105M flowed into AI patent tooling in 90 days.  DeepIP closed $25M. Solve Intel
 2026-05-09 17:41 | urn:li:share:7458934074427113472 | post #3 | ai-licensing-recurring-revenue-line-founder-playbook | 3 ways to turn your content into a licensing line.  News Corp's Q1 earnings cite
 2026-05-09 17:53 | QUEUED | patent-royalty-rates-by-industry-2026 | Software patents earn 8–12% of net sales.  Most founders license theirs at 2%.
 2026-05-09 17:58 | urn:li:share:7458938458208841728 | Software patents earn 8–12% of net sales.  Most founders license theirs at 2%.
@@ -25,3 +18,4 @@
 2026-05-12 07:55 | QUEUED | patent-cluster-licensing-leverage-multiplier | A single patent earns 3% royalties on net sales.  Cluster 7 patents around the s
 2026-05-12 09:46 | urn:li:share:7459901701722959872 | post #6 | ustr-2026-special-301-ip-enforcement-map | USTR's 2026 Special 301 Report just dropped. Founders building globally — this i
 2026-05-12 12:53 | QUEUED | ip-deal-pipeline-exit-multiple-3-7x | Your IP licensing pipeline has a 3-7x acquisition multiple. You have no pipeline.
+2026-05-12 17:55 | QUEUED | ai-spend-2026-valuation-concentration | Gartner forecasts $2.52T in global AI spend in 2026. The valuation premium is not distributed evenly.
