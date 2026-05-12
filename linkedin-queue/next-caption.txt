@@ -1,19 +1,17 @@
-Your IP licensing pipeline has a 3-7x acquisition multiple. You have no pipeline.
+Gartner forecasts $2.52T in global AI spend in 2026.
 
-Acquirers don't price your last 12 months.
+The valuation premium is not distributed evenly.
 
-They price what your IP is contracted to generate over the next 3.
+Median late-stage AI multiple: 25.8x. Top quartile: 50x+. Bottom half: under 10x.
 
-Signed LOI = 3x that deal value on the table.
+The gap is not the model. Every startup accesses the same APIs.
 
-Signed multi-year agreement = 7x.
+The gap is proprietary data your competitor cannot replicate.
 
-Zero documented conversations = zero IP premium at close.
+Then documented IP that survives a Series B due diligence call.
 
-Most founders build a product. None build a licensing pipeline.
+Then workflow embedding that makes replacing you expensive.
 
-Closed a deal last quarter: £0 IP premium vs £4.2M on the exact same technology.
+Most founders are buying the spend. Almost none own the defensibility.
 
-Build the paper trail before the banker calls.
-
-#IPStrategy #MergersAndAcquisitions #ExitPlanning
+#AI #IPStrategy #Valuation
