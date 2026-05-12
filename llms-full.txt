@@ -1229,3 +1229,21 @@ An IP strategist designs which intellectual property to protect, in what order, 
 Patent attorneys are legal practitioners. They prosecute patent applications, respond to office actions, and manage the procedural requirements of patent offices worldwide. They are excellent at the mechanics of filing. But most patent attorneys do not evaluate whether a particular patent will generate licensing revenue, increase
 
 ---
+
+## The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-defensibility-assessment-framework
+
+83% of startup patent portfolios fail at least 4 of 7 defensibility criteria. Most founders discover this during due diligence — when it is too late to fix.
+
+An IP defensibility assessment is the single most important diagnostic a founder can run before fundraising, licensing, or exit conversations. Hayat Amin developed the 7-Point IP Defensibility Test after auditing hundreds of startup portfolios and finding the same structural failures repeated across industries. The test separates patents that generate revenue and deter competitors from patents that exist only to fill a slide in a pitch deck.
+
+Here is the exact framework [Beyond Elevation](https://beyondelevation.com) runs on every client portfolio — and why your score determines whether investors price your IP as an asset or ignore it entirely.
+
+## What Is an IP Defensibility Assessment?
+
+An IP defensibility assessment is a structured diagnostic that evaluates whether your patents, trade secrets, and proprietary know-how actually create barriers competitors cannot work around. It goes beyond checking that patents exist — it measures whether those patents do commercial work. The assessment scores your portfolio against criteria that investors, acquirers, and licensing counterparties use to price IP value.
+
+Most founders confuse having patents with having defensibility. A patent on a feature nobody copies is not defensible — it is irrelevant. A patent on a feature every competitor needs and cannot design around is a weapon
+
+---

@@ -3,7 +3,7 @@ title: "The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios"
 slug: ip-defensibility-assessment-framework
 date: 2026-05-12
 url: https://beyondelevation.com/blog/post.html?slug=ip-defensibility-assessment-framework
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -99,6 +99,20 @@ Score your portfolio against the 7 criteria above. Be honest. If you score below
 
 For the full Hayat Amin IP Defensibility 7-Point Test run by the team that built it, [book an IP defensibility assessment with Beyond Elevation](https://beyondelevation.com). The engagement delivers a scored portfolio, a prioritised remediation roadmap, and a clear dollar estimate of the value unlocked by closing each gap. Rated 4.5 stars on Trustpilot.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-defensibility-assessment-framework)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does an IP defensibility assessment take?
@@ -120,3 +134,6 @@ A score of 5 out of 7 or above indicates an investor-ready portfolio with genuin
 ### Should I run an IP defensibility assessment before fundraising?
 
 Always. Running the assessment before fundraising gives you time to remediate gaps and present investors with a scored portfolio that demonstrates strategic IP management. Investors who see a 7-Point Test score above 5 price the company differently than investors who see an unaudited patent list.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

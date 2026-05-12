@@ -112,5 +112,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The Founder's IP Monetization Playbook: 5 Plays Ranked by Speed to Revenue](https://beyondelevation.com/blog/post.html?slug=founder-ip-monetization-playbook) — /blog/md/founder-ip-monetization-playbook.md
 - [Patent Royalty Rates in 2026: The Industry-by-Industry Breakdown That Shows Most Founders Price 3x Too Low](https://beyondelevation.com/blog/post.html?slug=patent-royalty-rates-by-industry-2026) — /blog/md/patent-royalty-rates-by-industry-2026.md
 - [Why Hiring a Patent Attorney First Is the #1 Mistake Founders Make](https://beyondelevation.com/blog/post.html?slug=ip-strategy-vs-patent-attorney) — /blog/md/ip-strategy-vs-patent-attorney.md
+- [The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios](https://beyondelevation.com/blog/post.html?slug=ip-defensibility-assessment-framework) — /blog/md/ip-defensibility-assessment-framework.md
 
 > Full blog content available at /llms-full.txt
