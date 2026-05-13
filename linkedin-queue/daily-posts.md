@@ -3,7 +3,7 @@ date: 2026-05-13
 theme: Patent law just got its venture capital moment — three Series B rounds (Solve Intelligence, Patlytics, DeepIP) closed $105M combined in weeks, AstraZeneca repriced agentic AI as a royalty stream, Hollywood set the consent floor for training data, and Adeia's quiet Google renewal proves the $400M/yr licensing engine works at scale.
 generated_at: 2026-05-13T04:00:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -52,7 +52,9 @@ The lawyer line item just became a software line item. Plan IP infra like you pl
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-13T13:10:13.165Z
+share_urn: urn:li:share:7460315465358385153
 hook_format: prediction
 cta_goal: clicks
 slug: patlytics-40m-fto-search-collapse

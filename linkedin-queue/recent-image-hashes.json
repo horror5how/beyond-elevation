@@ -1,12 +1,5 @@
 [
   {
-    "hash": "02ffffffff0c84a5",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "getty-perplexity-licensing-data-infra-reprice",
-    "ts": "2026-05-11T10:41:23.756Z"
-  },
-  {
     "hash": "42ffffffffff00a1",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "solve-intelligence-40m-series-b-patent-claims",
     "ts": "2026-05-13T11:31:38.809Z"
+  },
+  {
+    "hash": "40d3ffffc3c3ff00",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "patlytics-40m-fto-search-collapse",
+    "ts": "2026-05-13T13:10:13.165Z"
   }
 ]
