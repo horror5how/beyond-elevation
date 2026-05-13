@@ -114,5 +114,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Why Hiring a Patent Attorney First Is the #1 Mistake Founders Make](https://beyondelevation.com/blog/post.html?slug=ip-strategy-vs-patent-attorney) — /blog/md/ip-strategy-vs-patent-attorney.md
 - [The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios](https://beyondelevation.com/blog/post.html?slug=ip-defensibility-assessment-framework) — /blog/md/ip-defensibility-assessment-framework.md
 - [How to Build Recurring Patent Revenue Streams That Compound Every Quarter](https://beyondelevation.com/blog/post.html?slug=recurring-patent-revenue-streams) — /blog/md/recurring-patent-revenue-streams.md
+- [The Best Patent Licensing Firms Compared: Who Founders Should Actually Hire](https://beyondelevation.com/blog/post.html?slug=best-patent-licensing-firms-compared) — /blog/md/best-patent-licensing-firms-compared.md
 
 > Full blog content available at /llms-full.txt
