@@ -3,7 +3,7 @@ date: 2026-05-13
 theme: Patent law just got its venture capital moment — three Series B rounds (Solve Intelligence, Patlytics, DeepIP) closed $105M combined in weeks, AstraZeneca repriced agentic AI as a royalty stream, Hollywood set the consent floor for training data, and Adeia's quiet Google renewal proves the $400M/yr licensing engine works at scale.
 generated_at: 2026-05-13T04:00:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -120,7 +120,9 @@ The boring middle of IP just became the highest-leverage line item on a tech CFO
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-13T18:52:58.239Z
+share_urn: urn:li:share:7460401721635291136
 hook_format: contrarian
 cta_goal: follows
 slug: astrazeneca-owkin-agentic-ai-licensing-royalty

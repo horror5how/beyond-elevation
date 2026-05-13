@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0046e7ffc3e7ff9b",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "uspto-2026-ai-patent-claim-recalibration",
-    "ts": "2026-05-11T13:47:14.357Z"
-  },
-  {
     "hash": "007effffffff2400",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "deepip-25m-patent-lifecycle-compression",
     "ts": "2026-05-13T15:47:26.004Z"
+  },
+  {
+    "hash": "c1c3e7ffc3c3ff90",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "astrazeneca-owkin-agentic-ai-licensing-royalty",
+    "ts": "2026-05-13T18:52:58.239Z"
   }
 ]
