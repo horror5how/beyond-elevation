@@ -117,5 +117,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How to Build Recurring Patent Revenue Streams That Compound Every Quarter](https://beyondelevation.com/blog/post.html?slug=recurring-patent-revenue-streams) — /blog/md/recurring-patent-revenue-streams.md
 - [The Best Patent Licensing Firms Compared: Who Founders Should Actually Hire](https://beyondelevation.com/blog/post.html?slug=best-patent-licensing-firms-compared) — /blog/md/best-patent-licensing-firms-compared.md
 - [What Patent Monetization Consultants Actually Do (And What You Should Pay Them)](https://beyondelevation.com/blog/post.html?slug=patent-monetization-consulting-guide) — /blog/md/patent-monetization-consulting-guide.md
+- [Your Patents Can Fund Your Next Round Without Dilution — The IP-Backed Financing Playbook](https://beyondelevation.com/blog/post.html?slug=ip-backed-financing-patents-as-collateral) — /blog/md/ip-backed-financing-patents-as-collateral.md
 
 > Full blog content available at /llms-full.txt
