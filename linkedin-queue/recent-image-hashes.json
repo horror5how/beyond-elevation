@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0081e7ffe7c3ff99",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "meta-newscorp-ai-licensing-arr-line",
-    "ts": "2026-05-10T17:42:04.742Z"
-  },
-  {
     "hash": "02ffffffff0c84a5",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ustr-2026-special-301-ip-enforcement-map",
     "ts": "2026-05-12T09:46:04.252Z"
+  },
+  {
+    "hash": "40c3e7ffc3e7ff99",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "solve-intelligence-40m-series-b-patent-claims",
+    "ts": "2026-05-13T11:31:38.809Z"
   }
 ]
