@@ -129,3 +129,4 @@ top-5-fractional-cfos-tech-startups-2026-05-13
 solve-intelligence-40m-series-b-patent-claims
 licensing-revenue-multiple-premium-8x
 patlytics-40m-fto-search-collapse
+deepip-25m-patent-lifecycle-compression

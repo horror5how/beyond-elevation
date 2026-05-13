@@ -250,3 +250,6 @@ Post 2: hook_too_long(13w)
 2026-05-13 06:41 | li-generate-queue | ABORT after 3 attempts — API unreachable
 2026-05-13 11:31 | li-auto-post | render OK | post #1 | layout=b accent=#a89968 hash=40c3e7ffc3e7ff99 minDist=5 attempts=1
 2026-05-13 13:10 | li-auto-post | render OK | post #2 | layout=b accent=#a87c7c hash=40d3ffffc3c3ff00 minDist=9 attempts=1
+2026-05-13 15:47 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=1 < 5) | trying different variant
+2026-05-13 15:47 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=4 < 5) | trying different variant
+2026-05-13 15:47 | li-auto-post | render OK | post #3 | layout=c accent=#a89968 hash=7ef930310ff5ffff minDist=10 attempts=3

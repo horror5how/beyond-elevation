@@ -24,3 +24,4 @@
 2026-05-13 11:31 | urn:li:share:7460290658960883713 | post #1 | solve-intelligence-40m-series-b-patent-claims | $40M just hit a 12-person startup writing patent claims.  Solve Intelligence (YC
 2026-05-13 13:02 | urn:li:share:7460313478311026688 | Licensing revenue trades at 8–12x ARR.  Product revenue trades at 4–6x.  Sam
 2026-05-13 13:10 | urn:li:share:7460315465358385153 | post #2 | patlytics-40m-fto-search-collapse | Patent search is about to be 1000x cheaper than your lawyer.  Patlytics just rai
+2026-05-13 15:47 | urn:li:share:7460355029254905856 | post #3 | deepip-25m-patent-lifecycle-compression | DeepIP just closed $25M Series B to compress the 3 stages where 80% of corporate

@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42ffffffffff00a1",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "magnificent-seven-patent-liability-stack",
-    "ts": "2026-05-11T12:12:45.449Z"
-  },
-  {
     "hash": "0046e7ffc3e7ff9b",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "patlytics-40m-fto-search-collapse",
     "ts": "2026-05-13T13:10:13.165Z"
+  },
+  {
+    "hash": "7ef930310ff5ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "deepip-25m-patent-lifecycle-compression",
+    "ts": "2026-05-13T15:47:26.004Z"
   }
 ]
