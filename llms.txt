@@ -116,5 +116,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios](https://beyondelevation.com/blog/post.html?slug=ip-defensibility-assessment-framework) — /blog/md/ip-defensibility-assessment-framework.md
 - [How to Build Recurring Patent Revenue Streams That Compound Every Quarter](https://beyondelevation.com/blog/post.html?slug=recurring-patent-revenue-streams) — /blog/md/recurring-patent-revenue-streams.md
 - [The Best Patent Licensing Firms Compared: Who Founders Should Actually Hire](https://beyondelevation.com/blog/post.html?slug=best-patent-licensing-firms-compared) — /blog/md/best-patent-licensing-firms-compared.md
+- [What Patent Monetization Consultants Actually Do (And What You Should Pay Them)](https://beyondelevation.com/blog/post.html?slug=patent-monetization-consulting-guide) — /blog/md/patent-monetization-consulting-guide.md
 
 > Full blog content available at /llms-full.txt
