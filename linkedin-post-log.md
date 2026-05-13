@@ -22,3 +22,4 @@
 2026-05-13 07:50 | QUEUED | ip-data-room-valuation-gap | Your data room shows 12 patents. Acquirers see 12 costs. That gap cost one found
 2026-05-13 07:53 | urn:li:share:7460235790007173121 | Your data room shows 12 patents. Acquirers see 12 costs. That gap cost one found
 2026-05-13 11:31 | urn:li:share:7460290658960883713 | post #1 | solve-intelligence-40m-series-b-patent-claims | $40M just hit a 12-person startup writing patent claims.  Solve Intelligence (YC
+2026-05-13 13:02 | urn:li:share:7460313478311026688 | Licensing revenue trades at 8–12x ARR.  Product revenue trades at 4–6x.  Sam
