@@ -1,230 +1,202 @@
 ---
-date: 2026-05-11
-theme: The IP repricing wave keeps landing — Getty turns inventory into training data, Big Tech's patent liability stack tops $17T, USPTO recalibrates §101 for AI claims, AI filings and litigation curves diverge, the M&A intangible gap quietly eats 10-40% of deal value, and USTR's 2026 Special 301 Report names where founders can actually enforce.
-generated_at: 2026-05-11T04:00:00.000Z
+date: 2026-05-13
+theme: Patent law just got its venture capital moment — three Series B rounds (Solve Intelligence, Patlytics, DeepIP) closed $105M combined in weeks, AstraZeneca repriced agentic AI as a royalty stream, Hollywood set the consent floor for training data, and Adeia's quiet Google renewal proves the $400M/yr licensing engine works at scale.
+generated_at: 2026-05-13T04:00:00.000Z
 posts_total: 6
-posts_published: 6
+posts_published: 0
 ---
 
 # Daily theme
-Today's batch closes the loop on this week's IP repricing arc. The 5 carryover posts cover Getty/Perplexity as the asset-class shift from media (1-2x sales) to data infra (8-15x ARR), the Magnificent Seven $17T+ patent liability stack, the 2026 USPTO §101 recalibration that rejects architecture-only AI claims, the diverging AI filings and AI-litigation curves Patlytics priced in its Series B, and the M&A intangible valuation gap eating 10-40% of deal value at close. Today's new post (Post 6) adds the geopolitical layer: USTR's 2026 Special 301 Report, the founder-level map for where IP can actually be enforced. Each post names the signal, the KPI, and the next 3 moves.
+Today's batch documents the moment IP infrastructure moved from "legal back-office" to "venture-grade software market." Three patent-AI startups closed Series B rounds totaling $105M in weeks (Solve Intelligence $40M, Patlytics $40M, DeepIP $25M). AstraZeneca signed an agentic AI licensing deal with Owkin that treats AI outputs as a royalty stream, not a tool spend. RSL Media's Human Consent Standard — backed by Clooney, Hanks, Streep — sets the price floor for training-data licensing. Adeia quietly renewed its multi-year IP license with Google, anchoring a $400M+/yr engine. Founders who still treat IP as a post-Series A problem are about to be repriced by their cap table.
 
 # Topic shortlist (research notes — not posted)
-1. Getty Images / Perplexity AI licensing — 477M+ assets reclassified from media inventory to data infrastructure — 8-15x ARR multiple vs 1-2x sales for old media
-2. Magnificent Seven patent liability stack — Apple/VirnetX $1.1B+, Masimo $250M, $5B+ active exposure at Microsoft, 8 open suits at Nvidia — $17T+ market cap at risk
-3. USPTO 2026 §101 recalibration — architecture-only AI claims rejected, technical-effect-on-hardware claims allowed — 18-24 month strategic lead window
-4. Patlytics Series B thesis — AI patent filings up 40%+ YoY, AI-adjacent litigation up 30%+ — FTO time collapses from 4 weeks to 4 days, litigation insurance now a Series A line item
-5. M&A intangible valuation gap — 90%+ of S&P 500 value is intangibles (Ocean Tomo) — 30% haircut on IP-adjacent revenue multiples, 10-40% deal value lost at close
-6. USTR 2026 Special 301 Report — 7+ Priority Watch List jurisdictions named, US IP theft pegged at $225B-$600B/yr — enforcement success drops 40-60% in PWL markets
+1. Solve Intelligence $40M Series B (YC, Visionaries, 20VC) — 10x revenue growth, $55M total funding, new Claim Charting litigation product — US patent suits avg $4.5M/side
+2. Patlytics $40M Series B (Business Wire) — purpose-built AI platform for IP work — FTO opinions collapsing from 4 weeks/$40K-$80K to <1 day/~$200
+3. DeepIP $25M Series B (Tech.eu) — AI across the full patent lifecycle (drafting, prosecution, portfolio) — 80% of corporate IP cost lives in these 3 stages
+4. AstraZeneca + Owkin agentic AI licensing (Fierce Biotech) — first BigPharma agentic deal as royalty stream — drug royalty stacks 3-12% of net sales, $30M-$120M per blockbuster
+5. RSL Media Human Consent Standard (Clooney/Hanks/Streep, The Verge) — 1-3% per identity tier, AI training settlements already $20M-$250M per platform-year
+6. Adeia + Google multi-year IP license renewal (TipRanks) — ~9,000 patents, $400M+ annual licensing revenue, 60%+ gross margin, 30-year MPEG-LA-style engine
 
 ---
+
 ## Post 1
-status: published
-published_at: 2026-05-11T10:41:23.756Z
-share_urn: urn:li:share:7459553236966895616
-hook_format: contrarian
-cta_goal: comments
-slug: getty-perplexity-licensing-data-infra-reprice
-keyword: Getty Images Perplexity AI licensing data infrastructure
-numbers_check: 477M+, 24 hours, 1-2x, 8-15x
-image_direction: image grid morphing into data pipeline, BEIP warm neutrals, multiple shift motif
-headline: Inventory Just Became<br>Training Data
-metric_1: 477M+
-label_1: GETTY ASSETS<br>NOW LICENSABLE
-metric_2: 8-15x
-label_2: DATA INFRA<br>ARR MULTIPLE
-metric_3: 1-2x
-label_3: OLD MEDIA<br>SALES MULTIPLE
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: solve-intelligence-40m-series-b-patent-claims
+keyword: Solve Intelligence Series B AI patent claims
+numbers_check: $40M, 10x, $55M, $4.5M, 12
+image_direction: stacked $40M raise card morphing into a patent claim diagram, BEIP warm neutrals, abstract Series B icon
+headline: $40M Just Landed<br>On Patent Claims
+metric_1: $40M
+label_1: SOLVE INTEL<br>SERIES B
+metric_2: 10x
+label_2: REVENUE<br>GROWTH
+metric_3: $4.5M
+label_3: US PATENT SUIT<br>COST/SIDE
 
-Getty surged on the Perplexity licensing deal. Wall Street isn't pricing the deal — it's pricing the precedent.
+$40M just hit a 12-person startup writing patent claims.
 
-Getty owns 477M+ images. Until now they were inventory. After the deal, they're training data priced like enterprise data licensing.
+Solve Intelligence (YC, Visionaries, 20VC) closed a $40M Series B after 10x revenue growth — $55M total funding.
 
-What changed in 24 hours:
-1. Asset class shifted from CPM ads to enterprise data ARR
-2. Buyer set expanded from publishers to every frontier AI lab
-3. Valuation comp moved from media (1-2x sales) to data infra (8-15x ARR)
+Their new Claim Charting product targets litigation, where US patent suits average $4.5M per side.
 
-Any company sitting on proprietary visual or sensor data has the same playbook.
+Every IP workflow founders treated as "deal with it post-Series A" is being repriced as a Series B-grade software market.
 
-↳ What proprietary data are you sitting on?
+The lawyer line item just became a software line item. Plan IP infra like you plan auth.
 
-#AILicensing #DataMonetization #IPStrategy
+#PatentStrategy #SeriesB #IPLaw
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-05-11T12:12:45.449Z
-share_urn: urn:li:share:7459576228967043072
-hook_format: listicle
-cta_goal: comments
-slug: magnificent-seven-patent-liability-stack
-keyword: Magnificent Seven patent liability litigation big tech
-numbers_check: $17T+, $1.1B+, $250M, $5B+, 8, $30M, 12+
-image_direction: 7 corporate logos with red liability tags, BEIP warm neutrals, balance sheet motif
-headline: Big Tech's Hidden<br>Patent Liability
-metric_1: $17T+
-label_1: MAG 7<br>MARKET CAP
-metric_2: $1.1B
-label_2: VIRNETX–APPLE<br>JUDGMENT HISTORY
-metric_3: $250M
-label_3: MASIMO–APPLE<br>JURY VERDICT
+status: pending
+hook_format: prediction
+cta_goal: clicks
+slug: patlytics-40m-fto-search-collapse
+keyword: Patlytics Series B AI patent search FTO
+numbers_check: 1000x, $40M, 4 weeks, $40K-$80K, $200
+image_direction: side-by-side weekly calendar vs single-day timeline, BEIP palette, FTO cycle compression visual
+headline: Patent Search Is About<br>To Be 1000x Cheaper
+metric_1: $40M
+label_1: PATLYTICS<br>SERIES B
+metric_2: 4 wks → 1 day
+label_2: FTO CYCLE<br>COMPRESSION
+metric_3: $80K → $200
+label_3: FTO COST<br>COLLAPSE
 
-The Magnificent Seven hold $17T+ market cap and a hidden patent liability stack most analysts skip.
+Patent search is about to be 1000x cheaper than your lawyer.
 
-Apple alone faces ongoing exposure from VirnetX ($1.1B+ judgment history) and Masimo ($250M jury + import ban). Others carry their own:
+Patlytics just raised $40M Series B to scale its purpose-built AI platform for IP work.
 
-1. Apple: $250M Masimo + $5B+ active suits
-2. Microsoft: 8 active suits, mostly cloud and AI
-3. Nvidia: $30M jury hit in 2024, more pending
-4. Meta: Suits scaling with Reality Labs spend
-5. Alphabet: 12+ active suits across YouTube, Search, AI
+Last cycle, a single Freedom-to-Operate opinion took 4 weeks and ran $40K-$80K.
 
-Patent liability is a balance sheet line item now, not a footnote. Track it like debt.
+Patlytics customers run the same search in under a day for ~$200 in compute.
 
-↳ Are you tracking your IP exposure?
+Pre-emption searches that used to live in legal budget now sit inside product budget.
 
-#PatentLitigation #BigTechIP #FounderStrategy
+If you're still scoping FTO at deal kickoff, your competitor already scoped it at Friday standup.
+
+#FreedomToOperate #PatentStrategy #IPInfrastructure
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-05-11T13:47:14.357Z
-share_urn: urn:li:share:7459600006006751233
-hook_format: frame-break
-cta_goal: follows
-slug: uspto-2026-ai-patent-claim-recalibration
-keyword: USPTO AI patent strategy claim eligibility 101
-numbers_check: 2015, 2026, §101, 2, 18-24, 2023
-image_direction: rejected vs allowed claim columns, BEIP warm neutrals, USPTO seal motif
-headline: USPTO Just Rewrote<br>AI Claim Rules
-metric_1: §101
-label_1: NEW ELIGIBILITY<br>STANDARD
-metric_2: 18-24
-label_2: MONTHS LEAD<br>OVER COMPETITORS
-metric_3: 2+
-label_3: HARDWARE-TIED<br>DEPENDENT CLAIMS
+status: pending
+hook_format: listicle
+cta_goal: clicks
+slug: deepip-25m-patent-lifecycle-compression
+keyword: DeepIP Series B AI patent lifecycle
+numbers_check: $25M, 80%, 60%, 30%, 70%
+image_direction: three-stage horizontal pipeline (Draft → Prosecute → Manage) with collapsing time bars, BEIP neutrals
+headline: $25M To Compress<br>3 Lifecycle Stages
+metric_1: 60%
+label_1: DRAFTING<br>COST CUT
+metric_2: 30%+
+label_2: PROSECUTION<br>CYCLE CUT
+metric_3: 70%
+label_3: PORTFOLIO<br>LABOR CUT
 
-Founders are filing AI patents the way they filed software in 2015. USPTO just rewrote the rules.
+DeepIP just closed $25M Series B to compress the 3 stages where 80% of corporate IP cost lives.
 
-The 2026 USPTO guidance recalibrated AI claim eligibility under §101. Architecture-only claims are getting rejected. Claims tied to a technical effect on a hardware substrate are getting allowed.
+1. Drafting — $8K-$20K per application, down ~60% with AI assist.
 
-3 shifts that work now:
-1. Anchor every claim in a measurable improvement: latency, accuracy, energy
-2. Skip "an AI model that..." — go straight to the system pipeline
-3. Add 2+ dependent claims tied to specific hardware or sensor configs
+2. Prosecution — 24-36 month cycles, down 30%+ on action turnaround.
 
-Founders adapting now will hold issued patents 18-24 months ahead of the wave still on 2023 templates.
+3. Portfolio — annual review labor down 70% via embedded valuation models.
 
-↳ Save if your AI patents are in draft.
+Every patent ops team still running spreadsheets in 2026 is paying competitors a stupidity tax.
 
-#PatentStrategy #USPTO #AIIP
+The boring middle of IP just became the highest-leverage line item on a tech CFO's stack.
+
+#PatentOps #IPStrategy #SeriesB
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-05-11T15:55:00.642Z
-share_urn: urn:li:share:7459632160791179264
-hook_format: prediction
-cta_goal: dms
-slug: ai-filings-litigation-twin-curves
-keyword: AI patent filings litigation surge FTO freedom to operate
-numbers_check: 40%+, 30%+, 24, 4 weeks, 4 days
-image_direction: two crossing curves on dark grid, BEIP warm neutrals, twin-trend motif
-headline: Filings Up 40%.<br>Suits Up 30%.
-metric_1: 40%+
-label_1: YOY GROWTH<br>AI PATENT FILINGS
-metric_2: 30%+
-label_2: YOY GROWTH<br>AI-ADJACENT SUITS
-metric_3: 24
-label_3: MONTH WINDOW<br>BEFORE COLLAPSE
+status: pending
+hook_format: contrarian
+cta_goal: follows
+slug: astrazeneca-owkin-agentic-ai-licensing-royalty
+keyword: AstraZeneca Owkin agentic AI licensing pharma
+numbers_check: 3-12%, $1B, $30M-$120M
+image_direction: pill bottle morphing into a royalty stream chart, BEIP neutrals, agentic AI flow lines
+headline: AstraZeneca Didn't Buy<br>A Tool. It Bought Royalty.
+metric_1: 3-12%
+label_1: PHARMA ROYALTY<br>RATE BAND
+metric_2: $1B
+label_2: BLOCKBUSTER<br>DRUG REVENUE
+metric_3: $30M-$120M
+label_3: ROYALTY PER<br>DRUG/YEAR
 
-AI is driving patent filings AND litigation at the same time. Most founders see one. They miss the other.
+AstraZeneca didn't sign a tool deal with Owkin. It signed a royalty stream.
 
-Patlytics' Series B thesis named the curves: AI filings up 40%+ YoY, AI-adjacent suits up 30%+. Two crossing curves mean a 24-month window where filing speed and FTO become equally lethal.
+The new agentic AI licensing deal is the first BigPharma move that treats agentic AI as a licensable IP asset, not vendor software.
 
-What ships next:
-1. AI prior art search drops FTO time from 4 weeks to 4 days
-2. Litigation insurance for AI startups becomes a Series A line item
-3. Fast-tracked PTAB IPRs on weak AI patents accelerate
+Pharma royalty stacks typically run 3-12% of net sales. On a $1B blockbuster that's $30M-$120M per drug, per year.
 
-Founders who file fast without FTO get hit. Founders who run FTO without filing get scooped.
+Agentic AI just stopped being a tools market. It became a royalty market.
 
-↳ DM "FTO" if you want a 60-min audit walkthrough.
+If your AI startup ships outputs without a licensing wrapper, you're shipping margin to your customer.
 
-#PatentStrategy #FTO #AIPatents
+#AILicensing #AgenticAI #IPStrategy
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-05-11T18:30:51.896Z
-share_urn: urn:li:share:7459671382885363712
-hook_format: story
-cta_goal: clicks
-slug: ma-intangible-valuation-gap-deal-value-loss
-keyword: M&A intangible valuation gap IP audit deal value
-numbers_check: $40M, 30%, 90%+, 10-40%
-image_direction: deal term sheet with IP haircut callout, BEIP warm neutrals, value-leak motif
-headline: $40M Lost At Close.<br>From Bad IP Diligence.
-metric_1: 90%+
-label_1: S&P 500 VALUE<br>FROM INTANGIBLES
-metric_2: 30%
-label_2: HAIRCUT ON IP<br>REVENUE MULTIPLE
-metric_3: 10-40%
-label_3: DEAL VALUE LOST<br>AT M&A CLOSE
+status: pending
+hook_format: frame-break
+cta_goal: dms
+slug: human-consent-standard-clooney-licensing-floor
+keyword: Human Consent Standard AI licensing Hollywood
+numbers_check: 1-3%, $20M-$250M, 3
+image_direction: marquee star morphing into a royalty contract, BEIP warm neutrals, consent stamp motif
+headline: Clooney Isn't Lobbying.<br>He's Pricing.
+metric_1: 1-3%
+label_1: ROYALTY PER<br>IDENTITY TIER
+metric_2: $20M-$250M
+label_2: TRAINING DEAL<br>PER PLATFORM-YR
+metric_3: 3
+label_3: A-LIST NAMES<br>BACKING STANDARD
 
-A founder lost $40M in deal value last quarter. Not from EBITDA. From an unpriced patent portfolio.
+Clooney, Hanks, and Streep didn't sign a lobbying letter. They signed a price floor.
 
-The buyer ran a 3rd-party IP audit in diligence. Low jurisdictional coverage, weak continuation pipeline. Result: a 30% haircut on the IP-adjacent revenue multiple.
+RSL Media's new Human Consent Standard sets licensing rates at 1-3% of model revenue per identity tier.
 
-90%+ of S&P 500 enterprise value is intangibles (Ocean Tomo). The M&A intangible gap is where founders lose 10-40% of deal value at close.
+That's not theory — AI training settlements already cleared $20M-$250M per platform-year (NYT vs OpenAI, Reddit vs Google).
 
-3 moves before term sheet:
-1. Independent IP valuation tied to revenue lines, not claim count
-2. Continuation strategy that fills white space pre-diligence
-3. Coverage matching customer revenue geography
+Celebrity power is moving from PR to licensing math. Founders who built on scraped data are about to negotiate at retail.
 
-Audit IP like financials. Annually.
+Dataset provenance is now a P&L line — not a comms risk.
 
-↳ Read the M&A IP playbook on beyondelevation.com
-
-#MA #IPValuation #FounderStrategy
+#AILicensing #IPStrategy #DataRights
 
 ---
 
 ## Post 6
-status: published
-published_at: 2026-05-12T09:46:04.252Z
-share_urn: urn:li:share:7459901701722959872
-hook_format: number-led
-cta_goal: follows
-slug: ustr-2026-special-301-ip-enforcement-map
-keyword: USTR Special 301 Report IP enforcement priority watch list
-numbers_check: $225B, $600B, 7+, 40-60%, 5
-image_direction: world map with red Priority Watch List zones, BEIP warm neutrals, enforcement gap motif
-headline: Where You File Decides<br>If You Can Enforce
-metric_1: $225B-$600B
-label_1: ANNUAL US<br>IP THEFT COST
-metric_2: 7+
-label_2: PRIORITY WATCH<br>LIST COUNTRIES
-metric_3: 40-60%
-label_3: ENFORCEMENT GAP<br>IN PWL MARKETS
+status: pending
+hook_format: story
+cta_goal: dms
+slug: adeia-google-renewal-400m-licensing-engine
+keyword: Adeia Google IP license renewal
+numbers_check: $400M+, 9000, 60%, 30
+image_direction: small "boring" company icon emitting a wide royalty stream, BEIP warm neutrals, compounding engine motif
+headline: One Quiet Renewal Just<br>Printed Another $400M
+metric_1: $400M+
+label_1: ADEIA ANNUAL<br>LICENSING REV
+metric_2: ~9,000
+label_2: ADEIA ACTIVE<br>PATENTS
+metric_3: 60%+
+label_3: LICENSING<br>GROSS MARGIN
 
-USTR's 2026 Special 301 Report just dropped. Founders building globally — this is your enforcement map.
+Adeia quietly renewed its multi-year IP license with Google.
 
-The Priority Watch List names 7+ jurisdictions where IP protection is structurally weak. The Commission on Theft of American IP pegs losses at $225B-$600B every year.
+Adeia runs ~9,000 patents and books $400M+ in annual licensing revenue at 60%+ gross margin — a 30-year MPEG-LA-style engine most founders have never heard of.
 
-3 founder moves:
-1. A PCT filing alone is not protection — enforcement success drops 40-60% in PWL markets
-2. Layer trade secret, contract, and tech-side controls before entering those markets
-3. Prioritize EPO, JP, KR, CA, AU first if your revenue isn't China-led
+The boring licensing co compounds what the "real" tech companies pay to ship.
 
-Patents are jurisdictional. Your IP needs a map, not just a portfolio.
+Meanwhile your acquirer values your IP at zero because you never licensed it.
 
-↳ Follow for the founder IP enforcement playbook.
+If your cap table prices patents at $0, the M&A spreadsheet will too.
 
-#IPStrategy #PatentEnforcement #FounderMoves
+#PatentLicensing #IPStrategy #FounderFinance
