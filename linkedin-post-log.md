@@ -19,3 +19,4 @@
 2026-05-12 09:46 | urn:li:share:7459901701722959872 | post #6 | ustr-2026-special-301-ip-enforcement-map | USTR's 2026 Special 301 Report just dropped. Founders building globally — this i
 2026-05-12 12:53 | QUEUED | ip-deal-pipeline-exit-multiple-3-7x | Your IP licensing pipeline has a 3-7x acquisition multiple. You have no pipeline.
 2026-05-12 17:55 | QUEUED | ai-spend-2026-valuation-concentration | Gartner forecasts $2.52T in global AI spend in 2026. The valuation premium is not distributed evenly.
+2026-05-13 07:50 | QUEUED | ip-data-room-valuation-gap | Your data room shows 12 patents. Acquirers see 12 costs. That gap cost one found

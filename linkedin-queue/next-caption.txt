@@ -1,17 +1,11 @@
-Gartner forecasts $2.52T in global AI spend in 2026.
+Your data room shows 12 patents. Acquirers see 12 costs. That gap cost one founder $6M last quarter.
 
-The valuation premium is not distributed evenly.
+IP section is the most underdeveloped slide in 73% of SME M&A data rooms.
 
-Median late-stage AI multiple: 25.8x. Top quartile: 50x+. Bottom half: under 10x.
+Buyers don't value what they can't quantify.
 
-The gap is not the model. Every startup accesses the same APIs.
+A documented licensing pipeline turns patents from liabilities into ARR. ARR gets a multiple.
 
-The gap is proprietary data your competitor cannot replicate.
+The founders who exit at 3–4x don't have better lawyers. They have documented IP revenue.
 
-Then documented IP that survives a Series B due diligence call.
-
-Then workflow embedding that makes replacing you expensive.
-
-Most founders are buying the spend. Almost none own the defensibility.
-
-#AI #IPStrategy #Valuation
+#IPStrategy #MergersAndAcquisitions #ExitMultiple
