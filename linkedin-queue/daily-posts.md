@@ -1,157 +1,25 @@
 ---
-date: 2026-05-13
-theme: Patent law just got its venture capital moment — three Series B rounds (Solve Intelligence, Patlytics, DeepIP) closed $105M combined in weeks, AstraZeneca repriced agentic AI as a royalty stream, Hollywood set the consent floor for training data, and Adeia's quiet Google renewal proves the $400M/yr licensing engine works at scale.
-generated_at: 2026-05-13T04:00:00.000Z
+date: 2026-05-14
+theme: IP just turned into a balance-sheet asset class — Palantir vets put €17M into AI-for-IP software, Wall Street is repricing News Corp off a single Meta licensing deal, Avantium liquidated patents instead of the company, and EUIPO is teeing up IP-backed lending in the billions. Hollywood (Clooney/Hanks/Streep) and Adeia (quiet $400M/yr engine) round out the proof.
+generated_at: 2026-05-14T04:00:00.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 0
 ---
 
 # Daily theme
-Today's batch documents the moment IP infrastructure moved from "legal back-office" to "venture-grade software market." Three patent-AI startups closed Series B rounds totaling $105M in weeks (Solve Intelligence $40M, Patlytics $40M, DeepIP $25M). AstraZeneca signed an agentic AI licensing deal with Owkin that treats AI outputs as a royalty stream, not a tool spend. RSL Media's Human Consent Standard — backed by Clooney, Hanks, Streep — sets the price floor for training-data licensing. Adeia quietly renewed its multi-year IP license with Google, anchoring a $400M+/yr engine. Founders who still treat IP as a post-Series A problem are about to be repriced by their cap table.
+Yesterday was about IP infrastructure becoming a venture category. Today is about IP itself becoming a tradeable asset class. Palantir-bred Ankar closed €17M for AI-driven IP software pushing into the US — the 4th eight-figure AI-for-IP round in 60 days. News Corp (NWSA) is being formally reassessed by analysts off a single Meta AI licensing deal — the public market now prices proprietary corpora at NRR multiples. Avantium sold its Ray Technology IP assets to UPM in a clean carve-out, not an acquihire. EUIPO published research showing IP-backed lending could unlock billions in European founder debt at sub-equity cost. Hollywood (Clooney/Hanks/Streep) set a 1-3% per-identity licensing floor. Adeia quietly renewed its $400M/yr Google engine. The pattern: founders who treat IP as a legal cost line are leaving 7-9 figures on the table that the cap table, the lender, and the acquirer have already started to price.
 
 # Topic shortlist (research notes — not posted)
-1. Solve Intelligence $40M Series B (YC, Visionaries, 20VC) — 10x revenue growth, $55M total funding, new Claim Charting litigation product — US patent suits avg $4.5M/side
-2. Patlytics $40M Series B (Business Wire) — purpose-built AI platform for IP work — FTO opinions collapsing from 4 weeks/$40K-$80K to <1 day/~$200
-3. DeepIP $25M Series B (Tech.eu) — AI across the full patent lifecycle (drafting, prosecution, portfolio) — 80% of corporate IP cost lives in these 3 stages
-4. AstraZeneca + Owkin agentic AI licensing (Fierce Biotech) — first BigPharma agentic deal as royalty stream — drug royalty stacks 3-12% of net sales, $30M-$120M per blockbuster
-5. RSL Media Human Consent Standard (Clooney/Hanks/Streep, The Verge) — 1-3% per identity tier, AI training settlements already $20M-$250M per platform-year
-6. Adeia + Google multi-year IP license renewal (TipRanks) — ~9,000 patents, $400M+ annual licensing revenue, 60%+ gross margin, 30-year MPEG-LA-style engine
+1. Ankar €17M Series B (EU-Startups, Palantir vets) — AI-driven IP software, EU→US expansion — 4th 8-figure AI-for-IP round in 60 days, $123M total deployed
+2. News Corp + Meta AI licensing deal repricing NWSA (Yahoo Finance) — News Corp + OpenAI 5-yr ~$250M, Reddit + Google ~$60M/yr — training-data IP at 80%+ GM
+3. Avantium → UPM Ray Technology IP asset sale (Avantium PR, chemengonline) — IP-only liquidity event, no M&A — bio-materials IP-carveout at 15-25% of M&A comp price
+4. EUIPO 2026 report on IP-backed financing (EUIPO) — UK Patent Box 10% corp tax, Singapore IPOS Box 5%, EIB IP loans €25M-€100M tickets
+5. RSL Media Human Consent Standard (Clooney/Hanks/Streep, The Verge) — 1-3% per identity tier, AI training settlements $20M-$250M per platform-year [carry-over]
+6. Adeia + Google multi-year IP renewal (TipRanks) — ~9,000 patents, $400M+/yr at 60%+ GM, 30-yr engine [carry-over]
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-05-13T11:31:38.809Z
-share_urn: urn:li:share:7460290658960883713
-hook_format: number-led
-cta_goal: follows
-slug: solve-intelligence-40m-series-b-patent-claims
-keyword: Solve Intelligence Series B AI patent claims
-numbers_check: $40M, 10x, $55M, $4.5M, 12
-image_direction: stacked $40M raise card morphing into a patent claim diagram, BEIP warm neutrals, abstract Series B icon
-headline: $40M Just Landed<br>On Patent Claims
-metric_1: $40M
-label_1: SOLVE INTEL<br>SERIES B
-metric_2: 10x
-label_2: REVENUE<br>GROWTH
-metric_3: $4.5M
-label_3: US PATENT SUIT<br>COST/SIDE
-
-$40M just hit a 12-person startup writing patent claims.
-
-Solve Intelligence (YC, Visionaries, 20VC) closed a $40M Series B after 10x revenue growth — $55M total funding.
-
-Their new Claim Charting product targets litigation, where US patent suits average $4.5M per side.
-
-Every IP workflow founders treated as "deal with it post-Series A" is being repriced as a Series B-grade software market.
-
-The lawyer line item just became a software line item. Plan IP infra like you plan auth.
-
-#PatentStrategy #SeriesB #IPLaw
-
----
-
-## Post 2
-status: published
-published_at: 2026-05-13T13:10:13.165Z
-share_urn: urn:li:share:7460315465358385153
-hook_format: prediction
-cta_goal: clicks
-slug: patlytics-40m-fto-search-collapse
-keyword: Patlytics Series B AI patent search FTO
-numbers_check: 1000x, $40M, 4 weeks, $40K-$80K, $200
-image_direction: side-by-side weekly calendar vs single-day timeline, BEIP palette, FTO cycle compression visual
-headline: Patent Search Is About<br>To Be 1000x Cheaper
-metric_1: $40M
-label_1: PATLYTICS<br>SERIES B
-metric_2: 4 wks → 1 day
-label_2: FTO CYCLE<br>COMPRESSION
-metric_3: $80K → $200
-label_3: FTO COST<br>COLLAPSE
-
-Patent search is about to be 1000x cheaper than your lawyer.
-
-Patlytics just raised $40M Series B to scale its purpose-built AI platform for IP work.
-
-Last cycle, a single Freedom-to-Operate opinion took 4 weeks and ran $40K-$80K.
-
-Patlytics customers run the same search in under a day for ~$200 in compute.
-
-Pre-emption searches that used to live in legal budget now sit inside product budget.
-
-If you're still scoping FTO at deal kickoff, your competitor already scoped it at Friday standup.
-
-#FreedomToOperate #PatentStrategy #IPInfrastructure
-
----
-
-## Post 3
-status: published
-published_at: 2026-05-13T15:47:26.004Z
-share_urn: urn:li:share:7460355029254905856
-hook_format: listicle
-cta_goal: clicks
-slug: deepip-25m-patent-lifecycle-compression
-keyword: DeepIP Series B AI patent lifecycle
-numbers_check: $25M, 80%, 60%, 30%, 70%
-image_direction: three-stage horizontal pipeline (Draft → Prosecute → Manage) with collapsing time bars, BEIP neutrals
-headline: $25M To Compress<br>3 Lifecycle Stages
-metric_1: 60%
-label_1: DRAFTING<br>COST CUT
-metric_2: 30%+
-label_2: PROSECUTION<br>CYCLE CUT
-metric_3: 70%
-label_3: PORTFOLIO<br>LABOR CUT
-
-DeepIP just closed $25M Series B to compress the 3 stages where 80% of corporate IP cost lives.
-
-1. Drafting — $8K-$20K per application, down ~60% with AI assist.
-
-2. Prosecution — 24-36 month cycles, down 30%+ on action turnaround.
-
-3. Portfolio — annual review labor down 70% via embedded valuation models.
-
-Every patent ops team still running spreadsheets in 2026 is paying competitors a stupidity tax.
-
-The boring middle of IP just became the highest-leverage line item on a tech CFO's stack.
-
-#PatentOps #IPStrategy #SeriesB
-
----
-
-## Post 4
-status: published
-published_at: 2026-05-13T18:52:58.239Z
-share_urn: urn:li:share:7460401721635291136
-hook_format: contrarian
-cta_goal: follows
-slug: astrazeneca-owkin-agentic-ai-licensing-royalty
-keyword: AstraZeneca Owkin agentic AI licensing pharma
-numbers_check: 3-12%, $1B, $30M-$120M
-image_direction: pill bottle morphing into a royalty stream chart, BEIP neutrals, agentic AI flow lines
-headline: AstraZeneca Didn't Buy<br>A Tool. It Bought Royalty.
-metric_1: 3-12%
-label_1: PHARMA ROYALTY<br>RATE BAND
-metric_2: $1B
-label_2: BLOCKBUSTER<br>DRUG REVENUE
-metric_3: $30M-$120M
-label_3: ROYALTY PER<br>DRUG/YEAR
-
-AstraZeneca didn't sign a tool deal with Owkin. It signed a royalty stream.
-
-The new agentic AI licensing deal is the first BigPharma move that treats agentic AI as a licensable IP asset, not vendor software.
-
-Pharma royalty stacks typically run 3-12% of net sales. On a $1B blockbuster that's $30M-$120M per drug, per year.
-
-Agentic AI just stopped being a tools market. It became a royalty market.
-
-If your AI startup ships outputs without a licensing wrapper, you're shipping margin to your customer.
-
-#AILicensing #AgenticAI #IPStrategy
-
----
-
-## Post 5
 status: pending
 hook_format: frame-break
 cta_goal: dms
@@ -181,7 +49,7 @@ Dataset provenance is now a P&L line — not a comms risk.
 
 ---
 
-## Post 6
+## Post 2
 status: pending
 hook_format: story
 cta_goal: dms
@@ -208,3 +76,133 @@ Meanwhile your acquirer values your IP at zero because you never licensed it.
 If your cap table prices patents at $0, the M&A spreadsheet will too.
 
 #PatentLicensing #IPStrategy #FounderFinance
+
+---
+
+## Post 3
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: ankar-palantir-veterans-17m-ai-ip-software
+keyword: Ankar Palantir AI IP software Series B
+numbers_check: €17M, 4, $123M, 60-75%
+image_direction: Palantir-style data-graph icon morphing into a patent docket, BEIP warm neutrals, vertical-AI category card
+headline: Palantir Vets Bet €17M<br>On Patent Software
+metric_1: €17M
+label_1: ANKAR<br>SERIES SIZE
+metric_2: $123M
+label_2: AI-FOR-IP<br>RAISED IN 60 DAYS
+metric_3: 60-75%
+label_3: IP OPS<br>GROSS MARGIN
+
+€17M just left Palantir. To go fix patent ops.
+
+Palantir veterans closed €17M for Ankar — AI-driven IP software now pushing into the US.
+
+That's the 4th eight-figure AI-for-IP round in 60 days. Solve Intelligence $40M. Patlytics $40M. DeepIP $25M. Ankar €17M.
+
+$123M+ deployed into a category most founder cap tables still book as "legal expense."
+
+IP ops gross margin sits 60-75% — lawyer-grade ARR with software-grade scale.
+
+The boring line item just became the next deeptech category.
+
+#PatentOps #VerticalAI #SeriesB
+
+---
+
+## Post 4
+status: pending
+hook_format: prediction
+cta_goal: clicks
+slug: news-corp-meta-ai-licensing-archive-repricing
+keyword: News Corp Meta AI licensing data asset
+numbers_check: $250M, $60M/yr, 80%+
+image_direction: stock-ticker style chart of a news archive being marked to market, BEIP warm neutrals, dataset-as-asset visual
+headline: Wall Street Is Repricing<br>Every News Archive
+metric_1: $250M
+label_1: NEWS CORP<br>+ OPENAI DEAL
+metric_2: $60M/yr
+label_2: REDDIT<br>+ GOOGLE
+metric_3: 80%+
+label_3: TRAINING-DATA<br>GROSS MARGIN
+
+Wall Street is about to mark every news archive to market.
+
+News Corp (NWSA) is being formally reassessed by analysts off a single Meta AI licensing deal.
+
+Existing benchmarks: News Corp + OpenAI 5-year ~$250M. Reddit + Google ~$60M/yr. Thomson Reuters now does training-text-only deals.
+
+That is training-data IP repricing as recurring revenue at 80%+ gross margin — the inventory already exists.
+
+Founders sitting on proprietary corpora are pricing them at $0. The public market is pricing them at NRR multiples.
+
+Your dataset is your second product. Your acquirer already knows.
+
+#AILicensing #DataAsAnAsset #MediaStrategy
+
+---
+
+## Post 5
+status: pending
+hook_format: contrarian
+cta_goal: follows
+slug: avantium-upm-ip-only-asset-sale-vs-acquihire
+keyword: IP carve-out asset sale founder exit
+numbers_check: 15-25%, <5%, 3
+image_direction: company silhouette splitting — small patent slice highlighted, BEIP warm neutrals, surgical carve-out motif
+headline: Stop Selling the Company<br>Start Selling the Patent
+metric_1: 15-25%
+label_1: IP-CARVEOUT<br>VS FULL M&A
+metric_2: <5%
+label_2: DEAL FRICTION<br>VS ACQUISITION
+metric_3: 3
+label_3: AVG IP CARVE-OUTS<br>BEFORE EXIT
+
+Selling the company is overrated. Sell the patent.
+
+Avantium just sold its Ray Technology IP assets to UPM. No M&A. No earn-out. Just the patents and the know-how.
+
+In bio-materials, IP-only deals routinely run 15-25% of comparable acquisition prices — at less than 5% of the deal friction.
+
+Founders default to "exit = acquihire." Smarter ones run 3 IP carve-outs before any banker conversation.
+
+One core patent + 3 continuations + a clean license = a balance-sheet event without losing the cap table.
+
+Stop selling the company. Start selling the slice the buyer actually wants.
+
+#IPStrategy #FounderExit #PatentSale
+
+---
+
+## Post 6
+status: pending
+hook_format: listicle
+cta_goal: clicks
+slug: ip-backed-financing-patent-box-eu-eib
+keyword: IP-backed financing patent box venture debt
+numbers_check: 10%, 25%, 5%, €25-100M, 20-40%
+image_direction: patent certificate walking into a vault as collateral, BEIP warm neutrals, regime-comparison grid
+headline: Your Patent Is<br>Tier-1 Collateral
+metric_1: 10%
+label_1: UK PATENT<br>BOX TAX
+metric_2: 20-40%
+label_2: IP-BACKED<br>DEBT HEADROOM
+metric_3: €25-100M
+label_3: EIB IP-LOAN<br>TICKETS
+
+5 ways your patent walks into the bank as collateral.
+
+1. EUIPO 2026: IP-backed lending could unlock billions for European founders.
+
+2. UK Patent Box: 10% corp tax on patent-derived profit versus 25% standard. Free 15 points of margin.
+
+3. SVB-era IP-backed venture debt: 20-40% of patent NPV as headroom, no equity dilution.
+
+4. Singapore IPOS Box: 5% effective tax rate on qualifying IP income.
+
+5. EIB IP-backed loans: €25M-€100M tickets for deeptech with granted patents.
+
+Your patent isn't a defensive doc. It's tier-1 collateral.
+
+#IPFinancing #PatentBox #VentureDebt
