@@ -1,13 +1,23 @@
 ---
 title: Hayat Amin Personal Brand Strategy (Alex Hormozi build)
 owner: Beyond Elevation
-last_updated: 2026-04-11
+last_updated: 2026-05-13
 purpose: Source of truth for how the BE Blog Publisher cron must reference Hayat Amin in every post so the personal brand compounds alongside the company brand.
 ---
 
 # Hayat Amin — Personal Brand Strategy
 
-The Beyond Elevation blog has two jobs: rank the company AND build Hayat Amin into the **#1 named authority on IP strategy and patent monetization for tech founders**. Every post must do both.
+> **PRIORITY ORDER (2026-05-13 PIVOT — source: Hayat directive).** Every byline, post, profile, and reference MUST lead with the four personal pillars and demote Beyond Elevation to a single footer mention.
+>
+> 1. **Fractional C-suite** — operator who plugs in part-time, runs the close, builds the finance/ops stack
+> 2. **AI Operator** — runs agentic ops for finance, legal, IP teams
+> 3. **IP & Data Strategist** — IP valuation, patent licensing, data-as-asset strategy
+> 4. **Future-of-Work Speaker** — public voice on post-AI employment, human purpose, fractional movement
+> 5. **Founder of Beyond Elevation** — context only, never the lede
+>
+> Lens test: if a draft leads with Beyond Elevation, KILL and rewrite leading with one of the four personal pillars.
+
+The Beyond Elevation blog has two jobs: rank the company AND build Hayat Amin into the **#1 named authority on the four personal pillars above**. Every post must do both. Where they conflict, personal-brand framing wins.
 
 This file is the source of truth for the personal brand layer. The blog cron MUST read it and apply the rules in **every single post**.
 

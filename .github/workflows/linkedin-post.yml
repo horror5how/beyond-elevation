@@ -61,12 +61,22 @@ jobs:
           git config user.email 'agent@beyondelevation.com'
           git config user.name 'BE LinkedIn Agent'
 
+          push_with_rebase() {
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin main || true
+              if git push origin main; then return 0; fi
+              echo "push attempt $i failed, retrying after rebase..."
+              sleep $((i*3))
+            done
+            return 1
+          }
+
           if [ "$ECODE" = "2" ]; then
             stamp=$(date -u '+%Y-%m-%d %H:%M')
             echo "$stamp | FAIL | 401 EMPTY_ACCESS_TOKEN - re-auth needed" >> linkedin-post-log.md
             git add linkedin-post-log.md
             git commit -m 'LinkedIn: re-auth required'
-            git push
+            push_with_rebase
             exit 0
           fi
 
@@ -75,7 +85,7 @@ jobs:
             echo "$stamp | FAIL | publish error (see Actions run log)" >> linkedin-post-log.md
             git add linkedin-post-log.md
             git commit -m 'LinkedIn: publish failed'
-            git push
+            push_with_rebase
             exit 1
           fi
 
@@ -85,7 +95,7 @@ jobs:
           echo "$stamp | $SHARE_URN | $first80" >> linkedin-post-log.md
           git add linkedin-post-log.md
           git commit -m 'LinkedIn post log update'
-          git push
+          push_with_rebase
 
           echo ""
           echo "PUBLISHED: https://www.linkedin.com/feed/update/${SHARE_URN}/"
