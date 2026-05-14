@@ -1394,3 +1394,19 @@ The founders who act on data asset recognition first will capture a valuation pr
 Yes — data qualifies as an intangible asset under both IAS 38 (IFRS) and ASC 350 (U.S. GAAP) when it meets four criteria: identifiability, control, future economic benefit, and reliable cost measurement. Most internally generated datasets have historically failed the "reliable measurement" test, which is why accountants default to expensing data coll
 
 ---
+
+## The 5 Valuation Methods Every Operator Needs — And Which One Wins for AI, IP-Heavy, and Pre-Revenue Companies
+
+URL: https://beyondelevation.com/blog/post.html?slug=5-methods-of-valuation
+
+92% of S&P 500 market value is intangible. Yet most founders walk into valuation conversations armed with a single method — Discounted Cash Flow — built for an era when factories and inventory were the assets that mattered. Hayat Amin argues that the valuation method you choose determines whether your IP shows up in the number or vanishes from it. The 5 methods of valuation every operator needs are: Discounted Cash Flow (DCF), Comparable Company Analysis, Asset-Based Valuation, Precedent Transactions, and Relief from Royalty. Pick the wrong one and you leave 2–4x on the table.
+
+## What Are the 5 Methods of Valuation?
+
+The 5 methods of valuation are Discounted Cash Flow (Income Approach), Comparable Company Analysis (Market Approach), Asset-Based Valuation, Precedent Transactions, and Relief from Royalty. Each method answers a different question about what a company is worth, and the right choice depends on your company&rsquo;s stage, asset profile, and what you are trying to prove.
+
+Most accountants and lawyers default to one method. Most VCs default to another. The operators who get premium outcomes use multiple methods and triangulate. That triangulation — knowing when each method applies and when it breaks — is the difference between a founder who gets fair value and one who gets gutted in negotiations.
+
+At [Beyond Elevation](https://beyondelevation.com), every valuation engagement runs at least three of these methods side by side. Here is what each one does, where it wins
+
+---

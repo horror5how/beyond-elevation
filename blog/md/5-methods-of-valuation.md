@@ -3,7 +3,7 @@ title: "The 5 Valuation Methods Every Operator Needs — And Which One Wins for 
 slug: 5-methods-of-valuation
 date: 2026-05-14
 url: https://beyondelevation.com/blog/post.html?slug=5-methods-of-valuation
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -13,7 +13,7 @@ site: Beyond Elevation
 
 ## What Are the 5 Methods of Valuation?
 
-The 5 methods of valuation are Discounted Cash Flow (Income Approach), Comparable Company Analysis (Market Approach), Asset-Based Valuation, Precedent Transactions, and Relief from Royalty. Each method answers a different question about what a company is worth, and the right choice depends on your company's stage, asset profile, and what you are trying to prove.
+The 5 methods of valuation are Discounted Cash Flow (Income Approach), Comparable Company Analysis (Market Approach), Asset-Based Valuation, Precedent Transactions, and Relief from Royalty. Each method answers a different question about what a company is worth, and the right choice depends on your company&rsquo;s stage, asset profile, and what you are trying to prove.
 
 Most accountants and lawyers default to one method. Most VCs default to another. The operators who get premium outcomes use multiple methods and triangulate. That triangulation — knowing when each method applies and when it breaks — is the difference between a founder who gets fair value and one who gets gutted in negotiations.
 
@@ -39,7 +39,7 @@ Where it fails: there are no comps for truly novel companies. If your IP portfol
 
 Asset-Based Valuation sums the fair market value of everything a company owns minus its liabilities. On paper, it is the most conservative of the 5 methods of valuation. In practice, it is the most dangerous for tech founders — because most asset-based approaches count only what is on the balance sheet.
 
-Intangible assets now represent 92% of S&P 500 market capitalisation, up from 17% in 1975. Patents, proprietary datasets, trade secrets, algorithms, and trained models almost never appear at fair market value on a startup's books. Some do not appear at all. An asset-based valuation that misses these intangibles is not conservative — it is wrong.
+Intangible assets now represent 92% of S&P 500 market capitalisation, up from 17% in 1975. Patents, proprietary datasets, trade secrets, algorithms, and trained models almost never appear at fair market value on a startup&rsquo;s books. Some do not appear at all. An asset-based valuation that misses these intangibles is not conservative — it is wrong.
 
 The fix is a proper IP-inclusive asset valuation. This requires identifying every protectable asset — granted and pending patents, trade secrets, proprietary data, documented know-how — and assigning each one a fair market value. Companies with patents are [10.2x more likely to secure early-stage funding](/blog/posts/ip-valuation-methods-explained/), which means investors are already pricing these assets. Your valuation should too.
 
@@ -53,13 +53,13 @@ Limitation: precedent transactions require comparable deals to exist and be publ
 
 ## Method 5: Relief from Royalty — The Valuation Method Most Founders Have Never Heard Of
 
-Relief from Royalty calculates what a company would have to pay in royalties if it did not own its IP and had to license it from a third party. That hypothetical royalty cost, capitalised over the asset's useful life, becomes the value of the IP. It is the only one of the 5 methods of valuation specifically designed to capture intangible asset value.
+Relief from Royalty calculates what a company would have to pay in royalties if it did not own its IP and had to license it from a third party. That hypothetical royalty cost, capitalised over the asset&rsquo;s useful life, becomes the value of the IP. It is the only one of the 5 methods of valuation specifically designed to capture intangible asset value.
 
-This is the method Hayat Amin's Royalty Stack Framework builds on. The framework prices each IP asset against the licensee's gross margin — software patents at 8–12% royalty, hardware at 3–6%, pharma at 5–20%. Stack the individual royalty streams, discount to present value, and you have a defensible number that speaks the language investors and acquirers understand.
+This is the method Hayat Amin&rsquo;s Royalty Stack Framework builds on. The framework prices each IP asset against the licensee&rsquo;s gross margin — software patents at 8–12% royalty, hardware at 3–6%, pharma at 5–20%. Stack the individual royalty streams, discount to present value, and you have a defensible number that speaks the language investors and acquirers understand.
 
 For IP-heavy companies, Relief from Royalty consistently produces the highest — and most defensible — valuations. Beyond Elevation has used this approach to reveal value that other methods completely miss. In one engagement, DCF valued a portfolio at $1.8M. Relief from Royalty valued the same portfolio at $9.2M. The difference was the entire licensing revenue stream that DCF ignored because the first licence had not yet been signed.
 
-The method works because it asks the right question: not "what does the IP earn today?" but "what would it cost to replace?" That reframing consistently unlocks 3–5x the value of income-only approaches.
+The method works because it asks the right question: not &ldquo;what does the IP earn today?&rdquo; but &ldquo;what would it cost to replace?&rdquo; That reframing consistently unlocks 3–5x the value of income-only approaches.
 
 ## Which Valuation Method Should You Use?
 
@@ -73,6 +73,20 @@ No single method gives you the full picture. The right approach depends on your 
 
 **M&A exit positioning:** All five. Serious acquirers will run their own versions of every method. Showing up with a triangulated valuation that addresses all five approaches makes your number harder to argue down. This is exactly what a [Beyond Elevation](https://beyondelevation.com) valuation engagement produces.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-5-methods-of-valuation)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the most accurate valuation method for startups?
@@ -85,7 +99,7 @@ IP directly increases valuation through the Relief from Royalty method and by co
 
 ### What is the Relief from Royalty method?
 
-Relief from Royalty calculates what a company would pay in royalties if it had to license its own IP from a third party. That capitalised royalty stream becomes the IP's value. Hayat Amin's Royalty Stack Framework uses industry-specific royalty rates — software 8–12%, hardware 3–6%, pharma 5–20% — to build a defensible number investors trust.
+Relief from Royalty calculates what a company would pay in royalties if it had to license its own IP from a third party. That capitalised royalty stream becomes the IP&rsquo;s value. Hayat Amin&rsquo;s Royalty Stack Framework uses industry-specific royalty rates — software 8–12%, hardware 3–6%, pharma 5–20% — to build a defensible number investors trust.
 
 ### Which valuation method do VCs prefer?
 
@@ -94,3 +108,6 @@ VCs overwhelmingly use Comparable Company Analysis because it is fast and benchm
 ### Can you use multiple valuation methods at once?
 
 You should. Professional valuators always use at least two methods and triangulate. Using multiple methods reveals whether your number is anchored in market reality (comps), asset fundamentals (asset-based and relief from royalty), or future earnings (DCF). A single-method valuation is easy to dismiss; a triangulated one is not.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
