@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff2400",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "ai-filings-litigation-twin-curves",
-    "ts": "2026-05-11T15:55:00.642Z"
-  },
-  {
     "hash": "7ef910733334ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "astrazeneca-owkin-agentic-ai-licensing-royalty",
     "ts": "2026-05-13T18:52:58.239Z"
+  },
+  {
+    "hash": "42e3e7ffc3e7ff0f",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "human-consent-standard-clooney-licensing-floor",
+    "ts": "2026-05-14T09:38:41.776Z"
   }
 ]
