@@ -1378,3 +1378,19 @@ A fractional IP strategist is a senior IP advisor who works with your company on
 The role exists because most tech companies between $1M and $50M in revenue have genuine IP st
 
 ---
+
+## Is Data an Asset on the Balance Sheet? In 2026, Yes — Here Is the Isle of Man Structure That Changed Everything
+
+URL: https://beyondelevation.com/blog/post.html?slug=data-asset-on-balance-sheet
+
+92% of S&P 500 market value is intangible. Yet the single most valuable intangible — proprietary data — still does not appear on most balance sheets. In April 2026, the Isle of Man changed that by creating the world's first legal structure that registers datasets as balance-sheet assets, the same way property and patents sit there today. The question "is data an asset on the balance sheet" has shifted from theoretical debate to operational reality.
+
+Hayat Amin argues this is the inflection point founders have been waiting for: "If your data generates revenue, creates competitive advantage, or makes your product harder to replace — it belongs on the balance sheet. Full stop. Founders who ignore this are giving away valuation for free." And the data backs him up: top-performing companies now earn 11% of revenue from data, compared to 2% for their peers — a 5x gap that investors are starting to price explicitly.
+
+The founders who act on data asset recognition first will capture a valuation premium their competitors cannot replicate once the window closes.
+
+## Is Data an Asset on the Balance Sheet Under Current Accounting Standards?
+
+Yes — data qualifies as an intangible asset under both IAS 38 (IFRS) and ASC 350 (U.S. GAAP) when it meets four criteria: identifiability, control, future economic benefit, and reliable cost measurement. Most internally generated datasets have historically failed the "reliable measurement" test, which is why accountants default to expensing data coll
+
+---

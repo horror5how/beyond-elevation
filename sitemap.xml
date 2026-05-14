@@ -49,6 +49,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/data-asset-on-balance-sheet/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/top-5-fractional-cfos-tech-startups-2026-05-13/</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -752,6 +758,12 @@
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/md/fractional-ip-strategist-when-to-hire.md</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/md/data-asset-on-balance-sheet.md</loc>
     <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
