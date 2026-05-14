@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0000e7ffc3c3fff9",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "ustr-2026-special-301-ip-enforcement-map",
-    "ts": "2026-05-12T09:46:04.252Z"
-  },
-  {
     "hash": "40c3e7ffc3e7ff99",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "adeia-google-renewal-400m-licensing-engine",
     "ts": "2026-05-14T11:14:27.082Z"
+  },
+  {
+    "hash": "7ef800733331ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "ankar-palantir-veterans-17m-ai-ip-software",
+    "ts": "2026-05-14T12:24:20.994Z"
   }
 ]

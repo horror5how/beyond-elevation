@@ -31,3 +31,4 @@
 2026-05-14 07:53 | urn:li:share:7460598078266576896 | You gave up 25% equity in your Series A.  Your IP could have funded the same rou
 2026-05-14 09:38 | urn:li:share:7460624621499801601 | post #1 | human-consent-standard-clooney-licensing-floor | Clooney, Hanks, and Streep didn't sign a lobbying letter. They signed a price fl
 2026-05-14 11:14 | urn:li:share:7460648719416360960 | post #2 | adeia-google-renewal-400m-licensing-engine | Adeia quietly renewed its multi-year IP license with Google.  Adeia runs ~9,000 
+2026-05-14 12:24 | urn:li:share:7460666309903577089 | post #3 | ankar-palantir-veterans-17m-ai-ip-software | €17M just left Palantir. To go fix patent ops.  Palantir veterans closed €17M fo
