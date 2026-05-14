@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef910733334ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "ma-intangible-valuation-gap-deal-value-loss",
-    "ts": "2026-05-11T18:30:51.896Z"
-  },
-  {
     "hash": "0000e7ffc3c3fff9",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "human-consent-standard-clooney-licensing-floor",
     "ts": "2026-05-14T09:38:41.776Z"
+  },
+  {
+    "hash": "7e2020672f2bffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "adeia-google-renewal-400m-licensing-engine",
+    "ts": "2026-05-14T11:14:27.082Z"
   }
 ]
