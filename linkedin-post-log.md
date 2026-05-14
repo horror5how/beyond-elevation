@@ -33,3 +33,4 @@
 2026-05-14 11:14 | urn:li:share:7460648719416360960 | post #2 | adeia-google-renewal-400m-licensing-engine | Adeia quietly renewed its multi-year IP license with Google.  Adeia runs ~9,000 
 2026-05-14 12:24 | urn:li:share:7460666309903577089 | post #3 | ankar-palantir-veterans-17m-ai-ip-software | €17M just left Palantir. To go fix patent ops.  Palantir veterans closed €17M fo
 2026-05-14 12:50 | QUEUED | ai-company-ip-valuation-premium-2026 | AI companies with audited IP close at 25.8x revenue. AI companies without it close at 21x.
+2026-05-14 15:16 | urn:li:share:7460709730609577984 | post #4 | news-corp-meta-ai-licensing-archive-repricing | Wall Street is about to mark every news archive to market.  News Corp (NWSA) is 

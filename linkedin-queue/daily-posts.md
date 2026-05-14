@@ -3,7 +3,7 @@ date: 2026-05-14
 theme: IP just turned into a balance-sheet asset class — Palantir vets put €17M into AI-for-IP software, Wall Street is repricing News Corp off a single Meta licensing deal, Avantium liquidated patents instead of the company, and EUIPO is teeing up IP-backed lending in the billions. Hollywood (Clooney/Hanks/Streep) and Adeia (quiet $400M/yr engine) round out the proof.
 generated_at: 2026-05-14T04:00:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -118,7 +118,9 @@ The boring line item just became the next deeptech category.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-14T15:16:53.244Z
+share_urn: urn:li:share:7460709730609577984
 hook_format: prediction
 cta_goal: clicks
 slug: news-corp-meta-ai-licensing-archive-repricing

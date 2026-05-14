@@ -1,12 +1,5 @@
 [
   {
-    "hash": "40c3e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "solve-intelligence-40m-series-b-patent-claims",
-    "ts": "2026-05-13T11:31:38.809Z"
-  },
-  {
     "hash": "40d3ffffc3c3ff00",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ankar-palantir-veterans-17m-ai-ip-software",
     "ts": "2026-05-14T12:24:20.994Z"
+  },
+  {
+    "hash": "00ffffffffff0000",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "news-corp-meta-ai-licensing-archive-repricing",
+    "ts": "2026-05-14T15:16:53.244Z"
   }
 ]
