@@ -132,3 +132,4 @@ patlytics-40m-fto-search-collapse
 deepip-25m-patent-lifecycle-compression
 international-ip-licensing-arbitrage-2026
 astrazeneca-owkin-agentic-ai-licensing-royalty
+ip-licensing-vs-equity-dilution-founders

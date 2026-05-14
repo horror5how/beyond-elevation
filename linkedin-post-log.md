@@ -27,3 +27,4 @@
 2026-05-13 15:47 | urn:li:share:7460355029254905856 | post #3 | deepip-25m-patent-lifecycle-compression | DeepIP just closed $25M Series B to compress the 3 stages where 80% of corporate
 2026-05-13 17:53 | QUEUED | international-ip-licensing-arbitrage-2026 | Your patent earns $80K/year in US licensing. It could earn $320K across 4 markets.
 2026-05-13 18:52 | urn:li:share:7460401721635291136 | post #4 | astrazeneca-owkin-agentic-ai-licensing-royalty | AstraZeneca didn't sign a tool deal with Owkin. It signed a royalty stream.  The
+2026-05-14 07:50 | QUEUED | ip-licensing-vs-equity-dilution-founders | You gave up 25% equity in your Series A.  Your IP could have funded the same rou
