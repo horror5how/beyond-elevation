@@ -118,5 +118,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The Best Patent Licensing Firms Compared: Who Founders Should Actually Hire](https://beyondelevation.com/blog/post.html?slug=best-patent-licensing-firms-compared) — /blog/md/best-patent-licensing-firms-compared.md
 - [What Patent Monetization Consultants Actually Do (And What You Should Pay Them)](https://beyondelevation.com/blog/post.html?slug=patent-monetization-consulting-guide) — /blog/md/patent-monetization-consulting-guide.md
 - [Your Patents Can Fund Your Next Round Without Dilution — The IP-Backed Financing Playbook](https://beyondelevation.com/blog/post.html?slug=ip-backed-financing-patents-as-collateral) — /blog/md/ip-backed-financing-patents-as-collateral.md
+- [When You Should Hire a Fractional IP Strategist Instead of a Full-Time Lawyer](https://beyondelevation.com/blog/post.html?slug=fractional-ip-strategist-when-to-hire) — /blog/md/fractional-ip-strategist-when-to-hire.md
 
 > Full blog content available at /llms-full.txt
