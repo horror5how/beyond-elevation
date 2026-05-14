@@ -28,3 +28,4 @@
 2026-05-13 17:53 | QUEUED | international-ip-licensing-arbitrage-2026 | Your patent earns $80K/year in US licensing. It could earn $320K across 4 markets.
 2026-05-13 18:52 | urn:li:share:7460401721635291136 | post #4 | astrazeneca-owkin-agentic-ai-licensing-royalty | AstraZeneca didn't sign a tool deal with Owkin. It signed a royalty stream.  The
 2026-05-14 07:50 | QUEUED | ip-licensing-vs-equity-dilution-founders | You gave up 25% equity in your Series A.  Your IP could have funded the same rou
+2026-05-14 07:53 | urn:li:share:7460598078266576896 | You gave up 25% equity in your Series A.  Your IP could have funded the same rou
