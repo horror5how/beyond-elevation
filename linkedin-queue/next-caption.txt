@@ -1,13 +1,22 @@
-AI companies with audited IP close at 25.8x revenue.
+Most founders accept 10% royalties without checking if that's right.
 
-AI companies without it close at 21x.
+It is — for software.
 
-That gap is not a better pitch deck.
+It's the floor for pharma.
 
-It is an IP audit.
+Double the ceiling for hardware.
 
-Most founders leave 20% on the exit multiple because their legal team never ran the numbers.
+2026 royalty benchmarks:
 
-Fix the IP story before you fix the slide.
+Software: 8–12%
+Pharma: 5–20%
+Electronics: 3–6%
+AI patents: 15% compound annual growth since 2020
 
-#IPStrategy #AIValuation #StartupFunding
+Signing without industry benchmarks costs founders 30–50% of licensing revenue.
+
+Most deals close before anyone looks up comparable rates.
+
+Know your number before you sign.
+
+#IPStrategy #Licensing #PatentRoyalties
