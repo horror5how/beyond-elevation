@@ -1,15 +1,13 @@
-You gave up 25% equity in your Series A.
+AI companies with audited IP close at 25.8x revenue.
 
-Your IP could have funded the same round for 10% royalty.
+AI companies without it close at 21x.
 
-Most founders never model the alternative.
+That gap is not a better pitch deck.
 
-IP-backed licensing closes in 60 days.
-Series A rounds average 8 months.
+It is an IP audit.
 
-Equity dilution compounds across every round.
-Royalty deals do not touch your cap table.
+Most founders leave 20% on the exit multiple because their legal team never ran the numbers.
 
-Run the licensing model before you sign the next termsheet.
+Fix the IP story before you fix the slide.
 
-#IPStrategy #Licensing #StartupFinance
+#IPStrategy #AIValuation #StartupFunding
