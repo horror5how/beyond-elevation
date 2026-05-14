@@ -35,3 +35,4 @@
 2026-05-14 12:50 | QUEUED | ai-company-ip-valuation-premium-2026 | AI companies with audited IP close at 25.8x revenue. AI companies without it close at 21x.
 2026-05-14 15:16 | urn:li:share:7460709730609577984 | post #4 | news-corp-meta-ai-licensing-archive-repricing | Wall Street is about to mark every news archive to market.  News Corp (NWSA) is 
 2026-05-14 17:51 | QUEUED | is-10-percent-royalty-good | Most founders accept 10% royalties without checking if that's right.  It is — 
+2026-05-14 18:27 | urn:li:share:7460757787644665857 | post #5 | avantium-upm-ip-only-asset-sale-vs-acquihire | Selling the company is overrated. Sell the patent.  Avantium just sold its Ray T

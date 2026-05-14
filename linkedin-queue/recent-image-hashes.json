@@ -1,12 +1,5 @@
 [
   {
-    "hash": "40d3ffffc3c3ff00",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "patlytics-40m-fto-search-collapse",
-    "ts": "2026-05-13T13:10:13.165Z"
-  },
-  {
     "hash": "7ef930310ff5ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "news-corp-meta-ai-licensing-archive-repricing",
     "ts": "2026-05-14T15:16:53.244Z"
+  },
+  {
+    "hash": "00ffffffff652525",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "avantium-upm-ip-only-asset-sale-vs-acquihire",
+    "ts": "2026-05-14T18:27:51.002Z"
   }
 ]
