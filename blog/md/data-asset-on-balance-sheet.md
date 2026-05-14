@@ -61,7 +61,7 @@ Founders who want data on their balance sheet need a structured approach: audit 
 
 **Step 1: Data asset inventory.** Catalogue every proprietary dataset the business creates or controls. Include training data, behavioural data, operational data, and curated datasets that power your product or models. Document source, refresh cadence, volume, and current internal use.
 
-**Step 2: Run the recognition test.** Apply Hayat Amin's Data Asset Recognition Test to each dataset. Disqualify anything that fails on separability or control — those remain operational expenses, not assets.
+**Step 2: Run the recognition test.** Apply the Data Asset Recognition Test to each dataset. Disqualify anything that fails on separability or control — those remain operational expenses, not assets.
 
 **Step 3: Assign value.** Use the income approach (future licensing revenue or cost savings discounted to present value) or the cost approach (total documented creation and maintenance cost). The income approach produces higher valuations for datasets with demonstrated revenue paths. The cost approach provides a defensible floor.
 
