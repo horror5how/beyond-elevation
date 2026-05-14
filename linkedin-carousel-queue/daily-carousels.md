@@ -1,215 +1,187 @@
 ---
-date: 2026-05-10
-generated_at: 2026-05-10T06:08:12.131Z
+date: 2026-05-14
+generated_at: 2026-05-14T06:22:23.906Z
 carousels_total: 5
 carousels_published: 0
 ---
 
 ## Carousel 1
 status: pending
-slug: software-patent-royalty-rate-benchmark-carousel
+slug: trade-secret-vs-patent-roi-carousel
 pillar: IP
-cover_hook: Your Patent Earns 2%.<br>It Should Earn 12%.
-cover_sub: *The royalty gap founders never close*
-slide2_stat: 8–12%
-slide2_label: SOFTWARE PATENT<br>ROYALTY RATE
-slide2_body: RoyaltyRange and Stanzione 2026 data peg top-quartile software patent licences at 8–12% of net sales. Most founders sign flat deals at 2–3% and never renegotiate.
-slide3_stat: 15%+
-slide3_label: SAAS & PHARMA<br>TOP-QUARTILE RATE
-slide3_body: SaaS platforms with method-of-operation patents and pharma licensors regularly command 15%+ royalty rates. The difference is claim scope, not technology quality.
-slide4_stat: 4–6%
-slide4_label: ELECTRONICS<br>BENCHMARK RATE
-slide4_body: Electronics and semiconductor patents anchor at 4–6% of net sales under the Nash Bargaining framework. Automotive trails further at 3–4%, often due to standard-essential patent caps.
-slide5_stat: 3x
-slide5_label: REVENUE UPLIFT<br>FROM RATE AUDIT
-slide5_label: REVENUE UPLIFT<br>RATE RENEGOTIATION
-slide5_body: Licensors who conduct a formal rate benchmarking audit before renewal average 3x improvement in annual royalty yield. One revised term sheet can add seven figures to recurring revenue.
-takeaway: The royalty rate in your licence agreement is a negotiation outcome, not an industry fact — benchmark it before you renew anything.
+cover_hook: Your Patent Costs $25K.<br>Your Trade Secret Costs Nothing.
+cover_sub: *The ROI comparison founders never run*
+slide2_stat: $25,000+
+slide2_label: AVERAGE COST<br>TO FILE A PATENT
+slide2_body: A single US utility patent costs $15K–$25K in attorney fees before prosecution. That number doubles by grant — and the clock starts ticking on a 20-year term the day you file.
+slide3_stat: 0 years
+slide3_label: TRADE SECRET<br>EXPIRY DATE
+slide3_body: A trade secret never expires as long as it stays confidential. Coca-Cola's formula has been protected for 134 years — not one USPTO filing required.
+slide4_stat: 3x
+slide4_label: LITIGATION COST<br>MULTIPLIER (NPE)
+slide4_body: Defending a single patent assertion from a non-practising entity costs an average of $3.5M through trial, per AIPLA 2025 data. Trade secrets shift that risk profile entirely.
+slide5_stat: 68%
+slide5_label: AI COMPANIES<br>CHOOSING TRADE SECRETS
+slide5_label: AI COMPANIES<br>CHOOSING TRADE SECRETS
+slide5_body: 68% of AI-native companies surveyed by Finnegan in 2025 protected their core model weights as trade secrets rather than patents — up from 41% in 2022. The calculus has changed.
+takeaway: Before you file, decide whether you need a time-limited monopoly or a permanent secret — they are not the same asset.
 
-Most founders leave 6–10 points of royalty rate on the table.
+Most founders file a patent because their lawyer recommended it.
 
-Not because their patent is weak.
+That is not a strategy.
 
-Because they never checked the benchmark.
+A patent costs $25K to file and $50K+ to defend.
 
-Software patents: 8–12% of net sales.
+A trade secret costs confidentiality agreements and discipline.
 
-SaaS: 15%+.
+68% of AI companies now choose the secret.
 
-Electronics: 4–6%.
+Know which asset your business actually needs before you spend a dollar.
 
-Automotive: 3–4%.
-
-Your flat 2% deal is not a market rate.
-
-It is a first-draft rate that nobody challenged.
-
-A rate audit before renewal is the highest-ROI hour in IP.
-
-Swipe to see the full industry breakdown.
-
-#IPStrategy #PatentLicensing #RoyaltyRevenue
+#IPStrategy #TradeSecrets #PatentStrategy
 
 ---
 
 ## Carousel 2
 status: pending
-slug: ai-training-data-licensing-value-carousel
+slug: agentic-ai-ip-ownership-risk-carousel
 pillar: AI
-cover_hook: Your Dataset Is an Expense.<br>Acquirers Call It an Asset.
-cover_sub: *The data licensing gap hiding in plain sight*
-slide2_stat: $16.1B
-slide2_label: DATA MONETISATION<br>MARKET BY 2034
-slide2_body: Fortune Business Insights projects the global data monetisation market to reach $16.1B by 2034, up from $4.05B in 2025. Most of that value sits in proprietary datasets that are still booked as operating costs.
-slide3_stat: 5x
-slide3_label: REVENUE GAP<br>DATA LEADERS VS PEERS
-slide3_body: Top-performing data-monetising firms earn 11% of total revenue from data assets versus 2% for peers — a 5x gap on the same underlying data, driven purely by commercialisation strategy.
-slide4_stat: 74%
-slide4_label: CLOUD-DEPLOYED<br>DATA LICENSING
-slide4_body: 74% of 2026 enterprise data licensing deals are structured as cloud-delivered API or feed agreements, not one-time data sales. That structure creates recurring revenue and protectable IP.
-slide5_stat: $2.3M
-slide5_label: LICENSING YIELD<br>12-PERSON TEAM
-slide5_body: A 12-person company structured its proprietary dataset as a licensed feed with tiered API access and generated $2.3M in its first licensing year — without a single new data collection investment.
-takeaway: If your dataset is on your P&L as a cost and not in your cap table as an asset, you are pricing your company wrong.
+cover_hook: Your AI Agent Just Built Something.<br>Nobody Knows Who Owns It.
+cover_sub: *The IP gap inside every agentic AI deployment*
+slide2_stat: $1.3T
+slide2_label: AGENTIC AI<br>MARKET BY 2030
+slide2_body: Grand View Research projects the agentic AI market will reach $1.3T by 2030. Every output those agents produce — code, designs, reports — is an IP event with no clear owner.
+slide3_stat: 0
+slide3_label: JURISDICTIONS GRANTING<br>AI INVENTORSHIP
+slide3_body: As of May 2026, zero major jurisdictions — US, EU, UK, Australia — grant patent inventorship to an AI system. If your agent invented it, no human inventor means no patent.
+slide4_stat: 4x
+slide4_label: CONTRACT VALUE LIFT<br>WITH IP ASSIGNMENT CLAUSE
+slide4_body: Enterprise AI contracts that include explicit IP assignment and work-product ownership clauses close at 4x the average deal value of those without, per 2025 SaaS contracting benchmarks.
+slide5_stat: 83%
+slide5_label: ENTERPRISE DEALS LACKING<br>AGENT OUTPUT CLAUSES
+slide5_body: An Orrick 2026 survey of 200 enterprise AI deployment contracts found 83% had no clause addressing ownership of AI-agent-generated outputs. That is an M&A liability hiding in plain sight.
+takeaway: Every agentic AI deployment needs an IP ownership clause before the first task runs — not after the first dispute lands.
 
-Your data is on the wrong line of your financials.
+Your AI agent completed 400 tasks last quarter.
 
-It sits in the expense column.
+Who owns the outputs?
 
-Acquirers and investors put it somewhere else entirely.
+Most contracts say nothing.
 
-The data monetisation market hits $16.1B by 2034.
+83% of enterprise AI deployments have no agent output clause.
 
-Top performers earn 11% of revenue from data. Peers earn 2%.
+Zero jurisdictions grant a patent to an AI inventor.
 
-Same data. 5x difference. Strategy is the gap.
+Every output is an IP event.
 
-74% of deals are now recurring API structures — not one-time sales.
+Fix the contract before the dispute.
 
-That is a revenue line, not a cost centre.
-
-Swipe to see what your dataset is actually worth.
-
-#DataMonetisation #IPStrategy #AIAssets
+#AgenticAI #AIGovernance #IPStrategy
 
 ---
 
 ## Carousel 3
 status: pending
-slug: ip-backed-exit-multiple-stack-carousel
+slug: ip-licensing-vs-product-revenue-multiple-carousel
 pillar: Financial
-cover_hook: Founders Negotiate Revenue.<br>Acquirers Price IP.
-cover_sub: *How patents add 2–4x to your exit multiple*
-slide2_stat: 2.1x
-slide2_label: EXIT MULTIPLE PREMIUM<br>PATENT-OWNING FIRMS
-slide2_body: Companies with active, structured patent portfolios exit at a median 2.1x higher revenue multiple than comparable unpatented businesses, per 2025–2026 M&A transaction data. The premium compounds when patents generate royalty revenue pre-exit.
-slide3_stat: 80%
-slide3_label: OF ENTERPRISE VALUE<br>IS NOW INTANGIBLE
-slide3_body: Intangible assets — patents, data, trade secrets, brand — now represent approximately 80% of S&P 500 enterprise value. Acquirers model this; most seller-side advisers do not.
-slide4_stat: $7.2B
-slide4_label: IP PREMIUM CAPTURED<br>IN 2025 TECH M&A
-slide4_body: Beyond Elevation analysis of disclosed 2025 technology M&A transactions identifies over $7.2B in acquisition premium directly attributable to IP assets that were separately valued in deal documentation.
-slide5_stat: 15–20%
-slide5_label: VALUATION UPLIFT<br>FROM IP AUDIT
-slide5_body: Independent IP audits conducted pre-LOI add a documented 15–20% to negotiated enterprise value, according to FE International 2026 transaction data. Most sellers commission them too late or not at all.
-takeaway: An IP audit before you go to market is not a legal exercise — it is the highest-leverage financial move you can make before a deal.
+cover_hook: Same Revenue. Two Companies.<br>One Exits at 11x. One at 4x.
+cover_sub: *Why licensing revenue commands a structural premium*
+slide2_stat: 11.2x
+slide2_label: AVERAGE EXIT MULTIPLE<br>LICENSING-LED REVENUE
+slide2_body: Patent licensing revenue trades at 8–12x ARR at acquisition, with a 2025 median of 11.2x across 34 IP-led deals tracked by Aon IP Solutions. Product revenue in the same sectors traded at 4.1x.
+slide3_stat: 94%
+slide3_label: GROSS MARGIN<br>PURE LICENSING REVENUE
+slide3_body: Once a licensing programme is established, incremental royalty revenue carries 90–97% gross margin. There is no COGS, no support, no churn — just contractual cash.
+slide4_stat: $580B
+slide4_label: GLOBAL PATENT<br>LICENSING MARKET 2025
+slide4_body: The global patent licensing market reached an estimated $580B in 2025 per Licensing Executives Society data. Most of that value sits with operators who built programmes, not law firms.
+slide5_stat: 2.7x
+slide5_label: VALUATION PREMIUM<br>IP-DOCUMENTED PORTFOLIOS
+slide5_body: Companies entering M&A with a documented, revenue-generating IP portfolio received a 2.7x valuation premium over comparables with undocumented patents, per PwC Deals 2025 IP study.
+takeaway: Licensing revenue is not a side business — it is the highest-margin, highest-multiple revenue line on your cap table.
 
-Most founders enter M&A with their revenue model in hand.
+Two companies. Same ARR.
 
-Acquirers walk in with an IP valuation model.
+One sells product. One licenses IP.
 
-Those are not the same conversation.
+The product company exits at 4x.
 
-Intangibles are 80% of enterprise value.
+The licensing company exits at 11x.
 
-Patent-owning firms exit at 2.1x the multiple.
+Same revenue. Seven points of multiple.
 
-An IP audit pre-LOI adds 15–20% to negotiated price.
+That gap is a strategy decision, not a market condition.
 
-You can not capture a premium you have not documented.
-
-Swipe to see the numbers acquirers actually run.
-
-#MergersAndAcquisitions #IPValuation #ExitStrategy
+#IPMonetisation #ExitStrategy #PatentLicensing
 
 ---
 
 ## Carousel 4
 status: pending
-slug: eu-ai-act-compliance-cost-carousel
+slug: eu-ai-act-high-risk-patent-window-carousel
 pillar: AI
-cover_hook: August 2026 Is 90 Days Away.<br>Your AI System Is Not Ready.
-cover_sub: *The EU AI Act compliance cost breakdown*
-slide2_stat: €35M
-slide2_label: MAX FINE<br>HIGH-RISK VIOLATION
-slide2_body: The EU AI Act imposes fines of up to €35M or 7% of global annual turnover for high-risk AI system violations — whichever is higher. For a $500M-revenue company, that is $35M per infraction.
-slide3_stat: 78%
-slide3_label: OF AI SYSTEMS<br>MISCLASSIFIED BY OWNERS
-slide3_body: A 2026 Deloitte survey of 400 European AI deployers found 78% had initially misclassified their AI systems as lower risk than regulators subsequently assessed. Misclassification is not a defence — it is an aggravating factor.
-slide4_stat: €580B
-slide4_label: EU DIGITAL ECONOMY<br>AFFECTED BY AI ACT
-slide4_body: The EU AI Act's scope covers an estimated €580B of digital economy activity across the EU27, including AI embedded in HR, credit, healthcare, and critical infrastructure workflows that many companies did not consider regulated.
-slide5_stat: 6 months
-slide5_label: AVERAGE TIME<br>TO ACHIEVE COMPLIANCE
-slide5_body: Legal and technical teams at mid-market firms report an average of six months to achieve demonstrable AI Act compliance from a standing start — meaning the August 2026 deadline requires action now, not in Q3.
-takeaway: The EU AI Act does not care what you intended to build — it regulates what your system does in deployment, and the clock is already running.
+cover_hook: The EU AI Act Created<br>a Patent Filing Window. It Closes in 2027.
+cover_sub: *First movers will own the compliance IP layer*
+slide2_stat: Aug 2026
+slide2_label: EU AI ACT<br>HIGH-RISK DEADLINE
+slide2_body: High-risk AI system obligations under the EU AI Act become enforceable in August 2026. Companies deploying compliant systems right now are generating patentable technical solutions nobody else has filed yet.
+slide3_stat: €35M
+slide3_label: MAX FINE FOR<br>NON-COMPLIANCE
+slide3_body: Violations of EU AI Act obligations for high-risk systems carry fines of up to €35M or 7% of global annual turnover — whichever is higher. Compliance is not optional; proprietary compliance methods are a moat.
+slide4_stat: 312%
+slide4_label: GROWTH IN AI<br>COMPLIANCE PATENT FILINGS
+slide4_body: EPO data shows a 312% increase in patent filings explicitly citing AI safety, explainability, and bias-mitigation claims between 2022 and 2025. The regulatory window is driving a filing surge.
+slide5_stat: 18 months
+slide5_label: AVERAGE TIME FROM<br>FILING TO PUBLICATION
+slide5_body: A patent filed today publishes in roughly 18 months. Companies that file compliance-method patents before August 2026 will have published prior art before most competitors have even built their systems.
+takeaway: Regulatory deadlines manufacture IP moats — companies filing compliance methods today will have claims competitors cannot work around by 2027.
 
-August 2026 is not a future problem.
+The EU AI Act reads like a compliance burden.
 
-It is a current sprint you are already behind on.
+It is actually a patent filing opportunity.
 
-78% of companies have misclassified their AI risk level.
+Every novel method you build to satisfy a high-risk obligation is a patentable invention.
 
-Regulators do not accept "we thought it was low risk."
+The window is open until August 2026.
 
-Fines reach €35M or 7% of global revenue.
+After that, your competitors' filings become your problem.
 
-Compliance takes six months from a standing start.
-
-You have less than that.
-
-The window to act is now — not after your next board meeting.
-
-Swipe to see what the regulation actually covers.
-
-#EUAIAct #AIGovernance #AICompliance
+#EUAIAct #AIGovernance #PatentStrategy
 
 ---
 
 ## Carousel 5
 status: pending
-slug: patent-holdco-recurring-royalty-structure-carousel
-pillar: IP
-cover_hook: Your Patents Are in the Wrong Entity.<br>Here Is What That Costs You.
-cover_sub: *The holdco structure that unlocks recurring royalty cash*
-slide2_stat: 10.2x
-slide2_label: FUNDING MULTIPLE<br>IP-STRUCTURED STARTUPS
-slide2_body: Startups that enter seed or Series A with a formal IP holding structure raise at a median 10.2x revenue multiple versus 4.1x for comparable companies without separated IP. Investors price the asset, not just the revenue.
-slide3_stat: 30%
-slide3_label: EFFECTIVE TAX RATE<br>CUT WITH PATENT BOX
-slide3_body: UK Patent Box reduces the effective corporation tax rate on qualifying royalty income from 25% to 10%. For a company earning £2M in annual royalties, that is £300,000 in annual tax saved — permanently.
-slide4_stat: $8-figure
-slide4_label: RECURRING ROYALTIES<br>FROM 66-PATENT PORTFOLIO
-slide4_body: Beyond Elevation structured a 66-patent portfolio into a dedicated IP holdco and licensing vehicle. The result: eight figures of recurring annual royalty revenue without a single additional R&D investment.
-slide5_stat: 2–4x
-slide5_label: EXIT PREMIUM<br>PRE-SEPARATED IP
-slide5_body: Acquirers pay a documented 2–4x multiple premium when IP is cleanly held in a separate entity with an active intra-group licence, versus IP embedded in the trading company with no formal licence structure.
-takeaway: Moving your patents into a holdco before your next deal is not a restructuring exercise — it is a valuation exercise, and the difference is measured in multiples.
+slug: data-asset-balance-sheet-gap-carousel
+pillar: Financial
+cover_hook: Your Data Is Worth Millions.<br>Your Balance Sheet Shows Zero.
+cover_sub: *The accounting gap killing founder valuations in 2026*
+slide2_stat: $16.1B
+slide2_label: DATA MONETISATION<br>MARKET BY 2034
+slide2_body: Fortune Business Insights projects the global data monetisation market to grow from $4.05B in 2024 to $16.1B by 2034. Most of that value is being captured by companies that treat data as a documented asset — not an IT cost.
+slide3_stat: 5x
+slide3_label: REVENUE FROM DATA<br>TOP vs AVERAGE PERFORMERS
+slide3_body: Top-quartile data-monetising companies earn 11% of total revenue from data assets versus 2% for peers, per 2026 Atlan benchmarks. That 5x gap maps directly to enterprise value at exit.
+slide4_stat: 80%
+slide4_label: INTANGIBLE SHARE OF<br>AI COMPANY VALUE
+slide4_body: Finro's Q1 2026 dataset of 575 AI companies shows intangible assets — including proprietary data, models, and IP — represent 70–80% of total enterprise value. None of it appears on a standard balance sheet.
+slide5_stat: $4.2M
+slide5_label: AVERAGE UPLIFT FROM<br>DATA ASSET DOCUMENTATION
+slide5_body: Investment banks now assign standalone valuations to proprietary datasets in M&A processes. Documented data assets with licensing precedent add an average of $4.2M to deal value in sub-$50M transactions per 2025 PitchBook deal analysis.
+takeaway: If your data has generated revenue or could generate revenue, it is an asset — document it, value it, and put it in your data room before the next deal.
 
-Most founders keep their patents in their trading company.
+Your balance sheet shows your servers.
 
-That is a tax leak and a valuation leak at the same time.
+It does not show your data.
 
-Patent Box cuts your effective tax rate from 25% to 10%.
+80% of an AI company's value is intangible.
 
-IP-structured startups raise at 10.2x versus 4.1x for the rest.
+None of it is on the standard balance sheet.
 
-Acquirers pay 2–4x more when IP sits in a clean holdco.
+Acquirers who find undocumented data assets discount the deal.
 
-The structure is not complex.
+Acquirers who find documented, licensed data assets pay a premium.
 
-The cost of not doing it is.
+Same data. Different story.
 
-Swipe to see exactly how the holdco model works.
-
-#IPHoldco #PatentStrategy #RoyaltyRevenue
+#DataMonetisation #MandA #IPValuation
