@@ -3,7 +3,7 @@ date: 2026-05-15
 theme: IP is no longer just becoming an asset class — today the proof points compound. Solve Intelligence prints a $40M Series B on 10x revenue for "Harvey for patent law." AstraZeneca signs an agentic AI licensing deal with Owkin, opening a new royalty category. EUIPO data pegs IP-intensive industries at ~47% of EU GDP and 81% of EU exports. Thomson Reuters quietly defines AI licensing scope to archive-only — protecting the live moat. A TDAY-ticker media co reports digital nearing 50% of revenue with AI licensing + subscriptions driving margin expansion.
 generated_at: 2026-05-15T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Yesterday IP became a tradeable asset class. Today the proof points compound acr
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-15T09:51:27.153Z
+share_urn: urn:li:share:7460990219559903232
 hook_format: listicle
 cta_goal: clicks
 slug: ip-backed-financing-patent-box-eu-eib

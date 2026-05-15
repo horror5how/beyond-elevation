@@ -37,3 +37,4 @@
 2026-05-14 17:51 | QUEUED | is-10-percent-royalty-good | Most founders accept 10% royalties without checking if that's right.  It is — 
 2026-05-14 18:27 | urn:li:share:7460757787644665857 | post #5 | avantium-upm-ip-only-asset-sale-vs-acquihire | Selling the company is overrated. Sell the patent.  Avantium just sold its Ray T
 2026-05-15 07:52 | QUEUED | data-asset-examples-2026 | Most founders own 7-figure data assets they've never inventoried.  7 real exampl
+2026-05-15 09:51 | urn:li:share:7460990219559903232 | post #1 | ip-backed-financing-patent-box-eu-eib | 5 ways your patent walks into the bank as collateral.  1. EUIPO 2026: IP-backed 

@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef930310ff5ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "deepip-25m-patent-lifecycle-compression",
-    "ts": "2026-05-13T15:47:26.004Z"
-  },
-  {
     "hash": "c1c3e7ffc3c3ff90",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "avantium-upm-ip-only-asset-sale-vs-acquihire",
     "ts": "2026-05-14T18:27:51.002Z"
+  },
+  {
+    "hash": "42ffffffff28a0e4",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "ip-backed-financing-patent-box-eu-eib",
+    "ts": "2026-05-15T09:51:27.153Z"
   }
 ]
