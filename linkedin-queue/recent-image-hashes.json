@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c1c3e7ffc3c3ff90",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "astrazeneca-owkin-agentic-ai-licensing-royalty",
-    "ts": "2026-05-13T18:52:58.239Z"
-  },
-  {
     "hash": "42e3e7ffc3e7ff0f",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ip-backed-financing-patent-box-eu-eib",
     "ts": "2026-05-15T09:51:27.153Z"
+  },
+  {
+    "hash": "7ef010113f34ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "solve-intelligence-40m-series-b-harvey-patents",
+    "ts": "2026-05-15T11:22:40.259Z"
   }
 ]
