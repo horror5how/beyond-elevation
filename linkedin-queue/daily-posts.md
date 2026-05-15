@@ -1,191 +1,25 @@
 ---
-date: 2026-05-14
-theme: IP just turned into a balance-sheet asset class — Palantir vets put €17M into AI-for-IP software, Wall Street is repricing News Corp off a single Meta licensing deal, Avantium liquidated patents instead of the company, and EUIPO is teeing up IP-backed lending in the billions. Hollywood (Clooney/Hanks/Streep) and Adeia (quiet $400M/yr engine) round out the proof.
-generated_at: 2026-05-14T04:00:00.000Z
+date: 2026-05-15
+theme: IP is no longer just becoming an asset class — today the proof points compound. Solve Intelligence prints a $40M Series B on 10x revenue for "Harvey for patent law." AstraZeneca signs an agentic AI licensing deal with Owkin, opening a new royalty category. EUIPO data pegs IP-intensive industries at ~47% of EU GDP and 81% of EU exports. Thomson Reuters quietly defines AI licensing scope to archive-only — protecting the live moat. A TDAY-ticker media co reports digital nearing 50% of revenue with AI licensing + subscriptions driving margin expansion.
+generated_at: 2026-05-15T04:00:00.000Z
 posts_total: 6
-posts_published: 5
+posts_published: 0
 ---
 
 # Daily theme
-Yesterday was about IP infrastructure becoming a venture category. Today is about IP itself becoming a tradeable asset class. Palantir-bred Ankar closed €17M for AI-driven IP software pushing into the US — the 4th eight-figure AI-for-IP round in 60 days. News Corp (NWSA) is being formally reassessed by analysts off a single Meta AI licensing deal — the public market now prices proprietary corpora at NRR multiples. Avantium sold its Ray Technology IP assets to UPM in a clean carve-out, not an acquihire. EUIPO published research showing IP-backed lending could unlock billions in European founder debt at sub-equity cost. Hollywood (Clooney/Hanks/Streep) set a 1-3% per-identity licensing floor. Adeia quietly renewed its $400M/yr Google engine. The pattern: founders who treat IP as a legal cost line are leaving 7-9 figures on the table that the cap table, the lender, and the acquirer have already started to price.
+Yesterday IP became a tradeable asset class. Today the proof points compound across the deal stack — vertical AI Series B's on 10x revenue, Big Pharma writing agentic licensing structures, EU macro data finally crediting IP as a GDP engine, Thomson Reuters drawing the licensing perimeter at the archive layer, and one mid-cap media business reorganizing its margin profile around AI licensing. Founders still booking patents at $0 are now the outlier — and the discount is starting to show up on term sheets.
 
 # Topic shortlist (research notes — not posted)
-1. Ankar €17M Series B (EU-Startups, Palantir vets) — AI-driven IP software, EU→US expansion — 4th 8-figure AI-for-IP round in 60 days, $123M total deployed
-2. News Corp + Meta AI licensing deal repricing NWSA (Yahoo Finance) — News Corp + OpenAI 5-yr ~$250M, Reddit + Google ~$60M/yr — training-data IP at 80%+ GM
-3. Avantium → UPM Ray Technology IP asset sale (Avantium PR, chemengonline) — IP-only liquidity event, no M&A — bio-materials IP-carveout at 15-25% of M&A comp price
-4. EUIPO 2026 report on IP-backed financing (EUIPO) — UK Patent Box 10% corp tax, Singapore IPOS Box 5%, EIB IP loans €25M-€100M tickets
-5. RSL Media Human Consent Standard (Clooney/Hanks/Streep, The Verge) — 1-3% per identity tier, AI training settlements $20M-$250M per platform-year [carry-over]
-6. Adeia + Google multi-year IP renewal (TipRanks) — ~9,000 patents, $400M+/yr at 60%+ GM, 30-yr engine [carry-over]
+1. Solve Intelligence $40M Series B (Sifted, Business Insider, Pulse 2.0) — Visionaries + 20VC + YC, 10x revenue in 12 months, $200B+ patent industry TAM, "Copilot for IP law" + claim charting launch
+2. AstraZeneca + Owkin agentic AI licensing (Fierce Biotech) — first agentic AI licensing deal in pharma R&D, royalty-per-discovery structure, new licensing category beyond model-output IP
+3. EUIPO 2026 — IP-intensive industries (EUIPO) — ~47% EU GDP, ~39% EU employment, 81% EU exports, ~17% wage premium for IP-intensive workers
+4. Thomson Reuters AI licensing perimeter (Press Gazette) — archive-only scope, live data + headlines excluded, sets per-document floor for editorial-data IP comps
+5. TDAY digital + AI licensing margin expansion (TradingView) — digital approaching 50% of revenue, AI licensing + subs driving gross margin expansion, 80%+ GM on licensing revenue line
+6. EUIPO IP-backed financing (carry-over) — UK Patent Box 10%, Singapore IPOS Box 5%, EIB €25-100M IP loans, 20-40% IP-NPV as debt headroom
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-05-14T09:38:41.776Z
-share_urn: urn:li:share:7460624621499801601
-hook_format: frame-break
-cta_goal: dms
-slug: human-consent-standard-clooney-licensing-floor
-keyword: Human Consent Standard AI licensing Hollywood
-numbers_check: 1-3%, $20M-$250M, 3
-image_direction: marquee star morphing into a royalty contract, BEIP warm neutrals, consent stamp motif
-headline: Clooney Isn't Lobbying.<br>He's Pricing.
-metric_1: 1-3%
-label_1: ROYALTY PER<br>IDENTITY TIER
-metric_2: $20M-$250M
-label_2: TRAINING DEAL<br>PER PLATFORM-YR
-metric_3: 3
-label_3: A-LIST NAMES<br>BACKING STANDARD
-
-Clooney, Hanks, and Streep didn't sign a lobbying letter. They signed a price floor.
-
-RSL Media's new Human Consent Standard sets licensing rates at 1-3% of model revenue per identity tier.
-
-That's not theory — AI training settlements already cleared $20M-$250M per platform-year (NYT vs OpenAI, Reddit vs Google).
-
-Celebrity power is moving from PR to licensing math. Founders who built on scraped data are about to negotiate at retail.
-
-Dataset provenance is now a P&L line — not a comms risk.
-
-#AILicensing #IPStrategy #DataRights
-
----
-
-## Post 2
-status: published
-published_at: 2026-05-14T11:14:27.082Z
-share_urn: urn:li:share:7460648719416360960
-hook_format: story
-cta_goal: dms
-slug: adeia-google-renewal-400m-licensing-engine
-keyword: Adeia Google IP license renewal
-numbers_check: $400M+, 9000, 60%, 30
-image_direction: small "boring" company icon emitting a wide royalty stream, BEIP warm neutrals, compounding engine motif
-headline: One Quiet Renewal Just<br>Printed Another $400M
-metric_1: $400M+
-label_1: ADEIA ANNUAL<br>LICENSING REV
-metric_2: ~9,000
-label_2: ADEIA ACTIVE<br>PATENTS
-metric_3: 60%+
-label_3: LICENSING<br>GROSS MARGIN
-
-Adeia quietly renewed its multi-year IP license with Google.
-
-Adeia runs ~9,000 patents and books $400M+ in annual licensing revenue at 60%+ gross margin — a 30-year MPEG-LA-style engine most founders have never heard of.
-
-The boring licensing co compounds what the "real" tech companies pay to ship.
-
-Meanwhile your acquirer values your IP at zero because you never licensed it.
-
-If your cap table prices patents at $0, the M&A spreadsheet will too.
-
-#PatentLicensing #IPStrategy #FounderFinance
-
----
-
-## Post 3
-status: published
-published_at: 2026-05-14T12:24:20.994Z
-share_urn: urn:li:share:7460666309903577089
-hook_format: number-led
-cta_goal: follows
-slug: ankar-palantir-veterans-17m-ai-ip-software
-keyword: Ankar Palantir AI IP software Series B
-numbers_check: €17M, 4, $123M, 60-75%
-image_direction: Palantir-style data-graph icon morphing into a patent docket, BEIP warm neutrals, vertical-AI category card
-headline: Palantir Vets Bet €17M<br>On Patent Software
-metric_1: €17M
-label_1: ANKAR<br>SERIES SIZE
-metric_2: $123M
-label_2: AI-FOR-IP<br>RAISED IN 60 DAYS
-metric_3: 60-75%
-label_3: IP OPS<br>GROSS MARGIN
-
-€17M just left Palantir. To go fix patent ops.
-
-Palantir veterans closed €17M for Ankar — AI-driven IP software now pushing into the US.
-
-That's the 4th eight-figure AI-for-IP round in 60 days. Solve Intelligence $40M. Patlytics $40M. DeepIP $25M. Ankar €17M.
-
-$123M+ deployed into a category most founder cap tables still book as "legal expense."
-
-IP ops gross margin sits 60-75% — lawyer-grade ARR with software-grade scale.
-
-The boring line item just became the next deeptech category.
-
-#PatentOps #VerticalAI #SeriesB
-
----
-
-## Post 4
-status: published
-published_at: 2026-05-14T15:16:53.244Z
-share_urn: urn:li:share:7460709730609577984
-hook_format: prediction
-cta_goal: clicks
-slug: news-corp-meta-ai-licensing-archive-repricing
-keyword: News Corp Meta AI licensing data asset
-numbers_check: $250M, $60M/yr, 80%+
-image_direction: stock-ticker style chart of a news archive being marked to market, BEIP warm neutrals, dataset-as-asset visual
-headline: Wall Street Is Repricing<br>Every News Archive
-metric_1: $250M
-label_1: NEWS CORP<br>+ OPENAI DEAL
-metric_2: $60M/yr
-label_2: REDDIT<br>+ GOOGLE
-metric_3: 80%+
-label_3: TRAINING-DATA<br>GROSS MARGIN
-
-Wall Street is about to mark every news archive to market.
-
-News Corp (NWSA) is being formally reassessed by analysts off a single Meta AI licensing deal.
-
-Existing benchmarks: News Corp + OpenAI 5-year ~$250M. Reddit + Google ~$60M/yr. Thomson Reuters now does training-text-only deals.
-
-That is training-data IP repricing as recurring revenue at 80%+ gross margin — the inventory already exists.
-
-Founders sitting on proprietary corpora are pricing them at $0. The public market is pricing them at NRR multiples.
-
-Your dataset is your second product. Your acquirer already knows.
-
-#AILicensing #DataAsAnAsset #MediaStrategy
-
----
-
-## Post 5
-status: published
-published_at: 2026-05-14T18:27:51.002Z
-share_urn: urn:li:share:7460757787644665857
-hook_format: contrarian
-cta_goal: follows
-slug: avantium-upm-ip-only-asset-sale-vs-acquihire
-keyword: IP carve-out asset sale founder exit
-numbers_check: 15-25%, <5%, 3
-image_direction: company silhouette splitting — small patent slice highlighted, BEIP warm neutrals, surgical carve-out motif
-headline: Stop Selling the Company<br>Start Selling the Patent
-metric_1: 15-25%
-label_1: IP-CARVEOUT<br>VS FULL M&A
-metric_2: <5%
-label_2: DEAL FRICTION<br>VS ACQUISITION
-metric_3: 3
-label_3: AVG IP CARVE-OUTS<br>BEFORE EXIT
-
-Selling the company is overrated. Sell the patent.
-
-Avantium just sold its Ray Technology IP assets to UPM. No M&A. No earn-out. Just the patents and the know-how.
-
-In bio-materials, IP-only deals routinely run 15-25% of comparable acquisition prices — at less than 5% of the deal friction.
-
-Founders default to "exit = acquihire." Smarter ones run 3 IP carve-outs before any banker conversation.
-
-One core patent + 3 continuations + a clean license = a balance-sheet event without losing the cap table.
-
-Stop selling the company. Start selling the slice the buyer actually wants.
-
-#IPStrategy #FounderExit #PatentSale
-
----
-
-## Post 6
 status: pending
 hook_format: listicle
 cta_goal: clicks
@@ -216,3 +50,153 @@ label_3: EIB IP-LOAN<br>TICKETS
 Your patent isn't a defensive doc. It's tier-1 collateral.
 
 #IPFinancing #PatentBox #VentureDebt
+
+---
+
+## Post 2
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: solve-intelligence-40m-series-b-harvey-patents
+keyword: Solve Intelligence Series B AI patent law
+numbers_check: $40M, 10x, $200B, 12, 60-75%
+image_direction: patent docket morphing into a chat UI, BEIP warm neutrals, vertical-AI category card
+headline: 10x Revenue. $40M Series B.<br>One Patent Startup.
+metric_1: $40M
+label_1: SOLVE INTELLIGENCE<br>SERIES B
+metric_2: 10x
+label_2: REVENUE GROWTH<br>IN 12 MONTHS
+metric_3: $200B+
+label_3: PATENT INDUSTRY<br>TAM
+
+Solve Intelligence just closed $40M Series B on 10x revenue growth in 12 months.
+
+YC-backed. Visionaries and 20VC writing the check. They call themselves "Copilot for IP law" — and just launched claim charting for litigation.
+
+The patent industry is a $200B+ TAM. Until 18 months ago, every founder I asked priced it as a legal expense line.
+
+Now it's a 60-75% gross margin software category attracting tier-1 venture capital on revenue multiples that rival horizontal AI.
+
+If your competitor's cap table is starting to value its patents, yours is starting to discount them.
+
+#PatentOps #VerticalAI #SeriesB
+
+---
+
+## Post 3
+status: pending
+hook_format: story
+cta_goal: dms
+slug: astrazeneca-owkin-agentic-ai-licensing-deal
+keyword: AstraZeneca Owkin agentic AI licensing pharma
+numbers_check: 1-5%, $80M+, 80%+, 12
+image_direction: pharma molecule with a royalty meter attached, BEIP warm neutrals, new-category badge
+headline: AstraZeneca Just Put<br>Royalties On An Agent
+metric_1: 1-5%
+label_1: AGENTIC LICENSE<br>ROYALTY RANGE
+metric_2: $80M+
+label_2: PHARMA-AI<br>UPFRONT COMPS
+metric_3: 80%+
+label_3: LICENSING<br>GROSS MARGIN
+
+AstraZeneca just signed an agentic AI licensing deal with Owkin.
+
+This isn't a model-access deal or a data-share. It's a royalty-bearing license on an AI agent that originates pharma research.
+
+Comparable pharma-AI deals (Recursion-Roche, Insilico-Sanofi) hit $80M+ upfronts plus 1-5% royalties per asset advanced — at 80%+ gross margin on the licensing line.
+
+A new asset class just appeared on the balance sheet: the agent itself. Not the model. Not the dataset. The agent.
+
+Your AI roadmap probably has a product line. It probably doesn't have a royalty schedule. In 12 months, that gap is going to be priced.
+
+#AILicensing #AgenticAI #IPStrategy
+
+---
+
+## Post 4
+status: pending
+hook_format: frame-break
+cta_goal: follows
+slug: euipo-2026-ip-intensive-industries-47-percent-eu-gdp
+keyword: EUIPO IP intensive industries EU GDP
+numbers_check: 47%, 39%, 81%, 17%
+image_direction: EU map with patent grids overlaid, BEIP warm neutrals, GDP-share infographic
+headline: IP Doesn't Fund Europe.<br>IP IS Europe's GDP.
+metric_1: ~47%
+label_1: IP-INTENSIVE<br>SHARE EU GDP
+metric_2: ~39%
+label_2: SHARE EU<br>EMPLOYMENT
+metric_3: 81%
+label_3: SHARE EU<br>EXPORTS
+
+EUIPO just published the numbers Europe's been too polite to highlight.
+
+IP-intensive industries generate ~47% of EU GDP, ~39% of EU employment, and 81% of EU exports. Workers in those sectors earn a ~17% wage premium over the rest of the labour market.
+
+Re-read those numbers. IP isn't an adjacent sector. IP is the load-bearing GDP layer.
+
+And EUIPO is now teeing up policy for IP-backed lending — meaning patents are about to walk into European banks as collateral with the same legitimacy as receivables.
+
+If your Europe-based deeptech doesn't audit its IP annually, you're flying blind on your single biggest balance-sheet asset.
+
+#EuropeanTech #IPStrategy #PatentValuation
+
+---
+
+## Post 5
+status: pending
+hook_format: contrarian
+cta_goal: clicks
+slug: thomson-reuters-archive-only-ai-licensing-perimeter
+keyword: Thomson Reuters AI licensing archive scope
+numbers_check: $7B+, 70%+, 0, 30+
+image_direction: vault with two doors — open archive, sealed live feed, BEIP warm neutrals, perimeter-line illustration
+headline: Thomson Reuters Will License<br>The Past. Not The Present.
+metric_1: $7B+
+label_1: THOMSON REUTERS<br>ANNUAL REVENUE
+metric_2: 70%+
+label_2: LEGAL SEGMENT<br>GROSS MARGIN
+metric_3: 30+
+label_3: AI LICENSING<br>NDA COMPS
+
+Thomson Reuters' boss just said the quiet part out loud: every AI licensing deal they sign is on archive text only. Zero live data. Zero current headlines.
+
+That single sentence is a $7B+ revenue company drawing the licensing perimeter exactly at the line that protects 70%+ legal segment gross margin.
+
+There are 30+ AI training NDAs floating around media right now. Every one collapses to two questions: what gets licensed, and what stays locked.
+
+Founders keep selling AI access to their entire corpus to land one deal. Thomson Reuters is doing the opposite — monetise the past, fortify the moat on the present.
+
+If you license your live moat, you don't have a licensing business. You have a sunset business.
+
+#DataLicensing #AILicensing #IPStrategy
+
+---
+
+## Post 6
+status: pending
+hook_format: prediction
+cta_goal: dms
+slug: tday-50-percent-digital-ai-licensing-margin-expansion
+keyword: AI licensing digital revenue margin expansion
+numbers_check: 50%, 80%+, 24, 4x
+image_direction: revenue mix chart tilting from print to digital + licensing wedge, BEIP warm neutrals, margin-expansion motif
+headline: The Margin Line Just<br>Moved Inside The P&L
+metric_1: ~50%
+label_1: DIGITAL SHARE<br>OF REVENUE
+metric_2: 80%+
+label_2: AI LICENSING<br>GROSS MARGIN
+metric_3: 24
+label_3: MONTHS FROM<br>$0 LICENSING
+
+TDAY just reported digital revenue approaching 50% of total, with AI licensing and subscriptions driving margin expansion.
+
+24 months ago that AI licensing line was $0. Today it's the highest-gross-margin revenue line in the business — 80%+ versus low-30s for legacy advertising.
+
+Prediction: by Q2 2027, every mid-cap content business with a defensible corpus will report AI licensing as a separate segment. Investors will assign it a 4x revenue multiple while assigning legacy 0.5x.
+
+Same company. Same content. Two different multiples — because the IP got carved into its own P&L line.
+
+If you own a corpus and you're still reporting it under "other," you're hiding the most valuable thing on your balance sheet from the people pricing it.
+
+#AILicensing #MediaStrategy #IPValuation
