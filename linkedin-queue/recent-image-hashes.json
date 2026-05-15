@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42e3e7ffc3e7ff0f",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "human-consent-standard-clooney-licensing-floor",
-    "ts": "2026-05-14T09:38:41.776Z"
-  },
-  {
     "hash": "7e2020672f2bffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "solve-intelligence-40m-series-b-harvey-patents",
     "ts": "2026-05-15T11:22:40.259Z"
+  },
+  {
+    "hash": "81ffffffcd402d7f",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "astrazeneca-owkin-agentic-ai-licensing-deal",
+    "ts": "2026-05-15T12:29:40.440Z"
   }
 ]

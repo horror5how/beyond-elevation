@@ -143,3 +143,4 @@ avantium-upm-ip-only-asset-sale-vs-acquihire
 data-asset-examples-2026
 ip-backed-financing-patent-box-eu-eib
 solve-intelligence-40m-series-b-harvey-patents
+astrazeneca-owkin-agentic-ai-licensing-deal
