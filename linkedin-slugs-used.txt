@@ -140,3 +140,4 @@ ai-company-ip-valuation-premium-2026
 news-corp-meta-ai-licensing-archive-repricing
 is-10-percent-royalty-good
 avantium-upm-ip-only-asset-sale-vs-acquihire
+data-asset-examples-2026

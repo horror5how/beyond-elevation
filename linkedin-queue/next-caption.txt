@@ -1,22 +1,19 @@
-Most founders accept 10% royalties without checking if that's right.
+Most founders own 7-figure data assets they've never inventoried.
 
-It is — for software.
+7 real examples — and what 2024–2026 buyers paid:
 
-It's the floor for pharma.
+Behavioral click data: $2.1M per 10M users
 
-Double the ceiling for hardware.
+Medical outcomes: $85M for 4.2M patient records
 
-2026 royalty benchmarks:
+Training corpus rights: $250M+ for 1M licensed articles
 
-Software: 8–12%
-Pharma: 5–20%
-Electronics: 3–6%
-AI patents: 15% compound annual growth since 2020
+Geospatial telemetry: $45M standalone IP-only deal
 
-Signing without industry benchmarks costs founders 30–50% of licensing revenue.
+API access data: $1.9M/year recurring licensing
 
-Most deals close before anyone looks up comparable rates.
+The buyers know. Most sellers don't.
 
-Know your number before you sign.
+Start with the inventory.
 
-#IPStrategy #Licensing #PatentRoyalties
+#DataMonetization #IPStrategy #BusinessValuation
