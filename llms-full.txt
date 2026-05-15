@@ -1410,3 +1410,19 @@ Most accountants and lawyers default to one method. Most VCs default to another.
 At [Beyond Elevation](https://beyondelevation.com), every valuation engagement runs at least three of these methods side by side. Here is what each one does, where it wins
 
 ---
+
+## Is 10% a Good Royalty Rate? The 2026 Industry-by-Industry Cheat Sheet
+
+URL: https://beyondelevation.com/blog/post.html?slug=is-10-percent-royalty-good
+
+10% sounds like a strong royalty rate. In software patent licensing, it sits near the top of the 2026 benchmark range. In hardware, 10% would collapse your licensee’s margins. In pharma, 10% is the starting offer — not the ceiling. Hayat Amin argues that founders who fixate on a single royalty percentage without anchoring it to the licensee’s gross margin are leaving seven figures on the table or killing deals before they start.
+
+The answer to “is a 10% royalty good” depends entirely on three variables: the industry you are licensing into, the strength of your patent claims, and the licensee’s ability to absorb the rate without designing around you. Here is the 2026 cheat sheet — backed by Stanzione, MarketBlast, and UpCounsel data — that tells you exactly where 10% sits in your specific market.
+
+## Is 10% a Good Royalty Rate in 2026?
+
+A 10% royalty rate is excellent for software and SaaS patent licensing, where the 2026 benchmark range sits between 8% and 12% of net sales. It is aggressive but defensible in AI, where patent licensing fees have compounded at 15% annually since 2020. It is too high for hardware and electronics (3–6% benchmark) and potentially too low for pharmaceutical innovations, where rates regularly reach 15–20%.
+
+The number itself is not good or bad. A royalty rate is only “good” if it maximises the total value of the licensing relationship — high enough to capture the patent’s contribution to the licensee’s revenue, low enough that the licensee can build
+
+---
