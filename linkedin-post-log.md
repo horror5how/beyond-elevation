@@ -40,3 +40,4 @@
 2026-05-15 09:51 | urn:li:share:7460990219559903232 | post #1 | ip-backed-financing-patent-box-eu-eib | 5 ways your patent walks into the bank as collateral.  1. EUIPO 2026: IP-backed 
 2026-05-15 11:22 | urn:li:share:7461013175770161152 | post #2 | solve-intelligence-40m-series-b-harvey-patents | Solve Intelligence just closed $40M Series B on 10x revenue growth in 12 months.
 2026-05-15 12:29 | urn:li:share:7461030037660745728 | post #3 | astrazeneca-owkin-agentic-ai-licensing-deal | AstraZeneca just signed an agentic AI licensing deal with Owkin.  This isn't a m
+2026-05-15 12:53 | urn:li:share:7461035979856830464 | Most founders think licensing = patents.  Wrong.  Your methodology is licensable
