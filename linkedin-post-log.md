@@ -44,3 +44,4 @@
 2026-05-15 15:11 | urn:li:share:7461070859772792832 | post #4 | euipo-2026-ip-intensive-industries-47-percent-eu-gdp | EUIPO just published the numbers Europe's been too polite to highlight.  IP-inte
 2026-05-15 17:51 | QUEUED | 5-methods-of-valuation | Most founders pitch one valuation method. Acquirers run all five — and exploit
 2026-05-15 17:52 | urn:li:share:7461111279638700032 | Most founders pitch one valuation method. Acquirers run all five — and exploit
+2026-05-15 18:16 | urn:li:share:7461117409278722048 | post #5 | thomson-reuters-archive-only-ai-licensing-perimeter | Thomson Reuters' boss just said the quiet part out loud: every AI licensing deal

@@ -3,7 +3,7 @@ date: 2026-05-15
 theme: IP is no longer just becoming an asset class — today the proof points compound. Solve Intelligence prints a $40M Series B on 10x revenue for "Harvey for patent law." AstraZeneca signs an agentic AI licensing deal with Owkin, opening a new royalty category. EUIPO data pegs IP-intensive industries at ~47% of EU GDP and 81% of EU exports. Thomson Reuters quietly defines AI licensing scope to archive-only — protecting the live moat. A TDAY-ticker media co reports digital nearing 50% of revenue with AI licensing + subscriptions driving margin expansion.
 generated_at: 2026-05-15T04:00:00.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -152,7 +152,9 @@ If your Europe-based deeptech doesn't audit its IP annually, you're flying blind
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-15T18:16:51.916Z
+share_urn: urn:li:share:7461117409278722048
 hook_format: contrarian
 cta_goal: clicks
 slug: thomson-reuters-archive-only-ai-licensing-perimeter
