@@ -49,6 +49,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/good-ai-company-to-invest-in/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/fractional-ip-strategist-when-to-hire/</loc>
     <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -793,9 +799,9 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=good-ai-company-to-invest-in</loc>
+    <loc>https://beyondelevation.com/blog/md/good-ai-company-to-invest-in.md</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>

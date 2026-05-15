@@ -122,5 +122,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Is Data an Asset on the Balance Sheet? In 2026, Yes — Here Is the Isle of Man Structure That Changed Everything](https://beyondelevation.com/blog/post.html?slug=data-asset-on-balance-sheet) — /blog/md/data-asset-on-balance-sheet.md
 - [The 5 Valuation Methods Every Operator Needs — And Which One Wins for AI, IP-Heavy, and Pre-Revenue Companies](https://beyondelevation.com/blog/post.html?slug=5-methods-of-valuation) — /blog/md/5-methods-of-valuation.md
 - [Is 10% a Good Royalty Rate? The 2026 Industry-by-Industry Cheat Sheet](https://beyondelevation.com/blog/post.html?slug=is-10-percent-royalty-good) — /blog/md/is-10-percent-royalty-good.md
+- [How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard](https://beyondelevation.com/blog/post.html?slug=good-ai-company-to-invest-in) — /blog/md/good-ai-company-to-invest-in.md
 
 > Full blog content available at /llms-full.txt

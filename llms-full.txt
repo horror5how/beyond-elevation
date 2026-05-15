@@ -1426,3 +1426,21 @@ A 10% royalty rate is excellent for software and SaaS patent licensing, where th
 The number itself is not good or bad. A royalty rate is only “good” if it maximises the total value of the licensing relationship — high enough to capture the patent’s contribution to the licensee’s revenue, low enough that the licensee can build
 
 ---
+
+## How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard
+
+URL: https://beyondelevation.com/blog/post.html?slug=good-ai-company-to-invest-in
+
+AI multiples in Q1 2026 range from 10x to 50x revenue. The median sits around 25x. That 5x spread between a good AI company to invest in and a mediocre one is not explained by revenue growth or TAM slides. It is explained by defensibility — and most investors cannot score it.
+
+Hayat Amin, who has priced IP into more than $400M of technology transactions, argues the question investors should ask is not &ldquo;which AI company has the best model&rdquo; but &ldquo;which AI company still exists if OpenAI ships v-next tomorrow.&rdquo; That single question separates the 10x companies from the 50x companies. Here is the 5-axis scorecard that makes the answer measurable.
+
+## What Makes a Good AI Company to Invest In?
+
+A good AI company to invest in scores high on five defensibility axes: proprietary data, IP moat, workflow integration, switching cost, and vertical specialization. Revenue growth without defensibility is a countdown timer — the only question is how fast a funded competitor catches up. Beyond Elevation&rsquo;s transaction data shows IP-rich AI firms command a 15–20% valuation premium over revenue-matched peers with no IP protection.
+
+The venture firms rejecting &ldquo;GPT wrapper&rdquo; pitches in 2026 are not anti-AI. They are anti-fragile. Insight Partners, Codurance, and Big Ideas DB all published frameworks this year confirming the same five axes. Score a company 1–5 on each axis. Below 15 total, walk away. Above 20, move fast.
+
+## Axis 1: Does the Company Own a Pro
+
+---

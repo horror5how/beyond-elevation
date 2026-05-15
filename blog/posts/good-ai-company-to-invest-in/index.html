@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard — Beyond Elevation</title>
+    <meta name="description" content="What makes a good AI company to invest in? Score the company on 5 defensibility axes — proprietary data, IP moat, workflow depth, switching cost, and vertical specialization. Here is the scorecard VCs actually use in 2026." />
+    <link rel="canonical" href="https://beyondelevation.com/blog/posts/good-ai-company-to-invest-in/" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="GPTBot" content="index, follow" />
+    <meta name="ChatGPT-User" content="index, follow" />
+    <meta name="ClaudeBot" content="index, follow" />
+    <meta name="Claude-Web" content="index, follow" />
+    <meta name="anthropic-ai" content="index, follow" />
+    <meta name="PerplexityBot" content="index, follow" />
+    <meta name="Google-Extended" content="index, follow" />
+    <meta name="Applebot-Extended" content="index, follow" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='black'/%3E%3Ctext x='50%25' y='53%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,Helvetica,sans-serif' font-size='24' font-weight='700' fill='white'%3EBE%3C/text%3E%3C/svg%3E" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://beyondelevation.com/blog/posts/good-ai-company-to-invest-in/" />
+    <meta property="og:title" content="How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard" />
+    <meta property="og:description" content="What makes a good AI company to invest in? Score the company on 5 defensibility axes — proprietary data, IP moat, workflow depth, switching cost, and vertical specialization. Here is the scorecard VCs actually use in 2026." />
+    <meta property="og:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Beyond Elevation" />
+    <meta property="article:published_time" content="2026-05-15" />
+    <meta property="article:modified_time" content="2026-05-15" />
+    <meta property="article:author" content="Hayat Amin" />
+    <meta property="article:section" content="AI" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://beyondelevation.com/blog/posts/good-ai-company-to-invest-in/" />
+    <meta name="twitter:title" content="How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard" />
+    <meta name="twitter:description" content="What makes a good AI company to invest in? Score the company on 5 defensibility axes — proprietary data, IP moat, workflow depth, switching cost, and vertical specialization. Here is the scorecard VCs actually use in 2026." />
+    <meta name="twitter:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta name="twitter:site" content="@BeyondElevation" />
+    <meta name="twitter:creator" content="@HayatAmin" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" /></noscript>
+    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <style>
+      .post-page { padding: 120px 0 90px; }
+      .post-shell { max-width: 720px; margin: 0 auto; }
+      .post-shell h1 { font-size: clamp(2.1rem, 5vw, 3.7rem); max-width: 14ch; line-height: 1.04; letter-spacing: -0.03em; }
+      .post-meta { display:flex; gap: 14px; flex-wrap:wrap; color:#666; margin: 18px 0 30px; font-size: 0.92rem; }
+      .post-body { color:#1f1f1f; line-height: 1.92; font-size: 1.08rem; }
+      .post-body p { margin: 0 0 24px; }
+      .post-body h2 { margin: 48px 0 16px; font-size: 1.55rem; line-height: 1.25; letter-spacing: -0.01em; }
+      .post-body h3 { margin: 36px 0 12px; font-size: 1.2rem; line-height: 1.3; }
+      .post-body a { color: #1a1a1a; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+      .author-block { display:flex; align-items:center; gap: 12px; margin: 18px 0 24px; padding: 0; border: 0; background: transparent; box-shadow:none; }
+      .author-photo { width: 34px; height: 34px; border-radius: 999px; object-fit: cover; }
+      .author-copy strong { display:block; font-size:1rem; color:#1a1a1a; }
+      .author-copy span { color:#666; font-size: 0.93rem; }
+      .post-hero { width: 100%; border-radius: 16px; margin: 24px 0 28px; object-fit: cover; }
+      .post-cta { margin: 48px 0 8px; padding: 28px 28px 24px; border-radius: 16px; background: #FAF7F2; border: 1px solid #ECE6DA; box-shadow: 0 1px 0 rgba(17,17,17,0.02); font-family: 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+      .post-cta h3 { margin: 0 0 12px; font-size: 1.32rem; line-height: 1.25; letter-spacing: -0.018em; color: #111; font-weight: 700; max-width: 28ch; }
+      .post-cta p { margin: 0 0 18px; color: #2a2a2a; line-height: 1.65; font-size: 1rem; }
+      .post-cta .cta-primary { display: inline-flex; align-items: center; gap: 8px; padding: 14px 24px; font-size: 0.95rem; font-weight: 700; letter-spacing: -0.005em; border-radius: 100px; background: #1a1a1a; color: #fff; text-decoration: none; border: 2px solid #1a1a1a; transition: transform 0.2s ease, background 0.2s ease; }
+      .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
+      .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
+      @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
+      .related-posts { margin: 64px 0 0; padding: 48px 0 0; border-top: 1px solid #e8e8e8; }
+      .related-eyebrow { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; }
+      .related-head h2 { margin: 8px 0 28px; font-size: 1.6rem; line-height: 1.18; letter-spacing: -0.02em; color: #1a1a1a; }
+      .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+      .related-card { display: flex; flex-direction: column; gap: 12px; padding: 22px 22px 20px; border-radius: 14px; border: 1px solid #e8e8e8; background: #fff; color: inherit; text-decoration: none; transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease; }
+      .related-card:hover { border-color: #1a1a1a; transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,0.06); }
+      .related-tag { display: inline-block; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #666; }
+      .related-card h3 { font-size: 1.05rem; line-height: 1.32; letter-spacing: -0.012em; color: #1a1a1a; margin: 0; }
+      .related-cta { font-size: 0.82rem; font-weight: 600; color: #1a1a1a; margin-top: auto; }
+      @media (max-width: 760px) { .related-grid { grid-template-columns: 1fr; } }
+      .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
+      .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
+      .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+      .share-btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; font-size: 0.82rem; font-weight: 600; border-radius: 100px; border: 1.5px solid #e0e0e0; background: #fff; color: #333; text-decoration: none; transition: all 0.25s ease; }
+      .share-btn:hover { border-color: #333; background: #1a1a1a; color: #fff; transform: translateY(-1px); }
+      .share-btn svg { width: 16px; height: 16px; fill: currentColor; flex-shrink: 0; }
+      @media (max-width: 760px) {
+        .post-page { padding: 102px 0 72px; }
+        .post-shell { max-width: 100%; }
+        .post-shell h1 { max-width: none; }
+      }
+    </style>
+
+    <!-- Article schema (JSON-LD) -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard","description":"What makes a good AI company to invest in? Score the company on 5 defensibility axes — proprietary data, IP moat, workflow depth, switching cost, and vertical specialization. Here is the scorecard VCs actually use in 2026.","image":"https://beyondelevation.com/assets/og-image.jpg","datePublished":"2026-05-15","dateModified":"2026-05-15","author":{"@type":"Person","name":"Hayat Amin","url":"https://beyondelevation.com/#founder","jobTitle":"CEO of Beyond Elevation"},"publisher":{"@type":"Organization","name":"Beyond Elevation","url":"https://beyondelevation.com","logo":{"@type":"ImageObject","url":"https://beyondelevation.com/assets/og-image.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://beyondelevation.com/blog/posts/good-ai-company-to-invest-in/"},"articleSection":"AI"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://beyondelevation.com"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://beyondelevation.com/blog/"},{"@type":"ListItem","position":3,"name":"How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard","item":"https://beyondelevation.com/blog/posts/good-ai-company-to-invest-in/"}]}</script>
+
+    <!-- Analytics: Vercel + Speed Insights -->
+    <script defer src="/_vercel/insights/script.js"></script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
+    <!-- /Analytics -->
+
+    <!-- PostHog -->
+    <script>
+      !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture identify alias people set set_once register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures startSessionRecording stopSessionRecording captureException loadToolbar".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+      posthog.init('phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM',{api_host:'https://us.i.posthog.com',capture_pageview:true,capture_pageleave:true,autocapture:true,person_profiles:'always'});
+    </script>
+    <!-- /PostHog -->
+  </head>
+  <body>
+    <header class="topbar shell is-scrolled">
+      <a class="brand" href="/">
+        <span class="brand-dot"></span>
+        <span>Beyond Elevation</span>
+      </a>
+      <nav>
+        <a href="/blog/">Insights</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+      <a class="button button-ghost small" href="/#contact">Book a Strategy Session</a>
+    </header>
+
+    <main class="shell post-page">
+      <article id="post" class="post-shell">
+        <span class="eyebrow">AI</span>
+        <h1>How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard</h1>
+        <div class="author-block">
+          <img class="author-photo" src="/assets/be-author-headshot.jpg" alt="Beyond Elevation Team" loading="eager" />
+          <div class="author-copy">
+            <strong>Beyond Elevation Team</strong>
+            <span>Featuring insights from Hayat Amin, CEO of Beyond Elevation</span>
+          </div>
+        </div>
+        <img class="post-hero" src="https://beyondelevation.com/assets/og-image.jpg" alt="How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard" loading="eager" />
+        <div class="post-meta">
+          <span>Beyond Elevation Team</span>
+          <span>2026-05-15</span>
+          
+        </div>
+        <div class="post-body">
+<p>AI multiples in Q1 2026 range from 10x to 50x revenue. The median sits around 25x. That 5x spread between a good AI company to invest in and a mediocre one is not explained by revenue growth or TAM slides. It is explained by defensibility &mdash; and most investors cannot score it.</p>
+
+<p>Hayat Amin, who has priced IP into more than $400M of technology transactions, argues the question investors should ask is not &ldquo;which AI company has the best model&rdquo; but &ldquo;which AI company still exists if OpenAI ships v-next tomorrow.&rdquo; That single question separates the 10x companies from the 50x companies. Here is the 5-axis scorecard that makes the answer measurable.</p>
+
+<h2>What Makes a Good AI Company to Invest In?</h2>
+
+<p>A good AI company to invest in scores high on five defensibility axes: proprietary data, IP moat, workflow integration, switching cost, and vertical specialization. Revenue growth without defensibility is a countdown timer &mdash; the only question is how fast a funded competitor catches up. Beyond Elevation&rsquo;s transaction data shows IP-rich AI firms command a 15&ndash;20% valuation premium over revenue-matched peers with no IP protection.</p>
+
+<p>The venture firms rejecting &ldquo;GPT wrapper&rdquo; pitches in 2026 are not anti-AI. They are anti-fragile. Insight Partners, Codurance, and Big Ideas DB all published frameworks this year confirming the same five axes. Score a company 1&ndash;5 on each axis. Below 15 total, walk away. Above 20, move fast.</p>
+
+<h2>Axis 1: Does the Company Own a Proprietary Data Flywheel?</h2>
+
+<p>The most defensible AI companies own data that improves their product every time a customer uses it &mdash; and that data cannot be purchased on any marketplace. Top performers earn 11% of revenue from data assets versus 2% for peers, a 5x gap that widens every quarter the flywheel spins.</p>
+
+<p>Score a 5 if the company generates proprietary, self-compounding data from product usage that no competitor can replicate without building the same user base. Score a 1 if the training data came from a public dataset anyone can download.</p>
+
+<p>Hayat Amin&rsquo;s rule for data defensibility is blunt: &ldquo;If a competitor with $50M can buy or scrape the same data in 90 days, it is not a moat &mdash; it is a head start with an expiration date.&rdquo; The <a href="/blog/posts/ai-moat-not-just-the-model/">AI moat analysis</a> Beyond Elevation published breaks down the full data-flywheel scoring methodology.</p>
+
+<h2>Axis 2: Is the AI Company&rsquo;s IP Moat Real or a Slide Deck Fantasy?</h2>
+
+<p>A real IP moat means granted patents on core technology, documented trade secrets with access controls, and a filing strategy covering the next two product generations &mdash; not just the current one. Companies with patents are 10.2x more likely to secure early-stage funding because investors know legal exclusivity is the only moat a well-funded competitor cannot brute-force past.</p>
+
+<p>Score a 5 if the company holds 5+ granted patents covering core model architecture, training methodology, or inference pipeline. Score a 1 if the &ldquo;IP&rdquo; section of the pitch deck says &ldquo;proprietary algorithms&rdquo; with no filing numbers.</p>
+
+<p>The gap between real and cosmetic IP surfaces during due diligence, not during demos. An independent IP audit adds 15&ndash;20% to the valuation floor because it gives investors a claim-by-claim map of what is actually protected. Hayat Amin&rsquo;s <a href="/blog/posts/ip-defensibility-assessment-framework/">IP Defensibility 7-Point Test</a> is the diagnostic that separates portfolios built for licensing revenue from portfolios built for fundraising theater.</p>
+
+<h2>Axis 3: How Deep Is the Workflow Integration?</h2>
+
+<p>Workflow integration depth measures how embedded the AI product is in the customer&rsquo;s daily operations. The deeper the integration, the higher the switching cost &mdash; and switching cost is the most reliable predictor of net revenue retention above 130%. A good AI company to invest in does not live in a browser tab. It runs inside the customer&rsquo;s ERP, CRM, or core operational stack.</p>
+
+<p>Score a 5 if removing the product would require the customer to rebuild internal processes and retrain staff. Score a 1 if the customer can replace it with a ChatGPT prompt and a Zapier workflow in an afternoon.</p>
+
+<p>Persistent memory and knowledge graphs multiply this axis. When an AI system accumulates months of context about a customer&rsquo;s operations, pricing, and workflows, it becomes harder to replace with every passing week. The strongest AI companies design for this accumulation deliberately &mdash; it is the product strategy, not a side effect.</p>
+
+<h2>Axis 4: Can the Company Pass the &ldquo;OpenAI Test&rdquo;?</h2>
+
+<p>The &ldquo;OpenAI Test&rdquo; is now the de facto rejection filter in AI venture capital: if OpenAI, Google, or Anthropic ships a native feature replicating this company&rsquo;s core product tomorrow, does the company still have a reason to exist? A good AI company to invest in passes because its value comes from proprietary data, domain expertise, regulatory moats, or workflow depth &mdash; not model quality alone.</p>
+
+<p>Score a 5 if the company&rsquo;s value is entirely independent of which foundation model it runs on. Score a 1 if the product is a thin interface over a third-party API with no proprietary data or integration depth.</p>
+
+<p>Hayat Amin reminds founders this test is not hypothetical: &ldquo;OpenAI added code interpretation, voice, and vision in a single year. If your product is a feature, not a platform, you are one product announcement away from zero.&rdquo; The companies scoring 5 on this axis build what the Beyond Elevation team calls &ldquo;IP-anchored AI&rdquo; &mdash; technology where defensibility lives in the patents and data, not the model weights.</p>
+
+<h2>Axis 5: How Vertically Specialized Is the AI Company?</h2>
+
+<p>Vertical specialization means the company serves one industry deeply rather than every industry superficially. Vertical AI companies convert domain expertise into training data advantages, regulatory know-how, and customer relationships that horizontal competitors cannot replicate without years of investment. The median valuation premium for vertical AI over horizontal AI is 30&ndash;40% at Series B.</p>
+
+<p>Score a 5 if the company owns the dominant dataset and domain model in a specific vertical &mdash; healthcare AI, legal AI, industrial AI. Score a 1 if the product pitch is &ldquo;AI for everything&rdquo; with no vertical depth.</p>
+
+<p>The strongest vertical plays combine specialization with IP protection. A healthcare AI company with patents on its diagnostic methodology, proprietary clinical datasets, and FDA clearance has built a fortress. A horizontal chatbot with identical revenue has built a tent. <a href="/blog/posts/agentic-ai-business-strategy/">Agentic AI strategy</a> accelerates this dynamic &mdash; vertical agents with domain-specific memory compound defensibility faster than any general-purpose tool.</p>
+
+<h2>What Score Makes a Good AI Company to Invest In?</h2>
+
+<p>Add the five axis scores for a total between 5 and 25. The thresholds map directly to valuation multiple ranges that Hayat Amin&rsquo;s AI Defensibility Scorecard has validated across more than 40 assessments.</p>
+
+<p><strong>21&ndash;25: Invest aggressively.</strong> This company has a compounding defensible position. These are the AI companies commanding 40&ndash;50x revenue multiples in 2026. Every axis reinforces the others.</p>
+
+<p><strong>16&ndash;20: Invest with conditions.</strong> The defensibility gaps are fixable. Require an IP audit and a 90-day remediation plan for the weakest axis before committing capital.</p>
+
+<p><strong>11&ndash;15: Pass or wait.</strong> One or two strong axes, but critical gaps that a well-funded competitor will exploit within 18 months. Revisit after the company closes the gaps.</p>
+
+<p><strong>5&ndash;10: Walk away.</strong> This is a feature, not a company. No amount of revenue growth compensates for zero defensibility.</p>
+
+<p>Beyond Elevation runs this scorecard for investors evaluating AI deals and for founders positioning for fundraising. The <a href="/blog/posts/how-ai-startups-are-valued-scorecard/">AI startup valuation scorecard</a> covers the financial modelling side. The defensibility scorecard covers the strategic side. Together, they answer the question every LP is asking: is this a good AI company to invest in, or just a good demo?</p>
+
+
+<aside class="post-cta">
+  <h3>You just read the framework. Now price your own IP.</h3>
+  <p>Beyond Elevation runs a 60-minute IP &amp; licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.</p>
+  <a class="cta-primary" href="https://usemotion.com/meet/hayat-amin/be?ref=blog-good-ai-company-to-invest-in" target="_blank" rel="noreferrer">Book the diagnostic →</a>
+  <p class="cta-fineprint">14 founders booked this month. Hayat takes 4/week.</p>
+</aside>
+<h2>FAQ</h2>
+
+<h3>What is the most important factor when evaluating a good AI company to invest in?</h3>
+
+<p>Defensibility &mdash; specifically, whether the company owns proprietary data and IP that a well-funded competitor cannot replicate. Revenue growth without defensibility is temporary. The 5-axis scorecard weights data flywheel and IP moat highest because they compound over time while other advantages erode.</p>
+
+<h3>How do AI company valuations compare to traditional SaaS multiples?</h3>
+
+<p>AI companies in Q1 2026 trade at 10x to 50x revenue, with a median around 25x &mdash; roughly 2&ndash;3x higher than equivalent SaaS multiples. The premium reflects expected capability gains, but only IP-rich AI companies sustain these multiples through due diligence. Companies without defensible IP revert to SaaS-range multiples once investors scrutinise the moat.</p>
+
+<h3>Can a pre-revenue AI company still be a good investment?</h3>
+
+<p>Yes, but only if it scores above 20 on the defensibility scorecard. Pre-revenue AI companies with granted patents, proprietary datasets, and deep vertical expertise command $50M+ valuations because investors price the defensible position, not current cash flow.</p>
+
+<h3>What is the &ldquo;OpenAI Test&rdquo; for AI investments?</h3>
+
+<p>The &ldquo;OpenAI Test&rdquo; asks: if OpenAI, Google, or Anthropic ships a native feature replicating this company&rsquo;s core product tomorrow, does the company still exist? Companies that pass own defensibility in data, IP, workflow integration, or regulatory moats. Companies that fail are features waiting to be absorbed by a platform.</p>
+
+<h3>How does IP protection affect AI investment returns?</h3>
+
+<p>IP-rich AI firms command a 15&ndash;20% valuation premium over revenue-matched peers. An independent IP audit adds another 15&ndash;20% to the valuation floor. Over a five-year hold period, this premium compounds into 40&ndash;60% higher returns for investors who selected IP-defensible companies.</p>
+        </div>
+
+        <aside class="related-posts" aria-label="Related insights">
+          <div class="related-head">
+            <span class="related-eyebrow">Continue reading</span>
+            <h2>Related insights</h2>
+          </div>
+          <div class="related-grid">
+            <a class="related-card" href="/blog/posts/how-ai-startups-are-valued-scorecard/">
+              <span class="related-tag">Valuation</span>
+              <h3>How AI Startups Are Actually Valued: The 4-Factor Model That Prices Two Identical Companies 10x Apart</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/ai-engineering-ip-what-is-protectable/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>AI Engineering IP: What&#39;s Actually Protectable in Your Stack</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/30-percent-rule-ai-valuation/">
+              <span class="related-tag">AI</span>
+              <h3>The 30% Rule in AI Valuation: What Investors Actually Mean</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/is-10-percent-royalty-good/">
+              <span class="related-tag">Licensing</span>
+              <h3>Is 10% a Good Royalty Rate? The 2026 Industry-by-Industry Cheat Sheet</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+          </div>
+        </aside>
+
+        <div class="share-bar">
+          <div class="share-bar-label">Share this article</div>
+          <div class="share-buttons">
+            <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fgood-ai-company-to-invest-in%2F" target="_blank" rel="noopener">LinkedIn</a>
+            <a class="share-btn" href="https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fgood-ai-company-to-invest-in%2F&text=How%20VCs%20Actually%20Score%20a%20Good%20AI%20Company%20to%20Invest%20In%20%E2%80%94%20The%205-Axis%20Defensibility%20Scorecard%20%E2%80%94%20Beyond%20Elevation" target="_blank" rel="noopener">X</a>
+            <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fgood-ai-company-to-invest-in%2F" target="_blank" rel="noopener">Facebook</a>
+          </div>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>
