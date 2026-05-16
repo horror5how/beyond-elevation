@@ -1,15 +1,15 @@
-EPO and EUIPO just published the number that should change your filing timeline.
+Most AI founders are licensing at 2020 rates.
 
-Startups with patents AND trademarks at seed are 10.2x more likely to raise external capital.
+AI patent royalty fees have compounded at 15% annually since 2020.
 
-That is not a correlation. It is a signal. VCs know IP signals seriousness.
+Software patents: top-quartile deals now benchmark at 8–12%.
 
-The question is not whether you need a patent. It is whether you need it before term sheets.
+Most founders still accept 3–5%.
 
-AI companies with audited IP close at 25.8x revenue. Without it: 21x. That is 4.8 turns of multiple on the table.
+That gap isn't a negotiation problem. It's a benchmark problem.
 
-Most founders wait until Series B. By then, the negotiating window is closed.
+AI companies with audited IP close at 25.8× revenue. Without it: 21×.
 
-File early. Audit early. Raise on the back of it.
+Know your benchmark. Run the audit.
 
-#IPStrategy #StartupFundraising #VentureCapital
+#IPStrategy #AIPatents #Licensing
