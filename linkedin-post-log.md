@@ -47,3 +47,4 @@
 2026-05-15 18:16 | urn:li:share:7461117409278722048 | post #5 | thomson-reuters-archive-only-ai-licensing-perimeter | Thomson Reuters' boss just said the quiet part out loud: every AI licensing deal
 2026-05-16 07:52 | urn:li:share:7461322777111969792 | OpenAI's o3 reasons through 100+ steps before answering you.  Most AI companies 
 2026-05-16 08:53 | urn:li:share:7461338093380444161 | post #6 | tday-50-percent-digital-ai-licensing-margin-expansion | TDAY just reported digital revenue approaching 50% of total, with AI licensing a
+2026-05-16 12:52 | urn:li:share:7461398160049868800 | EPO and EUIPO just published the number that should change your filing timeline.
