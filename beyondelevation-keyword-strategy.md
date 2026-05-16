@@ -249,7 +249,7 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 | T5-30 | 2026-05-14 | What would be a good AI company to invest in? | How VCs Actually Score "A Good AI Company to Invest In" — The 5-Axis Defensibility Scorecard (Not the Logo Slide) | best AI companies to invest in, AI investment criteria, evaluate AI startup investment | ✅ good-ai-company-to-invest-in |
 | T5-31 | 2026-05-14 | Is data an asset on the balance sheet? | Data Is on the Balance Sheet in 2026 — Here's the Isle of Man Structure That Made It Legal (and What U.S./UK Founders Can Copy) | data as balance sheet asset, data on balance sheet, capitalize data assets | ✅ data-asset-on-balance-sheet |
 | T5-32 | 2026-05-14 | What is an example of a data asset? | 7 Real Examples of Data Assets (And the Dollar Value 2026 Buyers Are Paying For Each) | examples of data assets, data asset types, what counts as a data asset | ✅ examples-of-data-assets |
-| T5-33 | 2026-05-14 | What type of asset is data? | Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table) | type of asset data, data asset classification, intangible asset data | 🟡 partial follow-up T5-31 |
+| T5-33 | 2026-05-14 | What type of asset is data? | Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table) | type of asset data, data asset classification, intangible asset data | ✅ data-asset-type-classification |
 
 ### Recommended write order (Tier 5)
 
