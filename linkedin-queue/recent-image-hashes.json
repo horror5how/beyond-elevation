@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffffff0000",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "news-corp-meta-ai-licensing-archive-repricing",
-    "ts": "2026-05-14T15:16:53.244Z"
-  },
-  {
     "hash": "00ffffffff652525",
     "layout": "a",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "thomson-reuters-archive-only-ai-licensing-perimeter",
     "ts": "2026-05-15T18:16:51.916Z"
+  },
+  {
+    "hash": "fff800780375ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "tday-50-percent-digital-ai-licensing-margin-expansion",
+    "ts": "2026-05-16T08:53:46.656Z"
   }
 ]
