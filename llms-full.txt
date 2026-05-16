@@ -1462,3 +1462,19 @@ A data asset is any proprietary dataset that generates measurable economic value
 The 2026 shift is structural. The [Isle of Man&rsquo;s Data Asset Foundation structure](/blog/posts/data-asset-on-balance-sheet/) now allows datasets to be registered as formal balance-sheet assets — the first jurisdiction to make data legally equivalent to property. Companies using DAF frameworks are leveraging registered data assets as collateral for financing. What was once abstract is now 
 
 ---
+
+## The 4 Valuation Models Built Specifically for AI Companies (And Why Standard DCF Breaks on Day One)
+
+URL: https://beyondelevation.com/blog/post.html?slug=ai-valuation-models-explained
+
+Standard DCF analysis undervalues AI companies by 40–60%. Hayat Amin has seen it kill deals firsthand — a founder walks into a Series B negotiation armed with a discounted cash flow model that ignores proprietary training data, the patent portfolio, and the compounding data flywheel. The investor’s counteroffer comes in at half what the company is worth. The problem is not the math. The problem is using valuation models for AI that were designed for manufacturing businesses in the 1990s.
+
+Four valuation models now exist specifically for AI companies. The founders who understand them raise at 2–3x higher multiples than those still relying on generic frameworks. Here is what each model measures, when to use it, and why the gap between the right model and the wrong one can mean tens of millions in lost enterprise value.
+
+## Why Do Standard Valuation Models Break on AI Companies?
+
+Standard valuation models break on AI companies because the most valuable assets — trained models, proprietary datasets, inference pipelines, and embedded know-how — do not appear on traditional balance sheets. A DCF model built for a SaaS company assumes predictable, linear revenue growth. AI companies compound differently: each new customer generates data that improves the model, which attracts more customers, which generates more data. That flywheel has exponential characteristics that a linear cash flow projection cannot capture.
+
+Market comparable models fail for a related reason. AI company multip
+
+---
