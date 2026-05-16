@@ -264,3 +264,21 @@ Post 2: hook_too_long(13w)
 2026-05-15 12:29 | li-auto-post | render OK | post #3 | layout=a accent=#d7b086 hash=81ffffffcd402d7f minDist=13 attempts=1
 2026-05-15 15:11 | li-auto-post | render OK | post #4 | layout=c accent=#8aa6b8 hash=3c7c003a1375ffff minDist=10 attempts=1
 2026-05-15 18:16 | li-auto-post | render OK | post #5 | layout=c accent=#7a8c6e hash=7ef100110b35ffff minDist=6 attempts=1
+2026-05-16 06:15 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-16 06:15 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: hook_too_long(10w)
+Post 2: hook_too_long(11w)
+Post 3: hook_too_long(13w)
+Post 4: hook_too_long(12w)
+Post 5: hook_too_long(13w)
+2026-05-16 06:16 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-16 06:16 | li-generate-queue | attempt 2 | quality gate failed:
+Post 2: hook_too_long(10w)
+Post 4: hook_too_long(12w)
+Post 5: hook_too_long(11w)
+2026-05-16 06:16 | li-generate-queue | attempt 3 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-16 06:16 | li-generate-queue | attempt 3 | quality gate failed:
+Post 3: hook_too_long(15w)
+Post 4: hook_too_long(12w)
+Post 5: hook_too_long(10w)
+2026-05-16 06:16 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
