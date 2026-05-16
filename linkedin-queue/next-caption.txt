@@ -1,14 +1,15 @@
-OpenAI's o3 reasons through 100+ steps before answering you.
+EPO and EUIPO just published the number that should change your filing timeline.
 
-Most AI companies aren't protecting that process.
+Startups with patents AND trademarks at seed are 10.2x more likely to raise external capital.
 
-Chain-of-thought outputs: not copyrightable under current law.
-The reasoning methodology behind them: potentially patentable.
-The training pipeline that produces them: your most auditable IP asset.
+That is not a correlation. It is a signal. VCs know IP signals seriousness.
 
-VCs are asking about AI defensibility.
-Most founders point to the model — not the method.
+The question is not whether you need a patent. It is whether you need it before term sheets.
 
-3 IP moves to make before your Series B if you're building reasoning AI.
+AI companies with audited IP close at 25.8x revenue. Without it: 21x. That is 4.8 turns of multiple on the table.
 
-#AIStrategy #Patents #IPStrategy
+Most founders wait until Series B. By then, the negotiating window is closed.
+
+File early. Audit early. Raise on the back of it.
+
+#IPStrategy #StartupFundraising #VentureCapital
