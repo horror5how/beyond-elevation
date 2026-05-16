@@ -1478,3 +1478,21 @@ Standard valuation models break on AI companies because the most valuable assets
 Market comparable models fail for a related reason. AI company multip
 
 ---
+
+## Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table)
+
+URL: https://beyondelevation.com/blog/post.html?slug=data-asset-type-classification
+
+Data is classified as an intangible asset under both IFRS (IAS 38) and US GAAP (ASC 350). That single classification decision — intangible, not tangible — determines whether your data shows up on your balance sheet, how investors price it, and whether you can use it as collateral. Most founders never question it. Hayat Amin argues that is precisely why most data-rich companies leave 15–30% of their valuation on the table.
+
+The classification gap is not academic. 92% of S&P 500 market value is now intangible assets. Data is the largest unmeasured component. And in 2026, new legal structures — the Isle of Man Data Asset Foundation chief among them — are creating entirely new classification options that did not exist 12 months ago.
+
+This post answers the question "what type of asset is data" with the precision CFOs, founders, and investors need to actually act on.
+
+## What Type of Asset Is Data Under Current Accounting Standards?
+
+Data is an intangible asset — a non-monetary asset without physical substance that is identifiable, controlled by the entity, and expected to generate future economic benefits. Under IAS 38, data meets all three recognition criteria when the entity can demonstrate control (contractual or technical), future economic benefit (licensing revenue or operational advantage), and reliable measurement of cost.
+
+The critical distinction: data is not a tangible asset. It has no physical form. It is not inventory. It is not property, plant, or equipment. This matt
+
+---

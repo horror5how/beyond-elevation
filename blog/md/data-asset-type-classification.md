@@ -2,8 +2,8 @@
 title: "Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table)"
 slug: data-asset-type-classification
 date: 2026-05-16
-url: https://beyondelevation.com/blog/posts/data-asset-type-classification/
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/post.html?slug=data-asset-type-classification
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -87,6 +87,20 @@ The process follows four steps:
 
 The result: data moves from invisible to visible. From unpriced to priced. From un-leverageable to collateral-grade. That shift alone — without changing a single byte of data — can add 15–30% to your next funding round or exit negotiation.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-data-asset-type-classification)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Is data a tangible or intangible asset?
@@ -108,3 +122,6 @@ When data collection costs are expensed, they reduce current-period profit and l
 ### How do you get data recognised on the balance sheet?
 
 Under IFRS, demonstrate that your data meets IAS 38's six capitalisation criteria during the development phase. Under the Isle of Man DAF, register the dataset as a legal asset with the foundation structure. Both routes require documentation of control, future economic benefit, and reliable cost measurement. Beyond Elevation's data classification audit typically takes 6–8 weeks from engagement to board-approved recognition.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

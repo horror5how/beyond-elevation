@@ -125,5 +125,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard](https://beyondelevation.com/blog/post.html?slug=good-ai-company-to-invest-in) — /blog/md/good-ai-company-to-invest-in.md
 - [7 Real Examples of Data Assets (And the Dollar Value 2026 Buyers Are Paying For Each)](https://beyondelevation.com/blog/post.html?slug=examples-of-data-assets) — /blog/md/examples-of-data-assets.md
 - [The 4 Valuation Models Built Specifically for AI Companies (And Why Standard DCF Breaks on Day One)](https://beyondelevation.com/blog/post.html?slug=ai-valuation-models-explained) — /blog/md/ai-valuation-models-explained.md
+- [Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table)](https://beyondelevation.com/blog/post.html?slug=data-asset-type-classification) — /blog/md/data-asset-type-classification.md
 
 > Full blog content available at /llms-full.txt
