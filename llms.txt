@@ -126,5 +126,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [7 Real Examples of Data Assets (And the Dollar Value 2026 Buyers Are Paying For Each)](https://beyondelevation.com/blog/post.html?slug=examples-of-data-assets) — /blog/md/examples-of-data-assets.md
 - [The 4 Valuation Models Built Specifically for AI Companies (And Why Standard DCF Breaks on Day One)](https://beyondelevation.com/blog/post.html?slug=ai-valuation-models-explained) — /blog/md/ai-valuation-models-explained.md
 - [Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table)](https://beyondelevation.com/blog/post.html?slug=data-asset-type-classification) — /blog/md/data-asset-type-classification.md
+- [Why One Patent Is a Waste and Seven Patents Is a Fortress: Patent Clustering Strategy Explained](https://beyondelevation.com/blog/post.html?slug=patent-clustering-strategy-moat) — /blog/md/patent-clustering-strategy-moat.md
 
 > Full blog content available at /llms-full.txt
