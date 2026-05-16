@@ -1,11 +1,14 @@
-Most founders pitch one valuation method. Acquirers run all five — and exploit every gap.
+OpenAI's o3 reasons through 100+ steps before answering you.
 
-DCF. Market comps. Asset-based. Relief-from-royalty. Income approach.
+Most AI companies aren't protecting that process.
 
-Each one finds a different number. IP-intensive companies exit at 3.7x the multiple of non-IP businesses. That gap only shows if you structure for the right method.
+Chain-of-thought outputs: not copyrightable under current law.
+The reasoning methodology behind them: potentially patentable.
+The training pipeline that produces them: your most auditable IP asset.
 
-AI founders pitched on DCF alone routinely miss 40% of their achievable valuation.
+VCs are asking about AI defensibility.
+Most founders point to the model — not the method.
 
-Know which method your acquirer defaults to before they do.
+3 IP moves to make before your Series B if you're building reasoning AI.
 
-#BusinessValuation #IPStrategy #Founders
+#AIStrategy #Patents #IPStrategy
