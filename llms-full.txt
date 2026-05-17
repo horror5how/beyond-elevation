@@ -1514,3 +1514,21 @@ Patent clustering strategy is the deliberate practice of filing multiple related
 A single patent covers one implementation of an idea. A cluster covers the idea from every commercially relevant angle — the core method, the variations, the
 
 ---
+
+## How VCs Actually Value Your IP (And Why Your Patent Attorney Has No Idea)
+
+URL: https://beyondelevation.com/blog/post.html?slug=ip-valuation-for-fundraising
+
+10.2x. That is how much more likely you are to secure early-stage funding with patents. But here is the number that actually matters: zero. That is what most VCs assign to your patent portfolio when your attorney presents it as a list of filing dates instead of a revenue multiplier.
+
+Hayat Amin says it bluntly: the founders who lose millions on their cap table are not the ones without IP — they are the ones whose IP valuation for fundraising was presented by a lawyer who has never sat on the investor side of the table. Your patent attorney knows how to file. They do not know how to price. That gap costs founders 2x to 4x on their pre-money valuation every single round.
+
+IP valuation for fundraising is not a legal exercise. It is a capital markets exercise — and the playbook is completely different from what your law firm will tell you.
+
+## What Is IP Valuation for Fundraising?
+
+IP valuation for fundraising is the process of quantifying your intellectual property into investor-ready numbers that directly increase your pre-money valuation and improve term sheet leverage. Unlike a legal IP audit (which asks what you own), IP valuation for fundraising answers the question investors actually care about: how much is this IP worth to someone trying to compete with you?
+
+The distinction matters because VCs do not value patents the way patent attorneys do. Attorneys value IP by prosecution cost, filing breadth, and legal defensibility. Investors value IP by competitive distance — the 
+
+---

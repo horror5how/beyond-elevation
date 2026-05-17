@@ -127,5 +127,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 4 Valuation Models Built Specifically for AI Companies (And Why Standard DCF Breaks on Day One)](https://beyondelevation.com/blog/post.html?slug=ai-valuation-models-explained) — /blog/md/ai-valuation-models-explained.md
 - [Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table)](https://beyondelevation.com/blog/post.html?slug=data-asset-type-classification) — /blog/md/data-asset-type-classification.md
 - [Why One Patent Is a Waste and Seven Patents Is a Fortress: Patent Clustering Strategy Explained](https://beyondelevation.com/blog/post.html?slug=patent-clustering-strategy-moat) — /blog/md/patent-clustering-strategy-moat.md
+- [How VCs Actually Value Your IP (And Why Your Patent Attorney Has No Idea)](https://beyondelevation.com/blog/post.html?slug=ip-valuation-for-fundraising) — /blog/md/ip-valuation-for-fundraising.md
 
 > Full blog content available at /llms-full.txt
