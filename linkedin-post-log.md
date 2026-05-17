@@ -50,3 +50,4 @@
 2026-05-16 12:52 | urn:li:share:7461398160049868800 | EPO and EUIPO just published the number that should change your filing timeline.
 2026-05-16 17:52 | QUEUED | ai-patent-royalty-compound-2026 | Most AI founders are licensing at 2020 rates.  AI patent royalty fees have compo
 2026-05-17 07:53 | QUEUED | patent-maintenance-fee-audit-cashflow-2026 | Most founders pay $50K+ a year in patent maintenance fees on patents earning $0 
+2026-05-17 12:55 | urn:li:share:7461761231989805056 | Your board deck has a revenue slide. It doesn't have an IP revenue slide.  That'
