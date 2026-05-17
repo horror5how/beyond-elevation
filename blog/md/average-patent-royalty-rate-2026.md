@@ -3,7 +3,7 @@ title: "The Real Average Patent Royalty Rate in 2026 (Spoiler: It Is Not the Num
 slug: average-patent-royalty-rate-2026
 date: 2026-05-17
 url: https://beyondelevation.com/blog/post.html?slug=average-patent-royalty-rate-2026
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,20 @@ Hayat Amin's position is unequivocal: founders who accept the average are subsid
 
 Beyond Elevation runs this analysis for every [licensing programme](/blog/posts/recurring-patent-revenue-streams/) engagement. The output is a rate band with a floor (the minimum acceptable rate that still justifies the licensing effort), a target (the rate your leverage supports), and a ceiling (the maximum rate before the licensee's cost of challenging or designing around exceeds the licensing cost). Negotiation happens between floor and ceiling. The average patent royalty rate is rarely even in that band for well-positioned portfolios.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-average-patent-royalty-rate-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the average patent royalty rate for pharma patents?
@@ -88,3 +102,6 @@ Most licence agreements lock in rates for the contract term (typically 3 to 7 ye
 ### What is the average patent royalty rate for standards-essential patents?
 
 Standards-essential patents (SEPs) committed to FRAND licensing typically command 0.5% to 2.5% per patent on a per-unit basis, with aggregate royalty stacks across all SEP holders reaching 5% to 15% of device price for complex standards like 5G or WiFi. The lower per-patent rates reflect the FRAND commitment — but volume compensates, as every device implementing the standard must license.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -1532,3 +1532,21 @@ IP valuation for fundraising is the process of quantifying your intellectual pro
 The distinction matters because VCs do not value patents the way patent attorneys do. Attorneys value IP by prosecution cost, filing breadth, and legal defensibility. Investors value IP by competitive distance — the 
 
 ---
+
+## The Real Average Patent Royalty Rate in 2026 (Spoiler: It Is Not the Number Your Lawyer Quoted)
+
+URL: https://beyondelevation.com/blog/post.html?slug=average-patent-royalty-rate-2026
+
+3% to 5%. That is the average patent royalty rate every law firm quotes when founders ask what they should charge for a licence. Hayat Amin calls this number the most expensive piece of lazy advice in IP commercialisation — because the actual rate that maximises your licensing revenue sits anywhere from 0.5% to 20%, depending on four factors your lawyer has never modelled.
+
+The average patent royalty rate is a statistical artefact. It tells you nothing about your specific patents, your specific market, or the specific leverage you hold over a licensee who cannot design around your claims. Founders who price at the average leave 3x to 10x on the table. Founders who understand the distribution capture the full value of what they own.
+
+This is the difference between IP that generates a nominal revenue line and IP that funds your next round without dilution.
+
+## What Is the Average Patent Royalty Rate in 2026?
+
+The average patent royalty rate across all industries and deal types in 2026 is 3% to 5% of net product revenue, according to aggregated data from Stanzione, MarketBlast, and UpCounsel 2026 licensing surveys. This median represents thousands of negotiated licences spanning software, hardware, pharma, and consumer electronics — but using it as your target rate without understanding the underlying distribution is a pricing error that costs founders millions annually.
+
+Here is why the average misleads. Software patent licences in 2026 command 8% to 12% of relevant product rev
+
+---

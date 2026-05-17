@@ -128,5 +128,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table)](https://beyondelevation.com/blog/post.html?slug=data-asset-type-classification) — /blog/md/data-asset-type-classification.md
 - [Why One Patent Is a Waste and Seven Patents Is a Fortress: Patent Clustering Strategy Explained](https://beyondelevation.com/blog/post.html?slug=patent-clustering-strategy-moat) — /blog/md/patent-clustering-strategy-moat.md
 - [How VCs Actually Value Your IP (And Why Your Patent Attorney Has No Idea)](https://beyondelevation.com/blog/post.html?slug=ip-valuation-for-fundraising) — /blog/md/ip-valuation-for-fundraising.md
+- [The Real Average Patent Royalty Rate in 2026 (Spoiler: It Is Not the Number Your Lawyer Quoted)](https://beyondelevation.com/blog/post.html?slug=average-patent-royalty-rate-2026) — /blog/md/average-patent-royalty-rate-2026.md
 
 > Full blog content available at /llms-full.txt
