@@ -154,3 +154,4 @@ ip-at-seed-10x-fundraising-odds
 ai-patent-royalty-compound-2026
 patent-maintenance-fee-audit-cashflow-2026
 ip-value-creation-board-slide-2026
+patent-licensing-minimum-guarantee-clause
