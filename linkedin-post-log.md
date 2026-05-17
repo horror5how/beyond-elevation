@@ -52,3 +52,4 @@
 2026-05-17 07:53 | QUEUED | patent-maintenance-fee-audit-cashflow-2026 | Most founders pay $50K+ a year in patent maintenance fees on patents earning $0 
 2026-05-17 12:55 | urn:li:share:7461761231989805056 | Your board deck has a revenue slide. It doesn't have an IP revenue slide.  That'
 2026-05-17 17:52 | QUEUED | patent-licensing-minimum-guarantee-clause | Most patent licensing deals earn $0 in Year 1.  Not because the IP is weak.  Bec
+2026-05-17 17:53 | urn:li:share:7461836268407123968 | Most patent licensing deals earn $0 in Year 1.  Not because the IP is weak.  Bec
