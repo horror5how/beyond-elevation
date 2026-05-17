@@ -49,3 +49,4 @@
 2026-05-16 08:53 | urn:li:share:7461338093380444161 | post #6 | tday-50-percent-digital-ai-licensing-margin-expansion | TDAY just reported digital revenue approaching 50% of total, with AI licensing a
 2026-05-16 12:52 | urn:li:share:7461398160049868800 | EPO and EUIPO just published the number that should change your filing timeline.
 2026-05-16 17:52 | QUEUED | ai-patent-royalty-compound-2026 | Most AI founders are licensing at 2020 rates.  AI patent royalty fees have compo
+2026-05-17 07:53 | QUEUED | patent-maintenance-fee-audit-cashflow-2026 | Most founders pay $50K+ a year in patent maintenance fees on patents earning $0 
