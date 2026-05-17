@@ -1,15 +1,17 @@
-Most AI founders are licensing at 2020 rates.
+Most founders pay $50K+ a year in patent maintenance fees on patents earning $0 in licensing revenue.
 
-AI patent royalty fees have compounded at 15% annually since 2020.
+40% of portfolios have this problem.
 
-Software patents: top-quartile deals now benchmark at 8–12%.
+The audit takes 3 weeks.
 
-Most founders still accept 3–5%.
+The cash recovered funds your next cluster.
 
-That gap isn't a negotiation problem. It's a benchmark problem.
+Here's the 3-step audit:
 
-AI companies with audited IP close at 25.8× revenue. Without it: 21×.
+Pull every patent → map to active licensing or active product → abandon or sell anything with no commercial use.
 
-Know your benchmark. Run the audit.
+We've run this for 30+ portfolios. Typical result: 40% of fees cut, 2–3 patents sold for $150K–$800K each.
 
-#IPStrategy #AIPatents #Licensing
+The portfolio shrinks. The revenue grows.
+
+#IPStrategy #PatentStrategy #Licensing

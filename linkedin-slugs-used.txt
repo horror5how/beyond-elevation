@@ -152,3 +152,4 @@ ai-reasoning-model-ip-gap-2026
 tday-50-percent-digital-ai-licensing-margin-expansion
 ip-at-seed-10x-fundraising-odds
 ai-patent-royalty-compound-2026
+patent-maintenance-fee-audit-cashflow-2026
