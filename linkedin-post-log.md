@@ -58,3 +58,4 @@
 2026-05-18 12:33 | urn:li:share:7462118222218096640 | post #2 | data-balance-sheet-revenue-gap | Your data earns $0 on your balance sheet.  That gap costs you in every fundraisi
 2026-05-18 12:51 | QUEUED | ai-due-diligence-vc-rejection-criteria-2026 | VCs are rejecting AI deals in 2026 at record rates.  Not because the tech is wea
 2026-05-18 14:29 | urn:li:share:7462147289755746304 | post #3 | ai-moat-five-axis-investor-score | Investors ask one question. Most founders fail it.  Without a defensible moat an
+2026-05-18 16:21 | urn:li:share:7462175551341088768 | post #4 | patent-licensing-floor-guarantee | Most licensing deals earn $0 in Year 1.  Without a minimum guarantee, licensees 

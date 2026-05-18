@@ -1,12 +1,5 @@
 [
   {
-    "hash": "81ffffffcd402d7f",
-    "layout": "a",
-    "accent": "#d7b086",
-    "slug": "astrazeneca-owkin-agentic-ai-licensing-deal",
-    "ts": "2026-05-15T12:29:40.440Z"
-  },
-  {
     "hash": "3c7c003a1375ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-moat-five-axis-investor-score",
     "ts": "2026-05-18T14:29:14.139Z"
+  },
+  {
+    "hash": "7ef010331715ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "patent-licensing-floor-guarantee",
+    "ts": "2026-05-18T16:21:32.219Z"
   }
 ]

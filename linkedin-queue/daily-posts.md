@@ -3,7 +3,7 @@ date: 2026-05-18
 theme: AI just commoditized patent drafting — the new founder moat is patent ARR, claim charting, and licensing floors, not filings.
 generated_at: 2026-05-18T10:46:10.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -124,7 +124,9 @@ IP-rich AI firms close at 25.8x. Audited portfolios add another 15. 20%.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-18T16:21:32.219Z
+share_urn: urn:li:share:7462175551341088768
 hook_format: contrarian
 cta_goal: follows
 slug: patent-licensing-floor-guarantee
