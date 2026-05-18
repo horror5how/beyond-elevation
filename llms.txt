@@ -131,5 +131,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The Real Average Patent Royalty Rate in 2026 (Spoiler: It Is Not the Number Your Lawyer Quoted)](https://beyondelevation.com/blog/post.html?slug=average-patent-royalty-rate-2026) — /blog/md/average-patent-royalty-rate-2026.md
 - [The Only Patent Licensing Playbook Founders Under $20M Revenue Need](https://beyondelevation.com/blog/post.html?slug=patent-licensing-consultant-founders) — /blog/md/patent-licensing-consultant-founders.md
 - [How to Position IP in an M&A Deal to Add 2-4x to Your Exit Multiple](https://beyondelevation.com/blog/post.html?slug=ip-backed-ma-positioning) — /blog/md/ip-backed-ma-positioning.md
+- [Fundraising Collateral in 2026: Why VCs Now Demand IP and Data Assets Before They Wire](https://beyondelevation.com/blog/post.html?slug=fundraising-collateral-ip-data-assets) — /blog/md/fundraising-collateral-ip-data-assets.md
 
 > Full blog content available at /llms-full.txt

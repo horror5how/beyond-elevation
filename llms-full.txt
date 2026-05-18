@@ -1584,3 +1584,21 @@ IP-backed M&A positioning is the strategic process of structuring, documenting, 
 The core principle: acquirers pay for defensibility, optionality, and revenue attribution. A patent portfolio sitting in a filing cabinet contributes nothing to the purchase price. A patent portfolio mapped to revenue streams, scored for defensibility, and packaged with licensing optionality changes the entire deal structure. Beyond El
 
 ---
+
+## Fundraising Collateral in 2026: Why VCs Now Demand IP and Data Assets Before They Wire
+
+URL: https://beyondelevation.com/blog/post.html?slug=fundraising-collateral-ip-data-assets
+
+92% of S&P 500 value is intangible. Yet most founders walk into VC meetings armed with nothing but a pitch deck and a revenue forecast. The gap between what investors value and what founders present is the single biggest reason term sheets fall apart at diligence.
+
+Hayat Amin argues this is the costliest fundraising mistake founders make — not the product, not the team slide, but the complete absence of asset-backed proof that the business cannot be copied. Fundraising collateral has fundamentally changed. Most founders have not caught up.
+
+## What Is Fundraising Collateral in 2026?
+
+Fundraising collateral is any documented, verifiable asset a founder presents to investors to prove the business is defensible and worth backing beyond revenue alone. In 2026, that means IP portfolios, proprietary data inventories, trade secret registries, and defensibility audit results — not just pitch decks and financial models.
+
+Five years ago, fundraising collateral meant a slide deck, a financial model, and maybe a customer reference. Today the definition has expanded because the composition of company value has shifted. Intangible assets now represent 70–80% of enterprise value for AI and tech companies. Investors pricing a round are pricing defensibility — and defensibility requires proof.
+
+This is not a trend reserved for Series B and beyond. Seed-stage VCs increasingly request IP summaries and [data asset inventories](/blog/posts/data-asset-on-balance-sheet/) before scheduling a partner
+
+---
