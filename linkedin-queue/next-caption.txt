@@ -1,17 +1,17 @@
-Most patent licensing deals earn $0 in Year 1.
+VCs don't fund your AI roadmap. They fund your moat.
 
-Not because the IP is weak.
+Most founders pitch capabilities. Investors run a 5-axis defensibility check.
 
-Because founders sign royalty-only deals with no minimum guarantee clause.
+1. Proprietary data — can it be replicated?
+2. Patent density — claims on core methods?
+3. Switching cost — how expensive to replace you?
+4. Network effects — does value compound?
+5. Regulatory moat — is your IP a compliance shortcut?
 
-Licensee underperforms? You earn nothing.
+Score under 3 of 5 → commodity pricing. Score 4–5 → platform multiple.
 
-The fix is one clause: a minimum annual guarantee.
+IP-protected AI companies trade at 5x the multiple of unprotected peers.
 
-Deals with it average $150K/year baseline — regardless of licensee sales.
+Run the score before your next raise.
 
-Without it, your royalty income is their problem to create.
-
-Add the clause. Lock the floor.
-
-#IPStrategy #PatentLicensing #Licensing
+#AIStrategy #IPStrategy #Fundraising
