@@ -59,3 +59,4 @@
 2026-05-18 12:51 | QUEUED | ai-due-diligence-vc-rejection-criteria-2026 | VCs are rejecting AI deals in 2026 at record rates.  Not because the tech is wea
 2026-05-18 14:29 | urn:li:share:7462147289755746304 | post #3 | ai-moat-five-axis-investor-score | Investors ask one question. Most founders fail it.  Without a defensible moat an
 2026-05-18 16:21 | urn:li:share:7462175551341088768 | post #4 | patent-licensing-floor-guarantee | Most licensing deals earn $0 in Year 1.  Without a minimum guarantee, licensees 
+2026-05-18 17:50 | QUEUED | ip-ma-premium-acquisition-multiple-2026 | Acquirers looked at your company last year.  3 of them passed.  Not because your
