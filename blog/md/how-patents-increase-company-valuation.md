@@ -2,8 +2,8 @@
 title: "How Patents Increase Company Valuation: The Real Math Behind 2.1x Higher Exit Multiples"
 slug: how-patents-increase-company-valuation
 date: 2026-04-14
-url: https://beyondelevation.com/blog/post.html?slug=how-patents-increase-company-valuation
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/how-patents-increase-company-valuation/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -40,8 +40,11 @@ The Hayat Amin Exit-Multiple IP Premium Model is the diagnostic Beyond Elevation
 The model has four inputs:
 
 - **Base multiple** — what the business would trade at on revenue alone, with no defensibility credit.
+
 - **Defensibility coefficient** — the share of revenue covered by a live, enforceable claim.
+
 - **Licensing optionality** — the present value of the royalty stream the portfolio could generate if licensed tomorrow.
+
 - **Category shift factor** — the multiple delta from moving from "product" to "platform" positioning in the buyer's narrative.
 
 Run those four inputs through the model and the patent premium lands between 40% and 210% of base enterprise value. Where a founder sits on that range is not random — it is a direct function of how the portfolio was structured. For the underlying defensibility scoring, see our breakdown of the [7-Point IP Defensibility Assessment](https://beyondelevation.com/blog/post.html?slug=ip-defensibility-assessment-framework).
@@ -86,6 +89,20 @@ If you are raising in the next 12 months, or planning a sale in the next 24, the
 
 Hayat Amin's closing line to every founder is the same: the question is not whether patents increase company valuation. The question is whether the founder collected the premium or left it on the table. Most leave it.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-patents-increase-company-valuation)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much do patents increase company valuation on average?
@@ -107,3 +124,14 @@ Yes — if the patents are written around system-level architecture, data pipeli
 ### How does Beyond Elevation calculate the dollar lift from a patent portfolio?
 
 Beyond Elevation uses the Exit-Multiple IP Premium Model, a four-factor framework built around base multiple, defensibility coefficient, licensing optionality, and category shift factor. The model produces a specific dollar lift backed by the same methodology used in the Position Imaging restructure that turned 66 dormant patents into eight figures of recurring royalties.
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-patents-increase-company-valuation%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-patents-increase-company-valuation%2F&text=How%20Patents%20Increase%20Company%20Valuation%3A%20The%20Real%20Math%20Behind%202.1x%20Higher%20Exit%20Multiples%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-patents-increase-company-valuation%2F)
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

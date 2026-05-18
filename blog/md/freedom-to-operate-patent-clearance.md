@@ -2,7 +2,7 @@
 title: "Your Product Is Infringing Patents Right Now. You Just Have Not Run the Search."
 slug: freedom-to-operate-patent-clearance
 date: 2026-04-10
-url: https://beyondelevation.com/blog/post.html?slug=freedom-to-operate-patent-clearance
+url: https://beyondelevation.com/blog/posts/freedom-to-operate-patent-clearance/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -55,6 +55,20 @@ A proper FTO analysis has three stages. Skip any one of them and the result is w
 
 **Acquisition discounts or dead deals.** Acquirers run FTO as standard due diligence. If they find a blocking patent you missed, the deal reprices 15% to 30%, gets carved into a large escrow, or dies outright. DGS's data monetisation programme with Beyond Elevation only moved to close after a full FTO clearance confirmed the licensing targets were enforceable without counter-exposure.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-freedom-to-operate-patent-clearance)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### What is the difference between Freedom to Operate and patentability?
@@ -74,3 +88,14 @@ Yes, in the US. A written FTO opinion from qualified counsel, obtained before la
 Wait too long and the redesign cost explodes. Beyond Elevation recommends a lightweight FTO screen at MVP stage — $5K to $12K — to flag obvious blockers, followed by a full FTO analysis before Series A fundraising or commercial launch, whichever comes first.
 
 Your product is either clear to sell or it is not. Companies that find out early pay $25K. Companies that find out late pay millions, lose deals, or hand equity to patent holders sitting on their moat the whole time. Beyond Elevation builds Freedom to Operate analysis into every IP strategy engagement because the math never changes. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Ffreedom-to-operate-patent-clearance%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Ffreedom-to-operate-patent-clearance%2F&text=Your%20Product%20Is%20Infringing%20Patents%20Right%20Now.%20You%20Just%20Have%20Not%20Run%20the%20Search.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Ffreedom-to-operate-patent-clearance%2F)
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

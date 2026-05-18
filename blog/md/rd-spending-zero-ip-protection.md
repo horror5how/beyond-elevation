@@ -2,7 +2,7 @@
 title: "You Spent $2M on R&D Last Year. You Protected $0 of It."
 slug: rd-spending-zero-ip-protection
 date: 2026-04-09
-url: https://beyondelevation.com/blog/post.html?slug=rd-spending-zero-ip-protection
+url: https://beyondelevation.com/blog/posts/rd-spending-zero-ip-protection/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -55,6 +55,20 @@ You do not need a two-year IP programme. You need 90 days of focused execution.
 
 **Week 9–12: Build the system.** Create an ongoing IP capture process. Monthly innovation reviews. Quarterly filing decisions. Annual portfolio assessment. The goal is not a one-time sprint — it is a machine that turns R&D spending into protectable, licensable, and valuable IP assets automatically.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-rd-spending-zero-ip-protection)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### How do I know if my R&D output is patentable?
@@ -74,6 +88,14 @@ A competitor's patent does not automatically block you. Patent claims are specif
 Beyond Elevation recommends allocating 3% to 7% of annual R&D spend to IP protection. For a company spending $2M on R&D, that is $60,000 to $140,000 per year — enough to file 5 to 10 provisional applications and convert the strongest into full utility patents. That investment routinely returns 10x or more through higher valuations, licensing revenue, and competitive defensibility.
 
 Your R&D budget is building the future of your company. Your IP strategy determines whether you own that future or just rented it. Beyond Elevation builds the IP capture architecture that turns your engineering output into defensible, monetisable assets — before your competitor files first. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Frd-spending-zero-ip-protection%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Frd-spending-zero-ip-protection%2F&text=You%20Spent%20%242M%20on%20R%26D%20Last%20Year.%20You%20Protected%20%240%20of%20It.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Frd-spending-zero-ip-protection%2F)
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

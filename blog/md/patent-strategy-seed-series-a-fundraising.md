@@ -2,7 +2,7 @@
 title: "You Are 10.2x More Likely to Get Funded With Patents. Most Founders File After the Round."
 slug: patent-strategy-seed-series-a-fundraising
 date: 2026-04-07
-url: https://beyondelevation.com/blog/post.html?slug=patent-strategy-seed-series-a-fundraising
+url: https://beyondelevation.com/blog/posts/patent-strategy-seed-series-a-fundraising/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -87,6 +87,20 @@ Compare that to the cost of raising at a 20 percent lower valuation because your
 
 The math is not close.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-strategy-seed-series-a-fundraising)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### Can a provisional patent application really impact a seed-stage valuation?
@@ -110,6 +124,14 @@ Both, for different reasons. A patent attorney drafts and files the application.
 They own the priority date. In the US patent system, the first to file wins. Every month you delay filing is a month where someone else can establish priority over your own innovation. This is why Beyond Elevation pushes founders to file provisionally before raising — it locks in your date at minimal cost.
 
 If you are raising in the next 6 to 12 months and your IP strategy is "we will figure it out later," you are negotiating without your strongest card on the table. Beyond Elevation builds pre-fundraise IP strategies for tech and AI founders so the diligence package does the selling for you. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-strategy-seed-series-a-fundraising%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-strategy-seed-series-a-fundraising%2F&text=You%20Are%2010.2x%20More%20Likely%20to%20Get%20Funded%20With%20Patents.%20Most%20Founders%20File%20After%20the%20Round.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-strategy-seed-series-a-fundraising%2F)
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

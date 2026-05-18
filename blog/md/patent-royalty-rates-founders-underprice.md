@@ -2,7 +2,7 @@
 title: "Why Founders Underprice Patent Royalties (And the 2026 Industry Rate Benchmarks That Prove It)"
 slug: patent-royalty-rates-founders-underprice
 date: 2026-05-06
-url: https://beyondelevation.com/blog/post.html?slug=patent-royalty-rates-founders-underprice
+url: https://beyondelevation.com/blog/posts/patent-royalty-rates-founders-underprice/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -81,8 +81,6 @@ Third, the deal structure is designed for [recurring revenue](/blog/posts/patent
 
 Companies with patents are 10.2x more likely to secure early-stage funding. Companies with patents that generate licensing revenue at the right patent royalty rates are in a category of their own — they are revenue-generating IP businesses, not startups hoping their filings matter. The Trustpilot 4.5-rated team at Beyond Elevation has turned many patents into billions in IP value. The first step is pricing them correctly.
 
-
-
 ---
 
 ### You just read the framework. Now price your own IP.
@@ -95,27 +93,6 @@ Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising
 
 ---
 
-## FAQ
-
-### What is a fair patent royalty rate?
-
-A fair patent royalty rate depends on industry, claim strength, and licensee margins. In 2026, fair rates range from 3% in automotive to 15%+ in SaaS and pharma. The Georgia-Pacific factors remain the legal standard for determining reasonable royalties in US litigation, but commercial negotiations typically reference industry benchmarks and the licensee's ability to pay.
-
-### How do you negotiate a higher patent royalty rate?
-
-Anchor at or above the industry benchmark in your first offer. Present claim-mapping evidence showing exactly how the licensee's product uses your patented technology. Quantify the cost of their next-best alternative — the higher the redesign cost, the more leverage you hold. Never accept the first counter-offer; licensees expect 2–3 rounds of negotiation.
-
-### Should I take a lump sum or running royalty for a patent license?
-
-Running royalties almost always generate more total revenue than lump sums for growing companies. Take a lump sum only when the licensee is a small or declining business, when you need immediate capital, or when the license term is short. For everything else, running royalties with a minimum annual royalty clause maximize lifetime value.
-
-### Do patent royalty rates differ by country?
-
-Yes. US patent royalty rates tend to be 20–30% higher than equivalent European rates due to stronger enforcement mechanisms and higher litigation costs. Asian markets — particularly China and South Korea — have compressed rates in electronics and telecom due to FRAND licensing norms. Structure multi-jurisdictional licenses with rate adjustments by territory.
-
-### What happens if a licensee refuses to pay the market royalty rate?
-
-If a licensee refuses the market rate, they are either bluffing, planning to design around your patent, or preparing for litigation. In most cases, they are bluffing — 95% of licensing negotiations settle before any formal dispute. If they litigate, patent holders prevail in approximately 60% of cases that reach trial.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

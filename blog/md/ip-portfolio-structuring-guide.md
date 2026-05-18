@@ -2,8 +2,8 @@
 title: "IP Portfolio Structuring: The IP Holdco Structure Billion-Dollar Companies Use to Protect and License Their Patents"
 slug: ip-portfolio-structuring-guide
 date: 2026-04-15
-url: https://beyondelevation.com/blog/post.html?slug=ip-portfolio-structuring-guide
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-portfolio-structuring-guide/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -29,7 +29,7 @@ The IP holdco structure adds 2-4x to exit multiples because it converts intangib
 
 That pricing gap is the entire game.
 
-A $10M ARR SaaS with patents filed inside the operator trades at 4-6x ARR. The same SaaS with its patents parked in a holdco generating $2M in licensing revenue trades at 6-8x on the operator plus a separate 8-12x multiple on the royalty stream. The math gets obscene fast. [The real math behind 2.1x higher exit multiples](https://beyondelevation.com/blog/post.html?slug=how-patents-increase-company-valuation) shows the same pattern at portfolio scale.
+A $10M ARR SaaS with patents filed inside the operator trades at 4-6x ARR. The same SaaS with its patents parked in a holdco generating $2M in licensing revenue trades at 6-8x on the operator plus a separate 8-12x multiple on the royalty stream. The math gets obscene fast. [The real math behind 2.1x higher exit multiples](post.html?slug=how-patents-increase-company-valuation) shows the same pattern at portfolio scale.
 
 Hayat Amin's restructuring of Position Imaging proved the point in the deal room. The 66-patent portfolio was moved out of the operating company and into a licensing vehicle. That vehicle now generates eight figures in recurring royalties — and Position Imaging's enterprise value is priced against that stream, not just against the products it ships.
 
@@ -49,7 +49,7 @@ The holdco licenses the IP back to the operating company at a royalty rate that 
 
 ### Layer 3 — Tax routing
 
-This is the layer that cuts the effective corporate tax rate on IP income to 10% or lower. In the UK it is the Patent Box. In Ireland, the Knowledge Development Box. In the US, the FDII deduction. Beyond Elevation places holdcos in the jurisdiction that matches where the founders' customers and engineers actually sit — not where the cheapest accountant is. Founders who want the tax math alone can read [the Patent Box tax relief playbook](https://beyondelevation.com/blog/post.html?slug=patent-box-tax-relief-founders).
+This is the layer that cuts the effective corporate tax rate on IP income to 10% or lower. In the UK it is the Patent Box. In Ireland, the Knowledge Development Box. In the US, the FDII deduction. Beyond Elevation places holdcos in the jurisdiction that matches where the founders' customers and engineers actually sit — not where the cheapest accountant is. Founders who want the tax math alone can read [the Patent Box tax relief playbook](post.html?slug=patent-box-tax-relief-founders).
 
 ### Layer 4 — Defensibility wrap
 
@@ -73,7 +73,7 @@ Four mistakes kill IP portfolio structuring at exit: broken assignment chains, n
 
 Hayat Amin tells the story of a founder who moved his IP into a holdco three weeks before an LOI. The buyer's diligence team flagged the move as a transfer-pricing risk and negotiated $6M off the price. Had the same structure been in place 18 months earlier, the buyer would have priced it as normal corporate architecture and paid full freight.
 
-IP holdcos compound like patents. They are worth the most when they are oldest. [IP-backed M&A positioning](https://beyondelevation.com/blog/post.html?slug=ip-backed-ma-positioning) walks through the five moves that turn a structured portfolio into a 2-4x multiple on the exit.
+IP holdcos compound like patents. They are worth the most when they are oldest. [IP-backed M&A positioning](post.html?slug=ip-backed-ma-positioning) walks through the five moves that turn a structured portfolio into a 2-4x multiple on the exit.
 
 ## How Beyond Elevation builds IP holdcos
 
@@ -82,6 +82,20 @@ Beyond Elevation runs IP portfolio structuring as a fixed-scope engagement: 30 d
 This is the same playbook that restructured Position Imaging's 66-patent portfolio into an eight-figure royalty stream. Founders who want the structure audited against their current cap table and exit goal can book a consultation directly at [beyondelevation.com](https://beyondelevation.com).
 
 The tell is always the same. If your next acquirer would carve 20% off the deal because your IP sits in the wrong entity, you have a structuring problem. Fix it before they walk into the diligence room, not after.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-portfolio-structuring-guide)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -104,3 +118,14 @@ Patent portfolio structure is the architecture of your patent family — which p
 ### How long does it take to stand up an IP holdco?
 
 A full IP holdco build — entity formation, IP assignment, arm's-length licence, tax election, and board structure — takes 30 to 60 days with a focused engagement. The rate-limiting step is usually cleaning up the existing IP assignment chain inside the operating company, not forming the new entity.
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-portfolio-structuring-guide%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-portfolio-structuring-guide%2F&text=IP%20Portfolio%20Structuring%3A%20The%20IP%20Holdco%20Structure%20Billion-Dollar%20Companies%20Use%20to%20Protect%20and%20License%20Their%20Patents%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-portfolio-structuring-guide%2F)
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

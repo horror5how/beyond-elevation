@@ -2,7 +2,7 @@
 title: "Your Patents Can Cut Your Corporate Tax to 10%. Most Founders Never File the Election."
 slug: patent-box-tax-relief-founders
 date: 2026-04-10
-url: https://beyondelevation.com/blog/post.html?slug=patent-box-tax-relief-founders
+url: https://beyondelevation.com/blog/posts/patent-box-tax-relief-founders/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -66,3 +66,27 @@ You still qualify. The profit attributable to the product line containing the pa
 ## The Bottom Line
 
 If you have a granted patent and you pay corporation tax in the UK, Netherlands, Ireland, France, Belgium, or Luxembourg, you are almost certainly overpaying. Beyond Elevation audits your portfolio, maps eligible claims, builds the income streaming model, and hands your tax advisor a defensible election file. Position Imaging restructured 66 patents into licensable and taxable assets. DGS built a full data and IP monetisation stack. Both treat tax-advantaged IP income as a line item in quarterly revenue, not an afterthought. Book a call at [beyondelevation.com](https://beyondelevation.com) and find out what your patents are already entitled to claim.
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-box-tax-relief-founders%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-box-tax-relief-founders%2F&text=Your%20Patents%20Can%20Cut%20Your%20Corporate%20Tax%20to%2010%25.%20Most%20Founders%20Never%20File%20the%20Election.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-box-tax-relief-founders%2F)
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-box-tax-relief-founders)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -2,7 +2,7 @@
 title: "Your Balance Sheet Is Lying. 90% of Your Company's Value Is Not On It."
 slug: intangible-asset-valuation-hidden-worth
 date: 2026-04-06
-url: https://beyondelevation.com/blog/post.html?slug=intangible-asset-valuation-hidden-worth
+url: https://beyondelevation.com/blog/posts/intangible-asset-valuation-hidden-worth/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -69,6 +69,20 @@ Yesterday. But specifically:
 
 **After any major R&D milestone.** Filed a new patent? Completed a proprietary dataset? Built a novel architecture? The value of your intangible assets just changed. Update the valuation. Founders who track intangible asset value the way they track ARR make better decisions about where to invest, what to protect, and when to monetise.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-intangible-asset-valuation-hidden-worth)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ: Intangible Asset Valuation for Tech Founders
 
 ### How much does an intangible asset valuation cost?
@@ -88,6 +102,14 @@ Absolutely. Early-stage companies often have the most to gain because their tang
 IP valuation focuses specifically on intellectual property — patents, trademarks, copyrights, and trade secrets. Intangible asset valuation is broader, covering IP plus other non-physical assets like customer relationships, brand equity, assembled workforce value, and proprietary processes. Beyond Elevation covers both because the full picture is what determines your company's true worth.
 
 Your company is worth more than your balance sheet says. The question is whether you can prove it — with numbers, methodology, and evidence — before someone else sets the price for you. If you cannot, visit [beyondelevation.com](https://beyondelevation.com) and fix that before your next raise, exit, or licensing conversation. The founders who quantify their intangible assets capture the value. Everyone else leaves it on the table.
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fintangible-asset-valuation-hidden-worth%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fintangible-asset-valuation-hidden-worth%2F&text=Your%20Balance%20Sheet%20Is%20Lying.%2090%25%20of%20Your%20Company's%20Value%20Is%20Not%20On%20It.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fintangible-asset-valuation-hidden-worth%2F)
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -2,7 +2,7 @@
 title: "Your Provisional Patent Is a 12-Month Weapon. Most Founders File It and Forget It."
 slug: provisional-patent-12-month-strategy
 date: 2026-04-10
-url: https://beyondelevation.com/blog/post.html?slug=provisional-patent-12-month-strategy
+url: https://beyondelevation.com/blog/posts/provisional-patent-12-month-strategy/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -43,6 +43,20 @@ Three mistakes come up constantly in Beyond Elevation audits.
 
 **Convert strategically, not by default.** Not every provisional should convert. Some are worth abandoning if the market shifted or the invention pivoted. Some should convert into PCT applications for international protection. Some should spawn multiple continuations and divisionals from a single parent. Treat the 12-month deadline as a strategy decision, not a calendar alert.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-provisional-patent-12-month-strategy)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### How much does a provisional patent application cost?
@@ -62,3 +76,14 @@ The provisional expires. You lose the priority date. Any public disclosure, publ
 Yes, if the technology is novel and commercially valuable. Provisionals are the cheapest insurance in the IP system and the single fastest way to lock in priority dates while the company iterates. Beyond Elevation builds provisional filing strategy into every AI founder engagement because delay is the single most expensive decision in early-stage IP.
 
 Your provisional patent is 12 months of legal leverage for the price of a laptop. Most founders file it once and burn the window. The ones who use it strategically walk into their Series A with a stacked priority portfolio, a prior art map, and a filing history that multiplies valuation. Beyond Elevation runs the provisional-to-portfolio playbook for tech and AI founders who treat filings as weapons, not paperwork. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fprovisional-patent-12-month-strategy%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fprovisional-patent-12-month-strategy%2F&text=Your%20Provisional%20Patent%20Is%20a%2012-Month%20Weapon.%20Most%20Founders%20File%20It%20and%20Forget%20It.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fprovisional-patent-12-month-strategy%2F)
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

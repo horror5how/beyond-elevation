@@ -2,7 +2,7 @@
 title: "You Open-Sourced Your AI Model. You Just Gave Away the Only Leverage You Had."
 slug: open-source-ai-ip-valuation-trap
 date: 2026-04-08
-url: https://beyondelevation.com/blog/post.html?slug=open-source-ai-ip-valuation-trap
+url: https://beyondelevation.com/blog/posts/open-source-ai-ip-valuation-trap/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -79,6 +79,20 @@ Your IP strategy is your valuation strategy. Every decision about what to publis
 
 **Get the IP audit before you make one more disclosure.** Beyond Elevation helps AI founders identify, protect, and monetise their intellectual property — before it ends up on someone else's balance sheet. Start at [beyondelevation.com](https://beyondelevation.com).
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-open-source-ai-ip-valuation-trap)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### Can I still get patents if I have already open-sourced some of my AI work?
@@ -92,6 +106,14 @@ Not always — but it is almost always damaging when applied to core, differenti
 ### How does Beyond Elevation help AI founders navigate open-source IP strategy?
 
 Beyond Elevation provides IP audits, patent strategy, and licensing frameworks specifically for AI and technology companies. Founder Hayat Amin and the team have restructured IP portfolios for companies like Position Imaging (66 patents) and built data monetisation strategies for companies like DGS — helping founders protect what matters while still engaging the developer community. Rated 4.5 on Trustpilot. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fopen-source-ai-ip-valuation-trap%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fopen-source-ai-ip-valuation-trap%2F&text=You%20Open-Sourced%20Your%20AI%20Model.%20You%20Just%20Gave%20Away%20the%20Only%20Leverage%20You%20Had.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fopen-source-ai-ip-valuation-trap%2F)
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

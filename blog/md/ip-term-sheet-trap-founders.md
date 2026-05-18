@@ -2,7 +2,7 @@
 title: "Your Term Sheet Has a Clause That Hands Your IP to Your Investor. You Already Signed It."
 slug: ip-term-sheet-trap-founders
 date: 2026-04-08
-url: https://beyondelevation.com/blog/post.html?slug=ip-term-sheet-trap-founders
+url: https://beyondelevation.com/blog/posts/ip-term-sheet-trap-founders/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -69,6 +69,20 @@ Beyond Elevation has reviewed over 200 term sheets for tech and AI founders. In 
 
 The founders who avoid this trap are the ones who get an IP strategy review before they sign — not six months after.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-term-sheet-trap-founders)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### Can an investor actually take my patents if I default?
@@ -88,6 +102,14 @@ Search your term sheet and any related loan, SAFE, or convertible note documents
 Before the term sheet is drafted — not after. An independent IP valuation gives you a concrete number to anchor negotiations. It shifts the conversation from "we have some patents" to "our IP portfolio is independently valued at $X and structured for licensing revenue." Beyond Elevation uses income-based, market-comparable, and cost-based methodologies to produce defensible valuations, typically in two to four weeks. Position Imaging's 66-patent portfolio restructuring is proof that this changes the entire dynamic.
 
 If you are raising capital and your IP strategy stops at "we filed patents," you are leaving leverage and money on the table. The term sheet is where fortunes are made or given away — and the IP clause is the one most founders never read. Beyond Elevation builds the IP architecture that keeps founders in control before they sign. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-term-sheet-trap-founders%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-term-sheet-trap-founders%2F&text=Your%20Term%20Sheet%20Has%20a%20Clause%20That%20Hands%20Your%20IP%20to%20Your%20Investor.%20You%20Already%20Signed%20It.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-term-sheet-trap-founders%2F)
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

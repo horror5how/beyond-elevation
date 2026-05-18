@@ -2,8 +2,8 @@
 title: "How Much Is Your Patent Actually Worth? The 3-Number Formula Nobody Teaches"
 slug: how-much-is-my-patent-worth
 date: 2026-04-17
-url: https://beyondelevation.com/blog/post.html?slug=how-much-is-my-patent-worth
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/how-much-is-my-patent-worth/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -77,6 +77,20 @@ Your patent's defensible value sits between the replacement cost floor and the s
 
 If running this analysis sounds complex, it is. Beyond Elevation's patent valuation assessment applies the 3-Number Formula to every patent in your portfolio — and the gap between founder estimates and calculated value averages 6x. [Book a patent valuation assessment](https://beyondelevation.com) to find out what your IP is actually worth.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-much-is-my-patent-worth)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a professional patent valuation cost?
@@ -98,3 +112,14 @@ Patent pending status reduces value by 30–60% compared to a granted patent bec
 ### Is my patent worth more for licensing or selling?
 
 Licensing almost always generates more total revenue than a one-time sale. A patent sold for $500K might produce $3M to $5M in cumulative licensing revenue over its remaining life. Selling only outperforms licensing when you need immediate capital and cannot wait for royalties to accumulate.
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-much-is-my-patent-worth%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-much-is-my-patent-worth%2F&text=How%20Much%20Is%20Your%20Patent%20Actually%20Worth%3F%20The%203-Number%20Formula%20Nobody%20Teaches%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-much-is-my-patent-worth%2F)
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -2,7 +2,7 @@
 title: "Your Lead Engineer Legally Owns Your Core Patent. You Forgot the IP Assignment Clause."
 slug: employee-ip-assignment-gap
 date: 2026-04-10
-url: https://beyondelevation.com/blog/post.html?slug=employee-ip-assignment-gap
+url: https://beyondelevation.com/blog/posts/employee-ip-assignment-gap/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -84,6 +84,27 @@ A CTO walked out of his Series A startup in Q3 last year. Three weeks later, his
 \n\nStart with the USPTO assignment database, which is public. Cross-reference every named inventor on every patent against your employment and contractor records. Flag every patent where the assignment was recorded late, missing, or references only a generic employment agreement. Beyond Elevation runs a systematic chain-of-title audit that typically takes two to four weeks and identifies every exposure in the portfolio before it becomes a fundraising, licensing, or acquisition problem.
 
 \n\nYour patents are only as valuable as your ability to prove you own them. In 31% of startup portfolios Beyond Elevation reviews, that proof is broken. Fix the chain of title before a buyer, an investor, or a departing engineer finds the gap first. Beyond Elevation builds the IP ownership architecture that holds up under due diligence, every time. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Femployee-ip-assignment-gap%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Femployee-ip-assignment-gap%2F&text=Your%20Lead%20Engineer%20Legally%20Owns%20Your%20Core%20Patent.%20You%20Forgot%20the%20IP%20Assignment%20Clause.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Femployee-ip-assignment-gap%2F)
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-employee-ip-assignment-gap)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -2,7 +2,7 @@
 title: "Your Codebase Has $500K of Unfiled IP. Most Founders Ship It Instead."
 slug: patent-mining-codebase-hidden-ip
 date: 2026-04-10
-url: https://beyondelevation.com/blog/post.html?slug=patent-mining-codebase-hidden-ip
+url: https://beyondelevation.com/blog/posts/patent-mining-codebase-hidden-ip/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -51,6 +51,20 @@ The process takes 2 to 4 weeks for a typical seed or Series A company. Beyond El
 
 **Phase 4: Filing roadmap.** Rank the survivors by commercial value, infringement detectability, and design-around difficulty. File provisionals on the top tier within 30 days. Defensive-publish the next tier so competitors cannot patent it against you. Trade-secret the rest.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-mining-codebase-hidden-ip)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### How long does a patent mining audit take?
@@ -74,3 +88,14 @@ Before. Every mined patent strengthens the due diligence story and the valuation
 No. Any tech company shipping novel engineering work benefits. Beyond Elevation has run patent mining audits across AI, robotics, fintech, data infrastructure, and hardware. The highest yields come from AI companies simply because they ship more novel work per engineer per quarter than any other category.
 
 Your codebase is an unaudited asset. Every commit is either protected IP or public prior art the second it ships. Beyond Elevation runs patent mining audits for tech and AI founders who treat engineering velocity as a source of defensible asset value, not a liability. Position Imaging found 19 unfiled inventions inside an existing portfolio. DGS built a patentable data monetisation stack from customer tickets. The IP is already there — someone just has to pull it out. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-mining-codebase-hidden-ip%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-mining-codebase-hidden-ip%2F&text=Your%20Codebase%20Has%20%24500K%20of%20Unfiled%20IP.%20Most%20Founders%20Ship%20It%20Instead.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-mining-codebase-hidden-ip%2F)
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

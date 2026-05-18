@@ -2,7 +2,7 @@
 title: "Your Patent Stops at the Border. Your Competitor's Product Doesn't."
 slug: patent-international-filing-strategy
 date: 2026-04-09
-url: https://beyondelevation.com/blog/post.html?slug=patent-international-filing-strategy
+url: https://beyondelevation.com/blog/posts/patent-international-filing-strategy/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -65,6 +65,20 @@ For most tech and AI startups, the priority filing list is: US, EPO (covers 38 E
 
 Total cost for a 7-country international portfolio: $80,000 to $150,000 over 30 months. Total value protected: your entire global market, your licensing leverage, and 20% to 40% of your exit premium.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-international-filing-strategy)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### Can I file international patents after my PCT window closes?
@@ -84,6 +98,14 @@ You enforce through local counsel in that jurisdiction. Most major patent market
 Yes. AI companies should prioritize jurisdictions where AI patent eligibility is strongest — the US, Japan, South Korea, and China all have relatively favorable frameworks for AI-related inventions. The EPO is more restrictive but still grants AI patents when the claims are tied to a specific technical application. Beyond Elevation’s AI patent portfolio strategies always factor in jurisdictional eligibility differences to maximize grant rates across filings.
 
 Your patent portfolio is only as strong as the markets it covers. If your IP stops at the border, so does your leverage — with licensees, acquirers, and competitors. Beyond Elevation builds international IP architectures that protect your revenue everywhere it is generated, not just where you happened to file first. Start at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-international-filing-strategy%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-international-filing-strategy%2F&text=Your%20Patent%20Stops%20at%20the%20Border.%20Your%20Competitor's%20Product%20Doesn't.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-international-filing-strategy%2F)
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

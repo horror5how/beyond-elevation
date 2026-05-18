@@ -2,8 +2,8 @@
 title: "What Does a Patent Attorney Actually Do? The Honest Answer Most Founders Never Get"
 slug: what-does-a-patent-attorney-actually-do
 date: 2026-04-16
-url: https://beyondelevation.com/blog/post.html?slug=what-does-a-patent-attorney-actually-do
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/what-does-a-patent-attorney-actually-do/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -63,6 +63,20 @@ An IP strategist determines which patents to file and why, how to cluster patent
 
 The founders who get this sequence right build portfolios worth multiples of what they spent. The founders who skip strategy and go straight to filing build expensive patent collections that do not generate revenue, do not block competitors effectively, and do not move valuations. Beyond Elevation exists to close that gap — to ensure every patent dollar drives measurable commercial outcomes.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-what-does-a-patent-attorney-actually-do)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Do I need a patent attorney or a regular lawyer?
@@ -84,3 +98,14 @@ Both patent attorneys and patent agents are registered to practice before the US
 ### Should I hire a patent attorney before or after my seed round?
 
 Before — but only after you have a strategic filing plan. Investors look for evidence of IP defensibility during due diligence, and having filed or pending patents on your core technology signals that you take defensibility seriously. The key is filing strategically, not broadly. One well-targeted patent application on your core differentiator is worth more to investors than five applications on peripheral features.
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fwhat-does-a-patent-attorney-actually-do%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fwhat-does-a-patent-attorney-actually-do%2F&text=What%20Does%20a%20Patent%20Attorney%20Actually%20Do%3F%20The%20Honest%20Answer%20Most%20Founders%20Never%20Get%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fwhat-does-a-patent-attorney-actually-do%2F)
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

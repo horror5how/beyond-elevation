@@ -2,7 +2,7 @@
 title: "Patent Licensing vs Patent Selling: Why Selling Usually Costs You 10x"
 slug: patent-licensing-vs-patent-selling
 date: 2026-04-10
-url: https://beyondelevation.com/blog/post.html?slug=patent-licensing-vs-patent-selling
+url: https://beyondelevation.com/blog/posts/patent-licensing-vs-patent-selling/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -91,6 +91,20 @@ If you are weeks away from signing a patent sale, you owe yourself one 30-minute
 
 Book an IP monetisation audit with Beyond Elevation at [beyondelevation.com](https://beyondelevation.com) and we will build the sale-vs-licence model for your specific portfolio before you give the asset away.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-licensing-vs-patent-selling)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Is it always better to license patents than sell them?
@@ -112,3 +126,14 @@ Yes, if you write field-of-use restrictions into every licence. A field-of-use c
 ### What happens if the licensee stops paying royalties?
 
 Enforcement requires the audit rights and minimum-royalty clauses built into the deal. Without them, you have no recourse. With them, you have a contractual basis to audit, demand payment, and terminate the licence if needed. Beyond Elevation never signs a licence without both protections in place.
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-licensing-vs-patent-selling%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-licensing-vs-patent-selling%2F&text=Patent%20Licensing%20vs%20Patent%20Selling%3A%20Why%20Selling%20Usually%20Costs%20You%2010x%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatent-licensing-vs-patent-selling%2F)
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

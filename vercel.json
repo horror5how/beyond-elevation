@@ -8,7 +8,11 @@
     { "source": "/home-1", "destination": "/", "permanent": true },
     { "source": "/home-1/", "destination": "/", "permanent": true },
     { "source": "/post/:slug*", "destination": "/blog/", "permanent": true },
-    { "source": "/blog/categories/:slug*", "destination": "/blog/", "permanent": true }
+    { "source": "/blog/categories/:slug*", "destination": "/blog/", "permanent": true },
+    { "source": "/blog/posts/ip-backed-lending-patents-as-collateral", "destination": "/blog/posts/ip-backed-financing-patents-as-collateral/", "permanent": true },
+    { "source": "/blog/posts/ip-backed-lending-patents-as-collateral/", "destination": "/blog/posts/ip-backed-financing-patents-as-collateral/", "permanent": true },
+    { "source": "/blog/posts/engineer-ip-assignment-founder-mistake", "destination": "/blog/posts/employee-ip-assignment-gap/", "permanent": true },
+    { "source": "/blog/posts/engineer-ip-assignment-founder-mistake/", "destination": "/blog/posts/employee-ip-assignment-gap/", "permanent": true }
   ],
   "headers": [
     {

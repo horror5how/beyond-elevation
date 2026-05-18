@@ -2,7 +2,7 @@
 title: "Your Series B Will Stall Without an IP Portfolio. Here Is the Proof."
 slug: ip-portfolio-series-b-fundraising
 date: 2026-04-04
-url: https://beyondelevation.com/blog/post.html?slug=ip-portfolio-series-b-fundraising
+url: https://beyondelevation.com/blog/posts/ip-portfolio-series-b-fundraising/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -73,6 +73,20 @@ These are not edge cases. Companies with structured IP portfolios consistently c
 
 Ninety days. That is the difference between a Series B that closes at a premium and one that stalls in diligence. The work is not complex. It just requires discipline and experienced guidance.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-portfolio-series-b-fundraising)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ: IP Portfolio for Series B Fundraising
 
 ### How many patents does a startup need for a Series B round?
@@ -90,6 +104,14 @@ It is possible but increasingly difficult, especially in AI and deep tech. Witho
 ### How does Beyond Elevation prepare companies for Series B IP due diligence?
 
 Beyond Elevation runs a structured 90-day readiness programme that includes IP audits, patent filing strategy, freedom-to-operate analysis, trade secret documentation, assignment remediation, and diligence package preparation. The goal is a complete, investor-ready IP position that withstands scrutiny and commands a valuation premium. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to start your Series B IP preparation.
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-portfolio-series-b-fundraising%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-portfolio-series-b-fundraising%2F&text=Your%20Series%20B%20Will%20Stall%20Without%20an%20IP%20Portfolio.%20Here%20Is%20the%20Proof.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fip-portfolio-series-b-fundraising%2F)
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

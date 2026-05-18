@@ -2,7 +2,7 @@
 title: "Most AI Founders Have Patents. Almost None Have a Portfolio. That Gap Is Worth Millions."
 slug: ai-patent-portfolio-strategy
 date: 2026-04-06
-url: https://beyondelevation.com/blog/post.html?slug=ai-patent-portfolio-strategy
+url: https://beyondelevation.com/blog/posts/ai-patent-portfolio-strategy/
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -83,6 +83,20 @@ If your company exits for $30 million without IP protection, a structured portfo
 
 There is no other investment a founder can make with that kind of multiple.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-patent-portfolio-strategy)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## Frequently Asked Questions
 
 ### How many patents do you need for an effective AI patent portfolio?
@@ -102,6 +116,14 @@ A patent portfolio is a strategically architected collection of related patents 
 A complete AI patent portfolio takes 18 to 36 months to build from initial audit to granted patents. However, provisional applications can be filed within 30 to 60 days, providing immediate protection and priority dates. Beyond Elevation typically builds portfolios in phases aligned with funding timelines so founders have demonstrable IP assets before critical fundraising milestones.
 
 Your patents are either a strategy or a souvenir. If you want to build an AI patent portfolio that actually multiplies your valuation, blocks competitors, and generates licensing revenue, talk to the team at [beyondelevation.com](https://beyondelevation.com).
+
+        
+        
+          Share this article
+          
+            [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fai-patent-portfolio-strategy%2F)
+            [X](https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fai-patent-portfolio-strategy%2F&text=Most%20AI%20Founders%20Have%20Patents.%20Almost%20None%20Have%20a%20Portfolio.%20That%20Gap%20Is%20Worth%20Millions.%20%E2%80%94%20Beyond%20Elevation)
+            [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fai-patent-portfolio-strategy%2F)
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
