@@ -3,7 +3,7 @@ date: 2026-05-18
 theme: AI just commoditized patent drafting — the new founder moat is patent ARR, claim charting, and licensing floors, not filings.
 generated_at: 2026-05-18T10:46:10.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -158,7 +158,9 @@ BE structured one deal with a $240K annual floor. The licensee paid in full, no 
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-18T18:27:10.927Z
+share_urn: urn:li:share:7462207170642714624
 hook_format: prediction
 cta_goal: follows
 slug: eu-ai-act-august-2026-trade-secret-gap

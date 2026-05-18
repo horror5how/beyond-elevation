@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c7c003a1375ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "euipo-2026-ip-intensive-industries-47-percent-eu-gdp",
-    "ts": "2026-05-15T15:11:53.183Z"
-  },
-  {
     "hash": "7ef100110b35ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "patent-licensing-floor-guarantee",
     "ts": "2026-05-18T16:21:32.219Z"
+  },
+  {
+    "hash": "00e7ffffff05a5a5",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "eu-ai-act-august-2026-trade-secret-gap",
+    "ts": "2026-05-18T18:27:10.927Z"
   }
 ]

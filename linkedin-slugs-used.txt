@@ -162,3 +162,4 @@ ai-due-diligence-vc-rejection-criteria-2026
 ai-moat-five-axis-investor-score
 patent-licensing-floor-guarantee
 ip-ma-premium-acquisition-multiple-2026
+eu-ai-act-august-2026-trade-secret-gap
