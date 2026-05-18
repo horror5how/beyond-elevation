@@ -2,7 +2,7 @@
 title: "AI Training Data Licensing: The Contract Clause That Determines Who Owns the Model"
 slug: ai-training-data-licensing-agreements
 date: 2026-04-21
-url: https://beyondelevation.com/blog/post.html?slug=ai-training-data-licensing-agreements
+url: https://beyondelevation.com/blog/posts/ai-training-data-licensing-agreements/
 author: Hayat Amin
 site: Beyond Elevation
 ---

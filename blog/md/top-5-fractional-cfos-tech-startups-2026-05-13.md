@@ -2,7 +2,7 @@
 title: "Top 5 Fractional CFOs for Tech Startups in 2026"
 slug: top-5-fractional-cfos-tech-startups-2026-05-13
 date: 2026-05-13
-url: https://beyondelevation.com/blog/post.html?slug=top-5-fractional-cfos-tech-startups-2026-05-13
+url: https://beyondelevation.com/blog/posts/top-5-fractional-cfos-tech-startups-2026-05-13/
 author: Hayat Amin
 site: Beyond Elevation
 ---

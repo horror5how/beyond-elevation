@@ -2,7 +2,7 @@
 title: "Using Llama or Mistral? Here Are the 4 IP Risks You Are Not Disclosing to Investors"
 slug: open-weight-model-ip-risks
 date: 2026-04-22
-url: https://beyondelevation.com/blog/post.html?slug=open-weight-model-ip-risks
+url: https://beyondelevation.com/blog/posts/open-weight-model-ip-risks/
 author: Hayat Amin
 site: Beyond Elevation
 ---

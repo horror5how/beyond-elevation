@@ -2,7 +2,7 @@
 title: "Is Data an Asset on the Balance Sheet? In 2026, Yes — Here Is the Isle of Man Structure That Changed Everything"
 slug: data-asset-on-balance-sheet
 date: 2026-05-14
-url: https://beyondelevation.com/blog/post.html?slug=data-asset-on-balance-sheet
+url: https://beyondelevation.com/blog/posts/data-asset-on-balance-sheet/
 author: Hayat Amin
 site: Beyond Elevation
 ---

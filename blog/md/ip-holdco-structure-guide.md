@@ -2,7 +2,7 @@
 title: "The IP Holding Company Structure: How to Legally Separate and Monetise Your Patent Portfolio"
 slug: ip-holdco-structure-guide
 date: 2026-04-23
-url: https://beyondelevation.com/blog/post.html?slug=ip-holdco-structure-guide
+url: https://beyondelevation.com/blog/posts/ip-holdco-structure-guide/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The 5 Valuation Methods Every Operator Needs — And Which One Wins for AI, IP-Heavy, and Pre-Revenue Companies"
 slug: 5-methods-of-valuation
 date: 2026-05-14
-url: https://beyondelevation.com/blog/post.html?slug=5-methods-of-valuation
+url: https://beyondelevation.com/blog/posts/5-methods-of-valuation/
 author: Hayat Amin
 site: Beyond Elevation
 ---

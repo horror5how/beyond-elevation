@@ -2,7 +2,7 @@
 title: "Why One Patent Is a Waste and Seven Patents Is a Fortress: Patent Clustering Strategy Explained"
 slug: patent-clustering-strategy-moat
 date: 2026-05-16
-url: https://beyondelevation.com/blog/post.html?slug=patent-clustering-strategy-moat
+url: https://beyondelevation.com/blog/posts/patent-clustering-strategy-moat/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Agentic AI Is Not a Product Decision. It Is an IP Decision. Here Is Why."
 slug: agentic-ai-business-strategy
 date: 2026-04-18
-url: https://beyondelevation.com/blog/post.html?slug=agentic-ai-business-strategy
+url: https://beyondelevation.com/blog/posts/agentic-ai-business-strategy/
 author: Hayat Amin
 site: Beyond Elevation
 ---

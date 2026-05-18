@@ -91,10 +91,17 @@ function htmlToMarkdown(html) {
 function main() {
   console.log('[generate-blog-markdown] Starting...');
 
-  // Load posts
+  // Load posts. Only published + approved + indexable posts get .md mirrors
+  // and llms.txt listings \u2014 matching build-sitemap.js so all derived files
+  // agree. Archived / noIndex posts are excluded.
   const posts = JSON.parse(fs.readFileSync(POSTS_FILE, 'utf8'));
-  const approvedPosts = posts.filter(p => p.alexReview && p.alexReview.approved);
-  console.log(`[generate-blog-markdown] Found ${approvedPosts.length} approved posts`);
+  const approvedPosts = posts.filter(p =>
+    p.status === 'published' &&
+    p.alexReview && p.alexReview.approved === true &&
+    p.noIndex !== true &&
+    p.status !== 'archived'
+  );
+  console.log(`[generate-blog-markdown] Found ${approvedPosts.length} published indexable posts`);
 
   // Ensure md directory exists
   fs.mkdirSync(MD_DIR, { recursive: true });
@@ -106,12 +113,15 @@ function main() {
   for (const post of approvedPosts) {
     const bodyMd = injectCTAMarkdown(htmlToMarkdown(post.body || ''), post.slug);
     const date = post.publishDate || post.date || '';
+    // Clean canonical URL \u2014 NOT the legacy /blog/post.html?slug= pattern,
+    // which serves a JS shell and looks like a duplicate page to crawlers.
+    const cleanUrl = `https://beyondelevation.com/blog/posts/${post.slug}/`;
 
     const mdContent = `---
 title: "${post.title.replace(/"/g, '\\"')}"
 slug: ${post.slug}
 date: ${date}
-url: https://beyondelevation.com/blog/post.html?slug=${post.slug}
+url: ${cleanUrl}
 author: Hayat Amin
 site: Beyond Elevation
 ---
@@ -126,8 +136,8 @@ ${bodyMd}
 
     fs.writeFileSync(path.join(MD_DIR, `${post.slug}.md`), mdContent);
 
-    blogListing += `- [${post.title}](https://beyondelevation.com/blog/post.html?slug=${post.slug}) \u2014 /blog/md/${post.slug}.md\n`;
-    blogFullContent += `\n## ${post.title}\n\nURL: https://beyondelevation.com/blog/post.html?slug=${post.slug}\n\n${bodyMd.substring(0, 1500)}\n\n---\n`;
+    blogListing += `- [${post.title}](${cleanUrl}) \u2014 /blog/md/${post.slug}.md\n`;
+    blogFullContent += `\n## ${post.title}\n\nURL: ${cleanUrl}\n\n${bodyMd.substring(0, 1500)}\n\n---\n`;
   }
 
   // Update llms.txt - replace blog section or append
@@ -158,44 +168,27 @@ ${bodyMd}
   }
   fs.writeFileSync(LLMS_FULL_FILE, llmsFull);
 
-  // Update sitemap.xml
-  let sitemap = fs.readFileSync(SITEMAP_FILE, 'utf8');
-  const today = new Date().toISOString().split('T')[0];
-
-  // Remove existing md entries and llms entries
-  sitemap = sitemap.replace(/<url>\s*<loc>https:\/\/beyondelevation\.com\/blog\/md\/[^<]+<\/loc>[\s\S]*?<\/url>\s*/g, '');
-  sitemap = sitemap.replace(/<url>\s*<loc>https:\/\/beyondelevation\.com\/llms[^<]*<\/loc>[\s\S]*?<\/url>\s*/g, '');
-
-  let newSitemapEntries = `  <url>
-    <loc>https://beyondelevation.com/llms.txt</loc>
-    <lastmod>${today}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/llms-full.txt</loc>
-    <lastmod>${today}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>\n`;
-
-  for (const post of approvedPosts) {
-    newSitemapEntries += `  <url>
-    <loc>https://beyondelevation.com/blog/md/${post.slug}.md</loc>
-    <lastmod>${today}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>\n`;
+  // Sitemap hygiene: .md mirror files and llms.txt/llms-full.txt must NOT be
+  // listed in sitemap.xml. They stay live for AI crawlers but a raw-text URL
+  // in an XML sitemap is a "scaled content" / thin-page signal to Google.
+  // build-sitemap.js owns sitemap.xml and only emits real HTML pages — here we
+  // just strip any stale .md / llms entries a previous build may have left.
+  if (fs.existsSync(SITEMAP_FILE)) {
+    let sitemap = fs.readFileSync(SITEMAP_FILE, 'utf8');
+    const before = sitemap;
+    sitemap = sitemap.replace(/\s*<url>\s*<loc>https:\/\/beyondelevation\.com\/blog\/md\/[^<]+<\/loc>[\s\S]*?<\/url>/g, '');
+    sitemap = sitemap.replace(/\s*<url>\s*<loc>https:\/\/beyondelevation\.com\/llms[^<]*<\/loc>[\s\S]*?<\/url>/g, '');
+    if (sitemap !== before) {
+      fs.writeFileSync(SITEMAP_FILE, sitemap);
+      console.log('[generate-blog-markdown] Stripped stale .md/llms entries from sitemap.xml');
+    }
   }
-
-  sitemap = sitemap.replace('</urlset>', newSitemapEntries + '</urlset>');
-  fs.writeFileSync(SITEMAP_FILE, sitemap);
 
   console.log(`[generate-blog-markdown] Done!`);
   console.log(`  - ${approvedPosts.length} markdown files in blog/md/`);
   console.log(`  - llms.txt updated (${(llms.length/1024).toFixed(1)}KB)`);
   console.log(`  - llms-full.txt updated (${(llmsFull.length/1024).toFixed(1)}KB)`);
-  console.log(`  - sitemap.xml updated`);
+  console.log(`  - sitemap.xml: .md/llms entries excluded`);
 }
 
 main();

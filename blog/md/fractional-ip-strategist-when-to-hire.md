@@ -2,7 +2,7 @@
 title: "When You Should Hire a Fractional IP Strategist Instead of a Full-Time Lawyer"
 slug: fractional-ip-strategist-when-to-hire
 date: 2026-05-14
-url: https://beyondelevation.com/blog/post.html?slug=fractional-ip-strategist-when-to-hire
+url: https://beyondelevation.com/blog/posts/fractional-ip-strategist-when-to-hire/
 author: Hayat Amin
 site: Beyond Elevation
 ---

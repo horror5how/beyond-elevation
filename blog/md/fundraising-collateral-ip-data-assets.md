@@ -2,7 +2,7 @@
 title: "Fundraising Collateral in 2026: Why VCs Now Demand IP and Data Assets Before They Wire"
 slug: fundraising-collateral-ip-data-assets
 date: 2026-05-18
-url: https://beyondelevation.com/blog/post.html?slug=fundraising-collateral-ip-data-assets
+url: https://beyondelevation.com/blog/posts/fundraising-collateral-ip-data-assets/
 author: Hayat Amin
 site: Beyond Elevation
 ---

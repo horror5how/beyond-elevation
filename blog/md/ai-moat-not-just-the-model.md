@@ -2,7 +2,7 @@
 title: "In AI, the moat is not just the model. It is the IP around it."
 slug: ai-moat-not-just-the-model
 date: 2026-03-20
-url: https://beyondelevation.com/blog/post.html?slug=ai-moat-not-just-the-model
+url: https://beyondelevation.com/blog/posts/ai-moat-not-just-the-model/
 author: Hayat Amin
 site: Beyond Elevation
 ---

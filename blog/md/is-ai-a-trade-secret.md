@@ -2,7 +2,7 @@
 title: "Is Your AI a Trade Secret, a Patent, or Worthless? The 4-Question Test That Tells You Which IP Vehicle Actually Protects Your Model"
 slug: is-ai-a-trade-secret
 date: 2026-05-18
-url: https://beyondelevation.com/blog/post.html?slug=is-ai-a-trade-secret
+url: https://beyondelevation.com/blog/posts/is-ai-a-trade-secret/
 author: Hayat Amin
 site: Beyond Elevation
 ---

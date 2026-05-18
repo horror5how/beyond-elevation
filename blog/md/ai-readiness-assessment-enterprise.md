@@ -2,7 +2,7 @@
 title: "12 Questions That Reveal If Your Business Is Actually Ready for AI (Most Fail Question 3)"
 slug: ai-readiness-assessment-enterprise
 date: 2026-04-19
-url: https://beyondelevation.com/blog/post.html?slug=ai-readiness-assessment-enterprise
+url: https://beyondelevation.com/blog/posts/ai-readiness-assessment-enterprise/
 author: Hayat Amin
 site: Beyond Elevation
 ---

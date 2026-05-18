@@ -2,7 +2,7 @@
 title: "How VCs Actually Value Your IP (And Why Your Patent Attorney Has No Idea)"
 slug: ip-valuation-for-fundraising
 date: 2026-05-17
-url: https://beyondelevation.com/blog/post.html?slug=ip-valuation-for-fundraising
+url: https://beyondelevation.com/blog/posts/ip-valuation-for-fundraising/
 author: Hayat Amin
 site: Beyond Elevation
 ---

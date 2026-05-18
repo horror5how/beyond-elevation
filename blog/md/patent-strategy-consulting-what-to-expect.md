@@ -2,7 +2,7 @@
 title: "Patent Strategy Consulting: What to Expect and How It Creates Value for Your Business"
 slug: patent-strategy-consulting-what-to-expect
 date: 2026-03-27
-url: https://beyondelevation.com/blog/post.html?slug=patent-strategy-consulting-what-to-expect
+url: https://beyondelevation.com/blog/posts/patent-strategy-consulting-what-to-expect/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Why Most AI Companies Should Not Patent Their Models (And What to Do Instead)"
 slug: trade-secret-protection-ai-models
 date: 2026-04-21
-url: https://beyondelevation.com/blog/post.html?slug=trade-secret-protection-ai-models
+url: https://beyondelevation.com/blog/posts/trade-secret-protection-ai-models/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "What Is IP Monetisation? The Six Routes I Walk Founders Through"
 slug: what-is-ip-monetisation
 date: 2026-04-25
-url: https://beyondelevation.com/blog/post.html?slug=what-is-ip-monetisation
+url: https://beyondelevation.com/blog/posts/what-is-ip-monetisation/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "What Patent Monetization Consultants Actually Do (And What You Should Pay Them)"
 slug: patent-monetization-consulting-guide
 date: 2026-05-13
-url: https://beyondelevation.com/blog/post.html?slug=patent-monetization-consulting-guide
+url: https://beyondelevation.com/blog/posts/patent-monetization-consulting-guide/
 author: Hayat Amin
 site: Beyond Elevation
 ---

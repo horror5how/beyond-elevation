@@ -2,7 +2,7 @@
 title: "How to Build a Patent Licensing Revenue Model That Generates Recurring Income"
 slug: patent-licensing-revenue-model
 date: 2026-03-18
-url: https://beyondelevation.com/blog/post.html?slug=patent-licensing-revenue-model
+url: https://beyondelevation.com/blog/posts/patent-licensing-revenue-model/
 author: Hayat Amin
 site: Beyond Elevation
 ---

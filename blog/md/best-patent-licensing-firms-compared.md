@@ -2,7 +2,7 @@
 title: "The Best Patent Licensing Firms Compared: Who Founders Should Actually Hire"
 slug: best-patent-licensing-firms-compared
 date: 2026-05-13
-url: https://beyondelevation.com/blog/post.html?slug=best-patent-licensing-firms-compared
+url: https://beyondelevation.com/blog/posts/best-patent-licensing-firms-compared/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table)"
 slug: data-asset-type-classification
 date: 2026-05-16
-url: https://beyondelevation.com/blog/post.html?slug=data-asset-type-classification
+url: https://beyondelevation.com/blog/posts/data-asset-type-classification/
 author: Hayat Amin
 site: Beyond Elevation
 ---

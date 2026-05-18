@@ -2,7 +2,7 @@
 title: "The IP Moves You Must Make Before You Write a Single Line of Code"
 slug: ip-strategy-pre-revenue-startup
 date: 2026-04-22
-url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-pre-revenue-startup
+url: https://beyondelevation.com/blog/posts/ip-strategy-pre-revenue-startup/
 author: Hayat Amin
 site: Beyond Elevation
 ---

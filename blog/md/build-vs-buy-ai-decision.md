@@ -2,7 +2,7 @@
 title: "Build vs Buy AI: The Framework That Stops Founders Wasting £500K on the Wrong Decision"
 slug: build-vs-buy-ai-decision
 date: 2026-04-19
-url: https://beyondelevation.com/blog/post.html?slug=build-vs-buy-ai-decision
+url: https://beyondelevation.com/blog/posts/build-vs-buy-ai-decision/
 author: Hayat Amin
 site: Beyond Elevation
 ---

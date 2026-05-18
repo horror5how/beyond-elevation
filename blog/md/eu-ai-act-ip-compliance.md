@@ -2,7 +2,7 @@
 title: "The EU AI Act Has a Patent Problem. Here Is What Every IP Owner Must Do Before August 2026."
 slug: eu-ai-act-ip-compliance
 date: 2026-04-19
-url: https://beyondelevation.com/blog/post.html?slug=eu-ai-act-ip-compliance
+url: https://beyondelevation.com/blog/posts/eu-ai-act-ip-compliance/
 author: Hayat Amin
 site: Beyond Elevation
 ---

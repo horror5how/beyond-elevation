@@ -2,7 +2,7 @@
 title: "Can an AI Be a Patent Inventor? The 2026 Legal Reality (And What It Means for Your Portfolio)"
 slug: ai-generated-invention-patent-eligibility
 date: 2026-04-20
-url: https://beyondelevation.com/blog/post.html?slug=ai-generated-invention-patent-eligibility
+url: https://beyondelevation.com/blog/posts/ai-generated-invention-patent-eligibility/
 author: Hayat Amin
 site: Beyond Elevation
 ---

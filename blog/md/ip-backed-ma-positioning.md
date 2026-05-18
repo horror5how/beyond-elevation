@@ -2,7 +2,7 @@
 title: "How to Position IP in an M&A Deal to Add 2-4x to Your Exit Multiple"
 slug: ip-backed-ma-positioning
 date: 2026-05-18
-url: https://beyondelevation.com/blog/post.html?slug=ip-backed-ma-positioning
+url: https://beyondelevation.com/blog/posts/ip-backed-ma-positioning/
 author: Hayat Amin
 site: Beyond Elevation
 ---

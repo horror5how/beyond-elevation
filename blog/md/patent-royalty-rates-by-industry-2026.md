@@ -2,7 +2,7 @@
 title: "Patent Royalty Rates in 2026: The Industry-by-Industry Breakdown That Shows Most Founders Price 3x Too Low"
 slug: patent-royalty-rates-by-industry-2026
 date: 2026-05-11
-url: https://beyondelevation.com/blog/post.html?slug=patent-royalty-rates-by-industry-2026
+url: https://beyondelevation.com/blog/posts/patent-royalty-rates-by-industry-2026/
 author: Hayat Amin
 site: Beyond Elevation
 ---

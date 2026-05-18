@@ -2,7 +2,7 @@
 title: "IP Strategy for Startups: A Founder's Complete Guide to Protecting Innovation"
 slug: ip-strategy-startups-guide
 date: 2026-03-16
-url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-startups-guide
+url: https://beyondelevation.com/blog/posts/ip-strategy-startups-guide/
 author: Hayat Amin
 site: Beyond Elevation
 ---

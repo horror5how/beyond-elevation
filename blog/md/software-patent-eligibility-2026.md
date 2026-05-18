@@ -2,7 +2,7 @@
 title: "Software Patents in 2026: What the Latest USPTO Guidance Actually Allows"
 slug: software-patent-eligibility-2026
 date: 2026-04-23
-url: https://beyondelevation.com/blog/post.html?slug=software-patent-eligibility-2026
+url: https://beyondelevation.com/blog/posts/software-patent-eligibility-2026/
 author: Hayat Amin
 site: Beyond Elevation
 ---

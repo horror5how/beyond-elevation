@@ -2,7 +2,7 @@
 title: "AI Training Data Valuation: What Your Dataset Is Worth"
 slug: ai-training-data-valuation
 date: 2026-04-02
-url: https://beyondelevation.com/blog/post.html?slug=ai-training-data-valuation
+url: https://beyondelevation.com/blog/posts/ai-training-data-valuation/
 author: Hayat Amin
 site: Beyond Elevation
 ---

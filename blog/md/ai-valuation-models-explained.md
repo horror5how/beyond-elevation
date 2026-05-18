@@ -2,7 +2,7 @@
 title: "The 4 Valuation Models Built Specifically for AI Companies (And Why Standard DCF Breaks on Day One)"
 slug: ai-valuation-models-explained
 date: 2026-05-16
-url: https://beyondelevation.com/blog/post.html?slug=ai-valuation-models-explained
+url: https://beyondelevation.com/blog/posts/ai-valuation-models-explained/
 author: Hayat Amin
 site: Beyond Elevation
 ---

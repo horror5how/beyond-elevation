@@ -2,7 +2,7 @@
 title: "IP Due Diligence for M&A: What Acquirers Scrutinize and How to Prepare"
 slug: ip-due-diligence-ma-guide
 date: 2026-04-01
-url: https://beyondelevation.com/blog/post.html?slug=ip-due-diligence-ma-guide
+url: https://beyondelevation.com/blog/posts/ip-due-diligence-ma-guide/
 author: Hayat Amin
 site: Beyond Elevation
 ---

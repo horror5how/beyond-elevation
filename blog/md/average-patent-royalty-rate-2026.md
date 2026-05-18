@@ -2,7 +2,7 @@
 title: "The Real Average Patent Royalty Rate in 2026 (Spoiler: It Is Not the Number Your Lawyer Quoted)"
 slug: average-patent-royalty-rate-2026
 date: 2026-05-17
-url: https://beyondelevation.com/blog/post.html?slug=average-patent-royalty-rate-2026
+url: https://beyondelevation.com/blog/posts/average-patent-royalty-rate-2026/
 author: Hayat Amin
 site: Beyond Elevation
 ---

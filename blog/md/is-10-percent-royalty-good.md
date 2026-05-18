@@ -2,7 +2,7 @@
 title: "Is 10% a Good Royalty Rate? The 2026 Industry-by-Industry Cheat Sheet"
 slug: is-10-percent-royalty-good
 date: 2026-05-15
-url: https://beyondelevation.com/blog/post.html?slug=is-10-percent-royalty-good
+url: https://beyondelevation.com/blog/posts/is-10-percent-royalty-good/
 author: Hayat Amin
 site: Beyond Elevation
 ---

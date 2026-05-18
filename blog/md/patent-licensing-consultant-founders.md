@@ -2,7 +2,7 @@
 title: "The Only Patent Licensing Playbook Founders Under $20M Revenue Need"
 slug: patent-licensing-consultant-founders
 date: 2026-05-17
-url: https://beyondelevation.com/blog/post.html?slug=patent-licensing-consultant-founders
+url: https://beyondelevation.com/blog/posts/patent-licensing-consultant-founders/
 author: Hayat Amin
 site: Beyond Elevation
 ---

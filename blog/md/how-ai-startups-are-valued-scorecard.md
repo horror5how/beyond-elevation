@@ -2,7 +2,7 @@
 title: "How AI Startups Are Actually Valued: The 4-Factor Model That Prices Two Identical Companies 10x Apart"
 slug: how-ai-startups-are-valued-scorecard
 date: 2026-05-07
-url: https://beyondelevation.com/blog/post.html?slug=how-ai-startups-are-valued-scorecard
+url: https://beyondelevation.com/blog/posts/how-ai-startups-are-valued-scorecard/
 author: Hayat Amin
 site: Beyond Elevation
 ---

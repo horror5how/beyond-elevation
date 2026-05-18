@@ -2,7 +2,7 @@
 title: "Are Provisional Patents Worth Filing? My Honest Take After 200+ Startup Reviews"
 slug: is-a-provisional-patent-worth-it
 date: 2026-04-29
-url: https://beyondelevation.com/blog/post.html?slug=is-a-provisional-patent-worth-it
+url: https://beyondelevation.com/blog/posts/is-a-provisional-patent-worth-it/
 author: Hayat Amin
 site: Beyond Elevation
 ---

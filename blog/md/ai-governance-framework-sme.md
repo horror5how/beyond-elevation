@@ -2,7 +2,7 @@
 title: "The AI Governance Framework That Protects Your Business Without Killing Your Roadmap"
 slug: ai-governance-framework-sme
 date: 2026-04-19
-url: https://beyondelevation.com/blog/post.html?slug=ai-governance-framework-sme
+url: https://beyondelevation.com/blog/posts/ai-governance-framework-sme/
 author: Hayat Amin
 site: Beyond Elevation
 ---

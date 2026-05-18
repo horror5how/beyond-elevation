@@ -2,7 +2,7 @@
 title: "How to Build Recurring Patent Revenue Streams That Compound Every Quarter"
 slug: recurring-patent-revenue-streams
 date: 2026-05-12
-url: https://beyondelevation.com/blog/post.html?slug=recurring-patent-revenue-streams
+url: https://beyondelevation.com/blog/posts/recurring-patent-revenue-streams/
 author: Hayat Amin
 site: Beyond Elevation
 ---

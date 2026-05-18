@@ -2,7 +2,7 @@
 title: "The IP Premium: How Intellectual Property Boosts Tech Company Valuations"
 slug: tech-company-valuation-ip-premium
 date: 2026-03-19
-url: https://beyondelevation.com/blog/post.html?slug=tech-company-valuation-ip-premium
+url: https://beyondelevation.com/blog/posts/tech-company-valuation-ip-premium/
 author: Hayat Amin
 site: Beyond Elevation
 ---

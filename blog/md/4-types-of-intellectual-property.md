@@ -2,7 +2,7 @@
 title: "The 4 Types of Intellectual Property — And Why Founders Only Care About 2 of Them"
 slug: 4-types-of-intellectual-property
 date: 2026-04-24
-url: https://beyondelevation.com/blog/post.html?slug=4-types-of-intellectual-property
+url: https://beyondelevation.com/blog/posts/4-types-of-intellectual-property/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "A Tech Startup Got a Patent Troll Letter. Here Is the Patent Troll Defense Strategy They Used to Win."
 slug: patent-troll-defense-strategy
 date: 2026-04-22
-url: https://beyondelevation.com/blog/post.html?slug=patent-troll-defense-strategy
+url: https://beyondelevation.com/blog/posts/patent-troll-defense-strategy/
 author: Hayat Amin
 site: Beyond Elevation
 ---

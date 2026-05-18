@@ -4,7 +4,11 @@
     { "source": "/pricing/", "destination": "/services/", "permanent": true },
     { "source": "/insights", "destination": "/blog/", "permanent": true },
     { "source": "/insights/", "destination": "/blog/", "permanent": true },
-    { "source": "/insights/:slug*", "destination": "/blog/:slug*", "permanent": true }
+    { "source": "/insights/:slug*", "destination": "/blog/:slug*", "permanent": true },
+    { "source": "/home-1", "destination": "/", "permanent": true },
+    { "source": "/home-1/", "destination": "/", "permanent": true },
+    { "source": "/post/:slug*", "destination": "/blog/", "permanent": true },
+    { "source": "/blog/categories/:slug*", "destination": "/blog/", "permanent": true }
   ],
   "headers": [
     {

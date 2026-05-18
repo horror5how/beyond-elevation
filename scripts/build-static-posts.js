@@ -104,6 +104,44 @@ function pickRelated(post, allPosts, n = 4) {
   return cands.slice(0, n).map(c => c.post);
 }
 
+// === FAQ extraction for FAQPage JSON-LD ===
+// Posts carry a visible FAQ section as <h2>FAQ…</h2> followed by
+// <h3>question</h3><p>answer</p> pairs. We parse those into a FAQPage schema
+// so Google can surface rich FAQ results and AI engines can cite the Q&As.
+function stripTags(s = '') {
+  return String(s).replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+}
+
+function decodeEntities(s = '') {
+  return String(s)
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&mdash;/g, '—')
+    .replace(/&ndash;/g, '–');
+}
+
+function extractFaqs(body) {
+  if (!body) return [];
+  const h2 = body.match(/<h2[^>]*>\s*(?:FAQ|Frequently\s+Asked)[^<]*<\/h2>/i);
+  if (!h2) return [];
+  let rest = body.slice(body.indexOf(h2[0]) + h2[0].length);
+  const nextH2 = rest.match(/<h2[^>]*>/i);
+  if (nextH2) rest = rest.slice(0, rest.indexOf(nextH2[0]));
+  const qas = [];
+  const re = /<h3[^>]*>([\s\S]*?)<\/h3>\s*((?:<p[^>]*>[\s\S]*?<\/p>\s*)+)/gi;
+  let m;
+  while ((m = re.exec(rest)) !== null) {
+    const q = decodeEntities(stripTags(m[1]));
+    const a = decodeEntities(stripTags(m[2]));
+    if (q && a) qas.push({ q, a });
+  }
+  return qas;
+}
+
 function renderRelatedSection(related) {
   if (!related || !related.length) return '';
   const cards = related.map(p => {
@@ -129,17 +167,40 @@ ${cards}
 `;
 }
 
+// Trim a string to a target length on a word boundary (for meta description).
+function clampMeta(s, limit = 155) {
+  const t = String(s || '').replace(/\s+/g, ' ').trim();
+  if (t.length <= limit) return t;
+  let cut = t.slice(0, limit);
+  const sp = cut.lastIndexOf(' ');
+  if (sp > limit * 0.6) cut = cut.slice(0, sp);
+  return cut.replace(/[\s,;:\-–—]+$/, '');
+}
+
 function pageTemplate(post, related) {
   const canonical = `${SITE}/blog/posts/${post.slug}/`;
-  const title = `${post.title} — Beyond Elevation`;
-  const description = post.excerpt || `IP strategy insights from Beyond Elevation — ${post.title}`;
+  // SEO <title>: short seoTitle so Google does not truncate it; the long
+  // post.title stays the visible H1. The " — Beyond Elevation" brand suffix is
+  // only appended when the total stays within Google's ~60-char display limit;
+  // otherwise the seoTitle alone is used (brand still appears in og:site_name).
+  const seoTitle = post.seoTitle || post.title;
+  const BRAND_SUFFIX = ' — Beyond Elevation';
+  const title = (seoTitle.length + BRAND_SUFFIX.length) <= 60
+    ? `${seoTitle}${BRAND_SUFFIX}`
+    : seoTitle;
+  // <meta description>: trimmed metaDescription (~155 chars). Falls back to a
+  // clamped excerpt so it never exceeds Google's truncation length.
+  const description = clampMeta(post.metaDescription || post.excerpt || `IP strategy insights from Beyond Elevation — ${post.title}`);
   const ogImage = `${SITE}/assets/og-image.jpg`;
   const heroImage = post.heroImage
     ? (post.heroImage.startsWith('http') ? post.heroImage : `${SITE}/assets/${path.basename(post.heroImage)}`)
     : `${SITE}/assets/og-image.jpg`;
   const datePublished = post.date;
   const dateModified = post.dateModified || post.date;
-  const author = post.author || 'Beyond Elevation Team';
+  // Author byline — a real named human for Google E-E-A-T. Data is normalised
+  // to "Hayat Amin" in posts.json; any legacy team label is rewritten here too.
+  let author = post.author || 'Hayat Amin';
+  if (/beyond elevation( team| editorial)?/i.test(author)) author = 'Hayat Amin';
   const category = post.category || 'IP Strategy';
   // Per-post noindex flag (added 2026-05-06 for HCU triage). When true, the
   // page renders with `noindex,follow` and is excluded from sitemap.xml.
@@ -193,6 +254,23 @@ function pageTemplate(post, related) {
     ],
   };
 
+  // FAQPage JSON-LD — generated from the post's visible FAQ Q&As so the page
+  // is eligible for Google FAQ rich results and is cleanly citable by AI
+  // engines. Only emitted when the post actually has an FAQ section.
+  const faqs = extractFaqs(post.body);
+  const faqSchema = faqs.length ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: q,
+      acceptedAnswer: { '@type': 'Answer', text: a },
+    })),
+  } : null;
+  const faqScript = faqSchema
+    ? `\n    <script type="application/ld+json">${JSON.stringify(faqSchema)}</script>`
+    : '';
+
   return `<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -217,7 +295,7 @@ function pageTemplate(post, related) {
     <!-- Open Graph -->
     <meta property="og:type" content="article" />
     <meta property="og:url" content="${canonical}" />
-    <meta property="og:title" content="${escapeHtml(post.title)}" />
+    <meta property="og:title" content="${escapeHtml(seoTitle)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
     <meta property="og:image" content="${ogImage}" />
     <meta property="og:image:width" content="1200" />
@@ -231,7 +309,7 @@ function pageTemplate(post, related) {
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content="${canonical}" />
-    <meta name="twitter:title" content="${escapeHtml(post.title)}" />
+    <meta name="twitter:title" content="${escapeHtml(seoTitle)}" />
     <meta name="twitter:description" content="${escapeHtml(description)}" />
     <meta name="twitter:image" content="${ogImage}" />
     <meta name="twitter:site" content="@BeyondElevation" />
@@ -290,7 +368,7 @@ function pageTemplate(post, related) {
 
     <!-- Article schema (JSON-LD) -->
     <script type="application/ld+json">${JSON.stringify(articleSchema)}</script>
-    <script type="application/ld+json">${JSON.stringify(breadcrumbSchema)}</script>
+    <script type="application/ld+json">${JSON.stringify(breadcrumbSchema)}</script>${faqScript}
 
     <!-- Analytics: Vercel + Speed Insights -->
     <script defer src="/_vercel/insights/script.js"></script>
@@ -322,10 +400,10 @@ function pageTemplate(post, related) {
         <span class="eyebrow">${escapeHtml(category)}</span>
         <h1>${escapeHtml(post.title)}</h1>
         <div class="author-block">
-          <img class="author-photo" src="/assets/be-author-headshot.jpg" alt="Beyond Elevation Team" loading="eager" />
+          <img class="author-photo" src="/assets/be-author-headshot.jpg" alt="${escapeHtml(author)}" loading="eager" />
           <div class="author-copy">
             <strong>${escapeHtml(author)}</strong>
-            <span>Featuring insights from Hayat Amin, CEO of Beyond Elevation</span>
+            <span>CEO of Beyond Elevation · IP strategy &amp; licensing</span>
           </div>
         </div>
         <img class="post-hero" src="${heroImage}" alt="${escapeHtml(post.title)}" loading="eager" />
@@ -361,7 +439,7 @@ function blogIndexTemplate(posts) {
     const cat = escapeHtml(post.category || 'IP Strategy');
     const title = escapeHtml(post.title);
     const excerpt = escapeHtml(post.excerpt || '');
-    const author = escapeHtml(post.author || 'Beyond Elevation');
+    const author = escapeHtml(post.author || 'Hayat Amin');
     const date = escapeHtml(post.date || '');
     const reading = escapeHtml(post.readingTime || '');
     return `          <article class="blog-list-card">

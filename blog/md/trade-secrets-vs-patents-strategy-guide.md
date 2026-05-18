@@ -2,7 +2,7 @@
 title: "Trade Secrets vs Patents: When to Use Each in Your IP Strategy"
 slug: trade-secrets-vs-patents-strategy-guide
 date: 2026-04-01
-url: https://beyondelevation.com/blog/post.html?slug=trade-secrets-vs-patents-strategy-guide
+url: https://beyondelevation.com/blog/posts/trade-secrets-vs-patents-strategy-guide/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Your Patents Can Fund Your Next Round Without Dilution — The IP-Backed Financing Playbook"
 slug: ip-backed-financing-patents-as-collateral
 date: 2026-05-13
-url: https://beyondelevation.com/blog/post.html?slug=ip-backed-financing-patents-as-collateral
+url: https://beyondelevation.com/blog/posts/ip-backed-financing-patents-as-collateral/
 author: Hayat Amin
 site: Beyond Elevation
 ---

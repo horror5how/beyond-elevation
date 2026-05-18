@@ -2,7 +2,7 @@
 title: "Why Hiring a Patent Attorney First Is the #1 Mistake Founders Make"
 slug: ip-strategy-vs-patent-attorney
 date: 2026-05-12
-url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-vs-patent-attorney
+url: https://beyondelevation.com/blog/posts/ip-strategy-vs-patent-attorney/
 author: Hayat Amin
 site: Beyond Elevation
 ---

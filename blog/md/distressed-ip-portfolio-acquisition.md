@@ -2,7 +2,7 @@
 title: "The Rise of Distressed IP: How Smart Buyers Are Acquiring Patent Portfolios at 80% Discount"
 slug: distressed-ip-portfolio-acquisition
 date: 2026-04-24
-url: https://beyondelevation.com/blog/post.html?slug=distressed-ip-portfolio-acquisition
+url: https://beyondelevation.com/blog/posts/distressed-ip-portfolio-acquisition/
 author: Hayat Amin
 site: Beyond Elevation
 ---

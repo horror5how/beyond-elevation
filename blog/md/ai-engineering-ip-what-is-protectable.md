@@ -2,7 +2,7 @@
 title: "AI Engineering IP: What's Actually Protectable in Your Stack"
 slug: ai-engineering-ip-what-is-protectable
 date: 2026-04-01
-url: https://beyondelevation.com/blog/post.html?slug=ai-engineering-ip-what-is-protectable
+url: https://beyondelevation.com/blog/posts/ai-engineering-ip-what-is-protectable/
 author: Hayat Amin
 site: Beyond Elevation
 ---

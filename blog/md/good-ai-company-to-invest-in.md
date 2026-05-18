@@ -2,7 +2,7 @@
 title: "How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard"
 slug: good-ai-company-to-invest-in
 date: 2026-05-15
-url: https://beyondelevation.com/blog/post.html?slug=good-ai-company-to-invest-in
+url: https://beyondelevation.com/blog/posts/good-ai-company-to-invest-in/
 author: Hayat Amin
 site: Beyond Elevation
 ---

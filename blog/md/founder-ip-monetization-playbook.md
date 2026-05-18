@@ -2,7 +2,7 @@
 title: "The Founder's IP Monetization Playbook: 5 Plays Ranked by Speed to Revenue"
 slug: founder-ip-monetization-playbook
 date: 2026-05-09
-url: https://beyondelevation.com/blog/post.html?slug=founder-ip-monetization-playbook
+url: https://beyondelevation.com/blog/posts/founder-ip-monetization-playbook/
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "How to Value Intangible Assets in an M&A Deal: The 3 Methods and When Each Applies"
 slug: how-to-value-intangible-assets-ma
 date: 2026-04-24
-url: https://beyondelevation.com/blog/post.html?slug=how-to-value-intangible-assets-ma
+url: https://beyondelevation.com/blog/posts/how-to-value-intangible-assets-ma/
 author: Hayat Amin
 site: Beyond Elevation
 ---

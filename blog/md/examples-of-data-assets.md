@@ -2,7 +2,7 @@
 title: "7 Real Examples of Data Assets (And the Dollar Value 2026 Buyers Are Paying For Each)"
 slug: examples-of-data-assets
 date: 2026-05-15
-url: https://beyondelevation.com/blog/post.html?slug=examples-of-data-assets
+url: https://beyondelevation.com/blog/posts/examples-of-data-assets/
 author: Hayat Amin
 site: Beyond Elevation
 ---

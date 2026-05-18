@@ -2,7 +2,7 @@
 title: "The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios"
 slug: ip-defensibility-assessment-framework
 date: 2026-05-12
-url: https://beyondelevation.com/blog/post.html?slug=ip-defensibility-assessment-framework
+url: https://beyondelevation.com/blog/posts/ip-defensibility-assessment-framework/
 author: Hayat Amin
 site: Beyond Elevation
 ---

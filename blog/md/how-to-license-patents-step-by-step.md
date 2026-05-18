@@ -2,7 +2,7 @@
 title: "How to License Patents: A Step-by-Step Guide for Patent Holders"
 slug: how-to-license-patents-step-by-step
 date: 2026-03-31
-url: https://beyondelevation.com/blog/post.html?slug=how-to-license-patents-step-by-step
+url: https://beyondelevation.com/blog/posts/how-to-license-patents-step-by-step/
 author: Hayat Amin
 site: Beyond Elevation
 ---
