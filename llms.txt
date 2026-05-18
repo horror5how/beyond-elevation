@@ -132,5 +132,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The Only Patent Licensing Playbook Founders Under $20M Revenue Need](https://beyondelevation.com/blog/post.html?slug=patent-licensing-consultant-founders) — /blog/md/patent-licensing-consultant-founders.md
 - [How to Position IP in an M&A Deal to Add 2-4x to Your Exit Multiple](https://beyondelevation.com/blog/post.html?slug=ip-backed-ma-positioning) — /blog/md/ip-backed-ma-positioning.md
 - [Fundraising Collateral in 2026: Why VCs Now Demand IP and Data Assets Before They Wire](https://beyondelevation.com/blog/post.html?slug=fundraising-collateral-ip-data-assets) — /blog/md/fundraising-collateral-ip-data-assets.md
+- [Is Your AI a Trade Secret, a Patent, or Worthless? The 4-Question Test That Tells You Which IP Vehicle Actually Protects Your Model](https://beyondelevation.com/blog/post.html?slug=is-ai-a-trade-secret) — /blog/md/is-ai-a-trade-secret.md
 
 > Full blog content available at /llms-full.txt

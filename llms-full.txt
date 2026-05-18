@@ -1602,3 +1602,19 @@ Five years ago, fundraising collateral meant a slide deck, a financial model, an
 This is not a trend reserved for Series B and beyond. Seed-stage VCs increasingly request IP summaries and [data asset inventories](/blog/posts/data-asset-on-balance-sheet/) before scheduling a partner
 
 ---
+
+## Is Your AI a Trade Secret, a Patent, or Worthless? The 4-Question Test That Tells You Which IP Vehicle Actually Protects Your Model
+
+URL: https://beyondelevation.com/blog/post.html?slug=is-ai-a-trade-secret
+
+73% of AI companies have zero formal IP protection on their core models. They assume the code is “proprietary” and move on. That assumption is worth exactly nothing in court. Is AI a trade secret? It can be — but only if your AI passes four specific legal tests that most founders have never heard of, let alone implemented. [Hayat Amin](https://beyondelevation.com) argues that the single most expensive mistake in AI right now is not choosing the wrong model architecture — it is choosing the wrong IP vehicle to protect it.
+
+## Is AI a Trade Secret? The Direct Legal Answer
+
+AI can qualify as a trade secret under the Defend Trade Secrets Act and equivalent international frameworks — but only when the underlying information meets all four statutory requirements simultaneously. Most AI companies satisfy one or two. Fewer than 20% satisfy all four. The gap between “we keep it confidential” and “we have a legally enforceable trade secret” is where millions in IP value disappear every year.
+
+A trade secret must be (1) information that is actually secret, (2) economically valuable because of that secrecy, (3) subject to reasonable measures to maintain secrecy, and (4) identifiable with specificity. Your model weights, training data pipelines, hyperparameter configurations, and inference optimisations can all qualify — if you treat them right. The problem is that most AI teams treat confidentiality as a cultural norm rather than a legal programme.
+
+Hayat Amin puts it bluntly: “If you ca
+
+---
