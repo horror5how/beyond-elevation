@@ -3,7 +3,7 @@ date: 2026-05-18
 theme: AI just commoditized patent drafting — the new founder moat is patent ARR, claim charting, and licensing floors, not filings.
 generated_at: 2026-05-18T10:46:10.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ One BE client recaptured $380K in annual maintenance fees in 8 days.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-18T12:33:43.871Z
+share_urn: urn:li:share:7462118222218096640
 hook_format: contrarian
 cta_goal: follows
 slug: data-balance-sheet-revenue-gap

@@ -310,3 +310,4 @@ Post 5: hook_too_long(18w)
 2026-05-18 07:54 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=2)
 2026-05-18 07:54 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
 2026-05-18 11:10 | li-auto-post | render OK | post #1 | layout=b accent=#7a8c6e hash=42e3e7ffc3c3ff99 minDist=24 attempts=1
+2026-05-18 12:33 | li-auto-post | render OK | post #2 | layout=c accent=#a87c7c hash=3c7031013bf5ffff minDist=10 attempts=1

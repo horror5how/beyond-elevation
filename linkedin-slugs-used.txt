@@ -157,3 +157,4 @@ ip-value-creation-board-slide-2026
 patent-licensing-minimum-guarantee-clause
 ai-defensibility-moat-investor-score-2026
 patent-maintenance-fee-dead-weight-audit
+data-balance-sheet-revenue-gap
