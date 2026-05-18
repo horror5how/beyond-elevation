@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffff652525",
-    "layout": "a",
-    "accent": "#7a8c6e",
-    "slug": "avantium-upm-ip-only-asset-sale-vs-acquihire",
-    "ts": "2026-05-14T18:27:51.002Z"
-  },
-  {
     "hash": "42ffffffff28a0e4",
     "layout": "a",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "tday-50-percent-digital-ai-licensing-margin-expansion",
     "ts": "2026-05-16T08:53:46.656Z"
+  },
+  {
+    "hash": "42e3e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "patent-maintenance-fee-dead-weight-audit",
+    "ts": "2026-05-18T11:10:54.402Z"
   }
 ]

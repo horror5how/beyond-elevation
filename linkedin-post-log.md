@@ -54,3 +54,4 @@
 2026-05-17 17:52 | QUEUED | patent-licensing-minimum-guarantee-clause | Most patent licensing deals earn $0 in Year 1.  Not because the IP is weak.  Bec
 2026-05-17 17:53 | urn:li:share:7461836268407123968 | Most patent licensing deals earn $0 in Year 1.  Not because the IP is weak.  Bec
 2026-05-18 07:50 | urn:li:share:7462047069730533376 | VCs don't fund your AI roadmap. They fund your moat.  Most founders pitch capabi
+2026-05-18 11:10 | urn:li:share:7462097378750402560 | post #1 | patent-maintenance-fee-dead-weight-audit | 43% of patent portfolios pay full fees on nothing.  You are funding your competi

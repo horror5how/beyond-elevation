@@ -3,7 +3,7 @@ date: 2026-05-18
 theme: AI just commoditized patent drafting — the new founder moat is patent ARR, claim charting, and licensing floors, not filings.
 generated_at: 2026-05-18T10:46:10.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Six posts that move founders from passive asset holders to active revenue operat
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-18T11:10:54.402Z
+share_urn: urn:li:share:7462097378750402560
 hook_format: number-led
 cta_goal: follows
 slug: patent-maintenance-fee-dead-weight-audit
