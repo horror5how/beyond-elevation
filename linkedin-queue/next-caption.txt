@@ -1,17 +1,19 @@
-VCs don't fund your AI roadmap. They fund your moat.
+VCs are rejecting AI deals in 2026 at record rates.
 
-Most founders pitch capabilities. Investors run a 5-axis defensibility check.
+Not because the tech is weak.
 
-1. Proprietary data — can it be replicated?
-2. Patent density — claims on core methods?
-3. Switching cost — how expensive to replace you?
-4. Network effects — does value compound?
-5. Regulatory moat — is your IP a compliance shortcut?
+Because diligence now flags 4 specific failure modes.
 
-Score under 3 of 5 → commodity pricing. Score 4–5 → platform multiple.
+Model dependency: one API swap and your moat disappears.
 
-IP-protected AI companies trade at 5x the multiple of unprotected peers.
+Data replication: can a $5M competitor copy your dataset in 18 months?
 
-Run the score before your next raise.
+Agentic substitution: does an AI agent obsolete your core workflow?
 
-#AIStrategy #IPStrategy #Fundraising
+Talent concentration: does your IP leave when 2 engineers resign?
+
+Score below 4/8 on the moat framework and expect a 20% multiple markdown.
+
+Fix all four before your next raise.
+
+#AIStrategy #IPStrategy #VentureCapital

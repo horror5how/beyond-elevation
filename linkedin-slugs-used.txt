@@ -158,3 +158,4 @@ patent-licensing-minimum-guarantee-clause
 ai-defensibility-moat-investor-score-2026
 patent-maintenance-fee-dead-weight-audit
 data-balance-sheet-revenue-gap
+ai-due-diligence-vc-rejection-criteria-2026
