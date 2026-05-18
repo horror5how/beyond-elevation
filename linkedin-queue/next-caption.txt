@@ -1,19 +1,17 @@
-VCs are rejecting AI deals in 2026 at record rates.
+Acquirers looked at your company last year.
 
-Not because the tech is weak.
+3 of them passed.
 
-Because diligence now flags 4 specific failure modes.
+Not because your product was weak.
 
-Model dependency: one API swap and your moat disappears.
+Because your IP schedule was blank.
 
-Data replication: can a $5M competitor copy your dataset in 18 months?
+Companies with documented IP portfolios earn 2.8× the acquisition multiple of peers without.
 
-Agentic substitution: does an AI agent obsolete your core workflow?
+Most founders discover this 6 months after the offer lands.
 
-Talent concentration: does your IP leave when 2 engineers resign?
+The IP gap never shows up in your P&L.
 
-Score below 4/8 on the moat framework and expect a 20% multiple markdown.
+It shows up in your final number.
 
-Fix all four before your next raise.
-
-#AIStrategy #IPStrategy #VentureCapital
+#IPStrategy #MergersAndAcquisitions #StartupValuation
