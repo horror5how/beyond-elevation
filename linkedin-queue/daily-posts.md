@@ -3,7 +3,7 @@ date: 2026-05-18
 theme: AI just commoditized patent drafting — the new founder moat is patent ARR, claim charting, and licensing floors, not filings.
 generated_at: 2026-05-18T10:46:10.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -88,7 +88,9 @@ Top firms earn 11% of revenue from data licensing. Peers earn 2%.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-18T14:29:14.139Z
+share_urn: urn:li:share:7462147289755746304
 hook_format: contrarian
 cta_goal: follows
 slug: ai-moat-five-axis-investor-score

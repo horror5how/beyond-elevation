@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef010113f34ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "solve-intelligence-40m-series-b-harvey-patents",
-    "ts": "2026-05-15T11:22:40.259Z"
-  },
-  {
     "hash": "81ffffffcd402d7f",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "data-balance-sheet-revenue-gap",
     "ts": "2026-05-18T12:33:43.871Z"
+  },
+  {
+    "hash": "00ffffffff0121b9",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "ai-moat-five-axis-investor-score",
+    "ts": "2026-05-18T14:29:14.139Z"
   }
 ]

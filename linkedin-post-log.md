@@ -57,3 +57,4 @@
 2026-05-18 11:10 | urn:li:share:7462097378750402560 | post #1 | patent-maintenance-fee-dead-weight-audit | 43% of patent portfolios pay full fees on nothing.  You are funding your competi
 2026-05-18 12:33 | urn:li:share:7462118222218096640 | post #2 | data-balance-sheet-revenue-gap | Your data earns $0 on your balance sheet.  That gap costs you in every fundraisi
 2026-05-18 12:51 | QUEUED | ai-due-diligence-vc-rejection-criteria-2026 | VCs are rejecting AI deals in 2026 at record rates.  Not because the tech is wea
+2026-05-18 14:29 | urn:li:share:7462147289755746304 | post #3 | ai-moat-five-axis-investor-score | Investors ask one question. Most founders fail it.  Without a defensible moat an
