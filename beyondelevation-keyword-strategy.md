@@ -1,10 +1,10 @@
 ---
 title: Beyond Elevation Keyword Strategy (Source of Truth for Blog Cron)
 owner: Hayat Amin
-last_updated: 2026-05-14
+last_updated: 2026-05-18
 source_files: [seo-geo-plan.md, seo-content-plan.md, ai-seo-plan.md]
-coverage_audit: 2026-05-14
-paa_last_scraped: 2026-05-14 (Apify scrape SUCCESS — quota healthy at $2.99 / $5.00; 8 seeds run, 28 PAA returned, 8 new rows added after dedup/noise-filter)
+coverage_audit: 2026-05-18
+paa_last_scraped: 2026-05-18 (Apify scrape SUCCESS — 8 seeds run via direct HTTP `run-sync-get-dataset-items`, 16 PAA returned across 4 productive seeds, 4 new rows added after dedup/noise-filter)
 ---
 
 # Beyond Elevation — Keyword Strategy
@@ -190,6 +190,32 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 
 ---
 
+### 🗓 SEO Strategist Run — 2026-05-18
+
+**Phase 1 — Trending keyword signals (last 48h, full expanded scope — AI valuation / data assets / fundraising / royalty rates / moat / know-how):**
+1. **"AI startups command 25–35x revenue multiples in 2026; intangibles drive 70–80% of value"** — FE International + Qubit Capital + Lucid (May 2026): AI startups now attract 33% of total VC funding; seed-stage AI commands a **42% valuation premium** vs non-AI; median public 25–35x revenue, private 15–30x. Real Options Valuation (ROV) + scenario-based DCF + Asset-Based + IP-Weighted methods all rotating into mainstream practice. Direct ammo for "valuation methods for AI" + "intangible assets fundraising" briefs.
+2. **"Isle of Man Data Asset Foundation (Apr 2026) — datasets registered as balance-sheet assets, monetizable as collateral + M&A"** — Blocks & Files / Deloitte / Pure Storage May 2026 cycle: ~80–90% of S&P 500 enterprise value is intangible. Internally-generated data still cannot sit on the balance sheet under IFRS/GAAP unless purchased — but Manx DAF structure creates a legal vehicle that does. Tailwind for "data as collateral" + "data on the balance sheet" cluster.
+3. **"Royalty rates 2026 concrete numbers: SaaS/AI 8–15%, pharma 5–20%, software 8–12%, consumer 3–10%; AI-patent licensing fees +15%/yr since 2020"** — Stanzione + UpCounsel + MarketBlast (May 2026): direct citable benchmarks. Reinforces T5-26 (`patent-royalty-rates-by-industry-2026`) and creates a new lane for "fair royalty by industry" comparison content.
+4. **"AI moat 2026 = 8-point scorecard; 4+ points = durable, 0–1 = vulnerable"** — Allied Venture Partners + iExchange + WHU (May 2026): data uniqueness, replication speed test ($5M-in-18-months threshold), workflow depth audit, pricing model stress test, AI talent concentration, model dependency. $50M ARR vertical SaaS with thin moat = 20% multiple compression on 6x base. Investor-side framework — perfect AEO ammunition for T5-30 and new "AI defensibility" rows.
+5. **"AI vulnerability in M&A: model dependency / data moat / agentic substitution risk / AI talent concentration"** — Valutico + Third Bridge + Development Corporate (May 2026): VC rejection criteria converging on thin moats + UI differentiation + integration layers. Diligence cycles stretching from 1 week → 1–2 months. Direct fuel for "AI due diligence" + "AI investment criteria" briefs in the Tier 4A AI Transformation track.
+
+**Phase 2 — PAA scrape:** ✅ SUCCESS. 8 seeds rotated for today (Mon 2026-05-18) covering full expanded scope. Returned **16 PAA questions** across 4 productive seeds (`how to value an AI company`, `data as collateral fundraising`, `what is a patent holdco`, `trade secret vs patent AI`). 4 seeds returned 0 PAA (`AI moat defensibility`, `IP-backed financing startup`, `intangible assets in M&A`, `pre-revenue AI startup valuation` — Google PAA box not triggered for those phrasings). After dedup vs T5-01 → T5-33 + noise filter (off-topic celebrity / generic-business / 33%-nonprofit queries removed), **4 net-new rows added: T5-34 → T5-37**.
+
+**Phase 5 — Run summary:**
+- **4 new rows added** this run (T5-34 → T5-37). Tier 5 expanded from 33 → 37 total rows.
+- **Massive coverage flip this run — T5-26 → T5-33 ALL ✅ shipped** (Blog Publisher cleared them in the last 96h; re-audited 2026-05-18 against `data/posts.json` which now holds **82 posts**, up from 66 on 2026-05-14 — +16 in 4 days). Newly confirmed slugs: `average-patent-royalty-rate-2026`, `is-10-percent-royalty-good`, `5-methods-of-valuation`, `ai-valuation-models-explained`, `good-ai-company-to-invest-in`, `data-asset-on-balance-sheet`, `examples-of-data-assets`, `data-asset-type-classification`. **Original T5-01 → T5-33 block now 33/33 ✅ (100%).**
+- **Tier 4 coverage flips this run:** T4C-02 (`what-is-a-patent-holdco`) ✅, T4C-03 (`what-is-a-trade-secret`) ✅, T4C-04 (`how-to-value-intangible-assets-ma`) ✅ — all confirmed in posts.json. T4A-01/02/03/04/05/06/07 all shipped. T4B-03/04/05/06/07/08 shipped. Tier 4 effectively closed.
+- **New 🟢 / 🟡 distribution (T5-34 → T5-37):** 3 pure 🟢 new (T5-34, T5-35, T5-37) + 1 🟡 partial (T5-36 — adjacent to existing patent holdco coverage).
+- **TODAY'S TOP 4 BLOG BRIEF PICKS** (only the 4 new rows are actionable — every other Tier 5 row is now ✅):
+  1. **T5-35** — "What is fundraising collateral?" → Hook: *"Fundraising Collateral in 2026: Why VCs Now Demand IP + Data Assets Before They Wire (And the 7-Asset Checklist Founders Are Using to Close 2x Faster)."* Why: pure 🟢 new, trending signal #1 + #2 (intangibles = 70–80% of AI value, Isle of Man DAF, IP-backed financing). Bridges three high-intent clusters (fundraising / IP / data) in one post. Zero direct coverage in posts.json — `ip-backed-financing-patents-as-collateral` is adjacent but speaks to patents-as-collateral, not the broader "what counts as fundraising collateral" question. Highest commercial intent in the backlog.
+  2. **T5-37** — "Is AI a trade secret?" → Hook: *"Is Your AI a Trade Secret, a Patent, or Worthless? The 4-Question Test That Tells You Which IP Vehicle Actually Protects Your Model."* Why: pure 🟢 new, binary AEO question that wins Featured Snippets, and trending #3 + #5 (AI patent licensing fees +15%/yr, trade-secret-vs-patent decision tree). Pairs with already-shipped `trade-secret-protection-ai-models` + `trade-secrets-vs-patents-strategy-guide` for a 1-2-3 punch on the AI-IP-protection cluster.
+  3. **T5-34** — "How to evaluate an AI company?" → Hook: *"The 8-Axis AI Company Evaluation Checklist (Replication Speed, Workflow Depth, Data Moat, Talent Concentration)."* Why: pure 🟢 new, reinforced by trending #4 + #5 (Allied VP 8-point moat scorecard, Valutico 4-axis vulnerability framework, Third Bridge 2026 AI DD guide). Evaluator-checklist angle complements the now-shipped `good-ai-company-to-invest-in` scorecard. Internal-link magnet for AI valuation cluster.
+  4. **T5-36** — "Top patent holding companies in 2026?" → Hook: *"The 12 Largest Patent Holding Companies in 2026 (And the 3 Structures They Use to Monetize Billions in IP)."* Why: 🟡 partial via `what-is-a-patent-holdco`, but list-format SEO play scores higher than definitional post on commercial intent + AEO recall. Natural traffic-flow into IP Holdco hub + `ip-holdco-structure-guide`. Slot 4 because list-format demands more research than the other 3 picks.
+- **High-leverage queue after these 4 ship:** Tier 5 will then be fully shipped. Cron should rotate fresh PAA seeds (rotate to less-mined topics: "is a patent worth getting", "how to license AI model", "what is a data trust", "AI safety as IP", "patent box tax UK 2026", "AI export controls IP", "open-source model contributor IP"). Tier 4 is effectively closed — pivot focus to net-new Tier 5 ideation + Tier 1/2 evergreen refresh cycle (audit pre-2026-Q1 posts for stat freshness).
+- **Coverage audit:** **82 posts** confirmed in `data/posts.json` (+16 since 2026-05-14, +25 since 2026-05-04 baseline). T5-26 → T5-33 all flipped ✅ this run. T4C-02, T4C-03, T4C-04 all confirmed ✅. Full Tier 4 is now effectively shipped.
+
+---
+
 ### 🗓 SEO Strategist Run — 2026-05-14
 
 **Phase 1 — Trending keyword signals (last 48h, AI valuation / data assets / fundraising / moat / royalty rates focus):**
@@ -250,22 +276,22 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 | T5-31 | 2026-05-14 | Is data an asset on the balance sheet? | Data Is on the Balance Sheet in 2026 — Here's the Isle of Man Structure That Made It Legal (and What U.S./UK Founders Can Copy) | data as balance sheet asset, data on balance sheet, capitalize data assets | ✅ data-asset-on-balance-sheet |
 | T5-32 | 2026-05-14 | What is an example of a data asset? | 7 Real Examples of Data Assets (And the Dollar Value 2026 Buyers Are Paying For Each) | examples of data assets, data asset types, what counts as a data asset | ✅ examples-of-data-assets |
 | T5-33 | 2026-05-14 | What type of asset is data? | Is Data a Tangible or Intangible Asset? The 2026 Accounting Answer (and Why It Matters for Your Cap Table) | type of asset data, data asset classification, intangible asset data | ✅ data-asset-type-classification |
+| T5-34 | 2026-05-18 | How to evaluate an AI company? | The 8-Axis AI Company Evaluation Checklist (Replication Speed, Workflow Depth, Data Moat, Talent Concentration) | evaluate AI company, AI company assessment, due diligence AI startup | 🟢 new |
+| T5-35 | 2026-05-18 | What is fundraising collateral? | Fundraising Collateral in 2026: Why VCs Now Demand IP + Data Assets Before They Wire (And the 7-Asset Checklist Founders Use to Close 2x Faster) | fundraising collateral, IP as collateral, data as collateral, intangible asset financing | 🟢 new |
+| T5-36 | 2026-05-18 | What companies are the top patent holding companies? | The 12 Largest Patent Holding Companies in 2026 (And the 3 Structures They Use to Monetize Billions in IP) | top patent holding companies, largest IP holdcos, biggest patent owners 2026 | 🟡 partial what-is-a-patent-holdco |
+| T5-37 | 2026-05-18 | Is AI a trade secret? | Is Your AI a Trade Secret, a Patent, or Worthless? The 4-Question Test That Tells You Which IP Vehicle Actually Protects Your Model | AI trade secret, AI as trade secret, protect AI model IP | 🟢 new |
 
 ### Recommended write order (Tier 5)
 
-**Open rows only (re-ranked 2026-05-14 — original T5-01→T5-25 block is now 25/25 ✅. New T5-26→T5-33 rows seeded today are the actionable backlog. Once these ship, cron should rotate fresh seeds + pivot to Tier 4 backlog.)**
+**Open rows only (re-ranked 2026-05-18 — Tier 5 now 33/37 shipped. T5-26 → T5-33 ALL flipped ✅ this run. Only T5-34 → T5-37 (today's net-new) are open. Once these ship, Tier 5 is 100% — rotate fresh seeds.)**
 
-1. **T5-31** — Is data an asset on the balance sheet? — pure 🟢 new; trending signal #3 (Isle of Man DAF + Ocean Tomo 92% intangibles); zero existing coverage; highest commercial intent of this run ⬅ promoted 2026-05-14
-2. **T5-28** — What are the 5 methods of valuation? — pure 🟢 new; high informational SERP volume; top-of-funnel that feeds internal links to T5-19/20/21/22 ⬅ promoted 2026-05-14
-3. **T5-27** — Is a 10% royalty good? — pure 🟢 new; trending #4 (concrete 2026 royalty data, software 8–12% / pharma 5–20%); binary-question framing wins Featured Snippets ⬅ promoted 2026-05-14
-4. **T5-30** — What would be a good AI company to invest in? — pure 🟢 new; trending #5 (5-axis moat scorecard); investor-side framing flips perspective ⬅ promoted 2026-05-14
-5. **T5-32** — What is an example of a data asset? — pure 🟢 new; pairs with T5-31 as a data-asset cluster 1-2 punch
-6. **T5-33** — What type of asset is data? — 🟡 partial follow-up to T5-31; accounting-classification angle
-7. **T5-26** — What is the average royalty rate for patents? — 🟡 partial via `patent-royalty-rates-by-industry-2026`; consider numerical refresh / section update vs new post
-8. **T5-29** — What are the valuation models for AI? — 🟡 partial via `how-to-value-ai-company-worksheet`; consider taxonomy-style post that lists models then links back to worksheet
+1. **T5-35** — What is fundraising collateral? — pure 🟢 new; trending #1 + #2 (intangibles 70–80% of AI value, Isle of Man DAF, IP-backed financing); bridges fundraising + IP + data clusters ⬅ TOP PICK
+2. **T5-37** — Is AI a trade secret? — pure 🟢 new; binary AEO question (Featured Snippet target); pairs with `trade-secret-protection-ai-models` + `trade-secrets-vs-patents-strategy-guide` cluster
+3. **T5-34** — How to evaluate an AI company? — pure 🟢 new; checklist-format complement to shipped `good-ai-company-to-invest-in` scorecard
+4. **T5-36** — Top patent holding companies 2026? — 🟡 partial via `what-is-a-patent-holdco`; list-format SEO play, NPE-adjacent
 
-**Already shipped (✅ — full original Tier 5 block, T5-01 through T5-25, 100%):**
-T5-01 (patent-value-calculation-formula), T5-02 (25-percent-rule-ip-valuation), T5-03 (what-is-ip-monetisation), T5-04 (7-ways-to-make-money-from-ip), T5-05 (can-ip-assets-be-monetized), T5-06 (how-does-ip-make-money), T5-07 (4-types-of-intellectual-property), T5-08 (founder-ip-monetization-playbook), T5-09 (ip-monetization-profit-margins), T5-10 (patent-pending-vs-provisional-patent), T5-11 (4-types-of-patents), T5-12 (is-a-provisional-patent-worth-it), T5-13 (what-is-a-patent-moat), T5-14 (4-pillars-of-intellectual-property), T5-15 (is-data-monetization-legal), T5-16 (data-licensing-explained), T5-17 (how-data-monetization-works), T5-18 (how-ai-startups-are-valued-scorecard), T5-19 (30-percent-rule-ai-valuation), T5-20 (how-to-value-ai-company-worksheet), T5-21 (ai-business-worth-2026-multiples), T5-22 (rule-of-40-tech-valuation), T5-23 (good-ebitda-tech-company-2026), T5-24 (know-how-is-an-asset), T5-25 (can-ai-be-an-asset).
+**Already shipped (✅ — 33 of 37 rows, updated 2026-05-18):**
+T5-01 → T5-33 (entire historical block, 100%). T5-26 → T5-33 all flipped this run after confirmation in `data/posts.json` (82 posts total). Open: T5-34 🟢, T5-35 🟢, T5-36 🟡, T5-37 🟢 (all seeded today).
 
 ### ⚠️ Apify scrape run log
 
@@ -274,6 +300,7 @@ T5-01 (patent-value-calculation-formula), T5-02 (25-percent-rule-ip-valuation), 
 | 2026-04-30 | AI valuation methods, data licensing startups, using IP to raise funding, what investors look for in AI companies, patent licensing consultant, AI moat valuation, data assets on balance sheet, pre-revenue startup IP value | ❌ FAILED | `apify call apify/google-search-scraper` returned: `Error: Monthly usage hard limit exceeded`. Phase 1 trending research + Phase 4 coverage audit + Phase 5 re-ranked picks completed; Phase 2 PAA scrape skipped per spec fallback. |
 | 2026-05-04 | AI valuation methods, data assets on balance sheet, using IP to raise funding, AI know-how as asset, patent licensing consultant, how to value an AI company, data licensing startups, tech company valuation multiples | ❌ FAILED | `apify call apify/google-search-scraper` returned `Error: Monthly usage hard limit exceeded` again. `monthlyUsageUsd` = $5.004 / $5.00; cycle window April 7 → May 6, 2026. Alt actors blocked by account-wide cap. Phase 1 + 4 + 5 completed; Phase 2 skipped per spec fallback. |
 | 2026-05-14 | how to value an AI company, AI valuation methods, data assets on balance sheet, using IP to raise funding, what investors look for in AI companies, AI know-how as asset, tech company valuation multiples, patent royalty rates by industry | ✅ SUCCESS | Quota healthy ($2.99 / $5.00; new cycle window May 7 → June 6, 2026). Returned 28 PAA questions across 8 seeds. After dedup vs T5-01→T5-25 + noise filter (off-topic generic-business + celebrity queries removed), 8 net-new rows added (T5-26 → T5-33). Direct HTTP `run-sync-get-dataset-items` against `apify~google-search-scraper`. |
+| 2026-05-18 | how to value an AI company, AI moat defensibility, data as collateral fundraising, IP-backed financing startup, what is a patent holdco, trade secret vs patent AI, intangible assets in M&A, pre-revenue AI startup valuation | ✅ SUCCESS | Direct HTTP `run-sync-get-dataset-items` against `apify~google-search-scraper`. 4 of 8 seeds returned PAA boxes (16 total); 4 seeds returned 0 (Google PAA box not triggered for those phrasings — `AI moat defensibility`, `IP-backed financing startup`, `intangible assets in M&A`, `pre-revenue AI startup valuation`). After dedup vs T5-01→T5-33 + noise filter (celebrity / 33%-nonprofit / 80-20-fundraising / 500K-business-worth off-topic queries removed), 4 net-new rows added (T5-34 → T5-37). |
 
 ### How to extend Tier 5
 
