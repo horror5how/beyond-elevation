@@ -1,13 +1,13 @@
 ---
 date: 2026-05-18
-theme: Convert dormant IP, data, and AI assets into measurable revenue before the next board meeting.
-generated_at: 2026-05-18T07:53:02.034Z
-posts_total: 5
+theme: AI just commoditized patent drafting — the new founder moat is patent ARR, claim charting, and licensing floors, not filings.
+generated_at: 2026-05-18T10:46:10.000Z
+posts_total: 6
 posts_published: 0
 ---
 
 # Daily theme
-Five posts that move founders from passive asset holders to active revenue operators. Each post targets a specific leak — maintenance fee waste, data on the balance sheet, AI moat scoring, licensing floor gaps, and EU AI Act trade secret exposure — and delivers a concrete 3-move fix.
+Six posts that move founders from passive asset holders to active revenue operators. Posts 1-5 attack five revenue leaks: maintenance fee waste, data on the balance sheet, AI moat scoring, licensing floor gaps, and EU AI Act trade secret exposure. Post 6 names the moat-shift founders must answer this week — three AI patent platforms raising $105M in 30 days, and the new IP playbook that survives commoditization.
 
 # Topic shortlist (research notes - not posted)
 1. Patent maintenance fee audit — 43% dead weight, $380K recaptured, IP pillar
@@ -15,6 +15,7 @@ Five posts that move founders from passive asset holders to active revenue opera
 3. AI moat 5-axis scorecard — 25.8x vs 10x multiple, IP-rich premium, AI pillar
 4. Patent licensing minimum guarantee clause — $240K floor, zero litigation, IP pillar
 5. EU AI Act August 2026 deadline — €35M fine risk, 3 unregistered trade secrets found, AI pillar
+6. AI patent platforms raised $105M in 30 days (DeepIP, Solve Intelligence, Patlytics) — moat shift to patent ARR + claim charting, IP/AI pillar
 
 ---
 
@@ -177,3 +178,43 @@ One BE client found three unregistered trade secrets during an EU AI Act audit. 
 ↳ Founders: have you classified your AI system under the EU AI Act yet?
 
 #EUAIAct #AIGovernance #IPStrategy
+
+---
+
+## Post 6
+status: pending
+hook_format: frame-break
+cta_goal: dms
+slug: ai-patent-platforms-105m-moat-shift
+keyword: AI patent moat strategy
+numbers_check: $105M, 30 days, $25M, $40M, 10x, $200B, 5x
+image_direction: bold red-alert dashboard with three logos eroding a patent shield
+headline: AI just ate patent drafting.<br>What is your real moat now?
+metric_1: $105M
+label_1: RAISED IN<br>30 DAYS
+metric_2: $200B
+label_2: PATENT MARKET<br>COMMODITIZED
+metric_3: 10x
+label_3: SOLVE REVENUE<br>GROWTH
+
+Three AI patent startups raised $105M in 30 days.
+
+DeepIP $25M. Solve Intelligence $40M at 10x revenue growth. Patlytics $40M.
+
+The $200B patent industry just got commoditized at the drafting layer.
+
+If your moat is "we filed 12 patents," that moat is gone by Q3.
+
+The new moat:
+
+1. Claim charting that maps competitor freedom-to-operate
+
+2. Licensing revenue with minimum guarantee floors
+
+3. Patent ARR — not patent count — on the cap table
+
+Founders who treat IP as a balance-sheet asset 5x valuation multiples vs. founders treating it as a legal cost.
+
+What does your patent ARR look like in 2026?
+
+#patentstrategy #aimoat #founderequity
