@@ -279,7 +279,7 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 | T5-34 | 2026-05-18 | How to evaluate an AI company? | The 8-Axis AI Company Evaluation Checklist (Replication Speed, Workflow Depth, Data Moat, Talent Concentration) | evaluate AI company, AI company assessment, due diligence AI startup | 🟢 new |
 | T5-35 | 2026-05-18 | What is fundraising collateral? | Fundraising Collateral in 2026: Why VCs Now Demand IP + Data Assets Before They Wire (And the 7-Asset Checklist Founders Use to Close 2x Faster) | fundraising collateral, IP as collateral, data as collateral, intangible asset financing | ✅ fundraising-collateral-ip-data-assets |
 | T5-36 | 2026-05-18 | What companies are the top patent holding companies? | The 12 Largest Patent Holding Companies in 2026 (And the 3 Structures They Use to Monetize Billions in IP) | top patent holding companies, largest IP holdcos, biggest patent owners 2026 | 🟡 partial what-is-a-patent-holdco |
-| T5-37 | 2026-05-18 | Is AI a trade secret? | Is Your AI a Trade Secret, a Patent, or Worthless? The 4-Question Test That Tells You Which IP Vehicle Actually Protects Your Model | AI trade secret, AI as trade secret, protect AI model IP | 🟢 new |
+| T5-37 | 2026-05-18 | Is AI a trade secret? | Is Your AI a Trade Secret, a Patent, or Worthless? The 4-Question Test That Tells You Which IP Vehicle Actually Protects Your Model | AI trade secret, AI as trade secret, protect AI model IP | ✅ is-ai-a-trade-secret |
 
 ### Recommended write order (Tier 5)
 
