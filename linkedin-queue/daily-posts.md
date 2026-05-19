@@ -3,7 +3,7 @@ date: 2026-05-19
 theme: The AI patent gold rush is automating every layer of IP work — the founder edge has moved from owning patents to earning licensing ARR and protecting data rivals cannot replicate.
 generated_at: 2026-05-19T04:05:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Six posts on the same shift: filing patents is no longer a moat. Post 1 (carried
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-19T10:40:09.160Z
+share_urn: urn:li:share:7462452027206410240
 hook_format: frame-break
 cta_goal: dms
 slug: ai-patent-platforms-105m-moat-shift

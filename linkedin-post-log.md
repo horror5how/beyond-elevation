@@ -62,3 +62,4 @@
 2026-05-18 17:50 | QUEUED | ip-ma-premium-acquisition-multiple-2026 | Acquirers looked at your company last year.  3 of them passed.  Not because your
 2026-05-18 18:27 | urn:li:share:7462207170642714624 | post #5 | eu-ai-act-august-2026-trade-secret-gap | August 2026 is the EU AI Act's high-risk deadline.  Getting your classification 
 2026-05-19 07:51 | urn:li:share:7462409647396667394 | Raising a Series A costs you 20% equity.  A royalty purchase agreement costs you
+2026-05-19 10:40 | urn:li:share:7462452027206410240 | post #1 | ai-patent-platforms-105m-moat-shift | Three AI patent startups raised $105M in 30 days.  DeepIP $25M. Solve Intelligen
