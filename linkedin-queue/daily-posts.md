@@ -3,7 +3,7 @@ date: 2026-05-19
 theme: The AI patent gold rush is automating every layer of IP work — the founder edge has moved from owning patents to earning licensing ARR and protecting data rivals cannot replicate.
 generated_at: 2026-05-19T04:05:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -102,7 +102,9 @@ One BE client found 9 unregistered trade secrets in a 2-week audit. Combined lic
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-19T13:54:39.592Z
+share_urn: urn:li:share:7462500976306995200
 hook_format: contrarian
 cta_goal: follows
 slug: seat-based-pricing-caps-ai-valuation
