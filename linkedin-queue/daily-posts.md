@@ -3,7 +3,7 @@ date: 2026-05-19
 theme: The AI patent gold rush is automating every layer of IP work — the founder edge has moved from owning patents to earning licensing ARR and protecting data rivals cannot replicate.
 generated_at: 2026-05-19T04:05:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -62,7 +62,9 @@ What does your patent ARR look like in 2026?
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-19T12:13:11.504Z
+share_urn: urn:li:share:7462475440423886849
 hook_format: number-led
 cta_goal: follows
 slug: 600b-trade-secret-registration-gap

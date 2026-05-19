@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff800780375ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "tday-50-percent-digital-ai-licensing-margin-expansion",
-    "ts": "2026-05-16T08:53:46.656Z"
-  },
-  {
     "hash": "42e3e7ffc3c3ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-patent-platforms-105m-moat-shift",
     "ts": "2026-05-19T10:40:09.160Z"
+  },
+  {
+    "hash": "81c1e7ff83c3fff9",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "600b-trade-secret-registration-gap",
+    "ts": "2026-05-19T12:13:11.504Z"
   }
 ]
