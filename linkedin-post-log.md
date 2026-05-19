@@ -64,3 +64,4 @@
 2026-05-19 07:51 | urn:li:share:7462409647396667394 | Raising a Series A costs you 20% equity.  A royalty purchase agreement costs you
 2026-05-19 10:40 | urn:li:share:7462452027206410240 | post #1 | ai-patent-platforms-105m-moat-shift | Three AI patent startups raised $105M in 30 days.  DeepIP $25M. Solve Intelligen
 2026-05-19 12:13 | urn:li:share:7462475440423886849 | post #2 | 600b-trade-secret-registration-gap | The FBI puts annual US losses to IP theft at up to $600B.  Most of it leaves as 
+2026-05-19 12:53 | urn:li:share:7462485609874526208 | VCs now run a collateral checklist before they wire.  70% of an AI company's val
