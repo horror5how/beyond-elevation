@@ -3,7 +3,7 @@ date: 2026-05-19
 theme: The AI patent gold rush is automating every layer of IP work — the founder edge has moved from owning patents to earning licensing ARR and protecting data rivals cannot replicate.
 generated_at: 2026-05-19T04:05:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -142,7 +142,9 @@ Restructure the contract before you restructure the product.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-19T16:17:52.831Z
+share_urn: urn:li:share:7462537018619654144
 hook_format: listicle
 cta_goal: clicks
 slug: section-101-ai-patent-claims-survive
