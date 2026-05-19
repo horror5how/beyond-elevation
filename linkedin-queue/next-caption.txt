@@ -1,19 +1,13 @@
-VCs now run a collateral checklist before they wire.
+VC diligence on AI deals just stretched from 1 week to 8 weeks.
 
-70% of an AI company's value is intangible assets.
+That's not caution. That's 8 questions you're not prepared for.
 
-Most decks show zero IP on the balance sheet.
+Allied VP's 2026 scorecard: data uniqueness, replication speed ($5M-in-18-months test), workflow depth, pricing stress, AI talent concentration, model dependency, IP chain of title, regulatory classification.
 
-3 assets closing rounds in 2026:
+Score 4+ axes = multiple holds.
 
-Patent portfolio — even 2 claims beats none.
+Score 0–1 = 20% compression before term sheet.
 
-Documented data ownership — provenance + licensing terms.
+Most founders fail axis 3 and 6.
 
-Know-how agreements — survives a founder exit.
-
-Without these, expect a 30-40% valuation haircut before you negotiate.
-
-The deck isn't the problem. The asset stack is.
-
-#IPStrategy #Fundraising #VentureCapital
+#IPStrategy #AIValuation #VentureCapital
