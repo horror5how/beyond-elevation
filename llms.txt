@@ -144,5 +144,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your Biggest Competitor Filed 19 Patents Last Quarter. You Have Not Checked Once.](https://beyondelevation.com/blog/posts/competitor-patent-blind-spot/) — /blog/md/competitor-patent-blind-spot.md
 - [Your Patents Can Cut Your Corporate Tax to 10%. Most Founders Never File the Election.](https://beyondelevation.com/blog/posts/patent-box-tax-relief-founders/) — /blog/md/patent-box-tax-relief-founders.md
 - [The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)](https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/) — /blog/md/how-to-evaluate-ai-company-checklist.md
+- [The 12 Largest Patent Holding Companies in 2026 (And the 3 Structures They Use to Monetize Billions in IP)](https://beyondelevation.com/blog/posts/top-patent-holding-companies-2026/) — /blog/md/top-patent-holding-companies-2026.md
 
 > Full blog content available at /llms-full.txt
