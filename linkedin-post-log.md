@@ -61,3 +61,4 @@
 2026-05-18 16:21 | urn:li:share:7462175551341088768 | post #4 | patent-licensing-floor-guarantee | Most licensing deals earn $0 in Year 1.  Without a minimum guarantee, licensees 
 2026-05-18 17:50 | QUEUED | ip-ma-premium-acquisition-multiple-2026 | Acquirers looked at your company last year.  3 of them passed.  Not because your
 2026-05-18 18:27 | urn:li:share:7462207170642714624 | post #5 | eu-ai-act-august-2026-trade-secret-gap | August 2026 is the EU AI Act's high-risk deadline.  Getting your classification 
+2026-05-19 07:51 | urn:li:share:7462409647396667394 | Raising a Series A costs you 20% equity.  A royalty purchase agreement costs you
