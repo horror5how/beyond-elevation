@@ -68,3 +68,4 @@
 2026-05-19 13:54 | urn:li:share:7462500976306995200 | post #3 | seat-based-pricing-caps-ai-valuation | Seat-based pricing is capping your AI company's valuation.  Atlassian just launc
 2026-05-19 16:17 | urn:li:share:7462537018619654144 | post #4 | section-101-ai-patent-claims-survive | Roughly 60% of challenged software patents get invalidated under Section 101.  H
 2026-05-19 17:57 | urn:li:share:7462561989773651972 | VC diligence on AI deals just stretched from 1 week to 8 weeks.  That's not caut
+2026-05-19 18:51 | urn:li:share:7462575779298750464 | post #5 | dormant-data-archive-ai-licensing-revenue | In 2023, CuriosityStream looked like a fading streaming service.  In 2026 it is 

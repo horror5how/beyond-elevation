@@ -3,7 +3,7 @@ date: 2026-05-19
 theme: The AI patent gold rush is automating every layer of IP work — the founder edge has moved from owning patents to earning licensing ARR and protecting data rivals cannot replicate.
 generated_at: 2026-05-19T04:05:00.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -186,7 +186,9 @@ Survivability is the only patent metric that compounds into valuation.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-19T18:51:54.234Z
+share_urn: urn:li:share:7462575779298750464
 hook_format: story
 cta_goal: clicks
 slug: dormant-data-archive-ai-licensing-revenue

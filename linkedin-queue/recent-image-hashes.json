@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffff0121b9",
-    "layout": "a",
-    "accent": "#7a8c6e",
-    "slug": "ai-moat-five-axis-investor-score",
-    "ts": "2026-05-18T14:29:14.139Z"
-  },
-  {
     "hash": "7ef010331715ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "section-101-ai-patent-claims-survive",
     "ts": "2026-05-19T16:17:52.831Z"
+  },
+  {
+    "hash": "40c3e7ffc1c3ffbf",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "dormant-data-archive-ai-licensing-revenue",
+    "ts": "2026-05-19T18:51:54.234Z"
   }
 ]
