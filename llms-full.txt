@@ -1906,3 +1906,23 @@ The top patent holding companies in 2026 fall into three categories: operating c
 **2. Samsung Electronics.** Approximately 80,000 active U.S. patents covering displays, semiconductors, and wireless. Uses its portfolio primarily for cross-licensing — trading access with 
 
 ---
+
+## How Long Does a Patent Really Last? (The 3 Expiration Dates Nobody Tells You About)
+
+URL: https://beyondelevation.com/blog/posts/how-long-does-a-patent-last/
+
+A patent does not last 20 years. That number is a ceiling, not a guarantee. Hayat Amin tells founders this in every IP audit [Beyond Elevation](https://beyondelevation.com) runs: your patent has three expiration dates, and most companies only track one of them. The founders who understand all three build portfolios that generate revenue for decades. The ones who do not wake up to an expired asset they spent $50K filing.
+
+So how long does a patent last? A U.S. utility patent lasts 20 years from the earliest non-provisional filing date. A design patent lasts 15 years from the grant date. But the effective commercial lifespan — the window where your patent actually makes you money — is almost always shorter. Sometimes dramatically shorter.
+
+Here are the three expiration dates that determine how long a patent actually protects your business.
+
+## How Long Does a Patent Last Under the Law?
+
+A U.S. utility patent lasts 20 years from the earliest non-provisional filing date. Design patents last 15 years from the grant date. Plant patents last 20 years from filing. But these numbers represent the maximum legal term — the enforceable lifespan starts at grant, not at filing, which means founders lose years of protection before they can enforce a single claim.
+
+Most founders fixate on the 20-year number and stop. That is the mistake.
+
+The 20-year clock starts ticking at filing, not at grant. If your patent takes 3 years to prosecute — the current USPTO average is 23.4 months, but complex
+
+---

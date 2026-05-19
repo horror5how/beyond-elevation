@@ -3,7 +3,7 @@ title: "How Long Does a Patent Really Last? (The 3 Expiration Dates Nobody Tells
 slug: how-long-does-a-patent-last
 date: 2026-05-19
 url: https://beyondelevation.com/blog/posts/how-long-does-a-patent-last/
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -77,6 +77,20 @@ Founders who treat patent duration as a strategic variable — not a fixed numbe
 
 If you are unsure whether your patents are still commercially relevant, whether your maintenance fees are current, or whether your filing strategy maximizes your effective protection window, Beyond Elevation runs IP audits that answer all three questions in a single engagement.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-long-does-a-patent-last)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does a utility patent last in the United States?
@@ -98,3 +112,6 @@ A U.S. design patent filed after May 13, 2015 lasts 15 years from the grant date
 ### Do patents last the same duration in every country?
 
 Most countries grant 20-year terms for utility patents from the filing date, but maintenance fee schedules, grace periods, and renewal costs vary dramatically. European patents require annual renewal fees starting in year 3, payable independently in each validated country. The total cost of maintaining an international portfolio can exceed $100,000 over the full term.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
