@@ -2,8 +2,8 @@
 title: "The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)"
 slug: how-to-evaluate-ai-company-checklist
 date: 2026-05-19
-url: https://beyondelevation.com/blog/post.html?slug=how-to-evaluate-ai-company-checklist
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -25,7 +25,7 @@ The 8 axes cover every dimension that determines whether an AI company holds val
 
 ### Axis 1 — Data Moat
 
-Does the company own proprietary data that cannot be purchased, scraped, or synthetically generated? A real [data moat](https://beyondelevation.com/blog/posts/ai-moat-not-just-the-model/) means the dataset improves as the product gets used — a flywheel that competitors cannot shortcut. Companies with commodity data score 0. Companies with exclusive, self-reinforcing datasets score 2.
+Does the company own proprietary data that cannot be purchased, scraped, or synthetically generated? A real [data moat](/blog/posts/ai-moat-not-just-the-model/) means the dataset improves as the product gets used — a flywheel that competitors cannot shortcut. Companies with commodity data score 0. Companies with exclusive, self-reinforcing datasets score 2.
 
 ### Axis 2 — Workflow Depth
 
@@ -41,7 +41,7 @@ What percentage of the company's technical differentiation lives in fewer than t
 
 ### Axis 5 — IP Defensibility
 
-Does the company hold granted patents, trade secrets, or [structured IP portfolios](https://beyondelevation.com/blog/posts/ai-patent-portfolio-strategy/) that create legal barriers to imitation? Companies with patents are 10.2x more likely to secure early-stage funding — and the same logic applies to evaluation. An AI company with zero formal IP protection is telling evaluators that everything it built can be freely copied. Score 0 for no IP. Score 2 for a layered patent-plus-trade-secret portfolio.
+Does the company hold granted patents, trade secrets, or [structured IP portfolios](/blog/posts/ai-patent-portfolio-strategy/) that create legal barriers to imitation? Companies with patents are 10.2x more likely to secure early-stage funding — and the same logic applies to evaluation. An AI company with zero formal IP protection is telling evaluators that everything it built can be freely copied. Score 0 for no IP. Score 2 for a layered patent-plus-trade-secret portfolio.
 
 ### Axis 6 — Unit Economics
 
@@ -57,7 +57,7 @@ Is the company positioned to benefit from emerging AI regulation? The EU AI Act,
 
 ## How Does IP Change the Evaluation of an AI Company?
 
-IP transforms an AI company evaluation from a revenue-growth exercise into a defensibility audit. Without IP, an evaluator is betting on execution speed alone — a bet that degrades every quarter as open-weight models improve. With a structured [IP portfolio covering agent architectures, training methodologies, and data pipelines](https://beyondelevation.com/blog/posts/ai-agent-ip-ownership-strategy/), the evaluator sees legal barriers that compound rather than erode.
+IP transforms an AI company evaluation from a revenue-growth exercise into a defensibility audit. Without IP, an evaluator is betting on execution speed alone — a bet that degrades every quarter as open-weight models improve. With a structured [IP portfolio covering agent architectures, training methodologies, and data pipelines](/blog/posts/ai-agent-ip-ownership-strategy/), the evaluator sees legal barriers that compound rather than erode.
 
 Hayat Amin's rule on this is unambiguous: an AI company without formal IP protection should be valued at a 20–40% discount compared to a company with patents and structured trade secrets. The data confirms it — AI-patent licensing fees have increased 15% annually since 2020, and IP-rich AI firms command a 15–20% valuation premium in every major transaction dataset from 2024 to 2026.
 
@@ -76,6 +76,20 @@ Another common mistake: evaluating AI companies using traditional SaaS metrics w
 Founders should score themselves on all 8 axes before any investor or acquirer does it for them. Fix weaknesses before they surface in due diligence. File patents on core innovations. Document trade secrets in a formal program. Build data flywheels that deepen the moat with every customer interaction. Distribute technical knowledge across the team. Embed deeply into customer workflows.
 
 The founders who achieve the highest outcomes treat evaluation readiness as a continuous discipline, not a scramble before a fundraise. Beyond Elevation works with AI founders to build this readiness from pre-seed through exit — structuring IP portfolios, documenting defensibility, and preparing the materials that serious evaluators demand. Start at [beyondelevation.com](https://beyondelevation.com) before the evaluator arrives.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-to-evaluate-ai-company-checklist)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -98,3 +112,6 @@ Every quarter. Open-weight model releases, regulatory shifts, and competitive mo
 ### Where can founders get a professional AI company evaluation?
 
 [Beyond Elevation](https://beyondelevation.com) provides structured AI company evaluations that score defensibility across all 8 axes, identify IP gaps, and produce investor-ready reports. Contact the team for a confidential assessment.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

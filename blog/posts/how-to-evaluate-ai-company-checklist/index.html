@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)</title>
+    <meta name="description" content="How to evaluate an AI company using the 8-axis defensibility checklist that scores data moat, replication speed, IP protection, and 5 more dimensions" />
+    <link rel="canonical" href="https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="GPTBot" content="index, follow" />
+    <meta name="ChatGPT-User" content="index, follow" />
+    <meta name="ClaudeBot" content="index, follow" />
+    <meta name="Claude-Web" content="index, follow" />
+    <meta name="anthropic-ai" content="index, follow" />
+    <meta name="PerplexityBot" content="index, follow" />
+    <meta name="Google-Extended" content="index, follow" />
+    <meta name="Applebot-Extended" content="index, follow" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/" />
+    <meta property="og:title" content="The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)" />
+    <meta property="og:description" content="How to evaluate an AI company using the 8-axis defensibility checklist that scores data moat, replication speed, IP protection, and 5 more dimensions" />
+    <meta property="og:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Beyond Elevation" />
+    <meta property="article:published_time" content="2026-05-19" />
+    <meta property="article:modified_time" content="2026-05-19" />
+    <meta property="article:author" content="Hayat Amin" />
+    <meta property="article:section" content="AI" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/" />
+    <meta name="twitter:title" content="The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)" />
+    <meta name="twitter:description" content="How to evaluate an AI company using the 8-axis defensibility checklist that scores data moat, replication speed, IP protection, and 5 more dimensions" />
+    <meta name="twitter:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta name="twitter:site" content="@BeyondElevation" />
+    <meta name="twitter:creator" content="@HayatAmin" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" /></noscript>
+    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <style>
+      .post-page { padding: 120px 0 90px; }
+      .post-shell { max-width: 720px; margin: 0 auto; }
+      .post-shell h1 { font-size: clamp(2.1rem, 5vw, 3.7rem); max-width: 14ch; line-height: 1.04; letter-spacing: -0.03em; }
+      .post-meta { display:flex; gap: 14px; flex-wrap:wrap; color:#666; margin: 18px 0 30px; font-size: 0.92rem; }
+      .post-body { color:#1f1f1f; line-height: 1.92; font-size: 1.08rem; }
+      .post-body p { margin: 0 0 24px; }
+      .post-body h2 { margin: 48px 0 16px; font-size: 1.55rem; line-height: 1.25; letter-spacing: -0.01em; }
+      .post-body h3 { margin: 36px 0 12px; font-size: 1.2rem; line-height: 1.3; }
+      .post-body a { color: #1a1a1a; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+      .author-block { display:flex; align-items:center; gap: 12px; margin: 18px 0 24px; padding: 0; border: 0; background: transparent; box-shadow:none; }
+      .author-photo { width: 34px; height: 34px; border-radius: 999px; object-fit: cover; }
+      .author-copy strong { display:block; font-size:1rem; color:#1a1a1a; }
+      .author-copy span { color:#666; font-size: 0.93rem; }
+      .post-hero { width: 100%; border-radius: 16px; margin: 24px 0 28px; object-fit: cover; }
+      .post-cta { margin: 48px 0 8px; padding: 28px 28px 24px; border-radius: 16px; background: #FAF7F2; border: 1px solid #ECE6DA; box-shadow: 0 1px 0 rgba(17,17,17,0.02); font-family: 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+      .post-cta h3 { margin: 0 0 12px; font-size: 1.32rem; line-height: 1.25; letter-spacing: -0.018em; color: #111; font-weight: 700; max-width: 28ch; }
+      .post-cta p { margin: 0 0 18px; color: #2a2a2a; line-height: 1.65; font-size: 1rem; }
+      .post-cta .cta-primary { display: inline-flex; align-items: center; gap: 8px; padding: 14px 24px; font-size: 0.95rem; font-weight: 700; letter-spacing: -0.005em; border-radius: 100px; background: #1a1a1a; color: #fff; text-decoration: none; border: 2px solid #1a1a1a; transition: transform 0.2s ease, background 0.2s ease; }
+      .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
+      .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
+      @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
+      .related-posts { margin: 64px 0 0; padding: 48px 0 0; border-top: 1px solid #e8e8e8; }
+      .related-eyebrow { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; }
+      .related-head h2 { margin: 8px 0 28px; font-size: 1.6rem; line-height: 1.18; letter-spacing: -0.02em; color: #1a1a1a; }
+      .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+      .related-card { display: flex; flex-direction: column; gap: 12px; padding: 22px 22px 20px; border-radius: 14px; border: 1px solid #e8e8e8; background: #fff; color: inherit; text-decoration: none; transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease; }
+      .related-card:hover { border-color: #1a1a1a; transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,0.06); }
+      .related-tag { display: inline-block; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #666; }
+      .related-card h3 { font-size: 1.05rem; line-height: 1.32; letter-spacing: -0.012em; color: #1a1a1a; margin: 0; }
+      .related-cta { font-size: 0.82rem; font-weight: 600; color: #1a1a1a; margin-top: auto; }
+      @media (max-width: 760px) { .related-grid { grid-template-columns: 1fr; } }
+      .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
+      .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
+      .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+      .share-btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; font-size: 0.82rem; font-weight: 600; border-radius: 100px; border: 1.5px solid #e0e0e0; background: #fff; color: #333; text-decoration: none; transition: all 0.25s ease; }
+      .share-btn:hover { border-color: #333; background: #1a1a1a; color: #fff; transform: translateY(-1px); }
+      .share-btn svg { width: 16px; height: 16px; fill: currentColor; flex-shrink: 0; }
+      @media (max-width: 760px) {
+        .post-page { padding: 102px 0 72px; }
+        .post-shell { max-width: 100%; }
+        .post-shell h1 { max-width: none; }
+      }
+    </style>
+
+    <!-- Article schema (JSON-LD) -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)","description":"How to evaluate an AI company using the 8-axis defensibility checklist that scores data moat, replication speed, IP protection, and 5 more dimensions","image":"https://beyondelevation.com/assets/og-image.jpg","datePublished":"2026-05-19","dateModified":"2026-05-19","author":{"@type":"Person","name":"Hayat Amin","url":"https://beyondelevation.com/#founder","jobTitle":"CEO of Beyond Elevation"},"publisher":{"@type":"Organization","name":"Beyond Elevation","url":"https://beyondelevation.com","logo":{"@type":"ImageObject","url":"https://beyondelevation.com/assets/og-image.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/"},"articleSection":"AI"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://beyondelevation.com"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://beyondelevation.com/blog/"},{"@type":"ListItem","position":3,"name":"The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)","item":"https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the most important axis when evaluating an AI company?","acceptedAnswer":{"@type":"Answer","text":"Replication speed (axis 3) is the single most predictive factor. If a competitor can rebuild your core capability in 18 months with $5M, your valuation has an expiration date regardless of current revenue or growth rate."}},{"@type":"Question","name":"How does AI company evaluation differ from SaaS evaluation?","acceptedAnswer":{"@type":"Answer","text":"AI evaluation adds three dimensions that standard SaaS evaluation ignores: data moat quality, model dependency risk, and replication speed. ARR growth and net retention are necessary but insufficient metrics for AI companies."}},{"@type":"Question","name":"Can a company with no patents score well on the 8-axis checklist?","acceptedAnswer":{"@type":"Answer","text":"It can compensate with strong trade secret programs, deep workflow embedding, and proprietary data flywheels. But companies without any formal IP protection consistently score 20–40% lower in overall defensibility, which translates directly to lower valuations."}},{"@type":"Question","name":"How often should an AI company re-evaluate its defensibility?","acceptedAnswer":{"@type":"Answer","text":"Every quarter. Open-weight model releases, regulatory shifts, and competitive moves can shift a defensibility score by 2–4 points in a single quarter. Quarterly re-evaluation catches erosion before investors do."}},{"@type":"Question","name":"Where can founders get a professional AI company evaluation?","acceptedAnswer":{"@type":"Answer","text":"Beyond Elevation provides structured AI company evaluations that score defensibility across all 8 axes, identify IP gaps, and produce investor-ready reports. Contact the team for a confidential assessment."}}]}</script>
+
+    <!-- Analytics: Vercel + Speed Insights -->
+    <script defer src="/_vercel/insights/script.js"></script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
+    <!-- /Analytics -->
+
+    <!-- PostHog -->
+    <script>
+      !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture identify alias people set set_once register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures startSessionRecording stopSessionRecording captureException loadToolbar".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+      posthog.init('phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM',{api_host:'https://us.i.posthog.com',capture_pageview:true,capture_pageleave:true,autocapture:true,person_profiles:'always'});
+    </script>
+    <!-- /PostHog -->
+  </head>
+  <body>
+    <header class="topbar shell is-scrolled">
+      <a class="brand" href="/">
+        <span class="brand-dot"></span>
+        <span>Beyond Elevation</span>
+      </a>
+      <nav>
+        <a href="/blog/">Insights</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+      <a class="button button-ghost small" href="/#contact">Book a Strategy Session</a>
+    </header>
+
+    <main class="shell post-page">
+      <article id="post" class="post-shell">
+        <span class="eyebrow">AI</span>
+        <h1>The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)</h1>
+        <div class="author-block">
+          <img class="author-photo" src="/assets/be-author-headshot.jpg" alt="Hayat Amin" loading="eager" />
+          <div class="author-copy">
+            <strong>Hayat Amin</strong>
+            <span>CEO of Beyond Elevation · IP strategy &amp; licensing</span>
+          </div>
+        </div>
+        <img class="post-hero" src="https://beyondelevation.com/assets/og-image.jpg" alt="The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)" loading="eager" />
+        <div class="post-meta">
+          <span>Hayat Amin</span>
+          <span>2026-05-19</span>
+          
+        </div>
+        <div class="post-body">
+<p>90% of AI companies that raised a Series A in 2024 would fail a serious evaluation today. Not because their models stopped working — because a well-funded competitor could replicate their entire stack in 18 months for $5M. That is the replication speed test, and it is axis 3 on the checklist Hayat Amin runs on every AI company that crosses <a href="https://beyondelevation.com">Beyond Elevation's</a> desk.</p>
+
+<p>Knowing how to evaluate an AI company is no longer optional for investors, acquirers, and founders preparing for due diligence. The market has shifted. Thin moats and GPT wrappers are getting rejected at the term sheet stage. The 8-axis checklist below is what separates a defensible AI business from a feature pretending to be a company.</p>
+
+<h2>How Do You Evaluate an AI Company in 2026?</h2>
+
+<p>You evaluate an AI company by scoring it across eight axes that measure operational defensibility, not just technical capability. Revenue growth alone no longer predicts survival — the question is whether the company's core advantage compounds or erodes as foundation models improve and open-weight alternatives multiply.</p>
+
+<p>This is Hayat Amin's 8-Axis AI Defensibility Model, built after evaluating dozens of AI portfolios across sectors from enterprise SaaS to healthcare to fintech. The model scores each dimension on a 0–2 scale. Companies scoring 12 or above out of 16 are investable. Companies below 8 are features, not businesses. The framework forces evaluators to look past the demo and into the structure — which is where the real value lives.</p>
+
+<h2>What Are the 8 Axes for Evaluating an AI Company?</h2>
+
+<p>The 8 axes cover every dimension that determines whether an AI company holds value under competitive pressure. Each axis targets a specific failure mode that kills AI companies post-investment — from data dependency to talent flight to regulatory exposure.</p>
+
+<h3>Axis 1 — Data Moat</h3>
+
+<p>Does the company own proprietary data that cannot be purchased, scraped, or synthetically generated? A real <a href="/blog/posts/ai-moat-not-just-the-model/">data moat</a> means the dataset improves as the product gets used — a flywheel that competitors cannot shortcut. Companies with commodity data score 0. Companies with exclusive, self-reinforcing datasets score 2.</p>
+
+<h3>Axis 2 — Workflow Depth</h3>
+
+<p>How deeply is the AI embedded in the customer's daily operations? Surface-level integrations — a chatbot, a dashboard widget — are trivially replaceable. Deep workflow embedding means the AI touches procurement, compliance, pricing, or clinical decisions where switching costs are measured in months, not minutes. The deeper the integration, the higher the score.</p>
+
+<h3>Axis 3 — Replication Speed</h3>
+
+<p>If a well-funded competitor started today with $5M and 18 months, could they rebuild the core capability? This is the axis most AI companies fail. Hayat Amin argues that any AI company whose core can be replicated in under 18 months is not an AI company — it is a timing advantage with an expiration date. If the answer is yes, the company scores 0. No exceptions.</p>
+
+<h3>Axis 4 — Talent Concentration</h3>
+
+<p>What percentage of the company's technical differentiation lives in fewer than three people? A company where the CTO and two ML engineers hold all institutional knowledge is one resignation away from collapse. Score 0 if core knowledge sits in fewer than three heads. Score 1 if distributed across a team. Score 2 if encoded in systems, documentation, and processes that survive any individual departure.</p>
+
+<h3>Axis 5 — IP Defensibility</h3>
+
+<p>Does the company hold granted patents, trade secrets, or <a href="/blog/posts/ai-patent-portfolio-strategy/">structured IP portfolios</a> that create legal barriers to imitation? Companies with patents are 10.2x more likely to secure early-stage funding — and the same logic applies to evaluation. An AI company with zero formal IP protection is telling evaluators that everything it built can be freely copied. Score 0 for no IP. Score 2 for a layered patent-plus-trade-secret portfolio.</p>
+
+<h3>Axis 6 — Unit Economics</h3>
+
+<p>Can the company deliver its AI service at margins that improve with scale? GPU compute costs, inference latency, and data pipeline maintenance create cost structures that destroy unprepared companies. Evaluate whether gross margins exceed 60% and trend upward. Companies burning margin to simulate growth score 0. Companies with improving unit economics and visible margin expansion score 2.</p>
+
+<h3>Axis 7 — Switching Cost</h3>
+
+<p>What would it cost the customer — in time, money, and operational disruption — to replace this AI product? High switching costs come from custom model training on customer data, deep integrations with internal systems, and accumulated institutional knowledge within the product. Low switching costs mean a competitor can be swapped in over a weekend.</p>
+
+<h3>Axis 8 — Regulatory Positioning</h3>
+
+<p>Is the company positioned to benefit from emerging AI regulation? The EU AI Act, the US Executive Order on AI Safety, and sector-specific rules are creating compliance moats for companies that build governance early. Companies ignoring regulation face retrofit costs that prepared competitors avoid entirely. Score 2 if regulation is a tailwind. Score 0 if it is a ticking liability.</p>
+
+<h2>How Does IP Change the Evaluation of an AI Company?</h2>
+
+<p>IP transforms an AI company evaluation from a revenue-growth exercise into a defensibility audit. Without IP, an evaluator is betting on execution speed alone — a bet that degrades every quarter as open-weight models improve. With a structured <a href="/blog/posts/ai-agent-ip-ownership-strategy/">IP portfolio covering agent architectures, training methodologies, and data pipelines</a>, the evaluator sees legal barriers that compound rather than erode.</p>
+
+<p>Hayat Amin's rule on this is unambiguous: an AI company without formal IP protection should be valued at a 20–40% discount compared to a company with patents and structured trade secrets. The data confirms it — AI-patent licensing fees have increased 15% annually since 2020, and IP-rich AI firms command a 15–20% valuation premium in every major transaction dataset from 2024 to 2026.</p>
+
+<p><a href="https://beyondelevation.com">Beyond Elevation</a> runs its IP defensibility assessment as part of every AI company evaluation. The assessment maps existing IP against the 8-axis framework, identifies gaps where competitors could replicate unprotected innovations, and produces a scored report that investors and acquirers use directly in due diligence.</p>
+
+<h2>What Do Most AI Company Evaluators Get Wrong?</h2>
+
+<p>Most evaluators over-index on model performance benchmarks and under-index on structural defensibility. A model that scores 2% better on an academic benchmark creates zero commercial advantage if a competitor can replicate it in months. The evaluators who consistently pick winners focus on axes 1, 3, and 5 — data moat, replication speed, and IP defensibility — because these are the only dimensions that compound over time rather than depreciate.</p>
+
+<p>Hayat Amin proved this pattern during a major portfolio restructure that turned a 66-patent portfolio into eight figures in recurring royalties. The underlying technology was not the most advanced in its category. The IP structure made it the most defensible. The same principle applies to AI: the company that owns the defensible position wins, not the company that benchmarks highest on launch day.</p>
+
+<p>Another common mistake: evaluating AI companies using traditional SaaS metrics without adjusting for AI-specific risks. A $50M ARR AI company with a thin moat should expect 20% multiple compression on a 6x revenue base. Standard SaaS due diligence misses this because it does not score replication speed, model dependency, or agentic substitution risk — the possibility that an AI agent from a platform provider renders the entire product category obsolete.</p>
+
+<h2>How Should Founders Prepare for an AI Company Evaluation?</h2>
+
+<p>Founders should score themselves on all 8 axes before any investor or acquirer does it for them. Fix weaknesses before they surface in due diligence. File patents on core innovations. Document trade secrets in a formal program. Build data flywheels that deepen the moat with every customer interaction. Distribute technical knowledge across the team. Embed deeply into customer workflows.</p>
+
+<p>The founders who achieve the highest outcomes treat evaluation readiness as a continuous discipline, not a scramble before a fundraise. Beyond Elevation works with AI founders to build this readiness from pre-seed through exit — structuring IP portfolios, documenting defensibility, and preparing the materials that serious evaluators demand. Start at <a href="https://beyondelevation.com">beyondelevation.com</a> before the evaluator arrives.</p>
+
+
+<aside class="post-cta">
+  <h3>You just read the framework. Now price your own IP.</h3>
+  <p>Beyond Elevation runs a 60-minute IP &amp; licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.</p>
+  <a class="cta-primary" href="https://usemotion.com/meet/hayat-amin/be?ref=blog-how-to-evaluate-ai-company-checklist" target="_blank" rel="noreferrer">Book the diagnostic →</a>
+  <p class="cta-fineprint">14 founders booked this month. Hayat takes 4/week.</p>
+</aside>
+<h2>FAQ</h2>
+
+<h3>What is the most important axis when evaluating an AI company?</h3>
+
+<p>Replication speed (axis 3) is the single most predictive factor. If a competitor can rebuild your core capability in 18 months with $5M, your valuation has an expiration date regardless of current revenue or growth rate.</p>
+
+<h3>How does AI company evaluation differ from SaaS evaluation?</h3>
+
+<p>AI evaluation adds three dimensions that standard SaaS evaluation ignores: data moat quality, model dependency risk, and replication speed. ARR growth and net retention are necessary but insufficient metrics for AI companies.</p>
+
+<h3>Can a company with no patents score well on the 8-axis checklist?</h3>
+
+<p>It can compensate with strong trade secret programs, deep workflow embedding, and proprietary data flywheels. But companies without any formal IP protection consistently score 20–40% lower in overall defensibility, which translates directly to lower valuations.</p>
+
+<h3>How often should an AI company re-evaluate its defensibility?</h3>
+
+<p>Every quarter. Open-weight model releases, regulatory shifts, and competitive moves can shift a defensibility score by 2–4 points in a single quarter. Quarterly re-evaluation catches erosion before investors do.</p>
+
+<h3>Where can founders get a professional AI company evaluation?</h3>
+
+<p><a href="https://beyondelevation.com">Beyond Elevation</a> provides structured AI company evaluations that score defensibility across all 8 axes, identify IP gaps, and produce investor-ready reports. Contact the team for a confidential assessment.</p>
+        </div>
+
+        <aside class="related-posts" aria-label="Related insights">
+          <div class="related-head">
+            <span class="related-eyebrow">Continue reading</span>
+            <h2>Related insights</h2>
+          </div>
+          <div class="related-grid">
+            <a class="related-card" href="/blog/posts/good-ai-company-to-invest-in/">
+              <span class="related-tag">AI</span>
+              <h3>How VCs Actually Score a Good AI Company to Invest In — The 5-Axis Defensibility Scorecard</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/ai-readiness-assessment-enterprise/">
+              <span class="related-tag">AI</span>
+              <h3>12 Questions That Reveal If Your Business Is Actually Ready for AI (Most Fail Question 3)</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/top-5-fractional-cfos-tech-startups-2026-05-13/">
+              <span class="related-tag">Industry Lists</span>
+              <h3>Top 5 Fractional CFOs for Tech Startups in 2026</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/ip-strategy-startups-guide/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>IP Strategy for Startups: A Founder&#39;s Complete Guide to Protecting Innovation</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+          </div>
+        </aside>
+
+        <div class="share-bar">
+          <div class="share-bar-label">Share this article</div>
+          <div class="share-buttons">
+            <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-evaluate-ai-company-checklist%2F" target="_blank" rel="noopener">LinkedIn</a>
+            <a class="share-btn" href="https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-evaluate-ai-company-checklist%2F&text=The%208-Axis%20AI%20Company%20Evaluation%20Checklist%20(And%20Why%20Most%20AI%20Startups%20Fail%20on%20Axis%203)%20%E2%80%94%20Beyond%20Elevation" target="_blank" rel="noopener">X</a>
+            <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-evaluate-ai-company-checklist%2F" target="_blank" rel="noopener">Facebook</a>
+          </div>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>

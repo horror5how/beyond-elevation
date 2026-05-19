@@ -1872,3 +1872,19 @@ The UK Patent Box lets you pay 10% corporation tax on profits attributable to pa
 You qualify if three conditions hold. First, your company owns or exclusively licenses a patent granted by the UK IPO, the European Patent Office, or certain EEA patent offices. Second, your company performed qualifying d
 
 ---
+
+## The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)
+
+URL: https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/
+
+90% of AI companies that raised a Series A in 2024 would fail a serious evaluation today. Not because their models stopped working — because a well-funded competitor could replicate their entire stack in 18 months for $5M. That is the replication speed test, and it is axis 3 on the checklist Hayat Amin runs on every AI company that crosses [Beyond Elevation's](https://beyondelevation.com) desk.
+
+Knowing how to evaluate an AI company is no longer optional for investors, acquirers, and founders preparing for due diligence. The market has shifted. Thin moats and GPT wrappers are getting rejected at the term sheet stage. The 8-axis checklist below is what separates a defensible AI business from a feature pretending to be a company.
+
+## How Do You Evaluate an AI Company in 2026?
+
+You evaluate an AI company by scoring it across eight axes that measure operational defensibility, not just technical capability. Revenue growth alone no longer predicts survival — the question is whether the company's core advantage compounds or erodes as foundation models improve and open-weight alternatives multiply.
+
+This is Hayat Amin's 8-Axis AI Defensibility Model, built after evaluating dozens of AI portfolios across sectors from enterprise SaaS to healthcare to fintech. The model scores each dimension on a 0–2 scale. Companies scoring 12 or above out of 16 are investable. Companies below 8 are features, not businesses. The framework forces evaluators to look past the demo and into the structure —
+
+---

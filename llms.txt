@@ -143,5 +143,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your Provisional Patent Is a 12-Month Weapon. Most Founders File It and Forget It.](https://beyondelevation.com/blog/posts/provisional-patent-12-month-strategy/) — /blog/md/provisional-patent-12-month-strategy.md
 - [Your Biggest Competitor Filed 19 Patents Last Quarter. You Have Not Checked Once.](https://beyondelevation.com/blog/posts/competitor-patent-blind-spot/) — /blog/md/competitor-patent-blind-spot.md
 - [Your Patents Can Cut Your Corporate Tax to 10%. Most Founders Never File the Election.](https://beyondelevation.com/blog/posts/patent-box-tax-relief-founders/) — /blog/md/patent-box-tax-relief-founders.md
+- [The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)](https://beyondelevation.com/blog/posts/how-to-evaluate-ai-company-checklist/) — /blog/md/how-to-evaluate-ai-company-checklist.md
 
 > Full blog content available at /llms-full.txt
