@@ -1,15 +1,19 @@
-Raising a Series A costs you 20% equity.
+VCs now run a collateral checklist before they wire.
 
-A royalty purchase agreement costs you 8% of future IP revenue.
+70% of an AI company's value is intangible assets.
 
-3 founders used this in 2026 to raise $2.3M–$4.8M without a single dilutive dollar.
+Most decks show zero IP on the balance sheet.
 
-They kept their cap table clean.
+3 assets closing rounds in 2026:
 
-Investors got a royalty stream — not shares.
+Patent portfolio — even 2 claims beats none.
 
-The structure works if you have 2+ granted patents and a clear monetisation path.
+Documented data ownership — provenance + licensing terms.
 
-Here is the exact deal architecture.
+Know-how agreements — survives a founder exit.
 
-#IPStrategy #StartupFinancing #CapitalStrategy
+Without these, expect a 30-40% valuation haircut before you negotiate.
+
+The deck isn't the problem. The asset stack is.
+
+#IPStrategy #Fundraising #VentureCapital
