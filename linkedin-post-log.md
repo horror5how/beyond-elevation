@@ -69,3 +69,4 @@
 2026-05-19 16:17 | urn:li:share:7462537018619654144 | post #4 | section-101-ai-patent-claims-survive | Roughly 60% of challenged software patents get invalidated under Section 101.  H
 2026-05-19 17:57 | urn:li:share:7462561989773651972 | VC diligence on AI deals just stretched from 1 week to 8 weeks.  That's not caut
 2026-05-19 18:51 | urn:li:share:7462575779298750464 | post #5 | dormant-data-archive-ai-licensing-revenue | In 2023, CuriosityStream looked like a fading streaming service.  In 2026 it is 
+2026-05-20 07:52 | urn:li:share:7462772152778346496 | 3 in 4 AI founders are using the wrong IP vehicle.  A patent exposes your model 
