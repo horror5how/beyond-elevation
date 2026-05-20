@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00e7ffffff05a5a5",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "eu-ai-act-august-2026-trade-secret-gap",
-    "ts": "2026-05-18T18:27:10.927Z"
-  },
-  {
     "hash": "81c3ffffc383ff9d",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-patent-royalty-rate-compounding-2026",
     "ts": "2026-05-20T10:27:55.253Z"
+  },
+  {
+    "hash": "007effffffff80a0",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "ai-model-trade-secret-vs-patent-test",
+    "ts": "2026-05-20T11:50:14.795Z"
   }
 ]

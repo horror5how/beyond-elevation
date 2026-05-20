@@ -174,3 +174,4 @@ how-to-evaluate-ai-company-2026
 dormant-data-archive-ai-licensing-revenue
 ai-trade-secret-or-patent-test
 ai-patent-royalty-rate-compounding-2026
+ai-model-trade-secret-vs-patent-test

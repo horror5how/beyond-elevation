@@ -71,3 +71,4 @@
 2026-05-19 18:51 | urn:li:share:7462575779298750464 | post #5 | dormant-data-archive-ai-licensing-revenue | In 2023, CuriosityStream looked like a fading streaming service.  In 2026 it is 
 2026-05-20 07:52 | urn:li:share:7462772152778346496 | 3 in 4 AI founders are using the wrong IP vehicle.  A patent exposes your model 
 2026-05-20 10:27 | urn:li:share:7462811336712908801 | post #1 | ai-patent-royalty-rate-compounding-2026 | AI patent royalty rates compound 15% annually.  Most founders signed licensing t
+2026-05-20 11:50 | urn:li:share:7462832054783737858 | post #2 | ai-model-trade-secret-vs-patent-test | Most founders patent their AI model. Most are wrong.  Patenting publishes your a

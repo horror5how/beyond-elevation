@@ -3,7 +3,7 @@ date: 2026-05-20
 theme: IP and AI assets as revenue architecture, not cost lines
 generated_at: 2026-05-20T04:00:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ One BE client renegotiated three licenses and added $2.1M in annual royalties.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-20T11:50:14.795Z
+share_urn: urn:li:share:7462832054783737858
 hook_format: contrarian
 cta_goal: follows
 slug: ai-model-trade-secret-vs-patent-test
