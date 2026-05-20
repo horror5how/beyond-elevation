@@ -77,3 +77,4 @@
 2026-05-20 16:23 | urn:li:share:7462900880242180096 | post #4 | ip-revenue-line-board-deck-2026 | Most founders bury IP in the legal slide.  That single classification costs you 
 2026-05-20 17:53 | QUEUED | ip-carve-out-ma-premium | Acquirers pay 40% more for targets with a clean IP carve-out structure.  Most fo
 2026-05-20 17:54 | urn:li:share:7462923632177225728 | Acquirers pay 40% more for targets with a clean IP carve-out structure.  Most fo
+2026-05-20 19:12 | urn:li:share:7462943370425049088 | post #5 | dormant-archive-ai-licensing-playbook-2026 | Your archive is valued at $0. AI buyers disagree.  Top-performing data sellers e

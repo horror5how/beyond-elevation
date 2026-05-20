@@ -3,7 +3,7 @@ date: 2026-05-20
 theme: IP and AI assets as revenue architecture, not cost lines
 generated_at: 2026-05-20T04:00:00.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -157,7 +157,9 @@ Startups with IP at seed are 10.2x more likely to raise, per EPO/EUIPO data.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-20T19:12:34.834Z
+share_urn: urn:li:share:7462943370425049088
 hook_format: story
 cta_goal: follows
 slug: dormant-archive-ai-licensing-playbook-2026
