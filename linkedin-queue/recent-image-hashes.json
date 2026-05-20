@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef010331715ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "patent-licensing-floor-guarantee",
-    "ts": "2026-05-18T16:21:32.219Z"
-  },
-  {
     "hash": "00e7ffffff05a5a5",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "dormant-data-archive-ai-licensing-revenue",
     "ts": "2026-05-19T18:51:54.234Z"
+  },
+  {
+    "hash": "00c3e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "ai-patent-royalty-rate-compounding-2026",
+    "ts": "2026-05-20T10:27:55.253Z"
   }
 ]

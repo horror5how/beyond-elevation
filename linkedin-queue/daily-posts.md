@@ -3,7 +3,7 @@ date: 2026-05-20
 theme: IP and AI assets as revenue architecture, not cost lines
 generated_at: 2026-05-20T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Today's batch hits the gap between how founders classify IP and data versus how 
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-20T10:27:55.253Z
+share_urn: urn:li:share:7462811336712908801
 hook_format: number-led
 cta_goal: follows
 slug: ai-patent-royalty-rate-compounding-2026
