@@ -1,21 +1,23 @@
-$5M ARR from subscriptions and $5M ARR from data licensing are not the same company.
+Acquirers pay 40% more for targets with a clean IP carve-out structure.
 
-One trades at 8x.
+Most founders never do this before their LOI.
 
-The other trades at 28x.
+Their IP sits inside the main trading entity with no standalone valuation.
 
-AI revenue quality is what separates a lifestyle business from a fundable asset.
+The acquirer buries it in goodwill.
 
-3 tiers investors price in 2026:
+You lose the premium before negotiations even start.
 
-Tier 1 — Proprietary data licensing: recurring, defensible, 25–30x.
+A carve-out takes 30–90 days. An LOI can land in 2 weeks.
 
-Tier 2 — Usage-based API: scalable but commoditising, 12–18x.
+Most founders are already too late.
 
-Tier 3 — Seat-based AI tools: replaceable, 6–10x.
+Three things a carve-out does before you go to market:
 
-If your revenue is Tier 3, your deck is Tier 3.
+Creates a licensable entity with documented royalty income.
 
-Fix the revenue model before you fix the pitch.
+Unlocks patent box tax treatment in the UK and EU.
 
-#AIValuation #IPStrategy #Founders
+Gives buyers a clean IP due diligence trail — the single biggest valuation lever.
+
+#IPStrategy #MandA #Valuation

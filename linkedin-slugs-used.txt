@@ -178,3 +178,4 @@ ai-model-trade-secret-vs-patent-test
 ai-revenue-quality-multiple-2026
 patent-licensing-year-one-zero-revenue
 ip-revenue-line-board-deck-2026
+ip-carve-out-ma-premium
