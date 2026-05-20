@@ -28,10 +28,37 @@ const TODAY = new Date().toISOString().slice(0, 10);
 // Each gets its REAL last-modified date via git history (see lastmodForPath).
 // Previously every URL got TODAY which produced a "scaled content abuse" signal.
 const FIXED_ROUTES = [
-  { loc: '/', priority: '1.0', changefreq: 'weekly', sourceFile: 'index.html' },
+  {
+    loc: '/', priority: '1.0', changefreq: 'weekly', sourceFile: 'index.html',
+    images: [
+      {
+        loc: '/assets/hayat-amin-og.jpg',
+        title: 'Hayat Amin — Founder & CEO of Beyond Elevation',
+        caption: 'Hayat Amin, three-time exited entrepreneur and three-time FT100 CxO. Founder of Beyond Elevation, the IP strategy firm tech founders call when their patents are worth more than their cap table.',
+        license: '/about/',
+      },
+    ],
+  },
   { loc: '/services/', priority: '0.95', changefreq: 'weekly', sourceFile: 'services/index.html' },
   { loc: '/case-studies/', priority: '0.9', changefreq: 'monthly', sourceFile: 'case-studies/index.html' },
   { loc: '/blog/', priority: '0.9', changefreq: 'weekly', sourceFile: 'blog/index.html' },
+  {
+    loc: '/about/', priority: '0.95', changefreq: 'monthly', sourceFile: 'about/index.html',
+    images: [
+      {
+        loc: '/assets/hayat-amin-portrait.jpg',
+        title: 'Hayat Amin — Founder & CEO of Beyond Elevation',
+        caption: 'Hayat Amin — Founder & CEO of Beyond Elevation. Three-time exited entrepreneur, three-time FT100 CxO, and IP strategy operator. Portrait, black-and-white. 1200x1500.',
+        license: '/about/',
+      },
+      {
+        loc: '/assets/hayat-amin-og.jpg',
+        title: 'Hayat Amin — Founder & CEO of Beyond Elevation (social card)',
+        caption: 'Open Graph card image of Hayat Amin, Founder & CEO of Beyond Elevation. 1200x630.',
+        license: '/about/',
+      },
+    ],
+  },
 ];
 
 // Resolve a per-file lastmod from git (most recent commit that touched the file).
@@ -58,12 +85,24 @@ function esc(s = '') {
     .replace(/'/g, '&#39;');
 }
 
-function urlEntry({ loc, lastmod, changefreq, priority }) {
+function imageEntry(img) {
+  const lic = img.license ? `\n      <image:license>${SITE}${img.license}</image:license>` : '';
+  return `    <image:image>
+      <image:loc>${SITE}${img.loc}</image:loc>
+      <image:title>${esc(img.title)}</image:title>
+      <image:caption>${esc(img.caption)}</image:caption>${lic}
+    </image:image>`;
+}
+
+function urlEntry({ loc, lastmod, changefreq, priority, images }) {
+  const imageBlock = (images && images.length)
+    ? '\n' + images.map(imageEntry).join('\n')
+    : '';
   return `  <url>
     <loc>${SITE}${loc}</loc>
     <lastmod>${lastmod || TODAY}</lastmod>
     <changefreq>${changefreq || 'monthly'}</changefreq>
-    <priority>${priority || '0.7'}</priority>
+    <priority>${priority || '0.7'}</priority>${imageBlock}
   </url>`;
 }
 
@@ -91,6 +130,7 @@ function main() {
     lastmod: lastmodForPath(r.sourceFile),
     changefreq: r.changefreq,
     priority: r.priority,
+    images: r.images,
   })));
 
   // Service pages — use real per-file git lastmod.
@@ -118,7 +158,8 @@ function main() {
   });
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${entries.join('\n')}
 </urlset>
 `;
