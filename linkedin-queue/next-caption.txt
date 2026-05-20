@@ -1,15 +1,21 @@
-3 in 4 AI founders are using the wrong IP vehicle.
+$5M ARR from subscriptions and $5M ARR from data licensing are not the same company.
 
-A patent exposes your model architecture to every competitor the day it publishes.
+One trades at 8x.
 
-A trade secret keeps it locked forever — if you document it right.
+The other trades at 28x.
 
-The 4-question test:
-1. Can competitors reverse-engineer it from the output? (No = trade secret)
-2. Does blocking others require a court injunction? (No = patent)
-3. Is the value in the training process, not the claims? (Yes = trade secret)
-4. Will it still be commercially relevant in 10 years? (No = trade secret)
+AI revenue quality is what separates a lifestyle business from a fundable asset.
 
-Most AI moats are trade secrets pretending to be patents.
+3 tiers investors price in 2026:
 
-#IPStrategy #AIStrategy #Patents
+Tier 1 — Proprietary data licensing: recurring, defensible, 25–30x.
+
+Tier 2 — Usage-based API: scalable but commoditising, 12–18x.
+
+Tier 3 — Seat-based AI tools: replaceable, 6–10x.
+
+If your revenue is Tier 3, your deck is Tier 3.
+
+Fix the revenue model before you fix the pitch.
+
+#AIValuation #IPStrategy #Founders
