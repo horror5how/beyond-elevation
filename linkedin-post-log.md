@@ -74,3 +74,4 @@
 2026-05-20 11:50 | urn:li:share:7462832054783737858 | post #2 | ai-model-trade-secret-vs-patent-test | Most founders patent their AI model. Most are wrong.  Patenting publishes your a
 2026-05-20 12:53 | urn:li:share:7462847910800510976 | $5M ARR from subscriptions and $5M ARR from data licensing are not the same comp
 2026-05-20 13:37 | urn:li:share:7462859021918732288 | post #3 | patent-licensing-year-one-zero-revenue | Most licensing deals earn $0 in Year 1.  Not because the IP is weak. Because lic
+2026-05-20 16:23 | urn:li:share:7462900880242180096 | post #4 | ip-revenue-line-board-deck-2026 | Most founders bury IP in the legal slide.  That single classification costs you 

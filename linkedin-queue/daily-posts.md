@@ -3,7 +3,7 @@ date: 2026-05-20
 theme: IP and AI assets as revenue architecture, not cost lines
 generated_at: 2026-05-20T04:00:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -123,7 +123,9 @@ One BE client added a $480K annual floor and collected it in full on a deal that
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-20T16:23:44.076Z
+share_urn: urn:li:share:7462900880242180096
 hook_format: contrarian
 cta_goal: follows
 slug: ip-revenue-line-board-deck-2026
