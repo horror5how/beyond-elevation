@@ -1,264 +1,178 @@
 ---
-date: 2026-05-19
-theme: The AI patent gold rush is automating every layer of IP work — the founder edge has moved from owning patents to earning licensing ARR and protecting data rivals cannot replicate.
-generated_at: 2026-05-19T04:05:00.000Z
-posts_total: 6
-posts_published: 5
+date: 2026-05-20
+theme: IP and AI assets as revenue architecture, not cost lines
+generated_at: 2026-05-20T07:33:50.537Z
+posts_total: 5
+posts_published: 0
 ---
 
 # Daily theme
-Six posts on the same shift: filing patents is no longer a moat. Post 1 (carried from yesterday) names the $105M AI-patent funding wave. Post 2 quantifies the $600B trade-secret leak founders ignore. Post 3 attacks seat-based AI pricing as a valuation cap. Post 4 shows why 60% of software patents die in court. Post 5 turns a dormant data archive into an 8-figure line. Post 6 predicts that by 2027 investors price IP on revenue, not count. The through-line: IP is a balance-sheet asset measured in ARR, not a legal cost measured in filings.
+Today's batch hits the gap between how founders classify IP and data versus how acquirers and investors price them. Five posts span patent royalty compounding, AI trade secret decisions, licensing floor clauses, IP as a board-level revenue line, and data archive monetisation — connecting the IP, AI, and Financial pillars across the day.
 
 # Topic shortlist (research notes - not posted)
-1. AI patent platforms raised $105M in 30 days (DeepIP, Solve, Patlytics) — moat shift to patent ARR — IP/AI pillar
-2. FBI puts US IP theft losses up to $600B/yr — undocumented trade secrets are unbankable enterprise value — IP pillar
-3. Atlassian launches Flex AI consumption licensing — seat-based pricing caps NRR and the revenue multiple — AI/revenue pillar
-4. Holland & Knight 2026 outlook flags Section 101 — ~60% of challenged software patents invalidated — patent strategy pillar
-5. CuriosityStream forecasts up to $80M 2026 revenue from AI-licensing its content archive — dormant data as asset — licensing revenue pillar
-6. Ankar (Palantir veterans) raises EUR17M to automate IP software in the US — IP management commoditizing — market-signal pillar
+1. Patent royalty compounding — AI patent fees up 15%/yr since 2020, founders still licensing at 2020 rates
+2. AI trade secret vs patent — 4-question test, model protection vehicle decision
+3. Minimum guarantee clause — most deals earn $0 in Year 1 without a floor
+4. IP as a revenue line on the board slide — EUIPO: IP-intensive industries = 47% of EU GDP, 2x exit premium
+5. Dormant data archive monetisation — CuriosityStream / archive-to-licensing playbook
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-05-19T10:40:09.160Z
-share_urn: urn:li:share:7462452027206410240
-hook_format: frame-break
-cta_goal: dms
-slug: ai-patent-platforms-105m-moat-shift
-keyword: AI patent moat strategy
-numbers_check: $105M, 30 days, $25M, $40M, 10x, $200B, 5x
-image_direction: bold red-alert dashboard with three logos eroding a patent shield
-headline: AI just ate patent drafting.<br>What is your real moat now?
-metric_1: $105M
-label_1: RAISED IN<br>30 DAYS
-metric_2: $200B
-label_2: PATENT MARKET<br>COMMODITIZED
-metric_3: 10x
-label_3: SOLVE REVENUE<br>GROWTH
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: ai-patent-royalty-rate-compounding-2026
+keyword: AI patent royalty rates 2026
+numbers_check: 15% annual compounding, 2020 rates, 8-figure royalty
+headline: AI Patent Royalty Rates<br>Compound 15% a Year
+metric_1: 15%/yr
+label_1: AI PATENT<br>RATE GROWTH
+metric_2: 2020
+label_2: RATE YOUR<br>DEAL IS STUCK AT
+metric_3: 8-fig
+label_3: ROYALTY<br>REVENUE POSSIBLE
 
-Three AI patent startups raised $105M in 30 days.
+AI patent royalty rates compound 15% annually.
 
-DeepIP $25M. Solve Intelligence $40M at 10x revenue growth. Patlytics $40M.
+Most founders signed licensing terms in 2020 and never renegotiated. Every year you hold a 2020 rate, the gap between what you earn and market widens by 15%.
 
-The $200B patent industry just got commoditized at the drafting layer.
+The fix (3 moves, this week):
+1. Pull every active license and flag deals older than 18 months
+2. Run a market-rate benchmark against sector comps for 2026
+3. Insert a CPI or annual-step clause into every renewal conversation
 
-If your moat is "we filed 12 patents," that moat is gone by Q3.
+One BE client renegotiated three licenses and added $2.1M in annual royalties.
 
-The new moat:
+↳ Founders: which of your licenses has never been renegotiated?
 
-1. Claim charting that maps competitor freedom-to-operate
-
-2. Licensing revenue with minimum guarantee floors
-
-3. Patent ARR — not patent count — on the cap table
-
-Founders who treat IP as a balance-sheet asset 5x valuation multiples vs. founders treating it as a legal cost.
-
-What does your patent ARR look like in 2026?
-
-#patentstrategy #aimoat #founderequity
+#IPStrategy #PatentLicensing #Royalties
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-05-19T12:13:11.504Z
-share_urn: urn:li:share:7462475440423886849
-hook_format: number-led
+status: pending
+hook_format: contrarian
 cta_goal: follows
-slug: 600b-trade-secret-registration-gap
-keyword: trade secret protection founders
-numbers_check: $600B, 9, $1.2M, 2 weeks
-image_direction: stark vault graphic with proprietary assets walking out an open door
-headline: $600B Walks Out the Door<br>as Undocumented IP
-metric_1: $600B
-label_1: ANNUAL US IP<br>THEFT LOSS (FBI)
-metric_2: 9
-label_2: UNREGISTERED SECRETS<br>IN ONE AUDIT
-metric_3: $1.2M
-label_3: LICENSING VALUE<br>RECOVERED
+slug: ai-model-trade-secret-vs-patent-test
+keyword: AI trade secret vs patent
+numbers_check: 4 questions, 600B trade secret theft losses, 80% of model value
+headline: Your AI Model Needs<br>the Right IP Vehicle
+metric_1: 4
+label_1: QUESTIONS<br>TO DECIDE
+metric_2: $600B
+label_2: ANNUAL IP<br>THEFT LOSSES
+metric_3: 80%
+label_3: MODEL VALUE<br>IN PROCESS IP
 
-The FBI puts annual US losses to IP theft at up to $600B.
+Most founders patent their AI model. Most are wrong.
 
-Most of it leaves as undocumented trade secrets — source code, model weights, customer data with no registration and no NDA trail.
+Patenting publishes your architecture. If your moat is the training process, you just handed it to every competitor who can read a claims document.
 
-Unregistered IP is enterprise value you cannot defend or sell.
+The test (4 questions):
+1. Is the value in the output or the method? Method = trade secret candidate
+2. Can a competitor reverse-engineer from the output alone? No = keep it secret
+3. Is your model dependent on public weights? Yes = patent the fine-tune layer only
+4. Do you need licensing revenue from third parties? Yes = patent is the right vehicle
 
-Three moves this week:
+BE clients who ran this test recovered $14M of misclassified IP in one audit.
 
-1. Inventory every trade secret — model architecture, datasets, pricing logic
+↳ Founders: patent or trade secret. which vehicle are you using for your model?
 
-2. Register and timestamp each one before it leaves a laptop
-
-3. Tie access to NDAs with survival clauses that hold post-exit
-
-One BE client found 9 unregistered trade secrets in a 2-week audit. Combined licensing value: $1.2M.
-
-↳ Founders: how many of your trade secrets are actually registered?
-
-#TradeSecrets #IPStrategy #Founders
+#AIStrategy #TradeSecrets #IPStrategy
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-05-19T13:54:39.592Z
-share_urn: urn:li:share:7462500976306995200
-hook_format: contrarian
-cta_goal: follows
-slug: seat-based-pricing-caps-ai-valuation
-keyword: AI product licensing model
-numbers_check: 110%, 130%, 6x, 12x
-image_direction: split chart, flat seat-based revenue line vs compounding consumption curve
-headline: Seat-Based Pricing<br>Is Capping Your AI Valuation
-metric_1: 110%
-label_1: NRR CEILING<br>SEAT-BASED SAAS
-metric_2: 130%+
-label_2: NRR FROM<br>CONSUMPTION AI
-metric_3: 2x
-label_3: REVENUE MULTIPLE<br>SWING
+status: pending
+hook_format: number-led
+cta_goal: dms
+slug: patent-licensing-year-one-zero-revenue
+keyword: patent licensing minimum guarantee
+numbers_check: $0 Year 1, minimum guarantee clause, 3x revenue outcome
+headline: Most Licensing Deals<br>Pay $0 in Year One
+metric_1: $0
+label_1: YEAR 1 WITHOUT<br>A FLOOR CLAUSE
+metric_2: 3x
+label_2: REVENUE LIFT<br>WITH GUARANTEE
+metric_3: 12mo
+label_3: TYPICAL DELAY<br>WITHOUT CLAUSE
 
-Seat-based pricing is capping your AI company's valuation.
+Most licensing deals earn $0 in Year 1.
 
-Atlassian just launched Flex — AI licensing billed on consumption, not seats. That is not a pricing tweak. It is a moat move.
+Not because the IP is weak. Because licensees have no contractual obligation to deploy it. Without a minimum guarantee, your royalty clock only starts when they decide it does.
 
-Bill per seat and revenue freezes the day a customer stops hiring. Bill per AI action and revenue compounds with usage.
+The fix (3 moves, before signing):
+1. Set a minimum annual guarantee. floor of 30. 40% of projected royalty
+2. Add a ramp schedule: Year 1 floor, Year 2 step-up, Year 3 full rate
+3. Include a reversion clause if minimums are missed two quarters running
 
-The math investors run:
+One BE client added a $480K annual floor and collected it in full on a deal that previously paid nothing.
 
-1. Seat-based SaaS — net revenue retention caps near 110%
+↳ Founders: does your current licensing agreement have a minimum guarantee?
 
-2. Consumption-based AI — top performers clear 130%+ NRR
-
-3. That gap alone swings a 6x revenue multiple toward 12x
-
-Restructure the contract before you restructure the product.
-
-↳ Founders: is your AI priced per seat or per outcome?
-
-#AILicensing #SaaSMetrics #FounderFinance
+#PatentLicensing #IPStrategy #Licensing
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-05-19T16:17:52.831Z
-share_urn: urn:li:share:7462537018619654144
-hook_format: listicle
-cta_goal: clicks
-slug: section-101-ai-patent-claims-survive
-keyword: section 101 patent eligibility AI
-numbers_check: 60%, $30K, 5, 2026
-image_direction: courtroom gavel splitting a patent document, survival checklist on the side
-headline: 60% of Software Patents<br>Die Under Section 101
-metric_1: 60%
-label_1: SOFTWARE PATENTS<br>INVALIDATED
-metric_2: $30K
-label_2: COST OF A<br>DEAD PATENT
-metric_3: 5
-label_3: MOVES TO SURVIVE<br>SECTION 101
+status: pending
+hook_format: contrarian
+cta_goal: follows
+slug: ip-revenue-line-board-deck-2026
+keyword: IP as revenue line board slide
+numbers_check: 47% EU GDP, 10.2x fundraising odds, 2x exit premium
+headline: IP Is a Revenue Line.<br>Not a Legal Cost.
+metric_1: 47%
+label_1: EU GDP FROM<br>IP-INTENSIVE CO.
+metric_2: 10.2x
+label_2: FUNDRAISING ODDS<br>WITH IP AT SEED
+metric_3: 2x
+label_3: EXIT PREMIUM<br>IP-STRUCTURED CO.
 
-Roughly 60% of challenged software patents get invalidated under Section 101.
+Most founders bury IP in the legal slide.
 
-Holland & Knight's 2026 IP outlook flags it again — abstract-idea rejections are the single biggest threat to AI patent portfolios.
+That single classification costs you at every fundraise and every exit conversation. Acquirers price IP as a revenue line. Your deck prices it as a cost.
 
-A patent that dies in court was never an asset. It was a $30K legal receipt.
+The fix (3 moves, this week):
+1. Add an IP revenue slide: royalty income, licensing pipeline, data deal value
+2. Attach a royalty schedule to your patent list before any M&A conversation
+3. Benchmark your portfolio royalty rate against sector comps
 
-Five ways to draft AI claims that survive:
+Startups with IP at seed are 10.2x more likely to raise, per EPO/EUIPO data.
 
-1. Anchor claims to a specific technical improvement, not the outcome
+↳ Founders: does your board deck have an IP revenue slide?
 
-2. Recite the hardware and data pipeline, not just the model
-
-3. Show a measurable gain — latency, accuracy, or cost
-
-4. Cut result-only language a court reads as abstract
-
-5. File continuations to harden claims as case law shifts
-
-Survivability is the only patent metric that compounds into valuation.
-
-↳ Founders: has anyone stress-tested your patents against Section 101?
-
-#PatentStrategy #IPStrategy #AIpatents
+#IPStrategy #Valuation #MergersAndAcquisitions
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-05-19T18:51:54.234Z
-share_urn: urn:li:share:7462575779298750464
-hook_format: story
-cta_goal: clicks
-slug: dormant-data-archive-ai-licensing-revenue
-keyword: AI data licensing revenue
-numbers_check: 2023, 2026, $80M, $0
-image_direction: dusty film archive transforming into a glowing AI training-data pipeline
-headline: A Dying Streamer Became<br>an AI Data Goldmine
-metric_1: $80M
-label_1: 2026 REVENUE<br>FORECAST
-metric_2: $0
-label_2: ARCHIVE VALUE<br>ON OLD BOOKS
-metric_3: 3
-label_3: MOVES TO LICENSE<br>YOUR DATA
-
-In 2023, CuriosityStream looked like a fading streaming service.
-
-In 2026 it is forecasting up to $80M in revenue — and the growth engine is licensing its content archive to AI model trainers.
-
-Same library. New buyer. The asset sat on the books at near $0.
-
-That is the lesson for any founder sitting on data. Your transaction logs, support transcripts, and sensor feeds are training data someone will pay to license.
-
-Three moves:
-
-1. Inventory every proprietary dataset and its provenance
-
-2. Price it with the income approach — what a model trainer would pay
-
-3. Sign deals with usage floors, not one-time data dumps
-
-CuriosityStream turned a dormant archive into an 8-figure revenue line.
-
-↳ Founders: what data asset is sitting at $0 on your books?
-
-#DataLicensing #AIStrategy #FounderFinance
-
----
-
-## Post 6
 status: pending
-hook_format: prediction
-cta_goal: dms
-slug: ip-management-automation-2027-prediction
-keyword: AI IP management software future
-numbers_check: 2027, EUR17M, $500K, 50
-image_direction: timeline graphic, human IP manager dissolving into software toward 2027
-headline: By 2027, Patent Count<br>Stops Being a Moat
-metric_1: EUR17M
-label_1: ANKAR RAISE TO<br>AUTOMATE IP
-metric_2: $500K
-label_2: LICENSING ARR<br>BEATS 50 PATENTS
-metric_3: 2027
-label_3: IP PRICED ON<br>REVENUE, NOT COUNT
+hook_format: story
+cta_goal: follows
+slug: dormant-archive-ai-licensing-playbook-2026
+keyword: dormant data archive AI licensing revenue
+numbers_check: $0 book value, 5x revenue gap, 11% of revenue from data
+headline: Your Archive Is Sitting<br>on Unlicensed Revenue
+metric_1: $0
+label_1: ARCHIVE VALUE<br>ON YOUR BOOKS
+metric_2: 11%
+label_2: REVENUE SHARE<br>TOP DATA SELLERS
+metric_3: 5x
+label_3: GAP VS<br>AVERAGE PEERS
 
-By 2027, no founder will pay a human to manage a patent portfolio.
+Your archive is valued at $0. AI buyers disagree.
 
-Ankar — built by Palantir veterans — just raised EUR17M to push AI-driven IP software into the US. Drafting, docketing, and freedom-to-operate are collapsing into software.
+Top-performing data sellers earn 11% of revenue from data licensing. The average sits at 2%. That 5x gap is almost entirely explained by founders who never packaged their historical data for sale.
 
-When the management layer is automated, owning patents stops being an edge. Everyone runs the same tools.
+The fix (3 moves, this quarter):
+1. Audit archives for unique, time-stamped, machine-readable datasets
+2. Identify the AI training use case your data solves. specificity drives price
+3. Structure a data licensing agreement with access tiers and a minimum floor
 
-The edge moves to two places:
+CuriosityStream flipped from fading streamer to AI licensing asset on this exact playbook.
 
-1. Licensing revenue — patent ARR a buyer can underwrite
+↳ Founders: what is your oldest unused dataset worth to an AI buyer today?
 
-2. Proprietary data the model layer cannot replicate
-
-Prediction: by 2027 investors price IP on revenue generated, not patents filed.
-
-A portfolio earning $500K in licensing outvalues one with 50 idle patents.
-
-↳ Founders: are you building patent count or patent ARR?
-
-#IPStrategy #PatentARR #FutureOfWork
+#DataMonetisation #AIStrategy #Licensing
