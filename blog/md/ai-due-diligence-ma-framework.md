@@ -2,8 +2,8 @@
 title: "AI Due Diligence Is Killing Deals in 2026. Here Is the 6-Point Framework Buyers Actually Use."
 slug: ai-due-diligence-ma-framework
 date: 2026-05-20
-url: https://beyondelevation.com/blog/post.html?slug=ai-due-diligence-ma-framework
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ai-due-diligence-ma-framework/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ Founders who want to survive AI due diligence — and price at a premium — sho
 
 **Model the substitution risk.** Run your own GPT-Next Test. If an agentic AI framework could replicate your core workflow within 12 months, you need to deepen the moat — more proprietary data, tighter workflow integration, broader patent coverage — before buyers run the same test and reach a less flattering conclusion.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-due-diligence-ma-framework)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does AI due diligence take in 2026?
@@ -94,3 +108,6 @@ Standard IP due diligence focuses on patent grants, trademark registrations, and
 ### Does Beyond Elevation help with AI due diligence?
 
 Beyond Elevation runs AI due diligence advisory for both buyers and sellers. For sellers, the focus is pre-LOI preparation using Hayat Amin's 6-Point Framework to identify and fix gaps before buyers discover them. For buyers, the focus is risk scoring and valuation adjustment. Contact [beyondelevation.com](https://beyondelevation.com) for an initial assessment.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

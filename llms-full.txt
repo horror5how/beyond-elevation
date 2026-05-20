@@ -1926,3 +1926,19 @@ Most founders fixate on the 20-year number and stop. That is the mistake.
 The 20-year clock starts ticking at filing, not at grant. If your patent takes 3 years to prosecute — the current USPTO average is 23.4 months, but complex
 
 ---
+
+## AI Due Diligence Is Killing Deals in 2026. Here Is the 6-Point Framework Buyers Actually Use.
+
+URL: https://beyondelevation.com/blog/posts/ai-due-diligence-ma-framework/
+
+Sixty-eight percent of AI acquisitions now take longer to close than the same deal would have taken two years ago. The bottleneck is not price. It is AI due diligence — and most buyers are running a 2020 checklist on a 2026 asset class. Hayat Amin, who has advised on IP positioning across more than 40 AI-adjacent transactions, argues the core problem is simple: traditional IP due diligence was built for patent portfolios and codebases, not for model weights, training data provenance, and agentic substitution risk.
+
+The result is predictable. Deals stall. Valuations get slashed mid-process. LOIs die in the diligence room. And founders who spent three years building an AI company watch the exit evaporate because nobody prepared them for what buyers actually check.
+
+This post gives you the exact AI due diligence framework acquirers use in 2026 — the six checkpoints that determine whether your AI company prices at a premium or collapses under scrutiny.
+
+## What Is AI Due Diligence and Why Does Traditional IP DD Fail?
+
+AI due diligence is the structured evaluation of an AI company's technology assets, data provenance, model defensibility, talent dependencies, and regulatory exposure before an acquisition or investment closes. It goes far beyond standard IP due diligence because the value drivers in AI companies — proprietary data, model architecture, training recipes, and workflow integration depth — do not map to traditional IP categories like patents, copyrights, and trade secre
+
+---
