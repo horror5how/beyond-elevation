@@ -73,3 +73,4 @@
 2026-05-20 10:27 | urn:li:share:7462811336712908801 | post #1 | ai-patent-royalty-rate-compounding-2026 | AI patent royalty rates compound 15% annually.  Most founders signed licensing t
 2026-05-20 11:50 | urn:li:share:7462832054783737858 | post #2 | ai-model-trade-secret-vs-patent-test | Most founders patent their AI model. Most are wrong.  Patenting publishes your a
 2026-05-20 12:53 | urn:li:share:7462847910800510976 | $5M ARR from subscriptions and $5M ARR from data licensing are not the same comp
+2026-05-20 13:37 | urn:li:share:7462859021918732288 | post #3 | patent-licensing-year-one-zero-revenue | Most licensing deals earn $0 in Year 1.  Not because the IP is weak. Because lic

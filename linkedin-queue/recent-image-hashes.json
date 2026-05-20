@@ -1,12 +1,5 @@
 [
   {
-    "hash": "81c3ffffc383ff9d",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "ai-patent-platforms-105m-moat-shift",
-    "ts": "2026-05-19T10:40:09.160Z"
-  },
-  {
     "hash": "81c1e7ff83c3fff9",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-model-trade-secret-vs-patent-test",
     "ts": "2026-05-20T11:50:14.795Z"
+  },
+  {
+    "hash": "66e7e7ffc3c3ffb9",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "patent-licensing-year-one-zero-revenue",
+    "ts": "2026-05-20T13:37:24.347Z"
   }
 ]

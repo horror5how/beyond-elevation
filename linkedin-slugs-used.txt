@@ -176,3 +176,4 @@ ai-trade-secret-or-patent-test
 ai-patent-royalty-rate-compounding-2026
 ai-model-trade-secret-vs-patent-test
 ai-revenue-quality-multiple-2026
+patent-licensing-year-one-zero-revenue

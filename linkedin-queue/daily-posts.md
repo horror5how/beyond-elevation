@@ -3,7 +3,7 @@ date: 2026-05-20
 theme: IP and AI assets as revenue architecture, not cost lines
 generated_at: 2026-05-20T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -89,7 +89,9 @@ BE clients who ran this test recovered $14M of misclassified IP in one audit.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-20T13:37:24.347Z
+share_urn: urn:li:share:7462859021918732288
 hook_format: number-led
 cta_goal: dms
 slug: patent-licensing-year-one-zero-revenue

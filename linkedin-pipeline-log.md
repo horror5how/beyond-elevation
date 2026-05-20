@@ -331,3 +331,4 @@ Post 4: hook_too_long(15w)
 2026-05-20 07:35 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
 2026-05-20 10:27 | li-auto-post | render OK | post #1 | layout=b accent=#a87c7c hash=00c3e7ffc3c3ff99 minDist=5 attempts=1
 2026-05-20 11:50 | li-auto-post | render OK | post #2 | layout=a accent=#7a8c6e hash=007effffffff80a0 minDist=15 attempts=1
+2026-05-20 13:37 | li-auto-post | render OK | post #3 | layout=b accent=#a89968 hash=66e7e7ffc3c3ffb9 minDist=7 attempts=1
