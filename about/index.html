@@ -104,6 +104,25 @@
         .about-shell { padding: 0 18px; }
         .about-page section + section { margin-top: 64px; }
       }
+
+      /* About page uses the legacy .footer-* classes (not the .site-footer-* system),
+         so the dark-on-dark text was unreadable. Scope-fix the footer text here. */
+      .site-footer { color: #f5f1ea; }
+      .site-footer .footer-grid { display: flex; justify-content: space-between; gap: 48px; max-width: 1200px; margin: 0 auto; flex-wrap: wrap; }
+      .site-footer .footer-brand { max-width: 280px; }
+      .site-footer .footer-brand .brand { color: #fff; text-decoration: none; }
+      .site-footer .footer-brand p { color: rgba(255,255,255,.6); font-size: .9rem; line-height: 1.6; margin: 10px 0 0; }
+      .site-footer .footer-col { display: flex; flex-direction: column; gap: 10px; }
+      .site-footer .footer-col strong { display: block; font-size: .72rem; text-transform: uppercase; letter-spacing: .12em; color: rgba(255,255,255,.4); margin-bottom: 8px; font-weight: 600; }
+      .site-footer .footer-col a { display: block; color: rgba(255,255,255,.78); text-decoration: none; font-size: .9rem; line-height: 1.5; transition: color .18s ease; }
+      .site-footer .footer-col a:hover { color: #c9a96e; }
+      .site-footer .footer-bottom { max-width: 1200px; margin: 40px auto 0; padding: 24px 0; border-top: 1px solid rgba(255,255,255,.1); text-align: center; color: rgba(255,255,255,.45); font-size: .78rem; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+      .site-footer .footer-bottom a { color: rgba(255,255,255,.7); text-decoration: none; }
+      .site-footer .footer-bottom a:hover { color: #c9a96e; }
+      @media (max-width: 760px) {
+        .site-footer .footer-grid { flex-direction: column; gap: 32px; }
+        .site-footer .footer-bottom { flex-direction: column; text-align: left; }
+      }
     </style>
 
     <!-- Schema graph: Organization + Person + ImageObject + WebPage + BreadcrumbList + AboutPage -->
