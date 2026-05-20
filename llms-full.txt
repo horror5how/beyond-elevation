@@ -1942,3 +1942,23 @@ This post gives you the exact AI due diligence framework acquirers use in 2026 �
 AI due diligence is the structured evaluation of an AI company's technology assets, data provenance, model defensibility, talent dependencies, and regulatory exposure before an acquisition or investment closes. It goes far beyond standard IP due diligence because the value drivers in AI companies — proprietary data, model architecture, training recipes, and workflow integration depth — do not map to traditional IP categories like patents, copyrights, and trade secre
 
 ---
+
+## Is a Patent Worth It in 2026? Only If You Pass These 4 Tests First
+
+URL: https://beyondelevation.com/blog/posts/is-a-patent-worth-it-2026/
+
+93% of patents never generate a single dollar of licensing revenue. Yet companies with patents are 10.2x more likely to secure early-stage funding. The gap between those two numbers is not luck — it is strategy.
+
+Hayat Amin, who has structured patent portfolios across more than 40 IP-intensive transactions, argues the question itself is wrong. “Founders ask ‘is a patent worth it?’ like it is a yes-or-no question,” Amin says. “It is a math question. And most founders never run the math.”
+
+This post gives you the math — the real cost data, the real ROI benchmarks, and the 4 tests that separate patents worth filing from patents that drain cash and collect dust.
+
+## Is a Patent Worth It in 2026?
+
+A patent is worth it in 2026 when it is filed as part of a commercial IP strategy — not as a legal checkbox after a product launch. The data confirms this: patents filed with a licensing or exit strategy in mind generate 6x more lifetime revenue than defensive-only filings, according to Ocean Tomo’s 2026 intangible asset study.
+
+The problem is that most founders file patents the wrong way. They hire a patent attorney, describe their invention, and get claims so narrow that no competitor would bother designing around them. Hayat Amin calls this the “patent attorney trap” — paying $15,000–$25,000 to file claims that protect nothing worth licensing.
+
+A patent is worth it when it generates one of three outcomes: it increases your valuation at fundraising, it creates a licensable asset that p
+
+---

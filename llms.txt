@@ -147,5 +147,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 12 Largest Patent Holding Companies in 2026 (And the 3 Structures They Use to Monetize Billions in IP)](https://beyondelevation.com/blog/posts/top-patent-holding-companies-2026/) — /blog/md/top-patent-holding-companies-2026.md
 - [How Long Does a Patent Really Last? (The 3 Expiration Dates Nobody Tells You About)](https://beyondelevation.com/blog/posts/how-long-does-a-patent-last/) — /blog/md/how-long-does-a-patent-last.md
 - [AI Due Diligence Is Killing Deals in 2026. Here Is the 6-Point Framework Buyers Actually Use.](https://beyondelevation.com/blog/posts/ai-due-diligence-ma-framework/) — /blog/md/ai-due-diligence-ma-framework.md
+- [Is a Patent Worth It in 2026? Only If You Pass These 4 Tests First](https://beyondelevation.com/blog/posts/is-a-patent-worth-it-2026/) — /blog/md/is-a-patent-worth-it-2026.md
 
 > Full blog content available at /llms-full.txt
