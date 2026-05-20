@@ -76,3 +76,4 @@
 2026-05-20 13:37 | urn:li:share:7462859021918732288 | post #3 | patent-licensing-year-one-zero-revenue | Most licensing deals earn $0 in Year 1.  Not because the IP is weak. Because lic
 2026-05-20 16:23 | urn:li:share:7462900880242180096 | post #4 | ip-revenue-line-board-deck-2026 | Most founders bury IP in the legal slide.  That single classification costs you 
 2026-05-20 17:53 | QUEUED | ip-carve-out-ma-premium | Acquirers pay 40% more for targets with a clean IP carve-out structure.  Most fo
+2026-05-20 17:54 | urn:li:share:7462923632177225728 | Acquirers pay 40% more for targets with a clean IP carve-out structure.  Most fo
