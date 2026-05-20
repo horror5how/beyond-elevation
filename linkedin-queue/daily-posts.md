@@ -1,8 +1,8 @@
 ---
 date: 2026-05-20
 theme: IP and AI assets as revenue architecture, not cost lines
-generated_at: 2026-05-20T07:33:50.537Z
-posts_total: 5
+generated_at: 2026-05-20T04:00:00.000Z
+posts_total: 6
 posts_published: 0
 ---
 
@@ -15,6 +15,7 @@ Today's batch hits the gap between how founders classify IP and data versus how 
 3. Minimum guarantee clause — most deals earn $0 in Year 1 without a floor
 4. IP as a revenue line on the board slide — EUIPO: IP-intensive industries = 47% of EU GDP, 2x exit premium
 5. Dormant data archive monetisation — CuriosityStream / archive-to-licensing playbook
+6. AI industrialised patent litigation — a16z $10.5M Stilta seed + Thomson Reuters/Sterne Kessler AI tools = plaintiff filing cost collapses, defense still $3-5M per case
 
 ---
 
@@ -176,3 +177,36 @@ CuriosityStream flipped from fading streamer to AI licensing asset on this exact
 ↳ Founders: what is your oldest unused dataset worth to an AI buyer today?
 
 #DataMonetisation #AIStrategy #Licensing
+---
+
+## Post 6
+status: pending
+hook_format: prediction
+cta_goal: dms
+slug: ai-industrialised-patent-litigation-founder-defensibility-2026
+keyword: AI patent litigation founder defensibility 2026
+numbers_check: $10.5M Stilta seed, $3-5M defense cost, 5x volume in 24 months
+image_direction: Courtroom-meets-server-rack composite. Cold blue + steel. Gavel resting on circuit board. No people.
+headline: AI Just Industrialised<br>Patent Litigation
+metric_1: $10.5M
+label_1: a16z BET ON<br>LITIGATION AI
+metric_2: $3-5M
+label_2: DEFENSE COST<br>PER CASE
+metric_3: 24mo
+label_3: WINDOW BEFORE<br>SUITS 5X
+
+AI just industrialised patent litigation.
+
+a16z led a $10.5M seed into Stilta this week — agentic AI that drafts complaints and builds claim charts at 1/20th the cost.
+
+Thomson Reuters and Sterne Kessler launched their own AI litigation suite the same week.
+
+Translation: filing a US patent suit just dropped from a $250k decision to a $25k decision.
+
+Defense still costs $3-5M per case. When plaintiff filings get cheap, volume 5x inside 24 months.
+
+No FTO opinion, no indemnification stack, no claim-chart pre-mortem? You're a target, not a competitor.
+
+DM "IP MEMO" — we write the 4-page founder defensibility brief acquirers and insurers actually accept.
+
+#PatentLitigation #AIPatents #StartupIP
