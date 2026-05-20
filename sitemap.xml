@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://beyondelevation.com/</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/hayat-amin-og.jpg</image:loc>
-      <image:title>Hayat Amin — Founder &amp; CEO of Beyond Elevation</image:title>
-      <image:caption>Hayat Amin, three-time exited entrepreneur and three-time FT100 CxO. Founder of Beyond Elevation, the IP strategy firm tech founders call when their patents are worth more than their cap table.</image:caption>
-      <image:license>https://beyondelevation.com/about/</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/about/</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/hayat-amin-portrait.jpg</image:loc>
-      <image:title>Hayat Amin — Founder &amp; CEO of Beyond Elevation</image:title>
-      <image:caption>Hayat Amin — Founder &amp; CEO of Beyond Elevation. Three-time exited entrepreneur, three-time FT100 CxO, and IP strategy operator. Portrait, black-and-white. 1200x1500.</image:caption>
-      <image:license>https://beyondelevation.com/about/</image:license>
-    </image:image>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/hayat-amin-og.jpg</image:loc>
-      <image:title>Hayat Amin — Founder &amp; CEO of Beyond Elevation (social card)</image:title>
-      <image:caption>Open Graph card image of Hayat Amin, Founder &amp; CEO of Beyond Elevation. 1200x630.</image:caption>
-      <image:license>https://beyondelevation.com/about/</image:license>
-    </image:image>
   </url>
   <url>
     <loc>https://beyondelevation.com/services/</loc>
