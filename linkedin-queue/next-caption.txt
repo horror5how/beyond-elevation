@@ -1,13 +1,15 @@
-VC diligence on AI deals just stretched from 1 week to 8 weeks.
+3 in 4 AI founders are using the wrong IP vehicle.
 
-That's not caution. That's 8 questions you're not prepared for.
+A patent exposes your model architecture to every competitor the day it publishes.
 
-Allied VP's 2026 scorecard: data uniqueness, replication speed ($5M-in-18-months test), workflow depth, pricing stress, AI talent concentration, model dependency, IP chain of title, regulatory classification.
+A trade secret keeps it locked forever — if you document it right.
 
-Score 4+ axes = multiple holds.
+The 4-question test:
+1. Can competitors reverse-engineer it from the output? (No = trade secret)
+2. Does blocking others require a court injunction? (No = patent)
+3. Is the value in the training process, not the claims? (Yes = trade secret)
+4. Will it still be commercially relevant in 10 years? (No = trade secret)
 
-Score 0–1 = 20% compression before term sheet.
+Most AI moats are trade secrets pretending to be patents.
 
-Most founders fail axis 3 and 6.
-
-#IPStrategy #AIValuation #VentureCapital
+#IPStrategy #AIStrategy #Patents
