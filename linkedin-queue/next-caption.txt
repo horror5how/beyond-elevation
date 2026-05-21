@@ -1,22 +1,19 @@
-Your patent attorney cannot tell you what your IP is worth.
-Your CFO can.
+73% of pre-IPO companies have an IP defect their S-1 reviewer will flag.
 
-Most founders give patent valuation to legal.
+Most find out mid-roadshow.
 
-Legal thinks in claim breadth.
+The 4 things every IPO due diligence team checks first:
 
-VCs fund revenue multiples. Not claim breadth.
+Patent chain-of-title — every assignment signed and recorded?
 
-That gap costs 30-40% of your exit headline.
+Open-source infections in your codebase.
 
-3 numbers:
+IP agreements dated post-hire, not pre-hire.
 
-2.1x — exit multiple premium for IP-intensive companies
+Licensing terms that survive the deal closing.
 
-3 weeks — income-approach patent valuation timeline
+Build your IP data room 12 months before filing.
 
-34% — average deal value uplift when finance leads IP valuation
+Not the week you get the term sheet.
 
-Move patent valuation from legal to finance before your next round.
-
-#IPStrategy #PatentValuation #ExitMultiple
+#IPStrategy #PreIPO #PatentAudit
