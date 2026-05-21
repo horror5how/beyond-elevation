@@ -78,3 +78,4 @@
 2026-05-20 17:53 | QUEUED | ip-carve-out-ma-premium | Acquirers pay 40% more for targets with a clean IP carve-out structure.  Most fo
 2026-05-20 17:54 | urn:li:share:7462923632177225728 | Acquirers pay 40% more for targets with a clean IP carve-out structure.  Most fo
 2026-05-20 19:12 | urn:li:share:7462943370425049088 | post #5 | dormant-archive-ai-licensing-playbook-2026 | Your archive is valued at $0. AI buyers disagree.  Top-performing data sellers e
+2026-05-21 07:54 | urn:li:share:7463135236856598528 | API-wrapper AI companies are valued at 3x less than model-owners.  Your GPT inte
