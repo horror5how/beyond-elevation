@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c3c3e7ffc3c3ff9f",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "section-101-ai-patent-claims-survive",
-    "ts": "2026-05-19T16:17:52.831Z"
-  },
-  {
     "hash": "40c3e7ffc1c3ffbf",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "dormant-archive-ai-licensing-playbook-2026",
     "ts": "2026-05-20T19:12:34.834Z"
+  },
+  {
+    "hash": "8183e7ffc3e7ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "ai-industrialised-patent-litigation-founder-defensibility-2026",
+    "ts": "2026-05-21T10:43:29.314Z"
   }
 ]

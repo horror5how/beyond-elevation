@@ -3,7 +3,7 @@ date: 2026-05-20
 theme: IP and AI assets as revenue architecture, not cost lines
 generated_at: 2026-05-20T04:00:00.000Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -190,7 +190,9 @@ CuriosityStream flipped from fading streamer to AI licensing asset on this exact
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-05-21T10:43:29.314Z
+share_urn: urn:li:share:7463177642196963328
 hook_format: prediction
 cta_goal: dms
 slug: ai-industrialised-patent-litigation-founder-defensibility-2026
