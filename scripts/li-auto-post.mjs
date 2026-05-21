@@ -21,6 +21,7 @@
 import { readFileSync, writeFileSync, existsSync, appendFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { chromium } from 'playwright';
+import { pickBlogForPost } from './be-blog-link-picker.mjs';
 
 // ── env ──────────────────────────────────────────────────────────────────────
 const { LI_TOKEN, LI_URN, LI_DRY_RUN } = process.env;
@@ -223,6 +224,18 @@ if (caption.length > 700) {
   const cut = caption.slice(0, 700);
   caption = cut.slice(0, cut.lastIndexOf('\n')) || cut;
   console.warn(`Caption trimmed to ${caption.length} chars`);
+}
+
+// ── Append topic-matched Beyond Elevation blog link ──────────────────────────
+// Every LinkedIn post in the routine links back to beyondelevation.com when a
+// relevant blog post exists (matches against data/posts.json). Skipped silently
+// if no blog scores above the minimum relevance threshold.
+const blogPick = pickBlogForPost(meta, caption);
+if (blogPick) {
+  caption = `${caption}${blogPick.ctaLine}`;
+  console.log(`      blog link appended: ${blogPick.slug} (score=${blogPick.score})`);
+} else {
+  console.log(`      blog link: none — no BE blog passed the relevance threshold`);
 }
 
 console.log(`[1/5] Loaded post #${pending.num} from queue`);
