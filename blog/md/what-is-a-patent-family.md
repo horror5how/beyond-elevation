@@ -2,8 +2,8 @@
 title: "What Is a Patent Family? The Hidden Structure That Doubles Your IP Value"
 slug: what-is-a-patent-family
 date: 2026-05-21
-url: https://beyondelevation.com/blog/post.html?slug=what-is-a-patent-family
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/what-is-a-patent-family/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -63,6 +63,20 @@ Patent families also unlock [recurring revenue streams](/blog/posts/recurring-pa
 
 **Mistake 3: Ignoring international filings.** Your patent stops at the border. A US-only patent family gives competitors complete freedom to manufacture, sell, and license your technology in every other market on earth. If your product sells internationally or your competitors manufacture overseas, you need [patent coverage in the jurisdictions where revenue is at stake](/blog/posts/patent-clustering-strategy-moat/). The PCT filing window is 12 months from your priority date — miss it, and you have permanently forfeited international rights for that invention.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-what-is-a-patent-family)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How many patents are typically in a patent family?
@@ -80,3 +94,6 @@ A US-focused patent family of five related applications typically costs $50K-$90
 ### Can I still build a patent family if my first patent is already granted?
 
 Only if you filed a continuation application before the parent patent granted. Once your last pending application in the family issues with no continuation on file, you cannot add new members to that lineage. This is why the Patent Family Blueprint always recommends keeping at least one continuation pending — a tactic called "keeping the chain alive" — so you retain the ability to extract new claim sets as your technology and competitive landscape evolve.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

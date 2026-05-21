@@ -150,5 +150,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Is a Patent Worth It in 2026? Only If You Pass These 4 Tests First](https://beyondelevation.com/blog/posts/is-a-patent-worth-it-2026/) — /blog/md/is-a-patent-worth-it-2026.md
 - [How to License Your AI Model: The 5 Deal Structures That Turn Inference Into Income](https://beyondelevation.com/blog/posts/how-to-license-ai-model/) — /blog/md/how-to-license-ai-model.md
 - [Most Patent Licensing Deals Leave 80% of the Money on the Table. Here Is the 7-Term Framework That Stops It.](https://beyondelevation.com/blog/posts/patent-licensing-deal-structure/) — /blog/md/patent-licensing-deal-structure.md
+- [What Is a Patent Family? The Hidden Structure That Doubles Your IP Value](https://beyondelevation.com/blog/posts/what-is-a-patent-family/) — /blog/md/what-is-a-patent-family.md
 
 > Full blog content available at /llms-full.txt

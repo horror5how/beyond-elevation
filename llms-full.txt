@@ -1998,3 +1998,17 @@ A successful patent licensing deal structure balances three forces: the licensor
 The critical mistake most founders make is fixating on the headline royalty rate while ignoring the six other terms that determine whether that rate converts to cash. A 5% royal
 
 ---
+
+## What Is a Patent Family? The Hidden Structure That Doubles Your IP Value
+
+URL: https://beyondelevation.com/blog/posts/what-is-a-patent-family/
+
+A patent family is a group of related patent applications that share a common original filing — and it is the single most undervalued structure in IP strategy. Founders who file one patent and stop are leaving half their defensibility and most of their licensing revenue on the table. Hayat Amin argues that a single patent without a family is "a lock with one key — any locksmith can pick it." The companies commanding premium valuations and closing seven-figure licensing deals are not the ones with the most patents. They are the ones with the best-structured patent families.
+
+## What Is a Patent Family? The Definition That Actually Matters
+
+A patent family is a collection of patent applications linked by a shared priority date — the original filing that establishes your place in line. Every subsequent application in the family (continuations, divisionals, international filings) traces its lineage back to that first filing, inheriting its priority date. This link matters because priority date determines who invented first, and who invented first determines who owns the enforceable rights.
+
+There are two types. A **simple patent family** groups all filings that share exactly the same single priority application — one original filing spawning multiple children in different jurisdictions or with different claim sets. A **complex (extended) patent family** includes applications linked through any chain of priority claims, even if they do not all share the exact same ancestor. Comple
+
+---

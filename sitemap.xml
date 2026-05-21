@@ -74,6 +74,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/what-is-a-patent-family/</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/ai-due-diligence-ma-framework/</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -670,12 +676,6 @@
   <url>
     <loc>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</loc>
     <lastmod>2026-03-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/what-is-a-patent-family/</loc>
-    <lastmod>2026-05-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
