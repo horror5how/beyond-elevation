@@ -1980,3 +1980,21 @@ Licensing an AI model means granting a third party contractual rights to use, de
 This is fundamentally different from selling API access, where the buyer gets inference outputs but never touches the mode
 
 ---
+
+## Most Patent Licensing Deals Leave 80% of the Money on the Table. Here Is the 7-Term Framework That Stops It.
+
+URL: https://beyondelevation.com/blog/posts/patent-licensing-deal-structure/
+
+83% of patent licensing deals underperform — not because the patents are weak, but because the deal structure is wrong. The royalty rate gets all the attention. The seven terms underneath it determine whether that rate ever converts to real revenue.
+
+Hayat Amin argues that patent licensing deal structure is the highest-leverage moment in any IP monetisation strategy — and the one founders prepare for least. After restructuring licensing deals across portfolios generating hundreds of millions in royalty revenue, Amin's verdict is direct: most founders sign agreements that cap their upside before the ink dries. The gap between a well-structured and poorly-structured deal on the same patent portfolio is routinely 5x to 10x in lifetime revenue.
+
+This is the 7-term patent licensing deal structure framework [Beyond Elevation](https://beyondelevation.com) uses with every client. It determines whether a licensing deal generates $100K or $10M from the same patent portfolio.
+
+## What Makes a Patent Licensing Deal Structure Successful?
+
+A successful patent licensing deal structure balances three forces: the licensor's upfront certainty, the licensee's cost predictability, and enough performance triggers to align both parties over time. Get one wrong and the deal either stalls, underpays, or generates a lawsuit.
+
+The critical mistake most founders make is fixating on the headline royalty rate while ignoring the six other terms that determine whether that rate converts to cash. A 5% royal
+
+---

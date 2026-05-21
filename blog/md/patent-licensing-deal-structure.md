@@ -2,8 +2,8 @@
 title: "Most Patent Licensing Deals Leave 80% of the Money on the Table. Here Is the 7-Term Framework That Stops It."
 slug: patent-licensing-deal-structure
 date: 2026-05-21
-url: https://beyondelevation.com/blog/post.html?slug=patent-licensing-deal-structure
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-licensing-deal-structure/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -79,6 +79,20 @@ Companies with patents are 10.2x more likely to secure early-stage funding. But 
 
 Beyond Elevation applies this 7-term framework across every licensing engagement — from pre-seed founders licensing their first patent to portfolio holders managing dozens of active agreements. [Book a deal structure review](https://beyondelevation.com) before your next licensing negotiation.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-licensing-deal-structure)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the standard structure for a patent licensing deal?
@@ -96,3 +110,6 @@ Exclusive licences command higher royalty rates (typically 2–3x non-exclusive 
 ### What happens if a licensee stops paying royalties?
 
 With proper termination triggers, a MAR breach for two consecutive quarters activates automatic termination and exclusivity reverts immediately. Without these triggers, you face costly litigation to exit a non-performing deal. Termination clauses are the most important structural element in any patent licensing agreement.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
