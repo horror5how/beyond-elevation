@@ -1,13 +1,22 @@
-API-wrapper AI companies are valued at 3x less than model-owners.
+Your patent attorney cannot tell you what your IP is worth.
+Your CFO can.
 
-Your GPT integration works. Customers pay. Metrics look good.
+Most founders give patent valuation to legal.
 
-Then a VC asks: "What's proprietary?"
+Legal thinks in claim breadth.
 
-If the answer is your prompt or your UX, the IP scorecard is zero.
+VCs fund revenue multiples. Not claim breadth.
 
-70% of AI enterprise value sits in intangibles. If the model isn't yours, most of that value belongs to OpenAI.
+That gap costs 30-40% of your exit headline.
 
-3 IP moves that create owned assets from a wrapper product.
+3 numbers:
 
-#AI #IPStrategy #Founders
+2.1x — exit multiple premium for IP-intensive companies
+
+3 weeks — income-approach patent valuation timeline
+
+34% — average deal value uplift when finance leads IP valuation
+
+Move patent valuation from legal to finance before your next round.
+
+#IPStrategy #PatentValuation #ExitMultiple
