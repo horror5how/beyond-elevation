@@ -81,3 +81,4 @@
 2026-05-21 07:54 | urn:li:share:7463135236856598528 | API-wrapper AI companies are valued at 3x less than model-owners.  Your GPT inte
 2026-05-21 10:43 | urn:li:share:7463177642196963328 | post #6 | ai-industrialised-patent-litigation-founder-defensibility-2026 | AI just industrialised patent litigation.  a16z led a $10.5M seed into Stilta th
 2026-05-21 12:50 | urn:li:share:7463209623580360705 | Your patent attorney cannot tell you what your IP is worth. Your CFO can.  Most 
+2026-05-21 17:51 | urn:li:share:7463285242343190528 | 73% of pre-IPO companies have an IP defect their S-1 reviewer will flag.  Most f
