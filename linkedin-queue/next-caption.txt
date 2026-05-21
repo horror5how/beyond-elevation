@@ -1,23 +1,13 @@
-Acquirers pay 40% more for targets with a clean IP carve-out structure.
+API-wrapper AI companies are valued at 3x less than model-owners.
 
-Most founders never do this before their LOI.
+Your GPT integration works. Customers pay. Metrics look good.
 
-Their IP sits inside the main trading entity with no standalone valuation.
+Then a VC asks: "What's proprietary?"
 
-The acquirer buries it in goodwill.
+If the answer is your prompt or your UX, the IP scorecard is zero.
 
-You lose the premium before negotiations even start.
+70% of AI enterprise value sits in intangibles. If the model isn't yours, most of that value belongs to OpenAI.
 
-A carve-out takes 30–90 days. An LOI can land in 2 weeks.
+3 IP moves that create owned assets from a wrapper product.
 
-Most founders are already too late.
-
-Three things a carve-out does before you go to market:
-
-Creates a licensable entity with documented royalty income.
-
-Unlocks patent box tax treatment in the UK and EU.
-
-Gives buyers a clean IP due diligence trail — the single biggest valuation lever.
-
-#IPStrategy #MandA #Valuation
+#AI #IPStrategy #Founders
