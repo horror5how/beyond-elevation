@@ -18,6 +18,7 @@
 
 import { readFileSync, existsSync } from "node:fs";
 import { basename, extname } from "node:path";
+import { pickBlogForPost } from "./be-blog-link-picker.mjs";
 
 const LINKEDIN_VERSION = "202604";
 
@@ -133,6 +134,25 @@ async function main() {
   let text = args.text;
   if (!text) text = await readStdin();
   if (!args.image || !text) { printHelp(); process.exit(1); }
+
+  // ── Append Beyond Elevation blog link ──────────────────────────────────────
+  // Every LinkedIn post published through this script (push-triggered native
+  // image posts) gets a BE blog link — topic-matched when possible, blog-index
+  // fallback otherwise. Skipped if caption already contains a BE blog URL.
+  try {
+    const blogPick = pickBlogForPost({}, text);
+    if (blogPick && blogPick.skip) {
+      console.log(`      blog link: skipped — caption already links to beyondelevation.com`);
+    } else if (blogPick && blogPick.fallback) {
+      text = `${text}${blogPick.ctaLine}`;
+      console.log(`      blog link appended (fallback): ${blogPick.url}`);
+    } else if (blogPick) {
+      text = `${text}${blogPick.ctaLine}`;
+      console.log(`      blog link appended: ${blogPick.slug} (score=${blogPick.score})`);
+    }
+  } catch (e) {
+    console.warn(`      blog link picker failed (continuing without): ${e.message}`);
+  }
 
   console.log(`[1/3] loading image ${args.image}`);
   const img = await loadImage(args.image);

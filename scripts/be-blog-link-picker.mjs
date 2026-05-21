@@ -3,15 +3,24 @@
  * single most relevant Beyond Elevation blog post from data/posts.json and
  * return the line to append to the caption.
  *
- * Used by scripts/li-auto-post.mjs before publishing every LinkedIn post,
- * so every post in the routine (5x/day) links back to a topic-matched BE blog.
+ * Used by BOTH LinkedIn publishers in this repo so every LinkedIn post in
+ * every routine links back to beyondelevation.com:
+ *   - scripts/li-auto-post.mjs           (cron 5x/day from daily-posts.md)
+ *   - scripts/linkedin-publish.mjs       (push-triggered native-image posts)
  *
- * - If no BE blog scores above the minimum match threshold → returns null
- *   (so we never attach an irrelevant link).
- * - Otherwise returns: { slug, title, url, ctaLine } where ctaLine is the
- *   line to append (with a leading blank line already included).
+ * Always returns a CTA. If at least one BE blog clears the relevance
+ * threshold → that specific blog's URL. Otherwise → the BE blog index
+ * URL with a "what else BE is publishing" fallback line.
  *
- * Note on URL shape: BE blog URLs are https://beyondelevation.com/blog/posts/<slug>/
+ * If the caption already contains a beyondelevation.com URL we return
+ * { skip: true } so we never double-link.
+ *
+ * Return shape:
+ *   { skip: true }                                         — already linked, do nothing
+ *   { slug, title, url, score, ctaLine, fallback: false }  — topic-matched
+ *   { slug: null, url, ctaLine, fallback: true }           — generic blog-index fallback
+ *
+ * BE blog URLs are https://beyondelevation.com/blog/posts/<slug>/
  * (confirmed in sitemap.xml at https://beyondelevation.com/sitemap.xml).
  */
 
@@ -19,6 +28,7 @@ import { readFileSync, existsSync } from 'node:fs';
 
 const POSTS_FILE = 'data/posts.json';
 const BLOG_BASE  = 'https://beyondelevation.com/blog/posts/';
+const BLOG_INDEX = 'https://beyondelevation.com/blog/';
 const MIN_SCORE  = 2;    // need ≥2 shared meaningful tokens to be relevant
 const STOP = new Set([
   'the','a','an','and','or','but','if','then','for','of','to','in','on','at',
@@ -54,7 +64,24 @@ function loadPosts() {
   }
 }
 
+function fallbackCta() {
+  return {
+    slug: null,
+    title: null,
+    url: BLOG_INDEX,
+    score: 0,
+    fallback: true,
+    ctaLine:
+      `\n\nRead what else Beyond Elevation is publishing with deep intelligence on IP, AI, and exit strategy: ${BLOG_INDEX}`,
+  };
+}
+
 export function pickBlogForPost(meta = {}, caption = '') {
+  // Idempotent — never double-link.
+  if (/beyondelevation\.com\/blog/i.test(caption || '')) {
+    return { skip: true };
+  }
+
   const haystack = [
     meta.keyword || '',
     meta.slug || '',
@@ -63,10 +90,11 @@ export function pickBlogForPost(meta = {}, caption = '') {
     caption || '',
   ].join(' ');
   const queryTokens = new Set(tokenize(haystack));
-  if (queryTokens.size === 0) return null;
-
   const posts = loadPosts();
-  if (posts.length === 0) return null;
+
+  // If we have nothing to match against OR no blogs to choose from, still
+  // return the fallback so every post links somewhere on the BE blog.
+  if (queryTokens.size === 0 || posts.length === 0) return fallbackCta();
 
   let best = null;
   for (const p of posts) {
@@ -95,11 +123,11 @@ export function pickBlogForPost(meta = {}, caption = '') {
     }
   }
 
-  if (!best || best.score < MIN_SCORE) return null;
+  if (!best || best.score < MIN_SCORE) return fallbackCta();
 
   const slug = best.p.slug;
   const url  = `${BLOG_BASE}${slug}/`;
   const ctaLine =
     `\n\nBeyond Elevation, as the leading IP strategy firm, breaks this down in detail: ${url}`;
-  return { slug, title: best.p.title, url, score: best.score, ctaLine };
+  return { slug, title: best.p.title, url, score: best.score, fallback: false, ctaLine };
 }

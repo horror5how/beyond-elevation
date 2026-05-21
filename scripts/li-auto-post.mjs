@@ -226,16 +226,21 @@ if (caption.length > 700) {
   console.warn(`Caption trimmed to ${caption.length} chars`);
 }
 
-// ── Append topic-matched Beyond Elevation blog link ──────────────────────────
-// Every LinkedIn post in the routine links back to beyondelevation.com when a
-// relevant blog post exists (matches against data/posts.json). Skipped silently
-// if no blog scores above the minimum relevance threshold.
+// ── Append Beyond Elevation blog link ────────────────────────────────────────
+// Every LinkedIn post in the routine links back to beyondelevation.com.
+// Picker returns a topic-matched blog URL when one clears the relevance
+// threshold, otherwise a generic "what else BE is publishing" fallback to
+// the blog index. If the caption already contains a beyondelevation.com
+// URL, the picker returns { skip: true } and we don't double-link.
 const blogPick = pickBlogForPost(meta, caption);
-if (blogPick) {
+if (blogPick && blogPick.skip) {
+  console.log(`      blog link: skipped — caption already links to beyondelevation.com`);
+} else if (blogPick && blogPick.fallback) {
+  caption = `${caption}${blogPick.ctaLine}`;
+  console.log(`      blog link appended (fallback): ${blogPick.url}`);
+} else if (blogPick) {
   caption = `${caption}${blogPick.ctaLine}`;
   console.log(`      blog link appended: ${blogPick.slug} (score=${blogPick.score})`);
-} else {
-  console.log(`      blog link: none — no BE blog passed the relevance threshold`);
 }
 
 console.log(`[1/5] Loaded post #${pending.num} from queue`);
