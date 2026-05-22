@@ -184,3 +184,4 @@ api-wrapper-ai-ip-ceiling-2026
 ai-industrialised-patent-litigation-founder-defensibility-2026
 fractional-cfo-patent-valuation
 pre-ipo-ip-audit-consultant
+data-asset-valuation-expert

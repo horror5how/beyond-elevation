@@ -1,19 +1,15 @@
-73% of pre-IPO companies have an IP defect their S-1 reviewer will flag.
+Your data is worth $0 on your balance sheet.
 
-Most find out mid-roadshow.
+Strategic buyers disagree — by up to $180M.
 
-The 4 things every IPO due diligence team checks first:
+Most founders hire a patent attorney to value their data. That gets you an opinion. Not a number a CFO will underwrite.
 
-Patent chain-of-title — every assignment signed and recorded?
+Data asset valuation uses three distinct methods: income-based DCF, comparable licensing transactions, replacement cost.
 
-Open-source infections in your codebase.
+They should not agree. The gap between them is your negotiating range.
 
-IP agreements dated post-hire, not pre-hire.
+Companies exiting at 4x+ revenue multiples have a third-party data appraisal in the data room before the LOI lands.
 
-Licensing terms that survive the deal closing.
+Most do not.
 
-Build your IP data room 12 months before filing.
-
-Not the week you get the term sheet.
-
-#IPStrategy #PreIPO #PatentAudit
+#DataStrategy #IPValuation #ExitMultiple
