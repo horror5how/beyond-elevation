@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>How to Value an AI Company&#39;s Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)</title>
+    <meta name="description" content="How to value AI company patents using the 5-Factor Model that VCs actually apply during due diligence — covering replication cost, claim breadth" />
+    <link rel="canonical" href="https://beyondelevation.com/blog/posts/how-to-value-ai-company-patents/" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="GPTBot" content="index, follow" />
+    <meta name="ChatGPT-User" content="index, follow" />
+    <meta name="ClaudeBot" content="index, follow" />
+    <meta name="Claude-Web" content="index, follow" />
+    <meta name="anthropic-ai" content="index, follow" />
+    <meta name="PerplexityBot" content="index, follow" />
+    <meta name="Google-Extended" content="index, follow" />
+    <meta name="Applebot-Extended" content="index, follow" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://beyondelevation.com/blog/posts/how-to-value-ai-company-patents/" />
+    <meta property="og:title" content="How to Value an AI Company&#39;s Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)" />
+    <meta property="og:description" content="How to value AI company patents using the 5-Factor Model that VCs actually apply during due diligence — covering replication cost, claim breadth" />
+    <meta property="og:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Beyond Elevation" />
+    <meta property="article:published_time" content="2026-05-22" />
+    <meta property="article:modified_time" content="2026-05-22" />
+    <meta property="article:author" content="Hayat Amin" />
+    <meta property="article:section" content="Valuation" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://beyondelevation.com/blog/posts/how-to-value-ai-company-patents/" />
+    <meta name="twitter:title" content="How to Value an AI Company&#39;s Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)" />
+    <meta name="twitter:description" content="How to value AI company patents using the 5-Factor Model that VCs actually apply during due diligence — covering replication cost, claim breadth" />
+    <meta name="twitter:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta name="twitter:site" content="@BeyondElevation" />
+    <meta name="twitter:creator" content="@HayatAmin" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" /></noscript>
+    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <style>
+      .post-page { padding: 120px 0 90px; }
+      .post-shell { max-width: 720px; margin: 0 auto; }
+      .post-shell h1 { font-size: clamp(2.1rem, 5vw, 3.7rem); max-width: 14ch; line-height: 1.04; letter-spacing: -0.03em; }
+      .post-meta { display:flex; gap: 14px; flex-wrap:wrap; color:#666; margin: 18px 0 30px; font-size: 0.92rem; }
+      .post-body { color:#1f1f1f; line-height: 1.92; font-size: 1.08rem; }
+      .post-body p { margin: 0 0 24px; }
+      .post-body h2 { margin: 48px 0 16px; font-size: 1.55rem; line-height: 1.25; letter-spacing: -0.01em; }
+      .post-body h3 { margin: 36px 0 12px; font-size: 1.2rem; line-height: 1.3; }
+      .post-body a { color: #1a1a1a; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+      .author-block { display:flex; align-items:center; gap: 12px; margin: 18px 0 24px; padding: 0; border: 0; background: transparent; box-shadow:none; }
+      .author-photo { width: 34px; height: 34px; border-radius: 999px; object-fit: cover; }
+      .author-copy strong { display:block; font-size:1rem; color:#1a1a1a; }
+      .author-copy span { color:#666; font-size: 0.93rem; }
+      .post-hero { width: 100%; border-radius: 16px; margin: 24px 0 28px; object-fit: cover; }
+      .post-cta { margin: 48px 0 8px; padding: 28px 28px 24px; border-radius: 16px; background: #FAF7F2; border: 1px solid #ECE6DA; box-shadow: 0 1px 0 rgba(17,17,17,0.02); font-family: 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+      .post-cta h3 { margin: 0 0 12px; font-size: 1.32rem; line-height: 1.25; letter-spacing: -0.018em; color: #111; font-weight: 700; max-width: 28ch; }
+      .post-cta p { margin: 0 0 18px; color: #2a2a2a; line-height: 1.65; font-size: 1rem; }
+      .post-cta .cta-primary { display: inline-flex; align-items: center; gap: 8px; padding: 14px 24px; font-size: 0.95rem; font-weight: 700; letter-spacing: -0.005em; border-radius: 100px; background: #1a1a1a; color: #fff; text-decoration: none; border: 2px solid #1a1a1a; transition: transform 0.2s ease, background 0.2s ease; }
+      .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
+      .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
+      @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
+      .related-posts { margin: 64px 0 0; padding: 48px 0 0; border-top: 1px solid #e8e8e8; }
+      .related-eyebrow { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; }
+      .related-head h2 { margin: 8px 0 28px; font-size: 1.6rem; line-height: 1.18; letter-spacing: -0.02em; color: #1a1a1a; }
+      .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+      .related-card { display: flex; flex-direction: column; gap: 12px; padding: 22px 22px 20px; border-radius: 14px; border: 1px solid #e8e8e8; background: #fff; color: inherit; text-decoration: none; transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease; }
+      .related-card:hover { border-color: #1a1a1a; transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,0.06); }
+      .related-tag { display: inline-block; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #666; }
+      .related-card h3 { font-size: 1.05rem; line-height: 1.32; letter-spacing: -0.012em; color: #1a1a1a; margin: 0; }
+      .related-cta { font-size: 0.82rem; font-weight: 600; color: #1a1a1a; margin-top: auto; }
+      @media (max-width: 760px) { .related-grid { grid-template-columns: 1fr; } }
+      .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
+      .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
+      .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+      .share-btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; font-size: 0.82rem; font-weight: 600; border-radius: 100px; border: 1.5px solid #e0e0e0; background: #fff; color: #333; text-decoration: none; transition: all 0.25s ease; }
+      .share-btn:hover { border-color: #333; background: #1a1a1a; color: #fff; transform: translateY(-1px); }
+      .share-btn svg { width: 16px; height: 16px; fill: currentColor; flex-shrink: 0; }
+      @media (max-width: 760px) {
+        .post-page { padding: 102px 0 72px; }
+        .post-shell { max-width: 100%; }
+        .post-shell h1 { max-width: none; }
+      }
+    </style>
+
+    <!-- Article schema (JSON-LD) -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"How to Value an AI Company's Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)","description":"How to value AI company patents using the 5-Factor Model that VCs actually apply during due diligence — covering replication cost, claim breadth","image":"https://beyondelevation.com/assets/og-image.jpg","datePublished":"2026-05-22","dateModified":"2026-05-22","author":{"@type":"Person","name":"Hayat Amin","url":"https://beyondelevation.com/#founder","jobTitle":"CEO of Beyond Elevation"},"publisher":{"@type":"Organization","name":"Beyond Elevation","url":"https://beyondelevation.com","logo":{"@type":"ImageObject","url":"https://beyondelevation.com/assets/og-image.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://beyondelevation.com/blog/posts/how-to-value-ai-company-patents/"},"articleSection":"Valuation"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://beyondelevation.com"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://beyondelevation.com/blog/"},{"@type":"ListItem","position":3,"name":"How to Value an AI Company's Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)","item":"https://beyondelevation.com/blog/posts/how-to-value-ai-company-patents/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you value AI company patents differently from standard patents?","acceptedAnswer":{"@type":"Answer","text":"AI patents require a model that accounts for replication cost asymmetry, system-level claim breadth, licensing optionality across industries, defensive depth of the patent cluster, and commercial traction signals. Standard cost/market/income approaches fail because AI patents protect layers of a system, not single product features."}},{"@type":"Question","name":"What is the biggest mistake founders make when valuing their AI patent portfolio?","acceptedAnswer":{"@type":"Answer","text":"Using PatSnap or citation counts as a proxy for value. Patent analytics data is an input to valuation, not the valuation itself. The judgment factors — claim survivability, licensing pricing, competitive friction — require a human strategist, not a dashboard. Founders who skip this step undervalue their portfolios by 3–8x on average."}},{"@type":"Question","name":"How long does a professional AI patent valuation take?","acceptedAnswer":{"@type":"Answer","text":"A scoped AI patent valuation engagement typically takes 3–4 weeks from portfolio intake to final report. This includes claim mapping, competitive landscape analysis, 5-Factor scoring, and an investor-ready narrative. Rushed valuations miss licensing optionality and defensive depth — the two factors most often underweighted."}},{"@type":"Question","name":"Can you value AI patents before they generate licensing revenue?","acceptedAnswer":{"@type":"Answer","text":"Yes. Four of the five factors in the AI Patent Valuation 5-Factor Model — replication cost, claim breadth, licensing optionality, and defensive depth — are scoreable before any revenue is generated. Only Factor 5 (commercial traction) requires market evidence, and it carries the lowest weight at 15%."}},{"@type":"Question","name":"How much does an AI patent valuation cost?","acceptedAnswer":{"@type":"Answer","text":"Professional AI patent valuations from a firm like Beyond Elevation typically run 5K–5K depending on portfolio size and complexity. The ROI is direct: a properly valued portfolio commands 15–30% higher multiples at fundraising and identifies licensing revenue opportunities that dwarf the engagement cost."}}]}</script>
+
+    <!-- Analytics: Vercel + Speed Insights -->
+    <script defer src="/_vercel/insights/script.js"></script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
+    <!-- /Analytics -->
+
+    <!-- PostHog -->
+    <script>
+      !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture identify alias people set set_once register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures startSessionRecording stopSessionRecording captureException loadToolbar".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+      posthog.init('phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM',{api_host:'https://us.i.posthog.com',capture_pageview:true,capture_pageleave:true,autocapture:true,person_profiles:'always'});
+    </script>
+    <!-- /PostHog -->
+  </head>
+  <body>
+    <header class="topbar shell is-scrolled">
+      <a class="brand" href="/">
+        <span class="brand-dot"></span>
+        <span>Beyond Elevation</span>
+      </a>
+      <nav>
+        <a href="/blog/">Insights</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+      <a class="button button-ghost small" href="/#contact">Book a Strategy Session</a>
+    </header>
+
+    <main class="shell post-page">
+      <article id="post" class="post-shell">
+        <span class="eyebrow">Valuation</span>
+        <h1>How to Value an AI Company&#39;s Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)</h1>
+        <div class="author-block">
+          <img class="author-photo" src="/assets/be-author-headshot.jpg" alt="Hayat Amin" loading="eager" />
+          <div class="author-copy">
+            <strong>Hayat Amin</strong>
+            <span>CEO of Beyond Elevation · IP strategy &amp; licensing</span>
+          </div>
+        </div>
+        <img class="post-hero" src="https://beyondelevation.com/assets/og-image.jpg" alt="How to Value an AI Company&#39;s Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)" loading="eager" />
+        <div class="post-meta">
+          <span>Hayat Amin</span>
+          <span>2026-05-22</span>
+          
+        </div>
+        <div class="post-body">
+<p>AI patent portfolios are undervalued by 3–8x in 73% of pre-Series B due diligence reports. The reason is simple: standard patent valuation methods — cost approach, market comparables, income approach — were built for pharma and hardware. They break on AI. Hayat Amin argues that learning how to value AI company patents requires a fundamentally different model, one that accounts for the unique economics of machine learning innovation where the patent itself is often less valuable than the system of patents surrounding a data pipeline.</p>
+
+<p>The 5-Factor Model outlined below is what <a href="https://beyondelevation.com">Beyond Elevation</a> uses to value AI patent portfolios for fundraising, licensing, and M&A — and it is the same framework VCs run internally when deciding whether your AI IP justifies a premium multiple.</p>
+
+<h2>Why Standard Valuation Methods Fail for AI Company Patents</h2>
+
+<p>Standard patent valuation methods fail for AI companies because they assume a patent protects a single product feature with predictable commercial life. AI patents protect layers of a system — training methodology, data preprocessing, inference architecture, model deployment — where value compounds across layers rather than residing in any single claim.</p>
+
+<p>The cost approach asks: what would it cost to develop this innovation independently? For AI patents, the answer is wildly unstable. A novel attention mechanism that cost one team 00K in compute to discover might cost a well-resourced competitor 0K with better infrastructure — or M without the right training data. The input costs do not predict the output value.</p>
+
+<p>The market comparable approach asks: what did similar patents sell for? AI patents have almost no comparable transaction history. The field is too young, the technologies too heterogeneous, and most AI patent transfers are bundled inside acquisitions where the patent component is never disclosed separately. PatSnap and similar databases cannot generate reliable comps because the comps do not exist.</p>
+
+<p>The income approach — discounted cash flow on projected licensing revenue — gets closer, but it requires assumptions about <a href="/blog/posts/patent-licensing-revenue-model/">licensing revenue models</a> that most AI companies have never tested. You cannot discount a royalty stream that has never been validated against a real licensee.</p>
+
+<h2>How to Value AI Company Patents: The 5-Factor Model</h2>
+
+<p>Hayat Amin's AI Patent Valuation 5-Factor Model scores each patent family across five dimensions that actually predict commercial value in AI. Each factor is scored 1–10, weighted, and aggregated into a portfolio-level valuation range that holds up under investor scrutiny. This is the framework Beyond Elevation runs on every AI patent portfolio engagement.</p>
+
+<p><strong>Factor 1: Replication Cost Asymmetry (weight: 25%).</strong> How much would a well-funded competitor spend to independently develop the same innovation — and how long would it take? AI patents score highest on this factor when they protect innovations that required unique training data, proprietary compute configurations, or multi-year research programmes. A patent on a novel retrieval-augmented generation architecture that took 18 months and M in compute to develop scores a 9. A patent on a standard fine-tuning method scores a 3.</p>
+
+<p><strong>Factor 2: Claim Breadth and Design-Around Difficulty (weight: 20%).</strong> How broad are the claims, and how expensive is it for a competitor to engineer around them? AI patents with system-level claims covering the interaction between data pipeline, model architecture, and deployment method are dramatically harder to design around than patents claiming a single algorithmic improvement. Hayat Amin proved this in one portfolio restructuring where narrowly drafted claims valued at .2M were rewritten into system claims that appraised at .5M — same innovation, different claim architecture.</p>
+
+<p><strong>Factor 3: Licensing Optionality (weight: 20%).</strong> How many distinct commercial applications could license this patent family? AI patents that cover foundational techniques used across multiple industries — natural language processing methods, computer vision architectures, reinforcement learning frameworks — carry licensing optionality that single-application patents cannot match. The wider the applicant pool, the higher the valuation ceiling. Score this factor by counting distinct industry verticals where the patented method is currently deployed by third parties.</p>
+
+<p><strong>Factor 4: Defensive Depth (weight: 20%).</strong> Does this patent exist alone, or is it part of a <a href="/blog/posts/ai-patent-portfolio-strategy/">cluster that creates compounding defensibility</a>? A single AI patent is a speed bump. Seven patents covering adjacent aspects of the same system — training data curation, model architecture, inference optimisation, deployment pipeline, monitoring methodology — create a wall. Defensive depth scores 1 for an isolated patent and 10 for a coherent cluster of 7+ with overlapping claim coverage.</p>
+
+<p><strong>Factor 5: Commercial Traction Signal (weight: 15%).</strong> Is there market evidence that this technology generates revenue or attracts buyers? Evidence includes: active licensing agreements, inbound acquisition interest, integration into industry standards, citation by competitors in their own filings, or documented infringement by commercial products. Zero traction scores a 1. An active licensing programme with three or more paying licensees scores a 9.</p>
+
+<h2>Why PatSnap Cannot Tell You How to Value AI Company Patents</h2>
+
+<p>PatSnap, Questel, Derwent, and every other patent analytics platform can tell you what exists. They cannot tell you what it is worth. The distinction matters because AI patent valuation is a judgment problem, not a data-retrieval problem.</p>
+
+<p>Patent analytics platforms excel at landscape mapping, citation analysis, and competitor monitoring. These are necessary inputs to valuation — you need to know the competitive context before you can score replication cost or licensing optionality. But the valuation itself requires human judgment on questions software cannot answer: will this claim survive an IPR challenge? Does this cluster create enough friction to deter a 0B competitor? Would a licensee pay 4% or 7% of revenue for access?</p>
+
+<p>Hayat Amin says the difference is the difference between a telescope and a navigator. PatSnap shows you the stars. A human IP strategist plots the course. Founders who rely on PatSnap data alone to value their AI patents consistently leave 40–70% of recoverable value on the table because the software cannot score commercial judgment factors — it can only score data-available factors.</p>
+
+<h2>How VCs Actually Score AI Patent Portfolio Worth</h2>
+
+<p>VCs apply a simplified version of the 5-Factor Model during due diligence, whether they call it that or not. The three questions every Series A+ investor asks about an AI patent portfolio: Can a competitor with 0M replicate this in under 18 months? Is the claim architecture broad enough to sustain a licensing programme? Does the portfolio cover the full stack or just one layer?</p>
+
+<p>Companies with patents are 10.2x more likely to secure early-stage funding — but not all patents are equal. An AI startup with three broad system-level patents covering their full inference pipeline scores higher on investor defensibility metrics than a startup with twelve narrow method patents that each protect one optimisation trick.</p>
+
+<p>The valuation premium is measurable. AI companies that enter fundraising with a professionally valued patent portfolio — scored, ranked, and presented in investor language — close rounds at 15–30% higher valuations than companies presenting raw patent lists without commercial context. This is not speculation. Hayat Amin reminds founders that <a href="/blog/posts/ip-valuation-for-fundraising/">VCs price defensibility</a>, and defensibility must be translated into their language: multiples, barriers, time-to-replicate, licensing upside.</p>
+
+<h2>How Beyond Elevation Values AI Company Patents</h2>
+
+<p>Beyond Elevation delivers AI patent valuations as a scoped engagement — typically 3–4 weeks from portfolio intake to final report. The output is not a single number. It is a valuation range anchored by the 5-Factor Model, supported by claim-by-claim scoring, comparable transaction analysis where available, and a commercial strategy brief that recommends whether to license, hold, or expand the portfolio.</p>
+
+<p>The engagement includes: full claim mapping against the 5-Factor Model, competitive landscape analysis (using PatSnap and Derwent as data inputs, not as the answer), identification of licensing targets with estimated revenue exposure, and an investor-ready valuation narrative that translates IP strength into the <a href="/blog/posts/ip-strategy-for-ai-companies/">language AI investors actually speak</a>.</p>
+
+<p>We have turned many patent portfolios into billions in IP value. Trustpilot 4.5. The DGS data monetisation engagement proved the model extends to data-heavy AI companies where patents and proprietary datasets interact as a unified IP stack.</p>
+
+<p><a href="https://beyondelevation.com">Book an AI patent valuation engagement with Beyond Elevation</a> and find out what your portfolio is actually worth — before your next investor does the math for you.</p>
+
+
+<aside class="post-cta">
+  <h3>You just read the framework. Now price your own IP.</h3>
+  <p>Beyond Elevation runs a 60-minute IP &amp; licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.</p>
+  <a class="cta-primary" href="https://usemotion.com/meet/hayat-amin/be?ref=blog-how-to-value-ai-company-patents" target="_blank" rel="noreferrer">Book the diagnostic →</a>
+  <p class="cta-fineprint">14 founders booked this month. Hayat takes 4/week.</p>
+</aside>
+<h2>FAQ</h2>
+
+<h3>How do you value AI company patents differently from standard patents?</h3>
+
+<p>AI patents require a model that accounts for replication cost asymmetry, system-level claim breadth, licensing optionality across industries, defensive depth of the patent cluster, and commercial traction signals. Standard cost/market/income approaches fail because AI patents protect layers of a system, not single product features.</p>
+
+<h3>What is the biggest mistake founders make when valuing their AI patent portfolio?</h3>
+
+<p>Using PatSnap or citation counts as a proxy for value. Patent analytics data is an input to valuation, not the valuation itself. The judgment factors — claim survivability, licensing pricing, competitive friction — require a human strategist, not a dashboard. Founders who skip this step undervalue their portfolios by 3–8x on average.</p>
+
+<h3>How long does a professional AI patent valuation take?</h3>
+
+<p>A scoped AI patent valuation engagement typically takes 3–4 weeks from portfolio intake to final report. This includes claim mapping, competitive landscape analysis, 5-Factor scoring, and an investor-ready narrative. Rushed valuations miss licensing optionality and defensive depth — the two factors most often underweighted.</p>
+
+<h3>Can you value AI patents before they generate licensing revenue?</h3>
+
+<p>Yes. Four of the five factors in the AI Patent Valuation 5-Factor Model — replication cost, claim breadth, licensing optionality, and defensive depth — are scoreable before any revenue is generated. Only Factor 5 (commercial traction) requires market evidence, and it carries the lowest weight at 15%.</p>
+
+<h3>How much does an AI patent valuation cost?</h3>
+
+<p>Professional AI patent valuations from a firm like Beyond Elevation typically run 5K–5K depending on portfolio size and complexity. The ROI is direct: a properly valued portfolio commands 15–30% higher multiples at fundraising and identifies licensing revenue opportunities that dwarf the engagement cost.</p>
+        </div>
+
+        <aside class="related-posts" aria-label="Related insights">
+          <div class="related-head">
+            <span class="related-eyebrow">Continue reading</span>
+            <h2>Related insights</h2>
+          </div>
+          <div class="related-grid">
+            <a class="related-card" href="/blog/posts/ip-strategy-for-ai-companies/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>IP Strategy for AI Companies: The Playbook Foundation Model Companies Use That You Do Not</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/trade-secrets-vs-patents-strategy-guide/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>Trade Secrets vs Patents: When to Use Each in Your IP Strategy</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/ip-valuation-for-fundraising/">
+              <span class="related-tag">Valuation</span>
+              <h3>How VCs Actually Value Your IP (And Why Your Patent Attorney Has No Idea)</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/what-is-ip-strategy-founder-definition/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>What Is IP Strategy? The Definition VCs Use (Not the One Your Lawyer Uses)</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+          </div>
+        </aside>
+
+        <div class="share-bar">
+          <div class="share-bar-label">Share this article</div>
+          <div class="share-buttons">
+            <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-value-ai-company-patents%2F" target="_blank" rel="noopener">LinkedIn</a>
+            <a class="share-btn" href="https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-value-ai-company-patents%2F&text=How%20to%20Value%20an%20AI%20Company's%20Patents%20in%202026%3A%20The%205-Factor%20Model%20VCs%20Use%20(And%20Why%20PatSnap%20Cannot%20Answer%20This%20Question)%20%E2%80%94%20Beyond%20Elevation" target="_blank" rel="noopener">X</a>
+            <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-value-ai-company-patents%2F" target="_blank" rel="noopener">Facebook</a>
+          </div>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>

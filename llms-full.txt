@@ -2030,3 +2030,19 @@ A fractional IP strategist for startups is a senior IP professional — typicall
 The model works because startups do not need 40 hours per week of IP strategy. They need 10–15 hours per month of the right strategy, applied at the right inflection points: before a term sheet, before a product launch, before a licensing negotiation, before an interna
 
 ---
+
+## How to Value an AI Company's Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)
+
+URL: https://beyondelevation.com/blog/posts/how-to-value-ai-company-patents/
+
+AI patent portfolios are undervalued by 3–8x in 73% of pre-Series B due diligence reports. The reason is simple: standard patent valuation methods — cost approach, market comparables, income approach — were built for pharma and hardware. They break on AI. Hayat Amin argues that learning how to value AI company patents requires a fundamentally different model, one that accounts for the unique economics of machine learning innovation where the patent itself is often less valuable than the system of patents surrounding a data pipeline.
+
+The 5-Factor Model outlined below is what [Beyond Elevation](https://beyondelevation.com) uses to value AI patent portfolios for fundraising, licensing, and M&A — and it is the same framework VCs run internally when deciding whether your AI IP justifies a premium multiple.
+
+## Why Standard Valuation Methods Fail for AI Company Patents
+
+Standard patent valuation methods fail for AI companies because they assume a patent protects a single product feature with predictable commercial life. AI patents protect layers of a system — training methodology, data preprocessing, inference architecture, model deployment — where value compounds across layers rather than residing in any single claim.
+
+The cost approach asks: what would it cost to develop this innovation independently? For AI patents, the answer is wildly unstable. A novel attention mechanism that cost one team 00K in compute to discover might cost a well-resourced competitor 0K with better infra
+
+---

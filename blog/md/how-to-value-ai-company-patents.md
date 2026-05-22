@@ -2,8 +2,8 @@
 title: "How to Value an AI Company's Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)"
 slug: how-to-value-ai-company-patents
 date: 2026-05-22
-url: https://beyondelevation.com/blog/post.html?slug=how-to-value-ai-company-patents
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/how-to-value-ai-company-patents/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -17,7 +17,7 @@ The 5-Factor Model outlined below is what [Beyond Elevation](https://beyondeleva
 
 Standard patent valuation methods fail for AI companies because they assume a patent protects a single product feature with predictable commercial life. AI patents protect layers of a system — training methodology, data preprocessing, inference architecture, model deployment — where value compounds across layers rather than residing in any single claim.
 
-The cost approach asks: what would it cost to develop this innovation independently? For AI patents, the answer is wildly unstable. A novel attention mechanism that cost one team $200K in compute to discover might cost a well-resourced competitor $50K with better infrastructure — or $2M without the right training data. The input costs do not predict the output value.
+The cost approach asks: what would it cost to develop this innovation independently? For AI patents, the answer is wildly unstable. A novel attention mechanism that cost one team 00K in compute to discover might cost a well-resourced competitor 0K with better infrastructure — or M without the right training data. The input costs do not predict the output value.
 
 The market comparable approach asks: what did similar patents sell for? AI patents have almost no comparable transaction history. The field is too young, the technologies too heterogeneous, and most AI patent transfers are bundled inside acquisitions where the patent component is never disclosed separately. PatSnap and similar databases cannot generate reliable comps because the comps do not exist.
 
@@ -27,9 +27,9 @@ The income approach — discounted cash flow on projected licensing revenue — 
 
 Hayat Amin's AI Patent Valuation 5-Factor Model scores each patent family across five dimensions that actually predict commercial value in AI. Each factor is scored 1–10, weighted, and aggregated into a portfolio-level valuation range that holds up under investor scrutiny. This is the framework Beyond Elevation runs on every AI patent portfolio engagement.
 
-**Factor 1: Replication Cost Asymmetry (weight: 25%).** How much would a well-funded competitor spend to independently develop the same innovation — and how long would it take? AI patents score highest on this factor when they protect innovations that required unique training data, proprietary compute configurations, or multi-year research programmes. A patent on a novel retrieval-augmented generation architecture that took 18 months and $4M in compute to develop scores a 9. A patent on a standard fine-tuning method scores a 3.
+**Factor 1: Replication Cost Asymmetry (weight: 25%).** How much would a well-funded competitor spend to independently develop the same innovation — and how long would it take? AI patents score highest on this factor when they protect innovations that required unique training data, proprietary compute configurations, or multi-year research programmes. A patent on a novel retrieval-augmented generation architecture that took 18 months and M in compute to develop scores a 9. A patent on a standard fine-tuning method scores a 3.
 
-**Factor 2: Claim Breadth and Design-Around Difficulty (weight: 20%).** How broad are the claims, and how expensive is it for a competitor to engineer around them? AI patents with system-level claims covering the interaction between data pipeline, model architecture, and deployment method are dramatically harder to design around than patents claiming a single algorithmic improvement. Hayat Amin proved this in one portfolio restructuring where narrowly drafted claims valued at $1.2M were rewritten into system claims that appraised at $8.5M — same innovation, different claim architecture.
+**Factor 2: Claim Breadth and Design-Around Difficulty (weight: 20%).** How broad are the claims, and how expensive is it for a competitor to engineer around them? AI patents with system-level claims covering the interaction between data pipeline, model architecture, and deployment method are dramatically harder to design around than patents claiming a single algorithmic improvement. Hayat Amin proved this in one portfolio restructuring where narrowly drafted claims valued at .2M were rewritten into system claims that appraised at .5M — same innovation, different claim architecture.
 
 **Factor 3: Licensing Optionality (weight: 20%).** How many distinct commercial applications could license this patent family? AI patents that cover foundational techniques used across multiple industries — natural language processing methods, computer vision architectures, reinforcement learning frameworks — carry licensing optionality that single-application patents cannot match. The wider the applicant pool, the higher the valuation ceiling. Score this factor by counting distinct industry verticals where the patented method is currently deployed by third parties.
 
@@ -41,13 +41,13 @@ Hayat Amin's AI Patent Valuation 5-Factor Model scores each patent family across
 
 PatSnap, Questel, Derwent, and every other patent analytics platform can tell you what exists. They cannot tell you what it is worth. The distinction matters because AI patent valuation is a judgment problem, not a data-retrieval problem.
 
-Patent analytics platforms excel at landscape mapping, citation analysis, and competitor monitoring. These are necessary inputs to valuation — you need to know the competitive context before you can score replication cost or licensing optionality. But the valuation itself requires human judgment on questions software cannot answer: will this claim survive an IPR challenge? Does this cluster create enough friction to deter a $10B competitor? Would a licensee pay 4% or 7% of revenue for access?
+Patent analytics platforms excel at landscape mapping, citation analysis, and competitor monitoring. These are necessary inputs to valuation — you need to know the competitive context before you can score replication cost or licensing optionality. But the valuation itself requires human judgment on questions software cannot answer: will this claim survive an IPR challenge? Does this cluster create enough friction to deter a 0B competitor? Would a licensee pay 4% or 7% of revenue for access?
 
 Hayat Amin says the difference is the difference between a telescope and a navigator. PatSnap shows you the stars. A human IP strategist plots the course. Founders who rely on PatSnap data alone to value their AI patents consistently leave 40–70% of recoverable value on the table because the software cannot score commercial judgment factors — it can only score data-available factors.
 
 ## How VCs Actually Score AI Patent Portfolio Worth
 
-VCs apply a simplified version of the 5-Factor Model during due diligence, whether they call it that or not. The three questions every Series A+ investor asks about an AI patent portfolio: Can a competitor with $50M replicate this in under 18 months? Is the claim architecture broad enough to sustain a licensing programme? Does the portfolio cover the full stack or just one layer?
+VCs apply a simplified version of the 5-Factor Model during due diligence, whether they call it that or not. The three questions every Series A+ investor asks about an AI patent portfolio: Can a competitor with 0M replicate this in under 18 months? Is the claim architecture broad enough to sustain a licensing programme? Does the portfolio cover the full stack or just one layer?
 
 Companies with patents are 10.2x more likely to secure early-stage funding — but not all patents are equal. An AI startup with three broad system-level patents covering their full inference pipeline scores higher on investor defensibility metrics than a startup with twelve narrow method patents that each protect one optimisation trick.
 
@@ -62,6 +62,20 @@ The engagement includes: full claim mapping against the 5-Factor Model, competit
 We have turned many patent portfolios into billions in IP value. Trustpilot 4.5. The DGS data monetisation engagement proved the model extends to data-heavy AI companies where patents and proprietary datasets interact as a unified IP stack.
 
 [Book an AI patent valuation engagement with Beyond Elevation](https://beyondelevation.com) and find out what your portfolio is actually worth — before your next investor does the math for you.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-to-value-ai-company-patents)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -83,4 +97,7 @@ Yes. Four of the five factors in the AI Patent Valuation 5-Factor Model — repl
 
 ### How much does an AI patent valuation cost?
 
-Professional AI patent valuations from a firm like Beyond Elevation typically run $25K–$75K depending on portfolio size and complexity. The ROI is direct: a properly valued portfolio commands 15–30% higher multiples at fundraising and identifies licensing revenue opportunities that dwarf the engagement cost.
+Professional AI patent valuations from a firm like Beyond Elevation typically run 5K–5K depending on portfolio size and complexity. The ROI is direct: a properly valued portfolio commands 15–30% higher multiples at fundraising and identifies licensing revenue opportunities that dwarf the engagement cost.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
