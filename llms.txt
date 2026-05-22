@@ -151,5 +151,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How to License Your AI Model: The 5 Deal Structures That Turn Inference Into Income](https://beyondelevation.com/blog/posts/how-to-license-ai-model/) — /blog/md/how-to-license-ai-model.md
 - [Most Patent Licensing Deals Leave 80% of the Money on the Table. Here Is the 7-Term Framework That Stops It.](https://beyondelevation.com/blog/posts/patent-licensing-deal-structure/) — /blog/md/patent-licensing-deal-structure.md
 - [What Is a Patent Family? The Hidden Structure That Doubles Your IP Value](https://beyondelevation.com/blog/posts/what-is-a-patent-family/) — /blog/md/what-is-a-patent-family.md
+- [The Fractional IP Strategist Playbook: How Startups Get FTSE 100-Grade IP Strategy Without Hiring a Full-Time CIPO](https://beyondelevation.com/blog/posts/fractional-ip-strategist-for-startups/) — /blog/md/fractional-ip-strategist-for-startups.md
 
 > Full blog content available at /llms-full.txt

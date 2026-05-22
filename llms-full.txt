@@ -2012,3 +2012,21 @@ A patent family is a collection of patent applications linked by a shared priori
 There are two types. A **simple patent family** groups all filings that share exactly the same single priority application — one original filing spawning multiple children in different jurisdictions or with different claim sets. A **complex (extended) patent family** includes applications linked through any chain of priority claims, even if they do not all share the exact same ancestor. Comple
 
 ---
+
+## The Fractional IP Strategist Playbook: How Startups Get FTSE 100-Grade IP Strategy Without Hiring a Full-Time CIPO
+
+URL: https://beyondelevation.com/blog/posts/fractional-ip-strategist-for-startups/
+
+Companies with patents are 10.2x more likely to secure early-stage funding. Yet most seed-stage startups have zero IP strategy — not because they do not need one, but because a full-time chief IP officer costs $250K–$400K per year. A fractional IP strategist for startups eliminates this gap entirely.
+
+Hayat Amin argues that the biggest IP mistake founders make is not filing the wrong patents — it is waiting until they can afford a full-time hire to start thinking about IP at all. By the time most startups bring on a CIPO, competitors have already filed around them, and the defensibility window has closed. The solution is not cheaper lawyers. It is a different model altogether.
+
+This is the playbook for how early-stage companies get FTSE 100-grade [IP strategy](/blog/posts/ip-strategy-startups-guide/) without the FTSE 100 headcount.
+
+## What Is a Fractional IP Strategist for Startups?
+
+A fractional IP strategist for startups is a senior IP professional — typically with CIPO-level experience across patents, trade secrets, data assets, and licensing — who works with early-stage companies on retainer or project basis instead of as a full-time executive. They deliver the same strategic output at 15–30% of the cost.
+
+The model works because startups do not need 40 hours per week of IP strategy. They need 10–15 hours per month of the right strategy, applied at the right inflection points: before a term sheet, before a product launch, before a licensing negotiation, before an interna
+
+---
