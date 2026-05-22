@@ -543,6 +543,151 @@
         </div>
       </section>
 
+      <section id="offer" class="shell section section-offer-v2 scroll-section">
+        <style>
+          .section-offer-v2 { padding: 100px 0; position: relative; overflow: hidden; }
+          .section-offer-v2::before {
+            content: ''; position: absolute; inset: 0; z-index: 0; pointer-events: none;
+            background:
+              radial-gradient(900px 600px at 90% -10%, rgba(255,225,199,0.45), transparent 60%),
+              radial-gradient(700px 500px at -5% 110%, rgba(245,200,150,0.30), transparent 60%);
+          }
+          .section-offer-v2 .section-head { position: relative; z-index: 1; text-align: center; max-width: 720px; margin: 0 auto 56px; }
+          .section-offer-v2 .section-head .eyebrow { color: #B45309; }
+          .section-offer-v2 .section-head h2 { font-size: clamp(2rem, 4vw, 3rem); letter-spacing: -0.025em; line-height: 1.1; margin: 0 0 16px; }
+          .section-offer-v2 .section-head p { color: #555; font-size: 1.08rem; line-height: 1.6; margin: 0; }
+          .offer-grid-v2 {
+            position: relative; z-index: 1;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 24px;
+            max-width: 1100px;
+            margin: 0 auto;
+          }
+          .offer-card {
+            position: relative;
+            background: #ffffff;
+            border: 1px solid rgba(0,0,0,0.06);
+            border-radius: 20px;
+            padding: 36px 32px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 10px 30px -15px rgba(0,0,0,0.08);
+            transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+            overflow: hidden;
+          }
+          .offer-card::before {
+            content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+            background: linear-gradient(90deg, var(--accent-from, #F2B176), var(--accent-to, #B45309));
+            opacity: 0.85;
+          }
+          .offer-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.06), 0 20px 40px -15px rgba(180,83,9,0.18);
+            border-color: rgba(180,83,9,0.18);
+          }
+          .offer-card-icon {
+            width: 52px; height: 52px;
+            border-radius: 14px;
+            display: flex; align-items: center; justify-content: center;
+            margin-bottom: 22px;
+            background: linear-gradient(135deg, #FFF5E8, #FFE1C7);
+            color: #B45309;
+          }
+          .offer-card-icon svg { width: 26px; height: 26px; }
+          .offer-card-num {
+            position: absolute;
+            top: 28px; right: 32px;
+            font-size: 0.72rem;
+            font-weight: 700;
+            letter-spacing: 0.18em;
+            color: #c9a06b;
+          }
+          .offer-card h3 {
+            font-size: 1.35rem;
+            line-height: 1.25;
+            letter-spacing: -0.015em;
+            margin: 0 0 10px;
+            color: #1a1a1a;
+          }
+          .offer-card p {
+            font-size: 0.98rem;
+            line-height: 1.55;
+            color: #555;
+            margin: 0 0 18px;
+          }
+          .offer-card-tags {
+            display: flex; flex-wrap: wrap; gap: 6px;
+          }
+          .offer-card-tag {
+            font-size: 0.7rem; font-weight: 600;
+            letter-spacing: 0.04em;
+            padding: 4px 10px;
+            border-radius: 100px;
+            background: #FFF5E8;
+            color: #8B4513;
+          }
+          .offer-card-2 { --accent-from: #FCD9A6; --accent-to: #B45309; }
+          .offer-card-3 { --accent-from: #F5C896; --accent-to: #9F520A; }
+          .offer-card-4 { --accent-from: #FFE1C7; --accent-to: #C76A17; }
+          .offer-cta-row {
+            position: relative; z-index: 1;
+            display: flex; justify-content: center; gap: 12px;
+            margin-top: 48px; flex-wrap: wrap;
+          }
+          @media (max-width: 820px) {
+            .offer-grid-v2 { grid-template-columns: 1fr; }
+            .section-offer-v2 { padding: 64px 0; }
+            .offer-card { padding: 28px 24px; }
+          }
+        </style>
+        <div class="section-head reveal" data-parallax="0.03">
+          <span class="eyebrow">The solution</span>
+          <h2>We turn hidden IP into money.</h2>
+          <p>Four levers we pull on every engagement &mdash; built into your roadmap, not bolted on as legal overhead.</p>
+        </div>
+        <div class="offer-grid-v2">
+          <article class="offer-card offer-card-1 reveal" data-tilt>
+            <span class="offer-card-num">01</span>
+            <div class="offer-card-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>
+            </div>
+            <h3>Higher valuation</h3>
+            <p>We build the IP narrative and proof points that make investors say yes faster &mdash; and at a higher multiple.</p>
+            <div class="offer-card-tags"><span class="offer-card-tag">Pre-raise</span><span class="offer-card-tag">Exit prep</span></div>
+          </article>
+          <article class="offer-card offer-card-2 reveal delay-1" data-tilt>
+            <span class="offer-card-num">02</span>
+            <div class="offer-card-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+            </div>
+            <h3>Licensing revenue</h3>
+            <p>Unused IP becomes recurring revenue. We map the licensees, set the price, and run the deal flow.</p>
+            <div class="offer-card-tags"><span class="offer-card-tag">Royalty income</span><span class="offer-card-tag">Cross-license</span></div>
+          </article>
+          <article class="offer-card offer-card-3 reveal delay-2" data-tilt>
+            <span class="offer-card-num">03</span>
+            <div class="offer-card-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+            </div>
+            <h3>Stronger moat</h3>
+            <p>If it&rsquo;s easy to copy, it&rsquo;s not a moat. We architect IP coverage that compounds your defensibility.</p>
+            <div class="offer-card-tags"><span class="offer-card-tag">Patent walls</span><span class="offer-card-tag">Trade secrets</span></div>
+          </article>
+          <article class="offer-card offer-card-4 reveal delay-3" data-tilt>
+            <span class="offer-card-num">04</span>
+            <div class="offer-card-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+            </div>
+            <h3>Integrated with your roadmap</h3>
+            <p>IP strategy that plugs directly into your product roadmap and commercial plan &mdash; not a separate workstream.</p>
+            <div class="offer-card-tags"><span class="offer-card-tag">Quarterly cadence</span><span class="offer-card-tag">Eng-aligned</span></div>
+          </article>
+        </div>
+        <div class="offer-cta-row">
+          <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Book your free diagnostic</a>
+          <a class="button button-ghost" href="#system">See the three ways we work</a>
+        </div>
+      </section>
+
       <section id="testimonials-dgs" class="shell section section-testimonials scroll-section">
         <div class="section-head reveal" data-parallax="0.03">
           <span class="eyebrow">Proof</span>
@@ -581,46 +726,6 @@
             <div class="proof-result-badge"><span class="proof-result-name">Fernando Murias</span><span class="proof-result-title">CEO, DGS</span></div>
           </div>
         </article>
-      </section>
-
-      <section id="offer" class="shell section section-offer scroll-section">
-        <div class="section-head reveal" data-parallax="0.03">
-          <span class="eyebrow">The solution</span>
-          <h2>We turn hidden IP into money.</h2>
-        </div>
-
-        <div class="offer-columns">
-          <div class="offer-column flow-column">
-            <article class="offer-step reveal" data-tilt>
-              <span>01</span>
-              <div>
-                <h3>Higher valuation</h3>
-                <p>We build the IP narrative and proof points that make investors say yes faster.</p>
-              </div>
-            </article>
-            <article class="offer-step reveal delay-1" data-tilt>
-              <span>02</span>
-              <div>
-                <h3>Licensing revenue</h3>
-                <p>Unused IP becomes recurring revenue. We make it happen.</p>
-              </div>
-            </article>
-            <article class="offer-step reveal delay-2" data-tilt>
-              <span>03</span>
-              <div>
-                <h3>Stronger moat</h3>
-                <p>If it's easy to copy, it's not a moat.</p>
-              </div>
-            </article>
-            <article class="offer-step reveal delay-3" data-tilt>
-              <span>04</span>
-              <div>
-                <h3>Integrated with your roadmap</h3>
-                <p>IP strategy that plugs directly into your product roadmap and commercial plan.</p>
-              </div>
-            </article>
-          </div>
-        </div>
       </section>
 
       <section id="system" class="shell section section-system scroll-section">
@@ -937,6 +1042,20 @@
             border-color: #1a1a1a !important;
           }
           .alex-cta-primary:hover { background: #000 !important; }
+          .alex-cta-linkedin {
+            display: inline-flex; align-items: center; gap: 8px;
+            background: #ffffff !important;
+            color: #0A66C2 !important;
+            border: 1px solid #d0d7e2 !important;
+            box-shadow: 0 2px 8px rgba(10,102,194,0.08);
+          }
+          .alex-cta-linkedin:hover {
+            background: #0A66C2 !important;
+            color: #ffffff !important;
+            border-color: #0A66C2 !important;
+            transform: translateY(-1px);
+          }
+          .alex-cta-linkedin svg { flex-shrink: 0; }
           .alex-cta-sig {
             font-size: 0.88rem; font-style: italic;
             color: #6b5a44; margin: 0;
@@ -953,7 +1072,7 @@
           <div class="alex-cta-bg" aria-hidden="true"></div>
           <div class="alex-cta-inner">
             <div class="alex-cta-portrait">
-              <img src="./assets/alexandra-headshot.jpg" onerror="this.onerror=null;this.src='./assets/alexandra-headshot.webp'" alt="Alexandra — Partner at Beyond Elevation" width="280" height="280" loading="lazy" />
+              <picture><source srcset="./assets/alexandra-headshot.webp?v=20260522" type="image/webp"><img src="./assets/alexandra-headshot.jpg?v=20260522" alt="Alexandra — Partner at Beyond Elevation" width="280" height="280" loading="lazy" /></picture>
               <span class="alex-cta-status"><span class="alex-cta-pulse"></span>Available this week</span>
             </div>
             <div class="alex-cta-copy">
@@ -961,8 +1080,11 @@
               <h2>If you built the value, make sure you capture it.</h2>
               <p class="alex-cta-lede">Have a real conversation with <strong>Alexandra</strong>, our Partner at Beyond Elevation. She&rsquo;ll look at your IP, tell you straight what it&rsquo;s worth, and where the leverage actually is &mdash; no pitch, no jargon.</p>
               <div class="alex-cta-actions">
-                <a class="button button-primary alex-cta-primary" href="https://calendly.com/alexandra-beyondelevation/30min" target="_blank" rel="noreferrer">Speak to Alexandra today &rarr;</a>
-                <a class="button button-ghost" href="#system">See our services</a>
+                <a class="button button-primary alex-cta-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Speak to Alexandra today &rarr;</a>
+                <a class="button alex-cta-linkedin" href="https://www.linkedin.com/in/alexandra-zoe/" target="_blank" rel="noreferrer" aria-label="Connect with Alexandra on LinkedIn">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.063 2.063 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                  <span>LinkedIn</span>
+                </a>
               </div>
               <p class="alex-cta-sig">&mdash; Alexandra &middot; Partner, Beyond Elevation</p>
             </div>
