@@ -3,7 +3,7 @@ date: 2026-05-22
 theme: IP is now a board-level KPI — the market is pricing it before founders or boards catch up
 generated_at: 2026-05-22T04:00:00.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -156,7 +156,9 @@ The companies that price this lever now compound. The rest pay it.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-22T18:27:37.535Z
+share_urn: urn:li:share:7463656834130882560
 hook_format: listicle
 cta_goal: dms
 slug: 4-ip-red-flags-founders-ignore-2026
