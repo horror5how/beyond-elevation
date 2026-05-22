@@ -27,7 +27,7 @@ The three root causes are consistent across every portfolio reviewed.
 
 ## What Is the Right Patent Strategy for AI Startups?
 
-The right patent strategy for AI startups is a four-step process that aligns patent filings with business milestones, targets licensable system-level innovations instead of disposable features, and builds cluster positions that compound in value over time. Hayat Amin developed this method — the Hayat Amin AI Patent Stacking Method — after auditing over 200 AI startup portfolios and finding the same structural failures in each one.
+The right patent strategy for AI startups is a four-step process that aligns patent filings with business milestones, targets licensable system-level innovations instead of disposable features, and builds cluster positions that compound in value over time. Hayat Amin developed this method — his AI Patent Stacking Method — after auditing over 200 AI startup portfolios and finding the same structural failures in each one.
 
 **Step 1: Map your innovation stack.** Before you file anything, diagram every layer of your technical architecture — from data pipeline to inference endpoint. Identify which layers are truly novel versus which layers use open-source or commodity components. Most AI startups discover that 60–70% of their assumed innovations are standard engineering. The remaining 30–40% is where your patent budget belongs.
 
