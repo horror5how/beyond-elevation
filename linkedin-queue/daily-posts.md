@@ -3,7 +3,7 @@ date: 2026-05-22
 theme: IP is now a board-level KPI — the market is pricing it before founders or boards catch up
 generated_at: 2026-05-22T04:00:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ I price IP for boards before the market does it for them.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-22T11:46:52.957Z
+share_urn: urn:li:share:7463555983416442880
 hook_format: number-led
 cta_goal: follows
 slug: 105m-series-b-ai-patents-q2-2026
