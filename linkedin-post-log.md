@@ -83,3 +83,4 @@
 2026-05-21 12:50 | urn:li:share:7463209623580360705 | Your patent attorney cannot tell you what your IP is worth. Your CFO can.  Most 
 2026-05-21 17:51 | urn:li:share:7463285242343190528 | 73% of pre-IPO companies have an IP defect their S-1 reviewer will flag.  Most f
 2026-05-22 07:51 | QUEUED | data-asset-valuation-expert | Your data is worth $0 on your balance sheet.  Strategic buyers disagree — by u
+2026-05-22 10:27 | urn:li:share:7463536068697624577 | post #1 | erasca-2-8-billion-ip-drawdown-2026 | Erasca (ERAS) shares cratered 48% last week.  $2.8 billion of market cap, gone i

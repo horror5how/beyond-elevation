@@ -3,7 +3,7 @@ date: 2026-05-22
 theme: IP is now a board-level KPI — the market is pricing it before founders or boards catch up
 generated_at: 2026-05-22T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Today's posts connect five fresh market signals — Erasca's $2.8B IP-driven dra
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-22T10:27:44.804Z
+share_urn: urn:li:share:7463536068697624577
 hook_format: contrarian
 cta_goal: follows
 slug: erasca-2-8-billion-ip-drawdown-2026
