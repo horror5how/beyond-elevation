@@ -2,8 +2,8 @@
 title: "The AI Startup Patent Strategy Most Founders Get Wrong (And the 4-Step Framework That Wins)"
 slug: patent-strategy-for-ai-startups
 date: 2026-05-22
-url: https://beyondelevation.com/blog/post.html?slug=patent-strategy-for-ai-startups
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-strategy-for-ai-startups/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,20 @@ Patent strategy for AI startups differs from traditional tech in four critical w
 
 Your patent strategy for AI startups is either building a fortress or burning cash on wallpaper. [Beyond Elevation](https://beyondelevation.com) runs IP audits for AI startups that identify the licensable claims hiding in your codebase — and the worthless filings draining your budget. Book a call before your next funding round, not after.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-strategy-for-ai-startups)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How many patents should an AI startup file before Series A?
@@ -88,3 +102,6 @@ Use both. Patent the system-level innovations competitors can detect from outsid
 ### What is the biggest patent strategy mistake AI startups make?
 
 Filing narrow, feature-level patents that no competitor needs to license. Effective patent strategy for AI startups targets the moat layers — proprietary data pipelines, inference optimisation, and system architecture — where claims are broad enough to generate licensing revenue and defensible enough to survive challenge.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

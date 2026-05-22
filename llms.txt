@@ -153,5 +153,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [What Is a Patent Family? The Hidden Structure That Doubles Your IP Value](https://beyondelevation.com/blog/posts/what-is-a-patent-family/) — /blog/md/what-is-a-patent-family.md
 - [The Fractional IP Strategist Playbook: How Startups Get FTSE 100-Grade IP Strategy Without Hiring a Full-Time CIPO](https://beyondelevation.com/blog/posts/fractional-ip-strategist-for-startups/) — /blog/md/fractional-ip-strategist-for-startups.md
 - [How to Value an AI Company's Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)](https://beyondelevation.com/blog/posts/how-to-value-ai-company-patents/) — /blog/md/how-to-value-ai-company-patents.md
+- [The AI Startup Patent Strategy Most Founders Get Wrong (And the 4-Step Framework That Wins)](https://beyondelevation.com/blog/posts/patent-strategy-for-ai-startups/) — /blog/md/patent-strategy-for-ai-startups.md
 
 > Full blog content available at /llms-full.txt
