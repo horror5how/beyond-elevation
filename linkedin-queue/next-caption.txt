@@ -1,15 +1,25 @@
-Your data is worth $0 on your balance sheet.
+73% of acquirers miss at least one IP defect before signing the LOI.
 
-Strategic buyers disagree — by up to $180M.
+That defect surfaces in due diligence.
 
-Most founders hire a patent attorney to value their data. That gets you an opinion. Not a number a CFO will underwrite.
+Deal timeline: +6 months.
 
-Data asset valuation uses three distinct methods: income-based DCF, comparable licensing transactions, replacement cost.
+Acquisition price: -15 to 25%.
 
-They should not agree. The gap between them is your negotiating range.
+Most M&A teams review financials, contracts, cap tables.
 
-Companies exiting at 4x+ revenue multiples have a third-party data appraisal in the data room before the LOI lands.
+IP due diligence gets the last two hours of the last day.
 
-Most do not.
+What gets missed every time:
 
-#DataStrategy #IPValuation #ExitMultiple
+Patent ownership not assigned from founders or contractors.
+
+Prior art that invalidates the anchor claim.
+
+License restrictions that block the buyer's use case.
+
+Trade secrets with no documented protection protocol.
+
+Fix these before the LOI arrives. Not after.
+
+#IPStrategy #MergersAndAcquisitions #StartupExit
