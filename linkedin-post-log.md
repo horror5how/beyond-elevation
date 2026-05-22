@@ -88,3 +88,4 @@
 2026-05-22 12:51 | urn:li:share:7463572179578900480 | 73% of acquirers miss at least one IP defect before signing the LOI.  That defec
 2026-05-22 13:29 | urn:li:share:7463581906723454976 | post #3 | apple-animato-acqui-hire-ip-structure-2026 | Apple's Animato deal was a structured acqui-hire.  The expertise and intellectua
 2026-05-22 15:47 | urn:li:share:7463616618984755200 | post #4 | spotify-umg-ai-licensing-annuity-2026 | Spotify and Universal Music just signed an AI licensing deal for covers and remi
+2026-05-22 17:52 | urn:li:share:7463647902050013184 | 79% of AI patent applications fail §101.  Not because the invention is weak.  B
