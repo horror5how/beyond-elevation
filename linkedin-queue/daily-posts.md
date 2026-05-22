@@ -3,7 +3,7 @@ date: 2026-05-22
 theme: IP is now a board-level KPI — the market is pricing it before founders or boards catch up
 generated_at: 2026-05-22T04:00:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -122,7 +122,9 @@ The structure work belongs at incorporation, not at term sheet.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-22T15:47:49.600Z
+share_urn: urn:li:share:7463616618984755200
 hook_format: prediction
 cta_goal: follows
 slug: spotify-umg-ai-licensing-annuity-2026
