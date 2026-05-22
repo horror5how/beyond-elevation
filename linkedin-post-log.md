@@ -86,3 +86,4 @@
 2026-05-22 10:27 | urn:li:share:7463536068697624577 | post #1 | erasca-2-8-billion-ip-drawdown-2026 | Erasca (ERAS) shares cratered 48% last week.  $2.8 billion of market cap, gone i
 2026-05-22 11:46 | urn:li:share:7463555983416442880 | post #2 | 105m-series-b-ai-patents-q2-2026 | DeepIP closed a $25M Series B.  Solve Intelligence closed $40M Series B on 10x r
 2026-05-22 12:51 | urn:li:share:7463572179578900480 | 73% of acquirers miss at least one IP defect before signing the LOI.  That defec
+2026-05-22 13:29 | urn:li:share:7463581906723454976 | post #3 | apple-animato-acqui-hire-ip-structure-2026 | Apple's Animato deal was a structured acqui-hire.  The expertise and intellectua

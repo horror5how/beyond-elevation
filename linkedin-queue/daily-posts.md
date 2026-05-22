@@ -3,7 +3,7 @@ date: 2026-05-22
 theme: IP is now a board-level KPI — the market is pricing it before founders or boards catch up
 generated_at: 2026-05-22T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -88,7 +88,9 @@ If you're founding, your patent portfolio is about to be revalued — by acquire
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-22T13:29:54.033Z
+share_urn: urn:li:share:7463581906723454976
 hook_format: story
 cta_goal: clicks
 slug: apple-animato-acqui-hire-ip-structure-2026

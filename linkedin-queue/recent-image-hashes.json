@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff80a0",
-    "layout": "a",
-    "accent": "#7a8c6e",
-    "slug": "ai-model-trade-secret-vs-patent-test",
-    "ts": "2026-05-20T11:50:14.795Z"
-  },
-  {
     "hash": "66e7e7ffc3c3ffb9",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "105m-series-b-ai-patents-q2-2026",
     "ts": "2026-05-22T11:46:52.957Z"
+  },
+  {
+    "hash": "c3c3e7ff8181ff9f",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "apple-animato-acqui-hire-ip-structure-2026",
+    "ts": "2026-05-22T13:29:54.033Z"
   }
 ]
