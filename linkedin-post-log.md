@@ -92,3 +92,4 @@
 2026-05-22 18:27 | urn:li:share:7463656834130882560 | post #5 | 4-ip-red-flags-founders-ignore-2026 | Heartflow just sued Cleerly for AI patent infringement.  Heartflow has been fili
 2026-05-23 07:50 | QUEUED | patent-licensing-roi-timeline-2026 | Most founders expect their first licensing cheque in Year 5.  Top-quartile licen
 2026-05-23 07:50 | urn:li:share:7463858990121185280 | Most founders expect their first licensing cheque in Year 5.  Top-quartile licen
+2026-05-23 09:07 | urn:li:share:7463878295428788224 | post #6 | ip-board-kpi-not-legal-line-2026 | EUIPO data: IP-intensive industries generate 47% of EU GDP and 39% of employment

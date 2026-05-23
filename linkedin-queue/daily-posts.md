@@ -3,7 +3,7 @@ date: 2026-05-22
 theme: IP is now a board-level KPI — the market is pricing it before founders or boards catch up
 generated_at: 2026-05-22T04:00:00.000Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -195,7 +195,9 @@ DM me "audit" if you want the 12-question version I run with founders.
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-05-23T09:07:38.089Z
+share_urn: urn:li:share:7463878295428788224
 hook_format: frame-break
 cta_goal: clicks
 slug: ip-board-kpi-not-legal-line-2026
