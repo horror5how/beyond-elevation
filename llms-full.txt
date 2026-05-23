@@ -2082,3 +2082,19 @@ A fractional CFO should own your patent valuation because patents are balance-sh
 Patent attorneys are trained in prosecution — filing claims, navigating the USPTO
 
 ---
+
+## The Pre-IPO IP Audit: 11 Things Your S-1 Reviewer Will Find If You Do Not
+
+URL: https://beyondelevation.com/blog/posts/pre-ipo-ip-audit-consultant/
+
+23% of tech IPOs in 2025 faced material IP disclosures that repriced the offering downward. Every one of those companies had patent attorneys on retainer. None had completed a pre-IPO IP audit.
+
+That is the gap a pre-IPO IP audit consultant closes. Hayat Amin, who has run pre-IPO IP readiness reviews for late-stage tech companies across three continents, puts it bluntly: "The S-1 reviewer does not care how many patents you have. They care how many liabilities you have dressed up as patents." That distinction is what separates companies that IPO on schedule from companies that get repriced at the banker's desk.
+
+## What Is a Pre-IPO IP Audit and Why Does Every Late-Stage Company Need One?
+
+A pre-IPO IP audit is a systematic review of every intellectual property asset, agreement, and risk a company holds — conducted 12 to 18 months before the target IPO date to surface the gaps an S-1 reviewer will flag. It covers patent ownership chains, freedom-to-operate exposure, trade secret controls, data asset documentation, and license agreement change-of-control provisions.
+
+This is not the same as an [M&A IP due diligence review](/blog/posts/ip-due-diligence-ma-guide/). An M&A audit protects the buyer. A pre-IPO IP audit protects the company's valuation from underwriter markdowns. Beyond Elevation runs pre-IPO IP audits using [the Hayat Amin IP Defensibility 7-Point Test](/blog/posts/ip-defensibility-assessment-framework/) as the diagnostic baseline, then layers IPO-specific risk fact
+
+---

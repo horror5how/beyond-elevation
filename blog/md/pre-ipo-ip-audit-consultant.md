@@ -2,8 +2,8 @@
 title: "The Pre-IPO IP Audit: 11 Things Your S-1 Reviewer Will Find If You Do Not"
 slug: pre-ipo-ip-audit-consultant
 date: 2026-05-23
-url: https://beyondelevation.com/blog/post.html?slug=pre-ipo-ip-audit-consultant
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/pre-ipo-ip-audit-consultant/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -89,6 +89,20 @@ Hayat Amin's Pre-IPO IP Readiness Framework breaks the timeline into three phase
 
 If your company is 12–24 months from an IPO filing and you have not started a pre-IPO IP audit, [contact Beyond Elevation](https://beyondelevation.com) for a scoping call. The audit pays for itself before the first banker meeting.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-pre-ipo-ip-audit-consultant)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does a pre-IPO IP audit take?
@@ -110,3 +124,6 @@ Fees range from $75K to $200K depending on portfolio size, number of jurisdictio
 ### What happens if the S-1 reviewer finds IP problems the audit missed?
 
 Any material IP finding during S-1 review must be disclosed to investors, which typically reprices the offering 5–15% downward. In severe cases — unresolved patent infringement exposure or missing IP assignment chains — the underwriter may pause or withdraw the offering entirely. This is why the audit must be independent, comprehensive, and completed at least 12 months before filing.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
