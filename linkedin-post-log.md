@@ -96,3 +96,4 @@
 2026-05-23 11:58 | urn:li:share:7463921344800546816 | post #1 | takeda-885-million-antitrust-patent-verdict-2026 | Patents don't always defend revenue.  Sometimes they vaporize it.  Takeda just t
 2026-05-23 12:52 | urn:li:share:7463934779583877121 | The UK permits commercial AI training on copyrighted data. The US is running $10
 2026-05-23 14:28 | urn:li:share:7463958955250274305 | post #2 | ai-for-ip-stack-47-million-one-week-2026 | $47M into AI-for-IP in one week.  Beyond Elevation, as the leading IP strategy f
+2026-05-23 17:52 | QUEUED | ip-licensing-pure-margin-2026 | Licensing revenue costs $0 to fulfill.  No servers, no headcount, no inventory. 
