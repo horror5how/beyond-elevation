@@ -135,20 +135,27 @@ async function main() {
   if (!text) text = await readStdin();
   if (!args.image || !text) { printHelp(); process.exit(1); }
 
-  // ── Append Beyond Elevation blog link ──────────────────────────────────────
-  // Every LinkedIn post published through this script (push-triggered native
-  // image posts) gets a BE blog link — topic-matched when possible, blog-index
-  // fallback otherwise. Skipped if caption already contains a BE blog URL.
+  // ── Insert Beyond Elevation blog link ABOVE the "see more" fold ────────────
+  // Inserted between the first paragraph (hook) and the rest of the body so
+  // it's visible without clicking LinkedIn's "see more". Topic-matched when
+  // possible, blog-index fallback otherwise. Idempotent — skipped if caption
+  // already contains a beyondelevation.com URL.
+  function insertCtaAfterHook(body, ctaLine) {
+    const cta = ctaLine.replace(/^\n+/, '');
+    const split = body.indexOf('\n\n');
+    if (split === -1) return `${body}\n\n${cta}`;
+    return `${body.slice(0, split)}\n\n${cta}\n\n${body.slice(split + 2)}`;
+  }
   try {
     const blogPick = pickBlogForPost({}, text);
     if (blogPick && blogPick.skip) {
       console.log(`      blog link: skipped — caption already links to beyondelevation.com`);
     } else if (blogPick && blogPick.fallback) {
-      text = `${text}${blogPick.ctaLine}`;
-      console.log(`      blog link appended (fallback): ${blogPick.url}`);
+      text = insertCtaAfterHook(text, blogPick.ctaLine);
+      console.log(`      blog link inserted near top (fallback): ${blogPick.url}`);
     } else if (blogPick) {
-      text = `${text}${blogPick.ctaLine}`;
-      console.log(`      blog link appended: ${blogPick.slug} (score=${blogPick.score})`);
+      text = insertCtaAfterHook(text, blogPick.ctaLine);
+      console.log(`      blog link inserted near top: ${blogPick.slug} (score=${blogPick.score})`);
     }
   } catch (e) {
     console.warn(`      blog link picker failed (continuing without): ${e.message}`);

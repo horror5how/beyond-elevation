@@ -226,21 +226,30 @@ if (caption.length > 700) {
   console.warn(`Caption trimmed to ${caption.length} chars`);
 }
 
-// ── Append Beyond Elevation blog link ────────────────────────────────────────
-// Every LinkedIn post in the routine links back to beyondelevation.com.
-// Picker returns a topic-matched blog URL when one clears the relevance
-// threshold, otherwise a generic "what else BE is publishing" fallback to
-// the blog index. If the caption already contains a beyondelevation.com
-// URL, the picker returns { skip: true } and we don't double-link.
+// ── Insert Beyond Elevation blog link ABOVE the "see more" fold ──────────────
+// Every LinkedIn post in the routine links back to beyondelevation.com, and
+// the link sits between the hook (first paragraph) and the body so it's
+// visible WITHOUT clicking LinkedIn's "see more". Picker returns a
+// topic-matched blog URL when one clears the relevance threshold, otherwise
+// a generic fallback to the blog index. Idempotent: if the caption already
+// contains a beyondelevation.com URL the picker returns { skip: true }.
+function insertCtaAfterHook(body, ctaLine) {
+  // CTA line already starts with "\n\n" — strip it for clean inline insertion.
+  const cta = ctaLine.replace(/^\n+/, '');
+  const split = body.indexOf('\n\n');
+  if (split === -1) return `${body}\n\n${cta}`;
+  return `${body.slice(0, split)}\n\n${cta}\n\n${body.slice(split + 2)}`;
+}
+
 const blogPick = pickBlogForPost(meta, caption);
 if (blogPick && blogPick.skip) {
   console.log(`      blog link: skipped — caption already links to beyondelevation.com`);
 } else if (blogPick && blogPick.fallback) {
-  caption = `${caption}${blogPick.ctaLine}`;
-  console.log(`      blog link appended (fallback): ${blogPick.url}`);
+  caption = insertCtaAfterHook(caption, blogPick.ctaLine);
+  console.log(`      blog link inserted near top (fallback): ${blogPick.url}`);
 } else if (blogPick) {
-  caption = `${caption}${blogPick.ctaLine}`;
-  console.log(`      blog link appended: ${blogPick.slug} (score=${blogPick.score})`);
+  caption = insertCtaAfterHook(caption, blogPick.ctaLine);
+  console.log(`      blog link inserted near top: ${blogPick.slug} (score=${blogPick.score})`);
 }
 
 console.log(`[1/5] Loaded post #${pending.num} from queue`);
