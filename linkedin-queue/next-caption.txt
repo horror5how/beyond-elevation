@@ -1,23 +1,13 @@
-Most founders expect their first licensing cheque in Year 5.
+The UK permits commercial AI training on copyrighted data. The US is running $100M lawsuits for the same act. The EU mandates disclosure from August 2026.
 
-Top-quartile licensors collect in 18 months.
+Your training pipeline sits in three legal regimes at once.
 
-The difference is not better IP.
+UK: Text & Data Mining exemption covers commercial AI training — no licence needed.
 
-It is execution sequence.
+US: Fair use still undecided. OpenAI faces $2B+ in live claims from publishers and authors.
 
-Three things determine how fast you earn:
+EU AI Act: High-risk AI systems must document training data provenance by August 2026.
 
-Claims scoped to an active market — not the broadest claim you can write.
+Most founders built their stack without knowing which regime governs them.
 
-A programme built before litigation — not after a suit lands.
-
-Minimum guarantees in every deal — not pure revenue share.
-
-Average software IP deal: $2.3M.
-Active licensors trade at 8x revenue vs 4x.
-First payment: 18 months with correct execution.
-
-Build the revenue line before the exit.
-
-#IPStrategy #PatentLicensing #Valuation
+#AIStrategy #EUAIAct #IPStrategy
