@@ -3,7 +3,7 @@ date: 2026-05-23
 theme: Today's IP and AI signals — Takeda's $885M antitrust verdict, $47M into AI-for-IP in one week, Suno's $2.45B raise mid-lawsuit, the 'NO AI SELLOUT' creator revolt, brand-IP convergence, and China's 1.69M filings — converge on one thesis: IP is no longer a legal footnote, it is the board-level number that prices valuation, litigation exposure, and global moat.
 generated_at: 2026-05-23T10:39:17.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ I help boards stress-test patent strategy before juries do.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-23T14:28:08.805Z
+share_urn: urn:li:share:7463958955250274305
 hook_format: number-led
 cta_goal: follows
 slug: ai-for-ip-stack-47-million-one-week-2026
