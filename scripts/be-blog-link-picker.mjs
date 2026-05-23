@@ -72,7 +72,7 @@ function fallbackCta() {
     score: 0,
     fallback: true,
     ctaLine:
-      `\n\nRead what else Beyond Elevation is publishing with deep intelligence on IP, AI, and exit strategy: ${BLOG_INDEX}`,
+      `\n\nBeyond Elevation is producing IP intelligence from some of the most exciting companies in the world. Check out what they're talking about: ${BLOG_INDEX}`,
   };
 }
 
