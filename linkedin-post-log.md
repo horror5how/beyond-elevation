@@ -91,3 +91,4 @@
 2026-05-22 17:52 | urn:li:share:7463647902050013184 | 79% of AI patent applications fail §101.  Not because the invention is weak.  B
 2026-05-22 18:27 | urn:li:share:7463656834130882560 | post #5 | 4-ip-red-flags-founders-ignore-2026 | Heartflow just sued Cleerly for AI patent infringement.  Heartflow has been fili
 2026-05-23 07:50 | QUEUED | patent-licensing-roi-timeline-2026 | Most founders expect their first licensing cheque in Year 5.  Top-quartile licen
+2026-05-23 07:50 | urn:li:share:7463858990121185280 | Most founders expect their first licensing cheque in Year 5.  Top-quartile licen
