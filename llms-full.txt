@@ -2064,3 +2064,21 @@ The three root causes are consistent across every portfolio reviewed.
 **Mistake 1: Filing too late.** Founders wait until after a funding round to think about patents, by which point competit
 
 ---
+
+## Why Your Fractional CFO — Not Your Patent Lawyer — Should Own Your Patent Valuation
+
+URL: https://beyondelevation.com/blog/posts/fractional-cfo-patent-valuation/
+
+A founder walked into a licensing negotiation with a $2M patent valuation prepared by their patent attorney. [Hayat Amin](https://beyondelevation.com) re-priced the same portfolio using an income-approach model. The number: $14M. The difference had nothing to do with the patents. It had everything to do with who ran the math.
+
+Fractional CFO patent valuation is the practice of putting a finance operator — not a lawyer — in charge of determining what your intellectual property is worth. Patent attorneys value patents based on prosecution cost and claim scope. A fractional CFO values them based on revenue potential, licensing yield, and cap-table impact. The gap between those two numbers is where founders leave millions on the table.
+
+Beyond Elevation has priced over $400M in IP assets using this operator-first approach. The pattern is consistent: when a finance professional leads the valuation, the output is investor-ready. When a lawyer leads it, the output is a legal opinion nobody can use in a term sheet.
+
+## Why Should a Fractional CFO Own Your Patent Valuation?
+
+A fractional CFO should own your patent valuation because patents are balance-sheet assets, and balance-sheet assets are priced by finance professionals — not lawyers. The same way a CFO owns revenue forecasting, inventory valuation, and goodwill impairment, they should own the number attached to your most valuable intangible asset.
+
+Patent attorneys are trained in prosecution — filing claims, navigating the USPTO
+
+---
