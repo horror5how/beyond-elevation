@@ -1,13 +1,13 @@
-The UK permits commercial AI training on copyrighted data. The US is running $100M lawsuits for the same act. The EU mandates disclosure from August 2026.
+Licensing revenue costs $0 to fulfill.
 
-Your training pipeline sits in three legal regimes at once.
+No servers, no headcount, no inventory.
 
-UK: Text & Data Mining exemption covers commercial AI training — no licence needed.
+94 cents of every dollar is gross profit.
 
-US: Fair use still undecided. OpenAI faces $2B+ in live claims from publishers and authors.
+Most founders have 2–4 patents sitting idle and wonder why margins are stuck at 68%.
 
-EU AI Act: High-risk AI systems must document training data provenance by August 2026.
+CFOs who know IP add a licensing line and watch EBITDA multiples expand 3.8x.
 
-Most founders built their stack without knowing which regime governs them.
+You don't need a new product. You need a licensing agreement.
 
-#AIStrategy #EUAIAct #IPStrategy
+#IPStrategy #PatentLicensing #StartupFinance
