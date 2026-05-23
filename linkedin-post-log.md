@@ -93,3 +93,4 @@
 2026-05-23 07:50 | QUEUED | patent-licensing-roi-timeline-2026 | Most founders expect their first licensing cheque in Year 5.  Top-quartile licen
 2026-05-23 07:50 | urn:li:share:7463858990121185280 | Most founders expect their first licensing cheque in Year 5.  Top-quartile licen
 2026-05-23 09:07 | urn:li:share:7463878295428788224 | post #6 | ip-board-kpi-not-legal-line-2026 | EUIPO data: IP-intensive industries generate 47% of EU GDP and 39% of employment
+2026-05-23 11:58 | urn:li:share:7463921344800546816 | post #1 | takeda-885-million-antitrust-patent-verdict-2026 | Patents don't always defend revenue.  Sometimes they vaporize it.  Takeda just t

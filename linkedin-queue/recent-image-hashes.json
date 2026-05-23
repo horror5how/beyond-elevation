@@ -1,12 +1,5 @@
 [
   {
-    "hash": "8183e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "ai-industrialised-patent-litigation-founder-defensibility-2026",
-    "ts": "2026-05-21T10:43:29.314Z"
-  },
-  {
     "hash": "7ef000700f77ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ip-board-kpi-not-legal-line-2026",
     "ts": "2026-05-23T09:07:38.089Z"
+  },
+  {
+    "hash": "0083ffffc3c3fff9",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "takeda-885-million-antitrust-patent-verdict-2026",
+    "ts": "2026-05-23T11:58:41.850Z"
   }
 ]
