@@ -3,7 +3,7 @@ date: 2026-05-23
 theme: Today's IP and AI signals — Takeda's $885M antitrust verdict, $47M into AI-for-IP in one week, Suno's $2.45B raise mid-lawsuit, the 'NO AI SELLOUT' creator revolt, brand-IP convergence, and China's 1.69M filings — converge on one thesis: IP is no longer a legal footnote, it is the board-level number that prices valuation, litigation exposure, and global moat.
 generated_at: 2026-05-23T10:39:17.000Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -186,7 +186,9 @@ Brand equity is now an IP metric, not a marketing one.
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-05-24T14:23:28.180Z
+share_urn: urn:li:share:7464320163753123840
 hook_format: prediction
 cta_goal: DMs
 slug: china-1-69-million-patents-jurisdictional-moat-2026

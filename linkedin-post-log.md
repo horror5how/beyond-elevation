@@ -102,3 +102,4 @@
 2026-05-24 10:42 | urn:li:share:7464264638436798464 | post #4 | no-ai-sellout-musicians-spotify-umg-protest-2026 | Independent musicians just launched 'NO AI SELLOUT' protests against the Spotify
 2026-05-24 11:59 | urn:li:share:7464284015345389568 | post #5 | brand-managers-ip-committee-ai-2026 | 3 moves every brand owner needs in their IP playbook this quarter:  Beyond Eleva
 2026-05-24 12:53 | QUEUED | ip-monetisation-cost-of-delay-2026 | Founders wait 7 years to monetize their first patent.  Each year of delay costs 
+2026-05-24 14:23 | urn:li:share:7464320163753123840 | post #6 | china-1-69-million-patents-jurisdictional-moat-2026 | China filed 1.69M patent applications in 2023 — more than the US, Japan, South K

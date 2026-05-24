@@ -1,12 +1,5 @@
 [
   {
-    "hash": "f3f11331131ff5ff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "4-ip-red-flags-founders-ignore-2026",
-    "ts": "2026-05-22T18:27:37.535Z"
-  },
-  {
     "hash": "7ef9301911f4ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "brand-managers-ip-committee-ai-2026",
     "ts": "2026-05-24T11:59:49.249Z"
+  },
+  {
+    "hash": "c3c3e7ffe781ffff",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "china-1-69-million-patents-jurisdictional-moat-2026",
+    "ts": "2026-05-24T14:23:28.180Z"
   }
 ]
