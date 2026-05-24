@@ -2114,3 +2114,21 @@ Companies with structured IP — including formally valued data assets — are [
 A data asset valuation expert quantifies the economic value of proprietary datasets, data pipelines, and data-derived intellectual property using income, market, and cost approaches calibrated specifically for data — not generic IP or intangible asset valuation methods. The distinction matters because data behaves differently from patents
 
 ---
+
+## The Post-Alice §101 Survival Guide: How AI Founders Get Patents Granted in 2026
+
+URL: https://beyondelevation.com/blog/posts/ai-patent-eligibility-101-advisor/
+
+67% of AI patent applications receive at least one §101 rejection. Not a prior art issue. Not a novelty problem. The examiner says your invention is an "abstract idea applied on a computer" — and your $1,200-per-hour BigLaw patent attorney cannot fix it because they drafted the claims wrong in the first place.
+
+AI patent eligibility under Section 101 is the single largest barrier between AI founders and a defensible portfolio. Hayat Amin, who has guided AI companies through dozens of §101 rejections as a fractional IP strategist, argues the problem is structural: "Most patent attorneys write AI claims that describe what the model does. Examiners reject what the model does. They grant how it does it differently than anything before." This is the survival guide. Four rules, no fluff, and the exact framing that gets AI patents past the Alice test in 2026.
+
+## What Is Section 101 and Why Does It Kill AI Patent Eligibility?
+
+Section 101 of the U.S. Patent Act defines what qualifies as patentable subject matter. The Alice Corp v. CLS Bank decision (2014) created a two-step test that has become the primary weapon examiners use to reject AI patent applications — killing more claims than prior art, novelty, and obviousness combined in the AI category.
+
+The Alice two-step test works like this:
+
+**Step 1:** Is the claim directed to an abstract idea, law of nature, or natural phenomenon? For AI patents, the examiner almost always answers yes — because machine learning inherently involves
+
+---

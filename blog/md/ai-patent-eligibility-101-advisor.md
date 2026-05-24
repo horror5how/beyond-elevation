@@ -2,8 +2,8 @@
 title: "The Post-Alice §101 Survival Guide: How AI Founders Get Patents Granted in 2026"
 slug: ai-patent-eligibility-101-advisor
 date: 2026-05-24
-url: https://beyondelevation.com/blog/post.html?slug=ai-patent-eligibility-101-advisor
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ai-patent-eligibility-101-advisor/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -97,6 +97,20 @@ The math is simple: pre-filing §101 diagnostic saves 60-75% of total prosecutio
 
 Companies with patents are [10.2x more likely to secure early-stage funding](/). But only if the patents are granted. A portfolio of §101-rejected applications is worth exactly zero on a term sheet. Hayat Amin's pitch to AI founders is straightforward: "Do not spend $50K learning what a §101 rejection feels like. Spend $5K making sure you never get one."
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-patent-eligibility-101-advisor)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is Section 101 patent eligibility for AI?
@@ -118,3 +132,6 @@ For AI patents specifically, a §101 specialist or fractional IP strategist like
 ### Can I patent an AI model itself?
 
 Generally no — a "trained model" claim fails Alice because it describes a result, not a process. However, you can patent the training method, the model architecture, inference optimisations, and the system that deploys the model. The distinction between patenting "the model" and "the method that produces and runs the model" is where most AI patent eligibility decisions are won or lost.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
