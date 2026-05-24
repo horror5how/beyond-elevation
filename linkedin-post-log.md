@@ -100,3 +100,4 @@
 2026-05-24 07:53 | urn:li:share:7464222051185127424 | You built the dataset once. You can sell it 200 times.  Data syndication is the 
 2026-05-24 09:24 | urn:li:share:7464244990190407680 | post #3 | suno-250-million-series-c-amid-copyright-lawsuits-2026 | Suno just closed $250M Series C at a $2.45B valuation.  Beyond Elevation, as the
 2026-05-24 10:42 | urn:li:share:7464264638436798464 | post #4 | no-ai-sellout-musicians-spotify-umg-protest-2026 | Independent musicians just launched 'NO AI SELLOUT' protests against the Spotify
+2026-05-24 11:59 | urn:li:share:7464284015345389568 | post #5 | brand-managers-ip-committee-ai-2026 | 3 moves every brand owner needs in their IP playbook this quarter:  Beyond Eleva
