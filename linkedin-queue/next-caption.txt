@@ -1,15 +1,15 @@
-Founders wait 7 years to monetize their first patent.
+Most founders name a patent value. None of them calculated it.
 
-Each year of delay costs £180K in foregone royalties.
+4 methods exist. Each returns a radically different number.
 
-A portfolio with no active licensing deals is worth 2.3x less at exit.
+Cost approach — what you spent to build it. Lowest number.
 
-IP doesn't appreciate while you wait. It depreciates.
+Income/DCF — future royalties, discounted. What courts and acquirers use.
 
-The licensing window peaks at years 2-5 post-grant.
+Real options — your patent as a call on future market size. Highest number.
 
-After year 7, acquirers assume you didn't think it was worth monetizing.
+The spread between cost and income on a single patent: up to 40x.
 
-Start the licensing clock now, not at exit.
+Know which model your acquirer will run before the LOI arrives.
 
-#IPStrategy #PatentLicensing #Founders
+#PatentValuation #IPStrategy #ExitMultiple
