@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef9301911f4ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "ip-board-kpi-not-legal-line-2026",
-    "ts": "2026-05-23T09:07:38.089Z"
-  },
-  {
     "hash": "0083ffffc3c3fff9",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "china-1-69-million-patents-jurisdictional-moat-2026",
     "ts": "2026-05-24T14:23:28.180Z"
+  },
+  {
+    "hash": "0081ffffc3e7ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "patent-ai-105-million-series-b-week-2026",
+    "ts": "2026-05-24T17:51:07.073Z"
   }
 ]

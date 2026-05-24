@@ -103,3 +103,4 @@
 2026-05-24 11:59 | urn:li:share:7464284015345389568 | post #5 | brand-managers-ip-committee-ai-2026 | 3 moves every brand owner needs in their IP playbook this quarter:  Beyond Eleva
 2026-05-24 12:53 | QUEUED | ip-monetisation-cost-of-delay-2026 | Founders wait 7 years to monetize their first patent.  Each year of delay costs 
 2026-05-24 14:23 | urn:li:share:7464320163753123840 | post #6 | china-1-69-million-patents-jurisdictional-moat-2026 | China filed 1.69M patent applications in 2023 — more than the US, Japan, South K
+2026-05-24 17:51 | urn:li:share:7464372422239178752 | post #1 | patent-ai-105-million-series-b-week-2026 | $105M into patent AI in one week.  Beyond Elevation, as the leading IP strategy 
