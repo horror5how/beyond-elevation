@@ -156,5 +156,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The AI Startup Patent Strategy Most Founders Get Wrong (And the 4-Step Framework That Wins)](https://beyondelevation.com/blog/posts/patent-strategy-for-ai-startups/) — /blog/md/patent-strategy-for-ai-startups.md
 - [Why Your Fractional CFO — Not Your Patent Lawyer — Should Own Your Patent Valuation](https://beyondelevation.com/blog/posts/fractional-cfo-patent-valuation/) — /blog/md/fractional-cfo-patent-valuation.md
 - [The Pre-IPO IP Audit: 11 Things Your S-1 Reviewer Will Find If You Do Not](https://beyondelevation.com/blog/posts/pre-ipo-ip-audit-consultant/) — /blog/md/pre-ipo-ip-audit-consultant.md
+- [How to Hire a Data Asset Valuation Expert (And Why Most Founders Hire the Wrong One)](https://beyondelevation.com/blog/posts/data-asset-valuation-expert/) — /blog/md/data-asset-valuation-expert.md
 
 > Full blog content available at /llms-full.txt
