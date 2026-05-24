@@ -2,8 +2,8 @@
 title: "The Acquirer's IP Due Diligence Checklist: What 73% of Buyers Miss Before Signing the LOI"
 slug: ip-due-diligence-for-acquirers
 date: 2026-05-24
-url: https://beyondelevation.com/blog/post.html?slug=ip-due-diligence-for-acquirers
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-due-diligence-for-acquirers/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -85,6 +85,20 @@ If your acquisition target has more than $5M in IP-attributed value, if the deal
 
 Beyond Elevation runs IP due diligence for acquirers as a standalone engagement, typically completing the 11-point framework within 3-4 weeks alongside the buyer's broader DD process. The deliverable is a scored risk matrix with specific price adjustment recommendations — not a 200-page legal memo that requires a law degree to interpret.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-due-diligence-for-acquirers)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does IP due diligence take for acquirers?
@@ -106,3 +120,6 @@ Yes. Approximately 8-12% of acquisitions are abandoned or materially restructure
 ### Should acquirers hire a patent attorney or an IP strategist for due diligence?
 
 Both — but they serve different functions. Patent attorneys verify legal status and prosecution quality. An IP strategist evaluates commercial defensibility, licensing potential, and deal pricing impact. The strategist is who tells you whether the IP is worth what you are paying. The attorney confirms the paperwork is clean. Skipping the strategist is how 73% of buyers end up with overpriced IP.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

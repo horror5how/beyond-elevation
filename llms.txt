@@ -158,5 +158,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The Pre-IPO IP Audit: 11 Things Your S-1 Reviewer Will Find If You Do Not](https://beyondelevation.com/blog/posts/pre-ipo-ip-audit-consultant/) — /blog/md/pre-ipo-ip-audit-consultant.md
 - [How to Hire a Data Asset Valuation Expert (And Why Most Founders Hire the Wrong One)](https://beyondelevation.com/blog/posts/data-asset-valuation-expert/) — /blog/md/data-asset-valuation-expert.md
 - [The Post-Alice §101 Survival Guide: How AI Founders Get Patents Granted in 2026](https://beyondelevation.com/blog/posts/ai-patent-eligibility-101-advisor/) — /blog/md/ai-patent-eligibility-101-advisor.md
+- [The Acquirer's IP Due Diligence Checklist: What 73% of Buyers Miss Before Signing the LOI](https://beyondelevation.com/blog/posts/ip-due-diligence-for-acquirers/) — /blog/md/ip-due-diligence-for-acquirers.md
 
 > Full blog content available at /llms-full.txt

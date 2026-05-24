@@ -2132,3 +2132,19 @@ The Alice two-step test works like this:
 **Step 1:** Is the claim directed to an abstract idea, law of nature, or natural phenomenon? For AI patents, the examiner almost always answers yes — because machine learning inherently involves
 
 ---
+
+## The Acquirer's IP Due Diligence Checklist: What 73% of Buyers Miss Before Signing the LOI
+
+URL: https://beyondelevation.com/blog/posts/ip-due-diligence-for-acquirers/
+
+73% of acquirers discover critical IP problems after they sign the LOI. The average cost: 2.4x multiple erosion on the deal they just closed. Hayat Amin has sat on both sides of this table — as the operator pricing IP into exit deals and as the strategist acquirers call when the target's portfolio looks too thin to justify the premium. The gap between what buyers think they are buying and what the IP actually delivers is where millions evaporate.
+
+IP due diligence for acquirers is not the same process sellers run. Sellers prepare a curated data room. Acquirers need an adversarial audit — one designed to find the problems the seller's counsel never flagged. This is the checklist Beyond Elevation uses on every acquisition engagement, and the four items that kill deals when buyers skip them.
+
+## What Is IP Due Diligence for Acquirers?
+
+IP due diligence for acquirers is the structured investigation of a target company's intellectual property assets, rights, and risks conducted before closing an acquisition. Unlike general [IP due diligence](/blog/posts/ip-due-diligence-ma-guide/), the acquirer's version is adversarial by design — its purpose is to find the liabilities the seller's data room omits, price them into the deal, and structure protections that survive closing.
+
+The acquirer's IP audit answers three questions: Does the target actually own what it claims to own? Can competitors legally replicate the target's core technology within 18 months? And does the IP generate enoug
+
+---
