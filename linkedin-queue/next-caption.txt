@@ -1,15 +1,13 @@
-Most founders name a patent value. None of them calculated it.
+Your AI model depreciates 40% in 12 months.
 
-4 methods exist. Each returns a radically different number.
+Your licensing deal probably does not account for that.
 
-Cost approach — what you spent to build it. Lowest number.
+Most AI licensing contracts have no performance benchmark clause. No refresh schedule. No royalty step-down.
 
-Income/DCF — future royalties, discounted. What courts and acquirers use.
+When the model degrades, licensees stop paying. You hold a depreciating asset with no contract protection.
 
-Real options — your patent as a call on future market size. Highest number.
+3 clauses fix this: performance floor, model refresh schedule, royalty step-down trigger.
 
-The spread between cost and income on a single patent: up to 40x.
+Miss any one and your recurring revenue becomes a one-off sale.
 
-Know which model your acquirer will run before the LOI arrives.
-
-#PatentValuation #IPStrategy #ExitMultiple
+#AIStrategy #IPLicensing #AIContracts
