@@ -3,7 +3,7 @@ date: 2026-05-24
 theme: IP has fully repriced as an asset class — $105M into patent-AI in a single week (DeepIP, Solve Intelligence, Patlytics), Erasca's $2.8B market cap wiped on one IP question, Suno raising $250M at $2.45B while three majors sue, Spotify–UMG opening an AI licensing pipe, Reddit and News Corp banking 8- and 9-figure data royalty checks, and 90% of S&P 500 market value now intangible.
 generated_at: 2026-05-24T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -84,7 +84,9 @@ If you can't answer those four questions on your own portfolio in 60 seconds, yo
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-25T12:33:38.581Z
+share_urn: urn:li:share:7464654914879668224
 hook_format: frame-break
 cta_goal: follows
 slug: suno-250m-series-c-2-45b-valuation-amid-label-lawsuits-2026

@@ -107,3 +107,4 @@
 2026-05-24 17:53 | urn:li:share:7464372981763416065 | Most founders name a patent value. None of them calculated it.  4 methods exist.
 2026-05-25 07:56 | urn:li:share:7464585291568435200 | Your AI model depreciates 40% in 12 months.  Your licensing deal probably does n
 2026-05-25 11:15 | urn:li:share:7464635243136929792 | post #2 | erasca-2-8-billion-market-cap-wiped-ip-question-2026 | $2.8B in market cap. Gone.  Erasca shares cratered 48% after questions surfaced 
+2026-05-25 12:33 | urn:li:share:7464654914879668224 | post #3 | suno-250m-series-c-2-45b-valuation-amid-label-lawsuits-2026 | Suno just closed $250M at a $2.45B valuation.  Sony, Universal and Warner are ac
