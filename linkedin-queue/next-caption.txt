@@ -1,14 +1,15 @@
-40% of your IP value is invisible to investors. Because nobody put it in the model.
+$2.3M product launch. Paused by an injunction nobody saw coming.
 
-Patent royalties don't appear in most startup financial forecasts.
+Freedom to Operate analysis exists for this exact reason.
 
-So acquirers discount. VCs haircut. Buyers assume the IP is worthless.
+7 in 10 founders skip FTO before product launch.
 
-Three numbers fix this:
-Addressable licensed use (TAM of potential licensees)
-Industry royalty rate (software 3–8%, biotech 6–12%)
-Minimum guarantee term (lock in 3–5 year floors)
+Average IP injunction: $4.2M in legal fees + 18 months of delay.
 
-Add a licensing line to your next board deck. Separate from product ARR. Watch the conversation change.
+FTO audit: 2–4 weeks. $8K–$25K. One time.
 
-#IPStrategy #PatentLicensing #Valuation
+The question is never whether you can afford an FTO.
+
+It's whether you can survive skipping one.
+
+#Patents #IPStrategy #Founders
