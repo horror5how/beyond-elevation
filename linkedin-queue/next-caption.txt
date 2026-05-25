@@ -1,13 +1,14 @@
-Your AI model depreciates 40% in 12 months.
+40% of your IP value is invisible to investors. Because nobody put it in the model.
 
-Your licensing deal probably does not account for that.
+Patent royalties don't appear in most startup financial forecasts.
 
-Most AI licensing contracts have no performance benchmark clause. No refresh schedule. No royalty step-down.
+So acquirers discount. VCs haircut. Buyers assume the IP is worthless.
 
-When the model degrades, licensees stop paying. You hold a depreciating asset with no contract protection.
+Three numbers fix this:
+Addressable licensed use (TAM of potential licensees)
+Industry royalty rate (software 3–8%, biotech 6–12%)
+Minimum guarantee term (lock in 3–5 year floors)
 
-3 clauses fix this: performance floor, model refresh schedule, royalty step-down trigger.
+Add a licensing line to your next board deck. Separate from product ARR. Watch the conversation change.
 
-Miss any one and your recurring revenue becomes a one-off sale.
-
-#AIStrategy #IPLicensing #AIContracts
+#IPStrategy #PatentLicensing #Valuation
