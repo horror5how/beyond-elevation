@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffffff0000",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "suno-250-million-series-c-amid-copyright-lawsuits-2026",
-    "ts": "2026-05-24T09:24:44.854Z"
-  },
-  {
     "hash": "42c3e7ff83c3ff99",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "suno-250m-series-c-2-45b-valuation-amid-label-lawsuits-2026",
     "ts": "2026-05-25T12:33:38.581Z"
+  },
+  {
+    "hash": "7e3030333f17ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "spotify-umg-ai-licensing-deal-no-ai-sellout-protest-2026",
+    "ts": "2026-05-25T13:58:43.717Z"
   }
 ]
