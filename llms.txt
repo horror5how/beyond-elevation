@@ -159,5 +159,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How to Hire a Data Asset Valuation Expert (And Why Most Founders Hire the Wrong One)](https://beyondelevation.com/blog/posts/data-asset-valuation-expert/) — /blog/md/data-asset-valuation-expert.md
 - [The Post-Alice §101 Survival Guide: How AI Founders Get Patents Granted in 2026](https://beyondelevation.com/blog/posts/ai-patent-eligibility-101-advisor/) — /blog/md/ai-patent-eligibility-101-advisor.md
 - [The Acquirer's IP Due Diligence Checklist: What 73% of Buyers Miss Before Signing the LOI](https://beyondelevation.com/blog/posts/ip-due-diligence-for-acquirers/) — /blog/md/ip-due-diligence-for-acquirers.md
+- [PatSnap Subscription or Fractional Patent Counsel: The 7-Question Decision Tree (Spoiler: One Answers Strategy, One Answers Data)](https://beyondelevation.com/blog/posts/fractional-patent-counsel-vs-patsnap/) — /blog/md/fractional-patent-counsel-vs-patsnap.md
 
 > Full blog content available at /llms-full.txt

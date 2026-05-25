@@ -2148,3 +2148,19 @@ IP due diligence for acquirers is the structured investigation of a target compa
 The acquirer's IP audit answers three questions: Does the target actually own what it claims to own? Can competitors legally replicate the target's core technology within 18 months? And does the IP generate enoug
 
 ---
+
+## PatSnap Subscription or Fractional Patent Counsel: The 7-Question Decision Tree (Spoiler: One Answers Strategy, One Answers Data)
+
+URL: https://beyondelevation.com/blog/posts/fractional-patent-counsel-vs-patsnap/
+
+$47,000 per year. That is the median PatSnap enterprise subscription. Every IP-owning founder eventually asks the same question: should I keep paying for patent intelligence software, or hire fractional patent counsel who actually tells me what to do with my patents?
+
+Hayat Amin argues that 80% of companies buying PatSnap solve the wrong problem. "They have a strategy gap, not a data gap," Amin says. "PatSnap tells you what exists. Fractional patent counsel tells you what to do about it. Most founders under $50M revenue need the second one first." This is the 7-question decision tree that separates companies who need fractional patent counsel vs PatSnap — and the surprising number who need both.
+
+## What Does PatSnap Actually Deliver — And Where Does It Stop?
+
+PatSnap is a patent intelligence platform that provides landscape reports, citation analysis, prior art search, and competitive monitoring across 170 million patent documents. It does not deliver licensing strategy, IP valuation opinions, investor-ready narratives, or deal structuring. It answers "what exists" — not "what to do about it."
+
+The platform excels at three data tasks. First, landscape analysis: mapping who owns what in a technology area, visualising citation networks, and tracking filing trends over time. Second, prior art search: finding references that could invalidate a competitor’s patent or support your own filing. Third, competitive monitoring: alerting you when competitors file new applications in you
+
+---
