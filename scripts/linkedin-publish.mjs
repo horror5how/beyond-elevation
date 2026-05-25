@@ -135,27 +135,21 @@ async function main() {
   if (!text) text = await readStdin();
   if (!args.image || !text) { printHelp(); process.exit(1); }
 
-  // ── Insert Beyond Elevation blog link ABOVE the "see more" fold ────────────
-  // Inserted between the first paragraph (hook) and the rest of the body so
-  // it's visible without clicking LinkedIn's "see more". Topic-matched when
-  // possible, blog-index fallback otherwise. Idempotent — skipped if caption
-  // already contains a beyondelevation.com URL.
-  function insertCtaAfterHook(body, ctaLine) {
-    const cta = ctaLine.replace(/^\n+/, '');
-    const split = body.indexOf('\n\n');
-    if (split === -1) return `${body}\n\n${cta}`;
-    return `${body.slice(0, split)}\n\n${cta}\n\n${body.slice(split + 2)}`;
-  }
+  // ── Append Beyond Elevation blog link at the END of every post ─────────────
+  // Every LinkedIn post published through this script (push-triggered native
+  // image posts) gets a BE blog link appended at the end — topic-matched when
+  // possible, blog-index fallback ALWAYS otherwise, so every post has a link.
+  // Idempotent — skipped if caption already contains a beyondelevation.com URL.
   try {
     const blogPick = pickBlogForPost({}, text);
     if (blogPick && blogPick.skip) {
       console.log(`      blog link: skipped — caption already links to beyondelevation.com`);
     } else if (blogPick && blogPick.fallback) {
-      text = insertCtaAfterHook(text, blogPick.ctaLine);
-      console.log(`      blog link inserted near top (fallback): ${blogPick.url}`);
+      text = `${text}${blogPick.ctaLine}`;
+      console.log(`      blog link appended at end (fallback): ${blogPick.url}`);
     } else if (blogPick) {
-      text = insertCtaAfterHook(text, blogPick.ctaLine);
-      console.log(`      blog link inserted near top: ${blogPick.slug} (score=${blogPick.score})`);
+      text = `${text}${blogPick.ctaLine}`;
+      console.log(`      blog link appended at end: ${blogPick.slug} (score=${blogPick.score})`);
     }
   } catch (e) {
     console.warn(`      blog link picker failed (continuing without): ${e.message}`);
