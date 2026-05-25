@@ -411,3 +411,5 @@ Post 4: hook_too_long(11w)
 2026-05-25 11:15 | li-auto-post | render OK | post #2 | layout=c accent=#7a8c6e hash=7ef800790f73ffff minDist=9 attempts=1
 2026-05-25 12:33 | li-auto-post | render OK | post #3 | layout=b accent=#a89968 hash=0083ffffc3c3ff9f minDist=5 attempts=1
 2026-05-25 13:58 | li-auto-post | render OK | post #4 | layout=c accent=#a87c7c hash=7e3030333f17ffff minDist=12 attempts=1
+2026-05-25 15:49 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-25 15:49 | li-auto-post | render OK | post #5 | layout=c accent=#7a8c6e hash=ff2100642f2f7fff minDist=16 attempts=2
