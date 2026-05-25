@@ -2182,3 +2182,19 @@ A strong patent landscape analysis answers three questions. Who owns the IP in y
 The global patent database holds over 1
 
 ---
+
+## The Income Approach to Patent Valuation: The 6-Variable DCF That Actually Holds Up in Court (With a Worked Example)
+
+URL: https://beyondelevation.com/blog/posts/income-approach-patent-valuation/
+
+The income approach to patent valuation accounts for over 60% of patent valuations used in licensing disputes, investor due diligence, and M&A pricing. It is the only method that answers the question investors actually ask: how much money will this patent generate? Hayat Amin argues that founders who skip the income approach and default to cost-based estimates leave 40–60% of their patent’s negotiating value on the table — because investors do not care what you spent to get the patent. They care what it earns.
+
+Most founders get the income approach wrong because they miss at least two of the six variables that drive the calculation. This guide breaks down each variable, walks through a worked example, and shows you exactly when the income approach is the right tool — and when it is not.
+
+## What Is the Income Approach to Patent Valuation?
+
+The income approach to patent valuation calculates the present value of all future economic benefits attributable to a patent. It treats the patent as a revenue-generating asset and discounts projected cash flows back to today’s dollars. Courts, the IRS, and institutional investors prefer this method because it connects patent value directly to commercial reality — not to the cost of filing or the price of a comparable asset that may not exist.
+
+In practice, the income approach answers a simple question: if this patent disappeared tomorrow, how much revenue would the patent holder lose? The gap between revenue with the patent and revenue wi
+
+---
