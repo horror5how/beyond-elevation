@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef8301303f3ffff",
-    "layout": "c",
-    "accent": "#7a8c6e",
-    "slug": "brand-managers-ip-committee-ai-2026",
-    "ts": "2026-05-24T11:59:49.249Z"
-  },
-  {
     "hash": "c3c3e7ffe781ffff",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-data-licensing-revenue-stream-reddit-news-corp-2026",
     "ts": "2026-05-25T15:49:38.947Z"
+  },
+  {
+    "hash": "003cffffffff2505",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "ocean-tomo-90-percent-intangibles-brand-ip-committee-2026",
+    "ts": "2026-05-25T18:21:13.753Z"
   }
 ]
