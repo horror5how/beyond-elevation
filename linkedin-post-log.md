@@ -111,3 +111,4 @@
 2026-05-25 12:53 | QUEUED | patent-royalty-dcf-model-2026 | 40% of your IP value is invisible to investors. Because nobody put it in the mod
 2026-05-25 13:58 | urn:li:share:7464676327418163203 | post #4 | spotify-umg-ai-licensing-deal-no-ai-sellout-protest-2026 | Spotify has 700M+ monthly users. Universal Music Group controls roughly a third 
 2026-05-25 15:49 | urn:li:share:7464704239211196416 | post #5 | ai-data-licensing-revenue-stream-reddit-news-corp-2026 | Reddit licenses its corpus to Google for a reported $60M per year. News Corp sig
+2026-05-25 17:51 | QUEUED | freedom-to-operate-fto-2026 | $2.3M product launch. Paused by an injunction nobody saw coming.  Freedom to Ope
