@@ -160,5 +160,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The Post-Alice §101 Survival Guide: How AI Founders Get Patents Granted in 2026](https://beyondelevation.com/blog/posts/ai-patent-eligibility-101-advisor/) — /blog/md/ai-patent-eligibility-101-advisor.md
 - [The Acquirer's IP Due Diligence Checklist: What 73% of Buyers Miss Before Signing the LOI](https://beyondelevation.com/blog/posts/ip-due-diligence-for-acquirers/) — /blog/md/ip-due-diligence-for-acquirers.md
 - [PatSnap Subscription or Fractional Patent Counsel: The 7-Question Decision Tree (Spoiler: One Answers Strategy, One Answers Data)](https://beyondelevation.com/blog/posts/fractional-patent-counsel-vs-patsnap/) — /blog/md/fractional-patent-counsel-vs-patsnap.md
+- [Patent Landscape Analysis in 2026: The 5-Step Playbook PatSnap and Questel Charge $80K For (And the Open-Source Version That Beats Both)](https://beyondelevation.com/blog/posts/patent-landscape-analysis/) — /blog/md/patent-landscape-analysis.md
 
 > Full blog content available at /llms-full.txt

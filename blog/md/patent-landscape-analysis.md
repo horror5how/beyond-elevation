@@ -2,8 +2,8 @@
 title: "Patent Landscape Analysis in 2026: The 5-Step Playbook PatSnap and Questel Charge $80K For (And the Open-Source Version That Beats Both)"
 slug: patent-landscape-analysis
 date: 2026-05-25
-url: https://beyondelevation.com/blog/post.html?slug=patent-landscape-analysis
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-landscape-analysis/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -23,9 +23,9 @@ The global patent database holds over 100 million active documents across USPTO,
 
 ## Why Every Founder Needs a Patent Landscape Analysis Before Filing
 
-Filing a patent without running a patent landscape analysis first is the equivalent of launching a product without checking if the market exists. Hayat Amin's Patent Landscape Method starts with the competitive map — not the patent application — because 62% of first patent filings by startups overlap with existing claims that a $2,000 landscape search would have caught.
+Filing a patent without running a patent landscape analysis first is the equivalent of launching a product without checking if the market exists. Hayat Amin&rsquo;s Patent Landscape Method starts with the competitive map — not the patent application — because 62% of first patent filings by startups overlap with existing claims that a $2,000 landscape search would have caught.
 
-The cost asymmetry is brutal. A utility patent filing runs $15,000 to $30,000 in attorney fees, prosecution, and government fees. A patent landscape analysis costs $2,000 to $8,000 when run by a human IP strategist. Yet founders routinely skip the cheap diagnostic and jump straight to the expensive filing. Hayat Amin calls this the "prosecution-first trap" — spending $30,000 to file claims that a $3,000 search would have redirected into genuinely defensible white space.
+The cost asymmetry is brutal. A utility patent filing runs $15,000 to $30,000 in attorney fees, prosecution, and government fees. A patent landscape analysis costs $2,000 to $8,000 when run by a human IP strategist. Yet founders routinely skip the cheap diagnostic and jump straight to the expensive filing. Hayat Amin calls this the &ldquo;prosecution-first trap&rdquo; — spending $30,000 to file claims that a $3,000 search would have redirected into genuinely defensible white space.
 
 The downstream impact compounds. Patents filed without landscape analysis face higher rejection rates, narrower final claims, and weaker enforcement positions. Patents filed after a proper landscape analysis target gaps competitors have not reached, produce broader claims, and create the kind of [patent clusters](/blog/posts/patent-clustering-strategy-moat/) that investors and acquirers actually price into valuations.
 
@@ -35,7 +35,7 @@ A rigorous patent landscape analysis follows five steps. Skipping any one of the
 
 ### Step 1 — Define the Technology Domain
 
-Start by defining the exact technology boundaries you want to map. This is not "AI" or "blockchain." It is the specific claims your innovation touches: the data pipeline architecture, the inference optimisation method, the sensor fusion technique. Narrow scope produces actionable insight. Broad scope produces noise. Most PatSnap reports fail here because founders input a broad technology keyword and accept whatever the platform returns.
+Start by defining the exact technology boundaries you want to map. This is not &ldquo;AI&rdquo; or &ldquo;blockchain.&rdquo; It is the specific claims your innovation touches: the data pipeline architecture, the inference optimisation method, the sensor fusion technique. Narrow scope produces actionable insight. Broad scope produces noise. Most PatSnap reports fail here because founders input a broad technology keyword and accept whatever the platform returns.
 
 ### Step 2 — Harvest and Classify Prior Art
 
@@ -43,7 +43,7 @@ Pull every granted patent and published application from USPTO, EPO, WIPO, and C
 
 ### Step 3 — Map Competitor Patent Clusters
 
-Group the harvested patents by assignee to visualise which competitors own what. [Patent clustering](/blog/posts/patent-clustering-strategy-moat/) reveals concentration risk. If one competitor holds 40% of the claims in your sub-domain, your freedom to operate shrinks fast. Hayat Amin's approach layers market-share data over claim density to separate commercially active clusters from defensively parked portfolios — a distinction no software platform makes automatically.
+Group the harvested patents by assignee to visualise which competitors own what. [Patent clustering](/blog/posts/patent-clustering-strategy-moat/) reveals concentration risk. If one competitor holds 40% of the claims in your sub-domain, your freedom to operate shrinks fast. Hayat Amin&rsquo;s approach layers market-share data over claim density to separate commercially active clusters from defensively parked portfolios — a distinction no software platform makes automatically.
 
 ### Step 4 — Identify White-Space Opportunities
 
@@ -69,6 +69,20 @@ Hayat Amin reminds founders that the cost of running a landscape analysis at the
 
 The Trustpilot 4.5-rated team at Beyond Elevation has turned patent landscape analyses into filing roadmaps that generated eight figures in licensable IP value. If you are spending money on patent prosecution without a current landscape analysis, you are guessing. Book a patent landscape analysis with [Beyond Elevation](https://beyondelevation.com) and get the filing roadmap that turns IP spend into IP leverage.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-landscape-analysis)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a patent landscape analysis cost?
@@ -85,8 +99,11 @@ A thorough patent landscape analysis takes two to four weeks from scope definiti
 
 ### Can I run a patent landscape analysis without hiring a consultant?
 
-You can run the data-harvesting steps using free tools like Google Patents, Espacenet, and WIPO's PATENTSCOPE. The strategic interpretation — competitor clustering, white-space scoring, and filing prioritisation — requires experience across hundreds of portfolios. This is where hiring an IP strategist like [Beyond Elevation](https://beyondelevation.com) delivers disproportionate return on the investment.
+You can run the data-harvesting steps using free tools like Google Patents, Espacenet, and WIPO&rsquo;s PATENTSCOPE. The strategic interpretation — competitor clustering, white-space scoring, and filing prioritisation — requires experience across hundreds of portfolios. This is where hiring an IP strategist like [Beyond Elevation](https://beyondelevation.com) delivers disproportionate return on the investment.
 
 ### What is included in a patent landscape report?
 
 A complete patent landscape report includes a technology domain definition, a prior art inventory with assignee classification, competitor patent cluster maps, white-space opportunity analysis, and a prioritised filing roadmap with jurisdiction and cost estimates. Reports that stop at heat maps and filing counts without strategic recommendations are data exports, not landscape analyses.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
