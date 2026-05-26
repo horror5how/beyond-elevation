@@ -3,7 +3,7 @@ date: 2026-05-26
 theme: IP, AI defensibility, and financial positioning — from moat scoring to licensing floors to fractional strategy
 generated_at: 2026-05-26T07:34:15.438Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ One BE client added 1.4x to their multiple by closing three gaps pre-raise.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-26T16:41:28.344Z
+share_urn: urn:li:share:7465079670892433410
 hook_format: contrarian
 cta_goal: comments
 slug: patent-licence-minimum-guarantee-floor

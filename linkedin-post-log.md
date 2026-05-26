@@ -116,3 +116,4 @@
 2026-05-26 07:53 | urn:li:share:7464946699690635266 | Your AI agent executed 1,200 tasks this month. You don't own a single claim on h
 2026-05-26 12:50 | urn:li:share:7465021600518742017 | A $15,000 IP audit returned $2.3M in licensing revenue in 14 months.  3 patents 
 2026-05-26 13:52 | urn:li:share:7465037244228235265 | post #1 | ai-moat-vc-8-axis-score-2026 | 8 axes. VCs score all. Founders prep two.  $50M ARR with a thin moat takes a 20%
+2026-05-26 16:41 | urn:li:share:7465079670892433410 | post #2 | patent-licence-minimum-guarantee-floor | No floor clause means your licence is hope.  A licensee can sit on your patent a
