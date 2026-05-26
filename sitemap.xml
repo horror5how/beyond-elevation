@@ -80,6 +80,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/competitor-patent-monitoring-stack/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/fractional-patent-counsel-vs-patsnap/</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -754,12 +760,6 @@
   <url>
     <loc>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</loc>
     <lastmod>2026-03-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/competitor-patent-monitoring-stack/</loc>
-    <lastmod>2026-05-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
