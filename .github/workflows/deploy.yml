@@ -2,6 +2,8 @@ name: Deploy to Vercel Production
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - '.indexing-cache.json'   # cache-only commits must not retrigger a deploy (loop guard)
   workflow_dispatch:
 
 concurrency:
@@ -60,6 +62,11 @@ jobs:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
 
+      - name: Restore Google indexing key
+        run: printf '%s' "$GCP_INDEXING_KEY" > .gcp-indexing-key.json
+        env:
+          GCP_INDEXING_KEY: ${{ secrets.GCP_INDEXING_KEY }}
+
       - name: Install indexing dependency
         run: npm install --no-save --silent googleapis@^144
 
@@ -69,8 +76,9 @@ jobs:
 
       - name: Commit indexing cache
         run: |
+          rm -f .gcp-indexing-key.json
           git add .indexing-cache.json 2>/dev/null || true
           if ! git diff --cached --quiet; then
-            git commit -m "chore(indexing): update indexing cache after deploy" || true
+            git commit -m "chore(indexing): update indexing cache after deploy [skip ci]" || true
             git push origin main || true
           fi

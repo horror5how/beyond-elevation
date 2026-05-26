@@ -1,5 +1,6 @@
 .vercel
-.indexing-cache.json
+# .indexing-cache.json IS committed on purpose — persists the dedupe set across CI deploys
+# so we don't re-push all URLs to the Google Indexing API (200/day quota) every deploy.
 .gcp-indexing-key.json
 node_modules/
 .env
