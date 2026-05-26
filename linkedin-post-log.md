@@ -113,3 +113,4 @@
 2026-05-25 15:49 | urn:li:share:7464704239211196416 | post #5 | ai-data-licensing-revenue-stream-reddit-news-corp-2026 | Reddit licenses its corpus to Google for a reported $60M per year. News Corp sig
 2026-05-25 17:51 | QUEUED | freedom-to-operate-fto-2026 | $2.3M product launch. Paused by an injunction nobody saw coming.  Freedom to Ope
 2026-05-25 18:21 | urn:li:share:7464742387773280256 | post #6 | ocean-tomo-90-percent-intangibles-brand-ip-committee-2026 | 90% of S&P 500 market value is intangibles (Ocean Tomo).  Patents, trademarks, c
+2026-05-26 07:53 | urn:li:share:7464946699690635266 | Your AI agent executed 1,200 tasks this month. You don't own a single claim on h
