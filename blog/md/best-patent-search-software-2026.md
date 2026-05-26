@@ -2,8 +2,8 @@
 title: "The 11 Best Patent Search Platforms in 2026 (Honestly Reviewed Against Each Other and Against a Human IP Strategist)"
 slug: best-patent-search-software-2026
 date: 2026-05-26
-url: https://beyondelevation.com/blog/post.html?slug=best-patent-search-software-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/best-patent-search-software-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,20 @@ Hayat Amin developed the **Patent Search Decision Matrix** after watching three 
 
 Beyond Elevation's patent search advisory operates at Layer 4 — the interpretation layer no software vendor sells because it requires human judgment, market knowledge, and deal experience that algorithms cannot replicate. [Book a consultation](https://beyondelevation.com) to see how it works on your portfolio.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-best-patent-search-software-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Is free patent search software good enough for startups?
@@ -84,3 +98,6 @@ AI patent search tools improve recall and reduce manual search time, but they ca
 ### What is the difference between PatSnap and Derwent Innovation?
 
 PatSnap excels at competitive intelligence, visualization, and AI-powered landscape analysis. Derwent Innovation excels at prosecution-grade accuracy through its human-curated Derwent World Patents Index. PatSnap suits strategy teams and corporate development. Derwent suits law firms and patent prosecution. Most enterprise IP departments use both.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
