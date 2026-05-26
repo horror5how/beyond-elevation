@@ -3,7 +3,7 @@ date: 2026-05-26
 theme: IP, AI defensibility, and financial positioning — from moat scoring to licensing floors to fractional strategy
 generated_at: 2026-05-26T07:34:15.438Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Five posts spanning all three pillars: AI defensibility scoring, IP licensing me
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-26T13:52:52.981Z
+share_urn: urn:li:share:7465037244228235265
 hook_format: number-led
 cta_goal: comments
 slug: ai-moat-vc-8-axis-score-2026

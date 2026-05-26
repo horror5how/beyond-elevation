@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c3c3e7ffe781ffff",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "china-1-69-million-patents-jurisdictional-moat-2026",
-    "ts": "2026-05-24T14:23:28.180Z"
-  },
-  {
     "hash": "0081ffffc3e7ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ocean-tomo-90-percent-intangibles-brand-ip-committee-2026",
     "ts": "2026-05-25T18:21:13.753Z"
+  },
+  {
+    "hash": "3c76130737f5ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "ai-moat-vc-8-axis-score-2026",
+    "ts": "2026-05-26T13:52:52.981Z"
   }
 ]

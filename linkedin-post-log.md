@@ -115,3 +115,4 @@
 2026-05-25 18:21 | urn:li:share:7464742387773280256 | post #6 | ocean-tomo-90-percent-intangibles-brand-ip-committee-2026 | 90% of S&P 500 market value is intangibles (Ocean Tomo).  Patents, trademarks, c
 2026-05-26 07:53 | urn:li:share:7464946699690635266 | Your AI agent executed 1,200 tasks this month. You don't own a single claim on h
 2026-05-26 12:50 | urn:li:share:7465021600518742017 | A $15,000 IP audit returned $2.3M in licensing revenue in 14 months.  3 patents 
+2026-05-26 13:52 | urn:li:share:7465037244228235265 | post #1 | ai-moat-vc-8-axis-score-2026 | 8 axes. VCs score all. Founders prep two.  $50M ARR with a thin moat takes a 20%
