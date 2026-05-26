@@ -1,15 +1,15 @@
-$2.3M product launch. Paused by an injunction nobody saw coming.
+Your AI agent executed 1,200 tasks this month.
+You don't own a single claim on how it works.
 
-Freedom to Operate analysis exists for this exact reason.
+Most founders treat agentic AI as a product decision.
+It's an IP decision.
 
-7 in 10 founders skip FTO before product launch.
+The companies monetising AI in 2026 aren't just building agents — they're patenting the workflows, licensing the logic, and structuring IP holdcos around the outputs.
 
-Average IP injunction: $4.2M in legal fees + 18 months of delay.
+One patent family on an agentic workflow can generate £2M+ in annual royalties.
+Zero patents on the same workflow generates zero.
 
-FTO audit: 2–4 weeks. $8K–$25K. One time.
+Build the agent.
+Then own the IP behind it.
 
-The question is never whether you can afford an FTO.
-
-It's whether you can survive skipping one.
-
-#Patents #IPStrategy #Founders
+#AIStrategy #IPStrategy #AgenticAI
