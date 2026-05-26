@@ -3,7 +3,7 @@ date: 2026-05-26
 theme: IP, AI defensibility, and financial positioning — from moat scoring to licensing floors to fractional strategy
 generated_at: 2026-05-26T07:34:15.438Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -88,7 +88,9 @@ Royalty revenue with a floor converts at an 8x revenue multiple at exit.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-26T19:13:04.775Z
+share_urn: urn:li:share:7465117824211156992
 hook_format: contrarian
 cta_goal: comments
 slug: fractional-ip-counsel-vs-patsnap-decision
