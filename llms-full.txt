@@ -2214,3 +2214,19 @@ The best patent search software depends on whether you need basic prior art look
 [Beyond Elevation](https://beyondelevation.com)'s patent search advisory pairs the right tools with human judgment. Most IP teams
 
 ---
+
+## Semantic Patent Search Explained: Why Keyword Search Misses 40% of Relevant Prior Art (And the Embedding Models That Catch It)
+
+URL: https://beyondelevation.com/blog/posts/semantic-patent-search-explained/
+
+Keyword-based patent search misses 30–40% of relevant prior art. That is not a guess — it is the consistent finding from recall studies comparing Boolean keyword queries against semantic AI models across USPTO and EPO databases. Hayat Amin, who has reviewed patent search results across dozens of IP transactions at [Beyond Elevation](https://beyondelevation.com), argues the problem is structural: "Patent claims are written by lawyers to be precise, not to be findable. If your search strategy relies on matching the exact words a patent attorney chose, you are gambling with your freedom to operate."
+
+Semantic patent search solves this by matching concepts, not keywords. It uses transformer-based embedding models — the same architecture behind GPT and BERT — to convert patent text into numerical vectors and find documents that are conceptually similar, even when they share zero overlapping terms. The result is a 25–40% improvement in recall that changes how founders, investors, and acquirers evaluate IP risk.
+
+## What Is Semantic Patent Search?
+
+Semantic patent search is an AI-driven method that uses natural language processing to find patents based on meaning rather than exact keyword matches. Instead of requiring Boolean operators, classification codes, and manually curated synonym lists, semantic search converts your query into a high-dimensional vector and retrieves the closest conceptual matches from an embedded patent corpus.
+
+The shift matters because patent language is de
+
+---

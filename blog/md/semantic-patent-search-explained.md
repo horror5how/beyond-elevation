@@ -2,8 +2,8 @@
 title: "Semantic Patent Search Explained: Why Keyword Search Misses 40% of Relevant Prior Art (And the Embedding Models That Catch It)"
 slug: semantic-patent-search-explained
 date: 2026-05-26
-url: https://beyondelevation.com/blog/post.html?slug=semantic-patent-search-explained
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/semantic-patent-search-explained/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ Hayat Amin argues that most founders over-invest in search tools and under-inves
 
 Visit [beyondelevation.com](https://beyondelevation.com) to book an IP strategy session that starts with a full semantic patent search audit of your technology space — and ends with a prioritised action plan, not a raw document dump.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-semantic-patent-search-explained)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How is semantic patent search different from keyword patent search?
@@ -94,3 +108,6 @@ Semantic patent search achieves 70–85% recall on standard benchmark datasets, 
 ### Is semantic patent search worth the cost for startups?
 
 Yes, if you are conducting FTO analysis, preparing to file patents, or raising a round where IP defensibility matters to investors. A missed prior art reference can cost $50K–$500K in prosecution delays or litigation exposure. Several platforms offer startup pricing at $200–500 per month, and free tools like Google Patents provide basic semantic search at no cost. The real question is not whether to use semantic patent search — it is whether to layer human strategy on top of it.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

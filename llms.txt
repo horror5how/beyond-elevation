@@ -163,5 +163,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Patent Landscape Analysis in 2026: The 5-Step Playbook PatSnap and Questel Charge $80K For (And the Open-Source Version That Beats Both)](https://beyondelevation.com/blog/posts/patent-landscape-analysis/) — /blog/md/patent-landscape-analysis.md
 - [The Income Approach to Patent Valuation: The 6-Variable DCF That Actually Holds Up in Court (With a Worked Example)](https://beyondelevation.com/blog/posts/income-approach-patent-valuation/) — /blog/md/income-approach-patent-valuation.md
 - [The 11 Best Patent Search Platforms in 2026 (Honestly Reviewed Against Each Other and Against a Human IP Strategist)](https://beyondelevation.com/blog/posts/best-patent-search-software-2026/) — /blog/md/best-patent-search-software-2026.md
+- [Semantic Patent Search Explained: Why Keyword Search Misses 40% of Relevant Prior Art (And the Embedding Models That Catch It)](https://beyondelevation.com/blog/posts/semantic-patent-search-explained/) — /blog/md/semantic-patent-search-explained.md
 
 > Full blog content available at /llms-full.txt
