@@ -414,3 +414,16 @@ Post 4: hook_too_long(11w)
 2026-05-25 15:49 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
 2026-05-25 15:49 | li-auto-post | render OK | post #5 | layout=c accent=#7a8c6e hash=ff2100642f2f7fff minDist=16 attempts=2
 2026-05-25 18:21 | li-auto-post | render OK | post #6 | layout=a accent=#8aa6b8 hash=003cffffffff2505 minDist=21 attempts=1
+2026-05-26 07:35 | li-generate-queue | attempt 1 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-26 07:35 | li-generate-queue | attempt 1 | quality gate failed:
+Post 2: hook_too_long(13w)
+Post 4: hook_too_long(25w)
+Post 5: hook_too_long(12w)
+2026-05-26 07:35 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-26 07:35 | li-generate-queue | attempt 2 | quality gate failed:
+Post 2: hook_too_long(10w)
+Post 3: hook_too_long(11w)
+Post 4: hook_too_long(10w)
+2026-05-26 07:36 | li-generate-queue | attempt 3 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-26 07:36 | li-generate-queue | attempt 3 | OK — all 5 posts pass P→M→R gate (auto-fixes=5)
+2026-05-26 07:36 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
