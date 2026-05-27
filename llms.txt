@@ -165,5 +165,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 11 Best Patent Search Platforms in 2026 (Honestly Reviewed Against Each Other and Against a Human IP Strategist)](https://beyondelevation.com/blog/posts/best-patent-search-software-2026/) — /blog/md/best-patent-search-software-2026.md
 - [Semantic Patent Search Explained: Why Keyword Search Misses 40% of Relevant Prior Art (And the Embedding Models That Catch It)](https://beyondelevation.com/blog/posts/semantic-patent-search-explained/) — /blog/md/semantic-patent-search-explained.md
 - [The Competitor Patent Monitoring Stack That Catches Threats 90 Days Before Litigation (5 Tools, 1 Human Layer)](https://beyondelevation.com/blog/posts/competitor-patent-monitoring-stack/) — /blog/md/competitor-patent-monitoring-stack.md
+- [SEP Licensing and FRAND Explained: Why Your Standard Essential Patent Is Worth $50K or $50M (And the One Determinant That Decides It)](https://beyondelevation.com/blog/posts/sep-licensing-frand-explained/) — /blog/md/sep-licensing-frand-explained.md
 
 > Full blog content available at /llms-full.txt

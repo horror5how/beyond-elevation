@@ -2,8 +2,8 @@
 title: "SEP Licensing and FRAND Explained: Why Your Standard Essential Patent Is Worth $50K or $50M (And the One Determinant That Decides It)"
 slug: sep-licensing-frand-explained
 date: 2026-05-27
-url: https://beyondelevation.com/blog/post.html?slug=sep-licensing-frand-explained
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/sep-licensing-frand-explained/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -63,6 +63,20 @@ Hayat Amin's approach at Beyond Elevation starts with a pre-declaration essentia
 
 If your company holds patents that read on any industry standard and you have not structured a licensing programme, you are leaving guaranteed revenue on the table. [Book a consultation with Beyond Elevation](https://beyondelevation.com) to run a no-obligation SEP portfolio assessment.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-sep-licensing-frand-explained)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the difference between a SEP and a regular patent?
@@ -84,3 +98,6 @@ Aggregate FRAND royalty rates for 5G technology are estimated at 5–8% of the d
 ### Do I need patents in every country to enforce SEP licensing?
 
 You need patents in every major manufacturing and sales jurisdiction where implementers operate. The minimum effective coverage for consumer electronics SEPs includes the US, Europe (via EPO), China, South Korea, and Japan. Missing any major jurisdiction gives licensees a free path to avoid paying royalties in that market.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -2246,3 +2246,19 @@ Most IP teams treat competitor patent monitoring as a quarterly manual check —
 The cost of not monitoring is concrete. Companies that [discover competitor patents](/blog/posts/competitor-patent-blind-spot/) only during fundra
 
 ---
+
+## SEP Licensing and FRAND Explained: Why Your Standard Essential Patent Is Worth $50K or $50M (And the One Determinant That Decides It)
+
+URL: https://beyondelevation.com/blog/posts/sep-licensing-frand-explained/
+
+Qualcomm collects over $6 billion annually from SEP licensing. A mid-size telecom company with nearly identical 5G patents collects nothing. The gap is not patent quality — it is how FRAND licensing terms were structured before the first royalty cheque was ever written.
+
+Hayat Amin argues that most SEP holders leave 80% of their licensing revenue uncollected — not because their patents are weak, but because they declared too early, priced too low, and never enforced globally. SEP licensing and FRAND compliance is the highest-stakes game in intellectual property. Get the structure right and a single patent family funds your next decade of R&D. Get it wrong and you subsidise every competitor who ships a standards-compliant product.
+
+## What Is SEP Licensing and Why Does It Matter?
+
+SEP licensing is the practice of licensing patents declared essential to implementing an industry standard — WiFi 6E, 5G NR, Bluetooth LE, HEVC, or USB4. When a standards body adopts technology covered by your patent, every company building compliant products must either license your patent or stop shipping. That single obligation makes SEP licensing the most predictable revenue stream in intellectual property — and the most litigated.
+
+A standard essential patent exists because its holder contributed a technical innovation to a standards-setting organisation like ETSI, IEEE, or ITU. The SSO incorporated that innovation into the standard specification. In exchange, the patent holder committed to lice
+
+---
