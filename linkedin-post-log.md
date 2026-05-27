@@ -123,3 +123,4 @@
 2026-05-27 10:59 | urn:li:share:7465355946203074561 | post #4 | freedom-to-operate-launch-risk-2026 | $2.3M product launch. Stopped by an injunction nobody ran.  Freedom to Operate i
 2026-05-27 12:22 | urn:li:share:7465376833123909632 | post #5 | data-syndication-recurring-revenue-2026 | You built the dataset once. License it 200 times.  Top-performing operators earn
 2026-05-27 12:56 | QUEUED | ai-patent-search-tools-2026 | AI patent search tools now beat Boolean recall by 35%.  They still can't tell yo
+2026-05-27 17:51 | QUEUED | licensing-revenue-ebitda-multiple-gap-2026 | Your licensing revenue isn't in your EBITDA multiple. Here is why your exit is u
