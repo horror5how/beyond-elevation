@@ -1,17 +1,13 @@
-AI patent search tools now beat Boolean recall by 35%.
+Your licensing revenue isn't in your EBITDA multiple. Here is why your exit is undervalued.
 
-They still can't tell you what to do with what they find.
+Most founders code royalty income as "other income" on the P&L.
 
-6 LLM-powered search platforms launched in 2026.
+Buyers model it as one-off.
 
-Better at finding prior art. Zero help on strategy.
+Your repeatable licensing income deserves a revenue multiple — not an EBITDA haircut.
 
-The 3 gaps every $40K tool leaves open:
+£500K misclassified = £1.6M missing from your exit at a 3.2x revenue multiple.
 
-1. Which claims are actually defensible.
-2. What your portfolio is worth to a licensee.
-3. Whether to file, trade-secret, or abandon.
+Recode it. Annualise it. Put it in Section 2 of your CIM.
 
-That gap is where licensing deals are won or lost.
-
-#IPStrategy #AIPatents #PatentSearch
+#IPStrategy #MAndA #StartupValuation
