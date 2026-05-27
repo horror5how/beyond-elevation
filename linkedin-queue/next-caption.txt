@@ -1,13 +1,17 @@
-PE funds are paying 3–5x for patent royalty streams.
+AI patent search tools now beat Boolean recall by 35%.
 
-Most founders don't know their IP is an asset class.
+They still can't tell you what to do with what they find.
 
-$11B in patent licensing revenue flows in the US annually.
+6 LLM-powered search platforms launched in 2026.
 
-Acacia, Conversant, InterDigital compound at 4–6x over a decade.
+Better at finding prior art. Zero help on strategy.
 
-The average commercial licensing deal runs 12 years.
+The 3 gaps every $40K tool leaves open:
 
-Your patents are not a legal shield. They're a cash flow vehicle.
+1. Which claims are actually defensible.
+2. What your portfolio is worth to a licensee.
+3. Whether to file, trade-secret, or abandon.
 
-#IPStrategy #PatentLicensing #FounderFinance
+That gap is where licensing deals are won or lost.
+
+#IPStrategy #AIPatents #PatentSearch
