@@ -121,3 +121,4 @@
 2026-05-26 19:13 | urn:li:share:7465117824211156992 | post #3 | fractional-ip-counsel-vs-patsnap-decision | Software shows data. Strategy earns revenue.  A $25K/yr tool tells you what exis
 2026-05-27 07:53 | urn:li:share:7465309144493846528 | PE funds are paying 3–5x for patent royalty streams.  Most founders don't know
 2026-05-27 10:59 | urn:li:share:7465355946203074561 | post #4 | freedom-to-operate-launch-risk-2026 | $2.3M product launch. Stopped by an injunction nobody ran.  Freedom to Operate i
+2026-05-27 12:22 | urn:li:share:7465376833123909632 | post #5 | data-syndication-recurring-revenue-2026 | You built the dataset once. License it 200 times.  Top-performing operators earn

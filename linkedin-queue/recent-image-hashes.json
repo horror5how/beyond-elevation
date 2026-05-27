@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7e3030333f17ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "spotify-umg-ai-licensing-deal-no-ai-sellout-protest-2026",
-    "ts": "2026-05-25T13:58:43.717Z"
-  },
-  {
     "hash": "ff2100642f2f7fff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "freedom-to-operate-launch-risk-2026",
     "ts": "2026-05-27T10:59:17.434Z"
+  },
+  {
+    "hash": "00ffffffffff2000",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "data-syndication-recurring-revenue-2026",
+    "ts": "2026-05-27T12:22:17.253Z"
   }
 ]
