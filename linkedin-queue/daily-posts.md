@@ -3,7 +3,7 @@ date: 2026-05-26
 theme: IP, AI defensibility, and financial positioning — from moat scoring to licensing floors to fractional strategy
 generated_at: 2026-05-26T07:34:15.438Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -124,7 +124,9 @@ BE clients save an average of $300K in year one versus BigLaw retainers.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-27T10:59:17.434Z
+share_urn: urn:li:share:7465355946203074561
 hook_format: story
 cta_goal: comments
 slug: freedom-to-operate-launch-risk-2026
