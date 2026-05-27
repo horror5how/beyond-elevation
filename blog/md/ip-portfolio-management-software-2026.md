@@ -2,8 +2,8 @@
 title: "IP Portfolio Management Software in 2026: Anaqua vs Clarivate vs Questel (And When to Hire a Fractional IP CxO Instead)"
 slug: ip-portfolio-management-software-2026
 date: 2026-05-27
-url: https://beyondelevation.com/blog/post.html?slug=ip-portfolio-management-software-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-portfolio-management-software-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,20 @@ If the audit reveals that 30% of your patents should be pruned and another 20% s
 
 At [Beyond Elevation](https://beyondelevation.com), Hayat Amin's team runs the Patent Portfolio Triage as a standalone engagement before making any tool recommendation. The output is a prioritised action plan — not a software demo. Companies that start with strategy and buy software second save an average of $120K in year one compared to those that lead with a platform purchase.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-portfolio-management-software-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the best IP portfolio management software for startups?
@@ -88,3 +102,6 @@ Patent search platforms like PatSnap, Derwent Innovation, and Orbit Intelligence
 ### When should a company switch from spreadsheets to IP portfolio management software?
 
 The tipping point is typically 100–200 active patent assets across 5+ jurisdictions. Below that threshold, a well-maintained spreadsheet paired with a competent patent administrator handles the workload. Above it, the risk of missed renewal deadlines and the complexity of multi-jurisdiction cost management justify a dedicated platform.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
