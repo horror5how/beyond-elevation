@@ -3,7 +3,7 @@ title: "Patent Prior Art Search Explained: The 3-Pass Method Examiners Use (And 
 slug: patent-prior-art-search-explained
 date: 2026-05-27
 url: https://beyondelevation.com/blog/posts/patent-prior-art-search-explained/
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ Hayat Amin's rule is direct: "Never draft a claim you have not searched. The $3K
 
 Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com) — but only if those patents survive examination. A patent prior art search is the cheapest step in the entire IP process, and the one with the highest ROI per dollar spent.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-prior-art-search-explained)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a patent prior art search cost?
@@ -94,3 +108,6 @@ A thorough professional patent prior art search takes 5 to 15 business days depe
 ### Should I search before filing a provisional patent?
 
 Yes. A patent prior art search before filing a provisional application ensures your provisional covers claims that have clear air — and prevents you from wasting your 12-month priority window on an invention that cannot survive examination. The provisional filing buys you time, but only if the underlying claims are defensible.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

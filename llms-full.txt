@@ -2278,3 +2278,19 @@ This guide compares the five leading IP portfolio management software platforms 
 IP portfolio management software is enterprise technology that tracks, maintains, and optimises patent portfolios across jurisdictions — automating docketing, renewal deadlines, cost forecasting, and portfolio-health reporting so that patent operations teams can manage hundreds or thousands of assets without manual spreadsheets. The five dominant platforms today are Anaqua, Clarivate IPMS, Questel Equinox, CPA G
 
 ---
+
+## Patent Prior Art Search Explained: The 3-Pass Method Examiners Use (And Why Yours Probably Missed 25% of Relevant References)
+
+URL: https://beyondelevation.com/blog/posts/patent-prior-art-search-explained/
+
+73% of first-time patent filers receive at least one prior art rejection. The reason is simple: they skipped the patent prior art search that would have caught it — or ran a version so shallow it found less than half the relevant references.
+
+Hayat Amin argues this is the most expensive shortcut in all of IP strategy. In one Beyond Elevation portfolio audit, a Series A startup had spent $47K filing three utility patents without running prior art searches on any of them. Two of the three received obviousness rejections citing references that a $2K search would have surfaced before the first claim was drafted. The third survived — but only because Hayat Amin's team restructured the claims after the audit. A patent prior art search is not a formality. It is the foundation of every defensible filing.
+
+## What Is a Patent Prior Art Search?
+
+A patent prior art search is a systematic investigation of existing patents, publications, products, and public disclosures to determine whether an invention is truly novel and non-obvious before filing a patent application. It is the foundational step in any defensible patent strategy — and the one most founders skip.
+
+Prior art includes anything publicly available before your filing date: granted patents, published patent applications, academic papers, product manuals, conference presentations, open-source repositories, and even social media posts. If someone disclosed your invention — in any form, anywhere in the world — before your priority
+
+---
