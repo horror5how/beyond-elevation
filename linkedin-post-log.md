@@ -125,3 +125,4 @@
 2026-05-27 12:56 | QUEUED | ai-patent-search-tools-2026 | AI patent search tools now beat Boolean recall by 35%.  They still can't tell yo
 2026-05-27 17:51 | QUEUED | licensing-revenue-ebitda-multiple-gap-2026 | Your licensing revenue isn't in your EBITDA multiple. Here is why your exit is u
 2026-05-28 07:51 | QUEUED | patent-continuation-strategy-2026 | IBM filed 9,100 patents last year. More than half were continuations.  Most foun
+2026-05-28 07:52 | urn:li:share:7465671279841374208 | IBM filed 9,100 patents last year. More than half were continuations.  Most foun
