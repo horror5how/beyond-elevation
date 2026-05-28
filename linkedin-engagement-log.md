@@ -765,3 +765,12 @@
 2026-05-28 12:46 | DEBUG body: 0 notifications Sign in New to LinkedIn? Join now Sign in with Apple By continuing, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy. or Email or phone Password Forgot password? Keep me signed in Sign in LinkedIn Corporation © 2026 User Agreement Privacy Policy Community Guidelines Cookie Policy Copyright Policy Send Feedback Language
 2026-05-28 12:46 | DEBUG screenshot saved /tmp/li-debug.png
 2026-05-28 12:46 | run done — 0 would-reply (browserbase ac8d5efa-c2f5-4109-936c-19a071befc1c)
+2026-05-28 12:49 | === engage start · DRY-RUN ===
+2026-05-28 12:49 | browserbase session dc1b7e35-6466-4fd8-828b-8439add62421
+2026-05-28 12:49 | injected 52 cookies
+2026-05-28 12:50 | no posts on activity page — falling back to /feed/
+2026-05-28 12:50 | found 0 recent posts
+2026-05-28 12:50 | DEBUG url=https://www.linkedin.com/checkpoint/challenge/AQEu49HwjxFXFQAAAZ5uoppmsTV887xDxo_l-NjH9XhnH0xWpp1fEIqqQ7WIRb5xb1A463gnV5hNIJK8DUs1_2zHJJ0r2w/?ut=1oeAAi_1WyGYg1 title="Security Verification | LinkedIn" anchors=10 activity=0
+2026-05-28 12:50 | DEBUG body: Sign in Join now Let’s do a quick security check LinkedIn © 2026 User Agreement Privacy Policy Your California Privacy Choices Community Guidelines Cookie Policy Copyright Policy Send Feedback
+2026-05-28 12:50 | DEBUG screenshot saved /tmp/li-debug.png
+2026-05-28 12:50 | run done — 0 would-reply (browserbase dc1b7e35-6466-4fd8-828b-8439add62421)
