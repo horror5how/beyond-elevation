@@ -34,7 +34,7 @@ jobs:
 
       - name: Install deps
         run: |
-          npm install \
+          npm install --no-save \
             @anthropic-ai/sdk@^0.39.0 \
             @browserbasehq/sdk@^2.6.0 \
             playwright-core@^1.60.0
@@ -49,6 +49,17 @@ jobs:
         run: |
           mkdir -p linkedin-queue
           node scripts/li-engage.mjs || echo "engage exited non-zero (already logged)"
+
+      - name: Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: li-engage-debug-${{ github.run_id }}
+          path: |
+            /tmp/li-*.png
+            linkedin-engagement-log.md
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Commit engagement log
         if: always()

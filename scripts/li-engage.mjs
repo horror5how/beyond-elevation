@@ -160,7 +160,6 @@ async function main() {
 
   let postLinks = await collect();
   if (postLinks.length === 0) {
-    // Fallback: try the home feed, filter to posts authored by Hayat
     log(`no posts on activity page — falling back to /feed/`);
     await page.goto("https://www.linkedin.com/feed/", { waitUntil: "domcontentloaded", timeout: 35000 });
     await sleep(3500);
@@ -168,6 +167,25 @@ async function main() {
     postLinks = await collect();
   }
   log(`found ${postLinks.length} recent posts`);
+
+  if (postLinks.length === 0) {
+    // Debug: snapshot what LinkedIn actually rendered so we can tune selectors.
+    try {
+      const info = await page.evaluate(() => ({
+        url: location.href,
+        title: document.title,
+        anchors: document.querySelectorAll("a").length,
+        activityAnchors: document.querySelectorAll('a[href*="urn:li:activity:"]').length,
+        bodySnippet: document.body.innerText.slice(0, 400),
+      }));
+      log(`DEBUG url=${info.url} title="${info.title}" anchors=${info.anchors} activity=${info.activityAnchors}`);
+      log(`DEBUG body: ${info.bodySnippet.replace(/\s+/g, " ")}`);
+      await page.screenshot({ path: "/tmp/li-debug.png", fullPage: true });
+      log(`DEBUG screenshot saved /tmp/li-debug.png`);
+    } catch (e) {
+      log(`debug snapshot failed: ${e.message}`);
+    }
+  }
 
   let replies = 0;
 
