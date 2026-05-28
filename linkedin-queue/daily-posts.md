@@ -3,7 +3,7 @@ date: 2026-05-28
 theme: AI is eating the patent industry, but the deeper story is founders still treating IP as legal cost when the market is repricing it as the core asset
 generated_at: 2026-05-28T08:30:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Six posts framing this week's IP signals through the same lens: the price of IP 
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-28T10:59:57.054Z
+share_urn: urn:li:share:7465718498556825601
 hook_format: contrarian
 cta_goal: follows
 slug: ai-for-patents-funding-wave-2026

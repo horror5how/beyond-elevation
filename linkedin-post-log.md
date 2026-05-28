@@ -126,3 +126,4 @@
 2026-05-27 17:51 | QUEUED | licensing-revenue-ebitda-multiple-gap-2026 | Your licensing revenue isn't in your EBITDA multiple. Here is why your exit is u
 2026-05-28 07:51 | QUEUED | patent-continuation-strategy-2026 | IBM filed 9,100 patents last year. More than half were continuations.  Most foun
 2026-05-28 07:52 | urn:li:share:7465671279841374208 | IBM filed 9,100 patents last year. More than half were continuations.  Most foun
+2026-05-28 10:59 | urn:li:share:7465718498556825601 | post #1 | ai-for-patents-funding-wave-2026 | Three startups raised $105M+ in 90 days to automate patent work.  DeepIP closed 

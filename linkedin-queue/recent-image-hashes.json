@@ -1,12 +1,5 @@
 [
   {
-    "hash": "ff2100642f2f7fff",
-    "layout": "c",
-    "accent": "#7a8c6e",
-    "slug": "ai-data-licensing-revenue-stream-reddit-news-corp-2026",
-    "ts": "2026-05-25T15:49:38.947Z"
-  },
-  {
     "hash": "003cffffffff2505",
     "layout": "a",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "data-syndication-recurring-revenue-2026",
     "ts": "2026-05-27T12:22:17.253Z"
+  },
+  {
+    "hash": "81c3e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "ai-for-patents-funding-wave-2026",
+    "ts": "2026-05-28T10:59:57.054Z"
   }
 ]
