@@ -47,7 +47,14 @@ const log = (line) => {
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 mkdirSync("linkedin-queue", { recursive: true });
-const seen = new Set(existsSync(SEEN) ? JSON.parse(readFileSync(SEEN, "utf8")) : []);
+let seen = new Set();
+try {
+  if (existsSync(SEEN)) {
+    const parsed = JSON.parse(readFileSync(SEEN, "utf8"));
+    if (Array.isArray(parsed)) seen = new Set(parsed);
+    else if (parsed && typeof parsed === "object") seen = new Set(Object.keys(parsed));
+  }
+} catch {}
 
 const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
 
