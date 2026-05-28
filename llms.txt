@@ -169,5 +169,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [IP Portfolio Management Software in 2026: Anaqua vs Clarivate vs Questel (And When to Hire a Fractional IP CxO Instead)](https://beyondelevation.com/blog/posts/ip-portfolio-management-software-2026/) — /blog/md/ip-portfolio-management-software-2026.md
 - [Patent Prior Art Search Explained: The 3-Pass Method Examiners Use (And Why Yours Probably Missed 25% of Relevant References)](https://beyondelevation.com/blog/posts/patent-prior-art-search-explained/) — /blog/md/patent-prior-art-search-explained.md
 - [White Space Analysis Explained: The 4-Step Method to Find $100M Patentable Gaps Your Competitors Missed](https://beyondelevation.com/blog/posts/white-space-analysis-patents/) — /blog/md/white-space-analysis-patents.md
+- [Hong Kong Just Made IP a Borrowable Asset in 2026 — Inside the IP-Finance Sandbox Founders Are Already Using to Raise Without Equity](https://beyondelevation.com/blog/posts/hong-kong-ip-finance-sandbox/) — /blog/md/hong-kong-ip-finance-sandbox.md
 
 > Full blog content available at /llms-full.txt
