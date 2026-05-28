@@ -138,21 +138,35 @@ async function main() {
     return;
   }
 
-  // Collect permalinks of his most recent posts
-  const postLinks = await page.evaluate((max) => {
-    const links = [...document.querySelectorAll('a[href*="/feed/update/urn:li:activity:"]')];
-    const urns = new Set();
-    const out = [];
-    for (const a of links) {
-      const m = a.href.match(/urn:li:activity:\d+/);
-      if (m && !urns.has(m[0])) {
+  // Lazy-loaded activity feed: wait for any post link, then scroll to load a few more.
+  await page.waitForSelector('a[href*="urn:li:activity:"]', { timeout: 15000 }).catch(() => {});
+  for (let i = 0; i < 4; i++) { await page.mouse.wheel(0, 1200); await sleep(900); }
+
+  const collect = async () =>
+    page.evaluate((max) => {
+      const links = [...document.querySelectorAll('a[href*="urn:li:activity:"]')];
+      const urns = new Set();
+      const out = [];
+      for (const a of links) {
+        const m = a.href.match(/urn:li:activity:\d+/);
+        if (!m || urns.has(m[0])) continue;
         urns.add(m[0]);
-        out.push(a.href.split("?")[0]);
+        const url = `https://www.linkedin.com/feed/update/${m[0]}/`;
+        out.push(url);
         if (out.length >= max) break;
       }
-    }
-    return out;
-  }, MAX_POSTS_TO_CHECK);
+      return out;
+    }, MAX_POSTS_TO_CHECK);
+
+  let postLinks = await collect();
+  if (postLinks.length === 0) {
+    // Fallback: try the home feed, filter to posts authored by Hayat
+    log(`no posts on activity page — falling back to /feed/`);
+    await page.goto("https://www.linkedin.com/feed/", { waitUntil: "domcontentloaded", timeout: 35000 });
+    await sleep(3500);
+    for (let i = 0; i < 6; i++) { await page.mouse.wheel(0, 1500); await sleep(900); }
+    postLinks = await collect();
+  }
   log(`found ${postLinks.length} recent posts`);
 
   let replies = 0;
