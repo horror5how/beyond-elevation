@@ -2328,3 +2328,21 @@ The Hong Kong IP-finance sandbox is a regulated testing environment where approv
 The sandbox operates in five stages. First, a company submits its IP portfolio for el
 
 ---
+
+## Perplexity and OpenAI Are the Top 2 Buyers of Licensed Data in 2026 — And the 7-Buyer Directory Most Founders Don't Know Exists
+
+URL: https://beyondelevation.com/blog/posts/who-buys-licensed-data-2026/
+
+The $4.74 billion data licensing market grew 34% year-over-year in 2026 — and most founders with licensable data assets cannot name a single buyer. Hayat Amin argues this is the highest-leverage blind spot in the entire data monetisation stack: founders spend months building proprietary datasets and zero hours mapping who will actually pay for them.
+
+Perplexity and OpenAI account for 77% of real-time data retrieval deals in 2026. But they are only two of seven distinct buyer categories actively acquiring licensed data right now. This directory breaks down every data licensing buyer type, what they pay, and how to get in the room.
+
+## Who Are the 7 Types of Data Licensing Buyers in 2026?
+
+Data licensing buyers in 2026 fall into seven categories, each with different deal structures, price points, and data requirements. Foundation model companies lead on total deal volume, but vertical AI platforms often pay the highest per-record rates because domain-specific data is harder to source at scale.
+
+**1. Foundation Model Companies.** OpenAI, Anthropic, Google DeepMind, Meta AI, and Mistral are the largest buyers of licensed data by total deal value. They need broad, high-quality training corpora — web content, code repositories, scientific literature, multilingual text. OpenAI's data licensing spend exceeded $200M in 2025. These deals are typically flat-fee or usage-based, with exclusivity premiums reaching 3-5x the base rate.
+
+**2. AI Search Engines.** Perplexity, You.com, Brave Se
+
+---
