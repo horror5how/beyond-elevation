@@ -746,3 +746,8 @@
 2026-05-28 08:43 | SKIP | 403 ACCESS_DENIED on socialActions — provide LI_COOKIES_JSON for Voyager path or get r_member_social via Community Management API. Exiting clean.
 2026-05-28 12:30 | latest post: urn:li:share:7465740856373911552
 2026-05-28 12:30 | SKIP | 403 ACCESS_DENIED on socialActions — provide LI_COOKIES_JSON for Voyager path or get r_member_social via Community Management API. Exiting clean.
+2026-05-28 12:37 | === engage start · DRY-RUN ===
+2026-05-28 12:37 | browserbase session 4ff63413-4c03-45f8-931f-f6a2746848ca
+2026-05-28 12:37 | injected 2 cookies
+2026-05-28 12:37 | found 0 recent posts
+2026-05-28 12:37 | run done — 0 would-reply (browserbase 4ff63413-4c03-45f8-931f-f6a2746848ca)
