@@ -443,3 +443,4 @@ Post 4: hook_too_long(10w)
 2026-05-28 07:45 | li-generate-queue | ABORT after 3 attempts — API unreachable
 2026-05-28 10:59 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=4 < 5) | trying different variant
 2026-05-28 10:59 | li-auto-post | render OK | post #1 | layout=b accent=#d7b086 hash=81c3e7ffc3c3ff99 minDist=8 attempts=2
+2026-05-28 12:28 | li-auto-post | render OK | post #2 | layout=c accent=#d7b086 hash=fff810023bf5ffff minDist=7 attempts=1

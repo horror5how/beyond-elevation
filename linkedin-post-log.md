@@ -127,3 +127,4 @@
 2026-05-28 07:51 | QUEUED | patent-continuation-strategy-2026 | IBM filed 9,100 patents last year. More than half were continuations.  Most foun
 2026-05-28 07:52 | urn:li:share:7465671279841374208 | IBM filed 9,100 patents last year. More than half were continuations.  Most foun
 2026-05-28 10:59 | urn:li:share:7465718498556825601 | post #1 | ai-for-patents-funding-wave-2026 | Three startups raised $105M+ in 90 days to automate patent work.  DeepIP closed 
+2026-05-28 12:28 | urn:li:share:7465740856373911552 | post #2 | yale-licensed-patent-2043-moat-2026 | A Yale-licensed patent just extended Palvella's QTORIN protection to 2043.  That

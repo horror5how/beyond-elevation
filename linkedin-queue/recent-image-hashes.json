@@ -1,12 +1,5 @@
 [
   {
-    "hash": "003cffffffff2505",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "ocean-tomo-90-percent-intangibles-brand-ip-committee-2026",
-    "ts": "2026-05-25T18:21:13.753Z"
-  },
-  {
     "hash": "3c76130737f5ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-for-patents-funding-wave-2026",
     "ts": "2026-05-28T10:59:57.054Z"
+  },
+  {
+    "hash": "fff810023bf5ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "yale-licensed-patent-2043-moat-2026",
+    "ts": "2026-05-28T12:28:47.247Z"
   }
 ]

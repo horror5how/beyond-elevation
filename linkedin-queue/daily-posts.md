@@ -3,7 +3,7 @@ date: 2026-05-28
 theme: AI is eating the patent industry, but the deeper story is founders still treating IP as legal cost when the market is repricing it as the core asset
 generated_at: 2026-05-28T08:30:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -60,7 +60,9 @@ Treat IP as a legal-fee line and you underwrite your own multiple compression.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-28T12:28:47.247Z
+share_urn: urn:li:share:7465740856373911552
 hook_format: number-led
 cta_goal: clicks
 slug: yale-licensed-patent-2043-moat-2026
