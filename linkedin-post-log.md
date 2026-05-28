@@ -130,3 +130,4 @@
 2026-05-28 12:28 | urn:li:share:7465740856373911552 | post #2 | yale-licensed-patent-2043-moat-2026 | A Yale-licensed patent just extended Palvella's QTORIN protection to 2043.  That
 2026-05-28 12:52 | urn:li:share:7465746761815617536 | You can unlock $4M from your patents without giving up a single share.  Most fou
 2026-05-28 14:36 | urn:li:share:7465773096889659393 | post #3 | osr-30m-ip-only-acquisition-2026 | OSR Holdings just paid $30M for a single IP portfolio. Not the company. Just the
+2026-05-28 16:53 | urn:li:share:7465807376000892928 | post #4 | stan-lee-elevenlabs-voice-ip-2026 | Stan Lee died in 2018. His voice just came back through an ElevenLabs AI licensi

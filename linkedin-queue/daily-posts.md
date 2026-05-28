@@ -3,7 +3,7 @@ date: 2026-05-28
 theme: AI is eating the patent industry, but the deeper story is founders still treating IP as legal cost when the market is repricing it as the core asset
 generated_at: 2026-05-28T08:30:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -132,7 +132,9 @@ DM "IP audit" for the framework I use to price patent portfolios before raises.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-05-28T16:53:06.907Z
+share_urn: urn:li:share:7465807376000892928
 hook_format: story
 cta_goal: clicks
 slug: stan-lee-elevenlabs-voice-ip-2026
