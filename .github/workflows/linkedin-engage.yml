@@ -1,12 +1,20 @@
-name: LinkedIn First-30-Min Engagement
+name: LinkedIn Engagement (UK 3×/day)
 
 on:
   repository_dispatch:
     types: [linkedin-engage]
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Don't actually post replies — draft + log only"
+        type: boolean
+        default: false
   schedule:
-    # fallback — runs every 30 min so engagement always happens even if dispatch missed
-    - cron: '*/30 * * * *'
+    # UK clock times (BST = UTC+1). When the UK switches to GMT in late October,
+    # bump each cron's hour by +1 (i.e. 0 8 / 0 13 / 0 16).
+    - cron: "0 7 * * *"   # 08:00 BST
+    - cron: "0 12 * * *"  # 13:00 BST
+    - cron: "0 15 * * *"  # 16:00 BST
 
 permissions:
   contents: write
@@ -22,18 +30,22 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: "22"
 
       - name: Install deps
         run: |
-          npm install @anthropic-ai/sdk@^0.30.0
+          npm install \
+            @anthropic-ai/sdk@^0.39.0 \
+            @browserbasehq/sdk@^2.6.0 \
+            playwright-core@^1.60.0
 
       - name: Engage
         env:
-          LI_TOKEN: ${{ secrets.LI_TOKEN }}
-          LI_URN: ${{ secrets.LI_URN }}
+          BROWSERBASE_API_KEY: ${{ secrets.BROWSERBASE_API_KEY }}
+          BROWSERBASE_PROJECT_ID: ${{ secrets.BROWSERBASE_PROJECT_ID }}
           LI_COOKIES_JSON: ${{ secrets.LI_COOKIES_JSON }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DRY_RUN: ${{ inputs.dry_run }}
         run: |
           mkdir -p linkedin-queue
           node scripts/li-engage.mjs || echo "engage exited non-zero (already logged)"
@@ -46,8 +58,8 @@ jobs:
           git add linkedin-engagement-log.md linkedin-queue/seen-comments.json 2>/dev/null || true
           git diff --cached --quiet && { echo 'no changes'; exit 0; }
           git commit -m 'LinkedIn: engagement log update'
-          # 2026-05-01 COO audit: race-condition push fixed with rebase + retry
-          # (engage runs every 30 min and races carousel queue / publisher commits).
+          # 3× daily now (down from every 30 min) so push races are far less likely,
+          # but keep the rebase-retry guard from the prior incident.
           for i in 1 2 3 4; do
             git push origin main && exit 0
             sleep $((i * 3))

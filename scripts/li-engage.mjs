@@ -1,404 +1,280 @@
 #!/usr/bin/env node
 /**
- * li-engage.mjs — LinkedIn first-30-min engagement loop.
+ * li-engage.mjs — Beyond Elevation LinkedIn engagement bot (browser-driven).
  *
- * 1. Reads latest published `urn:li:share:*` from
- *    `Claude Database/linkedin-post-log.md` (CI: copied into ./linkedin-post-log.md)
- * 2. Fetches new comments via the LinkedIn Voyager API (cookie auth — no OAuth scope
- *    needed; the official `/v2/socialActions/{urn}/comments` requires `r_member_social`
- *    which LinkedIn only grants via Community Management API review)
- * 3. Drafts substantive replies using Anthropic Claude SDK in Hayat's voice
- * 4. Posts replies via Voyager (cookie auth) with OAuth /rest/socialActions as fallback
- * 5. Likes 5 recent posts from linkedin-queue/founder-network.json (OAuth, requires w_member_social)
- * 6. Logs every action to linkedin-engagement-log.md
+ * Schedule (set in .github/workflows/linkedin-engage.yml):
+ *   08:00, 13:00, 16:00 UK time (BST → 07/12/15 UTC).
  *
- * Routine resilience: every external call wrapped in 3-retry with 3-8s backoff.
+ * Drives a real Chromium via Browserbase (cloud) with Hayat's LinkedIn cookies
+ * injected. Opens his recent activity, finds his last few posts, and on each
+ * one replies to NEW commenters with a short, on-brand Claude-drafted reply.
  *
  * Env:
- *   LI_TOKEN              — OAuth access token (w_member_social) for posts/likes fallback
- *   LI_URN                — urn:li:person:... (Hayat's member URN)
- *   LI_COOKIES_JSON       — JSON-stringified array of LinkedIn session cookies
- *                           (must include li_at and JSESSIONID). Used for Voyager API calls.
- *   ANTHROPIC_API_KEY     — Claude API
+ *   BROWSERBASE_API_KEY, BROWSERBASE_PROJECT_ID
+ *   LI_COOKIES_JSON   — JSON array of LinkedIn cookies (li_at, JSESSIONID, etc.)
+ *   ANTHROPIC_API_KEY — Claude API
+ *   DRY_RUN           — "true" to draft + log replies without actually posting
  */
 
-import { readFileSync, writeFileSync, existsSync, appendFileSync } from "node:fs";
+import { Browserbase } from "@browserbasehq/sdk";
+import { chromium } from "playwright-core";
 import Anthropic from "@anthropic-ai/sdk";
+import { readFileSync, writeFileSync, existsSync, appendFileSync, mkdirSync } from "node:fs";
 
-const { LI_TOKEN, LI_URN, LI_COOKIES_JSON, ANTHROPIC_API_KEY } = process.env;
-if (!LI_TOKEN || !LI_URN) {
-  console.error("Missing LI_TOKEN or LI_URN");
-  process.exit(1);
-}
-if (!ANTHROPIC_API_KEY) {
-  console.error("Missing ANTHROPIC_API_KEY");
-  process.exit(1);
-}
+const {
+  BROWSERBASE_API_KEY,
+  BROWSERBASE_PROJECT_ID,
+  LI_COOKIES_JSON,
+  ANTHROPIC_API_KEY,
+} = process.env;
+const DRY_RUN = ["true", "1", "yes"].includes(String(process.env.DRY_RUN || "").toLowerCase());
+const MAX_REPLIES = 5;
+const MAX_POSTS_TO_CHECK = 3;
+const LOG = "linkedin-engagement-log.md";
+const SEEN = "linkedin-queue/seen-comments.json";
+const PROFILE_URL = "https://www.linkedin.com/in/hayatamin/recent-activity/all/";
 
-// ── Voyager cookie auth (preferred for reads) ───────────────────────────
-let VOYAGER_COOKIE_HEADER = null;
-let VOYAGER_CSRF = null;
-if (LI_COOKIES_JSON) {
-  try {
-    const cookies = JSON.parse(LI_COOKIES_JSON);
-    const liAt = cookies.find((c) => c.name === "li_at")?.value;
-    const jsess = cookies.find((c) => c.name === "JSESSIONID")?.value;
-    if (liAt && jsess) {
-      VOYAGER_COOKIE_HEADER = `li_at=${liAt}; JSESSIONID=${jsess}`;
-      VOYAGER_CSRF = jsess.replace(/^"|"$/g, "");
-    }
-  } catch (e) {
-    console.error(`Bad LI_COOKIES_JSON: ${e.message}`);
-  }
-}
+function bail(msg) { console.error(msg); process.exit(0); }
+if (!BROWSERBASE_API_KEY || !BROWSERBASE_PROJECT_ID) bail("Missing Browserbase env");
+if (!LI_COOKIES_JSON) bail("Missing LI_COOKIES_JSON");
+if (!ANTHROPIC_API_KEY) bail("Missing ANTHROPIC_API_KEY");
 
-const LI_VERSION = "202604";
-const ENG_LOG = "linkedin-engagement-log.md";
-const SEEN_FILE = "linkedin-queue/seen-comments.json";
-const NETWORK_FILE = "linkedin-queue/founder-network.json";
-const POST_LOG_CANDIDATES = [
-  "linkedin-post-log.md",
-  "../Claude Database/linkedin-post-log.md",
-  "../../Claude Database/linkedin-post-log.md",
-];
-
-const stamp = () =>
-  new Date().toISOString().slice(0, 16).replace("T", " ");
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const stamp = () => new Date().toISOString().slice(0, 16).replace("T", " ");
 const log = (line) => {
-  const entry = `${stamp()} | ${line}\n`;
-  appendFileSync(ENG_LOG, entry);
-  console.log(entry.trim());
+  try { appendFileSync(LOG, `${stamp()} | ${line}\n`); } catch {}
+  console.log(line);
 };
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-// ── 3-retry wrapper per CLAUDE.md routine resilience ─────────────────────
-async function withRetry(label, fn, attempts = 3) {
-  let lastErr;
-  for (let i = 1; i <= attempts; i++) {
-    try {
-      return await fn();
-    } catch (e) {
-      lastErr = e;
-      console.error(`[retry ${i}/${attempts}] ${label}: ${e.message}`);
-      if (e.code === 401) throw e; // don't retry auth failures
-      if (i < attempts) await sleep(3000 + Math.random() * 5000);
-    }
-  }
-  throw lastErr;
-}
+mkdirSync("linkedin-queue", { recursive: true });
+const seen = new Set(existsSync(SEEN) ? JSON.parse(readFileSync(SEEN, "utf8")) : []);
 
-// ── parse latest urn:li:share from post log ──────────────────────────────
-function findLatestShareUrn() {
-  for (const p of POST_LOG_CANDIDATES) {
-    if (!existsSync(p)) continue;
-    const lines = readFileSync(p, "utf8").trim().split("\n").filter(Boolean);
-    for (let i = lines.length - 1; i >= 0; i--) {
-      const m = lines[i].match(/urn:li:share:\d+/);
-      if (m) return m[0];
-    }
-  }
-  return null;
-}
+const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
 
-// ── LinkedIn API helpers ─────────────────────────────────────────────────
-async function liFetch(path, init = {}) {
-  const url = path.startsWith("http")
-    ? path
-    : `https://api.linkedin.com${path}`;
-  const res = await fetch(url, {
-    ...init,
-    headers: {
-      Authorization: `Bearer ${LI_TOKEN}`,
-      "X-Restli-Protocol-Version": "2.0.0",
-      "Linkedin-Version": LI_VERSION,
-      "Content-Type": "application/json",
-      ...(init.headers || {}),
-    },
+async function draftReply(postText, commentText, commenter) {
+  const r = await anthropic.messages.create({
+    model: "claude-sonnet-4-6",
+    max_tokens: 220,
+    system:
+      "You are Hayat Amin replying on LinkedIn to someone who commented on your own post. " +
+      "One or two sentences. Warm, specific, additive — react to the substance of THEIR comment, " +
+      "not a generic 'thanks for sharing'. No hashtags, no emojis, no preamble. Sound like a human, " +
+      "not a brand. Don't repeat their words back at them.",
+    messages: [
+      {
+        role: "user",
+        content:
+          `My post:\n"""${postText.slice(0, 1500)}"""\n\n` +
+          `${commenter || "A commenter"} said:\n"""${commentText.slice(0, 800)}"""\n\nReply.`,
+      },
+    ],
   });
-  if (res.status === 401) {
-    const e = new Error("401 EMPTY_ACCESS_TOKEN");
-    e.code = 401;
-    throw e;
-  }
-  const text = await res.text();
-  if (!res.ok) throw new Error(`${res.status} ${path} :: ${text.slice(0, 300)}`);
-  return text ? JSON.parse(text) : {};
+  return r.content
+    .filter((b) => b.type === "text")
+    .map((b) => b.text)
+    .join("")
+    .trim()
+    .replace(/^["']|["']$/g, "");
 }
 
-// ── Voyager fetch (cookie auth) ─────────────────────────────────────────
-async function voyagerFetch(path) {
-  if (!VOYAGER_COOKIE_HEADER) {
-    const e = new Error("VOYAGER_DISABLED no LI_COOKIES_JSON");
-    e.code = "NO_VOYAGER";
-    throw e;
-  }
-  const url = path.startsWith("http") ? path : `https://www.linkedin.com${path}`;
-  const res = await fetch(url, {
-    headers: {
-      Cookie: VOYAGER_COOKIE_HEADER,
-      "Csrf-Token": VOYAGER_CSRF,
-      Accept: "application/vnd.linkedin.normalized+json+2.1",
-      "X-Restli-Protocol-Version": "2.0.0",
-      "X-Li-Lang": "en_US",
-      "User-Agent":
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-      Referer: "https://www.linkedin.com/",
-    },
-  });
-  const text = await res.text();
-  if (res.status === 401 || res.status === 403) {
-    const e = new Error(`${res.status} VOYAGER_AUTH_EXPIRED`);
-    e.code = "VOYAGER_AUTH";
-    throw e;
-  }
-  if (!res.ok) throw new Error(`voyager ${res.status} ${path} :: ${text.slice(0, 300)}`);
-  return text ? JSON.parse(text) : {};
-}
-
-// Normalize Voyager comment elements into the shape the rest of the loop expects:
-//   { id, actor, message: { text } }
-function normalizeVoyagerComments(json) {
-  const elts = json?.data?.elements || json?.elements || [];
-  const included = json?.included || [];
-  // Voyager's normalized format: actor URN may be in element.commenter or element.actor.
-  return elts.map((el) => {
-    const id = el.commentUrn || el.entityUrn || el.urn || el.$URN || el.id;
-    const actor =
-      el.commenter || el.actor?.urn || el.actor || el["*commenter"] || el.author || "";
-    const text =
-      el.commentary?.text ||
-      el.message?.text ||
-      el.text ||
-      el.commentary ||
-      "";
-    return { id, actor, message: { text } };
-  });
-}
-
-async function fetchComments(shareUrn) {
-  const encoded = encodeURIComponent(shareUrn);
-
-  // Path A — Voyager (cookie auth, no OAuth scope needed). Preferred.
-  if (VOYAGER_COOKIE_HEADER) {
-    try {
-      const json = await withRetry(
-        "fetchComments-voyager",
-        () =>
-          voyagerFetch(
-            `/voyager/api/feed/comments?count=50&numReplies=0&q=comments&sortOrder=RELEVANCE&updateId=${encoded}`
-          ),
-        2
-      );
-      const elements = normalizeVoyagerComments(json);
-      return { elements, _source: "voyager" };
-    } catch (e) {
-      console.error(`voyager path failed: ${e.message} — falling back to OAuth`);
-      // fall through to OAuth path
-    }
-  }
-
-  // Path B — OAuth /rest then /v2 (requires r_member_social — likely 403 today).
-  const tries = [
-    `/rest/socialActions/${encoded}/comments?count=50`,
-    `/v2/socialActions/${encoded}/comments?count=50`,
-  ];
-  let lastErr;
-  for (const path of tries) {
-    try {
-      const data = await withRetry("fetchComments-oauth", () => liFetch(path), 2);
-      return { ...data, _source: "oauth" };
-    } catch (e) {
-      lastErr = e;
-      if (!/^403/.test(e.message)) break;
-    }
-  }
-  throw lastErr;
-}
-
-async function postComment(shareUrn, text) {
-  const encoded = encodeURIComponent(shareUrn);
-  const path = `/v2/socialActions/${encoded}/comments`;
-  const body = JSON.stringify({
-    actor: LI_URN,
-    object: shareUrn,
-    message: { text, attributes: [] },
-  });
-  return withRetry("postComment", () => liFetch(path, { method: "POST", body }));
-}
-
-async function likePost(shareUrn) {
-  const encoded = encodeURIComponent(shareUrn);
-  const path = `/v2/socialActions/${encoded}/likes`;
-  const body = JSON.stringify({ actor: LI_URN, object: shareUrn });
-  return withRetry("likePost", () => liFetch(path, { method: "POST", body }));
-}
-
-// ── seen-comments persistence ────────────────────────────────────────────
-function loadSeen() {
-  if (!existsSync(SEEN_FILE)) return {};
-  try {
-    return JSON.parse(readFileSync(SEEN_FILE, "utf8"));
-  } catch {
-    return {};
-  }
-}
-function saveSeen(seen) {
-  writeFileSync(SEEN_FILE, JSON.stringify(seen, null, 2));
-}
-
-// ── network list (curated handles to like) ──────────────────────────────
-function loadNetwork() {
-  if (!existsSync(NETWORK_FILE)) return [];
-  try {
-    return JSON.parse(readFileSync(NETWORK_FILE, "utf8")).handles || [];
-  } catch {
-    return [];
-  }
-}
-
-// ── Claude reply drafter ─────────────────────────────────────────────────
-const claude = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
-
-async function draftReply({ commenterFirstName, originalPost, commentText }) {
-  return withRetry("claude", async () => {
-    const msg = await claude.messages.create({
-      model: "claude-sonnet-4-5-20250929",
-      max_tokens: 400,
-      system:
-        "You are Hayat Amin's voice on LinkedIn. Reply substantively (≥30 words, ≤80 words), reference the commenter by first name, add ONE concrete insight or counter-view from the IP/fractional CXO domain. No emojis. No 'great point.' No platitudes.",
-      messages: [
-        {
-          role: "user",
-          content: `Commenter first name: ${commenterFirstName}\n\nOriginal post (excerpt):\n${(originalPost || "").slice(0, 800)}\n\nTheir comment:\n${commentText}\n\nWrite the reply now. Output only the reply text — no preamble, no quotes.`,
-        },
-      ],
-    });
-    return msg.content[0].text.trim();
-  });
-}
-
-// ── fetch commenter profile name ────────────────────────────────────────
-async function fetchFirstName(actorUrn) {
-  if (!actorUrn) return "there";
-  try {
-    const id = String(actorUrn).split(":").pop();
-    if (VOYAGER_COOKIE_HEADER) {
-      // Voyager identity dash: returns full profile object
-      const data = await withRetry("getName-voyager", () =>
-        voyagerFetch(`/voyager/api/identity/dash/profiles/${id}`)
-      );
-      const profile = data?.elements?.[0] || data?.data || data;
-      return profile?.firstName || profile?.localizedFirstName || "there";
-    }
-    const data = await withRetry("getName-oauth", () =>
-      liFetch(`/v2/people/(id:${id})?projection=(localizedFirstName)`)
-    );
-    return data.localizedFirstName || "there";
-  } catch {
-    return "there";
-  }
-}
-
-// ── main ────────────────────────────────────────────────────────────────
 async function main() {
-  const shareUrn = findLatestShareUrn();
-  if (!shareUrn) {
-    log("no urn:li:share found in post log — exiting clean");
-    return;
-  }
-  log(`latest post: ${shareUrn}`);
+  log(`=== engage start · ${DRY_RUN ? "DRY-RUN" : "LIVE"} ===`);
 
-  // 1) fetch + reply to new comments
-  let comments;
-  try {
-    comments = await fetchComments(shareUrn);
-  } catch (e) {
-    if (e.code === 401 || e.code === "VOYAGER_AUTH") {
-      log(`FAIL | auth expired (${e.message}) — refresh LI_COOKIES_JSON or LI_TOKEN`);
-      return;
-    }
-    if (/^403/.test(e.message)) {
-      log(`SKIP | 403 ACCESS_DENIED on socialActions — provide LI_COOKIES_JSON for Voyager path or get r_member_social via Community Management API. Exiting clean.`);
-      return;
-    }
-    log(`FAIL | fetchComments: ${e.message}`);
-    return;
-  }
-
-  const elements = comments.elements || [];
-  log(`found ${elements.length} total comments on latest post (source: ${comments._source || "unknown"})`);
-
-  if (elements.length === 0 && (comments._error || comments.message)) {
-    log(`note: API returned no elements — likely scope-limited; exiting clean`);
-  }
-
-  const seen = loadSeen();
-  const seenSet = new Set(seen[shareUrn] || []);
-  const newComments = elements.filter((c) => {
-    const id = c.id || c.$URN || c.commentUrn;
-    if (!id) return false;
-    if (seenSet.has(id)) return false;
-    if ((c.actor || "") === LI_URN) return false; // skip own comments
-    return true;
+  const bb = new Browserbase({ apiKey: BROWSERBASE_API_KEY });
+  const session = await bb.sessions.create({
+    projectId: BROWSERBASE_PROJECT_ID,
+    browserSettings: {
+      fingerprint: { devices: ["desktop"], locales: ["en-GB"], operatingSystems: ["macos"] },
+      viewport: { width: 1440, height: 900 },
+    },
   });
+  log(`browserbase session ${session.id}`);
 
-  if (newComments.length === 0) {
-    log(`no new comments — exiting clean`);
-  } else {
-    log(`processing ${newComments.length} new comment(s)`);
-    for (const c of newComments) {
-      const id = c.id || c.$URN || c.commentUrn;
-      const commentText = (c.message && c.message.text) || "";
-      if (!commentText.trim()) {
-        seenSet.add(id);
+  const browser = await chromium.connectOverCDP(session.connectUrl);
+  let ctx = browser.contexts()[0] || (await browser.newContext());
+  let page = ctx.pages()[0] || (await ctx.newPage());
+
+  // Inject LinkedIn cookies
+  try {
+    const raw = JSON.parse(LI_COOKIES_JSON);
+    const cookies = raw.map((c) => ({
+      name: c.name,
+      value: c.value,
+      domain: c.domain || ".linkedin.com",
+      path: c.path || "/",
+      secure: c.secure !== false,
+      httpOnly: c.httpOnly === true,
+      sameSite:
+        c.sameSite === "Lax"
+          ? "Lax"
+          : c.sameSite === "Strict"
+          ? "Strict"
+          : "None",
+      ...(c.expires || c.expirationDate
+        ? { expires: Math.floor(c.expires || c.expirationDate) }
+        : {}),
+    }));
+    await ctx.addCookies(cookies);
+    log(`injected ${cookies.length} cookies`);
+  } catch (e) {
+    log(`cookie inject failed: ${e.message}`);
+    await browser.close();
+    return;
+  }
+
+  await page.goto(PROFILE_URL, { waitUntil: "domcontentloaded", timeout: 35000 });
+  await sleep(3500);
+  if (/\/login|\/checkpoint|\/uas/.test(page.url())) {
+    log(`cookies stale — redirected to ${page.url()}`);
+    try { await page.screenshot({ path: "/tmp/li-stale.png" }); } catch {}
+    await browser.close();
+    return;
+  }
+
+  // Collect permalinks of his most recent posts
+  const postLinks = await page.evaluate((max) => {
+    const links = [...document.querySelectorAll('a[href*="/feed/update/urn:li:activity:"]')];
+    const urns = new Set();
+    const out = [];
+    for (const a of links) {
+      const m = a.href.match(/urn:li:activity:\d+/);
+      if (m && !urns.has(m[0])) {
+        urns.add(m[0]);
+        out.push(a.href.split("?")[0]);
+        if (out.length >= max) break;
+      }
+    }
+    return out;
+  }, MAX_POSTS_TO_CHECK);
+  log(`found ${postLinks.length} recent posts`);
+
+  let replies = 0;
+
+  outer: for (const postUrl of postLinks) {
+    if (replies >= MAX_REPLIES) break;
+    log(`open ${postUrl}`);
+    await page.goto(postUrl, { waitUntil: "domcontentloaded", timeout: 35000 });
+    await sleep(3500);
+
+    // Try to switch comments to "Most recent"
+    try {
+      await page.click('button:has-text("Most relevant")', { timeout: 4000 });
+      await sleep(400);
+      await page.click('div[role="menuitem"]:has-text("Most recent"), button:has-text("Most recent")', { timeout: 4000 });
+      await sleep(1500);
+    } catch {}
+
+    // Scroll to load comments
+    for (let i = 0; i < 3; i++) {
+      await page.mouse.wheel(0, 900);
+      await sleep(900);
+    }
+
+    const postText = await page.evaluate(() => {
+      const el = document.querySelector(
+        "div.feed-shared-update-v2__description, div.update-components-text"
+      );
+      return el ? el.innerText.trim() : "";
+    });
+
+    const comments = await page.evaluate(() => {
+      const out = [];
+      const blocks = [
+        ...document.querySelectorAll(
+          'article.comments-comment-entity, div.comments-comment-item, div[data-id^="urn:li:comment:"]'
+        ),
+      ];
+      for (const b of blocks) {
+        const author =
+          b.querySelector('a span[dir="ltr"], span.comments-post-meta__name-text span[aria-hidden]')
+            ?.innerText?.trim() || "";
+        const txt =
+          b.querySelector(
+            "span.comments-comment-item__main-content, div.comments-comment-item-content-body, .update-components-text"
+          )?.innerText?.trim() || "";
+        const id = b.getAttribute("data-id") || b.id || "";
+        if (txt) out.push({ id, author, text: txt });
+      }
+      return out.slice(0, 20);
+    });
+    log(`${comments.length} comments on this post`);
+
+    for (const c of comments) {
+      if (replies >= MAX_REPLIES) break outer;
+      const key = `${postUrl}::${c.id || c.author}::${c.text.slice(0, 40)}`;
+      if (seen.has(key)) continue;
+      let reply;
+      try {
+        reply = await draftReply(postText, c.text, c.author);
+      } catch (e) {
+        log(`draft fail (${c.author}): ${e.message}`);
         continue;
       }
-      const firstName = await fetchFirstName(c.actor || "");
+      if (!reply || reply.length < 6) {
+        log(`empty reply for ${c.author}`);
+        continue;
+      }
+      if (DRY_RUN) {
+        log(`DRY_RUN would reply to ${c.author}: ${reply.slice(0, 120)}`);
+        seen.add(key);
+        replies++;
+        continue;
+      }
+
       try {
-        const reply = await draftReply({
-          commenterFirstName: firstName,
-          originalPost: "",
-          commentText,
+        const opened = await page.evaluate((snippet) => {
+          const blocks = [
+            ...document.querySelectorAll(
+              'article.comments-comment-entity, div.comments-comment-item, div[data-id^="urn:li:comment:"]'
+            ),
+          ];
+          const block = blocks.find((b) => (b.innerText || "").includes(snippet));
+          if (!block) return false;
+          const btn = [...block.querySelectorAll("button")].find((x) =>
+            /^reply$/i.test((x.innerText || "").trim())
+          );
+          if (!btn) return false;
+          btn.scrollIntoView({ block: "center" });
+          btn.click();
+          return true;
+        }, c.text.slice(0, 30));
+        if (!opened) { log(`reply button not found for ${c.author}`); continue; }
+        await sleep(1500);
+
+        const editor = await page.$(
+          'div.ql-editor[contenteditable="true"], div[contenteditable="true"][aria-label*="Reply"]'
+        );
+        if (!editor) { log(`reply editor not found for ${c.author}`); continue; }
+        await editor.click();
+        await page.keyboard.type(reply, { delay: 28 });
+        await sleep(900);
+
+        const submitted = await page.evaluate(() => {
+          const btns = [...document.querySelectorAll("button")].filter((b) =>
+            /^reply$|^post$/i.test((b.innerText || "").trim())
+          );
+          for (const b of btns.reverse()) {
+            if (b.offsetParent !== null && !b.disabled) { b.click(); return true; }
+          }
+          return false;
         });
-        log(`DRAFT for ${firstName}: ${reply.replace(/\n/g, " ").slice(0, 200)}`);
-        await postComment(shareUrn, reply);
-        log(`POSTED reply to ${firstName} (${id})`);
-        seenSet.add(id);
+        if (!submitted) { log(`submit not found for ${c.author}`); continue; }
+        await sleep(2500);
+        seen.add(key);
+        replies++;
+        log(`REPLIED to ${c.author}: ${reply.slice(0, 100)}`);
       } catch (e) {
-        log(`FAIL | reply to ${id}: ${e.message}`);
+        log(`reply error (${c.author}): ${e.message}`);
       }
     }
   }
-  seen[shareUrn] = [...seenSet];
-  saveSeen(seen);
 
-  // 2) like 5 posts from curated network (best-effort)
-  const network = loadNetwork();
-  if (network.length === 0) {
-    log(`network list empty — skipping like loop`);
-  } else {
-    let liked = 0;
-    for (const entry of network) {
-      if (liked >= 5) break;
-      // entry can be { lastShareUrn: "urn:li:share:..." } from a prior crawl,
-      // or just a handle (we skip those — liking by handle requires search scope).
-      const target = entry.lastShareUrn || entry.shareUrn;
-      if (!target) continue;
-      try {
-        await likePost(target);
-        log(`LIKED ${target}`);
-        liked++;
-      } catch (e) {
-        log(`SKIP like ${target}: ${e.message.slice(0, 120)}`);
-      }
-    }
-    log(`liked ${liked}/5 network posts`);
-  }
-
-  log(`done`);
+  try { writeFileSync(SEEN, JSON.stringify([...seen])); } catch {}
+  log(`run done — ${replies} ${DRY_RUN ? "would-reply" : "replies"} (browserbase ${session.id})`);
+  await browser.close();
 }
 
-main().catch((e) => {
-  log(`FATAL ${e.message}`);
-  process.exit(1);
+main().catch(async (e) => {
+  log(`fatal: ${e.message}`);
+  process.exit(0);
 });
