@@ -2,8 +2,8 @@
 title: "White Space Analysis Explained: The 4-Step Method to Find $100M Patentable Gaps Your Competitors Missed"
 slug: white-space-analysis-patents
 date: 2026-05-28
-url: https://beyondelevation.com/blog/post.html?slug=white-space-analysis-patents
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/white-space-analysis-patents/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ Hayat Amin has seen the valuation impact firsthand across multiple IP strategy e
 
 Beyond Elevation's approach treats white space analysis as the foundation of every [patent clustering strategy](/blog/posts/patent-clustering-strategy-moat/). Before a single provisional application gets filed, the landscape is mapped, the gaps are scored, and the filing roadmap is built on data — not guesswork. The companies that win the patent game are not the ones that file the most. They are the ones that file in the right places. [Book a white space analysis consultation](https://beyondelevation.com) to find out where your competitors left the door open.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-white-space-analysis-patents)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a patent white space analysis cost?
@@ -94,3 +108,6 @@ Founders can run a basic white space analysis using free patent databases like G
 ### How often should you update a white space analysis?
 
 Quarterly refreshes are the minimum for any company actively building a [patent cluster strategy](/blog/posts/patent-clustering-strategy-moat/). New patent applications publish every 18 months from their filing date, which means the landscape shifts continuously. Companies in fast-moving technology areas like AI, biotech, and semiconductor design should consider monthly landscape monitoring to catch closing gaps before competitors file into them.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

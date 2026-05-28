@@ -2294,3 +2294,19 @@ A patent prior art search is a systematic investigation of existing patents, pub
 Prior art includes anything publicly available before your filing date: granted patents, published patent applications, academic papers, product manuals, conference presentations, open-source repositories, and even social media posts. If someone disclosed your invention — in any form, anywhere in the world — before your priority
 
 ---
+
+## White Space Analysis Explained: The 4-Step Method to Find $100M Patentable Gaps Your Competitors Missed
+
+URL: https://beyondelevation.com/blog/posts/white-space-analysis-patents/
+
+Every patent portfolio has gaps. The question is whether your competitors find them before you do. White space analysis in patents is the discipline of mapping every existing patent in a technology area, identifying the unprotected gaps, and filing into those gaps before someone else does. Hayat Amin, who has overseen patent strategy across portfolios generating billions in IP value, argues that white space analysis is the single highest-ROI activity in patent strategy — because it tells you where to file, not just how.
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But that stat only holds when the patents cover territory competitors cannot replicate. Filing into crowded spaces where dozens of overlapping claims already exist burns $15,000–$30,000 per patent on assets that create zero competitive distance. Filing into mapped white space creates the kind of defensible position that changes term sheets.
+
+## What Is White Space Analysis in Patents?
+
+White space analysis is the systematic process of mapping a patent landscape to identify technology areas where no patents exist — or where existing coverage is weak enough to file around. It reveals the unprotected territory between granted patents and pending applications, giving founders and IP teams a map of exactly where defensible new filings will create the most competitive distance.
+
+Unlike a basic prior art search, white space analysis does not ask "has this been done?" It asks "what has not be
+
+---
