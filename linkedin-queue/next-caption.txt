@@ -1,13 +1,19 @@
-Your licensing revenue isn't in your EBITDA multiple. Here is why your exit is undervalued.
+IBM filed 9,100 patents last year. More than half were continuations.
 
-Most founders code royalty income as "other income" on the P&L.
+Most founders file one patent and stop.
 
-Buyers model it as one-off.
+Continuation filing lets you keep refining claims from the same priority date — as your product evolves.
 
-Your repeatable licensing income deserves a revenue multiple — not an EBITDA haircut.
+The result: a patent fortress that compounds over time, not a single wall competitors route around.
 
-£500K misclassified = £1.6M missing from your exit at a 3.2x revenue multiple.
+3 moves that build it:
 
-Recode it. Annualise it. Put it in Section 2 of your CIM.
+File the provisional.
 
-#IPStrategy #MAndA #StartupValuation
+File the utility.
+
+File the continuation the day you ship version 2.
+
+Most founders skip step 3. That is why their IP protection collapses in year 4.
+
+#IPStrategy #Patents #StartupIP
