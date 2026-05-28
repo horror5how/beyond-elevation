@@ -3,7 +3,7 @@ date: 2026-05-28
 theme: AI is eating the patent industry, but the deeper story is founders still treating IP as legal cost when the market is repricing it as the core asset
 generated_at: 2026-05-28T08:30:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -96,7 +96,9 @@ No university IP in your docket means your moat has an expiry date.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-28T14:36:54.490Z
+share_urn: urn:li:share:7465773096889659393
 hook_format: frame-break
 cta_goal: dms
 slug: osr-30m-ip-only-acquisition-2026

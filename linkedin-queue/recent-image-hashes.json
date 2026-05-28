@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c76130737f5ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "ai-moat-vc-8-axis-score-2026",
-    "ts": "2026-05-26T13:52:52.981Z"
-  },
-  {
     "hash": "2466e7ffc3c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "yale-licensed-patent-2043-moat-2026",
     "ts": "2026-05-28T12:28:47.247Z"
+  },
+  {
+    "hash": "3cf0f0310bf7ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "osr-30m-ip-only-acquisition-2026",
+    "ts": "2026-05-28T14:36:54.490Z"
   }
 ]
