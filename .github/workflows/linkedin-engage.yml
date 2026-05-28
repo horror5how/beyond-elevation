@@ -9,12 +9,17 @@ on:
         description: "Don't actually post replies — draft + log only"
         type: boolean
         default: false
-  schedule:
-    # UK clock times (BST = UTC+1). When the UK switches to GMT in late October,
-    # bump each cron's hour by +1 (i.e. 0 8 / 0 13 / 0 16).
-    - cron: "0 7 * * *"   # 08:00 BST
-    - cron: "0 12 * * *"  # 13:00 BST
-    - cron: "0 15 * * *"  # 16:00 BST
+  # CLOUD CRON DISABLED 2026-05-28: LinkedIn challenges every Browserbase session
+  # (with full cookie jar + residential proxy + UK fingerprint + homepage pre-warm
+  # the page redirects to /checkpoint/challenge "Security Verification"). Pivoting
+  # to a local launchd runner on Hayat's Mac at 08:00 / 13:00 / 16:00 UK local time,
+  # which uses his actual residential IP + fingerprint and is not challenged.
+  # Workflow kept for `workflow_dispatch` manual debugging.
+  #
+  # schedule:
+  #   - cron: "0 7 * * *"   # 08:00 BST
+  #   - cron: "0 12 * * *"  # 13:00 BST
+  #   - cron: "0 15 * * *"  # 16:00 BST
 
 permissions:
   contents: write
