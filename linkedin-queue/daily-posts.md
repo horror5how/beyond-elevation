@@ -3,7 +3,7 @@ date: 2026-05-28
 theme: AI is eating the patent industry, but the deeper story is founders still treating IP as legal cost when the market is repricing it as the core asset
 generated_at: 2026-05-28T08:30:00.000Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -168,7 +168,9 @@ What does your synthetic-rights clause look like in 2026?
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-05-28T19:33:13.284Z
+share_urn: urn:li:share:7465847668678926336
 hook_format: prediction
 cta_goal: follows
 slug: china-2026-ip-nation-plan-founders-2026
