@@ -783,3 +783,12 @@
 2026-05-28 12:54 | DEBUG body: Sign in Join now Let’s do a quick security check LinkedIn © 2026 User Agreement Privacy Policy Your California Privacy Choices Community Guidelines Cookie Policy Copyright Policy Send Feedback
 2026-05-28 12:54 | DEBUG screenshot saved /tmp/li-debug.png
 2026-05-28 12:54 | run done — 0 would-reply (browserbase 05f8ad1f-c9d5-42bc-9021-f0538df520b0)
+2026-05-28 12:55 | === engage start · DRY-RUN ===
+2026-05-28 12:55 | browserbase session 2b01c3f7-4be5-4278-b52c-d5304a744835 (residential proxy)
+2026-05-28 12:55 | injected 52 cookies
+2026-05-28 12:55 | no posts on activity page — falling back to /feed/
+2026-05-28 12:55 | found 0 recent posts
+2026-05-28 12:55 | DEBUG url=https://www.linkedin.com/checkpoint/challenge/AQEvYjLS8zjHWwAAAZ5up6604pEALtW8M6GdbeKWh9d4r8vsTYowRLNS59irjoF8R8okVgbD41JV8NIs1ee2m-C3G971NA/?ut=0qSo19N1yDGYg1 title="Security Verification | LinkedIn" anchors=10 activity=0
+2026-05-28 12:55 | DEBUG body: Sign in Join now Let’s do a quick security check LinkedIn © 2026 User Agreement Privacy Policy Your California Privacy Choices Community Guidelines Cookie Policy Copyright Policy Send Feedback
+2026-05-28 12:55 | DEBUG screenshot saved /tmp/li-debug.png
+2026-05-28 12:55 | run done — 0 would-reply (browserbase 2b01c3f7-4be5-4278-b52c-d5304a744835)
