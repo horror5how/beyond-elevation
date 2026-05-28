@@ -1,0 +1,250 @@
+2026-04-28 17:24 | li-auto-post | render OK | post #1 | layout=b accent=#a87c7c hash=0000ffffe791ffe7 minDist=64 attempts=1
+2026-04-28 17:24 | li-auto-post | DRY_RUN OK | post #1 | hash=0000ffffe791ffe7 layout=b accent=#a87c7c
+2026-04-28 17:25 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 8) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=3 < 8) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 3 | TOO SIMILAR (dist=0 < 8) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 4 | TOO SIMILAR (dist=6 < 8) | trying different variant
+2026-04-28 17:25 | li-auto-post | render FAIL | post #1 | exhausted 4 variants | lastDist=6
+2026-04-28 17:25 | li-auto-post | render OK | post #1 | layout=b accent=#a87c7c hash=0010ffffe7ffff00 minDist=64 attempts=1
+2026-04-28 17:25 | li-auto-post | DRY_RUN OK | post #1 | hash=0010ffffe7ffff00 layout=b accent=#a87c7c
+2026-04-28 17:25 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:25 | li-auto-post | render attempt 3 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:26 | li-auto-post | render OK | post #1 | layout=a accent=#7a8c6e hash=00ffffffff23a1a0 minDist=21 attempts=4
+2026-04-28 17:26 | li-auto-post | DRY_RUN OK | post #1 | hash=00ffffffff23a1a0 layout=a accent=#7a8c6e
+2026-04-28 17:26 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:26 | li-auto-post | render OK | post #1 | layout=c accent=#d7b086 hash=ffffe000ffe2ffff minDist=42 attempts=2
+2026-04-28 17:26 | li-auto-post | DRY_RUN OK | post #1 | hash=ffffe000ffe2ffff layout=c accent=#d7b086
+2026-04-28 17:27 | li-auto-post | render OK | post #1 | layout=b accent=#a87c7c hash=42c3e7ffc3c3ff99 minDist=64 attempts=1
+2026-04-28 17:27 | li-auto-post | DRY_RUN OK | post #1 | hash=42c3e7ffc3c3ff99 layout=b accent=#a87c7c
+2026-04-28 17:27 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-04-28 17:27 | li-auto-post | render OK | post #1 | layout=c accent=#d7b086 hash=fff9110113f0ffff minDist=34 attempts=2
+2026-04-28 17:27 | li-auto-post | DRY_RUN OK | post #1 | hash=fff9110113f0ffff layout=c accent=#d7b086
+2026-04-28 17:31 | li-auto-post | render OK | post #5 | layout=a accent=#8aa6b8 hash=00ffffffffff0000 minDist=28 attempts=1
+2026-04-28 18:12 | li-auto-post | render OK | post #6 | layout=c accent=#d7b086 hash=fff030111ff1ffff minDist=8 attempts=1
+2026-04-29 06:16 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: banned:" — ", banned_re:/\bleverage\b/i
+Post 2: hook_too_long(13w), banned:" — "
+Post 3: hook_too_long(13w), banned:" — "
+Post 4: hook_too_long(14w), banned:" — "
+Post 5: hook_too_long(14w), banned:" — "
+2026-04-29 06:17 | li-generate-queue | attempt 2 | quality gate failed:
+Post 1: banned:" — "
+Post 2: hook_too_long(13w), banned:" — "
+Post 3: hook_too_long(12w)
+Post 4: hook_too_long(15w), banned:" — "
+Post 5: hook_too_long(14w)
+2026-04-29 06:18 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: banned:" — ", banned_re:/\bleverage\b/i
+Post 2: banned:" — "
+Post 3: banned:" — "
+Post 4: hook_too_long(14w), banned:" — "
+Post 5: hook_too_long(10w), no_specific_number
+2026-04-29 06:18 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-04-29 09:19 | li-auto-post | render OK | post #1 | layout=a accent=#a87c7c hash=00ffffffff01b1fd minDist=18 attempts=1
+2026-04-29 10:59 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-04-29 10:59 | li-auto-post | render OK | post #2 | layout=b accent=#8aa6b8 hash=0081e7ffc3e7ff99 minDist=6 attempts=2
+2026-04-29 12:16 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=4 < 5) | trying different variant
+2026-04-29 12:16 | li-auto-post | render OK | post #3 | layout=c accent=#a89968 hash=7ef830031ff5ffff minDist=6 attempts=2
+2026-04-29 15:11 | li-auto-post | render OK | post #4 | layout=c accent=#d7b086 hash=fff111310b75ffff minDist=8 attempts=1
+2026-04-29 18:07 | li-auto-post | render OK | post #5 | layout=a accent=#a89968 hash=00ffffffffff2505 minDist=5 attempts=1
+2026-04-30 06:21 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: banned:" — "
+Post 2: hook_too_long(11w), banned:" — "
+Post 3: hook_too_long(13w), banned:" — "
+Post 4: hook_too_long(13w), banned:" — "
+Post 5: hook_too_long(10w), banned:" — "
+2026-04-30 06:22 | li-generate-queue | attempt 2 | quality gate failed:
+Post 3: hook_too_long(10w)
+Post 5: hook_too_long(12w), no_specific_number
+2026-04-30 06:22 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: banned:" — "
+Post 2: hook_too_long(19w), banned:" — "
+Post 3: hook_too_long(12w), banned:" — "
+Post 4: hook_too_long(16w), banned:" — "
+Post 5: hook_too_long(15w), banned:" — "
+2026-04-30 06:22 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-04-30 09:21 | li-auto-post | render OK | post #6 | layout=c accent=#d7b086 hash=fff1110333f4ffff minDist=8 attempts=1
+2026-05-01 06:31 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: hook_too_long(10w), banned:" — ", banned_re:/\bleverage\b/i
+Post 2: hook_too_long(11w), banned:" — "
+Post 3: hook_too_long(12w), banned:" — "
+Post 4: hook_too_long(15w), banned:" — "
+Post 5: banned:" — "
+2026-05-01 06:31 | li-generate-queue | attempt 2 | quality gate failed:
+Post 1: banned_re:/\bleverage\b/i
+Post 2: hook_too_long(10w)
+Post 3: hook_too_long(16w)
+Post 4: hook_too_long(18w)
+Post 5: hook_too_long(15w)
+2026-05-01 06:32 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: hook_too_long(11w), banned:" — "
+Post 2: hook_too_long(10w), banned:" — "
+Post 3: hook_too_long(12w), banned:" — "
+Post 4: hook_too_long(13w), banned:" — "
+Post 5: hook_too_long(15w), banned:" — "
+2026-05-01 06:32 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-01 18:41 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-01 18:41 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: hook_too_long(12w)
+Post 2: hook_too_long(13w)
+Post 3: hook_too_long(15w)
+Post 4: hook_too_long(17w)
+Post 5: hook_too_long(13w)
+2026-05-01 18:42 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-01 18:42 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=5)
+2026-05-01 18:42 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
+2026-05-02 06:00 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-02 06:00 | li-generate-queue | attempt 1 | quality gate failed:
+Post 2: hook_too_long(12w)
+Post 3: hook_too_long(10w)
+Post 4: hook_too_long(12w)
+2026-05-02 06:00 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-02 06:00 | li-generate-queue | attempt 2 | quality gate failed:
+Post 3: hook_too_long(12w)
+Post 4: hook_too_long(10w)
+Post 5: hook_too_long(12w)
+2026-05-02 06:01 | li-generate-queue | attempt 3 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-02 06:01 | li-generate-queue | attempt 3 | quality gate failed:
+Post 3: hook_too_long(12w)
+Post 4: hook_too_long(10w)
+Post 5: hook_too_long(12w)
+2026-05-02 06:01 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-02 08:25 | li-auto-post | render OK | post #1 | layout=a accent=#7a8c6e hash=007effffff0d2dad minDist=10 attempts=1
+2026-05-02 09:59 | li-auto-post | render OK | post #2 | layout=b accent=#8aa6b8 hash=0042e7ffc381ff9f minDist=10 attempts=1
+2026-05-02 11:42 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=4 < 5) | trying different variant
+2026-05-02 11:42 | li-auto-post | render OK | post #3 | layout=b accent=#a89968 hash=62e3e7ffc3c1ff9f minDist=7 attempts=2
+2026-05-02 14:09 | li-auto-post | render OK | post #4 | layout=c accent=#d7b086 hash=fff010301735ffff minDist=7 attempts=1
+2026-05-02 17:36 | li-auto-post | render OK | post #5 | layout=b accent=#a87c7c hash=42c3e7ffc3c3ff99 minDist=5 attempts=1
+2026-05-03 06:20 | li-generate-queue | attempt 1 | auto-cleaned 3/5 post(s) (em-dashes / leverage / etc.)
+2026-05-03 06:20 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: no_specific_number
+Post 5: hook_too_long(11w)
+2026-05-03 06:21 | li-generate-queue | attempt 2 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-03 06:21 | li-generate-queue | attempt 2 | quality gate failed:
+Post 1: no_specific_number
+2026-05-03 06:22 | li-generate-queue | attempt 3 | auto-cleaned 3/5 post(s) (em-dashes / leverage / etc.)
+2026-05-03 06:22 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: no_specific_number
+Post 2: hook_too_long(10w)
+Post 3: hook_too_long(10w)
+Post 4: hook_too_long(11w)
+Post 5: hook_too_long(10w)
+2026-05-03 06:22 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-03 08:53 | li-auto-post | render OK | post #6 | layout=b accent=#a87c7c hash=66e7e7ff81c3ff99 minDist=6 attempts=1
+2026-05-04 06:33 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-04 06:33 | li-generate-queue | attempt 1 | quality gate failed:
+Post 2: hook_too_long(11w)
+Post 3: hook_too_long(10w)
+Post 4: hook_too_long(16w)
+Post 5: hook_too_long(18w)
+2026-05-04 06:33 | li-generate-queue | attempt 2 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-04 06:33 | li-generate-queue | attempt 2 | quality gate failed:
+Post 1: mechanism_lines<3(0), no_specific_number
+Post 5: hook_too_long(14w)
+2026-05-04 06:34 | li-generate-queue | attempt 3 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-04 06:34 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: hook_too_long(11w), no_specific_number
+Post 4: hook_too_long(15w)
+Post 5: hook_too_long(14w)
+2026-05-04 06:34 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-04 09:28 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-04 09:28 | li-auto-post | render OK | post #1 | layout=a accent=#a89968 hash=00ffffffffff0010 minDist=17 attempts=2
+2026-05-04 11:07 | li-auto-post | render OK | post #2 | layout=b accent=#d7b086 hash=e7e7e7ff8181ff9b minDist=5 attempts=1
+2026-05-04 12:20 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-04 12:20 | li-auto-post | render OK | post #3 | layout=c accent=#a87c7c hash=7ef030011bf1ffff minDist=11 attempts=2
+2026-05-04 15:09 | li-auto-post | render OK | post #4 | layout=c accent=#a89968 hash=7ef901191375ffff minDist=10 attempts=1
+2026-05-04 18:09 | li-auto-post | render OK | post #5 | layout=a accent=#a87c7c hash=00ffffffff642525 minDist=12 attempts=1
+2026-05-05 06:09 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-05 06:09 | li-generate-queue | attempt 1 | quality gate failed:
+Post 2: hook_too_long(11w)
+Post 4: hook_too_long(11w)
+Post 5: hook_too_long(12w)
+2026-05-05 06:10 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-05 06:10 | li-generate-queue | attempt 2 | quality gate failed:
+Post 3: hook_too_long(12w)
+2026-05-05 06:10 | li-generate-queue | attempt 3 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-05 06:10 | li-generate-queue | attempt 3 | quality gate failed:
+Post 4: hook_too_long(16w)
+2026-05-05 06:10 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-05 09:12 | li-auto-post | render OK | post #6 | layout=a accent=#d7b086 hash=00ffffffffff3404 minDist=5 attempts=1
+2026-05-06 09:31 | li-auto-post | render OK | post #1 | layout=b accent=#a89968 hash=8183e7ffc3e7ff99 minDist=13 attempts=1
+2026-05-06 11:09 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-05-06 11:09 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-06 11:09 | li-auto-post | render OK | post #2 | layout=b accent=#7a8c6e hash=02e7e7ff81c3ff99 minDist=8 attempts=3
+2026-05-06 12:27 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-06 12:27 | li-auto-post | render OK | post #3 | layout=a accent=#a89968 hash=e700e7ffff28a5a5 minDist=21 attempts=2
+2026-05-06 15:26 | li-auto-post | render OK | post #4 | layout=b accent=#7a8c6e hash=2466e7ffc383ff99 minDist=8 attempts=1
+2026-05-06 18:11 | li-auto-post | render OK | post #5 | layout=b accent=#a87c7c hash=42c3e7ffc3c3ff99 minDist=5 attempts=1
+2026-05-07 09:41 | li-auto-post | render OK | post #1 | layout=c accent=#7a8c6e hash=7ef010701b35ffff minDist=33 attempts=1
+2026-05-07 11:10 | li-auto-post | render OK | post #2 | layout=c accent=#8aa6b8 hash=7ef0301117f7ffff minDist=9 attempts=1
+2026-05-07 12:30 | li-auto-post | render OK | post #3 | layout=b accent=#a87c7c hash=66e7ffff01c3ff99 minDist=6 attempts=1
+2026-05-07 15:33 | li-auto-post | render OK | post #4 | layout=c accent=#8aa6b8 hash=7ef000713f3dffff minDist=5 attempts=1
+2026-05-07 18:20 | li-auto-post | render OK | post #5 | layout=c accent=#8aa6b8 hash=7e7800311f35ffff minDist=5 attempts=1
+2026-05-08 05:50 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-08 05:50 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: hook_too_long(10w)
+Post 4: hook_too_long(12w)
+Post 5: hook_too_long(11w)
+2026-05-08 05:51 | li-generate-queue | attempt 2 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-08 05:51 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=5)
+2026-05-08 05:51 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
+2026-05-08 08:26 | li-auto-post | render OK | post #1 | layout=a accent=#8aa6b8 hash=007effffff232828 minDist=22 attempts=1
+2026-05-08 10:26 | li-auto-post | render OK | post #2 | layout=b accent=#d7b086 hash=e7e7e7ffc1e7ff99 minDist=8 attempts=1
+2026-05-08 12:08 | li-auto-post | render OK | post #3 | layout=b accent=#a87c7c hash=0000e7ffc3c3ff9f minDist=17 attempts=1
+2026-05-08 14:50 | li-auto-post | render OK | post #4 | layout=a accent=#a89968 hash=00ffffff05adefef minDist=18 attempts=1
+2026-05-08 18:04 | li-auto-post | render OK | post #5 | layout=b accent=#7a8c6e hash=2062e7ffc3c3ffb9 minDist=7 attempts=1
+2026-05-09 06:08 | li-generate-queue | attempt 1 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-09 06:08 | li-generate-queue | attempt 1 | quality gate failed:
+Post 3: hook_too_long(10w)
+Post 4: hook_too_long(15w)
+Post 5: hook_too_long(11w)
+2026-05-09 06:09 | li-generate-queue | attempt 2 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-09 06:09 | li-generate-queue | attempt 2 | quality gate failed:
+Post 4: hook_too_long(10w)
+2026-05-09 06:10 | li-generate-queue | attempt 3 | auto-cleaned 5/5 post(s) (em-dashes / leverage / etc.)
+2026-05-09 06:10 | li-generate-queue | attempt 3 | quality gate failed:
+Post 2: hook_too_long(15w)
+Post 3: hook_too_long(10w)
+2026-05-09 06:10 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-09 11:50 | li-auto-post | render OK | post #1 | layout=a accent=#a89968 hash=00ffffffffff2020 minDist=9 attempts=1
+2026-05-09 14:16 | li-auto-post | render OK | post #2 | layout=a accent=#a87c7c hash=42ffffffff04a5a7 minDist=16 attempts=1
+2026-05-09 17:41 | li-auto-post | render OK | post #3 | layout=a accent=#a89968 hash=00ffffffff0581b1 minDist=8 attempts=1
+2026-05-10 06:28 | li-generate-queue | attempt 1 | auto-cleaned 3/5 post(s) (em-dashes / leverage / etc.)
+2026-05-10 06:28 | li-generate-queue | attempt 1 | quality gate failed:
+Post 2: hook_too_long(10w)
+Post 4: hook_too_long(10w)
+Post 5: hook_too_long(16w)
+2026-05-10 06:28 | li-generate-queue | attempt 2 | auto-cleaned 3/5 post(s) (em-dashes / leverage / etc.)
+2026-05-10 06:28 | li-generate-queue | attempt 2 | quality gate failed:
+Post 3: hook_too_long(10w)
+2026-05-10 06:29 | li-generate-queue | attempt 3 | auto-cleaned 4/5 post(s) (em-dashes / leverage / etc.)
+2026-05-10 06:29 | li-generate-queue | attempt 3 | quality gate failed:
+Post 1: hook_too_long(10w)
+Post 2: hook_too_long(13w)
+2026-05-10 06:29 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-05-10 09:00 | li-auto-post | render OK | post #4 | layout=c accent=#d7b086 hash=fbf3b10131fbf5ff minDist=29 attempts=1
+2026-05-10 10:18 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=4 < 5) | trying different variant
+2026-05-10 10:18 | li-auto-post | render OK | post #5 | layout=c accent=#7a8c6e hash=7ef810191330ffff minDist=20 attempts=2
+2026-05-10 11:49 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=4 < 5) | trying different variant
+2026-05-10 11:49 | li-auto-post | render OK | post #6 | layout=c accent=#8aa6b8 hash=7ef830113bf5ffff minDist=8 attempts=2
+2026-05-10 17:42 | li-auto-post | render OK | post #1 | layout=b accent=#8aa6b8 hash=0081e7ffe7c3ff99 minDist=9 attempts=1
+2026-05-11 06:57 | li-generate-queue | attempt 1 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-11 06:57 | li-generate-queue | attempt 2 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-11 06:57 | li-generate-queue | attempt 3 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-11 06:57 | li-generate-queue | ABORT after 3 attempts — API unreachable
+2026-05-11 10:41 | li-auto-post | render OK | post #1 | layout=a accent=#a87c7c hash=02ffffffff0c84a5 minDist=5 attempts=1
+2026-05-11 12:12 | li-auto-post | render OK | post #2 | layout=a accent=#a87c7c hash=42ffffffffff00a1 minDist=10 attempts=1
+2026-05-11 13:47 | li-auto-post | render OK | post #3 | layout=b accent=#7a8c6e hash=0046e7ffc3e7ff9b minDist=10 attempts=1
+2026-05-11 15:54 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-05-11 15:54 | li-auto-post | render OK | post #4 | layout=a accent=#a87c7c hash=007effffffff2400 minDist=9 attempts=2
+2026-05-11 18:30 | li-auto-post | render OK | post #5 | layout=c accent=#a89968 hash=7ef910733334ffff minDist=7 attempts=1
+2026-05-12 06:30 | li-generate-queue | attempt 1 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-12 06:30 | li-generate-queue | attempt 2 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-12 06:30 | li-generate-queue | attempt 3 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-12 06:30 | li-generate-queue | ABORT after 3 attempts — API unreachable
+2026-05-12 09:46 | li-auto-post | render OK | post #6 | layout=b accent=#d7b086 hash=0000e7ffc3c3fff9 minDist=6 attempts=1
+2026-05-13 06:40 | li-generate-queue | attempt 1 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-13 06:41 | li-generate-queue | attempt 2 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-13 06:41 | li-generate-queue | attempt 3 | API error: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase cr
+2026-05-13 06:41 | li-generate-queue | ABORT after 3 attempts — API unreachable

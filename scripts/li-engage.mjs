@@ -90,12 +90,13 @@ async function main() {
   const bb = new Browserbase({ apiKey: BROWSERBASE_API_KEY });
   const session = await bb.sessions.create({
     projectId: BROWSERBASE_PROJECT_ID,
+    proxies: true, // Browserbase residential proxy — LinkedIn challenges raw datacenter IPs
     browserSettings: {
       fingerprint: { devices: ["desktop"], locales: ["en-GB"], operatingSystems: ["macos"] },
       viewport: { width: 1440, height: 900 },
     },
   });
-  log(`browserbase session ${session.id}`);
+  log(`browserbase session ${session.id} (residential proxy)`);
 
   const browser = await chromium.connectOverCDP(session.connectUrl);
   let ctx = browser.contexts()[0] || (await browser.newContext());
@@ -128,6 +129,14 @@ async function main() {
     await browser.close();
     return;
   }
+
+  // Pre-warm: visit the LinkedIn homepage first so the session establishes naturally
+  // before we hit an authenticated route. LinkedIn's risk engine is gentler when
+  // the session has a normal-looking entry path.
+  try {
+    await page.goto("https://www.linkedin.com/", { waitUntil: "domcontentloaded", timeout: 25000 });
+    await sleep(2500);
+  } catch {}
 
   await page.goto(PROFILE_URL, { waitUntil: "domcontentloaded", timeout: 35000 });
   await sleep(3500);
