@@ -792,3 +792,10 @@
 2026-05-28 12:55 | DEBUG body: Sign in Join now Let’s do a quick security check LinkedIn © 2026 User Agreement Privacy Policy Your California Privacy Choices Community Guidelines Cookie Policy Copyright Policy Send Feedback
 2026-05-28 12:55 | DEBUG screenshot saved /tmp/li-debug.png
 2026-05-28 12:55 | run done — 0 would-reply (browserbase 2b01c3f7-4be5-4278-b52c-d5304a744835)
+2026-05-28 13:17 | === engage start · LIVE ===
+2026-05-28 13:17 | browserbase session a1ff944b-b21b-4b11-a210-662e1270affb (residential proxy)
+2026-05-28 13:17 | injected 52 cookies
+2026-05-28 13:18 | fatal: page.goto: Timeout 35000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/in/hayatamin/recent-activity/all/", waiting until "domcontentloaded"
+
