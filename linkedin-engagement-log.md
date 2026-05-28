@@ -756,3 +756,12 @@
 2026-05-28 12:39 | injected 2 cookies
 2026-05-28 12:39 | found 0 recent posts
 2026-05-28 12:39 | run done — 0 would-reply (browserbase 36757b80-88e8-4e53-bba9-ad8b18dfc06e)
+2026-05-28 12:45 | === engage start · DRY-RUN ===
+2026-05-28 12:45 | browserbase session ac8d5efa-c2f5-4109-936c-19a071befc1c
+2026-05-28 12:45 | injected 2 cookies
+2026-05-28 12:46 | no posts on activity page — falling back to /feed/
+2026-05-28 12:46 | found 0 recent posts
+2026-05-28 12:46 | DEBUG url=https://www.linkedin.com/login/?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F title="LinkedIn Login, Sign in | LinkedIn" anchors=24 activity=0
+2026-05-28 12:46 | DEBUG body: 0 notifications Sign in New to LinkedIn? Join now Sign in with Apple By continuing, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy. or Email or phone Password Forgot password? Keep me signed in Sign in LinkedIn Corporation © 2026 User Agreement Privacy Policy Community Guidelines Cookie Policy Copyright Policy Send Feedback Language
+2026-05-28 12:46 | DEBUG screenshot saved /tmp/li-debug.png
+2026-05-28 12:46 | run done — 0 would-reply (browserbase ac8d5efa-c2f5-4109-936c-19a071befc1c)
