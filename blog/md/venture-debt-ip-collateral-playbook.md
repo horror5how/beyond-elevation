@@ -2,8 +2,8 @@
 title: "Venture Debt Backed By Your Patents in 2026: The 5-Step Playbook to Raise $1M–$25M Without Diluting a Single Share"
 slug: venture-debt-ip-collateral-playbook
 date: 2026-05-29
-url: https://beyondelevation.com/blog/post.html?slug=venture-debt-ip-collateral-playbook
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/venture-debt-ip-collateral-playbook/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ Run this diagnostic before approaching a lender. Do you have at least three gran
 
 Four yes answers out of five means your portfolio likely qualifies for IP-backed venture debt today. Three yes answers means you need 60–90 days of portfolio optimisation before approaching lenders. Fewer than three means equity is still your best path — but start building the IP collateral base now for your next round. [Book an IP collateral readiness assessment with Beyond Elevation](https://beyondelevation.com) to find out where you stand.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-venture-debt-ip-collateral-playbook)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the minimum patent portfolio size for IP-backed venture debt?
@@ -88,3 +102,6 @@ From IP audit to funded, expect 90–120 days. The IP valuation takes 3–4 week
 ### Does IP-backed venture debt affect future equity raises?
 
 No. The debt sits on the holdco's balance sheet, not the operating company's. Lenders structure the facility with intercreditor agreements that preserve the operating company's ability to raise equity without subordination conflicts. Having IP-backed debt can actually strengthen an equity raise by proving that independent lenders validated your IP's commercial value.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
