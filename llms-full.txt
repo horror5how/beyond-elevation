@@ -2382,3 +2382,19 @@ EU AI Act fines in 2026 follow a three-tier structure, each tied to the severity
 **Tier 1 — Prohibited practices: €35 million or 7% of global annual revenue.** This applies to deploying AI systems that manipulate behaviour, exploit vulnerabilities, or enable real-time biometric surveillance in public spaces without legal authorisation. If your startup generates €10 million in revenue, the 7% floor
 
 ---
+
+## The 4 Ways AI Is Already Drafting Patents in 2026 (And the One USPTO Rule That Voids Your Claims If You Get It Wrong)
+
+URL: https://beyondelevation.com/blog/posts/ai-patent-drafting-2026/
+
+AI tools drafted more than 15,000 patent specifications in Q1 2026. Most contain a disclosure defect that can void the entire filing. Hayat Amin argues this is the most expensive blind spot in startup IP: founders save $20,000 on drafting costs, then lose a patent worth $2M because they skipped one disclosure requirement the USPTO started enforcing eight months ago.
+
+If you are using generative AI for patent drafting — or planning to — the question is not whether AI patent drafting works. It does. The question is whether your filing survives the USPTO’s AI disclosure standard. Here is exactly how AI patent drafting operates in 2026, what the rules require, and how to avoid the trap that invalidates everything.
+
+## Can You Use AI to Draft a Patent Application in 2026?
+
+Yes — AI patent drafting is legal, increasingly common, and used by law firms, solo practitioners, and founders across all four stages of patent prosecution. The USPTO does not prohibit AI-assisted drafting. But it requires disclosure of AI’s material contribution under the duty of candor, and failure to disclose triggers inequitable conduct that renders the patent unenforceable.
+
+This is the distinction most founders miss. The technology works. The legal framework allows it. But the compliance requirement is absolute, and the penalty for non-compliance is total loss of patent rights. Beyond Elevation has reviewed dozens of AI-drafted applications since September 2025, and Hayat Amin’s assessment is blunt: “Eigh
+
+---
