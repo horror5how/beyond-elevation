@@ -1,15 +1,17 @@
-Your CFO should own your patent valuation. Not your lawyer.
+SaaS ARR trades at 6–8x at exit.
 
-Lawyers file claims. CFOs monetise assets.
+Patent royalty streams trade at 12–15x.
 
-73% of acquirers use IP as a primary valuation lever during due diligence.
+Nobody told you that.
 
-Most founders hand that lever to someone who bills by the hour, not by the multiple.
+The difference: SaaS revenue has churn. Royalties have minimum guarantees.
 
-Companies exiting at 2.1x premium treat IP like a balance sheet asset. Not a legal formality.
+A $400K/yr licensing contract with a 5-year floor is worth $5–6M to an acquirer.
 
-A $4M patent portfolio sitting in a legal drawer is not a moat. It is a missed multiple.
+A $400K/yr SaaS contract at 85% retention is worth $2.4–3.2M.
 
-Get your CFO across your IP before your next board meeting.
+Same revenue. Different multiple. Different outcome for your cap table.
 
-#IPStrategy #PatentValuation #FounderFinance
+Fix this before your banker runs the model.
+
+#IPStrategy #ExitMultiples #PatentLicensing
