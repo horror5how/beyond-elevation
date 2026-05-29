@@ -3,7 +3,7 @@ date: 2026-05-28
 theme: AI is eating the patent industry, but the deeper story is founders still treating IP as legal cost when the market is repricing it as the core asset
 generated_at: 2026-05-28T08:30:00.000Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -202,7 +202,9 @@ This is no longer optional geography.
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-05-29T10:51:56.056Z
+share_urn: urn:li:share:7466078870220427264
 hook_format: listicle
 cta_goal: dms
 slug: eu-ip-intensive-industries-47-pct-2026

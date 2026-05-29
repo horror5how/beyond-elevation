@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff0301037f7ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "freedom-to-operate-launch-risk-2026",
-    "ts": "2026-05-27T10:59:17.434Z"
-  },
-  {
     "hash": "00ffffffffff2000",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "china-2026-ip-nation-plan-founders-2026",
     "ts": "2026-05-28T19:33:13.284Z"
+  },
+  {
+    "hash": "fff931190174ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "eu-ip-intensive-industries-47-pct-2026",
+    "ts": "2026-05-29T10:51:56.056Z"
   }
 ]
