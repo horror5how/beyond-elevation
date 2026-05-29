@@ -133,3 +133,4 @@
 2026-05-28 16:53 | urn:li:share:7465807376000892928 | post #4 | stan-lee-elevenlabs-voice-ip-2026 | Stan Lee died in 2018. His voice just came back through an ElevenLabs AI licensi
 2026-05-28 17:52 | QUEUED | patent-portfolio-revenue-waterfall-2026 | Qualcomm generates $8.5B/year from patent licensing. The waterfall clause is why
 2026-05-28 19:33 | urn:li:share:7465847668678926336 | post #5 | china-2026-ip-nation-plan-founders-2026 | China just published its 2026 Strong IP Nation plan. Most US and UK founders won
+2026-05-29 07:52 | urn:li:share:7466033818337202177 | Your CFO should own your patent valuation. Not your lawyer.  Lawyers file claims
