@@ -1,17 +1,11 @@
-SaaS ARR trades at 6–8x at exit.
+Samsung engineers pasted chip source code into ChatGPT. Three times.
 
-Patent royalty streams trade at 12–15x.
+DTSA voluntary disclosure can void trade secret protection the moment your data enters a third-party model.
 
-Nobody told you that.
+Most founders have no policy covering AI tools.
 
-The difference: SaaS revenue has churn. Royalties have minimum guarantees.
+6 rules every startup must enforce now: trade secret registry, enterprise-only AI accounts, NDA clause updates, quarterly audits, output logging, named IP custodian.
 
-A $400K/yr licensing contract with a 5-year floor is worth $5–6M to an acquirer.
+One team member. One ChatGPT session. Your moat is gone.
 
-A $400K/yr SaaS contract at 85% retention is worth $2.4–3.2M.
-
-Same revenue. Different multiple. Different outcome for your cap table.
-
-Fix this before your banker runs the model.
-
-#IPStrategy #ExitMultiples #PatentLicensing
+#IP #AIStrategy #TradeSecrets
