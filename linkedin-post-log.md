@@ -136,3 +136,4 @@
 2026-05-29 07:52 | urn:li:share:7466033818337202177 | Your CFO should own your patent valuation. Not your lawyer.  Lawyers file claims
 2026-05-29 10:51 | urn:li:share:7466078870220427264 | post #6 | eu-ip-intensive-industries-47-pct-2026 | 5 numbers most founders miss when pitching IP exposure to VCs.  1. IP-intensive 
 2026-05-29 12:52 | QUEUED | patent-royalty-annuity-vs-saas-arr-exit-2026 | SaaS ARR trades at 6–8x at exit.  Patent royalty streams trade at 12–15x.  N
+2026-05-29 17:51 | urn:li:share:7466184493477969920 | Samsung engineers pasted chip source code into ChatGPT. Three times.  DTSA volun
