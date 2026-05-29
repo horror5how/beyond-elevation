@@ -928,19 +928,22 @@
         </div>
 
         <style>
-          .sierra-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:40px}
+          .sierra-cards{display:grid;grid-template-columns:0.7fr 1.25fr 1.25fr;gap:24px;margin-top:40px}
           .sierra-card{border-radius:24px;padding:32px 28px;color:#fff;position:relative;overflow:hidden;min-height:380px;display:flex;flex-direction:column;justify-content:space-between;transition:transform .4s cubic-bezier(.22,1,.36,1),box-shadow .4s ease;cursor:default}
           .sierra-card:hover{transform:translateY(-8px);box-shadow:0 32px 64px rgba(0,0,0,.18)}
-          .sierra-card-1{background:linear-gradient(145deg,#2d7fc1,#1a5a8e)}
-          .sierra-card-2{background:linear-gradient(145deg,#8b5a8b,#6b3a6b)}
-          .sierra-card-3{background:linear-gradient(145deg,#c0704a,#9a5535)}
-          .sierra-card h3{font-size:1.65rem;font-weight:500;letter-spacing:-.06em;line-height:1.12;margin:0 0 20px;color:#fff}
-          .sierra-card-tag{display:inline-block;font-size:.7rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:5px 12px;border-radius:100px;background:rgba(255,255,255,.18);color:rgba(255,255,255,.9);margin-bottom:16px;backdrop-filter:blur(4px)}
-          .sierra-card p{font-size:.92rem;line-height:1.55;color:rgba(255,255,255,.85);margin:0 0 8px}
-          .sierra-card-points{list-style:none;padding:0;margin:16px 0 0}
-          .sierra-card-points li{font-size:.85rem;line-height:1.5;color:rgba(255,255,255,.8);padding:6px 0 6px 20px;position:relative}
-          .sierra-card-points li::before{content:'';position:absolute;left:0;top:13px;width:8px;height:8px;border-radius:50%;background:rgba(255,255,255,.4)}
-          .sierra-card-visual{width:100%;height:160px;position:relative;margin-bottom:20px;border-radius:16px;overflow:hidden;background:rgba(255,255,255,.08)}
+          .sierra-card-1{background:linear-gradient(145deg,#2d7fc1,#1a5a8e);opacity:.82}
+          .sierra-card-2{background:linear-gradient(145deg,#8b5a8b,#6b3a6b);box-shadow:0 0 0 2px rgba(255,255,255,.18),0 24px 60px -16px rgba(139,90,139,.55)}
+          .sierra-card-3{background:linear-gradient(145deg,#c0704a,#9a5535);box-shadow:0 0 0 2px rgba(255,255,255,.18),0 24px 60px -16px rgba(192,112,74,.55)}
+          .sierra-card-featured-label{display:inline-flex;align-items:center;gap:5px;font-size:.64rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:4px 10px;border-radius:100px;background:rgba(255,255,255,.22);color:#fff;margin-bottom:8px}
+          .sierra-card-featured-label::before{content:'';width:6px;height:6px;border-radius:50%;background:#ffffff;flex-shrink:0}
+          .sierra-card h3{font-size:1.45rem;font-weight:600;letter-spacing:-.04em;line-height:1.15;margin:0 0 14px;color:#fff}
+          .sierra-card-tag{display:inline-block;font-size:.7rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:5px 12px;border-radius:100px;background:rgba(255,255,255,.18);color:rgba(255,255,255,.9);margin-bottom:12px;backdrop-filter:blur(4px)}
+          .sierra-card p{font-size:.92rem;line-height:1.55;color:rgba(255,255,255,.85);margin:0 0 4px}
+          .sierra-card-points{list-style:none;padding:0;margin:12px 0 0}
+          .sierra-card-points li{font-size:.82rem;line-height:1.45;color:rgba(255,255,255,.82);padding:5px 0 5px 18px;position:relative;border-top:1px solid rgba(255,255,255,.08)}
+          .sierra-card-points li:last-child{border-bottom:1px solid rgba(255,255,255,.08)}
+          .sierra-card-points li::before{content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:6px;height:6px;border-radius:50%;background:rgba(255,255,255,.5)}
+          .sierra-card-visual{width:100%;height:140px;position:relative;margin-bottom:16px;border-radius:16px;overflow:hidden;background:rgba(255,255,255,.08)}
           .sierra-card-cta{display:inline-block;margin-top:20px;padding:10px 24px;font-size:.82rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:#fff;border:1.5px solid rgba(255,255,255,.4);border-radius:100px;text-decoration:none;transition:all .25s ease}
           .sierra-card-cta:hover{background:rgba(255,255,255,.15);border-color:rgba(255,255,255,.7)}
 
@@ -1035,7 +1038,7 @@
           @keyframes sierraFloat{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-12px) scale(1.05)}}
           @keyframes sierraPulse{0%,100%{transform:translate(-50%,-50%) scale(1);opacity:1}50%{transform:translate(-50%,-50%) scale(1.08);opacity:.85}}
 
-          @media(max-width:1080px){.sierra-cards{grid-template-columns:1fr}.sierra-card{min-height:auto}}
+          @media(max-width:1080px){.sierra-cards{grid-template-columns:1fr}.sierra-card{min-height:auto}.sierra-card-1{opacity:1}}
         </style>
 
         <div class="sierra-cards">
@@ -1063,7 +1066,7 @@
             </div>
           </article>
 
-          <!-- Card 2: Patentability Audit -->
+          <!-- Card 2: Three-Month Audit -->
           <article class="sierra-card sierra-card-2 reveal delay-1">
             <div>
               <div class="sierra-card-visual">
@@ -1089,12 +1092,20 @@
                   </div>
                 </div>
               </div>
-              <span class="sierra-card-tag">Human + AI</span>
-              <h3>Patentability Audit &amp; IP Strategy Sprint</h3>
-              <p>No patents yet? Good. We turn what you've already built into fundraising leverage and investor-grade IP proof.</p>
+              <span class="sierra-card-featured-label">Primary Product</span>
+              <span class="sierra-card-tag">Human + AI &nbsp;&middot;&nbsp; 3 Months</span>
+              <h3>Three-Month Human-Driven Audit</h3>
+              <p>Patents or not, we embed in your business, map everything of value, and hand you an investor-grade IP strategy.</p>
+              <ul class="sierra-card-points">
+                <li>Documentation &amp; IP mapping</li>
+                <li>Models &amp; valuation framework</li>
+                <li>Licensing strategy</li>
+                <li>Data strategy</li>
+                <li>Tech roadmap alignment</li>
+              </ul>
             </div>
             <div>
-              <a class="sierra-card-cta" href="./services/patentability-audit/index.html">Learn more</a>
+              <a class="sierra-card-cta" href="./services/patentability-audit/index.html">Book your audit</a>
             </div>
           </article>
 
@@ -1116,15 +1127,14 @@
                     </div>
                     <div class="cfo-mini-chat">
                       <div class="cfo-msg-roll">
+                        <div class="cfo-mini-msg">Licensing deal +$320K</div>
                         <div class="cfo-mini-msg">Filing strategy updated</div>
                         <div class="cfo-mini-msg">2 new claims ready</div>
-                        <div class="cfo-mini-msg">Licensing deal +$320K</div>
                         <div class="cfo-mini-msg">Patent #8 approved</div>
                         <div class="cfo-mini-msg">Q2 review scheduled</div>
-                        <!-- duplicate for seamless loop -->
+                        <div class="cfo-mini-msg">Licensing deal +$320K</div>
                         <div class="cfo-mini-msg">Filing strategy updated</div>
                         <div class="cfo-mini-msg">2 new claims ready</div>
-                        <div class="cfo-mini-msg">Licensing deal +$320K</div>
                         <div class="cfo-mini-msg">Patent #8 approved</div>
                         <div class="cfo-mini-msg">Q2 review scheduled</div>
                       </div>
@@ -1132,9 +1142,16 @@
                   </div>
                 </div>
               </div>
-              <span class="sierra-card-tag">Human + AI</span>
+              <span class="sierra-card-featured-label">Recurring</span>
+              <span class="sierra-card-tag">Human + AI &nbsp;&middot;&nbsp; 2+ Patents</span>
               <h3>Fractional IP Strategist &amp; Intelligence Suite</h3>
-              <p>3+ patents filed? Unlock licensing revenue, real-time portfolio strategy, and a dedicated IP leader embedded in your team.</p>
+              <p>A dedicated, exited C-suite IP executive embedded in your team on a recurring basis.</p>
+              <ul class="sierra-card-points">
+                <li>Fundraising &amp; investor narrative</li>
+                <li>IP &amp; data strategy</li>
+                <li>Taking your patents to market</li>
+                <li>Executing licensing revenue</li>
+              </ul>
             </div>
             <div>
               <a class="sierra-card-cta" href="./services/fractional-ip-cxo/index.html">Learn more</a>
