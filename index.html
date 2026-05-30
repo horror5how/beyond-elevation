@@ -916,7 +916,7 @@
         </div>
 
         <style>
-          .pricing-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:48px;align-items:start}
+          .pricing-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:48px;align-items:stretch}
           .pricing-card{border-radius:20px;padding:36px 32px;display:flex;flex-direction:column;border:1px solid rgba(0,0,0,0.08);background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.04),0 12px 28px -12px rgba(0,0,0,.07);transition:transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s ease}
           .pricing-card:hover{transform:translateY(-4px);box-shadow:0 2px 8px rgba(0,0,0,.05),0 20px 44px -12px rgba(0,0,0,.12)}
           .pricing-card-featured{background:#1a1a1a;border-color:transparent;box-shadow:0 0 0 1px rgba(255,255,255,.06),0 24px 60px -16px rgba(0,0,0,.45)}
@@ -924,7 +924,7 @@
           .pricing-card-label{display:flex;align-items:center;gap:8px;font-size:.62rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#aaa;margin-bottom:20px}
           .pricing-card-featured .pricing-card-label{color:rgba(255,255,255,.35)}
           .pricing-badge{font-size:.6rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:#B45309;color:#fff;padding:3px 9px;border-radius:100px}
-          .pricing-card-name{font-size:1.38rem;font-weight:700;letter-spacing:-.025em;line-height:1.15;color:#1a1a1a;margin:0 0 20px}
+          .pricing-card-name{font-size:clamp(1.65rem,2.2vw,2rem);font-weight:700;letter-spacing:-.03em;line-height:1.12;color:#1a1a1a;margin:0 0 20px}
           .pricing-card-featured .pricing-card-name{color:#fff}
           .pricing-price{display:flex;align-items:baseline;gap:4px;margin-bottom:4px}
           .pricing-price-amount{font-size:2.6rem;font-weight:700;letter-spacing:-.04em;line-height:1;color:#1a1a1a}
@@ -972,9 +972,12 @@
             <hr class="pricing-divider">
             <span class="pricing-features-label">What's included</span>
             <ul class="pricing-features">
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Competitor filing alerts</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Patent gap analysis</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Live IP dashboard</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Competitor filing alerts the moment they move</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Patent gap analysis showing where you're exposed</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Live IP dashboard updated around the clock</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Weekly intelligence report in plain English</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Whitespace maps showing where new value can be filed</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Prior art risk flags before you build and spend</li>
             </ul>
           </article>
 
@@ -993,11 +996,12 @@
             <hr class="pricing-divider">
             <span class="pricing-features-label">What's included</span>
             <ul class="pricing-features">
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Documentation &amp; IP mapping</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Valuation framework</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Licensing strategy</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Data strategy</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Tech roadmap alignment</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Fundraising documentation your investors actually ask for</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Full IP valuation — what your portfolio is worth in dollars</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Data monetization blueprint to turn your data into recurring revenue</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Licensing revenue roadmap with a framework to start collecting royalties</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Tech roadmap alignment so every feature builds defensible IP</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Competitor and market IP analysis so no threat catches you off guard</li>
             </ul>
           </article>
 
@@ -1014,10 +1018,12 @@
             <hr class="pricing-divider">
             <span class="pricing-features-label">What's included</span>
             <ul class="pricing-features">
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Fundraising &amp; investor narrative</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>IP &amp; data strategy</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Taking your patents to market</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Executing licensing revenue</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Runs your licensing go-to-market until strategy becomes signed deals</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Gets on sales calls and pitches your IP directly to buyers</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Embeds with your tech team so every feature builds defensible value</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Monitors competitor moves and files counter-strategy in real time</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Manages litigation risk before it turns into a six-figure problem</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Works directly with the CEO every week — execution, not slides</li>
             </ul>
           </article>
 
