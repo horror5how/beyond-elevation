@@ -2416,3 +2416,19 @@ Also called a novelty search, a patentability search scans patent databases, pub
 Cost: $1,500 to $5,000 depending on tec
 
 ---
+
+## The Samsung Trade Secret Leak Cost Them Millions — Here Are the 6 ChatGPT Rules Every AI Startup Must Enforce By Monday
+
+URL: https://beyondelevation.com/blog/posts/chatgpt-trade-secret-risk/
+
+Samsung engineers pasted proprietary semiconductor source code into ChatGPT. Three separate incidents in under a month. The result: millions in damage, a company-wide ban on generative AI tools, and a case study every AI startup founder should memorize before their next standup. Hayat Amin argues this was not an IT failure — it was a trade secret failure. The moment confidential information enters a public LLM, the legal protection around it evaporates. Not temporarily. Permanently.
+
+Does using ChatGPT destroy your trade secrets? The short answer is yes — if you input confidential information into a public large language model without enterprise-grade contractual protections, you have likely made a voluntary disclosure under the Defend Trade Secrets Act. And voluntary disclosure is the one mistake trade secret law does not forgive.
+
+## Does Using ChatGPT Destroy Your Trade Secrets?
+
+Yes. Inputting confidential business information into a public AI tool constitutes voluntary disclosure under the DTSA (18 U.S.C. § 1836), which requires trade secret holders to maintain "reasonable measures" to preserve secrecy. Pasting proprietary code, algorithms, training data, or strategic documents into ChatGPT is the opposite of a reasonable measure — and courts have already ruled accordingly.
+
+The legal standard is unforgiving. A trade secret derives its value from not being generally known. The holder must take active, documented steps to keep it secret. When an employee feeds proprietary
+
+---
