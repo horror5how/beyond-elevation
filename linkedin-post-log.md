@@ -139,3 +139,4 @@
 2026-05-29 17:51 | urn:li:share:7466184493477969920 | Samsung engineers pasted chip source code into ChatGPT. Three times.  DTSA volun
 2026-05-30 07:51 | urn:li:share:7466395961259413504 | EU AI Act enforcement starts August 2.  The fine: €15M or 3% of global revenue
 2026-05-30 12:51 | QUEUED | ip-revenue-ratio-acquisition-metric-2026 | Your acquirer has one number.  IP revenue ratio.  Miss it, and you leave 30% of 
+2026-05-30 17:56 | urn:li:share:7466548079970635776 | Venture debt backed by your patents can raise $25M without giving up a single sh
