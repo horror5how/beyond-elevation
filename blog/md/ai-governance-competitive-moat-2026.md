@@ -87,7 +87,7 @@ For a 10–30 person AI company, a baseline governance programme costs roughly o
 
 ### Can AI governance really increase my company's valuation?
 
-Yes. Governance-mature AI companies raise at 15–20% higher valuations than comparable companies without governance documentation. The premium reflects reduced regulatory risk, faster enterprise sales cycles, and the structural switching costs that governance infrastructure creates. Beyond Elevation scores governance maturity using Hayat Amin's 5-layer Defensibility Stack and uses the result as a pre-fundraising diagnostic.
+Yes. Governance-mature AI companies raise at 15–20% higher valuations than comparable companies without governance documentation. The premium reflects reduced regulatory risk, faster enterprise sales cycles, and the structural switching costs that governance infrastructure creates. Beyond Elevation scores governance maturity using the 5-layer Defensibility Stack and uses the result as a pre-fundraising diagnostic.
 
 ### Where should I start with AI governance?
 
