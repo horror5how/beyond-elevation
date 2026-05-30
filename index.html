@@ -549,16 +549,16 @@
             padding: 140px 20px;
             position: relative;
             overflow: hidden;
-            background: #fafafa;
             background:
-              radial-gradient(1200px 800px at 50% -20%, #ffffff 0%, #fafafa 70%),
+              radial-gradient(700px 500px at 15% 40%, rgba(199,210,254,0.28), transparent 60%),
+              radial-gradient(600px 400px at 80% 20%, rgba(254,243,199,0.38), transparent 55%),
+              radial-gradient(500px 350px at 65% 85%, rgba(209,250,229,0.3), transparent 58%),
               linear-gradient(180deg, #fafafa 0%, #f5f0e8 100%);
           }
           .section-offer-v3::after {
             content: ''; position: absolute; inset: 0; pointer-events: none; z-index: 0;
             background:
-              radial-gradient(700px 500px at 85% 15%, rgba(255,225,199,0.35), transparent 60%),
-              radial-gradient(600px 400px at 10% 85%, rgba(245,200,150,0.20), transparent 60%);
+              radial-gradient(800px 500px at 50% -10%, rgba(255,255,255,0.7), transparent 60%);
           }
           .offer-v3-shell { position: relative; z-index: 1; max-width: 1180px; margin: 0 auto; }
           .offer-v3-head { text-align: center; max-width: 880px; margin: 0 auto 80px; }
@@ -641,12 +641,14 @@
           }
           .offer-v3-card {
             position: relative;
-            background: #ffffff;
-            border-radius: 18px;
-            padding: 32px 28px;
-            border: 1px solid rgba(0,0,0,0.07);
-            box-shadow: 0 1px 2px rgba(0,0,0,0.03), 0 12px 32px -12px rgba(0,0,0,0.07);
-            transition: transform 0.3s cubic-bezier(0.16,1,0.3,1), box-shadow 0.3s ease, border-color 0.3s ease;
+            background: rgba(255,255,255,0.6);
+            backdrop-filter: blur(24px) saturate(1.8);
+            -webkit-backdrop-filter: blur(24px) saturate(1.8);
+            border-radius: 22px;
+            padding: 36px 30px;
+            border: 1px solid rgba(255,255,255,0.85);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.04), 0 16px 40px -16px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.9);
+            transition: transform 0.3s cubic-bezier(0.16,1,0.3,1), box-shadow 0.3s ease;
             overflow: visible;
             isolation: isolate;
             display: flex;
@@ -654,10 +656,30 @@
           }
           .offer-v3-card::before { display: none; }
           .offer-v3-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 2px 6px rgba(0,0,0,0.04), 0 20px 44px -16px rgba(0,0,0,0.11);
-            border-color: rgba(180,83,9,0.16);
+            transform: translateY(-4px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.06), 0 28px 56px -20px rgba(0,0,0,0.14), inset 0 1px 0 rgba(255,255,255,0.9);
           }
+          /* Card 1: indigo */
+          .offer-v3-cards > article:nth-child(1) {
+            background: linear-gradient(145deg, rgba(224,231,255,0.7), rgba(238,242,255,0.82));
+            border-color: rgba(199,210,254,0.7);
+          }
+          .offer-v3-cards > article:nth-child(1) .offer-v3-card-icon { background: #4F46E5; }
+          .offer-v3-cards > article:nth-child(1) .offer-v3-card-badge { color: #4F46E5; background: rgba(79,70,229,0.1); }
+          .offer-v3-cards > article:nth-child(1) .offer-v3-card-proof svg { color: #4F46E5; }
+          /* Card 2: amber */
+          .offer-v3-cards > article:nth-child(2) {
+            background: linear-gradient(145deg, rgba(255,247,220,0.75), rgba(255,251,235,0.88));
+            border-color: rgba(245,177,50,0.45);
+          }
+          /* Card 3: emerald */
+          .offer-v3-cards > article:nth-child(3) {
+            background: linear-gradient(145deg, rgba(209,250,229,0.7), rgba(236,253,245,0.82));
+            border-color: rgba(52,211,153,0.5);
+          }
+          .offer-v3-cards > article:nth-child(3) .offer-v3-card-icon { background: #059669; }
+          .offer-v3-cards > article:nth-child(3) .offer-v3-card-badge { color: #059669; background: rgba(5,150,105,0.1); }
+          .offer-v3-cards > article:nth-child(3) .offer-v3-card-proof svg { color: #059669; }
           .offer-v3-card-top {
             display: flex; align-items: center; justify-content: space-between;
             margin-bottom: 24px;
@@ -680,7 +702,17 @@
             box-shadow: 0 4px 10px -4px rgba(26,26,26,0.35);
           }
           .offer-v3-card-icon svg { width: 19px; height: 19px; }
-          .offer-v3-card-metric { display: none; }
+          .offer-v3-card-metric {
+            display: block;
+            font-size: clamp(3rem, 4.5vw, 4.2rem);
+            font-weight: 800;
+            letter-spacing: -0.05em;
+            line-height: 1;
+            margin-bottom: 10px;
+          }
+          .offer-v3-cards > article:nth-child(1) .offer-v3-card-metric { color: #4F46E5; }
+          .offer-v3-cards > article:nth-child(2) .offer-v3-card-metric { color: #B45309; }
+          .offer-v3-cards > article:nth-child(3) .offer-v3-card-metric { color: #059669; }
           .offer-v3-card h3 {
             font-size: 1.12rem;
             line-height: 1.32;
@@ -955,6 +987,27 @@
           .pricing-check{width:15px;height:15px;flex-shrink:0;color:#B45309;margin-top:1px}
           .pricing-card-featured .pricing-check{color:#F2B176}
           @media(max-width:960px){.pricing-cards{grid-template-columns:1fr}}
+          /* heading pop: featured dark card */
+          .pricing-card-featured .pricing-card-name{
+            color:#fff;
+            text-shadow:0 0 48px rgba(242,177,118,0.45);
+          }
+          .pricing-card-featured .pricing-card-name::before{
+            content:'';display:block;width:30px;height:3px;
+            background:linear-gradient(90deg,#F2B176,#B45309);
+            border-radius:100px;margin-bottom:12px;
+          }
+          /* heading pop: third card */
+          .pricing-card-accent .pricing-card-name{
+            background:linear-gradient(135deg,#1a1a1a 20%,#B45309 100%);
+            -webkit-background-clip:text;background-clip:text;
+            -webkit-text-fill-color:transparent;
+          }
+          .pricing-card-accent .pricing-card-name::before{
+            content:'';display:block;width:30px;height:3px;
+            background:linear-gradient(90deg,#B45309,#1a1a1a);
+            border-radius:100px;margin-bottom:12px;
+          }
         </style>
 
         <div class="pricing-cards">
@@ -964,7 +1017,7 @@
             <div class="pricing-card-label">Add-on</div>
             <h3 class="pricing-card-name">AI Agent Intelligence</h3>
             <div class="pricing-price">
-              <span class="pricing-price-amount" style="font-size:1.9rem">Included</span>
+              <span class="pricing-price-amount" style="font-size:1.35rem;font-weight:600;letter-spacing:-.01em">Included</span>
             </div>
             <p class="pricing-price-sub">With any engagement</p>
             <p class="pricing-desc">24/7 patent monitoring, competitor filing alerts, and gap analysis running automatically in the background.</p>
@@ -972,12 +1025,12 @@
             <hr class="pricing-divider">
             <span class="pricing-features-label">What's included</span>
             <ul class="pricing-features">
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Competitor filing alerts the moment they move</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Patent gap analysis showing where you're exposed</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Live IP dashboard updated around the clock</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Weekly intelligence report in plain English</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Whitespace maps showing where new value can be filed</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Prior art risk flags before you build and spend</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Real-time competitor patent alerts</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Patent gap and exposure analysis</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Live IP portfolio dashboard</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Weekly market intelligence digest</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Whitespace opportunity mapping</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Prior art risk detection</li>
             </ul>
           </article>
 
@@ -986,7 +1039,7 @@
             <div class="pricing-card-label">Most Popular <span class="pricing-badge">Recommended</span></div>
             <h3 class="pricing-card-name">Three-Month Audit</h3>
             <div class="pricing-price">
-              <span class="pricing-price-amount">$6,500</span>
+              <span class="pricing-price-amount" style="font-size:2rem">$6,500</span>
               <span class="pricing-price-period">/month</span>
             </div>
             <p class="pricing-price-sub">3-month engagement &middot; $19,500 total</p>
@@ -996,21 +1049,21 @@
             <hr class="pricing-divider">
             <span class="pricing-features-label">What's included</span>
             <ul class="pricing-features">
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Fundraising documentation your investors actually ask for</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Full IP valuation — what your portfolio is worth in dollars</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Data monetization blueprint to turn your data into recurring revenue</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Licensing revenue roadmap with a framework to start collecting royalties</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Tech roadmap alignment so every feature builds defensible IP</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Competitor and market IP analysis so no threat catches you off guard</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Investor-ready fundraising documentation</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Full IP portfolio valuation in dollars</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Data monetization blueprint</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Licensing revenue roadmap</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Tech roadmap IP alignment</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Full competitor and market IP analysis</li>
             </ul>
           </article>
 
           <!-- Card 3: Fractional IP Strategist -->
-          <article class="pricing-card reveal delay-2">
+          <article class="pricing-card pricing-card-accent reveal delay-2">
             <div class="pricing-card-label">Recurring</div>
             <h3 class="pricing-card-name">In-House Fractional IP Strategist</h3>
             <div class="pricing-price">
-              <span class="pricing-price-amount" style="font-size:1.9rem">Custom</span>
+              <span class="pricing-price-amount" style="font-size:1.35rem;font-weight:600;letter-spacing:-.01em">Custom</span>
             </div>
             <p class="pricing-price-sub">2+ patents required</p>
             <p class="pricing-desc">A dedicated, exited C-suite IP executive embedded in your team on an ongoing basis. Works like a full-time hire.</p>
@@ -1018,12 +1071,12 @@
             <hr class="pricing-divider">
             <span class="pricing-features-label">What's included</span>
             <ul class="pricing-features">
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Runs your licensing go-to-market until strategy becomes signed deals</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Gets on sales calls and pitches your IP directly to buyers</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Embeds with your tech team so every feature builds defensible value</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Monitors competitor moves and files counter-strategy in real time</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Manages litigation risk before it turns into a six-figure problem</li>
-              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Works directly with the CEO every week — execution, not slides</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Full licensing go-to-market execution</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Direct IP sales calls with buyers</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Embedded tech team partnership</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Ongoing competitor monitoring</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Litigation risk management</li>
+              <li><svg class="pricing-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>Weekly CEO execution sessions</li>
             </ul>
           </article>
 
