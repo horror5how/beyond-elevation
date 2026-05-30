@@ -174,5 +174,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Venture Debt Backed By Your Patents in 2026: The 5-Step Playbook to Raise $1M–$25M Without Diluting a Single Share](https://beyondelevation.com/blog/posts/venture-debt-ip-collateral-playbook/) — /blog/md/venture-debt-ip-collateral-playbook.md
 - [EU AI Act Fines Hit €15M or 3% of Global Revenue From Aug 2 2026: The 4 Triggers That Sink AI Startups First](https://beyondelevation.com/blog/posts/eu-ai-act-fines-2026/) — /blog/md/eu-ai-act-fines-2026.md
 - [The 4 Ways AI Is Already Drafting Patents in 2026 (And the One USPTO Rule That Voids Your Claims If You Get It Wrong)](https://beyondelevation.com/blog/posts/ai-patent-drafting-2026/) — /blog/md/ai-patent-drafting-2026.md
+- [Patentability Search vs Prior Art Search vs FTO: The 3-Search Decision Tree Every Founder Confuses (And the One You Actually Need First)](https://beyondelevation.com/blog/posts/patentability-vs-prior-art-vs-fto-search/) — /blog/md/patentability-vs-prior-art-vs-fto-search.md
 
 > Full blog content available at /llms-full.txt

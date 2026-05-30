@@ -2,8 +2,8 @@
 title: "Patentability Search vs Prior Art Search vs FTO: The 3-Search Decision Tree Every Founder Confuses (And the One You Actually Need First)"
 slug: patentability-vs-prior-art-vs-fto-search
 date: 2026-05-30
-url: https://beyondelevation.com/blog/post.html?slug=patentability-vs-prior-art-vs-fto-search
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patentability-vs-prior-art-vs-fto-search/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -77,6 +77,20 @@ For an FTO analysis: provide a detailed description of your product as it will b
 
 Hayat Amin reminds founders that the search is not the deliverable — the strategic decision that follows is. A patentability search that sits in a drawer is worthless. An FTO report that nobody reads before launch is a liability. Every search engagement at [Beyond Elevation](https://beyondelevation.com) closes with a strategy session that translates findings into a concrete action plan: file, redesign, license, or proceed with documented risk acceptance.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patentability-vs-prior-art-vs-fto-search)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a patentability search cost?
@@ -98,3 +112,6 @@ A patentability search is narrow — it focuses on whether your specific inventi
 ### When should a startup commission its first patent search?
 
 Commission a patentability search before your first patent filing — ideally before the provisional application. The cost is $1,500 to $5,000 versus $15,000 to $30,000 for a utility application. Commission an FTO search before product launch. Beyond Elevation recommends running the FTO at least 3 months before launch to leave time for design-around if infringement risks surface.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -2398,3 +2398,21 @@ Yes — AI patent drafting is legal, increasingly common, and used by law firms,
 This is the distinction most founders miss. The technology works. The legal framework allows it. But the compliance requirement is absolute, and the penalty for non-compliance is total loss of patent rights. Beyond Elevation has reviewed dozens of AI-drafted applications since September 2025, and Hayat Amin’s assessment is blunt: “Eigh
 
 ---
+
+## Patentability Search vs Prior Art Search vs FTO: The 3-Search Decision Tree Every Founder Confuses (And the One You Actually Need First)
+
+URL: https://beyondelevation.com/blog/posts/patentability-vs-prior-art-vs-fto-search/
+
+Founders waste $5,000 to $20,000 on patent searches every quarter — not because the searches are bad, but because they commission the wrong type. A patentability search, a prior art search, and a freedom to operate analysis look similar on a proposal. They are not. Each one answers a fundamentally different question, and running them out of sequence is the fastest way to burn legal budget on answers nobody asked for. Hayat Amin argues that the majority of patent searches founders commission are the wrong type for their stage — and their patent attorneys have zero incentive to correct them, because attorneys get paid either way.
+
+Here is the 3-search decision tree that tells you which patent search to run, when to run it, and why the sequence matters more than the search itself.
+
+## What Is a Patentability Search and When Do You Need One?
+
+A patentability search determines whether your invention is novel and non-obvious enough to be granted a patent. It answers one question: has anyone invented this before? That is the entire scope. Nothing more.
+
+Also called a novelty search, a patentability search scans patent databases, published applications, academic papers, and public disclosures for prior art that matches your invention's core claims. The output is a report listing the closest prior art references and a professional opinion on whether your invention clears the novelty and non-obviousness bars required by the USPTO, EPO, or UKIPO.
+
+Cost: $1,500 to $5,000 depending on tec
+
+---
