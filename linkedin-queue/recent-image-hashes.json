@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffffff2000",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "data-syndication-recurring-revenue-2026",
-    "ts": "2026-05-27T12:22:17.253Z"
-  },
-  {
     "hash": "81c3e7ffc3c3ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "eu-ip-intensive-industries-47-pct-2026",
     "ts": "2026-05-29T10:51:56.056Z"
+  },
+  {
+    "hash": "fff010701335ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "iyo-openai-ip-litigation-funded-2026",
+    "ts": "2026-05-31T10:59:48.820Z"
   }
 ]

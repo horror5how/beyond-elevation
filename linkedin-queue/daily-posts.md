@@ -3,7 +3,7 @@ date: 2026-05-31
 theme: Six fresh proofs from the past 72 hours that IP is now priced as an asset class — litigation funds underwrite it, public markets evaporate it, AI founders reserve OpEx for it, publishers monetise it, density compounds it, and acquirers buy it without the company
 generated_at: 2026-05-31T04:00:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Each of today's posts attacks the same core idea from a different angle: the fin
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-05-31T10:59:48.820Z
+share_urn: urn:li:share:7466805629131751424
 hook_format: frame-break
 cta_goal: follows
 slug: iyo-openai-ip-litigation-funded-2026
