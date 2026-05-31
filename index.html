@@ -720,6 +720,37 @@
             transition: background 0.2s, border-color 0.2s;
           }
           .sc-cta:hover { background: rgba(255,255,255,0.13); border-color: rgba(255,255,255,0.5); }
+          /* ---- Section bridge heading ---- */
+          .sol-bridge {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 56px;
+            align-items: center;
+            margin-bottom: 52px;
+            padding-bottom: 52px;
+            border-bottom: 1px solid rgba(0,0,0,0.08);
+          }
+          .sol-bridge-eye {
+            display: inline-block;
+            font-size: 0.64rem; font-weight: 700; letter-spacing: 0.22em;
+            text-transform: uppercase; color: #B45309; margin-bottom: 16px;
+          }
+          .sol-bridge-h {
+            font-size: clamp(2rem, 3.6vw, 3.2rem);
+            font-weight: 700; letter-spacing: -0.04em; line-height: 1.06;
+            color: #1a1a1a; margin: 0;
+          }
+          .sol-bridge-right p {
+            font-size: 1.02rem; line-height: 1.74; color: #444; margin: 0 0 24px;
+          }
+          .sol-bridge-link {
+            display: inline-flex; align-items: center; gap: 6px;
+            font-size: 0.92rem; font-weight: 600; color: #B45309;
+            text-decoration: none; border-bottom: 1px solid rgba(180,83,9,0.3);
+            padding-bottom: 2px; transition: border-color 0.2s;
+          }
+          .sol-bridge-link:hover { border-color: #B45309; }
+          @media(max-width:800px){ .sol-bridge{grid-template-columns:1fr;gap:24px;padding-bottom:32px;margin-bottom:36px} }
           .offer-v3-cta {
             text-align: center;
             padding: 64px 32px;
@@ -819,6 +850,17 @@
             <div class="offer-v3-metric">
               <strong>90&nbsp;days</strong>
               <span>From audit to first licensing conversation</span>
+            </div>
+          </div>
+
+          <div class="sol-bridge reveal">
+            <div class="sol-bridge-left">
+              <span class="sol-bridge-eye">What you get</span>
+              <h2 class="sol-bridge-h">Every engagement.<br>Three guaranteed<br>outcomes.</h2>
+            </div>
+            <div class="sol-bridge-right">
+              <p>No vague deliverables. No strategy documents that sit in a drawer. These are the three measurable outcomes every engagement with Beyond Elevation produces — higher valuation, licensing revenue that prints every quarter, and a competitive moat no acquirer or rival can cross.</p>
+              <a class="sol-bridge-link" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Book a free strategy call &rarr;</a>
             </div>
           </div>
 
