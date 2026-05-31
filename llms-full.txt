@@ -2450,3 +2450,21 @@ AI governance is a competitive moat because it creates three barriers competitor
 VCs now score governance maturity during due diligence the same way they score product-market fit. Unite.AI's 2026 defensibility framework identifies governance infrastructure as one of five moat pillars that separate investable AI
 
 ---
+
+## Patent Analytics Platforms Compared: PatSnap vs Anaqua vs Cypris vs Researchly (And Where a Human IP Strategist Still Wins)
+
+URL: https://beyondelevation.com/blog/posts/patent-analytics-platforms-compared/
+
+The average patent analytics platform costs $48,000 per year. Most founders use exactly two features. Hayat Amin argues this is the single most overspent line item in early-stage IP budgets — and after reviewing hundreds of patent portfolios at [Beyond Elevation](https://beyondelevation.com), the data backs that claim with zero exceptions.
+
+Four platforms dominate the patent analytics platform market in 2026: PatSnap, Anaqua, Cypris, and Researchly. Each sells a different version of the same promise — turn raw patent data into strategic decisions. The question founders should ask is not which platform is best. It is whether they need a platform at all.
+
+This comparison breaks down what each patent analytics platform actually delivers, where each one wins, and the three scenarios where a human IP strategist beats all of them.
+
+## What Is a Patent Analytics Platform?
+
+A patent analytics platform is software that ingests patent filings, citations, legal status data, and competitive intelligence to produce dashboards, heatmaps, and strategic reports about patent portfolios. These tools serve five core functions: landscape mapping, citation analysis, quality scoring, competitor tracking, and portfolio benchmarking. They replace the manual work of reading thousands of patent filings and synthesizing patterns — work that previously required dedicated analysts billing $300–500 per hour.
+
+The market has consolidated around a handful of enterprise players. PatSnap, backed by $300M+ in 
+
+---
