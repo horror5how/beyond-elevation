@@ -661,56 +661,46 @@
             border-radius: 16px;
             border: 1px solid rgba(255,255,255,0.13);
             padding: 14px 16px;
-            min-height: 130px;
+            min-height: 175px;
           }
-          .sc-mock-hdr {
-            display: flex; align-items: center; gap: 7px;
-            margin-bottom: 10px;
-          }
-          .sc-mock-dot {
-            width: 7px; height: 7px; border-radius: 50%; background: #4ADE80;
-            box-shadow: 0 0 6px rgba(74,222,128,0.6);
-          }
-          .sc-mock-title {
-            font-size: 0.68rem; font-weight: 600; letter-spacing: 0.04em;
-            color: rgba(255,255,255,0.65);
-          }
-          .sc-msg { border-radius: 10px; padding: 6px 10px; font-size: 0.72rem; line-height: 1.4; margin-bottom: 6px; max-width: 85%; }
-          .sc-msg-in { background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.8); align-self: flex-start; }
-          .sc-msg-out { background: rgba(255,255,255,0.22); color: #fff; margin-left: auto; text-align: right; }
-          .sc-msgs { display: flex; flex-direction: column; gap: 5px; }
-          .sc-typing { display: flex; gap: 3px; align-items: center; margin-top: 6px; }
-          .sc-typing span { width: 5px; height: 5px; border-radius: 50%; background: rgba(255,255,255,0.45); }
-          @keyframes sc-bounce { 0%,60%,100%{transform:translateY(0);opacity:.4} 30%{transform:translateY(-3px);opacity:1} }
-          .sc-typing span:nth-child(1){animation:sc-bounce 1.3s ease infinite}
-          .sc-typing span:nth-child(2){animation:sc-bounce 1.3s ease .18s infinite}
-          .sc-typing span:nth-child(3){animation:sc-bounce 1.3s ease .36s infinite}
-          /* Metric mock */
-          .sc-metric-row { display: flex; gap: 8px; margin-bottom: 10px; }
-          .sc-metric-box { flex: 1; background: rgba(255,255,255,0.1); border-radius: 10px; padding: 8px 10px; }
-          .sc-metric-lbl { font-size: 0.55rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.45); margin-bottom: 3px; }
-          .sc-metric-val { font-size: 1.25rem; font-weight: 700; letter-spacing: -0.03em; color: #fff; }
-          .sc-bar-wrap { background: rgba(255,255,255,0.1); border-radius: 100px; height: 4px; overflow: hidden; margin-bottom: 8px; }
-          @keyframes sc-bar { from{width:0} to{width:72%} }
-          .sc-bar-fill { height: 100%; border-radius: 100px; background: rgba(255,255,255,0.55); animation: sc-bar 2s ease-out 0.6s both; }
-          .sc-divider-row { display: flex; align-items: center; gap: 8px; }
-          .sc-divider { flex: 1; height: 1px; background: rgba(255,255,255,0.12); }
-          .sc-plus { width: 22px; height: 22px; border-radius: 50%; background: rgba(255,255,255,0.14); display: flex; align-items: center; justify-content: center; font-size: 0.85rem; color: rgba(255,255,255,0.7); font-weight: 300; }
-          /* Person mock */
-          .sc-person-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
-          .sc-avatar { width: 42px; height: 42px; border-radius: 50%; background: linear-gradient(135deg,#F59E0B,#D97706); flex-shrink: 0; border: 2px solid rgba(255,255,255,0.25); overflow: hidden; }
-          .sc-avatar svg { width: 100%; height: 100%; }
-          .sc-person-stats { flex: 1; }
-          .sc-tag { display: inline-block; font-size: 0.6rem; font-weight: 600; letter-spacing: 0.06em; color: rgba(255,255,255,0.5); background: rgba(255,255,255,0.1); border-radius: 6px; padding: 3px 8px; margin-top: 6px; }
+          /* ---- Bar chart (Card 1) ---- */
+          .sc-chart-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+          .sc-chart-title{font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.5)}
+          .sc-chart-badge{font-size:0.75rem;font-weight:700;color:#fff;background:rgba(255,255,255,0.18);border-radius:100px;padding:2px 9px;letter-spacing:-0.01em}
+          .sc-bars-wrap{display:flex;align-items:flex-end;gap:5px;height:84px;margin-bottom:9px}
+          .sc-bar-track{flex:1;height:100%;display:flex;align-items:flex-end}
+          @keyframes sc-bar-rise{to{transform:scaleY(1)}}
+          .sc-bar-item{width:100%;border-radius:5px 5px 2px 2px;height:var(--h);background:rgba(255,255,255,0.2);transform:scaleY(0);transform-origin:bottom;animation:sc-bar-rise 0.65s cubic-bezier(0.34,1.56,0.64,1) var(--d) forwards}
+          .sc-bar-track.hi .sc-bar-item{background:rgba(255,255,255,0.78);box-shadow:0 -4px 18px rgba(255,255,255,0.32)}
+          .sc-chart-foot{display:flex;justify-content:space-between}
+          .sc-chart-foot span{font-size:0.57rem;font-weight:600;color:rgba(255,255,255,0.38)}
+          /* ---- Line chart (Card 2) ---- */
+          .sc-line-hdr{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:6px}
+          .sc-line-title{font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.5)}
+          .sc-line-val{font-size:1.05rem;font-weight:700;letter-spacing:-0.03em;color:#fff}
+          .sc-line-svg{width:100%;height:76px;overflow:visible;display:block}
+          @keyframes sc-draw{from{stroke-dashoffset:340}to{stroke-dashoffset:0}}
+          .sc-line-path{stroke-dasharray:340;stroke-dashoffset:340;animation:sc-draw 2.2s ease-out 0.4s both}
+          .sc-line-ticks{display:flex;justify-content:space-between;margin-top:5px}
+          .sc-line-ticks span{font-size:0.57rem;font-weight:600;color:rgba(255,255,255,0.38)}
+          /* ---- Acquisition (Card 3) ---- */
+          .sc-acq-row{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+          .sc-acq-ent{display:flex;flex-direction:column;align-items:center;gap:5px}
+          .sc-acq-box{width:46px;height:46px;border-radius:14px;background:rgba(255,255,255,0.14);border:1px solid rgba(255,255,255,0.2);display:flex;align-items:center;justify-content:center}
+          .sc-acq-box svg{width:22px;height:22px}
+          .sc-acq-name{font-size:0.57rem;font-weight:600;color:rgba(255,255,255,0.45);letter-spacing:0.04em}
+          .sc-acq-center{display:flex;flex-direction:column;align-items:center;gap:3px;flex:1}
+          .sc-dollars{display:flex;gap:6px;margin-bottom:2px}
+          @keyframes sc-dfloat{0%,100%{transform:translateY(0);opacity:0.5}50%{transform:translateY(-5px);opacity:1}}
+          .sc-ds{font-size:0.85rem;font-weight:700;color:rgba(255,255,255,0.65);animation:sc-dfloat 2s ease-in-out infinite}
+          .sc-ds:nth-child(2){animation-delay:.55s}
+          .sc-ds:nth-child(3){animation-delay:1.1s}
+          .sc-shake-svg{opacity:0.7}
+          .sc-acq-tag{background:rgba(255,255,255,0.12);border-radius:10px;padding:8px 12px;display:flex;justify-content:space-between;align-items:center}
+          .sc-acq-tag-lbl{font-size:0.58rem;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:rgba(255,255,255,0.45)}
+          .sc-acq-tag-val{font-size:0.95rem;font-weight:700;letter-spacing:-0.02em;color:#fff}
           /* Card content */
-          .sc-content { padding: 20px 24px 26px; display: flex; flex-direction: column; flex: 1; }
-          .sc-badge {
-            display: inline-flex; align-items: center;
-            font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
-            color: rgba(255,255,255,0.65); background: rgba(255,255,255,0.12);
-            border: 1px solid rgba(255,255,255,0.18); border-radius: 100px;
-            padding: 4px 10px; width: fit-content; margin-bottom: 12px;
-          }
+          .sc-content { padding: 22px 26px 30px; display: flex; flex-direction: column; flex: 1; }
           .sc-heading {
             font-size: clamp(1.5rem, 2.2vw, 2rem);
             font-weight: 700; letter-spacing: -0.03em; line-height: 1.12;
@@ -830,76 +820,108 @@
 
           <div class="offer-v3-cards">
 
-            <!-- Card 1: Fundraising / 4x (blue) -->
+            <!-- Card 1: 4x Valuation (blue) — bar chart going up -->
             <article class="offer-v3-card reveal">
               <div class="sc-mock">
-                <div class="sc-mock-hdr">
-                  <span class="sc-mock-dot"></span>
-                  <span class="sc-mock-title">BE Patent Agent (Online)</span>
+                <div class="sc-chart-hdr">
+                  <span class="sc-chart-title">Valuation</span>
+                  <span class="sc-chart-badge">+4x</span>
                 </div>
-                <div class="sc-msgs">
-                  <div class="sc-msg sc-msg-in">2 competitors filed this week.</div>
-                  <div class="sc-msg sc-msg-out">Counter-file. $2.4M at risk.</div>
+                <div class="sc-bars-wrap">
+                  <div class="sc-bar-track"><div class="sc-bar-item" style="--h:22%;--d:0s"></div></div>
+                  <div class="sc-bar-track"><div class="sc-bar-item" style="--h:35%;--d:.1s"></div></div>
+                  <div class="sc-bar-track"><div class="sc-bar-item" style="--h:30%;--d:.2s"></div></div>
+                  <div class="sc-bar-track"><div class="sc-bar-item" style="--h:52%;--d:.3s"></div></div>
+                  <div class="sc-bar-track"><div class="sc-bar-item" style="--h:72%;--d:.4s"></div></div>
+                  <div class="sc-bar-track hi"><div class="sc-bar-item" style="--h:100%;--d:.5s"></div></div>
                 </div>
-                <div class="sc-typing"><span></span><span></span><span></span></div>
+                <div class="sc-chart-foot">
+                  <span>Pre-IP</span>
+                  <span>Post-IP</span>
+                </div>
               </div>
               <div class="sc-content">
-                <span class="sc-badge">AI</span>
                 <h3 class="sc-heading">4x Higher Valuation</h3>
                 <p class="sc-desc">We build the IP proof points that make investors say yes faster and price your round up.</p>
                 <a class="sc-cta" href="./services/patentability-audit/index.html">Learn More</a>
               </div>
             </article>
 
-            <!-- Card 2: Revenue / Audit (purple) -->
+            <!-- Card 2: Licensing Revenue (purple) — P&L line chart -->
             <article class="offer-v3-card reveal delay-1">
               <div class="sc-mock">
-                <div class="sc-metric-row">
-                  <div class="sc-metric-box">
-                    <div class="sc-metric-lbl">IP Assets</div>
-                    <div class="sc-metric-val">13</div>
-                  </div>
-                  <div class="sc-metric-box">
-                    <div class="sc-metric-lbl">Valuation</div>
-                    <div class="sc-metric-val">$4.6M</div>
-                  </div>
+                <div class="sc-line-hdr">
+                  <span class="sc-line-title">Licensing Revenue</span>
+                  <span class="sc-line-val">$3.7M</span>
                 </div>
-                <div class="sc-bar-wrap"><div class="sc-bar-fill"></div></div>
-                <div class="sc-divider-row">
-                  <div class="sc-divider"></div>
-                  <div class="sc-plus">+</div>
+                <svg class="sc-line-svg" viewBox="0 0 240 68" preserveAspectRatio="none">
+                  <defs>
+                    <linearGradient id="linefill" x1="0" y1="0" x2="0" y2="1">
+                      <stop offset="0%" stop-color="rgba(255,255,255,0.28)"/>
+                      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+                    </linearGradient>
+                  </defs>
+                  <path d="M0,66 C40,63 80,56 110,46 S160,28 190,16 S220,7 240,3 L240,68 L0,68 Z" fill="url(#linefill)"/>
+                  <path class="sc-line-path" d="M0,66 C40,63 80,56 110,46 S160,28 190,16 S220,7 240,3" fill="none" stroke="rgba(255,255,255,0.85)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                  <circle cx="0" cy="66" r="3" fill="rgba(255,255,255,0.5)"/>
+                  <circle cx="110" cy="46" r="3" fill="rgba(255,255,255,0.6)"/>
+                  <circle cx="190" cy="16" r="3" fill="rgba(255,255,255,0.7)"/>
+                  <circle cx="240" cy="3" r="4" fill="#fff"/>
+                </svg>
+                <div class="sc-line-ticks">
+                  <span>$0.4M</span>
+                  <span>$1.2M</span>
+                  <span>$2.4M</span>
+                  <span>$3.7M</span>
                 </div>
               </div>
               <div class="sc-content">
-                <span class="sc-badge">Human + AI</span>
                 <h3 class="sc-heading">Licensing Revenue</h3>
                 <p class="sc-desc">Unused IP becomes royalty income. We find the licensees, set the pricing, and run the deal flow.</p>
                 <a class="sc-cta" href="./services/patentability-audit/index.html">Learn More</a>
               </div>
             </article>
 
-            <!-- Card 3: Defensibility / 12x (amber) -->
+            <!-- Card 3: 12x Exit Odds (amber) — acquisition / handshake -->
             <article class="offer-v3-card reveal delay-2">
               <div class="sc-mock">
-                <div class="sc-person-row">
-                  <div class="sc-avatar">
-                    <svg viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <rect width="42" height="42" fill="url(#av)"/>
-                      <circle cx="21" cy="16" r="8" fill="rgba(255,255,255,0.35)"/>
-                      <ellipse cx="21" cy="36" rx="13" ry="9" fill="rgba(255,255,255,0.25)"/>
-                      <defs><linearGradient id="av" x1="0" y1="0" x2="42" y2="42" gradientUnits="userSpaceOnUse"><stop stop-color="#F59E0B"/><stop offset="1" stop-color="#92400E"/></linearGradient></defs>
+                <div class="sc-acq-row">
+                  <div class="sc-acq-ent">
+                    <div class="sc-acq-box">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.75)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M3 21V8l9-5 9 5v13"/><path d="M9 21v-7h6v7"/>
+                        <line x1="9" y1="10" x2="9" y2="10.01"/><line x1="15" y1="10" x2="15" y2="10.01"/>
+                      </svg>
+                    </div>
+                    <span class="sc-acq-name">Your Co.</span>
+                  </div>
+                  <div class="sc-acq-center">
+                    <div class="sc-dollars">
+                      <span class="sc-ds">$</span>
+                      <span class="sc-ds">$</span>
+                      <span class="sc-ds">$</span>
+                    </div>
+                    <svg class="sc-shake-svg" viewBox="0 0 56 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <rect x="0" y="8" width="16" height="8" rx="4" fill="rgba(255,255,255,0.25)"/>
+                      <rect x="40" y="8" width="16" height="8" rx="4" fill="rgba(255,255,255,0.25)"/>
+                      <rect x="14" y="7" width="28" height="10" rx="5" fill="rgba(255,255,255,0.45)"/>
                     </svg>
                   </div>
-                  <div class="sc-person-stats">
-                    <div class="sc-metric-lbl">Licensing Rev.</div>
-                    <div class="sc-metric-val" style="font-size:1.1rem">$2.1M</div>
-                    <div class="sc-bar-wrap" style="margin-top:5px;margin-bottom:0"><div class="sc-bar-fill"></div></div>
+                  <div class="sc-acq-ent">
+                    <div class="sc-acq-box">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.75)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                        <rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/>
+                      </svg>
+                    </div>
+                    <span class="sc-acq-name">Acquirer</span>
                   </div>
                 </div>
-                <div class="sc-tag">Q2 review scheduled</div>
+                <div class="sc-acq-tag">
+                  <span class="sc-acq-tag-lbl">Exit Value</span>
+                  <span class="sc-acq-tag-val">$12M+</span>
+                </div>
               </div>
               <div class="sc-content">
-                <span class="sc-badge">Human + AI</span>
                 <h3 class="sc-heading">12x Better Exit Odds</h3>
                 <p class="sc-desc">We build the legal walls around your IP before a competitor does. A moat nobody can cross.</p>
                 <a class="sc-cta" href="./services/index.html">Learn More</a>
