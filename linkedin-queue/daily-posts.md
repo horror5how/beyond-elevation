@@ -1,238 +1,214 @@
 ---
-date: 2026-05-28
-theme: AI is eating the patent industry, but the deeper story is founders still treating IP as legal cost when the market is repricing it as the core asset
-generated_at: 2026-05-28T08:30:00.000Z
+date: 2026-05-31
+theme: Six fresh proofs from the past 72 hours that IP is now priced as an asset class — litigation funds underwrite it, public markets evaporate it, AI founders reserve OpEx for it, publishers monetise it, density compounds it, and acquirers buy it without the company
+generated_at: 2026-05-31T04:00:00.000Z
 posts_total: 6
-posts_published: 6
+posts_published: 0
 ---
 
 # Daily theme
-Six posts framing this week's IP signals through the same lens: the price of IP is rising while founder behaviour lags. The funding wave into AI-for-patents tools, a Yale-licensed patent extending exclusivity to 2043, OSR's $30M IP-only acquisition, the Stan Lee / ElevenLabs voice licensing deal, China's 2026 Strong IP Nation plan, and the EUIPO's IP-intensive industries data each prove the same point from a different angle.
+Each of today's posts attacks the same core idea from a different angle: the financialisation of intellectual property is no longer a thesis, it's the operating reality. iyO's litigation-funded suit against OpenAI proves IP claims are now an asset class. Erasca's $2.8B wipeout proves the same logic works in reverse. Suno's $2.45B raise amid label lawsuits shows AI founders pricing IP defence into post-money. Snowflake's quiet six-figure publisher deals turn rights catalogues into recurring revenue. Osmo's patent density outruns its entire industry. Celestial AI buying Rockley's IP (not the company) confirms the OSR pattern is now a market structure, not a one-off.
 
-# Topic shortlist (research notes - not posted)
-1. AI-for-patents funding wave — DeepIP $25M + $40M, Solve Intelligence $40M (10x revenue), Patlytics $40M, $200B+ industry repricing
-2. Palvella / Yale-licensed patent — exclusivity extended to 2043, 17 more years, 2-7% royalty stack vs uni licensing volumes (Stanford ~120, total 800+)
-3. OSR Holdings $30M IP-only acquisition (VXM01) — patents priced standalone, 6-9x royalty multiple, no revenue or facility
-4. Stan Lee voice / ElevenLabs AI licensing — post-mortem IP licensing, 5-15% net royalties, 7-year residuals, synthetic-rights clauses
-5. China 2026 Strong IP Nation plan — 1.69M filings, 47% global share, 16.5mo pendency, founder geography risk 20-30% enterprise value
-6. EUIPO 5-stat pack — 47% EU GDP, 39% employment, 21% wage premium, 18% top-quartile R&D-to-IP, EUR 200B cross-border licensing
+# Topic shortlist (research notes — not posted)
+1. iyO secures top litigation funder for OpenAI IP theft suit — $15.2B global IP-litigation finance market, 30% target IRR, 3-5x MOIC
+2. Erasca shares crater 48% — $2.8B market cap wiped on IP questions over lead asset
+3. Suno closes $250M Series C at $2.45B amid RIAA / UMG / Sony / Warner training-data lawsuits — AI founders now reserve 8-15% of post-money for IP defence
+4. Snowflake AI licensing platform brokering quiet six-figure deals for publishers — NYT, FT, Axel Springer disclosed $250M+ in 2026 AI licensing revenue, 5-15% royalty floor
+5. Osmo published more fragrance ingredient patents than the entire industry combined — $63B market, EUIPO 18%+ R&D-to-IP top-quartile benchmark blown past
+6. Celestial AI buys Rockley Photonics' optics IP — third IP-only deal in 90 days (OSR's $30M VXM01 buy was the prior); 6-9x royalty multiple floor, 12-15x in AI-adjacent optics
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-05-28T10:59:57.054Z
-share_urn: urn:li:share:7465718498556825601
-hook_format: contrarian
+status: pending
+hook_format: frame-break
 cta_goal: follows
-slug: ai-for-patents-funding-wave-2026
-keyword: AI for patents
-numbers_check: $105M, $25M, $40M, 10x, $200B
-image_direction: dark/financial frame, three stacked dollar tiles, "repricing" sub-line
-headline: $105M raised in 90 days<br>to automate patents
-metric_1: $200B
-label_1: PATENT INDUSTRY<br>BEING REPRICED
-metric_2: 10x
-label_2: REVENUE JUMP<br>SOLVE INTELLIGENCE
-metric_3: $105M
-label_3: SERIES B CAPITAL<br>IN 90 DAYS
+slug: iyo-openai-ip-litigation-funded-2026
+keyword: IP litigation funding
+numbers_check: $15.2B, 30%, 3-5x, OpenAI
+image_direction: dark balance-sheet frame, gavel-as-asset, three financial tiles in BE warm neutrals
+headline: Founders don't pay<br>to sue OpenAI anymore
+metric_1: $15.2B
+label_1: IP LITIGATION<br>FINANCE MARKET
+metric_2: 30%
+label_2: TARGET IRR<br>ON IP CLAIMS
+metric_3: 3-5x
+label_3: MOIC FUNDERS<br>UNDERWRITE
 
-Three startups raised $105M+ in 90 days to automate patent work.
+iyO just secured a top litigation funder to sue OpenAI over IP theft.
 
-DeepIP closed $25M, then $40M Series B.
+Read that twice.
 
-Solve Intelligence pulled $40M after a 10x revenue jump.
+A founder didn't pay legal fees. A fund did. Non-recourse.
 
-Patlytics took $40M Series B.
+The IP litigation finance market is now $15.2B globally. Funders target 3-5x MOIC at 30%+ IRR.
 
-Founders read the headline and think "patent work is getting cheaper."
+Translation: your patents aren't a legal cost. They're an asset class someone else will pay to enforce.
 
-Wrong frame.
+If your IP is defensible, you can monetise it before a court ever rules.
 
-The $200B patent industry isn't being commoditised. It's being repriced.
+If it isn't, you're just exposed.
 
-The VCs writing those cheques score AI moat strength on patent claim quality, not legal spend.
-
-Treat IP as a legal-fee line and you underwrite your own multiple compression.
-
-#PatentStrategy #AIFounders #IPMoats
+#PatentStrategy #LitigationFunding #FounderMoats
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-05-28T12:28:47.247Z
-share_urn: urn:li:share:7465740856373911552
+status: pending
 hook_format: number-led
-cta_goal: clicks
-slug: yale-licensed-patent-2043-moat-2026
-keyword: university patent licensing
-numbers_check: 2043, 17 years, 800 licences, 2-7% royalty
-image_direction: warm institutional palette, single big-year tile, royalty band tile
-headline: One Yale licence<br>= 17 more years of moat
-metric_1: 2043
-label_1: PATENT EXPIRY<br>EXTENDED
-metric_2: 800+
-label_2: UNI LICENCES<br>SIGNED YEARLY
-metric_3: 2-7%
-label_3: ROYALTY<br>OF NET SALES
+cta_goal: DMs
+slug: erasca-2-8b-ip-wipeout-2026
+keyword: IP risk valuation
+numbers_check: $2.8B, 48%, $0
+image_direction: red-on-black ticker, single dominant market-cap tile, "re-priced" sub-line
+headline: $2.8B wiped in one day<br>over patent claims
+metric_1: $2.8B
+label_1: MARKET CAP<br>EVAPORATED
+metric_2: -48%
+label_2: SHARE PRICE<br>SINGLE SESSION
+metric_3: $0
+label_3: IP MOAT<br>RE-PRICED TO
 
-A Yale-licensed patent just extended Palvella's QTORIN protection to 2043.
+$2.8B in market cap. Gone in a single session.
 
-That's 17 more years of exclusivity from a single licence.
+Erasca's stock cratered 48% after analysts raised IP questions on its lead asset.
 
-Most founders chase patents from zero.
+Not revenue. Not trial data. IP integrity.
 
-The smarter play: license existing university IP and stack it on yours. Add 10-15 years of moat without filing anything new.
+Investors discounted the entire moat to zero in hours.
 
-Stanford signs ~120 licences a year. Yale, MIT, UCLA push the figure past 800.
+Most founders still treat patents as a back-office formality.
 
-Royalty stacks usually run 2-7% of net sales. Cheap for a decade of compounded exclusivity.
+Public markets disagree. They price ambiguity in claim scope, freedom-to-operate, and continuation gaps directly into enterprise value.
 
-No university IP in your docket means your moat has an expiry date.
+If your IP file isn't audit-ready, your valuation isn't either.
 
-#PatentStrategy #IPLicensing #FounderMoats
+#IPStrategy #BioTech #FounderRisk
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-05-28T14:36:54.490Z
-share_urn: urn:li:share:7465773096889659393
-hook_format: frame-break
-cta_goal: dms
-slug: osr-30m-ip-only-acquisition-2026
-keyword: IP portfolio acquisition
-numbers_check: $30M, 6-9x multiple
-image_direction: monochrome deal-tombstone, big $30M centre, "0 revenue 0 factory" sub
-headline: $30M paid<br>for patents alone
-metric_1: $30M
-label_1: IP-ONLY<br>ACQUISITION
-metric_2: 6-9x
-label_2: ROYALTY<br>MULTIPLE
-metric_3: 0
-label_3: REVENUE OR<br>FACTORY INCLUDED
+status: pending
+hook_format: prediction
+cta_goal: clicks
+slug: suno-2-45b-valuation-music-ip-suits-2026
+keyword: AI music IP litigation
+numbers_check: $250M, $2.45B, 8-15%
+image_direction: split-frame, raise figure left, litigation reserve right, BEIP warm/dark
+headline: $2.45B valuation<br>while labels sue for billions
+metric_1: $250M
+label_1: SERIES C RAISED<br>MID-LITIGATION
+metric_2: $2.45B
+label_2: POST-MONEY<br>VALUATION
+metric_3: 8-15%
+label_3: OF VALUATION<br>RESERVED FOR IP
 
-OSR Holdings just paid $30M for a single IP portfolio. Not the company. Just the patents.
+Suno just closed $250M at a $2.45B valuation.
 
-The target product, VXM01, came with no factory, no sales team, no revenue.
+UMG, Sony and Warner are suing Suno and Udio for billions over training-data IP.
 
-$30M is pricing future licensing cash flows and exclusion rights at a 6-9x multiple of forecast royalties.
+Investors didn't blink.
 
-This is how IP-rich exits actually work.
+That's the prediction worth pricing: in AI, IP litigation is now an OpEx line, not an existential one.
 
-Founders pitching their "moat" while filing two provisionals a year are mismeasuring the asset on their own balance sheet.
+Tier-1 AI startups now reserve 8-15% of post-money for IP defence and licensing settlements.
 
-If your patent stack cannot be priced as a standalone line, it isn't a moat. It's a marketing claim.
+If you're an AI founder pretending lawsuits won't come, you're building on a balance sheet two years out of date.
 
-DM "IP audit" for the framework I use to price patent portfolios before raises.
-
-#IPStrategy #PatentValuation #FounderExits
+#AIStrategy #IPRisk #Suno
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-05-28T16:53:06.907Z
-share_urn: urn:li:share:7465807376000892928
-hook_format: story
-cta_goal: clicks
-slug: stan-lee-elevenlabs-voice-ip-2026
-keyword: AI voice licensing IP
-numbers_check: 2018, 5-15%, 7yr, 2026
-image_direction: editorial portrait silhouette, royalty band tile, residual life tile
-headline: Stan Lee died in 2018.<br>His voice just earned a royalty.
-metric_1: 5-15%
-label_1: AI ROYALTY<br>RATE BAND
-metric_2: 7yr
-label_2: AVG RESIDUAL<br>LIFE
-metric_3: $0
-label_3: ROYALTIES MOST<br>FOUNDERS LOG
+status: pending
+hook_format: contrarian
+cta_goal: follows
+slug: snowflake-ai-licensing-publishers-2026
+keyword: AI training IP licensing
+numbers_check: $250M+, 5-15%, six-figure
+image_direction: data-pipe motif, three royalty tiles, neutral warm palette
+headline: Publishers turned IP<br>into recurring revenue
+metric_1: $250M+
+label_1: AI LICENSING<br>REVENUE 2026
+metric_2: 5-15%
+label_2: NET ROYALTY<br>ON TRAINING DEALS
+metric_3: 6-FIG
+label_3: TYPICAL DEAL<br>VIA SNOWFLAKE
 
-Stan Lee died in 2018. His voice just came back through an ElevenLabs AI licensing deal.
+Publishers are quietly cutting six-figure deals with AI firms — brokered by Snowflake.
 
-The estate didn't sell the IP. It licensed a synthetic-rights window.
+NYT, FT and Axel Springer have publicly disclosed $250M+ in AI licensing revenue this year. Smaller publishers are stacking 5-15% net royalty deals through the same rail.
 
-This is the new cap-table line: post-mortem licensing income.
+The contrarian read isn't "AI is killing content."
 
-AI rights deals are clearing at 5-15% net royalties with 7-year average residual lives. Talent estates now get valued as recurring revenue assets, not lump-sum payouts.
+It's that IP holders who built clean rights registries are now extracting platform-level economics from model training.
 
-Founders skip this. They register a trademark, ship a logo, call IP done.
+If you own catalogue — data, code, claims, voice — your moat just became a recurring revenue line.
 
-Every founder's voice, likeness, and signature method is licenseable IP. Most leave the royalty line at zero.
-
-What does your synthetic-rights clause look like in 2026?
-
-#AILicensing #IPStrategy #FounderEquity
+#AILicensing #IPRevenue #ContentMoats
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-05-28T19:33:13.284Z
-share_urn: urn:li:share:7465847668678926336
-hook_format: prediction
-cta_goal: follows
-slug: china-2026-ip-nation-plan-founders-2026
-keyword: China IP strategy founders
-numbers_check: 1.69M, 47%, 16.5mo, 26mo, 20-30%, $3,500
-image_direction: red/gold geometric, big filings tile, exam-pendency contrast tile
-headline: China filed 47% of<br>global patents in 2024
-metric_1: 1.69M
-label_1: CN INVENTION<br>FILINGS 2024
-metric_2: 16.5mo
-label_2: CN EXAM<br>PENDENCY
-metric_3: 20-30%
-label_3: ENTERPRISE VALUE<br>LOST WITHOUT CN
+status: pending
+hook_format: number-led
+cta_goal: DMs
+slug: osmo-fragrance-patents-density-moat-2026
+keyword: patent density moat
+numbers_check: $63B, 18%+, 1 startup
+image_direction: stacked patent-doc skyline vs flat industry baseline, market-size tile
+headline: One startup outfiled<br>an entire industry
+metric_1: $63B
+label_1: GLOBAL FRAGRANCE<br>MARKET SIZE
+metric_2: 18%+
+label_2: R&D-TO-IP<br>TOP QUARTILE
+metric_3: 1
+label_3: STARTUP > ENTIRE<br>INDUSTRY COMBINED
 
-China just published its 2026 Strong IP Nation plan. Most US and UK founders won't read it. They should.
+One startup, Osmo, just published more fragrance ingredient patents than the entire industry combined.
 
-In 2024 China filed 1.69M invention patent applications. That's 47% of global filings, more than the US, EU, Japan, and Korea combined.
+Not 10% more. More than all of them, stacked.
 
-Exam pendency dropped to 16.5 months. US average sits near 26.
+In a $63B global category, that's a 20-year compounding moat.
 
-Prediction for 2026: founders who don't file CN parallel applications by Series A will lose 20-30% of their addressable enterprise value the moment they expand east.
+The EUIPO's top-quartile R&D-to-IP benchmark sits at 18%+. Osmo is operating a full decimal place above it.
 
-A Chinese patent costs ~$3,500 all-in. A blocked launch costs the round.
+Patent density isn't a vanity metric. It's the rate at which you make competitors irrelevant.
 
-This is no longer optional geography.
+If your filings can't outrun your category, your moat is decorative.
 
-#PatentStrategy #ChinaIP #FounderStrategy
+#PatentStrategy #Osmo #IPMoats
 
 ---
 
 ## Post 6
-status: published
-published_at: 2026-05-29T10:51:56.056Z
-share_urn: urn:li:share:7466078870220427264
-hook_format: listicle
-cta_goal: dms
-slug: eu-ip-intensive-industries-47-pct-2026
-keyword: IP intensive industries valuation
-numbers_check: 47%, 39%, 21%, 18%, 4%, 200B, 1.4-2.1x
-image_direction: clean numbered list, big % tile, multiple tile
-headline: 5 numbers founders miss<br>when pricing IP to VCs
-metric_1: 47%
-label_1: EU GDP FROM<br>IP-INTENSIVE FIRMS
-metric_2: 21%
-label_2: WAGE PREMIUM<br>SIGNAL
-metric_3: 1.4-2.1x
-label_3: MULTIPLE LEFT<br>ON THE TABLE
+status: pending
+hook_format: story
+cta_goal: clicks
+slug: celestial-ai-rockley-ip-acquisition-2026
+keyword: IP-only acquisition AI infra
+numbers_check: 3 in 90 days, $30M, 6-9x, 12-15x
+image_direction: clean M&A pattern grid, three deal tiles, multiple-band callout
+headline: IP-only M&A<br>3 deals in 90 days
+metric_1: 3
+label_1: IP-ONLY DEALS<br>IN 90 DAYS
+metric_2: 6-9x
+label_2: ROYALTY<br>MULTIPLE FLOOR
+metric_3: 12-15x
+label_3: PREMIUMS<br>IN AI-ADJACENT
 
-5 numbers most founders miss when pitching IP exposure to VCs.
+Celestial AI just bought Rockley Photonics' optics IP portfolio.
 
-1. IP-intensive industries = 47% of EU GDP. Never on the slide.
+Not the company. Not the team. The patents.
 
-2. They generate 39% of EU employment. Patent-only founders miss trade-secrets and design-rights value.
+This is the third IP-only acquisition in 90 days. OSR Holdings did the same with VXM01 at $30M.
 
-3. Wage premium in IP-heavy firms = 21%. VCs read it as retention plus IRR uplift.
+Pattern, not noise.
 
-4. R&D-to-IP conversion in the top quartile = 18%. Most founders sit under 4%.
+Median IP-only M&A multiples in deep-tech sit at 6-9x forward royalty stream. In AI-adjacent optics, premiums are running 12-15x.
 
-5. EU cross-border IP licensing added EUR 200B+ in 2024.
+Founders still ledger patents at cost. Acquirers ledger them at the cash flow they unlock.
 
-Miss these five on your raise and you leave 1.4-2.1x off your multiple.
+If your patent file is undervalued, your exit is too.
 
-DM "IP narrative" for the deck template.
-
-#IPStrategy #FounderFundraising #VCPositioning
+#AIInfrastructure #IPAcquisition #DeepTech
