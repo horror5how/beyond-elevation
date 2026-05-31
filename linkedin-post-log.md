@@ -142,3 +142,4 @@
 2026-05-30 17:56 | urn:li:share:7466548079970635776 | Venture debt backed by your patents can raise $25M without giving up a single sh
 2026-05-31 07:51 | urn:li:share:7466758347837583360 | You have 20 patents. 3 of them generate 80% of your licensing revenue. Most foun
 2026-05-31 10:59 | urn:li:share:7466805629131751424 | post #1 | iyo-openai-ip-litigation-funded-2026 | iyO just secured a top litigation funder to sue OpenAI over IP theft.  Read that
+2026-05-31 12:10 | urn:li:share:7466823300007067648 | post #2 | erasca-2-8b-ip-wipeout-2026 | $2.8B in market cap. Gone in a single session.  Erasca's stock cratered 48% afte

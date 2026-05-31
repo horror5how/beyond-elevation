@@ -3,7 +3,7 @@ date: 2026-05-31
 theme: Six fresh proofs from the past 72 hours that IP is now priced as an asset class — litigation funds underwrite it, public markets evaporate it, AI founders reserve OpEx for it, publishers monetise it, density compounds it, and acquirers buy it without the company
 generated_at: 2026-05-31T04:00:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -56,7 +56,9 @@ If it isn't, you're just exposed.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-05-31T12:10:01.823Z
+share_urn: urn:li:share:7466823300007067648
 hook_format: number-led
 cta_goal: DMs
 slug: erasca-2-8b-ip-wipeout-2026
