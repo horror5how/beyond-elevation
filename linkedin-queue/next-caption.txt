@@ -1,17 +1,15 @@
-AI companies that license model weights raise at 8x revenue multiples.
+The fastest-cited AI patents generate 14x more licensing revenue.
 
-API wrappers top out at 4–5x.
+Most founders track claim scope.
 
-The difference is the IP layer.
+Nobody tracks citation velocity.
 
-Three moves that change the structure:
+72% of AI patent licensing value is set in the first 24 months after grant.
 
-1. Document training provenance before filing.
-2. Separate base model IP from the fine-tuned layer.
-3. License each layer independently on a royalty basis.
+Low citation velocity = dead licensing pipeline.
 
-Most founders collapse all three into one product line.
+Your patent attorney has no idea what your citation velocity is.
 
-That single mistake costs 3x at exit.
+Beyond Elevation does.
 
-#IPStrategy #AIStartups #LicensingRevenue
+#IPStrategy #AIPatents #PatentLicensing
