@@ -243,3 +243,4 @@ venture-debt-against-patents-2026
 patent-portfolio-value-concentration-2026
 iyo-openai-ip-litigation-funded-2026
 erasca-2-8b-ip-wipeout-2026
+ai-model-weight-licensing-valuation-2026

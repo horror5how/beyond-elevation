@@ -1,11 +1,17 @@
-You have 20 patents. 3 of them generate 80% of your licensing revenue. Most founders never run the analysis to find out which 3.
+AI companies that license model weights raise at 8x revenue multiples.
 
-The bottom 17 cost you $38K/year in maintenance.
+API wrappers top out at 4–5x.
 
-They drag down your valuation — acquirers discount scattered portfolios by 40%.
+The difference is the IP layer.
 
-A focused IP portfolio commands a 3.8x higher licensing multiple than a cluttered one.
+Three moves that change the structure:
 
-Triage yours before your next raise.
+1. Document training provenance before filing.
+2. Separate base model IP from the fine-tuned layer.
+3. License each layer independently on a royalty basis.
 
-#IPStrategy #Patents #Founders
+Most founders collapse all three into one product line.
+
+That single mistake costs 3x at exit.
+
+#IPStrategy #AIStartups #LicensingRevenue
