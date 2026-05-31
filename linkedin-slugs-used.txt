@@ -240,3 +240,4 @@ samsung-chatgpt-trade-secret-2026
 eu-ai-act-fines-august-2026
 ip-revenue-ratio-acquisition-metric-2026
 venture-debt-against-patents-2026
+patent-portfolio-value-concentration-2026
