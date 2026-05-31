@@ -3,7 +3,7 @@ date: 2026-05-31
 theme: Six fresh proofs from the past 72 hours that IP is now priced as an asset class — litigation funds underwrite it, public markets evaporate it, AI founders reserve OpEx for it, publishers monetise it, density compounds it, and acquirers buy it without the company
 generated_at: 2026-05-31T04:00:00.000Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -92,7 +92,9 @@ If your IP file isn't audit-ready, your valuation isn't either.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-05-31T14:42:17.515Z
+share_urn: urn:li:share:7466861617750802433
 hook_format: prediction
 cta_goal: clicks
 slug: suno-2-45b-valuation-music-ip-suits-2026

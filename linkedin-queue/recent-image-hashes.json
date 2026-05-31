@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff810023bf5ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "yale-licensed-patent-2043-moat-2026",
-    "ts": "2026-05-28T12:28:47.247Z"
-  },
-  {
     "hash": "3cf0f0310bf7ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "erasca-2-8b-ip-wipeout-2026",
     "ts": "2026-05-31T12:10:01.823Z"
+  },
+  {
+    "hash": "7ef030331715ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "suno-2-45b-valuation-music-ip-suits-2026",
+    "ts": "2026-05-31T14:42:17.515Z"
   }
 ]

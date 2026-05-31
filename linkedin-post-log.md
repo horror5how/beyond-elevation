@@ -144,3 +144,4 @@
 2026-05-31 10:59 | urn:li:share:7466805629131751424 | post #1 | iyo-openai-ip-litigation-funded-2026 | iyO just secured a top litigation funder to sue OpenAI over IP theft.  Read that
 2026-05-31 12:10 | urn:li:share:7466823300007067648 | post #2 | erasca-2-8b-ip-wipeout-2026 | $2.8B in market cap. Gone in a single session.  Erasca's stock cratered 48% afte
 2026-05-31 12:52 | QUEUED | ai-model-weight-licensing-valuation-2026 | AI companies that license model weights raise at 8x revenue multiples.  API wrap
+2026-05-31 14:42 | urn:li:share:7466861617750802433 | post #3 | suno-2-45b-valuation-music-ip-suits-2026 | Suno just closed $250M at a $2.45B valuation.  UMG, Sony and Warner are suing Su

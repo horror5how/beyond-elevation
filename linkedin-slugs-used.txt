@@ -244,3 +244,4 @@ patent-portfolio-value-concentration-2026
 iyo-openai-ip-litigation-funded-2026
 erasca-2-8b-ip-wipeout-2026
 ai-model-weight-licensing-valuation-2026
+suno-2-45b-valuation-music-ip-suits-2026

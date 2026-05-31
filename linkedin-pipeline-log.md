@@ -460,3 +460,4 @@ Post 4: hook_too_long(10w)
 2026-05-30 06:39 | li-generate-queue | ABORT after 3 attempts — API unreachable
 2026-05-31 10:59 | li-auto-post | render OK | post #1 | layout=c accent=#a89968 hash=fff010701335ffff minDist=9 attempts=1
 2026-05-31 12:10 | li-auto-post | render OK | post #2 | layout=c accent=#8aa6b8 hash=7ef030100bf5ffff minDist=7 attempts=1
+2026-05-31 14:42 | li-auto-post | render OK | post #3 | layout=c accent=#8aa6b8 hash=7ef030331715ffff minDist=8 attempts=1
