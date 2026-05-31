@@ -2,8 +2,8 @@
 title: "Patent Litigation Analytics: How to Score Your Litigation Risk in 30 Minutes (Using the Same Data PatentSight and Lex Machina Sell for $50K/yr)"
 slug: patent-litigation-analytics-risk-scoring
 date: 2026-05-31
-url: https://beyondelevation.com/blog/post.html?slug=patent-litigation-analytics-risk-scoring
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-litigation-analytics-risk-scoring/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -85,6 +85,20 @@ Patent litigation analytics is not a one-time exercise. Beyond Elevation recomme
 
 The founders who treat patent litigation analytics as a routine operating input — not an emergency response — are the ones who avoid the $2.5M surprise. [Beyond Elevation](https://beyondelevation.com) runs litigation risk scoring as part of every IP audit. If you have not scored your portfolio, start with the 5-input method above. If the numbers concern you, book a call.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-litigation-analytics-risk-scoring)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is patent litigation analytics?
@@ -106,3 +120,6 @@ IP-focused law firms, corporate IP departments, VCs conducting due diligence, M&
 ### How does patent litigation analytics differ from patent landscape analysis?
 
 [Patent landscape analysis](/blog/posts/patent-landscape-analysis/) maps the competitive IP environment — who owns what patents in a technology area. Patent litigation analytics adds the enforcement layer: who is suing, who is winning, what it costs, and how likely a specific patent is to be asserted. The two are complementary inputs to a complete IP defensibility assessment.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

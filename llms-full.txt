@@ -2468,3 +2468,17 @@ A patent analytics platform is software that ingests patent filings, citations, 
 The market has consolidated around a handful of enterprise players. PatSnap, backed by $300M+ in 
 
 ---
+
+## Patent Litigation Analytics: How to Score Your Litigation Risk in 30 Minutes (Using the Same Data PatentSight and Lex Machina Sell for $50K/yr)
+
+URL: https://beyondelevation.com/blog/posts/patent-litigation-analytics-risk-scoring/
+
+$2.5M. That is the median cost to defend a single patent infringement lawsuit through trial in the United States. Most founders learn that number after the demand letter arrives — when options are expensive and leverage is gone. Hayat Amin argues that 30 minutes of patent litigation analytics changes the outcome for 80% of defendants before a single dollar goes to outside counsel. The data that predicts patent lawsuit results exists today. PatentSight, Lex Machina, and Darts-ip charge $30K–$50K per year for access. But the five core inputs that drive their predictions are available for free if you know where to look.
+
+## What Is Patent Litigation Analytics?
+
+Patent litigation analytics is the practice of using structured data from court filings, patent databases, and prosecution histories to predict the probability, cost, and likely outcome of patent disputes before they happen. It turns subjective legal guesswork into quantifiable risk scores that founders, CFOs, and acquirers can act on — before a dispute ever reaches a courtroom.
+
+The field accelerated between 2020 and 2026 as machine learning models began processing 4.5 million active US patents and 50,000+ district court patent cases into searchable, scoreable datasets. PatentSight (now LexisNexis) pioneered the Patent Asset Index — a composite score weighting citations, remaining life, market coverage, and technology relevance. Lex Machina built the litigation prediction layer: win rates by judge, by plaintiff, by techn
+
+---
