@@ -2,8 +2,8 @@
 title: "Patent Quality Index Explained: How PatentSight and Innography Score Patents (And the 5 Inputs You Should Run Yourself in 20 Minutes)"
 slug: patent-quality-index-explained
 date: 2026-05-31
-url: https://beyondelevation.com/blog/post.html?slug=patent-quality-index-explained
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-quality-index-explained/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -77,6 +77,20 @@ The DIY scoring method above gives you directional truth in 20 minutes. For a [f
 
 If your portfolio has never been scored, [book a patent quality assessment with Beyond Elevation](https://beyondelevation.com). The audit takes 5 business days and produces a scored, ranked portfolio with specific recommendations on which patents to license, which to strengthen, and which to abandon.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-quality-index-explained)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the difference between a patent quality index and a patent value?
@@ -98,3 +112,6 @@ Most institutional investors and acquirers use a 65+ threshold for patents they 
 ### Is patent quality more important than patent quantity?
 
 Categorically yes. Seven high-quality patents (65+ score) outperform fifty low-quality patents (sub-40 score) in every commercial scenario — licensing revenue, exit premium, and investor confidence. Quantity without quality is a maintenance fee liability disguised as an IP portfolio.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

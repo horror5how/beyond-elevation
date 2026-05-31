@@ -2482,3 +2482,19 @@ Patent litigation analytics is the practice of using structured data from court 
 The field accelerated between 2020 and 2026 as machine learning models began processing 4.5 million active US patents and 50,000+ district court patent cases into searchable, scoreable datasets. PatentSight (now LexisNexis) pioneered the Patent Asset Index — a composite score weighting citations, remaining life, market coverage, and technology relevance. Lex Machina built the litigation prediction layer: win rates by judge, by plaintiff, by techn
 
 ---
+
+## Patent Quality Index Explained: How PatentSight and Innography Score Patents (And the 5 Inputs You Should Run Yourself in 20 Minutes)
+
+URL: https://beyondelevation.com/blog/posts/patent-quality-index-explained/
+
+72% of patent portfolios score below "licensing grade" on any standard patent quality index — and most founders have never seen their own score. Hayat Amin runs patent quality audits on every new Beyond Elevation client portfolio, and the pattern is consistent: founders who have never quantified their patent quality overestimate their portfolio's commercial value by 3–5x. That gap kills licensing deals, deflates exit multiples, and leaves investor leverage on the table.
+
+A patent quality index is a composite metric that predicts how defensible, enforceable, and commercially valuable each patent in your portfolio actually is. Tools like PatentSight (now part of LexisNexis IP) and Innography sell this scoring for $50K+/year. But the core inputs are knowable — and Hayat Amin's Patent Quality Scoring Method distills the assessment into 5 inputs any operator can run in 20 minutes.
+
+## What Is a Patent Quality Index and Why Does It Determine Your Portfolio's Value?
+
+A patent quality index is a numerical score — typically 0 to 100 — that aggregates multiple indicators of a patent's commercial strength into a single defensibility metric. It answers the question investors, acquirers, and licensees actually care about: is this patent enforceable, broad enough to block competitors, and commercially relevant?
+
+The reason patent quality scoring matters is simple economics. Beyond Elevation's client data shows that patents scoring above 70 on a standard quality index generate 8x more licen
+
+---
