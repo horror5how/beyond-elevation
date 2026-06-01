@@ -182,5 +182,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Patent Quality Index Explained: How PatentSight and Innography Score Patents (And the 5 Inputs You Should Run Yourself in 20 Minutes)](https://beyondelevation.com/blog/posts/patent-quality-index-explained/) — /blog/md/patent-quality-index-explained.md
 - [Patent Citation Analysis: Forward vs Backward Citations and What Each One Tells You About a Portfolio's Real Value](https://beyondelevation.com/blog/posts/patent-citation-analysis-portfolio-value/) — /blog/md/patent-citation-analysis-portfolio-value.md
 - [An Independent IP Audit Adds 15-20% to Your Valuation Multiple — The 6-Step Audit Investors Actually Trust](https://beyondelevation.com/blog/posts/ip-audit-valuation-premium/) — /blog/md/ip-audit-valuation-premium.md
+- [Intangibles Are 90% of the S&P 500 and 70-80% of Every AI Startup — The Number Your Balance Sheet Is Hiding](https://beyondelevation.com/blog/posts/ai-startup-intangible-value-percentage/) — /blog/md/ai-startup-intangible-value-percentage.md
 
 > Full blog content available at /llms-full.txt

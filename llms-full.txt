@@ -2536,3 +2536,21 @@ Yes. An independent IP audit increases your valuation by 15-20% because it repla
 The data is straightforward. Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com) — 
 
 ---
+
+## Intangibles Are 90% of the S&P 500 and 70-80% of Every AI Startup — The Number Your Balance Sheet Is Hiding
+
+URL: https://beyondelevation.com/blog/posts/ai-startup-intangible-value-percentage/
+
+Intangibles make up 90% of S&P 500 market capitalisation and 70–80% of every AI startup's enterprise value. That number does not appear on your balance sheet. It does not show up in your pitch deck. And it is the single largest reason founders leave money on the table in every raise, every exit, and every licensing negotiation.
+
+Hayat Amin puts it bluntly: "If 80% of your company's value is invisible to your investors, you are negotiating blind. The founders who win term sheets are the ones who can point to that 80% and prove it is defensible." That is the gap Beyond Elevation exists to close — and it is worth millions.
+
+## What Percentage of an AI Startup's Value Is Intangible?
+
+Between 70% and 80% of a typical AI startup's enterprise value sits in intangible assets — patents, proprietary data, trade secrets, algorithms, and documented know-how. For mature public AI companies, that figure climbs above 90%.
+
+The data is unambiguous. Ocean Tomo's 2025 Intangible Asset Market Value Study found intangibles now account for 90% of S&P 500 market capitalisation, up from 17% in 1975. FE International and Qubit Capital's 2026 AI valuation reports peg proprietary technology at 70–80% of AI startup value specifically. And the EPO/EUIPO 2026 study confirmed that startups with patents and trademarks at seed stage are [10.2x more likely to secure early-stage funding](/blog/posts/ip-valuation-for-fundraising/).
+
+The breakdown varies by stage and vertical, but a typical AI startup's intangi
+
+---

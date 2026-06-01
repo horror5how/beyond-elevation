@@ -2,8 +2,8 @@
 title: "Intangibles Are 90% of the S&P 500 and 70-80% of Every AI Startup — The Number Your Balance Sheet Is Hiding"
 slug: ai-startup-intangible-value-percentage
 date: 2026-06-01
-url: https://beyondelevation.com/blog/post.html?slug=ai-startup-intangible-value-percentage
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ai-startup-intangible-value-percentage/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -81,6 +81,20 @@ The gap between public and private AI company intangible recognition is not a ga
 
 That measurement gap is the single highest-leverage problem Beyond Elevation solves. When Hayat Amin argues that "the balance sheet is the most expensive lie in startup finance," this is the number behind it: 70–80% of your value, hiding in plain sight.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-startup-intangible-value-percentage)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What percentage of S&P 500 value is intangible assets?
@@ -102,3 +116,6 @@ Yes. Independent IP audits add 15–20% to valuation multiples on average, accor
 ### What is the biggest intangible asset in an AI company?
 
 Proprietary training data is typically the largest single intangible asset in an AI company, representing 20–35% of enterprise value. Curated, labelled, domain-specific datasets are the hardest asset for competitors to replicate and the primary driver of model performance differentiation.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
