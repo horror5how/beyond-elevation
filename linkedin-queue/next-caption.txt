@@ -1,19 +1,13 @@
-Your acquirer runs an IP revenue quality score. Most founders fail it.
+Your AI just generated a trade secret. You probably don't own it.
 
-Here is what they check:
+87% of AI companies have no IP assignment clause covering model outputs in contractor agreements.
 
-1. Is licensing revenue documented - or just invoiced?
+3 parties can claim ownership the moment your model generates a novel process.
 
-2. Are rights sublicensable and assignable to the buyer?
+$4.5M — average cost of a contested AI-generated IP ownership dispute.
 
-3. Is there a minimum guarantee - or pure usage risk?
+48 hours. That is how long it takes to audit and fix every contractor agreement you have.
 
-4. Are royalty rates at or above market benchmark?
+You don't lose your moat in court. You lose it in a Google Doc.
 
-Score below 3 of 4 and your 8x multiple becomes 5x overnight.
-
-Most founders only find out after the LOI is signed.
-
-Fix the documentation before you need it.
-
-#IPStrategy #MergersAndAcquisitions #PatentLicensing
+#IPStrategy #AIStartups #TradeSecrets
