@@ -2498,3 +2498,23 @@ A patent quality index is a numerical score — typically 0 to 100 — that aggr
 The reason patent quality scoring matters is simple economics. Beyond Elevation's client data shows that patents scoring above 70 on a standard quality index generate 8x more licen
 
 ---
+
+## Patent Citation Analysis: Forward vs Backward Citations and What Each One Tells You About a Portfolio's Real Value
+
+URL: https://beyondelevation.com/blog/posts/patent-citation-analysis-portfolio-value/
+
+72% of patents in a typical startup portfolio have zero forward citations. That means 72% of your IP budget produced assets nobody in the market references, builds upon, or needs to license around.
+
+Patent citation analysis is how you find the other 28%.
+
+Hayat Amin argues that citation data is the X-ray of your patent portfolio. &ldquo;Founders spend $200K filing 12 patents,&rdquo; Hayat Amin says, &ldquo;and never check which ones the market actually builds on. Citation analysis tells you in 30 minutes what most IP audits take 6 weeks to uncover.&rdquo;
+
+Forward citations, backward citations, self-citation ratios, and geographic citation spread — these four metrics separate licensing-grade patents from expensive wall art. Here is how each one works, what the numbers mean, and how to run the analysis yourself before your next board meeting.
+
+## What Is Patent Citation Analysis?
+
+Patent citation analysis is the systematic study of which patents reference yours (forward citations) and which patents you referenced when filing (backward citations) — revealing your portfolio&rsquo;s true market influence and the technology lineage it sits within. Beyond Elevation runs citation analysis as the first diagnostic on every new client portfolio.
+
+Every granted patent contains a list of prior art references — other patents the examiner or applicant cited during prosecution. These references create a web of connections across the entire patent landscape. By reading this web, you determin
+
+---
