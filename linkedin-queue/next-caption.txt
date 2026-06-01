@@ -1,13 +1,16 @@
-Your AI just generated a trade secret. You probably don't own it.
+VCs stopped funding API wrappers in 2026.
 
-87% of AI companies have no IP assignment clause covering model outputs in contractor agreements.
+That is not the full story.
 
-3 parties can claim ownership the moment your model generates a novel process.
+4 defensibility layers still get AI startups funded at $15-30M pre-money:
 
-$4.5M — average cost of a contested AI-generated IP ownership dispute.
+1. Proprietary training data — not public scrapes
+2. Fine-tuned model weights with trade secret clauses
+3. Domain-specific patent claims on the workflow
+4. User-generated data flywheel with network effects
 
-48 hours. That is how long it takes to audit and fix every contractor agreement you have.
+Remove one layer: you are a feature.
 
-You don't lose your moat in court. You lose it in a Google Doc.
+Keep all four: you are a fundable moat.
 
-#IPStrategy #AIStartups #TradeSecrets
+#AIStartups #VentureCapital #IPStrategy
