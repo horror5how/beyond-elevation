@@ -148,3 +148,4 @@
 2026-05-31 17:51 | QUEUED | ai-patent-citation-velocity-2026 | The fastest-cited AI patents generate 14x more licensing revenue.  Most founders
 2026-06-01 07:51 | urn:li:share:7467120507536953345 | Your acquirer runs an IP revenue quality score. Most founders fail it.  Here is 
 2026-06-01 12:44 | urn:li:share:7467194256663724034 | post #1 | snowflake-ai-licensing-publishers-2026 | Publishers are quietly cutting six-figure deals with AI firms — brokered by Snow
+2026-06-01 12:53 | QUEUED | ai-generated-trade-secret-ownership-2026 | Your AI just generated a trade secret. You probably don't own it.  87% of AI com
