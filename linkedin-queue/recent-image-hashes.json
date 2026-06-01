@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3cf0f0310bf7ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "osr-30m-ip-only-acquisition-2026",
-    "ts": "2026-05-28T14:36:54.490Z"
-  },
-  {
     "hash": "7ef30171130ff5ff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "suno-2-45b-valuation-music-ip-suits-2026",
     "ts": "2026-05-31T14:42:17.515Z"
+  },
+  {
+    "hash": "7ee020632f2dffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "snowflake-ai-licensing-publishers-2026",
+    "ts": "2026-06-01T12:44:04.844Z"
   }
 ]

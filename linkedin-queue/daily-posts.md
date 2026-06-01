@@ -3,7 +3,7 @@ date: 2026-06-01
 theme: Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
 generated_at: 2026-06-01T07:43:22.806311+00:00
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Across funding rounds, acquisitions and licensing rails, capital is repricing in
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-01T12:44:04.844Z
+share_urn: urn:li:share:7467194256663724034
 hook_format: contrarian
 cta_goal: follows
 slug: snowflake-ai-licensing-publishers-2026
