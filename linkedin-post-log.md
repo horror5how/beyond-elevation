@@ -153,3 +153,4 @@
 2026-06-01 16:35 | urn:li:share:7467252609347653635 | post #3 | celestial-ai-rockley-ip-acquisition-2026 | Celestial AI just bought Rockley Photonics' optics IP portfolio.  Not the compan
 2026-06-01 17:56 | urn:li:share:7467272901780615168 | VCs stopped funding API wrappers in 2026.  That is not the full story.  4 defens
 2026-06-01 18:36 | urn:li:share:7467282976511250432 | post #4 | ai-for-patents-funding-wave-2026 | Four AI-for-patents startups raised $115M+ in 90 days.  Solve Intelligence: $40M
+2026-06-01 20:50 | urn:li:share:7467316574631206912 | post #5 | solve-intelligence-harvey-for-patents-2026 | Prediction: "Harvey for patents" becomes a category, not a company.  Solve Intel

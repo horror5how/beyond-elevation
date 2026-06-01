@@ -3,7 +3,7 @@ date: 2026-06-01
 theme: Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
 generated_at: 2026-06-01T07:43:22.806311+00:00
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -163,7 +163,9 @@ Founders sitting on raw patent files are sitting on the input these tools moneti
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-01T20:50:07.672Z
+share_urn: urn:li:share:7467316574631206912
 hook_format: prediction
 cta_goal: DMs
 slug: solve-intelligence-harvey-for-patents-2026
