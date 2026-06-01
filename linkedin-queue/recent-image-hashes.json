@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff931190174ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "eu-ip-intensive-industries-47-pct-2026",
-    "ts": "2026-05-29T10:51:56.056Z"
-  },
-  {
     "hash": "fff010701335ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "celestial-ai-rockley-ip-acquisition-2026",
     "ts": "2026-06-01T16:35:57.198Z"
+  },
+  {
+    "hash": "81ffffffffff0022",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "ai-for-patents-funding-wave-2026",
+    "ts": "2026-06-01T18:36:37.356Z"
   }
 ]

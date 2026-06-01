@@ -152,3 +152,4 @@
 2026-06-01 15:23 | urn:li:share:7467234296802680832 | post #2 | osmo-fragrance-patents-density-moat-2026 | One startup, Osmo, just published more fragrance ingredient patents than the ent
 2026-06-01 16:35 | urn:li:share:7467252609347653635 | post #3 | celestial-ai-rockley-ip-acquisition-2026 | Celestial AI just bought Rockley Photonics' optics IP portfolio.  Not the compan
 2026-06-01 17:56 | urn:li:share:7467272901780615168 | VCs stopped funding API wrappers in 2026.  That is not the full story.  4 defens
+2026-06-01 18:36 | urn:li:share:7467282976511250432 | post #4 | ai-for-patents-funding-wave-2026 | Four AI-for-patents startups raised $115M+ in 90 days.  Solve Intelligence: $40M

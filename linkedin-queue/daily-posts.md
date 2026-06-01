@@ -3,7 +3,7 @@ date: 2026-06-01
 theme: Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
 generated_at: 2026-06-01T07:43:22.806311+00:00
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -126,7 +126,9 @@ If your patent file is undervalued, your exit is too.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-01T18:36:37.356Z
+share_urn: urn:li:share:7467282976511250432
 hook_format: listicle
 cta_goal: follows
 slug: ai-for-patents-funding-wave-2026
