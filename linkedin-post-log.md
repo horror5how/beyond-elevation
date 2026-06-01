@@ -150,3 +150,4 @@
 2026-06-01 12:44 | urn:li:share:7467194256663724034 | post #1 | snowflake-ai-licensing-publishers-2026 | Publishers are quietly cutting six-figure deals with AI firms — brokered by Snow
 2026-06-01 12:53 | QUEUED | ai-generated-trade-secret-ownership-2026 | Your AI just generated a trade secret. You probably don't own it.  87% of AI com
 2026-06-01 15:23 | urn:li:share:7467234296802680832 | post #2 | osmo-fragrance-patents-density-moat-2026 | One startup, Osmo, just published more fragrance ingredient patents than the ent
+2026-06-01 16:35 | urn:li:share:7467252609347653635 | post #3 | celestial-ai-rockley-ip-acquisition-2026 | Celestial AI just bought Rockley Photonics' optics IP portfolio.  Not the compan

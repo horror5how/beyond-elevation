@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef830013bf0ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "china-2026-ip-nation-plan-founders-2026",
-    "ts": "2026-05-28T19:33:13.284Z"
-  },
-  {
     "hash": "fff931190174ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "osmo-fragrance-patents-density-moat-2026",
     "ts": "2026-06-01T15:23:11.103Z"
+  },
+  {
+    "hash": "3424e7ffe7c3ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "celestial-ai-rockley-ip-acquisition-2026",
+    "ts": "2026-06-01T16:35:57.198Z"
   }
 ]

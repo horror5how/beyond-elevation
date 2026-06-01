@@ -3,7 +3,7 @@ date: 2026-06-01
 theme: Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
 generated_at: 2026-06-01T07:43:22.806311+00:00
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -90,7 +90,9 @@ If your filings can't outrun your category, your moat is decorative.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-01T16:35:57.198Z
+share_urn: urn:li:share:7467252609347653635
 hook_format: story
 cta_goal: clicks
 slug: celestial-ai-rockley-ip-acquisition-2026
