@@ -3,7 +3,7 @@ date: 2026-06-01
 theme: Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
 generated_at: 2026-06-01T07:43:22.806311+00:00
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ If you own catalogue — data, code, claims, voice — your moat just became a r
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-01T15:23:11.103Z
+share_urn: urn:li:share:7467234296802680832
 hook_format: number-led
 cta_goal: DMs
 slug: osmo-fragrance-patents-density-moat-2026

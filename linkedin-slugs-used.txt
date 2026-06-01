@@ -249,3 +249,4 @@ ai-patent-citation-velocity-2026
 ip-revenue-quality-ma-score-2026
 snowflake-ai-licensing-publishers-2026
 ai-generated-trade-secret-ownership-2026
+osmo-fragrance-patents-density-moat-2026

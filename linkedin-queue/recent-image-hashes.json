@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef30171130ff5ff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "stan-lee-elevenlabs-voice-ip-2026",
-    "ts": "2026-05-28T16:53:06.907Z"
-  },
-  {
     "hash": "7ef830013bf0ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "snowflake-ai-licensing-publishers-2026",
     "ts": "2026-06-01T12:44:04.844Z"
+  },
+  {
+    "hash": "0042e7ffc3e3ff9f",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "osmo-fragrance-patents-density-moat-2026",
+    "ts": "2026-06-01T15:23:11.103Z"
   }
 ]
