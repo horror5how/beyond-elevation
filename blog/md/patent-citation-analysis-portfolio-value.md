@@ -13,7 +13,7 @@ site: Beyond Elevation
 
 Patent citation analysis is how you find the other 28%.
 
-Hayat Amin argues that citation data is the X-ray of your patent portfolio. "Founders spend $200K filing 12 patents," Hayat Amin says, "and never check which ones the market actually builds on. Citation analysis tells you in 30 minutes what most IP audits take 6 weeks to uncover."
+Hayat Amin argues that citation data is the X-ray of your patent portfolio: "Founders spend $200K filing 12 patents and never check which ones the market actually builds on. Citation analysis tells you in 30 minutes what most IP audits take 6 weeks to uncover."
 
 Forward citations, backward citations, self-citation ratios, and geographic citation spread — these four metrics separate licensing-grade patents from expensive wall art. Here is how each one works, what the numbers mean, and how to run the analysis yourself before your next board meeting.
 
@@ -39,7 +39,7 @@ The median forward citation count for a granted US utility patent is 5–7 citat
 
 Backward citations are the patents your patent references — the prior art landscape your claims sit within — and they reveal how broad or narrow your intellectual property position truly is. A patent with fewer backward citations in a genuine white space signals broader claims and a more defensible position.
 
-There is a catch. Fewer backward citations can mean two things: either your patent covers genuinely new ground (strong), or your patent attorney did not conduct a thorough prior art search (dangerous). Context matters.
+The catch: fewer backward citations can mean your patent covers genuinely new ground (strong) or your attorney skipped a thorough prior art search (dangerous). Context matters.
 
 What the numbers tell you:
 
