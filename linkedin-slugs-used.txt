@@ -246,3 +246,4 @@ erasca-2-8b-ip-wipeout-2026
 ai-model-weight-licensing-valuation-2026
 suno-2-45b-valuation-music-ip-suits-2026
 ai-patent-citation-velocity-2026
+ip-revenue-quality-ma-score-2026

@@ -1,15 +1,19 @@
-The fastest-cited AI patents generate 14x more licensing revenue.
+Your acquirer runs an IP revenue quality score. Most founders fail it.
 
-Most founders track claim scope.
+Here is what they check:
 
-Nobody tracks citation velocity.
+1. Is licensing revenue documented - or just invoiced?
 
-72% of AI patent licensing value is set in the first 24 months after grant.
+2. Are rights sublicensable and assignable to the buyer?
 
-Low citation velocity = dead licensing pipeline.
+3. Is there a minimum guarantee - or pure usage risk?
 
-Your patent attorney has no idea what your citation velocity is.
+4. Are royalty rates at or above market benchmark?
 
-Beyond Elevation does.
+Score below 3 of 4 and your 8x multiple becomes 5x overnight.
 
-#IPStrategy #AIPatents #PatentLicensing
+Most founders only find out after the LOI is signed.
+
+Fix the documentation before you need it.
+
+#IPStrategy #MergersAndAcquisitions #PatentLicensing
