@@ -146,3 +146,4 @@
 2026-05-31 12:52 | QUEUED | ai-model-weight-licensing-valuation-2026 | AI companies that license model weights raise at 8x revenue multiples.  API wrap
 2026-05-31 14:42 | urn:li:share:7466861617750802433 | post #3 | suno-2-45b-valuation-music-ip-suits-2026 | Suno just closed $250M at a $2.45B valuation.  UMG, Sony and Warner are suing Su
 2026-05-31 17:51 | QUEUED | ai-patent-citation-velocity-2026 | The fastest-cited AI patents generate 14x more licensing revenue.  Most founders
+2026-06-01 07:51 | urn:li:share:7467120507536953345 | Your acquirer runs an IP revenue quality score. Most founders fail it.  Here is 
