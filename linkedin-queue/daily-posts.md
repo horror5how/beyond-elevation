@@ -1,131 +1,25 @@
 ---
-date: 2026-05-31
-theme: Six fresh proofs from the past 72 hours that IP is now priced as an asset class — litigation funds underwrite it, public markets evaporate it, AI founders reserve OpEx for it, publishers monetise it, density compounds it, and acquirers buy it without the company
-generated_at: 2026-05-31T04:00:00.000Z
+date: 2026-06-01
+theme: Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
+generated_at: 2026-06-01T07:43:22.806311+00:00
 posts_total: 6
-posts_published: 3
+posts_published: 0
 ---
 
 # Daily theme
-Each of today's posts attacks the same core idea from a different angle: the financialisation of intellectual property is no longer a thesis, it's the operating reality. iyO's litigation-funded suit against OpenAI proves IP claims are now an asset class. Erasca's $2.8B wipeout proves the same logic works in reverse. Suno's $2.45B raise amid label lawsuits shows AI founders pricing IP defence into post-money. Snowflake's quiet six-figure publisher deals turn rights catalogues into recurring revenue. Osmo's patent density outruns its entire industry. Celestial AI buying Rockley's IP (not the company) confirms the OSR pattern is now a market structure, not a one-off.
+Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
 
 # Topic shortlist (research notes — not posted)
-1. iyO secures top litigation funder for OpenAI IP theft suit — $15.2B global IP-litigation finance market, 30% target IRR, 3-5x MOIC
-2. Erasca shares crater 48% — $2.8B market cap wiped on IP questions over lead asset
-3. Suno closes $250M Series C at $2.45B amid RIAA / UMG / Sony / Warner training-data lawsuits — AI founders now reserve 8-15% of post-money for IP defence
-4. Snowflake AI licensing platform brokering quiet six-figure deals for publishers — NYT, FT, Axel Springer disclosed $250M+ in 2026 AI licensing revenue, 5-15% royalty floor
-5. Osmo published more fragrance ingredient patents than the entire industry combined — $63B market, EUIPO 18%+ R&D-to-IP top-quartile benchmark blown past
-6. Celestial AI buys Rockley Photonics' optics IP — third IP-only deal in 90 days (OSR's $30M VXM01 buy was the prior); 6-9x royalty multiple floor, 12-15x in AI-adjacent optics
+1. AI-for-patents funding wave — Solve/DeepIP/Patlytics/Stilta raised $115M+ in Q2 — $200B+ patent TAM
+2. Solve Intelligence "Copilot for IP law" — $40M Series B on 10x revenue, YC + 20VC backed
+3. Fortress acquires IPValue Management Group — institutional capital buying patent cash-flow engines (~$49B AUM)
+4. Snowflake AI licensing rail — publishers booking $250M+ in training-data royalties (carry-over)
+5. Osmo patent density — one startup out-filed an entire $63B industry (carry-over)
+6. Celestial AI / Rockley IP-only M&A — 3rd patents-only deal in 90 days (carry-over)
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-05-31T10:59:48.820Z
-share_urn: urn:li:share:7466805629131751424
-hook_format: frame-break
-cta_goal: follows
-slug: iyo-openai-ip-litigation-funded-2026
-keyword: IP litigation funding
-numbers_check: $15.2B, 30%, 3-5x, OpenAI
-image_direction: dark balance-sheet frame, gavel-as-asset, three financial tiles in BE warm neutrals
-headline: Founders don't pay<br>to sue OpenAI anymore
-metric_1: $15.2B
-label_1: IP LITIGATION<br>FINANCE MARKET
-metric_2: 30%
-label_2: TARGET IRR<br>ON IP CLAIMS
-metric_3: 3-5x
-label_3: MOIC FUNDERS<br>UNDERWRITE
-
-iyO just secured a top litigation funder to sue OpenAI over IP theft.
-
-Read that twice.
-
-A founder didn't pay legal fees. A fund did. Non-recourse.
-
-The IP litigation finance market is now $15.2B globally. Funders target 3-5x MOIC at 30%+ IRR.
-
-Translation: your patents aren't a legal cost. They're an asset class someone else will pay to enforce.
-
-If your IP is defensible, you can monetise it before a court ever rules.
-
-If it isn't, you're just exposed.
-
-#PatentStrategy #LitigationFunding #FounderMoats
-
----
-
-## Post 2
-status: published
-published_at: 2026-05-31T12:10:01.823Z
-share_urn: urn:li:share:7466823300007067648
-hook_format: number-led
-cta_goal: DMs
-slug: erasca-2-8b-ip-wipeout-2026
-keyword: IP risk valuation
-numbers_check: $2.8B, 48%, $0
-image_direction: red-on-black ticker, single dominant market-cap tile, "re-priced" sub-line
-headline: $2.8B wiped in one day<br>over patent claims
-metric_1: $2.8B
-label_1: MARKET CAP<br>EVAPORATED
-metric_2: -48%
-label_2: SHARE PRICE<br>SINGLE SESSION
-metric_3: $0
-label_3: IP MOAT<br>RE-PRICED TO
-
-$2.8B in market cap. Gone in a single session.
-
-Erasca's stock cratered 48% after analysts raised IP questions on its lead asset.
-
-Not revenue. Not trial data. IP integrity.
-
-Investors discounted the entire moat to zero in hours.
-
-Most founders still treat patents as a back-office formality.
-
-Public markets disagree. They price ambiguity in claim scope, freedom-to-operate, and continuation gaps directly into enterprise value.
-
-If your IP file isn't audit-ready, your valuation isn't either.
-
-#IPStrategy #BioTech #FounderRisk
-
----
-
-## Post 3
-status: published
-published_at: 2026-05-31T14:42:17.515Z
-share_urn: urn:li:share:7466861617750802433
-hook_format: prediction
-cta_goal: clicks
-slug: suno-2-45b-valuation-music-ip-suits-2026
-keyword: AI music IP litigation
-numbers_check: $250M, $2.45B, 8-15%
-image_direction: split-frame, raise figure left, litigation reserve right, BEIP warm/dark
-headline: $2.45B valuation<br>while labels sue for billions
-metric_1: $250M
-label_1: SERIES C RAISED<br>MID-LITIGATION
-metric_2: $2.45B
-label_2: POST-MONEY<br>VALUATION
-metric_3: 8-15%
-label_3: OF VALUATION<br>RESERVED FOR IP
-
-Suno just closed $250M at a $2.45B valuation.
-
-UMG, Sony and Warner are suing Suno and Udio for billions over training-data IP.
-
-Investors didn't blink.
-
-That's the prediction worth pricing: in AI, IP litigation is now an OpEx line, not an existential one.
-
-Tier-1 AI startups now reserve 8-15% of post-money for IP defence and licensing settlements.
-
-If you're an AI founder pretending lawsuits won't come, you're building on a balance sheet two years out of date.
-
-#AIStrategy #IPRisk #Suno
-
----
-
-## Post 4
 status: pending
 hook_format: contrarian
 cta_goal: follows
@@ -155,7 +49,9 @@ If you own catalogue — data, code, claims, voice — your moat just became a r
 
 ---
 
-## Post 5
+---
+
+## Post 2
 status: pending
 hook_format: number-led
 cta_goal: DMs
@@ -187,7 +83,9 @@ If your filings can't outrun your category, your moat is decorative.
 
 ---
 
-## Post 6
+---
+
+## Post 3
 status: pending
 hook_format: story
 cta_goal: clicks
@@ -218,3 +116,106 @@ Founders still ledger patents at cost. Acquirers ledger them at the cash flow th
 If your patent file is undervalued, your exit is too.
 
 #AIInfrastructure #IPAcquisition #DeepTech
+
+---
+
+## Post 4
+status: pending
+hook_format: listicle
+cta_goal: follows
+slug: ai-for-patents-funding-wave-2026
+keyword: AI patent software funding
+numbers_check: $115M+, $200B+, 10x
+image_direction: four deal tiles stacked, market-size callout, capital-inflow motif
+headline: $115M raised in 90 days<br>for patent software
+metric_1: $115M+
+label_1: RAISED ACROSS<br>4 STARTUPS
+metric_2: $200B+
+label_2: PATENT INDUSTRY<br>TAM
+metric_3: 10x
+label_3: REVENUE GROWTH<br>(SOLVE)
+
+Four AI-for-patents startups raised $115M+ in 90 days.
+
+Solve Intelligence: $40M Series B, $55M total, 10x revenue.
+DeepIP: $25M Series B.
+Patlytics: $40M Series B.
+Stilta: $10.5M seed, led by a16z.
+
+The patent industry is $200B+ and still runs on Word docs.
+
+Capital isn't betting on lawsuits. It's betting that IP workflows are the next vertical SaaS land grab.
+
+When a16z and YC underwrite the same thesis in one quarter, that's not a trend. It's a repricing.
+
+Founders sitting on raw patent files are sitting on the input these tools monetise.
+
+#PatentTech #AIforIP #VentureCapital
+
+---
+
+## Post 5
+status: pending
+hook_format: prediction
+cta_goal: DMs
+slug: solve-intelligence-harvey-for-patents-2026
+keyword: AI copilot patent law
+numbers_check: $40M, 10x, $200B+
+image_direction: category-emergence motif, revenue-jump tile, TAM callout
+headline: "Harvey for patents"<br>is now a category
+metric_1: $40M
+label_1: SERIES B<br>RAISED
+metric_2: 10x
+label_2: REVENUE<br>GROWTH
+metric_3: $200B+
+label_3: PATENT INDUSTRY<br>TAM
+
+Prediction: "Harvey for patents" becomes a category, not a company.
+
+Solve Intelligence just raised a $40M Series B on a 10x revenue jump, backed by YC and 20VC, to build a Copilot for IP law.
+
+The wedge: drafting and prosecuting claims in a $200B+ industry that still bills by the hour.
+
+Here's what most miss.
+
+The winner won't own the best drafting tool. It'll own the data — every claim, office action and citation it touches.
+
+Workflow software that captures proprietary IP data compounds into a moat incumbents can't buy back.
+
+Watch who controls the corpus, not who has the slickest UI.
+
+#IPLaw #LegalTech #AIMoats
+
+---
+
+## Post 6
+status: pending
+hook_format: frame-break
+cta_goal: clicks
+slug: fortress-ipvalue-patent-monetization-2026
+keyword: patent monetization acquisition
+numbers_check: $49B, 6-9x, 100%
+image_direction: asset-class reframe, AUM tile, royalty-multiple band
+headline: Patents aren't a cost.<br>They're an annuity.
+metric_1: $49B
+label_1: FORTRESS<br>AUM
+metric_2: 6-9x
+label_2: FORWARD ROYALTY<br>MULTIPLE
+metric_3: 100%
+label_3: IP-ONLY<br>ACQUISITION
+
+Reframe: patents aren't legal protection. They're a cash-flow asset institutional capital buys outright.
+
+Fortress Investment Group (~$49B AUM) just acquired IPValue Management Group — a firm that monetises patent portfolios for a living.
+
+Not a tech company. A patent cash-flow engine.
+
+Litigation funders already underwrite single claims at 6-9x forward royalties. Now asset managers are buying the licensing platforms whole.
+
+Founders still say: "IP is a cost centre we file to defend."
+
+Capital says: "IP is an annuity we acquire to harvest."
+
+One frame builds enterprise value. The other expenses it.
+
+#PatentStrategy #IPAssets #PrivateEquity
