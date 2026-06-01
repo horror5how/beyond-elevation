@@ -181,5 +181,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Patent Litigation Analytics: How to Score Your Litigation Risk in 30 Minutes (Using the Same Data PatentSight and Lex Machina Sell for $50K/yr)](https://beyondelevation.com/blog/posts/patent-litigation-analytics-risk-scoring/) — /blog/md/patent-litigation-analytics-risk-scoring.md
 - [Patent Quality Index Explained: How PatentSight and Innography Score Patents (And the 5 Inputs You Should Run Yourself in 20 Minutes)](https://beyondelevation.com/blog/posts/patent-quality-index-explained/) — /blog/md/patent-quality-index-explained.md
 - [Patent Citation Analysis: Forward vs Backward Citations and What Each One Tells You About a Portfolio's Real Value](https://beyondelevation.com/blog/posts/patent-citation-analysis-portfolio-value/) — /blog/md/patent-citation-analysis-portfolio-value.md
+- [An Independent IP Audit Adds 15-20% to Your Valuation Multiple — The 6-Step Audit Investors Actually Trust](https://beyondelevation.com/blog/posts/ip-audit-valuation-premium/) — /blog/md/ip-audit-valuation-premium.md
 
 > Full blog content available at /llms-full.txt
