@@ -2,8 +2,8 @@
 title: "The Isle of Man Just Made Your Dataset a Balance-Sheet Asset — Inside the Data Asset Foundation"
 slug: data-asset-foundation-isle-of-man
 date: 2026-06-02
-url: https://beyondelevation.com/blog/post.html?slug=data-asset-foundation-isle-of-man
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/data-asset-foundation-isle-of-man/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -27,7 +27,7 @@ The Data Asset Foundation changes the fundraising equation because it converts a
 
 The numbers back this up. Intangible assets now represent 90% of S&P 500 market capitalisation, according to Ocean Tomo's 2025 study. For AI startups specifically, proprietary data and technology account for 70-80% of enterprise value per FE International and Qubit Capital's 2026 analysis. Yet most of that value sits in a regulatory blind spot — visible to VCs during qualitative assessment but invisible to debt providers who require documented, appraised collateral.
 
-IP-backed lending already operates at 20-40% loan-to-value ratios with rates between 8-15% APR over 2-5 year terms, according to a 2026 EUIPO report that pegged the global IP finance unlock at €580 billion. The DAF extends this model from patents to data. Hayat Amin's view is direct: "Patents have had collateral infrastructure for 20 years. Data had nothing. The DAF is the first serious attempt to close that gap — and the founders who move on it first will borrow cheaper than anyone who waits."
+IP-backed lending already operates at 20-40% loan-to-value ratios with rates between 8-15% APR over 2-5 year terms, according to a 2026 EUIPO report that pegged the global IP finance unlock at &euro;580 billion. The DAF extends this model from patents to data. Hayat Amin's view is direct: "Patents have had collateral infrastructure for 20 years. Data had nothing. The DAF is the first serious attempt to close that gap — and the founders who move on it first will borrow cheaper than anyone who waits."
 
 ## What Types of Data Qualify for a Data Asset Foundation?
 
@@ -41,7 +41,7 @@ Hayat Amin applies what the Beyond Elevation team calls the **Data Collateral Re
 
 The Data Asset Foundation extends the same structural logic that [patent-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/) uses — creating a registered, valued, transferable asset that lenders can underwrite — but applies it to data instead of patents. Both vehicles solve the same problem: intangible assets that are commercially valuable but structurally invisible to traditional debt markets.
 
-Patent-backed financing is more mature. Lenders like Western Technology Investment and Horizon Technology Finance have refined their underwriting criteria over a decade. DAF-backed lending is months old, with fewer lenders, smaller deal sizes, and less precedent. But the trajectory is unmistakable. The EUIPO report that identified €580 billion in locked IP finance potential specifically flagged data assets as the next frontier.
+Patent-backed financing is more mature. Lenders like Western Technology Investment and Horizon Technology Finance have refined their underwriting criteria over a decade. DAF-backed lending is months old, with fewer lenders, smaller deal sizes, and less precedent. But the trajectory is unmistakable. The EUIPO report that identified &euro;580 billion in locked IP finance potential specifically flagged data assets as the next frontier.
 
 For founders with both patents and proprietary data, the strategic play is to structure both asset classes for collateralisation. Beyond Elevation already advises clients preparing dual-asset lending packages — patents registered through standard IP offices, data structured through DAFs or equivalent vehicles — to maximise total borrowing capacity without diluting equity.
 
@@ -55,9 +55,23 @@ Hayat Amin reminds founders that the DAF is a vehicle, not a strategy. "The foun
 
 ## Is a Data Asset Foundation Only for Large Companies?
 
-The Data Asset Foundation was designed for institutional-scale data, but the governance and valuation principles apply at every stage. Series A companies with a unique, well-governed dataset worth £2-5 million can benefit from the structure as much as a mid-market company with a £50 million data portfolio. The economics depend on the dataset value relative to the cost of setup, valuation, and ongoing governance — typically £30-50K for initial registration and appraisal.
+The Data Asset Foundation was designed for institutional-scale data, but the governance and valuation principles apply at every stage. Series A companies with a unique, well-governed dataset worth &pound;2-5 million can benefit from the structure as much as a mid-market company with a &pound;50 million data portfolio. The economics depend on the dataset value relative to the cost of setup, valuation, and ongoing governance — typically &pound;30-50K for initial registration and appraisal.
 
 For pre-revenue startups, formal DAF registration may be premature. But the preparatory work — data inventory, governance, valuation, clean ownership — makes the data asset more investable, licensable, and defensible regardless of whether registration follows. The companies that will capitalise on the DAF fastest are the ones already treating their data as an asset, not an afterthought.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-data-asset-foundation-isle-of-man)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -71,7 +85,7 @@ No. The dataset must be proprietary, structured, governed under a documented pro
 
 ### How much does it cost to set up a Data Asset Foundation?
 
-Initial registration, independent governance, and professional data valuation typically cost £30-50K. Ongoing annual governance and compliance fees depend on the complexity of the data portfolio and the number of transactions.
+Initial registration, independent governance, and professional data valuation typically cost &pound;30-50K. Ongoing annual governance and compliance fees depend on the complexity of the data portfolio and the number of transactions.
 
 ### Do U.S. or UK founders need to move to the Isle of Man?
 
@@ -80,3 +94,6 @@ No. The DAF is a legal entity that can hold data rights regardless of where the 
 ### How does a Data Asset Foundation differ from a data trust?
 
 A data trust is a stewardship model focused on ethical governance and shared access. A Data Asset Foundation is a commercial vehicle focused on valuation, collateralisation, and monetisation. The DAF gives the data owner — not a trustee — control over commercial exploitation, making it more suitable for founders seeking to borrow against or license their data.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -2554,3 +2554,19 @@ The data is unambiguous. Ocean Tomo's 2025 Intangible Asset Market Value Study f
 The breakdown varies by stage and vertical, but a typical AI startup's intangi
 
 ---
+
+## The Isle of Man Just Made Your Dataset a Balance-Sheet Asset — Inside the Data Asset Foundation
+
+URL: https://beyondelevation.com/blog/posts/data-asset-foundation-isle-of-man/
+
+In April 2026, the Isle of Man launched the Data Asset Foundation — the first legal structure in any jurisdiction that lets founders register a dataset as a governed, valued, balance-sheet asset and borrow against it like property. If you run a data-heavy company and you are still treating your dataset as an operational byproduct, you are sitting on collateral you cannot access.
+
+Hayat Amin, who built the data monetisation playbook DGS used to turn an internal dataset into a seven-figure licensing stream, argues this is the most consequential structural shift for data-rich founders since GDPR turned compliance into a cost centre. "For the first time, a jurisdiction has created a vehicle that treats data the way corporate law treats real estate or IP," Hayat Amin says. "That changes what lenders will accept, what investors will price, and what your balance sheet actually shows."
+
+## What Is a Data Asset Foundation and How Does It Work?
+
+A Data Asset Foundation (DAF) is a licensed legal entity under Isle of Man law that allows a dataset to be formally registered, independently governed, professionally valued, and used as collateral — functions previously reserved for physical property and registered intellectual property. The DAF sits between the data owner and external parties (lenders, licensees, acquirers), providing a governance wrapper that makes the dataset transactable.
+
+The mechanics are straightforward. A company transfers defined data rights into the DAF. Independent 
+
+---

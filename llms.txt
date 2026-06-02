@@ -183,5 +183,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Patent Citation Analysis: Forward vs Backward Citations and What Each One Tells You About a Portfolio's Real Value](https://beyondelevation.com/blog/posts/patent-citation-analysis-portfolio-value/) — /blog/md/patent-citation-analysis-portfolio-value.md
 - [An Independent IP Audit Adds 15-20% to Your Valuation Multiple — The 6-Step Audit Investors Actually Trust](https://beyondelevation.com/blog/posts/ip-audit-valuation-premium/) — /blog/md/ip-audit-valuation-premium.md
 - [Intangibles Are 90% of the S&P 500 and 70-80% of Every AI Startup — The Number Your Balance Sheet Is Hiding](https://beyondelevation.com/blog/posts/ai-startup-intangible-value-percentage/) — /blog/md/ai-startup-intangible-value-percentage.md
+- [The Isle of Man Just Made Your Dataset a Balance-Sheet Asset — Inside the Data Asset Foundation](https://beyondelevation.com/blog/posts/data-asset-foundation-isle-of-man/) — /blog/md/data-asset-foundation-isle-of-man.md
 
 > Full blog content available at /llms-full.txt
