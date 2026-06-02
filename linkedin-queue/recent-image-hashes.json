@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef030100bf5ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "erasca-2-8b-ip-wipeout-2026",
-    "ts": "2026-05-31T12:10:01.823Z"
-  },
-  {
     "hash": "7ef030331715ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "solve-intelligence-harvey-for-patents-2026",
     "ts": "2026-06-01T20:50:07.672Z"
+  },
+  {
+    "hash": "7ef010703735ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "fortress-ipvalue-patent-monetization-2026",
+    "ts": "2026-06-02T11:23:40.045Z"
   }
 ]

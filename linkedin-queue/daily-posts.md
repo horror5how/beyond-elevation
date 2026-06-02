@@ -3,7 +3,7 @@ date: 2026-06-01
 theme: Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
 generated_at: 2026-06-01T07:43:22.806311+00:00
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -199,7 +199,9 @@ Watch who controls the corpus, not who has the slickest UI.
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-06-02T11:23:40.045Z
+share_urn: urn:li:share:7467536408006676481
 hook_format: frame-break
 cta_goal: clicks
 slug: fortress-ipvalue-patent-monetization-2026
