@@ -156,3 +156,4 @@
 2026-06-01 20:50 | urn:li:share:7467316574631206912 | post #5 | solve-intelligence-harvey-for-patents-2026 | Prediction: "Harvey for patents" becomes a category, not a company.  Solve Intel
 2026-06-02 07:51 | QUEUED | patent-cross-licensing-leverage-2026 | IBM earns $1B+ per year from patents it does not commercialise. Cross-licensing is how.
 2026-06-02 11:23 | urn:li:share:7467536408006676481 | post #6 | fortress-ipvalue-patent-monetization-2026 | Reframe: patents aren't legal protection. They're a cash-flow asset institutiona
+2026-06-02 12:51 | QUEUED | venture-debt-patent-lenders-2026 | Most lenders ask for your P&L first. These 6 now ask for your patent schedule.  
