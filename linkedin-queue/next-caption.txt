@@ -1,16 +1,13 @@
-VCs stopped funding API wrappers in 2026.
+IBM earns $1B+ per year from patents it does not commercialise.
 
-That is not the full story.
+Cross-licensing is how.
 
-4 defensibility layers still get AI startups funded at $15-30M pre-money:
+Companies with 50+ patents negotiate cross-licenses instead of paying royalties.
 
-1. Proprietary training data — not public scrapes
-2. Fine-tuned model weights with trade secret clauses
-3. Domain-specific patent claims on the workflow
-4. User-generated data flywheel with network effects
+Average patent litigation costs $4M per side. A cross-license costs almost nothing to execute.
 
-Remove one layer: you are a feature.
+One signed cross-license agreement can unlock 12-15x royalty multiples at exit.
 
-Keep all four: you are a fundable moat.
+Most founders treat patents as legal shields. The ones exiting at 4x higher multiples treat them as financial instruments.
 
-#AIStartups #VentureCapital #IPStrategy
+#IPStrategy #PatentLicensing #ExitMultiple
