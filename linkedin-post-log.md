@@ -157,3 +157,4 @@
 2026-06-02 07:51 | QUEUED | patent-cross-licensing-leverage-2026 | IBM earns $1B+ per year from patents it does not commercialise. Cross-licensing is how.
 2026-06-02 11:23 | urn:li:share:7467536408006676481 | post #6 | fortress-ipvalue-patent-monetization-2026 | Reframe: patents aren't legal protection. They're a cash-flow asset institutiona
 2026-06-02 12:51 | QUEUED | venture-debt-patent-lenders-2026 | Most lenders ask for your P&L first. These 6 now ask for your patent schedule.  
+2026-06-02 17:52 | urn:li:share:7467634148975976449 | Apple used GPT-4 outputs to train its on-device AI. OpenAI's terms call that a l
