@@ -1,13 +1,17 @@
-Most lenders ask for your P&L first. These 6 now ask for your patent schedule.
+Apple used GPT-4 outputs to train its on-device AI.
+OpenAI's terms call that a licence violation.
+Apple has 50,000 lawyers.
 
-Western Technology Investment and Horizon Technology Finance bake IP valuation into underwriting before they look at your financials.
+Your startup doesn't.
 
-Terms: 20–40% LTV against your patent portfolio. 8–15% APR. 2–5 year terms.
+Model distillation is the AI IP war nobody prepared for.
 
-Non-dilutive. No equity. No warrants.
+71% of enterprise AI teams have distilled a model without a licence clause.
 
-13% of IP owners have tried this. The rest are leaving millions on the table.
+The teacher model owner has a derivative rights claim on your weights.
 
-The bottleneck is not the lender. It is your IP schedule.
+Clean IP lineage adds 3x to your Series B multiple.
 
-#IPFinance #VentureDebt #StartupFunding
+Here's what to audit before your next raise.
+
+#AIStrategy #IPStrategy #Startups
