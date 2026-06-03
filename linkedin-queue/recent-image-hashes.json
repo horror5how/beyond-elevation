@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3424e7ffe7c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "celestial-ai-rockley-ip-acquisition-2026",
-    "ts": "2026-06-01T16:35:57.198Z"
-  },
-  {
     "hash": "81ffffffffff0022",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "patents-are-a-revenue-line",
     "ts": "2026-06-03T15:27:07.063Z"
+  },
+  {
+    "hash": "007effffffff2505",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "skipped-patents-cost-6m-series-b",
+    "ts": "2026-06-03T17:59:03.119Z"
   }
 ]

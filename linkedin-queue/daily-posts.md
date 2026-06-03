@@ -3,7 +3,7 @@ date: 2026-06-03
 theme: IP is the asset class founders keep mispricing, and AI just put a number on it.
 generated_at: 2026-06-03T03:01:42Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -134,7 +134,9 @@ The companies that win the next cycle treat IP like a P&L, not a folder.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-03T17:59:03.119Z
+share_urn: urn:li:share:7467998297341841408
 hook_format: story
 cta_goal: clicks
 slug: skipped-patents-cost-6m-series-b

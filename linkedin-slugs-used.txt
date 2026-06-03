@@ -263,3 +263,4 @@ pe-vs-vc-ip-valuation-gap-2026
 nyt-ai-theft-wrong-frame
 patents-are-a-revenue-line
 standard-essential-patent-licensing-income-2026
+skipped-patents-cost-6m-series-b
