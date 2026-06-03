@@ -3,7 +3,7 @@ date: 2026-06-03
 theme: IP is the asset class founders keep mispricing, and AI just put a number on it.
 generated_at: 2026-06-03T03:01:42Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -98,7 +98,9 @@ What is your content actually licensed at? DM me.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-03T15:27:07.063Z
+share_urn: urn:li:share:7467960061454225409
 hook_format: frame-break
 cta_goal: follows
 slug: patents-are-a-revenue-line

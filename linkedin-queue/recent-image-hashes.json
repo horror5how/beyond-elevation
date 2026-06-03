@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0042e7ffc3e3ff9f",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "osmo-fragrance-patents-density-moat-2026",
-    "ts": "2026-06-01T15:23:11.103Z"
-  },
-  {
     "hash": "3424e7ffe7c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "nyt-ai-theft-wrong-frame",
     "ts": "2026-06-03T13:18:39.920Z"
+  },
+  {
+    "hash": "fff111310b15ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "patents-are-a-revenue-line",
+    "ts": "2026-06-03T15:27:07.063Z"
   }
 ]

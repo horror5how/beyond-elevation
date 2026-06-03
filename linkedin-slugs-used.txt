@@ -261,3 +261,4 @@ ip-activation-exit-value-gap-2026
 ai-patent-startups-raised-105m
 pe-vs-vc-ip-valuation-gap-2026
 nyt-ai-theft-wrong-frame
+patents-are-a-revenue-line
