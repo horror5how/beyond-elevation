@@ -3,7 +3,7 @@ date: 2026-06-03
 theme: IP is the asset class founders keep mispricing, and AI just put a number on it.
 generated_at: 2026-06-03T03:01:42Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -60,7 +60,9 @@ Which one are you?
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-03T13:18:39.920Z
+share_urn: urn:li:share:7467927735915520002
 hook_format: contrarian
 cta_goal: dm
 slug: nyt-ai-theft-wrong-frame

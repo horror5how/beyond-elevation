@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ee020632f2dffff",
-    "layout": "c",
-    "accent": "#7a8c6e",
-    "slug": "snowflake-ai-licensing-publishers-2026",
-    "ts": "2026-06-01T12:44:04.844Z"
-  },
-  {
     "hash": "0042e7ffc3e3ff9f",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-patent-startups-raised-105m",
     "ts": "2026-06-03T12:00:36.063Z"
+  },
+  {
+    "hash": "ffe120232f2fffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "nyt-ai-theft-wrong-frame",
+    "ts": "2026-06-03T13:18:39.920Z"
   }
 ]

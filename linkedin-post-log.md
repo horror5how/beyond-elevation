@@ -162,3 +162,4 @@
 2026-06-03 07:52 | urn:li:share:7467845617625481216 | The average founder leaves $2M on the table at exit.  Not bad negotiation. Unact
 2026-06-03 12:00 | urn:li:share:7467908090034659328 | post #1 | ai-patent-startups-raised-105m | Three startups just raised over $105M to fix patents.  Solve Intelligence: $40M 
 2026-06-03 12:52 | urn:li:share:7467921052573085696 | PE firms value your IP 30% higher than VCs do.  Most founders learn this at the 
+2026-06-03 13:18 | urn:li:share:7467927735915520002 | post #2 | nyt-ai-theft-wrong-frame | The New York Times just called AI training "theft."  Wrong frame.  It is unprice
