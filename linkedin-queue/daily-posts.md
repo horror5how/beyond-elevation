@@ -1,233 +1,230 @@
 ---
-date: 2026-06-01
-theme: Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
-generated_at: 2026-06-01T07:43:22.806311+00:00
+date: 2026-06-03
+theme: IP is the asset class founders keep mispricing, and AI just put a number on it.
+generated_at: 2026-06-03T03:01:42Z
 posts_total: 6
-posts_published: 6
+posts_published: 0
 ---
 
 # Daily theme
-Across funding rounds, acquisitions and licensing rails, capital is repricing intellectual property as an asset class — and founders who still ledger patents at cost are leaving the spread on the table.
+This week proved IP is no longer a legal line item, it is a balance-sheet asset with a market price. Three AI-for-patents startups raised over $100M, the NYT picked an IP fight worth hundreds of millions, and the patent industry crossed $200B. Every post turns one of those signals into a number a founder can act on.
 
-# Topic shortlist (research notes — not posted)
-1. AI-for-patents funding wave — Solve/DeepIP/Patlytics/Stilta raised $115M+ in Q2 — $200B+ patent TAM
-2. Solve Intelligence "Copilot for IP law" — $40M Series B on 10x revenue, YC + 20VC backed
-3. Fortress acquires IPValue Management Group — institutional capital buying patent cash-flow engines (~$49B AUM)
-4. Snowflake AI licensing rail — publishers booking $250M+ in training-data royalties (carry-over)
-5. Osmo patent density — one startup out-filed an entire $63B industry (carry-over)
-6. Celestial AI / Rockley IP-only M&A — 3rd patents-only deal in 90 days (carry-over)
+# Topic shortlist (research notes: not posted)
+1. AI-for-patents funding wave, Solve Intelligence $40M Series B (10x revenue), DeepIP $25M, Patlytics $40M, $200B industry being repriced
+2. NYT calls AI training "theft", real story is unpriced licensing, OpenAI publisher deals $250M+
+3. Patents as a revenue line, not a cost, Qualcomm $5B+/yr, IBM $1B+/yr royalties
+4. Founders losing valuation in diligence over skipped IP, Series B haircuts
+5. AI rebuilds the $200B patent industry by 2030, end of billable-hour model
+6. The 5 IP mistakes that silently cut a startup's valuation, IP is ~80% of an AI company's worth
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-06-01T12:44:04.844Z
-share_urn: urn:li:share:7467194256663724034
-hook_format: contrarian
+status: pending
+hook_format: number-led
 cta_goal: follows
-slug: snowflake-ai-licensing-publishers-2026
-keyword: AI training IP licensing
-numbers_check: $250M+, 5-15%, six-figure
-image_direction: data-pipe motif, three royalty tiles, neutral warm palette
-headline: Publishers turned IP<br>into recurring revenue
-metric_1: $250M+
-label_1: AI LICENSING<br>REVENUE 2026
-metric_2: 5-15%
-label_2: NET ROYALTY<br>ON TRAINING DEALS
-metric_3: 6-FIG
-label_3: TYPICAL DEAL<br>VIA SNOWFLAKE
+slug: ai-patent-startups-raised-105m
+keyword: AI patent startup funding
+numbers_check: $105M, $40M, 10x, $25M, $200B
+image_direction: bold number tiles, dark BEIP, patent-as-asset framing
+headline: Patents aren't paperwork.<br>They're a $200B asset class.
+metric_1: $105M
+label_1: AI-PATENT<br>RAISES
+metric_2: 10x
+label_2: SOLVE REVENUE<br>GROWTH
+metric_3: $200B
+label_3: PATENT INDUSTRY<br>SIZE
 
-Publishers are quietly cutting six-figure deals with AI firms — brokered by Snowflake.
+Three startups just raised over $105M to fix patents.
 
-NYT, FT and Axel Springer have publicly disclosed $250M+ in AI licensing revenue this year. Smaller publishers are stacking 5-15% net royalty deals through the same rail.
+Solve Intelligence: $40M Series B, 10x revenue growth.
 
-The contrarian read isn't "AI is killing content."
+DeepIP: $25M Series B.
 
-It's that IP holders who built clean rights registries are now extracting platform-level economics from model training.
+Patlytics: $40M Series B.
 
-If you own catalogue — data, code, claims, voice — your moat just became a recurring revenue line.
+The patent industry is worth $200B and most founders still treat IP like a filing cabinet.
 
-#AILicensing #IPRevenue #ContentMoats
+Smart money sees an asset that compounds.
 
----
+Most founders see a legal bill they want to delay.
+
+One of those groups is buying your category. The other is funding it.
+
+Which one are you?
+
+#IPStrategy #PatentStrategy #StartupFunding
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-06-01T15:23:11.103Z
-share_urn: urn:li:share:7467234296802680832
-hook_format: number-led
-cta_goal: DMs
-slug: osmo-fragrance-patents-density-moat-2026
-keyword: patent density moat
-numbers_check: $63B, 18%+, 1 startup
-image_direction: stacked patent-doc skyline vs flat industry baseline, market-size tile
-headline: One startup outfiled<br>an entire industry
-metric_1: $63B
-label_1: GLOBAL FRAGRANCE<br>MARKET SIZE
-metric_2: 18%+
-label_2: R&D-TO-IP<br>TOP QUARTILE
-metric_3: 1
-label_3: STARTUP > ENTIRE<br>INDUSTRY COMBINED
+status: pending
+hook_format: contrarian
+cta_goal: dm
+slug: nyt-ai-theft-wrong-frame
+keyword: AI content licensing revenue
+numbers_check: $250M+, 50%
+image_direction: split frame, "theft" crossed out vs "licensing", dark glass
+headline: AI didn't steal your content.<br>You forgot to price it.
+metric_1: $250M+
+label_1: PUBLISHER AI<br>DEALS SIGNED
+metric_2: 50%+
+label_2: CATALOG LICENSING<br>MARGINS
+metric_3: 0
+label_3: INVOICES<br>NYT SENT
 
-One startup, Osmo, just published more fragrance ingredient patents than the entire industry combined.
+The New York Times just called AI training "theft."
 
-Not 10% more. More than all of them, stacked.
+Wrong frame.
 
-In a $63B global category, that's a 20-year compounding moat.
+It is unpriced licensing.
 
-The EUIPO's top-quartile R&D-to-IP benchmark sits at 18%+. Osmo is operating a full decimal place above it.
+Getty licenses images. Music labels license catalogs at 50%+ margins. The NYT is sitting on a licensing revenue line it refuses to invoice.
 
-Patent density isn't a vanity metric. It's the rate at which you make competitors irrelevant.
+Meanwhile OpenAI signed deals worth $250M+ with publishers who showed up early and named a price.
 
-If your filings can't outrun your category, your moat is decorative.
+Your IP is not being stolen. It is being valued at zero because you never set the number.
 
-#PatentStrategy #Osmo #IPMoats
+Asset or expense is a choice. Make it before someone scrapes it for free.
 
----
+What is your content actually licensed at? DM me.
+
+#AILicensing #IntellectualProperty #ContentStrategy
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-06-01T16:35:57.198Z
-share_urn: urn:li:share:7467252609347653635
-hook_format: story
-cta_goal: clicks
-slug: celestial-ai-rockley-ip-acquisition-2026
-keyword: IP-only acquisition AI infra
-numbers_check: 3 in 90 days, $30M, 6-9x, 12-15x
-image_direction: clean M&A pattern grid, three deal tiles, multiple-band callout
-headline: IP-only M&A<br>3 deals in 90 days
-metric_1: 3
-label_1: IP-ONLY DEALS<br>IN 90 DAYS
-metric_2: 6-9x
-label_2: ROYALTY<br>MULTIPLE FLOOR
-metric_3: 12-15x
-label_3: PREMIUMS<br>IN AI-ADJACENT
+status: pending
+hook_format: frame-break
+cta_goal: follows
+slug: patents-are-a-revenue-line
+keyword: patent licensing royalties
+numbers_check: $5B, $1B, 10x, 0x
+image_direction: balance sheet motif, royalty stream arrows, BEIP dark
+headline: Patents aren't a legal cost.<br>They're a balance-sheet asset.
+metric_1: $5B
+label_1: QUALCOMM<br>ROYALTIES/YR
+metric_2: $1B
+label_2: IBM LICENSING<br>PER YEAR
+metric_3: 10x
+label_3: ARR MULTIPLE<br>IGNORED
 
-Celestial AI just bought Rockley Photonics' optics IP portfolio.
+Your cap table is not your only balance sheet.
 
-Not the company. Not the team. The patents.
+Qualcomm earns $5B+ a year in licensing royalties. Same patents. Zero new product shipped.
 
-This is the third IP-only acquisition in 90 days. OSR Holdings did the same with VXM01 at $30M.
+IBM pulled in over $1B a year from licensing for two decades straight.
 
-Pattern, not noise.
+Founders raise at 10x ARR and let their IP sit at 0x on the books.
 
-Median IP-only M&A multiples in deep-tech sit at 6-9x forward royalty stream. In AI-adjacent optics, premiums are running 12-15x.
+A patent is not a defense cost.
 
-Founders still ledger patents at cost. Acquirers ledger them at the cash flow they unlock.
+It is a revenue line you have not switched on yet.
 
-If your patent file is undervalued, your exit is too.
+The companies that win the next cycle treat IP like a P&L, not a folder.
 
-#AIInfrastructure #IPAcquisition #DeepTech
+#PatentValuation #FounderEquity #IPStrategy
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-06-01T18:36:37.356Z
-share_urn: urn:li:share:7467282976511250432
-hook_format: listicle
-cta_goal: follows
-slug: ai-for-patents-funding-wave-2026
-keyword: AI patent software funding
-numbers_check: $115M+, $200B+, 10x
-image_direction: four deal tiles stacked, market-size callout, capital-inflow motif
-headline: $115M raised in 90 days<br>for patent software
-metric_1: $115M+
-label_1: RAISED ACROSS<br>4 STARTUPS
-metric_2: $200B+
-label_2: PATENT INDUSTRY<br>TAM
-metric_3: 10x
-label_3: REVENUE GROWTH<br>(SOLVE)
+status: pending
+hook_format: story
+cta_goal: clicks
+slug: skipped-patents-cost-6m-series-b
+keyword: patent strategy fundraising diligence
+numbers_check: $30M, 4, 0, 20%, $6M
+image_direction: term sheet with red haircut line, single stark number, dark
+headline: He skipped patents.<br>It cost him $6M at Series B.
+metric_1: 20%
+label_1: VALUATION<br>HAIRCUT
+metric_2: $6M
+label_2: VALUE<br>LOST
+metric_3: 0
+label_3: PATENTS<br>FILED
 
-Four AI-for-patents startups raised $115M+ in 90 days.
+A founder I know raised a $30M Series B last year.
 
-Solve Intelligence: $40M Series B, $55M total, 10x revenue.
-DeepIP: $25M Series B.
-Patlytics: $40M Series B.
-Stilta: $10.5M seed, led by a16z.
+Diligence flagged one thing: 4 core features, 0 patents filed.
 
-The patent industry is $200B+ and still runs on Word docs.
+A competitor had quietly filed first. The round closed 20% below the term sheet.
 
-Capital isn't betting on lawsuits. It's betting that IP workflows are the next vertical SaaS land grab.
+$6M gone. Not from the product. From the paperwork he kept pushing to next quarter.
 
-When a16z and YC underwrite the same thesis in one quarter, that's not a trend. It's a repricing.
+Patents are cheap before traction.
 
-Founders sitting on raw patent files are sitting on the input these tools monetise.
+They are priceless after.
 
-#PatentTech #AIforIP #VentureCapital
+File before you are worth filing against. We map exactly which 3 to file first.
+
+#Fundraising #PatentStrategy #StartupAdvice
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-06-01T20:50:07.672Z
-share_urn: urn:li:share:7467316574631206912
+status: pending
 hook_format: prediction
-cta_goal: DMs
-slug: solve-intelligence-harvey-for-patents-2026
-keyword: AI copilot patent law
-numbers_check: $40M, 10x, $200B+
-image_direction: category-emergence motif, revenue-jump tile, TAM callout
-headline: "Harvey for patents"<br>is now a category
-metric_1: $40M
-label_1: SERIES B<br>RAISED
+cta_goal: clicks
+slug: every-patent-has-ai-by-2030
+keyword: AI patents future of work
+numbers_check: 2030, 10x, $25M, $200B, 40
+image_direction: timeline to 2030, billable-hour model crossed out, dark glass
+headline: By 2030, every patent<br>has AI in the loop.
+metric_1: $200B
+label_1: PATENT<br>INDUSTRY
 metric_2: 10x
-label_2: REVENUE<br>GROWTH
-metric_3: $200B+
-label_3: PATENT INDUSTRY<br>TAM
+label_2: SOLVE REV<br>GROWTH
+metric_3: 2030
+label_3: BILLABLE-HOUR<br>END DATE
 
-Prediction: "Harvey for patents" becomes a category, not a company.
+By 2030, no serious patent gets filed without AI in the loop.
 
-Solve Intelligence just raised a $40M Series B on a 10x revenue jump, backed by YC and 20VC, to build a Copilot for IP law.
+Solve Intelligence grew revenue 10x in a single year proving it.
 
-The wedge: drafting and prosecuting claims in a $200B+ industry that still bills by the hour.
+DeepIP raised $25M to embed AI across the entire patent lifecycle.
 
-Here's what most miss.
+The $200B patent industry ran on billable hours for 40 years.
 
-The winner won't own the best drafting tool. It'll own the data — every claim, office action and citation it touches.
+That model is finished.
 
-Workflow software that captures proprietary IP data compounds into a moat incumbents can't buy back.
+The founders who treat IP as data, not legal, will own the next decade of valuations.
 
-Watch who controls the corpus, not who has the slickest UI.
+The ones who wait will pay 10x to catch up. Start the audit now.
 
-#IPLaw #LegalTech #AIMoats
+#AIPatents #FutureOfWork #IPStrategy
 
 ---
 
 ## Post 6
-status: published
-published_at: 2026-06-02T11:23:40.045Z
-share_urn: urn:li:share:7467536408006676481
-hook_format: frame-break
-cta_goal: clicks
-slug: fortress-ipvalue-patent-monetization-2026
-keyword: patent monetization acquisition
-numbers_check: $49B, 6-9x, 100%
-image_direction: asset-class reframe, AUM tile, royalty-multiple band
-headline: Patents aren't a cost.<br>They're an annuity.
-metric_1: $49B
-label_1: FORTRESS<br>AUM
-metric_2: 6-9x
-label_2: FORWARD ROYALTY<br>MULTIPLE
-metric_3: 100%
-label_3: IP-ONLY<br>ACQUISITION
+status: pending
+hook_format: listicle
+cta_goal: dm
+slug: 5-ip-mistakes-cutting-valuation
+keyword: IP mistakes startup valuation
+numbers_check: 5, 1, $5B, 30%, 80%
+image_direction: numbered checklist tiles, red X marks, dark BEIP
+headline: 5 IP mistakes that<br>quietly cut your valuation.
+metric_1: 80%
+label_1: OF AI VALUE<br>IS IP
+metric_2: 30%
+label_2: VALUE LOST<br>PER LAWSUIT
+metric_3: 5
+label_3: COSTLY<br>MISTAKES
 
-Reframe: patents aren't legal protection. They're a cash-flow asset institutional capital buys outright.
+5 IP mistakes that quietly cut your valuation:
 
-Fortress Investment Group (~$49B AUM) just acquired IPValue Management Group — a firm that monetises patent portfolios for a living.
+1. Filing patents after launch, not before. A competitor files first.
 
-Not a tech company. A patent cash-flow engine.
+2. No IP assignment from contractors. One gap can kill a deal in diligence.
 
-Litigation funders already underwrite single claims at 6-9x forward royalties. Now asset managers are buying the licensing platforms whole.
+3. Treating trademarks as optional. Brand equity walks out the door.
 
-Founders still say: "IP is a cost centre we file to defend."
+4. No licensing strategy. Qualcomm earns $5B+ a year from exactly this.
 
-Capital says: "IP is an annuity we acquire to harvest."
+5. No freedom-to-operate check. One lawsuit can erase 30% of enterprise value.
 
-One frame builds enterprise value. The other expenses it.
+IP is close to 80% of an AI company's worth.
 
-#PatentStrategy #IPAssets #PrivateEquity
+Audit it like it actually is. Want the full checklist? DM me.
+
+#IPStrategy #PatentStrategy #StartupValuation
