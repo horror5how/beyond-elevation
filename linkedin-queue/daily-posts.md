@@ -3,7 +3,7 @@ date: 2026-06-03
 theme: IP is the asset class founders keep mispricing, and AI just put a number on it.
 generated_at: 2026-06-03T03:01:42Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ This week proved IP is no longer a legal line item, it is a balance-sheet asset 
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-03T12:00:36.063Z
+share_urn: urn:li:share:7467908090034659328
 hook_format: number-led
 cta_goal: follows
 slug: ai-patent-startups-raised-105m
