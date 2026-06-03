@@ -476,3 +476,10 @@ Post 4: hook_too_long(10w)
 2026-06-03 13:18 | li-auto-post | render OK | post #2 | layout=c accent=#d7b086 hash=ffe120232f2fffff minDist=5 attempts=1
 2026-06-03 15:27 | li-auto-post | render OK | post #3 | layout=c accent=#d7b086 hash=fff111310b15ffff minDist=11 attempts=1
 2026-06-03 17:59 | li-auto-post | render OK | post #4 | layout=a accent=#7a8c6e hash=007effffffff2505 minDist=5 attempts=1
+2026-06-03 20:12 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-06-03 20:12 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-06-03 20:12 | li-auto-post | render attempt 3 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-06-03 20:12 | li-auto-post | render attempt 4 | TOO SIMILAR (dist=4 < 5) | trying different variant
+2026-06-03 20:12 | li-auto-post | render attempt 5 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-06-03 20:12 | li-auto-post | render attempt 6 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-06-03 20:12 | li-auto-post | render FAIL | post #5 | exhausted 6 variants | lastDist=2

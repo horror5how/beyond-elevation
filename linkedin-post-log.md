@@ -166,3 +166,4 @@
 2026-06-03 15:27 | urn:li:share:7467960061454225409 | post #3 | patents-are-a-revenue-line | Your cap table is not your only balance sheet.  Qualcomm earns $5B+ a year in li
 2026-06-03 17:53 | urn:li:share:7467996969114980352 | Ericsson earned €2.6B from patent licensing last year.  Nokia earned €1.5B. 
 2026-06-03 17:59 | urn:li:share:7467998297341841408 | post #4 | skipped-patents-cost-6m-series-b | A founder I know raised a $30M Series B last year.  Diligence flagged one thing:
+2026-06-03 20:12 | FAIL | post #5 | image dedup failed (lastDist=2)
