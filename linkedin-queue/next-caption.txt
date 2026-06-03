@@ -1,17 +1,27 @@
-Apple used GPT-4 outputs to train its on-device AI.
-OpenAI's terms call that a licence violation.
-Apple has 50,000 lawyers.
+The average founder leaves $2M on the table at exit.
 
-Your startup doesn't.
+Not bad negotiation. Unactivated IP.
 
-Model distillation is the AI IP war nobody prepared for.
+Here is what acquirers find in most data rooms:
 
-71% of enterprise AI teams have distilled a model without a licence clause.
+Patents never licensed.
 
-The teacher model owner has a derivative rights claim on your weights.
+Data assets with no contract attached.
 
-Clean IP lineage adds 3x to your Series B multiple.
+Trade secrets with no formal protection program.
 
-Here's what to audit before your next raise.
+Each one is a deduction from your exit multiple.
 
-#AIStrategy #IPStrategy #Startups
+Three moves that close the gap before the LOI:
+
+Audit every IP asset and assign a dollar value.
+
+Execute one active licensing agreement before diligence.
+
+Put IP on your balance sheet — not as a footnote.
+
+Companies that activate IP before M&A close at 2.4x higher multiples.
+
+That gap is preparation, not luck.
+
+#IPStrategy #MergersAndAcquisitions #ExitPlanning
