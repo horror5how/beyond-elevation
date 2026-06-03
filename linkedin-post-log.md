@@ -164,3 +164,4 @@
 2026-06-03 12:52 | urn:li:share:7467921052573085696 | PE firms value your IP 30% higher than VCs do.  Most founders learn this at the 
 2026-06-03 13:18 | urn:li:share:7467927735915520002 | post #2 | nyt-ai-theft-wrong-frame | The New York Times just called AI training "theft."  Wrong frame.  It is unprice
 2026-06-03 15:27 | urn:li:share:7467960061454225409 | post #3 | patents-are-a-revenue-line | Your cap table is not your only balance sheet.  Qualcomm earns $5B+ a year in li
+2026-06-03 17:53 | urn:li:share:7467996969114980352 | Ericsson earned €2.6B from patent licensing last year.  Nokia earned €1.5B. 
