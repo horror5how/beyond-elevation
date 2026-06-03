@@ -1,15 +1,19 @@
-PE firms value your IP 30% higher than VCs do.
+Ericsson earned €2.6B from patent licensing last year.
 
-Most founders learn this at the closing table.
+Nokia earned €1.5B.
 
-VCs price IP as optionality. PE models it as recurring cash flow.
+That is 80% of their combined operating profit.
 
-The delta is real: IP-intensive buyouts close at 2.8x revenue. VC-backed exits: 1.9x.
+Not from products. From patents declared essential to 5G standards.
 
-Fix it before you run a process.
+Three things about standard essential patents most founders miss:
 
-Royalty floors. Holdco separation. Licensing schedules.
+1. Every manufacturer in the standard MUST license. No opt-out.
+2. FRAND terms force royalties to flow whether you are selling or not.
+3. One SEP compounds for up to 20 years as the standard spreads.
 
-3 moves. 6-month window. Close the gap before an acquirer prices it for you.
+You do not need to be Ericsson.
 
-#IPStrategy #MergersAndAcquisitions #ExitMultiples
+A single SEP position in IoT or AI chips rewrites your exit multiple.
+
+#IPStrategy #Licensing #Patents
