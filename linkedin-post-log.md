@@ -172,3 +172,4 @@
 2026-06-04 11:57 | FAIL | post #1 | image dedup failed (lastDist=2)
 2026-06-04 12:54 | urn:li:share:7468283984981102593 | AI inference costs fell 10x in 18 months.  The model is no longer the moat.  Whe
 2026-06-04 13:57 | FAIL | post #1 | image dedup failed (lastDist=2)
+2026-06-04 17:51 | urn:li:share:7468358903597170691 | Your last equity round cost you 20% ownership.  Patent royalty financing costs 6
