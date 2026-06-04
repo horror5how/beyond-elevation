@@ -168,3 +168,4 @@
 2026-06-03 17:59 | urn:li:share:7467998297341841408 | post #4 | skipped-patents-cost-6m-series-b | A founder I know raised a $30M Series B last year.  Diligence flagged one thing:
 2026-06-03 20:12 | FAIL | post #5 | image dedup failed (lastDist=2)
 2026-06-04 07:52 | urn:li:share:7468207956065591297 | Patent portfolios worth $2B+ went to distressed auction in 2025.  Smart acquirer
+2026-06-04 10:42 | FAIL | post #1 | image dedup failed (lastDist=2)
