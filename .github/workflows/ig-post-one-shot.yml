@@ -21,16 +21,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Post carousel to Instagram
-        env:
-          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          INSTAGRAM_BUSINESS_ID: ${{ secrets.INSTAGRAM_BUSINESS_ID }}
-          ASSET_SLUG: ${{ inputs.slug }}
-          HOOK: ${{ inputs.hook }}
+      - name: Write post script
         run: |
-          python3 << 'PYEOF'
-          import json, os, time, urllib.request, urllib.parse
-
+          cat > /tmp/post_ig.py << 'EOF'
+          import json, os, time, urllib.request, urllib.parse, sys
           IG_ID   = os.environ["INSTAGRAM_BUSINESS_ID"]
           TOKEN   = os.environ["INSTAGRAM_ACCESS_TOKEN"]
           SLUG    = os.environ["ASSET_SLUG"]
@@ -39,29 +33,28 @@ jobs:
           BASE    = f"https://graph.facebook.com/{VERSION}"
           CDN     = f"https://beyondelevation.com/assets/ig-cloud/{SLUG}"
           SLIDES  = [f"{CDN}/slide_{i}.jpg" for i in range(1, 6)]
-
-          CAPTION = """Your intuition is a dataset AI lacks.
-
-Every 'learn to prompt' tutorial tells you to adapt to the machine. Nobody tells you the machine cannot adapt to you.
-
-Your gut isn't a feeling. It's 10,000 real decisions — bad bosses survived, pivots called early, rooms read in seconds — compressed into instant judgment. That data doesn't exist in any training corpus on earth.
-
-The fractional operators commanding premium rates aren't selling hours. They're selling reads. The moment in a boardroom when everyone else sees the spreadsheet and they see the trap.
-
-Log the calls you've gotten right. Name the pattern. That's your offer.
-
-#FractionalWork #HumanEdge #FutureOfWork"""
-
-          def api_post(endpoint, params):
+          CAPTION = (
+              "Your intuition is a dataset AI lacks.\n\n"
+              "Every 'learn to prompt' tutorial tells you to adapt to the machine. "
+              "Nobody tells you the machine cannot adapt to you.\n\n"
+              "Your gut isn't a feeling. It's 10,000 real decisions - bad bosses survived, "
+              "pivots called early, rooms read in seconds - compressed into instant judgment. "
+              "That data doesn't exist in any training corpus on earth.\n\n"
+              "The fractional operators commanding premium rates aren't selling hours. "
+              "They're selling reads. The moment in a boardroom when everyone else sees "
+              "the spreadsheet and they see the trap.\n\n"
+              "Log the calls you've gotten right. Name the pattern. That's your offer.\n\n"
+              "#FractionalWork #HumanEdge #FutureOfWork"
+          )
+          def api_post(ep, params):
               data = urllib.parse.urlencode(params).encode()
-              req = urllib.request.Request(f"{BASE}{endpoint}", data=data, method="POST")
+              req  = urllib.request.Request(f"{BASE}{ep}", data=data, method="POST")
               try:
                   return json.loads(urllib.request.urlopen(req, timeout=60).read())
               except urllib.error.HTTPError as e:
                   return {"error": e.read().decode()[:500]}
               except Exception as e:
                   return {"error": str(e)}
-
           def api_get(url):
               try:
                   return json.loads(urllib.request.urlopen(url, timeout=30).read())
@@ -69,86 +62,56 @@ Log the calls you've gotten right. Name the pattern. That's your offer.
                   return {"error": e.read().decode()[:500]}
               except Exception as e:
                   return {"error": str(e)}
-
-          print(f"[ig] Posting carousel: {HOOK}")
-          print(f"[ig] Slides: {SLIDES}")
-
-          # 1. Create child containers
+          print(f"Posting: {HOOK}")
           child_ids = []
           for i, url in enumerate(SLIDES, 1):
-              print(f"  Creating child {i}: {url}")
-              r = api_post(f"/{IG_ID}/media", {
-                  "image_url": url,
-                  "is_carousel_item": "true",
-                  "is_aigc": "true",
-                  "alt_text": f"Carousel slide {i}: {HOOK}",
-                  "access_token": TOKEN,
-              })
-              print(f"    response: {r}")
+              print(f"  child {i}: {url}")
+              r = api_post(f"/{IG_ID}/media", {"image_url": url, "is_carousel_item": "true",
+                  "is_aigc": "true", "alt_text": f"Slide {i}: {HOOK}", "access_token": TOKEN})
+              print(f"    -> {r}")
               if "id" not in r:
-                  raise SystemExit(f"Child {i} failed: {r}")
+                  print(f"FAIL child {i}: {r}", file=sys.stderr); sys.exit(1)
               child_ids.append(r["id"])
               time.sleep(1)
-
-          # 2. Create carousel parent
-          print(f"  Creating carousel container with children: {child_ids}")
-          parent = api_post(f"/{IG_ID}/media", {
-              "media_type": "CAROUSEL",
-              "children": ",".join(child_ids),
-              "caption": CAPTION,
-              "is_aigc": "true",
-              "access_token": TOKEN,
-          })
-          print(f"  Carousel container response: {parent}")
+          parent = api_post(f"/{IG_ID}/media", {"media_type": "CAROUSEL",
+              "children": ",".join(child_ids), "caption": CAPTION,
+              "is_aigc": "true", "access_token": TOKEN})
+          print(f"  carousel: {parent}")
           if "id" not in parent:
-              raise SystemExit(f"Carousel container failed: {parent}")
+              print(f"FAIL carousel: {parent}", file=sys.stderr); sys.exit(1)
           creation_id = parent["id"]
-
-          # 3. Wait for FINISHED status
-          print(f"  Waiting for container {creation_id} to finish processing...")
-          for attempt in range(20):
-              status = api_get(f"{BASE}/{creation_id}?fields=status_code&access_token={TOKEN}")
-              sc = status.get("status_code", "UNKNOWN")
-              print(f"    status_code={sc}")
-              if sc == "FINISHED":
-                  break
-              if sc == "ERROR":
-                  raise SystemExit(f"Container processing error: {status}")
+          for _ in range(20):
+              s = api_get(f"{BASE}/{creation_id}?fields=status_code&access_token={TOKEN}")
+              sc = s.get("status_code","?"); print(f"  status: {sc}")
+              if sc == "FINISHED": break
+              if sc == "ERROR": print(f"FAIL status: {s}", file=sys.stderr); sys.exit(1)
               time.sleep(3)
-
-          # 4. Publish
-          print(f"  Publishing...")
-          pub = api_post(f"/{IG_ID}/media_publish", {
-              "creation_id": creation_id,
-              "access_token": TOKEN,
-          })
-          print(f"  Publish response: {pub}")
+          pub = api_post(f"/{IG_ID}/media_publish", {"creation_id": creation_id, "access_token": TOKEN})
+          print(f"  publish: {pub}")
           if "id" not in pub:
-              raise SystemExit(f"Publish failed: {pub}")
-
+              print(f"FAIL publish: {pub}", file=sys.stderr); sys.exit(1)
           media_id = pub["id"]
-          print(f"\n✓ SUCCESS: media_id={media_id}")
-          print(f"  https://www.instagram.com/p/{media_id}/")
+          print(f"SUCCESS media_id={media_id}")
+          with open("/tmp/ig_result.txt", "w") as f:
+              f.write(media_id)
+          EOF
 
-          # Write result to file for next step
-          with open("/tmp/ig_result.json", "w") as f:
-              json.dump({"media_id": media_id, "hook": HOOK, "slug": SLUG}, f)
-          PYEOF
-
-      - name: Persist to posted log
-        if: success()
+      - name: Post carousel to Instagram
         env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_BUSINESS_ID: ${{ secrets.INSTAGRAM_BUSINESS_ID }}
           ASSET_SLUG: ${{ inputs.slug }}
+          HOOK: ${{ inputs.hook }}
+        run: python3 /tmp/post_ig.py
+
+      - name: Persist result
+        if: success()
         run: |
-          MEDIA_ID=$(python3 -c "import json; print(json.load(open('/tmp/ig_result.json'))['media_id'])")
-          HOOK=$(python3 -c "import json; print(json.load(open('/tmp/ig_result.json'))['hook'])")
-          SLUG="${ASSET_SLUG}"
+          MEDIA_ID=$(cat /tmp/ig_result.txt)
           TS=$(date -u +%Y-%m-%dT%H:%M:%SZ)
-          LOG_ENTRY="{\"ts\": \"$TS\", \"idx\": \"${SLUG}\", \"theme\": \"human_edge\", \"hook\": \"$HOOK\", \"ig_format\": \"carousel\", \"result\": {\"media_id\": \"$MEDIA_ID\"}, \"tiktok\": {\"posted\": false, \"skipped\": true}}"
-          echo "media_id=$MEDIA_ID"
-          echo "$LOG_ENTRY" >> ig-post-log.jsonl
+          echo "{\"ts\": \"$TS\", \"slug\": \"${{ inputs.slug }}\", \"theme\": \"human_edge\", \"hook\": \"${{ inputs.hook }}\", \"media_id\": \"$MEDIA_ID\"}" >> ig-post-log.jsonl
           git config user.email "hayat@beyondelevation.com"
           git config user.name "Hayat Amin"
           git add ig-post-log.jsonl
-          git commit -m "chore(ig): posted carousel $SLUG media_id=$MEDIA_ID" || true
+          git commit -m "chore(ig): carousel posted media_id=$MEDIA_ID" || true
           git push || true
