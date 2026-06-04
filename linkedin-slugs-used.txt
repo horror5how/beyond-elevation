@@ -264,3 +264,4 @@ nyt-ai-theft-wrong-frame
 patents-are-a-revenue-line
 standard-essential-patent-licensing-income-2026
 skipped-patents-cost-6m-series-b
+distressed-ip-portfolio-acquisition-2026
