@@ -1,19 +1,17 @@
-Patent portfolios worth $2B+ went to distressed auction in 2025.
+AI inference costs fell 10x in 18 months.
 
-Smart acquirers paid 20 cents on the dollar.
+The model is no longer the moat.
 
-Most founders do not know this market exists.
+When compute is free, whoever controls the training data wins.
 
-Three signals a deal is worth chasing:
+3 data assets now commanding premium licensing deals:
 
-Seller is winding down — price floors collapse.
+Proprietary datasets locked in closed systems.
 
-Patents still cover active product categories — royalties activate within 12 months.
+Synthetic data trained on real-world outcomes.
 
-10+ granted claims in the portfolio — enough mass for a licensing campaign.
+Behavioural exhaust that only you have captured.
 
-Qualcomm, InterDigital, and Acacia built empires this way.
+Exclusive data licensing agreements command 3x the exit multiple.
 
-You do not need billions. You need a deal sourcer and a licensee list.
-
-#IPStrategy #PatentLicensing #IPMonetisation
+#AIStrategy #DataMonetisation #IPStrategy
