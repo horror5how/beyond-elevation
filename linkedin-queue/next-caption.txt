@@ -1,11 +1,17 @@
-Your patent takes 2.7 years to grant.
+AI startups trade at 10-50x revenue in 2026.
 
-Most founders earn $0 in licensing revenue during that window.
+VCs use 4 factors to decide which end of that range you're on.
 
-Pending patents can still be licensed.
+Data moat. Novel architecture. Workflow depth. Domain specialisation.
 
-The agreement converts on grant. Revenue starts on signature.
+Miss 3 of 4: you're at 10x.
 
-Three years of compounding royalties — most founders don't know they can collect them.
+Hit all 4: you're at 50x.
 
-#Patents #IPStrategy #Licensing
+The factor most founders skip: IP defensibility adds a 15-20% valuation premium over peers.
+
+Defensibility now outweighs growth rate in most VC scoring frameworks.
+
+Most founders pitch capabilities. VCs score moats.
+
+#AIValuation #IPStrategy #VentureCapital
