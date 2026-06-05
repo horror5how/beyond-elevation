@@ -2604,3 +2604,23 @@ Yes — by a wide margin. Companies with registered intellectual property show a
 The implication is structural. Lenders lose less money on borrowers who own patents. When lenders lose less money, they charge less interest. When they charge less interest, founders keep more equit
 
 ---
+
+## How Much of an AI Startup's Value Comes From Proprietary Data? The 5x Gap That Doubles Your Multiple
+
+URL: https://beyondelevation.com/blog/posts/ai-startup-proprietary-data-value-gap/
+
+The gap between AI startups that command premium multiples and those that get commodity pricing comes down to one asset: proprietary data.
+
+How much of an AI startup’s value comes from proprietary data? Top performers earn 11% of revenue from data assets. The rest earn 2%. That 5x gap shows up directly in valuation multiples — the difference between a 15x round and a 30x round.
+
+Hayat Amin argues that proprietary data is the most underpriced asset on most AI founders’ cap tables. “Founders spend months pitching their model architecture,” Amin says. “Investors spend minutes on the model and hours on the data. The data is the moat. Everything else is a feature.”
+
+FE International, Lucid, and ValuStrat all confirmed in 2026 that proprietary data is now the second-highest weighted valuation factor for AI companies — behind only revenue growth, and ahead of model performance, team composition, and market size.
+
+## How Much of an AI Startup’s Value Actually Comes From Proprietary Data?
+
+Between 25% and 40% of an AI startup’s total enterprise value is attributable to proprietary data, based on 2026 valuations tracked across seed-to-Series B AI companies. That figure rises to 50%+ for vertical AI companies with domain-specific datasets that cannot be replicated from public sources.
+
+The math works like this. Intangibles account for 70–80% of a typical AI startup’s value. Within that intangible bucket, proprietary data sits behind only core model IP — and in some cases, ahead of it. A
+
+---
