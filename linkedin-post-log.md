@@ -175,3 +175,4 @@
 2026-06-04 17:51 | urn:li:share:7468358903597170691 | Your last equity round cost you 20% ownership.  Patent royalty financing costs 6
 2026-06-04 19:12 | FAIL | post #1 | image dedup failed (lastDist=2)
 2026-06-05 07:54 | QUEUED | patent-pendency-licensing-revenue-2026 | Your patent takes 2.7 years to grant.  Most founders earn $0 in licensing revenu
+2026-06-05 07:55 | urn:li:share:7468571121236340736 | Your patent takes 2.7 years to grant.  Most founders earn $0 in licensing revenu
