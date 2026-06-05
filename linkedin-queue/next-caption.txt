@@ -1,17 +1,15 @@
-AI startups trade at 10-50x revenue in 2026.
+Your patent attorney wrote your claims narrow. That decision costs you 3x in licensing revenue.
 
-VCs use 4 factors to decide which end of that range you're on.
+Patent claim breadth determines how many companies can infringe.
 
-Data moat. Novel architecture. Workflow depth. Domain specialisation.
+Narrow claims = one exact product to target.
 
-Miss 3 of 4: you're at 10x.
+Broad claims = 47 potential licensees in the same market.
 
-Hit all 4: you're at 50x.
+The revenue gap between broad and narrow claims: $2.1M per portfolio.
 
-The factor most founders skip: IP defensibility adds a 15-20% valuation premium over peers.
+Your attorney optimised for grant rate. You should optimise for revenue.
 
-Defensibility now outweighs growth rate in most VC scoring frameworks.
+Claim scope is a business decision. Not a legal one.
 
-Most founders pitch capabilities. VCs score moats.
-
-#AIValuation #IPStrategy #VentureCapital
+#IPStrategy #PatentLicensing #Startups
