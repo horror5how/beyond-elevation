@@ -543,3 +543,10 @@ Post 4: hook_too_long(10w)
 2026-06-05 15:51 | li-auto-post | render attempt 5 | TOO SIMILAR (dist=2 < 5) | trying different variant
 2026-06-05 15:51 | li-auto-post | render attempt 6 | TOO SIMILAR (dist=2 < 5) | trying different variant
 2026-06-05 15:51 | li-auto-post | render FAIL | post #1 | exhausted 6 variants | lastDist=2
+2026-06-05 18:53 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-06-05 18:53 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-06-05 18:53 | li-auto-post | render attempt 3 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-06-05 18:53 | li-auto-post | render attempt 4 | TOO SIMILAR (dist=4 < 5) | trying different variant
+2026-06-05 18:53 | li-auto-post | render attempt 5 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-06-05 18:53 | li-auto-post | render attempt 6 | TOO SIMILAR (dist=2 < 5) | trying different variant
+2026-06-05 18:53 | li-auto-post | render FAIL | post #1 | exhausted 6 variants | lastDist=2
