@@ -267,3 +267,4 @@ skipped-patents-cost-6m-series-b
 distressed-ip-portfolio-acquisition-2026
 inference-cost-parity-data-ip-moat-2026
 royalty-financing-vs-equity-2026
+patent-pendency-licensing-revenue-2026
