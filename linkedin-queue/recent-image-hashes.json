@@ -1,12 +1,5 @@
 [
   {
-    "hash": "ffe120232f2fffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "nyt-ai-theft-wrong-frame",
-    "ts": "2026-06-03T13:18:39.920Z"
-  },
-  {
     "hash": "fff111310b15ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ip-runs-47-percent-of-europe-economy",
     "ts": "2026-06-06T12:04:59.040Z"
+  },
+  {
+    "hash": "fff0b00037f5ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "a-tariff-can-erase-a-drug-patent",
+    "ts": "2026-06-06T14:28:24.552Z"
   }
 ]

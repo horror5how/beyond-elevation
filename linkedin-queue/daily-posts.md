@@ -3,7 +3,7 @@ date: 2026-06-06
 theme: IP stopped being a legal expense the day AI put a market price on data, patents, and licensing income.
 generated_at: 2026-06-06T10:29:32Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -164,7 +164,9 @@ Follow for the founder version.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-06T14:28:24.552Z
+share_urn: urn:li:share:7469032451059916801
 hook_format: frame-break
 cta_goal: clicks
 slug: a-tariff-can-erase-a-drug-patent
