@@ -183,3 +183,4 @@
 2026-06-05 15:51 | FAIL | post #1 | image dedup failed (lastDist=2)
 2026-06-05 17:51 | urn:li:share:7468721281912344577 | Your patent attorney wrote your claims narrow. That decision costs you 3x in lic
 2026-06-05 18:53 | FAIL | post #1 | image dedup failed (lastDist=2)
+2026-06-06 07:52 | urn:li:share:7468932898570612736 | Companies with patents default on loans 38% less than those without.  Banks don'
