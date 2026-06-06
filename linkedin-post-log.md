@@ -190,3 +190,4 @@
 2026-06-06 12:04 | urn:li:share:7468996357270343680 | post #4 | ip-runs-47-percent-of-europe-economy | 47 percent.  That is how much of Europe's GDP comes from IP intensive industries
 2026-06-06 12:52 | urn:li:share:7469008381882822656 | Your fractional CFO is missing the biggest asset on your balance sheet.  Patents
 2026-06-06 14:28 | urn:li:share:7469032451059916801 | post #5 | a-tariff-can-erase-a-drug-patent | A patent is only worth what you can defend and monetize. Policy can wipe out bot
+2026-06-06 17:53 | QUEUED | pe-ip-discount-ai-acquisition-2026 | PE acquirers apply a 35-45% valuation haircut to AI companies with undocumented IP.
