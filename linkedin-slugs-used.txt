@@ -271,3 +271,4 @@ patent-pendency-licensing-revenue-2026
 vc-4-factor-ai-valuation-2026
 patent-claim-breadth-licensing-revenue-2026
 patents-lower-default-risk-2026
+every-patent-has-ai-by-2030

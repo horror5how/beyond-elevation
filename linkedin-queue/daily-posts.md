@@ -3,7 +3,7 @@ date: 2026-06-06
 theme: IP stopped being a legal expense the day AI put a market price on data, patents, and licensing income.
 generated_at: 2026-06-06T10:29:32Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ The signals all point one way: intellectual property is now priced like the asse
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-06T10:30:50Z
+share_urn: urn:li:share:7468972663642812417
 hook_format: prediction
 cta_goal: clicks
 slug: every-patent-has-ai-by-2030

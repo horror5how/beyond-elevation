@@ -1,12 +1,5 @@
 [
   {
-    "hash": "81ffffffffff0022",
-    "layout": "a",
-    "accent": "#d7b086",
-    "slug": "ai-for-patents-funding-wave-2026",
-    "ts": "2026-06-01T18:36:37.356Z"
-  },
-  {
     "hash": "007effffffff0000",
     "layout": "a",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "skipped-patents-cost-6m-series-b",
     "ts": "2026-06-03T17:59:03.119Z"
+  },
+  {
+    "hash": "fff010701775ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "every-patent-has-ai-by-2030",
+    "ts": "2026-06-06T10:30:50Z"
   }
 ]
