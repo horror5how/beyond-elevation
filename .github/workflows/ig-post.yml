@@ -11,28 +11,47 @@ on:
         required: true
         type: string
       ig_token:
-        description: 'Instagram access token'
-        required: true
+        description: 'Instagram access token (leave blank to use ACTIVE_IG_TOKEN secret)'
+        required: false
         type: string
+        default: ''
       ig_user_id:
-        description: 'Instagram user ID'
-        required: true
+        description: 'Instagram user ID (leave blank to use ACTIVE_IG_BUSINESS_ID secret)'
+        required: false
         type: string
+        default: ''
 
 jobs:
   post:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: Mask token
-        run: echo "::add-mask::${{ inputs.ig_token }}"
+      - name: Resolve credentials
+        id: creds
+        run: |
+          TOKEN="${{ inputs.ig_token }}"
+          USER_ID="${{ inputs.ig_user_id }}"
+          if [ -z "$TOKEN" ]; then
+            TOKEN="${{ secrets.ACTIVE_IG_TOKEN }}"
+          fi
+          if [ -z "$USER_ID" ]; then
+            USER_ID="${{ secrets.ACTIVE_IG_BUSINESS_ID }}"
+          fi
+          if [ -z "$TOKEN" ] || [ -z "$USER_ID" ]; then
+            echo "ERROR: No IG credentials found in inputs or secrets"
+            exit 1
+          fi
+          echo "::add-mask::$TOKEN"
+          echo "ig_token=$TOKEN" >> $GITHUB_OUTPUT
+          echo "ig_user_id=$USER_ID" >> $GITHUB_OUTPUT
+          echo "Credentials resolved: user_id=${USER_ID}"
 
       - name: Post carousel to Instagram
         env:
           SLIDE_URLS: ${{ inputs.slide_urls }}
           CAPTION_B64: ${{ inputs.caption_b64 }}
-          IG_TOKEN: ${{ inputs.ig_token }}
-          IG_USER_ID: ${{ inputs.ig_user_id }}
+          IG_TOKEN: ${{ steps.creds.outputs.ig_token }}
+          IG_USER_ID: ${{ steps.creds.outputs.ig_user_id }}
         run: |
           python3 << 'PYEOF'
           import os, json, time, base64
