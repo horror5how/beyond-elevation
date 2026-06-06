@@ -190,5 +190,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Acquirers Pay 2-4x Premiums for AI Startups They Cannot Build in 5 Years — The 4 Capabilities That Trigger a Bidding War](https://beyondelevation.com/blog/posts/acquirer-premium-multiples-ai-startups/) — /blog/md/acquirer-premium-multiples-ai-startups.md
 - [The 4-Factor Model VCs Use to Value AI Startups in 2026 — Where Defensibility Now Outweighs Growth Rate](https://beyondelevation.com/blog/posts/4-factor-vc-model-ai-startup-valuation/) — /blog/md/4-factor-vc-model-ai-startup-valuation.md
 - [70-80% of Your AI Startup’s Value Is Unpatented Know-How — Here Is How to Put a Defensible Number on It Before You Raise](https://beyondelevation.com/blog/posts/valuing-unpatented-ai-know-how/) — /blog/md/valuing-unpatented-ai-know-how.md
+- [Fractional IP Counsel Explained: The 3 Engagement Models (Hourly, Retainer, Embedded) and Which One Saves You $300K in Year One](https://beyondelevation.com/blog/posts/fractional-ip-counsel-explained/) — /blog/md/fractional-ip-counsel-explained.md
 
 > Full blog content available at /llms-full.txt
