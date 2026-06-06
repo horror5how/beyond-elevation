@@ -188,3 +188,4 @@
 2026-06-06 10:34 | urn:li:share:7468973465795203072 | post #2 | 5-ip-mistakes-cutting-valuation | 5 IP mistakes that quietly cut your valuation:  1. Filing patents after launch, 
 2026-06-06 10:54 | urn:li:share:7468978706296893440 | post #3 | your-training-data-is-a-licensing-line | Most founders give their data away for free. The smart ones bill for it.  News C
 2026-06-06 12:04 | urn:li:share:7468996357270343680 | post #4 | ip-runs-47-percent-of-europe-economy | 47 percent.  That is how much of Europe's GDP comes from IP intensive industries
+2026-06-06 12:52 | urn:li:share:7469008381882822656 | Your fractional CFO is missing the biggest asset on your balance sheet.  Patents
