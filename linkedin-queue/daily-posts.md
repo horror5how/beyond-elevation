@@ -3,7 +3,7 @@ date: 2026-06-06
 theme: IP stopped being a legal expense the day AI put a market price on data, patents, and licensing income.
 generated_at: 2026-06-06T10:29:32Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -56,7 +56,9 @@ The ones who wait will pay 10x to catch up. Start the audit now.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-06T10:34:01.307Z
+share_urn: urn:li:share:7468973465795203072
 hook_format: listicle
 cta_goal: dm
 slug: 5-ip-mistakes-cutting-valuation
