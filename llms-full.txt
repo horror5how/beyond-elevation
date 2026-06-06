@@ -2660,3 +2660,19 @@ Each factor carries a weight — and in 2026, the weighting shifted. Defensibili
 Beyond Elevation applies a modified version of this 4-factor model in every AI valuation engagement, adding a diagnostic layer — [Hayat Amin's IP Defensib
 
 ---
+
+## 70-80% of Your AI Startup’s Value Is Unpatented Know-How — Here Is How to Put a Defensible Number on It Before You Raise
+
+URL: https://beyondelevation.com/blog/posts/valuing-unpatented-ai-know-how/
+
+Unpatented know-how represents 70-80% of the enterprise value of a typical AI startup. Training recipes, data curation pipelines, hyperparameter configurations, evaluation benchmarks — these assets drive model performance but appear on zero balance sheets. Hayat Amin argues that the fastest way to kill a fundraise is walking into a pitch with millions in AI know-how and zero documentation of what it is worth. Founders who cannot quantify their unpatented IP hand investors a reason to discount it to zero. Here is how to stop leaving that value on the table.
+
+## What Counts as Unpatented AI Know-How?
+
+Unpatented AI know-how is the proprietary operational intelligence that makes your model work but does not appear in any patent filing — training recipes, data preprocessing pipelines, hyperparameter configurations, fine-tuning methodologies, evaluation benchmarks, and deployment optimizations that collectively determine model performance.
+
+These assets qualify as trade secrets under the Defend Trade Secrets Act and the EU Trade Secrets Directive, provided you take reasonable steps to keep them confidential. The legal protection exists. The valuation problem does not.
+
+A patent has a filing date, a prosecution history, and a claim scope. Investors can price it. A trade secret has none of those artefacts. Without a structured valuation, your know-how sits in a legal category but not in a financial one — and [know-how that is not financially documented is know-how that investors ign
+
+---

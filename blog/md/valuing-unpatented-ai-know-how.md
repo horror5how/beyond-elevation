@@ -1,13 +1,13 @@
 ---
-title: "70-80% of Your AI Startup's Value Is Unpatented Know-How — Here Is How to Put a Defensible Number on It Before You Raise"
+title: "70-80% of Your AI Startup’s Value Is Unpatented Know-How — Here Is How to Put a Defensible Number on It Before You Raise"
 slug: valuing-unpatented-ai-know-how
 date: 2026-06-06
-url: https://beyondelevation.com/blog/post.html?slug=valuing-unpatented-ai-know-how
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/valuing-unpatented-ai-know-how/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
-# 70-80% of Your AI Startup's Value Is Unpatented Know-How — Here Is How to Put a Defensible Number on It Before You Raise
+# 70-80% of Your AI Startup’s Value Is Unpatented Know-How — Here Is How to Put a Defensible Number on It Before You Raise
 
 Unpatented know-how represents 70-80% of the enterprise value of a typical AI startup. Training recipes, data curation pipelines, hyperparameter configurations, evaluation benchmarks — these assets drive model performance but appear on zero balance sheets. Hayat Amin argues that the fastest way to kill a fundraise is walking into a pitch with millions in AI know-how and zero documentation of what it is worth. Founders who cannot quantify their unpatented IP hand investors a reason to discount it to zero. Here is how to stop leaving that value on the table.
 
@@ -79,6 +79,20 @@ Hayat Amin showed the founder how to present unpatented know-how as a structured
 
 [Book a valuation consultation with Beyond Elevation](https://beyondelevation.com) to quantify your unpatented know-how before your next raise.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-valuing-unpatented-ai-know-how)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can unpatented know-how be valued for fundraising?
@@ -100,3 +114,6 @@ In most cases, AI operational know-how — training recipes, hyperparameter conf
 ### How does Beyond Elevation value unpatented AI know-how?
 
 Beyond Elevation uses Hayat Amin's Unpatented IP Valuation Method, a three-method framework (cost-to-recreate, income contribution, comparable transaction) calibrated against 40+ AI company engagements. The output is an investor-ready valuation memo that documents know-how assets, quantifies their value, and maps them to the defensibility metrics VCs already use to price AI startups.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
