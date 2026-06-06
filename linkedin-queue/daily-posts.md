@@ -1,7 +1,7 @@
 ---
-date: 2026-06-04
+date: 2026-06-06
 theme: IP stopped being a legal expense the day AI put a market price on data, patents, and licensing income.
-generated_at: 2026-06-04T03:05:00Z
+generated_at: 2026-06-06T10:29:32Z
 posts_total: 6
 posts_published: 0
 ---

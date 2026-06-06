@@ -277,6 +277,11 @@ await page.setViewportSize({ width: 1000, height: 1000 });
 let imgBytes;
 let chosen = null;
 let lastDist = null;
+// Best-effort fallback: remember the most-distinct variant tried so we can
+// still publish if none clears the dedup threshold (never block the queue).
+let bestBytes = null;
+let bestChosen = null;
+let bestDist = -1;
 const triedLayouts = new Set();
 
 for (let attempt = 1; attempt <= MAX_RENDER_ATTEMPTS; attempt++) {
@@ -310,15 +315,30 @@ for (let attempt = 1; attempt <= MAX_RENDER_ATTEMPTS; attempt++) {
     pipeLog(`render OK | post #${pending.num} | layout=${variant.layout} accent=${variant.accent.hex} hash=${hash} minDist=${minDist} attempts=${attempt}`);
     break;
   }
+  // Keep the most-distinct variant as a fallback so we never block the queue.
+  if (minDist > bestDist) {
+    bestDist   = minDist;
+    bestBytes  = bytes;
+    bestChosen = { ...variant, hash, dist: minDist, attempt };
+  }
   pipeLog(`render attempt ${attempt} | TOO SIMILAR (dist=${minDist} < ${PHASH_THRESHOLD}) | trying different variant`);
 }
 
 await browser.close();
 
+if ((!imgBytes || !chosen) && bestBytes && bestChosen) {
+  // No variant cleared the dedup threshold, but blocking the queue is worse
+  // than a slightly-similar image. Publish the most-distinct variant tried.
+  imgBytes = bestBytes;
+  chosen   = bestChosen;
+  pipeLog(`render FALLBACK | post #${pending.num} | best variant layout=${chosen.layout} accent=${chosen.accent.hex} hash=${chosen.hash} minDist=${chosen.dist} (threshold ${PHASH_THRESHOLD} not met)`);
+  appendLog(`${stamp()} | WARN | post #${pending.num} | dedup threshold not met, published best variant (dist=${chosen.dist})`);
+}
+
 if (!imgBytes || !chosen) {
   pipeLog(`render FAIL | post #${pending.num} | exhausted ${MAX_RENDER_ATTEMPTS} variants | lastDist=${lastDist}`);
-  appendLog(`${stamp()} | FAIL | post #${pending.num} | image dedup failed (lastDist=${lastDist})`);
-  console.error('All variants too similar to recent posts — aborting');
+  appendLog(`${stamp()} | FAIL | post #${pending.num} | image render failed (no usable bytes)`);
+  console.error('No usable image rendered — aborting');
   process.exit(1);
 }
 
