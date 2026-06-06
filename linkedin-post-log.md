@@ -186,3 +186,4 @@
 2026-06-06 07:52 | urn:li:share:7468932898570612736 | Companies with patents default on loans 38% less than those without.  Banks don'
 2026-06-06 09:29 | FAIL | post #1 | image dedup failed (lastDist=2)
 2026-06-06 10:34 | urn:li:share:7468973465795203072 | post #2 | 5-ip-mistakes-cutting-valuation | 5 IP mistakes that quietly cut your valuation:  1. Filing patents after launch, 
+2026-06-06 10:54 | urn:li:share:7468978706296893440 | post #3 | your-training-data-is-a-licensing-line | Most founders give their data away for free. The smart ones bill for it.  News C

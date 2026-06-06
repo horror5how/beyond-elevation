@@ -273,3 +273,4 @@ patent-claim-breadth-licensing-revenue-2026
 patents-lower-default-risk-2026
 every-patent-has-ai-by-2030
 5-ip-mistakes-cutting-valuation
+your-training-data-is-a-licensing-line

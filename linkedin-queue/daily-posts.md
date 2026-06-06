@@ -3,7 +3,7 @@ date: 2026-06-06
 theme: IP stopped being a legal expense the day AI put a market price on data, patents, and licensing income.
 generated_at: 2026-06-06T10:29:32Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -94,7 +94,9 @@ Audit it like it actually is. Want the full checklist? DM me.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-06T10:54:50.811Z
+share_urn: urn:li:share:7468978706296893440
 hook_format: contrarian
 cta_goal: follows
 slug: your-training-data-is-a-licensing-line
