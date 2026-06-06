@@ -3,7 +3,7 @@ date: 2026-06-06
 theme: IP stopped being a legal expense the day AI put a market price on data, patents, and licensing income.
 generated_at: 2026-06-06T10:29:32Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -198,7 +198,9 @@ Read the full breakdown on the blog.
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-06-06T17:59:46.256Z
+share_urn: urn:li:share:7469085642107363328
 hook_format: story
 cta_goal: dm
 slug: patent-work-got-a-40m-price-tag
