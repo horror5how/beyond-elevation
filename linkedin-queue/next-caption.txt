@@ -1,21 +1,13 @@
-Your fractional CFO is missing the biggest asset on your balance sheet.
+PE acquirers apply a 35–45% valuation haircut to AI companies with undocumented IP.
 
-Patents sit in legal. Revenue sits in finance. Nobody connects the two.
+Most founders discover this during due diligence. By then, the multiple is set.
 
-That gap costs you 3x in exit value.
+The fix is three things: a clean IP ownership chain, 3+ patent claims filed, and a documented data licensing agreement.
 
-What changes when your CFO owns IP strategy:
+Cost of getting this right before a deal: under $100K in fractional IP strategy.
 
-Royalty income appears on the P&L, not just in the filing cabinet.
+Cost of skipping it: the haircut.
 
-IP gets modeled into your next raise.
+Document before you raise. Not after.
 
-73% of M&A buyers discount IP they can't quantify. Your CFO fixes that.
-
-Companies with structured IP valuation exit at 2.1x the multiple of those without.
-
-Move patents from the attorney's folder to the CFO's model.
-
-That is where the multiple is built.
-
-#IPStrategy #PatentValuation #StartupFinance
+#IPStrategy #MergersAndAcquisitions #ExitPlanning
