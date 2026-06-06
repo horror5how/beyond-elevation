@@ -3,7 +3,7 @@ date: 2026-06-06
 theme: IP stopped being a legal expense the day AI put a market price on data, patents, and licensing income.
 generated_at: 2026-06-06T10:29:32Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -128,7 +128,9 @@ Follow for the licensing playbook.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-06T12:04:59.040Z
+share_urn: urn:li:share:7468996357270343680
 hook_format: number-led
 cta_goal: follows
 slug: ip-runs-47-percent-of-europe-economy

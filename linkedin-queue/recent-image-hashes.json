@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0081ffffc3c3fff9",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "ai-patent-startups-raised-105m",
-    "ts": "2026-06-03T12:00:36.063Z"
-  },
-  {
     "hash": "ffe120232f2fffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "your-training-data-is-a-licensing-line",
     "ts": "2026-06-06T10:54:50.811Z"
+  },
+  {
+    "hash": "81ffffffffff2000",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "ip-runs-47-percent-of-europe-economy",
+    "ts": "2026-06-06T12:04:59.040Z"
   }
 ]
