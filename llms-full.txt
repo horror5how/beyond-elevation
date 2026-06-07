@@ -2710,3 +2710,23 @@ These ranges come from aggregated 2026 data across Qubit Capital, FE Internation
 Here is the
 
 ---
+
+## AI Patent Search in 2026: The 7 Tools That Use LLM Embeddings Instead of Boolean (And Which One Beats PatSnap on Recall)
+
+URL: https://beyondelevation.com/blog/posts/ai-patent-search-tools-2026/
+
+LLM-powered patent search catches 40% more relevant prior art than Boolean. The entire patent search industry shifted in 2026 — and most founders are still running keyword queries from 2019.
+
+Hayat Amin, who runs [AI patent search](/blog/posts/ai-patent-portfolio-strategy/) alongside human review on every Beyond Elevation client engagement, puts it directly: "Boolean patent search is a literacy test. It rewards the searcher who knows the right synonyms, not the founder who has the best invention. AI search flipped that — now the invention description does the work."
+
+Here are the 7 tools doing it, the exact recall and pricing numbers for each, and the one strategic layer none of them automate.
+
+## What Is AI Patent Search?
+
+AI patent search uses large language models and vector embeddings to find relevant patents by meaning, not by keyword match. Instead of constructing Boolean strings with IPC codes and operator logic, AI patent search tools convert your invention description into a vector and retrieve patents with similar semantic content across 150+ million documents in seconds.
+
+The shift matters because traditional Boolean searches miss an estimated 25–40% of relevant prior art. The average patent examiner spends 12–16 hours on a prior art search, and inter-examiner consistency on the same invention sits below 60%. AI patent search narrows that gap by matching concepts, not strings.
+
+This is not a marginal improvement. For founders building [AI companies where the moat i
+
+---
