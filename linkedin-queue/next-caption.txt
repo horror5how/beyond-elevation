@@ -1,18 +1,19 @@
-78% of successful AI patent grants cover training pipelines, not models.
+Most acquirers don't model royalty stacking. The ones that do save $2–8M per deal.
 
-Most founders patent the wrong thing.
+You buy a company with 3 patents. Its product ships on 7 SEPs it doesn't own.
 
-The model gets replaced every 18 months.
+Each licensor demands 3–5%.
 
-The pipeline that produces it? That is your lasting moat.
+Stack them: 21–35% of revenue owed before you see a dollar.
 
-Companies that patent the process earn 3x more in licensing than those that patent the output.
+FRAND disputes tripled between 2019 and 2024.
 
-The 3 IP assets smart AI founders are filing now:
-1. Data curation method
-2. Training pipeline architecture
-3. Fine-tuning protocol
+94% of 5G IoT products carry hidden SEP exposure.
 
-Your competitor's model will catch up. Your pipeline is harder to replicate.
+Founders who map stacking risk pre-LOI negotiate 40% lower blended rates.
 
-#AIStrategy #Patents #IPStrategy
+Due diligence asks: do we own the IP?
+
+It should ask: what IP do we owe?
+
+#IPStrategy #MergersAndAcquisitions #PatentLicensing
