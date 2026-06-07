@@ -193,3 +193,4 @@
 2026-06-06 17:53 | QUEUED | pe-ip-discount-ai-acquisition-2026 | PE acquirers apply a 35-45% valuation haircut to AI companies with undocumented IP.
 2026-06-06 17:59 | urn:li:share:7469085642107363328 | post #6 | patent-work-got-a-40m-price-tag | A startup building the Harvey for patent law just raised $40M.  Patlytics is aut
 2026-06-07 07:55 | QUEUED | ai-training-pipeline-patent-strategy-2026 | 78% of successful AI patent grants cover training pipelines, not models.  Most f
+2026-06-07 07:56 | urn:li:share:7469296176618606592 | 78% of successful AI patent grants cover training pipelines, not models.  Most f
