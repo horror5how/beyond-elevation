@@ -194,3 +194,4 @@
 2026-06-06 17:59 | urn:li:share:7469085642107363328 | post #6 | patent-work-got-a-40m-price-tag | A startup building the Harvey for patent law just raised $40M.  Patlytics is aut
 2026-06-07 07:55 | QUEUED | ai-training-pipeline-patent-strategy-2026 | 78% of successful AI patent grants cover training pipelines, not models.  Most f
 2026-06-07 07:56 | urn:li:share:7469296176618606592 | 78% of successful AI patent grants cover training pipelines, not models.  Most f
+2026-06-07 10:08 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
