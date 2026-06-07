@@ -1,13 +1,18 @@
-PE acquirers apply a 35–45% valuation haircut to AI companies with undocumented IP.
+78% of successful AI patent grants cover training pipelines, not models.
 
-Most founders discover this during due diligence. By then, the multiple is set.
+Most founders patent the wrong thing.
 
-The fix is three things: a clean IP ownership chain, 3+ patent claims filed, and a documented data licensing agreement.
+The model gets replaced every 18 months.
 
-Cost of getting this right before a deal: under $100K in fractional IP strategy.
+The pipeline that produces it? That is your lasting moat.
 
-Cost of skipping it: the haircut.
+Companies that patent the process earn 3x more in licensing than those that patent the output.
 
-Document before you raise. Not after.
+The 3 IP assets smart AI founders are filing now:
+1. Data curation method
+2. Training pipeline architecture
+3. Fine-tuning protocol
 
-#IPStrategy #MergersAndAcquisitions #ExitPlanning
+Your competitor's model will catch up. Your pipeline is harder to replicate.
+
+#AIStrategy #Patents #IPStrategy

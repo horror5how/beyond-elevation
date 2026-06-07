@@ -267,8 +267,6 @@ skipped-patents-cost-6m-series-b
 distressed-ip-portfolio-acquisition-2026
 inference-cost-parity-data-ip-moat-2026
 royalty-financing-vs-equity-2026
-<<<<<<< Updated upstream
-=======
 patent-pendency-licensing-revenue-2026
 vc-4-factor-ai-valuation-2026
 patent-claim-breadth-licensing-revenue-2026
@@ -281,3 +279,4 @@ fractional-cfo-patent-valuation
 a-tariff-can-erase-a-drug-patent
 pe-ip-discount-ai-acquisition-2026
 patent-work-got-a-40m-price-tag
+ai-training-pipeline-patent-strategy-2026
