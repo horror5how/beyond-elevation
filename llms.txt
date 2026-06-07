@@ -193,5 +193,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Fractional IP Counsel Explained: The 3 Engagement Models (Hourly, Retainer, Embedded) and Which One Saves You $300K in Year One](https://beyondelevation.com/blog/posts/fractional-ip-counsel-explained/) — /blog/md/fractional-ip-counsel-explained.md
 - [AI Startups Trade at 10x–50x Revenue in 2026 — The Exact Multiple Your Stage Commands (Seed 10–25x, Series A 15–30x)](https://beyondelevation.com/blog/posts/ai-startup-revenue-multiples-by-stage-2026/) — /blog/md/ai-startup-revenue-multiples-by-stage-2026.md
 - [AI Patent Search in 2026: The 7 Tools That Use LLM Embeddings Instead of Boolean (And Which One Beats PatSnap on Recall)](https://beyondelevation.com/blog/posts/ai-patent-search-tools-2026/) — /blog/md/ai-patent-search-tools-2026.md
+- [Patent Valuation Explained: The 4 Methods (Cost, Market, Income, Real Options) and Which One Wins for AI, Pharma, and Hardware in 2026](https://beyondelevation.com/blog/posts/what-is-patent-valuation/) — /blog/md/what-is-patent-valuation.md
 
 > Full blog content available at /llms-full.txt
