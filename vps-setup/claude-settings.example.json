@@ -1,0 +1,47 @@
+{
+  "_comment": "Autonomous-but-fenced mode for the always-on VPS Claude. Everyday tasks run with NO approval pop-ups (file edits, git, node/npm, the project scripts). Only rare destructive or unknown actions pause for a gate. Add more 'allow' lines as your routines grow.",
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "Bash(git:*)",
+      "Bash(gh:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(pnpm:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(echo:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(tar:*)",
+      "Bash(curl:*)",
+      "Bash(jq:*)",
+      "Bash(./scripts/*)",
+      "Bash(node scripts/*)",
+      "Bash(crontab:*)",
+      "Bash(tmux:*)"
+    ],
+    "deny": [
+      "Bash(rm -rf /*)",
+      "Bash(rm -rf ~)",
+      "Bash(rm -rf /home/*)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(:(){ :|:& };:)",
+      "Bash(mkfs*)",
+      "Bash(dd if=*of=/dev/*)",
+      "Bash(shutdown*)",
+      "Bash(reboot*)",
+      "Read(.env)",
+      "Read(./**/*.pem)",
+      "Read(~/.ssh/**)"
+    ]
+  }
+}
