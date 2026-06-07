@@ -1,19 +1,20 @@
-Most acquirers don't model royalty stacking. The ones that do save $2–8M per deal.
+Acquirers run an IP health score before signing your LOI.
 
-You buy a company with 3 patents. Its product ships on 7 SEPs it doesn't own.
+Most founders fail 4 of the 7 checks.
 
-Each licensor demands 3–5%.
+The 7 things they grade:
+1. Patent-to-product mapping
+2. Claim breadth vs market size
+3. Maintenance fees current
+4. FTO on core product
+5. Assignment chain clean
+6. Trade secrets documented
+7. Data rights audited
 
-Stack them: 21–35% of revenue owed before you see a dollar.
+Failing item 1 alone drops your multiple by 0.8x.
 
-FRAND disputes tripled between 2019 and 2024.
+Failing items 1, 5, and 6 together — your deal reprices or collapses.
 
-94% of 5G IoT products carry hidden SEP exposure.
+This is what acquirers see. Fix it before they arrive.
 
-Founders who map stacking risk pre-LOI negotiate 40% lower blended rates.
-
-Due diligence asks: do we own the IP?
-
-It should ask: what IP do we owe?
-
-#IPStrategy #MergersAndAcquisitions #PatentLicensing
+#IPStrategy #MergersAndAcquisitions #Patents
