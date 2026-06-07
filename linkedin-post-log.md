@@ -200,3 +200,4 @@
 2026-06-07 12:52 | urn:li:share:7469370826279104512 | Most acquirers don't model royalty stacking. The ones that do save $2–8M per d
 2026-06-07 14:50 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-07 17:52 | urn:li:share:7469446082423488512 | Acquirers run an IP health score before signing your LOI.  Most founders fail 4 
+2026-06-07 17:57 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
