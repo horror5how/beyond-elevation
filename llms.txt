@@ -196,5 +196,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Patent Valuation Explained: The 4 Methods (Cost, Market, Income, Real Options) and Which One Wins for AI, Pharma, and Hardware in 2026](https://beyondelevation.com/blog/posts/what-is-patent-valuation/) — /blog/md/what-is-patent-valuation.md
 - [These Lenders Ask for Your Patent Schedule Before Your Financials — The 2026 IP-Backed Venture Debt Directory](https://beyondelevation.com/blog/posts/venture-debt-lenders-patent-collateral-2026/) — /blog/md/venture-debt-lenders-patent-collateral-2026.md
 - [How to Value a Pre-Revenue Startup in 2026: The 5 Methods VCs Use When Revenue Is Zero](https://beyondelevation.com/blog/posts/how-to-value-pre-revenue-startup-2026/) — /blog/md/how-to-value-pre-revenue-startup-2026.md
+- [Is Data Worth More Than Gold? Top AI Firms Earn 11% of Revenue From Data Assets vs 2% for Everyone Else](https://beyondelevation.com/blog/posts/is-data-worth-more-than-gold-2026/) — /blog/md/is-data-worth-more-than-gold-2026.md
 
 > Full blog content available at /llms-full.txt

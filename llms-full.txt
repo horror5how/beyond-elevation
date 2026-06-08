@@ -2786,3 +2786,23 @@ Companies with patents are **10.2x more likely to secure early-stage funding**. 
 Pre-revenue startup valuation relies on five established methods: Berkus, Scorecard, Risk-Factor Summation, Venture Capital Method, and Cost-to-Duplicate. Each method prices a company with zero revenue by assigning value to the assets, 
 
 ---
+
+## Is Data Worth More Than Gold? Top AI Firms Earn 11% of Revenue From Data Assets vs 2% for Everyone Else
+
+URL: https://beyondelevation.com/blog/posts/is-data-worth-more-than-gold-2026/
+
+Top-performing AI companies earn 11% of revenue from data assets. Everyone else earns 2%. That is a 5x gap — and it is worth more than any gold reserve sitting in a vault.
+
+Hayat Amin argues that founders who compare data to gold are already thinking too small. "Gold does not compound," Hayat Amin says. "You cannot license gold to five buyers simultaneously, improve it with every transaction, and watch it appreciate while you sleep. Data does all four — if you structure it correctly."
+
+The question is not whether data is worth more than gold in 2026. The question is why most companies treat their most valuable asset like a byproduct instead of a balance-sheet item.
+
+## Is Data Worth More Than Gold in 2026?
+
+Data is worth more than gold for any company that knows how to monetize it — and the gap is widening every quarter. The global data monetization market is projected to reach $4.05 billion in 2026, while gold's utility value remains flat. Intangible assets now represent over 90% of S&P 500 market value, up from 17% in 1975, and proprietary data is the fastest-growing component of that shift.
+
+Gold has a fixed supply and a stable price. Data has a compounding supply and an accelerating price. One ounce of gold is worth what the market says on any given Tuesday. One proprietary dataset is worth what it does — the models it trains, the decisions it improves, the competitors it locks out.
+
+The companies that understand this distinction are pulling away. Datavault AI guided appr
+
+---
