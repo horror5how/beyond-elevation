@@ -202,3 +202,4 @@
 2026-06-07 17:52 | urn:li:share:7469446082423488512 | Acquirers run an IP health score before signing your LOI.  Most founders fail 4 
 2026-06-07 17:57 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-08 07:53 | urn:li:share:7469657784704282624 | 70-80% of your AI startup's value is unpatented know-how.  Most founders can't p
+2026-06-08 12:04 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
