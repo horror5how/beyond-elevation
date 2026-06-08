@@ -1,13 +1,12 @@
-70-80% of your AI startup's value is unpatented know-how.
+One patent. Four licensees. Zero competition between them.
 
-Most founders can't put a number on it.
+Field-of-use splits your IP rights by industry — automotive gets one lane, healthcare gets another, fintech gets a third.
 
-VCs are now asking for know-how valuations before issuing term sheets.
+3 licensees at $500K/year = $1.5M.
+1 exclusive licensee at $800K = $800K.
 
-Training pipelines. Curated datasets. Fine-tuned workflows. Domain expertise. None of it is on your balance sheet.
+Most founders hand over full exclusivity because they don't know this structure exists.
 
-The companies getting funded model it explicitly. The ones that don't raise at a discount.
+You licensed your IP once. You could have licensed it four times.
 
-If your know-how is 75% of your value and you can't defend that number, you're leaving 2x on the table.
-
-#AIValuation #StartupIP #IntellectualProperty
+#IPStrategy #PatentLicensing #Valuation
