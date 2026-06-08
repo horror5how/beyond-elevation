@@ -1,12 +1,19 @@
-One patent. Four licensees. Zero competition between them.
+5 data licensing models exist.
 
-Field-of-use splits your IP rights by industry — automotive gets one lane, healthcare gets another, fintech gets a third.
+Most founders are using the worst one.
 
-3 licensees at $500K/year = $1.5M.
-1 exclusive licensee at $800K = $800K.
+Subscription: capped upside, the buyer wins.
 
-Most founders hand over full exclusivity because they don't know this structure exists.
+Per-query: scales with their usage, you win.
 
-You licensed your IP once. You could have licensed it four times.
+Revenue-share: your dataset becomes a royalty line.
 
-#IPStrategy #PatentLicensing #Valuation
+Exclusive deals command a 3-5x premium over non-exclusive.
+
+Tiered access creates upsells your CFO isn't modelling.
+
+Top AI firms earn 11% of revenue from data assets. The rest earn 2%.
+
+The gap is the model you choose.
+
+#DataLicensing #IPStrategy #FounderFinance
