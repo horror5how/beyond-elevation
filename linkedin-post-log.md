@@ -206,3 +206,4 @@
 2026-06-08 12:51 | urn:li:share:7469732892005408768 | One patent. Four licensees. Zero competition between them.  Field-of-use splits 
 2026-06-08 13:08 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-08 14:46 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
+2026-06-08 16:47 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
