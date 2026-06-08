@@ -207,3 +207,4 @@
 2026-06-08 13:08 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-08 14:46 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-08 16:47 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
+2026-06-08 17:52 | urn:li:share:7469808541701316609 | 5 data licensing models exist.  Most founders are using the worst one.  Subscrip
