@@ -2748,3 +2748,25 @@ This guide breaks down all four patent valuation methods, shows which one wins f
 Patent valuation is the systematic calculation of a patent&rsquo;s monetary worth based on its legal strength, commercial applicability, remaining life, and revenue-generating potential. In 2026, intangible assets account for over 90% of S&P 500 market capitalisation — which means your patent por
 
 ---
+
+## These Lenders Ask for Your Patent Schedule Before Your Financials — The 2026 IP-Backed Venture Debt Directory
+
+URL: https://beyondelevation.com/blog/posts/venture-debt-lenders-patent-collateral-2026/
+
+Six specialist lenders now underwrite venture debt against patent portfolios — and they ask for your patent schedule before your P&L.
+
+The IP-backed lending market crossed $12B in originations in 2025. The EUIPO's landmark report quantified what these lenders already knew: companies with registered IP show a 38% lower probability of default and 50% lower loss-given-default than companies without it. That makes patents cheaper collateral than revenue forecasts.
+
+Hayat Amin, who has structured IP-backed financing deals for portfolio companies at [Beyond Elevation](https://beyondelevation.com), argues the shift is structural: "Lenders discovered that a patent portfolio with provable licensing revenue is a better credit signal than three years of SaaS metrics. The default data killed the objection."
+
+Here is the directory of venture debt lenders that accept patents as collateral in 2026 — with the underwriting criteria, LTV ranges, and APR bands you need to qualify.
+
+## Which Venture Debt Lenders Accept Patents as Collateral in 2026?
+
+At least six specialist lenders and a growing number of commercial banks now underwrite venture debt against patent portfolios, trade secrets, and broader IP assets. The market splits into two tiers: dedicated IP lenders that have underwritten patent-backed loans for over a decade, and traditional venture debt funds that added IP collateral programmes after the EUIPO default data proved the risk profile.
+
+**Tier 1 — Dedicated IP lenders:**
+
+**BlueIr
+
+---

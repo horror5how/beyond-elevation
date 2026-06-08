@@ -2,8 +2,8 @@
 title: "These Lenders Ask for Your Patent Schedule Before Your Financials — The 2026 IP-Backed Venture Debt Directory"
 slug: venture-debt-lenders-patent-collateral-2026
 date: 2026-06-08
-url: https://beyondelevation.com/blog/post.html?slug=venture-debt-lenders-patent-collateral-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/venture-debt-lenders-patent-collateral-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -109,6 +109,20 @@ For a full walkthrough of IP-backed debt structures, see [the venture debt IP co
 
 If your portfolio scores 5 or higher on the IP Lending Readiness Checklist, [book a consultation with Beyond Elevation](https://beyondelevation.com) to structure the valuation, clean the title chain, and get introduced to the right lender for your stage and portfolio size.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-venture-debt-lenders-patent-collateral-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can you use a single patent as collateral for venture debt?
@@ -130,3 +144,6 @@ For founders with strong patent portfolios, IP-backed debt is cheaper than equit
 ### Which industries are best suited for IP-backed venture debt?
 
 Life sciences, semiconductors, enterprise software, and deep tech (robotics, advanced materials, clean energy) are the strongest fits because they generate patent portfolios with broad claims, long remaining terms, and proven licensing markets. Pure SaaS companies with thin patent portfolios need trade secret or data asset collateral to supplement.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
