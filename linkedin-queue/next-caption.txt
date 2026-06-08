@@ -1,20 +1,13 @@
-Acquirers run an IP health score before signing your LOI.
+70-80% of your AI startup's value is unpatented know-how.
 
-Most founders fail 4 of the 7 checks.
+Most founders can't put a number on it.
 
-The 7 things they grade:
-1. Patent-to-product mapping
-2. Claim breadth vs market size
-3. Maintenance fees current
-4. FTO on core product
-5. Assignment chain clean
-6. Trade secrets documented
-7. Data rights audited
+VCs are now asking for know-how valuations before issuing term sheets.
 
-Failing item 1 alone drops your multiple by 0.8x.
+Training pipelines. Curated datasets. Fine-tuned workflows. Domain expertise. None of it is on your balance sheet.
 
-Failing items 1, 5, and 6 together — your deal reprices or collapses.
+The companies getting funded model it explicitly. The ones that don't raise at a discount.
 
-This is what acquirers see. Fix it before they arrive.
+If your know-how is 75% of your value and you can't defend that number, you're leaving 2x on the table.
 
-#IPStrategy #MergersAndAcquisitions #Patents
+#AIValuation #StartupIP #IntellectualProperty
