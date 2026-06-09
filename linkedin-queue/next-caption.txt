@@ -1,20 +1,17 @@
-Series B investors model your IP for risk.
+Top AI companies earn 11% of revenue from data assets.
 
-Series C investors model it for revenue.
+Everyone else earns 2%.
 
-Most founders pitch the same deck to both.
+That 5x gap is not an accident.
 
-That's why 40% of AI startups fail Series C IP due diligence.
+It's the difference between treating data as a technical resource and treating it as a revenue line.
 
-At B: prove you won't get sued.
+The global data monetization market hits $4B in 2026.
 
-At C: prove you can license your way to an 8x multiple.
+Most founders have no idea what their dataset is worth — or who would pay to license it.
 
-3 moves to make between rounds:
-- File continuations to lock claim breadth
-- Sign your first licensing deal — even a small one proves the model
-- Get a formal IP valuation on the balance sheet
+Your first-party data isn't an IT cost.
 
-By Series C, your IP should be generating revenue. Not just protecting it.
+It's an asset with a price tag.
 
-#IPStrategy #VentureCapital #Founders
+#DataStrategy #IPStrategy #AIStrategy
