@@ -211,3 +211,4 @@
 2026-06-08 19:13 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-09 07:52 | urn:li:share:7470019934870401024 | Most founders spend 80% of their AI budget on the model.  The McKinsey 10-20-70 
 2026-06-09 10:37 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
+2026-06-09 12:06 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
