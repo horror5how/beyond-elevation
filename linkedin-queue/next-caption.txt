@@ -1,19 +1,18 @@
-5 data licensing models exist.
+Most founders spend 80% of their AI budget on the model.
 
-Most founders are using the worst one.
+The McKinsey 10-20-70 rule says the model should be 10%.
 
-Subscription: capped upside, the buyer wins.
+10% model.
+20% data and technology.
+70% people and process.
 
-Per-query: scales with their usage, you win.
+Founders who follow this structure see 3x faster AI adoption.
 
-Revenue-share: your dataset becomes a royalty line.
+The ones who don't spend $500K on API calls and wonder why nothing changed.
 
-Exclusive deals command a 3-5x premium over non-exclusive.
+AI is not a software purchase.
+It is an organisational transformation.
 
-Tiered access creates upsells your CFO isn't modelling.
+The model is the cheapest part.
 
-Top AI firms earn 11% of revenue from data assets. The rest earn 2%.
-
-The gap is the model you choose.
-
-#DataLicensing #IPStrategy #FounderFinance
+#AI #AIStrategy #BusinessStrategy
