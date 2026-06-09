@@ -1,18 +1,20 @@
-Most founders spend 80% of their AI budget on the model.
+Series B investors model your IP for risk.
 
-The McKinsey 10-20-70 rule says the model should be 10%.
+Series C investors model it for revenue.
 
-10% model.
-20% data and technology.
-70% people and process.
+Most founders pitch the same deck to both.
 
-Founders who follow this structure see 3x faster AI adoption.
+That's why 40% of AI startups fail Series C IP due diligence.
 
-The ones who don't spend $500K on API calls and wonder why nothing changed.
+At B: prove you won't get sued.
 
-AI is not a software purchase.
-It is an organisational transformation.
+At C: prove you can license your way to an 8x multiple.
 
-The model is the cheapest part.
+3 moves to make between rounds:
+- File continuations to lock claim breadth
+- Sign your first licensing deal — even a small one proves the model
+- Get a formal IP valuation on the balance sheet
 
-#AI #AIStrategy #BusinessStrategy
+By Series C, your IP should be generating revenue. Not just protecting it.
+
+#IPStrategy #VentureCapital #Founders
