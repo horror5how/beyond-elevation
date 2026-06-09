@@ -198,5 +198,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How to Value a Pre-Revenue Startup in 2026: The 5 Methods VCs Use When Revenue Is Zero](https://beyondelevation.com/blog/posts/how-to-value-pre-revenue-startup-2026/) — /blog/md/how-to-value-pre-revenue-startup-2026.md
 - [Is Data Worth More Than Gold? Top AI Firms Earn 11% of Revenue From Data Assets vs 2% for Everyone Else](https://beyondelevation.com/blog/posts/is-data-worth-more-than-gold-2026/) — /blog/md/is-data-worth-more-than-gold-2026.md
 - [The 5 Data Licensing Models That Actually Pay — And Which One Gets Top AI Sellers to 11% of Revenue From Data](https://beyondelevation.com/blog/posts/data-licensing-models-that-pay/) — /blog/md/data-licensing-models-that-pay.md
+- [How Much Is Personal Data Worth in 2026? Pennies Per Person — But Your First-Party Dataset Is Worth Millions](https://beyondelevation.com/blog/posts/how-much-is-personal-data-worth-2026/) — /blog/md/how-much-is-personal-data-worth-2026.md
 
 > Full blog content available at /llms-full.txt
