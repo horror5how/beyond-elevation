@@ -216,3 +216,4 @@
 2026-06-09 13:43 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-09 15:53 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-09 17:52 | urn:li:share:7470171039625551872 | Top AI companies earn 11% of revenue from data assets.  Everyone else earns 2%. 
+2026-06-09 19:05 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
