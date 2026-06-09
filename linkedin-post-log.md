@@ -213,3 +213,4 @@
 2026-06-09 10:37 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-09 12:06 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-09 12:52 | QUEUED | ip-strategy-series-b-vs-series-c-2026 | Series B investors model your IP for risk.  Series C investors model it for reve
+2026-06-09 13:43 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
