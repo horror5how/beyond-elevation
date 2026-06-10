@@ -218,7 +218,16 @@ function pageTemplate(post, related) {
     '@type': 'Article',
     headline: post.title,
     description,
-    image: ogImage,
+    image: {
+      '@type': 'ImageObject',
+      url: heroImage,
+      contentUrl: heroImage,
+      width: 1200,
+      height: 630,
+      name: post.title,
+      caption: `${post.title} — Beyond Elevation IP strategy insights by Hayat Amin`,
+      creditText: 'Hayat Amin / Beyond Elevation',
+    },
     datePublished,
     dateModified,
     author: {

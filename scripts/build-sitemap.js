@@ -37,6 +37,78 @@ const FIXED_ROUTES = [
         caption: 'Hayat Amin, three-time exited entrepreneur and three-time FT100 CxO. Founder of Beyond Elevation, the IP strategy firm tech founders call when their patents are worth more than their cap table.',
         license: '/about/',
       },
+      {
+        loc: '/assets/testimonial-dgs-final-v4.jpg',
+        title: 'DGS IP Strategy Case Study — Beyond Elevation',
+        caption: 'DGS data monetisation case study. Beyond Elevation restructured DGS patent and data assets into a recurring revenue model for telecom. Fernando Murias, CEO.',
+        license: '/',
+      },
+      {
+        loc: '/assets/proof-portrait-latest.jpg',
+        title: 'Position Imaging IP Licensing Case Study — Beyond Elevation',
+        caption: 'Position Imaging 66-patent portfolio restructured by Beyond Elevation into eight-figure licensing revenue. IP strategy and patent monetisation case study.',
+        license: '/',
+      },
+      {
+        loc: '/assets/alexandra-headshot.jpg',
+        title: 'Alexandra — Executive Partnership Manager at Beyond Elevation',
+        caption: 'Alexandra, Executive Partnership Manager at Beyond Elevation. IP strategy and licensing revenue consultancy based in New York.',
+        license: '/',
+      },
+      {
+        loc: '/assets/be-linkedin-still-v2.jpg',
+        title: 'Hayat Amin — IP Strategy Operator, Beyond Elevation',
+        caption: 'Hayat Amin, IP strategy operator and Founder of Beyond Elevation. Three-time exited entrepreneur helping founders turn patents and data into licensing revenue.',
+        license: '/about/',
+      },
+      {
+        loc: '/assets/ceo-mat.jpg',
+        title: 'Mat Westergreen — Founder & CEO, Grantify',
+        caption: 'Mat Westergreen, Founder and CEO of Grantify. Beyond Elevation client testimonial on IP strategy.',
+        license: '/',
+      },
+      {
+        loc: '/assets/ceo-william.jpg',
+        title: 'William Green — CEO, L\'Estrange London',
+        caption: 'William Green, CEO of L\'Estrange London. Beyond Elevation client testimonial on patent licensing framework.',
+        license: '/',
+      },
+      {
+        loc: '/assets/ceo-carl.jpg',
+        title: 'Carl Steinmann — Founder, Acresclub',
+        caption: 'Carl Steinmann, Founder of Acresclub. Beyond Elevation helped structure the IP narrative for a $30M funding round.',
+        license: '/',
+      },
+      {
+        loc: '/assets/ceo-joysy.jpg',
+        title: 'Joysy John — CEO, Educate Ventures',
+        caption: 'Joysy John, CEO of Educate Ventures. Beyond Elevation client testimonial on IP commercialisation strategy.',
+        license: '/',
+      },
+      {
+        loc: '/assets/ceo-babacar.jpg',
+        title: 'Babacar Diallo — CEO, Oolu Solar',
+        caption: 'Babacar Diallo, CEO of Oolu Solar. Beyond Elevation turned data assets into recurring revenue streams.',
+        license: '/',
+      },
+      {
+        loc: '/assets/ceo-dan.jpg',
+        title: 'Dan Moller — COO, Vinaya Technology',
+        caption: 'Dan Moller, COO of Vinaya Technology. Beyond Elevation reshaped approach to hidden IP value.',
+        license: '/',
+      },
+      {
+        loc: '/assets/ceo-ngozi.jpg',
+        title: 'Ngozi Fakeye — Founder, Nala Health',
+        caption: 'Ngozi Fakeye, Founder of Nala Health. Beyond Elevation IP strategy central to closing first funding round.',
+        license: '/',
+      },
+      {
+        loc: '/assets/ceo-rob.jpg',
+        title: 'Rob Withagen — Founder, Asoko Insight',
+        caption: 'Rob Withagen, Founder of Asoko Insight. Beyond Elevation IP and business development expertise for scale-up funding rounds.',
+        license: '/',
+      },
     ],
   },
   { loc: '/services/', priority: '0.95', changefreq: 'weekly', sourceFile: 'services/index.html' },
@@ -149,11 +221,25 @@ function main() {
       || post.date
       || lastmodForPath(`blog/posts/${post.slug}/index.html`)
       || TODAY;
+    const heroImage = post.heroImage
+      ? (post.heroImage.startsWith('http')
+          ? post.heroImage
+          : `${SITE}/assets/${path.basename(post.heroImage)}`)
+      : `${SITE}/assets/og-image.jpg`;
+    const heroImagePath = heroImage.replace(SITE, '');
     entries.push(urlEntry({
       loc: `/blog/posts/${post.slug}/`,
       lastmod: esc(lastmod),
       changefreq: 'monthly',
       priority: '0.7',
+      images: [
+        {
+          loc: heroImagePath,
+          title: post.title,
+          caption: `${post.title} — IP strategy insights from Beyond Elevation by Hayat Amin`,
+          license: `/blog/posts/${post.slug}/`,
+        },
+      ],
     }));
   });
 
