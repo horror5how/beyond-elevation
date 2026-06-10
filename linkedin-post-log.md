@@ -222,3 +222,4 @@
 2026-06-10 12:22 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-10 12:52 | urn:li:share:7470457885681065985 | Your best engineer just quit. Who actually owns what they built?  If you didn't 
 2026-06-10 14:21 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
+2026-06-10 16:34 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
