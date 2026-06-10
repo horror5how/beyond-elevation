@@ -1,7 +1,7 @@
 ---
-date: 2026-06-07
+date: 2026-06-10
 theme: The AI-for-patents funding wave proves IP is the new balance-sheet asset, and most founders are still leaving it off theirs.
-generated_at: 2026-06-07T07:33:00Z
+generated_at: 2026-06-10T04:00:00Z
 posts_total: 6
 posts_published: 0
 ---
