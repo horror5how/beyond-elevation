@@ -2863,3 +2863,23 @@ AI is used in valuations across four primary methods: comparable transaction mat
 **Predictive revenue modeling.** AI automates DCF projections by ingesting your financials, market data, and growth signals to generate probability-weig
 
 ---
+
+## The 10-20-70 Rule for AI: Why 70% of Your AI Budget Should Go to People and Process, Not the Model
+
+URL: https://beyondelevation.com/blog/posts/10-20-70-rule-for-ai/
+
+87% of enterprise AI projects never make it past pilot. The 13% that ship to production follow one budget rule the rest ignore: the **10-20-70 rule for AI**.
+
+Hayat Amin argues that the 10-20-70 rule for AI is the single fastest diagnostic for whether an AI transformation will deliver ROI or become a seven-figure science experiment. "Founders who spend 70% on the model and 10% on people get a demo. Founders who flip that ratio get a business," Amin says. At [Beyond Elevation](https://beyondelevation.com), this is the first check on every AI advisory engagement.
+
+## What Is the 10-20-70 Rule for AI?
+
+The 10-20-70 rule for AI is a budget allocation framework that prescribes spending 10% on models and infrastructure, 20% on data, and 70% on people and process. It reflects a hard truth backed by thousands of failed deployments: AI is an implementation problem, not a technology problem.
+
+**10% — Models and infrastructure.** Model selection, compute, API costs, fine-tuning, hosting. GPT-4-class inference costs dropped 97% in 18 months. The model is not the bottleneck or the differentiator anymore.
+
+**20% — Data.** Data cleaning, labelling, pipeline engineering, validation, governance. This layer determines whether your AI works on your data or just on a benchmark. Hayat Amin's AI Budget Allocation Framework treats data spend as the "accuracy multiplier" — every dollar here returns 3-5x the ROI of a dollar spent on compute.
+
+**70% — People and process.** Change management, workflow 
+
+---

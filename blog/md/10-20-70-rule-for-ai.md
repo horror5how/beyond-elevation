@@ -2,8 +2,8 @@
 title: "The 10-20-70 Rule for AI: Why 70% of Your AI Budget Should Go to People and Process, Not the Model"
 slug: 10-20-70-rule-for-ai
 date: 2026-06-10
-url: https://beyondelevation.com/blog/post.html?slug=10-20-70-rule-for-ai
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/10-20-70-rule-for-ai/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ Beyond Elevation's [AI transformation advisory](/blog/posts/ai-transformation-ro
 
 If you are planning an AI transformation and want to know where the defensible IP sits in your budget, [book a strategy session with Beyond Elevation](https://beyondelevation.com).
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-10-20-70-rule-for-ai)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the 10-20-70 rule for AI?
@@ -94,3 +108,6 @@ Investors score AI startups on operational depth, not model benchmarks. Companie
 ### What is the biggest mistake founders make with AI budgets?
 
 Spending 70% on compute and model fine-tuning while allocating 10% or less to change management and workflow redesign. This produces AI that works in a demo but never reaches production — the "demo trap" responsible for the majority of AI project failures.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
