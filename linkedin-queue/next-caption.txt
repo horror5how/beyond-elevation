@@ -1,17 +1,21 @@
-Top AI companies earn 11% of revenue from data assets.
+Your startup earns $0 in revenue. VCs still value it. Here's how.
 
-Everyone else earns 2%.
+5 methods investors use when there's no P&L to model:
 
-That 5x gap is not an accident.
+Berkus — each validated milestone worth up to $500K
 
-It's the difference between treating data as a technical resource and treating it as a revenue line.
+Scorecard — IP quality is the 2nd-highest-weighted factor after management
 
-The global data monetization market hits $4B in 2026.
+Risk-Factor — a patent moat cuts your risk score by 1–2 points
 
-Most founders have no idea what their dataset is worth — or who would pay to license it.
+VC Method — back-solve from exit value; IP defence shifts the terminal multiple
 
-Your first-party data isn't an IT cost.
+Founders without audited IP assets get priced on optimism.
 
-It's an asset with a price tag.
+Founders with documented IP get priced on evidence.
 
-#DataStrategy #IPStrategy #AIStrategy
+The delta: 42% higher seed valuation for IP-native startups.
+
+Know your number before you pitch.
+
+#IPStrategy #StartupValuation #Fundraising
