@@ -1,21 +1,16 @@
-Your startup earns $0 in revenue. VCs still value it. Here's how.
+Your best engineer just quit. Who actually owns what they built?
 
-5 methods investors use when there's no P&L to model:
+If you didn't get a signed IP assignment at hire, the answer might not be you.
 
-Berkus — each validated milestone worth up to $500K
+Most startups assume employment = IP ownership. UK and US courts disagree.
 
-Scorecard — IP quality is the 2nd-highest-weighted factor after management
+3 things a proper IP assignment covers:
+— Work done on company time and equipment
+— Code written on personal devices after hours
+— Side projects that overlap with your product
 
-Risk-Factor — a patent moat cuts your risk score by 1–2 points
+Miss one and a £20M acquisition falls apart at legal.
 
-VC Method — back-solve from exit value; IP defence shifts the terminal multiple
+Fix this before you raise. Not after.
 
-Founders without audited IP assets get priced on optimism.
-
-Founders with documented IP get priced on evidence.
-
-The delta: 42% higher seed valuation for IP-native startups.
-
-Know your number before you pitch.
-
-#IPStrategy #StartupValuation #Fundraising
+#IPStrategy #Founder #Startups
