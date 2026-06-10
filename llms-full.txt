@@ -2883,3 +2883,21 @@ The 10-20-70 rule for AI is a budget allocation framework that prescribes spendi
 **70% — People and process.** Change management, workflow 
 
 ---
+
+## If Your AI Generated It, Who Owns the Trade Secret? The 2026 Answer That Decides Whether Your Moat Is Real
+
+URL: https://beyondelevation.com/blog/posts/ai-generated-trade-secret-ownership/
+
+Your AI systems generated valuable trade secrets last quarter — training recipes, fine-tuned weight configurations, proprietary data pipelines. You probably own none of them. Not because someone stole them, but because you never established the legal chain that proves AI-generated trade secret ownership.
+
+Hayat Amin has audited AI-generated trade secret ownership across more than 30 portfolios since 2024. The finding is the same every time: founders spend millions training models and generating proprietary parameters, then discover during due diligence that ownership of those outputs is legally ambiguous. The default is not "we built it, we own it." The default is uncertainty — and uncertainty kills deal value.
+
+Who owns an AI-generated trade secret? The answer decides whether your IP moat is real or imaginary.
+
+## Who Owns an AI-Generated Trade Secret Under 2026 Law?
+
+The company or individual that directed the AI process and implemented reasonable protective measures owns the resulting trade secret — not the AI system, not the AI vendor, and not the cloud provider hosting the compute. But "directed the process" and "reasonable measures" carry specific legal definitions that most AI founders fail to meet.
+
+Under the U.S. Defend Trade Secrets Act and the EU Trade Secrets Directive, a trade secret requires three elements: the information derives economic value from secrecy, the holder took reasonable steps to keep it secret, and the information is not generally known. AI-gener
+
+---

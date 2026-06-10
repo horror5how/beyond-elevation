@@ -2,8 +2,8 @@
 title: "If Your AI Generated It, Who Owns the Trade Secret? The 2026 Answer That Decides Whether Your Moat Is Real"
 slug: ai-generated-trade-secret-ownership
 date: 2026-06-10
-url: https://beyondelevation.com/blog/post.html?slug=ai-generated-trade-secret-ownership
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ai-generated-trade-secret-ownership/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -29,7 +29,7 @@ AI-generated trade secret ownership fails in four predictable scenarios, each tr
 
 **Scenario 1: Employee uses company AI to generate a trade secret.** Standard employment agreements assign "inventions" and "works of authorship" to the company. AI-generated outputs are neither — no human inventorship, no human authorship under current law. Unless your employment agreement explicitly covers "outputs generated using company AI systems," the assignment clause has a gap your departing ML engineer can walk through.
 
-**Scenario 2: Contractor or freelancer generates trade secrets via your AI.** Worse than Scenario 1. Independent contractor agreements almost never address AI-generated outputs. The contractor used your data, your compute, and your model — but the outputs may belong to them unless the agreement says otherwise. Hayat Amin calls this the "contractor AI gap" and it appears in more than half the [AI moat audits](https://beyondelevation.com/blog/posts/ai-moat-not-just-the-model/) Beyond Elevation runs.
+**Scenario 2: Contractor or freelancer generates trade secrets via your AI.** Worse than Scenario 1. Independent contractor agreements almost never address AI-generated outputs. The contractor used your data, your compute, and your model — but the outputs may belong to them unless the agreement says otherwise. Hayat Amin calls this the "contractor AI gap" and it appears in more than half the [AI moat audits](/blog/posts/ai-moat-not-just-the-model/) Beyond Elevation runs.
 
 **Scenario 3: The AI vendor's platform generated the output.** OpenAI's enterprise API terms assign output ownership to the customer. Not every vendor does, and terms change quarterly. If you fine-tuned a model on a vendor's platform and the ToS includes a licence-back clause or a training-on-outputs provision, your "trade secret" may be fair game for the vendor to serve your competitor.
 
@@ -47,7 +47,7 @@ Hayat Amin's AI Trade Secret Ownership Test is a five-question diagnostic that d
 
 **Question 4: Do you have a documented human-direction chain for valuable AI outputs?** The strongest AI-generated trade secrets have a paper trail: which human defined the objective, which human approved the training parameters, which human reviewed and classified the output as confidential. Autonomous discoveries without this chain are the weakest category of trade secret claims.
 
-**Question 5: Have you classified AI-generated outputs into a trade secret register?** An unclassified output is not a trade secret — it is just data. A proper register lists each AI-generated secret, its creation date, classification level, access list, and estimated economic value. Hayat Amin argues this register is worth more than the secrets themselves, because it is the document investors actually read during [AI IP ownership diligence](https://beyondelevation.com/blog/posts/ai-agent-ip-ownership-strategy/).
+**Question 5: Have you classified AI-generated outputs into a trade secret register?** An unclassified output is not a trade secret — it is just data. A proper register lists each AI-generated secret, its creation date, classification level, access list, and estimated economic value. Hayat Amin argues this register is worth more than the secrets themselves, because it is the document investors actually read during [AI IP ownership diligence](/blog/posts/ai-agent-ip-ownership-strategy/).
 
 ## What Do Reasonable Measures Mean for AI-Generated Trade Secrets in 2026?
 
@@ -65,11 +65,25 @@ AI-generated trade secret ownership is fixable with legal updates, not architect
 
 **Move 2: Audit your vendor agreements.** Check every AI vendor ToS for licence-back, usage rights, or training-on-output clauses. If the vendor can use your outputs to improve their model — which then serves your competitor — your trade secret is compromised. Renegotiate or switch to enterprise terms that explicitly assign outputs to the customer.
 
-**Move 3: Build a trade secret register.** List every AI-generated output with economic value. Assign classification levels. Document the human-direction chain. This register becomes your proof of ownership in due diligence — and Hayat Amin has seen it add 10-15% to the [IP valuation](https://beyondelevation.com/blog/posts/ai-patent-portfolio-strategy/) of AI companies entering M&A conversations.
+**Move 3: Build a trade secret register.** List every AI-generated output with economic value. Assign classification levels. Document the human-direction chain. This register becomes your proof of ownership in due diligence — and Hayat Amin has seen it add 10-15% to the [IP valuation](/blog/posts/ai-patent-portfolio-strategy/) of AI companies entering M&A conversations.
 
-Founders who solve AI-generated trade secret ownership before their next raise close faster and at higher multiples. Founders who discover the gap during due diligence lose weeks, lose leverage, and lose 15-25% of deal value to ownership-uncertainty discounts. Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com/blog/posts/patent-strategy-seed-series-a-fundraising/). Pairing a strong trade secret register with a filed patent portfolio is the combination that maximises both defensibility and deal velocity.
+Founders who solve AI-generated trade secret ownership before their next raise close faster and at higher multiples. Founders who discover the gap during due diligence lose weeks, lose leverage, and lose 15-25% of deal value to ownership-uncertainty discounts. Companies with patents are [10.2x more likely to secure early-stage funding](/blog/posts/patent-strategy-seed-series-a-fundraising/). Pairing a strong trade secret register with a filed patent portfolio is the combination that maximises both defensibility and deal velocity.
 
 [Beyond Elevation](https://beyondelevation.com) runs full AI trade secret ownership audits for AI companies pre-fundraise and pre-exit. Book a consultation to find out whether you actually own what your AI built.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-generated-trade-secret-ownership)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -91,4 +105,7 @@ If your employment agreement includes an explicit AI output assignment clause, t
 
 ### Is AI-generated know-how more valuable than a patent?
 
-Often yes. Model weights, training recipes, and data pipelines resist reverse engineering and never expire — unlike patents, which publish your innovation and lapse after 20 years. The trade-off: trade secrets demand continuous protective measures while patents provide automatic enforcement rights. The right answer depends on your technology — [this protection framework](https://beyondelevation.com/blog/posts/trade-secret-protection-ai-models/) helps you decide.
+Often yes. Model weights, training recipes, and data pipelines resist reverse engineering and never expire — unlike patents, which publish your innovation and lapse after 20 years. The trade-off: trade secrets demand continuous protective measures while patents provide automatic enforcement rights. The right answer depends on your technology — [this protection framework](/blog/posts/trade-secret-protection-ai-models/) helps you decide.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -201,5 +201,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How Much Is Personal Data Worth in 2026? Pennies Per Person — But Your First-Party Dataset Is Worth Millions](https://beyondelevation.com/blog/posts/how-much-is-personal-data-worth-2026/) — /blog/md/how-much-is-personal-data-worth-2026.md
 - [How AI Is Used in Valuations in 2026: 4 Methods Investors Trust (And the One Place Every Model Breaks)](https://beyondelevation.com/blog/posts/how-ai-is-used-in-valuations-2026/) — /blog/md/how-ai-is-used-in-valuations-2026.md
 - [The 10-20-70 Rule for AI: Why 70% of Your AI Budget Should Go to People and Process, Not the Model](https://beyondelevation.com/blog/posts/10-20-70-rule-for-ai/) — /blog/md/10-20-70-rule-for-ai.md
+- [If Your AI Generated It, Who Owns the Trade Secret? The 2026 Answer That Decides Whether Your Moat Is Real](https://beyondelevation.com/blog/posts/ai-generated-trade-secret-ownership/) — /blog/md/ai-generated-trade-secret-ownership.md
 
 > Full blog content available at /llms-full.txt
