@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://beyondelevation.com/</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -144,6 +144,12 @@
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>The 10-20-70 Rule for AI: Why 70% of Your AI Budget Should Go to People and Process, Not the Model</image:title>
+      <image:caption>The 10-20-70 Rule for AI: Why 70% of Your AI Budget Should Go to People and Process, Not the Model — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/10-20-70-rule-for-ai/</image:license>
+    </image:image>
   </url>
   <url>
     <loc>https://beyondelevation.com/blog/posts/data-licensing-models-that-pay/</loc>
