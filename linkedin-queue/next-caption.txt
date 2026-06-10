@@ -1,16 +1,19 @@
-Your best engineer just quit. Who actually owns what they built?
+53 days until the EU AI Act high-risk obligation deadline.
 
-If you didn't get a signed IP assignment at hire, the answer might not be you.
+Most companies are running compliance projects.
 
-Most startups assume employment = IP ownership. UK and US courts disagree.
+None are turning that documentation into a revenue line.
 
-3 things a proper IP assignment covers:
-— Work done on company time and equipment
-— Code written on personal devices after hours
-— Side projects that overlap with your product
+Your AI compliance audit forces you to map: model architecture, training data provenance, risk assessments, performance benchmarks.
 
-Miss one and a £20M acquisition falls apart at legal.
+That is the exact same deliverable as an IP audit.
 
-Fix this before you raise. Not after.
+Compliance docs = cost centre.
 
-#IPStrategy #Founder #Startups
+IP docs = licensing revenue.
+
+AI companies with registered IP trade at 2.1x higher multiples than peers without.
+
+One exercise. Two outcomes. Only one of them compounds.
+
+#AIStrategy #IPStrategy #EUAIAct
