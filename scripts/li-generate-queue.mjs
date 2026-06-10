@@ -19,6 +19,17 @@
  *
  * If a post fails the gate after 3 full-batch retries, the run is logged to
  * linkedin-pipeline-log.md and exits non-zero (per routine-resilience rule).
+ *
+ * RAIL STATUS (2026-06-10 audit): this script runs in GitHub Actions (cloud),
+ * so it cannot use the local `claude -p` subscription CLI. It depends on the
+ * paid Anthropic API key (secrets.ANTHROPIC_API_KEY), which has $0 credit —
+ * runs on 06-08 and 06-09 failed with "credit balance is too low". Runs only
+ * "succeed" when the idempotency check skips generation. To revive, either
+ * (a) top up Anthropic API credit, or (b) migrate generation to a claude.ai
+ * cloud scheduled task that commits the queue file directly (same pattern as
+ * the BE blog publisher RemoteTrigger, which runs on the subscription).
+ * Left on the existing rail intentionally; do not point this at the API key
+ * expecting it to work.
  */
 
 import { readFileSync, writeFileSync, existsSync, appendFileSync } from 'node:fs';
