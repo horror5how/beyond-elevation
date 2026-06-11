@@ -1,21 +1,19 @@
-AI now writes the first draft of your company valuation.
+VCs claim they fund capital-efficient AI. They actually fund capital-efficient AND defensible ones.
 
-4 ways investors use it:
-- Comparable transaction search (faster, not better)
-- Revenue multiple benchmarking (accurate for comps, wrong for moat)
-- DCF stress-testing (10x faster than analysts)
-- IP and intangible scoring (this is where it breaks)
+That gap is worth 3–5x at exit.
 
-The problem: AI valuation models are trained on disclosed financial data.
+Capital-efficient AI without an IP moat: 15–20x revenue at exit.
 
-Your IP — patents, data assets, proprietary know-how — lives off-balance-sheet.
+Capital-efficient AI with documented defensibility: 25–35x.
 
-AI can't see it.
+The only variable is the moat.
 
-That's where the $3-8M discount happens in a deal.
+Most founders optimise burn rate. They ignore the asset that compounds the multiple.
 
-The founders who close at premium multiples get an independent IP valuation before the AI model runs.
+3 numbers that change the maths:
 
-Not after.
+1. 42% — seed-stage valuation premium when IP defensibility is documented
+2. 5x — data revenue gap between top AI firms (11%) and everyone else (2%)
+3. 25–35x — the exit multiple range capital-efficient AND IP-defended AI commands
 
-#Valuation #IPStrategy #M&A
+#IPStrategy #AIValuation #Founders
