@@ -3,7 +3,7 @@ date: 2026-06-11
 theme: AI is repricing intellectual property in real time. This week capital, acquisitions, and lawsuits all moved to put IP on the balance sheet, and most founders still book it as a legal cost.
 generated_at: 2026-06-11T04:00:00Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -123,7 +123,9 @@ See how an IP asset gets valued under an AI valuation. Link in comments.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-11T16:52:54.443Z
+share_urn: urn:li:share:7470880754709909504
 hook_format: frame-break
 cta_goal: clicks
 slug: ip-is-a-toll-booth-not-a-wall
