@@ -1,13 +1,21 @@
-60 days.
+AI now writes the first draft of your company valuation.
 
-That's all it takes to turn your IP portfolio from a deal discount into a deal premium.
+4 ways investors use it:
+- Comparable transaction search (faster, not better)
+- Revenue multiple benchmarking (accurate for comps, wrong for moat)
+- DCF stress-testing (10x faster than analysts)
+- IP and intangible scoring (this is where it breaks)
 
-73% of acquirers find IP gaps that kill deal value at the LOI stage.
+The problem: AI valuation models are trained on disclosed financial data.
 
-Companies that arrive IP-ready capture 1.4x higher acquisition multiples.
+Your IP — patents, data assets, proprietary know-how — lives off-balance-sheet.
 
-Three moves: run the audit, cluster your filings, get licensing revenue on the P&L.
+AI can't see it.
 
-This is not legal admin. It's financial positioning.
+That's where the $3-8M discount happens in a deal.
 
-#IPStrategy #MergersAndAcquisitions #ExitMultiples
+The founders who close at premium multiples get an independent IP valuation before the AI model runs.
+
+Not after.
+
+#Valuation #IPStrategy #M&A
