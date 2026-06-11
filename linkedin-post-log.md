@@ -231,3 +231,4 @@
 2026-06-11 12:48 | urn:li:share:7470819165973684224 | post #2 | sixty-five-million-moved-the-moat | $65M flowed into AI patent startups this week.  DeepIP took $25M. Solve Intellig
 2026-06-11 12:55 | QUEUED | ai-valuation-tools-blind-spot-2026 | AI now writes the first draft of your company valuation.  4 ways investors use i
 2026-06-11 12:57 | urn:li:share:7470821173837291520 | ai-valuation-tools-blind-spot-2026 | AI now writes the first draft of your company valuation.
+2026-06-11 14:34 | urn:li:share:7470845822033707009 | post #3 | not-the-model-the-ip | Deepgram just raised $130M at a $1.3B valuation.  The model is not the asset. Op

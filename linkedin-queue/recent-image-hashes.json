@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0042ffffc3c3ff9f",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "5-ip-mistakes-cutting-valuation",
-    "ts": "2026-06-06T10:34:01.307Z"
-  },
-  {
     "hash": "42ffffffffff0000",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "sixty-five-million-moved-the-moat",
     "ts": "2026-06-11T12:48:11.121Z"
+  },
+  {
+    "hash": "007effffffff0101",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "not-the-model-the-ip",
+    "ts": "2026-06-11T14:34:05.872Z"
   }
 ]
