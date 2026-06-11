@@ -225,3 +225,4 @@
 2026-06-10 16:34 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-10 17:53 | urn:li:share:7470533531711025152 | 53 days until the EU AI Act high-risk obligation deadline.  Most companies are r
 2026-06-10 19:28 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
+2026-06-11 07:53 | QUEUED | ip-acquisition-readiness-60-days-2026 | 60 days.  That's all it takes to turn your IP portfolio from a deal discount int

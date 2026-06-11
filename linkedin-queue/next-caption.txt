@@ -1,19 +1,13 @@
-53 days until the EU AI Act high-risk obligation deadline.
+60 days.
 
-Most companies are running compliance projects.
+That's all it takes to turn your IP portfolio from a deal discount into a deal premium.
 
-None are turning that documentation into a revenue line.
+73% of acquirers find IP gaps that kill deal value at the LOI stage.
 
-Your AI compliance audit forces you to map: model architecture, training data provenance, risk assessments, performance benchmarks.
+Companies that arrive IP-ready capture 1.4x higher acquisition multiples.
 
-That is the exact same deliverable as an IP audit.
+Three moves: run the audit, cluster your filings, get licensing revenue on the P&L.
 
-Compliance docs = cost centre.
+This is not legal admin. It's financial positioning.
 
-IP docs = licensing revenue.
-
-AI companies with registered IP trade at 2.1x higher multiples than peers without.
-
-One exercise. Two outcomes. Only one of them compounds.
-
-#AIStrategy #IPStrategy #EUAIAct
+#IPStrategy #MergersAndAcquisitions #ExitMultiples
