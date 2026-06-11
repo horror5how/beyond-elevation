@@ -164,6 +164,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/technology-landscape-report-explained/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>The Technology Landscape Report: What a $40K PatSnap Deliverable Actually Contains (And the 6-Slide Version a Strategist Builds in 2 Weeks)</image:title>
+      <image:caption>The Technology Landscape Report: What a $40K PatSnap Deliverable Actually Contains (And the 6-Slide Version a Strategist Builds in 2 Weeks) — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/technology-landscape-report-explained/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/10-20-70-rule-for-ai/</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -2009,18 +2021,6 @@
       <image:title>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For</image:title>
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/technology-landscape-report-explained/</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
-      <image:title>The Technology Landscape Report: What a $40K PatSnap Deliverable Actually Contains</image:title>
-      <image:caption>The Technology Landscape Report explained — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
-      <image:license>https://beyondelevation.com/blog/posts/technology-landscape-report-explained/</image:license>
     </image:image>
   </url>
 </urlset>
