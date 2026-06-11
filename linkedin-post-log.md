@@ -230,3 +230,4 @@
 2026-06-11 11:26 | urn:li:share:7470798633551159297 | post #1 | ai-for-patents-is-a-margin-story | AI for patents just raised $40M.  Everyone read it as a legal tech story.  It is
 2026-06-11 12:48 | urn:li:share:7470819165973684224 | post #2 | sixty-five-million-moved-the-moat | $65M flowed into AI patent startups this week.  DeepIP took $25M. Solve Intellig
 2026-06-11 12:55 | QUEUED | ai-valuation-tools-blind-spot-2026 | AI now writes the first draft of your company valuation.  4 ways investors use i
+2026-06-11 12:57 | urn:li:share:7470821173837291520 | ai-valuation-tools-blind-spot-2026 | AI now writes the first draft of your company valuation.
