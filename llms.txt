@@ -204,5 +204,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [If Your AI Generated It, Who Owns the Trade Secret? The 2026 Answer That Decides Whether Your Moat Is Real](https://beyondelevation.com/blog/posts/ai-generated-trade-secret-ownership/) — /blog/md/ai-generated-trade-secret-ownership.md
 - [The 8 Best PatSnap Alternatives in 2026 — Honestly Reviewed (And the One That Is Not Software)](https://beyondelevation.com/blog/posts/best-patsnap-alternatives-2026/) — /blog/md/best-patsnap-alternatives-2026.md
 - [The Freedom to Operate Analysis Every Pre-Launch Founder Skips (And the 7-Layer Checklist That Catches the Lawsuit Before It Hits)](https://beyondelevation.com/blog/posts/freedom-to-operate-analysis-guide/) — /blog/md/freedom-to-operate-analysis-guide.md
+- [Standard Essential Patents: The 4-Filter Test That Tells You If Your Patent Is Actually SEP (Or Just Adjacent)](https://beyondelevation.com/blog/posts/standard-essential-patents-4-filter-test/) — /blog/md/standard-essential-patents-4-filter-test.md
 
 > Full blog content available at /llms-full.txt

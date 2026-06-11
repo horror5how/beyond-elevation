@@ -2935,3 +2935,21 @@ FTO is not a patentability search. A patentability search asks “is my inventio
 A complete freedom to operate analysis produces three outputs: a li
 
 ---
+
+## Standard Essential Patents: The 4-Filter Test That Tells You If Your Patent Is Actually SEP (Or Just Adjacent)
+
+URL: https://beyondelevation.com/blog/posts/standard-essential-patents-4-filter-test/
+
+Qualcomm collected $6.4 billion in licensing revenue last year. Not from selling chips. From licensing standard essential patents.
+
+A standard essential patent is a patent that covers technology required to implement an industry standard — 5G, WiFi 6E, Bluetooth, HEVC, USB-C. No manufacturer can build a compliant product without using the patented technology. That makes every implementer a mandatory licensee. Hayat Amin argues this is the single most misunderstood category of intellectual property: “Founders file patents and never check whether their claims map to a published standard specification. That one check can turn a $50K patent into a $50M revenue stream.”
+
+Here is how standard essential patents work, how to test whether your patent qualifies, and how the companies that own SEPs monetize them at scale.
+
+## What Is a Standard Essential Patent?
+
+A standard essential patent is a patent that claims technology required for compliance with a published industry standard set by a recognized standard-setting organization (SSO) such as 3GPP, IEEE, ETSI, or ITU. Companies cannot manufacture a standards-compliant product — a 5G modem, a WiFi 6E router, an NFC payment terminal — without using the patented technology.
+
+This is what separates standard essential patents from every other patent category. A regular patent protects an innovation that competitors can design around. A standard essential patent protects an innovation that the entire industry must use. There is no alternat
+
+---
