@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff2505",
-    "layout": "a",
-    "accent": "#7a8c6e",
-    "slug": "skipped-patents-cost-6m-series-b",
-    "ts": "2026-06-03T17:59:03.119Z"
-  },
-  {
     "hash": "fff010701775ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "patent-work-got-a-40m-price-tag",
     "ts": "2026-06-06T17:59:46.256Z"
+  },
+  {
+    "hash": "c1c3ffffc1c3ffb9",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "ai-for-patents-is-a-margin-story",
+    "ts": "2026-06-11T11:26:35.865Z"
   }
 ]

@@ -227,3 +227,4 @@
 2026-06-10 19:28 | FAIL | Post #1 missing: headline, metric_1, label_1, metric_2, label_2, metric_3, label_3
 2026-06-11 07:53 | QUEUED | ip-acquisition-readiness-60-days-2026 | 60 days.  That's all it takes to turn your IP portfolio from a deal discount int
 2026-06-11 07:54 | urn:li:share:7470745164999794688 | 60 days.  That's all it takes to turn your IP portfolio from a deal discount int
+2026-06-11 11:26 | urn:li:share:7470798633551159297 | post #1 | ai-for-patents-is-a-margin-story | AI for patents just raised $40M.  Everyone read it as a legal tech story.  It is

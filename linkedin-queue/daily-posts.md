@@ -3,7 +3,7 @@ date: 2026-06-11
 theme: AI is repricing intellectual property in real time. This week capital, acquisitions, and lawsuits all moved to put IP on the balance sheet, and most founders still book it as a legal cost.
 generated_at: 2026-06-11T04:00:00Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -21,7 +21,9 @@ This week the market stopped arguing about whether IP matters and started pricin
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-11T11:26:35.865Z
+share_urn: urn:li:share:7470798633551159297
 hook_format: contrarian
 cta_goal: follows
 slug: ai-for-patents-is-a-margin-story
