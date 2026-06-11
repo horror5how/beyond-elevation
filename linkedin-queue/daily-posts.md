@@ -3,7 +3,7 @@ date: 2026-06-11
 theme: AI is repricing intellectual property in real time. This week capital, acquisitions, and lawsuits all moved to put IP on the balance sheet, and most founders still book it as a legal cost.
 generated_at: 2026-06-11T04:00:00Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -159,7 +159,9 @@ Which of your assets could charge rent? Link in comments.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-11T19:28:34.295Z
+share_urn: urn:li:share:7470919928016134147
 hook_format: listicle
 cta_goal: dm
 slug: three-rights-that-set-the-rate
