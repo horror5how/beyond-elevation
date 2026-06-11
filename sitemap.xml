@@ -2011,4 +2011,16 @@
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
   </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/technology-landscape-report-explained/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>The Technology Landscape Report: What a $40K PatSnap Deliverable Actually Contains</image:title>
+      <image:caption>The Technology Landscape Report explained — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/technology-landscape-report-explained/</image:license>
+    </image:image>
+  </url>
 </urlset>
