@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff0b00037f5ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "a-tariff-can-erase-a-drug-patent",
-    "ts": "2026-06-06T14:28:24.552Z"
-  },
-  {
     "hash": "40c3efffc3c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "three-rights-that-set-the-rate",
     "ts": "2026-06-11T19:28:34.295Z"
+  },
+  {
+    "hash": "7ef0f0051bf5ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "cheap-patents-kill-the-old-moat",
+    "ts": "2026-06-12T11:05:40.033Z"
   }
 ]

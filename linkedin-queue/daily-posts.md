@@ -3,7 +3,7 @@ date: 2026-06-12
 theme: AI just turned the patent itself into a tradable asset, cheaper to file, dearer to own, and now priced straight into valuations, acquisitions, and licensing splits.
 generated_at: 2026-06-12T04:00:00Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ In one week the market stopped treating intellectual property as paperwork and s
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-12T11:05:40.033Z
+share_urn: urn:li:share:7471155756730544129
 hook_format: contrarian
 cta_goal: follows
 slug: cheap-patents-kill-the-old-moat
