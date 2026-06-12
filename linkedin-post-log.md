@@ -239,3 +239,4 @@
 2026-06-12 11:05 | urn:li:share:7471155756730544129 | post #1 | cheap-patents-kill-the-old-moat | Cheaper patents are bad news for patent holders.  Patlytics just raised $40M and
 2026-06-12 12:21 | urn:li:share:7471174787411910657 | post #2 | deepgram-paid-for-the-data | $1.3 billion. For voice data, not a model.  Deepgram raised $130M at a $1.3B val
 2026-06-12 12:54 | urn:li:share:7471183252335190016 | IP insurance. Most founders have never bought it.  VCs are starting to ask for i
+2026-06-12 14:08 | urn:li:share:7471201773869805568 | post #3 | three-ip-moves-one-repricing | Three IP moves repriced the market this week.  1. Patlytics raised $40M to turn 

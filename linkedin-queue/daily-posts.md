@@ -3,7 +3,7 @@ date: 2026-06-12
 theme: AI just turned the patent itself into a tradable asset, cheaper to file, dearer to own, and now priced straight into valuations, acquisitions, and licensing splits.
 generated_at: 2026-06-12T04:00:00Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -88,7 +88,9 @@ I broke down how data assets earn a multiple. Link in comments.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-12T14:08:31.373Z
+share_urn: urn:li:share:7471201773869805568
 hook_format: listicle
 cta_goal: follows
 slug: three-ip-moves-one-repricing

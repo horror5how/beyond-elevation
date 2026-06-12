@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c1c3ffffc1c3ffb9",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ai-for-patents-is-a-margin-story",
-    "ts": "2026-06-11T11:26:35.865Z"
-  },
-  {
     "hash": "7ef010311f37ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "deepgram-paid-for-the-data",
     "ts": "2026-06-12T12:21:17.397Z"
+  },
+  {
+    "hash": "7ef0f01017f5ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "three-ip-moves-one-repricing",
+    "ts": "2026-06-12T14:08:31.373Z"
   }
 ]
