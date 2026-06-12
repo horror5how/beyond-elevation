@@ -2,8 +2,8 @@
 title: "Patent Due Diligence in M&A: The 14-Point Checklist Acquirers Run (And the 4 Items That Kill 30% of Deals)"
 slug: patent-due-diligence-ma-checklist
 date: 2026-06-12
-url: https://beyondelevation.com/blog/post.html?slug=patent-due-diligence-ma-checklist
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-due-diligence-ma-checklist/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -85,6 +85,20 @@ Most M&A firms outsource patent diligence to patent attorneys who bill hourly an
 
 This operator-first approach surfaces commercial gaps legal diligence misses. A patent may be valid and properly assigned but commercially irrelevant to the acquirer's roadmap. That distinction — legal soundness versus commercial value — is where Hayat Amin's [IP Defensibility 7-Point Test](/blog/posts/ip-defensibility-assessment-framework/) intersects with M&A diligence. The 14-point checklist confirms the portfolio is clean. The defensibility test confirms it is worth paying for.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-due-diligence-ma-checklist)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does patent due diligence take in M&A?
@@ -102,3 +116,6 @@ The team needs patent prosecution knowledge, litigation risk assessment, and com
 ### Can patent issues kill an M&A deal?
 
 Yes. Broken chain of title, undisclosed encumbrances, and active IPR proceedings are the three most common deal killers. Roughly 30% of patent-intensive M&A deals get repriced or terminated due to defects found during patent due diligence in M&A. Pre-sale audits eliminate most of these before they reach the negotiating table.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

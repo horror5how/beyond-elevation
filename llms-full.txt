@@ -2987,3 +2987,19 @@ PatSnap wins on AI-native semantic search and connected innovation intelligence.
 For strategy-layer decisions—portfolio positioning, licensing target identification, M&A IP valuation—none of them replace a human IP strategist. The comparison below uses real-world feature access as of Q2 2026. Pricing ranges reflect disclosed enterprise quotes, not list pri
 
 ---
+
+## Patent Due Diligence in M&A: The 14-Point Checklist Acquirers Run (And the 4 Items That Kill 30% of Deals)
+
+URL: https://beyondelevation.com/blog/posts/patent-due-diligence-ma-checklist/
+
+Thirty percent of M&A deals involving patented technology get repriced or killed during due diligence. Not because the technology fails — because the patents fail. Hayat Amin has run patent due diligence on both sides of the table — structuring portfolios pre-sale and tearing them apart as the buyer's advisor. The pattern repeats: founders overvalue what they filed and ignore what they forgot to file. Acquirers punish both equally.
+
+Patent due diligence in M&A is the single workstream most likely to change the deal price after the LOI is signed. Miss a broken chain of title, an undisclosed cross-licence, or an active IPR proceeding, and the repricing conversation starts within 48 hours. Here is the 14-point checklist that separates clean closes from collapsed deals.
+
+## What Is Patent Due Diligence in M&A?
+
+Patent due diligence in M&A is the structured audit an acquirer runs to verify that a target's patent portfolio is valid, enforceable, properly owned, and commercially aligned with the deal thesis. It runs parallel to financial due diligence but requires specialised IP expertise most corporate M&A teams lack. At Beyond Elevation, patent due diligence starts 60 to 90 days before the LOI — not after.
+
+The scope covers four categories: ownership (who actually holds title), validity (can the patents survive challenge), scope (do the claims protect what the acquirer is paying for), and risk (undisclosed encumbrances, third-party infringement, litigation exposure). Skip any cate
+
+---
