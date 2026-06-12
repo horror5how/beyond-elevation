@@ -3,7 +3,7 @@ date: 2026-06-12
 theme: AI just turned the patent itself into a tradable asset, cheaper to file, dearer to own, and now priced straight into valuations, acquisitions, and licensing splits.
 generated_at: 2026-06-12T04:00:00Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -124,7 +124,9 @@ Follow for the weekly IP repricing signal.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-12T16:16:24.007Z
+share_urn: urn:li:share:7471233954944069632
 hook_format: story
 cta_goal: dm
 slug: one-patent-one-automaker
