@@ -241,3 +241,4 @@
 2026-06-12 12:54 | urn:li:share:7471183252335190016 | IP insurance. Most founders have never bought it.  VCs are starting to ask for i
 2026-06-12 14:08 | urn:li:share:7471201773869805568 | post #3 | three-ip-moves-one-repricing | Three IP moves repriced the market this week.  1. Patlytics raised $40M to turn 
 2026-06-12 16:16 | urn:li:share:7471233954944069632 | post #4 | one-patent-one-automaker | One patent put a startup across the table from VW.  Volkswagen's lawyers are now
+2026-06-12 17:53 | urn:li:share:7471258515530203136 | Most IP licensing deals fall apart at renewal.  Not because the technology faile
