@@ -1,12 +1,5 @@
 [
   {
-    "hash": "40c3efffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "patent-work-got-a-40m-price-tag",
-    "ts": "2026-06-06T17:59:46.256Z"
-  },
-  {
     "hash": "c1c3ffffc1c3ffb9",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "cheap-patents-kill-the-old-moat",
     "ts": "2026-06-12T11:05:40.033Z"
+  },
+  {
+    "hash": "c3c3e7ffe3e7ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "deepgram-paid-for-the-data",
+    "ts": "2026-06-12T12:21:17.397Z"
   }
 ]

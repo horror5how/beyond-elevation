@@ -3,7 +3,7 @@ date: 2026-06-12
 theme: AI just turned the patent itself into a tradable asset, cheaper to file, dearer to own, and now priced straight into valuations, acquisitions, and licensing splits.
 generated_at: 2026-06-12T04:00:00Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ Follow for the claim-quality scorecard I run on portfolios.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-12T12:21:17.397Z
+share_urn: urn:li:share:7471174787411910657
 hook_format: number-led
 cta_goal: clicks
 slug: deepgram-paid-for-the-data

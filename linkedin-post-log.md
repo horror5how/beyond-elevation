@@ -237,3 +237,4 @@
 2026-06-11 19:28 | urn:li:share:7470919928016134147 | post #5 | three-rights-that-set-the-rate | Musicians just sued the major labels over AI licensing deals.  Read the subtext:
 2026-06-12 07:54 | urn:li:share:7471107631626043392 | You hired an ex-OpenAI engineer last month.  No clean room protocol.  No IP cont
 2026-06-12 11:05 | urn:li:share:7471155756730544129 | post #1 | cheap-patents-kill-the-old-moat | Cheaper patents are bad news for patent holders.  Patlytics just raised $40M and
+2026-06-12 12:21 | urn:li:share:7471174787411910657 | post #2 | deepgram-paid-for-the-data | $1.3 billion. For voice data, not a model.  Deepgram raised $130M at a $1.3B val
