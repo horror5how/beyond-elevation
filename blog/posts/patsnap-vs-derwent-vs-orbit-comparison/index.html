@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)</title>
+    <meta name="description" content="PatSnap vs Derwent vs Orbit — which patent search platform wins in 2026? The 12-criteria comparison reveals each tool’s real strength and why a human IP" />
+    <link rel="canonical" href="https://beyondelevation.com/blog/posts/patsnap-vs-derwent-vs-orbit-comparison/" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="GPTBot" content="index, follow" />
+    <meta name="ChatGPT-User" content="index, follow" />
+    <meta name="ClaudeBot" content="index, follow" />
+    <meta name="Claude-Web" content="index, follow" />
+    <meta name="anthropic-ai" content="index, follow" />
+    <meta name="PerplexityBot" content="index, follow" />
+    <meta name="Google-Extended" content="index, follow" />
+    <meta name="Applebot-Extended" content="index, follow" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://beyondelevation.com/blog/posts/patsnap-vs-derwent-vs-orbit-comparison/" />
+    <meta property="og:title" content="PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)" />
+    <meta property="og:description" content="PatSnap vs Derwent vs Orbit — which patent search platform wins in 2026? The 12-criteria comparison reveals each tool’s real strength and why a human IP" />
+    <meta property="og:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Beyond Elevation" />
+    <meta property="article:published_time" content="2026-06-12" />
+    <meta property="article:modified_time" content="2026-06-12" />
+    <meta property="article:author" content="Hayat Amin" />
+    <meta property="article:section" content="Patents" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://beyondelevation.com/blog/posts/patsnap-vs-derwent-vs-orbit-comparison/" />
+    <meta name="twitter:title" content="PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)" />
+    <meta name="twitter:description" content="PatSnap vs Derwent vs Orbit — which patent search platform wins in 2026? The 12-criteria comparison reveals each tool’s real strength and why a human IP" />
+    <meta name="twitter:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta name="twitter:site" content="@BeyondElevation" />
+    <meta name="twitter:creator" content="@HayatAmin" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" /></noscript>
+    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <style>
+      .post-page { padding: 120px 0 90px; }
+      .post-shell { max-width: 720px; margin: 0 auto; }
+      .post-shell h1 { font-size: clamp(2.1rem, 5vw, 3.7rem); max-width: 14ch; line-height: 1.04; letter-spacing: -0.03em; }
+      .post-meta { display:flex; gap: 14px; flex-wrap:wrap; color:#666; margin: 18px 0 30px; font-size: 0.92rem; }
+      .post-body { color:#1f1f1f; line-height: 1.92; font-size: 1.08rem; }
+      .post-body p { margin: 0 0 24px; }
+      .post-body h2 { margin: 48px 0 16px; font-size: 1.55rem; line-height: 1.25; letter-spacing: -0.01em; }
+      .post-body h3 { margin: 36px 0 12px; font-size: 1.2rem; line-height: 1.3; }
+      .post-body a { color: #1a1a1a; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+      .author-block { display:flex; align-items:center; gap: 12px; margin: 18px 0 24px; padding: 0; border: 0; background: transparent; box-shadow:none; }
+      .author-photo { width: 34px; height: 34px; border-radius: 999px; object-fit: cover; }
+      .author-copy strong { display:block; font-size:1rem; color:#1a1a1a; }
+      .author-copy span { color:#666; font-size: 0.93rem; }
+      .post-hero { width: 100%; border-radius: 16px; margin: 24px 0 28px; object-fit: cover; }
+      .post-cta { margin: 48px 0 8px; padding: 28px 28px 24px; border-radius: 16px; background: #FAF7F2; border: 1px solid #ECE6DA; box-shadow: 0 1px 0 rgba(17,17,17,0.02); font-family: 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+      .post-cta h3 { margin: 0 0 12px; font-size: 1.32rem; line-height: 1.25; letter-spacing: -0.018em; color: #111; font-weight: 700; max-width: 28ch; }
+      .post-cta p { margin: 0 0 18px; color: #2a2a2a; line-height: 1.65; font-size: 1rem; }
+      .post-cta .cta-primary { display: inline-flex; align-items: center; gap: 8px; padding: 14px 24px; font-size: 0.95rem; font-weight: 700; letter-spacing: -0.005em; border-radius: 100px; background: #1a1a1a; color: #fff; text-decoration: none; border: 2px solid #1a1a1a; transition: transform 0.2s ease, background 0.2s ease; }
+      .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
+      .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
+      @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
+      .related-posts { margin: 64px 0 0; padding: 48px 0 0; border-top: 1px solid #e8e8e8; }
+      .related-eyebrow { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; }
+      .related-head h2 { margin: 8px 0 28px; font-size: 1.6rem; line-height: 1.18; letter-spacing: -0.02em; color: #1a1a1a; }
+      .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+      .related-card { display: flex; flex-direction: column; gap: 12px; padding: 22px 22px 20px; border-radius: 14px; border: 1px solid #e8e8e8; background: #fff; color: inherit; text-decoration: none; transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease; }
+      .related-card:hover { border-color: #1a1a1a; transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,0.06); }
+      .related-tag { display: inline-block; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #666; }
+      .related-card h3 { font-size: 1.05rem; line-height: 1.32; letter-spacing: -0.012em; color: #1a1a1a; margin: 0; }
+      .related-cta { font-size: 0.82rem; font-weight: 600; color: #1a1a1a; margin-top: auto; }
+      @media (max-width: 760px) { .related-grid { grid-template-columns: 1fr; } }
+      .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
+      .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
+      .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+      .share-btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; font-size: 0.82rem; font-weight: 600; border-radius: 100px; border: 1.5px solid #e0e0e0; background: #fff; color: #333; text-decoration: none; transition: all 0.25s ease; }
+      .share-btn:hover { border-color: #333; background: #1a1a1a; color: #fff; transform: translateY(-1px); }
+      .share-btn svg { width: 16px; height: 16px; fill: currentColor; flex-shrink: 0; }
+      @media (max-width: 760px) {
+        .post-page { padding: 102px 0 72px; }
+        .post-shell { max-width: 100%; }
+        .post-shell h1 { max-width: none; }
+      }
+    </style>
+
+    <!-- Article schema (JSON-LD) -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)","description":"PatSnap vs Derwent vs Orbit — which patent search platform wins in 2026? The 12-criteria comparison reveals each tool’s real strength and why a human IP","image":{"@type":"ImageObject","url":"https://beyondelevation.com/assets/og-image.jpg","contentUrl":"https://beyondelevation.com/assets/og-image.jpg","width":1200,"height":630,"name":"PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)","caption":"PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins) — Beyond Elevation IP strategy insights by Hayat Amin","creditText":"Hayat Amin / Beyond Elevation"},"datePublished":"2026-06-12","dateModified":"2026-06-12","author":{"@type":"Person","name":"Hayat Amin","url":"https://beyondelevation.com/#founder","jobTitle":"CEO of Beyond Elevation"},"publisher":{"@type":"Organization","name":"Beyond Elevation","url":"https://beyondelevation.com","logo":{"@type":"ImageObject","url":"https://beyondelevation.com/assets/og-image.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://beyondelevation.com/blog/posts/patsnap-vs-derwent-vs-orbit-comparison/"},"articleSection":"Patents"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://beyondelevation.com"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://beyondelevation.com/blog/"},{"@type":"ListItem","position":3,"name":"PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)","item":"https://beyondelevation.com/blog/posts/patsnap-vs-derwent-vs-orbit-comparison/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is PatSnap better than Derwent for AI patent searches?","acceptedAnswer":{"@type":"Answer","text":"PatSnap’s semantic search engine outperforms Derwent for broad AI patent discovery, with 35–40% higher recall on concept-based queries. Derwent’s DWPI abstracts deliver superior precision for claim-level analysis once you have identified relevant patents. Use PatSnap for the initial search and Derwent for the deep-dive."}},{"@type":"Question","name":"How much does a patent search platform cost in 2026?","acceptedAnswer":{"@type":"Answer","text":"PatSnap starts at $6K per year for startup tiers and scales to $80K+ for enterprise. Derwent Innovation starts at $30K and reaches $120K+ with full modules. Orbit Intelligence runs $15K–$60K depending on the module stack. Negotiate—list prices run 30–50% above close rates."}},{"@type":"Question","name":"Can a patent search platform replace a patent attorney or IP strategist?","acceptedAnswer":{"@type":"Answer","text":"No. Patent search platforms find data. They do not draft claims, file applications, or prosecute rejections. They also do not build licensing strategies, value portfolios, or position IP for M&A. A platform plus a fractional IP strategist delivers more value than a platform plus an untrained internal user."}},{"@type":"Question","name":"Which patent search platform is best for startups?","acceptedAnswer":{"@type":"Answer","text":"PatSnap’s Innovation Cloud tier offers the best entry point for startups—AI-native search at $6K per year with connected company and funding data. Once you pass 50 active patent families, evaluate Orbit for portfolio management. Derwent is rarely cost-justified below $10M in revenue unless you face active litigation."}}]}</script>
+
+    <!-- Analytics: Vercel + Speed Insights -->
+    <script defer src="/_vercel/insights/script.js"></script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
+    <!-- /Analytics -->
+
+    <!-- PostHog -->
+    <script>
+      !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture identify alias people set set_once register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures startSessionRecording stopSessionRecording captureException loadToolbar".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+      posthog.init('phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM',{api_host:'https://us.i.posthog.com',capture_pageview:true,capture_pageleave:true,autocapture:true,person_profiles:'always'});
+    </script>
+    <!-- /PostHog -->
+  </head>
+  <body>
+    <header class="topbar shell is-scrolled">
+      <a class="brand" href="/">
+        <span class="brand-dot"></span>
+        <span>Beyond Elevation</span>
+      </a>
+      <nav>
+        <a href="/blog/">Insights</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+      <a class="button button-ghost small" href="/#contact">Book a Strategy Session</a>
+    </header>
+
+    <main class="shell post-page">
+      <article id="post" class="post-shell">
+        <span class="eyebrow">Patents</span>
+        <h1>PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)</h1>
+        <div class="author-block">
+          <img class="author-photo" src="/assets/be-author-headshot.jpg" alt="Hayat Amin" loading="eager" />
+          <div class="author-copy">
+            <strong>Hayat Amin</strong>
+            <span>CEO of Beyond Elevation · IP strategy &amp; licensing</span>
+          </div>
+        </div>
+        <img class="post-hero" src="https://beyondelevation.com/assets/og-image.jpg" alt="PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)" loading="eager" />
+        <div class="post-meta">
+          <span>Hayat Amin</span>
+          <span>2026-06-12</span>
+          
+        </div>
+        <div class="post-body">
+<p>Three patent search platforms dominate enterprise IP budgets in 2026: PatSnap, Derwent Innovation, and Orbit Intelligence. Collectively they absorb over 70% of corporate patent analytics spend. Hayat Amin has run landscape analyses on all three for clients ranging from pre-Series A AI startups to FTSE 100 acquirers—and the verdict is never “pick the most expensive one.” The right platform depends on three variables: what you search for, how you use the results, and whether you need a tool or a strategy.</p>
+
+<p>Founders drop $15K to $100K per year on patent search platforms without answering the one question that matters: does this tool actually change the decisions I make? This PatSnap vs Derwent vs Orbit comparison answers it across 12 criteria—then explains why the highest-ROI option for most companies is not a platform at all.</p>
+
+<h2>Which Patent Search Platform Wins—PatSnap vs Derwent vs Orbit?</h2>
+
+<p>PatSnap wins on AI-native semantic search and connected innovation intelligence. Derwent Innovation wins on prosecution-grade data quality and claim-level litigation analytics. Orbit Intelligence wins on portfolio management workflows and European PCT filing coverage. No single platform leads across all 12 criteria.</p>
+
+<p>For strategy-layer decisions—portfolio positioning, licensing target identification, M&A IP valuation—none of them replace a human IP strategist. The comparison below uses real-world feature access as of Q2 2026. Pricing ranges reflect disclosed enterprise quotes, not list prices, which inflate 30–50% above close rates.</p>
+
+<h2>How Does PatSnap Compare to Derwent and Orbit on AI-Powered Search?</h2>
+
+<p>PatSnap leads the AI-powered patent search category with a <a href="/blog/posts/semantic-patent-search-explained/">semantic search engine</a> that uses LLM embeddings to surface relevant prior art traditional keyword search misses. Internal benchmarks show a 35–40% recall improvement over Boolean-only platforms. Its Connected Innovation Intelligence module maps patents to companies, products, and funding data in a single view. Startups and corporate innovation teams extract the most value here.</p>
+
+<p>Where PatSnap breaks: claim-level granularity. PatSnap’s semantic search operates at the document level, not the claim level. For freedom-to-operate analyses and infringement mapping, this gap forces IP counsel back to manual claim charts. Hayat Amin argues this is the critical blind spot most PatSnap buyers discover six months into their subscription—the platform finds relevant patents fast but cannot tell you which specific claim your product infringes.</p>
+
+<p>PatSnap pricing sits at $12K–$40K per year for standard tiers, scaling to $80K+ for enterprise-wide access with API. Startups on Innovation Cloud get a lighter version starting around $6K per year.</p>
+
+<h2>When Should You Choose Derwent Innovation Over PatSnap or Orbit?</h2>
+
+<p>Derwent Innovation is the prosecution and litigation workhorse—built on Clarivate’s Derwent World Patents Index (DWPI), the only human-curated patent abstract database covering 50+ patent authorities. Every DWPI record includes rewritten abstracts and standardised titles that make cross-lingual prior art searches reliable in ways automated translations still cannot match. Patent litigators and in-house counsel running invalidity or non-infringement analyses need this level of data integrity.</p>
+
+<p>Derwent’s claim-level parsing and <a href="/blog/posts/patent-citation-analysis-portfolio-value/">citation analysis tools</a> outperform both PatSnap and Orbit for building evidence-grade claim charts. Forward and backward citation mapping is cleaner because the underlying DWPI data normalises inventor names, assignee names, and classification codes that the other two platforms pull raw from patent office feeds.</p>
+
+<p>The tradeoff: Derwent’s interface is built for trained patent analysts, not startup founders. The learning curve runs 40–80 hours before a new user operates at full speed. Enterprise subscriptions start at $30K per year and reach $120K+ with full ThemeScape landscape visualisation and Derwent Data Analyzer modules.</p>
+
+<h2>When Does Orbit Intelligence Beat PatSnap and Derwent?</h2>
+
+<p>Orbit Intelligence from Questel wins on portfolio management and collaborative workflow features that PatSnap and Derwent treat as afterthoughts. IP departments managing 500+ active patent families across multiple jurisdictions need Orbit’s automated annuity tracking, renewal deadline management, and multi-user workflow tools that connect search, analysis, and prosecution management in a single ecosystem.</p>
+
+<p>Orbit’s European filing coverage is the strongest of the three—Questel’s roots in French patent data give it deeper coverage of EPO, WIPO PCT, and national European office filings than PatSnap or Derwent. For companies with significant European patent portfolios or PCT-heavy filing strategies, Orbit’s jurisdictional data is the most reliable source.</p>
+
+<p>Where Orbit falls short: AI-native search capabilities lag 18–24 months behind PatSnap’s semantic engine, and landscape visualisation tools are less intuitive than Derwent’s ThemeScape. Pricing runs $15K–$60K per year depending on module selection, making it the mid-range option for most enterprises.</p>
+
+<h2>PatSnap vs Derwent vs Orbit: The 12-Criteria Comparison Framework</h2>
+
+<p><a href="https://beyondelevation.com">Beyond Elevation’s</a> IP advisory team evaluates these platforms across 12 operational criteria. Here is how they stack up in 2026:</p>
+
+<p><strong>1. AI/Semantic Search:</strong> PatSnap leads. Derwent and Orbit rely primarily on Boolean with emerging AI features.</p>
+<p><strong>2. Data Coverage Depth:</strong> Derwent leads with DWPI human-curated abstracts across 50+ authorities. PatSnap and Orbit use raw patent office feeds.</p>
+<p><strong>3. Claim-Level Analysis:</strong> Derwent leads. PatSnap document-level only. Orbit mid-tier.</p>
+<p><strong>4. Portfolio Management:</strong> Orbit leads with annuity tracking, renewal alerts, and prosecution workflow. Derwent and PatSnap lack native portfolio management.</p>
+<p><strong>5. Landscape Visualisation:</strong> Derwent ThemeScape leads. PatSnap competitive. Orbit basic.</p>
+<p><strong>6. FTO Support:</strong> Derwent leads on data quality for <a href="/blog/posts/freedom-to-operate-analysis-guide/">freedom-to-operate analysis</a>. PatSnap faster for initial scoping. Orbit adequate.</p>
+<p><strong>7. European Coverage:</strong> Orbit leads with EPO, WIPO PCT, and national European offices. Derwent strong. PatSnap adequate.</p>
+<p><strong>8. Connected Innovation Intelligence:</strong> PatSnap leads—maps patents to companies, funding rounds, and products. Derwent and Orbit do not offer this.</p>
+<p><strong>9. Pricing Accessibility:</strong> PatSnap most accessible (from $6K/yr). Orbit mid-range ($15K+). Derwent premium ($30K+).</p>
+<p><strong>10. API and Data Export:</strong> PatSnap leads with developer-friendly APIs. Derwent adequate. Orbit limited.</p>
+<p><strong>11. <a href="/blog/posts/patent-litigation-analytics-risk-scoring/">Litigation Analytics:</a></strong> Derwent leads with LitCite integration. PatSnap basic. Orbit minimal.</p>
+<p><strong>12. Learning Curve:</strong> PatSnap easiest (10–20 hours). Orbit moderate (20–40 hours). Derwent steepest (40–80 hours).</p>
+
+<h2>When Does a Human IP Strategist Beat PatSnap, Derwent, and Orbit Combined?</h2>
+
+<p>Patent search platforms answer data questions—who filed what, when, and where. They do not answer strategy questions—what should you file, what should you license, and what is the portfolio actually worth to a buyer. That gap is where the subscription cost stops mattering and the strategic cost starts compounding.</p>
+
+<p>Hayat Amin’s Patent Platform Decision Tree—the diagnostic Beyond Elevation runs before recommending any tool—asks three questions first. One: are you searching to file, to defend, or to monetise? Two: does your team have a trained patent analyst, or will a founder be running queries? Three: is the output feeding a board deck, a litigation brief, or a licensing negotiation? The answers determine whether you need a platform at all.</p>
+
+<p>Most startups spending $15K–$40K on PatSnap or Orbit generate landscape reports no one reads and prior art searches no one acts on. Hayat Amin showed one portfolio review client that their $35K annual PatSnap subscription had produced zero strategic decisions in 14 months—the search results were accurate but no one on the team knew what to do with them. A fractional IP strategist working 10 hours per month identified three licensable patent clusters the platform had surfaced but no one had recognised.</p>
+
+<p>The data is the commodity. The <a href="/blog/posts/best-patsnap-alternatives-2026/">PatSnap alternatives comparison</a> confirms it—every major platform covers 100+ million patent documents. The strategic layer on top is what converts a search result into revenue, a licensing target, or an acquisition premium. That layer requires someone who has sat in the deal room.</p>
+
+<p>Hayat Amin reminds founders evaluating patent search platforms: “The tool tells you what exists. The strategist tells you what it is worth, who will pay for it, and how to structure the deal. One costs $15K a year. The other changes your exit multiple.” Beyond Elevation provides the strategist layer—the <a href="/blog/posts/fractional-ip-counsel-explained/">fractional IP advisory</a> that turns platform data into defensible commercial outcomes.</p>
+
+
+<aside class="post-cta">
+  <h3>You just read the framework. Now price your own IP.</h3>
+  <p>Beyond Elevation runs a 60-minute IP &amp; licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.</p>
+  <a class="cta-primary" href="https://usemotion.com/meet/hayat-amin/be?ref=blog-patsnap-vs-derwent-vs-orbit-comparison" target="_blank" rel="noreferrer">Book the diagnostic →</a>
+  <p class="cta-fineprint">14 founders booked this month. Hayat takes 4/week.</p>
+</aside>
+<h2>FAQ</h2>
+
+<h3>Is PatSnap better than Derwent for AI patent searches?</h3>
+<p>PatSnap’s semantic search engine outperforms Derwent for broad AI patent discovery, with 35–40% higher recall on concept-based queries. Derwent’s DWPI abstracts deliver superior precision for claim-level analysis once you have identified relevant patents. Use PatSnap for the initial search and Derwent for the deep-dive.</p>
+
+<h3>How much does a patent search platform cost in 2026?</h3>
+<p>PatSnap starts at $6K per year for startup tiers and scales to $80K+ for enterprise. Derwent Innovation starts at $30K and reaches $120K+ with full modules. Orbit Intelligence runs $15K–$60K depending on the module stack. Negotiate—list prices run 30–50% above close rates.</p>
+
+<h3>Can a patent search platform replace a patent attorney or IP strategist?</h3>
+<p>No. Patent search platforms find data. They do not draft claims, file applications, or prosecute rejections. They also do not build licensing strategies, value portfolios, or position IP for M&A. A platform plus a fractional IP strategist delivers more value than a platform plus an untrained internal user.</p>
+
+<h3>Which patent search platform is best for startups?</h3>
+<p>PatSnap’s Innovation Cloud tier offers the best entry point for startups—AI-native search at $6K per year with connected company and funding data. Once you pass 50 active patent families, evaluate Orbit for portfolio management. Derwent is rarely cost-justified below $10M in revenue unless you face active litigation.</p>
+        </div>
+
+        <aside class="related-posts" aria-label="Related insights">
+          <div class="related-head">
+            <span class="related-eyebrow">Continue reading</span>
+            <h2>Related insights</h2>
+          </div>
+          <div class="related-grid">
+            <a class="related-card" href="/blog/posts/ai-patent-search-tools-2026/">
+              <span class="related-tag">AI</span>
+              <h3>AI Patent Search in 2026: The 7 Tools That Use LLM Embeddings Instead of Boolean (And Which One Beats PatSnap on Recall)</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/best-patsnap-alternatives-2026/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>The 8 Best PatSnap Alternatives in 2026 — Honestly Reviewed (And the One That Is Not Software)</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/trade-secrets-vs-patents-strategy-guide/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>Trade Secrets vs Patents: When to Use Each in Your IP Strategy</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/what-is-ip-strategy-founder-definition/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>What Is IP Strategy? The Definition VCs Use (Not the One Your Lawyer Uses)</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+          </div>
+        </aside>
+
+        <div class="share-bar">
+          <div class="share-bar-label">Share this article</div>
+          <div class="share-buttons">
+            <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatsnap-vs-derwent-vs-orbit-comparison%2F" target="_blank" rel="noopener">LinkedIn</a>
+            <a class="share-btn" href="https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatsnap-vs-derwent-vs-orbit-comparison%2F&text=PatSnap%20vs%20Derwent%20vs%20Orbit%20Intelligence%3A%20The%2012-Criteria%20Comparison%20(And%20the%20One%20Use%20Case%20Where%20Each%20One%20Wins)%20%E2%80%94%20Beyond%20Elevation" target="_blank" rel="noopener">X</a>
+            <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fpatsnap-vs-derwent-vs-orbit-comparison%2F" target="_blank" rel="noopener">Facebook</a>
+          </div>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>

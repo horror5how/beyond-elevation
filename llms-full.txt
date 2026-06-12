@@ -2971,3 +2971,19 @@ A technology landscape report is a structured analysis of every patent, publicat
 Unlike a narrower [patent landscape analysis](/blog/posts/patent-landscape-analysis/) that maps filing density and claim clusters, a technology landscape report goes wider. 
 
 ---
+
+## PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)
+
+URL: https://beyondelevation.com/blog/posts/patsnap-vs-derwent-vs-orbit-comparison/
+
+Three patent search platforms dominate enterprise IP budgets in 2026: PatSnap, Derwent Innovation, and Orbit Intelligence. Collectively they absorb over 70% of corporate patent analytics spend. Hayat Amin has run landscape analyses on all three for clients ranging from pre-Series A AI startups to FTSE 100 acquirers—and the verdict is never “pick the most expensive one.” The right platform depends on three variables: what you search for, how you use the results, and whether you need a tool or a strategy.
+
+Founders drop $15K to $100K per year on patent search platforms without answering the one question that matters: does this tool actually change the decisions I make? This PatSnap vs Derwent vs Orbit comparison answers it across 12 criteria—then explains why the highest-ROI option for most companies is not a platform at all.
+
+## Which Patent Search Platform Wins—PatSnap vs Derwent vs Orbit?
+
+PatSnap wins on AI-native semantic search and connected innovation intelligence. Derwent Innovation wins on prosecution-grade data quality and claim-level litigation analytics. Orbit Intelligence wins on portfolio management workflows and European PCT filing coverage. No single platform leads across all 12 criteria.
+
+For strategy-layer decisions—portfolio positioning, licensing target identification, M&A IP valuation—none of them replace a human IP strategist. The comparison below uses real-world feature access as of Q2 2026. Pricing ranges reflect disclosed enterprise quotes, not list pri
+
+---
