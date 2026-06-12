@@ -1,17 +1,19 @@
-You hired an ex-OpenAI engineer last month.
+IP insurance. Most founders have never bought it.
 
-No clean room protocol.
+VCs are starting to ask for it before Series B.
 
-No IP contamination audit.
+Patent litigation costs $3.5M to defend on average.
 
-No trade secret wall between their prior work and yours.
+IP insurance covers 80% of those legal fees.
 
-84% of AI startups that hired from foundation model labs never ran an IP contamination assessment.
+Annual premium: $50–80K.
 
-Average cost to defend a trade secret claim triggered by an employee hire: $2.4M.
+Positive expected value from day one if you've filed 3+ patents.
 
-The clean room process takes 6 weeks and costs $30K.
+Most startups skip it. They treat IP as a filing cost, not a business risk.
 
-Do the math before counsel does it for you.
+The ones who carry it close rounds faster.
 
-#IPStrategy #AIStartups #TradeSecrets
+3 providers worth knowing: Tokio Marine, CFC Underwriting, Munich Re IP.
+
+#IPStrategy #Patents #StartupFinance
