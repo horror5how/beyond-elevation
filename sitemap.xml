@@ -164,6 +164,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/neural-interface-patent-landscape-2026/</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>The Neural Interface Patent Landscape: Neuralink vs Synchron vs Paradromics — Who Actually Owns the IP Stack (And the 2 Gaps Worth $1B)</image:title>
+      <image:caption>The Neural Interface Patent Landscape: Neuralink vs Synchron vs Paradromics — Who Actually Owns the IP Stack (And the 2 Gaps Worth $1B) — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/neural-interface-patent-landscape-2026/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/freedom-to-operate-analysis-guide/</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -2046,11 +2058,5 @@
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=neural-interface-patent-landscape-2026</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
