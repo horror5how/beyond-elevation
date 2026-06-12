@@ -1,198 +1,183 @@
 ---
-date: 2026-06-11
-theme: AI is repricing intellectual property in real time. This week capital, acquisitions, and lawsuits all moved to put IP on the balance sheet, and most founders still book it as a legal cost.
-generated_at: 2026-06-11T04:00:00Z
+date: 2026-06-12
+theme: AI just turned the patent itself into a tradable asset, cheaper to file, dearer to own, and now priced straight into valuations, acquisitions, and licensing splits.
+generated_at: 2026-06-12T04:00:00Z
 posts_total: 6
-posts_published: 5
+posts_published: 0
 ---
 
 # Daily theme
-This week the market stopped arguing about whether IP matters and started pricing it. $65M poured into AI patent tooling, Warner bought an AI company to monetize its catalog, the music publishers signed the first AI training licenses, and musicians sued over who gets paid. Every story points the same way: intellectual property is moving from the legal department to the P&L. The posts below force founders and finance leaders to see their IP as an asset that earns, not a cost that protects.
+In one week the market stopped treating intellectual property as paperwork and started trading it. Patlytics raised $40M to make filing cheap, Deepgram cleared a $1.3B valuation on its data and patents, Warner bought an AI firm to license its catalog, the NMPA cut the first industry-wide AI music split, and a tiny EV company put its single charging patent in front of Volkswagen's lawyers. Every story says the same thing to founders and finance leaders: IP is moving out of the legal column and into the P&L, and the only number that counts now is what your claims earn.
 
 # Topic shortlist (research notes, not posted)
-1. Solve Intelligence raises $40M Series B: capital is pricing the automation of a $200B patent market | $40M / 10x revenue / $200B+ market
-2. DeepIP raises $25M Series B: filing cost is collapsing toward software pricing | $25M, ~$20K legacy cost per filing
-3. Deepgram raises $130M Series C at $1.3B: valuation pays for proprietary data and patents, not the model | $130M / $1.3B valuation
-4. Warner Music acquires Sureel AI: IP flips from a wall against piracy to a toll booth on AI training | first move, 20 years of old framing
-5. NMPA signs licensing deals with Udio and KLAY: first industry wide AI music licensing pacts | 2 AI firms, first ever
-6. AFM sues major labels over AI licensing: the fight is the royalty table, not stopping AI | 3 rights that set the rate, $0 without them
-7. Clarivate rebuilds IP segment around AI under new leadership: portfolio audits become default diligence | full segment restructure
+1. Patlytics $40M Series B, AI for IP work, filing cost collapsing toward software pricing | $40M, ~$20K legacy cost
+2. Deepgram $130M Series C at $1.3B, valuation paid on data and patents not the model | $130M / $1.3B, Distyl $175M / $1.8B comp
+3. Warner buys Sureel AI plus NMPA signs Udio and KLAY 50/50, IP becomes a toll booth on AI training | first industry-wide pact, 50/50 split
+4. Electros vs Volkswagen, one multi-port EV charging patent forces a global automaker to the table | 1 claim vs 100 vanity filings
+5. Qualcomm licensing margin vs chip margin, EUIPO and WSJ both flag IP as undervalued growth | 65%+ vs single digit margin
+6. Pre-raise IP audit becomes default diligence as tooling capital floods in | carried, $65M, 2027
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-06-11T11:26:35.865Z
-share_urn: urn:li:share:7470798633551159297
+status: pending
 hook_format: contrarian
 cta_goal: follows
-slug: ai-for-patents-is-a-margin-story
-keyword: AI patent valuation
-numbers_check: $40M, 10x, $200B+
-image_direction: bold statement headline with three metric tiles, dark balance-sheet motif
-headline: AI for patents raised $40M.<br>That is a margin story.
+slug: cheap-patents-kill-the-old-moat
+keyword: patent portfolio value
+numbers_check: $40M, $25M, $20K
+image_direction: contrarian headline, tiles on capital, old filing cost, and the shift to claim quality
+headline: Cheap patents kill<br>the old moat.
 metric_1: $40M
-label_1: SERIES B<br>RAISED
-metric_2: 10x
-label_2: REVENUE<br>GROWTH
-metric_3: $200B+
-label_3: PATENT<br>MARKET
+label_1: INTO AI<br>PATENT TOOLS
+metric_2: $20K
+label_2: OLD COST<br>PER FILING
+metric_3: 2027
+label_3: CLAIMS BEAT<br>COUNT
 
-AI for patents just raised $40M.
+Cheaper patents are bad news for patent holders.
 
-Everyone read it as a legal tech story.
+Patlytics just raised $40M and DeepIP $25M to drop filing cost from roughly $20K toward software pricing.
 
-It is a margin story.
+Here is what nobody says: when filing gets cheap, holding 20 patents stops being a moat. Scarcity was the moat.
 
-Solve Intelligence grew revenue 10x, then closed a $40M Series B against a $200B+ patent market that still runs on billable hours.
+Value moves from how many you own to what your claims earn. Licensing revenue is the only number that survives the shift.
 
-VCs did not bet on patents. They bet on the gross margin of automating the one cost center founders refuse to touch.
+The portfolios that win in 2027 are not the biggest. They are the ones with claims a competitor has to pay to cross.
 
-Translation: defending your IP just got cheap. Skipping it is now a choice, not a budget line.
+Follow for the claim-quality scorecard I run on portfolios.
 
-#PatentStrategy #IPStrategy #StartupFinance
+#IPStrategy #PatentLaw #StartupFunding
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-06-11T12:48:11.121Z
-share_urn: urn:li:share:7470819165973684224
+status: pending
 hook_format: number-led
-cta_goal: follows
-slug: sixty-five-million-moved-the-moat
-keyword: patent filing cost
-numbers_check: $65M, $25M, $40M, $20K, 3
-image_direction: number-forward headline, three tiles emphasizing cost collapse
-headline: $65M into AI patents.<br>The moat just moved.
-metric_1: $65M
-label_1: RAISED<br>IN A WEEK
-metric_2: $20K
-label_2: OLD COST<br>PER FILING
-metric_3: 3
-label_3: CLAIMS THAT<br>MATTER
+cta_goal: clicks
+slug: deepgram-paid-for-the-data
+keyword: AI valuation data asset
+numbers_check: $1.3B, $130M, $1.8B
+image_direction: number-led headline, tiles on valuation, raise, and comparable multiple
+headline: They paid $1.3B<br>for the data.
+metric_1: $1.3B
+label_1: DEEPGRAM<br>VALUATION
+metric_2: $130M
+label_2: SERIES C<br>RAISED
+metric_3: $1.8B
+label_3: DISTYL AI<br>VALUATION
 
-$65M flowed into AI patent startups this week.
+$1.3 billion. For voice data, not a model.
 
-DeepIP took $25M. Solve Intelligence took $40M.
+Deepgram raised $130M at a $1.3B valuation this week. Anyone can train a speech model now. Almost nobody owns its years of labeled audio.
 
-Both are killing the same line item: the $15K to $20K it costs to draft and file one patent.
+The valuation multiple was paid on the data asset and the patents around it, not the code.
 
-When filing gets cheap, the moat stops being your legal budget.
+Same pattern at Distyl AI: $175M at $1.8B. The model is the commodity. The proprietary input is the moat.
 
-It becomes knowing which 3 claims actually protect your revenue.
+If your deck prices your model and ignores your data rights, you are selling the cheap half.
 
-Most founders file to look protected. Few file to set pricing power.
+I broke down how data assets earn a multiple. Link in comments.
 
-#PatentStrategy #IPStrategy #DeepTech
+#AIValuation #DataStrategy #Patents
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-06-11T14:34:05.872Z
-share_urn: urn:li:share:7470845822033707009
-hook_format: story
-cta_goal: clicks
-slug: not-the-model-the-ip
-keyword: AI company valuation
-numbers_check: $130M, $1.3B, 0
-image_direction: valuation story headline, tiles contrasting raise vs model lifespan
-headline: $130M at a $1.3B valuation.<br>Not for the model.
-metric_1: $130M
-label_1: SERIES C<br>RAISED
-metric_2: $1.3B
-label_2: VALUATION
-metric_3: 0
-label_3: MONTHS MODEL<br>STAYS UNIQUE
+status: pending
+hook_format: listicle
+cta_goal: follows
+slug: three-ip-moves-one-repricing
+keyword: AI licensing revenue
+numbers_check: $40M, 50/50, 3
+image_direction: listicle headline, tiles on raise, music split, and first-ever pact
+headline: 3 IP moves.<br>One repricing.
+metric_1: $40M
+label_1: PATLYTICS<br>SERIES B
+metric_2: 50/50
+label_2: AI MUSIC<br>SPLIT
+metric_3: 1st
+label_3: INDUSTRY<br>WIDE PACT
 
-Deepgram just raised $130M at a $1.3B valuation.
+Three IP moves repriced the market this week.
 
-The model is not the asset. Open source voice models catch up in months.
+1. Patlytics raised $40M to turn patent work into software. Filing cost is collapsing.
 
-What does not catch up: the proprietary speech data and the patents around how it gets processed.
+2. Warner Music bought Sureel AI to license its catalog into AI training. IP flipped from a shield into a toll booth.
 
-That is the line on the balance sheet a $1.3B valuation actually pays for.
+3. The NMPA signed Udio and KLAY to a 50/50 split, the first industry-wide AI music licensing pacts.
 
-Founders chase model performance. Acquirers pay for the IP nobody else can rebuild.
+One theme runs through all three: intellectual property is moving from the legal column to the revenue column.
 
-See how an IP asset gets valued under an AI valuation. Link in comments.
+The metric that matters is licensing revenue per asset, not patents filed.
 
-#AIValuation #IPStrategy #VoiceAI
+Follow for the weekly IP repricing signal.
+
+#IPStrategy #AILicensing #MusicBusiness
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-06-11T16:52:54.443Z
-share_urn: urn:li:share:7470880754709909504
-hook_format: frame-break
-cta_goal: clicks
-slug: ip-is-a-toll-booth-not-a-wall
-keyword: AI licensing revenue
-numbers_check: 2, 20, first
-image_direction: frame-break headline, tiles on first license and old framing
-headline: Warner did not protect its catalog.<br>It put a toll booth on it.
-metric_1: 1st
-label_1: INDUSTRY WIDE<br>AI LICENSE
-metric_2: 2
-label_2: AI FIRMS<br>SIGNED
-metric_3: 20yr
-label_3: IP TREATED<br>AS A WALL
+status: pending
+hook_format: story
+cta_goal: dm
+slug: one-patent-one-automaker
+keyword: patent licensing leverage
+numbers_check: 1, 100, 1
+image_direction: story headline, tiles on the single claim, vanity filings beaten, and automaker at the table
+headline: One patent.<br>One automaker.
+metric_1: 1
+label_1: CLAIM ON<br>VW ROADMAP
+metric_2: 100
+label_2: VANITY FILINGS<br>OUTWEIGHED
+metric_3: 1
+label_3: AUTOMAKER<br>REVIEWING
 
-Warner Music just bought an AI company to protect its catalog.
+One patent put a startup across the table from VW.
 
-Wrong frame.
+Volkswagen's lawyers are now reviewing Electros' multi-port EV charging patent. That review is the whole story.
 
-It bought a way to sell that catalog into AI training. The same week, the music publishers signed their first industry wide licensing deals with 2 AI music firms, Udio and KLAY.
+A company most people never heard of holds a claim a global automaker has to deal with. 1 claim, not 1,000 filings.
 
-Recorded music spent 20 years treating IP as a wall against piracy.
+This is the leverage founders miss: a single well-drafted patent on the right method beats 100 vanity filings that protect nothing.
 
-Now it is a toll booth on every model that wants to learn from it.
+The KPI is not patent count. It is whether 1 of your claims sits on a competitor's roadmap.
 
-Your IP is not a legal cost. It is an unbuilt revenue line.
+DM me CLAIM and I will pressure-test your strongest one.
 
-Which of your assets could charge rent? Link in comments.
-
-#IPStrategy #AILicensing #Monetization
+#PatentStrategy #EVcharging #IP
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-06-11T19:28:34.295Z
-share_urn: urn:li:share:7470919928016134147
-hook_format: listicle
-cta_goal: dm
-slug: three-rights-that-set-the-rate
-keyword: IP pricing power
-numbers_check: 3, 1, $0
-image_direction: listicle headline, tiles on the three rights and the cost of zero
-headline: Musicians are suing<br>for a cut of AI.
-metric_1: 3
-label_1: RIGHTS THAT<br>SET THE RATE
-metric_2: $0
-label_2: EARNED<br>WITHOUT THEM
+status: pending
+hook_format: frame-break
+cta_goal: clicks
+slug: ip-is-margin-not-cost
+keyword: IP licensing margin
+numbers_check: 65%, single digit, 2
+image_direction: frame-break headline, tiles on licensing margin, chip margin, and one company two P&Ls
+headline: IP is not a cost.<br>It is margin.
+metric_1: 65%+
+label_1: LICENSING<br>OP MARGIN
+metric_2: <10%
+label_2: CHIP BIZ<br>MARGIN
 metric_3: 1
-label_3: LICENSING<br>MECHANISM
+label_3: COMPANY<br>TWO P&Ls
 
-Musicians just sued the major labels over AI licensing deals.
+Your IP is not legal cover. It is your highest-margin product.
 
-Read the subtext: nobody is trying to stop AI anymore. They are fighting over who gets paid.
+Qualcomm proves it. Its licensing arm runs operating margins above 65%, while its chip business fights below 10%. Same company, same patents, 2 very different P&Ls.
 
-3 things that turn IP from a cost into pricing power:
+The EUIPO just called IP an overlooked driver of growth. A WSJ feature this week called it king.
 
-1. Registered rights, not just we made it first
+Most founders still book IP as a legal expense and never report what it earns.
 
-2. A licensing mechanism, so the asset can actually charge
+Pull licensing revenue and its gross margin onto their own line. Investors re-rate what they can finally see.
 
-3. Proof of use, so infringement carries a price tag
+I broke down the Qualcomm split. Link in comments.
 
-Own all 3 and your IP sets the rate. Own none and you collect $0 on work you created.
-
-DM me IP and I will send the one page asset checklist.
-
-#IPStrategy #AILicensing #Royalties
+#IPStrategy #GrossMargin #Valuation
 
 ---
 
