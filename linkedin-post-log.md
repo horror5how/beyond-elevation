@@ -235,3 +235,4 @@
 2026-06-11 16:52 | urn:li:share:7470880754709909504 | post #4 | ip-is-a-toll-booth-not-a-wall | Warner Music just bought an AI company to protect its catalog.  Wrong frame.  It
 2026-06-11 17:54 | urn:li:share:7470896208329388032 | VCs claim they fund capital-efficient AI. They actually fund capital-efficient A
 2026-06-11 19:28 | urn:li:share:7470919928016134147 | post #5 | three-rights-that-set-the-rate | Musicians just sued the major labels over AI licensing deals.  Read the subtext:
+2026-06-12 07:54 | urn:li:share:7471107631626043392 | You hired an ex-OpenAI engineer last month.  No clean room protocol.  No IP cont
