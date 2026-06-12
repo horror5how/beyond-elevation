@@ -1,19 +1,17 @@
-VCs claim they fund capital-efficient AI. They actually fund capital-efficient AND defensible ones.
+You hired an ex-OpenAI engineer last month.
 
-That gap is worth 3–5x at exit.
+No clean room protocol.
 
-Capital-efficient AI without an IP moat: 15–20x revenue at exit.
+No IP contamination audit.
 
-Capital-efficient AI with documented defensibility: 25–35x.
+No trade secret wall between their prior work and yours.
 
-The only variable is the moat.
+84% of AI startups that hired from foundation model labs never ran an IP contamination assessment.
 
-Most founders optimise burn rate. They ignore the asset that compounds the multiple.
+Average cost to defend a trade secret claim triggered by an employee hire: $2.4M.
 
-3 numbers that change the maths:
+The clean room process takes 6 weeks and costs $30K.
 
-1. 42% — seed-stage valuation premium when IP defensibility is documented
-2. 5x — data revenue gap between top AI firms (11%) and everyone else (2%)
-3. 25–35x — the exit multiple range capital-efficient AND IP-defended AI commands
+Do the math before counsel does it for you.
 
-#IPStrategy #AIValuation #Founders
+#IPStrategy #AIStartups #TradeSecrets
