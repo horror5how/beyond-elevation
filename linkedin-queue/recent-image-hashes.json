@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff0101",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "not-the-model-the-ip",
-    "ts": "2026-06-11T14:34:05.872Z"
-  },
-  {
     "hash": "e781ffffffffb4a0",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "one-patent-one-automaker",
     "ts": "2026-06-12T16:16:24.007Z"
+  },
+  {
+    "hash": "7ef9f01133f7ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "ip-is-margin-not-cost",
+    "ts": "2026-06-12T18:57:24.015Z"
   }
 ]

@@ -3,7 +3,7 @@ date: 2026-06-12
 theme: AI just turned the patent itself into a tradable asset, cheaper to file, dearer to own, and now priced straight into valuations, acquisitions, and licensing splits.
 generated_at: 2026-06-12T04:00:00Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -158,7 +158,9 @@ DM me CLAIM and I will pressure-test your strongest one.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-12T18:57:24.015Z
+share_urn: urn:li:share:7471274472302473216
 hook_format: frame-break
 cta_goal: clicks
 slug: ip-is-margin-not-cost
