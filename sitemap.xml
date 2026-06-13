@@ -164,6 +164,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/patent-data-visualization-compared/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>Patent Data Visualization Compared: PatSnap Heatmaps vs Derwent Innovation vs Orbit Intelligence (And the Free Python Stack That Beats All Three)</image:title>
+      <image:caption>Patent Data Visualization Compared: PatSnap Heatmaps vs Derwent Innovation vs Orbit Intelligence (And the Free Python Stack That Beats All Three) — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/patent-data-visualization-compared/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/patsnap-vs-derwent-vs-orbit-comparison/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -2081,18 +2093,6 @@
       <image:title>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For</image:title>
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/patent-data-visualization-compared/</loc>
-    <lastmod>2026-06-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
-      <image:title>Patent Data Visualization Compared: PatSnap Heatmaps vs Derwent Innovation vs Orbit Intelligence</image:title>
-      <image:caption>Patent Data Visualization Compared — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
-      <image:license>https://beyondelevation.com/blog/posts/patent-data-visualization-compared/</image:license>
     </image:image>
   </url>
 </urlset>
