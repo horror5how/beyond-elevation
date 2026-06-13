@@ -1,17 +1,21 @@
-Most IP licensing deals fall apart at renewal.
+AI now writes the first draft of your company's valuation.
 
-Not because the technology failed. Because the deal was structured wrong.
+Valutico, Visible Equity, Equidam — all used in M&A today.
 
-The metric that predicts renewal: Year 2 licensee revenue growth.
+They pull revenue multiples, EBITDA comps, DCF models in seconds.
 
-If a licensee grew ≥15% using your IP in Year 2, renewal rate is 91%.
+But none of them read a patent filing.
 
-If they grew <5%, renewal rate falls to 34%.
+None of them check if your training data is licensed or scraped.
 
-The implication: structure deals with growth tiers, not flat minimums.
+90% of S&P 500 value is intangible assets.
 
-Minimum guarantees protect you.
+AI valuation tools price the 10% and call it done.
 
-Growth tiers make you rich.
+If your IP layer is clean: you get undervalued.
 
-#IPStrategy #Licensing #PatentLicensing
+If your IP layer is broken: the human diligence team finds it anyway — and takes 30% off.
+
+Run the IP audit before the AI does the valuation.
+
+#IPStrategy #AI #Valuation
