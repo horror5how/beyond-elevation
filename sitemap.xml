@@ -2083,4 +2083,16 @@
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
   </url>
+  <url>
+    <loc>https://beyondelevation.com/blog/posts/patent-data-visualization-compared/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>Patent Data Visualization Compared: PatSnap Heatmaps vs Derwent Innovation vs Orbit Intelligence</image:title>
+      <image:caption>Patent Data Visualization Compared — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/patent-data-visualization-compared/</image:license>
+    </image:image>
+  </url>
 </urlset>
