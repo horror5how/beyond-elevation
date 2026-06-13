@@ -3039,3 +3039,19 @@ The EV battery patent landscape in 2026 is defined by consolidation at the top a
 This matters for founders because the gap between "dominant" and "undefended" shifts every quarter. A [w
 
 ---
+
+## The mRNA Delivery Patent Landscape Post-COVID: 7 LNP Filers, 3 Lipid Chemistries, and the Patent Cliff Coming in 2028
+
+URL: https://beyondelevation.com/blog/posts/mrna-delivery-patent-landscape/
+
+Seven companies hold the patents that control how mRNA gets inside human cells. The foundational lipid nanoparticle delivery patents — the ones that made Moderna’s and BioNTech’s COVID vaccines possible — face a patent cliff between 2026 and 2029. The result: a $45 billion mRNA therapeutics market is about to crack open for new entrants, generic manufacturers, and smart licensors. Hayat Amin, who has led [patent landscape analyses](/blog/posts/patent-landscape-analysis/) across AI, hardware, and life sciences for Beyond Elevation clients, argues that the companies mapping the mRNA delivery patent landscape now will own the licensing leverage for the next decade.
+
+## What Is the mRNA Delivery Patent Landscape in 2026?
+
+The mRNA delivery patent landscape covers the intellectual property protecting lipid nanoparticle formulations, ionizable lipid compounds, PEG-lipids, and novel delivery vectors used to transport mRNA payloads into target cells. In 2026, this landscape is one of the most contested and commercially valuable patent battlegrounds in biopharma.
+
+COVID compressed a decade of patent activity into three years. Between 2020 and 2023, mRNA-related patent filings tripled. LNP delivery filings specifically jumped 280%. But the core IP — the foundational formulations every mRNA therapy still depends on — traces back to seven key filers who built the delivery stack before anyone cared about spike proteins.
+
+The seven: Arbutus Biopharma, Acuitas Therapeutics, Moderna, BioNTec
+
+---
