@@ -1,12 +1,5 @@
 [
   {
-    "hash": "e781ffffffffb4a0",
-    "layout": "a",
-    "accent": "#d7b086",
-    "slug": "ip-is-a-toll-booth-not-a-wall",
-    "ts": "2026-06-11T16:52:54.443Z"
-  },
-  {
     "hash": "fff7131313f5fdff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ip-is-margin-not-cost",
     "ts": "2026-06-12T18:57:24.015Z"
+  },
+  {
+    "hash": "7ef010711f77ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "ip-gets-a-line-in-diligence",
+    "ts": "2026-06-13T10:06:03.656Z"
   }
 ]

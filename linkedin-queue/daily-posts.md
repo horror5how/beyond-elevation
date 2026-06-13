@@ -3,7 +3,7 @@ date: 2026-06-12
 theme: AI just turned the patent itself into a tradable asset, cheaper to file, dearer to own, and now priced straight into valuations, acquisitions, and licensing splits.
 generated_at: 2026-06-12T04:00:00Z
 posts_total: 6
-posts_published: 5
+posts_published: 6
 ---
 
 # Daily theme
@@ -192,7 +192,9 @@ I broke down the Qualcomm split. Link in comments.
 ---
 
 ## Post 6
-status: pending
+status: published
+published_at: 2026-06-13T10:06:03.656Z
+share_urn: urn:li:share:7471503143969800192
 hook_format: prediction
 cta_goal: dm
 slug: ip-gets-a-line-in-diligence

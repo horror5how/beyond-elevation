@@ -244,3 +244,4 @@
 2026-06-12 17:53 | urn:li:share:7471258515530203136 | Most IP licensing deals fall apart at renewal.  Not because the technology faile
 2026-06-12 18:57 | urn:li:share:7471274472302473216 | post #5 | ip-is-margin-not-cost | Your IP is not legal cover. It is your highest-margin product.  Qualcomm proves 
 2026-06-13 07:52 | urn:li:share:7471469504762650624 | AI now writes the first draft of your company's valuation.  Valutico, Visible Eq
+2026-06-13 10:06 | urn:li:share:7471503143969800192 | post #6 | ip-gets-a-line-in-diligence | By your next round, IP gets its own line in diligence.  Here is the signal: $65M
