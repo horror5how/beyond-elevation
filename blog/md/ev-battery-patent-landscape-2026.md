@@ -2,8 +2,8 @@
 title: "The 2026 EV Battery Patent Landscape: 9 Tech Clusters, 4 Inventor Pacers, and the One White-Space CATL and BYD Both Missed"
 slug: ev-battery-patent-landscape-2026
 date: 2026-06-13
-url: https://beyondelevation.com/blog/post.html?slug=ev-battery-patent-landscape-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ev-battery-patent-landscape-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 143 EV battery patent families were filed per month in Q1 2026. That is up from 127 per month in 2025. And 73% of those filings came from just four companies.
 
-If you are building in electrification, energy storage, or cleantech, the EV battery patent landscape is already mapped — and most founders have not looked at the map. Hayat Amin argues that patent landscape analysis is the single most underused weapon in a cleantech founder's arsenal. "Founders spend months on TAM slides," says Amin. "They spend zero hours on the patent landscape. That is how you walk into a $50M R&D programme that infringes a Toyota continuation patent filed in 2019."
+If you are building in electrification, energy storage, or cleantech, the EV battery patent landscape is already mapped — and most founders have not looked at the map. Hayat Amin argues that [patent landscape analysis](/blog/posts/patent-landscape-analysis/) is the single most underused weapon in a cleantech founder's arsenal. "Founders spend months on TAM slides," says Amin. "They spend zero hours on the patent landscape. That is how you walk into a $50M R&D programme that infringes a Toyota continuation patent filed in 2019."
 
 Beyond Elevation's analysis of the EV battery patent landscape reveals nine technology clusters, four dominant filing programmes, and one white-space gap that CATL and BYD have both left wide open.
 
@@ -19,7 +19,7 @@ Beyond Elevation's analysis of the EV battery patent landscape reveals nine tech
 
 The EV battery patent landscape in 2026 is defined by consolidation at the top and fragmentation at the edges. The four largest filers — CATL, Toyota, LG Energy Solution, and Samsung SDI — control an estimated 38% of all active EV battery patent families globally. The fastest-growing filing volume is coming from second-tier players and university spinouts targeting solid-state, sodium-ion, and dry-electrode manufacturing processes.
 
-This matters for founders because the gap between "dominant" and "undefended" shifts every quarter. A white-space gap that existed in Q3 2025 may already be claimed by Q2 2026. Patent landscape analysis is not a one-time exercise — it is a rolling intelligence operation.
+This matters for founders because the gap between "dominant" and "undefended" shifts every quarter. A [white-space gap](/blog/posts/white-space-analysis-patents/) that existed in Q3 2025 may already be claimed by Q2 2026. Patent landscape analysis is not a one-time exercise — it is a rolling intelligence operation.
 
 ## The 9 Technology Clusters in the EV Battery Patent Landscape
 
@@ -51,7 +51,7 @@ Four companies set the filing pace in the EV battery patent landscape. Their str
 
 **CATL** files the highest volume globally. Strength: LFP chemistry, cell-to-pack architecture, sodium-ion. Weakness: thin coverage in solid-state and recycling processes. CATL's strategy is breadth over depth — thousands of families with relatively narrow claims.
 
-**Toyota** files fewer total families than CATL but owns the deepest solid-state portfolio on the planet. Over 1,300 families with broad claims covering sulfide-based solid electrolytes, manufacturing processes, and interface engineering. Toyota's portfolio is designed for licensing leverage, not just product protection.
+**Toyota** files fewer total families than CATL but owns the deepest solid-state portfolio on the planet. Over 1,300 families with broad claims covering sulfide-based solid electrolytes, manufacturing processes, and interface engineering. Toyota's portfolio is designed for [licensing leverage](/blog/posts/patent-licensing-revenue-model/), not just product protection.
 
 **LG Energy Solution** covers the full stack from cathode chemistry to module integration. Strong in high-nickel (NCMA) and pouch-cell architecture. Their portfolio is the most balanced of the four — no single dominant cluster, but consistent coverage across seven of the nine clusters.
 
@@ -65,7 +65,7 @@ BaaS — where the battery is leased, swapped, or managed as a service rather th
 
 V2G integration patents cover bidirectional charging protocols, grid services arbitrage algorithms, and utility settlement frameworks. NIO's battery swap service is the closest commercial example, but NIO's patent portfolio is concentrated on physical swap-station hardware — not on the software and data layers that create recurring revenue.
 
-Hayat Amin says the BaaS and V2G patent gap is the most commercially attractive opening in the 2026 EV battery patent landscape. "The hardware filers built castles around the cells," Amin argues. "Nobody built walls around the service layer. That is where the recurring licensing revenue lives."
+Hayat Amin says the BaaS and V2G patent gap is the most commercially attractive opening in the 2026 EV battery patent landscape. "The hardware filers built castles around the cells," Amin argues. "Nobody built walls around the service layer. That is where the [recurring licensing revenue](/blog/posts/recurring-patent-revenue-streams/) lives."
 
 For founders building in electrification infrastructure, energy-as-a-service, or fleet management, this white-space gap represents a filing window that may close within 12-18 months as the majors recognise the omission.
 
@@ -75,11 +75,25 @@ Patent landscape analysis is a commercial intelligence tool that answers three q
 
 **First: where can you file?** The landscape shows which technology clusters have low patent density relative to market size. Clusters 5 (sodium-ion), 8 (recycling), and 9 (ultra-fast charging) all have favourable filing-to-TAM ratios — more market opportunity per patent filed.
 
-**Second: where will you infringe?** Freedom-to-operate analysis starts with the landscape. If your product roadmap intersects with CATL's LFP claims or Toyota's solid-state families, you need to know before you spend $10M on a pilot line — not after.
+**Second: where will you infringe?** [Freedom-to-operate analysis](/blog/posts/freedom-to-operate-analysis-guide/) starts with the landscape. If your product roadmap intersects with CATL's LFP claims or Toyota's solid-state families, you need to know before you spend $10M on a pilot line — not after.
 
 **Third: where is the licensing revenue?** Hayat Amin reminds founders that patents are not just shields — they are revenue instruments. A well-placed patent family in a high-growth, low-density cluster generates licensing income from companies that arrive later and find your claims blocking their product path.
 
 Beyond Elevation runs patent landscape analyses across cleantech, AI, and deep-tech sectors. The 2026 EV battery landscape is a case study in why every R&D-heavy founder needs this intelligence before their next filing decision or fundraising round. [Book a landscape analysis](https://beyondelevation.com) before a competitor files on your white space.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ev-battery-patent-landscape-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -102,3 +116,6 @@ Patent landscape analysis shows cleantech founders where they can file defensibl
 ### How much does an EV battery patent landscape analysis cost?
 
 A comprehensive patent landscape analysis from a specialist firm typically costs $15,000 to $80,000 depending on scope, jurisdiction coverage, and depth of claim mapping. Beyond Elevation delivers strategic landscape analyses designed to inform filing, licensing, and fundraising decisions.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
