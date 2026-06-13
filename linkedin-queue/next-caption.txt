@@ -1,21 +1,18 @@
-AI now writes the first draft of your company's valuation.
+Most founders take the lump sum. That's usually wrong.
 
-Valutico, Visible Equity, Equidam — all used in M&A today.
+Your licensee offers $500K upfront or 5% of their revenue for 10 years.
 
-They pull revenue multiples, EBITDA comps, DCF models in seconds.
+You take the lump sum.
 
-But none of them read a patent filing.
+They generate $4.6M from your IP over the decade.
 
-None of them check if your training data is licensed or scraped.
+Running royalty: $2.3M.
+Lump sum: $500K.
 
-90% of S&P 500 value is intangible assets.
+You left $1.8M on the table. One negotiation. One choice.
 
-AI valuation tools price the 10% and call it done.
+Running royalties compound. Lump sums don't.
 
-If your IP layer is clean: you get undervalued.
+Before you structure the next deal, run the model.
 
-If your IP layer is broken: the human diligence team finds it anyway — and takes 30% off.
-
-Run the IP audit before the AI does the valuation.
-
-#IPStrategy #AI #Valuation
+#IPstrategy #Licensing #PatentMonetization

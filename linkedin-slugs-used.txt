@@ -309,3 +309,4 @@ ip-licensing-renewal-predictor-2026
 ip-is-margin-not-cost
 how-ai-values-companies-2026
 ip-gets-a-line-in-diligence
+lump-sum-vs-running-royalty-2026
