@@ -1,18 +1,19 @@
-Most founders take the lump sum. That's usually wrong.
+4 patent due diligence items kill 30% of M&A deals.
 
-Your licensee offers $500K upfront or 5% of their revenue for 10 years.
+Acquirers run a 14-point checklist.
 
-You take the lump sum.
+Most founders see it for the first time after signing the LOI.
 
-They generate $4.6M from your IP over the decade.
+The 4 that collapse deals:
 
-Running royalty: $2.3M.
-Lump sum: $500K.
+1. FTO gap — your patent exists. It doesn't cover the product you ship.
 
-You left $1.8M on the table. One negotiation. One choice.
+2. Broken inventor chain — one ex-employee never signed the assignment.
 
-Running royalties compound. Lump sums don't.
+3. Lapsed maintenance — a patent in your deck expired silently.
 
-Before you structure the next deal, run the model.
+4. Encumbered IP — you licensed rights you don't control to a competitor.
 
-#IPstrategy #Licensing #PatentMonetization
+Fix these before the data room opens.
+
+#IPStrategy #MergersAndAcquisitions #PatentDueDiligence
