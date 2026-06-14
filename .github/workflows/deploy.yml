@@ -33,6 +33,7 @@ jobs:
           node scripts/generate-blog-markdown.js
 
       - name: Commit regenerated files if changed
+        continue-on-error: true   # housekeeping commit must NEVER abort the Vercel deploy below
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -41,7 +42,8 @@ jobs:
             echo "No generated changes to commit."
           else
             git commit -m "chore(publish): regenerate static pages from posts.json"
-            git push origin main
+            git pull --rebase origin main || true   # survive concurrent pushes (LinkedIn/blog workflows)
+            git push origin main || true
           fi
 
       - name: Install Vercel CLI
