@@ -3073,3 +3073,19 @@ Patent data visualization transforms raw patent records — filing dates, claim 
 The volume problem makes visualization non-optional. The USPTO granted 353,000 utility patents in 2025. The EPO added 98,000
 
 ---
+
+## The ADC Competitive Landscape: 14 Pipelines, 6 Linker Technologies, and the Targets Pfizer-Seagen Did Not Buy
+
+URL: https://beyondelevation.com/blog/posts/adc-competitive-landscape-2026/
+
+Pfizer paid $43 billion for Seagen in 2023. Not for the revenue. Not for the pipeline. For the ADC patent portfolio that locked in three approved drugs and 60-plus conjugation patents competitors could not replicate. Hayat Amin argues that the ADC competitive landscape is the clearest example in pharma of a single truth: the patent map — not the clinical data — determines who captures the next $30 billion in market value.
+
+The antibody-drug conjugate space crossed $15 billion in global sales in 2025. Over 200 ADC candidates sit in clinical trials. And the IP ownership structure behind those candidates is more concentrated than most pharma executives realize. Beyond Elevation’s [patent landscape analysis methodology](/blog/posts/patent-landscape-analysis/) applies the same framework to ADCs that it uses across every deep-tech vertical: map the claims, find the gaps, price the opportunity.
+
+## What Is the ADC Competitive Landscape in 2026?
+
+The ADC competitive landscape is a $15 billion-plus market dominated by five pharma companies that collectively hold over 65% of granted ADC-related patent claims. Fourteen ADC drugs have received FDA or EMA approval, with another 200-plus candidates in clinical development. Six distinct linker-payload technology clusters account for the majority of filed patent families.
+
+The concentration matters. When Pfizer closed the Seagen acquisition, it absorbed not just Adcetris, Padcev, and Tukysa but the conjugation platform patents that underpin 
+
+---
