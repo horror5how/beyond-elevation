@@ -248,3 +248,4 @@
 2026-06-13 12:53 | urn:li:share:7471545231147085825 | Most founders take the lump sum. That's usually wrong.  Your licensee offers $50
 2026-06-13 17:53 | QUEUED | patent-due-diligence-4-killers-ma-2026 | 4 patent due diligence items kill 30% of M&A deals.
 2026-06-14 07:52 | urn:li:share:7471831832725209088 | Top AI companies earn 11% of revenue from data assets.  The rest earn 2%.  That 
+2026-06-14 12:53 | urn:li:share:7471907644958621696 | Foundation model prices dropped 98% in 24 months.  The fine-tuning layer is wher
