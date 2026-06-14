@@ -1,25 +1,17 @@
-Top AI companies earn 11% of revenue from data assets.
+Foundation model prices dropped 98% in 24 months.
 
-The rest earn 2%.
+The fine-tuning layer is where the next IP war starts.
 
-That is a 5x gap. And it shows up directly in your multiple.
+OpenAI charges $25 per million tokens to fine-tune its model on your data.
 
-Most founders treat data as a byproduct.
+That's not a product fee. That's a signal.
 
-The ones winning treat it as a product line.
+The IP now sits in the fine-tuning dataset — domain-specific examples, RLHF feedback, labeled outputs only you can generate.
 
-Three assets sitting idle in your company right now:
+Three data owners got paid in 2026: Reddit ($203M), Getty ($400M), Springer Nature ($1.2B).
 
-User interaction logs — licensable to model trainers.
+Your proprietary fine-tuning data has a price.
 
-Proprietary benchmarks — licensable to AI evaluators.
+You just haven't invoiced anyone yet.
 
-Vertical outputs — licensable to adjacent industries.
-
-Your balance sheet shows $0 for all three.
-
-That is not a data problem.
-
-That is a revenue problem.
-
-#DataMonetisation #IPStrategy #AIValuation
+#IPStrategy #DataLicensing #AIPatents
