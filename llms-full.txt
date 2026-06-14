@@ -1503,11 +1503,9 @@ Intangible asset valuation is the process of assigning a defensible dollar figur
 
 Here is the number that should bother you: Ocean Tomo's 2024 study found intangible assets represent 90% of total S&P 500 enterprise value — up from 17% in 1975. The market figured this out decades ago. Most founders still have not.
 
-If you cannot put a number on your intangibles, you are negotiating blind. And negotiating blind against a PE firm or strategic acquirer with a full-time valuation team is not a fair fight.
+The shift is not a blip. It is a 45-year, one-direction trend. Here is the full picture:
 
-## Why Does the Gap Between Book Value and Market Value Destroy Founder Outcomes?
-
-Your balance sheet shows tangible assets and maybe some capitalised R&D. It d
+Intangible assets as a share of S&P 500 market value, 1975 to 2020YearTangible assetsIntangible assets197583%17%198568%32%199532%68%200520%80%201516%84%202010%90%Source: Ocean Tomo Intangible Asset Market Value Study (an offering of J.S. Held). Figures show the
 
 ---
 
@@ -1915,15 +1913,13 @@ A patent does not last 20 years. That number is a ceiling, not a guarantee. Haya
 
 So how long does a patent last? A U.S. utility patent lasts 20 years from the earliest non-provisional filing date. A design patent lasts 15 years from the grant date. But the effective commercial lifespan — the window where your patent actually makes you money — is almost always shorter. Sometimes dramatically shorter.
 
+How long a patent lasts, by type (United States)Patent typeTermClock startsMaintenance feesUtility20 yearsEarliest non-provisional filing dateYes, at 3.5, 7.5, and 11.5 years after grantDesign (filed on or after 13 May 2015)15 yearsGrant dateNonePlant20 yearsFiling dateNoneProvisional12 monthsFiling datePlaceholder only, never grants on its ownU.S. terms under 35 U.S.C. §§ 154 and 173. The term can be shifted by Patent Term Adjustment (USPTO delay) or Patent Term Extension (regulatory review, mainly pharma).
+
 Here are the three expiration dates that determine how long a patent actually protects your business.
 
 ## How Long Does a Patent Last Under the Law?
 
-A U.S. utility patent lasts 20 years from the earliest non-provisional filing date. Design patents last 15 years from the grant date. Plant patents last 20 years from filing. But these numbers represent the maximum legal term — the enforceable lifespan starts at grant, not at filing, which means founders lose years of protection before they can enforce a single claim.
-
-Most founders fixate on the 20-year number and stop. That is the mistake.
-
-The 20-year clock starts ticking at filing, not at grant. If your patent takes 3 years to prosecute — the current USPTO average is 23.4 months, but complex
+A U.S. utility patent lasts 20 years from the earliest non-provisional filing date. Des
 
 ---
 

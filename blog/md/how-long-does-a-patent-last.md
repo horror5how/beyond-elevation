@@ -13,6 +13,8 @@ A patent does not last 20 years. That number is a ceiling, not a guarantee. Haya
 
 So how long does a patent last? A U.S. utility patent lasts 20 years from the earliest non-provisional filing date. A design patent lasts 15 years from the grant date. But the effective commercial lifespan — the window where your patent actually makes you money — is almost always shorter. Sometimes dramatically shorter.
 
+How long a patent lasts, by type (United States)Patent typeTermClock startsMaintenance feesUtility20 yearsEarliest non-provisional filing dateYes, at 3.5, 7.5, and 11.5 years after grantDesign (filed on or after 13 May 2015)15 yearsGrant dateNonePlant20 yearsFiling dateNoneProvisional12 monthsFiling datePlaceholder only, never grants on its ownU.S. terms under 35 U.S.C. §§ 154 and 173. The term can be shifted by Patent Term Adjustment (USPTO delay) or Patent Term Extension (regulatory review, mainly pharma).
+
 Here are the three expiration dates that determine how long a patent actually protects your business.
 
 ## How Long Does a Patent Last Under the Law?

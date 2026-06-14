@@ -21,6 +21,8 @@ IP monetisation is the work of converting patents, trade secrets, and proprietar
 
 Most founders think IP monetisation means licensing. Licensing is one of six routes. The other five are usually better fits for early-stage companies, and several of them are happening already inside the business without anyone tracking them.
 
+Six routes to monetise IP, and who each one fitsRouteHow it makes moneyBest fit1. Product premiumIP lets you charge more or win deals competitors cannotAlmost any company with a real moat2. LicensingA third party pays to use your IPIP with use beyond your own product3. Cross-licensingTrade patent access instead of cash or lawsuitsCrowded fields with mutual infringement risk4. Defensive publicationBlock rivals from patenting, keep yourself free to operateImprovements not worth a full patent5. Portfolio sale or spin-outSell or carve out IP you are not usingDormant patents with outside demand6. Strategic value at exitValued IP raises the price an acquirer paysAny founder heading into a sale or raiseThe six routes Beyond Elevation walks founders through. Most companies already run routes 1 and 6 without measuring either.
+
 ## Route one: product premium
 
 This is the route every founder is using whether they realise it or not. Your product commands a higher price, or wins more customers, because of the IP embedded in it. The patent is not directly generating cash — the product is. But the product would not command its margin without the technical defensibility behind it.

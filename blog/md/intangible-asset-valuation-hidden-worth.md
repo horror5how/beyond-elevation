@@ -19,6 +19,11 @@ Intangible asset valuation is the process of assigning a defensible dollar figur
 
 Here is the number that should bother you: Ocean Tomo's 2024 study found intangible assets represent 90% of total S&P 500 enterprise value — up from 17% in 1975. The market figured this out decades ago. Most founders still have not.
 
+The shift is not a blip. It is a 45-year, one-direction trend. Here is the full picture:
+
+Intangible assets as a share of S&P 500 market value, 1975 to 2020YearTangible assetsIntangible assets197583%17%198568%32%199532%68%200520%80%201516%84%202010%90%Source: Ocean Tomo Intangible Asset Market Value Study (an offering of J.S. Held). Figures show the share of total S&P 500 market capitalisation attributable to intangible versus tangible assets.
+Read the right column top to bottom. In 1975 the value of America’s largest companies was mostly factories and inventory. By 2020 it was mostly patents, data, software, brand, and know-how. If you run a tech or AI company, your ratio is almost certainly more extreme than the index, because you own almost no tangible assets at all.
+
 If you cannot put a number on your intangibles, you are negotiating blind. And negotiating blind against a PE firm or strategic acquirer with a full-time valuation team is not a fair fight.
 
 ## Why Does the Gap Between Book Value and Market Value Destroy Founder Outcomes?
