@@ -3089,3 +3089,21 @@ The ADC competitive landscape is a $15 billion-plus market dominated by five pha
 The concentration matters. When Pfizer closed the Seagen acquisition, it absorbed not just Adcetris, Padcev, and Tukysa but the conjugation platform patents that underpin 
 
 ---
+
+## The Pre-Exit IP Audit: 9 Fixes Worth 30% of Your Acquisition Price (Most Founders Find Them Too Late)
+
+URL: https://beyondelevation.com/blog/posts/pre-exit-ip-audit-acquisition-premium/
+
+73% of tech acquisitions experience IP-related value erosion during due diligence — not because the IP is weak, but because it is undocumented, unassigned, or unprotected. That erosion typically costs 15–30% of the purchase price. The fix costs less than one percent of what it saves.
+
+Hayat Amin, who runs pre-exit IP audits for founders at [Beyond Elevation](https://beyondelevation.com), says the pattern never changes: "Founders prepare their financials for six months and their IP for six minutes. That gap shows up as a seven-figure haircut on the purchase price." A pre-exit IP audit catches the problems before the buyer's lawyers do — when every finding is still a fix, not a concession.
+
+## Why Is a Pre-Exit IP Audit the Highest-ROI Move Before Any Acquisition?
+
+A pre-exit IP audit is the single highest-return activity a founder can perform before opening a data room. Companies that complete a structured audit add 15–30% to their acquisition price because clean, well-documented IP eliminates the uncertainty discount buyers automatically apply — and uncertainty is what kills exit premiums.
+
+The math is direct. An IP audit costs $30K–$80K depending on portfolio complexity. The average valuation haircut from IP problems discovered during diligence runs $1M–$4M for a mid-market tech exit. That is a 1:50 cost-to-savings ratio at minimum.
+
+Acquirers price risk. Undocumented trade secrets, missing inventor assignments, and open-source contamination are not fatal — but they are expe
+
+---

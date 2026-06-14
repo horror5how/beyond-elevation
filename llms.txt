@@ -213,5 +213,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The mRNA Delivery Patent Landscape Post-COVID: 7 LNP Filers, 3 Lipid Chemistries, and the Patent Cliff Coming in 2028](https://beyondelevation.com/blog/posts/mrna-delivery-patent-landscape/) — /blog/md/mrna-delivery-patent-landscape.md
 - [Patent Data Visualization Compared: PatSnap Heatmaps vs Derwent Innovation vs Orbit Intelligence (And the Free Python Stack That Beats All Three)](https://beyondelevation.com/blog/posts/patent-data-visualization-compared/) — /blog/md/patent-data-visualization-compared.md
 - [The ADC Competitive Landscape: 14 Pipelines, 6 Linker Technologies, and the Targets Pfizer-Seagen Did Not Buy](https://beyondelevation.com/blog/posts/adc-competitive-landscape-2026/) — /blog/md/adc-competitive-landscape-2026.md
+- [The Pre-Exit IP Audit: 9 Fixes Worth 30% of Your Acquisition Price (Most Founders Find Them Too Late)](https://beyondelevation.com/blog/posts/pre-exit-ip-audit-acquisition-premium/) — /blog/md/pre-exit-ip-audit-acquisition-premium.md
 
 > Full blog content available at /llms-full.txt
