@@ -1,17 +1,13 @@
-Foundation model prices dropped 98% in 24 months.
+EU AI Act GPAI provisions go live in 8 weeks.
 
-The fine-tuning layer is where the next IP war starts.
+If your model was trained on unlicensed data, the disclosure rules hand rights holders a litigation road map.
 
-OpenAI charges $25 per million tokens to fine-tune its model on your data.
+€35M fine or 7% of global revenue — whichever is larger — for non-compliance.
 
-That's not a product fee. That's a signal.
+Training data licensing deals are up 340% since January.
 
-The IP now sits in the fine-tuning dataset — domain-specific examples, RLHF feedback, labeled outputs only you can generate.
+The companies acting now are negotiating from strength. The rest are waiting for the letter.
 
-Three data owners got paid in 2026: Reddit ($203M), Getty ($400M), Springer Nature ($1.2B).
+Your training data is either a licensed asset or a ticking liability.
 
-Your proprietary fine-tuning data has a price.
-
-You just haven't invoiced anyone yet.
-
-#IPStrategy #DataLicensing #AIPatents
+#AIAct #IPStrategy #Founders
