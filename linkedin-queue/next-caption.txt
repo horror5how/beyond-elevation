@@ -1,19 +1,25 @@
-4 patent due diligence items kill 30% of M&A deals.
+Top AI companies earn 11% of revenue from data assets.
 
-Acquirers run a 14-point checklist.
+The rest earn 2%.
 
-Most founders see it for the first time after signing the LOI.
+That is a 5x gap. And it shows up directly in your multiple.
 
-The 4 that collapse deals:
+Most founders treat data as a byproduct.
 
-1. FTO gap — your patent exists. It doesn't cover the product you ship.
+The ones winning treat it as a product line.
 
-2. Broken inventor chain — one ex-employee never signed the assignment.
+Three assets sitting idle in your company right now:
 
-3. Lapsed maintenance — a patent in your deck expired silently.
+User interaction logs — licensable to model trainers.
 
-4. Encumbered IP — you licensed rights you don't control to a competitor.
+Proprietary benchmarks — licensable to AI evaluators.
 
-Fix these before the data room opens.
+Vertical outputs — licensable to adjacent industries.
 
-#IPStrategy #MergersAndAcquisitions #PatentDueDiligence
+Your balance sheet shows $0 for all three.
+
+That is not a data problem.
+
+That is a revenue problem.
+
+#DataMonetisation #IPStrategy #AIValuation
