@@ -254,3 +254,4 @@
 2026-06-15 07:51 | urn:li:share:7472194117519781888 | Every $1M in IP licensing revenue is worth $8M at exit. Most founders don't know
 2026-06-15 12:52 | QUEUED | ip-licensing-profitable-2026 | IP licensing runs at 90%+ gross margin.  No inventory. No COGS. No headcount to 
 2026-06-15 12:52 | urn:li:share:7472269902654099456 | IP licensing runs at 90%+ gross margin.  No inventory. No COGS. No headcount to 
+2026-06-15 17:51 | urn:li:share:7472345122890989568 | Most founders have no idea what their IP is worth.  Their investor does. And it'
