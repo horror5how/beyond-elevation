@@ -1,17 +1,4 @@
-Most founders have no idea what their IP is worth.
-
-Their investor does. And it's probably lower than reality.
-
-3 methods that set the real number:
-
-Income approach: future royalty cash flows, discounted back to today.
-
-Market approach: comparable transactions. Median patent family deal: $300K-$2M.
-
-Cost approach: what it cost to build the asset, adjusted for obsolescence.
-
-A licensed patent family typically returns 3-8x the filing cost.
-
-Run the valuation before they do.
-
-#IPValuation #IntellectualProperty #IPStrategy
+The 10-20-70 rule for AI allocates 10% of your budget to models, 20% to data, and 70% to people and process.
+The 10-20-70 rule for AI allocates 10% of your budget to models, 20% to data, and 70% to people and process. Here is why 87% of AI projects fail when
+Read it: https://beyondelevation.com/blog/posts/10-20-70-rule-for-ai/
+#IPStrategy #Founders #AIvaluation
