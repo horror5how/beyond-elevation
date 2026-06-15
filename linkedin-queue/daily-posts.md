@@ -1,224 +1,177 @@
 ---
-date: 2026-06-12
-theme: AI just turned the patent itself into a tradable asset, cheaper to file, dearer to own, and now priced straight into valuations, acquisitions, and licensing splits.
-generated_at: 2026-06-12T04:00:00Z
-posts_total: 6
-posts_published: 6
+date: 2026-06-15
+theme: Unlock your IP's hidden financial value and strategic advantage.
+generated_at: 2026-06-15T22:48:47.127Z
+posts_total: 5
+posts_published: 0
 ---
 
 # Daily theme
-In one week the market stopped treating intellectual property as paperwork and started trading it. Patlytics raised $40M to make filing cheap, Deepgram cleared a $1.3B valuation on its data and patents, Warner bought an AI firm to license its catalog, the NMPA cut the first industry-wide AI music split, and a tiny EV company put its single charging patent in front of Volkswagen's lawyers. Every story says the same thing to founders and finance leaders: IP is moving out of the legal column and into the P&L, and the only number that counts now is what your claims earn.
+Today's posts equip founders and CEOs with actionable strategies to transform their intellectual property from a dormant asset into a financial powerhouse. We cover leveraging IP for non-dilutive capital, understanding its impact on investor valuation, monetizing it for pure profit, and making critical decisions between patents and trade secrets for optimal protection and exit value.
 
-# Topic shortlist (research notes, not posted)
-1. Patlytics $40M Series B, AI for IP work, filing cost collapsing toward software pricing | $40M, ~$20K legacy cost
-2. Deepgram $130M Series C at $1.3B, valuation paid on data and patents not the model | $130M / $1.3B, Distyl $175M / $1.8B comp
-3. Warner buys Sureel AI plus NMPA signs Udio and KLAY 50/50, IP becomes a toll booth on AI training | first industry-wide pact, 50/50 split
-4. Electros vs Volkswagen, one multi-port EV charging patent forces a global automaker to the table | 1 claim vs 100 vanity filings
-5. Qualcomm licensing margin vs chip margin, EUIPO and WSJ both flag IP as undervalued growth | 65%+ vs single digit margin
-6. Pre-raise IP audit becomes default diligence as tooling capital floods in | carried, $65M, 2027
+# Topic shortlist (research notes - not posted)
+1. IP funding — Raise capital against patents. Zero equity. ($14M, zero equity)
+2. IP importance to investors — Investors read your patent schedule first. (25.8x, 18.2x, 15-20%)
+3. IP licensing profit margin — 90%+ gross margins. No inventory. Pure profit. (90%, 11%)
+4. Know-how vs patent — Know-how vs. Patent: A 20-year trade-off. (20-year, 90%)
+5. How much is my intellectual property worth — Your IP is worth millions more. ($50M+, 92%)
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-06-12T11:05:40.033Z
-share_urn: urn:li:share:7471155756730544129
+status: pending
 hook_format: contrarian
-cta_goal: follows
-slug: cheap-patents-kill-the-old-moat
-keyword: patent portfolio value
-numbers_check: $40M, $25M, $20K
-image_direction: contrarian headline, tiles on capital, old filing cost, and the shift to claim quality
-headline: Cheap patents kill<br>the old moat.
-metric_1: $40M
-label_1: INTO AI<br>PATENT TOOLS
-metric_2: $20K
-label_2: OLD COST<br>PER FILING
-metric_3: 2027
-label_3: CLAIMS BEAT<br>COUNT
+cta_goal: clicks
+slug: what-is-ip-funding
+keyword: IP funding
+numbers_check: $14M, zero equity
+headline: Raise capital against<br>patents. Zero equity.
+metric_1: $14M
+label_1: NON-DILUTIVE<br>CAPITAL
+metric_2: 0%
+label_2: EQUITY<br>DILUTION
+metric_3: 38%
+label_3: LOWER<br>DEFAULT RISK
 
-Cheaper patents are bad news for patent holders.
+Raise capital against patents: Zero equity.
 
-Patlytics just raised $40M and DeepIP $25M to drop filing cost from roughly $20K toward software pricing.
+Most founders dilute equity for capital. You shouldn't. Your IP is a non-dilutive asset they're ignoring.
 
-Here is what nobody says: when filing gets cheap, holding 20 patents stops being a moat. Scarcity was the moat.
+The fix (3 moves, this week):
+1. Audit IP for collateral value.
+2. Model future royalty projections.
+3. Engage IP-backed lenders.
 
-Value moves from how many you own to what your claims earn. Licensing revenue is the only number that survives the shift.
+One BE client raised $14M against patents, zero equity. Same playbook in comments.
 
-The portfolios that win in 2027 are not the biggest. They are the ones with claims a competitor has to pay to cross.
+↳ Founders: what's your most valuable non-dilutive asset?
 
-Follow for the claim-quality scorecard I run on portfolios.
-
-#IPStrategy #PatentLaw #StartupFunding
+#FinancialStrategy #IPMonetization #Fundraising
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-06-12T12:21:17.397Z
-share_urn: urn:li:share:7471174787411910657
-hook_format: number-led
+status: pending
+hook_format: contrarian
 cta_goal: clicks
-slug: deepgram-paid-for-the-data
-keyword: AI valuation data asset
-numbers_check: $1.3B, $130M, $1.8B
-image_direction: number-led headline, tiles on valuation, raise, and comparable multiple
-headline: They paid $1.3B<br>for the data.
-metric_1: $1.3B
-label_1: DEEPGRAM<br>VALUATION
-metric_2: $130M
-label_2: SERIES C<br>RAISED
-metric_3: $1.8B
-label_3: DISTYL AI<br>VALUATION
+slug: why-ip-important-to-investors
+keyword: IP importance to investors
+numbers_check: 25.8x, 18.2x, 15-20%
+headline: Investors read your<br>patent schedule first.
+metric_1: 25.8x
+label_1: MULTIPLE<br>WITH IP AUDIT
+metric_2: 18.2x
+label_2: MULTIPLE<br>WITHOUT IP AUDIT
+metric_3: 15-20%
+label_3: VALUATION<br>PREMIUM
 
-$1.3 billion. For voice data, not a model.
+Investors read your patent schedule first.
 
-Deepgram raised $130M at a $1.3B valuation this week. Anyone can train a speech model now. Almost nobody owns its years of labeled audio.
+Your investor deck is good. But if your IP is a mess, VCs add a 15-20% discount.
 
-The valuation multiple was paid on the data asset and the patents around it, not the code.
+The fix (3 moves, this week):
+1. Conduct an independent IP audit.
+2. Link IP directly to revenue streams.
+3. Quantify defensibility for the board.
 
-Same pattern at Distyl AI: $175M at $1.8B. The model is the commodity. The proprietary input is the moat.
+AI startups with IP audits command 25.8x multiples vs 18.2x without.
 
-If your deck prices your model and ignores your data rights, you are selling the cheap half.
+↳ Founders: what IP signal would improve your next round?
 
-I broke down how data assets earn a multiple. Link in comments.
-
-#AIValuation #DataStrategy #Patents
+#FinancialStrategy #InvestorRelations #IPStrategy
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-06-12T14:08:31.373Z
-share_urn: urn:li:share:7471201773869805568
-hook_format: listicle
-cta_goal: follows
-slug: three-ip-moves-one-repricing
-keyword: AI licensing revenue
-numbers_check: $40M, 50/50, 3
-image_direction: listicle headline, tiles on raise, music split, and first-ever pact
-headline: 3 IP moves.<br>One repricing.
-metric_1: $40M
-label_1: PATLYTICS<br>SERIES B
-metric_2: 50/50
-label_2: AI MUSIC<br>SPLIT
-metric_3: 1st
-label_3: INDUSTRY<br>WIDE PACT
+status: pending
+hook_format: numbered
+cta_goal: clicks
+slug: is-ip-licensing-profitable-2026
+keyword: IP licensing profit margin
+numbers_check: 90%, 11%
+headline: 90%+ gross margins.<br>No inventory. Pure profit.
+metric_1: 90%+
+label_1: GROSS<br>MARGINS
+metric_2: 0
+label_2: HEADCOUNT<br>ADDITION
+metric_3: 11%
+label_3: TOP-PERFORMER<br>DATA REVENUE
 
-Three IP moves repriced the market this week.
+90%+ gross margins. No inventory. Pure profit.
 
-1. Patlytics raised $40M to turn patent work into software. Filing cost is collapsing.
+Most founders see IP as a cost. It's your highest-margin product, generating revenue without COGS or headcount.
 
-2. Warner Music bought Sureel AI to license its catalog into AI training. IP flipped from a shield into a toll booth.
+The fix (3 moves, this week):
+1. Identify unmonetized IP assets.
+2. Structure pure-play licensing deals.
+3. Treat royalties as an ARR line.
 
-3. The NMPA signed Udio and KLAY to a 50/50 split, the first industry-wide AI music licensing pacts.
+Top AI companies now earn 11% of revenue from data licensing alone.
 
-One theme runs through all three: intellectual property is moving from the legal column to the revenue column.
+↳ Founders: which unmonetized asset could generate pure profit for you?
 
-The metric that matters is licensing revenue per asset, not patents filed.
-
-Follow for the weekly IP repricing signal.
-
-#IPStrategy #AILicensing #MusicBusiness
+#IPStrategy #Licensing #DataMonetization
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-06-12T16:16:24.007Z
-share_urn: urn:li:share:7471233954944069632
-hook_format: story
-cta_goal: dm
-slug: one-patent-one-automaker
-keyword: patent licensing leverage
-numbers_check: 1, 100, 1
-image_direction: story headline, tiles on the single claim, vanity filings beaten, and automaker at the table
-headline: One patent.<br>One automaker.
-metric_1: 1
-label_1: CLAIM ON<br>VW ROADMAP
-metric_2: 100
-label_2: VANITY FILINGS<br>OUTWEIGHED
-metric_3: 1
-label_3: AUTOMAKER<br>REVIEWING
+status: pending
+hook_format: numbered
+cta_goal: clicks
+slug: know-how-vs-patent-2026
+keyword: know-how vs patent
+numbers_check: 20-year, 90%
+headline: Know-how vs. Patent:<br>A 20-year trade-off.
+metric_1: 20
+label_1: PATENT<br>LIFESPAN (YRS)
+metric_2: INDEFINITE
+label_2: TRADE SECRET<br>LIFESPAN
+metric_3: 90%
+label_3: OF S&P 500<br>IS INTANGIBLE
 
-One patent put a startup across the table from VW.
+Know-how vs. Patent: A 20-year trade-off.
 
-Volkswagen's lawyers are now reviewing Electros' multi-port EV charging patent. That review is the whole story.
+Most founders file patents reflexively. But for AI models and data, a trade secret might offer indefinite protection.
 
-A company most people never heard of holds a claim a global automaker has to deal with. 1 claim, not 1,000 filings.
+The fix (3 moves, this week):
+1. Inventory all unpatented know-how.
+2. Apply the patent vs. trade secret test.
+3. Implement DTSA-compliant protections.
 
-This is the leverage founders miss: a single well-drafted patent on the right method beats 100 vanity filings that protect nothing.
+Intangible assets are 90% of S&P 500 value; only 10% are patents.
 
-The KPI is not patent count. It is whether 1 of your claims sits on a competitor's roadmap.
+↳ Founders: which AI component are you protecting with a trade secret?
 
-DM me CLAIM and I will pressure-test your strongest one.
-
-#PatentStrategy #EVcharging #IP
+#IPStrategy #TradeSecrets #Patents
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-06-12T18:57:24.015Z
-share_urn: urn:li:share:7471274472302473216
-hook_format: frame-break
+status: pending
+hook_format: contrarian
 cta_goal: clicks
-slug: ip-is-margin-not-cost
-keyword: IP licensing margin
-numbers_check: 65%, single digit, 2
-image_direction: frame-break headline, tiles on licensing margin, chip margin, and one company two P&Ls
-headline: IP is not a cost.<br>It is margin.
-metric_1: 65%+
-label_1: LICENSING<br>OP MARGIN
-metric_2: <10%
-label_2: CHIP BIZ<br>MARGIN
-metric_3: 1
-label_3: COMPANY<br>TWO P&Ls
+slug: how-much-is-my-ip-worth-2026
+keyword: how much is my intellectual property worth
+numbers_check: $50M+, 92%
+headline: Your IP is worth<br>millions more.
+metric_1: $50M+
+label_1: HIDDEN IP<br>VALUE FOUND
+metric_2: 92%
+label_2: S&P 500<br>INTANGIBLES
+metric_3: 3
+label_3: VALUATION<br>METHODS
 
-Your IP is not legal cover. It is your highest-margin product.
+Your IP is worth millions more.
 
-Qualcomm proves it. Its licensing arm runs operating margins above 65%, while its chip business fights below 10%. Same company, same patents, 2 very different P&Ls.
+Most founders have no idea what their IP is worth. You're negotiating blind, leaving millions on the table.
 
-The EUIPO just called IP an overlooked driver of growth. A WSJ feature this week called it king.
+The fix (3 moves, this week):
+1. Perform a market-based valuation.
+2. Run an income-based royalty DCF.
+3. Stress-test with real options analysis.
 
-Most founders still book IP as a legal expense and never report what it earns.
+Beyond Elevation's valuation framework identified $50M+ in hidden IP value for one client.
 
-Pull licensing revenue and its gross margin onto their own line. Investors re-rate what they can finally see.
+↳ Founders: what's the biggest number your IP could add to your exit?
 
-I broke down the Qualcomm split. Link in comments.
-
-#IPStrategy #GrossMargin #Valuation
-
----
-
-## Post 6
-status: published
-published_at: 2026-06-13T10:06:03.656Z
-share_urn: urn:li:share:7471503143969800192
-hook_format: prediction
-cta_goal: dm
-slug: ip-gets-a-line-in-diligence
-keyword: pre-raise IP audit
-numbers_check: $65M, 2027, 1x
-image_direction: prediction headline, tiles on capital signal and multiple impact
-headline: By your next round,<br>IP gets its own line.
-metric_1: $65M
-label_1: INTO PATENT<br>TOOLING
-metric_2: 2027
-label_2: IP IN<br>DILIGENCE
-metric_3: 1x
-label_3: TURN ON YOUR<br>MULTIPLE
-
-By your next round, IP gets its own line in diligence.
-
-Here is the signal: $65M went into AI patent tooling this week, and Clarivate just rebuilt its entire IP segment around AI.
-
-When a portfolio can be audited in minutes, investors will audit it.
-
-Prediction: by 2027, an unmapped IP portfolio costs you a full turn on your multiple.
-
-The founders who win are not filing more. They are showing exactly what they own and what it earns.
-
-DM me AUDIT for the IP checklist to run before your next raise.
-
-#IPStrategy #StartupFunding #Valuation
+#IPValuation #ExitStrategy #FounderAdvice
