@@ -20,23 +20,21 @@
  * If a post fails the gate after 3 full-batch retries, the run is logged to
  * linkedin-pipeline-log.md and exits non-zero (per routine-resilience rule).
  *
- * RAIL STATUS (2026-06-10 audit): this script runs in GitHub Actions (cloud),
- * so it cannot use the local `claude -p` subscription CLI. It depends on the
- * paid Anthropic API key (secrets.ANTHROPIC_API_KEY), which has $0 credit —
- * runs on 06-08 and 06-09 failed with "credit balance is too low". Runs only
- * "succeed" when the idempotency check skips generation. To revive, either
- * (a) top up Anthropic API credit, or (b) migrate generation to a claude.ai
- * cloud scheduled task that commits the queue file directly (same pattern as
- * the BE blog publisher RemoteTrigger, which runs on the subscription).
- * Left on the existing rail intentionally; do not point this at the API key
- * expecting it to work.
+ * RAIL STATUS (2026-06-15): runs in GitHub Actions (cloud), so no local
+ * `claude -p` subscription CLI. Primary rail = Anthropic API
+ * (secrets.ANTHROPIC_API_KEY), which has $0 credit and throws 400
+ * "credit balance is too low". FALLBACK rail = Google Gemini
+ * (secrets.GEMINI_API_KEY, gemini-2.0-flash REST). callModel() tries
+ * Anthropic, and on ANY error (400 credit / 401 / 5xx / network) falls back
+ * to Gemini with the same prompt and output shape. Both rails must fail before
+ * an attempt aborts. So today, with $0 Anthropic credit, runs succeed via Gemini.
  */
 
 import { readFileSync, writeFileSync, existsSync, appendFileSync } from 'node:fs';
 
-const { ANTHROPIC_API_KEY } = process.env;
-if (!ANTHROPIC_API_KEY) {
-  console.error('Missing ANTHROPIC_API_KEY');
+const { ANTHROPIC_API_KEY, GEMINI_API_KEY } = process.env;
+if (!ANTHROPIC_API_KEY && !GEMINI_API_KEY) {
+  console.error('Missing both ANTHROPIC_API_KEY and GEMINI_API_KEY — need at least one generation rail');
   process.exit(1);
 }
 
@@ -316,8 +314,13 @@ HARD RULES:
 - Output ONLY the file — nothing before the opening --- or after the last post`;
 }
 
-// ── 5. Call Claude with retries ───────────────────────────────────────────────
-async function callClaude(userMessage) {
+// ── 5. Generation rails (Anthropic primary, Gemini fallback) ──────────────────
+// The Anthropic account currently has $0 credit, so every cloud run threw 400
+// "credit balance too low" and the routine failed daily. Per routine-resilience:
+// try Anthropic first; on ANY error (400 credit / 401 / 5xx / network), fall back
+// to Google Gemini using GEMINI_API_KEY. Both must fail before we abort the attempt.
+async function callAnthropic(userMessage) {
+  if (!ANTHROPIC_API_KEY) throw new Error('ANTHROPIC_API_KEY not set');
   const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
@@ -332,21 +335,60 @@ async function callClaude(userMessage) {
       messages: [{ role: 'user', content: userMessage }],
     }),
   });
-  if (!res.ok) throw new Error(`Anthropic API ${res.status}: ${await res.text()}`);
+  if (!res.ok) throw new Error(`Anthropic API ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const data = await res.json();
   const raw  = data.content?.[0]?.text?.trim();
-  if (!raw) throw new Error('Empty response from Claude');
+  if (!raw) throw new Error('Empty response from Anthropic');
   return raw;
+}
+
+async function callGemini(userMessage) {
+  if (!GEMINI_API_KEY) throw new Error('GEMINI_API_KEY not set');
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({
+      systemInstruction: { parts: [{ text: SYSTEM }] },
+      contents: [{ role: 'user', parts: [{ text: userMessage }] }],
+      // 2.5-flash spends "thinking" tokens before the answer; keep the budget
+      // high so the full 5-post file isn't truncated (finishReason MAX_TOKENS).
+      generationConfig: { temperature: 0.9, maxOutputTokens: 16000 },
+    }),
+  });
+  if (!res.ok) throw new Error(`Gemini API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  const data = await res.json();
+  const raw  = data.candidates?.[0]?.content?.parts?.map(p => p.text).join('').trim();
+  if (!raw) throw new Error(`Empty response from Gemini (finishReason=${data.candidates?.[0]?.finishReason || 'none'})`);
+  return raw;
+}
+
+// Returns the same shape (a raw markdown string) regardless of which rail served it.
+async function callModel(userMessage) {
+  try {
+    const out = await callAnthropic(userMessage);
+    console.log('  rail: anthropic (claude-sonnet-4-6)');
+    return out;
+  } catch (anthErr) {
+    pipeLog(`anthropic failed (${anthErr.message.slice(0, 160)}) → falling back to gemini`);
+    try {
+      const out = await callGemini(userMessage);
+      console.log('  rail: gemini-2.5-flash (fallback)');
+      return out;
+    } catch (gemErr) {
+      throw new Error(`both rails failed — anthropic: ${anthErr.message.slice(0, 140)} | gemini: ${gemErr.message.slice(0, 140)}`);
+    }
+  }
 }
 
 let raw = null;
 let lastFailures = '';
 
 for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-  console.log(`Calling Claude (attempt ${attempt}/${MAX_ATTEMPTS}) for ${TODAY}...`);
+  console.log(`Calling model (attempt ${attempt}/${MAX_ATTEMPTS}) for ${TODAY}...`);
   let candidate;
   try {
-    candidate = await callClaude(buildUser(lastFailures));
+    candidate = await callModel(buildUser(lastFailures));
   } catch (e) {
     pipeLog(`attempt ${attempt} | API error: ${e.message.slice(0, 200)}`);
     if (attempt === MAX_ATTEMPTS) {
