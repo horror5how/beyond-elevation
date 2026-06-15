@@ -253,3 +253,4 @@
 2026-06-14 17:53 | urn:li:share:7471983211040972800 | EU AI Act GPAI provisions go live in 8 weeks.  If your model was trained on unli
 2026-06-15 07:51 | urn:li:share:7472194117519781888 | Every $1M in IP licensing revenue is worth $8M at exit. Most founders don't know
 2026-06-15 12:52 | QUEUED | ip-licensing-profitable-2026 | IP licensing runs at 90%+ gross margin.  No inventory. No COGS. No headcount to 
+2026-06-15 12:52 | urn:li:share:7472269902654099456 | IP licensing runs at 90%+ gross margin.  No inventory. No COGS. No headcount to 
