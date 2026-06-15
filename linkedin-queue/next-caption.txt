@@ -1,15 +1,17 @@
-IP licensing runs at 90%+ gross margin.
+Most founders have no idea what their IP is worth.
 
-No inventory. No COGS. No headcount to scale.
+Their investor does. And it's probably lower than reality.
 
-Qualcomm earns 65% of its operating profit from licensing. Not from chips.
+3 methods that set the real number:
 
-The math: your competitor builds the same feature for $4M in R&D. You charge them 4% of net revenue. Forever.
+Income approach: future royalty cash flows, discounted back to today.
 
-That is not a legal strategy. That is a product.
+Market approach: comparable transactions. Median patent family deal: $300K-$2M.
 
-Founders who figure this out stop treating IP as cost and start running it as their highest-margin business unit.
+Cost approach: what it cost to build the asset, adjusted for obsolescence.
 
-The ones who don't keep giving their moat away.
+A licensed patent family typically returns 3-8x the filing cost.
 
-#IPStrategy #Licensing #Founders
+Run the valuation before they do.
+
+#IPValuation #IntellectualProperty #IPStrategy
