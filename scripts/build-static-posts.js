@@ -379,7 +379,7 @@ function pageTemplate(post, related) {
     <script type="application/ld+json">${JSON.stringify(articleSchema)}</script>
     <script type="application/ld+json">${JSON.stringify(breadcrumbSchema)}</script>${faqScript}
 
-    <!-- Speed Insights only. Vercel Web Analytics integration is not enabled, so /_vercel/insights/script.js 404s; omitted. -->
+    <!-- Speed Insights only (Vercel Web Analytics integration is not enabled). -->
     <script defer src="/_vercel/speed-insights/script.js"></script>
     <!-- /Analytics -->
 
@@ -545,7 +545,7 @@ function blogIndexTemplate(posts) {
 
     <script type="application/ld+json">${JSON.stringify(itemList)}</script>
 
-    <!-- Speed Insights only. Vercel Web Analytics integration is not enabled, so /_vercel/insights/script.js 404s; omitted. -->
+    <!-- Speed Insights only (Vercel Web Analytics integration is not enabled). -->
     <script defer src="/_vercel/speed-insights/script.js"></script>
     <!-- /Analytics -->
 
