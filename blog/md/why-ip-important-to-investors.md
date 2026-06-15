@@ -2,8 +2,8 @@
 title: "Why Investors Read Your Patent Schedule Before Your Deck: The IP Signals That Add 15-20% to Your Multiple"
 slug: why-ip-important-to-investors
 date: 2026-06-15
-url: https://beyondelevation.com/blog/post.html?slug=why-ip-important-to-investors
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/why-ip-important-to-investors/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -89,6 +89,20 @@ Making your IP investor-ready is a 90-day process that costs less than a single 
 
 Beyond Elevation builds these memos for clients preparing for Series A through pre-IPO rounds. The companies that arrive at the term sheet with a clean IP story close faster, at higher multiples, with fewer re-trades. [Book a free IP audit consultation](https://beyondelevation.com) to find out where your portfolio stands before investors tell you.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-why-ip-important-to-investors)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Why is IP important to investors in early-stage startups?
@@ -110,3 +124,6 @@ Investors care about both. Patents provide legal exclusion rights that block com
 ### When should founders start building an investor-ready IP portfolio?
 
 Before the first term sheet. Filing a provisional patent at pre-seed costs $1,000 to $3,000 and establishes a priority date. Building a trade-secret program takes two weeks. Running an FTO analysis takes 30 days. All three should be completed before entering fundraising conversations, not during them.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
