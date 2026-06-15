@@ -215,5 +215,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The ADC Competitive Landscape: 14 Pipelines, 6 Linker Technologies, and the Targets Pfizer-Seagen Did Not Buy](https://beyondelevation.com/blog/posts/adc-competitive-landscape-2026/) — /blog/md/adc-competitive-landscape-2026.md
 - [The Pre-Exit IP Audit: 9 Fixes Worth 30% of Your Acquisition Price (Most Founders Find Them Too Late)](https://beyondelevation.com/blog/posts/pre-exit-ip-audit-acquisition-premium/) — /blog/md/pre-exit-ip-audit-acquisition-premium.md
 - [How the UK Patent Box Works in 2026: The 10% Tax Rate Most Founders Ignore (And the R&D Co-Claim That Doubles the Saving)](https://beyondelevation.com/blog/posts/uk-patent-box-rd-co-claim-2026/) — /blog/md/uk-patent-box-rd-co-claim-2026.md
+- [What Is IP Funding? How Founders Raise Capital Against Patents Without Giving Up a Single Share](https://beyondelevation.com/blog/posts/what-is-ip-funding/) — /blog/md/what-is-ip-funding.md
 
 > Full blog content available at /llms-full.txt

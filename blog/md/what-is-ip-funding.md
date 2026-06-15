@@ -2,8 +2,8 @@
 title: "What Is IP Funding? How Founders Raise Capital Against Patents Without Giving Up a Single Share"
 slug: what-is-ip-funding
 date: 2026-06-15
-url: https://beyondelevation.com/blog/post.html?slug=what-is-ip-funding
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/what-is-ip-funding/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -77,6 +77,20 @@ Finally, prepare claim charts showing how your patents map to products or servic
 
 Your patents are financial instruments. The question is whether you can prove it to the people writing the checks. [Talk to Beyond Elevation](https://beyondelevation.com) and we will build the valuation story that turns your portfolio into capital.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-what-is-ip-funding)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the difference between IP funding and venture debt?
@@ -98,3 +112,6 @@ The lender holds a security interest in your patent portfolio. On default, the l
 ### Is IP funding available outside the United States?
 
 Yes. IP-backed lending is active in the UK (British Business Bank programs), the EU (EUIPO-backed pilots), Hong Kong (the IP-Finance Sandbox launched in 2026), and Singapore. The Isle of Man's Data Asset Foundation structure also enables IP-adjacent funding against registered datasets.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

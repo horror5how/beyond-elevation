@@ -3119,3 +3119,19 @@ They are wrong. Hayat Amin argues that the UK Patent Box is the single most unde
 The UK Patent Box is a government-backed tax relief that reduces the effective corporation tax rate on profits attributable to qualifying patents from 25% to 10%. Any UK-resident company that owns or exclusively licenses a qualifyi
 
 ---
+
+## What Is IP Funding? How Founders Raise Capital Against Patents Without Giving Up a Single Share
+
+URL: https://beyondelevation.com/blog/posts/what-is-ip-funding/
+
+Companies with patents are 10.2x more likely to secure early-stage funding. Most founders use that stat to attract equity investors. The smarter move in 2026 is IP funding: raising $2M to $20M against your patent portfolio without giving up a single share of ownership.
+
+Hayat Amin argues that IP funding is the most underused capital structure in tech because founders still treat patents as legal shields, not financial instruments. When Western Technology Investment and Horizon Technology Finance started folding patent schedules into their underwriting models, the economics changed. Lenders now ask for your IP portfolio before your financial model. This is the guide to what IP funding actually is, who qualifies, and how to position your portfolio to access it.
+
+## What Is IP Funding?
+
+IP funding is any capital raise where intellectual property assets serve as the primary or supplementary collateral backing the loan. The founder gives up zero ownership. The lender gets a security interest in a defined, valued asset: granted patents, trade secrets, or proprietary data. Interest rates drop compared to unsecured debt because the collateral reduces lender risk.
+
+Three structures dominate the 2026 market. Patent-backed loans use granted patents as direct collateral, typically at 20-40% loan-to-value ratios, with interest rates running 8-15% APR. IP-backed venture debt folds IP valuation into underwriting alongside revenue and ARR metrics, extending the credit facility by 15-30% beyo
+
+---
