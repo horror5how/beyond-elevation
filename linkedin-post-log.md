@@ -251,3 +251,4 @@
 2026-06-14 12:53 | urn:li:share:7471907644958621696 | Foundation model prices dropped 98% in 24 months.  The fine-tuning layer is wher
 2026-06-14 17:52 | QUEUED | eu-gpai-training-data-ip-2026 | EU AI Act GPAI provisions go live in 8 weeks.  If your model was trained on unli
 2026-06-14 17:53 | urn:li:share:7471983211040972800 | EU AI Act GPAI provisions go live in 8 weeks.  If your model was trained on unli
+2026-06-15 07:51 | urn:li:share:7472194117519781888 | Every $1M in IP licensing revenue is worth $8M at exit. Most founders don't know
