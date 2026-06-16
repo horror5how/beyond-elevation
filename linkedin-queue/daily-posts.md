@@ -3,7 +3,7 @@ date: 2026-06-16
 theme: Your IP is an underpriced financial asset: value it, fund with it, and build the moat before it gets cheap for everyone.
 generated_at: 2026-06-16T04:00:00Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -122,7 +122,9 @@ Top AI companies now earn 11% of revenue from data licensing alone.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-16T18:03:59.494Z
+share_urn: urn:li:share:7472710582815760385
 hook_format: numbered
 cta_goal: clicks
 slug: know-how-vs-patent-2026
