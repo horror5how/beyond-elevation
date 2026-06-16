@@ -314,9 +314,9 @@ patent-due-diligence-4-killers-ma-2026
 data-eleven-pct-revenue-gap-2026
 fine-tuning-ip-licensing-layer-2026
 eu-gpai-training-data-ip-2026
-
-how-long-does-a-patent-lastlicensing-revenue-exit-multiple-math-2026
+how-long-does-a-patent-last
+licensing-revenue-exit-multiple-math-2026
 ip-licensing-profitable-2026
 how-much-is-my-ip-worth-2026
-
 10-20-70-rule-for-ai
+ip-first-capital-stack-2026
