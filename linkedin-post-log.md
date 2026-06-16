@@ -258,3 +258,4 @@
 2026-06-16 07:59 | urn:li:share:7472558469422845952 | Most founders sell equity first.  The smart ones borrow against IP first.  Weste
 2026-06-16 12:15 | urn:li:share:7472622979961757696 | post #1 | what-is-ip-funding | Raise capital against patents: Zero equity.  Most founders dilute equity for cap
 2026-06-16 13:29 | urn:li:share:7472641388141252608 | post #2 | why-ip-important-to-investors | Investors read your patent schedule first.  Your investor deck is good. But if y
+2026-06-16 15:51 | urn:li:share:7472677213042114561 | post #3 | is-ip-licensing-profitable-2026 | 90%+ gross margins. No inventory. Pure profit.  Most founders see IP as a cost. 

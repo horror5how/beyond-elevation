@@ -3,7 +3,7 @@ date: 2026-06-16
 theme: Your IP is an underpriced financial asset: value it, fund with it, and build the moat before it gets cheap for everyone.
 generated_at: 2026-06-16T04:00:00Z
 posts_total: 6
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -88,7 +88,9 @@ AI startups with IP audits command 25.8x multiples vs 18.2x without.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-16T15:51:23.521Z
+share_urn: urn:li:share:7472677213042114561
 hook_format: numbered
 cta_goal: clicks
 slug: is-ip-licensing-profitable-2026
