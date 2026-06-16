@@ -617,3 +617,5 @@ Post 5: hook_too_long(10w)
 2026-06-15 22:49 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
 2026-06-15 22:49 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
 2026-06-16 12:15 | li-auto-post | render OK | post #1 | layout=b accent=#7a8c6e hash=42c3e7ffc3c3ff99 minDist=5 attempts=1
+2026-06-16 13:28 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=0 < 5) | trying different variant
+2026-06-16 13:29 | li-auto-post | render OK | post #2 | layout=c accent=#7a8c6e hash=7ef910710b74ffff minDist=6 attempts=2

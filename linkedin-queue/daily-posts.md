@@ -3,7 +3,7 @@ date: 2026-06-16
 theme: Your IP is an underpriced financial asset: value it, fund with it, and build the moat before it gets cheap for everyone.
 generated_at: 2026-06-16T04:00:00Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ One BE client raised $14M against patents, zero equity. Same playbook in comment
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-16T13:29:02.160Z
+share_urn: urn:li:share:7472641388141252608
 hook_format: contrarian
 cta_goal: clicks
 slug: why-ip-important-to-investors

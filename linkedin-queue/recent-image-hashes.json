@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef0f0051bf5ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "cheap-patents-kill-the-old-moat",
-    "ts": "2026-06-12T11:05:40.033Z"
-  },
-  {
     "hash": "c3c3e7ffe3e7ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "what-is-ip-funding",
     "ts": "2026-06-16T12:15:53.266Z"
+  },
+  {
+    "hash": "7ef910710b74ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "why-ip-important-to-investors",
+    "ts": "2026-06-16T13:29:02.160Z"
   }
 ]
