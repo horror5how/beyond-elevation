@@ -260,3 +260,4 @@
 2026-06-16 13:29 | urn:li:share:7472641388141252608 | post #2 | why-ip-important-to-investors | Investors read your patent schedule first.  Your investor deck is good. But if y
 2026-06-16 15:51 | urn:li:share:7472677213042114561 | post #3 | is-ip-licensing-profitable-2026 | 90%+ gross margins. No inventory. Pure profit.  Most founders see IP as a cost. 
 2026-06-16 18:03 | urn:li:share:7472710582815760385 | post #4 | know-how-vs-patent-2026 | Know-how vs. Patent: A 20-year trade-off.  Most founders file patents reflexivel
+2026-06-16 20:01 | urn:li:share:7472740133167931393 | post #5 | how-much-is-my-ip-worth-2026 | Your IP is worth millions more.  Most founders have no idea what their IP is wor

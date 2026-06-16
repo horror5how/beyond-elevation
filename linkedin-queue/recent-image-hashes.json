@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3434e7ffe7c3ff9f",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "one-patent-one-automaker",
-    "ts": "2026-06-12T16:16:24.007Z"
-  },
-  {
     "hash": "7ef9f01133f7ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "know-how-vs-patent-2026",
     "ts": "2026-06-16T18:03:59.494Z"
+  },
+  {
+    "hash": "0006e7ffe3e7ff9f",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "how-much-is-my-ip-worth-2026",
+    "ts": "2026-06-16T20:01:24.790Z"
   }
 ]

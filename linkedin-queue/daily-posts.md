@@ -3,7 +3,7 @@ date: 2026-06-16
 theme: Your IP is an underpriced financial asset: value it, fund with it, and build the moat before it gets cheap for everyone.
 generated_at: 2026-06-16T04:00:00Z
 posts_total: 6
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -156,7 +156,9 @@ Intangible assets are 90% of S&P 500 value; only 10% are patents.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-16T20:01:24.790Z
+share_urn: urn:li:share:7472740133167931393
 hook_format: contrarian
 cta_goal: clicks
 slug: how-much-is-my-ip-worth-2026
