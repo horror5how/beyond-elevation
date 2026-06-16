@@ -2,8 +2,8 @@
 title: "Is IP Licensing Profitable? The 90%+ Gross-Margin Math That Beats Building the Product Yourself"
 slug: is-ip-licensing-profitable
 date: 2026-06-16
-url: https://beyondelevation.com/blog/post.html?slug=is-ip-licensing-profitable
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/is-ip-licensing-profitable/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -79,6 +79,20 @@ The IP licensing profit model is not complicated. It is underused. Most founders
 
 [Beyond Elevation](https://beyondelevation.com) runs a full licensing audit that identifies which patents are licensable today, sizes the addressable market, and projects a 24-month revenue model. Book a licensing audit and find out what your portfolio is worth on the open market.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-is-ip-licensing-profitable)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is a good profit margin for IP licensing?
@@ -100,3 +114,6 @@ A typical licensing program generates first revenue 6 to 18 months after launch.
 ### Does IP licensing work outside the US?
 
 IP licensing works in any jurisdiction where the licensor holds granted patents. International licensing programs require local counsel and jurisdiction-specific royalty structures, but the margin advantage holds globally. European FRAND licensing, Japanese cross-licensing, and Chinese utility model licensing all follow the same high-margin economic logic.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -217,5 +217,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How the UK Patent Box Works in 2026: The 10% Tax Rate Most Founders Ignore (And the R&D Co-Claim That Doubles the Saving)](https://beyondelevation.com/blog/posts/uk-patent-box-rd-co-claim-2026/) — /blog/md/uk-patent-box-rd-co-claim-2026.md
 - [What Is IP Funding? How Founders Raise Capital Against Patents Without Giving Up a Single Share](https://beyondelevation.com/blog/posts/what-is-ip-funding/) — /blog/md/what-is-ip-funding.md
 - [Why Investors Read Your Patent Schedule Before Your Deck: The IP Signals That Add 15-20% to Your Multiple](https://beyondelevation.com/blog/posts/why-ip-important-to-investors/) — /blog/md/why-ip-important-to-investors.md
+- [Is IP Licensing Profitable? The 90%+ Gross-Margin Math That Beats Building the Product Yourself](https://beyondelevation.com/blog/posts/is-ip-licensing-profitable/) — /blog/md/is-ip-licensing-profitable.md
 
 > Full blog content available at /llms-full.txt
