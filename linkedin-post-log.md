@@ -256,3 +256,4 @@
 2026-06-15 12:52 | urn:li:share:7472269902654099456 | IP licensing runs at 90%+ gross margin.  No inventory. No COGS. No headcount to 
 2026-06-15 17:51 | urn:li:share:7472345122890989568 | Most founders have no idea what their IP is worth.  Their investor does. And it'
 2026-06-16 07:59 | urn:li:share:7472558469422845952 | Most founders sell equity first.  The smart ones borrow against IP first.  Weste
+2026-06-16 12:15 | urn:li:share:7472622979961757696 | post #1 | what-is-ip-funding | Raise capital against patents: Zero equity.  Most founders dilute equity for cap

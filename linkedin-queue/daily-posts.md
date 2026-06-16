@@ -3,7 +3,7 @@ date: 2026-06-16
 theme: Your IP is an underpriced financial asset: value it, fund with it, and build the moat before it gets cheap for everyone.
 generated_at: 2026-06-16T04:00:00Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Today's posts equip founders and CEOs to treat intellectual property as a balanc
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-16T12:15:53.266Z
+share_urn: urn:li:share:7472622979961757696
 hook_format: contrarian
 cta_goal: clicks
 slug: what-is-ip-funding

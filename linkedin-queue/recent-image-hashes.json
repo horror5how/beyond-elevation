@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff7131313f5fdff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "three-rights-that-set-the-rate",
-    "ts": "2026-06-11T19:28:34.295Z"
-  },
-  {
     "hash": "7ef0f0051bf5ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ip-gets-a-line-in-diligence",
     "ts": "2026-06-13T10:06:03.656Z"
+  },
+  {
+    "hash": "42c3e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "what-is-ip-funding",
+    "ts": "2026-06-16T12:15:53.266Z"
   }
 ]
