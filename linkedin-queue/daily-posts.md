@@ -1,13 +1,13 @@
 ---
-date: 2026-06-15
-theme: Unlock your IP's hidden financial value and strategic advantage.
-generated_at: 2026-06-15T22:48:47.127Z
-posts_total: 5
+date: 2026-06-16
+theme: Your IP is an underpriced financial asset: value it, fund with it, and build the moat before it gets cheap for everyone.
+generated_at: 2026-06-16T04:00:00Z
+posts_total: 6
 posts_published: 0
 ---
 
 # Daily theme
-Today's posts equip founders and CEOs with actionable strategies to transform their intellectual property from a dormant asset into a financial powerhouse. We cover leveraging IP for non-dilutive capital, understanding its impact on investor valuation, monetizing it for pure profit, and making critical decisions between patents and trade secrets for optimal protection and exit value.
+Today's posts equip founders and CEOs to treat intellectual property as a balance-sheet asset, not a legal formality. We cover raising non-dilutive capital against patents, the valuation premium IP audits unlock with investors, the pure-profit economics of licensing, the patent vs. trade-secret decision, putting a real number on your IP, and why the wave of AI-for-patents funding means the cost of building a defensible moat is about to collapse.
 
 # Topic shortlist (research notes - not posted)
 1. IP funding — Raise capital against patents. Zero equity. ($14M, zero equity)
@@ -15,6 +15,7 @@ Today's posts equip founders and CEOs with actionable strategies to transform th
 3. IP licensing profit margin — 90%+ gross margins. No inventory. Pure profit. (90%, 11%)
 4. Know-how vs patent — Know-how vs. Patent: A 20-year trade-off. (20-year, 90%)
 5. How much is my intellectual property worth — Your IP is worth millions more. ($50M+, 92%)
+6. AI-for-patents funding wave — VCs put $105M+ into patent tooling in one quarter; moats are about to get cheap. ($105M, $40M, 10x)
 
 ---
 
@@ -175,3 +176,37 @@ Beyond Elevation's valuation framework identified $50M+ in hidden IP value for o
 ↳ Founders: what's the biggest number your IP could add to your exit?
 
 #IPValuation #ExitStrategy #FounderAdvice
+
+---
+
+## Post 6
+status: pending
+hook_format: prediction
+cta_goal: follows
+slug: ai-for-patents-funding-wave-2026
+keyword: patent moat
+numbers_check: $105M, $40M, 10x, 90%
+image_direction: stark balance-sheet aesthetic, capital flooding into the patent moat, money-into-moat visual
+headline: Smart money just bet<br>on your patents.
+metric_1: $105M
+label_1: VC INTO<br>IP TOOLING
+metric_2: 10x
+label_2: CHEAPER<br>TO FILE
+metric_3: 90%
+label_3: ROYALTY<br>GROSS MARGIN
+
+Smart money just bet on your patents.
+
+In one quarter, VCs put over $105M into AI-for-patents startups. Solve Intelligence raised $40M. DeepIP raised $25M. Patlytics raised $40M.
+
+They are not buying patents. They are buying the tools that make filing roughly 10x cheaper.
+
+Translation: "too expensive to patent" is about to die as an excuse.
+
+The founders who build a patent moat in the next 18 months will own defensibility their rivals priced out of.
+
+Royalty revenue carries 90% gross margins. A moat you skip is a margin you hand a competitor.
+
+↳ Follow for the founder's IP playbook.
+
+#IPStrategy #PatentMoat #AIpatents
