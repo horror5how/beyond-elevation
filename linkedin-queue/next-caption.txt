@@ -1,23 +1,23 @@
-73% of AI patent rejections from 2022–2024 cited §101.
+NDAs do not protect know-how. 5 documents do.
 
-Every one is refile-eligible today.
+Most founders sign NDAs and assume their IP is safe.
 
-In December 2025, the USPTO rewrote the rules under new Director Squires.
+NDAs only cover what you share externally.
 
-The abstract-idea exclusion that killed AI claims has been narrowed.
+They don't cover what employees invent.
+They don't cover contractor output.
+They don't stop know-how leaving in a laptop bag.
 
-ML on large datasets is no longer auto-rejected.
+The 5-document stack:
 
-Founders who got §101 rejections have a window open right now.
+1. IP assignment agreement — every hire, day one
+2. NDA — covers external disclosures only
+3. Written trade secret policy — defines confidential
+4. AI acceptable use policy — blocks the ChatGPT leak
+5. Exit protocol — logs what leaves when staff go
 
-What to do in the next 90 days:
-Pull your rejection letters.
-Identify §101-only rejections.
-Refile with objective technical evidence.
+48 hours to implement. Zero equity diluted.
 
-AI startups with granted patents exit at 25.8x.
-Without: 18.2x.
+One licensing deal pays for the lawyer.
 
-That gap is sitting in your rejection folder.
-
-#AIpatents #IPstrategy #founders
+#IPStrategy #TradeSecrets #Founders
