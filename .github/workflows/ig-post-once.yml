@@ -1,0 +1,113 @@
+name: ig-post-once
+
+on:
+  workflow_dispatch:
+    inputs:
+      ig_id:
+        description: 'Instagram Business Account ID'
+        required: true
+      ig_token:
+        description: 'Instagram access token'
+        required: true
+      slide_urls_b64:
+        description: 'Base64-encoded JSON array of slide image URLs'
+        required: true
+      caption_b64:
+        description: 'Base64-encoded caption text'
+        required: true
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post Instagram carousel
+        env:
+          IG_ID: ${{ inputs.ig_id }}
+          IG_TOKEN: ${{ inputs.ig_token }}
+          SLIDE_URLS_B64: ${{ inputs.slide_urls_b64 }}
+          CAPTION_B64: ${{ inputs.caption_b64 }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, urllib.request, urllib.parse, time, sys, os, base64
+
+          ig_id = os.environ["IG_ID"]
+          token = os.environ["IG_TOKEN"]
+          urls = json.loads(base64.b64decode(os.environ["SLIDE_URLS_B64"]).decode())
+          caption = base64.b64decode(os.environ["CAPTION_B64"]).decode()
+
+          print(f"Posting {len(urls)} slides to IG account {ig_id}", flush=True)
+          print(f"Caption preview: {caption[:80]}...", flush=True)
+
+          base = f"https://graph.facebook.com/v23.0/{ig_id}"
+
+          def post(url, params):
+              data = urllib.parse.urlencode(params).encode()
+              req = urllib.request.Request(url, data=data, method="POST")
+              try:
+                  return json.loads(urllib.request.urlopen(req, timeout=60).read())
+              except urllib.error.HTTPError as e:
+                  return {"error": e.read().decode()[:500]}
+              except Exception as e:
+                  return {"error": str(e)}
+
+          def get(url):
+              try:
+                  return json.loads(urllib.request.urlopen(url, timeout=30).read())
+              except Exception as e:
+                  return {"error": str(e)}
+
+          # 1. Create child media containers
+          child_ids = []
+          for i, img_url in enumerate(urls):
+              r = post(f"{base}/media", {
+                  "image_url": img_url,
+                  "is_carousel_item": "true",
+                  "is_aigc": "true",
+                  "alt_text": f"Slide {i+1}",
+                  "access_token": token,
+              })
+              print(f"child[{i+1}]: {r}", flush=True)
+              if "id" not in r:
+                  print(f"FAILED child container {i+1}: {r}", file=sys.stderr)
+                  sys.exit(1)
+              child_ids.append(r["id"])
+
+          # 2. Create carousel parent container
+          parent = post(f"{base}/media", {
+              "media_type": "CAROUSEL",
+              "children": ",".join(child_ids),
+              "caption": caption,
+              "is_aigc": "true",
+              "access_token": token,
+          })
+          print(f"parent: {parent}", flush=True)
+          if "id" not in parent:
+              print(f"FAILED carousel container: {parent}", file=sys.stderr)
+              sys.exit(1)
+          creation_id = parent["id"]
+
+          # 3. Wait for processing
+          for attempt in range(20):
+              status = get(f"{base}/{creation_id}?fields=status_code&access_token={token}")
+              print(f"status[{attempt}]: {status}", flush=True)
+              if status.get("status_code") == "FINISHED":
+                  break
+              if status.get("status_code") == "ERROR":
+                  print(f"Processing ERROR: {status}", file=sys.stderr)
+                  sys.exit(1)
+              time.sleep(5)
+
+          # 4. Publish
+          publish = post(f"{base}/media_publish", {
+              "creation_id": creation_id,
+              "access_token": token,
+          })
+          print(f"publish: {publish}", flush=True)
+          if "id" not in publish:
+              print(f"FAILED publish: {publish}", file=sys.stderr)
+              sys.exit(1)
+
+          media_id = publish["id"]
+          perma = get(f"https://graph.facebook.com/v23.0/{media_id}?fields=permalink&access_token={token}")
+          print(f"SUCCESS media_id={media_id} permalink={perma.get('permalink','')}", flush=True)
+          PYEOF
