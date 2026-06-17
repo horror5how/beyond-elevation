@@ -266,3 +266,4 @@
 2026-06-17 12:52 | FAIL | post #1 | 401 re-auth needed
 2026-06-17 14:25 | FAIL | post #1 | 401 re-auth needed
 2026-06-17 16:38 | FAIL | post #1 | 401 re-auth needed
+2026-06-17 17:53 | QUEUED | how-to-protect-know-how-2026 | NDAs do not protect know-how. 5 documents do.
