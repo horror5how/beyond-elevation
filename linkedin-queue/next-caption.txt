@@ -1,17 +1,23 @@
-Most founders sell equity first.
+73% of AI patent rejections from 2022–2024 cited §101.
 
-The smart ones borrow against IP first.
+Every one is refile-eligible today.
 
-Western Technology Investment and Horizon Technology Finance now underwrite on your patent schedule before your financial model.
+In December 2025, the USPTO rewrote the rules under new Director Squires.
 
-$20M available. No equity. No warrants. 8-15% APR.
+The abstract-idea exclusion that killed AI claims has been narrowed.
 
-That is cheaper than mezzanine. And you keep every ownership point.
+ML on large datasets is no longer auto-rejected.
 
-The math: raise $5M IP-backed before your Series A. Your Series B dilution drops by 3-4 points.
+Founders who got §101 rejections have a window open right now.
 
-Intangibles are 90% of S&P 500 value. Most IP-rich founders are borrowing against nothing.
+What to do in the next 90 days:
+Pull your rejection letters.
+Identify §101-only rejections.
+Refile with objective technical evidence.
 
-Ask your next lender for the IP-collateral form.
+AI startups with granted patents exit at 25.8x.
+Without: 18.2x.
 
-#IPStrategy #StartupFinance #FounderPlaybook
+That gap is sitting in your rejection folder.
+
+#AIpatents #IPstrategy #founders
