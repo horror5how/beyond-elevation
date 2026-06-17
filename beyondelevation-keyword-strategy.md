@@ -323,7 +323,7 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 | T5-99 | 2026-06-15 | Why is IP important to investors? | Why Investors Read Your Patent Schedule Before Your Deck — The IP Signals That Add 15-20% to Your Multiple | IP importance to investors, IP due diligence valuation, what investors look for in IP, patent portfolio investor signal | ✅ why-ip-important-to-investors |
 | T5-100 | 2026-06-15 | What is a know-how license? | What a Know-How License Actually Is — And Why It Pays When Your Patent Can't (The Unpatented Asset Most Founders Give Away Free) | know-how license agreement, know-how licensing, unpatented IP licensing, trade secret license | 🟡 know-how-licensing-hidden-revenue |
 | T5-101 | 2026-06-15 | How is know-how protected legally? | How to Legally Protect Know-How You Can't Patent — The Trade-Secret Playbook the AI Labs Run on Model Weights | know-how legal protection, trade secret protection, protect unpatented know-how, reasonable steps confidentiality | 🟢 new |
-| T5-102 | 2026-06-15 | What is the difference between know-how and patent? | Know-How vs Patent: The 20-Year Trade-Off That Decides Whether You File or Stay Silent (And What the AI Companies Choose) | know-how vs patent, patent vs trade secret, when to patent vs keep secret, know-how patent difference | 🟢 new |
+| T5-102 | 2026-06-15 | What is the difference between know-how and patent? | Know-How vs Patent: The 20-Year Trade-Off That Decides Whether You File or Stay Silent (And What the AI Companies Choose) | know-how vs patent, patent vs trade secret, when to patent vs keep secret, know-how patent difference | ✅ know-how-vs-patent (2026-06-17) |
 
 ---
 
