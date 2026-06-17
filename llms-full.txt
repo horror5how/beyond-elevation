@@ -3189,3 +3189,23 @@ IP licensing profit margins exceed 90% because the cost structure eliminates eve
 Consider the math side by side. A manufacturer with $10M in revenue at 40% gross margins keeps $4M before operating expenses. A licen
 
 ---
+
+## Know-How vs Patent: The 20-Year Trade-Off That Decides Whether You File or Stay Silent
+
+URL: https://beyondelevation.com/blog/posts/know-how-vs-patent/
+
+The difference between know-how and patent comes down to one trade you make on day one: a patent gives you a 20-year legal monopoly in exchange for telling the world exactly how your invention works. Know-how gives you no monopoly and no expiry date, as long as you keep it secret. File, and the clock starts and the recipe goes public. Stay silent, and you keep the recipe forever but anyone who reinvents it owes you nothing.
+
+That single choice decides more value than most founders realise. Get it wrong and you either hand a working blueprint to your competitors for free, or you sit on an asset a buyer cannot price. At Beyond Elevation we have watched both mistakes wipe seven figures off a valuation in a single diligence call.
+
+## Know-how vs patent: the core difference in one table
+
+A patent is a registered right. You file it, an examiner grants it, it publishes 18 months after filing, and it protects you for 20 years from the filing date. Know-how is unregistered. It is the practical knowledge that makes the invention actually work: the parameters, the failure modes, the data-cleaning steps, the tuning that took your team two years to find. It is protected only by secrecy and the contracts around it.
+
+Here is the practical split:
+
+- **Disclosure:** A patent is fully public. Know-how is private by definition. The moment know-how is published, it stops being know-how.
+
+- **Duration:** A patent expires in 20 years. Know-how lasts as long as you keep the secret. Coca-Cola's form
+
+---
