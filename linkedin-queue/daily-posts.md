@@ -1,195 +1,25 @@
 ---
-date: 2026-06-16
-theme: Your IP is an underpriced financial asset: value it, fund with it, and build the moat before it gets cheap for everyone.
-generated_at: 2026-06-16T04:00:00Z
+date: 2026-06-17
+theme: Your IP is a revenue line and a moat, not a legal formality, and the market just repriced it in front of you.
+generated_at: 2026-06-17T04:00:00Z
 posts_total: 6
-posts_published: 5
+posts_published: 0
 ---
 
 # Daily theme
-Today's posts equip founders and CEOs to treat intellectual property as a balance-sheet asset, not a legal formality. We cover raising non-dilutive capital against patents, the valuation premium IP audits unlock with investors, the pure-profit economics of licensing, the patent vs. trade-secret decision, putting a real number on your IP, and why the wave of AI-for-patents funding means the cost of building a defensible moat is about to collapse.
+Today's posts push founders and CEOs to treat intellectual property as a financial instrument, not paperwork. We carry over the AI-for-patents funding wave, then show how proprietary data became a licensing asset (Reddit), what a patent fight actually costs versus owning claims, why filing volume is not a moat (China's fake-agency crackdown), how Qualcomm turned a portfolio into its most profitable product, and why intangibles now drive 90% of public company value.
 
 # Topic shortlist (research notes - not posted)
-1. IP funding — Raise capital against patents. Zero equity. ($14M, zero equity)
-2. IP importance to investors — Investors read your patent schedule first. (25.8x, 18.2x, 15-20%)
-3. IP licensing profit margin — 90%+ gross margins. No inventory. Pure profit. (90%, 11%)
-4. Know-how vs patent — Know-how vs. Patent: A 20-year trade-off. (20-year, 90%)
-5. How much is my intellectual property worth — Your IP is worth millions more. ($50M+, 92%)
-6. AI-for-patents funding wave — VCs put $105M+ into patent tooling in one quarter; moats are about to get cheap. ($105M, $40M, 10x)
+1. AI-for-patents funding wave (carry-over) - filing is about to get 10x cheaper - $105M, $40M, 90%
+2. Data as licensable IP - Reddit's Google data deal reframed content as a balance-sheet asset - $60M, 90%
+3. Patent litigation cost - owning claims turns a legal bill into leverage - $3M, $1M to $10M
+4. Quality over volume - China flagged 14,460 fake patent agencies amid a filing arms race - 14,460, 1.6M
+5. Qualcomm licensing model - the most profitable product is a patent - $5B, 70%
+6. Intangibles repricing - 90% of S&P 500 value is now invisible assets - 90%, $21T, 17%
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-06-16T12:15:53.266Z
-share_urn: urn:li:share:7472622979961757696
-hook_format: contrarian
-cta_goal: clicks
-slug: what-is-ip-funding
-keyword: IP funding
-numbers_check: $14M, zero equity
-headline: Raise capital against<br>patents. Zero equity.
-metric_1: $14M
-label_1: NON-DILUTIVE<br>CAPITAL
-metric_2: 0%
-label_2: EQUITY<br>DILUTION
-metric_3: 38%
-label_3: LOWER<br>DEFAULT RISK
-
-Raise capital against patents: Zero equity.
-
-Most founders dilute equity for capital. You shouldn't. Your IP is a non-dilutive asset they're ignoring.
-
-The fix (3 moves, this week):
-1. Audit IP for collateral value.
-2. Model future royalty projections.
-3. Engage IP-backed lenders.
-
-One BE client raised $14M against patents, zero equity. Same playbook in comments.
-
-↳ Founders: what's your most valuable non-dilutive asset?
-
-#FinancialStrategy #IPMonetization #Fundraising
-
----
-
-## Post 2
-status: published
-published_at: 2026-06-16T13:29:02.160Z
-share_urn: urn:li:share:7472641388141252608
-hook_format: contrarian
-cta_goal: clicks
-slug: why-ip-important-to-investors
-keyword: IP importance to investors
-numbers_check: 25.8x, 18.2x, 15-20%
-headline: Investors read your<br>patent schedule first.
-metric_1: 25.8x
-label_1: MULTIPLE<br>WITH IP AUDIT
-metric_2: 18.2x
-label_2: MULTIPLE<br>WITHOUT IP AUDIT
-metric_3: 15-20%
-label_3: VALUATION<br>PREMIUM
-
-Investors read your patent schedule first.
-
-Your investor deck is good. But if your IP is a mess, VCs add a 15-20% discount.
-
-The fix (3 moves, this week):
-1. Conduct an independent IP audit.
-2. Link IP directly to revenue streams.
-3. Quantify defensibility for the board.
-
-AI startups with IP audits command 25.8x multiples vs 18.2x without.
-
-↳ Founders: what IP signal would improve your next round?
-
-#FinancialStrategy #InvestorRelations #IPStrategy
-
----
-
-## Post 3
-status: published
-published_at: 2026-06-16T15:51:23.521Z
-share_urn: urn:li:share:7472677213042114561
-hook_format: numbered
-cta_goal: clicks
-slug: is-ip-licensing-profitable-2026
-keyword: IP licensing profit margin
-numbers_check: 90%, 11%
-headline: 90%+ gross margins.<br>No inventory. Pure profit.
-metric_1: 90%+
-label_1: GROSS<br>MARGINS
-metric_2: 0
-label_2: HEADCOUNT<br>ADDITION
-metric_3: 11%
-label_3: TOP-PERFORMER<br>DATA REVENUE
-
-90%+ gross margins. No inventory. Pure profit.
-
-Most founders see IP as a cost. It's your highest-margin product, generating revenue without COGS or headcount.
-
-The fix (3 moves, this week):
-1. Identify unmonetized IP assets.
-2. Structure pure-play licensing deals.
-3. Treat royalties as an ARR line.
-
-Top AI companies now earn 11% of revenue from data licensing alone.
-
-↳ Founders: which unmonetized asset could generate pure profit for you?
-
-#IPStrategy #Licensing #DataMonetization
-
----
-
-## Post 4
-status: published
-published_at: 2026-06-16T18:03:59.494Z
-share_urn: urn:li:share:7472710582815760385
-hook_format: numbered
-cta_goal: clicks
-slug: know-how-vs-patent-2026
-keyword: know-how vs patent
-numbers_check: 20-year, 90%
-headline: Know-how vs. Patent:<br>A 20-year trade-off.
-metric_1: 20
-label_1: PATENT<br>LIFESPAN (YRS)
-metric_2: INDEFINITE
-label_2: TRADE SECRET<br>LIFESPAN
-metric_3: 90%
-label_3: OF S&P 500<br>IS INTANGIBLE
-
-Know-how vs. Patent: A 20-year trade-off.
-
-Most founders file patents reflexively. But for AI models and data, a trade secret might offer indefinite protection.
-
-The fix (3 moves, this week):
-1. Inventory all unpatented know-how.
-2. Apply the patent vs. trade secret test.
-3. Implement DTSA-compliant protections.
-
-Intangible assets are 90% of S&P 500 value; only 10% are patents.
-
-↳ Founders: which AI component are you protecting with a trade secret?
-
-#IPStrategy #TradeSecrets #Patents
-
----
-
-## Post 5
-status: published
-published_at: 2026-06-16T20:01:24.790Z
-share_urn: urn:li:share:7472740133167931393
-hook_format: contrarian
-cta_goal: clicks
-slug: how-much-is-my-ip-worth-2026
-keyword: how much is my intellectual property worth
-numbers_check: $50M+, 92%
-headline: Your IP is worth<br>millions more.
-metric_1: $50M+
-label_1: HIDDEN IP<br>VALUE FOUND
-metric_2: 92%
-label_2: S&P 500<br>INTANGIBLES
-metric_3: 3
-label_3: VALUATION<br>METHODS
-
-Your IP is worth millions more.
-
-Most founders have no idea what their IP is worth. You're negotiating blind, leaving millions on the table.
-
-The fix (3 moves, this week):
-1. Perform a market-based valuation.
-2. Run an income-based royalty DCF.
-3. Stress-test with real options analysis.
-
-Beyond Elevation's valuation framework identified $50M+ in hidden IP value for one client.
-
-↳ Founders: what's the biggest number your IP could add to your exit?
-
-#IPValuation #ExitStrategy #FounderAdvice
-
----
-
-## Post 6
 status: pending
 hook_format: prediction
 cta_goal: follows
@@ -220,3 +50,171 @@ Royalty revenue carries 90% gross margins. A moat you skip is a margin you hand 
 ↳ Follow for the founder's IP playbook.
 
 #IPStrategy #PatentMoat #AIpatents
+
+---
+
+## Post 2
+status: pending
+hook_format: contrarian
+cta_goal: clicks
+slug: data-is-licensable-ip-reddit
+keyword: data licensing
+numbers_check: $60M, 18 years, 90%
+image_direction: a pile of raw data turning into a gold balance-sheet line, content-as-asset visual
+headline: Your product isn't<br>your best asset.
+metric_1: $60M
+label_1: REDDIT-GOOGLE<br>DATA DEAL
+metric_2: 90%
+label_2: LICENSING<br>GROSS MARGIN
+metric_3: 18yrs
+label_3: DATA SAT<br>UNPRICED
+
+Your product isn't your most valuable asset.
+
+Reddit signed Google a data licensing deal worth roughly $60M a year. Not for ads. For the conversations sitting on its servers.
+
+That content did nothing for 18 years. Then AI turned it into a revenue line.
+
+Licensing income carries gross margins north of 90%. No factory. No inventory. Pure profit.
+
+Most founders sit on proprietary data and call it exhaust. Acquirers call it an asset.
+
+The question is not whether your data has value. It is whether you have made it ownable.
+
+↳ See how we turn data into IP at Beyond Elevation.
+
+#IPStrategy #DataLicensing #AImoat
+
+---
+
+## Post 3
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: patent-litigation-cost-leverage
+keyword: patent litigation
+numbers_check: $3M, $1M to $10M, 5 years
+image_direction: a courtroom gavel next to a profit chart, cost-center-versus-leverage split visual
+headline: A patent fight costs<br>$3M before you win.
+metric_1: $3M
+label_1: COST TO<br>DEFEND A SUIT
+metric_2: $1-10M
+label_2: TYPICAL<br>AT STAKE
+metric_3: 100%
+label_3: AVOIDABLE WITH<br>OWNED CLAIMS
+
+A patent fight costs $3M before you ever win it.
+
+The AIPLA puts the cost of defending a patent suit near $3M through trial when $1M to $10M is on the line.
+
+US patent litigation is climbing again, broader and more cross-border than five years ago.
+
+Here is the math founders miss. The patent you never filed is the lawsuit you cannot counter.
+
+Owning claims turns a $3M legal bill into a licensing negotiation.
+
+Defense is a cost center. A portfolio is leverage. Same dollars, opposite direction.
+
+↳ Follow for the founder's IP playbook.
+
+#IPStrategy #PatentLitigation #FounderMoat
+
+---
+
+## Post 4
+status: pending
+hook_format: frame-break
+cta_goal: dms
+slug: patent-quality-over-volume-china
+keyword: patent quality
+numbers_check: 14,460, 1.6M, 100
+image_direction: a mountain of paper patents next to one steel claim that blocks a door, quality-beats-quantity visual
+headline: Filing more patents<br>won't save you.
+metric_1: 14,460
+label_1: FAKE IP<br>AGENCIES FLAGGED
+metric_2: 1.6M
+label_2: FILINGS A YEAR<br>IN CHINA
+metric_3: 1
+label_3: REAL CLAIM<br>BEATS 100
+
+Filing more patents will not save you.
+
+China just flagged 14,460 firms posing as fake patent agencies. It is the dark side of a filing arms race in a country topping 1.6M applications a year.
+
+Founders copy the wrong lesson. They chase patent count for the press release.
+
+One enforceable claim that blocks a competitor beats 100 decorative filings nobody can defend in court.
+
+A patent you cannot litigate is a certificate, not a moat. Volume is vanity. Enforceability is the asset.
+
+↳ DM me MOAT for a patent-portfolio gut check.
+
+#IPStrategy #PatentQuality #Innovation
+
+---
+
+## Post 5
+status: pending
+hook_format: story
+cta_goal: clicks
+slug: qualcomm-licensing-most-profitable-product
+keyword: patent licensing
+numbers_check: $5B, 70%
+image_direction: a single patent document glowing as a profit engine, licensing-as-revenue visual
+headline: Qualcomm's best product<br>is a patent.
+metric_1: $5B+
+label_1: ANNUAL<br>LICENSING REVENUE
+metric_2: ~70%
+label_2: LICENSING<br>OPERATING MARGIN
+metric_3: 0
+label_3: FACTORIES<br>REQUIRED
+
+Qualcomm's most profitable product is not a chip. It is a patent.
+
+Its licensing arm pulls in over $5B a year from the portfolio, at operating margins near 70%. The chip business cannot touch those numbers.
+
+Qualcomm does not manufacture those royalties. It owns the claims everyone else has to use.
+
+That is the model most founders ignore. They protect IP to avoid getting sued, never to get paid.
+
+Your patents can be a legal shield or a revenue line. Same asset. Wildly different outcome.
+
+↳ Read the founder's licensing playbook on our page.
+
+#IPStrategy #PatentLicensing #Qualcomm
+
+---
+
+## Post 6
+status: pending
+hook_format: listicle
+cta_goal: follows
+slug: intangibles-90-percent-company-value
+keyword: intangible assets
+numbers_check: 90%, $21T, 17%, 15 to 20%
+image_direction: an iceberg where 90% is intangible IP below the waterline, invisible-value visual
+headline: 90% of company value<br>is now invisible.
+metric_1: 90%
+label_1: OF S&P 500<br>VALUE INTANGIBLE
+metric_2: $21T
+label_2: IN INVISIBLE<br>ASSETS
+metric_3: 17%
+label_3: WHAT IT WAS<br>IN 1975
+
+90% of company value is now invisible.
+
+Ocean Tomo's research puts intangible assets at roughly 90% of the S&P 500's market value, over $21 trillion. In 1975 it was 17%.
+
+Three numbers every founder should know before the next raise:
+
+1. Documented IP earns a valuation premium of 15% to 20% from investors.
+
+2. Licensing margins clear 90%. The cleanest revenue you will ever book.
+
+3. Zero. That is what an un-filed invention is worth on your cap table.
+
+The balance sheet moved. Most founders did not.
+
+↳ Follow for the founder's IP playbook.
+
+#IPStrategy #IntangibleAssets #StartupValuation
