@@ -263,3 +263,4 @@
 2026-06-16 20:01 | urn:li:share:7472740133167931393 | post #5 | how-much-is-my-ip-worth-2026 | Your IP is worth millions more.  Most founders have no idea what their IP is wor
 2026-06-17 07:56 | urn:li:share:7472920046961410049 | 73% of AI patent rejections from 2022–2024 cited §101.  Every one is refile-e
 2026-06-17 11:55 | FAIL | post #1 | 401 re-auth needed
+2026-06-17 12:52 | FAIL | post #1 | 401 re-auth needed
