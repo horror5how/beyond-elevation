@@ -268,3 +268,4 @@
 2026-06-17 16:38 | FAIL | post #1 | 401 re-auth needed
 2026-06-17 17:53 | QUEUED | how-to-protect-know-how-2026 | NDAs do not protect know-how. 5 documents do.
 2026-06-17 17:54 | PENDING-REAUTH | how-to-protect-know-how-2026 | LI_TOKEN GitHub Secret is expired — update it in repo Settings → Secrets → Actions → LI_TOKEN
+2026-06-18 06:05 | FAIL | post #1 | 401 re-auth needed
