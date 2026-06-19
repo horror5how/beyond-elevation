@@ -3259,3 +3259,19 @@ A know-how license is a contractual agreement that grants a third party the righ
 The legal foundation is the Defend Trade Secrets Act (DTSA) in the US and equivalent trade secret regimes in the UK and EU. These laws protect confidential business
 
 ---
+
+## The 25% Rule for IP Royalties Is Dead in 2026 — Here Is What Smart Licensors Negotiate Instead
+
+URL: https://beyondelevation.com/blog/posts/25-percent-rule-ip-royalties-dead-2026/
+
+For 50 years, the 25% rule was the fastest way to price an IP royalty. Split the licensee's expected profit 25/75, hand the licensor a quarter, and shake hands. Then one federal court ruling killed it. Founders who still quote the 25% rule in licensing negotiations leave millions on the table or kill the deal before it starts.
+
+Hayat Amin argues that founders who cite the 25% rule in a 2026 negotiation signal to the other side that they have not done their homework. "The 25% rule is the IP equivalent of pricing your SaaS by gut feel," says Hayat Amin. "It sounds reasonable. It has zero economic basis. And it costs licensors 40-60% of the royalty they should collect." Companies with patents are 10.2x more likely to secure early-stage funding, but that funding premium evaporates when the founder misprices the license by anchoring on a dead heuristic.
+
+## What Is the 25% Rule for IP Royalties?
+
+The 25% rule for IP royalties is a rule of thumb stating that a licensor should receive 25% of the licensee's expected profit from products using the licensed technology. The remaining 75% stays with the licensee to cover manufacturing, distribution, marketing, and risk. For decades, patent valuation experts, licensing negotiators, and courts used this 25/75 split as a starting point for reasonable royalty calculations.
+
+The rule originated in the 1970s from Robert Goldscheider's empirical study of licensing deals, which found that royalty rates across industries averaged roughly 25% of t
+
+---
