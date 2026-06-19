@@ -3243,3 +3243,19 @@ The answer comes down to three layers: trade secret statutes, contractual safegu
 Know-how is protected legally through trade secret statutes in every major jurisdiction. These laws give owners
 
 ---
+
+## What Is a Know-How License? The Unpatented Asset Most Founders Give Away Free
+
+URL: https://beyondelevation.com/blog/posts/what-is-a-know-how-license/
+
+A single know-how license deal can generate more revenue than an entire patent portfolio. Hayat Amin proved this in a client engagement where the unpatented operational know-how (training data pipelines, calibration protocols, and engineering workflows) was worth 3x more as a license package than the patents covering the same technology. The patents disclosed what the product did. The know-how explained how to make it work. The licensee paid a premium for the "how."
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But the asset behind the patent, the proprietary knowledge that makes the technology commercially viable, is where the real licensing revenue sits. A know-how license is the deal structure that captures it.
+
+## What Is a Know-How License?
+
+A know-how license is a contractual agreement that grants a third party the right to use specific proprietary, non-patented knowledge in exchange for payment. This knowledge includes trade secrets, manufacturing processes, engineering methodologies, data architectures, training pipelines, calibration protocols, and documented expertise that gives a business its competitive edge. Unlike a patent license, which covers a publicly filed invention with a 20-year clock, a know-how license protects information that stays confidential indefinitely.
+
+The legal foundation is the Defend Trade Secrets Act (DTSA) in the US and equivalent trade secret regimes in the UK and EU. These laws protect confidential business
+
+---

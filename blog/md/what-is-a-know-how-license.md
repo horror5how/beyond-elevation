@@ -2,8 +2,8 @@
 title: "What Is a Know-How License? The Unpatented Asset Most Founders Give Away Free"
 slug: what-is-a-know-how-license
 date: 2026-06-19
-url: https://beyondelevation.com/blog/post.html?slug=what-is-a-know-how-license
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/what-is-a-know-how-license/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ Know-how licensing beats patent licensing in four scenarios. AI companies should
 
 If you are sitting on proprietary knowledge your competitors would pay to access, a know-how license is how you capture that value. [Book a consultation with Beyond Elevation](https://beyondelevation.com) to run the Know-How Licensing Readiness Test on your portfolio.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-what-is-a-know-how-license)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Is a know-how license legally enforceable?
@@ -92,3 +106,6 @@ Documentation and structuring typically runs $15K-$75K depending on the complexi
 ### Does Beyond Elevation structure know-how licenses?
 
 Yes. Beyond Elevation audits proprietary knowledge, identifies licensable assets using Hayat Amin's Know-How Licensing Readiness Test, builds the documentation package, and structures the deal. Book a consultation at [beyondelevation.com](https://beyondelevation.com) to find out what your know-how is worth.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
