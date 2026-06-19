@@ -274,3 +274,4 @@
 2026-06-18 14:08 | FAIL | post #1 | 401 re-auth needed
 2026-06-18 16:29 | FAIL | post #1 | 401 re-auth needed
 2026-06-18 19:26 | FAIL | post #1 | 401 re-auth needed
+2026-06-19 02:24 | PENDING-REAUTH | patent-strategist-vs-attorney-roi-2026 | LI_TOKEN GitHub Secret is expired — update it in repo Settings → Secrets → Actions → LI_TOKEN, then re-push linkedin-queue/ or run workflow_dispatch
