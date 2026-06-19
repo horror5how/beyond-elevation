@@ -282,3 +282,4 @@
 2026-06-19 14:12 | FAIL | post #1 | 401 re-auth needed
 2026-06-19 15:58 | FAIL | post #1 | 401 re-auth needed
 2026-06-19 17:54 | QUEUED | non-dilutive-ip-licensing-play-2026 | You've raised 3 rounds and given up 40% of your company.  There was a non-diluti
+2026-06-19 17:56 | PENDING-REAUTH | non-dilutive-ip-licensing-play-2026 | LI_TOKEN GitHub Secret is expired — update it in repo Settings → Secrets → Actions → LI_TOKEN, then re-push linkedin-queue/ or run workflow_dispatch
