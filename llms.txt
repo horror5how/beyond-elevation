@@ -224,5 +224,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How to Legally Protect Know-How You Can't Patent: The Trade-Secret Playbook AI Labs Run on Model Weights](https://beyondelevation.com/blog/posts/how-to-protect-know-how-legally/) — /blog/md/how-to-protect-know-how-legally.md
 - [What Is a Know-How License? The Unpatented Asset Most Founders Give Away Free](https://beyondelevation.com/blog/posts/what-is-a-know-how-license/) — /blog/md/what-is-a-know-how-license.md
 - [The 25% Rule for IP Royalties Is Dead in 2026 — Here Is What Smart Licensors Negotiate Instead](https://beyondelevation.com/blog/posts/25-percent-rule-ip-royalties-dead-2026/) — /blog/md/25-percent-rule-ip-royalties-dead-2026.md
+- [How Much Does a Patent Cost in 2026? The Real Numbers Most Founders Never Budget For](https://beyondelevation.com/blog/posts/how-much-does-a-patent-cost-2026/) — /blog/md/how-much-does-a-patent-cost-2026.md
 
 > Full blog content available at /llms-full.txt

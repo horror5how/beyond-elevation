@@ -3275,3 +3275,23 @@ The 25% rule for IP royalties is a rule of thumb stating that a licensor should 
 The rule originated in the 1970s from Robert Goldscheider's empirical study of licensing deals, which found that royalty rates across industries averaged roughly 25% of t
 
 ---
+
+## How Much Does a Patent Cost in 2026? The Real Numbers Most Founders Never Budget For
+
+URL: https://beyondelevation.com/blog/posts/how-much-does-a-patent-cost-2026/
+
+## How Much Does a Patent Cost in 2026?
+
+A utility patent costs $8,000 to $15,000 for a U.S. filing in 2026. A provisional patent runs $2,000 to $5,000. International filings add $15,000 to $50,000 per jurisdiction. Those are the numbers most founders search for. But Hayat Amin argues those numbers miss the point entirely: the real question is not how much a patent costs to file. It is how much not filing costs you at the term sheet.
+
+Companies with patents are 10.2x more likely to secure early-stage funding. AI startups with completed IP audits hit a median 25.8x valuation multiple versus 18.2x without one. That gap of 40% translates to millions in dilution, deal terms, and exit value. The cost of filing is a rounding error next to the cost of not filing.
+
+This is the complete 2026 patent cost breakdown from Beyond Elevation, current as of June 2026. If you remember one thing from this post, remember this: the most expensive patent is the one you should have filed and did not.
+
+## What Does It Cost to File a Provisional Patent in 2026?
+
+A provisional patent application costs $2,000 to $5,000 in 2026, including attorney fees and the USPTO filing fee of $320 for small entities ($160 for micro entities). The provisional buys you 12 months of patent pending status and locks in your priority date, the date that determines who filed first if a competitor files on the same invention.
+
+Hayat Amin's rule on provisionals is direct: file before the term sheet, not after. Investors pric
+
+---
