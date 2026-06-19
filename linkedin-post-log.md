@@ -277,3 +277,4 @@
 2026-06-19 02:24 | PENDING-REAUTH | patent-strategist-vs-attorney-roi-2026 | LI_TOKEN GitHub Secret is expired — update it in repo Settings → Secrets → Actions → LI_TOKEN, then re-push linkedin-queue/ or run workflow_dispatch
 2026-06-19 07:55 | QUEUED | ip-licensing-pre-exit-playbook-2026 | Most founders raise 3 rounds. 1 licensing deal would have been cheaper.
 2026-06-19 11:39 | FAIL | post #1 | 401 re-auth needed
+2026-06-19 12:48 | FAIL | post #1 | 401 re-auth needed
