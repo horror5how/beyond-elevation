@@ -221,5 +221,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Is IP Licensing Profitable? The 90%+ Gross-Margin Math That Beats Building the Product Yourself](https://beyondelevation.com/blog/posts/is-ip-licensing-profitable/) — /blog/md/is-ip-licensing-profitable.md
 - [Know-How vs Patent: The 20-Year Trade-Off That Decides Whether You File or Stay Silent](https://beyondelevation.com/blog/posts/know-how-vs-patent/) — /blog/md/know-how-vs-patent.md
 - [How Much Is Your IP Actually Worth? The 3-Method Valuation You Run Before Any Investor or Lender Does It For You](https://beyondelevation.com/blog/posts/how-much-is-intellectual-property-worth/) — /blog/md/how-much-is-intellectual-property-worth.md
+- [How to Legally Protect Know-How You Can't Patent: The Trade-Secret Playbook AI Labs Run on Model Weights](https://beyondelevation.com/blog/posts/how-to-protect-know-how-legally/) — /blog/md/how-to-protect-know-how-legally.md
 
 > Full blog content available at /llms-full.txt

@@ -3225,3 +3225,21 @@ Your intellectual property is worth the figure where the income approach, market
 This is not academic theory. It is the exact framework [Beyond Elevation](https://beyondelevation.com) runs on every client portfolio before a funding round, licensing negotiation, or exit. Companies that enter these conversations with a completed IP valuation achieve 15-20% high
 
 ---
+
+## How to Legally Protect Know-How You Can't Patent: The Trade-Secret Playbook AI Labs Run on Model Weights
+
+URL: https://beyondelevation.com/blog/posts/how-to-protect-know-how-legally/
+
+One leaked model weight. One undocumented training recipe. One engineer who walks to a competitor without signing an exit NDA. That is all it takes to permanently destroy trade secret protection for your most valuable IP.
+
+70% to 80% of an AI startup's value sits in unpatented know-how. Model weights, training data pipelines, hyperparameter configurations, labeling methodologies. None of it covered by a patent. All of it protectable under trade secret law. But the question of how know-how is protected legally trips up nearly every founder who relies on secrecy instead of filings.
+
+Hayat Amin argues that trade secret protection is the most neglected IP discipline in tech. "Founders file patents on architecture and ignore the know-how that makes the model work," Amin says. "Then an ex-engineer replicates the entire training pipeline at a competitor, and they have zero legal recourse because they never documented it as a trade secret or restricted access."
+
+The answer comes down to three layers: trade secret statutes, contractual safeguards, and operational security measures that courts call "reasonable steps." Miss any one of those layers, and the protection disappears. This is the playbook [Beyond Elevation](https://beyondelevation.com) runs with every AI and tech client before a single patent application gets filed.
+
+## What Law Protects Know-How and Trade Secrets?
+
+Know-how is protected legally through trade secret statutes in every major jurisdiction. These laws give owners
+
+---
