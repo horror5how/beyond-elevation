@@ -1,23 +1,18 @@
-NDAs do not protect know-how. 5 documents do.
+Founders pay $400/hr for a patent attorney to file patents.
 
-Most founders sign NDAs and assume their IP is safe.
+They pay $0/hr for strategy.
 
-NDAs only cover what you share externally.
+A patent attorney answers: "Can we file this?"
 
-They don't cover what employees invent.
-They don't cover contractor output.
-They don't stop know-how leaving in a laptop bag.
+A patent strategist answers: "Should we file this, and who will license it?"
 
-The 5-document stack:
+One question costs $25K.
+The other earns it back in year one.
 
-1. IP assignment agreement — every hire, day one
-2. NDA — covers external disclosures only
-3. Written trade secret policy — defines confidential
-4. AI acceptable use policy — blocks the ChatGPT leak
-5. Exit protocol — logs what leaves when staff go
+Companies with a filing strategy exit at 2.1x higher multiples.
+Companies that file reflexively own patents nobody licenses.
 
-48 hours to implement. Zero equity diluted.
+The switch is not expensive.
+It is a different question.
 
-One licensing deal pays for the lawyer.
-
-#IPStrategy #TradeSecrets #Founders
+#IPStrategy #PatentLicensing #StartupFounders
