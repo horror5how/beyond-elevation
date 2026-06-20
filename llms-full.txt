@@ -3295,3 +3295,21 @@ A provisional patent application costs $2,000 to $5,000 in 2026, including attor
 Hayat Amin's rule on provisionals is direct: file before the term sheet, not after. Investors pric
 
 ---
+
+## IP Revenue Streams: You Already Own Three. You Are Only Monetizing One.
+
+URL: https://beyondelevation.com/blog/posts/ip-revenue-streams-stacking-framework/
+
+Most founders with patents think they have one IP revenue stream: licensing. They are wrong. Every IP portfolio contains three distinct revenue streams: patents, proprietary data, and documented know-how. Hayat Amin argues that the average founder collects on just one of these three, leaving 60-70% of their IP revenue potential untouched.
+
+That gap is not a rounding error. It is millions in forgone income that compounds every quarter you ignore it.
+
+The fix is what Beyond Elevation calls IP revenue stacking: layering patent licensing, data licensing, and know-how licensing into a single compound revenue engine. Here is how it works, why most IP owners miss it, and the exact framework to build your own stack.
+
+## What Are the 3 IP Revenue Streams Most Founders Ignore?
+
+Every technology company owns three distinct categories of licensable IP: patented inventions, proprietary datasets, and documented operational know-how. Each generates revenue through a different mechanism, with a different buyer set and a different deal structure. These three IP revenue streams exist in every portfolio. The question is whether you are collecting on all of them.
+
+**Stream 1: Patent licensing.** You grant another company the right to use your patented technology. Revenue comes as royalties, typically 3-12% of licensee revenue, or lump-sum payments. Companies with patents are [10.2x more likely to secure early-stage funding](/blog/posts/patent-strategy-seed-series-a-fundraising/), and a structure
+
+---
