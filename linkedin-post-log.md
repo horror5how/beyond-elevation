@@ -287,3 +287,4 @@
 2026-06-20 07:54 | QUEUED | multimodal-ai-patent-window-2026 | The 3 biggest AI labs filed more multimodal patents in Q1 2026 than in all of 20
 2026-06-20 07:56 | PENDING-REAUTH | multimodal-ai-patent-window-2026 | LI_TOKEN GitHub Secret is expired — update it in repo Settings → Secrets → Actions → LI_TOKEN, then re-push linkedin-queue/ or run workflow_dispatch
 2026-06-20 10:11 | FAIL | post #1 | 401 re-auth needed
+2026-06-20 11:20 | FAIL | post #1 | 401 re-auth needed
