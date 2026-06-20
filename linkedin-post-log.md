@@ -292,3 +292,4 @@
 2026-06-20 12:55 | QUEUED | ip-revenue-history-acquisition-premium-2026 | No IP revenue history = no acquisition premium.  Acquirers pay 30-40% more for I
 2026-06-20 15:02 | FAIL | post #1 | 401 re-auth needed
 2026-06-20 17:58 | QUEUED | ai-exit-multiple-ip-audit-40-percent-2026 | AI startups with an IP audit exit at 25.8x revenue.  Without one: 18.2x.  That 4
+2026-06-20 18:03 | FAIL | post #1 | 401 re-auth needed
