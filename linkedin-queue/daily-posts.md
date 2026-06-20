@@ -2,7 +2,7 @@
 date: 2026-06-20
 theme: This batch focuses on how founders can leverage IP, AI, and financial strategies to boost valuation, secure non-dilutive capital, and drive revenue. From IP-backed funding to AI model protection and pre-revenue valuation, each post offers concrete mechanisms for operators to build defensible and profitable companies.
 generated_at: 2026-06-20T07:48:42.554Z
-posts_total: 5
+posts_total: 6
 posts_published: 0
 ---
 
@@ -15,6 +15,7 @@ Today's posts equip founders and CEOs with actionable strategies to unlock value
 3. IP Licensing Profitability — is-ip-licensing-profitable, 90%+ gross margins. No inventory. Pure profit., $14M ARR from licensing, 90%+ gross margins
 4. AI Model IP Protection — ai-model-weights-trade-secret-vs-patent, 95% of AI model weights need trade secret protection., 73% AI patent rejections, 20-year clock risk
 5. Pre-Revenue AI Valuation — ai-startup-valuation-zero-revenue, AI startups are worth millions, even at $0 revenue., 2x higher valuations, $0 revenue potential
+6. AI Patent Tooling Funding Wave — vcs-repricing-patents, $120M+ into AI-for-patent tools this quarter signals patents are now machine-priced assets., $120M funding, 10x revenue, Solve Intelligence $40M / DeepIP $25M
 
 ---
 
@@ -175,3 +176,37 @@ Pre-revenue AI startups with IP raise at 2x higher valuations.
 ↳ Founders: how do you prove your pre-revenue AI value?
 
 #StartupValuation #AIStartup #FundraisingTips
+
+---
+
+## Post 6
+status: pending
+hook_format: prediction
+cta_goal: follows
+slug: vcs-repricing-patents
+keyword: AI patent due diligence
+numbers_check: $120M, 10x, $25M, 90%
+image_direction: dark fintech aesthetic, rising bar chart of IP funding, patent doc scanned by AI overlay
+headline: VCs Just Repriced<br>Your Patents.
+metric_1: $120M
+label_1: AI IP-TOOL<br>FUNDING
+metric_2: 10x
+label_2: SOLVE<br>REV GROWTH
+metric_3: 90%
+label_3: IP GROSS<br>MARGIN
+
+VCs just repriced your patents.
+
+In one quarter over $120M flowed into AI-for-patent tooling. Solve Intelligence raised a $40M Series B on 10x revenue growth. DeepIP took $25M to automate the whole patent lifecycle.
+
+Here is the part founders miss:
+
+When diligence runs on AI, your patent schedule gets scored in minutes, not weeks.
+
+Messy IP now reads as risk at machine speed. Structured IP reads as a 90% gross-margin asset waiting to be licensed.
+
+The filing was never the moat. The structure is.
+
+↳ Follow for the IP plays VCs now screen for first.
+
+#PatentStrategy #AIDueDiligence #StartupValuation
