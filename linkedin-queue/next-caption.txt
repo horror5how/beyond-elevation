@@ -1,16 +1,18 @@
-No IP revenue history = no acquisition premium.
+AI startups with an IP audit exit at 25.8x revenue.
 
-Acquirers pay 30-40% more for IP with verified licensing income.
+Without one: 18.2x.
 
-Most founders have neither.
+That 40% gap is never in the deck.
 
-The 3-step IP revenue positioning playbook:
-1. Sign 1-2 licensing deals 12 months before any M&A process
-2. Structured royalties create recurring income visible in the data room
-3. 2-year revenue history = 40% multiple uplift in final negotiation
+It shows up at the term sheet.
 
-One client: 3x multiple before licensing. 4.2x after 18 months of royalties.
+The IP audit catches 3 things your patent attorney never checks:
+1. Claim coverage vs your actual product
+2. Licensing opportunities you are leaving idle
+3. Freedom-to-operate gaps that compress your multiple
 
-Founders: is your IP generating revenue, or just sitting in a patent schedule?
+One audit. 40% more at exit.
 
-#IPStrategy #MAndA #PatentMonetisation
+If you haven't done one, you are pricing yourself below the market.
+
+#IPStrategy #ExitMultiple #StartupValuation
