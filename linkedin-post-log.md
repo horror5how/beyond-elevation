@@ -289,3 +289,4 @@
 2026-06-20 10:11 | FAIL | post #1 | 401 re-auth needed
 2026-06-20 11:20 | FAIL | post #1 | 401 re-auth needed
 2026-06-20 12:26 | FAIL | post #1 | 401 re-auth needed
+2026-06-20 12:55 | QUEUED | ip-revenue-history-acquisition-premium-2026 | No IP revenue history = no acquisition premium.  Acquirers pay 30-40% more for I

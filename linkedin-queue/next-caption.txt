@@ -1,13 +1,16 @@
-The 3 biggest AI labs filed more multimodal patents in Q1 2026 than in all of 2024 combined.
+No IP revenue history = no acquisition premium.
 
-Text-to-image-to-audio pipelines are next.
+Acquirers pay 30-40% more for IP with verified licensing income.
 
-Most founders are still filing LLM-only claims.
+Most founders have neither.
 
-The multimodal architecture layer is open for 12–18 months.
+The 3-step IP revenue positioning playbook:
+1. Sign 1-2 licensing deals 12 months before any M&A process
+2. Structured royalties create recurring income visible in the data room
+3. 2-year revenue history = 40% multiple uplift in final negotiation
 
-Patent the workflow, not the model.
+One client: 3x multiple before licensing. 4.2x after 18 months of royalties.
 
-Miss this window = royalty exposure to the labs for 5 years.
+Founders: is your IP generating revenue, or just sitting in a patent schedule?
 
-#AIStrategy #Patents #IPStrategy
+#IPStrategy #MAndA #PatentMonetisation
