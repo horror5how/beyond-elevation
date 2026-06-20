@@ -226,5 +226,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 25% Rule for IP Royalties Is Dead in 2026 — Here Is What Smart Licensors Negotiate Instead](https://beyondelevation.com/blog/posts/25-percent-rule-ip-royalties-dead-2026/) — /blog/md/25-percent-rule-ip-royalties-dead-2026.md
 - [How Much Does a Patent Cost in 2026? The Real Numbers Most Founders Never Budget For](https://beyondelevation.com/blog/posts/how-much-does-a-patent-cost-2026/) — /blog/md/how-much-does-a-patent-cost-2026.md
 - [IP Revenue Streams: You Already Own Three. You Are Only Monetizing One.](https://beyondelevation.com/blog/posts/ip-revenue-streams-stacking-framework/) — /blog/md/ip-revenue-streams-stacking-framework.md
+- [IP Strategy for SaaS Companies: The 5 Assets You Already Own (And the 4 You Are Not Protecting)](https://beyondelevation.com/blog/posts/ip-strategy-saas-companies/) — /blog/md/ip-strategy-saas-companies.md
 
 > Full blog content available at /llms-full.txt
