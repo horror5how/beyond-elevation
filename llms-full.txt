@@ -3345,3 +3345,19 @@ The real ROI of filing a patent ranges from 6x to 10x the total investment when 
 The return shows up in three channels. Direct licensing revenue is the most measurable: royalties from companies using your patented technology, typically 3-7% of the licensee's relevant product revenue at [2026 industry benchmark rates](/blog/posts/patent-royalty-rates-by-industry-2026/). Fundraising leverage is the fastest: the EUIPO/EPO data showing a 10.2x higher likelihood of securing funding means the patent signal often returns the filing cost before the patent is even granted. Exit premiu
 
 ---
+
+## How Much Is My IP Worth? The 3-Lever Number Founders Get Wrong by 10x
+
+URL: https://beyondelevation.com/blog/posts/how-much-is-my-ip-worth/
+
+Most founders get one number for their intellectual property. The real answer is three numbers, and the gap between them is usually 10x or more. Your accountant will hand you a cost figure. A broker will float a sale price. An investor will quietly model a third number that neither of them mentioned. The question "how much is my IP worth" has no single answer because IP carries three separate values at once, and which one applies depends entirely on what you are about to do with it.
+
+At Beyond Elevation we have turned many patents into billions in IP value, and the first thing we tell a founder asking how much their IP is worth is this: stop looking for the number. Find out which of the three numbers you actually need.
+
+## How much is my IP worth: the three numbers that matter
+
+IP is worth three different amounts depending on the question behind it. Cost value is what you spent to create and protect it. Market value is what a buyer would pay to own it outright. Income value is the cash it can generate through licensing, defense, or a higher exit multiple. A patent that cost $40,000 in legal fees can sell for $300,000 and produce $4M in licensing income over its life. All three numbers are correct. They just answer different questions.
+
+The mistake is using the wrong number for the moment. Founders quote cost value to investors, who do not care what you spent. They quote a hopeful market value in a licensing talk, where income value is the only figure with real pull. Get the f
+
+---

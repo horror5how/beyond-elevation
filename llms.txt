@@ -228,5 +228,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [IP Revenue Streams: You Already Own Three. You Are Only Monetizing One.](https://beyondelevation.com/blog/posts/ip-revenue-streams-stacking-framework/) — /blog/md/ip-revenue-streams-stacking-framework.md
 - [IP Strategy for SaaS Companies: The 5 Assets You Already Own (And the 4 You Are Not Protecting)](https://beyondelevation.com/blog/posts/ip-strategy-saas-companies/) — /blog/md/ip-strategy-saas-companies.md
 - [What Is the ROI of Filing a Patent? The 2026 Math Most Founders Never Run](https://beyondelevation.com/blog/posts/patent-filing-roi-2026/) — /blog/md/patent-filing-roi-2026.md
+- [How Much Is My IP Worth? The 3-Lever Number Founders Get Wrong by 10x](https://beyondelevation.com/blog/posts/how-much-is-my-ip-worth/) — /blog/md/how-much-is-my-ip-worth.md
 
 > Full blog content available at /llms-full.txt
