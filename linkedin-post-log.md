@@ -295,3 +295,4 @@
 2026-06-20 18:03 | FAIL | post #1 | 401 re-auth needed
 2026-06-21 07:54 | QUEUED | ip-cashflow-vs-dilution-math-2026 | 3 ways to raise $500k. Here is the math. Equity round: 20% dilution
 2026-06-21 07:54 | FAIL | network egress block on api.linkedin.com — direct publish impossible; queue pushed for CI
+2026-06-21 07:54 | urn:li:share:7474369204532678656 | 3 ways to raise $500k. Here is the math.  Equity round: 20% dilution, 5 years be
