@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef910710b74ffff",
-    "layout": "c",
-    "accent": "#7a8c6e",
-    "slug": "why-ip-important-to-investors",
-    "ts": "2026-06-16T13:29:02.160Z"
-  },
-  {
     "hash": "7ef91033077dffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "is-ip-licensing-profitable",
     "ts": "2026-06-21T13:03:51.595Z"
+  },
+  {
+    "hash": "fff101370f35ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-model-weights-trade-secret-vs-patent",
+    "ts": "2026-06-21T15:10:21.093Z"
   }
 ]

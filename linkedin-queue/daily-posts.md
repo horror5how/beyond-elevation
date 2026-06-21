@@ -3,7 +3,7 @@ date: 2026-06-21
 theme: This batch focuses on how founders can leverage IP, AI, and financial strategies to boost valuation, secure non-dilutive capital, and drive revenue. From IP-backed funding to AI model protection and pre-revenue valuation, each post offers concrete mechanisms for operators to build defensible and profitable companies.
 generated_at: 2026-06-21T08:20:00.000Z
 posts_total: 6
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -122,7 +122,9 @@ One BE client achieved $14M in annual recurring royalty revenue.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-21T15:10:21.093Z
+share_urn: urn:li:share:7474478824513155072
 hook_format: number-led
 cta_goal: comments
 slug: ai-model-weights-trade-secret-vs-patent
