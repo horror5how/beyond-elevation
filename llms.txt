@@ -230,5 +230,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [What Is the ROI of Filing a Patent? The 2026 Math Most Founders Never Run](https://beyondelevation.com/blog/posts/patent-filing-roi-2026/) — /blog/md/patent-filing-roi-2026.md
 - [How Much Is My IP Worth? The 3-Lever Number Founders Get Wrong by 10x](https://beyondelevation.com/blog/posts/how-much-is-my-ip-worth/) — /blog/md/how-much-is-my-ip-worth.md
 - [How to Negotiate a Patent License in 2026: The 7-Step Playbook That Triples Your Royalty Revenue](https://beyondelevation.com/blog/posts/how-to-negotiate-patent-license-2026/) — /blog/md/how-to-negotiate-patent-license-2026.md
+- [What a Patent Monetization Consultant Actually Does (And When to Hire One vs PatSnap or a Law Firm)](https://beyondelevation.com/blog/posts/patent-monetization-consultant/) — /blog/md/patent-monetization-consultant.md
 
 > Full blog content available at /llms-full.txt
