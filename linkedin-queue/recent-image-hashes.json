@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef010711f77ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "ip-gets-a-line-in-diligence",
-    "ts": "2026-06-13T10:06:03.656Z"
-  },
-  {
     "hash": "42c3e7ffc3c3ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "what-is-ip-funding",
     "ts": "2026-06-21T10:36:13.903Z"
+  },
+  {
+    "hash": "0081efffc3c3ffdf",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "why-ip-important-to-investors",
+    "ts": "2026-06-21T11:47:01.446Z"
   }
 ]

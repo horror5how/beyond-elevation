@@ -297,3 +297,4 @@
 2026-06-21 07:54 | FAIL | network egress block on api.linkedin.com — direct publish impossible; queue pushed for CI
 2026-06-21 07:54 | urn:li:share:7474369204532678656 | 3 ways to raise $500k. Here is the math.  Equity round: 20% dilution, 5 years be
 2026-06-21 10:36 | urn:li:share:7474409840061288448 | post #1 | what-is-ip-funding | Raise capital against patents: zero equity.  Most founders dilute equity for cap
+2026-06-21 11:47 | urn:li:share:7474427655434608640 | post #2 | why-ip-important-to-investors | Investors read your patent schedule first.  Your investor deck is good. But if y

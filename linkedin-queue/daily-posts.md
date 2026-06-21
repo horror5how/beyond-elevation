@@ -3,7 +3,7 @@ date: 2026-06-21
 theme: This batch focuses on how founders can leverage IP, AI, and financial strategies to boost valuation, secure non-dilutive capital, and drive revenue. From IP-backed funding to AI model protection and pre-revenue valuation, each post offers concrete mechanisms for operators to build defensible and profitable companies.
 generated_at: 2026-06-21T08:20:00.000Z
 posts_total: 6
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -54,7 +54,9 @@ One BE client raised $5M with a 0% equity hit.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-21T11:47:01.446Z
+share_urn: urn:li:share:7474427655434608640
 hook_format: contrarian
 cta_goal: comments
 slug: why-ip-important-to-investors
