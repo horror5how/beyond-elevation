@@ -293,3 +293,5 @@
 2026-06-20 15:02 | FAIL | post #1 | 401 re-auth needed
 2026-06-20 17:58 | QUEUED | ai-exit-multiple-ip-audit-40-percent-2026 | AI startups with an IP audit exit at 25.8x revenue.  Without one: 18.2x.  That 4
 2026-06-20 18:03 | FAIL | post #1 | 401 re-auth needed
+2026-06-21 07:54 | QUEUED | ip-cashflow-vs-dilution-math-2026 | 3 ways to raise $500k. Here is the math. Equity round: 20% dilution
+2026-06-21 07:54 | FAIL | network egress block on api.linkedin.com — direct publish impossible; queue pushed for CI
