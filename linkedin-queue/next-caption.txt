@@ -1,15 +1,19 @@
-3 ways to raise $500k. Here is the math.
+ChatGPT wrote your code.
 
-Equity round: 20% dilution, 5 years before you see it back.
+The US Copyright Office says you don't own it.
 
-Bank loan: 12–14% interest, personal guarantee, monthly repayments hit cashflow.
+78% of enterprise devs use AI coding tools. Most have zero IP protocol for what that means.
 
-IP licensing deal: $0 equity given up. $0 interest. $42k/month recurring. 94% gross margin.
+Your codebase has no copyright protection if a human did not make documented creative choices.
 
-The maths are not close.
+Your acquirer runs an IP audit. This is the first thing they find.
 
-Most founders default to equity because their lawyer does not know how to structure a licensing agreement.
+3 moves to fix it:
 
-Your IP is sitting on the balance sheet doing nothing. One deal changes the capital structure permanently.
+Patent the architecture and decision layer — not the AI-generated output.
 
-#IPStrategy #CapitalEfficiency #Licensing
+Trade-secret the workflow. Every human creative decision must be logged at commit.
+
+Own the training data provenance. That is the asset that survives copyright challenges.
+
+#IPStrategy #AIStartups #PatentStrategy
