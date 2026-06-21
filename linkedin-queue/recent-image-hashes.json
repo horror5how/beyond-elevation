@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42c3e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "what-is-ip-funding",
-    "ts": "2026-06-16T12:15:53.266Z"
-  },
-  {
     "hash": "7ef910710b74ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "why-ip-important-to-investors",
     "ts": "2026-06-21T11:47:01.446Z"
+  },
+  {
+    "hash": "c3c7e7ffc3c3bf9f",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "is-ip-licensing-profitable",
+    "ts": "2026-06-21T13:03:51.595Z"
   }
 ]

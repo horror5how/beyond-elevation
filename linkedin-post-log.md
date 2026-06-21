@@ -300,3 +300,4 @@
 2026-06-21 11:47 | urn:li:share:7474427655434608640 | post #2 | why-ip-important-to-investors | Investors read your patent schedule first.  Your investor deck is good. But if y
 2026-06-21 12:55 | QUEUED | ai-generated-code-ip-ownership-enterprise-2026 | ChatGPT wrote your code.  The US Copyright Office says you don't own it.  78% of
 2026-06-21 12:55 | urn:li:share:7474444992690937856 | ChatGPT wrote your code.  The US Copyright Office says you don't own it.  78% of
+2026-06-21 13:03 | urn:li:share:7474446991486427136 | post #3 | is-ip-licensing-profitable | 90%+ gross margins. No inventory. Pure profit.  Most founders see IP as a cost. 

@@ -335,3 +335,4 @@ ip-revenue-history-acquisition-premium-2026
 ai-exit-multiple-ip-audit-40-percent-2026
 ip-cashflow-vs-dilution-math-2026
 ai-generated-code-ip-ownership-enterprise-2026
+is-ip-licensing-profitable
