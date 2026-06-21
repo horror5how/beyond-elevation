@@ -302,3 +302,4 @@
 2026-06-21 12:55 | urn:li:share:7474444992690937856 | ChatGPT wrote your code.  The US Copyright Office says you don't own it.  78% of
 2026-06-21 13:03 | urn:li:share:7474446991486427136 | post #3 | is-ip-licensing-profitable | 90%+ gross margins. No inventory. Pure profit.  Most founders see IP as a cost. 
 2026-06-21 15:10 | urn:li:share:7474478824513155072 | post #4 | ai-model-weights-trade-secret-vs-patent | 95% of AI model weights need trade secret protection.  You patent AI reflexively
+2026-06-21 17:53 | QUEUED | ip-royalty-floor-recession-proof-2026 | Qualcomm collected $7.7B in licensing fees in 2023. During COVID, licensing drop
