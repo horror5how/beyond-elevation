@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef91033077dffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "is-ip-licensing-profitable-2026",
-    "ts": "2026-06-16T15:51:23.521Z"
-  },
-  {
     "hash": "7ef313330b71ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-model-weights-trade-secret-vs-patent",
     "ts": "2026-06-21T15:10:21.093Z"
+  },
+  {
+    "hash": "007effffffffa5a5",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "ai-startup-valuation-zero-revenue",
+    "ts": "2026-06-21T18:15:08.638Z"
   }
 ]

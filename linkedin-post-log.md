@@ -304,3 +304,4 @@
 2026-06-21 15:10 | urn:li:share:7474478824513155072 | post #4 | ai-model-weights-trade-secret-vs-patent | 95% of AI model weights need trade secret protection.  You patent AI reflexively
 2026-06-21 17:53 | QUEUED | ip-royalty-floor-recession-proof-2026 | Qualcomm collected $7.7B in licensing fees in 2023. During COVID, licensing drop
 2026-06-21 17:54 | urn:li:share:7474520027925417984 | Qualcomm collected $7.7B in licensing fees in 2023. During COVID, licensing drop
+2026-06-21 18:15 | urn:li:share:7474525328808394753 | post #5 | ai-startup-valuation-zero-revenue | AI startups are worth millions, even at $0 revenue.  Without revenue, VCs defaul
