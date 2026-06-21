@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef9f01133f7ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "ip-is-margin-not-cost",
-    "ts": "2026-06-12T18:57:24.015Z"
-  },
-  {
     "hash": "7ef010711f77ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "how-much-is-my-ip-worth-2026",
     "ts": "2026-06-16T20:01:24.790Z"
+  },
+  {
+    "hash": "2066ffffc3fbff9f",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "what-is-ip-funding",
+    "ts": "2026-06-21T10:36:13.903Z"
   }
 ]

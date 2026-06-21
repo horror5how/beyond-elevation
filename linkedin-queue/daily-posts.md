@@ -3,7 +3,7 @@ date: 2026-06-21
 theme: This batch focuses on how founders can leverage IP, AI, and financial strategies to boost valuation, secure non-dilutive capital, and drive revenue. From IP-backed funding to AI model protection and pre-revenue valuation, each post offers concrete mechanisms for operators to build defensible and profitable companies.
 generated_at: 2026-06-21T08:20:00.000Z
 posts_total: 6
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -20,7 +20,9 @@ Today's posts equip founders and CEOs with actionable strategies to unlock value
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-21T10:36:13.903Z
+share_urn: urn:li:share:7474409840061288448
 hook_format: frame-break
 cta_goal: comments
 slug: what-is-ip-funding
