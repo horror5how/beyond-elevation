@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef313330b71ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "know-how-vs-patent-2026",
-    "ts": "2026-06-16T18:03:59.494Z"
-  },
-  {
     "hash": "0006e7ffe3e7ff9f",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-startup-valuation-zero-revenue",
     "ts": "2026-06-21T18:15:08.638Z"
+  },
+  {
+    "hash": "0062e7ffe3c3ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "ai-governance-board-kpi-2026",
+    "ts": "2026-06-22T12:54:27.792Z"
   }
 ]

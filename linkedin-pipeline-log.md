@@ -674,3 +674,4 @@ Post 4: no_specific_number
 2026-06-22 09:47 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
 2026-06-22 09:48 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
 2026-06-22 09:48 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
+2026-06-22 12:54 | li-auto-post | render OK | post #1 | layout=b accent=#7a8c6e hash=0062e7ffe3c3ff99 minDist=7 attempts=1

@@ -3,7 +3,7 @@ date: 2026-06-22
 theme: Guiding founders through the evolving landscape of AI IP, financial leverage, and strategic asset protection.
 generated_at: 2026-06-22T09:47:01.852Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's posts equip founders to navigate critical shifts in the AI and IP landsc
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-22T12:54:27.792Z
+share_urn: urn:li:share:7474807015052238850
 hook_format: number-led
 cta_goal: comments
 slug: ai-governance-board-kpi-2026
