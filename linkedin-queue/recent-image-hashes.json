@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0006e7ffe3e7ff9f",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "how-much-is-my-ip-worth-2026",
-    "ts": "2026-06-16T20:01:24.790Z"
-  },
-  {
     "hash": "2066ffffc3fbff9f",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-governance-board-kpi-2026",
     "ts": "2026-06-22T12:54:27.792Z"
+  },
+  {
+    "hash": "fff1210173f1ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "how-to-protect-know-how-legally",
+    "ts": "2026-06-22T14:42:54.684Z"
   }
 ]

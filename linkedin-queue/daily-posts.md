@@ -3,7 +3,7 @@ date: 2026-06-22
 theme: Guiding founders through the evolving landscape of AI IP, financial leverage, and strategic asset protection.
 generated_at: 2026-06-22T09:47:01.852Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One BE client surfaced $14M of hidden AI compliance risk in 45 days.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-22T14:42:54.684Z
+share_urn: urn:li:share:7474834306712928256
 hook_format: contrarian
 cta_goal: comments
 slug: how-to-protect-know-how-legally
