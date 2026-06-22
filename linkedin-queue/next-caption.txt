@@ -1,17 +1,19 @@
-Qualcomm collected $7.7B in licensing fees in 2023. During COVID, licensing dropped less than 2%. Their product revenue dropped 18%.
+73% of boards have zero AI governance KPIs.
 
-That spread is structural. Not luck.
+Here is what the top 10% track.
 
-IP royalties have a contractual floor that product ARR never will.
+Skip these and one EU AI Act audit costs you eight figures.
 
-Minimum guarantee clauses. 20-year patent terms. Licensees pay even when they're cutting headcount.
+The 3 KPIs that matter:
 
-ARM's licensing income grew during the 2020 chip shortage.
+Model drift rate. Different in production than testing: IP exposure doubles.
 
-InterDigital collected royalties through the 2009 crisis without a single termination.
+IP exposure surface. Every third-party training dataset is a latent licensing liability.
 
-Most founders build revenue that tracks the economy.
+Licensing revenue per model version. Can't measure it — can't price it — can't negotiate with acquirers.
 
-Smart ones build a second line that tracks the contract.
+GPAI obligations activate August 2026.
 
-#IPstrategy #founders #valuation
+Boards with these 3 KPIs are building a licensing moat. Everyone else is building liability.
+
+#AIGovernance #IPStrategy #FounderPlaybook
