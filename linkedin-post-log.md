@@ -313,3 +313,4 @@
 2026-06-22 14:42 | urn:li:share:7474834306712928256 | post #2 | how-to-protect-know-how-legally | Your most valuable IP isn't patented.  It's your uncodified know-how: the traini
 2026-06-22 15:49 | urn:li:share:7474851180855242754 | post #3 | 25-percent-rule-ip-royalties-dead-2026 | The 25% Rule for IP royalties is dead.  Relying on this old heuristic costs you 
 2026-06-22 17:41 | urn:li:share:7474879188282462209 | post #4 | ai-patent-eligibility-reset-2026 | AI patent eligibility just got easier.  The USPTO's Dec-2025 memos shifted the l
+2026-06-22 17:52 | urn:li:share:7474882059937853440 | Investors don't just check your data. They score it on 5 axes.  Most founders ne
