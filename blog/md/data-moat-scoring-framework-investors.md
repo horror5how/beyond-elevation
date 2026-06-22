@@ -2,8 +2,8 @@
 title: "The 5-Axis Data Moat Score Investors Run Before They Price Your Round"
 slug: data-moat-scoring-framework-investors
 date: 2026-06-22
-url: https://beyondelevation.com/blog/post.html?slug=data-moat-scoring-framework-investors
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/data-moat-scoring-framework-investors/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -69,6 +69,20 @@ The Data Moat Diagnostic at Beyond Elevation produces a scored report across all
 
 If your next raise depends on the strength of your data moat, run the score before an investor does it for you. [Book a data moat diagnostic with Beyond Elevation](https://beyondelevation.com) and get the number that matters: the one investors already have in their heads.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-data-moat-scoring-framework-investors)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What are the 5 axes in the data moat scoring framework?
@@ -86,3 +100,6 @@ Yes, but investor-grade scoring requires independent verification. Run the 5-axi
 ### What is the minimum data moat score investors accept?
 
 Most institutional investors look for a combined score of 18 or above with no single axis below 3. Any axis scoring below 3 is treated as a structural red flag requiring remediation before the round closes. The strongest portfolios score 4 or above on every axis.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

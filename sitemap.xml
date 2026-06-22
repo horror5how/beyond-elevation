@@ -152,6 +152,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/data-moat-scoring-framework-investors/</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>The 5-Axis Data Moat Score Investors Run Before They Price Your Round</image:title>
+      <image:caption>The 5-Axis Data Moat Score Investors Run Before They Price Your Round — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/data-moat-scoring-framework-investors/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/how-to-negotiate-patent-license-2026/</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -2346,11 +2358,5 @@
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=data-moat-scoring-framework-investors</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>

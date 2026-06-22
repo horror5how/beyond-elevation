@@ -3435,3 +3435,21 @@ An IP roadmap must start before product-market fit because patent filing windows
 Hayat Amin's Pre-Seed IP Filing Sequence is built on one principle: lock the priority date before the first pitch deck g
 
 ---
+
+## The 5-Axis Data Moat Score Investors Run Before They Price Your Round
+
+URL: https://beyondelevation.com/blog/posts/data-moat-scoring-framework-investors/
+
+Investors score your data moat on five measurable axes before they price your round. Same-stage AI startups with a documented data moat command roughly 25x multiples. Unprotected peers sit at 10 to 12x. That is not a rounding error. It is the difference between a $50M raise and a $125M raise on the same revenue.
+
+Hayat Amin argues that the costliest fundraising mistake AI founders make in 2026 is pitching "proprietary data" without understanding the data moat scoring framework investors run behind closed doors. Every founder claims unique data. Investors stopped listening and started scoring.
+
+The 5-axis data moat scoring framework below is the rubric that separates premium multiples from average ones. Here is each axis, how it is scored, and what number you need before your next raise.
+
+## What Is the Data Moat Scoring Framework?
+
+The data moat scoring framework is a 5-axis rubric investors use to evaluate whether a company's proprietary data creates durable competitive advantage that justifies a premium valuation. Each axis is scored 1 to 5, producing a combined score out of 25. A total of 20 or higher signals a defensible moat. Below 15, investors treat your data as a marketing claim, not a differentiator.
+
+The five axes: Exclusivity, Refresh Rate, Domain Depth, Legal Clarity, and Monetisation Optionality. Hayat Amin's Data Moat Diagnostic at [Beyond Elevation](https://beyondelevation.com) runs this exact rubric on every client portfolio before a fundraise or exit conversa
+
+---
