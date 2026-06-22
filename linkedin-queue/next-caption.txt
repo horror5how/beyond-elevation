@@ -1,19 +1,19 @@
-73% of boards have zero AI governance KPIs.
+2x more capital. Lower rate. Zero equity.
 
-Here is what the top 10% track.
+That is the difference between an IP term loan and royalty-backed financing.
 
-Skip these and one EU AI Act audit costs you eight figures.
+IP term loan: 20-40% LTV, 8-15% APR.
 
-The 3 KPIs that matter:
+Royalty-backed: 50-70% LTV, 6-10% APR. Self-amortising from cash flow.
 
-Model drift rate. Different in production than testing: IP exposure doubles.
+No warrants. No balloon payment. No dilution.
 
-IP exposure surface. Every third-party training dataset is a latent licensing liability.
+Lender takes a percentage of your future licensing revenue, not a fixed charge on portfolio value.
 
-Licensing revenue per model version. Can't measure it — can't price it — can't negotiate with acquirers.
+$400k/year in royalties qualifies you for $1-2M at sub-10%. Self-amortising.
 
-GPAI obligations activate August 2026.
+Western Technology Investment and Horizon Technology Finance both underwrite on this.
 
-Boards with these 3 KPIs are building a licensing moat. Everyone else is building liability.
+Before you take the term loan, ask for the royalty structure.
 
-#AIGovernance #IPStrategy #FounderPlaybook
+#IPFinance #NonDilutive #PatentStrategy
