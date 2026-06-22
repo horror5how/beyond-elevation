@@ -1,12 +1,5 @@
 [
   {
-    "hash": "2066ffffc3fbff9f",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "what-is-ip-funding",
-    "ts": "2026-06-21T10:36:13.903Z"
-  },
-  {
     "hash": "0081efffc3c3ffdf",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "how-to-protect-know-how-legally",
     "ts": "2026-06-22T14:42:54.684Z"
+  },
+  {
+    "hash": "007effffff0b21a0",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "25-percent-rule-ip-royalties-dead-2026",
+    "ts": "2026-06-22T15:49:57.764Z"
   }
 ]

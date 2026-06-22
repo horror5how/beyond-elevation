@@ -311,3 +311,4 @@
 2026-06-22 12:53 | urn:li:share:7474806830930702336 | 2x more capital. Lower rate. Zero equity.  That is the difference between an IP 
 2026-06-22 12:54 | urn:li:share:7474807015052238850 | post #1 | ai-governance-board-kpi-2026 | 73% of boards have zero AI governance KPIs.  Here is what the top 10% track. Ski
 2026-06-22 14:42 | urn:li:share:7474834306712928256 | post #2 | how-to-protect-know-how-legally | Your most valuable IP isn't patented.  It's your uncodified know-how: the traini
+2026-06-22 15:49 | urn:li:share:7474851180855242754 | post #3 | 25-percent-rule-ip-royalties-dead-2026 | The 25% Rule for IP royalties is dead.  Relying on this old heuristic costs you 
