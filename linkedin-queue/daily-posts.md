@@ -3,7 +3,7 @@ date: 2026-06-22
 theme: Guiding founders through the evolving landscape of AI IP, financial leverage, and strategic asset protection.
 generated_at: 2026-06-22T09:47:01.852Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -122,7 +122,9 @@ Our clients negotiate 8-12% for software, not a flat 25%.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-22T17:41:15.368Z
+share_urn: urn:li:share:7474879188282462209
 hook_format: contrarian
 cta_goal: comments
 slug: ai-patent-eligibility-reset-2026

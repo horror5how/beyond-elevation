@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0081efffc3c3ffdf",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "why-ip-important-to-investors",
-    "ts": "2026-06-21T11:47:01.446Z"
-  },
-  {
     "hash": "c3c7e7ffc3c3bf9f",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "25-percent-rule-ip-royalties-dead-2026",
     "ts": "2026-06-22T15:49:57.764Z"
+  },
+  {
+    "hash": "1000e7ffc3e7ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "ai-patent-eligibility-reset-2026",
+    "ts": "2026-06-22T17:41:15.368Z"
   }
 ]
