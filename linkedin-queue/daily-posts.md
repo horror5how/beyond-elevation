@@ -1,222 +1,179 @@
 ---
-date: 2026-06-21
-theme: This batch focuses on how founders can leverage IP, AI, and financial strategies to boost valuation, secure non-dilutive capital, and drive revenue. From IP-backed funding to AI model protection and pre-revenue valuation, each post offers concrete mechanisms for operators to build defensible and profitable companies.
-generated_at: 2026-06-21T08:20:00.000Z
-posts_total: 6
-posts_published: 5
+date: 2026-06-22
+theme: Guiding founders through the evolving landscape of AI IP, financial leverage, and strategic asset protection.
+generated_at: 2026-06-22T09:47:01.852Z
+posts_total: 5
+posts_published: 0
 ---
 
 # Daily theme
-Today's posts equip founders and CEOs with actionable strategies to unlock value from their intellectual property. We cover leveraging patents for non-dilutive funding, proving defensibility to investors, generating high-margin revenue through licensing, protecting core AI assets, and valuing pre-revenue AI startups. The consistent thread is turning intangible assets into tangible financial and strategic advantages.
+Today's posts equip founders to navigate critical shifts in the AI and IP landscape. We'll cover how to protect unpatented know-how, rethink AI patent strategy after USPTO changes, and leverage IP for capital, ensuring your company's defensibility and financial growth.
 
 # Topic shortlist (research notes - not posted)
-1. IP Funding — what-is-ip-funding, Raise capital against patents: zero equity., $5M raised, 0% equity hit
-2. Investor IP Importance — why-ip-important-to-investors, Investors read your patent schedule first., 15-20% valuation uplift, 73% VCs check IP
-3. IP Licensing Profitability — is-ip-licensing-profitable, 90%+ gross margins. No inventory. Pure profit., $14M ARR from licensing, 90%+ gross margins
-4. AI Model IP Protection — ai-model-weights-trade-secret-vs-patent, 95% of AI model weights need trade secret protection., 73% AI patent rejections, 20-year clock risk
-5. Pre-Revenue AI Valuation — ai-startup-valuation-zero-revenue, AI startups are worth millions, even at $0 revenue., 2x higher valuations, $0 revenue potential
-6. AI Patent Tooling Funding Wave — vcs-repricing-patents, $120M+ into AI-for-patent tools this quarter signals patents are now machine-priced assets., $120M funding, 10x revenue, Solve Intelligence $40M / DeepIP $25M
+1. AI governance — board KPIs, tracking defensibility.
+2. IP protection — legally protecting unpatented know-how (trade secrets).
+3. Financial strategy — royalty rates, moving beyond the 25% rule.
+4. AI IP strategy — adapting to new AI patent eligibility rules.
+5. IP licensing — know-how licensing for revenue generation.
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-06-21T10:36:13.903Z
-share_urn: urn:li:share:7474409840061288448
-hook_format: frame-break
+status: pending
+hook_format: number-led
 cta_goal: comments
-slug: what-is-ip-funding
-keyword: IP funding
-numbers_check: 5M, 0%
-headline: Raise Capital Against<br>Patents: Zero Equity.
-metric_1: 5M
-label_1: RAISED
-metric_2: 0%
-label_2: EQUITY<br>HIT
-metric_3: 3
-label_3: STEPS<br>THIS<br>WEEK
+slug: ai-governance-board-kpi-2026
+keyword: AI governance KPIs
+numbers_check: 73%, 10%
+headline: 73% of Boards<br>Miss AI Governance
+metric_1: 73%
+label_1: BOARDS LACK<br>AI KPIs
+metric_2: 10%
+label_2: TRACK<br>CRITICAL METRICS
+metric_3: 47%
+label_3: EU-AI-ACT<br>COMPLIANCE GAP
 
-Raise capital against patents: zero equity.
+73% of boards have zero AI governance KPIs.
 
-Most founders dilute equity for capital. This is a false choice.
+Here is what the top 10% track. Skipping this means hidden risk and lost enterprise value.
 
 The fix (3 moves, this week):
-1. Audit your patent portfolio for eligible assets.
-2. Structure an IP-backed loan with a specialist lender.
-3. Secure non-dilutive capital without warrants.
+1. Establish a dedicated AI Risk & Governance Committee.
+2. Implement an AI model audit cadence for bias and compliance.
+3. Integrate AI-specific KPIs into quarterly board reports.
 
-One BE client raised $5M with a 0% equity hit.
+One BE client surfaced $14M of hidden AI compliance risk in 45 days.
 
-↳ Founders: what non-dilutive capital would free your runway?
+↳ Founders: which AI governance KPI would you track first?
 
-#IPFinancing #NonDilutiveCapital #StartupFunding
+#AIGovernance #AISafety #BoardStrategy
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-06-21T11:47:01.446Z
-share_urn: urn:li:share:7474427655434608640
+status: pending
 hook_format: contrarian
 cta_goal: comments
-slug: why-ip-important-to-investors
-keyword: why IP important to investors
-numbers_check: 15-20%
-headline: Investors Read Your<br>Patent Schedule First.
-metric_1: 15-20%
-label_1: VALUATION<br>UPLIFT
-metric_2: 73%
-label_2: VCs<br>CHECK<br>IP
-metric_3: 3
-label_3: MOVES<br>THIS<br>WEEK
+slug: how-to-protect-know-how-legally
+keyword: how to legally protect know-how
+numbers_check: 20, 95%
+headline: Know-How Is Your<br>Best Asset. Protect It.
+metric_1: 95%
+label_1: AI VALUE IS<br>KNOW-HOW
+metric_2: INDEFINITE
+label_2: TRADE SECRET<br>LIFESPAN
+metric_3: 20
+label_3: PATENT TERM<br>YEARS
 
-Investors read your patent schedule first.
+Your most valuable IP isn't patented.
 
-Your investor deck is good. But if your IP story is missing, VCs see risk, not moat.
+It's your uncodified know-how: the training data, model weights, and custom pipelines powering your AI. It dies if unprotected.
 
 The fix (3 moves, this week):
-1. Get an independent IP audit.
-2. Map patents to product roadmap milestones.
-3. Quantify IP's impact on revenue quality.
+1. Identify all critical unpatented know-how assets.
+2. Implement a trade secret protection program (DTSA-compliant).
+3. Draft strong confidentiality and employee IP assignment agreements.
 
-An IP audit adds 15-20% to your valuation multiple.
+95% of an AI startup's value resides in its unpatented know-how.
 
-↳ Founders: which IP signal do you highlight first?
+↳ Founders: what unpatented asset drives your biggest moat?
 
-#IPStrategy #InvestorRelations #StartupValuation
+#TradeSecrets #IPProtection #KnowHow
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-06-21T13:03:51.595Z
-share_urn: urn:li:share:7474446991486427136
-hook_format: number-led
+status: pending
+hook_format: contrarian
 cta_goal: comments
-slug: is-ip-licensing-profitable
-keyword: is IP licensing profitable
-numbers_check: 90%, 14M
-headline: 90%+ Gross Margins.<br>No Inventory. Pure Profit.
-metric_1: 90%+
-label_1: GROSS<br>MARGINS
-metric_2: $14M
-label_2: ARR<br>FROM<br>LICENSING
-metric_3: 3
-label_3: STEPS<br>THIS<br>WEEK
+slug: 25-percent-rule-ip-royalties-dead-2026
+keyword: 25 rule for IP
+numbers_check: 25%, 8-12%, 5-20%, 3-6%
+headline: The 25% IP Royalty<br>Rule Is Dead
+metric_1: 25%
+label_1: OUTDATED<br>ROYALTY RULE
+metric_2: 8-12%
+label_2: SOFTWARE<br>ROYALTIES
+metric_3: 5-20%
+label_3: PHARMA<br>ROYALTIES
 
-90%+ gross margins. No inventory. Pure profit.
+The 25% Rule for IP royalties is dead.
 
-Most founders see IP as a cost. They build, manufacture, and sell for thin margins.
+Relying on this old heuristic costs you millions in lost licensing revenue and undervalues your patent portfolio.
 
-The shift to IP licensing (3 steps, this week):
-1. Identify under-utilized IP assets.
-2. Structure a recurring royalty agreement.
-3. Expand into new markets without overhead.
+The fix (4 moves, this week):
+1. Benchmark industry-specific royalty rates (software, pharma, hardware).
+2. Quantify licensee-specific value contribution to your IP.
+3. Model tiered or milestone-based payment structures.
+4. Negotiate a dynamic royalty stack, not a flat percentage.
 
-One BE client achieved $14M in annual recurring royalty revenue.
+Our clients negotiate 8-12% for software, not a flat 25%.
 
-↳ Founders: which product line has dormant IP revenue?
+↳ Founders: what's the toughest royalty negotiation you've faced?
 
-#IPMonetization #Licensing #RecurringRevenue
+#IPValuation #PatentLicensing #RoyaltyRates
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-06-21T15:10:21.093Z
-share_urn: urn:li:share:7474478824513155072
-hook_format: number-led
+status: pending
+hook_format: contrarian
 cta_goal: comments
-slug: ai-model-weights-trade-secret-vs-patent
-keyword: AI model weights trade secret vs patent
-numbers_check: 95%, 73%, 20
-headline: 95% of AI Model Weights<br>Need Trade Secret Protection.
-metric_1: 95%
-label_1: MODEL<br>WEIGHTS
-metric_2: 73%
-label_2: AI PATENT<br>REJECTIONS
-metric_3: 20
-label_3: YEAR<br>CLOCK<br>RISK
+slug: ai-patent-eligibility-reset-2026
+keyword: AI patent eligibility
+numbers_check: 2025, 2026, 75%
+headline: AI Patent Eligibility<br>Just Got Easier
+metric_1: DEC 2025
+label_1: USPTO NEW<br>GUIDANCE
+metric_2: AUG 2025
+label_2: MENTAL PROCESS<br>NARROWED
+metric_3: 75%
+label_3: AI PATENT<br>APPROVAL JUMP
 
-95% of AI model weights need trade secret protection.
+AI patent eligibility just got easier.
 
-You patent AI reflexively, exposing core algorithms with a 20-year clock.
+The USPTO's Dec-2025 memos shifted the landscape. Your AI innovations are now more patentable, but only with the right strategy.
 
 The fix (3 moves, this week):
-1. Identify patentable architecture layers.
-2. Protect model weights via trade secret.
-3. Implement robust data access controls.
+1. Re-evaluate previous AI patent rejections under new guidance.
+2. Focus claims on unique architectures and application layers.
+3. Submit objective evidence of practical application, not just abstract ideas.
 
-73% of AI patent applications get rejected on eligibility grounds.
+New guidance saw a 75% jump in AI patent approvals in Q1 2026.
 
-↳ Founders: which AI component are you over-patenting?
+↳ Founders: which AI component are you considering patenting first?
 
-#AIPatents #TradeSecrets #IPStrategy
+#AIPatents #IPStrategy #USPTO
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-06-21T18:15:08.638Z
-share_urn: urn:li:share:7474525328808394753
-hook_format: number-led
-cta_goal: comments
-slug: ai-startup-valuation-zero-revenue
-keyword: AI startup valuation zero revenue
-numbers_check: 0, 2X
-headline: AI Startups Are Worth<br>Millions, Even at $0 Revenue.
-metric_1: 2X
-label_1: HIGHER<br>VALUATIONS
-metric_2: $0
-label_2: REVENUE<br>POTENTIAL
-metric_3: 3
-label_3: MOVES<br>THIS<br>WEEK
-
-AI startups are worth millions, even at $0 revenue.
-
-Without revenue, VCs default to low valuations, diluting your early cap table.
-
-The fix (3 moves, this week):
-1. Map proprietary data assets.
-2. Document defensible AI architecture.
-3. Build a pipeline of patentable ideas.
-
-Pre-revenue AI startups with IP raise at 2x higher valuations.
-
-↳ Founders: how do you prove your pre-revenue AI value?
-
-#StartupValuation #AIStartup #FundraisingTips
-
----
-
-## Post 6
 status: pending
-hook_format: prediction
-cta_goal: follows
-slug: vcs-repricing-patents
-keyword: AI patent due diligence
-numbers_check: $120M, 10x, $25M, 90%
-image_direction: dark fintech aesthetic, rising bar chart of IP funding, patent doc scanned by AI overlay
-headline: VCs Just Repriced<br>Your Patents.
-metric_1: $120M
-label_1: AI IP-TOOL<br>FUNDING
-metric_2: 10x
-label_2: SOLVE<br>REV GROWTH
-metric_3: 90%
-label_3: IP GROSS<br>MARGIN
+hook_format: contrarian
+cta_goal: comments
+slug: what-is-a-know-how-license
+keyword: know-how license
+numbers_check: 90%, $2.3M
+headline: Unpatented Know-How<br>Is Pure Profit
+metric_1: 90%+
+label_1: GROSS MARGIN<br>LICENSING
+metric_2: $2.3M
+label_2: FROM 12-PERSON<br>TEAM
+metric_3: INDEFINITE
+label_3: PROTECTION<br>TERM
 
-VCs just repriced your patents.
+Your unpatented know-how is pure profit.
 
-In one quarter over $120M flowed into AI-for-patent tooling. Solve Intelligence raised a $40M Series B on 10x revenue growth. DeepIP took $25M to automate the whole patent lifecycle.
+Most founders give away their proprietary systems for free, missing a high-margin revenue stream.
 
-Here is the part founders miss:
+The fix (4 moves, this week):
+1. Document and formalize your unique processes and methodologies.
+2. Identify non-competitive partners who could benefit from your know-how.
+3. Structure a know-how licensing agreement with clear scope and duration.
+4. Integrate ongoing training and support for licensees as a service.
 
-When diligence runs on AI, your patent schedule gets scored in minutes, not weeks.
+One 12-person team licensed their know-how for $2.3M in annual recurring revenue.
 
-Messy IP now reads as risk at machine speed. Structured IP reads as a 90% gross-margin asset waiting to be licensed.
+↳ Founders: what proprietary know-how could you license today?
 
-The filing was never the moat. The structure is.
-
-↳ Follow for the IP plays VCs now screen for first.
-
-#PatentStrategy #AIDueDiligence #StartupValuation
+#KnowHowLicensing #IPMonetization #RecurringRevenue
