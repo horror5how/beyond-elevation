@@ -3417,3 +3417,21 @@ Design patents are faster at 19-21 months, down from 24 months in 2020. Plant pa
 The number most fo
 
 ---
+
+## The 12-Month IP Roadmap: From Zero Patents to a Fundable, Defensible Portfolio
+
+URL: https://beyondelevation.com/blog/posts/12-month-ip-roadmap-fundable-portfolio/
+
+Startups with a structured IP roadmap raise at 2.1x higher multiples than those filing patents reactively. Most founders treat IP as a post-fundraise checkbox. That is backwards, and it costs them millions in exit value.
+
+Hayat Amin runs the same 12-month IP roadmap for every client at Beyond Elevation. The sequence never changes because the math never changes: founders who enter a fundraise holding granted patents, documented trade secrets, and a licensing optionality analysis earn 15-20% higher multiples than founders who walk in with a pending application and no monetization plan.
+
+An IP roadmap is not a legal document. It is an operating plan that sequences every IP decision against your funding milestones. What to file. What to protect as trade secrets. What to license. When to do each. The 12-month framework below is the exact timeline that has produced eight-figure IP portfolios from zero-patent starting points.
+
+## Why Does Your IP Roadmap Need to Start Before Product-Market Fit?
+
+An IP roadmap must start before product-market fit because patent filing windows close permanently once you publish, demo, or ship. Under U.S. patent law, you have 12 months after public disclosure to file. In Europe, Japan, and most other jurisdictions, public disclosure before filing destroys your patent rights entirely. No extensions. No workarounds. No second chances.
+
+Hayat Amin's Pre-Seed IP Filing Sequence is built on one principle: lock the priority date before the first pitch deck g
+
+---

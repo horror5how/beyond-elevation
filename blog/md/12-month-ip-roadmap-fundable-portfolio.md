@@ -2,8 +2,8 @@
 title: "The 12-Month IP Roadmap: From Zero Patents to a Fundable, Defensible Portfolio"
 slug: 12-month-ip-roadmap-fundable-portfolio
 date: 2026-06-22
-url: https://beyondelevation.com/blog/post.html?slug=12-month-ip-roadmap-fundable-portfolio
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/12-month-ip-roadmap-fundable-portfolio/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ Founders without an IP roadmap pay in three currencies. Lower exit multiples: co
 
 The total cost of a 12-month IP roadmap for an early-stage startup runs $30,000 to $80,000. The valuation premium it produces runs 10-40x that investment. No other line item in a startup's operating budget delivers that return. Beyond Elevation builds custom IP roadmaps starting with a portfolio assessment at [beyondelevation.com](https://beyondelevation.com).
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-12-month-ip-roadmap-fundable-portfolio)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a 12-month IP roadmap cost for a startup?
@@ -88,3 +102,6 @@ A patent strategy focuses on what to patent, where, and when. An IP roadmap is b
 ### When should a startup start its IP roadmap?
 
 Before the first investor meeting. The IP roadmap should be in place before your pitch deck goes out. Investors price defensibility into their term sheets, and founders who present a structured IP portfolio earn higher valuations than those who treat IP as an afterthought. If you are raising in the next 6-12 months, start the roadmap today.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

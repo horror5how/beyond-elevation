@@ -232,5 +232,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How to Negotiate a Patent License in 2026: The 7-Step Playbook That Triples Your Royalty Revenue](https://beyondelevation.com/blog/posts/how-to-negotiate-patent-license-2026/) — /blog/md/how-to-negotiate-patent-license-2026.md
 - [What a Patent Monetization Consultant Actually Does (And When to Hire One vs PatSnap or a Law Firm)](https://beyondelevation.com/blog/posts/patent-monetization-consultant/) — /blog/md/patent-monetization-consultant.md
 - [How Long Does It Take to Get a Patent? 23 Months Average, But Founders Who Plan Cut It to 6](https://beyondelevation.com/blog/posts/how-long-to-get-a-patent-2026/) — /blog/md/how-long-to-get-a-patent-2026.md
+- [The 12-Month IP Roadmap: From Zero Patents to a Fundable, Defensible Portfolio](https://beyondelevation.com/blog/posts/12-month-ip-roadmap-fundable-portfolio/) — /blog/md/12-month-ip-roadmap-fundable-portfolio.md
 
 > Full blog content available at /llms-full.txt
