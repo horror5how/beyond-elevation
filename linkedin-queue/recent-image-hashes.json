@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c3c7e7ffc3c3bf9f",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "is-ip-licensing-profitable",
-    "ts": "2026-06-21T13:03:51.595Z"
-  },
-  {
     "hash": "fff101370f35ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-patent-eligibility-reset-2026",
     "ts": "2026-06-22T17:41:15.368Z"
+  },
+  {
+    "hash": "c3c7e7ffc3e7ff90",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "what-is-a-know-how-license",
+    "ts": "2026-06-22T19:59:39.329Z"
   }
 ]

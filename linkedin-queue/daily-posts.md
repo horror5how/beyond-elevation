@@ -3,7 +3,7 @@ date: 2026-06-22
 theme: Guiding founders through the evolving landscape of AI IP, financial leverage, and strategic asset protection.
 generated_at: 2026-06-22T09:47:01.852Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -156,7 +156,9 @@ New guidance saw a 75% jump in AI patent approvals in Q1 2026.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-22T19:59:39.329Z
+share_urn: urn:li:share:7474914017631883264
 hook_format: contrarian
 cta_goal: comments
 slug: what-is-a-know-how-license
