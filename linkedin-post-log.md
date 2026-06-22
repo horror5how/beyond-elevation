@@ -308,3 +308,4 @@
 2026-06-22 07:52 | QUEUED | ai-governance-board-kpi-2026 | 73% of boards have zero AI governance KPIs.  Here is what the top 10% track.  Sk
 2026-06-22 07:53 | urn:li:share:7474731220430434304 | 73% of boards have zero AI governance KPIs.  Here is what the top 10% track.
 2026-06-22 12:52 | QUEUED | royalty-backed-ip-loans-2026 | 2x more capital. Lower rate. Zero equity.  That is the difference between an IP 
+2026-06-22 12:53 | urn:li:share:7474806830930702336 | 2x more capital. Lower rate. Zero equity.  That is the difference between an IP 
