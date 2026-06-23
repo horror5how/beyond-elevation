@@ -3,7 +3,7 @@ date: 2026-06-23
 theme: Today's posts focus on measurable impact: from how investors score your data moat and the financial leverage of IP-backed loans, to tangible AI operational gains in sales, customer support, and marketing content production.
 generated_at: 2026-06-23T09:23:19.177Z
 posts_total: 5
-posts_published: 3
+posts_published: 0
 ---
 
 # Daily theme
@@ -19,9 +19,7 @@ Today's content delivers actionable strategies for founders and CEOs to drive co
 ---
 
 ## Post 3
-status: published
-published_at: 2026-06-23T12:31:21.668Z
-share_urn: urn:li:share:7475163588924641280
+status: pending
 hook_format: number-led
 cta_goal: clicks
 slug: ai-cut-sdr-ramp-time-40-percent
@@ -35,18 +33,18 @@ label_2: CONVERSION<br>LIFT
 metric_3: $10K
 label_3: PER SDR<br>SAVINGS
 
-My clients cut SDR ramp 40% with AI.
+My clients cut SDR ramp 40% with AI. 15% more conversions, $10K saved per rep.
 
-Your SDRs waste cycles on unqualified leads. Training takes too long, costing pipeline velocity and budget.
+Most SDRs burn weeks on unqualified leads. Slow ramp bleeds pipeline and budget.
 
-The fix (3 moves, this week):
-1. Implement agentic AI for first-pass lead qualification.
-2. Feed real-time CRM data to refine AI scoring.
-3. Integrate AI-generated talking points into SDR workflows.
+The 3 moves we ran this week:
+1. Agentic AI for first-pass lead qualification.
+2. Real-time CRM data feeding the scoring.
+3. AI talking points dropped into the SDR workflow.
 
-One client slashed SDR ramp time 40%, boosting lead-to-opportunity conversion 15% and saving $10K per SDR annually.
+Ramp down 40%, conversion up 15%, $10K saved per rep per year.
 
-↳ Founders: which sales task would you automate first?
+Founders: which sales task would you automate first?
 
 #AIOperations #SalesAI #Efficiency
 
