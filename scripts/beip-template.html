@@ -267,10 +267,13 @@
   }
   body.layout-c .footer { align-items: flex-start; }
   .footer-logo {
-    height: 64px;
-    width: auto;
-    mix-blend-mode: multiply;
-    background: transparent;
+    height: 96px;
+    width: 96px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 50% 12%;
+    border: 2px solid #d7b086;
+    background: #efe9e1;
   }
   .footer-property {
     font-family: 'Inter', system-ui, sans-serif;
@@ -370,10 +373,10 @@
   <div class="footer">
     <img
       class="footer-logo"
-      src="file://{{REPO}}/assets/brand/be-logo-primary-trimmed.png"
-      alt="Beyond Elevation"
+      src="file://{{REPO}}/assets/brand/hayat-standing.png"
+      alt="Hayat Amin"
     />
-    <div class="footer-property">Property of Beyond Elevation</div>
+    <div class="footer-property">Hayat Amin · Beyond Elevation</div>
     <div class="footer-quote">"Patent and data are the only thing differentiating tech companies today, and we master in its craft."</div>
   </div>
 
