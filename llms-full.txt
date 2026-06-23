@@ -3473,3 +3473,19 @@ SaaS valuations are compressing because AI commoditizes the application layer fa
 The median public SaaS multipl
 
 ---
+
+## Royalty-Backed IP Financing Beats IP Term Loans: 50-70% LTV at 6-10% vs 20-40% at 8-15%
+
+URL: https://beyondelevation.com/blog/posts/royalty-backed-ip-financing-vs-term-loan/
+
+Royalty-backed IP financing gets you 50-70% loan-to-value at 6-10% interest, self-amortising from your existing licensing revenue. An IP term loan caps out at 20-40% LTV and charges 8-15%. Same patents on the table. Radically different terms on the page. Hayat Amin argues that most founders leave 30-50% of their borrowing capacity untouched by defaulting to the wrong IP loan structure. This is the comparison no lender hands you voluntarily.
+
+If you own patents and you are raising non-dilutive capital, the structure you choose determines whether you access real money or settle for a fraction of what your portfolio supports. The difference between royalty-backed IP financing and a standard IP term loan is not a technicality. It is the difference between borrowing at 6% and borrowing at 14%.
+
+## Are Royalty-Backed IP Loans Cheaper Than IP Term Loans?
+
+Yes. Royalty-backed IP facilities consistently deliver lower interest rates, higher LTV ratios, and more favorable repayment terms than IP term loans. The gap is structural, not marginal. Lenders price royalty-backed deals lower because the loan repays itself from a documented, recurring cash flow the borrower already collects.
+
+An IP term loan requires the borrower to repay from general operating revenue. The patent portfolio is collateral, but the cash flow servicing the debt comes from the business, not the IP directly. That disconnect forces lenders to discount the collateral aggressively (20-40% of appraised IP value) and char
+
+---

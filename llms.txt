@@ -235,5 +235,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The 12-Month IP Roadmap: From Zero Patents to a Fundable, Defensible Portfolio](https://beyondelevation.com/blog/posts/12-month-ip-roadmap-fundable-portfolio/) — /blog/md/12-month-ip-roadmap-fundable-portfolio.md
 - [The 5-Axis Data Moat Score Investors Run Before They Price Your Round](https://beyondelevation.com/blog/posts/data-moat-scoring-framework-investors/) — /blog/md/data-moat-scoring-framework-investors.md
 - [Is SaaS Being Replaced by AI? The SaaS Companies That Keep Their Multiple All Own One Thing](https://beyondelevation.com/blog/posts/is-saas-being-replaced-by-ai/) — /blog/md/is-saas-being-replaced-by-ai.md
+- [Royalty-Backed IP Financing Beats IP Term Loans: 50-70% LTV at 6-10% vs 20-40% at 8-15%](https://beyondelevation.com/blog/posts/royalty-backed-ip-financing-vs-term-loan/) — /blog/md/royalty-backed-ip-financing-vs-term-loan.md
 
 > Full blog content available at /llms-full.txt
