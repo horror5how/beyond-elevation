@@ -193,10 +193,9 @@ This is non-negotiable. Treat the template as a hard contract.
 ${postTemplate}
 =========================================================
 
-THREE CONTENT PILLARS — rotate across all 5 posts, never 3 consecutive in the same pillar:
-1. IP        — patents, licensing, IP strategy, holdco structure, trade secrets, IP monetisation, valuation
-2. AI        — AI strategy, AI governance, AI transformation, AI IP/patents, agentic AI, EU AI Act
-3. Financial — exit multiples, M&A/IP positioning, data monetisation, valuation methods, capital strategy
+FIXED CONTENT SPLIT - exactly 5 posts, assigned by POSITION, never deviate:
+- Posts 1-2 = IP pillar: patents, licensing, IP strategy, holdco structure, trade secrets, IP monetisation, valuation. Same angle, voice, and quality as every prior batch.
+- Posts 3-5 = AI OPERATIONS pillar: how companies actually USE AI to win - drive sales/revenue, build operational efficiency, make processes cleaner and more effective. Write these as Hayat's first-person thought leadership: blend what is happening across the industry right now with what Hayat is doing with clients. Go controversial and very niche - contrarian operator insights NOT found in generic AI commentary. This is NOT AI strategy/governance/EU-AI-Act theory and NOT AI patents - it is hands-on AI operations proven with hard numbers (hours saved, % cost cut, conversion or close-rate lift, headcount avoided, cycle-time drop, $ impact, payback period). Each AI-ops post needs at least 2 specific numbers and at least 1 named KPI.
 
 HARD WRITING RULES:
 - AUDIENCE: founders / CEOs / Seed–Series B operators. Speak TO the operator. Never address \
@@ -227,12 +226,14 @@ Today is ${TODAY}. Generate the full content of linkedin-queue/daily-posts.md wi
 SLUGS ALREADY USED — never repeat or create a semantic near-duplicate of these:
 ${allSlugsUsed}
 
-RECENT POST LOG — use this to determine pillar rotation and avoid repeating angles:
+RECENT POST LOG — use only to avoid repeating angles and slugs. Do NOT rotate pillars: the split is FIXED by position (Posts 1-2 IP, Posts 3-5 AI operations):
 ${recentLog}
 
 KEYWORD STRATEGY — pick uncovered topics walking Tier 1 → Tier 5:
 ${keywordStrategy}
 ${extraNote ? `\nFEEDBACK FROM PREVIOUS ATTEMPT (fix all of these):\n${extraNote}\n` : ''}
+REMINDER: Posts 1 and 2 are IP. Posts 3, 4, and 5 are AI operations (sales lift / operational efficiency / cleaner processes), each quantified with at least 2 numbers and a named KPI. All 5 posts keep the same format and all have image frontmatter.
+
 Output EXACTLY this format:
 
 ---
