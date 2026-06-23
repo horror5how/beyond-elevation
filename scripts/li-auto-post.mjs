@@ -213,6 +213,8 @@ if (!pending) {
 const meta = pending.meta;
 // Footer brand: Posts 1-2 are IP (Beyond Elevation logo); Posts 3-5 are AI-ops (Hayat photo).
 const footerVariant = pending.num <= 2 ? 'be' : 'me';
+// Eyebrow: AI-ops posts carry Hayat's personal label, IP posts carry the BE label.
+const eyebrow = footerVariant === 'me' ? 'AI Operations Insight' : 'IP + Data Intelligence';
 const required = ['headline', 'metric_1', 'label_1', 'metric_2', 'label_2', 'metric_3', 'label_3'];
 const missing  = required.filter(k => !meta[k]);
 if (missing.length || !pending.caption) {
@@ -260,6 +262,7 @@ function renderTemplate(layout, accentHex, accentSoft) {
   return template
     .replaceAll('{{REPO}}',         REPO)
     .replaceAll('{{FOOTER}}',       footerVariant)
+    .replaceAll('{{EYEBROW}}',      eyebrow)
     .replaceAll('{{LAYOUT}}',       layout)
     .replaceAll('{{ACCENT_HEX}}',   accentHex)
     .replaceAll('{{ACCENT_SOFT}}',  accentSoft)

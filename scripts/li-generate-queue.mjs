@@ -211,6 +211,7 @@ HARD WRITING RULES:
 - FORBIDDEN OPENERS: "In today's...", "Companies are...", "It's no secret that...", abstract noun phrases.
 - 3 hashtags max at the end, on the final line.
 - Caption HARD CAP: 700 characters including newlines and hashtags.
+- FOLD-SAFE OPENING: LinkedIn collapses the post after roughly 210 characters with a "see more". The HOOK plus the very next line must BOTH deliver concrete payoff (a number, a named result). NEVER let a bare teaser like "The fix", "Here's how", or "The play:" be the last visible line before that fold — if you promise a fix, the result number must already be visible above it. Put the win in the first two lines, then the mechanism.
 
 BEIP IMAGE RULES (frontmatter only — these drive the visual card, not the caption):
 - headline: two lines separated by <br>, punchy, derived from the caption hook
