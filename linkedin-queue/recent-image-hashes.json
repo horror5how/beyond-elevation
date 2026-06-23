@@ -1,12 +1,5 @@
 [
   {
-    "hash": "1000e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "ai-patent-eligibility-reset-2026",
-    "ts": "2026-06-22T17:41:15.368Z"
-  },
-  {
     "hash": "c3c7e7ffc3e7ff90",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-customer-support-csat-aht",
     "ts": "2026-06-23T13:42:42.098Z"
+  },
+  {
+    "hash": "007effffffff2507",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-content-repurposing-marketing-roi",
+    "ts": "2026-06-23T15:45:29.136Z"
   }
 ]
