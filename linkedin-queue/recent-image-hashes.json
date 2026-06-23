@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff1210173f1ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "how-to-protect-know-how-legally",
-    "ts": "2026-06-22T14:42:54.684Z"
-  },
-  {
     "hash": "007effffff0b21a0",
     "layout": "a",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-cut-sdr-ramp-time-40-percent",
     "ts": "2026-06-23T12:31:21.668Z"
+  },
+  {
+    "hash": "c3e3e7ffc1c3ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "ai-cut-sdr-ramp-time-40-percent",
+    "ts": "2026-06-23T13:13:19.490Z"
   }
 ]

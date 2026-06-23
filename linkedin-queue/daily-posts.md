@@ -3,7 +3,7 @@ date: 2026-06-23
 theme: Today's posts focus on measurable impact: from how investors score your data moat and the financial leverage of IP-backed loans, to tangible AI operational gains in sales, customer support, and marketing content production.
 generated_at: 2026-06-23T09:23:19.177Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content delivers actionable strategies for founders and CEOs to drive co
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-23T13:13:19.490Z
+share_urn: urn:li:share:7475174149389283328
 hook_format: number-led
 cta_goal: clicks
 slug: ai-cut-sdr-ramp-time-40-percent

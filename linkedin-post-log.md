@@ -320,3 +320,4 @@
 2026-06-23 12:09 | urn:li:share:7475158020335947777 | post #2 | royalty-backed-ip-financing-vs-term-loan | Stop trading equity for cheap capital.  Most founders dilute their cap table for
 2026-06-23 12:31 | urn:li:share:7475163588924641280 | post #3 | ai-cut-sdr-ramp-time-40-percent | My clients cut SDR ramp 40% with AI.  Your SDRs waste cycles on unqualified lead
 2026-06-23 12:53 | urn:li:share:7475169193953427456 | Your patent is live. Your litigation risk score is unknown.  Most founders only 
+2026-06-23 13:13 | urn:li:share:7475174149389283328 | post #3 | ai-cut-sdr-ramp-time-40-percent | My clients cut SDR ramp 40% with AI. 15% more conversions, $10K saved per rep.  
