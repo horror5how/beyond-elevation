@@ -3,7 +3,7 @@ date: 2026-06-23
 theme: Today's posts focus on measurable impact: from how investors score your data moat and the financial leverage of IP-backed loans, to tangible AI operational gains in sales, customer support, and marketing content production.
 generated_at: 2026-06-23T09:23:19.177Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -55,7 +55,9 @@ Startups with a documented data moat command 25x revenue, vs 10-12x without.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-23T12:09:14.018Z
+share_urn: urn:li:share:7475158020335947777
 hook_format: contrarian
 cta_goal: clicks
 slug: royalty-backed-ip-financing-vs-term-loan

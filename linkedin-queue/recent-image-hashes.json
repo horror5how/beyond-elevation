@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffffa5a5",
-    "layout": "a",
-    "accent": "#7a8c6e",
-    "slug": "ai-startup-valuation-zero-revenue",
-    "ts": "2026-06-21T18:15:08.638Z"
-  },
-  {
     "hash": "0062e7ffe3c3ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "data-moat-scoring-framework-investors",
     "ts": "2026-06-23T10:39:24.191Z"
+  },
+  {
+    "hash": "7af101310f7ff7ff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "royalty-backed-ip-financing-vs-term-loan",
+    "ts": "2026-06-23T12:09:14.018Z"
   }
 ]
