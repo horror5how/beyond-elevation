@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0062e7ffe3c3ff99",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "ai-governance-board-kpi-2026",
-    "ts": "2026-06-22T12:54:27.792Z"
-  },
-  {
     "hash": "fff1210173f1ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "royalty-backed-ip-financing-vs-term-loan",
     "ts": "2026-06-23T12:09:14.018Z"
+  },
+  {
+    "hash": "c3e3e7ffc3e7b999",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "ai-cut-sdr-ramp-time-40-percent",
+    "ts": "2026-06-23T12:31:21.668Z"
   }
 ]
