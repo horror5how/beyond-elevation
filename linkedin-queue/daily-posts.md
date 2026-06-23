@@ -18,6 +18,38 @@ Today's content delivers actionable strategies for founders and CEOs to drive co
 
 ---
 
+## Post 3
+status: pending
+hook_format: number-led
+cta_goal: clicks
+slug: ai-cut-sdr-ramp-time-40-percent
+keyword: AI sales efficiency
+numbers_check: 40%, 15%, $10K
+headline: SDR Ramp Time Cut 40%<br>With Agentic AI
+metric_1: 40%
+label_1: SDR RAMP<br>TIME CUT
+metric_2: 15%
+label_2: CONVERSION<br>LIFT
+metric_3: $10K
+label_3: PER SDR<br>SAVINGS
+
+My clients cut SDR ramp 40% with AI.
+
+Your SDRs waste cycles on unqualified leads. Training takes too long, costing pipeline velocity and budget.
+
+The fix (3 moves, this week):
+1. Implement agentic AI for first-pass lead qualification.
+2. Feed real-time CRM data to refine AI scoring.
+3. Integrate AI-generated talking points into SDR workflows.
+
+One client slashed SDR ramp time 40%, boosting lead-to-opportunity conversion 15% and saving $10K per SDR annually.
+
+↳ Founders: which sales task would you automate first?
+
+#AIOperations #SalesAI #Efficiency
+
+---
+
 ## Post 1
 status: published
 published_at: 2026-06-23T10:39:24.191Z
@@ -86,38 +118,6 @@ Royalty-backed IP financing offers 50-70% LTV at 6-10% rates, beating IP term lo
 ↳ Founders: would you prefer equity dilution or lower LTV?
 
 #IPFinancing #NonDilutiveCapital #Fundraising
-
----
-
-## Post 3
-status: pending
-hook_format: number-led
-cta_goal: clicks
-slug: ai-cut-sdr-ramp-time-40-percent
-keyword: AI sales efficiency
-numbers_check: 40%, 15%, $10K
-headline: SDR Ramp Time Cut 40%<br>With Agentic AI
-metric_1: 40%
-label_1: SDR RAMP<br>TIME CUT
-metric_2: 15%
-label_2: CONVERSION<br>LIFT
-metric_3: $10K
-label_3: PER SDR<br>SAVINGS
-
-My clients cut SDR ramp 40% with AI.
-
-Your SDRs waste cycles on unqualified leads. Training takes too long, costing pipeline velocity and budget.
-
-The fix (3 moves, this week):
-1. Implement agentic AI for first-pass lead qualification.
-2. Feed real-time CRM data to refine AI scoring.
-3. Integrate AI-generated talking points into SDR workflows.
-
-One client slashed SDR ramp time 40%, boosting lead-to-opportunity conversion 15% and saving $10K per SDR annually.
-
-↳ Founders: which sales task would you automate first?
-
-#AIOperations #SalesAI #Efficiency
 
 ---
 
