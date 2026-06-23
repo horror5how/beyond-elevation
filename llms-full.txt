@@ -3489,3 +3489,19 @@ Yes. Royalty-backed IP facilities consistently deliver lower interest rates, hig
 An IP term loan requires the borrower to repay from general operating revenue. The patent portfolio is collateral, but the cash flow servicing the debt comes from the business, not the IP directly. That disconnect forces lenders to discount the collateral aggressively (20-40% of appraised IP value) and char
 
 ---
+
+## Your Data Is About to Hit the Balance Sheet: The 2026 Accounting Shift That Turns Datasets Into Bookable Capital
+
+URL: https://beyondelevation.com/blog/posts/data-accounting-recognition-balance-sheet-2026/
+
+Yes. In 2026, data can be recorded as a balance-sheet asset. Two accounting shifts made it real this year: the Isle of Man Data Asset Register enters its formal implementation phase, and China's Ministry of Finance guidance now lets companies classify eligible data resources as intangible assets or inventory. The accounting world just gave your datasets a seat at the same table as patents, trademarks, and goodwill.
+
+Most founders still treat data as an operational byproduct. Hayat Amin argues that this is a seven-figure valuation mistake. "Every company generating structured proprietary data is sitting on an asset their balance sheet pretends does not exist," Amin says. "The CFOs who move first on recognition will price their next round differently." Beyond Elevation has tracked both regulatory shifts since their draft stages, and the pattern is clear: data is becoming a recognized, bookable financial asset for the first time in accounting history.
+
+This is not theoretical. Datavault AI guided approximately $38 to $40 million in FY25 revenue and projects over $200 million in FY26, almost entirely from data licensing. That revenue is bankable, recurring, and now recognizable. Here is what changed, how to qualify, and the three routes that put your data on the books.
+
+## What Changed in Data Accounting Recognition in 2026?
+
+Two jurisdictions crossed the line from "data is valuable" to "data is bookable" in 2026, creating the first viable paths for companies to recognize dataset
+
+---

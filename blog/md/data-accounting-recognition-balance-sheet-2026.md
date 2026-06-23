@@ -2,8 +2,8 @@
 title: "Your Data Is About to Hit the Balance Sheet: The 2026 Accounting Shift That Turns Datasets Into Bookable Capital"
 slug: data-accounting-recognition-balance-sheet-2026
 date: 2026-06-23
-url: https://beyondelevation.com/blog/post.html?slug=data-accounting-recognition-balance-sheet-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/data-accounting-recognition-balance-sheet-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,20 @@ Beyond Elevation's [data and know-how licensing advisory](/blog/posts/know-how-l
 
 The question for every data-rich founder is no longer whether data belongs on the balance sheet. It is whether your CFO knows which route to take and how fast you can get there. Book a [data asset consultation with Beyond Elevation](https://beyondelevation.com) to determine which recognition route applies to your company and what your datasets are worth on the books.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-data-accounting-recognition-balance-sheet-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can any company record data as a balance-sheet asset?
@@ -88,3 +102,6 @@ A recognized data asset gives investors a visible, valued line item. It shifts d
 ### Is data accounting recognition the same as data monetization?
 
 No. [Data monetization](/blog/posts/data-monetization-strategy-framework/) generates revenue from data through licensing, sale, or internal efficiency gains. Data accounting recognition puts the asset on the balance sheet as a formal accounting entry. They are complementary. Monetization proves the data has economic value. Recognition makes that value visible to investors, lenders, and acquirers.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
