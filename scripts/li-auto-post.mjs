@@ -237,15 +237,21 @@ if (caption.length > 700) {
 // fallback to the blog index — so there is a link on every single post.
 // Idempotent: if the caption already contains a beyondelevation.com URL the
 // picker returns { skip: true } and we don't double-link.
-const blogPick = pickBlogForPost(meta, caption);
-if (blogPick && blogPick.skip) {
-  console.log(`      blog link: skipped — caption already links to beyondelevation.com`);
-} else if (blogPick && blogPick.fallback) {
-  caption = `${caption}${blogPick.ctaLine}`;
-  console.log(`      blog link appended at end (fallback): ${blogPick.url}`);
-} else if (blogPick) {
-  caption = `${caption}${blogPick.ctaLine}`;
-  console.log(`      blog link appended at end: ${blogPick.slug} (score=${blogPick.score})`);
+// Only IP posts (Beyond Elevation pillar) carry the BE backlink. AI-ops posts
+// are Hayat's personal brand — no Beyond Elevation mention in the caption.
+if (footerVariant !== 'be') {
+  console.log(`      blog link: skipped — AI-ops post (no Beyond Elevation mention)`);
+} else {
+  const blogPick = pickBlogForPost(meta, caption);
+  if (blogPick && blogPick.skip) {
+    console.log(`      blog link: skipped — caption already links to beyondelevation.com`);
+  } else if (blogPick && blogPick.fallback) {
+    caption = `${caption}${blogPick.ctaLine}`;
+    console.log(`      blog link appended at end (fallback): ${blogPick.url}`);
+  } else if (blogPick) {
+    caption = `${caption}${blogPick.ctaLine}`;
+    console.log(`      blog link appended at end: ${blogPick.slug} (score=${blogPick.score})`);
+  }
 }
 
 console.log(`[1/5] Loaded post #${pending.num} from queue`);
