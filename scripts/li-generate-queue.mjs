@@ -237,6 +237,15 @@ REMINDER - POST PILLARS ARE FIXED BY POSITION:
 - Post 1, Post 2 = IP (patents, licensing, IP strategy, valuation).
 - Post 3, Post 4, Post 5 = AI OPERATIONS only. Each shows how a company USES AI to drive sales/revenue, build operational efficiency, or make a process cleaner - proven with at least 2 hard numbers and a named KPI (e.g. "cut SDR ramp 40%", "an agent replaced a 3-person ops queue, 18-day payback", "AI ticket triage lifted CSAT 12 points"). Frame as Hayat's first-person operator POV plus current client work; controversial and very niche.
 - REJECT for Posts 3-5 (these are NOT AI operations): EU AI Act, AI governance or policy, AI patents/IP, "AI moat"/defensibility, valuation multiples, data-as-asset theory. If a Post 3-5 draft is about any of those, rewrite it as a hands-on operations play with numbers.
+- AI-OPS WINNING STRUCTURE (match this exact proven shape every time):
+  Line 1 (hook): a first-person result carrying 2-3 hard numbers, e.g. "My clients cut SDR ramp 40% with AI. 15% more conversions, $10K saved per rep." The payoff numbers MUST live in line 1 (fold-safe).
+  Next: 1-2 lines on the cost of NOT doing it (the operator's real pain).
+  Next: "The N moves we ran this week:" then 3 specific moves — real tools/workflows, never vague advice.
+  Next: one result line restating the gains.
+  Next: a question CTA to founders/operators.
+  Next: exactly 3 hashtags.
+- HEAD-TURNING BAR: every AI-ops post must carry ONE non-obvious, contrarian insight an operator would screenshot — a specific play, number, or trade-off absent from generic AI content. "AI boosts productivity" is an automatic fail; give the exact mechanism and the exact number.
+- VARIETY / NO REPEAT: rotate the operations DOMAIN across the 3 AI posts AND across days — sales/SDR, customer support, marketing/content, finance/FP&A, RevOps, hiring/recruiting, supply chain, onboarding/CS, data/analytics. Never reuse a play, metric set, or company already in SLUGS ALREADY USED or the RECENT POST LOG. If a draft resembles a recent post, switch domain before saving.
 All 5 posts keep the identical format and all have image frontmatter.
 
 Output EXACTLY this format:
