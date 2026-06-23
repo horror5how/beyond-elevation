@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff101370f35ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "ai-model-weights-trade-secret-vs-patent",
-    "ts": "2026-06-21T15:10:21.093Z"
-  },
-  {
     "hash": "007effffffffa5a5",
     "layout": "a",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "what-is-a-know-how-license",
     "ts": "2026-06-22T19:59:39.329Z"
+  },
+  {
+    "hash": "3c34131737f4ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "data-moat-scoring-framework-investors",
+    "ts": "2026-06-23T10:39:24.191Z"
   }
 ]

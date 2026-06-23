@@ -316,3 +316,4 @@
 2026-06-22 17:52 | urn:li:share:7474882059937853440 | Investors don't just check your data. They score it on 5 axes.  Most founders ne
 2026-06-22 19:59 | urn:li:share:7474914017631883264 | post #5 | what-is-a-know-how-license | Your unpatented know-how is pure profit.  Most founders give away their propriet
 2026-06-23 07:54 | urn:li:share:7475094001604481024 | SaaS multiples are bifurcating. IP is the split line.  AI commoditised the appli
+2026-06-23 10:39 | urn:li:share:7475135413867913216 | post #1 | data-moat-scoring-framework-investors | 5 axes score your data moat now.  Your "data moat" is just marketing noise. VCs 
