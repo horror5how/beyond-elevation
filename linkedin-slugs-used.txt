@@ -351,3 +351,4 @@ data-moat-scoring-framework-investors
 royalty-backed-ip-financing-vs-term-loan
 ai-cut-sdr-ramp-time-40-percent
 patent-litigation-risk-score-2026
+ai-customer-support-csat-aht

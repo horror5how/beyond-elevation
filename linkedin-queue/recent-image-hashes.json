@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffff0b21a0",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "25-percent-rule-ip-royalties-dead-2026",
-    "ts": "2026-06-22T15:49:57.764Z"
-  },
-  {
     "hash": "1000e7ffc3e7ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-cut-sdr-ramp-time-40-percent",
     "ts": "2026-06-23T13:13:19.490Z"
+  },
+  {
+    "hash": "3c7213730775ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "ai-customer-support-csat-aht",
+    "ts": "2026-06-23T13:42:42.098Z"
   }
 ]

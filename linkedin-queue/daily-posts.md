@@ -3,7 +3,7 @@ date: 2026-06-23
 theme: Today's posts focus on measurable impact: from how investors score your data moat and the financial leverage of IP-backed loans, to tangible AI operational gains in sales, customer support, and marketing content production.
 generated_at: 2026-06-23T09:23:19.177Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -124,7 +124,9 @@ Royalty-backed IP financing offers 50-70% LTV at 6-10% rates, beating IP term lo
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-23T13:42:42.098Z
+share_urn: urn:li:share:7475181542349205507
 hook_format: number-led
 cta_goal: clicks
 slug: ai-customer-support-csat-aht

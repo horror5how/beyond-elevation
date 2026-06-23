@@ -321,3 +321,4 @@
 2026-06-23 12:31 | urn:li:share:7475163588924641280 | post #3 | ai-cut-sdr-ramp-time-40-percent | My clients cut SDR ramp 40% with AI.  Your SDRs waste cycles on unqualified lead
 2026-06-23 12:53 | urn:li:share:7475169193953427456 | Your patent is live. Your litigation risk score is unknown.  Most founders only 
 2026-06-23 13:13 | urn:li:share:7475174149389283328 | post #3 | ai-cut-sdr-ramp-time-40-percent | My clients cut SDR ramp 40% with AI. 15% more conversions, $10K saved per rep.  
+2026-06-23 13:42 | urn:li:share:7475181542349205507 | post #4 | ai-customer-support-csat-aht | AI boosts CSAT 12 points, cuts handle time 30%.  Your support team is swamped. H
