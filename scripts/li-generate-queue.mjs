@@ -229,10 +229,14 @@ ${allSlugsUsed}
 RECENT POST LOG — use only to avoid repeating angles and slugs. Do NOT rotate pillars: the split is FIXED by position (Posts 1-2 IP, Posts 3-5 AI operations):
 ${recentLog}
 
-KEYWORD STRATEGY — pick uncovered topics walking Tier 1 → Tier 5:
+KEYWORD STRATEGY (for the 2 IP posts ONLY — ignore it entirely when writing the 3 AI-operations posts): pick uncovered IP topics walking Tier 1 → Tier 5:
 ${keywordStrategy}
 ${extraNote ? `\nFEEDBACK FROM PREVIOUS ATTEMPT (fix all of these):\n${extraNote}\n` : ''}
-REMINDER: Posts 1 and 2 are IP. Posts 3, 4, and 5 are AI operations (sales lift / operational efficiency / cleaner processes), each quantified with at least 2 numbers and a named KPI. All 5 posts keep the same format and all have image frontmatter.
+REMINDER - POST PILLARS ARE FIXED BY POSITION:
+- Post 1, Post 2 = IP (patents, licensing, IP strategy, valuation).
+- Post 3, Post 4, Post 5 = AI OPERATIONS only. Each shows how a company USES AI to drive sales/revenue, build operational efficiency, or make a process cleaner - proven with at least 2 hard numbers and a named KPI (e.g. "cut SDR ramp 40%", "an agent replaced a 3-person ops queue, 18-day payback", "AI ticket triage lifted CSAT 12 points"). Frame as Hayat's first-person operator POV plus current client work; controversial and very niche.
+- REJECT for Posts 3-5 (these are NOT AI operations): EU AI Act, AI governance or policy, AI patents/IP, "AI moat"/defensibility, valuation multiples, data-as-asset theory. If a Post 3-5 draft is about any of those, rewrite it as a hands-on operations play with numbers.
+All 5 posts keep the identical format and all have image frontmatter.
 
 Output EXACTLY this format:
 
@@ -289,25 +293,25 @@ The fix (3 moves, this week):
 ---
 
 ## Post 2
-[same structure as Post 1]
+[same structure as Post 1 — PILLAR: IP]
 
 ---
 
 ## Post 3
-[same structure]
+[same structure — PILLAR: AI OPERATIONS — a concrete AI deployment that drove sales / efficiency / cleaner process, quantified; NOT governance, EU AI Act, patents, or moats]
 
 ---
 
 ## Post 4
-[same structure]
+[same structure — PILLAR: AI OPERATIONS]
 
 ---
 
 ## Post 5
-[same structure]
+[same structure — PILLAR: AI OPERATIONS]
 
 HARD RULES:
-- Rotate pillars across the 5 posts (IP / AI / Financial — no 3 consecutive same pillar)
+- FIXED SPLIT (do NOT rotate): Posts 1-2 = IP pillar. Posts 3-5 = AI OPERATIONS pillar (how companies USE AI to lift sales, cut cost, or clean up a process, with hard numbers). AI-ops posts must NOT be about AI governance, the EU AI Act, AI patents, "moats", or valuation multiples.
 - Every slug must be brand new — not in the slugs-already-used list
 - Every caption ≤700 characters (count carefully including newlines and hashtags)
 - Every headline must use <br> to split into exactly two lines
