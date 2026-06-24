@@ -1,21 +1,21 @@
-Most founders license their IP once. The smart ones license it five ways simultaneously.
+OpenAI, Anthropic, and Google have 39 days to file EU AI Act GPAI transparency disclosures.
 
-They have one patent. One licensee. One revenue stream.
+If they miss it, products built on their APIs could be classified high-risk by association.
 
-The same IP supports 5 streams at once.
+Most founders building on these APIs have no idea this touches them.
 
-Geographic: UK vs US vs APAC = 3 separate deals.
+Your risk classification is tied to your provider's compliance status.
 
-Field of use: healthcare vs fintech vs logistics. Same patent. Three rates.
+If your provider is not transparent about training data, you inherit the liability.
 
-Know-how: the methodology is its own license.
+Three steps before August 2:
 
-Data: your training set is a separate asset.
+Document which model version you use.
 
-Cross-license: swap rights with a competitor for free moat expansion.
+Map which high-risk use cases your product enables.
 
-90% gross margin. Zero dilution.
+Get written EU AI Act compliance confirmation from your provider.
 
-Your patent isn't one deal. It's a revenue architecture.
+Do not let your provider's paperwork become your fine.
 
-#IPstrategy #licensing #valuation
+#EUAIAct #AIStrategy #AICompliance
