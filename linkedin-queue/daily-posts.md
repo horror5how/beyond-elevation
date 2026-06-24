@@ -3,7 +3,7 @@ date: 2026-06-24
 theme: The market is repricing both sides of the AI ledger, patents are becoming investable assets while AI operations finally face hard ROI math.
 generated_at: 2026-06-24T03:02:16Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -81,7 +81,9 @@ So the most valuable line in a deeptech company is the one a CFO never models. M
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-24T13:20:26.829Z
+share_urn: urn:li:share:7475538329489375232
 hook_format: contrarian
 cta_goal: dms
 slug: automate-decisions-not-tasks

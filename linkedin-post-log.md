@@ -329,3 +329,4 @@
 2026-06-24 10:26 | urn:li:share:7475494495841820672 | post #1 | patent-software-asset-class | Investors just put north of $120M into patent software.  Solve Intelligence rais
 2026-06-24 11:46 | urn:li:share:7475514672868163584 | post #2 | balance-sheet-lies-about-ip | Your balance sheet is lying about your IP.  Qualcomm's licensing arm earns rough
 2026-06-24 12:57 | QUEUED | gpai-api-liability-august-2026 | OpenAI, Anthropic, and Google have 39 days to file EU AI Act GPAI transparency d
+2026-06-24 13:20 | urn:li:share:7475538329489375232 | post #3 | automate-decisions-not-tasks | Most enterprise AI fails the ROI test.  IBM just admitted most enterprises canno
