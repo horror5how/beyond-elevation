@@ -239,5 +239,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your Data Is About to Hit the Balance Sheet: The 2026 Accounting Shift That Turns Datasets Into Bookable Capital](https://beyondelevation.com/blog/posts/data-accounting-recognition-balance-sheet-2026/) — /blog/md/data-accounting-recognition-balance-sheet-2026.md
 - [The Top 3 Valuation Methods Founders Must Know Cold (And the One Investors Trust for Intangibles)](https://beyondelevation.com/blog/posts/top-3-valuation-methods-intangibles/) — /blog/md/top-3-valuation-methods-intangibles.md
 - [EU AI Act Compliance Checklist: 8 IP Steps Every AI Company Must Complete Before August 2, 2026](https://beyondelevation.com/blog/posts/eu-ai-act-compliance-checklist-august-2026/) — /blog/md/eu-ai-act-compliance-checklist-august-2026.md
+- [IP Protection Priority for Startups: The Filing Order That Saves Founders $200K](https://beyondelevation.com/blog/posts/ip-protection-priority-startups-filing-order/) — /blog/md/ip-protection-priority-startups-filing-order.md
 
 > Full blog content available at /llms-full.txt
