@@ -1,21 +1,13 @@
 name: Post Instagram Carousel
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'instagram-queue/next-caption.txt'
+      - 'instagram-queue/slides/slide-1.html'
   workflow_dispatch:
     inputs:
-      ig_token:
-        description: 'Instagram access token'
-        required: true
-        type: string
-      ig_id:
-        description: 'Instagram Business ID'
-        required: true
-        default: '17841422274109557'
-        type: string
-      blob_token:
-        description: 'Vercel Blob read-write token'
-        required: true
-        type: string
       pillar:
         description: 'Content pillar label for logging'
         required: false
@@ -28,6 +20,10 @@ permissions:
 jobs:
   post:
     runs-on: ubuntu-latest
+    env:
+      ACTIVE_IG_TOKEN: EAASSEUy7BCoBRU1jEwOKcOHbd6gtz0nilxU9hJblV8I9KpbpjFITnFZAlQGadjpm8sOsilvi6SICmqkvmxRCJpLGeZCIZCZB72S7kQDOtEZApWyz8AVlz3WFpDDhZAJwvcqlfVN0tpvnHQmDeLY0YNgBig4mAhAGeNRhXm6JwWNkpUBMZCZBUS4GCZCZBjilS6meS8Yed9RT5nBwZDZD
+      ACTIVE_IG_BUSINESS_ID: '17841422274109557'
+      BLOB_READ_WRITE_TOKEN: vercel_blob_rw_vgDQc90Ld6yYS4oP_NrQTHtkW9Lmr3eqWPfH2DyRWkSWHXh
     steps:
       - uses: actions/checkout@v4
 
@@ -53,18 +49,19 @@ jobs:
           mkdir -p /tmp/ig-slides
           COUNT=${{ steps.slides.outputs.count }}
           for i in $(seq 1 $COUNT); do
+            SLIDE_N=$i
             node -e "
           const { chromium } = require('playwright');
           (async () => {
             const browser = await chromium.launch();
             const page = await browser.newPage();
             await page.setViewportSize({ width: 1080, height: 1080 });
-            const filePath = process.cwd() + '/instagram-queue/slides/slide-$i.html';
+            const filePath = process.cwd() + '/instagram-queue/slides/slide-${SLIDE_N}.html';
             await page.goto('file://' + filePath);
             await page.waitForTimeout(800);
-            await page.screenshot({ path: '/tmp/ig-slides/slide-$i.png', fullPage: false });
+            await page.screenshot({ path: '/tmp/ig-slides/slide-${SLIDE_N}.png', fullPage: false });
             await browser.close();
-            console.log('Rendered slide $i');
+            console.log('Rendered slide ${SLIDE_N}');
           })().catch(e => { console.error(e); process.exit(1); });
             "
           done
@@ -72,10 +69,6 @@ jobs:
 
       - name: Publish to Instagram
         id: publish
-        env:
-          ACTIVE_IG_TOKEN: ${{ inputs.ig_token }}
-          ACTIVE_IG_BUSINESS_ID: ${{ inputs.ig_id }}
-          BLOB_READ_WRITE_TOKEN: ${{ inputs.blob_token }}
         run: |
           export IG_CAPTION="$(cat instagram-queue/next-caption.txt)"
           COUNT=${{ steps.slides.outputs.count }}
@@ -98,13 +91,13 @@ jobs:
         if: always()
         env:
           MEDIA_ID: ${{ steps.publish.outputs.media_id }}
-          PILLAR: ${{ inputs.pillar }}
+          PILLAR: ${{ inputs.pillar || 'The Human Edge in the Age of AI' }}
         run: |
           stamp=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
           if [ -n "$MEDIA_ID" ]; then
-            STATUS="✅ POSTED"
+            STATUS="POSTED"
           else
-            STATUS="❌ FAILED"
+            STATUS="FAILED"
           fi
           {
             echo ""
@@ -131,7 +124,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing to commit"
           else
-            git commit -m "Instagram: carousel posted ($MEDIA_ID)"
+            git commit -m "Instagram: carousel $STATUS ($MEDIA_ID)"
             push_with_rebase || echo "Push failed, continuing"
           fi
 
