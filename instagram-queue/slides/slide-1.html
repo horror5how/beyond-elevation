@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1080px; height: 1080px;
+    background: #f8f6f2;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: space-between;
+    padding: 80px 72px 60px;
+    position: relative; overflow: hidden;
+  }
+  body::before {
+    content: ''; position: absolute; top: -220px; left: -220px;
+    width: 720px; height: 720px;
+    background: radial-gradient(ellipse at center, rgba(230,185,140,0.20) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  body::after {
+    content: ''; position: absolute; bottom: -180px; right: -180px;
+    width: 600px; height: 600px;
+    background: radial-gradient(ellipse at center, rgba(230,185,140,0.12) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .eyebrow {
+    font-size: 12px; font-weight: 700; letter-spacing: 0.16em;
+    color: #4a4a4a; text-transform: uppercase; text-align: center;
+  }
+  .main {
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    flex: 1; gap: 0; text-align: center;
+  }
+  .headline {
+    font-size: 68px; font-weight: 300; line-height: 1.12;
+    letter-spacing: -0.03em; color: #1a1a1a;
+    max-width: 880px;
+  }
+  .headline em {
+    font-style: normal; font-weight: 700;
+  }
+  .divider {
+    width: 64px; height: 2px; background: #d7b086;
+    margin: 36px auto;
+  }
+  .sub {
+    font-size: 22px; font-weight: 400; color: #4a4a4a;
+    letter-spacing: -0.01em; line-height: 1.5;
+    max-width: 700px;
+  }
+  .footer {
+    width: 100%; border-top: 1px solid #c8c4bc;
+    padding-top: 22px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .be-wordmark { font-size: 28px; font-weight: 800; letter-spacing: -0.04em; color: #1a1a1a; }
+  .footer-right { font-size: 11px; font-weight: 600; letter-spacing: 0.10em; color: #4a4a4a; text-transform: uppercase; }
+</style>
+</head>
+<body>
+  <div class="eyebrow">Future of Human Purpose</div>
+  <div class="main">
+    <div class="headline">AI can now write<br>your reports.<br><em>It cannot do this.</em></div>
+    <div class="divider"></div>
+    <div class="sub">4 human skills that will pay more in the age of AI — and how to double down on them</div>
+  </div>
+  <div class="footer">
+    <div class="be-wordmark">BE</div>
+    <div class="footer-right">@itshayatamin</div>
+  </div>
+</body>
+</html>

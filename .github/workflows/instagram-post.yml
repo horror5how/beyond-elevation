@@ -1,0 +1,141 @@
+name: Post Instagram Carousel
+
+on:
+  workflow_dispatch:
+    inputs:
+      ig_token:
+        description: 'Instagram access token'
+        required: true
+        type: string
+      ig_id:
+        description: 'Instagram Business ID'
+        required: true
+        default: '17841422274109557'
+        type: string
+      blob_token:
+        description: 'Vercel Blob read-write token'
+        required: true
+        type: string
+      pillar:
+        description: 'Content pillar label for logging'
+        required: false
+        default: 'The Human Edge in the Age of AI'
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: |
+          npm install playwright@1.56.1 @vercel/blob
+          npx playwright install --with-deps chromium
+
+      - name: Count slides
+        id: slides
+        run: |
+          COUNT=$(ls instagram-queue/slides/slide-*.html 2>/dev/null | wc -l)
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Found $COUNT slides"
+
+      - name: Render carousel slides
+        run: |
+          mkdir -p /tmp/ig-slides
+          COUNT=${{ steps.slides.outputs.count }}
+          for i in $(seq 1 $COUNT); do
+            node -e "
+          const { chromium } = require('playwright');
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage();
+            await page.setViewportSize({ width: 1080, height: 1080 });
+            const filePath = process.cwd() + '/instagram-queue/slides/slide-$i.html';
+            await page.goto('file://' + filePath);
+            await page.waitForTimeout(800);
+            await page.screenshot({ path: '/tmp/ig-slides/slide-$i.png', fullPage: false });
+            await browser.close();
+            console.log('Rendered slide $i');
+          })().catch(e => { console.error(e); process.exit(1); });
+            "
+          done
+          ls -lh /tmp/ig-slides/
+
+      - name: Publish to Instagram
+        id: publish
+        env:
+          ACTIVE_IG_TOKEN: ${{ inputs.ig_token }}
+          ACTIVE_IG_BUSINESS_ID: ${{ inputs.ig_id }}
+          BLOB_READ_WRITE_TOKEN: ${{ inputs.blob_token }}
+        run: |
+          export IG_CAPTION="$(cat instagram-queue/next-caption.txt)"
+          COUNT=${{ steps.slides.outputs.count }}
+          SLIDE_ARGS=""
+          for i in $(seq 1 $COUNT); do
+            SLIDE_ARGS="$SLIDE_ARGS /tmp/ig-slides/slide-$i.png"
+          done
+          OUTPUT=$(node scripts/instagram-publish.mjs $SLIDE_ARGS 2>&1)
+          ECODE=$?
+          echo "$OUTPUT"
+          if [ "$ECODE" != "0" ]; then
+            echo "publish failed with exit $ECODE"
+            exit 1
+          fi
+          MEDIA_ID=$(echo "$OUTPUT" | grep 'PUBLISHED:' | awk '{print $2}')
+          echo "media_id=$MEDIA_ID" >> $GITHUB_OUTPUT
+          echo "Published media_id: $MEDIA_ID"
+
+      - name: Log result and commit
+        if: always()
+        env:
+          MEDIA_ID: ${{ steps.publish.outputs.media_id }}
+          PILLAR: ${{ inputs.pillar }}
+        run: |
+          stamp=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
+          if [ -n "$MEDIA_ID" ]; then
+            STATUS="✅ POSTED"
+          else
+            STATUS="❌ FAILED"
+          fi
+          {
+            echo ""
+            echo "## $stamp"
+            echo "- Pillar: $PILLAR"
+            echo "- Status: $STATUS"
+            echo "- Media ID: ${MEDIA_ID:-n/a}"
+            echo "- Slides: ${{ steps.slides.outputs.count }}"
+          } >> instagram-post-log.md
+
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE Instagram Agent'
+          git add instagram-post-log.md
+
+          push_with_rebase() {
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin main 2>/dev/null || true
+              if git push origin main; then return 0; fi
+              sleep $((i*3))
+            done
+            return 1
+          }
+
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Instagram: carousel posted ($MEDIA_ID)"
+            push_with_rebase || echo "Push failed, continuing"
+          fi
+
+          if [ -n "$MEDIA_ID" ]; then
+            echo ""
+            echo "LIVE: https://www.instagram.com/p/$MEDIA_ID/"
+          fi
