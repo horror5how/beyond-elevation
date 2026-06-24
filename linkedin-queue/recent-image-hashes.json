@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c34131737f4ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "data-moat-scoring-framework-investors",
-    "ts": "2026-06-23T10:39:24.191Z"
-  },
-  {
     "hash": "7af101310f7ff7ff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "patent-software-asset-class",
     "ts": "2026-06-24T10:26:16.299Z"
+  },
+  {
+    "hash": "42c3f7ff8181ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "balance-sheet-lies-about-ip",
+    "ts": "2026-06-24T11:46:26.769Z"
   }
 ]

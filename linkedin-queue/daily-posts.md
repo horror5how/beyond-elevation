@@ -3,7 +3,7 @@ date: 2026-06-24
 theme: The market is repricing both sides of the AI ledger, patents are becoming investable assets while AI operations finally face hard ROI math.
 generated_at: 2026-06-24T03:02:16Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -49,7 +49,9 @@ If three funds underwrote patent ARR this quarter, your IP is not a filing fee a
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-24T11:46:26.769Z
+share_urn: urn:li:share:7475514672868163584
 hook_format: frame-break
 cta_goal: clicks
 slug: balance-sheet-lies-about-ip
