@@ -2,8 +2,8 @@
 title: "EU AI Act Compliance Checklist: 8 IP Steps Every AI Company Must Complete Before August 2, 2026"
 slug: eu-ai-act-compliance-checklist-august-2026
 date: 2026-06-24
-url: https://beyondelevation.com/blog/post.html?slug=eu-ai-act-compliance-checklist-august-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/eu-ai-act-compliance-checklist-august-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ Beyond Elevation runs the 8-step sprint as a fixed-scope engagement that takes f
 
 The EU AI Act compliance checklist above is the same framework Beyond Elevation applies to every client engagement. The difference between running it internally and running it with an IP strategist is the trade secret layer. Most internal compliance teams satisfy the Act's documentation requirements by over-disclosing proprietary information. An [IP-focused compliance approach](/blog/posts/eu-ai-act-ip-compliance/) satisfies the same requirements while protecting every proprietary asset that makes your AI defensible. [Book a Beyond Elevation EU AI Act IP Sprint](https://beyondelevation.com) before August 2.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-eu-ai-act-compliance-checklist-august-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### When does the EU AI Act start being enforced?
@@ -94,3 +108,6 @@ Compliance costs vary by risk classification and system complexity. For a high-r
 ### Is an EU AI Act compliance audit different from an IP audit?
 
 Yes. A standard EU AI Act compliance audit evaluates whether an AI system meets the Act's regulatory requirements. An IP-specific compliance audit evaluates whether the compliance process itself protects or exposes the company's intellectual property. Both are necessary. Running a regulatory compliance audit without the IP layer risks satisfying the Act while surrendering the proprietary assets that make your AI valuable. The eight steps in this EU AI Act compliance checklist cover both layers in a single sprint.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

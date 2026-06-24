@@ -3523,3 +3523,19 @@ The difference between them is not complexity. It is what each one captures. The
 For IP-heavy, data-rich, and AI companies, the gap bet
 
 ---
+
+## EU AI Act Compliance Checklist: 8 IP Steps Every AI Company Must Complete Before August 2, 2026
+
+URL: https://beyondelevation.com/blog/posts/eu-ai-act-compliance-checklist-august-2026/
+
+The EU AI Act becomes enforceable on August 2, 2026. Fines start at 15 million euros or 3% of your global annual revenue. And the compliance gap most AI companies have not addressed has nothing to do with risk classification or transparency labels. It is the IP layer underneath. This EU AI Act compliance checklist covers the eight IP-specific steps every AI company must complete before the deadline hits.
+
+Hayat Amin has run EU AI Act IP compliance audits for AI companies across three continents since the Act received Royal Assent. The finding is consistent: nine out of ten companies have completed regulatory classification but zero IP-specific compliance work. "The Act does not just regulate your AI," Hayat Amin says. "It audits your training data rights, your model documentation, your patent claims. If your IP house is not in order, you fail the audit before the regulator gets past page three."
+
+Beyond Elevation built this EU AI Act compliance checklist after reviewing the compliance readiness of dozens of AI deployers and providers across the UK, EU, and US markets.
+
+## What Does the August 2, 2026 EU AI Act Enforcement Actually Mean for IP Owners?
+
+EU AI Act enforcement means that national market surveillance authorities in all 27 EU member states gain the power to audit, suspend, and fine companies deploying AI systems that do not meet the Act's requirements. For IP owners, this is not a regulatory formality. The Act's technical documentation obligations require disclosur
+
+---
