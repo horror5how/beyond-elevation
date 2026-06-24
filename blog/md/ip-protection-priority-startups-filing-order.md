@@ -23,11 +23,11 @@ Hayat Amin argues that 90% of startup IP value sits in unpatented assets: algori
 
 Filing a patent before locking down trade secrets creates three problems that most founders do not see until due diligence. First, a patent application publishes your innovation to the world after 18 months. If you file the wrong claims, you have given competitors a public roadmap to your technology without actually blocking them. Second, patent prosecution takes 23 months on average and costs $15,000 to $50,000 per filing. That capital could secure every other IP asset in your stack first. Third, and this is the one that kills deals: if your [IP assignment agreements](/blog/posts/employee-ip-assignment-gap/) are unsigned when you file, you may not even own the patent you just paid for.
 
-Hayat Amin reminds founders that investors check three things before they read a patent schedule: signed IP assignments, trade secret controls, and clean contractor agreements. "I have seen a $40M Series B stall for six weeks because one early contractor never signed an assignment," Hayat Amin says. "The patent portfolio was beautiful. The ownership was a mess."
+Hayat Amin reminds founders that investors check three things before they read a patent schedule: signed IP assignments, trade secret controls, and clean contractor agreements. "I have seen a $40M Series B stall for six weeks because one early contractor never signed an assignment. The patent portfolio was beautiful. The ownership was a mess."
 
 ## What Is the Right IP Filing Order? The Hayat Amin IP Triage Framework
 
-The Hayat Amin IP Triage Framework ranks five asset types by the ratio of protection value to cost and time. Beyond Elevation runs this framework on every new client engagement. The order has not changed in three years because the economics have not changed.
+The framework ranks five asset types by the ratio of protection value to cost and time. Beyond Elevation runs this framework on every new client engagement. The order has not changed in three years because the economics have not changed.
 
 **Priority 1: Trade secrets.** Cost: $0 to $2,000 for access controls and classification. Time: 48 hours. [Trade secrets](/blog/posts/trade-secrets-vs-patents-strategy-guide/) protect your most valuable assets immediately, with no expiration date and no public disclosure. For AI companies, this includes model weights, training data pipelines, hyperparameter configurations, and proprietary evaluation benchmarks. Document what qualifies as a trade secret, restrict access to need-to-know, and implement basic technical controls. This single step protects 70% to 80% of most startups' defensible IP value.
 
@@ -45,7 +45,7 @@ A 48-hour IP protection sprint secures priorities 1 and 2 from the framework abo
 
 **Day 1, morning:** Inventory every asset that gives your company a competitive advantage. Code, data, algorithms, processes, customer lists, pricing models, vendor relationships, and internal tools. Most founders identify 15 to 30 protectable assets they have never classified.
 
-**Day 1, afternoon:** Classify each asset: patent candidate, trade secret, copyright, or trademark. Apply the Hayat Amin test: "If a competitor saw this tomorrow, how much would it cost us?" Anything above $100,000 in competitive damage is a Priority 1 trade secret.
+**Day 1, afternoon:** Classify each asset: patent candidate, trade secret, copyright, or trademark. Apply this test: "If a competitor saw this tomorrow, how much would it cost us?" Anything above $100,000 in competitive damage is a Priority 1 trade secret.
 
 **Day 2, morning:** Implement access controls on all Priority 1 assets. Restrict repository access, enable audit logging, and document who can access what. This creates the "reasonable steps" courts require to enforce trade secret protection under the Defend Trade Secrets Act.
 
@@ -65,9 +65,9 @@ Another common failure: a SaaS founder who filed four utility patents at $40,000
 
 IP protection priority for startups is not about spending more. It is about spending in the right order. Lock down trade secrets, secure IP ownership, protect your brand, then file patents on validated innovations. Every dollar spent out of order is a dollar that fails to compound.
 
-Hayat Amin's rule is blunt: if your startup has filed patents but has not completed the four steps that come before them, you are exposed in exactly the way acquirers and investors are trained to find. The [IP moves you must make before writing a single line of code](/blog/posts/ip-strategy-pre-revenue-startup/) start with ownership and control, not claims and prosecution.
+The rule is blunt: if your startup has filed patents but has not completed the four steps that come before them, you are exposed in exactly the way acquirers and investors are trained to find. The [IP moves you must make before writing a single line of code](/blog/posts/ip-strategy-pre-revenue-startup/) start with ownership and control, not claims and prosecution.
 
-[Beyond Elevation's IP strategy advisory](https://beyondelevation.com) starts with the Hayat Amin IP Triage Framework. Book a consultation before your next fundraise, not after.
+[Beyond Elevation's IP strategy advisory](https://beyondelevation.com) starts with this framework. Book a consultation before your next fundraise, not after.
 
 
 
