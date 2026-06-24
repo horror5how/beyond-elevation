@@ -1,40 +1,30 @@
 #!/usr/bin/env node
-// Instagram carousel publisher — uploads slides to Vercel Blob, posts to Instagram Graph API.
-// Usage: node scripts/instagram-publish.mjs slide-1.png slide-2.png ... slide-N.png
-// Env: ACTIVE_IG_TOKEN, ACTIVE_IG_BUSINESS_ID, BLOB_READ_WRITE_TOKEN, IG_CAPTION
-// Exit codes: 0 ok, 2 auth error, 1 any other error.
-
-import { readFileSync } from "node:fs";
-import { basename } from "node:path";
-import { put } from "@vercel/blob";
+// Instagram carousel publisher — posts public image URLs as a carousel.
+// Usage: node scripts/instagram-publish.mjs <url1> <url2> ... <urlN>
+// Env: ACTIVE_IG_TOKEN, ACTIVE_IG_BUSINESS_ID, IG_CAPTION
+// Exit codes: 0 ok, 2 auth error (token expired), 1 any other error.
 
 const IG_TOKEN = process.env.ACTIVE_IG_TOKEN;
 const IG_ID = process.env.ACTIVE_IG_BUSINESS_ID;
-const BLOB_TOKEN = process.env.BLOB_READ_WRITE_TOKEN;
 const CAPTION = process.env.IG_CAPTION || "";
 const GV = process.env.INSTAGRAM_GRAPH_VERSION || "v23.0";
 const BASE = `https://graph.facebook.com/${GV}`;
 
-if (!IG_TOKEN || !IG_ID || !BLOB_TOKEN) {
-  console.error("Missing required env: ACTIVE_IG_TOKEN, ACTIVE_IG_BUSINESS_ID, BLOB_READ_WRITE_TOKEN");
+if (!IG_TOKEN || !IG_ID) {
+  console.error("Missing required env: ACTIVE_IG_TOKEN, ACTIVE_IG_BUSINESS_ID");
   process.exit(1);
 }
 
-const imagePaths = process.argv.slice(2);
-if (imagePaths.length < 2 || imagePaths.length > 10) {
-  console.error("Provide 2-10 image file paths as arguments");
+const imageUrls = process.argv.slice(2);
+if (imageUrls.length < 2 || imageUrls.length > 10) {
+  console.error(`Provide 2-10 public image URLs as arguments (got ${imageUrls.length})`);
   process.exit(1);
 }
-
-async function uploadToBlob(filePath) {
-  const bytes = readFileSync(filePath);
-  const name = `ig-carousel/${Date.now()}-${basename(filePath)}`;
-  const { url } = await put(name, bytes, {
-    access: "public",
-    token: BLOB_TOKEN,
-    contentType: "image/png",
-  });
-  return url;
+for (const url of imageUrls) {
+  if (!/^https?:\/\//.test(url)) {
+    console.error(`Not a valid URL: ${url}`);
+    process.exit(1);
+  }
 }
 
 async function igPost(endpoint, params) {
@@ -46,8 +36,12 @@ async function igPost(endpoint, params) {
   });
   const data = await r.json();
   if (data.error) {
-    if (data.error.code === 190) { const e = new Error("IG auth error"); e.code = 190; throw e; }
-    throw new Error(`IG API error: ${JSON.stringify(data.error)}`);
+    if (data.error.code === 190) {
+      const e = new Error(`IG token expired: ${data.error.message}`);
+      e.code = 190;
+      throw e;
+    }
+    throw new Error(`IG API error ${data.error.code}: ${data.error.message}`);
   }
   if (!r.ok) throw new Error(`HTTP ${r.status}: ${JSON.stringify(data)}`);
   return data;
@@ -59,28 +53,25 @@ async function retry(fn, attempts = 3, delay = 4000) {
     catch (e) {
       if (e.code === 190) throw e;
       if (i === attempts - 1) throw e;
-      console.log(`  retry ${i + 1}/${attempts - 1} after ${delay}ms: ${e.message}`);
+      console.log(`  [retry ${i + 1}/${attempts - 1}] ${e.message} — waiting ${delay * (i + 1)}ms`);
       await new Promise(r => setTimeout(r, delay * (i + 1)));
     }
   }
 }
 
-console.log(`[ig] Uploading ${imagePaths.length} slides to Vercel Blob...`);
-const urls = [];
-for (const p of imagePaths) {
-  const url = await retry(() => uploadToBlob(p));
-  console.log(`  ✓ ${basename(p)} → ${url}`);
-  urls.push(url);
+console.log(`[ig] Posting ${imageUrls.length}-slide carousel...`);
+for (let i = 0; i < imageUrls.length; i++) {
+  console.log(`  slide ${i + 1}: ${imageUrls[i]}`);
 }
 
-console.log("[ig] Creating child carousel containers...");
+console.log("[ig] Creating child containers...");
 const childIds = [];
-for (const url of urls) {
+for (const url of imageUrls) {
   const { id } = await retry(() => igPost(`${IG_ID}/media`, {
     image_url: url,
     is_carousel_item: "true",
   }));
-  console.log(`  ✓ child container: ${id}`);
+  console.log(`  child: ${id}`);
   childIds.push(id);
 }
 
@@ -90,8 +81,9 @@ const { id: carouselId } = await retry(() => igPost(`${IG_ID}/media`, {
   children: childIds.join(","),
   caption: CAPTION,
 }));
-console.log(`  ✓ carousel container: ${carouselId}`);
+console.log(`  carousel: ${carouselId}`);
 
+console.log("[ig] Waiting 3s before publish...");
 await new Promise(r => setTimeout(r, 3000));
 
 console.log("[ig] Publishing...");

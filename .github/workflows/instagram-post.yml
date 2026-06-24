@@ -23,7 +23,6 @@ jobs:
     env:
       ACTIVE_IG_TOKEN: EAASSEUy7BCoBRU1jEwOKcOHbd6gtz0nilxU9hJblV8I9KpbpjFITnFZAlQGadjpm8sOsilvi6SICmqkvmxRCJpLGeZCIZCZB72S7kQDOtEZApWyz8AVlz3WFpDDhZAJwvcqlfVN0tpvnHQmDeLY0YNgBig4mAhAGeNRhXm6JwWNkpUBMZCZBUS4GCZCZBjilS6meS8Yed9RT5nBwZDZD
       ACTIVE_IG_BUSINESS_ID: '17841422274109557'
-      BLOB_READ_WRITE_TOKEN: vercel_blob_rw_vgDQc90Ld6yYS4oP_NrQTHtkW9Lmr3eqWPfH2DyRWkSWHXh
     steps:
       - uses: actions/checkout@v4
 
@@ -32,9 +31,9 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install dependencies
+      - name: Install Playwright
         run: |
-          npm install playwright@1.56.1 @vercel/blob
+          npm install playwright@1.56.1
           npx playwright install --with-deps chromium
 
       - name: Count slides
@@ -67,23 +66,57 @@ jobs:
           done
           ls -lh /tmp/ig-slides/
 
+      - name: Commit rendered slides to repo
+        run: |
+          COUNT=${{ steps.slides.outputs.count }}
+          mkdir -p instagram-queue/slides/rendered
+          for i in $(seq 1 $COUNT); do
+            cp /tmp/ig-slides/slide-$i.png instagram-queue/slides/rendered/slide-$i.png
+          done
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE Instagram Agent'
+          git add instagram-queue/slides/rendered/
+          if git diff --cached --quiet; then
+            echo "No slide changes to commit"
+          else
+            git commit -m "chore: rendered slides for IG carousel [skip ci]"
+            for i in 1 2 3 4; do
+              git pull --rebase --autostash origin main 2>/dev/null || true
+              if git push origin main; then break; fi
+              sleep $((i*2))
+            done
+          fi
+          echo "Slides committed — waiting 8s for CDN propagation"
+          sleep 8
+
       - name: Publish to Instagram
         id: publish
         run: |
           export IG_CAPTION="$(cat instagram-queue/next-caption.txt)"
           COUNT=${{ steps.slides.outputs.count }}
-          SLIDE_ARGS=""
+          REPO="horror5how/beyond-elevation"
+          BRANCH="main"
+          BASE_URL="https://raw.githubusercontent.com/${REPO}/${BRANCH}/instagram-queue/slides/rendered"
+          URLS=""
           for i in $(seq 1 $COUNT); do
-            SLIDE_ARGS="$SLIDE_ARGS /tmp/ig-slides/slide-$i.png"
+            URLS="$URLS ${BASE_URL}/slide-${i}.png"
           done
-          OUTPUT=$(node scripts/instagram-publish.mjs $SLIDE_ARGS 2>&1)
-          ECODE=$?
-          echo "$OUTPUT"
+          echo "Image URLs:"
+          for i in $(seq 1 $COUNT); do
+            echo "  slide $i: ${BASE_URL}/slide-${i}.png"
+          done
+
+          # Run publish script — tee to file so output is visible AND we can extract media_id
+          set +e
+          node scripts/instagram-publish.mjs $URLS 2>&1 | tee /tmp/ig-out.txt
+          ECODE=${PIPESTATUS[0]}
+          set -e
+
+          MEDIA_ID=$(grep '\[ig\] PUBLISHED:' /tmp/ig-out.txt | awk '{print $NF}')
           if [ "$ECODE" != "0" ]; then
-            echo "publish failed with exit $ECODE"
+            echo "--- publish failed with exit $ECODE ---"
             exit 1
           fi
-          MEDIA_ID=$(echo "$OUTPUT" | grep 'PUBLISHED:' | awk '{print $2}')
           echo "media_id=$MEDIA_ID" >> $GITHUB_OUTPUT
           echo "Published media_id: $MEDIA_ID"
 
