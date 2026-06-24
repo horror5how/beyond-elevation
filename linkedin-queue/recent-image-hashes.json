@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c3e3e7ffc3e7b999",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "ai-cut-sdr-ramp-time-40-percent",
-    "ts": "2026-06-23T12:31:21.668Z"
-  },
-  {
     "hash": "c3e3e7ffc1c3ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "automate-decisions-not-tasks",
     "ts": "2026-06-24T13:20:26.829Z"
+  },
+  {
+    "hash": "fff901310775ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-agents-eat-your-margin",
+    "ts": "2026-06-24T15:32:08.963Z"
   }
 ]

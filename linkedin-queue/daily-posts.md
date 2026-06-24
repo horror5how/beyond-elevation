@@ -3,7 +3,7 @@ date: 2026-06-24
 theme: The market is repricing both sides of the AI ledger, patents are becoming investable assets while AI operations finally face hard ROI math.
 generated_at: 2026-06-24T03:02:16Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -115,7 +115,9 @@ Task automation is a feature. Decision automation is the P&L.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-24T15:32:08.963Z
+share_urn: urn:li:share:7475571473554915328
 hook_format: prediction
 cta_goal: follows
 slug: ai-agents-eat-your-margin
