@@ -325,3 +325,4 @@
 2026-06-23 15:45 | urn:li:share:7475212441824657408 | post #5 | ai-content-repurposing-marketing-roi | Content production is 70% faster with AI.  Your marketing team is bottlenecked o
 2026-06-23 17:54 | urn:li:share:7475244848757846016 | Most founders hire a patent attorney. They needed a patent strategist. Here is t
 2026-06-24 07:52 | QUEUED | parallel-licensing-five-ways-ip-2026 | Most founders license their IP once. The smart ones license it five ways simultaneously.
+2026-06-24 07:53 | urn:li:share:7475456007910064128 | Most founders license their IP once. The smart ones license it five ways simulta
