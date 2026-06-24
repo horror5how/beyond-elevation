@@ -3,7 +3,7 @@ date: 2026-06-24
 theme: The market is repricing both sides of the AI ledger, patents are becoming investable assets while AI operations finally face hard ROI math.
 generated_at: 2026-06-24T03:02:16Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -149,7 +149,9 @@ Margin is the moat. Watch the token meter.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-24T18:27:14.279Z
+share_urn: urn:li:share:7475615536031182848
 hook_format: story
 cta_goal: clicks
 slug: ai-sales-prioritization-beats-volume

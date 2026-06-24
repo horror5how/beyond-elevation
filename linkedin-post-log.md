@@ -331,3 +331,4 @@
 2026-06-24 12:57 | QUEUED | gpai-api-liability-august-2026 | OpenAI, Anthropic, and Google have 39 days to file EU AI Act GPAI transparency d
 2026-06-24 13:20 | urn:li:share:7475538329489375232 | post #3 | automate-decisions-not-tasks | Most enterprise AI fails the ROI test.  IBM just admitted most enterprises canno
 2026-06-24 15:32 | urn:li:share:7475571473554915328 | post #4 | ai-agents-eat-your-margin | AI agents will quietly eat your gross margin.  Databricks just grew sales over 8
+2026-06-24 18:27 | urn:li:share:7475615536031182848 | post #5 | ai-sales-prioritization-beats-volume | A sales rep told me AI was killing her quota.  She was drowning in 600 inbound l
