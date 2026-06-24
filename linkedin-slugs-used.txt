@@ -354,3 +354,4 @@ patent-litigation-risk-score-2026
 ai-customer-support-csat-aht
 ai-content-repurposing-marketing-roi
 patent-strategy-consulting-2026
+parallel-licensing-five-ways-ip-2026
