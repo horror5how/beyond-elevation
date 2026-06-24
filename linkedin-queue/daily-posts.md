@@ -3,7 +3,7 @@ date: 2026-06-24
 theme: The market is repricing both sides of the AI ledger, patents are becoming investable assets while AI operations finally face hard ROI math.
 generated_at: 2026-06-24T03:02:16Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ This week the patent world and the AI ops world collided on the same balance she
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-24T10:26:16.299Z
+share_urn: urn:li:share:7475494495841820672
 hook_format: number-led
 cta_goal: follows
 slug: patent-software-asset-class
