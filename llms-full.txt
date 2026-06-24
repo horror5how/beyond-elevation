@@ -3553,3 +3553,21 @@ Startups should protect trade secrets and secure IP ownership agreements before 
 Companies with patents are [10.2x more likely to secure early-stage funding](/blog/posts/patent-strategy-seed-series-a-fundraising/). But patents are the final layer of a 
 
 ---
+
+## Is Your IP Licensable? The 5-Signal Test That Separates Revenue-Generating Patents From Expensive Wall Art
+
+URL: https://beyondelevation.com/blog/posts/is-your-ip-licensable-5-signal-test/
+
+90% of patent portfolios generate zero licensing revenue. Not because the technology is weak, but because the patents were filed for the wrong reasons, with the wrong claims, at the wrong time.
+
+Hayat Amin has reviewed hundreds of IP portfolios over the past decade and says the pattern is always the same: founders assume their patents are licensable because they are granted. That assumption costs them millions in unrealized revenue. The gap between a portfolio that generates recurring royalties and one that collects dust comes down to five measurable signals most founders never check.
+
+Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com). But having patents and having licensable patents are two different things. The [90%+ gross margins on IP licensing](/blog/posts/is-ip-licensing-profitable/) only materialize when the underlying portfolio passes a basic readiness test. Here is that test.
+
+## What Makes IP Licensable?
+
+IP is licensable when a third party needs your patented technology to operate in their market and cannot reasonably design around it. That single condition drives every licensing deal ever signed. If a competitor can achieve the same outcome without touching your claims, your patent has defensive value but zero licensing value.
+
+The distinction matters because most patent attorneys optimize for grant rate, not licensing potential. A narrow claim that sails through prosecution and a broad claim that covers an e
+
+---
