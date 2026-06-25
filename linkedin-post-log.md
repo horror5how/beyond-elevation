@@ -332,3 +332,4 @@
 2026-06-24 13:20 | urn:li:share:7475538329489375232 | post #3 | automate-decisions-not-tasks | Most enterprise AI fails the ROI test.  IBM just admitted most enterprises canno
 2026-06-24 15:32 | urn:li:share:7475571473554915328 | post #4 | ai-agents-eat-your-margin | AI agents will quietly eat your gross margin.  Databricks just grew sales over 8
 2026-06-24 18:27 | urn:li:share:7475615536031182848 | post #5 | ai-sales-prioritization-beats-volume | A sales rep told me AI was killing her quota.  She was drowning in 600 inbound l
+2026-06-25 10:18 | urn:li:share:7475854909574307840 | post #1 | data-moat-scoring-framework-investors-2026 | The 5-Axis Data Moat Score Investors Run.  Your "data moat" is just marketing no

@@ -3,7 +3,7 @@ date: 2026-06-25
 theme: This batch focuses on how smart operators extract maximum value from their intellectual property and leverage AI for tangible operational gains. From quantifying data moats for investors to deploying AI in finance, HR, and engineering, the through-line is concrete, measurable value creation.
 generated_at: 2026-06-25T07:40:07.706Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content delivers actionable strategies for founders and Seed-Series B op
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-25T10:18:25.338Z
+share_urn: urn:li:share:7475854909574307840
 hook_format: number-led
 cta_goal: comments
 slug: data-moat-scoring-framework-investors-2026

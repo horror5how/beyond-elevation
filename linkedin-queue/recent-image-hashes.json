@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c7213730775ffff",
-    "layout": "c",
-    "accent": "#7a8c6e",
-    "slug": "ai-customer-support-csat-aht",
-    "ts": "2026-06-23T13:42:42.098Z"
-  },
-  {
     "hash": "007effffffff2507",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-sales-prioritization-beats-volume",
     "ts": "2026-06-24T18:27:14.279Z"
+  },
+  {
+    "hash": "2466e7ff81e7ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "data-moat-scoring-framework-investors-2026",
+    "ts": "2026-06-25T10:18:25.338Z"
   }
 ]
