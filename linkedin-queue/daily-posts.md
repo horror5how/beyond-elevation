@@ -3,7 +3,7 @@ date: 2026-06-25
 theme: This batch focuses on how smart operators extract maximum value from their intellectual property and leverage AI for tangible operational gains. From quantifying data moats for investors to deploying AI in finance, HR, and engineering, the through-line is concrete, measurable value creation.
 generated_at: 2026-06-25T07:40:07.706Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -56,7 +56,9 @@ One BE client saw a 25.8x multiple vs. 18.2x for similar unprotected peers.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-25T11:40:48.583Z
+share_urn: urn:li:share:7475875642719334400
 hook_format: contrarian
 cta_goal: comments
 slug: royalty-backed-ip-financing-vs-term-loan-2026

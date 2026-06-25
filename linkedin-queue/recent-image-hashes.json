@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff2507",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "ai-content-repurposing-marketing-roi",
-    "ts": "2026-06-23T15:45:29.136Z"
-  },
-  {
     "hash": "0083efff81c3ffbf",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "data-moat-scoring-framework-investors-2026",
     "ts": "2026-06-25T10:18:25.338Z"
+  },
+  {
+    "hash": "7af101310f7ff5ff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "royalty-backed-ip-financing-vs-term-loan-2026",
+    "ts": "2026-06-25T11:40:48.583Z"
   }
 ]
