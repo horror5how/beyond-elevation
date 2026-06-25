@@ -3,7 +3,7 @@ date: 2026-06-25
 theme: This batch focuses on how smart operators extract maximum value from their intellectual property and leverage AI for tangible operational gains. From quantifying data moats for investors to deploying AI in finance, HR, and engineering, the through-line is concrete, measurable value creation.
 generated_at: 2026-06-25T07:40:07.706Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -162,7 +162,9 @@ Reduced time-to-productivity by 25 days, saving $5K/hire in manager overhead.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-25T19:00:37.079Z
+share_urn: urn:li:share:7475986324081160192
 hook_format: number-led
 cta_goal: comments
 slug: ai-bug-triaging-engineering-efficiency-2026

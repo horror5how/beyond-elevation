@@ -336,3 +336,4 @@
 2026-06-25 11:40 | urn:li:share:7475875642719334400 | post #2 | royalty-backed-ip-financing-vs-term-loan-2026 | Royalty-backed IP financing beats an IP term loan.  Most founders dilute their c
 2026-06-25 13:14 | urn:li:share:7475899116343074816 | post #3 | ai-expense-audit-fraud-detection-2026 | We cut expense audit time 60% with AI.  Manual expense reviews cost your finance
 2026-06-25 15:38 | urn:li:share:7475935505583570944 | post #4 | ai-new-hire-onboarding-efficiency-2026 | My clients boost new hire productivity 30% with AI.  New hires take 90+ days to 
+2026-06-25 19:00 | urn:li:share:7475986324081160192 | post #5 | ai-bug-triaging-engineering-efficiency-2026 | Our AI cut bug resolution time 20%.  Your engineering team wastes 5-10 hours/wee

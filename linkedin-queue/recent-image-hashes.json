@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffff05253d",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "automate-decisions-not-tasks",
-    "ts": "2026-06-24T13:20:26.829Z"
-  },
-  {
     "hash": "fff901310775ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-new-hire-onboarding-efficiency-2026",
     "ts": "2026-06-25T15:38:40.930Z"
+  },
+  {
+    "hash": "3c78101137f5ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "ai-bug-triaging-engineering-efficiency-2026",
+    "ts": "2026-06-25T19:00:37.079Z"
   }
 ]
