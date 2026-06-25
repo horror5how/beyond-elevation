@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0083efff81c3ffbf",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "patent-software-asset-class",
-    "ts": "2026-06-24T10:26:16.299Z"
-  },
-  {
     "hash": "42c3f7ff8181ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "royalty-backed-ip-financing-vs-term-loan-2026",
     "ts": "2026-06-25T11:40:48.583Z"
+  },
+  {
+    "hash": "007effffffff2000",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "ai-expense-audit-fraud-detection-2026",
+    "ts": "2026-06-25T13:14:05.215Z"
   }
 ]

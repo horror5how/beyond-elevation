@@ -334,3 +334,4 @@
 2026-06-24 18:27 | urn:li:share:7475615536031182848 | post #5 | ai-sales-prioritization-beats-volume | A sales rep told me AI was killing her quota.  She was drowning in 600 inbound l
 2026-06-25 10:18 | urn:li:share:7475854909574307840 | post #1 | data-moat-scoring-framework-investors-2026 | The 5-Axis Data Moat Score Investors Run.  Your "data moat" is just marketing no
 2026-06-25 11:40 | urn:li:share:7475875642719334400 | post #2 | royalty-backed-ip-financing-vs-term-loan-2026 | Royalty-backed IP financing beats an IP term loan.  Most founders dilute their c
+2026-06-25 13:14 | urn:li:share:7475899116343074816 | post #3 | ai-expense-audit-fraud-detection-2026 | We cut expense audit time 60% with AI.  Manual expense reviews cost your finance

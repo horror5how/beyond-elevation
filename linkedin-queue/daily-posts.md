@@ -3,7 +3,7 @@ date: 2026-06-25
 theme: This batch focuses on how smart operators extract maximum value from their intellectual property and leverage AI for tangible operational gains. From quantifying data moats for investors to deploying AI in finance, HR, and engineering, the through-line is concrete, measurable value creation.
 generated_at: 2026-06-25T07:40:07.706Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -92,7 +92,9 @@ Clients secure 50-70% LTV at 6-10% self-amortizing rates vs. 20-40% LTV at 8-15%
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-25T13:14:05.215Z
+share_urn: urn:li:share:7475899116343074816
 hook_format: number-led
 cta_goal: comments
 slug: ai-expense-audit-fraud-detection-2026
