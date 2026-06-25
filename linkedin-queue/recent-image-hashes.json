@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42c3f7ff8181ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "balance-sheet-lies-about-ip",
-    "ts": "2026-06-24T11:46:26.769Z"
-  },
-  {
     "hash": "00ffffffff05253d",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-expense-audit-fraud-detection-2026",
     "ts": "2026-06-25T13:14:05.215Z"
+  },
+  {
+    "hash": "42c3efff81c3ffd9",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "ai-new-hire-onboarding-efficiency-2026",
+    "ts": "2026-06-25T15:38:40.930Z"
   }
 ]

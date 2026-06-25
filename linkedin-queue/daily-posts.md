@@ -3,7 +3,7 @@ date: 2026-06-25
 theme: This batch focuses on how smart operators extract maximum value from their intellectual property and leverage AI for tangible operational gains. From quantifying data moats for investors to deploying AI in finance, HR, and engineering, the through-line is concrete, measurable value creation.
 generated_at: 2026-06-25T07:40:07.706Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -127,7 +127,9 @@ One client saved $15K/month, cutting anomaly review time by 75%.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-25T15:38:40.930Z
+share_urn: urn:li:share:7475935505583570944
 hook_format: number-led
 cta_goal: comments
 slug: ai-new-hire-onboarding-efficiency-2026
