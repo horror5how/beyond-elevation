@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff2000",
-    "layout": "a",
-    "accent": "#7a8c6e",
-    "slug": "ai-expense-audit-fraud-detection-2026",
-    "ts": "2026-06-25T13:14:05.215Z"
-  },
-  {
     "hash": "42c3efff81c3ffd9",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-inventory-optimization-cost-reduction",
     "ts": "2026-06-26T15:22:44.545Z"
+  },
+  {
+    "hash": "81ffffffffff2404",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "ai-contract-review-cycle-time-cut",
+    "ts": "2026-06-26T18:21:26.026Z"
   }
 ]

@@ -3,7 +3,7 @@ date: 2026-06-26
 theme: Activating hidden value through strategic IP and AI operations.
 generated_at: 2026-06-26T07:49:56.526Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -155,7 +155,9 @@ One client reduced stockouts by 30% and improved inventory turns by 2.5x.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-26T18:21:26.026Z
+share_urn: urn:li:share:7476338850995343360
 hook_format: number-led
 cta_goal: comments
 slug: ai-contract-review-cycle-time-cut

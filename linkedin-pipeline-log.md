@@ -734,3 +734,5 @@ Post 1: hook_too_long(12w)
 2026-06-26 15:22 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
 2026-06-26 15:22 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=3 < 5) | trying different variant
 2026-06-26 15:22 | li-auto-post | render OK | post #4 | layout=c accent=#d7b086 hash=fff9310103f5ffff minDist=10 attempts=3
+2026-06-26 18:21 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-06-26 18:21 | li-auto-post | render OK | post #5 | layout=a accent=#d7b086 hash=81ffffffffff2404 minDist=6 attempts=2
