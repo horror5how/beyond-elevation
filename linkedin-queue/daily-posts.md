@@ -3,7 +3,7 @@ date: 2026-06-26
 theme: Activating hidden value through strategic IP and AI operations.
 generated_at: 2026-06-26T07:49:56.526Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's posts focus on uncovering and activating untapped value for founders. Th
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-26T10:26:20.794Z
+share_urn: urn:li:share:7476219291474952192
 hook_format: contrarian
 cta_goal: comments
 slug: fractional-cfo-patent-valuation-2026

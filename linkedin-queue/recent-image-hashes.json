@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff901310775ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "ai-agents-eat-your-margin",
-    "ts": "2026-06-24T15:32:08.963Z"
-  },
-  {
     "hash": "f1fd03311133fffd",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-bug-triaging-engineering-efficiency-2026",
     "ts": "2026-06-25T19:00:37.079Z"
+  },
+  {
+    "hash": "7ef3131313f1ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "fractional-cfo-patent-valuation-2026",
+    "ts": "2026-06-26T10:26:20.794Z"
   }
 ]
