@@ -339,3 +339,4 @@
 2026-06-25 19:00 | urn:li:share:7475986324081160192 | post #5 | ai-bug-triaging-engineering-efficiency-2026 | Our AI cut bug resolution time 20%.  Your engineering team wastes 5-10 hours/wee
 2026-06-26 10:26 | urn:li:share:7476219291474952192 | post #1 | fractional-cfo-patent-valuation-2026 | Your CFO just valued your IP at $0.  Most founders let traditional finance teams
 2026-06-26 11:45 | urn:li:share:7476239236401246208 | post #2 | acquirer-ip-due-diligence-missing-items | 73% of acquirers miss critical IP red flags.  Skipping deep IP diligence means b
+2026-06-26 13:08 | urn:li:share:7476260223746383872 | post #3 | ai-product-feature-prioritization-speed | My clients boost feature delivery speed 25% with AI.  Product teams drown in com

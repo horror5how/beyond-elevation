@@ -3,7 +3,7 @@ date: 2026-06-26
 theme: Activating hidden value through strategic IP and AI operations.
 generated_at: 2026-06-26T07:49:56.526Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ One client avoided a $30M post-acquisition IP dispute on a target.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-26T13:08:59.799Z
+share_urn: urn:li:share:7476260223746383872
 hook_format: number-led
 cta_goal: comments
 slug: ai-product-feature-prioritization-speed
