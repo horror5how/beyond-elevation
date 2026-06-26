@@ -3,7 +3,7 @@ date: 2026-06-26
 theme: Activating hidden value through strategic IP and AI operations.
 generated_at: 2026-06-26T07:49:56.526Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One BE client found $18M in unrecognised IP value pre-Series B.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-26T11:45:36.162Z
+share_urn: urn:li:share:7476239236401246208
 hook_format: number-led
 cta_goal: comments
 slug: acquirer-ip-due-diligence-missing-items

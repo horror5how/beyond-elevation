@@ -1,12 +1,5 @@
 [
   {
-    "hash": "f1fd03311133fffd",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "ai-sales-prioritization-beats-volume",
-    "ts": "2026-06-24T18:27:14.279Z"
-  },
-  {
     "hash": "2466e7ff81e7ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "fractional-cfo-patent-valuation-2026",
     "ts": "2026-06-26T10:26:20.794Z"
+  },
+  {
+    "hash": "0062e7ffc3c3ff9f",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "acquirer-ip-due-diligence-missing-items",
+    "ts": "2026-06-26T11:45:36.162Z"
   }
 ]

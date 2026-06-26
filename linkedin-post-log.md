@@ -338,3 +338,4 @@
 2026-06-25 15:38 | urn:li:share:7475935505583570944 | post #4 | ai-new-hire-onboarding-efficiency-2026 | My clients boost new hire productivity 30% with AI.  New hires take 90+ days to 
 2026-06-25 19:00 | urn:li:share:7475986324081160192 | post #5 | ai-bug-triaging-engineering-efficiency-2026 | Our AI cut bug resolution time 20%.  Your engineering team wastes 5-10 hours/wee
 2026-06-26 10:26 | urn:li:share:7476219291474952192 | post #1 | fractional-cfo-patent-valuation-2026 | Your CFO just valued your IP at $0.  Most founders let traditional finance teams
+2026-06-26 11:45 | urn:li:share:7476239236401246208 | post #2 | acquirer-ip-due-diligence-missing-items | 73% of acquirers miss critical IP red flags.  Skipping deep IP diligence means b
