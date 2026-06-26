@@ -340,3 +340,4 @@
 2026-06-26 10:26 | urn:li:share:7476219291474952192 | post #1 | fractional-cfo-patent-valuation-2026 | Your CFO just valued your IP at $0.  Most founders let traditional finance teams
 2026-06-26 11:45 | urn:li:share:7476239236401246208 | post #2 | acquirer-ip-due-diligence-missing-items | 73% of acquirers miss critical IP red flags.  Skipping deep IP diligence means b
 2026-06-26 13:08 | urn:li:share:7476260223746383872 | post #3 | ai-product-feature-prioritization-speed | My clients boost feature delivery speed 25% with AI.  Product teams drown in com
+2026-06-26 15:22 | urn:li:share:7476293881903591424 | post #4 | ai-inventory-optimization-cost-reduction | We cut inventory carrying costs 18% with AI.  Manual forecasting leads to excess

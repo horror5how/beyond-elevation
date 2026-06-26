@@ -367,3 +367,4 @@ ai-new-hire-onboarding-efficiency-2026
 ai-bug-triaging-engineering-efficiency-2026
 acquirer-ip-due-diligence-missing-items
 ai-product-feature-prioritization-speed
+ai-inventory-optimization-cost-reduction

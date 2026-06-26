@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7af101310f7ff5ff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "royalty-backed-ip-financing-vs-term-loan-2026",
-    "ts": "2026-06-25T11:40:48.583Z"
-  },
-  {
     "hash": "007effffffff2000",
     "layout": "a",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-product-feature-prioritization-speed",
     "ts": "2026-06-26T13:08:59.799Z"
+  },
+  {
+    "hash": "fff9310103f5ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-inventory-optimization-cost-reduction",
+    "ts": "2026-06-26T15:22:44.545Z"
   }
 ]

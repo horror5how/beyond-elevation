@@ -3,7 +3,7 @@ date: 2026-06-26
 theme: Activating hidden value through strategic IP and AI operations.
 generated_at: 2026-06-26T07:49:56.526Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ One client cut prioritization time 40% and improved feature adoption by 15%.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-26T15:22:44.545Z
+share_urn: urn:li:share:7476293881903591424
 hook_format: number-led
 cta_goal: comments
 slug: ai-inventory-optimization-cost-reduction
