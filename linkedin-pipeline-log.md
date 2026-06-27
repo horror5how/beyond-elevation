@@ -736,3 +736,8 @@ Post 1: hook_too_long(12w)
 2026-06-26 15:22 | li-auto-post | render OK | post #4 | layout=c accent=#d7b086 hash=fff9310103f5ffff minDist=10 attempts=3
 2026-06-26 18:21 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
 2026-06-26 18:21 | li-auto-post | render OK | post #5 | layout=a accent=#d7b086 hash=81ffffffffff2404 minDist=6 attempts=2
+2026-06-27 06:50 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-06-27 06:50 | li-generate-queue | attempt 1 | API error: both rails failed — anthropic: Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic | gemini: Empty response fro
+2026-06-27 06:51 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-06-27 06:51 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
+2026-06-27 06:51 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
