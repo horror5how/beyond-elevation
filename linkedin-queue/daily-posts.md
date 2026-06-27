@@ -3,7 +3,7 @@ date: 2026-06-27
 theme: This batch focuses on how founders and CEOs can activate their IP for strategic advantage and leverage AI for tangible operational gains, specifically in hiring, marketing, and maintenance.
 generated_at: 2026-06-27T06:50:39.563Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ One client slashed recruiter workload 40%, boosting accepted offers 15%.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-27T14:27:29.836Z
+share_urn: urn:li:share:7476642366452400128
 hook_format: first-person-result
 cta_goal: comments
 slug: ai-ad-campaign-optimization-roas

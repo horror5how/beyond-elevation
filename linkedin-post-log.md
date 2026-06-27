@@ -345,3 +345,4 @@
 2026-06-27 09:32 | urn:li:share:7476568061941116931 | post #1 | patent-litigation-analytics-risk | 60% of lawsuits could be predicted.  Unforeseen patent litigation cripples R&D, 
 2026-06-27 10:58 | urn:li:share:7476589785625591808 | post #2 | patent-strategy-consulting-revenue-focus | Stop paying lawyers for strategy.  Most patent attorneys give legal advice, not 
 2026-06-27 12:08 | urn:li:share:7476607367770513408 | post #3 | ai-candidate-screening-efficiency | My clients cut time-to-hire 30% with AI.  Manual candidate screening bottlenecks
+2026-06-27 14:27 | urn:li:share:7476642366452400128 | post #4 | ai-ad-campaign-optimization-roas | We boost ROAS 25% with AI.  Most ad spend is guesswork. Wasted budget directly i

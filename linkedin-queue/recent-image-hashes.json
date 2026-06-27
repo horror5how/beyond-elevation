@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0062e7ffc3c3ff9f",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "acquirer-ip-due-diligence-missing-items",
-    "ts": "2026-06-26T11:45:36.162Z"
-  },
-  {
     "hash": "42c3e7ffc383ff99",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-candidate-screening-efficiency",
     "ts": "2026-06-27T12:08:25.400Z"
+  },
+  {
+    "hash": "c3c3e7ffc3e7ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "ai-ad-campaign-optimization-roas",
+    "ts": "2026-06-27T14:27:29.836Z"
   }
 ]
