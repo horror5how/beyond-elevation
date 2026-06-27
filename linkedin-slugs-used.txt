@@ -369,3 +369,4 @@ acquirer-ip-due-diligence-missing-items
 ai-product-feature-prioritization-speed
 ai-inventory-optimization-cost-reduction
 ai-contract-review-cycle-time-cut
+patent-litigation-analytics-risk

@@ -3,7 +3,7 @@ date: 2026-06-27
 theme: This batch focuses on how founders and CEOs can activate their IP for strategic advantage and leverage AI for tangible operational gains, specifically in hiring, marketing, and maintenance.
 generated_at: 2026-06-27T06:50:39.563Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's posts arm founders and CEOs with actionable insights across two critical
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-27T09:32:14.123Z
+share_urn: urn:li:share:7476568061941116931
 hook_format: number-led
 cta_goal: comments
 slug: patent-litigation-analytics-risk
