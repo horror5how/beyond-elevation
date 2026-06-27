@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef3131313f1ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "fractional-cfo-patent-valuation-2026",
-    "ts": "2026-06-26T10:26:20.794Z"
-  },
-  {
     "hash": "0062e7ffc3c3ff9f",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "patent-strategy-consulting-revenue-focus",
     "ts": "2026-06-27T10:58:33.431Z"
+  },
+  {
+    "hash": "7ef1300133f5ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "ai-candidate-screening-efficiency",
+    "ts": "2026-06-27T12:08:25.400Z"
   }
 ]

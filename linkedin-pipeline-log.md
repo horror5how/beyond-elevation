@@ -743,3 +743,4 @@ Post 1: hook_too_long(12w)
 2026-06-27 06:51 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
 2026-06-27 09:32 | li-auto-post | render OK | post #1 | layout=c accent=#a87c7c hash=7ef910131ff1ffff minDist=6 attempts=1
 2026-06-27 10:58 | li-auto-post | render OK | post #2 | layout=c accent=#7a8c6e hash=3c7c301713f5ffff minDist=6 attempts=1
+2026-06-27 12:08 | li-auto-post | render OK | post #3 | layout=c accent=#a89968 hash=7ef1300133f5ffff minDist=6 attempts=1

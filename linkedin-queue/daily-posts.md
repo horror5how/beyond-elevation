@@ -3,7 +3,7 @@ date: 2026-06-27
 theme: This batch focuses on how founders and CEOs can activate their IP for strategic advantage and leverage AI for tangible operational gains, specifically in hiring, marketing, and maintenance.
 generated_at: 2026-06-27T06:50:39.563Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ Our clients see 2-4x higher IP-driven exit multiples.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-27T12:08:25.400Z
+share_urn: urn:li:share:7476607367770513408
 hook_format: first-person-result
 cta_goal: comments
 slug: ai-candidate-screening-efficiency

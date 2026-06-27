@@ -371,3 +371,4 @@ ai-inventory-optimization-cost-reduction
 ai-contract-review-cycle-time-cut
 patent-litigation-analytics-risk
 patent-strategy-consulting-revenue-focus
+ai-candidate-screening-efficiency

@@ -344,3 +344,4 @@
 2026-06-26 18:21 | urn:li:share:7476338850995343360 | post #5 | ai-contract-review-cycle-time-cut | My clients slash contract review time 50% with AI.  Legal bottlenecks slow sales
 2026-06-27 09:32 | urn:li:share:7476568061941116931 | post #1 | patent-litigation-analytics-risk | 60% of lawsuits could be predicted.  Unforeseen patent litigation cripples R&D, 
 2026-06-27 10:58 | urn:li:share:7476589785625591808 | post #2 | patent-strategy-consulting-revenue-focus | Stop paying lawyers for strategy.  Most patent attorneys give legal advice, not 
+2026-06-27 12:08 | urn:li:share:7476607367770513408 | post #3 | ai-candidate-screening-efficiency | My clients cut time-to-hire 30% with AI.  Manual candidate screening bottlenecks
