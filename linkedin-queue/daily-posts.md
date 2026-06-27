@@ -3,7 +3,7 @@ date: 2026-06-27
 theme: This batch focuses on how founders and CEOs can activate their IP for strategic advantage and leverage AI for tangible operational gains, specifically in hiring, marketing, and maintenance.
 generated_at: 2026-06-27T06:50:39.563Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -155,7 +155,9 @@ Our clients see a 15-20% cut in CPA within 90 days.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-27T17:54:02.802Z
+share_urn: urn:li:share:7476694346923180032
 hook_format: first-person-result
 cta_goal: comments
 slug: ai-predictive-maintenance-cost-cut

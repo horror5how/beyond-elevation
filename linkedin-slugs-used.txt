@@ -373,3 +373,4 @@ patent-litigation-analytics-risk
 patent-strategy-consulting-revenue-focus
 ai-candidate-screening-efficiency
 ai-ad-campaign-optimization-roas
+ai-predictive-maintenance-cost-cut

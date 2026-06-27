@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42c3e7ffc383ff99",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ai-product-feature-prioritization-speed",
-    "ts": "2026-06-26T13:08:59.799Z"
-  },
-  {
     "hash": "fff9310103f5ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-ad-campaign-optimization-roas",
     "ts": "2026-06-27T14:27:29.836Z"
+  },
+  {
+    "hash": "3c70111133f4ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "ai-predictive-maintenance-cost-cut",
+    "ts": "2026-06-27T17:54:02.802Z"
   }
 ]
