@@ -3,7 +3,7 @@ date: 2026-06-27
 theme: This batch focuses on how founders and CEOs can activate their IP for strategic advantage and leverage AI for tangible operational gains, specifically in hiring, marketing, and maintenance.
 generated_at: 2026-06-27T06:50:39.563Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One client avoided a $14M lawsuit by shifting a feature in 72 hours.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-27T10:58:33.431Z
+share_urn: urn:li:share:7476589785625591808
 hook_format: contrarian
 cta_goal: comments
 slug: patent-strategy-consulting-revenue-focus

@@ -343,3 +343,4 @@
 2026-06-26 15:22 | urn:li:share:7476293881903591424 | post #4 | ai-inventory-optimization-cost-reduction | We cut inventory carrying costs 18% with AI.  Manual forecasting leads to excess
 2026-06-26 18:21 | urn:li:share:7476338850995343360 | post #5 | ai-contract-review-cycle-time-cut | My clients slash contract review time 50% with AI.  Legal bottlenecks slow sales
 2026-06-27 09:32 | urn:li:share:7476568061941116931 | post #1 | patent-litigation-analytics-risk | 60% of lawsuits could be predicted.  Unforeseen patent litigation cripples R&D, 
+2026-06-27 10:58 | urn:li:share:7476589785625591808 | post #2 | patent-strategy-consulting-revenue-focus | Stop paying lawyers for strategy.  Most patent attorneys give legal advice, not 
