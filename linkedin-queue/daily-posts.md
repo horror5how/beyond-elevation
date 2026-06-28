@@ -3,7 +3,7 @@ date: 2026-06-28
 theme: Today's theme focuses on how founders can quantify and activate hidden value in their businesses. We cover how investors score defensibility via data moats and how to use IP for non-dilutive financing. For AI operations, we dive into specific, hands-on applications to cut costs in procurement, boost internal knowledge efficiency, and predict customer churn with hard numbers.
 generated_at: 2026-06-28T07:48:58.422Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -90,7 +90,9 @@ Secure 2x more non-dilutive capital at better rates and zero equity dilution.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-28T12:15:05.878Z
+share_urn: urn:li:share:7476971435622748160
 hook_format: number-led
 cta_goal: comments
 slug: ai-supplier-negotiation-cost-cut

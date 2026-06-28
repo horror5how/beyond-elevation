@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef910131ff1ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "patent-litigation-analytics-risk",
-    "ts": "2026-06-27T09:32:14.123Z"
-  },
-  {
     "hash": "3c7c301713f5ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "royalty-backed-ip-financing-vs-term-loan-rates",
     "ts": "2026-06-28T11:09:15.288Z"
+  },
+  {
+    "hash": "fff1110133f1ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-supplier-negotiation-cost-cut",
+    "ts": "2026-06-28T12:15:05.878Z"
   }
 ]

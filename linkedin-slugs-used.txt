@@ -375,3 +375,4 @@ ai-candidate-screening-efficiency
 ai-ad-campaign-optimization-roas
 ai-predictive-maintenance-cost-cut
 royalty-backed-ip-financing-vs-term-loan-rates
+ai-supplier-negotiation-cost-cut
