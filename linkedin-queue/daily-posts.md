@@ -3,7 +3,7 @@ date: 2026-06-28
 theme: Today's theme focuses on how founders can quantify and activate hidden value in their businesses. We cover how investors score defensibility via data moats and how to use IP for non-dilutive financing. For AI operations, we dive into specific, hands-on applications to cut costs in procurement, boost internal knowledge efficiency, and predict customer churn with hard numbers.
 generated_at: 2026-06-28T07:48:58.422Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -125,7 +125,9 @@ One client saved $2.4M on COGS in 9 months, with 3x faster contract cycles.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-28T14:47:06.599Z
+share_urn: urn:li:share:7477009690346913793
 hook_format: first-person-result
 cta_goal: comments
 slug: ai-internal-knowledge-efficiency
