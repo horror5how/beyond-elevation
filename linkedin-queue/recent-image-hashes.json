@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff9310103f5ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "ai-inventory-optimization-cost-reduction",
-    "ts": "2026-06-26T15:22:44.545Z"
-  },
-  {
     "hash": "81ffffffffff2404",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-predictive-maintenance-cost-cut",
     "ts": "2026-06-27T17:54:02.802Z"
+  },
+  {
+    "hash": "3c7603771775ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "data-moat-scoring-framework-investors",
+    "ts": "2026-06-28T10:07:14.256Z"
   }
 ]
