@@ -351,3 +351,4 @@
 2026-06-28 11:09 | urn:li:share:7476954865366233088 | post #2 | royalty-backed-ip-financing-vs-term-loan-rates | Royalty-backed IP financing beats an IP term loan.  Most founders dilute their c
 2026-06-28 12:15 | urn:li:share:7476971435622748160 | post #3 | ai-supplier-negotiation-cost-cut | We cut supplier costs 15% with AI.  Your procurement team leaves millions on the
 2026-06-28 14:47 | urn:li:share:7477009690346913793 | post #4 | ai-internal-knowledge-efficiency | Our AI cut internal query time 70%.  Teams waste 5-10 hours weekly searching for
+2026-06-28 17:57 | urn:li:share:7477057714817363968 | post #5 | ai-customer-churn-prediction-retention | AI cut our customer churn 12% in 90 days.  Losing customers costs 5x more than a

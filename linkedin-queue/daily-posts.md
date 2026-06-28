@@ -3,7 +3,7 @@ date: 2026-06-28
 theme: Today's theme focuses on how founders can quantify and activate hidden value in their businesses. We cover how investors score defensibility via data moats and how to use IP for non-dilutive financing. For AI operations, we dive into specific, hands-on applications to cut costs in procurement, boost internal knowledge efficiency, and predict customer churn with hard numbers.
 generated_at: 2026-06-28T07:48:58.422Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -160,7 +160,9 @@ Saved 1,200 hours/month across 100 employees, boosting ESAT 15 points.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-28T17:57:56.476Z
+share_urn: urn:li:share:7477057714817363968
 hook_format: number-led
 cta_goal: comments
 slug: ai-customer-churn-prediction-retention

@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef1300133f5ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "ai-candidate-screening-efficiency",
-    "ts": "2026-06-27T12:08:25.400Z"
-  },
-  {
     "hash": "c3c3e7ffc3e7ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-internal-knowledge-efficiency",
     "ts": "2026-06-28T14:47:06.599Z"
+  },
+  {
+    "hash": "7ef131310371ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "ai-customer-churn-prediction-retention",
+    "ts": "2026-06-28T17:57:56.476Z"
   }
 ]
