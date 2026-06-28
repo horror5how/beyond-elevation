@@ -12,7 +12,8 @@
 - Slides: 6
 
 ## 2026-06-28T23:27:33Z
-- Pillar: The Human Edge in the Age of AI
-- Status: FAILED
+- Pillar: Human Purpose of Work
+- Status: FAILED — TOKEN EXPIRED (error 190)
 - Media ID: n/a
 - Slides: 6
+- Note: IG token expired 2026-06-25. Slides rendered OK. Pipeline works. Token must be renewed in workflow YAML + env secrets.
