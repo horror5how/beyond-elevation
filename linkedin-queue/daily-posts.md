@@ -3,7 +3,7 @@ date: 2026-06-28
 theme: Today's theme focuses on how founders can quantify and activate hidden value in their businesses. We cover how investors score defensibility via data moats and how to use IP for non-dilutive financing. For AI operations, we dive into specific, hands-on applications to cut costs in procurement, boost internal knowledge efficiency, and predict customer churn with hard numbers.
 generated_at: 2026-06-28T07:48:58.422Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -55,7 +55,9 @@ Startups with this score see 25.8x multiples, vs 18.2x without.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-28T11:09:15.288Z
+share_urn: urn:li:share:7476954865366233088
 hook_format: contrarian
 cta_goal: comments
 slug: royalty-backed-ip-financing-vs-term-loan-rates

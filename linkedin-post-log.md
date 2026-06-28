@@ -348,3 +348,4 @@
 2026-06-27 14:27 | urn:li:share:7476642366452400128 | post #4 | ai-ad-campaign-optimization-roas | We boost ROAS 25% with AI.  Most ad spend is guesswork. Wasted budget directly i
 2026-06-27 17:54 | urn:li:share:7476694346923180032 | post #5 | ai-predictive-maintenance-cost-cut | My clients cut downtime 18% with AI.  Unexpected equipment failure costs 10x mor
 2026-06-28 10:07 | urn:li:share:7476939258436608000 | post #1 | data-moat-scoring-framework-investors | The 5-Axis Data Moat Score Investors Run.  Your "data moat" is just marketing no
+2026-06-28 11:09 | urn:li:share:7476954865366233088 | post #2 | royalty-backed-ip-financing-vs-term-loan-rates | Royalty-backed IP financing beats an IP term loan.  Most founders dilute their c

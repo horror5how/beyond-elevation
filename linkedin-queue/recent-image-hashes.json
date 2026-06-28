@@ -1,12 +1,5 @@
 [
   {
-    "hash": "81ffffffffff2404",
-    "layout": "a",
-    "accent": "#d7b086",
-    "slug": "ai-contract-review-cycle-time-cut",
-    "ts": "2026-06-26T18:21:26.026Z"
-  },
-  {
     "hash": "7ef910131ff1ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "data-moat-scoring-framework-investors",
     "ts": "2026-06-28T10:07:14.256Z"
+  },
+  {
+    "hash": "00ffffffff2d2d25",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "royalty-backed-ip-financing-vs-term-loan-rates",
+    "ts": "2026-06-28T11:09:15.288Z"
   }
 ]
