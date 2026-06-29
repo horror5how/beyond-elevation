@@ -378,3 +378,4 @@ royalty-backed-ip-financing-vs-term-loan-rates
 ai-supplier-negotiation-cost-cut
 ai-internal-knowledge-efficiency
 ai-customer-churn-prediction-retention
+patent-family-licensing-revenue-gap-2026

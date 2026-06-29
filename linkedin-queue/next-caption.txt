@@ -1,21 +1,19 @@
-OpenAI, Anthropic, and Google have 39 days to file EU AI Act GPAI transparency disclosures.
+You filed the patent. You didn't build the moat.
 
-If they miss it, products built on their APIs could be classified high-risk by association.
+A single patent is one wall.
 
-Most founders building on these APIs have no idea this touches them.
+A patent family — continuations, divisions, CIPs — is a toll booth network.
 
-Your risk classification is tied to your provider's compliance status.
+68% of startup patents have no continuation strategy.
 
-If your provider is not transparent about training data, you inherit the liability.
+Patent families generate 3.4x more licensing leverage than singles.
 
-Three steps before August 2:
+Each granted patent adds an average $850K to your next fundraise.
 
-Document which model version you use.
+You spent $15K on the first filing.
 
-Map which high-risk use cases your product enables.
+You left $2M in licensing on the table by stopping there.
 
-Get written EU AI Act compliance confirmation from your provider.
+One patent is a story. A patent family is a revenue line.
 
-Do not let your provider's paperwork become your fine.
-
-#EUAIAct #AIStrategy #AICompliance
+#IPStrategy #PatentLicensing #StartupIP
