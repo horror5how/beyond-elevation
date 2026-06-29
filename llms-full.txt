@@ -3639,3 +3639,21 @@ A trade secret audit is a systematic process that identifies, documents, values,
 The reason is structural. The Defend Trade Secrets Act (DTSA) and state-level Uniform Trade Secrets Act (UTSA) protect any information that derives economic value from secrecy and is subject to reasonable protective measures. Model weights, hyperparameter configurations, training data curatio
 
 ---
+
+## Patent Portfolio Valuation: Your IP Is Worth 5x More Than Individual Patent Math Says
+
+URL: https://beyondelevation.com/blog/posts/patent-portfolio-valuation-cluster-premium/
+
+Most founders value their patent portfolio the same way they count inventory: one item at a time, then add up the total. That arithmetic is wrong by a factor of 5x.
+
+Patent portfolio valuation is not a summation exercise. It is a structural analysis. A single patent protecting one feature is worth one price. Seven patents clustered around a core technology are worth something fundamentally different, because the cluster creates a wall that competitors cannot walk around one claim at a time.
+
+Hayat Amin, who has run patent portfolio valuations across AI, SaaS, and deep-tech companies for [Beyond Elevation](https://beyondelevation.com), argues the distinction costs founders millions: "I have seen founders walk into term sheets with $700K in individual patent valuations when the portfolio was worth $5M. The difference is the cluster premium, and no patent attorney will calculate it because they do not think in portfolio terms."
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But the jump from holding patents to holding a strategically valued portfolio is where the real leverage sits. This post breaks down patent portfolio valuation: what it is, why individual math fails, how investors price portfolios, and the framework that captures the cluster premium most founders leave on the table.
+
+## What Is Patent Portfolio Valuation and Why Does It Matter?
+
+Patent portfolio valuation is the process of determining the total economic value of a company's entir
+
+---

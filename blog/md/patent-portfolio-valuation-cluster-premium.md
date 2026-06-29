@@ -3,7 +3,7 @@ title: "Patent Portfolio Valuation: Your IP Is Worth 5x More Than Individual Pat
 slug: patent-portfolio-valuation-cluster-premium
 date: 2026-06-29
 url: https://beyondelevation.com/blog/posts/patent-portfolio-valuation-cluster-premium/
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -75,6 +75,20 @@ Getting patent portfolio valuation right before a fundraise or exit is not optio
 
 Beyond Elevation runs patent portfolio valuations for AI, SaaS, and deep-tech companies preparing for fundraising rounds, M&A exits, and [IP-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/). Book a portfolio review at [beyondelevation.com](https://beyondelevation.com) and find out whether your IP is priced at what it is worth or what your attorney told you it cost.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-portfolio-valuation-cluster-premium)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much is a typical patent portfolio worth?
@@ -92,3 +106,6 @@ Founders should get a portfolio valuation 6-12 months before any fundraising rou
 ### Does patent portfolio size matter more than patent quality?
 
 Quality beats quantity every time. Seven high-quality patents clustered around a core technology area are worth more than 30 scattered patents covering unrelated features. The cluster premium rewards depth of coverage in a specific area, not breadth across many areas. File fewer patents, but file them in strategic clusters that close design-around paths.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
