@@ -1,6 +1,9 @@
 name: Instagram Relay Post
 
 on:
+  push:
+    paths:
+      - 'instagram-trigger/config.json'
   workflow_dispatch:
     inputs:
       slug:
@@ -10,7 +13,7 @@ on:
         description: 'Instagram access token'
         required: true
       ig_id:
-        description: 'Instagram business account ID'
+        description: 'Override IG business ID'
         required: false
         default: '17841422274109557'
       ig_repo:
@@ -21,30 +24,56 @@ on:
 jobs:
   post:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Load config from file or inputs
+        id: config
+        run: |
+          if [ -f instagram-trigger/config.json ]; then
+            echo "Loading from instagram-trigger/config.json"
+            SLUG=$(python3 -c "import json; d=json.load(open('instagram-trigger/config.json')); print(d['slug'])")
+            IG_TOKEN=$(python3 -c "import json; d=json.load(open('instagram-trigger/config.json')); print(d['ig_token'])")
+            IG_ID=$(python3 -c "import json; d=json.load(open('instagram-trigger/config.json')); print(d.get('ig_id','17841422274109557'))")
+            IG_REPO=$(python3 -c "import json; d=json.load(open('instagram-trigger/config.json')); print(d.get('ig_repo','horror5how/ig-assets'))")
+          else
+            SLUG="${{ github.event.inputs.slug }}"
+            IG_TOKEN="${{ github.event.inputs.ig_token }}"
+            IG_ID="${{ github.event.inputs.ig_id || '17841422274109557' }}"
+            IG_REPO="${{ github.event.inputs.ig_repo || 'horror5how/ig-assets' }}"
+          fi
+          echo "slug=${SLUG}" >> $GITHUB_OUTPUT
+          echo "ig_id=${IG_ID}" >> $GITHUB_OUTPUT
+          echo "ig_repo=${IG_REPO}" >> $GITHUB_OUTPUT
+          # Store token securely in env file
+          echo "IG_TOKEN=${IG_TOKEN}" >> $GITHUB_ENV
+          echo "Slug: ${SLUG}, IG_ID: ${IG_ID}, Repo: ${IG_REPO}"
+
       - name: Post carousel to Instagram
         id: post
         env:
-          IG_TOKEN: ${{ github.event.inputs.ig_token }}
-          IG_ID: ${{ github.event.inputs.ig_id }}
-          SLUG: ${{ github.event.inputs.slug }}
-          IG_REPO: ${{ github.event.inputs.ig_repo }}
+          SLUG: ${{ steps.config.outputs.slug }}
+          IG_ID: ${{ steps.config.outputs.ig_id }}
+          IG_REPO: ${{ steps.config.outputs.ig_repo }}
         run: |
           GRAPH="https://graph.facebook.com/v23.0"
 
           # Validate token
           TOKEN_CHECK=$(curl -s "${GRAPH}/me?access_token=${IG_TOKEN}")
-          echo "Token check: $TOKEN_CHECK"
           if echo "$TOKEN_CHECK" | python3 -c "import json,sys; d=json.load(sys.stdin); exit(1 if 'error' in d else 0)" 2>/dev/null; then
-            echo "Token is valid"
+            echo "Token valid: $(echo $TOKEN_CHECK | python3 -c "import json,sys; print(json.load(sys.stdin).get('id',''))")" 
           else
-            echo "ERROR: Token invalid — $TOKEN_CHECK"
+            echo "ERROR: Token invalid"
             exit 1
           fi
 
           # Fetch caption
           CAPTION=$(curl -sf "https://raw.githubusercontent.com/${IG_REPO}/main/posts/${SLUG}/caption.txt")
-          echo "Caption length: ${#CAPTION}"
+          echo "Caption: ${CAPTION:0:80}..."
           if [ -z "$CAPTION" ]; then
             echo "ERROR: Could not fetch caption"
             exit 1
@@ -56,17 +85,17 @@ jobs:
             URL="https://raw.githubusercontent.com/${IG_REPO}/main/posts/${SLUG}/slide_${i}.png"
             HTTP=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
             if [ "$HTTP" = "200" ]; then
-              echo "Processing slide $i"
+              echo "Creating container for slide $i"
               RESP=$(curl -s -X POST "${GRAPH}/${IG_ID}/media" \
                 --data-urlencode "image_url=${URL}" \
                 --data-urlencode "is_carousel_item=true" \
                 --data-urlencode "access_token=${IG_TOKEN}")
-              echo "Slide $i response: $RESP"
               if echo "$RESP" | python3 -c "import json,sys; d=json.load(sys.stdin); exit(0 if 'id' in d else 1)" 2>/dev/null; then
                 ID=$(echo "$RESP" | python3 -c "import json,sys; print(json.load(sys.stdin)['id'])")
                 CHILD_IDS="${CHILD_IDS}${CHILD_IDS:+,}${ID}"
+                echo "Slide $i: container ID ${ID}"
               else
-                echo "ERROR: Failed to create child container for slide $i"
+                echo "ERROR on slide $i: $RESP"
                 exit 1
               fi
             else
@@ -74,11 +103,9 @@ jobs:
             fi
           done
 
-          echo "Child IDs: $CHILD_IDS"
-          SLIDE_COUNT=$(echo "$CHILD_IDS" | tr ',' '\n' | wc -l)
-          echo "Total slides: $SLIDE_COUNT"
+          echo "Total slides: $(echo $CHILD_IDS | tr ',' '\n' | wc -l)"
           if [ -z "$CHILD_IDS" ]; then
-            echo "ERROR: No slides found for $SLUG"
+            echo "ERROR: No slides found"
             exit 1
           fi
 
@@ -88,40 +115,48 @@ jobs:
             --data-urlencode "children=${CHILD_IDS}" \
             --data-urlencode "caption=${CAPTION}" \
             --data-urlencode "access_token=${IG_TOKEN}")
-          echo "Carousel container: $CAROUSEL"
           CAROUSEL_ID=$(echo "$CAROUSEL" | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('id',''))" 2>/dev/null)
+          echo "Carousel container ID: $CAROUSEL_ID"
           if [ -z "$CAROUSEL_ID" ]; then
-            echo "ERROR: Failed to create carousel container"
+            echo "ERROR: $CAROUSEL"
             exit 1
           fi
 
-          # Wait for media processing
           sleep 8
 
           # Publish
           PUB=$(curl -s -X POST "${GRAPH}/${IG_ID}/media_publish" \
             --data-urlencode "creation_id=${CAROUSEL_ID}" \
             --data-urlencode "access_token=${IG_TOKEN}")
-          echo "Publish response: $PUB"
           MEDIA_ID=$(echo "$PUB" | python3 -c "import json,sys; d=json.load(sys.stdin); print(d.get('id',''))" 2>/dev/null)
           if [ -z "$MEDIA_ID" ]; then
-            echo "ERROR: Failed to publish carousel"
+            echo "ERROR publishing: $PUB"
             exit 1
           fi
 
-          echo "SUCCESS: Published media_id=${MEDIA_ID}"
+          echo "SUCCESS: media_id=${MEDIA_ID}"
           echo "media_id=${MEDIA_ID}" >> $GITHUB_OUTPUT
+
+      - name: Clean up trigger config
+        if: always()
+        run: |
+          if [ -f instagram-trigger/config.json ]; then
+            git config user.name "hayat@beyondelevation.com"
+            git config user.email "hayat@beyondelevation.com"
+            git rm instagram-trigger/config.json
+            git commit -m "cleanup: remove instagram trigger config"
+            git push origin main
+          fi
 
       - name: Summary
         if: always()
         run: |
           if [ -n "${{ steps.post.outputs.media_id }}" ]; then
             echo "### Instagram carousel posted" >> $GITHUB_STEP_SUMMARY
-            echo "- Slug: ${{ github.event.inputs.slug }}" >> $GITHUB_STEP_SUMMARY
-            echo "- Media ID: ${{ steps.post.outputs.media_id }}" >> $GITHUB_STEP_SUMMARY
-            echo "- Profile: https://www.instagram.com/itshayatamin/" >> $GITHUB_STEP_SUMMARY
+            echo "- **Slug**: ${{ steps.config.outputs.slug }}" >> $GITHUB_STEP_SUMMARY
+            echo "- **Media ID**: ${{ steps.post.outputs.media_id }}" >> $GITHUB_STEP_SUMMARY
+            echo "- **Profile**: https://www.instagram.com/itshayatamin/" >> $GITHUB_STEP_SUMMARY
           else
-            echo "### Instagram posting FAILED" >> $GITHUB_STEP_SUMMARY
-            echo "- Slug: ${{ github.event.inputs.slug }}" >> $GITHUB_STEP_SUMMARY
-            echo "- Check the logs for details" >> $GITHUB_STEP_SUMMARY
+            echo "### Posting FAILED" >> $GITHUB_STEP_SUMMARY
+            echo "- **Slug**: ${{ steps.config.outputs.slug }}" >> $GITHUB_STEP_SUMMARY
           fi
