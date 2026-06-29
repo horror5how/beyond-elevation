@@ -241,5 +241,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [EU AI Act Compliance Checklist: 8 IP Steps Every AI Company Must Complete Before August 2, 2026](https://beyondelevation.com/blog/posts/eu-ai-act-compliance-checklist-august-2026/) — /blog/md/eu-ai-act-compliance-checklist-august-2026.md
 - [IP Protection Priority for Startups: The Filing Order That Saves Founders $200K](https://beyondelevation.com/blog/posts/ip-protection-priority-startups-filing-order/) — /blog/md/ip-protection-priority-startups-filing-order.md
 - [Is Your IP Licensable? The 5-Signal Test That Separates Revenue-Generating Patents From Expensive Wall Art](https://beyondelevation.com/blog/posts/is-your-ip-licensable-5-signal-test/) — /blog/md/is-your-ip-licensable-5-signal-test.md
+- [IP Defensibility Beats Growth in 2026: The 25.8x vs 18.2x Gap That Repriced Every AI Startup](https://beyondelevation.com/blog/posts/ip-defensibility-beats-growth-2026/) — /blog/md/ip-defensibility-beats-growth-2026.md
 
 > Full blog content available at /llms-full.txt

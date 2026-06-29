@@ -3,7 +3,7 @@ title: "IP Defensibility Beats Growth in 2026: The 25.8x vs 18.2x Gap That Repri
 slug: ip-defensibility-beats-growth-2026
 date: 2026-06-29
 url: https://beyondelevation.com/blog/posts/ip-defensibility-beats-growth-2026/
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -81,6 +81,20 @@ The practical steps are direct:
 
 Hayat Amin says the founders who close the IP defensibility gap before the raise outperform by 15-20% on valuation. The founders who raise first and audit later leave that premium on the table permanently. [Book a Beyond Elevation IP defensibility assessment](https://beyondelevation.com) to close the gap before your next raise.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-defensibility-beats-growth-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is IP defensibility in the context of startup valuations?
@@ -102,3 +116,6 @@ Yes. Seed-stage AI startups with documented IP and a data moat command roughly 2
 ### How is IP defensibility different from having patents?
 
 Having patents is one component of IP defensibility, but investors score the full stack: patent clustering depth, proprietary data exclusivity, trade secret programs, regulatory compliance, and IP revenue generation. A single patent with no supporting defensibility infrastructure scores low. A clustered patent portfolio with active licensing revenue and documented trade secrets scores high.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
