@@ -243,5 +243,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Is Your IP Licensable? The 5-Signal Test That Separates Revenue-Generating Patents From Expensive Wall Art](https://beyondelevation.com/blog/posts/is-your-ip-licensable-5-signal-test/) — /blog/md/is-your-ip-licensable-5-signal-test.md
 - [IP Defensibility Beats Growth in 2026: The 25.8x vs 18.2x Gap That Repriced Every AI Startup](https://beyondelevation.com/blog/posts/ip-defensibility-beats-growth-2026/) — /blog/md/ip-defensibility-beats-growth-2026.md
 - [How to License Your Data to AI Companies: The 5-Step Playbook Worth 7 Figures](https://beyondelevation.com/blog/posts/how-to-license-data-to-ai-companies/) — /blog/md/how-to-license-data-to-ai-companies.md
+- [The EU AI Act August 2026 Deadline Is a Valuation Event, Not a Compliance Chore: The 9-Point High-Risk Classification Checklist](https://beyondelevation.com/blog/posts/eu-ai-act-august-2026-deadline-checklist/) — /blog/md/eu-ai-act-august-2026-deadline-checklist.md
 
 > Full blog content available at /llms-full.txt
