@@ -380,3 +380,4 @@ ai-internal-knowledge-efficiency
 ai-customer-churn-prediction-retention
 patent-family-licensing-revenue-gap-2026
 data-accounting-recognition-balance-sheet-2026
+ai-governance-framework-licensing-revenue-2026
