@@ -248,5 +248,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Patent Portfolio Valuation: Your IP Is Worth 5x More Than Individual Patent Math Says](https://beyondelevation.com/blog/posts/patent-portfolio-valuation-cluster-premium/) — /blog/md/patent-portfolio-valuation-cluster-premium.md
 - [SaaS IP Valuation in 2026: Why the Same Revenue Gets a 4x or 15x Multiple](https://beyondelevation.com/blog/posts/saas-ip-valuation-framework-2026/) — /blog/md/saas-ip-valuation-framework-2026.md
 - [The IP Audit Checklist: 7 Steps That Find $500K in Hidden Assets and Fix the Gaps That Kill Deals](https://beyondelevation.com/blog/posts/ip-audit-checklist-hidden-assets/) — /blog/md/ip-audit-checklist-hidden-assets.md
+- [IP Insurance: The Missing Layer That Turns a $200K Patent Portfolio Into a $10M Enforcement Machine](https://beyondelevation.com/blog/posts/ip-insurance-patent-enforcement-startups/) — /blog/md/ip-insurance-patent-enforcement-startups.md
 
 > Full blog content available at /llms-full.txt

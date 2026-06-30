@@ -2,8 +2,8 @@
 title: "IP Insurance: The Missing Layer That Turns a $200K Patent Portfolio Into a $10M Enforcement Machine"
 slug: ip-insurance-patent-enforcement-startups
 date: 2026-06-30
-url: https://beyondelevation.com/blog/post.html?slug=ip-insurance-patent-enforcement-startups
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-insurance-patent-enforcement-startups/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -87,6 +87,20 @@ Third, the team uses the enforcement coverage as a negotiation tool in licensing
 
 For a free IP portfolio assessment that includes insurance readiness scoring, visit [beyondelevation.com](https://beyondelevation.com).
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-insurance-patent-enforcement-startups)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can startups get IP insurance or is it only for large companies?
@@ -108,3 +122,6 @@ Major IP insurance providers include BlueIron (patent-focused, startup-friendly)
 ### What is the difference between IP insurance and IP indemnification?
 
 IP insurance is a standalone policy you purchase from an insurer. IP indemnification is a contractual obligation where one party agrees to cover the other's IP-related losses, typically found in licensing agreements, SaaS contracts, and M&A purchase agreements. Insurance pays regardless of who is at fault. Indemnification depends on the counterparty's willingness and ability to pay. Smart founders carry both.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
