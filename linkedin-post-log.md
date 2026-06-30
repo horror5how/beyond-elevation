@@ -361,3 +361,4 @@
 2026-06-30 11:45 | urn:li:share:7477688876468318208 | post #2 | qualcomm-licensing-margin | Qualcomm earns $5.6B a year doing nothing.  That is licensing revenue. Patents i
 2026-06-30 12:52 | urn:li:share:7477705691630075904 | Your pitch deck has revenue. Headcount. Burn rate.  It doesn't have these 3.  1.
 2026-06-30 13:08 | urn:li:share:7477709678756585472 | post #3 | ai-scope-not-failing | Enterprise AI is not failing. Your scope is.  Wedbush just warned that missing R
+2026-06-30 15:25 | urn:li:share:7477744045088292864 | post #4 | agentic-chains-leverage | Single-prompt AI is the wrong unit of work.  The money is in chaining the handof

@@ -3,7 +3,7 @@ date: 2026-06-30
 theme: Hidden enterprise value is quantifiable on both sides of the house: founders should price patents as balance-sheet assets and license them like Qualcomm, while operators win with AI by scoping narrow, chaining the handoffs people drop, and concentrating senior judgment instead of chasing broad transformation.
 generated_at: 2026-06-30T04:00:00Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -129,7 +129,9 @@ Pick one painful process. Quantify it. Ship it.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-06-30T15:25:10.402Z
+share_urn: urn:li:share:7477744045088292864
 hook_format: listicle
 cta_goal: follows
 slug: agentic-chains-leverage
