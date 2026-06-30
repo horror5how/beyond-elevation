@@ -356,3 +356,4 @@
 2026-06-29 07:57 | urn:li:share:7477268888649539584 | Your data is doing revenue. Your balance sheet says $0.  That gap costs you at e
 2026-06-29 12:54 | urn:li:share:7477343801917861888 | 34 days until EU AI Act enforcement.  Most founders are paying lawyers to comply
 2026-06-29 17:54 | urn:li:share:7477419158171758592 | You just offered an exclusive license.  That decision cost you $3.2M in uncaptur
+2026-06-30 07:53 | urn:li:share:7477630283178127360 | You need 18 months of IP licensing history before an M&A exit.  Most founders st
