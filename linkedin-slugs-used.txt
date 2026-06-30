@@ -382,3 +382,4 @@ patent-family-licensing-revenue-gap-2026
 data-accounting-recognition-balance-sheet-2026
 ai-governance-framework-licensing-revenue-2026
 exclusive-vs-nonexclusive-patent-license-2026
+ip-licensing-18-month-ma-rule-2026
