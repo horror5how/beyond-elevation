@@ -3,7 +3,7 @@ date: 2026-06-30
 theme: Hidden enterprise value is quantifiable on both sides of the house: founders should price patents as balance-sheet assets and license them like Qualcomm, while operators win with AI by scoping narrow, chaining the handoffs people drop, and concentrating senior judgment instead of chasing broad transformation.
 generated_at: 2026-06-30T04:00:00Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -169,7 +169,9 @@ One agent doing one task is a demo. A chain is leverage.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-06-30T18:27:16.440Z
+share_urn: urn:li:share:7477789872146255873
 hook_format: prediction
 cta_goal: clicks
 slug: ai-cuts-juniors-not-seniors

@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff1110133f1ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "ai-supplier-negotiation-cost-cut",
-    "ts": "2026-06-28T12:15:05.878Z"
-  },
-  {
     "hash": "007effffffff2505",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "agentic-chains-leverage",
     "ts": "2026-06-30T15:25:10.402Z"
+  },
+  {
+    "hash": "c3e3e7ffc3e7ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "ai-cuts-juniors-not-seniors",
+    "ts": "2026-06-30T18:27:16.440Z"
   }
 ]
