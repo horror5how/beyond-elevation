@@ -3,7 +3,7 @@ date: 2026-06-30
 theme: Hidden enterprise value is quantifiable on both sides of the house: founders should price patents as balance-sheet assets and license them like Qualcomm, while operators win with AI by scoping narrow, chaining the handoffs people drop, and concentrating senior judgment instead of chasing broad transformation.
 generated_at: 2026-06-30T04:00:00Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Hidden enterprise value is quantifiable on both sides of the house. On IP, the w
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-06-30T10:34:32.285Z
+share_urn: urn:li:share:7477670904521539584
 hook_format: contrarian
 cta_goal: follows
 slug: patents-draft-not-value

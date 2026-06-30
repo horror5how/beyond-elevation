@@ -357,3 +357,4 @@
 2026-06-29 12:54 | urn:li:share:7477343801917861888 | 34 days until EU AI Act enforcement.  Most founders are paying lawyers to comply
 2026-06-29 17:54 | urn:li:share:7477419158171758592 | You just offered an exclusive license.  That decision cost you $3.2M in uncaptur
 2026-06-30 07:53 | urn:li:share:7477630283178127360 | You need 18 months of IP licensing history before an M&A exit.  Most founders st
+2026-06-30 10:34 | urn:li:share:7477670904521539584 | post #1 | patents-draft-not-value | AI can draft your patent. It cannot value it.  VCs just put $40M into Solve Inte

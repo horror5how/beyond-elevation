@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c3c3e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "ai-ad-campaign-optimization-roas",
-    "ts": "2026-06-27T14:27:29.836Z"
-  },
-  {
     "hash": "3c70111133f4ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-customer-churn-prediction-retention",
     "ts": "2026-06-28T17:57:56.476Z"
+  },
+  {
+    "hash": "fff070110ff5ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "patents-draft-not-value",
+    "ts": "2026-06-30T10:34:32.285Z"
   }
 ]
