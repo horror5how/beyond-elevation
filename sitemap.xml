@@ -140,6 +140,18 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/saas-ip-valuation-framework-2026/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>SaaS IP Valuation in 2026: Why the Same Revenue Gets a 4x or 15x Multiple</image:title>
+      <image:caption>SaaS IP Valuation in 2026: Why the Same Revenue Gets a 4x or 15x Multiple — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/saas-ip-valuation-framework-2026/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/ip-defensibility-beats-growth-2026/</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>

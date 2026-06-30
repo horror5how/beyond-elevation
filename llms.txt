@@ -246,5 +246,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The EU AI Act August 2026 Deadline Is a Valuation Event, Not a Compliance Chore: The 9-Point High-Risk Classification Checklist](https://beyondelevation.com/blog/posts/eu-ai-act-august-2026-deadline-checklist/) — /blog/md/eu-ai-act-august-2026-deadline-checklist.md
 - [The Trade Secret Audit That Finds $2M in Hidden IP Inside Every AI Company](https://beyondelevation.com/blog/posts/trade-secret-audit-ai-companies-2026/) — /blog/md/trade-secret-audit-ai-companies-2026.md
 - [Patent Portfolio Valuation: Your IP Is Worth 5x More Than Individual Patent Math Says](https://beyondelevation.com/blog/posts/patent-portfolio-valuation-cluster-premium/) — /blog/md/patent-portfolio-valuation-cluster-premium.md
+- [SaaS IP Valuation in 2026: Why the Same Revenue Gets a 4x or 15x Multiple](https://beyondelevation.com/blog/posts/saas-ip-valuation-framework-2026/) — /blog/md/saas-ip-valuation-framework-2026.md
 
 > Full blog content available at /llms-full.txt
