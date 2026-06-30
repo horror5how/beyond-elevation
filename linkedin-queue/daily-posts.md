@@ -3,7 +3,7 @@ date: 2026-06-30
 theme: Hidden enterprise value is quantifiable on both sides of the house: founders should price patents as balance-sheet assets and license them like Qualcomm, while operators win with AI by scoping narrow, chaining the handoffs people drop, and concentrating senior judgment instead of chasing broad transformation.
 generated_at: 2026-06-30T04:00:00Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -55,7 +55,9 @@ Stop optimizing filing speed. Optimize claim coverage.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-06-30T11:45:57.558Z
+share_urn: urn:li:share:7477688876468318208
 hook_format: number-led
 cta_goal: clicks
 slug: qualcomm-licensing-margin

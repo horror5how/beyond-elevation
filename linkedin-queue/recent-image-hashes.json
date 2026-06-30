@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c70111133f4ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "ai-predictive-maintenance-cost-cut",
-    "ts": "2026-06-27T17:54:02.802Z"
-  },
-  {
     "hash": "3c7603771775ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "patents-draft-not-value",
     "ts": "2026-06-30T10:34:32.285Z"
+  },
+  {
+    "hash": "c3c3e7ff81c3ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "qualcomm-licensing-margin",
+    "ts": "2026-06-30T11:45:57.558Z"
   }
 ]
