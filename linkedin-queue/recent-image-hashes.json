@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c7603771775ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "data-moat-scoring-framework-investors",
-    "ts": "2026-06-28T10:07:14.256Z"
-  },
-  {
     "hash": "00ffffffff2d2d25",
     "layout": "a",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "qualcomm-licensing-margin",
     "ts": "2026-06-30T11:45:57.558Z"
+  },
+  {
+    "hash": "40ffffffff682525",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-scope-not-failing",
+    "ts": "2026-06-30T13:08:36.860Z"
   }
 ]

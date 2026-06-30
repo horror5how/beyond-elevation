@@ -3,7 +3,7 @@ date: 2026-06-30
 theme: Hidden enterprise value is quantifiable on both sides of the house: founders should price patents as balance-sheet assets and license them like Qualcomm, while operators win with AI by scoping narrow, chaining the handoffs people drop, and concentrating senior judgment instead of chasing broad transformation.
 generated_at: 2026-06-30T04:00:00Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -91,7 +91,9 @@ One licensing line can reprice the entire cap table.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-06-30T13:08:36.860Z
+share_urn: urn:li:share:7477709678756585472
 hook_format: frame-break
 cta_goal: dms
 slug: ai-scope-not-failing
