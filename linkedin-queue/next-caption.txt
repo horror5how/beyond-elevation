@@ -1,15 +1,19 @@
-You need 18 months of IP licensing history before an M&A exit.
+Your pitch deck has revenue. Headcount. Burn rate.
 
-Most founders start 6 months out.
+It doesn't have these 3.
 
-Acquirers apply a 12–24 month lookback window to classify income as recurring.
+1. Total addressable licensing market — how big the royalty pool is in your sector
 
-One quarter of royalty income is a one-time item.
+2. IP monetisation rate — what % of your portfolio is generating income vs sitting dormant
 
-Three years of it is a revenue line worth 2.4× your EBITDA multiple.
+3. Implied royalty ARR — the recurring revenue your IP could show at Series B pricing
 
-We've seen founders leave £5M on the table because they activated their patents 8 months too late.
+VCs at growth stage now run a parallel IP diligence track.
 
-The window to change this is now — not when the buyer is in the room.
+Founders who show these 3 numbers close at 23% higher pre-money valuations in IP-intensive sectors.
 
-#IPStrategy #ExitPlanning #IPLicensing
+Most founders learn this number exists at due diligence.
+
+By then it is too late to change it.
+
+#IPStrategy #StartupValuation #VentureCapital

@@ -385,3 +385,4 @@ exclusive-vs-nonexclusive-patent-license-2026
 ip-licensing-18-month-ma-rule-2026
 patents-draft-not-value
 qualcomm-licensing-margin
+three-ip-numbers-missing-pitch-deck-2026
