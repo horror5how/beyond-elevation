@@ -1,19 +1,19 @@
-Your pitch deck has revenue. Headcount. Burn rate.
+Each patent you file adds $1M to your next fundraising round.
 
-It doesn't have these 3.
+BlueIron tracked 1,000+ companies.
 
-1. Total addressable licensing market — how big the royalty pool is in your sector
+That is the average uplift in subsequent-round valuation per patent filed.
 
-2. IP monetisation rate — what % of your portfolio is generating income vs sitting dormant
+VCs are not paying for the legal document.
 
-3. Implied royalty ARR — the recurring revenue your IP could show at Series B pricing
+They are paying for the signal that your moat cannot be replicated overnight.
 
-VCs at growth stage now run a parallel IP diligence track.
+IP-audited companies command a median 25.8x revenue multiple.
 
-Founders who show these 3 numbers close at 23% higher pre-money valuations in IP-intensive sectors.
+The unaudited peer gets 18.2x.
 
-Most founders learn this number exists at due diligence.
+That 40% gap is the cost of treating IP as a legal fee.
 
-By then it is too late to change it.
+File before the round. Not during diligence. By then it is priced in against you.
 
-#IPStrategy #StartupValuation #VentureCapital
+#IPStrategy #StartupFunding #VentureCapital
