@@ -24,3 +24,9 @@
 - Slug: fractional-risk-reversal-20260629
 - Media ID: n/a
 - Note: Token EAASS...ZD still expired (same token as June 28 failure). Token expired 2026-06-25. Must be renewed at developers.facebook.com before any post can go live. Both instagram-post.yml and instagram-relay.yml hardcode the same expired token.
+
+## 2026-06-30T06:21:14Z
+- Pillar: The Human Edge in the Age of AI
+- Status: FAILED
+- Media ID: n/a
+- Slides: 6
