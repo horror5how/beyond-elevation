@@ -359,3 +359,4 @@
 2026-06-30 07:53 | urn:li:share:7477630283178127360 | You need 18 months of IP licensing history before an M&A exit.  Most founders st
 2026-06-30 10:34 | urn:li:share:7477670904521539584 | post #1 | patents-draft-not-value | AI can draft your patent. It cannot value it.  VCs just put $40M into Solve Inte
 2026-06-30 11:45 | urn:li:share:7477688876468318208 | post #2 | qualcomm-licensing-margin | Qualcomm earns $5.6B a year doing nothing.  That is licensing revenue. Patents i
+2026-06-30 12:52 | urn:li:share:7477705691630075904 | Your pitch deck has revenue. Headcount. Burn rate.  It doesn't have these 3.  1.
