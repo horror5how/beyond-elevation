@@ -13,7 +13,7 @@ Nine out of ten startup IP portfolios fail the same diagnostic. Hayat Amin runs 
 
 Companies with patents are 10.2x more likely to secure early-stage funding. But that number only works when the IP strategy behind the filings is sound. A broken strategy burns cash, wastes management time, and creates false confidence that collapses under investor scrutiny.
 
-These nine IP strategy mistakes cluster into three stages: filing, ownership, and monetization. Fix all nine and your portfolio stops being a cost center and starts compounding your valuation. Here are the nine errors that Hayat Amin's IP Health Diagnostic surfaces most often, organized by the stage where they do the most damage, with the specific fix for each one.
+These nine IP strategy mistakes cluster into three stages: filing, ownership, and monetization. Fix all nine and your portfolio stops being a cost center and starts compounding your valuation. Here are the nine errors that the IP Health Diagnostic surfaces most often, organized by the stage where they do the most damage, with the specific fix for each one.
 
 ## What IP Strategy Mistakes Happen at the Filing Stage?
 
@@ -47,11 +47,11 @@ Monetization-stage IP strategy mistakes represent pure opportunity cost. Every m
 
 ## How Does the Hayat Amin IP Health Diagnostic Work?
 
-The Hayat Amin IP Health Diagnostic is a 9-point scoring system that Beyond Elevation runs on every new client portfolio. Each of the nine mistakes above maps to a pass/fail criterion. Score 7 or above and your portfolio is investor-grade. Score below 5 and you are carrying IP debt that will surface during your next fundraise or M&A process.
+The diagnostic is a 9-point scoring system that Beyond Elevation runs on every new client portfolio. Each of the nine mistakes above maps to a pass/fail criterion. Score 7 or above and your portfolio is investor-grade. Score below 5 and you are carrying IP debt that will surface during your next fundraise or M&A process.
 
 The diagnostic covers three dimensions. Filing fitness asks three binary questions: did you file before your investor conversations? Did you select innovations by competitive distance, not by attorney convenience? Do you have a documented trade secret program? Ownership integrity asks three more: are all IP assignments signed and current? Is strategy set by a strategist, not just an attorney? Do you have filings in your key international markets? Monetization readiness completes the picture: have you valued your IP independently? Are your data assets inventoried and protected? Have you mapped your licensing opportunity?
 
-Hayat Amin reminds founders that an IP portfolio is not a trophy case. It is a financial instrument. The nine mistakes above are the same nine errors that surface in the first hour of every Beyond Elevation engagement. The founders who fix them early build portfolios that compound. The founders who ignore them discover the problem at the worst possible time: during diligence, during a board meeting, or when a competitor's cease-and-desist letter arrives.
+An IP portfolio is not a trophy case. It is a financial instrument. The nine mistakes above are the same nine errors that surface in the first hour of every Beyond Elevation engagement. The founders who fix them early build portfolios that compound. The founders who ignore them discover the problem at the worst possible time: during diligence, during a board meeting, or when a competitor's cease-and-desist letter arrives.
 
 Book an [IP strategy audit with Beyond Elevation](https://beyondelevation.com) to find your score before someone else finds it for you.
 
