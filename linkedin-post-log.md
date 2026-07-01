@@ -364,3 +364,4 @@
 2026-06-30 15:25 | urn:li:share:7477744045088292864 | post #4 | agentic-chains-leverage | Single-prompt AI is the wrong unit of work.  The money is in chaining the handof
 2026-06-30 17:54 | urn:li:share:7477781652820131840 | Each patent you file adds $1M to your next fundraising round.  BlueIron tracked 
 2026-06-30 18:27 | urn:li:share:7477789872146255873 | post #5 | ai-cuts-juniors-not-seniors | Ford just hired 350 gray-beard engineers on purpose.  Not despite AI. Because of
+2026-07-01 07:51 | urn:li:share:7477992349814484992 | Most founders raise a bridge round when they need 18 months of runway.  The bett
