@@ -2,8 +2,8 @@
 title: "Generative AI IP Strategy: 93% of Founders Protect the Wrong Asset (Here Is the Decision Tree That Fixes It)"
 slug: generative-ai-ip-strategy-decision-tree
 date: 2026-07-01
-url: https://beyondelevation.com/blog/post.html?slug=generative-ai-ip-strategy-decision-tree
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/generative-ai-ip-strategy-decision-tree/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -83,6 +83,20 @@ High-risk AI classification under Annex III requires documented model provenance
 
 Hayat Amin showed one AI client how their existing trade-secret register, built for IP protection, satisfied 6 of the 9 EU AI Act high-risk documentation requirements. The remaining 3 took two weeks to complete. Their competitor, who had no IP documentation, spent four months and 180,000 pounds building compliance from scratch. Generative AI IP strategy is not just about protection. It is about operational efficiency at scale.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-generative-ai-ip-strategy-decision-tree)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the most valuable IP asset in a generative AI company?
@@ -104,3 +118,6 @@ Yes. Companies with patents are 10.2x more likely to secure early-stage funding.
 ### How does the [trade secret vs patent decision](/blog/posts/trade-secret-protection-ai-models/) differ for generative AI versus traditional software?
 
 Traditional software companies patent algorithms and trade-secret source code. Generative AI companies face a unique split: the model itself (weights, training data, RLHF) is almost entirely trade-secret territory because patents require disclosure that would destroy the asset's value. Only the application layer and novel pipeline methods belong in the patent column. This reversal is why standard patent-attorney advice fails for gen AI companies.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

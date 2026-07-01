@@ -3749,3 +3749,23 @@ Document the infringement with detailed claim charts before you contact anyone, 
 A claim chart maps every element of your patent claims to specific features of the infringer's product or service. This is not a casual comparison. It requires reading your granted claims word by word, identifying the specific product feature that practices each cla
 
 ---
+
+## Generative AI IP Strategy: 93% of Founders Protect the Wrong Asset (Here Is the Decision Tree That Fixes It)
+
+URL: https://beyondelevation.com/blog/posts/generative-ai-ip-strategy-decision-tree/
+
+93% of generative AI startups will fail to protect their most valuable asset. Not because they skipped the patent attorney. Because they hired one too early and patented the wrong thing.
+
+Hayat Amin sees this pattern every quarter at [Beyond Elevation](https://beyondelevation.com). A generative AI founder walks in with three provisional patents on model architecture. The patents cost $45,000. The model weights, training data, and fine-tuning recipes sitting on an unencrypted S3 bucket with no trade-secret protections? Worth $15 million. Unprotected.
+
+That gap between what founders patent and what actually drives their valuation is the core problem a generative AI IP strategy solves.
+
+Here is the decision tree that sorts every asset in your stack into the right protection bucket before your next raise.
+
+## What Is Generative AI IP Strategy and Why Is It Different?
+
+Generative AI IP strategy is the process of classifying every asset in a gen AI stack into three protection categories: patent, trade secret, or open-source. It differs from traditional AI IP because generative AI companies face unique challenges: model weights fail most patent tests, training data rights sit in legal gray zones, and the open-source decision directly shapes your moat.
+
+Traditional AI IP advice says "patent your innovations." For generative AI, that advice is dangerously incomplete. A language model's value lives in layers that patents cannot reach: the curated training corpus, the RLHF reward signal
+
+---
