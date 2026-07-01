@@ -140,6 +140,18 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-strategy-mistakes-startup-valuation/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>9 IP Strategy Mistakes That Cost Startups 40% of Their Valuation</image:title>
+      <image:caption>9 IP Strategy Mistakes That Cost Startups 40% of Their Valuation — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/ip-strategy-mistakes-startup-valuation/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/saas-ip-valuation-framework-2026/</loc>
     <lastmod>2026-06-30</lastmod>
     <changefreq>monthly</changefreq>
