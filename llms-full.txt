@@ -3729,3 +3729,23 @@ The three most destructive IP strategy mistakes at the filing stage are filing t
 **Mistake 1: Filing patents after the term sheet.** Most founders treat patent filing as a post-fundraise task. Hayat Amin argues th
 
 ---
+
+## Most Founders Treat Patent Infringement Like a Legal Problem. It Is a Licensing Opportunity Worth 6 Figures.
+
+URL: https://beyondelevation.com/blog/posts/patent-infringement-licensing-opportunity/
+
+87% of patent holders who discover infringement do nothing. They assume the only options are a $2M lawsuit or looking the other way. Both are wrong.
+
+Hayat Amin argues that patent infringement is the most misunderstood revenue event in IP strategy. "Every founder who catches an infringer sees a legal problem," Hayat Amin says. "What they should see is an unsigned license agreement worth six figures per year."
+
+The data backs this up. Companies that respond to patent infringement with a structured licensing approach convert 40 to 60 percent of infringers into paying licensees. Those that lead with legal threats? Under 15 percent conversion, and they spend 10x more getting there.
+
+This is the 5-step patent infringement response framework [Beyond Elevation](https://beyondelevation.com) uses with clients to turn infringers into recurring revenue.
+
+## What Should You Do First When You Discover Patent Infringement?
+
+Document the infringement with detailed claim charts before you contact anyone, send any letter, or hire any lawyer. The evidence you collect in the first 30 days determines whether you negotiate a six-figure licensing deal or stumble into a three-year legal war that costs more than the deal was ever worth.
+
+A claim chart maps every element of your patent claims to specific features of the infringer's product or service. This is not a casual comparison. It requires reading your granted claims word by word, identifying the specific product feature that practices each cla
+
+---
