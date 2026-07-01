@@ -1,15 +1,19 @@
-Your IP is worth 3x more to a strategic acquirer.
+5 AI companies built moats nobody can copy.
 
-Most founders price it for a financial buyer.
+They didn't do it by shipping features first.
 
-Strategic acquirers pay for market control, not cash flow.
+They did it by filing before anyone else knew what to file.
 
-If your patent blocks a competitor's product line, it's worth the revenue that line would have generated — not just your licensing income.
+Qualcomm: 7,500+ patents on wireless tech. Every competitor pays a toll.
 
-Financial buyers price on DCF. Strategic buyers price on threat elimination.
+OpenAI: exclusive MSFT compute deal + proprietary RLHF stack as a trade secret. No 20-year clock.
 
-Knowing the difference before you enter the LOI room is worth $5-15M.
+Apple: 200+ Face ID algorithm patents. Every Android phone maker pays into it.
 
-Most founders never learn this until the deal is signed.
+DeepMind: AlphaFold patents filed before the model was public. The science is free. The commercial use is not.
 
-#IPStrategy #MergersAndAcquisitions #Valuation
+The common thread: IP before distribution. Not after.
+
+By the time your users show up, your moat should already be filed, registered, or locked.
+
+#IPStrategy #AIStrategy #Patents
