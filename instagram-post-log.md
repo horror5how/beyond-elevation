@@ -36,3 +36,9 @@
 - Status: FAILED — DUAL BLOCK: proxy denies graph.facebook.com (403) + github.com (403)
 - Media ID: n/a
 - Note: Session egress only permits beyond-elevation repo. graph.facebook.com blocked — IG API calls impossible regardless of token. Token also still expired (error 190, same as June 28-29). Action required: (1) renew IG token at developers.facebook.com, (2) run autopilot from an unrestricted environment (local machine, GH Actions on instagram-autopilot repo, or a VPS).
+
+## 2026-07-01T09:38:28Z
+- Pillar: The Human Edge in the Age of AI
+- Status: FAILED
+- Media ID: n/a
+- Slides: 6
