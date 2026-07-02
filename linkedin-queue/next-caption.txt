@@ -1,19 +1,23 @@
-5 AI companies built moats nobody can copy.
+SaaS isn't dying.
 
-They didn't do it by shipping features first.
+The SaaS model with no data moat is.
 
-They did it by filing before anyone else knew what to file.
+AI commoditised the application layer. Your product can be rebuilt in 90 days.
 
-Qualcomm: 7,500+ patents on wireless tech. Every competitor pays a toll.
+Your proprietary training data cannot.
 
-OpenAI: exclusive MSFT compute deal + proprietary RLHF stack as a trade secret. No 20-year clock.
+The SaaS companies holding their multiple all own the same thing. Data nobody else can legally touch.
 
-Apple: 200+ Face ID algorithm patents. Every Android phone maker pays into it.
+The ones compressing to 3-5x don't.
 
-DeepMind: AlphaFold patents filed before the model was public. The science is free. The commercial use is not.
+Three numbers:
 
-The common thread: IP before distribution. Not after.
+25x — valuation multiple for AI startups with a documented data moat. 10-12x without.
 
-By the time your users show up, your moat should already be filed, registered, or locked.
+11% — revenue from data for top performers. 2% for the rest.
 
-#IPStrategy #AIStrategy #Patents
+40% — exit multiple uplift after a completed IP audit.
+
+Your code is a feature. Your data is the moat.
+
+#IPStrategy #AIStrategy #Valuation

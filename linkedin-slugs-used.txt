@@ -393,3 +393,4 @@ ai-cuts-juniors-not-seniors
 patent-licensing-replace-bridge-round-2026
 strategic-vs-financial-acquirer-ip-2026
 five-ai-moat-companies-ip-first-2026
+is-saas-replaced-by-ai-data-moat-2026
