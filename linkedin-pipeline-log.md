@@ -792,3 +792,15 @@ Post 3: hook_too_long(11w)
 Post 4: hook_too_long(10w)
 Post 5: hook_too_long(11w)
 2026-07-01 08:11 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-07-02 07:28 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-02 07:29 | li-generate-queue | attempt 1 | quality gate failed:
+Post 3: hook_too_long(14w)
+Post 4: hook_too_long(13w)
+Post 5: hook_too_long(15w)
+2026-07-02 07:29 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-02 07:29 | li-generate-queue | attempt 2 | quality gate failed:
+Post 3: hook_too_long(10w)
+2026-07-02 07:29 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-02 07:30 | li-generate-queue | attempt 3 | quality gate failed:
+Post 5: hook_too_long(11w)
+2026-07-02 07:30 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
