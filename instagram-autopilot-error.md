@@ -1,29 +1,40 @@
-# Instagram Autopilot — BLOCKED (2026-06-23)
+# Instagram Autopilot — BLOCKED: Expired Token (2026-07-02)
 
-## What happened
+## Status
 
-The scheduled Instagram autopilot run could **not post a carousel** because the cloud execution environment's egress proxy returned **403 (policy denial)** when attempting to clone `https://github.com/horror5how/instagram-autopilot.git`.
+**Carousel slides are ready. Pipeline works. The ONLY blocker is an expired Instagram access token.**
 
-This is not a transient network error. The proxy README explicitly states: *"403/407 from the proxy: The destination host is not allowed by your organization's egress policy for this session. Do not retry or route around it — report the blocked host."*
+## What works
 
-## What was tried
+- GitHub Actions runs (not billing-blocked) ✓
+- Playwright renders all 6 slides from HTML ✓
+- Slides committed to repo CDN (raw.githubusercontent.com) ✓
+- graph.facebook.com reachable from GitHub Actions ✓
+- Caption ready (Human Purpose of Work pillar) ✓
 
-- `git clone https://github.com/horror5how/instagram-autopilot.git` → 403 (attempt 1)
-- Retry after 3 s backoff → 403 (attempt 2)
-- Proxy status check: `github.com` not in allowlist for this session type
-- `list_repos` / `add_repo` MCP tools: not available
-- GitHub MCP: scoped only to `horror5how/beyond-elevation`
+## What is broken
 
-## Result
+The Instagram access token `EAASS...ZD` expired **2026-06-25**. Every run since then fails at the "Publish to Instagram" step with **error 190** (token expired).
 
-**No carousel posted. No media_id. @itshayatamin feed unchanged.**
+Run history: June 28, 29, 30, July 1, July 2 — all FAILED with same expired token. The same token is hardcoded in:
+- `.github/workflows/instagram-post.yml` (env: ACTIVE_IG_TOKEN)
+- `.github/workflows/instagram-relay.yml` (config.json / input)
 
-## How to fix
+## How to fix (one-time, 5 minutes)
 
-Choose one:
-1. **Run from a different environment** that has `github.com` egress — GitHub Actions (on the instagram-autopilot repo itself), your local machine, or a VPS.
-2. **Request egress allowlist update** — ask Anthropic support to add `github.com` to the egress policy for scheduled Claude Code sessions.
-3. **Inline the engine** — copy `cloud/run_cloud.sh` and its dependencies into this repo (`beyond-elevation`) so no cross-repo clone is needed.
+1. Go to **https://developers.facebook.com** → Your App → Tools → Graph API Explorer
+2. Select your Instagram Business account and generate a new **long-lived user token** with scopes: `instagram_basic`, `instagram_content_publish`, `pages_read_engagement`
+3. Update the token in `.github/workflows/instagram-post.yml`:
+   - Find the line: `ACTIVE_IG_TOKEN: EAASSEUy7BCo...`
+   - Replace with the new token
+4. Commit and push → the next autopilot run will post successfully
+
+## What the next run will post
+
+- **Pillar**: Human Purpose of Work
+- **Hook**: "Most people don't quit jobs. They quit feeling like their work matters."
+- **Slides**: 6 slides already rendered and committed
+- **Caption**: See `instagram-queue/next-caption.txt`
 
 ---
-*This file was written by the autopilot run on 2026-06-23 as a failure record. Delete it once the issue is resolved.*
+*Last updated: 2026-07-02 by cloud autopilot session*
