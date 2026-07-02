@@ -369,3 +369,4 @@
 2026-07-01 17:53 | FAIL | proxy-blocked (api.linkedin.com not in egress allowlist) | five-ai-moat-companies-ip-first-2026 | queued via GH Actions
 2026-07-01 17:54 | urn:li:share:7478143888986157056 | 5 AI companies built moats nobody can copy.  They didn't do it by shipping featu
 2026-07-02 07:53 | urn:li:share:7478355038793453568 | SaaS isn't dying.  The SaaS model with no data moat is.  AI commoditised the app
+2026-07-02 12:53 | urn:li:share:7478430604406005762 | You can license your trade secret for recurring revenue.  One missing clause des
