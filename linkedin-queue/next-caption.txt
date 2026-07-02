@@ -1,23 +1,23 @@
-SaaS isn't dying.
+You can license your trade secret for recurring revenue.
 
-The SaaS model with no data moat is.
+One missing clause destroys it permanently.
 
-AI commoditised the application layer. Your product can be rebuilt in 90 days.
+A trade secret only exists while it stays secret.
 
-Your proprietary training data cannot.
+Disclose it without guardrails and courts will rule it public domain.
 
-The SaaS companies holding their multiple all own the same thing. Data nobody else can legally touch.
+The 4 clauses AI labs use to protect trade secrets through licensing:
 
-The ones compressing to 3-5x don't.
+Residuals bar.
 
-Three numbers:
+Destruction clause.
 
-25x — valuation multiple for AI startups with a documented data moat. 10-12x without.
+Indefinite confidentiality obligation.
 
-11% — revenue from data for top performers. 2% for the rest.
+No sublicense provision.
 
-40% — exit multiple uplift after a completed IP audit.
+Miss any one and your algorithm, your training data, your know-how becomes worthless overnight.
 
-Your code is a feature. Your data is the moat.
+Most founders miss all four.
 
-#IPStrategy #AIStrategy #Valuation
+#IPStrategy #Licensing #TradeSecrets
