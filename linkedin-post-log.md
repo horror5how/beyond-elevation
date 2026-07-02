@@ -368,3 +368,4 @@
 2026-07-01 12:52 | urn:li:share:7478068076945682432 | Your IP is worth 3x more to a strategic acquirer.  Most founders price it for a 
 2026-07-01 17:53 | FAIL | proxy-blocked (api.linkedin.com not in egress allowlist) | five-ai-moat-companies-ip-first-2026 | queued via GH Actions
 2026-07-01 17:54 | urn:li:share:7478143888986157056 | 5 AI companies built moats nobody can copy.  They didn't do it by shipping featu
+2026-07-02 07:53 | urn:li:share:7478355038793453568 | SaaS isn't dying.  The SaaS model with no data moat is.  AI commoditised the app
