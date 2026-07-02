@@ -2,8 +2,8 @@
 title: "An IP-Backed Loan Costs $1.08M. The Same Raise as Equity Costs You $20M. The Founder Math Nobody Runs Before Their Next Round"
 slug: ip-backed-loan-vs-equity-dilution-cost
 date: 2026-07-02
-url: https://beyondelevation.com/blog/post.html?slug=ip-backed-loan-vs-equity-dilution-cost
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-backed-loan-vs-equity-dilution-cost/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ From there, Beyond Elevation matches the portfolio to lenders whose criteria fit
 
 Visit [beyondelevation.com](https://beyondelevation.com) to book a capital strategy consultation and run the debt-vs-dilution math on your next raise.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-backed-loan-vs-equity-dilution-cost)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How do I qualify for an IP-backed loan?
@@ -92,3 +106,6 @@ A typical IP-backed loan closes in 60-120 days from initial engagement. Founders
 ### Does Beyond Elevation help with IP-backed financing?
 
 Beyond Elevation's IP-backed financing practice covers patent portfolio valuation, lender matching, term negotiation, and deal structuring. Visit [beyondelevation.com](https://beyondelevation.com) to book a capital strategy consultation.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

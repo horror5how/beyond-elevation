@@ -253,5 +253,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Most Founders Treat Patent Infringement Like a Legal Problem. It Is a Licensing Opportunity Worth 6 Figures.](https://beyondelevation.com/blog/posts/patent-infringement-licensing-opportunity/) — /blog/md/patent-infringement-licensing-opportunity.md
 - [Generative AI IP Strategy: 93% of Founders Protect the Wrong Asset (Here Is the Decision Tree That Fixes It)](https://beyondelevation.com/blog/posts/generative-ai-ip-strategy-decision-tree/) — /blog/md/generative-ai-ip-strategy-decision-tree.md
 - [How Private Equity Firms Value IP: The 5 Levers That Add 20-40% to Your Exit Multiple](https://beyondelevation.com/blog/posts/how-private-equity-values-ip/) — /blog/md/how-private-equity-values-ip.md
+- [An IP-Backed Loan Costs $1.08M. The Same Raise as Equity Costs You $20M. The Founder Math Nobody Runs Before Their Next Round](https://beyondelevation.com/blog/posts/ip-backed-loan-vs-equity-dilution-cost/) — /blog/md/ip-backed-loan-vs-equity-dilution-cost.md
 
 > Full blog content available at /llms-full.txt

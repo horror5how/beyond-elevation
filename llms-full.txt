@@ -3787,3 +3787,21 @@ Private equity firms value IP through the lens of cash flow protection and reven
 VCs treat patents as a signal of innovation and defensibility. PE firms treat them as a financial instrument. A PE buyer runs a relief-from-royalty analysis on your patent p
 
 ---
+
+## An IP-Backed Loan Costs $1.08M. The Same Raise as Equity Costs You $20M. The Founder Math Nobody Runs Before Their Next Round
+
+URL: https://beyondelevation.com/blog/posts/ip-backed-loan-vs-equity-dilution-cost/
+
+A $3M IP-backed loan at 12% over three years costs $1.08M in total interest. Raising the same $3M as equity at a $15M pre-money valuation costs 20% of your company. At a $100M exit, that 20% is $20M. Same capital raised. One option costs 19x more than the other. Hayat Amin runs this IP-backed loan vs equity calculation with every founder who walks into a capital strategy conversation at [Beyond Elevation](https://beyondelevation.com), and the number shocks them every time.
+
+This is the math most founders never see because nobody in the room has an incentive to show it. Your VC wants you to take equity. Your patent attorney does not price capital. The IP-backed loan vs equity comparison never gets made because the people around the table profit from one outcome, not the other.
+
+## Is an IP-Backed Loan Cheaper Than Raising Equity?
+
+Yes. An IP-backed loan is dramatically cheaper than raising equity at every exit scenario above $5M. The total cost of a $3M IP-backed loan is fixed at roughly $1.08M in interest. The total cost of $3M in equity dilution scales with your company's success, reaching $6M at a $30M exit and $20M at a $100M exit.
+
+The math is not close. A typical IP-backed loan runs 8-12% annual interest, repaid over three to five years, with the patent portfolio serving as collateral. The total interest expense is calculable on day one. Equity, by contrast, is a percentage of future value. The better your company performs, the more expensive that equity becomes.
+
+Hayat 
+
+---

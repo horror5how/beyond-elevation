@@ -152,6 +152,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-backed-loan-vs-equity-dilution-cost/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>An IP-Backed Loan Costs $1.08M. The Same Raise as Equity Costs You $20M. The Founder Math Nobody Runs Before Their Next Round</image:title>
+      <image:caption>An IP-Backed Loan Costs $1.08M. The Same Raise as Equity Costs You $20M. The Founder Math Nobody Runs Before Their Next Round — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/ip-backed-loan-vs-equity-dilution-cost/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/ip-strategy-mistakes-startup-valuation/</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -2586,11 +2598,5 @@
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/ip-backed-loan-vs-equity-dilution-cost/</loc>
-    <lastmod>2026-07-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
