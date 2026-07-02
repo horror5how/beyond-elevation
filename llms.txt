@@ -252,5 +252,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [9 IP Strategy Mistakes That Cost Startups 40% of Their Valuation](https://beyondelevation.com/blog/posts/ip-strategy-mistakes-startup-valuation/) — /blog/md/ip-strategy-mistakes-startup-valuation.md
 - [Most Founders Treat Patent Infringement Like a Legal Problem. It Is a Licensing Opportunity Worth 6 Figures.](https://beyondelevation.com/blog/posts/patent-infringement-licensing-opportunity/) — /blog/md/patent-infringement-licensing-opportunity.md
 - [Generative AI IP Strategy: 93% of Founders Protect the Wrong Asset (Here Is the Decision Tree That Fixes It)](https://beyondelevation.com/blog/posts/generative-ai-ip-strategy-decision-tree/) — /blog/md/generative-ai-ip-strategy-decision-tree.md
+- [How Private Equity Firms Value IP: The 5 Levers That Add 20-40% to Your Exit Multiple](https://beyondelevation.com/blog/posts/how-private-equity-values-ip/) — /blog/md/how-private-equity-values-ip.md
 
 > Full blog content available at /llms-full.txt

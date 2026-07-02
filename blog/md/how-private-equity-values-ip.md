@@ -2,8 +2,8 @@
 title: "How Private Equity Firms Value IP: The 5 Levers That Add 20-40% to Your Exit Multiple"
 slug: how-private-equity-values-ip
 date: 2026-07-02
-url: https://beyondelevation.com/blog/post.html?slug=how-private-equity-values-ip
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/how-private-equity-values-ip/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -89,6 +89,20 @@ Three IP failures consistently destroy deal value in PE transactions. Missing IP
 
 **Public disclosure before filing.** Publishing, presenting, or demonstrating an invention before filing a patent application destroys your ability to patent it in most jurisdictions. Outside the United States, any public disclosure before filing is fatal to patentability. Hayat Amin reminds founders that a single conference presentation or GitHub commit can eliminate patent rights worth millions in a PE transaction.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-private-equity-values-ip)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How early should I start preparing IP for a PE exit?
@@ -110,3 +124,6 @@ In AI and data-intensive companies, trade secrets covering model weights, traini
 ### Does Beyond Elevation help companies preparing for PE exits?
 
 Beyond Elevation's pre-exit IP preparation covers patent portfolio audits, claim chart development, trade secret inventory, FTO clearance, licensing revenue modeling, and IP entity structuring. Visit [beyondelevation.com](https://beyondelevation.com) to book a consultation.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

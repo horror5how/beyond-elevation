@@ -3769,3 +3769,21 @@ Generative AI IP strategy is the process of classifying every asset in a gen AI 
 Traditional AI IP advice says "patent your innovations." For generative AI, that advice is dangerously incomplete. A language model's value lives in layers that patents cannot reach: the curated training corpus, the RLHF reward signal
 
 ---
+
+## How Private Equity Firms Value IP: The 5 Levers That Add 20-40% to Your Exit Multiple
+
+URL: https://beyondelevation.com/blog/posts/how-private-equity-values-ip/
+
+Private equity firms acquired over $380 billion in tech assets in 2025. Intangible assets drove more than 90% of the deal value in those transactions. Yet most founders who walk into a PE exit conversation cannot answer the first question PE firms ask: what is your IP actually worth?
+
+Hayat Amin, who has priced IP across multiple PE-backed exits including portfolio restructurings that lifted deal value by eight figures, puts it directly: "PE firms do not buy your product. They buy the defensible cash flows your IP protects. Show up without an IP valuation and they will discount your business 20-40% before the first meeting ends."
+
+The gap between how founders present their IP and how private equity firms value IP is where most exit value disappears. Understanding how PE firms price patents, trade secrets, and proprietary data is the highest-leverage exercise a founder can run before entering an acquisition conversation.
+
+## How Do Private Equity Firms Value IP Differently Than VCs?
+
+Private equity firms value IP through the lens of cash flow protection and revenue generation, not growth potential. Where a VC asks whether your IP will help you scale, a PE firm asks whether your IP will generate predictable, defensible revenue after acquisition. This distinction changes every number in the valuation model.
+
+VCs treat patents as a signal of innovation and defensibility. PE firms treat them as a financial instrument. A PE buyer runs a relief-from-royalty analysis on your patent p
+
+---
