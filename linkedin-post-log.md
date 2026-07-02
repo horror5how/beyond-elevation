@@ -370,3 +370,4 @@
 2026-07-01 17:54 | urn:li:share:7478143888986157056 | 5 AI companies built moats nobody can copy.  They didn't do it by shipping featu
 2026-07-02 07:53 | urn:li:share:7478355038793453568 | SaaS isn't dying.  The SaaS model with no data moat is.  AI commoditised the app
 2026-07-02 12:53 | urn:li:share:7478430604406005762 | You can license your trade secret for recurring revenue.  One missing clause des
+2026-07-02 17:50 | urn:li:share:7478505429627707392 | Raising $3M as equity costs $20M at exit.  Borrowing $3M against your patents co
