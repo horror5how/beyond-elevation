@@ -1,23 +1,19 @@
-You can license your trade secret for recurring revenue.
+Raising $3M as equity costs $20M at exit.
 
-One missing clause destroys it permanently.
+Borrowing $3M against your patents costs $1.08M.
 
-A trade secret only exists while it stays secret.
+Most founders never run this math.
 
-Disclose it without guardrails and courts will rule it public domain.
+They take the equity round.
 
-The 4 clauses AI labs use to protect trade secrets through licensing:
+They lose 20% of the company.
 
-Residuals bar.
+At a $100M exit, that is $20M gone.
 
-Destruction clause.
+A 12% IP-backed loan over 3 years: $1.08M total.
 
-Indefinite confidentiality obligation.
+The same capital. 18x cheaper.
 
-No sublicense provision.
+You already have the collateral sitting in your patents.
 
-Miss any one and your algorithm, your training data, your know-how becomes worthless overnight.
-
-Most founders miss all four.
-
-#IPStrategy #Licensing #TradeSecrets
+#IPStrategy #StartupFinance #FounderPlaybook
