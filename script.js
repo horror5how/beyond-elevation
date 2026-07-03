@@ -12,12 +12,11 @@ const buttons = document.querySelectorAll('.button');
 const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 const codeLines = [
-  '<span class="line-comment">// Most innovative companies are leaking value they should be compounding</span>',
-  '<span class="line-key">scan</span>(<span class="line-value">code</span>, <span class="line-value">data</span>, <span class="line-value">technical_workflows</span>, <span class="line-value">founder_know_how</span>);',
-  '<span class="line-key">extract</span>(<span class="line-value">hidden_enterprise_value</span>);',
-  '<span class="line-key">map</span>(<span class="line-value">strategic_ip</span> -&gt; <span class="line-value">valuation</span>, <span class="line-value">licensing</span>, <span class="line-value">leverage</span>);',
-  '<span class="line-key">install</span>(<span class="line-value">commercial_leverage</span>);',
-  '<span class="line-accent">result:</span> stronger moat, sharper fundraising story, better buyer leverage'
+  '<span class="line-comment">// what you already own</span>',
+  '<span class="line-value">patents</span> + <span class="line-value">data</span> + <span class="line-value">know_how</span>',
+  '<span class="line-comment">// what beyond elevation turns it into</span>',
+  '<span class="line-accent">=</span> <span class="line-value">licensing_revenue</span> + <span class="line-value">higher_valuation</span>',
+  '<span class="line-accent">result:</span> you get paid for what you already built &#10003;'
 ];
 const robotLines = [
   '<span class="ai-code-line"><span class="ai-code-key">industry</span>: <span class="ai-code-industry">Biotech</span> <span class="ai-code-value">drug formula patents</span></span>',
