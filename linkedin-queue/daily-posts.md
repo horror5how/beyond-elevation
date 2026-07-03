@@ -3,7 +3,7 @@ date: 2026-07-03
 theme: Value hides on both sides of the ledger: founders should treat patents and proprietary data as balance-sheet assets with maturity schedules and royalty lines, while operators win with AI by killing vanity accuracy metrics, chaining narrow agents instead of building one smart one, and concentrating senior judgment rather than thinning the org chart evenly.
 generated_at: 2026-07-03T04:00:00Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -83,7 +83,9 @@ Most founders never draw the line because no one told them the archive was inven
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-03T12:54:45.191Z
+share_urn: urn:li:share:7478793353929859072
 hook_format: frame-break
 cta_goal: dms
 slug: ai-roi-cycle-time-not-accuracy

@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff070110ff5ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "patents-draft-not-value",
-    "ts": "2026-06-30T10:34:32.285Z"
-  },
-  {
     "hash": "c3c3e7ff81c3ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "reddit-data-licensing-royalty-line",
     "ts": "2026-07-03T11:34:01.925Z"
+  },
+  {
+    "hash": "42c3e7ffe7c3ff9f",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "ai-roi-cycle-time-not-accuracy",
+    "ts": "2026-07-03T12:54:45.191Z"
   }
 ]
