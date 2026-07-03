@@ -1,8 +1,8 @@
-# Instagram Autopilot — BLOCKED: Expired Token (2026-07-02)
+# Instagram Autopilot — BLOCKED: Expired Token (2026-07-03)
 
 ## Status
 
-**Carousel slides are ready. Pipeline works. The ONLY blocker is an expired Instagram access token.**
+**Carousel slides are ready and rendered. Pipeline works end-to-end. The ONLY blocker is an expired Instagram access token.**
 
 ## What works
 
@@ -16,7 +16,13 @@
 
 The Instagram access token `EAASS...ZD` expired **2026-06-25**. Every run since then fails at the "Publish to Instagram" step with **error 190** (token expired).
 
-Run history: June 28, 29, 30, July 1, July 2 — all FAILED with same expired token. The same token is hardcoded in:
+Confirmed from GH Actions logs (run #28642239781, 2026-07-03T06:14:58Z):
+```
+Error: IG token expired: Session has expired on Thursday, 25-Jun-26 23:32:48 PDT.
+code: 190
+```
+
+Run history: June 28, 29, 30, July 1, 2 (×2), July 3 — all FAILED with same error 190. The same token is hardcoded in:
 - `.github/workflows/instagram-post.yml` (env: ACTIVE_IG_TOKEN)
 - `.github/workflows/instagram-relay.yml` (config.json / input)
 
@@ -27,14 +33,17 @@ Run history: June 28, 29, 30, July 1, July 2 — all FAILED with same expired to
 3. Update the token in `.github/workflows/instagram-post.yml`:
    - Find the line: `ACTIVE_IG_TOKEN: EAASSEUy7BCo...`
    - Replace with the new token
-4. Commit and push → the next autopilot run will post successfully
+4. Commit and push → the next autopilot run will post successfully (slides already rendered)
 
-## What the next run will post
+## What the next run will post (ready to go)
 
 - **Pillar**: Human Purpose of Work
-- **Hook**: "Most people don't quit jobs. They quit feeling like their work matters."
-- **Slides**: 6 slides already rendered and committed
-- **Caption**: See `instagram-queue/next-caption.txt`
+- **Hook**: "AI isn't taking your job. It's exposing which parts actually needed to be human."
+- **Slides**: 6 slides rendered and committed (GH Actions run #28642239781)
+- **Caption**: `instagram-queue/next-caption.txt`
+- **Rendered PNGs**: `instagram-queue/slides/rendered/slide-{1-6}.png`
+
+Once token is renewed, push any change to `instagram-queue/next-caption.txt` or `instagram-queue/slides/slide-1.html` to trigger the workflow automatically.
 
 ---
-*Last updated: 2026-07-02 by cloud autopilot session*
+*Last updated: 2026-07-03 by cloud autopilot session (run #28642239781)*
