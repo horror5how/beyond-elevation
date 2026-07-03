@@ -3873,3 +3873,19 @@ An IP moat assessment is a structured competitive analysis that scores your pate
 Standard IP reviews count your patents, check prosecution
 
 ---
+
+## The IP Capital Stack: How to Fund Growth With Patents Instead of Equity
+
+URL: https://beyondelevation.com/blog/posts/ip-capital-stack-fund-growth-patents/
+
+A founder who raises $3M in equity at a $15M pre-money valuation gives up 20% of their company. At a $100M exit, that 20% costs $20M. The same $3M raised as an IP-backed loan at 12% over 3 years costs $1.08M in total interest. The difference is $18.92M. Hayat Amin argues that most founders never run this math because nobody teaches them the IP capital stack: the layered approach to funding growth with patents, data assets, and licensing revenue instead of selling ownership.
+
+The IP capital stack is not a single financing instrument. It is four layers of non-dilutive capital that compound on each other: IP-backed debt, royalty-backed facilities, active licensing revenue, and data licensing income. Each layer requires a different IP strategy, and most companies leave three of the four untouched because their patent attorneys never mention them and their VCs have no incentive to.
+
+Beyond Elevation has structured IP capital stacks for companies between Series A and pre-exit. The pattern is consistent: founders who build even two layers of the stack retain 15-25% more equity through their growth phase than founders who rely on equity alone. Companies with patents are 10.2x more likely to secure early-stage funding, but the real financial advantage starts when those patents generate capital without dilution.
+
+## What Is an IP Capital Stack?
+
+An IP capital stack is a structured combination of four non-dilutive capital sources, each backed by different intellectual property assets, t
+
+---

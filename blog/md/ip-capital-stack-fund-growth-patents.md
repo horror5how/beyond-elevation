@@ -2,8 +2,8 @@
 title: "The IP Capital Stack: How to Fund Growth With Patents Instead of Equity"
 slug: ip-capital-stack-fund-growth-patents
 date: 2026-07-03
-url: https://beyondelevation.com/blog/post.html?slug=ip-capital-stack-fund-growth-patents
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-capital-stack-fund-growth-patents/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ The sequence matters because of a principle Hayat Amin calls the IP Leverage Mul
 
 [Royalty-backed IP financing versus a term loan](/blog/posts/royalty-backed-ip-financing-vs-term-loan/) covers the Layer 1 vs Layer 2 comparison in detail. For the full capital stack structure and sequencing, [book a consultation with Beyond Elevation](https://beyondelevation.com) to map your IP assets to the four layers and build a 12-month capital stack plan.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-capital-stack-fund-growth-patents)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What types of patents qualify for IP-backed lending?
@@ -94,3 +108,6 @@ Pre-revenue companies can build Layer 1 (IP-backed debt) if they have granted pa
 ### What is the difference between IP-backed debt and royalty-backed financing?
 
 IP-backed debt uses the patent portfolio as static collateral, similar to a mortgage. Royalty-backed financing uses the portfolio's active licensing revenue stream as the repayment source, which allows higher LTV ratios (50-70% versus 20-40%) and lower interest rates (6-10% versus 8-15%). Royalty-backed facilities self-amortize from licensing income, making them structurally cheaper for both borrower and lender.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
