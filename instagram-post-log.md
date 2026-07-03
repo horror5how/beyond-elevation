@@ -61,3 +61,9 @@
 - Media ID: n/a
 - Slides: 6 (already rendered in instagram-queue/slides/rendered/)
 - Note: Same two blockers as 2026-06-30. Token hardcoded in instagram-post.yml line 24. Action required: renew token at developers.facebook.com, then update instagram-post.yml env.ACTIVE_IG_TOKEN.
+
+## 2026-07-03T20:14:41Z
+- Pillar: The Human Edge in the Age of AI
+- Status: FAILED
+- Media ID: n/a
+- Slides: 6
