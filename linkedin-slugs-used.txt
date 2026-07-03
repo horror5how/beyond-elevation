@@ -397,3 +397,4 @@ is-saas-replaced-by-ai-data-moat-2026
 trade-secret-licensing-guardrails-2026
 ip-backed-loan-vs-equity-dilution-cost
 ai-governance-valuation-multiple-2026
+keytruda-patent-maturity-schedule

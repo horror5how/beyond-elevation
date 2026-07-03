@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff2505",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "ai-internal-knowledge-efficiency",
-    "ts": "2026-06-28T14:47:06.599Z"
-  },
-  {
     "hash": "7ef131310371ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-cuts-juniors-not-seniors",
     "ts": "2026-06-30T18:27:16.440Z"
+  },
+  {
+    "hash": "81ffffffffff0000",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "keytruda-patent-maturity-schedule",
+    "ts": "2026-07-03T10:09:18.432Z"
   }
 ]

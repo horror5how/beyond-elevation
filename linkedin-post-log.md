@@ -373,3 +373,4 @@
 2026-07-02 17:50 | urn:li:share:7478505429627707392 | Raising $3M as equity costs $20M at exit.  Borrowing $3M against your patents co
 2026-07-03 07:51 | QUEUED | ai-governance-valuation-multiple-2026 | AI governance is not a compliance cost. It is a pricing lever.
 2026-07-03 07:52 | urn:li:share:7478717243263111170 | AI governance is not a compliance cost.  It is a pricing lever.  One growth-equi
+2026-07-03 10:09 | urn:li:share:7478751717992411136 | post #1 | keytruda-patent-maturity-schedule | Keytruda's core patent stops in 2028. Merck's revenue does not.  More than 100 p
