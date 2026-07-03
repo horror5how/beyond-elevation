@@ -54,3 +54,10 @@
 - Status: FAILED
 - Media ID: n/a
 - Slides: 6
+
+## 2026-07-03T16:05:38Z
+- Pillar: Human Purpose of Work (queued, slides rendered)
+- Status: FAILED — DUAL BLOCK: expired token (error 190, same EAASS...ZD) + graph.facebook.com 403 from session proxy
+- Media ID: n/a
+- Slides: 6 (already rendered in instagram-queue/slides/rendered/)
+- Note: Same two blockers as 2026-06-30. Token hardcoded in instagram-post.yml line 24. Action required: renew token at developers.facebook.com, then update instagram-post.yml env.ACTIVE_IG_TOKEN.
