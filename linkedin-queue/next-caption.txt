@@ -1,13 +1,16 @@
-ChatGPT hallucinated your invention in 2023.
+73% of AI patents are rejected because founders write the claim wrong.
 
-USPTO is using it as prior art to reject your 2026 patent application.
+Not the technology. The words.
 
-AI-generated content is now searchable prior art.
+USPTO §101: "using AI to achieve outcome X" dies before examination starts.
 
-40% of AI software patent applications are receiving first office actions citing LLM outputs.
+Your claim must name a specific improvement to a computer system — not a result.
 
-If you have not filed before the AI training cutoff, you are racing against millions of synthetic disclosures.
+3 elements that turn a rejected AI patent into a licensable asset:
+1. Name the technical mechanism, not the output
+2. Build dependent claims from broad to narrow
+3. Differentiate from prior solutions in the specification
 
-The fix: narrower claims, earlier priority dates, and a prosecution strategy built around the AI prior art problem.
+Wrong claim structure costs $280K on average to fix in litigation.
 
 #IPStrategy #Patents #AI
