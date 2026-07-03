@@ -375,3 +375,4 @@
 2026-07-03 07:52 | urn:li:share:7478717243263111170 | AI governance is not a compliance cost.  It is a pricing lever.  One growth-equi
 2026-07-03 10:09 | urn:li:share:7478751717992411136 | post #1 | keytruda-patent-maturity-schedule | Keytruda's core patent stops in 2028. Merck's revenue does not.  More than 100 p
 2026-07-03 11:34 | urn:li:share:7478773039967485952 | post #2 | reddit-data-licensing-royalty-line | Reddit licenses its comment archive to AI labs for a reported $60M a year at clo
+2026-07-03 12:52 | QUEUED | ai-prior-art-patent-rejection-2026 | ChatGPT hallucinated your invention in 2023.  USPTO is using it as prior art to 
