@@ -13,10 +13,12 @@ const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 const codeLines = [
   '<span class="line-comment">// what you already own</span>',
-  '<span class="line-value">patents</span> + <span class="line-value">data</span> + <span class="line-value">know_how</span>',
-  '<span class="line-comment">// what beyond elevation turns it into</span>',
-  '<span class="line-accent">=</span> <span class="line-value">licensing_revenue</span> + <span class="line-value">higher_valuation</span>',
-  '<span class="line-accent">result:</span> you get paid for what you already built &#10003;'
+  '<span class="line-value">patent_data</span>',
+  '+ <span class="line-value">intellectual_property</span>',
+  '+ <span class="line-value">secret_sauce</span>',
+  '+ <span class="line-value">know_how</span>',
+  '+ <span class="line-value">patents</span>',
+  '<span class="line-accent">=</span> <span class="line-value">licensing_revenue</span> <span class="line-accent">+</span> <span class="line-value">higher_valuation</span>'
 ];
 const robotLines = [
   '<span class="ai-code-line"><span class="ai-code-key">industry</span>: <span class="ai-code-industry">Biotech</span> <span class="ai-code-value">drug formula patents</span></span>',
@@ -150,7 +152,7 @@ function startTyping(targetEl, lines, rich = false) {
       targetEl.innerHTML = rendered.join('<br>');
       currentLine += 1;
       currentChar = 0;
-      setTimeout(typeNext, 220);
+      setTimeout(typeNext, 70);
       return;
     }
 
@@ -159,7 +161,7 @@ function startTyping(targetEl, lines, rich = false) {
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;');
     targetEl.innerHTML = rendered.join('<br>');
-    setTimeout(typeNext, 26 + Math.random() * 18);
+    setTimeout(typeNext, 8 + Math.random() * 8);
   };
 
   if (reduce) {
