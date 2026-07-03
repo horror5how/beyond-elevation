@@ -3855,3 +3855,21 @@ SaaS valuation multiples are dropping because AI has collapsed the cost of build
 The bifurcation is severe. AI-native SaaS companies price at 15x to 30x ARR. Foundation model companies command 35x to 45x. Late-stage AI startups with documented IP and data assets hit a median of 25.8x. The spread be
 
 ---
+
+## The IP Moat Assessment 90% of Founders Get Wrong: How to Score Your Patents Against Competitors in 30 Minutes
+
+URL: https://beyondelevation.com/blog/posts/ip-moat-assessment-competitive-benchmark/
+
+Most IP moat assessments are worthless because they only look at your own portfolio. An IP moat assessment that does not score your patents against your three closest competitors tells you how many patents you have. It does not tell you whether those patents actually block anything.
+
+Hayat Amin argues that this is the single biggest gap in how founders evaluate their IP. "Founders hand me a portfolio of 8 patents and ask if they have a moat," Hayat Amin says. "The answer depends entirely on what the competition has filed. Eight patents against a competitor with two is a fortress. Eight patents against a competitor with forty is a rounding error."
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But funding committees do not count your patents in isolation. They compare your filing position against every other company in your space. The IP moat assessment below is the same 6-axis benchmark Beyond Elevation runs in client engagements to answer the only question that matters: does your portfolio actually create competitive distance?
+
+## What Is an IP Moat Assessment?
+
+An IP moat assessment is a structured competitive analysis that scores your patent portfolio against the portfolios of your direct competitors across six measurable dimensions. The output is a composite score from 0 to 100 that tells you whether your patents create genuine competitive distance or just occupy filing cabinet space.
+
+Standard IP reviews count your patents, check prosecution
+
+---
