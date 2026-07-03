@@ -50,8 +50,8 @@ h1,h2,h3,p,blockquote{margin-top:0}
 .brand > span{display:inline-flex;align-items:center}
 .brand-mark{position:relative;display:inline-block;width:38px;height:38px;background:url('/assets/brand/be-mark-trimmed.webp') no-repeat center center;background-size:contain;color:transparent;font-size:0;border-radius:0;box-shadow:none;animation:none;overflow:visible}
 .brand-mark::after{display:none}
-.hero-headline-split{display:flex !important;flex-direction:column !important;gap:.05em;max-width:none !important;font-size:clamp(1.5rem,6.2vw,4.2rem) !important}
-.hero-headline-split .hero-line{display:block !important;white-space:nowrap}
+.hero-headline-split{display:flex !important;flex-direction:column !important;gap:.12em;max-width:26ch;margin-inline:auto;font-size:clamp(1.4rem,3vw,2.4rem) !important;text-wrap:balance}
+.hero-headline-split .hero-line{display:block !important;white-space:normal}
 .hero-sub-split{display:flex !important;flex-direction:column !important;gap:.15em;max-width:none !important;font-size:clamp(.9rem,2.1vw,1.2rem) !important;text-wrap:balance}
 .hero-sub-split .sub-line{display:block !important;white-space:nowrap}
 @media (max-width:640px){.hero-sub-split .sub-line{white-space:normal}}
