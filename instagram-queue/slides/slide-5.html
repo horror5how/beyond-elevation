@@ -19,33 +19,34 @@
     background: radial-gradient(ellipse at center, rgba(230,185,140,0.18) 0%, transparent 70%);
     pointer-events: none;
   }
-  .number {
-    font-size: 200px; font-weight: 800; color: #f0ede8;
-    line-height: 1; letter-spacing: -0.06em;
-    position: absolute; top: 32px; right: 52px;
-    z-index: 0;
-  }
   .content {
     position: relative; z-index: 1;
     display: flex; flex-direction: column;
     justify-content: space-between;
     height: 100%;
   }
-  .top { flex: 1; display: flex; flex-direction: column; justify-content: center; padding-top: 60px; }
+  .top { flex: 1; display: flex; flex-direction: column; justify-content: center; }
   .label {
     font-size: 11px; font-weight: 700; letter-spacing: 0.18em;
-    color: #d7b086; text-transform: uppercase; margin-bottom: 20px;
+    color: #d7b086; text-transform: uppercase; margin-bottom: 32px;
   }
-  .skill {
-    font-size: 58px; font-weight: 700; line-height: 1.05;
-    letter-spacing: -0.03em; color: #1a1a1a; margin-bottom: 32px;
-    max-width: 760px;
+  .stat-row {
+    display: flex; align-items: flex-end; gap: 0; margin-bottom: 20px;
+  }
+  .stat-big {
+    font-size: 140px; font-weight: 800; line-height: 1;
+    letter-spacing: -0.05em; color: #1a1a1a;
+  }
+  .stat-pct {
+    font-size: 56px; font-weight: 300; color: #d7b086;
+    letter-spacing: -0.03em; margin-bottom: 16px; margin-left: 8px;
   }
   .bar { width: 56px; height: 3px; background: #d7b086; margin-bottom: 32px; }
   .description {
     font-size: 26px; font-weight: 300; line-height: 1.45;
-    color: #2a2a2a; max-width: 720px; letter-spacing: -0.01em;
+    color: #2a2a2a; max-width: 760px; letter-spacing: -0.01em;
   }
+  .description strong { font-weight: 700; color: #1a1a1a; }
   .contrast {
     font-size: 15px; font-weight: 600; color: #4a4a4a;
     letter-spacing: 0.06em; text-transform: uppercase;
@@ -61,14 +62,16 @@
 </style>
 </head>
 <body>
-  <div class="number">04</div>
   <div class="content">
     <div class="top">
-      <div class="label">Sign 04 of 04</div>
-      <div class="skill">Success<br>Without<br>Meaning</div>
+      <div class="label">The honest question</div>
+      <div class="stat-row">
+        <div class="stat-big">80</div>
+        <div class="stat-pct">%</div>
+      </div>
       <div class="bar"></div>
-      <div class="description">The promotions arrived. The salary went up. But Sunday nights still feel heavy and you can't explain why to anyone who hasn't felt it.</div>
-      <div class="contrast">Achievement isn't the same as purpose. The gap between them is where burnout lives.</div>
+      <div class="description">Most people spend <strong>80% of their day</strong> on tasks AI will handle by default inside three years. The ones who thrive are already living in the other <strong>20%</strong> — not because they work harder, but because they know exactly which part only they can do.</div>
+      <div class="contrast">Clarity beats effort. Always has.</div>
     </div>
     <div class="footer">
       <div class="be-wordmark">BE</div>
