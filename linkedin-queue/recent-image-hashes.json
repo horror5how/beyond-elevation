@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c3c3e7ff81c3ff99",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "qualcomm-licensing-margin",
-    "ts": "2026-06-30T11:45:57.558Z"
-  },
-  {
     "hash": "40ffffffff682525",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-roi-cycle-time-not-accuracy",
     "ts": "2026-07-03T12:54:45.191Z"
+  },
+  {
+    "hash": "7efd01130b35ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "chain-narrow-agents-not-one-smart-agent",
+    "ts": "2026-07-03T15:08:48.656Z"
   }
 ]

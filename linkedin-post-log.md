@@ -377,3 +377,4 @@
 2026-07-03 11:34 | urn:li:share:7478773039967485952 | post #2 | reddit-data-licensing-royalty-line | Reddit licenses its comment archive to AI labs for a reported $60M a year at clo
 2026-07-03 12:52 | QUEUED | ai-prior-art-patent-rejection-2026 | ChatGPT hallucinated your invention in 2023.  USPTO is using it as prior art to 
 2026-07-03 12:54 | urn:li:share:7478793353929859072 | post #3 | ai-roi-cycle-time-not-accuracy | Wedbush just warned that missing ROI metrics threaten enterprise AI deployment. 
+2026-07-03 15:08 | urn:li:share:7478827090814058496 | post #4 | chain-narrow-agents-not-one-smart-agent | Klaviyo just shipped two AI agents built to hand off to each other, because a si
