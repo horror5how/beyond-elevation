@@ -3,7 +3,7 @@ date: 2026-07-03
 theme: Value hides on both sides of the ledger: founders should treat patents and proprietary data as balance-sheet assets with maturity schedules and royalty lines, while operators win with AI by killing vanity accuracy metrics, chaining narrow agents instead of building one smart one, and concentrating senior judgment rather than thinning the org chart evenly.
 generated_at: 2026-07-03T04:00:00Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -147,7 +147,9 @@ Stop building one genius agent. Chain five specialists that never drop the hando
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-03T18:07:06.676Z
+share_urn: urn:li:share:7478871961859780608
 hook_format: prediction
 cta_goal: dms
 slug: ai-rewards-concentrated-senior-judgment

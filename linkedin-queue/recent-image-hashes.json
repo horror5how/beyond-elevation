@@ -1,12 +1,5 @@
 [
   {
-    "hash": "40ffffffff682525",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "ai-scope-not-failing",
-    "ts": "2026-06-30T13:08:36.860Z"
-  },
-  {
     "hash": "fffb10303737ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "chain-narrow-agents-not-one-smart-agent",
     "ts": "2026-07-03T15:08:48.656Z"
+  },
+  {
+    "hash": "3c76131333f1ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "ai-rewards-concentrated-senior-judgment",
+    "ts": "2026-07-03T18:07:06.676Z"
   }
 ]

@@ -403,3 +403,4 @@ ai-prior-art-patent-rejection-2026
 ai-roi-cycle-time-not-accuracy
 chain-narrow-agents-not-one-smart-agent
 ai-patent-claim-structure-licensable-2026
+ai-rewards-concentrated-senior-judgment

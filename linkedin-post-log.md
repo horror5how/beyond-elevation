@@ -379,3 +379,4 @@
 2026-07-03 12:54 | urn:li:share:7478793353929859072 | post #3 | ai-roi-cycle-time-not-accuracy | Wedbush just warned that missing ROI metrics threaten enterprise AI deployment. 
 2026-07-03 15:08 | urn:li:share:7478827090814058496 | post #4 | chain-narrow-agents-not-one-smart-agent | Klaviyo just shipped two AI agents built to hand off to each other, because a si
 2026-07-03 17:54 | urn:li:share:7478868724670738432 | 73% of AI patents are rejected because founders write the claim wrong.  Not the 
+2026-07-03 18:07 | urn:li:share:7478871961859780608 | post #5 | ai-rewards-concentrated-senior-judgment | In 18 months the AI headcount math flips, and most teams are running it backward
