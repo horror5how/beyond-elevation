@@ -19,7 +19,7 @@ A patent and a trade secret are opposite kinds of asset, and licensing them carr
 
 Under the US Defend Trade Secrets Act, a trade secret is protected for as long as it stays confidential and derives value from being unknown. There is no 20-year clock like a patent. That is why AI labs keep model weights, hyperparameters, and training data as trade secrets rather than filing, the protection can run indefinitely. It is also why a single careless disclosure is fatal: reasonable secrecy is a legal requirement, and a leak means the asset may never again qualify for protection.
 
-So trade secret licensing is a controlled-exposure problem. You are letting a counterparty use something whose value collapses the instant it stops being confidential. The license is the only thing standing between recurring revenue and a destroyed asset. If you have not priced or structured the underlying know-how, start with our guide to [know-how licensing as a hidden revenue stream](https://beyondelevation.com/blog/posts/know-how-licensing-hidden-revenue/) before you sign anything.
+So trade secret licensing is a controlled-exposure problem. You are letting a counterparty use something whose value collapses the instant it stops being confidential. The license is the only thing standing between recurring revenue and a destroyed asset. If you have not priced or structured the underlying know-how, start with our guide to know-how licensing as a hidden revenue stream before you sign anything.
 
 ## The 4 Guardrails to License a Trade Secret Without Losing Protection
 
@@ -37,9 +37,23 @@ Every durable trade secret license Beyond Elevation reviews contains the same fo
 
 The commercial upside is why this is worth getting right. A trade secret you license correctly becomes an annuity: recurring income, indefinite duration, zero dilution, and you never give up ownership. Because trade secrets do not expire, a well-structured licensing program can outlast any patent portfolio.
 
-The pattern AI labs use is consistent. Keep the crown-jewel asset, the weights, the data, the process, behind hardened access controls. License a bounded right, output access or a defined field of use, to partners under the four guardrails above. Layer the trade secret strategy alongside patents where each fits: patent the architecture that would be reverse-engineered anyway, keep as a trade secret the training data and tuning that cannot be. Our breakdown of [how to protect know-how legally](https://beyondelevation.com/blog/posts/how-to-protect-know-how-legally/) and [what a know-how license actually covers](https://beyondelevation.com/blog/posts/what-is-a-know-how-license/) maps the full structure.
+The pattern AI labs use is consistent. Keep the crown-jewel asset, the weights, the data, the process, behind hardened access controls. License a bounded right, output access or a defined field of use, to partners under the four guardrails above. Layer the trade secret strategy alongside patents where each fits: patent the architecture that would be reverse-engineered anyway, keep as a trade secret the training data and tuning that cannot be. Our breakdown of how to protect know-how legally and what a know-how license actually covers maps the full structure.
 
 Beyond Elevation has turned many proprietary assets into billions in IP value, and the trade secret licensing playbook is one of the most underused. It converts a cost center you are already guarding into a recurring revenue line, without a single filing.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-license-trade-secret-without-losing-protection)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -61,6 +75,9 @@ Often both, applied where each fits. Patent the parts a competitor could reverse
 
 ### How do I structure a trade secret license safely?
 
-Start with an independent valuation and a legal review of the four guardrails: survivable confidentiality, use-not-asset licensing, access controls with audit rights, and return-plus-injunction on exit. Beyond Elevation structures trade secret and know-how licenses so founders earn recurring revenue without exposing the asset. Book a review at [beyondelevation.com](https://beyondelevation.com).
+Start with an independent valuation and a legal review of the four guardrails: survivable confidentiality, use-not-asset licensing, access controls with audit rights, and return-plus-injunction on exit. Beyond Elevation structures trade secret and know-how licenses so founders earn recurring revenue without exposing the asset. Book a review at beyondelevation.com.
 
-**Your trade secret can pay you every year for as long as it stays secret. The license is the only thing keeping it that way.** Beyond Elevation structures trade secret and know-how licensing programs that earn recurring revenue without destroying the asset. Start at [beyondelevation.com](https://beyondelevation.com).
+**Your trade secret can pay you every year for as long as it stays secret. The license is the only thing keeping it that way.** Beyond Elevation structures trade secret and know-how licensing programs that earn recurring revenue without destroying the asset. Start at beyondelevation.com.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

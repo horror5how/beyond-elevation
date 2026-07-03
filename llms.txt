@@ -255,5 +255,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How Private Equity Firms Value IP: The 5 Levers That Add 20-40% to Your Exit Multiple](https://beyondelevation.com/blog/posts/how-private-equity-values-ip/) — /blog/md/how-private-equity-values-ip.md
 - [An IP-Backed Loan Costs $1.08M. The Same Raise as Equity Costs You $20M. The Founder Math Nobody Runs Before Their Next Round](https://beyondelevation.com/blog/posts/ip-backed-loan-vs-equity-dilution-cost/) — /blog/md/ip-backed-loan-vs-equity-dilution-cost.md
 - [AI Governance Is a 1.7x Valuation Premium, Not a Cost: 8.2x vs 6.5x Forward Revenue](https://beyondelevation.com/blog/posts/ai-governance-valuation-premium/) — /blog/md/ai-governance-valuation-premium.md
+- [You Can License a Trade Secret for Recurring Revenue. One Missing Clause Destroys It Forever. The 4 Guardrails AI Labs Use.](https://beyondelevation.com/blog/posts/license-trade-secret-without-losing-protection/) — /blog/md/license-trade-secret-without-losing-protection.md
 
 > Full blog content available at /llms-full.txt
