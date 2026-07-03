@@ -372,3 +372,4 @@
 2026-07-02 12:53 | urn:li:share:7478430604406005762 | You can license your trade secret for recurring revenue.  One missing clause des
 2026-07-02 17:50 | urn:li:share:7478505429627707392 | Raising $3M as equity costs $20M at exit.  Borrowing $3M against your patents co
 2026-07-03 07:51 | QUEUED | ai-governance-valuation-multiple-2026 | AI governance is not a compliance cost. It is a pricing lever.
+2026-07-03 07:52 | urn:li:share:7478717243263111170 | AI governance is not a compliance cost.  It is a pricing lever.  One growth-equi
