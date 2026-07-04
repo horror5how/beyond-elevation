@@ -1,4 +1,4 @@
-# Instagram Autopilot — BLOCKED: Expired Token (2026-07-03)
+# Instagram Autopilot — BLOCKED: Expired Token (2026-07-04)
 
 ## Status
 
