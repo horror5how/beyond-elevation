@@ -405,3 +405,4 @@ chain-narrow-agents-not-one-smart-agent
 ai-patent-claim-structure-licensable-2026
 ai-rewards-concentrated-senior-judgment
 geographic-licensing-capital-strategy-2026
+patent-licensing-value-capture-gap-2026
