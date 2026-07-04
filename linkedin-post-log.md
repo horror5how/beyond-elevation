@@ -384,3 +384,4 @@
 2026-07-04 07:55 | urn:li:share:7479080427538952192 | You don't need to raise equity to fund your next 18 months.  License your patent
 2026-07-04 12:55 | QUEUED | patent-licensing-value-capture-gap-2026 | You filed a patent for $12,000.  Your competitor is generating $840,000 a year l
 2026-07-04 12:55 | urn:li:share:7479156050881933313 | You filed a patent for $12,000.  Your competitor is generating $840,000 a year l
+2026-07-04 17:53 | urn:li:share:7479231008173654017 | 3 SaaS founders pivoted one revenue line to patent licensing.  Exit multiples ju
