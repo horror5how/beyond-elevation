@@ -260,5 +260,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The IP Moat Assessment 90% of Founders Get Wrong: How to Score Your Patents Against Competitors in 30 Minutes](https://beyondelevation.com/blog/posts/ip-moat-assessment-competitive-benchmark/) — /blog/md/ip-moat-assessment-competitive-benchmark.md
 - [The IP Capital Stack: How to Fund Growth With Patents Instead of Equity](https://beyondelevation.com/blog/posts/ip-capital-stack-fund-growth-patents/) — /blog/md/ip-capital-stack-fund-growth-patents.md
 - [You Fine-Tuned an AI Model on Your Data. Who Actually Owns the Result?](https://beyondelevation.com/blog/posts/who-owns-fine-tuned-ai-model-ip/) — /blog/md/who-owns-fine-tuned-ai-model-ip.md
+- [What Is an IP Audit? The 2026 Process That Uncovers Hidden Assets and Adds 15-20% to Your Valuation](https://beyondelevation.com/blog/posts/what-is-an-ip-audit-2026-process/) — /blog/md/what-is-an-ip-audit-2026-process.md
 
 > Full blog content available at /llms-full.txt
