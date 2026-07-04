@@ -381,3 +381,4 @@
 2026-07-03 17:54 | urn:li:share:7478868724670738432 | 73% of AI patents are rejected because founders write the claim wrong.  Not the 
 2026-07-03 18:07 | urn:li:share:7478871961859780608 | post #5 | ai-rewards-concentrated-senior-judgment | In 18 months the AI headcount math flips, and most teams are running it backward
 2026-07-04 00:01 | QUEUED | geographic-licensing-capital-strategy-2026 | You don't need to raise equity to fund your next 18 months.
+2026-07-04 07:55 | urn:li:share:7479080427538952192 | You don't need to raise equity to fund your next 18 months.  License your patent
