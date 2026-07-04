@@ -3889,3 +3889,19 @@ Beyond Elevation has structured IP capital stacks for companies between Series A
 An IP capital stack is a structured combination of four non-dilutive capital sources, each backed by different intellectual property assets, t
 
 ---
+
+## You Fine-Tuned an AI Model on Your Data. Who Actually Owns the Result?
+
+URL: https://beyondelevation.com/blog/posts/who-owns-fine-tuned-ai-model-ip/
+
+A founder spent $400K fine-tuning a foundation model on proprietary clinical data. Eighteen months later, a competitor launched an identical product built on the same base model and a public dataset. The fine-tuned model had no defensible IP position. The $400K bought speed, not ownership.
+
+Hayat Amin argues this is the single most expensive mistake AI founders make in 2026: assuming that fine-tuning creates ownership. It does not. Fine-tuned AI model IP is a function of four separate layers, and most founders only control one of them. Companies with patents are 10.2x more likely to secure early-stage funding. That stat gets more brutal when the "IP" a founder claims is a fine-tuned model sitting on infrastructure someone else controls, trained under a license the founder never read.
+
+## Who Actually Owns a Fine-Tuned AI Model?
+
+Ownership of a fine-tuned AI model depends on three intersecting factors: the base model license terms, the exclusivity of your training data, and whether your fine-tuning methodology is independently protectable. Most founders check zero of these before spending six figures on compute.
+
+The base model license is the first gate. Meta's Llama license permits commercial use but includes a 700-million-monthly-active-user threshold that triggers a separate commercial agreement. Mistral's licenses vary by model version. OpenAI's fine-tuning API terms grant you rights to outputs but retain rights to the underlying model. Each license creates a different own
+
+---

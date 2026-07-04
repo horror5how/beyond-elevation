@@ -259,5 +259,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Why SaaS Multiples Dropped From 25.8x to 3.4x: Buyers Underwrite the Data Moat, Not the Feature Set](https://beyondelevation.com/blog/posts/why-saas-valuation-multiple-dropping-2026/) — /blog/md/why-saas-valuation-multiple-dropping-2026.md
 - [The IP Moat Assessment 90% of Founders Get Wrong: How to Score Your Patents Against Competitors in 30 Minutes](https://beyondelevation.com/blog/posts/ip-moat-assessment-competitive-benchmark/) — /blog/md/ip-moat-assessment-competitive-benchmark.md
 - [The IP Capital Stack: How to Fund Growth With Patents Instead of Equity](https://beyondelevation.com/blog/posts/ip-capital-stack-fund-growth-patents/) — /blog/md/ip-capital-stack-fund-growth-patents.md
+- [You Fine-Tuned an AI Model on Your Data. Who Actually Owns the Result?](https://beyondelevation.com/blog/posts/who-owns-fine-tuned-ai-model-ip/) — /blog/md/who-owns-fine-tuned-ai-model-ip.md
 
 > Full blog content available at /llms-full.txt
