@@ -392,3 +392,4 @@
 2026-07-05 12:13 | urn:li:share:7479507867805392896 | post #3 | point-ai-at-the-work-reps-skip | Everyone points AI at the sales pitch. Wrong end of the funnel.  Cisco just hand
 2026-07-05 12:55 | QUEUED | licensing-renegotiation-three-triggers-2026 | You signed that licensing deal 18 months ago. You left 40% of the annual rate on
 2026-07-05 12:56 | urn:li:share:7479518523984322560 | licensing-renegotiation-three-triggers-2026 | You signed that licensing deal 18 months ago. You left 40% of the annual rate on
+2026-07-05 14:39 | urn:li:share:7479544596092608512 | post #4 | half-of-ai-features-will-be-margin-negative | By 2027 half of shipped AI features will be margin-negative.  Walmart, Uber and 

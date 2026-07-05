@@ -412,3 +412,4 @@ data-is-a-patent-you-never-filed
 filing-more-patents-makes-you-weaker
 point-ai-at-the-work-reps-skip
 licensing-renegotiation-three-triggers-2026
+half-of-ai-features-will-be-margin-negative

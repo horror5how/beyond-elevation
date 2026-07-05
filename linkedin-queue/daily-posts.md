@@ -3,7 +3,7 @@ date: 2026-07-05
 theme: Two assets are being repriced in real time: the IP most founders give away for free (data licensing and enforceable claims) and the AI most operators deploy without a meter (revenue agents, token bills, and output quality), and the winners on both sides measure the one number everyone else ignores.
 generated_at: 2026-07-05T04:00:00Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ Automate what reps avoid, not what they enjoy. Message me if you want the workfl
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-05T14:39:55.187Z
+share_urn: urn:li:share:7479544596092608512
 hook_format: prediction
 cta_goal: clicks
 slug: half-of-ai-features-will-be-margin-negative

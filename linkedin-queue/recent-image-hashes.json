@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef0f0010ff1ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "reddit-data-licensing-royalty-line",
-    "ts": "2026-07-03T11:34:01.925Z"
-  },
-  {
     "hash": "42c3e7ffe7c3ff9f",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "point-ai-at-the-work-reps-skip",
     "ts": "2026-07-05T12:13:58.501Z"
+  },
+  {
+    "hash": "007effffffff0000",
+    "layout": "a",
+    "accent": "#7a8c6e",
+    "slug": "half-of-ai-features-will-be-margin-negative",
+    "ts": "2026-07-05T14:39:55.187Z"
   }
 ]
