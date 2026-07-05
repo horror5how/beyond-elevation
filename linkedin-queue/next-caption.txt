@@ -1,17 +1,17 @@
-3 SaaS founders pivoted one revenue line to patent licensing.
+August 2 is 28 days away.
 
-Exit multiples jumped from 6x to 14x.
+GPAI obligations go live. Every company deploying a general-purpose AI model needs documented, rights-cleared training data.
 
-Same product. Same team. One change: licensing revenue now sits on the P&L.
+Most founders see a compliance cost.
 
-SaaS ARR exits at 6 to 8x revenue.
+Smart ones see the licensing window.
 
-Patent licensing exits at 12 to 15x.
+If your data has clean IP rights, you can charge 3-5x what you charged last year.
 
-The same $1M is worth $6M or $12M at exit. Depends which bucket it sits in.
+Companies caught with unlicensed training data will pay it.
 
-The fastest pivot took 7 months.
+The market for compliant data just got created by regulation, not by product.
 
-Most founders learn this in the M&A data room. That is 3 years too late.
+Price it now or watch someone else run this play.
 
-#IPStrategy #StartupValuation #PatentLicensing
+#EUAI #IPStrategy #DataLicensing
