@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42c3e7ffe7c3ff9f",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ai-roi-cycle-time-not-accuracy",
-    "ts": "2026-07-03T12:54:45.191Z"
-  },
-  {
     "hash": "7efd01130b35ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "half-of-ai-features-will-be-margin-negative",
     "ts": "2026-07-05T14:39:55.187Z"
+  },
+  {
+    "hash": "0062e7ffc3e7ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "speed-without-a-gate-is-faster-mess",
+    "ts": "2026-07-05T17:54:45.938Z"
   }
 ]

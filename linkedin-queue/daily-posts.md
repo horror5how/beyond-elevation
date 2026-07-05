@@ -3,7 +3,7 @@ date: 2026-07-05
 theme: Two assets are being repriced in real time: the IP most founders give away for free (data licensing and enforceable claims) and the AI most operators deploy without a meter (revenue agents, token bills, and output quality), and the winners on both sides measure the one number everyone else ignores.
 generated_at: 2026-07-05T04:00:00Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -153,7 +153,9 @@ If a resolved support ticket costs 1.40 dollars in tokens and deflects a 6 dolla
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-05T17:54:45.938Z
+share_urn: urn:li:share:7479593630492520448
 hook_format: story
 cta_goal: follows
 slug: speed-without-a-gate-is-faster-mess
