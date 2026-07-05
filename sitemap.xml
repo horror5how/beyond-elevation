@@ -140,6 +140,18 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/patent-continuation-strategy-15-claim-playbook/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>Patent Continuation Strategy: How One Filing Becomes a 15-Claim Licensing Machine Over 10 Years</image:title>
+      <image:caption>Patent Continuation Strategy: How One Filing Becomes a 15-Claim Licensing Machine Over 10 Years — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/patent-continuation-strategy-15-claim-playbook/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/who-owns-fine-tuned-ai-model-ip/</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -2694,11 +2706,5 @@
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/patent-continuation-strategy-15-claim-playbook/</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>

@@ -2,8 +2,8 @@
 title: "Patent Continuation Strategy: How One Filing Becomes a 15-Claim Licensing Machine Over 10 Years"
 slug: patent-continuation-strategy-15-claim-playbook
 date: 2026-07-05
-url: https://beyondelevation.com/blog/post.html?slug=patent-continuation-strategy-15-claim-playbook
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-continuation-strategy-15-claim-playbook/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -69,6 +69,20 @@ Hayat Amin reminds founders that investors price the breadth of a patent family,
 
 If you have existing patents with no continuations, the window may already be closed. An [IP audit from Beyond Elevation](https://beyondelevation.com) determines which of your patents still have open prosecution windows and maps the continuation opportunities remaining in your portfolio. The average client discovers three to five unclaimed continuation angles worth $200K or more in licensing potential.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-continuation-strategy-15-claim-playbook)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a patent continuation cost?
@@ -90,3 +104,6 @@ No. You can only file a continuation while the parent application is pending. On
 ### Is a patent continuation strategy worth it for startups?
 
 A patent continuation strategy is the highest-ROI IP investment a startup can make. For $5K to $10K per continuation (versus $15K to $30K for an unrelated new filing), you expand your defensive moat and licensing leverage geometrically. Startups with continuation families raise at higher valuations because investors see a [structured IP roadmap](/blog/posts/12-month-ip-roadmap-fundable-portfolio/), not a random collection of filings.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

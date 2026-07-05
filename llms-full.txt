@@ -3937,3 +3937,19 @@ Companies building agentic AI systems sit on five protectable IP layers most tea
 Agentic AI intellectual property is the protectable innovation embedded in how an AI agent reasons, selects tools, coordinates sub-agents, recovers from errors, and evaluates its own output. It is distinct from the underlying foundation model and almost always more commercially valuabl
 
 ---
+
+## Patent Continuation Strategy: How One Filing Becomes a 15-Claim Licensing Machine Over 10 Years
+
+URL: https://beyondelevation.com/blog/posts/patent-continuation-strategy-15-claim-playbook/
+
+87% of patent-holding startups file one patent and never file a continuation. They leave 90% of their portfolio value on the table. A patent continuation strategy is how one $2K provisional filing becomes a 15-claim licensing portfolio worth $2M over a decade.
+
+Hayat Amin argues that most founders treat a patent grant as the finish line. It is the starting line. The continuation is where defensibility compounds, where licensing revenue multiplies, and where competitors run out of room to design around you. Beyond Elevation has built continuation portfolios that turned single filings into seven-figure annual royalty streams.
+
+## What Is a Patent Continuation Strategy?
+
+A patent continuation strategy is the deliberate practice of filing follow-on patent applications that claim priority from an original parent filing, expanding your claims to cover new embodiments, competitor workarounds, and market applications as they emerge over time. It transforms one filing into a family of related patents that collectively block an entire technology space.
+
+The US patent system offers three continuation vehicles. A **continuation** uses the same specification as the parent but rewrites the claims to cover different aspects of the disclosed invention. A **continuation-in-part (CIP)** adds new matter to the specification, allowing you to capture improvements and extensions developed after the original filing. A **divisional** separates distinct inventions identified by the patent examiner in
+
+---
