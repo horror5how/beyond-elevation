@@ -3,7 +3,7 @@ date: 2026-07-05
 theme: Two assets are being repriced in real time: the IP most founders give away for free (data licensing and enforceable claims) and the AI most operators deploy without a meter (revenue agents, token bills, and output quality), and the winners on both sides measure the one number everyone else ignores.
 generated_at: 2026-07-05T04:00:00Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ On the IP side, the moat is moving from patent count to two things founders book
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-05T09:45:34.775Z
+share_urn: urn:li:share:7479470522636894208
 hook_format: number-led
 cta_goal: follows
 slug: data-is-a-patent-you-never-filed

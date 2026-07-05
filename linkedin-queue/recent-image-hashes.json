@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fffb10303737ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "agentic-chains-leverage",
-    "ts": "2026-06-30T15:25:10.402Z"
-  },
-  {
     "hash": "c3e3e7ffc3e7ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-rewards-concentrated-senior-judgment",
     "ts": "2026-07-03T18:07:06.676Z"
+  },
+  {
+    "hash": "7ef0303117f5ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "data-is-a-patent-you-never-filed",
+    "ts": "2026-07-05T09:45:34.775Z"
   }
 ]

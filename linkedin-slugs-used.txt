@@ -408,3 +408,4 @@ geographic-licensing-capital-strategy-2026
 patent-licensing-value-capture-gap-2026
 saas-ip-licensing-pivot-exit-multiple-2026
 eu-ai-act-28-day-ip-arbitrage-2026
+data-is-a-patent-you-never-filed
