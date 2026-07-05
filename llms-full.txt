@@ -3969,3 +3969,23 @@ Non-dilutive funding for startups is any capital raised without surrendering equ
 The market has shifted. Western Technology Investment and Horizon Technology Finance now fold IP valuation into underwriting and request the patent schedule be
 
 ---
+
+## AI Companies That Complete These 7 IP Moves Before Exit Close at 25.8x. The Rest Close at 18.2x.
+
+URL: https://beyondelevation.com/blog/posts/ai-exit-ip-preparation-7-moves/
+
+AI companies that complete a structured IP preparation before exit close at 25.8x forward revenue. Those that skip it close at 18.2x. On a $20M-revenue business, that gap is worth $152M in enterprise value. Hayat Amin calls this the most predictable value lever in tech M&A: "The IP work costs six figures. The valuation gap it closes is eight figures. Every founder who skips it is handing the buyer free equity."
+
+## Why Do AI Exits Demand a Different IP Playbook Than Traditional Tech?
+
+AI companies carry three asset classes traditional tech exits never had to price: proprietary data moats, model-layer trade secrets, and regulatory compliance documentation under the EU AI Act. A standard IP audit misses two of the three, and acquirers pricing AI targets in 2026 run a fundamentally different diligence stack than they ran 18 months ago.
+
+Traditional tech exits focused on patents and source code. AI exits add data provenance, training recipe documentation, model weight ownership, and governance compliance to the buyer's checklist. Each is a line item in the acquirer's valuation model. Miss one, and the buyer discounts the entire portfolio.
+
+Hayat Amin developed the **AI Exit IP Preparation Playbook** after three AI acquisition deals collapsed in diligence over undocumented data rights. The framework runs 7 moves in sequence and covers every asset class an acquirer scores.
+
+## What Are the 7 IP Moves Every AI Founder Must Complete Before Exit?
+
+The 7-move sequence covers patent pro
+
+---

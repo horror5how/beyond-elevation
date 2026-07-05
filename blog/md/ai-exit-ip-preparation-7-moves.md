@@ -3,7 +3,7 @@ title: "AI Companies That Complete These 7 IP Moves Before Exit Close at 25.8x. 
 slug: ai-exit-ip-preparation-7-moves
 date: 2026-07-05
 url: https://beyondelevation.com/blog/posts/ai-exit-ip-preparation-7-moves/
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -65,6 +65,20 @@ The founders who start early negotiate from strength. Those who start during dil
 
 Beyond Elevation runs the full AI Exit IP Preparation Playbook for companies from initial audit through deal close, covering all 7 moves and providing valuation support throughout negotiations. [Book a consultation](https://beyondelevation.com) to assess your exit readiness. Companies with patents are 10.2x more likely to secure early-stage funding, and the same assets that attract capital also command premium exit multiples when structured correctly.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-exit-ip-preparation-7-moves)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does IP exit preparation cost for an AI company?
@@ -86,3 +100,6 @@ Patent the architecture and application layer. Keep model weights, training data
 ### How long before exit should AI founders start IP preparation?
 
 Start 18 months before planned buyer engagement. The full sequence of audit, patent filings, documentation, governance compliance, and licensing deal development requires overlapping workstreams that compress poorly under time pressure. Founders who start 6 months before exit lose 20 to 40 percent of the potential IP value premium because rushed preparation produces incomplete documentation that buyers discount.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
