@@ -390,3 +390,4 @@
 2026-07-05 09:45 | urn:li:share:7479470522636894208 | post #1 | data-is-a-patent-you-never-filed | Your data is a patent you never filed.  Reddit booked over 203 million dollars i
 2026-07-05 11:05 | urn:li:share:7479490636103196672 | post #2 | filing-more-patents-makes-you-weaker | Filing more patents is about to make you weaker.  Solve Intelligence just raised
 2026-07-05 12:13 | urn:li:share:7479507867805392896 | post #3 | point-ai-at-the-work-reps-skip | Everyone points AI at the sales pitch. Wrong end of the funnel.  Cisco just hand
+2026-07-05 12:55 | QUEUED | licensing-renegotiation-three-triggers-2026 | You signed that licensing deal 18 months ago. You left 40% of the annual rate on
