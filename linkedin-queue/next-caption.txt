@@ -1,17 +1,21 @@
-You signed that licensing deal 18 months ago. You left 40% of the annual rate on the table.
+Your SaaS multiple is 3.4x.
 
-Three things give you renegotiation leverage your contract almost certainly permits.
+AI-native SaaS is 25.8x.
 
-Your licensee launched a new product in your field.
+The gap isn't growth. It's the data moat.
 
-The licensed territory expanded.
+Buyers don't underwrite features. They underwrite proprietary data no competitor can replicate.
 
-Your patent portfolio gained a continuation or new grant.
+What separates 3.4x from 25.8x:
 
-Most founders miss all three windows. The contract runs at the original rate forever.
+Exclusivity. Can a competitor source your data tomorrow?
 
-One letter sent at the right trigger resets the rate. Average uplift: 40%.
+Refresh rate. Is it compounding in value over time?
 
-On a $300K/year deal, that is $120K added annually. No new legal fees. Same contract.
+Licensing clarity. Do you own the rights to use it?
 
-#IPLicensing #IPStrategy #Founders
+All three drive the multiple. Miss all three and it compresses.
+
+You're pricing your app. Not your data.
+
+#IPStrategy #SaaS #Valuation
