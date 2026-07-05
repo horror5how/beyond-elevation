@@ -389,3 +389,4 @@
 2026-07-05 07:53 | urn:li:share:7479442386218221568 | August 2 is 28 days away.  GPAI obligations go live. Every company deploying a g
 2026-07-05 09:45 | urn:li:share:7479470522636894208 | post #1 | data-is-a-patent-you-never-filed | Your data is a patent you never filed.  Reddit booked over 203 million dollars i
 2026-07-05 11:05 | urn:li:share:7479490636103196672 | post #2 | filing-more-patents-makes-you-weaker | Filing more patents is about to make you weaker.  Solve Intelligence just raised
+2026-07-05 12:13 | urn:li:share:7479507867805392896 | post #3 | point-ai-at-the-work-reps-skip | Everyone points AI at the sales pitch. Wrong end of the funnel.  Cisco just hand

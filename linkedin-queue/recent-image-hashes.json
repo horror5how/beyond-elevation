@@ -1,12 +1,5 @@
 [
   {
-    "hash": "81ffffffffff0000",
-    "layout": "a",
-    "accent": "#d7b086",
-    "slug": "keytruda-patent-maturity-schedule",
-    "ts": "2026-07-03T10:09:18.432Z"
-  },
-  {
     "hash": "7ef0f0010ff1ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "filing-more-patents-makes-you-weaker",
     "ts": "2026-07-05T11:05:30.221Z"
+  },
+  {
+    "hash": "fbf0711033fbf1ff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "point-ai-at-the-work-reps-skip",
+    "ts": "2026-07-05T12:13:58.501Z"
   }
 ]

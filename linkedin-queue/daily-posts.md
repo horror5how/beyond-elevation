@@ -3,7 +3,7 @@ date: 2026-07-05
 theme: Two assets are being repriced in real time: the IP most founders give away for free (data licensing and enforceable claims) and the AI most operators deploy without a meter (revenue agents, token bills, and output quality), and the winners on both sides measure the one number everyone else ignores.
 generated_at: 2026-07-05T04:00:00Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ A 20-patent estate that holds up beats a 200-patent estate that folds in court.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-05T12:13:58.501Z
+share_urn: urn:li:share:7479507867805392896
 hook_format: frame-break
 cta_goal: dm
 slug: point-ai-at-the-work-reps-skip
