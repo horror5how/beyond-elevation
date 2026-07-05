@@ -3,7 +3,7 @@ date: 2026-07-05
 theme: Two assets are being repriced in real time: the IP most founders give away for free (data licensing and enforceable claims) and the AI most operators deploy without a meter (revenue agents, token bills, and output quality), and the winners on both sides measure the one number everyone else ignores.
 generated_at: 2026-07-05T04:00:00Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ Audit what you already own before you build one more thing to sell.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-05T11:05:30.221Z
+share_urn: urn:li:share:7479490636103196672
 hook_format: contrarian
 cta_goal: clicks
 slug: filing-more-patents-makes-you-weaker

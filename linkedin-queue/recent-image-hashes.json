@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c3e3e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "ai-cuts-juniors-not-seniors",
-    "ts": "2026-06-30T18:27:16.440Z"
-  },
-  {
     "hash": "81ffffffffff0000",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "data-is-a-patent-you-never-filed",
     "ts": "2026-07-05T09:45:34.775Z"
+  },
+  {
+    "hash": "00ffffff246d2f3f",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "filing-more-patents-makes-you-weaker",
+    "ts": "2026-07-05T11:05:30.221Z"
   }
 ]
