@@ -263,5 +263,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [What Is an IP Audit? The 2026 Process That Uncovers Hidden Assets and Adds 15-20% to Your Valuation](https://beyondelevation.com/blog/posts/what-is-an-ip-audit-2026-process/) — /blog/md/what-is-an-ip-audit-2026-process.md
 - [Your AI Agent Workflow Is Worth More Than Your Model: The Agentic AI Intellectual Property Playbook for 2026](https://beyondelevation.com/blog/posts/agentic-ai-workflow-ip-protection/) — /blog/md/agentic-ai-workflow-ip-protection.md
 - [Patent Continuation Strategy: How One Filing Becomes a 15-Claim Licensing Machine Over 10 Years](https://beyondelevation.com/blog/posts/patent-continuation-strategy-15-claim-playbook/) — /blog/md/patent-continuation-strategy-15-claim-playbook.md
+- [Non-Dilutive Funding for Startups: Your Patents Are Worth $2-20M in Capital You Are Not Raising](https://beyondelevation.com/blog/posts/non-dilutive-funding-startups-patent-capital/) — /blog/md/non-dilutive-funding-startups-patent-capital.md
 
 > Full blog content available at /llms-full.txt

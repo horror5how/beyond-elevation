@@ -3953,3 +3953,19 @@ A patent continuation strategy is the deliberate practice of filing follow-on pa
 The US patent system offers three continuation vehicles. A **continuation** uses the same specification as the parent but rewrites the claims to cover different aspects of the disclosed invention. A **continuation-in-part (CIP)** adds new matter to the specification, allowing you to capture improvements and extensions developed after the original filing. A **divisional** separates distinct inventions identified by the patent examiner in
 
 ---
+
+## Non-Dilutive Funding for Startups: Your Patents Are Worth $2-20M in Capital You Are Not Raising
+
+URL: https://beyondelevation.com/blog/posts/non-dilutive-funding-startups-patent-capital/
+
+A $3M equity round at a $15M pre-money valuation costs you 20% of your company. At a $100M exit, that 20% is worth $20M. The same $3M raised as an IP-backed loan at 12% over three years costs $1.08M in total interest. Non-dilutive funding for startups is not a niche tactic. It is the single most mispriced capital decision founders make. Hayat Amin argues it is the reason most startups give up equity they never needed to sell. The math is not ambiguous. It is ignored.
+
+Intangibles now represent over 90% of S&P 500 value. Your patents, proprietary data, and trade secrets are bankable assets. Yet most founders treat them as legal paperwork instead of collateral. The result: they raise equity for capital their patent portfolio could have secured at a fraction of the cost.
+
+## What Is Non-Dilutive Funding for Startups and Why Are Founders Ignoring It?
+
+Non-dilutive funding for startups is any capital raised without surrendering equity. Grants, revenue-based financing, and IP-backed loans all qualify. For tech founders with patent portfolios, IP-backed lending is the highest-leverage form because it converts defensive assets into productive capital without sacrificing ownership or control. Beyond Elevation has structured IP-backed financing for founders who were days away from signing dilutive term sheets they did not need.
+
+The market has shifted. Western Technology Investment and Horizon Technology Finance now fold IP valuation into underwriting and request the patent schedule be
+
+---
