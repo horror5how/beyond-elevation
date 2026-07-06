@@ -401,3 +401,4 @@
 2026-07-06 12:53 | urn:li:share:7479880125753413632 | Your best AI engineer just quit.  They took your ML pipeline methodology with th
 2026-07-06 14:23 | urn:li:share:7479902809715474433 | post #3 | ai-product-feature-identification | My client found $12M in missed features.  Product teams often build in a bubble.
 2026-07-06 16:18 | urn:li:share:7479931752157925376 | post #4 | ai-marketing-content-personalization | Client boosted email CTR 18%, cut content time 40%.  Generic marketing copy fail
+2026-07-06 17:54 | urn:li:share:7479956000876404737 | Private equity bought $380B in tech last year.  90% of that deal value came from
