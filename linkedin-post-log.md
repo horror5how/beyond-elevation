@@ -395,3 +395,4 @@
 2026-07-05 14:39 | urn:li:share:7479544596092608512 | post #4 | half-of-ai-features-will-be-margin-negative | By 2027 half of shipped AI features will be margin-negative.  Walmart, Uber and 
 2026-07-05 17:00 | QUEUED | saas-3-4x-25-8x-data-moat-valuation-2026 | Your SaaS multiple is 3.4x.  AI-native SaaS is 25.8x.  The gap isn't growth. It'
 2026-07-05 17:54 | urn:li:share:7479593630492520448 | post #5 | speed-without-a-gate-is-faster-mess | AI made your team faster and your output worse.  Stanford found 40 percent of wo
+2026-07-06 07:53 | urn:li:share:7479804658325245952 | 3 founders sold last quarter. Same ARR.  The one with $180K/year in patent royal
