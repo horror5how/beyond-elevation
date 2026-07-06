@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c76131333f1ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "ai-rewards-concentrated-senior-judgment",
-    "ts": "2026-07-03T18:07:06.676Z"
-  },
-  {
     "hash": "7ef0303117f5ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ip-backed-loan-vs-equity-dilution-cost",
     "ts": "2026-07-06T11:41:42.901Z"
+  },
+  {
+    "hash": "00c1e7ffc1c3fff9",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "license-trade-secret-without-losing-protection",
+    "ts": "2026-07-06T12:49:06.396Z"
   }
 ]
