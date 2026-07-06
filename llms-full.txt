@@ -4025,3 +4025,21 @@ IP competitive intelligence is the systematic practice of monitoring, analyzing,
 Most founders treat IP as a legal function. File a patent, check a box, move on. That approach ignores the richest source of competitive strategy data available to any 
 
 ---
+
+## Can You Patent a Business Model? The 2026 Claim Structure That Survives Alice
+
+URL: https://beyondelevation.com/blog/posts/can-you-patent-a-business-model/
+
+83% of business method patent applications get rejected on the first office action. The other 17% share three structural elements your patent attorney left out of the claims.
+
+Hayat Amin has reviewed hundreds of business method applications since the USPTO's December 2025 Subject Matter Eligibility Declaration. The pattern is clear: founders with novel business models file claims that read like pitch decks, then watch examiners reject them as "abstract ideas." The fix takes 45 minutes to restructure. Most attorneys never suggest it because they bill by the filing, not the grant.
+
+Here is the 2026 reality of patenting a business model, the exact claim structure that survives Alice, and the framework [Beyond Elevation](https://beyondelevation.com) uses to decide which business methods are worth protecting.
+
+## Can You Patent a Business Model Under the Current Alice Framework?
+
+Yes, you can patent a business model in 2026, but only if the claims anchor to a technical implementation, not the business concept itself. The Alice Corp v. CLS Bank test still governs: if your claim recites an abstract idea without "something more," it fails at Step 2A. The December 2025 USPTO guidance changed how examiners evaluate that "something more," and it shifted in founders' favor.
+
+Before the reset, examiners routinely stamped business method applications as "mental processes" or "methods of organizing human activity." The new guidance narrows both exclusions. A machine learning pipeline that o
+
+---

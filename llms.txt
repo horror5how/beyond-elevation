@@ -267,5 +267,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [AI Companies That Complete These 7 IP Moves Before Exit Close at 25.8x. The Rest Close at 18.2x.](https://beyondelevation.com/blog/posts/ai-exit-ip-preparation-7-moves/) — /blog/md/ai-exit-ip-preparation-7-moves.md
 - [AI IP Protection: The 7-Layer Defense Stack That Stops Competitors From Cloning Your Moat](https://beyondelevation.com/blog/posts/ai-ip-protection-7-layer-defense-stack/) — /blog/md/ai-ip-protection-7-layer-defense-stack.md
 - [IP Competitive Intelligence: The 5-Step Framework That Reveals What Your Competitors Are Building Next](https://beyondelevation.com/blog/posts/ip-competitive-intelligence-framework-2026/) — /blog/md/ip-competitive-intelligence-framework-2026.md
+- [Can You Patent a Business Model? The 2026 Claim Structure That Survives Alice](https://beyondelevation.com/blog/posts/can-you-patent-a-business-model/) — /blog/md/can-you-patent-a-business-model.md
 
 > Full blog content available at /llms-full.txt
