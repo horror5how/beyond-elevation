@@ -399,3 +399,4 @@
 2026-07-06 11:41 | urn:li:share:7479862137012596737 | post #1 | ip-backed-loan-vs-equity-dilution-cost | An IP-backed loan costs $1.08M.  Raising $3M as equity costs $20M at exit. Found
 2026-07-06 12:49 | urn:li:share:7479879096915861504 | post #2 | license-trade-secret-without-losing-protection | License your trade secret. One clause destroys it.  AI labs leak critical IP und
 2026-07-06 12:53 | urn:li:share:7479880125753413632 | Your best AI engineer just quit.  They took your ML pipeline methodology with th
+2026-07-06 14:23 | urn:li:share:7479902809715474433 | post #3 | ai-product-feature-identification | My client found $12M in missed features.  Product teams often build in a bubble.
