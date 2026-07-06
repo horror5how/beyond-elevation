@@ -3,7 +3,7 @@ date: 2026-07-06
 theme: This batch explores how founders can unlock hidden value from their intangible assets (IP, data, know-how) and precisely deploy AI to drive quantifiable operational improvements. From smarter capital raising to hyper-efficient product and marketing, these posts deliver concrete, numbers-driven playbooks for Seed-Series B operators.
 generated_at: 2026-07-06T08:17:38.893Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -122,7 +122,9 @@ We cut 25% of redundant dev effort, boosting win rates 18%.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-06T16:18:20.348Z
+share_urn: urn:li:share:7479931752157925376
 hook_format: number-led
 cta_goal: comments
 slug: ai-marketing-content-personalization
