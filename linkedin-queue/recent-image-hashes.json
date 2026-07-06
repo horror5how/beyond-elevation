@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7efd01130b35ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "chain-narrow-agents-not-one-smart-agent",
-    "ts": "2026-07-03T15:08:48.656Z"
-  },
-  {
     "hash": "3c76131333f1ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "speed-without-a-gate-is-faster-mess",
     "ts": "2026-07-05T17:54:45.938Z"
+  },
+  {
+    "hash": "0081ffffc3e7ff9b",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "ip-backed-loan-vs-equity-dilution-cost",
+    "ts": "2026-07-06T11:41:42.901Z"
   }
 ]

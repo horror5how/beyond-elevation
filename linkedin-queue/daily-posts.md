@@ -3,7 +3,7 @@ date: 2026-07-06
 theme: This batch explores how founders can unlock hidden value from their intangible assets (IP, data, know-how) and precisely deploy AI to drive quantifiable operational improvements. From smarter capital raising to hyper-efficient product and marketing, these posts deliver concrete, numbers-driven playbooks for Seed-Series B operators.
 generated_at: 2026-07-06T08:17:38.893Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's posts deliver concrete playbooks for founders. The IP posts focus on how
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-06T11:41:42.901Z
+share_urn: urn:li:share:7479862137012596737
 hook_format: number-led
 cta_goal: comments
 slug: ip-backed-loan-vs-equity-dilution-cost

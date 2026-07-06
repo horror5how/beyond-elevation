@@ -396,3 +396,4 @@
 2026-07-05 17:00 | QUEUED | saas-3-4x-25-8x-data-moat-valuation-2026 | Your SaaS multiple is 3.4x.  AI-native SaaS is 25.8x.  The gap isn't growth. It'
 2026-07-05 17:54 | urn:li:share:7479593630492520448 | post #5 | speed-without-a-gate-is-faster-mess | AI made your team faster and your output worse.  Stanford found 40 percent of wo
 2026-07-06 07:53 | urn:li:share:7479804658325245952 | 3 founders sold last quarter. Same ARR.  The one with $180K/year in patent royal
+2026-07-06 11:41 | urn:li:share:7479862137012596737 | post #1 | ip-backed-loan-vs-equity-dilution-cost | An IP-backed loan costs $1.08M.  Raising $3M as equity costs $20M at exit. Found
