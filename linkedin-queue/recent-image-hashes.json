@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fbf0711033fbf1ff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "point-ai-at-the-work-reps-skip",
-    "ts": "2026-07-05T12:13:58.501Z"
-  },
-  {
     "hash": "007effffffff0000",
     "layout": "a",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-marketing-content-personalization",
     "ts": "2026-07-06T16:18:20.348Z"
+  },
+  {
+    "hash": "7ef931031f15ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "ai-compliance-audit-automation",
+    "ts": "2026-07-06T18:49:19.526Z"
   }
 ]
