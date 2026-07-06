@@ -1,21 +1,18 @@
-Your SaaS multiple is 3.4x.
+3 founders sold last quarter.
+Same ARR.
 
-AI-native SaaS is 25.8x.
+The one with $180K/year in patent royalties got 7.2x.
 
-The gap isn't growth. It's the data moat.
+The two without got 3.1x and 2.8x.
 
-Buyers don't underwrite features. They underwrite proprietary data no competitor can replicate.
+Acquirers stopped paying for recurring software revenue.
 
-What separates 3.4x from 25.8x:
+They pay for revenue that can't be replicated.
 
-Exclusivity. Can a competitor source your data tomorrow?
+Patent royalties are legally exclusive, inflation-resistant, and carry a defensibility premium most CFOs never price.
 
-Refresh rate. Is it compounding in value over time?
+The $180K royalty line didn't just add $1.3M to the exit.
 
-Licensing clarity. Do you own the rights to use it?
+It added $4.6M.
 
-All three drive the multiple. Miss all three and it compresses.
-
-You're pricing your app. Not your data.
-
-#IPStrategy #SaaS #Valuation
+#IPstrategy #MergersAndAcquisitions #Licensing
