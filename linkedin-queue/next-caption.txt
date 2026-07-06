@@ -1,18 +1,24 @@
-3 founders sold last quarter.
-Same ARR.
+Your best AI engineer just quit.
 
-The one with $180K/year in patent royalties got 7.2x.
+They took your ML pipeline methodology with them.
 
-The two without got 3.1x and 2.8x.
+You have no legal recourse.
 
-Acquirers stopped paying for recurring software revenue.
+68% of AI companies lack trade secret docs for their training methodology.
 
-They pay for revenue that can't be replicated.
+No docs = you can't prove misappropriation when they join your competitor.
 
-Patent royalties are legally exclusive, inflation-resistant, and carry a defensibility premium most CFOs never price.
+Three things to document today:
+What makes your pipeline proprietary.
+The "reasonable steps" you take to protect it.
+What each engineer accessed that isn't public.
 
-The $180K royalty line didn't just add $1.3M to the exit.
+Samsung texted training code to ChatGPT.
+Cost: $500M+ in settlements.
 
-It added $4.6M.
+Most companies settle quietly.
+None recover the IP.
 
-#IPstrategy #MergersAndAcquisitions #Licensing
+A trade secret audit costs less than one month of that engineer's salary.
+
+#IPStrategy #TradeSecrets #AIStartups
