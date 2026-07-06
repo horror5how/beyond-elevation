@@ -1,24 +1,19 @@
-Your best AI engineer just quit.
+Private equity bought $380B in tech last year.
 
-They took your ML pipeline methodology with them.
+90% of that deal value came from intangible assets.
 
-You have no legal recourse.
+Most founders couldn't price their intangibles before the first meeting.
 
-68% of AI companies lack trade secret docs for their training methodology.
+PE doesn't buy your product.
 
-No docs = you can't prove misappropriation when they join your competitor.
+They buy the defensible cash flows your IP protects.
 
-Three things to document today:
-What makes your pipeline proprietary.
-The "reasonable steps" you take to protect it.
-What each engineer accessed that isn't public.
+A VC prices your patent as a growth signal.
 
-Samsung texted training code to ChatGPT.
-Cost: $500M+ in settlements.
+A PE firm runs relief-from-royalty analysis. Assigns it 15-30% of enterprise value.
 
-Most companies settle quietly.
-None recover the IP.
+Same patent. Completely different number.
 
-A trade secret audit costs less than one month of that engineer's salary.
+No IP valuation before a PE conversation = 20-40% discount applied before you speak.
 
-#IPStrategy #TradeSecrets #AIStartups
+#IPStrategy #PrivateEquity #ExitMultiple
