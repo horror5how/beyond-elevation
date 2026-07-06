@@ -23,3 +23,9 @@
 - Media ID: n/a
 - Slides: 6 (re-rendered, identical to June 28 commit)
 - Note: (1) horror5how/instagram-autopilot repo does not exist. (2) IG token EAASS...ZD still expired (error 190). (3) graph.facebook.com blocked by session proxy (HTTP 000). Queue content ready at 1a1efd8. Fix: renew token at developers.facebook.com, update instagram-post.yml env.ACTIVE_IG_TOKEN, push any change to trigger workflow.
+
+## 2026-07-06T12:09:31Z
+- Pillar: The Human Edge in the Age of AI
+- Status: FAILED
+- Media ID: n/a
+- Slides: 6
