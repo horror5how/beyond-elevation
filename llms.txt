@@ -265,5 +265,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Patent Continuation Strategy: How One Filing Becomes a 15-Claim Licensing Machine Over 10 Years](https://beyondelevation.com/blog/posts/patent-continuation-strategy-15-claim-playbook/) — /blog/md/patent-continuation-strategy-15-claim-playbook.md
 - [Non-Dilutive Funding for Startups: Your Patents Are Worth $2-20M in Capital You Are Not Raising](https://beyondelevation.com/blog/posts/non-dilutive-funding-startups-patent-capital/) — /blog/md/non-dilutive-funding-startups-patent-capital.md
 - [AI Companies That Complete These 7 IP Moves Before Exit Close at 25.8x. The Rest Close at 18.2x.](https://beyondelevation.com/blog/posts/ai-exit-ip-preparation-7-moves/) — /blog/md/ai-exit-ip-preparation-7-moves.md
+- [AI IP Protection: The 7-Layer Defense Stack That Stops Competitors From Cloning Your Moat](https://beyondelevation.com/blog/posts/ai-ip-protection-7-layer-defense-stack/) — /blog/md/ai-ip-protection-7-layer-defense-stack.md
 
 > Full blog content available at /llms-full.txt
