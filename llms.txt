@@ -270,5 +270,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Can You Patent a Business Model? The 2026 Claim Structure That Survives Alice](https://beyondelevation.com/blog/posts/can-you-patent-a-business-model/) — /blog/md/can-you-patent-a-business-model.md
 - [Patent Portfolio Optimization: The 4-Bucket Triage That Turns 40% of Your IP Into Revenue](https://beyondelevation.com/blog/posts/patent-portfolio-optimization-triage/) — /blog/md/patent-portfolio-optimization-triage.md
 - [IP Due Diligence for VCs: The 9-Point Checklist That Separates a 10x Return From a Write-Off](https://beyondelevation.com/blog/posts/ip-due-diligence-checklist-vc-investors/) — /blog/md/ip-due-diligence-checklist-vc-investors.md
+- [Can You Patent a Prompt? The 2026 Legal Reality for AI Prompt Engineering IP](https://beyondelevation.com/blog/posts/can-you-patent-a-prompt-2026/) — /blog/md/can-you-patent-a-prompt-2026.md
 
 > Full blog content available at /llms-full.txt

@@ -4081,3 +4081,23 @@ IP due diligence for VCs is a structured assessment of a startup's intellectual 
 Unlike M&A due diligence, which focuses on what IP assets are being acquired, VC IP due 
 
 ---
+
+## Can You Patent a Prompt? The 2026 Legal Reality for AI Prompt Engineering IP
+
+URL: https://beyondelevation.com/blog/posts/can-you-patent-a-prompt-2026/
+
+$1.2M in prompt engineering time. Zero IP protection. That is the default state of most AI companies in 2026.
+
+Hayat Amin argues that prompts are the most underprotected asset class in AI. Founders spend six months and seven engineers building a prompt library that drives their entire product. Then they store it in a shared repo with no access controls, no classification, and no IP coverage. "It is the AI equivalent of leaving your patent applications on a park bench," Hayat Amin says.
+
+The short answer: no, you cannot patent a prompt as raw text. But the system, method, and business process that uses those prompts is patentable. And the prompt library itself is protectable as a trade secret, starting today, with four specific guardrails. Companies with patents are 10.2x more likely to secure early-stage funding. The founders who add prompt IP to that defensibility stack will own the next pricing premium.
+
+Here is how to decide which route fits your company.
+
+## Can You Actually Patent a Prompt in 2026?
+
+No, a bare prompt (the text string you feed an LLM) is not patentable on its own. The USPTO treats a standalone prompt as either an abstract idea or a mental process, both of which fail the Alice/Mayo section 101 test. But the method, system, or process that incorporates prompts as a functional component is eligible for patent protection when it produces a concrete, technical result.
+
+The distinction matters. A prompt that says "summarize this contract" is unpatentable text. 
+
+---
