@@ -403,3 +403,4 @@
 2026-07-06 16:18 | urn:li:share:7479931752157925376 | post #4 | ai-marketing-content-personalization | Client boosted email CTR 18%, cut content time 40%.  Generic marketing copy fail
 2026-07-06 17:54 | urn:li:share:7479956000876404737 | Private equity bought $380B in tech last year.  90% of that deal value came from
 2026-07-06 18:49 | urn:li:share:7479969748911439872 | post #5 | ai-compliance-audit-automation | Client cut compliance audit time 30%, violations 15%.  Manual compliance checks 
+2026-07-07 07:53 | urn:li:share:7480167071931207682 | You just assigned your patent instead of licensing it. That mistake costs $840K.
