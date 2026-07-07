@@ -422,3 +422,4 @@ ai-product-feature-identification
 ai-marketing-content-personalization
 how-private-equity-values-ip
 ai-compliance-audit-automation
+patent-assignment-vs-license-founders
