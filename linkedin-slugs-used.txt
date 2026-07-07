@@ -427,3 +427,4 @@ vcs-repricing-patent-portfolios
 ip-box-tax-rate-jurisdiction-2026
 ai-pilots-measured-wrong-kpi
 ai-kills-outbound-volume
+ip-stacking-acquisition-multiple-2026

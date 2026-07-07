@@ -1,21 +1,19 @@
-Your patent earned $500K this year.
+One patent at exit gets you 1.4x. Stack patents, trade secrets, and a data licence: 3.1x. Same ARR. Same team.
 
-In the US you paid 37% tax on royalties.
+Most founders treat IP as three separate assets.
 
-In Luxembourg: 5.2%.
+Acquirers price it as one compound position.
 
-Netherlands: 9%.
+Patent alone: 1.4x forward revenue.
 
-UK Patent Box: 10%.
+Add licensed trade secrets: 2.2x.
 
-The $160K difference is not a saving. It is a revenue line you are writing as a tax check.
+Add a data licensing agreement: 3.1x.
 
-90% of founders with active patents never structure around this.
+The gap is $8M on a $4M ARR business.
 
-The move: set up an IP holdco in the right jurisdiction, license your IP into it, collect royalties at the lower rate.
+Most boards never model the stack. Their lawyers file patents. Finance tracks ARR. Nobody owns the compound.
 
-We have run this for 60+ companies. The UK Patent Box returns $120K at $500K in royalties.
+That's the gap Beyond Elevation closes.
 
-Your IP is generating cash. You are just sending it to the wrong address.
-
-#IPStrategy #PatentBox #Licensing
+#IPStrategy #MergersAndAcquisitions #StartupValuation
