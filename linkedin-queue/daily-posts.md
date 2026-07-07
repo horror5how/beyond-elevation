@@ -3,7 +3,7 @@ date: 2026-07-07
 theme: Capital is repricing both patents and AI on the same metric, measurable return not narrative, and the operators winning both games audit assets and processes before they add anything new.
 generated_at: 2026-07-07T04:00:00Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Two markets converge on one rule this week: capital now judges patents and AI op
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-07T10:29:23.235Z
+share_urn: urn:li:share:7480206322618073088
 hook_format: number-led
 cta_goal: follows
 slug: vcs-repricing-patent-portfolios
