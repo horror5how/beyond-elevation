@@ -50,7 +50,7 @@ h1,h2,h3,p,blockquote{margin-top:0}
 .brand > span{display:inline-flex;align-items:center}
 .brand-mark{position:relative;display:inline-block;width:38px;height:38px;background:url('/assets/brand/be-mark-trimmed.webp') no-repeat center center;background-size:contain;color:transparent;font-size:0;border-radius:0;box-shadow:none;animation:none;overflow:visible}
 .brand-mark::after{display:none}
-.hero-headline-split{display:flex !important;flex-direction:column !important;gap:.12em;max-width:26ch;margin-inline:auto;font-size:clamp(1.4rem,3vw,2.4rem) !important;text-wrap:balance}
+.hero-headline-split{display:flex !important;flex-direction:column !important;gap:.08em;max-width:none;margin-inline:auto;font-size:clamp(3.2rem,6.8vw,6.6rem) !important;line-height:1.04 !important;letter-spacing:-.045em;text-wrap:balance}
 .hero-headline-split .hero-line{display:block !important;white-space:normal}
 .hero-sub-split{display:flex !important;flex-direction:column !important;gap:.15em;max-width:none !important;font-size:clamp(.9rem,2.1vw,1.2rem) !important;text-wrap:balance}
 .hero-sub-split .sub-line{display:block !important;white-space:nowrap}
@@ -87,7 +87,7 @@ h1,h2,h3,h4,.terminal-title,.install-copy h2,.blog-card-main h3,.testimonial-sho
 .hero-terminal{display:block;min-height:100vh;padding:0;position:relative;overflow:hidden;background:#f8f6f2}
 .hero-terminal-bg{position:absolute;inset:0;overflow:hidden}
 .hero-terminal-inner{position:relative;z-index:2;min-height:calc(100vh - 84px);display:flex;flex-direction:column;justify-content:center;align-items:center;padding-top:0;padding-bottom:0}
-.hero-terminal-copy{max-width:900px;margin:0 auto;padding:80px 24px 62px;display:flex;flex-direction:column;align-items:center;gap:20px;text-align:center}
+.hero-terminal-copy{max-width:1260px;margin:0 auto;padding:80px 24px 62px;display:flex;flex-direction:column;align-items:center;gap:20px;text-align:center}
 .hero-terminal-text{max-width:390px;margin:8px auto 0; text-align:center;align-self:center;font-family:"Inter", -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Arial, sans-serif;font-size:.64rem;line-height:1.45;font-weight:400}
 .hero-actions-center{justify-content:center}
 .hero-dot-cluster{position:absolute;width:260px;height:180px;opacity:.22;background-image:radial-gradient(rgba(215,176,134,.34) 2px, transparent 2px);background-size:18px 18px}
