@@ -598,8 +598,14 @@
             .strategy-stage{position:relative;width:100%;margin-top:44px;height:195vh;margin-bottom:34vh}
             .ss-sticky{position:sticky;top:4vh;width:min(940px,94vw);margin:0 auto;transform-origin:50% 0;will-change:transform;transform:scale(.64)}
             @media(max-width:760px){.strategy-stage{height:auto;margin-bottom:0}.ss-sticky{position:static;transform:none!important}}
-            .ss-panel{position:relative;border-radius:26px;background:linear-gradient(180deg,#ffffff 0%,#fbf8f3 100%);border:1px solid rgba(23,21,15,.08);box-shadow:0 1px 2px rgba(23,21,15,.04),0 30px 70px -30px rgba(23,21,15,.22);overflow:hidden}
-            .ss-head{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 20px;border-bottom:1px solid rgba(23,21,15,.06)}
+            .ss-panel{position:relative;z-index:1;border-radius:32px;background:linear-gradient(135deg,rgba(255,255,255,.52),rgba(255,255,255,.22));backdrop-filter:blur(30px) saturate(1.6);-webkit-backdrop-filter:blur(30px) saturate(1.6);border:1px solid rgba(255,255,255,.75);box-shadow:inset 0 1px 0 rgba(255,255,255,.9),0 1px 2px rgba(23,21,15,.04),0 44px 96px -36px rgba(23,21,15,.32);overflow:hidden}
+            .ss-ambient{position:absolute;inset:-80px;z-index:0;pointer-events:none}
+            .ss-orb{position:absolute;border-radius:50%;filter:blur(70px);opacity:.55;animation:ssDrift 16s ease-in-out infinite alternate}
+            .ss-orb.o1{width:400px;height:400px;left:-60px;top:-40px;background:radial-gradient(circle,#f5c78f,transparent 70%)}
+            .ss-orb.o2{width:440px;height:440px;right:-90px;top:28%;background:radial-gradient(circle,#b9d8c4,transparent 70%);animation-delay:-6s}
+            .ss-orb.o3{width:360px;height:360px;left:28%;bottom:-90px;background:radial-gradient(circle,#c7d3e8,transparent 70%);animation-delay:-11s}
+            @keyframes ssDrift{0%{transform:translate(0,0) scale(1)}100%{transform:translate(54px,-38px) scale(1.16)}}
+            .ss-head{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 22px;border-bottom:1px solid rgba(255,255,255,.6)}
             .ss-live{display:inline-flex;align-items:center;gap:8px;font-size:.72rem;font-weight:600;letter-spacing:.04em;color:#1a1a1a;white-space:nowrap}
             .ss-live-dot{width:8px;height:8px;border-radius:50%;background:#16a34a;box-shadow:0 0 0 0 rgba(22,163,74,.55);animation:alexPulse 1.8s infinite}
             .ss-scenario{font-size:.62rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#B45309;background:rgba(180,83,9,.08);border:1px solid rgba(180,83,9,.18);padding:5px 12px;border-radius:100px;white-space:nowrap;transition:opacity .4s ease}
@@ -619,14 +625,14 @@
             .chip-ai{background:#17150f;color:#F2B176}
             .chip-human{background:#e7f6ec;color:#15803d}
             .chip-client{background:#fdeeda;color:#B45309}
-            .chat-text{background:#fff;border:1px solid rgba(23,21,15,.07);box-shadow:0 6px 18px -10px rgba(23,21,15,.16);border-radius:4px 16px 16px 16px;padding:10px 14px;font-size:.84rem;line-height:1.45;color:#2a2a2a}
+            .chat-text{background:rgba(255,255,255,.55);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.8);box-shadow:inset 0 1px 0 rgba(255,255,255,.85),0 8px 24px -12px rgba(23,21,15,.18);border-radius:4px 18px 18px 18px;padding:11px 15px;font-size:.84rem;line-height:1.45;color:#2a2a2a}
             .chat-text b{color:#111}
-            .chat-msg.right .chat-text{border-radius:16px 4px 16px 16px;background:linear-gradient(135deg,#fff7ec,#ffe9cf);border-color:rgba(180,83,9,.18)}
-            .chat-msg.ai-msg .chat-text{background:#17150f;color:#f0e9dc;border-color:transparent}
+            .chat-msg.right .chat-text{border-radius:18px 4px 18px 18px;background:linear-gradient(135deg,rgba(255,247,236,.72),rgba(255,233,207,.58));border-color:rgba(180,83,9,.22)}
+            .chat-msg.ai-msg .chat-text{background:rgba(23,21,15,.78);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#f0e9dc;border-color:rgba(255,255,255,.14)}
             .chat-msg.ai-msg .chat-text b{color:#F2B176}
-            .chat-sys{align-self:center;font-size:.64rem;font-weight:600;color:#9b9385;background:#f4f0e9;padding:4px 14px;border-radius:100px;opacity:0;transition:opacity .45s ease}
+            .chat-sys{align-self:center;font-size:.64rem;font-weight:600;color:#8d8577;background:rgba(255,255,255,.5);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.7);padding:4px 14px;border-radius:100px;opacity:0;transition:opacity .45s ease}
             .chat-sys.show{opacity:1}
-            .chat-typing{display:inline-flex;gap:4px;align-items:center;background:#fff;border:1px solid rgba(23,21,15,.07);border-radius:16px;padding:11px 14px;box-shadow:0 6px 18px -10px rgba(23,21,15,.16)}
+            .chat-typing{display:inline-flex;gap:4px;align-items:center;background:rgba(255,255,255,.55);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.8);border-radius:16px;padding:12px 15px;box-shadow:0 8px 24px -12px rgba(23,21,15,.16)}
             .chat-typing span{width:5px;height:5px;border-radius:50%;background:rgba(23,21,15,.28);animation:ssTyp 1.1s ease-in-out infinite}
             .chat-typing span:nth-child(2){animation-delay:.14s}
             .chat-typing span:nth-child(3){animation-delay:.28s}
@@ -637,6 +643,7 @@
           </style>
           <div class="strategy-stage">
             <div class="ss-sticky" id="ss-sticky">
+              <div class="ss-ambient" aria-hidden="true"><span class="ss-orb o1"></span><span class="ss-orb o2"></span><span class="ss-orb o3"></span></div>
               <div class="ss-panel" aria-hidden="true">
                 <div class="ss-head">
                   <span class="ss-live"><span class="ss-live-dot"></span>Live strategy session</span>
@@ -731,6 +738,25 @@
       
 
       
+
+      <section class="shell section section-face scroll-section" id="firm">
+        <style>
+          .face-band{display:grid;grid-template-columns:minmax(280px,400px) 1fr;gap:clamp(28px,5vw,72px);align-items:center;background:linear-gradient(135deg,rgba(255,255,255,.62),rgba(255,255,255,.3));backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);border:1px solid rgba(255,255,255,.85);border-radius:34px;padding:clamp(24px,4vw,56px);box-shadow:inset 0 1px 0 rgba(255,255,255,.9),0 44px 96px -42px rgba(23,21,15,.28)}
+          .face-photo img{width:100%;height:auto;border-radius:22px;display:block;box-shadow:0 30px 70px -30px rgba(23,21,15,.4)}
+          .face-copy .eyebrow{margin-bottom:18px}
+          .face-copy p{font-size:clamp(1.22rem,1.85vw,1.66rem);line-height:1.48;letter-spacing:-.015em;color:#2f2c26;font-weight:400;margin:0 0 30px}
+          .face-copy strong{font-weight:600;color:#17150f}
+          @media(max-width:860px){.face-band{grid-template-columns:1fr}.face-photo{max-width:320px;margin:0 auto}}
+        </style>
+        <div class="face-band reveal">
+          <div class="face-photo"><img src="./assets/be-face.jpg" alt="The welcoming face of Beyond Elevation" width="1536" height="2048" loading="lazy"></div>
+          <div class="face-copy">
+            <span class="eyebrow">The firm</span>
+            <p>We are probably <strong>the most niche consulting firm in the world</strong> right now. We are not lawyers. We are <strong>IP strategists and executors</strong>. We take your data, your patents, your know-how and your secret sauce, and turn them into <strong>a higher valuation, more licensing revenue, and a future-proofed business</strong> that competitors never get near.</p>
+            <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic</a>
+          </div>
+        </div>
+      </section>
 
       <section id="thesis" class="shell section section-thesis scroll-section">
         <div class="section-head reveal" data-parallax="0.03">
