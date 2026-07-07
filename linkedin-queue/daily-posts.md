@@ -3,7 +3,7 @@ date: 2026-07-07
 theme: Capital is repricing both patents and AI on the same metric, measurable return not narrative, and the operators winning both games audit assets and processes before they add anything new.
 generated_at: 2026-07-07T04:00:00Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ Licensing gross margin is a number your core product will never reach.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-07T13:17:04.376Z
+share_urn: urn:li:share:7480248522404032513
 hook_format: contrarian
 cta_goal: dms
 slug: ai-pilots-measured-wrong-kpi

@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0081ffffc3e7ff9b",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "ip-backed-loan-vs-equity-dilution-cost",
-    "ts": "2026-07-06T11:41:42.901Z"
-  },
-  {
     "hash": "00c1e7ffc1c3fff9",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "patents-are-a-revenue-line",
     "ts": "2026-07-07T11:51:46.078Z"
+  },
+  {
+    "hash": "3c78310137f1ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "ai-pilots-measured-wrong-kpi",
+    "ts": "2026-07-07T13:17:04.376Z"
   }
 ]
