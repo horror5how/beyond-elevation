@@ -406,3 +406,4 @@
 2026-07-07 07:53 | urn:li:share:7480167071931207682 | You just assigned your patent instead of licensing it. That mistake costs $840K.
 2026-07-07 10:29 | urn:li:share:7480206322618073088 | post #1 | vcs-repricing-patent-portfolios | VCs just put $75M into patent software in weeks.  DeepIP closed a $25M Series B.
 2026-07-07 10:55 | urn:li:share:7480212875966459904 | You just assigned your patent instead of licensing it. That mistake costs $840K.
+2026-07-07 11:51 | urn:li:share:7480227054995726337 | post #2 | patents-are-a-revenue-line | Your legal team runs a profit center and files it under overhead.  Ceva just won

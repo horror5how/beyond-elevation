@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0062e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "speed-without-a-gate-is-faster-mess",
-    "ts": "2026-07-05T17:54:45.938Z"
-  },
-  {
     "hash": "0081ffffc3e7ff9b",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "vcs-repricing-patent-portfolios",
     "ts": "2026-07-07T10:29:23.235Z"
+  },
+  {
+    "hash": "fff1110177f1ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "patents-are-a-revenue-line",
+    "ts": "2026-07-07T11:51:46.078Z"
   }
 ]

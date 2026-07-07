@@ -3,7 +3,7 @@ date: 2026-07-07
 theme: Capital is repricing both patents and AI on the same metric, measurable return not narrative, and the operators winning both games audit assets and processes before they add anything new.
 generated_at: 2026-07-07T04:00:00Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ If a VC will fund a $55M startup to audit your portfolio, that portfolio is wort
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-07T11:51:46.078Z
+share_urn: urn:li:share:7480227054995726337
 hook_format: frame-break
 cta_goal: clicks
 slug: patents-are-a-revenue-line
