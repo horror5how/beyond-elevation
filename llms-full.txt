@@ -4061,3 +4061,23 @@ Companies with patents are 10.2x more likely to secure early-stage funding. But 
 Patent portfolio optimization is the structured process of evaluating every patent in your portfolio against four criteria: defensive value, licensing potential, sale value, and maintenance cost. The goal is to maximize revenue per patent whil
 
 ---
+
+## IP Due Diligence for VCs: The 9-Point Checklist That Separates a 10x Return From a Write-Off
+
+URL: https://beyondelevation.com/blog/posts/ip-due-diligence-checklist-vc-investors/
+
+73% of VC-backed startups that fail to return capital share one trait: zero documented IP strategy at the time of initial investment. IP due diligence for VCs is the cheapest insurance in venture capital, and almost nobody runs it.
+
+Hayat Amin argues that the IP diligence gap costs venture investors more in write-offs than any market downturn. "I have watched three separate Series B rounds where the lead investor discovered a freedom-to-operate issue six months post-close," says Hayat Amin. "Two of those companies pivoted. One shut down. A 10-hour IP audit before the wire would have flagged all three."
+
+The reason is structural. Most VC due diligence focuses on market size, team quality, revenue trajectory, and unit economics. IP gets a single line item in the legal review, handled by the same law firm that drafted the founders' patent applications. That is not due diligence. That is a receipt check.
+
+This guide breaks down the IP due diligence framework venture capital investors should run before every check, from seed to growth equity.
+
+## What Does IP Due Diligence for VCs Actually Look Like?
+
+IP due diligence for VCs is a structured assessment of a startup's intellectual property position, covering ownership, defensibility, freedom to operate, and licensing potential. It answers one question: is this company's competitive advantage protectable, or is it one competitor filing away from commoditization?
+
+Unlike M&A due diligence, which focuses on what IP assets are being ac
+
+---
