@@ -410,3 +410,4 @@
 2026-07-07 12:55 | urn:li:share:7480243209634504704 | ip-box-tax-rate-jurisdiction-2026 | Your patent earned $500K this year.  In the US you paid 37% tax on royalties.  I
 2026-07-07 13:06 | urn:li:share:7480245877618454528 | Your patent earned $500K this year.  In the US you paid 37% tax on royalties.  I
 2026-07-07 13:17 | urn:li:share:7480248522404032513 | post #3 | ai-pilots-measured-wrong-kpi | Most AI pilots measured the wrong number and died for it.  The token binge is ov
+2026-07-07 15:42 | urn:li:share:7480285045077864451 | post #4 | ai-kills-outbound-volume | By 2027, sending more cold emails becomes a disadvantage.  Zoom just bought Comm

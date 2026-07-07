@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00c1e7ffc1c3fff9",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "license-trade-secret-without-losing-protection",
-    "ts": "2026-07-06T12:49:06.396Z"
-  },
-  {
     "hash": "7ef000713f35ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-pilots-measured-wrong-kpi",
     "ts": "2026-07-07T13:17:04.376Z"
+  },
+  {
+    "hash": "007effffffff2400",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-kills-outbound-volume",
+    "ts": "2026-07-07T15:42:12.067Z"
   }
 ]
