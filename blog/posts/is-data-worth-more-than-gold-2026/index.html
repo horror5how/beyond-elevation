@@ -70,6 +70,17 @@
       .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
       .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
       @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
+      .post-optin { margin: 48px 0 8px; padding: 28px 28px 22px; border-radius: 16px; background: #111; color: #fff; font-family: 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+      .post-optin h3 { margin: 0 0 10px; font-size: 1.32rem; line-height: 1.25; letter-spacing: -0.018em; color: #fff; font-weight: 700; max-width: 30ch; }
+      .post-optin > p { margin: 0 0 18px; color: #d6d2c8; line-height: 1.6; font-size: 0.98rem; }
+      .post-optin-form { display: flex; flex-wrap: wrap; gap: 10px; }
+      .post-optin-form input { flex: 1 1 180px; min-width: 0; padding: 13px 16px; font-size: 0.95rem; border-radius: 100px; border: 1px solid #3a3a3a; background: #1c1c1c; color: #fff; font-family: inherit; }
+      .post-optin-form input::placeholder { color: #8a8a8a; }
+      .post-optin-form input:focus { outline: none; border-color: #fff; }
+      .post-optin-form button { flex: 0 0 auto; padding: 13px 24px; font-size: 0.95rem; font-weight: 700; letter-spacing: -0.005em; border-radius: 100px; background: #fff; color: #111; border: 2px solid #fff; cursor: pointer; transition: transform 0.2s ease, background 0.2s ease; }
+      .post-optin-form button:hover { background: #f0ece2; transform: translateY(-1px); }
+      .post-optin-fine { margin: 12px 0 0; font-size: 0.82rem; color: #8a8a8a; line-height: 1.5; }
+      @media (max-width: 760px) { .post-optin { padding: 22px 20px 18px; border-radius: 14px; } .post-optin h3 { font-size: 1.18rem; } .post-optin-form button { flex: 1 1 100%; } }
       .related-posts { margin: 64px 0 0; padding: 48px 0 0; border-top: 1px solid #e8e8e8; }
       .related-eyebrow { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; }
       .related-head h2 { margin: 8px 0 28px; font-size: 1.6rem; line-height: 1.18; letter-spacing: -0.02em; color: #1a1a1a; }
@@ -200,6 +211,17 @@
 
 <p>Hayat Amin argues that every company sitting on proprietary data is sitting on an asset more valuable than gold — they just have not done the work to prove it. The companies that do the work earn 11% of revenue from data. The companies that do not earn 2%. The difference is not the data. It is the decision to treat it as a product.</p>
 
+
+<aside class="post-optin">
+  <h3>Get the IP Leverage Audit (free PDF)</h3>
+  <p>The 12-point teardown Beyond Elevation runs on founder portfolios: what your IP is actually worth, the royalty range it supports, and the 3 filings that move your exit multiple. Straight to your inbox.</p>
+  <form class="post-optin-form" action="/api/lead-magnet" method="POST">
+    <input name="firstName" type="text" placeholder="First name" autocomplete="given-name" aria-label="First name" required />
+    <input name="email" type="email" placeholder="Work email" autocomplete="email" aria-label="Work email" required />
+    <button type="submit">Send me the PDF →</button>
+  </form>
+  <p class="post-optin-fine">No spam. Unsubscribe in one click.</p>
+</aside>
 
 <aside class="post-cta">
   <h3>You just read the framework. Now price your own IP.</h3>
