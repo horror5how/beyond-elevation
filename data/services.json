@@ -1,10 +1,10 @@
 [
   {
     "slug": "ai-patent-intelligence-dashboard",
-    "title": "Use our BE.AI Agent",
+    "title": "Patent Intelligence Dashboard",
     "tagline": "Most patent attorneys charge $30K to tell you what our AI tells you in 8 minutes.",
     "hook": "Most patent attorneys charge $30K to tell you what our AI tells you in 8 minutes.",
-    "subheading": "Real-time competitive patent intelligence built by operators, not lawyers. Know exactly which patents in your space are blocking you, which to file, which to license, and which to ignore — before your next board meeting.",
+    "subheading": "Software that watches your competitors' patents for you, 24/7. It tells you what's blocking you, what to file, what to license, and what to ignore.",
     "price": "$980 / month",
     "priceNote": "Cancel anytime. Onboarding included.",
     "ctaPrimary": "Start Your Dashboard",
@@ -19,11 +19,11 @@
     "whatYouGet": [
       {"title": "Live competitor patent feed", "body": "Every patent your top 20 competitors file, indexed and explained in plain English the day it publishes. No more $1,200/hour associates summarising PDFs."},
       {"title": "AI patentability scoring", "body": "Drop in any technical idea, get a defensibility score against the entire prior art landscape in under 8 minutes. Built on our proprietary scoring framework refined across 200+ portfolios."},
-      {"title": "White-space map", "body": "A real visual showing exactly where the patent gaps are in your category — the unfiled claims your competitors haven't seen yet. This is where the licensing revenue lives."},
+      {"title": "White-space map", "body": "A real visual showing exactly where the patent gaps are in your category. These are the unfiled claims your competitors haven't seen yet. This is where the licensing revenue lives."},
       {"title": "Block + leverage alerts", "body": "We tell you the moment a competitor's filing creates a blocking risk to your roadmap, and the moment a white-space window opens up. Both are time-sensitive. Both are revenue."},
       {"title": "Monthly operator review", "body": "Once a month, a senior Beyond Elevation strategist (not a junior analyst) walks you through what changed and what to do about it. Human + AI. Always."}
     ],
-    "unfairAdvantage": "Every other patent intelligence tool was built by lawyers for lawyers. Ours was built by operators who have closed eight-figure licensing deals. The dashboard does not tell you what is patentable — it tells you what is profitable. There is a difference and it is the entire game.",
+    "unfairAdvantage": "Every other patent intelligence tool was built by lawyers for lawyers. Ours was built by operators who have closed eight-figure licensing deals. The dashboard does not tell you what is patentable. It tells you what is profitable. There is a difference and it is the entire game.",
     "guarantee": "If your dashboard does not surface at least one revenue lever or competitive risk in your first 30 days, we refund the month. No forms. No call.",
     "faqs": [
       {"q": "How is this different from PatSnap or Questel?", "a": "Those tools were built for patent attorneys to do prior art searches. Ours was built for CEOs to make commercial decisions. We score patents on revenue potential and defensibility, not legal novelty. Different output, different decisions, different price."},
@@ -35,45 +35,45 @@
   },
   {
     "slug": "patentability-audit",
-    "title": "Patentability Audit + IP Strategy Sprint",
+    "title": "90-Day IP Audit + Strategy Sprint",
     "tagline": "VCs do not buy ideas. They buy reasons your idea cannot be copied. We build the reasons.",
     "hook": "Companies with patents are 10.2x more likely to secure early-stage funding. Most founders show up to their seed round with zero. Do not be most founders.",
-    "subheading": "A 90-day audit + filing sprint for early-stage tech companies. We find every patentable asset hiding in your codebase, your data, and your engineering team's heads — then file the right ones before your next term sheet. Hayat Amin's framework, run by operators, not patent attorneys.",
-    "price": "$6,500 / month — 3 months",
-    "priceNote": "Fixed scope. Fixed price. Fixed outcome.",
+    "subheading": "A 90-day sprint for early-stage tech companies. We find every patentable asset hiding in your code, data, and team. Then we file the right ones before your next term sheet.",
+    "price": "$6,500",
+    "priceNote": "One-time fee for the full 90-day sprint. Fixed scope. Fixed price. Fixed outcome.",
     "ctaPrimary": "Book the Audit",
     "ctaSecondary": "Talk to Hayat First",
     "category": "Early-Stage IP Foundation",
     "whoFor": [
       "Pre-seed to Series A founders raising in the next 6 months",
       "Technical CEOs whose engineers have built defensible IP without realising it",
-      "Founders advised by a patent attorney to 'wait until after the round' — that is the wrong answer",
+      "Founders advised by a patent attorney to 'wait until after the round'. That is the wrong answer",
       "Companies with proprietary data, AI models, or engineering know-how and zero filings"
     ],
     "whatYouGet": [
-      {"title": "Month 1 — Patent mining", "body": "We sit with your engineering team and extract every patentable asset hiding in your stack. Most early-stage companies have 4 to 9 patentable inventions they did not know existed. We find them. Hayat Amin calls this Patent Mining and it is the fastest way we know to multiply IP value in 30 days."},
-      {"title": "Month 2 — Strategic filing plan", "body": "We score every asset against the IP Defensibility 7-Point Test, kill the weak ones, and build a filing sequence that maps to your fundraise timeline. You do not file 12 weak patents. You file 3 strong ones that block competitors and price into your valuation."},
-      {"title": "Month 3 — Filings + the investor narrative", "body": "We coordinate with your patent counsel to file the chosen claims, then build the 1-page IP defensibility narrative your investors will actually read. This is the sheet that anchors your valuation conversation."},
-      {"title": "Bonus — Trade secret + know-how playbook", "body": "Not everything should be patented. Some things should be locked down as trade secrets and employee assignments. We build the playbook for what stays open, what gets filed, and what gets buried."},
-      {"title": "Bonus — Fundraise-ready 1-pager", "body": "A single page summarising your IP moat, written in the language VCs actually use. You will paste this into your data room and your term sheet conversation."}
+      {"title": "Month 1: Patent mining", "body": "We sit with your engineering team and extract every patentable asset hiding in your stack. Most early-stage companies have 4 to 9 patentable inventions they did not know existed. We find them. Hayat Amin calls this Patent Mining and it is the fastest way we know to multiply IP value in 30 days."},
+      {"title": "Month 2: Strategic filing plan", "body": "We score every asset against the IP Defensibility 7-Point Test, kill the weak ones, and build a filing sequence that maps to your fundraise timeline. You do not file 12 weak patents. You file 3 strong ones that block competitors and price into your valuation."},
+      {"title": "Month 3: Filings and the investor story", "body": "We coordinate with your patent counsel to file the chosen claims, then build the 1-page IP defensibility narrative your investors will actually read. This is the sheet that anchors your valuation conversation."},
+      {"title": "Bonus: Trade secret and know-how playbook", "body": "Not everything should be patented. Some things should be locked down as trade secrets and employee assignments. We build the playbook for what stays open, what gets filed, and what gets buried."},
+      {"title": "Bonus: Fundraise-ready 1-pager", "body": "A single page summarising your IP moat, written in the language VCs actually use. You will paste this into your data room and your term sheet conversation."}
     ],
-    "unfairAdvantage": "Patent attorneys are paid to file. We are paid for what those filings become — funding, valuation, licensing revenue. That is a different incentive and it produces different work. Hayat Amin restructured Position Imaging's 66-patent portfolio into eight figures of recurring royalties using exactly this framework. We are running the same playbook on your company, in 90 days, for $19,500 total.",
+    "unfairAdvantage": "Patent attorneys are paid to file. We are paid for what those filings become: funding, valuation, licensing revenue. That is a different incentive and it produces different work. Hayat Amin restructured Position Imaging's 66-patent portfolio into eight figures of recurring royalties using exactly this framework. We are running the same playbook on your company, in 90 days, for $6,500 total.",
     "guarantee": "If we do not identify at least 3 patentable assets in month one that your patent attorney missed, we refund month one. We have never refunded month one.",
     "faqs": [
       {"q": "Why not just use my patent attorney?", "a": "Patent attorneys file what you bring them. They are not paid to find what you missed, score what is commercially defensible, or pressure-test your IP against an investor diligence. We do those three things, then hand the chosen claims to your attorney to file. Use both. Different jobs."},
       {"q": "Do you replace my patent attorney?", "a": "No. We work alongside them. We do the strategy and the mining, they do the filing. If you do not have one, we introduce you to the right one for your stage and category."},
       {"q": "What if we have nothing patentable?", "a": "In 4 years and 200+ audits we have never seen this happen with a real tech company. If it does, we tell you on day 3 and refund the engagement. We are not in the business of selling work that does not exist."},
-      {"q": "How fast can we start?", "a": "Two weeks from contract to kickoff. The 3-month clock starts on day one of month one — no setup time hidden in the bill."},
+      {"q": "How fast can we start?", "a": "Two weeks from contract to kickoff. The 3-month clock starts on day one of month one. No setup time hidden in the bill."},
       {"q": "Is the price negotiable?", "a": "No. Fixed scope, fixed price, fixed outcome. Negotiating the audit is a signal you do not value the asset, and that is the company we are not the right firm for."}
     ]
   },
   {
     "slug": "fractional-ip-cxo",
-    "title": "Fractional IP CxO — Licensing Revenue + Exit Multiple",
+    "title": "Part-Time Chief IP Officer",
     "tagline": "Hire the operator who turned 66 patents into eight figures of royalty revenue. Part-time. Embedded in your company.",
-    "hook": "An exited CxO joins your company two days a week and runs your entire IP operation — licensing, blocking patents, employment IP, M&A defence. The same playbook that built a $100M royalty stream at Position Imaging.",
-    "subheading": "For companies who have already filed patents and now need to turn those filings into revenue, leverage, and a multi-billion exit narrative. We embed a senior operator in your business as a fractional Chief IP Officer. They run the dashboard, the licensing strategy, the GTM, the employment IP, and the investor narrative. You stop guessing and start compounding.",
-    "price": "Get in touch for pricing",
+    "hook": "An exited Chief IP Officer joins your company two days a week and runs your entire IP operation: licensing, blocking patents, employment IP, M&A defence. The same playbook that built a $100M royalty stream at Position Imaging.",
+    "subheading": "For companies with filed patents that earn nothing yet. A senior operator joins your team two days a week as your part-time Chief IP Officer. They run licensing, filings, and the investor story until your IP pays.",
+    "price": "$8,000 / month",
     "priceNote": "Engagements start at 6 months. Outcome-based fees available for licensing programmes.",
     "ctaPrimary": "Get in Touch",
     "ctaSecondary": "Book a Strategy Call With Hayat",
@@ -92,14 +92,14 @@
       {"title": "Exit-ready IP narrative", "body": "When you go to market for a sale or a Series C, we hand the buyer a complete IP story: portfolio map, licensing P&L, blocking patents, employment chain, future filings. This is the page that adds 2 to 4x to your exit multiple."},
       {"title": "AI Patent Intelligence Dashboard included", "body": "The full dashboard is bundled into every Fractional CxO engagement at no extra cost. You get the tooling and the operator running it."}
     ],
-    "unfairAdvantage": "There is no other IP firm in the world where an exited operator joins your company part-time and gets paid on the outcome. Lawyers bill by the hour. Consultants bill for slides. We bill for revenue, valuation, and exit multiple. That is the difference between a service provider and a partner. We are operators and business strategists, not lawyers — and that is the unfair advantage you want sitting in your leadership team.",
+    "unfairAdvantage": "There is no other IP firm in the world where an exited operator joins your company part-time and gets paid on the outcome. Lawyers bill by the hour. Consultants bill for slides. We bill for revenue, valuation, and exit multiple. That is the difference between a service provider and a partner. We are operators and business strategists, not lawyers. That is the unfair advantage you want sitting in your leadership team.",
     "guarantee": "First 90 days are a proof window. If we do not identify either a licensing opportunity worth more than the annual fee, or a blocking move that materially changes your competitive position, we end the engagement and refund the first 90 days. No call required.",
     "faqs": [
       {"q": "Why fractional and not full-time?", "a": "A full-time CIPO costs $350K to $500K base plus equity, and most growth-stage companies do not need that volume of work. They need a senior operator two days a week, with the entire Beyond Elevation bench behind them. You get the seniority without the carry cost."},
       {"q": "Who actually joins my company?", "a": "An exited Beyond Elevation operator with at least one eight-figure licensing or IP-driven exit in their history. We do not staff this engagement with juniors. You meet the person before you sign."},
       {"q": "What size company is this for?", "a": "Series B and beyond, with at least $5M ARR or a real fundraising pipeline, and at least 3 filed patent applications. If you are smaller, start with the Patentability Audit and graduate up."},
-      {"q": "How do you charge?", "a": "Mix of monthly retainer plus outcome fees on closed licensing deals. Some clients prefer pure retainer, some prefer pure success-based on licensing revenue. We will structure it around what you actually need to win."},
-      {"q": "How fast can you start?", "a": "Three to four weeks from contract. We do not rush operator placement — the wrong operator costs you a quarter, the right one rewrites your exit story."}
+      {"q": "How do you charge?", "a": "$8,000 USD per month retainer for the embedded part-time Chief IP Officer, plus optional outcome fees on closed licensing deals. Some clients prefer pure retainer, some prefer a heavier success-based mix on licensing revenue. We will structure it around what you actually need to win."},
+      {"q": "How fast can you start?", "a": "Three to four weeks from contract. We do not rush operator placement. The wrong operator costs you a quarter. The right one rewrites your exit story."}
     ]
   }
 ]

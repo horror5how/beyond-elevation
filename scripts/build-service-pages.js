@@ -96,10 +96,10 @@ function header() {
         <span>Beyond Elevation</span>
       </a>
       <nav>
-        <a href="/#thesis">Problem</a>
-        <a href="/services/">Pricing</a>
+        <a href="/#thesis">What We Do</a>
         <a href="/case-studies/">Case Studies</a>
         <a href="/blog/">Insights</a>
+        <a href="/services/">Pricing</a>
       </nav>
       <div class="topbar-right">
         <a class="topbar-phone" href="tel:+15713807699">(571) 380-7699</a>
@@ -209,7 +209,7 @@ ${schemas.map(s => `    <script type="application/ld+json">${JSON.stringify(s)}<
 
 function servicePageHTML(svc) {
   const canonical = `${SITE}/services/${svc.slug}/`;
-  const title = `${svc.title} — Beyond Elevation`;
+  const title = `${svc.title} | Beyond Elevation`;
   const description = svc.subheading;
 
   const schemas = [serviceSchema(svc), faqSchema(svc), breadcrumbSchema(svc)];
@@ -290,13 +290,13 @@ ${footer()}
 
 function indexPageHTML(services) {
   const canonical = `${SITE}/services/`;
-  const title = 'Pricing — Beyond Elevation | Turn Dormant IP Into Revenue, Valuation, and Exit Multiple';
-  const description = 'Three playbooks, priced for outcomes. BE.AI Agent from $980/mo. 90-day IP Strategy Sprint at $6,500/mo. Fractional IP CxO, custom. 30-day leverage guarantee. Operators, not lawyers.';
+  const title = 'Pricing | Beyond Elevation';
+  const description = 'Three playbooks, priced for outcomes. Patent Intelligence Dashboard from $980/mo. 90-day IP Audit + Strategy Sprint at $6,500 one-time. Part-Time Chief IP Officer at $8,000/mo. 30-day leverage guarantee. Operators, not lawyers.';
 
   // Stronger, Hormozi-style card descriptions keyed by slug (override weaker JSON taglines on the pricing index)
   const descBySlug = {
     'ai-patent-intelligence-dashboard': {
-      desc: 'Your patent attorney charges $30K and spends 5 weeks for a single report. BE.AI monitors 24/7 and costs less than a team lunch. Monitor what competitors filed, what your technology gaps are, what patents to file, hidden opportunities and many more. All on autopilot.',
+      desc: 'Software that watches your competitors\' patents for you. Your patent attorney charges $30K and takes 5 weeks for a single report. The dashboard monitors 24/7 and costs less than a team lunch. It shows what competitors filed, where your gaps are, and what to file next. All on autopilot.',
       fit: 'Pre-seed to Series A founders who need patent intelligence without a $30K retainer.',
     },
     'patentability-audit': {
@@ -304,7 +304,7 @@ function indexPageHTML(services) {
       fit: 'Founders raising a round in the next 6 months who need investor-grade IP proof, not legal filings.',
     },
     'fractional-ip-cxo': {
-      desc: 'Hire the operator who turned 66 patents into $1.8M+ in royalty revenue at Position Imaging. Part-time CxO. Full-time leverage. Embedded in your company until your IP writes its own checks.',
+      desc: 'A senior IP executive on your team, two days a week. Hire the operator who turned 66 patents into $1.8M+ in royalty revenue at Position Imaging. Embedded until your IP writes its own checks.',
       fit: 'Series B+ companies with a technical moat that\'s sitting on the balance sheet instead of the P&L.',
     },
   };
@@ -409,9 +409,9 @@ ${header()}
     <main class="shell svc-page">
       <article class="svc-shell" style="max-width:1200px">
         <p class="svc-eyebrow">Pricing &amp; Playbooks</p>
-        <h1>Turn your product data into valuation leverage, revenue and MOAT!</h1>
+        <h1>Three ways to turn your IP into money.</h1>
         <p class="svc-tagline">We're not patent attorneys. We're operators.</p>
-        <p class="svc-sub">Pick the playbook that matches where your company is. If you're not sure, we'll tell you on the call — including if the honest answer is none of them.</p>
+        <p class="svc-sub">Pick the one that matches where your company is. Not sure? Book the free call and we'll tell you, even if the honest answer is none of them.</p>
 
         <div class="sc-grid">
 ${services.map((s, i) => {
@@ -442,19 +442,19 @@ ${c.tags.map(t => `                <span class="sc-tag">${t}</span>`).join('\n')
         <section class="svc-compare">
           <div class="svc-compare-inner">
             <h2>What it costs to do nothing.</h2>
-            <p class="svc-compare-sub">Every quarter without an IP strategy quietly taxes your company. Most founders don't see the bill until they raise or sell — when it's too late to fix.</p>
+            <p class="svc-compare-sub">Every quarter without an IP strategy quietly taxes your company. Most founders don't see the bill until they raise or sell, when it's too late to fix.</p>
             <div class="svc-compare-grid">
               <div class="svc-compare-item">
                 <div class="svc-compare-num">$4.2M</div>
                 <p>Average valuation lift we've delivered per client when IP is restructured <em>before</em> the raise, not after.</p>
               </div>
               <div class="svc-compare-item">
-                <div class="svc-compare-num">2–3x</div>
+                <div class="svc-compare-num">2-3x</div>
                 <p>Exit-multiple compression when you go to market without defensible IP or a licensing story. Buyers pay for moats, not pitches.</p>
               </div>
               <div class="svc-compare-item">
                 <div class="svc-compare-num">$30K+</div>
-                <p>What law firms charge to produce what our BE.AI Agent produces in 8 minutes — and they still won't tell you how to monetize it.</p>
+                <p>What law firms charge to produce what our Patent Intelligence Dashboard produces in 8 minutes. And they still won't tell you how to monetize it.</p>
               </div>
             </div>
           </div>
@@ -463,8 +463,8 @@ ${c.tags.map(t => `                <span class="sc-tag">${t}</span>`).join('\n')
         <section class="svc-guarantee-band">
           <div class="svc-guarantee-inner">
             <div class="svc-guarantee-badge">The 30-Day Leverage Guarantee</div>
-            <h2>Find $100K of IP leverage in 30 days — or we refund you.</h2>
-            <p>On the Audit Sprint and Fractional CxO tracks: if we can't identify at least $100K of defensible IP leverage, licensing opportunity, or valuation uplift in the first 30 days, we refund you in full. No paperwork. No argument. No hard feelings.</p>
+            <h2>Find $100K of IP leverage in 30 days or we refund you.</h2>
+            <p>On the Audit Sprint and Part-Time Chief IP Officer tracks: if we can't identify at least $100K of defensible IP leverage, licensing opportunity, or valuation uplift in the first 30 days, we refund you in full. No paperwork. No argument. No hard feelings.</p>
             <p class="svc-guarantee-sub">We can make this offer because we've never missed it. 66 patents restructured. $1.8M+ in royalty revenue generated. 4.5 on Trustpilot. You're not the first. You're the next.</p>
           </div>
         </section>
@@ -472,11 +472,11 @@ ${c.tags.map(t => `                <span class="sc-tag">${t}</span>`).join('\n')
         <section class="svc-faq-band">
           <h2>Objections, killed.</h2>
           <div class="svc-faq-list">
-            <details class="svc-faq-item"><summary>I already have a patent attorney. Why do I need you?</summary><p>Attorneys file. We monetize. A lawyer drafts claims to survive the USPTO. We build portfolios to survive a cap table, a licensing negotiation, and an exit. Different job. Different outcome. Most of our clients keep their attorney — and add us on top.</p></details>
-            <details class="svc-faq-item"><summary>Can't I just file patents myself and figure it out later?</summary><p>You can. You'll also burn $40K–$120K per patent family, file claims that don't map to revenue, and discover in diligence that the moat you thought you had doesn't exist. "Later" is when acquirers knock 2–3x off your multiple. We help you file the right 6 patents instead of the wrong 20.</p></details>
-            <details class="svc-faq-item"><summary>How fast before I see ROI?</summary><p>BE.AI Agent: week one — every hour of attorney billing you skip is ROI. Audit Sprint: 90 days — investor-grade IP deliverables priced to move a round. Fractional CxO: 6–12 months — first licensing checks, one full portfolio restructure, one clear exit story.</p></details>
-            <details class="svc-faq-item"><summary>We're pre-seed. Is it too early?</summary><p>No. Pre-seed is the cheapest it will ever be to build the moat. BE.AI Agent at $980/mo is designed for exactly this stage. File right, file cheap, file first — or explain to your Series A lead why a competitor got there before you did.</p></details>
-            <details class="svc-faq-item"><summary>What if none of these fit?</summary><p>We'll tell you on the call. We've told plenty of founders "not yet" or "not us." The 30-minute IP diagnostic is free — and the fastest straight answer you'll get all quarter.</p></details>
+            <details class="svc-faq-item"><summary>I already have a patent attorney. Why do I need you?</summary><p>Attorneys file. We monetize. A lawyer drafts claims to survive the USPTO. We build portfolios to survive a cap table, a licensing negotiation, and an exit. Different job. Different outcome. Most of our clients keep their attorney and add us on top.</p></details>
+            <details class="svc-faq-item"><summary>Can't I just file patents myself and figure it out later?</summary><p>You can. You'll also burn $40K to $120K per patent family, file claims that don't map to revenue, and discover in diligence that the moat you thought you had doesn't exist. "Later" is when acquirers knock 2 to 3x off your multiple. We help you file the right 6 patents instead of the wrong 20.</p></details>
+            <details class="svc-faq-item"><summary>How fast before I see ROI?</summary><p>Patent Intelligence Dashboard: week one. Every hour of attorney billing you skip is ROI. Audit Sprint: 90 days. Investor-grade deliverables for $6,500 flat. Part-Time Chief IP Officer: 6 to 12 months. First licensing checks, one full portfolio restructure, one clear exit story.</p></details>
+            <details class="svc-faq-item"><summary>We're pre-seed. Is it too early?</summary><p>No. Pre-seed is the cheapest it will ever be to build the moat. The Patent Intelligence Dashboard at $980/mo is designed for exactly this stage. File right, file cheap, file first. Or explain to your Series A lead why a competitor got there before you did.</p></details>
+            <details class="svc-faq-item"><summary>What if none of these fit?</summary><p>We'll tell you on the call. We've told plenty of founders "not yet" or "not us." The 30-minute IP diagnostic is free, and it's the fastest straight answer you'll get all quarter.</p></details>
           </div>
         </section>
 
