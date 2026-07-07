@@ -35,7 +35,7 @@ The numbers back this up. Companies that protect AI model components as trade se
 
 ## The Hayat Amin Prompt IP Decision Tree: File, Secret, License, or Open?
 
-Every prompt asset in your library falls into one of four categories. The Hayat Amin Prompt IP Decision Tree runs four questions in sequence to classify each one. Get this wrong and you either overspend on patents that disclose your competitive advantage, or underprotect assets that walk out the door with your next departing engineer.
+Every prompt asset in your library falls into one of four categories. The decision tree runs four questions in sequence to classify each one. Get this wrong and you either overspend on patents that disclose your competitive advantage, or underprotect assets that walk out the door with your next departing engineer.
 
 **Question 1: Does this prompt chain produce a measurable, technical result that a general-purpose LLM cannot replicate without the chain?** If yes, it is patent-eligible. Move to Question 2. If no, skip to Question 3.
 
