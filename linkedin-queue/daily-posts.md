@@ -3,7 +3,7 @@ date: 2026-07-07
 theme: Capital is repricing both patents and AI on the same metric, measurable return not narrative, and the operators winning both games audit assets and processes before they add anything new.
 generated_at: 2026-07-07T04:00:00Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -155,7 +155,9 @@ The winners send fewer, later, and only when the signal fires.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-07T18:55:00.354Z
+share_urn: urn:li:share:7480333563993972737
 hook_format: story
 cta_goal: clicks
 slug: fix-the-process-before-ai

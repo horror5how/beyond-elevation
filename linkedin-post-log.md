@@ -412,3 +412,4 @@
 2026-07-07 13:17 | urn:li:share:7480248522404032513 | post #3 | ai-pilots-measured-wrong-kpi | Most AI pilots measured the wrong number and died for it.  The token binge is ov
 2026-07-07 15:42 | urn:li:share:7480285045077864451 | post #4 | ai-kills-outbound-volume | By 2027, sending more cold emails becomes a disadvantage.  Zoom just bought Comm
 2026-07-07 17:51 | urn:li:share:7480317625730998273 | One patent at exit gets you 1.4x. Stack patents, trade secrets, and a data licen
+2026-07-07 18:55 | urn:li:share:7480333563993972737 | post #5 | fix-the-process-before-ai | A client wanted more AI. I removed some.  They had bolted GPT onto an invoicing 
