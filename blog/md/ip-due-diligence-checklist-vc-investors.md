@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 73% of VC-backed startups that fail to return capital share one trait: zero documented IP strategy at the time of initial investment. IP due diligence for VCs is the cheapest insurance in venture capital, and almost nobody runs it.
 
-Hayat Amin argues that the IP diligence gap costs venture investors more in write-offs than any market downturn. "I have watched three separate Series B rounds where the lead investor discovered a freedom-to-operate issue six months post-close," says Hayat Amin. "Two of those companies pivoted. One shut down. A 10-hour IP audit before the wire would have flagged all three."
+Hayat Amin argues that the IP diligence gap costs venture investors more in write-offs than any market downturn. "I have watched three separate Series B rounds where the lead investor discovered a freedom-to-operate issue six months post-close," Two of those companies pivoted. One shut down. A 10-hour IP audit before the wire would have flagged all three."
 
 The reason is structural. Most VC due diligence focuses on market size, team quality, revenue trajectory, and unit economics. IP gets a single line item in the legal review, handled by the same law firm that drafted the founders' patent applications. That is not due diligence. That is a receipt check.
 
@@ -37,7 +37,7 @@ Third, "the market is moving too fast." Speed does not eliminate risk. It concen
 
 ## What Is Hayat Amin's 9-Point VC IP Due Diligence Checklist?
 
-Hayat Amin's VC IP Due Diligence 9-Point Checklist is the framework Beyond Elevation runs on every portfolio assessment. Each point takes 30 to 60 minutes of specialist time. The full audit runs in under 10 hours and costs less than 0.5% of the average VC check size.
+The checklist is the framework Beyond Elevation runs on every portfolio assessment. Each point takes 30 to 60 minutes of specialist time. The full audit runs in under 10 hours and costs less than 0.5% of the average VC check size.
 
 **1. Ownership chain.** Verify that every founder, employee, and contractor has signed IP assignment agreements valid in the relevant jurisdictions. Check for pre-existing IP that was never formally assigned. Gaps here kill deals at exit.
 
