@@ -4043,3 +4043,21 @@ Yes, you can patent a business model in 2026, but only if the claims anchor to a
 Before the reset, examiners routinely stamped business method applications as "mental processes" or "methods of organizing human activity." The new guidance narrows both exclusions. A machine learning pipeline that o
 
 ---
+
+## Patent Portfolio Optimization: The 4-Bucket Triage That Turns 40% of Your IP Into Revenue
+
+URL: https://beyondelevation.com/blog/posts/patent-portfolio-optimization-triage/
+
+60% of the patents in a typical startup's portfolio generate zero revenue. Not because they are bad patents. Because nobody sorted them into the right bucket.
+
+Hayat Amin calls it the "portfolio monolith problem": founders treat every patent the same, pay maintenance fees on all of them, and license none of them. Patent portfolio optimization is the process that fixes this. It categorizes every patent into one of four revenue-generating buckets and kills the ones that belong in none of them.
+
+Beyond Elevation has run patent portfolio optimization on portfolios ranging from 7 patents to 200+. The consistent finding: 30-40% of patents in the average portfolio drain maintenance fees without generating revenue, defensive value, or licensing potential. Cutting those alone saves $50K-$200K per year. Redirecting that budget into licensing the top 20% generates multiples more.
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But companies with optimized patent portfolios command 2-4x higher licensing revenue than those that treat their IP as a static collection. This is the patent portfolio optimization framework that separates revenue-generating IP from expensive wall art.
+
+## What Is Patent Portfolio Optimization?
+
+Patent portfolio optimization is the structured process of evaluating every patent in your portfolio against four criteria: defensive value, licensing potential, sale value, and maintenance cost. The goal is to maximize revenue per patent whil
+
+---

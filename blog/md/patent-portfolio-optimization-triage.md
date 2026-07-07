@@ -2,8 +2,8 @@
 title: "Patent Portfolio Optimization: The 4-Bucket Triage That Turns 40% of Your IP Into Revenue"
 slug: patent-portfolio-optimization-triage
 date: 2026-07-07
-url: https://beyondelevation.com/blog/post.html?slug=patent-portfolio-optimization-triage
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-portfolio-optimization-triage/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ Hayat Amin reminds founders that patent portfolio optimization is not a legal pr
 
 [Beyond Elevation](https://beyondelevation.com) runs patent portfolio optimization as a fixed-scope engagement: portfolio intake, claim mapping, market coverage analysis, 4-bucket triage, and a revenue roadmap. The output is a decision-ready portfolio map that your board, your investors, and your licensing team can act on immediately.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-portfolio-optimization-triage)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How many patents do I need before patent portfolio optimization is worthwhile?
@@ -94,3 +108,6 @@ A [patent audit](/blog/posts/what-is-an-ip-audit-2026-process/) identifies what 
 ### Does patent portfolio optimization affect company valuation?
 
 Yes. Investors value structured, revenue-generating patent portfolios at a 15-20% premium over unoptimized ones of the same size. A portfolio with clear bucket assignments, active licensing conversations, and a documented revenue roadmap signals operational maturity. Companies with patents are 10.2x more likely to secure early-stage funding, but the multiple depends on the portfolio's strategic clarity, not its raw patent count.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

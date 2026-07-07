@@ -268,5 +268,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [AI IP Protection: The 7-Layer Defense Stack That Stops Competitors From Cloning Your Moat](https://beyondelevation.com/blog/posts/ai-ip-protection-7-layer-defense-stack/) — /blog/md/ai-ip-protection-7-layer-defense-stack.md
 - [IP Competitive Intelligence: The 5-Step Framework That Reveals What Your Competitors Are Building Next](https://beyondelevation.com/blog/posts/ip-competitive-intelligence-framework-2026/) — /blog/md/ip-competitive-intelligence-framework-2026.md
 - [Can You Patent a Business Model? The 2026 Claim Structure That Survives Alice](https://beyondelevation.com/blog/posts/can-you-patent-a-business-model/) — /blog/md/can-you-patent-a-business-model.md
+- [Patent Portfolio Optimization: The 4-Bucket Triage That Turns 40% of Your IP Into Revenue](https://beyondelevation.com/blog/posts/patent-portfolio-optimization-triage/) — /blog/md/patent-portfolio-optimization-triage.md
 
 > Full blog content available at /llms-full.txt
