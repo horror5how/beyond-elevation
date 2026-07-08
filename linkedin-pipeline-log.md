@@ -864,3 +864,4 @@ Post 5: hook_too_long(11w)
 2026-07-08 12:18 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
 2026-07-08 12:18 | li-auto-post | render OK | post #3 | layout=c accent=#d7b086 hash=fff901790f37ffff minDist=14 attempts=2
 2026-07-08 15:18 | li-auto-post | render OK | post #4 | layout=b accent=#d7b086 hash=0044ffffc381ff99 minDist=7 attempts=1
+2026-07-08 18:12 | li-auto-post | render OK | post #5 | layout=a accent=#d7b086 hash=81ffffffffff3434 minDist=8 attempts=1

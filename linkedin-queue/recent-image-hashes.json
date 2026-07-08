@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c78310137f1ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "ai-pilots-measured-wrong-kpi",
-    "ts": "2026-07-07T13:17:04.376Z"
-  },
-  {
     "hash": "007effffffff2400",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "revops-team-of-four-outsold-eleven",
     "ts": "2026-07-08T15:18:38.668Z"
+  },
+  {
+    "hash": "81ffffffffff3434",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "ai-token-binge-is-over-payback-rule",
+    "ts": "2026-07-08T18:12:23.282Z"
   }
 ]

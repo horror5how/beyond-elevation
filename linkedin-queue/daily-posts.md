@@ -3,7 +3,7 @@ date: 2026-07-08
 theme: The patent portfolio and the AI workflow are the two assets founders keep expensing when they should be capitalizing them.
 generated_at: 2026-07-08T04:00:00Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -151,7 +151,9 @@ Curious where your cycle time leaks? DM me.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-08T18:12:23.282Z
+share_urn: urn:li:share:7480685228701917184
 hook_format: prediction
 cta_goal: clicks
 slug: ai-token-binge-is-over-payback-rule
