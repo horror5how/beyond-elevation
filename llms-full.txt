@@ -4153,3 +4153,21 @@ You can patent an API's underlying method, system architecture, and data process
 This distinction trips up founders constantly. The 2021 Google v. Oracle Supreme Court ruling addressed copyright, not patents. The Court ruled that Google's use of the Java SE API declarations constituted fair use. That decision says nothing about whether the functional process behind an API qualifies for patent protection. Under
 
 ---
+
+## How to Price an IP License Without Leaving Half Your Revenue on the Table
+
+URL: https://beyondelevation.com/blog/posts/how-to-price-ip-license-royalty-stack/
+
+Hayat Amin says the number one licensing mistake is not a bad deal. It is a bad price. Founders who set their first royalty rate without a structured framework leave 30 to 50 percent of their licensing revenue on the table. Most never realize it because they anchor to industry benchmarks instead of buyer economics.
+
+Pricing an IP license correctly is the difference between a deal that covers legal fees and a deal that funds your next product line. Beyond Elevation built the Royalty Stack Framework to solve this exact problem: how to price an IP license so the number you quote is defensible, profitable, and tied to real deal economics.
+
+## Why Do Most Founders Underprice Their IP Licenses?
+
+Most founders underprice because they start from their own costs instead of the licensee's economics. They add up patent filing fees, prosecution costs, and R&D hours, then slap a margin on top. That is cost-plus pricing. It has no relationship to what the license is actually worth to the buyer.
+
+The second mistake is anchoring to the 25 percent rule. For decades, IP attorneys told clients to demand 25 percent of the licensee's expected profits from the patented technology. The rule was [thrown out by the Federal Circuit in 2011](/blog/posts/25-percent-rule-ip-royalties-dead-2026/) for being arbitrary. Yet founders still use it because no one taught them what replaced it.
+
+Hayat Amin argues that the replacement is not a single number but a stacking method. The right royalty rate is a compos
+
+---
