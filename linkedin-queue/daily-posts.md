@@ -3,7 +3,7 @@ date: 2026-07-08
 theme: The patent portfolio and the AI workflow are the two assets founders keep expensing when they should be capitalizing them.
 generated_at: 2026-07-08T04:00:00Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ Build a moat, do not rent one. Capitalize the patent. Expense the tool.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-08T11:06:28.518Z
+share_urn: urn:li:share:7480578043837648896
 hook_format: number-led
 cta_goal: clicks
 slug: one-patent-line-beats-product-lines
