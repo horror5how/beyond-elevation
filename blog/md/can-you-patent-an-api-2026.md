@@ -2,8 +2,8 @@
 title: "Can You Patent an API? The 2026 Claim Strategy That Turns Your Endpoints Into Enforceable IP"
 slug: can-you-patent-an-api-2026
 date: 2026-07-08
-url: https://beyondelevation.com/blog/post.html?slug=can-you-patent-an-api-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/can-you-patent-an-api-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -21,7 +21,7 @@ You can patent an API's underlying method, system architecture, and data process
 
 This distinction trips up founders constantly. The 2021 Google v. Oracle Supreme Court ruling addressed copyright, not patents. The Court ruled that Google's use of the Java SE API declarations constituted fair use. That decision says nothing about whether the functional process behind an API qualifies for patent protection. Under patent law, the analysis is entirely separate: does the claimed method meet the requirements of 35 U.S.C. Sections 101 through 103?
 
-The USPTO's 2025 Subject Matter Eligibility Declaration memos, issued under Director John Squires, expanded what qualifies. AI and software methods that process data in novel ways, including API orchestration logic, now receive evaluation based on objective evidence rather than reflexive "abstract idea" rejections. If your API does something technically new, not just calling existing functions in sequence, it qualifies for patent protection.
+The USPTO's 2025 [Subject Matter Eligibility Declaration memos](/blog/posts/section-101-eligibility-declaration-ai-patents-2026/), issued under Director John Squires, expanded what qualifies. AI and software methods that process data in novel ways, including API orchestration logic, now receive evaluation based on objective evidence rather than reflexive "abstract idea" rejections. If your API does something technically new, not just calling existing functions in sequence, it qualifies for patent protection.
 
 ## What Parts of an API Are Patentable?
 
@@ -41,7 +41,7 @@ Four categories of API functionality qualify for patent protection in 2026:
 
 The API's interface layer is not patentable: endpoint URLs, HTTP method choices, request and response schemas, error code conventions, and REST or GraphQL structure. These are functional specifications, not inventions. They describe what the API accepts and returns, not how it processes requests internally.
 
-Business methods disguised as API calls also fail the patentability test. An API that simply automates a known business process (calculate a price, send an invoice, look up a record) without any technical novelty is not patentable, regardless of how clean the endpoint design is. The 2014 Alice Corp. v. CLS Bank decision still blocks purely abstract business method patents, even after the Squires-era eligibility reforms. The same principles apply to algorithm patents: the underlying process must produce a technical improvement, not just automate a known workflow.
+Business methods disguised as API calls also fail the patentability test. An API that simply automates a known business process (calculate a price, send an invoice, look up a record) without any technical novelty is not patentable, regardless of how clean the endpoint design is. The 2014 Alice Corp. v. CLS Bank decision still blocks purely abstract business method patents, even after the Squires-era eligibility reforms. The same principles apply to [algorithm patents](/blog/posts/can-you-patent-an-algorithm/): the underlying process must produce a technical improvement, not just automate a known workflow.
 
 Hayat Amin's API Patent Decision Tree simplifies the analysis: if you remove the API layer entirely and the underlying method is still novel, file for a patent. If the novelty disappears without the API wrapper, you have a well-designed interface, not an invention. Protect that interface with copyright and trade secrets instead.
 
@@ -55,7 +55,7 @@ Patent claims for API functionality should target the method layer, not the inte
 
 **Computer-readable medium claims.** These cover the software itself, the code that implements the method on a storage medium. CRM claims provide an additional enforcement angle against competitors who distribute similar software products.
 
-**API-specific method claims.** A newer claim structure that explicitly references the API context: "A computer-implemented method for responding to an API call, the method comprising..." This framing signals to examiners that the claimed method is tied to a technical implementation, reducing the risk of an abstract idea rejection under Section 101.
+**API-specific method claims.** A newer claim structure that explicitly references the API context: "A computer-implemented method for responding to an API call, the method comprising..." This framing signals to examiners that the claimed method is tied to a technical implementation, reducing the risk of an abstract idea rejection under [Section 101](/blog/posts/software-patent-eligibility-2026/).
 
 Hayat Amin's rule for claim drafting is blunt: write claims that describe what happens AFTER the request hits the server, not what the request looks like. "The request format is the interface. The processing is the invention. Mix them up and the examiner rejects the whole filing."
 
@@ -75,13 +75,27 @@ API patents generate licensing revenue when competitors or adjacent companies ne
 
 Hayat Amin proved this with a client whose API payment processing method was patented in 2023. By 2026, three competitors had independently built similar systems. Rather than litigation, Beyond Elevation structured licensing agreements that generated six figures in annual recurring royalty revenue from all three companies. The patent paid for itself 40x over in the first licensing cycle alone.
 
-The licensing opportunity is largest for APIs that become de facto industry standards. If your method is the best way to solve a common problem, competitors will converge on similar approaches whether or not they know about your patent. That convergence is licensing revenue waiting to be collected with the right deal structure.
+The licensing opportunity is largest for APIs that become de facto industry standards. If your method is the best way to solve a common problem, competitors will converge on similar approaches whether or not they know about your patent. That convergence is [licensing revenue](/blog/posts/patent-licensing-revenue-model/) waiting to be collected with the right deal structure.
 
 ## The Bottom Line for API-First Founders
 
 Your API's interface is a product decision. Your API's processing method is an IP decision. Treat them differently. Patent the method. Trade-secret the implementation. Copyright the documentation. Do all three before a competitor forces the question in court.
 
 Beyond Elevation runs a free 30-minute IP assessment for API-first companies. Book a call at [beyondelevation.com](https://beyondelevation.com) to identify which parts of your API are patentable, which are better as trade secrets, and how much licensing revenue your method claims could generate.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-can-you-patent-an-api-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -104,3 +118,6 @@ An API patent is a type of software patent that specifically claims the method e
 ### Should I patent my API before launching?
 
 File a provisional patent application before launch. Once your API is publicly accessible, competitors can study its behavior and begin building alternatives. The provisional establishes your priority date at a fraction of the full filing cost. You then have 12 months to evaluate whether the full utility filing is worth the investment based on market traction.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

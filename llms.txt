@@ -273,5 +273,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Can You Patent a Prompt? The 2026 Legal Reality for AI Prompt Engineering IP](https://beyondelevation.com/blog/posts/can-you-patent-a-prompt-2026/) — /blog/md/can-you-patent-a-prompt-2026.md
 - [Patent Strategy Consulting in 2026: What IPCG, Aurora, and Hupp IP Actually Do (And When a Fractional IP Strategist Beats All of Them)](https://beyondelevation.com/blog/posts/patent-strategy-consulting-guide/) — /blog/md/patent-strategy-consulting-guide.md
 - [7 IP Licensing Agreement Clauses That Separate $100K Deals From $10M Deals](https://beyondelevation.com/blog/posts/ip-licensing-agreement-clauses-that-matter/) — /blog/md/ip-licensing-agreement-clauses-that-matter.md
+- [Can You Patent an API? The 2026 Claim Strategy That Turns Your Endpoints Into Enforceable IP](https://beyondelevation.com/blog/posts/can-you-patent-an-api-2026/) — /blog/md/can-you-patent-an-api-2026.md
 
 > Full blog content available at /llms-full.txt
