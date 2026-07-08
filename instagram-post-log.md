@@ -1,4 +1,3 @@
-
 ## 2026-06-24T06:18:19Z
 - Pillar: The Human Edge in the Age of AI
 - Status: FAILED
@@ -17,6 +16,7 @@
 - Media ID: n/a
 - Slides: 6
 - Note: IG token expired 2026-06-25. Slides rendered OK. Pipeline works. Token must be renewed in workflow YAML + env secrets.
+
 ## 2026-07-04T16:13:00Z
 - Pillar: Human Purpose of Work (Pillar 1)
 - Status: FAILED — TRIPLE BLOCK
@@ -41,3 +41,10 @@
 - Status: FAILED
 - Media ID: n/a
 - Slides: 6
+
+## 2026-07-08T12:30:00Z
+- Pillar: How to Become Fractional (Pillar 3)
+- Status: FAILED — TOKEN EXPIRED (error 190 confirmed)
+- Media ID: n/a
+- Slides: 6 (queued, untouched)
+- Note: Cloud autopilot run confirmed same expired token EAASSEUy7BCoB...ZD in both task prompt and .github/workflows/instagram-post.yml line 24. graph.facebook.com proxy-blocked (HTTP 403). horror5how/instagram-autopilot repo does not exist. Queue content (6 slides + caption for Pillar 3) is ready. ONLY action needed: renew token at developers.facebook.com → update instagram-post.yml ACTIVE_IG_TOKEN → push any change to trigger workflow.
