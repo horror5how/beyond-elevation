@@ -1,23 +1,23 @@
-A $20K IP audit unlocked $3.2M in debt financing for a client last quarter.
+You can license a trade secret.
 
-No equity. No warrants. No dilution.
+You can also destroy it with one bad contract.
 
-Most founders file IP audits under "legal admin."
+Most founders don't know the difference.
 
-The ones winning non-dilutive rounds use them as collateral documentation.
+A patent lasts 20 years. A trade secret lasts forever — until you disclose it.
 
-Lenders price unaudited IP at zero.
+License wrong and the protection is gone. No appeal. No fix.
 
-A recognized audit converts your portfolio into a bankable asset at 50-70% LTV.
+The 4 clauses AI labs put in every know-how license:
 
-On a $5M portfolio: $2.5-3.5M at 8-12% interest.
+1. Confidentiality carve-out tied to the license term
 
-Total cost over 3 years: $1.1M.
+2. Strict field-of-use restriction
 
-Same raise as equity at $15M valuation: $20M dilution at exit.
+3. No reverse-engineering obligation on the licensee
 
-The audit costs 18x less to unlock the same capital.
+4. Return or destroy provision on termination
 
-Order it before the round closes.
+One missing clause. Zero trade secret protection. Forever.
 
-#IPstrategy #StartupFinancing #PatentCapital
+#IPstrategy #Licensing #AIstartups
