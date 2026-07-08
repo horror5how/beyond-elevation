@@ -329,7 +329,7 @@ function pageTemplate(post, related) {
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
     <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" /></noscript>
-    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <link rel="stylesheet" href="/styles.css?v=20260708a" />
     <style>
       .post-page { padding: 120px 0 90px; }
       .post-shell { max-width: 720px; margin: 0 auto; }
@@ -515,7 +515,7 @@ function blogIndexTemplate(posts) {
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
     <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" /></noscript>
-    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <link rel="stylesheet" href="/styles.css?v=20260708a" />
     <style>
       .blog-page { padding: 126px 0 88px; max-width: 760px; margin: 0 auto; }
       .section-head { margin-bottom: 56px; padding: 0 24px; }
