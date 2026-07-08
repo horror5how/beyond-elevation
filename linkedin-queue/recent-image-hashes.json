@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42d3efffc3c3ff99",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "vcs-repricing-patent-portfolios",
-    "ts": "2026-07-07T10:29:23.235Z"
-  },
-  {
     "hash": "fff1110177f1ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "one-patent-line-beats-product-lines",
     "ts": "2026-07-08T11:06:28.518Z"
+  },
+  {
+    "hash": "fff901790f37ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "70-percent-ai-roi-ignore-the-stat",
+    "ts": "2026-07-08T12:18:33.720Z"
   }
 ]

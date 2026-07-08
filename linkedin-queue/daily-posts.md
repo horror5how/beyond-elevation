@@ -3,7 +3,7 @@ date: 2026-07-08
 theme: The patent portfolio and the AI workflow are the two assets founders keep expensing when they should be capitalizing them.
 generated_at: 2026-07-08T04:00:00Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ A patent is not a receipt. It is an asset with a yield. Price it like one.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-08T12:18:33.720Z
+share_urn: urn:li:share:7480596185418911744
 hook_format: frame-break
 cta_goal: follows
 slug: 70-percent-ai-roi-ignore-the-stat
