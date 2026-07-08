@@ -48,3 +48,9 @@
 - Media ID: n/a
 - Slides: 6 (queued, untouched)
 - Note: Cloud autopilot run confirmed same expired token EAASSEUy7BCoB...ZD in both task prompt and .github/workflows/instagram-post.yml line 24. graph.facebook.com proxy-blocked (HTTP 403). horror5how/instagram-autopilot repo does not exist. Queue content (6 slides + caption for Pillar 3) is ready. ONLY action needed: renew token at developers.facebook.com → update instagram-post.yml ACTIVE_IG_TOKEN → push any change to trigger workflow.
+
+## 2026-07-08T20:12:10Z
+- Pillar: Human Purpose of Work
+- Status: FAILED
+- Media ID: n/a
+- Slides: 6
