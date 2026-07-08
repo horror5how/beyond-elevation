@@ -11,7 +11,7 @@ on:
       pillar:
         description: 'Content pillar label for logging'
         required: false
-        default: 'The Human Edge in the Age of AI'
+        default: 'Human Purpose of Work'
         type: string
 
 permissions:
@@ -21,7 +21,8 @@ jobs:
   post:
     runs-on: ubuntu-latest
     env:
-      ACTIVE_IG_TOKEN: EAASSEUy7BCoBRU1jEwOKcOHbd6gtz0nilxU9hJblV8I9KpbpjFITnFZAlQGadjpm8sOsilvi6SICmqkvmxRCJpLGeZCIZCZB72S7kQDOtEZApWyz8AVlz3WFpDDhZAJwvcqlfVN0tpvnHQmDeLY0YNgBig4mAhAGeNRhXm6JwWNkpUBMZCZBUS4GCZCZBjilS6meS8Yed9RT5nBwZDZD
+      # Prefer the INSTAGRAM_TOKEN secret (update via repo Settings → Secrets) over the hardcoded fallback
+      ACTIVE_IG_TOKEN: ${{ secrets.INSTAGRAM_TOKEN || 'EAASSEUy7BCoBRU1jEwOKcOHbd6gtz0nilxU9hJblV8I9KpbpjFITnFZAlQGadjpm8sOsilvi6SICmqkvmxRCJpLGeZCIZCZB72S7kQDOtEZApWyz8AVlz3WFpDDhZAJwvcqlfVN0tpvnHQmDeLY0YNgBig4mAhAGeNRhXm6JwWNkpUBMZCZBUS4GCZCZBjilS6meS8Yed9RT5nBwZDZD' }}
       ACTIVE_IG_BUSINESS_ID: '17841422274109557'
     steps:
       - uses: actions/checkout@v4
@@ -124,7 +125,7 @@ jobs:
         if: always()
         env:
           MEDIA_ID: ${{ steps.publish.outputs.media_id }}
-          PILLAR: ${{ inputs.pillar || 'The Human Edge in the Age of AI' }}
+          PILLAR: ${{ inputs.pillar || 'Human Purpose of Work' }}
         run: |
           stamp=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
           if [ -n "$MEDIA_ID" ]; then
