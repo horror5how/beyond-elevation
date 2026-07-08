@@ -3,7 +3,7 @@ date: 2026-07-08
 theme: The patent portfolio and the AI workflow are the two assets founders keep expensing when they should be capitalizing them.
 generated_at: 2026-07-08T04:00:00Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -117,7 +117,9 @@ AI does not fix a broken process. It scales it. Fix the map, then automate.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-08T15:18:38.668Z
+share_urn: urn:li:share:7480641505049735168
 hook_format: story
 cta_goal: dm
 slug: revops-team-of-four-outsold-eleven

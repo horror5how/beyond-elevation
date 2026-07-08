@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff1110177f1ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "patents-are-a-revenue-line",
-    "ts": "2026-07-07T11:51:46.078Z"
-  },
-  {
     "hash": "3c78310137f1ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "70-percent-ai-roi-ignore-the-stat",
     "ts": "2026-07-08T12:18:33.720Z"
+  },
+  {
+    "hash": "0044ffffc381ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "revops-team-of-four-outsold-eleven",
+    "ts": "2026-07-08T15:18:38.668Z"
   }
 ]

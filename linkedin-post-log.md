@@ -418,3 +418,4 @@
 2026-07-08 11:06 | urn:li:share:7480578043837648896 | post #2 | one-patent-line-beats-product-lines | One licensing line item beats most product lines.  Qualcomm's QTL segment pulls 
 2026-07-08 12:18 | urn:li:share:7480596185418911744 | post #3 | 70-percent-ai-roi-ignore-the-stat | 70% get AI ROI in 60 days. Ignore that number.  The reported stat is real: 70% o
 2026-07-08 12:56 | urn:li:share:7480605684808634368 | A $20K IP audit unlocked $3.2M in debt financing for a client last quarter.  No 
+2026-07-08 15:18 | urn:li:share:7480641505049735168 | post #4 | revops-team-of-four-outsold-eleven | A RevOps team of four outsold a team of eleven.  Same product. No new hires. I r
