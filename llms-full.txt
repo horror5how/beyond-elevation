@@ -4101,3 +4101,19 @@ No, a bare prompt (the text string you feed an LLM) is not patentable on its own
 The distinction matters. A prompt that says "summarize this contract" is unpatentable text. 
 
 ---
+
+## Patent Strategy Consulting in 2026: What IPCG, Aurora, and Hupp IP Actually Do (And When a Fractional IP Strategist Beats All of Them)
+
+URL: https://beyondelevation.com/blog/posts/patent-strategy-consulting-guide/
+
+Patent strategy consulting is the work of turning a company's inventions into a portfolio that raises valuation, blocks competitors, and generates licensing revenue. It is not patent filing. A patent attorney drafts and prosecutes applications. A patent strategy consultant decides which inventions are worth protecting, how the portfolio maps to the business model, and where the money is. Firms like IPCG, Aurora Consulting, and Hupp IP sell this. So does an independent fractional IP strategist, often for a fraction of the retainer.
+
+Here is the part most founders learn too late. The best patent strategy consulting engagement usually ends with you filing fewer patents, not more. The consultant worth paying is the one who tells you to kill three of your five planned filings and put the saved budget into two claims that actually cover the product a competitor would copy. Volume is a vanity metric. Coverage is the asset.
+
+## What patent strategy consulting actually involves
+
+Patent strategy consulting starts with the business, not the invention. A real engagement answers four questions before anyone touches a claim: What does this company sell, and what makes it hard to copy? Which of our current filings protect that, and which protect nothing anyone would pay to use? Where are the competitors filing, and what does that reveal about their roadmap? If we had to sell or license this portfolio tomorrow, what is it worth and why?
+
+The big firms package this differently. IPCG runs port
+
+---
