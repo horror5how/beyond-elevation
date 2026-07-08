@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef911110775ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "ai-marketing-content-personalization",
-    "ts": "2026-07-06T16:18:20.348Z"
-  },
-  {
     "hash": "7ef931031f15ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "fix-the-process-before-ai",
     "ts": "2026-07-07T18:55:00.354Z"
+  },
+  {
+    "hash": "40c3e7ffc381ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "vcs-funding-wrong-side-of-patents",
+    "ts": "2026-07-08T09:30:02.919Z"
   }
 ]

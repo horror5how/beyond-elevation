@@ -414,3 +414,4 @@
 2026-07-07 17:51 | urn:li:share:7480317625730998273 | One patent at exit gets you 1.4x. Stack patents, trade secrets, and a data licen
 2026-07-07 18:55 | urn:li:share:7480333563993972737 | post #5 | fix-the-process-before-ai | A client wanted more AI. I removed some.  They had bolted GPT onto an invoicing 
 2026-07-08 07:54 | urn:li:share:7480529656811704320 | Your $1M data licensing line is worth $10.8M to a PE buyer.  Your $1M SaaS ARR i
+2026-07-08 09:30 | urn:li:share:7480553777578635265 | post #1 | vcs-funding-wrong-side-of-patents | VCs are funding the wrong side of patents.  Solve Intelligence just raised $40M 

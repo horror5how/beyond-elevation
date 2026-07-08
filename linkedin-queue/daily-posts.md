@@ -3,7 +3,7 @@ date: 2026-07-08
 theme: The patent portfolio and the AI workflow are the two assets founders keep expensing when they should be capitalizing them.
 generated_at: 2026-07-08T04:00:00Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Two things sit on your balance sheet as costs when they should sit there as asse
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-08T09:30:02.919Z
+share_urn: urn:li:share:7480553777578635265
 hook_format: contrarian
 cta_goal: follows
 slug: vcs-funding-wrong-side-of-patents

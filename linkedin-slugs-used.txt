@@ -430,3 +430,4 @@ ai-kills-outbound-volume
 ip-stacking-acquisition-multiple-2026
 fix-the-process-before-ai
 data-licensing-exit-multiple-pe-buyer-2026
+vcs-funding-wrong-side-of-patents
