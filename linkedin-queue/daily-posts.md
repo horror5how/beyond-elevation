@@ -3,7 +3,7 @@ date: 2026-07-09
 theme: The money is flowing into IP and AI operations, but it is chasing speed and demos when the real return sits in claim scope, kill criteria, and measuring the whole system.
 generated_at: 2026-07-09T04:00:00Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -89,7 +89,9 @@ Stop filing to defend. Start filing to collect.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-09T13:47:40.466Z
+share_urn: urn:li:share:7480980998684512257
 hook_format: frame-break
 cta_goal: dms
 slug: ai-roi-happy-path-lie

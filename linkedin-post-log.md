@@ -426,3 +426,4 @@
 2026-07-09 10:28 | urn:li:share:7480930980141273088 | post #1 | ai-patent-startups-wrong-lesson | Solve Intelligence just raised $40M. Wrong lesson.  VCs 10x'd its revenue on AI 
 2026-07-09 12:03 | urn:li:share:7480954857663729664 | post #2 | patents-are-royalty-annuities | Patents are not a cost center.  Ceva just signed a landmark AI licensing deal fo
 2026-07-09 12:30 | QUEUED | founders-keep-ip-at-acquisition-2026 | Most founders get one wire when they exit. Smart ones negotiate two.
+2026-07-09 13:47 | urn:li:share:7480980998684512257 | post #3 | ai-roi-happy-path-lie | 70% of customer-service AI deployments hit ROI in 60 days? Rarely.  I read that 

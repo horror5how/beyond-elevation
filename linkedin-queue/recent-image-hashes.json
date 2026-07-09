@@ -1,12 +1,5 @@
 [
   {
-    "hash": "40c3e7ffc381ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "vcs-funding-wrong-side-of-patents",
-    "ts": "2026-07-08T09:30:02.919Z"
-  },
-  {
     "hash": "00ffffffffff0100",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "patents-are-royalty-annuities",
     "ts": "2026-07-09T12:03:47.962Z"
+  },
+  {
+    "hash": "00e3e7ff81c3ff9d",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "ai-roi-happy-path-lie",
+    "ts": "2026-07-09T13:47:40.466Z"
   }
 ]
