@@ -140,6 +140,18 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-strategy-vertical-ai-domain-data-moat/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>IP Strategy for Vertical AI Companies: Why Domain Data Beats Model Architecture in Every Exit</image:title>
+      <image:caption>IP Strategy for Vertical AI Companies: Why Domain Data Beats Model Architecture in Every Exit — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/ip-strategy-vertical-ai-domain-data-moat/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/patent-strategy-consulting-guide/</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>monthly</changefreq>

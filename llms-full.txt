@@ -4171,3 +4171,21 @@ The second mistake is anchoring to the 25 percent rule. For decades, IP attorney
 Hayat Amin argues that the replacement is not a single number but a stacking method. The right royalty rate is a compos
 
 ---
+
+## IP Strategy for Vertical AI Companies: Why Domain Data Beats Model Architecture in Every Exit
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-vertical-ai-domain-data-moat/
+
+Late-stage AI startups with a completed IP audit hit a median 25.8x revenue multiple. Without one, 18.2x. That is a 40% gap driven entirely by how IP is structured, not by how good the model is.
+
+For vertical AI companies building in healthcare, legal, finance, or manufacturing, the gap is wider still. The reason: their most valuable IP is not the model architecture. It is the domain-specific data, the fine-tuning recipes, and the evaluation benchmarks no competitor can replicate. Hayat Amin, who has priced IP across more than $400M of transactions at [Beyond Elevation](https://beyondelevation.com), argues that vertical AI founders who protect only the model are protecting the wrong asset entirely.
+
+This is the IP strategy for vertical AI companies that separates premium exits from commodity acqui-hires.
+
+## Why Is Vertical AI IP Different From Horizontal AI IP?
+
+Vertical AI IP differs from horizontal AI IP because the moat sits in the data layer, not the model layer. Horizontal AI companies compete on model size, training compute, and novel architectures. Vertical AI companies compete on domain depth, and that distinction changes everything about how IP should be structured, protected, and monetized.
+
+A healthcare AI startup with 10 years of anonymized radiology scans, annotated by board-certified radiologists, holds an asset that would cost a competitor $50M and 3 years to replicate. That dataset is not a model. It is a trade secret, a licensable asset, and a balance-sheet 
+
+---

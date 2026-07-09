@@ -275,5 +275,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [7 IP Licensing Agreement Clauses That Separate $100K Deals From $10M Deals](https://beyondelevation.com/blog/posts/ip-licensing-agreement-clauses-that-matter/) — /blog/md/ip-licensing-agreement-clauses-that-matter.md
 - [Can You Patent an API? The 2026 Claim Strategy That Turns Your Endpoints Into Enforceable IP](https://beyondelevation.com/blog/posts/can-you-patent-an-api-2026/) — /blog/md/can-you-patent-an-api-2026.md
 - [How to Price an IP License Without Leaving Half Your Revenue on the Table](https://beyondelevation.com/blog/posts/how-to-price-ip-license-royalty-stack/) — /blog/md/how-to-price-ip-license-royalty-stack.md
+- [IP Strategy for Vertical AI Companies: Why Domain Data Beats Model Architecture in Every Exit](https://beyondelevation.com/blog/posts/ip-strategy-vertical-ai-domain-data-moat/) — /blog/md/ip-strategy-vertical-ai-domain-data-moat.md
 
 > Full blog content available at /llms-full.txt
