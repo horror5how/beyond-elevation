@@ -74,10 +74,41 @@ if (!postTemplate) {
 // All slugs ever used: linkedin-slugs-used.txt + slug: lines from current queue file
 const fileSlugLines = (existing.match(/^slug:\s*(.+)$/gm) || []).map(l => l.replace(/^slug:\s*/, '').trim());
 const trackedSlugs  = readSafe(SLUGS_FILE).split('\n').filter(Boolean);
-const allSlugsUsed  = [...new Set([...trackedSlugs, ...fileSlugLines])].join('\n') || '(none yet)';
+const usedSlugSet   = new Set([...trackedSlugs, ...fileSlugLines].map(s => s.trim()).filter(Boolean));
+const allSlugsUsed  = [...usedSlugSet].join('\n') || '(none yet)';
 
 // Last 30 log lines for pillar-rotation context
 const recentLog = readSafe(LOG_FILE).split('\n').filter(Boolean).slice(-30).join('\n') || '(no log yet)';
+
+// ── 2b. Trending AI news (keyless rails: HN Algolia + Google News RSS) ────────
+// The AI posts were converging on the same evergreen ROI/token/budget takes
+// because the model had no fresh input. Feed it the last 48h of AI headlines
+// so every batch reacts to what is ACTUALLY happening. Both rails are free and
+// need no API key; if both fail we degrade to the old evergreen behaviour.
+async function fetchTrendingAINews() {
+  const headlines = [];
+  const since = Math.floor(Date.now() / 1000) - 60 * 60 * 48;
+  try {
+    const r = await fetch(`https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E${since},points%3E40&hitsPerPage=12`);
+    if (r.ok) {
+      const d = await r.json();
+      for (const h of d.hits || []) if (h.title) headlines.push(`${h.title} (Hacker News, ${h.points} pts)`);
+    }
+  } catch (e) { pipeLog(`news rail HN failed: ${e.message.slice(0, 120)}`); }
+  try {
+    const r = await fetch('https://news.google.com/rss/search?q=(OpenAI+OR+Anthropic+OR+%22AI+agents%22+OR+%22enterprise+AI%22+OR+Gemini+OR+Claude)+when:2d&hl=en-US&gl=US&ceid=US:en');
+    if (r.ok) {
+      const xml = await r.text();
+      const titles = [...xml.matchAll(/<item>\s*<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/g)]
+        .map(m => m[1].replace(/&amp;/g, '&').replace(/&#39;|&apos;/g, "'").replace(/&quot;/g, '"').trim())
+        .filter(Boolean).slice(0, 12);
+      headlines.push(...titles.map(t => `${t} (Google News)`));
+    }
+  } catch (e) { pipeLog(`news rail Google failed: ${e.message.slice(0, 120)}`); }
+  return headlines.slice(0, 20);
+}
+const trendingNews = await fetchTrendingAINews();
+pipeLog(`news rail: ${trendingNews.length} trending AI headlines in prompt`);
 
 // ── 3. Quality gate ───────────────────────────────────────────────────────────
 const BANNED_TOKENS = [
@@ -175,7 +206,8 @@ function parseGeneratedPosts(raw) {
     let captionLines = lines.slice(i + 1);
     const sep = captionLines.findIndex(l => l.trim() === '---');
     if (sep >= 0) captionLines = captionLines.slice(0, sep);
-    blocks.push({ num: parseInt(m[1], 10), caption: captionLines.join('\n').trim() });
+    const slugMatch = block.match(/^slug:\s*(.+)$/m);
+    blocks.push({ num: parseInt(m[1], 10), slug: slugMatch ? slugMatch[1].trim() : '', caption: captionLines.join('\n').trim() });
   }
   return blocks;
 }
@@ -195,7 +227,19 @@ ${postTemplate}
 
 FIXED CONTENT SPLIT - exactly 5 posts, assigned by POSITION, never deviate:
 - Posts 1-2 = IP pillar: patents, licensing, IP strategy, holdco structure, trade secrets, IP monetisation, valuation. Same angle, voice, and quality as every prior batch.
-- Posts 3-5 = AI OPERATIONS pillar: how companies actually USE AI to win - drive sales/revenue, build operational efficiency, make processes cleaner and more effective. Write these as Hayat's first-person thought leadership: blend what is happening across the industry right now with what Hayat is doing with clients. Go controversial and very niche - contrarian operator insights NOT found in generic AI commentary. This is NOT AI strategy/governance/EU-AI-Act theory and NOT AI patents - it is hands-on AI operations proven with hard numbers (hours saved, % cost cut, conversion or close-rate lift, headcount avoided, cycle-time drop, $ impact, payback period). Each AI-ops post needs at least 2 specific numbers and at least 1 named KPI.
+- Posts 3-5 = AI NEWS-REACTION pillar: each post anchors on ONE trending AI news story from the \
+list in the user message (a DIFFERENT story per post) and delivers the twist nobody else has. \
+Two lenses, rotated: (a) THE AI OPERATIONS INSIDER (use for at least 2 of the 3 posts): Hayat \
+deploys AI inside real enterprises. He explains what this news ACTUALLY changes on the ground - \
+what breaks in production, the number the press release hides, the gap between the demo and the \
+deployment, what he is already seeing with clients this week. (b) THE ENTREPRENEUR: the specific \
+build / buy / stop decision a founder should make THIS WEEK because of this news. Never summarise \
+the news - line 1 assumes the reader already saw the headline; the entire post is the twist. \
+Each AI post still needs at least 2 hard numbers from operational reality (hours, %, headcount, \
+cycle time, $) and one screenshot-worthy contrarian insight. \
+BANNED AI ANGLES (exhausted, automatic fail): AI budgets, token costs, token pricing, "AI ROI", \
+payback periods, pilot failure rates, "% of AI projects fail" stats, AI governance, EU AI Act, \
+AI patents, AI moats, valuation multiples.
 
 HARD WRITING RULES:
 - AUDIENCE: founders / CEOs / Seed–Series B operators. Speak TO the operator. Never address \
@@ -230,22 +274,28 @@ ${allSlugsUsed}
 RECENT POST LOG — use only to avoid repeating angles and slugs. Do NOT rotate pillars: the split is FIXED by position (Posts 1-2 IP, Posts 3-5 AI operations):
 ${recentLog}
 
-KEYWORD STRATEGY (for the 2 IP posts ONLY — ignore it entirely when writing the 3 AI-operations posts): pick uncovered IP topics walking Tier 1 → Tier 5:
+KEYWORD STRATEGY (for the 2 IP posts ONLY — ignore it entirely when writing the 3 AI posts): pick uncovered IP topics walking Tier 1 → Tier 5:
 ${keywordStrategy}
+
+TODAY'S TRENDING AI NEWS (fetched live at ${NOW_ISO}) — Posts 3, 4, 5 MUST each anchor on a DIFFERENT story from this list and ONLY from this list; NEVER invent or recall a story that is not listed. Pick the 3 stories with the most operator relevance, NOT the 3 biggest brands:
+${trendingNews.length ? trendingNews.map((h, i) => `${i + 1}. ${h}`).join('\n') : '(news fetch failed today — fall back to the 3 most significant AI industry developments you know from the last 7 days, one per post, all different, named specifically)'}
 ${extraNote ? `\nFEEDBACK FROM PREVIOUS ATTEMPT (fix all of these):\n${extraNote}\n` : ''}
 REMINDER - POST PILLARS ARE FIXED BY POSITION:
 - Post 1, Post 2 = IP (patents, licensing, IP strategy, valuation).
-- Post 3, Post 4, Post 5 = AI OPERATIONS only. Each shows how a company USES AI to drive sales/revenue, build operational efficiency, or make a process cleaner - proven with at least 2 hard numbers and a named KPI (e.g. "cut SDR ramp 40%", "an agent replaced a 3-person ops queue, 18-day payback", "AI ticket triage lifted CSAT 12 points"). Frame as Hayat's first-person operator POV plus current client work; controversial and very niche.
-- REJECT for Posts 3-5 (these are NOT AI operations): EU AI Act, AI governance or policy, AI patents/IP, "AI moat"/defensibility, valuation multiples, data-as-asset theory. If a Post 3-5 draft is about any of those, rewrite it as a hands-on operations play with numbers.
-- AI-OPS WINNING STRUCTURE (match this exact proven shape every time):
-  Line 1 (hook): a first-person result carrying 2-3 hard numbers, e.g. "My clients cut SDR ramp 40% with AI. 15% more conversions, $10K saved per rep." The payoff numbers MUST live in line 1 (fold-safe).
-  Next: 1-2 lines on the cost of NOT doing it (the operator's real pain).
-  Next: "The N moves we ran this week:" then 3 specific moves — real tools/workflows, never vague advice.
-  Next: one result line restating the gains.
+- Post 3, Post 4, Post 5 = AI NEWS-REACTION only. Each anchors on a DIFFERENT headline from TODAY'S TRENDING AI NEWS above and gives a twist the reader cannot get anywhere else:
+  * At least 2 of the 3 use the AI OPERATIONS INSIDER lens: Hayat runs AI inside enterprises for clients. What does this news actually change on the ground? The gap between the headline and what he sees in live deployments. Name the story's company/product explicitly in the post.
+  * At most 1 of the 3 uses the ENTREPRENEUR lens: the specific build / buy / stop decision a founder should make this week because of this news.
+- AI NEWS-REACTION STRUCTURE (match this exact shape):
+  Line 1 (hook, ≤9 words): names the news subject + a contrarian stance, e.g. "OpenAI's agent launch changes nothing for your ops."
+  Line 2: the payoff number — what the insider view is worth (fold-safe: hook + this line must both carry concrete substance).
+  Next: 1-2 lines on what everyone ELSE thinks this news means.
+  Next: "What it actually means on the ground:" then 3 numbered lines — deployment reality, real workflows, hard numbers (hours, %, headcount, cycle time, $).
+  Next: one line — the exact play to run this week.
   Next: a question CTA to founders/operators.
   Next: exactly 3 hashtags.
-- HEAD-TURNING BAR: every AI-ops post must carry ONE non-obvious, contrarian insight an operator would screenshot — a specific play, number, or trade-off absent from generic AI content. "AI boosts productivity" is an automatic fail; give the exact mechanism and the exact number.
-- VARIETY / NO REPEAT: rotate the operations DOMAIN across the 3 AI posts AND across days — sales/SDR, customer support, marketing/content, finance/FP&A, RevOps, hiring/recruiting, supply chain, onboarding/CS, data/analytics. Never reuse a play, metric set, or company already in SLUGS ALREADY USED or the RECENT POST LOG. If a draft resembles a recent post, switch domain before saving.
+- BANNED AI ANGLES (automatic fail — these are exhausted): AI budgets, token costs, token pricing, "AI ROI", payback periods, pilot failure rates, "% of AI projects fail" stats, AI governance, EU AI Act, AI patents, AI moats, valuation multiples.
+- HEAD-TURNING BAR: every AI post must carry ONE non-obvious insight an operator would screenshot — the number the press release hides, the failure mode nobody mentions, the second-order effect on a specific team. "AI boosts productivity" is an automatic fail.
+- VARIETY / NO REPEAT: never reuse a news story, company, play, or metric set already in SLUGS ALREADY USED or the RECENT POST LOG. Rotate which enterprise function the ground-truth examples come from (sales, support, finance, supply chain, hiring, CS, analytics). If a draft resembles a recent post, switch story or function before saving.
 All 5 posts keep the identical format and all have image frontmatter.
 
 Output EXACTLY this format:
@@ -308,20 +358,20 @@ The fix (3 moves, this week):
 ---
 
 ## Post 3
-[same structure — PILLAR: AI OPERATIONS — a concrete AI deployment that drove sales / efficiency / cleaner process, quantified; NOT governance, EU AI Act, patents, or moats]
+[same structure — PILLAR: AI NEWS-REACTION — anchors on one headline from TODAY'S TRENDING AI NEWS, insider or entrepreneur twist, hard numbers; NOT budgets/tokens/ROI/governance/patents]
 
 ---
 
 ## Post 4
-[same structure — PILLAR: AI OPERATIONS]
+[same structure — PILLAR: AI NEWS-REACTION — a DIFFERENT headline]
 
 ---
 
 ## Post 5
-[same structure — PILLAR: AI OPERATIONS]
+[same structure — PILLAR: AI NEWS-REACTION — a DIFFERENT headline]
 
 HARD RULES:
-- FIXED SPLIT (do NOT rotate): Posts 1-2 = IP pillar. Posts 3-5 = AI OPERATIONS pillar (how companies USE AI to lift sales, cut cost, or clean up a process, with hard numbers). AI-ops posts must NOT be about AI governance, the EU AI Act, AI patents, "moats", or valuation multiples.
+- FIXED SPLIT (do NOT rotate): Posts 1-2 = IP pillar. Posts 3-5 = AI NEWS-REACTION pillar (each reacts to a different trending AI story with an operations-insider or entrepreneur twist, with hard numbers). AI posts must NOT be about AI budgets, token costs, AI ROI, payback periods, governance, the EU AI Act, AI patents, "moats", or valuation multiples.
 - Every slug must be brand new — not in the slugs-already-used list
 - Every caption ≤700 characters (count carefully including newlines and hashtags)
 - Every headline must use <br> to split into exactly two lines
@@ -439,9 +489,13 @@ for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
       p.caption = cleaned;
     }
     const v = validateCaption(p.caption);
-    if (!v.ok) {
+    // Slug dedup: the model periodically re-emits an already-published slug
+    // (= literal repeat content). The prompt asks for new slugs but nothing
+    // enforced it until 2026-07-09.
+    if (p.slug && usedSlugSet.has(p.slug)) v.reasons.push(`slug_already_used(${p.slug})`);
+    if (v.reasons.length > 0) {
       failures.push(`Post ${p.num}: ${v.reasons.join(', ')}`);
-      cleanedFailures.push(`Post ${p.num} FAILED [${v.reasons.join(', ')}]\nCURRENT TEXT (rewrite ONLY this post — keep all other posts unchanged):\n${p.caption}`);
+      cleanedFailures.push(`Post ${p.num} FAILED [${v.reasons.join(', ')}]\nCURRENT TEXT (rewrite ONLY this post with a brand-new slug and angle — keep all other posts unchanged):\n${p.caption}`);
     }
   }
   if (totalAutoFixes > 0) {
