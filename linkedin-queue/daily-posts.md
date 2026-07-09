@@ -3,7 +3,7 @@ date: 2026-07-09
 theme: The money is flowing into IP and AI operations, but it is chasing speed and demos when the real return sits in claim scope, kill criteria, and measuring the whole system.
 generated_at: 2026-07-09T04:00:00Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -55,7 +55,9 @@ File slower. Claim wider.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-09T12:03:47.962Z
+share_urn: urn:li:share:7480954857663729664
 hook_format: number-led
 cta_goal: clicks
 slug: patents-are-royalty-annuities
