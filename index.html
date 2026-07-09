@@ -616,7 +616,7 @@
 
                 /* Chat card bubbles, testimonial style */
                 @keyframes beaiLoop{0%{opacity:0;transform:translateY(12px)}5%{opacity:1;transform:translateY(0)}58%{opacity:1;transform:translateY(0)}66%{opacity:0;transform:translateY(-5px)}100%{opacity:0;transform:translateY(12px)}}
-                .beai-bubble{display:flex;align-items:flex-start;gap:16px;max-width:100%;padding:22px 26px;border-radius:30px;font-size:17px;line-height:1.55;color:#000000;background:#fff;box-shadow:0 4px 22px rgba(0,0,0,.07);border:none;opacity:0;transform:translateY(12px);animation:beaiLoop 16s ease infinite}
+                .beai-bubble{display:flex;align-items:flex-start;gap:16px;max-width:100%;padding:22px 26px;border-radius:30px;font-size:17px;line-height:1.55;color:#000000;background:linear-gradient(135deg,rgba(255,255,255,.55) 0%,rgba(238,239,243,.30) 100%);backdrop-filter:blur(18px) saturate(1.5);-webkit-backdrop-filter:blur(18px) saturate(1.5);border:1px solid rgba(255,255,255,.65);box-shadow:0 8px 32px rgba(0,0,0,.10),inset 0 1px 0 rgba(255,255,255,.85),inset 0 -1px 0 rgba(255,255,255,.25);opacity:0;transform:translateY(12px);animation:beaiLoop 16s ease infinite}
                 .beai-bubble strong{color:#000;font-weight:700}
 
                 /* Bot bubble */
@@ -628,7 +628,7 @@
                 .beai-bubble-name{font-size:13px;color:#888;font-weight:500}
 
                 /* Typing dots */
-                .beai-typing{display:flex;align-items:center;gap:14px;padding:20px 24px;background:#fff;box-shadow:0 4px 22px rgba(0,0,0,.07);border-radius:100px;opacity:0;align-self:center;animation:beaiLoop 16s ease infinite}
+                .beai-typing{display:flex;align-items:center;gap:14px;padding:20px 24px;background:linear-gradient(135deg,rgba(255,255,255,.55),rgba(238,239,243,.30));backdrop-filter:blur(18px) saturate(1.5);-webkit-backdrop-filter:blur(18px) saturate(1.5);border:1px solid rgba(255,255,255,.65);box-shadow:0 8px 32px rgba(0,0,0,.10),inset 0 1px 0 rgba(255,255,255,.85);border-radius:100px;opacity:0;align-self:center;animation:beaiLoop 16s ease infinite}
                 .beai-typing-dots{display:flex;gap:4px}
                 .beai-typing span{width:7px;height:7px;border-radius:50%;background:rgba(0,0,0,.2);animation:typDot 1.2s ease-in-out infinite}
                 .beai-typing span:nth-child(2){animation-delay:.15s}
@@ -636,7 +636,7 @@
                 @keyframes typDot{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
 
                 /* Action card */
-                .beai-action{background:#fff;box-shadow:0 4px 22px rgba(0,0,0,.07);border-radius:26px;padding:22px 26px;width:100%;align-self:center;opacity:0;animation:beaiLoop 16s ease infinite}
+                .beai-action{background:linear-gradient(135deg,rgba(255,255,255,.55),rgba(238,239,243,.30));backdrop-filter:blur(18px) saturate(1.5);-webkit-backdrop-filter:blur(18px) saturate(1.5);border:1px solid rgba(255,255,255,.65);box-shadow:0 8px 32px rgba(0,0,0,.10),inset 0 1px 0 rgba(255,255,255,.85);border-radius:26px;padding:22px 26px;width:100%;align-self:center;opacity:0;animation:beaiLoop 16s ease infinite}
                 .beai-action-title{font-size:12px;font-weight:600;color:#888;text-transform:uppercase;letter-spacing:.6px;margin-bottom:12px}
                 .beai-action-row{display:flex;gap:6px;margin-bottom:10px}
                 .beai-action-chip{padding:8px 16px;border-radius:24px;font-size:14px;color:#666;background:#f4f4f4;cursor:default}
@@ -652,11 +652,32 @@
                     <svg class="beai-logo" viewBox="0 0 23 23" width="16" height="16" style="margin-bottom:4px"><rect width="11" height="11" fill="#f25022"/><rect x="12" width="11" height="11" fill="#7fba00"/><rect y="12" width="11" height="11" fill="#00a4ef"/><rect x="12" y="12" width="11" height="11" fill="#ffb900"/></svg>
                     <strong>Microsoft</strong> just filed a patent right next to your space. <strong>This area is heating up.</strong>
                     <div class="beai-bubble-meta"><span class="beai-bubble-name">be.ai &middot; AI</span></div>
+
+                <!-- 3. Alexandra (human) -->
+                <div class="beai-bubble bot" style="animation-delay:3.2s">
+                  <div class="beai-avatar"><img src="./assets/alexandra-headshot.jpg?v=20260522" alt="Alexandra" width="36" height="36"></div>
+                  <div class="beai-bubble-content">
+                    Your data can become patents, then <strong>licences and revenue</strong>, in the exact space be.ai flagged.
+                    <div class="beai-bubble-meta"><span class="beai-bubble-name">Alexandra &middot; Human</span></div>
                   </div>
                 </div>
 
-                <!-- 2. Revenue graph card -->
-                <div class="beai-action" style="animation-delay:3.2s">
+                <!-- 4. Client -->
+                <div class="beai-bubble bot" style="animation-delay:6.4s">
+                  <div class="beai-avatar" style="display:flex;align-items:center;justify-content:center;background:#B45309;color:#fff;font-weight:700;font-size:.6rem">You</div>
+                  <div class="beai-bubble-content">
+                    <strong>"That&rsquo;s great!</strong> We&rsquo;ve now increased our revenue by <strong>$2.4M ARR."</strong>
+                    <div class="beai-bubble-meta"><span class="beai-bubble-name">Client &middot; You</span></div>
+                  </div>
+                </div>
+
+                <div class="beai-typing" style="animation-delay:9.6s">
+                  <div class="beai-avatar"><img src="./assets/be-linkedin-still-v2.webp" alt="BE" width="36" height="36"></div>
+                  <div class="beai-typing-dots"><span></span><span></span><span></span></div>
+                </div>
+
+                <!-- 5. Revenue graph card (finale: revenue increased) -->
+                <div class="beai-action" style="animation-delay:12.8s">
                   <div class="beai-action-title">Projected Revenue Impact</div>
                   <div class="beai-action-row">
                     <span class="beai-action-chip active">+$2.4M</span>
@@ -672,28 +693,9 @@
                   </svg>
                 </div>
 
-                <!-- 3. Alexandra (human) -->
-                <div class="beai-bubble bot" style="animation-delay:6.4s">
-                  <div class="beai-avatar"><img src="./assets/alexandra-headshot.jpg?v=20260522" alt="Alexandra" width="36" height="36"></div>
-                  <div class="beai-bubble-content">
-                    Your data can become patents, then <strong>licences and revenue</strong>, in the exact space be.ai flagged.
-                    <div class="beai-bubble-meta"><span class="beai-bubble-name">Alexandra &middot; Human</span></div>
                   </div>
                 </div>
 
-                <!-- 4. Client -->
-                <div class="beai-bubble bot" style="animation-delay:9.6s">
-                  <div class="beai-avatar" style="display:flex;align-items:center;justify-content:center;background:#B45309;color:#fff;font-weight:700;font-size:.6rem">You</div>
-                  <div class="beai-bubble-content">
-                    <strong>"That&rsquo;s great!</strong> We&rsquo;ve now increased our revenue by <strong>$2.4M ARR."</strong>
-                    <div class="beai-bubble-meta"><span class="beai-bubble-name">Client &middot; You</span></div>
-                  </div>
-                </div>
-
-                <div class="beai-typing" style="animation-delay:12.8s">
-                  <div class="beai-avatar"><img src="./assets/be-linkedin-still-v2.webp" alt="BE" width="36" height="36"></div>
-                  <div class="beai-typing-dots"><span></span><span></span><span></span></div>
-                </div>
               </div>
 
             </div>
