@@ -3,7 +3,7 @@ date: 2026-07-09
 theme: Operators are moving from "What is AI?" to "What does AI *actually* cost/change/break/enable on the ground?" Today's posts cut through the noise to deliver specific, actionable insights on AI's operational reality and IP's hidden value.
 generated_at: 2026-07-09T16:40:23.561Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content dives into the hard numbers and operational realities that matte
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-09T18:45:02.104Z
+share_urn: urn:li:share:7481055832890224640
 hook_format: contrarian
 cta_goal: comments
 slug: fractional-cfo-ip-valuation-unlock

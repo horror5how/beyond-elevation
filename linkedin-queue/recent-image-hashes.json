@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff901790f37ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "70-percent-ai-roi-ignore-the-stat",
-    "ts": "2026-07-08T12:18:33.720Z"
-  },
-  {
     "hash": "0044ffffc381ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "fund-the-payback-not-the-demo",
     "ts": "2026-07-09T15:54:46.118Z"
+  },
+  {
+    "hash": "e7ffffffffff1414",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "fractional-cfo-ip-valuation-unlock",
+    "ts": "2026-07-09T18:45:02.104Z"
   }
 ]

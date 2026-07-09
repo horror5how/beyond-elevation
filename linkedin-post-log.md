@@ -429,3 +429,4 @@
 2026-07-09 13:47 | urn:li:share:7480980998684512257 | post #3 | ai-roi-happy-path-lie | 70% of customer-service AI deployments hit ROI in 60 days? Rarely.  I read that 
 2026-07-09 15:54 | urn:li:share:7481012983989583872 | post #4 | fund-the-payback-not-the-demo | The AI token binge is over.  Enterprise budgets stopped asking "is it cool" and 
 2026-07-09 17:58 | QUEUED | ip-budget-cut-valuation-lag-2026 | Your competitor cut their IP budget 18 months ago.  That decision shows up in yo
+2026-07-09 18:45 | urn:li:share:7481055832890224640 | post #1 | fractional-cfo-ip-valuation-unlock | Your CFO just missed $3.2M from IP.  Lawyers file patents. CFOs value assets. Th

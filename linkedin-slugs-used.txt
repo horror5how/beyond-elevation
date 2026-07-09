@@ -444,3 +444,4 @@ founders-keep-ip-at-acquisition-2026
 ai-roi-happy-path-lie
 fund-the-payback-not-the-demo
 ip-budget-cut-valuation-lag-2026
+fractional-cfo-ip-valuation-unlock
