@@ -54,3 +54,11 @@
 - Status: FAILED
 - Media ID: n/a
 - Slides: 6
+
+## 2026-07-09T00:00:00Z
+- Pillar: Human Purpose of Work (Pillar 1)
+- Status: FAILED — TOKEN EXPIRED (error 190, same expired token EAASS...ZD)
+- Media ID: n/a
+- Slides: 6 (queued, untouched)
+- Hook: "Automation didn't kill your job. It killed your excuse."
+- Note: Cloud autopilot run confirmed: (1) horror5how/instagram-autopilot repo does not exist; (2) graph.facebook.com proxy-blocked 403 in this env; (3) token in task prompt = same expired token in .github/workflows/instagram-post.yml line 25; (4) all GH Actions runs since 2026-06-25 failing with error 190. Carousel content ready. Requires fresh Instagram token to unblock.
