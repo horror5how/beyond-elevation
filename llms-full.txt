@@ -4189,3 +4189,19 @@ Vertical AI IP differs from horizontal AI IP because the moat sits in the data l
 A healthcare AI startup with 10 years of anonymized radiology scans, annotated by board-certified radiologists, holds an asset that would cost a competitor $50M and 3 years to replicate. That dataset is not a model. It is a trade secret, a licensable asset, and a balance-sheet 
 
 ---
+
+## IP Valuation vs Business Valuation: 5 Differences That Change Your Exit Number
+
+URL: https://beyondelevation.com/blog/posts/ip-valuation-vs-business-valuation/
+
+Your accountant values your IP at $1.2M. A licensing buyer would pay $8.4M. That 7x gap is not an error. It is the cost of applying business valuation methods to an asset class they were never designed to price.
+
+Hayat Amin argues that the IP valuation vs business valuation gap is the single most expensive mistake founders make before a fundraise or exit. Companies with patents are 10.2x more likely to secure early-stage funding, yet most founders let their general business valuation absorb IP into a blended number that buries its true worth. IP valuation vs business valuation is not a semantic debate. It is the difference between leaving millions on the table and pricing your defensibility correctly.
+
+## What Is the Difference Between IP Valuation and Business Valuation?
+
+IP valuation isolates the economic contribution of specific intangible assets, including patents, trade secrets, proprietary data, and know-how, using royalty income streams, license comparables, and strategic blocking value. Business valuation prices the entire enterprise using revenue multiples, EBITDA margins, and discounted cash flow. The two methods produce wildly different numbers for the same company because they measure fundamentally different things.
+
+A business valuation asks: what is this company worth as a going concern? An IP valuation asks: what is this specific asset worth on its own, to a buyer or licensee who wants to use it? That second question is what determines your exit multiple premiu
+
+---
