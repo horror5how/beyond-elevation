@@ -2,8 +2,8 @@
 title: "Why Your Patent Portfolio Is Worth 80% Less Than You Think (And the 4-Step Fix)"
 slug: patent-portfolio-valuation-gap-4-step-fix
 date: 2026-07-09
-url: https://beyondelevation.com/blog/post.html?slug=patent-portfolio-valuation-gap-4-step-fix
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-portfolio-valuation-gap-4-step-fix/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -77,6 +77,20 @@ At least six months before any capital event. The gap analysis itself takes 30 t
 
 The optimal sequence: run the Patent Valuation Gap Analysis at Month 1. Execute remediation at Months 2 through 4. Enter fundraising or M&A conversations at Month 5 or later with a portfolio that passes every investor test. The portfolio value delta between Month 1 and Month 5 is where the real ROI lives.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-portfolio-valuation-gap-4-step-fix)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does a patent portfolio valuation gap analysis take?
@@ -98,3 +112,6 @@ The four-discount framework is patent-specific, but the principle applies broadl
 ### What return should founders expect from closing the valuation gap?
 
 Portfolios that pass all four tests consistently trade at 3 to 5x the value of portfolios that fail them. The 25.8x vs 18.2x multiple gap on audited vs unaudited IP is the market-level benchmark. At the individual portfolio level, the $2M to $11M restructuring outcome is representative of what a full remediation delivers for growth-stage tech companies.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
