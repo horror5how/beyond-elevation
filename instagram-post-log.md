@@ -68,3 +68,12 @@
 - Status: FAILED
 - Media ID: n/a
 - Slides: 6
+
+## 2026-07-09T14:30:00Z
+- Pillar: Human Purpose of Work (Pillar 1) — queue unchanged from prior runs
+- Status: FAILED — TOKEN EXPIRED (error 190, confirmed in CI logs)
+- Media ID: n/a
+- Slides: 6 (queued, rendered, ready at raw.githubusercontent.com CDN)
+- Hook: "Automation didn't kill your job. It killed your excuse."
+- Root cause: Instagram token expired 2026-06-25 23:32 PDT. All 13 CI runs since then fail at first Graph API call. Cloud env proxy also blocks graph.facebook.com (HTTP 403). Token renewal is the only unblock.
+- Fix: Go to developers.facebook.com → Token Tools → generate new long-lived token for business ID 17841422274109557 → add as repo secret INSTAGRAM_TOKEN (Settings → Secrets → Actions) → re-trigger workflow_dispatch on instagram-post.yml. No content changes needed — slides + caption are ready.
