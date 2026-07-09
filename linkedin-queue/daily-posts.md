@@ -3,7 +3,7 @@ date: 2026-07-09
 theme: The money is flowing into IP and AI operations, but it is chasing speed and demos when the real return sits in claim scope, kill criteria, and measuring the whole system.
 generated_at: 2026-07-09T04:00:00Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Everyone is buying velocity: AI that files patents faster, AI agents that deflec
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-09T10:28:54.956Z
+share_urn: urn:li:share:7480930980141273088
 hook_format: contrarian
 cta_goal: follows
 slug: ai-patent-startups-wrong-lesson

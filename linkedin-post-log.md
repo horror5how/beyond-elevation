@@ -423,3 +423,4 @@
 2026-07-08 18:12 | urn:li:share:7480685228701917184 | post #5 | ai-token-binge-is-over-payback-rule | The AI token binge is over. Budgets want proof now.  Klarna publicly walked back
 2026-07-09 07:56 | QUEUED | ip-ma-30-day-diligence-window-2026 | The 30 days after you sign an LOI is when your exit multiple is decided.
 2026-07-09 07:57 | urn:li:share:7480892844929527808 | The 30 days after you sign an LOI is when your exit multiple is decided.  Not in
+2026-07-09 10:28 | urn:li:share:7480930980141273088 | post #1 | ai-patent-startups-wrong-lesson | Solve Intelligence just raised $40M. Wrong lesson.  VCs 10x'd its revenue on AI 
