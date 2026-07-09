@@ -593,150 +593,113 @@
             </div>
           </div>
 
-          <style>
-            .hero.hero-terminal{overflow:visible}
-            .strategy-stage{position:relative;width:100%;margin-top:44px;height:195vh;margin-bottom:34vh}
-            .ss-sticky{position:sticky;top:4vh;width:min(940px,94vw);margin:0 auto;transform-origin:50% 0;will-change:transform;transform:scale(.64)}
-            @media(max-width:760px){.strategy-stage{height:auto;margin-bottom:0}.ss-sticky{position:static;transform:none!important}}
-            .ss-panel{position:relative;z-index:1;border-radius:36px;background:linear-gradient(160deg,rgba(26,26,30,.72),rgba(14,14,18,.52) 45%,rgba(24,24,28,.64));backdrop-filter:blur(26px) saturate(1.6);-webkit-backdrop-filter:blur(26px) saturate(1.6);border:1px solid rgba(255,255,255,.18);box-shadow:inset 0 1.5px 0 rgba(255,255,255,.3),inset 1px 0 0 rgba(255,255,255,.1),inset -1px 0 0 rgba(255,255,255,.07),inset 0 -1px 0 rgba(255,255,255,.09),0 2px 6px rgba(0,0,0,.25),0 70px 130px -50px rgba(15,15,20,.8);overflow:hidden}
-            .ss-panel::before{content:'';position:absolute;inset:0;z-index:3;border-radius:inherit;pointer-events:none;background:linear-gradient(115deg,rgba(255,255,255,.24) 0%,rgba(255,255,255,.07) 16%,rgba(255,255,255,0) 30%,rgba(255,255,255,0) 62%,rgba(255,255,255,.05) 82%,rgba(255,255,255,.16) 100%);mix-blend-mode:screen}
-            .ss-panel::after{content:'';position:absolute;top:-60%;bottom:-60%;left:-40%;width:32%;z-index:3;pointer-events:none;background:linear-gradient(100deg,transparent 0%,rgba(255,255,255,.28) 44%,rgba(255,255,255,.5) 50%,rgba(255,255,255,.28) 56%,transparent 100%);filter:blur(9px);transform:rotate(16deg);animation:ssShine 9s ease-in-out infinite;opacity:0}
-            @keyframes ssShine{0%,52%{left:-45%;opacity:0}57%{opacity:.65}74%{left:115%;opacity:.5}78%,100%{left:115%;opacity:0}}
-            .ss-stagebg{position:absolute;top:-4vh;bottom:-10vh;left:50%;transform:translateX(-50%);width:100vw;z-index:0;pointer-events:none;background:linear-gradient(180deg,rgba(215,215,213,0) 0%,#d8d8d6 9%,#e6e6e4 50%,#f1f1ef 91%,rgba(250,250,249,0) 100%)}
-            .ss-stagebg::before{content:'';position:absolute;left:6%;bottom:8%;width:640px;height:640px;border-radius:50%;background:radial-gradient(circle,rgba(115,150,215,.5),transparent 68%);filter:blur(60px);animation:ssDrift 18s ease-in-out infinite alternate}
-            .ss-stagebg::after{content:'';position:absolute;right:6%;top:8%;width:560px;height:560px;border-radius:50%;background:radial-gradient(circle,rgba(236,180,112,.38),transparent 68%);filter:blur(60px);animation:ssDrift 22s ease-in-out infinite alternate-reverse}
-            .ss-blob{position:absolute;top:26%;left:14%;width:720px;height:540px;border-radius:50%;background:radial-gradient(circle at 40% 40%,rgba(155,120,225,.42),rgba(90,140,215,.34) 45%,transparent 72%);filter:blur(64px);animation:ssBlob 13s ease-in-out infinite alternate}
-            @keyframes ssBlob{0%{transform:translate(-8%,-2%) scale(1)}100%{transform:translate(52%,16%) scale(1.28)}}
-            @keyframes ssDrift{0%{transform:translate(0,0) scale(1)}100%{transform:translate(60px,-42px) scale(1.15)}}
-            .ss-head{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:16px 24px;border-bottom:1px solid rgba(255,255,255,.12);background:linear-gradient(180deg,rgba(255,255,255,.07),rgba(255,255,255,0))}
-            .ss-live{display:inline-flex;align-items:center;gap:8px;font-size:.72rem;font-weight:600;letter-spacing:.04em;color:#f2f1ee;white-space:nowrap}
-            .ss-live-dot{width:8px;height:8px;border-radius:50%;background:#16a34a;box-shadow:0 0 0 0 rgba(22,163,74,.55);animation:alexPulse 1.8s infinite}
-            .ss-scenario{font-size:.62rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#eceae6;background:linear-gradient(180deg,rgba(255,255,255,.18),rgba(255,255,255,.07));border:1px solid rgba(255,255,255,.24);box-shadow:0 4px 12px -6px rgba(0,0,0,.45);padding:6px 14px;border-radius:100px;white-space:nowrap;transition:opacity .4s ease}
-            .ss-chat{position:relative;height:440px;padding:20px 22px 18px;display:flex;flex-direction:column;justify-content:flex-start;gap:11px;overflow:hidden}
-            .chat-msg{display:flex;gap:10px;align-items:flex-start;max-width:92%;opacity:0;transform:translateY(14px);transition:opacity .45s ease,transform .45s cubic-bezier(.2,.8,.2,1)}
-            .chat-msg.show{opacity:1;transform:none}
-            .chat-msg.right{align-self:flex-end;flex-direction:row-reverse}
-            .chat-avatar{width:38px;height:38px;border-radius:50%;overflow:hidden;flex-shrink:0;border:2px solid #fff;box-shadow:0 6px 16px -6px rgba(23,21,15,.3);background:#f0ede8;margin-top:16px}
-            .chat-avatar img{width:100%;height:100%;object-fit:cover;display:block}
-            .chat-avatar.ai{display:flex;align-items:center;justify-content:center;background:radial-gradient(circle at 32% 28%,#3a3a3a,#111 70%);color:#F2B176;font-weight:800;font-size:.6rem;letter-spacing:.04em}
-            .chat-avatar.you{display:flex;align-items:center;justify-content:center;background:#B45309;color:#fff;font-weight:700;font-size:.62rem}
-            .chat-col{display:flex;flex-direction:column;min-width:0}
-            .chat-meta{display:flex;align-items:center;gap:6px;margin:0 4px 4px}
-            .chat-msg.right .chat-meta{justify-content:flex-end}
-            .chat-name{font-size:.68rem;font-weight:700;color:#f2f1ee}
-            .chat-chip{font-size:.54rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;padding:2px 7px;border-radius:100px}
-            .chip-ai{background:#17150f;color:#F2B176}
-            .chip-human{background:#e7f6ec;color:#15803d}
-            .chip-client{background:#fdeeda;color:#B45309}
-            .chat-text{background:linear-gradient(180deg,rgba(255,255,255,.15),rgba(255,255,255,.06));backdrop-filter:blur(18px) saturate(1.6);-webkit-backdrop-filter:blur(18px) saturate(1.6);border:1px solid rgba(255,255,255,.2);box-shadow:inset 0 1px 0 rgba(255,255,255,.25),0 12px 30px -14px rgba(0,0,0,.55);border-radius:6px 20px 20px 20px;padding:12px 16px;font-size:.86rem;line-height:1.5;color:#f0efec}
-            .chat-text b{color:#fff}
-            .chat-msg.right .chat-text{border-radius:20px 6px 20px 20px;background:linear-gradient(180deg,rgba(120,165,235,.32),rgba(96,140,215,.16));border-color:rgba(165,198,246,.35)}
-            .chat-msg.ai-msg .chat-text{background:linear-gradient(180deg,rgba(255,255,255,.2),rgba(255,255,255,.09));backdrop-filter:blur(18px) saturate(1.6);-webkit-backdrop-filter:blur(18px) saturate(1.6);color:#f4f3f0;border-color:rgba(255,255,255,.26)}
-            .chat-msg.ai-msg .chat-text b{color:#F2B176}
-            .chat-sys{align-self:center;font-size:.64rem;font-weight:600;color:#c9c7c2;background:rgba(255,255,255,.1);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.16);padding:4px 14px;border-radius:100px;opacity:0;transition:opacity .45s ease}
-            .chat-sys.show{opacity:1}
-            .chat-typing{display:inline-flex;gap:4px;align-items:center;background:linear-gradient(180deg,rgba(255,255,255,.16),rgba(255,255,255,.07));backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.22);border-radius:18px;padding:12px 16px;box-shadow:0 12px 30px -14px rgba(0,0,0,.5)}
-            .chat-typing span{width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,.5);animation:ssTyp 1.1s ease-in-out infinite}
-            .chat-typing span:nth-child(2){animation-delay:.14s}
-            .chat-typing span:nth-child(3){animation-delay:.28s}
-            @keyframes ssTyp{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
-            .ss-caption{margin:16px auto 0;max-width:56ch;text-align:center;font-size:.8rem;color:#6f6f6d;line-height:1.5}
-            .ss-caption strong{color:#1a1a1a}
-            @media(max-width:640px){.ss-chat{height:430px}.chat-text{font-size:.8rem}.chat-avatar{width:32px;height:32px}}
-          </style>
-          <div class="strategy-stage">
-            <div class="ss-stagebg" aria-hidden="true"><span class="ss-blob"></span></div>
-            <div class="ss-sticky" id="ss-sticky">
-              <div class="ss-panel" aria-hidden="true">
-                <div class="ss-head">
-                  <span class="ss-live"><span class="ss-live-dot"></span>Live strategy session</span>
-                  <span class="ss-scenario" id="ss-scenario">Licensing revenue</span>
-                </div>
-                <div class="ss-chat" id="ss-chat"></div>
-              </div>
-              <p class="ss-caption">One group chat. <strong>be.ai</strong> finds the signal. Our consultants and your team turn it into money.</p>
-            </div>
-          </div>
-          <script>
-            (function(){
-              var chat=document.getElementById('ss-chat'),pill=document.getElementById('ss-scenario');
-              if(!chat)return;
-              var AV={
-                ai:'<span class="chat-avatar ai">AI</span>',
-                alex:'<span class="chat-avatar"><img src="./assets/alexandra-headshot.jpg?v=20260522" alt=""></span>',
-                cpo:'<span class="chat-avatar"><img src="./assets/ceo-dan.jpg" alt=""></span>',
-                cpat:'<span class="chat-avatar"><img src="./assets/ceo-babacar.jpg" alt=""></span>',
-                you:'<span class="chat-avatar you">You</span>'
-              };
-              var CHIP={AI:'chip-ai',Human:'chip-human',Client:'chip-client'};
-              var S1={label:'Scenario 1 · Licensing revenue',steps:[
-                {t:600,av:'ai',name:'be.ai',chip:'AI',ai:true,text:'Microsoft just filed a patent right next to your space. <b>This area is heating up</b>.'},
-                {t:4400,av:'alex',name:'Alexandra',chip:'Human',text:'I checked our strategy models. Your data can become patents, then <b>licences and revenue</b>, in the exact space be.ai flagged.'},
-                {t:8200,sys:'Chief Product Officer joined the chat'},
-                {t:9200,av:'cpo',name:'Chief Product Officer',chip:'Human',text:'Just joined. I’ll package the product data so we can move on this quarter.'},
-                {t:13000,av:'you',name:'Client',chip:'Client',right:true,text:'That’s great! We’ve now increased our revenue by <b>$2.4M ARR</b>.'}
-              ]};
-              var S2={label:'Scenario 2 · Company valuation',steps:[
-                {t:600,av:'ai',name:'be.ai',chip:'AI',ai:true,text:'Microsoft has filed <b>15 patents</b> around the area you’re building in.'},
-                {t:4400,av:'alex',name:'Alexandra',chip:'Human',text:'I ran the models. There is real leverage here. Your data alone can lift valuation by <b>at least 5x</b>.'},
-                {t:8200,sys:'Chief Patent Officer joined the chat'},
-                {t:9200,av:'cpat',name:'Chief Patent Officer',chip:'Human',text:'Let’s build the valuation document and see the potential monetisation or IP filing.'},
-                {t:13000,av:'you',name:'Client',chip:'Client',right:true,text:'My investors love it! They’re paying a <b>5x higher valuation</b> and we haven’t even filed a patent yet.'}
-              ]};
-              var HOLD=4600,reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-              function nodeFor(s){
-                var el=document.createElement('div');
-                if(s.sys){el.className='chat-sys';el.textContent=s.sys;return el;}
-                el.className='chat-msg'+(s.right?' right':'')+(s.ai?' ai-msg':'');
-                el.innerHTML=AV[s.av]+'<span class="chat-col"><span class="chat-meta"><span class="chat-name">'+s.name+'</span><span class="chat-chip '+CHIP[s.chip]+'">'+s.chip+'</span></span><span class="chat-text">'+s.text+'</span></span>';
-                return el;
-              }
-              if(reduce){pill.textContent=S1.label;S1.steps.forEach(function(s){var n=nodeFor(s);n.classList.add('show');chat.appendChild(n);});return;}
-              var scenarios=[S1,S2],idx=0;
-              function play(){
-                var sc=scenarios[idx];idx=(idx+1)%scenarios.length;
-                chat.innerHTML='';pill.style.opacity=0;
-                setTimeout(function(){pill.textContent=sc.label;pill.style.opacity=1;},350);
-                sc.steps.forEach(function(s){
-                  if(!s.sys){
-                    setTimeout(function(){
-                      var ty=document.createElement('div');
-                      ty.className='chat-msg show'+(s.right?' right':'');
-                      ty.innerHTML=AV[s.av]+'<span class="chat-typing"><span></span><span></span><span></span></span>';
-                      ty.setAttribute('data-typing','1');chat.appendChild(ty);
-                    },Math.max(0,s.t-1100));
-                  }
-                  setTimeout(function(){
-                    var last=chat.querySelector('[data-typing]');if(last)last.remove();
-                    var n=nodeFor(s);chat.appendChild(n);
-                    setTimeout(function(){n.classList.add('show');},30);
-                  },s.t);
-                });
-                setTimeout(play,sc.steps[sc.steps.length-1].t+HOLD);
-              }
-              play();
 
-              /* scroll-grow: chat starts small, scales toward full window as you scroll */
-              var stage=document.querySelector('.strategy-stage'),sticky=document.getElementById('ss-sticky');
-              function easeSS(t){return t<.5?2*t*t:1-Math.pow(-2*t+2,2)/2}
-              function growSS(){
-                if(!stage||!sticky)return;
-                if(window.innerWidth<761){sticky.style.transform='';return;}
-                var vh=window.innerHeight,r=stage.getBoundingClientRect();
-                var travel=stage.offsetHeight-vh;if(travel<=0)return;
-                var p=Math.min(1,Math.max(0,-r.top/travel));
-                p=Math.min(1,p/0.55); /* reach full size by the middle of the scroll zone */
-                var minS=Math.min(1,600/sticky.offsetWidth);
-                var maxS=Math.max(1,Math.min((window.innerWidth*.98)/sticky.offsetWidth,(vh*.92)/sticky.offsetHeight));
-                sticky.style.transform='scale('+(minS+(maxS-minS)*easeSS(p)).toFixed(4)+')';
-              }
-              window.addEventListener('scroll',growSS,{passive:true});
-              window.addEventListener('resize',growSS);
-              growSS();
-            })();
-          </script>
         </div>
       </section>
+
+      <section class="shell section section-install scroll-section">
+        <div class="install-layout reveal">
+          <div class="install-copy" data-parallax="0.03">
+            <h2>Run by exited <span class="highlight-word">C-suites</span>, patent strategists, and AI agents.</h2>
+            <div class="install-actions">
+              <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic</a>
+              <a class="button button-ghost" href="#thesis">See how it works</a>
+            </div>
+          </div>
+
+          <div class="install-visual" aria-hidden="true">
+            <div class="install-panel install-panel-ai" style="padding:0;overflow:visible;background:transparent;box-shadow:none;border:none;min-height:auto">
+
+              <style>
+                .beai-glass{position:relative;width:100%;max-width:380px;margin:0 auto;padding:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;display:flex;flex-direction:column;gap:10px;align-items:center}
+
+                /* Chat card bubbles, testimonial style */
+                @keyframes beaiLoop{0%{opacity:0;transform:translateY(10px)}10%{opacity:1;transform:translateY(0)}45%{opacity:1;transform:translateY(0)}55%{opacity:0;transform:translateY(-4px)}100%{opacity:0;transform:translateY(10px)}}
+                .beai-bubble{display:flex;align-items:flex-start;gap:12px;max-width:94%;padding:16px 18px;border-radius:100px;font-size:13px;line-height:1.5;color:#1a1a1a;background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.06);border:none;opacity:0;transform:translateY(10px);animation:beaiLoop 8s ease infinite}
+                .beai-bubble strong{color:#000;font-weight:700}
+
+                /* Bot bubble */
+                .beai-bubble.bot{align-self:center}
+                .beai-avatar{width:36px;height:36px;border-radius:50%;overflow:hidden;flex-shrink:0;background:#f0ede8}
+                .beai-avatar img{width:100%;height:100%;object-fit:cover}
+                .beai-bubble-content{flex:1}
+                .beai-bubble-meta{display:flex;align-items:center;gap:6px;margin-top:4px}
+                .beai-bubble-name{font-size:10px;color:#888;font-weight:500}
+
+                /* Typing dots */
+                .beai-typing{display:flex;align-items:center;gap:12px;padding:16px 18px;background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.06);border-radius:100px;opacity:0;align-self:center;animation:beaiLoop 8s ease infinite}
+                .beai-typing-dots{display:flex;gap:4px}
+                .beai-typing span{width:5px;height:5px;border-radius:50%;background:rgba(0,0,0,.2);animation:typDot 1.2s ease-in-out infinite}
+                .beai-typing span:nth-child(2){animation-delay:.15s}
+                .beai-typing span:nth-child(3){animation-delay:.3s}
+                @keyframes typDot{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-4px)}}
+
+                /* Action card */
+                .beai-action{background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.06);border-radius:20px;padding:14px 18px;width:88%;align-self:center;opacity:0;animation:beaiLoop 8s ease infinite}
+                .beai-action-title{font-size:9px;font-weight:600;color:#888;text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px}
+                .beai-action-row{display:flex;gap:6px;margin-bottom:10px}
+                .beai-action-chip{padding:5px 12px;border-radius:20px;font-size:10px;color:#666;background:#f4f4f4;cursor:default}
+                .beai-action-chip.active{background:#16a34a;color:#fff}
+                .beai-action-btn{width:100%;padding:8px;border-radius:14px;background:#f8f8f8;border:none;font-size:11px;font-weight:500;color:#888;cursor:default}
+              </style>
+
+              <div class="beai-glass">
+                <!-- 1. Microsoft filing alert -->
+                <div class="beai-bubble bot" style="animation-delay:0s">
+                  <div class="beai-avatar"><img src="./assets/be-linkedin-still-v2.webp" alt="BE" width="36" height="36"></div>
+                  <div class="beai-bubble-content">
+                    <svg class="beai-logo" viewBox="0 0 23 23" width="16" height="16" style="margin-bottom:4px"><rect width="11" height="11" fill="#f25022"/><rect x="12" width="11" height="11" fill="#7fba00"/><rect y="12" width="11" height="11" fill="#00a4ef"/><rect x="12" y="12" width="11" height="11" fill="#ffb900"/></svg>
+                    <strong>Microsoft</strong> just filed a patent right next to your space. <strong>This area is heating up.</strong>
+                    <div class="beai-bubble-meta"><span class="beai-bubble-name">be.ai &middot; AI</span></div>
+                  </div>
+                </div>
+
+                <!-- 2. Revenue graph card -->
+                <div class="beai-action" style="animation-delay:1.6s">
+                  <div class="beai-action-title">Projected Revenue Impact</div>
+                  <div class="beai-action-row">
+                    <span class="beai-action-chip active">+$2.4M</span>
+                    <span class="beai-action-chip">+$1.8M</span>
+                    <span class="beai-action-chip">+$3.1M</span>
+                  </div>
+                  <svg viewBox="0 0 240 50" style="width:100%;height:50px;display:block">
+                    <defs><linearGradient id="revGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#16a34a" stop-opacity=".25"/><stop offset="100%" stop-color="#16a34a" stop-opacity="0"/></linearGradient></defs>
+                    <path d="M0,45 L30,40 60,38 90,32 120,28 150,20 180,14 210,8 240,2 240,50 0,50Z" fill="url(#revGrad)"/>
+                    <path d="M0,45 L30,40 60,38 90,32 120,28 150,20 180,14 210,8 240,2" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round"/>
+                    <circle cx="240" cy="2" r="3" fill="#16a34a"/>
+                    <text x="200" y="48" font-size="9" fill="#16a34a" font-weight="600">+$2.4M</text>
+                  </svg>
+                </div>
+
+                <!-- 3. Alexandra (human) -->
+                <div class="beai-bubble bot" style="animation-delay:3.2s">
+                  <div class="beai-avatar"><img src="./assets/alexandra-headshot.jpg?v=20260522" alt="Alexandra" width="36" height="36"></div>
+                  <div class="beai-bubble-content">
+                    Your data can become patents, then <strong>licences and revenue</strong>, in the exact space be.ai flagged.
+                    <div class="beai-bubble-meta"><span class="beai-bubble-name">Alexandra &middot; Human</span></div>
+                  </div>
+                </div>
+
+                <!-- 4. Client -->
+                <div class="beai-bubble bot" style="animation-delay:4.8s">
+                  <div class="beai-avatar" style="display:flex;align-items:center;justify-content:center;background:#B45309;color:#fff;font-weight:700;font-size:.6rem">You</div>
+                  <div class="beai-bubble-content">
+                    <strong>"That&rsquo;s great!</strong> We&rsquo;ve now increased our revenue by <strong>$2.4M ARR."</strong>
+                    <div class="beai-bubble-meta"><span class="beai-bubble-name">Client &middot; You</span></div>
+                  </div>
+                </div>
+
+                <div class="beai-typing" style="animation-delay:6.4s">
+                  <div class="beai-avatar"><img src="./assets/be-linkedin-still-v2.webp" alt="BE" width="36" height="36"></div>
+                  <div class="beai-typing-dots"><span></span><span></span><span></span></div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </section>
+
 
       
 
