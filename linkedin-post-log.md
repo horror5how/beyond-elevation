@@ -421,3 +421,4 @@
 2026-07-08 15:18 | urn:li:share:7480641505049735168 | post #4 | revops-team-of-four-outsold-eleven | A RevOps team of four outsold a team of eleven.  Same product. No new hires. I r
 2026-07-08 17:50 | urn:li:share:7480679834675822592 | You can license a trade secret.  You can also destroy it with one bad contract. 
 2026-07-08 18:12 | urn:li:share:7480685228701917184 | post #5 | ai-token-binge-is-over-payback-rule | The AI token binge is over. Budgets want proof now.  Klarna publicly walked back
+2026-07-09 07:56 | QUEUED | ip-ma-30-day-diligence-window-2026 | The 30 days after you sign an LOI is when your exit multiple is decided.

@@ -1,23 +1,13 @@
-You can license a trade secret.
+The 30 days after you sign an LOI is when your exit multiple is decided.
 
-You can also destroy it with one bad contract.
+Not in negotiations.
 
-Most founders don't know the difference.
+Acquirers spend 4 hours reviewing your IP package. Founders who enter due diligence with one active license — even $50K/year — exit at 2.4x more per patent cluster than those without.
 
-A patent lasts 20 years. A trade secret lasts forever — until you disclose it.
+Most IP schedules are a list of filing dates. Zero revenue. Zero leverage.
 
-License wrong and the protection is gone. No appeal. No fix.
+Three documents change the number: an active license agreement, a 24-month FTO opinion, and an IP Revenue Ratio above 8%.
 
-The 4 clauses AI labs put in every know-how license:
+None require filing new applications.
 
-1. Confidentiality carve-out tied to the license term
-
-2. Strict field-of-use restriction
-
-3. No reverse-engineering obligation on the licensee
-
-4. Return or destroy provision on termination
-
-One missing clause. Zero trade secret protection. Forever.
-
-#IPstrategy #Licensing #AIstartups
+#IPStrategy #MergersAndAcquisitions #ExitPlanning
