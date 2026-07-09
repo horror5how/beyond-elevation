@@ -1,185 +1,179 @@
 ---
-date: 2026-07-08
-theme: The patent portfolio and the AI workflow are the two assets founders keep expensing when they should be capitalizing them.
-generated_at: 2026-07-08T04:00:00Z
+date: 2026-07-09
+theme: The money is flowing into IP and AI operations, but it is chasing speed and demos when the real return sits in claim scope, kill criteria, and measuring the whole system.
+generated_at: 2026-07-09T04:00:00Z
 posts_total: 5
-posts_published: 5
+posts_published: 0
 ---
 
 # Daily theme
-Two things sit on your balance sheet as costs when they should sit there as assets: your patents and your AI operations. Today's five posts split the point. Posts 1 and 2 argue the granted claim, not the drafting tool, is what compounds. Posts 3 to 5 argue AI only returns capital when you fix the process first, quantify the payback, and kill anything that cannot show it.
+Everyone is buying velocity: AI that files patents faster, AI agents that deflect tickets faster, AI that writes sales emails faster. The returns are hiding one level down. Patent value lives in claim breadth, not turnaround. AI ROI lives in the whole system, not the happy path. And the highest-leverage AI job in sales is deciding what not to work. Today's five posts drag the conversation from speed to strategy across both pillars.
 
 # Topic shortlist (research notes — not posted)
-1. Solve Intelligence $40M Series B + DeepIP $25M Series B for AI patent tooling — VC is funding the drafting layer, not the asset — $200B+ patent industry
-2. Ceva AI licensing deal + Qualcomm QTL model — licensing revenue at software margins — near 70% operating margin
-3. ZDNET: 70% of customer-service AI agents see ROI in 60 days — the 30% automated a broken process — 40% handle-time cut
-4. AI in RevOps / sales — personalized touch volume + close-rate lift with no new headcount — 74 to 41 day cycle
-5. ERP Today token binge is over + Klarna AI support walkback — budgets want proof — 90-day payback rule
+1. Solve Intelligence $40M Series B, 10x revenue, DeepIP $25M — AI-for-patents boom rewards filing speed, not claim scope — Qualcomm $5.6B licensing.
+2. Ceva landmark AI licensing deal — patents as royalty annuity vs cost center — ARM 50% royalty revenue, IBM $1B/yr.
+3. ZDNET "70% see ROI in 60 days" vs Forbes hidden costs — AI ROI measured on happy path, ignores escalation cost — client 12,000 hrs "saved" +4 engineers.
+4. "AI token binge is over, budgets want proof" — kill criteria before pilots — client killed 6 of 11, quote-to-cash 14 to 4 days.
+5. AI in sales pointed at pipeline scoring not outreach — close rate 18 to 27% — portfolio company, same pipeline.
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-07-08T09:30:02.919Z
-share_urn: urn:li:share:7480553777578635265
+status: pending
 hook_format: contrarian
 cta_goal: follows
-slug: vcs-funding-wrong-side-of-patents
+slug: ai-patent-startups-wrong-lesson
 keyword: AI patent strategy
-numbers_check: $40M, $25M, $200B, 70%
-image_direction: split visual, drafting tool on left fading, granted patent as balance-sheet asset on right
-headline: VCs fund the tool.<br>Founders should own the asset.
+numbers_check: $40M, 10x, $5.6B, 140000
+image_direction: split image, speedometer on left vs a wide net on right, BEIP charcoal and gold
+headline: AI files patents faster.<br>Speed was never the moat.
 metric_1: $40M
-label_1: RAISED FOR<br>PATENT TOOLING
-metric_2: $200B
-label_2: PATENT<br>INDUSTRY
-metric_3: 70%
-label_3: LICENSING<br>MARGIN
+label_1: SOLVE SERIES B<br>10X REVENUE
+metric_2: $5.6B
+label_2: QUALCOMM<br>LICENSING/YR
+metric_3: 140K
+label_3: PATENTS<br>TAXING AN INDUSTRY
 
-VCs are funding the wrong side of patents.
+Solve Intelligence just raised $40M. Wrong lesson.
 
-Solve Intelligence just raised $40M Series B. DeepIP raised $25M. Both build AI that drafts patents faster.
+VCs 10x'd its revenue on AI that drafts patents faster. But speed to file is not a moat.
 
-Drafting is a commodity. It gets cheaper every quarter.
+A patent's value lives in claim breadth, not turnaround time.
 
-The granted claim is the asset. It compounds.
+Qualcomm earns $5.6B a year licensing 140,000 patents. Not because they filed fast. Because their claims are broad enough to tax an entire industry.
 
-Qualcomm's licensing arm runs near 70% operating margin off a portfolio it does not have to manufacture. That is a $200B+ industry paying rent on filed claims, not on software seats.
+Founders now buy AI to file in 3 days instead of 3 weeks. Then draft claims so narrow a rival designs around them in an afternoon.
 
-Build a moat, do not rent one. Capitalize the patent. Expense the tool.
+The tool got 10x cheaper. The strategy got zero smarter.
 
-#IPStrategy #PatentValue #Founders
+File slower. Claim wider.
+
+#IntellectualProperty #PatentStrategy #Startups
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-07-08T11:06:28.518Z
-share_urn: urn:li:share:7480578043837648896
+status: pending
 hook_format: number-led
 cta_goal: clicks
-slug: one-patent-line-beats-product-lines
+slug: patents-are-royalty-annuities
 keyword: patent licensing revenue
-numbers_check: $5.3B, 70%, 60%
-image_direction: income statement with one licensing line item glowing brighter than product revenue lines
-headline: One licensing line.<br>Software margins, no factory.
-metric_1: $5.3B
-label_1: QUALCOMM<br>QTL REVENUE
-metric_2: 70%
-label_2: OPERATING<br>MARGIN
-metric_3: 60%+
-label_3: ARM ROYALTY<br>GROSS MARGIN
+numbers_check: $3.5B, 50%, $1B, 90%
+image_direction: balance sheet line item glowing gold, 20-year annuity curve rising, BEIP style
+headline: A patent portfolio is not<br>legal insurance.
+metric_1: 50%
+label_1: ARM REVENUE<br>FROM ROYALTIES
+metric_2: $1B/yr
+label_2: IBM IP LICENSING<br>TWO DECADES
+metric_3: 90%+
+label_3: GROSS MARGIN<br>ON ROYALTIES
 
-One licensing line item beats most product lines.
+Patents are not a cost center.
 
-Qualcomm's QTL segment pulls roughly $5.3B a year at close to 70% operating margin. No factory. No inventory. Just filed claims collecting royalties.
+Ceva just signed a landmark AI licensing deal for custom silicon it never manufactures.
 
-ARM runs 60%+ gross margin on the same model.
+ARM runs the same play: $3.5B revenue, roughly 50% from royalties on chips it does not build. IBM banked over $1B a year in IP licensing for two decades straight.
 
-Ceva just signed a landmark AI licensing deal for custom silicon this month.
+A patent portfolio is a royalty annuity. A 20-year term. 90%+ gross margin. Revenue that compounds while you sleep.
 
-Yet most founders book patent work as legal cost, then wonder why their IP shows zero IRR.
+Most founders expense their patent spend and forget it. The smart ones book it as an asset that pays rent.
 
-A patent is not a receipt. It is an asset with a yield. Price it like one.
+Stop filing to defend. Start filing to collect.
 
-#PatentStrategy #LicensingRevenue #IPValue
+#IntellectualProperty #Licensing #FounderStrategy
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-07-08T12:18:33.720Z
-share_urn: urn:li:share:7480596185418911744
+status: pending
 hook_format: frame-break
-cta_goal: follows
-slug: 70-percent-ai-roi-ignore-the-stat
+cta_goal: dms
+slug: ai-roi-happy-path-lie
 keyword: enterprise AI ROI
-numbers_check: 70%, 30%, 40%, 55%, 6
-image_direction: two doors, one labeled fixed process one labeled broken process, ROI arrow only exits the fixed door
-headline: 70% get AI ROI fast.<br>The 30% share one flaw.
-metric_1: 40%
-label_1: HANDLE-TIME<br>CUT
-metric_2: 55%
-label_2: TICKETS<br>DEFLECTED
-metric_3: 6
-label_3: HIRES<br>AVOIDED
+numbers_check: 70%, 60 days, 20%, 3x, 12000
+image_direction: dashboard showing green efficiency number, hidden red headcount cost underneath, BEIP charcoal
+headline: The dashboard said efficiency.<br>Net headcount went up.
+metric_1: 70%
+label_1: CLAIM ROI<br>IN 60 DAYS
+metric_2: 20%
+label_2: ESCALATION RATE<br>IGNORED
+metric_3: +4
+label_3: ENGINEERS ADDED<br>TO BABYSIT BOT
 
-70% get AI ROI in 60 days. Ignore that number.
+70% of customer-service AI deployments hit ROI in 60 days? Rarely.
 
-The reported stat is real: 70% of customer-service AI deployments hit payback inside 60 days. The 30% that fail all share one trait. They automated a broken process instead of fixing it first.
+I read that stat this week. In the field I see the opposite. The savings are real. The measurement is fake.
 
-With a client's support team I mapped the workflow before touching a model. Result: handle time down 40%, 55% of tickets deflected, 6 planned hires avoided.
+Teams count deflected tickets and call it a win, while ignoring the 20% that now escalate to senior reps at 3x the cost per contact.
 
-AI does not fix a broken process. It scales it. Fix the map, then automate.
+One client "saved" 12,000 support hours last year. Then quietly hired 4 engineers to babysit the bot.
 
-#AIOperations #RevOps #ProcessDesign
+Net headcount went up. The dashboard said efficiency.
+
+Measure the whole system, not the happy path. DM me if your AI ROI only counts the wins.
+
+#EnterpriseAI #AIOperations #RevOps
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-07-08T15:18:38.668Z
-share_urn: urn:li:share:7480641505049735168
-hook_format: story
-cta_goal: dm
-slug: revops-team-of-four-outsold-eleven
-keyword: AI in sales operations
-numbers_check: 18, 55, 9%, 14%, 74, 41
-image_direction: before after scoreboard, 4-person team output surpassing an 11-person team
-headline: Four reps outsold eleven.<br>Same headcount, better wiring.
-metric_1: 9% to 14%
-label_1: CLOSE<br>RATE
-metric_2: 74 to 41
-label_2: DAY SALES<br>CYCLE
-metric_3: 18 to 55
-label_3: DAILY<br>TOUCHES
+status: pending
+hook_format: prediction
+cta_goal: follows
+slug: fund-the-payback-not-the-demo
+keyword: AI pilot payback
+numbers_check: 6 of 11, 90-day, 14 to 4, $180K
+image_direction: pilot graveyard, 5 survivor workflows glowing, 90-day payback clock, BEIP gold
+headline: Most AI ROI dies<br>in the pilot graveyard.
+metric_1: 6 of 11
+label_1: PILOTS KILLED<br>ON DAY ONE
+metric_2: 14 to 4
+label_2: QUOTE-TO-CASH<br>DAYS
+metric_3: $180K
+label_3: CONTRACTOR SPEND<br>CUT PER YEAR
 
-A RevOps team of four outsold a team of eleven.
+The AI token binge is over.
 
-Same product. No new hires. I rewired how they worked.
+Enterprise budgets stopped asking "is it cool" and started asking "what is the payback." Good.
 
-AI agents handled account research and first-draft sequencing. Reps stopped copy-pasting and started closing.
+I just rebuilt a client's RevOps stack around one rule: no AI workflow ships without a named KPI and a 90-day payback. We killed 6 of 11 pilots on day one.
 
-Personalized touches per rep went from 18 a day to 55. Close rate moved from 9% to 14%. Sales cycle dropped from 74 days to 41.
+The survivors cut quote-to-cash cycle time from 14 days to 4 and dropped $180K in annual contractor spend.
 
-The lever was not more people. It was removing the manual research tax on every rep, every hour.
+Most AI ROI dies in the pilot graveyard because nobody set a kill criterion before starting.
 
-Curious where your cycle time leaks? DM me.
+Fund the payback, not the demo.
 
-#AIinSales #RevenueOperations #SalesEfficiency
+#AIOperations #RevOps #EnterpriseAI
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-07-08T18:12:23.282Z
-share_urn: urn:li:share:7480685228701917184
-hook_format: prediction
+status: pending
+hook_format: story
 cta_goal: clicks
-slug: ai-token-binge-is-over-payback-rule
-keyword: AI cost savings
-numbers_check: 3, 20x, 90
-image_direction: three red line items on an invoice being struck through, payback clock at 90 days
-headline: The token binge is over.<br>Budgets now want proof.
-metric_1: 20x
-label_1: COST FROM<br>OVER-SPEC MODEL
-metric_2: 3
-label_2: LINE ITEMS<br>KILLING ROI
-metric_3: 90
-label_3: DAY PAYBACK<br>OR KILL
+slug: ai-picks-deals-not-writes-emails
+keyword: AI sales pipeline scoring
+numbers_check: 3 years, 18 to 27, 50%
+image_direction: sales funnel, AI reranking accounts, dead accounts greyed out, close rate arrow up, BEIP style
+headline: AI's best sales job<br>is deciding what NOT to work.
+metric_1: 18 to 27%
+label_1: CLOSE RATE<br>ONE QUARTER
+metric_2: 3 yrs
+label_2: WON/LOST DATA<br>RE-READ
+metric_3: +50%
+label_3: REVENUE<br>SAME PIPELINE
 
-The AI token binge is over. Budgets want proof now.
+AI did not close the deal. It picked it.
 
-Klarna publicly walked back its AI-only support after quality slipped and rehired human agents. That is the market correcting.
+Everyone bolts AI onto sales to write emails faster. Wrong end of the funnel.
 
-Three line items quietly killing your AI ROI:
+A portfolio company pointed AI at pipeline scoring instead of outreach. It read 3 years of closed-won and closed-lost and reranked the entire book.
 
-One, no baseline KPI, so you cannot prove lift.
+Reps stopped chasing dead accounts. Close rate went from 18% to 27% in one quarter. Zero new leads. No extra headcount.
 
-Two, model over-spec, running a frontier model where a small one fits, at up to 20x the cost per task.
+Same pipeline, 50% more revenue.
 
-Three, no human-in-loop QA, so errors compound silently.
+AI's highest-leverage sales job is deciding what not to work. Automate the judgment, not the typing.
 
-My rule with clients: if it cannot show payback in 90 days, kill it.
-
-#AIOperations #AIROI #OperationalEfficiency
+#AIInSales #RevOps #SalesEfficiency
