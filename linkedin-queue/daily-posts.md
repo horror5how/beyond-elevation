@@ -3,7 +3,7 @@ date: 2026-07-09
 theme: The money is flowing into IP and AI operations, but it is chasing speed and demos when the real return sits in claim scope, kill criteria, and measuring the whole system.
 generated_at: 2026-07-09T04:00:00Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -123,7 +123,9 @@ Measure the whole system, not the happy path. DM me if your AI ROI only counts t
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-09T15:54:46.118Z
+share_urn: urn:li:share:7481012983989583872
 hook_format: prediction
 cta_goal: follows
 slug: fund-the-payback-not-the-demo
