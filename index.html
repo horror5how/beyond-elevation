@@ -616,7 +616,7 @@
 
                 /* Chat card bubbles, testimonial style */
                 @keyframes beaiLoop{0%{opacity:0;transform:translateY(12px)}5%{opacity:1;transform:translateY(0)}58%{opacity:1;transform:translateY(0)}66%{opacity:0;transform:translateY(-5px)}100%{opacity:0;transform:translateY(12px)}}
-                .beai-bubble{display:flex;align-items:flex-start;gap:16px;max-width:100%;padding:22px 26px;border-radius:30px;font-size:17px;line-height:1.55;color:#1a1a1a;background:#fff;box-shadow:0 4px 22px rgba(0,0,0,.07);border:none;opacity:0;transform:translateY(12px);animation:beaiLoop 16s ease infinite}
+                .beai-bubble{display:flex;align-items:flex-start;gap:16px;max-width:100%;padding:22px 26px;border-radius:30px;font-size:17px;line-height:1.55;color:#000000;background:#fff;box-shadow:0 4px 22px rgba(0,0,0,.07);border:none;opacity:0;transform:translateY(12px);animation:beaiLoop 16s ease infinite}
                 .beai-bubble strong{color:#000;font-weight:700}
 
                 /* Bot bubble */
@@ -706,25 +706,6 @@
 
       
 
-      <section class="shell section section-face scroll-section" id="firm">
-        <style>
-          .face-band{display:grid;grid-template-columns:minmax(280px,400px) 1fr;gap:clamp(28px,5vw,72px);align-items:center;background:linear-gradient(135deg,rgba(255,255,255,.62),rgba(255,255,255,.3));backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);border:1px solid rgba(255,255,255,.85);border-radius:34px;padding:clamp(24px,4vw,56px);box-shadow:inset 0 1px 0 rgba(255,255,255,.9),0 44px 96px -42px rgba(23,21,15,.28)}
-          .face-photo img{width:100%;height:auto;border-radius:22px;display:block;box-shadow:0 30px 70px -30px rgba(23,21,15,.4)}
-          .face-copy .eyebrow{margin-bottom:18px}
-          .face-copy p{font-size:clamp(1.22rem,1.85vw,1.66rem);line-height:1.48;letter-spacing:-.015em;color:#2f2c26;font-weight:400;margin:0 0 30px}
-          .face-copy strong{font-weight:600;color:#17150f}
-          @media(max-width:860px){.face-band{grid-template-columns:1fr}.face-photo{max-width:320px;margin:0 auto}}
-        </style>
-        <div class="face-band reveal">
-          <div class="face-photo"><img src="./assets/be-face.jpg" alt="The welcoming face of Beyond Elevation" width="1536" height="2048" loading="lazy"></div>
-          <div class="face-copy">
-            <span class="eyebrow">The firm</span>
-            <p>We are probably <strong>the most niche consulting firm in the world</strong> right now. We are not lawyers. We are <strong>IP strategists and executors</strong>. We take your data, your patents, your know-how and your secret sauce, and turn them into <strong>a higher valuation, more licensing revenue, and a future-proofed business</strong> that competitors never get near.</p>
-            <a class="button button-primary" href="https://usemotion.com/meet/hayat-amin/be" target="_blank" rel="noreferrer">Get Your Free IP Diagnostic</a>
-          </div>
-        </div>
-      </section>
-
       <section id="thesis" class="shell section section-thesis scroll-section">
         <div class="section-head reveal" data-parallax="0.03">
           <span class="eyebrow">What we do</span>
@@ -798,7 +779,7 @@
             display: inline-flex; align-items: center; gap: 8px;
             font-size: 0.7rem; font-weight: 700;
             letter-spacing: 0.22em; text-transform: uppercase;
-            color: #1a1a1a;
+            color:#000000;
             background: rgba(180,83,9,0.08);
             border: 1px solid rgba(180,83,9,0.2);
             padding: 7px 14px;
@@ -813,7 +794,7 @@
             font-size: clamp(2.4rem, 5.5vw, 4.2rem);
             line-height: 1.02;
             letter-spacing: -0.035em;
-            color: #1a1a1a;
+            color:#000000;
             margin: 0 0 24px;
             font-weight: 700;
           }
@@ -852,7 +833,7 @@
             font-weight: 700;
             line-height: 1;
             letter-spacing: -0.035em;
-            color: #1a1a1a;
+            color:#000000;
             margin-bottom: 10px;
             background: linear-gradient(135deg, #1a1a1a 0%, #B45309 100%);
             -webkit-background-clip: text;
@@ -970,7 +951,7 @@
           .sol-bridge-h {
             font-size: clamp(2.8rem, 6vw, 5.6rem);
             font-weight: 700; letter-spacing: -0.045em; line-height: 1.02;
-            color: #1a1a1a; margin: 0 0 56px;
+            color:#000000; margin: 0 0 56px;
             max-width: 820px;
           }
           .sol-bridge-pillars {
@@ -990,7 +971,7 @@
             text-transform: uppercase; color: #B45309;
           }
           .sol-bridge-pillar-label {
-            font-size: 1rem; font-weight: 600; color: #1a1a1a; letter-spacing: -0.02em;
+            font-size: 1rem; font-weight: 600; color:#000000; letter-spacing: -0.02em;
           }
           @media(max-width:640px){
             .sol-bridge { padding-bottom: 40px; margin-bottom: 40px; }
@@ -1034,7 +1015,7 @@
             display: inline-flex; align-items: center; gap: 8px;
             padding: 16px 28px;
             background: #ffffff;
-            color: #1a1a1a !important;
+            color:#000000 !important;
             border-radius: 100px;
             font-size: 1rem;
             font-weight: 600;
@@ -1219,7 +1200,7 @@
           .proof-band{display:flex;align-items:center;justify-content:space-between;gap:28px;background:linear-gradient(135deg,#1a1a1a,#0f0f0f);border-radius:28px;padding:44px 48px;color:#fff;flex-wrap:wrap}
           .proof-band h2{color:#fff;font-size:clamp(1.5rem,2.6vw,2.1rem);letter-spacing:-.02em;line-height:1.15;margin:10px 0 0;max-width:34ch}
           .proof-band .eyebrow{color:#F2B176}
-          .proof-band-cta{display:inline-flex;align-items:center;gap:8px;padding:14px 26px;border-radius:100px;background:#fff;color:#1a1a1a;font-weight:600;text-decoration:none;white-space:nowrap;transition:transform .2s ease}
+          .proof-band-cta{display:inline-flex;align-items:center;gap:8px;padding:14px 26px;border-radius:100px;background:#fff;color:#000000;font-weight:600;text-decoration:none;white-space:nowrap;transition:transform .2s ease}
           .proof-band-cta:hover{transform:translateY(-2px)}
           @media(max-width:760px){.proof-band{padding:32px 24px}}
         </style>
@@ -1247,10 +1228,10 @@
           .pricing-card-label{display:flex;align-items:center;gap:8px;font-size:.62rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#aaa;margin-bottom:20px}
           .pricing-card-featured .pricing-card-label{color:rgba(255,255,255,.35)}
           .pricing-badge{font-size:.6rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:#B45309;color:#fff;padding:3px 9px;border-radius:100px}
-          .pricing-card-name{font-size:clamp(1.65rem,2.2vw,2rem);font-weight:700;letter-spacing:-.03em;line-height:1.12;color:#1a1a1a;margin:0 0 20px}
+          .pricing-card-name{font-size:clamp(1.65rem,2.2vw,2rem);font-weight:700;letter-spacing:-.03em;line-height:1.12;color:#000000;margin:0 0 20px}
           .pricing-card-featured .pricing-card-name{color:#fff}
           .pricing-price{display:flex;align-items:baseline;gap:4px;margin-bottom:4px}
-          .pricing-price-amount{font-size:2.6rem;font-weight:700;letter-spacing:-.04em;line-height:1;color:#1a1a1a}
+          .pricing-price-amount{font-size:2.6rem;font-weight:700;letter-spacing:-.04em;line-height:1;color:#000000}
           .pricing-card-featured .pricing-price-amount{color:#F2B176}
           .pricing-price-period{font-size:.88rem;color:#888;font-weight:400}
           .pricing-card-featured .pricing-price-period{color:rgba(255,255,255,.4)}
@@ -1265,7 +1246,7 @@
           .pricing-cta-amber{background:#B45309;color:#fff}
           .pricing-cta-amber:hover{background:#923f07;color:#fff}
           .pricing-cta-ghost{background:transparent;color:#666;border:1px solid rgba(0,0,0,.1)}
-          .pricing-cta-ghost:hover{background:rgba(0,0,0,.04);color:#1a1a1a}
+          .pricing-cta-ghost:hover{background:rgba(0,0,0,.04);color:#000000}
           .pricing-cta-ghost-dark{background:transparent;color:rgba(255,255,255,.6);border:1px solid rgba(255,255,255,.14)}
           .pricing-cta-ghost-dark:hover{background:rgba(255,255,255,.07);color:#fff}
           .pricing-divider{border:none;border-top:1px solid rgba(0,0,0,.07);margin:24px 0}
@@ -1425,7 +1406,7 @@
             display: inline-flex; align-items: center; gap: 8px;
             padding: 7px 14px;
             font-size: 0.78rem; font-weight: 600;
-            letter-spacing: 0.02em; color: #1a1a1a;
+            letter-spacing: 0.02em; color:#000000;
             background: rgba(255,255,255,0.95);
             border-radius: 100px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.08);
@@ -1456,7 +1437,7 @@
           .alex-cta-copy h2 {
             font-size: clamp(1.6rem, 2.8vw, 2.3rem);
             line-height: 1.15; letter-spacing: -0.02em;
-            color: #1a1a1a;
+            color:#000000;
             margin: 0 0 18px 0;
             max-width: 580px;
           }
@@ -1466,7 +1447,7 @@
             margin: 0 0 28px 0;
             max-width: 580px;
           }
-          .alex-cta-lede strong { color: #1a1a1a; }
+          .alex-cta-lede strong { color:#000000; }
           .alex-cta-actions {
             display: flex; gap: 12px; flex-wrap: wrap;
             margin: 0 0 18px 0;
@@ -1474,7 +1455,7 @@
           }
           .alex-cta-primary {
             background: #1a1a1a !important; color: #fff !important;
-            border-color: #1a1a1a !important;
+            border-color:#000000 !important;
           }
           .alex-cta-primary:hover { background: #000 !important; }
           .alex-cta-linkedin {
@@ -1612,14 +1593,14 @@
       .be-pop-overlay.is-open{opacity:1;}
       .be-pop-card{position:relative;width:100%;max-width:440px;border-radius:28px;overflow:hidden;padding:34px 30px 28px;text-align:center;background:linear-gradient(135deg,#FFF5E8 0%,#FFE1C7 50%,#F2B176 100%);box-shadow:0 40px 90px -30px rgba(217,119,6,.4),0 10px 30px -10px rgba(0,0,0,.15);transform:translateY(16px) scale(.98);transition:transform .3s cubic-bezier(.2,.8,.2,1);}
       .be-pop-overlay.is-open .be-pop-card{transform:none;}
-      .be-pop-close{position:absolute;top:12px;right:14px;width:34px;height:34px;border:0;border-radius:50%;background:rgba(255,255,255,.6);cursor:pointer;font-size:22px;line-height:1;color:#1a1a1a;transition:background .2s;}
+      .be-pop-close{position:absolute;top:12px;right:14px;width:34px;height:34px;border:0;border-radius:50%;background:rgba(255,255,255,.6);cursor:pointer;font-size:22px;line-height:1;color:#000000;transition:background .2s;}
       .be-pop-close:hover{background:#fff;}
       .be-pop-portrait{width:108px;height:108px;margin:0 auto;border-radius:50%;overflow:hidden;border:5px solid #fff;box-shadow:0 16px 36px -12px rgba(0,0,0,.3);background:#FFE1C7;}
       .be-pop-portrait img{width:100%;height:100%;object-fit:cover;display:block;}
-      .be-pop-status{margin:14px auto 0;display:inline-flex;align-items:center;gap:8px;padding:6px 14px;font-size:.78rem;font-weight:600;color:#1a1a1a;background:rgba(255,255,255,.95);border-radius:100px;box-shadow:0 4px 12px rgba(0,0,0,.08);}
+      .be-pop-status{margin:14px auto 0;display:inline-flex;align-items:center;gap:8px;padding:6px 14px;font-size:.78rem;font-weight:600;color:#000000;background:rgba(255,255,255,.95);border-radius:100px;box-shadow:0 4px 12px rgba(0,0,0,.08);}
       .be-pop-pulse{width:8px;height:8px;border-radius:50%;background:#16a34a;box-shadow:0 0 0 0 rgba(22,163,74,.6);animation:alexPulse 1.8s infinite;}
       .be-pop-eyebrow{display:inline-block;margin:18px 0 0;font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:#fff;background:#1a1a1a;padding:6px 14px;border-radius:100px;}
-      .be-pop-h{margin:12px 0 0;font-size:clamp(1.4rem,5vw,1.7rem);line-height:1.15;letter-spacing:-.02em;color:#1a1a1a;}
+      .be-pop-h{margin:12px 0 0;font-size:clamp(1.4rem,5vw,1.7rem);line-height:1.15;letter-spacing:-.02em;color:#000000;}
       .be-pop-lede{margin:12px 0 0;font-size:1rem;line-height:1.55;color:#000;}
       .be-pop-cta{display:inline-block;margin:20px 0 0;padding:14px 26px;border-radius:100px;background:#1a1a1a;color:#fff;font-weight:600;font-size:1rem;text-decoration:none;transition:background .2s,transform .2s;}
       .be-pop-cta:hover{background:#000;transform:translateY(-1px);}
