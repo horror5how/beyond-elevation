@@ -432,3 +432,4 @@
 2026-07-09 18:45 | urn:li:share:7481055832890224640 | post #1 | fractional-cfo-ip-valuation-unlock | Your CFO just missed $3.2M from IP.  Lawyers file patents. CFOs value assets. Th
 2026-07-10 10:27 | urn:li:share:7481292954310164481 | post #1 | solve-intelligence-patents-as-revenue-line | Solve Intelligence just raised $40M. For patent software.  20VC backed it after 
 2026-07-10 11:20 | urn:li:share:7481306471918608384 | Your $100K patent royalty is worth $1.2M at exit.  The same $100K in product rev
+2026-07-10 12:00 | urn:li:share:7481316513958957056 | post #2 | acquirer-ip-diligence-hidden-risks | Your acquirer just missed $1.5M in IP risk.  Acquirers often miss critical IP ga

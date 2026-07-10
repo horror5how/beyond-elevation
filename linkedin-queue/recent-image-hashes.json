@@ -1,12 +1,5 @@
 [
   {
-    "hash": "81ffffffffff3434",
-    "layout": "a",
-    "accent": "#d7b086",
-    "slug": "ai-token-binge-is-over-payback-rule",
-    "ts": "2026-07-08T18:12:23.282Z"
-  },
-  {
     "hash": "7ef010710b35ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "solve-intelligence-patents-as-revenue-line",
     "ts": "2026-07-10T10:27:16.534Z"
+  },
+  {
+    "hash": "40c3f7ffc3e7fffb",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "acquirer-ip-diligence-hidden-risks",
+    "ts": "2026-07-10T12:00:53.338Z"
   }
 ]

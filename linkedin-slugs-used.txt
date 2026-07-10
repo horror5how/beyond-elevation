@@ -447,3 +447,4 @@ ip-budget-cut-valuation-lag-2026
 fractional-cfo-ip-valuation-unlock
 solve-intelligence-patents-as-revenue-line
 royalty-escalator-compound-exit-math-2026
+acquirer-ip-diligence-hidden-risks

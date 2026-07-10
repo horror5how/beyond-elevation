@@ -3,7 +3,7 @@ date: 2026-07-10
 theme: The market is repricing both IP and AI in the same direction: value lives in the layer everyone ignores, the enforcement layer for patents and the orchestration layer for agents.
 generated_at: 2026-07-10T03:02:05.000Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -57,7 +57,9 @@ BE clients who treat IP as revenue raise at higher multiples. File-and-forget st
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-10T12:00:53.338Z
+share_urn: urn:li:share:7481316513958957056
 hook_format: contrarian
 cta_goal: comments
 slug: acquirer-ip-diligence-hidden-risks
