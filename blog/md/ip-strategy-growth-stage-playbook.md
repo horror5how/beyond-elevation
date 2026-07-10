@@ -2,8 +2,8 @@
 title: "IP Strategy for Growth-Stage Companies: The 6-Move Playbook That Turns Patents From Cost Center to Revenue Engine"
 slug: ip-strategy-growth-stage-playbook
 date: 2026-07-10
-url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-growth-stage-playbook
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-strategy-growth-stage-playbook/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -75,6 +75,20 @@ The six moves above are sequential, not optional. Growth-stage companies that ex
 
 [Beyond Elevation](https://beyondelevation.com) runs this exact playbook for growth-stage tech companies, AI startups, and data-rich platforms preparing for their next milestone. The [IP monetization playbook](/blog/posts/ip-monetization-for-ceos/) starts with a single question: is your IP earning its keep?
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-strategy-growth-stage-playbook)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### When should a company transition from defensive to offensive IP strategy?
@@ -96,3 +110,6 @@ Less than 16%. The remaining 84% hold patents as purely defensive assets, missin
 ### How does IP strategy for growth-stage companies differ from enterprise IP management?
 
 Growth-stage IP strategy focuses on activation and monetization of a concentrated portfolio. Enterprise IP management focuses on maintaining and defending a large, distributed portfolio. Growth-stage companies prioritize revenue generation and exit positioning. Enterprises prioritize risk management and competitive blocking. The frameworks, tools, and economics are different at every level.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

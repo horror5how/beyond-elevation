@@ -281,5 +281,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your Patents Are a 90% Gross-Margin Revenue Line. Your Board Books Them as a Cost.](https://beyondelevation.com/blog/posts/patents-as-a-revenue-line/) — /blog/md/patents-as-a-revenue-line.md
 - [5 IP Metrics That Predict Your Exit Multiple (And Why Most Founders Track Zero of Them)](https://beyondelevation.com/blog/posts/ip-metrics-predict-exit-multiple/) — /blog/md/ip-metrics-predict-exit-multiple.md
 - [How to Value Trade Secrets: The 3-Method Framework That Proves Your Unpatented IP Is Worth More Than Your Patents](https://beyondelevation.com/blog/posts/how-to-value-trade-secrets/) — /blog/md/how-to-value-trade-secrets.md
+- [IP Strategy for Growth-Stage Companies: The 6-Move Playbook That Turns Patents From Cost Center to Revenue Engine](https://beyondelevation.com/blog/posts/ip-strategy-growth-stage-playbook/) — /blog/md/ip-strategy-growth-stage-playbook.md
 
 > Full blog content available at /llms-full.txt
