@@ -450,3 +450,4 @@ royalty-escalator-compound-exit-math-2026
 acquirer-ip-diligence-hidden-risks
 ai-model-commoditization-data-moat-2026
 openai-agent-efficiency-operational-cost
+claude-code-vulnerabilities-shadow-ai-risk

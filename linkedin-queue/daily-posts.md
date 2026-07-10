@@ -3,7 +3,7 @@ date: 2026-07-10
 theme: The market is repricing both IP and AI in the same direction: value lives in the layer everyone ignores, the enforcement layer for patents and the orchestration layer for agents.
 generated_at: 2026-07-10T03:02:05.000Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -125,7 +125,9 @@ The play: Refactor agent chains for shorter, single-purpose steps.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-10T15:30:00.213Z
+share_urn: urn:li:share:7481369139408732161
 hook_format: contrarian
 cta_goal: comments
 slug: claude-code-vulnerabilities-shadow-ai-risk

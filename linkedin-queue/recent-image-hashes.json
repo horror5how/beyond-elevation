@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0042e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "patents-are-royalty-annuities",
-    "ts": "2026-07-09T12:03:47.962Z"
-  },
-  {
     "hash": "00e3e7ff81c3ff9d",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "openai-agent-efficiency-operational-cost",
     "ts": "2026-07-10T13:09:35.182Z"
+  },
+  {
+    "hash": "7ef911190f34ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "claude-code-vulnerabilities-shadow-ai-risk",
+    "ts": "2026-07-10T15:30:00.213Z"
   }
 ]

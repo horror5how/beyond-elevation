@@ -436,3 +436,4 @@
 2026-07-10 12:51 | QUEUED | ai-model-commoditization-data-moat-2026 | GPT-4 inference cost fell 10,000x in 24 months.  The model is not the moat.  You
 2026-07-10 12:51 | urn:li:share:7481329369920028672 | GPT-4 inference cost fell 10,000x in 24 months.  The model is not the moat.  You
 2026-07-10 13:09 | urn:li:share:7481333802305413120 | post #3 | openai-agent-efficiency-operational-cost | OpenAI's 54% efficiency changes nothing for your agents.  Everyone thinks lower 
+2026-07-10 15:30 | urn:li:share:7481369139408732161 | post #4 | claude-code-vulnerabilities-shadow-ai-risk | Claude's code vulnerabilities are already in your enterprise.  This is not just 
