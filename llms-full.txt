@@ -4223,3 +4223,19 @@ The gap exists because founders value patents based on what they paid to file th
 A founder who spent $500,000 on 12 patent filings assumes the portfolio is worth at least $500,000. An investor runs the income approach and sees patents covering technology nobody licenses, in jurisdictions where the company has no market presence, with claims so narrow a competitor can design around them in six months. That investor values the portfolio at $60,000 to $1
 
 ---
+
+## Your Patents Are a 90% Gross-Margin Revenue Line. Your Board Books Them as a Cost.
+
+URL: https://beyondelevation.com/blog/posts/patents-as-a-revenue-line/
+
+Patents as a revenue line means booking your IP where it belongs: on the income statement as licensing revenue, not buried in the legal budget as a cost. Most tech CEOs carry a granted portfolio as sunk expense, thousands in filing and prosecution fees with no return column next to it. That is a bookkeeping choice, and it is the wrong one. A licensed patent generates royalty income at gross margins above 90%, because the invention is already built and the marginal cost of granting one more license is close to zero. Framed that way, your patents stop looking like a cost center and start looking like the highest-margin revenue line you are not collecting.
+
+Here is the part boards miss. The company two doors down is not smarter than you. It just decided to run its patents through the P&L instead of the legal ledger, and its valuation reflects a revenue stream yours reports as an expense.
+
+## What "patents as a revenue line" actually means
+
+It means moving royalty income out of "other" and into a named line on your revenue statement, then managing it like any other product line with a target, an owner, and a pipeline. A patent you enforce or license produces contractual, recurring cash. That cash has a revenue multiple attached to it, the same way subscription revenue does. When an acquirer or investor sees $2M of annual licensing revenue at 92% gross margin, they do not value it like legal cost recovery. They value it like a durable, high-margin stream and apply a multiple.
+
+The
+
+---

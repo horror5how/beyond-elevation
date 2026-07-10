@@ -41,21 +41,43 @@ The mistake is waiting for a lawsuit to force the question. By then the leverage
 
 Beyond Elevation has run this for tech and AI founders and for data-heavy businesses like our DGS data monetization work, and it is why our clients rate us 4.5 on Trustpilot. The reframe is simple. The revenue is real. Most boards just never move the line.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patents-as-a-revenue-line)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How do you book patents as a revenue line?
+
 You license or enforce specific claims to generate contractual royalty income, then report that income as a named revenue line rather than as legal cost recovery. The income statement treatment matters because recurring royalty revenue carries a valuation multiple, while a legal expense carries none. Identify the claims with commercial leverage first, price the royalty against the licensee's revenue at risk, and structure the deal for recurring payment.
 
 ### Why are patent licensing margins so high?
+
 Patent licensing runs at gross margins above 90% because the invention is already built and paid for. Once a patent is granted, the marginal cost of issuing one more license is close to zero: no manufacturing, no fulfillment, no support. The royalty income drops almost entirely to gross profit, which is why a licensing line can outperform the core product line on margin even when it is smaller in absolute revenue.
 
 ### What is a stranded royalty asset?
+
 A stranded royalty asset is patent-covered revenue you are legally entitled to collect but never do. It is common when a company files patents defensively, then never audits which claims read on competitors' shipping products. The value is real and quantifiable: annual royalty potential multiplied by a licensing multiple, all of it sitting off the P&L because no one moved it onto the revenue line.
 
 ### Does licensing revenue increase company valuation?
+
 Yes. Proven, recurring licensing revenue is valued at a multiple like any durable revenue stream, so converting IP into a licensing line adds enterprise value beyond the cash itself. Acquirers discount unmonetized patents and pay a premium for demonstrated royalty income, which is why the conversion should happen well before an exit process rather than during diligence.
 
 ### When should a startup start monetizing its patents?
+
 Start the moment a competitor ships a product your claims cover, or 12 to 18 months before any fundraise or sale. Earlier is better because leverage decays and uncollected royalties do not come back. Waiting for a lawsuit to force the question is the costliest option, since the revenue you could have booked in the interim is permanently lost.
 
 **Move your patents onto the revenue line.** Beyond Elevation gives tech and AI founders FT100-grade IP strategy without a full-time hire. [Book a consultation](https://beyondelevation.com) and find out what royalty line your portfolio is hiding.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
