@@ -1,21 +1,13 @@
-GPT-4 inference cost fell 10,000x in 24 months.
+Most founders accept the first royalty offer. That costs them $800K.
 
-The model is not the moat.
+Three things move the rate.
 
-Your proprietary data is — but only if the IP chain is clean.
+Field-of-use restrictions double your revenue ceiling.
 
-3 assets that survive model commoditization:
+Minimum annual guarantees eliminate downside risk.
 
-Training data with documented IP provenance.
+Audit clauses recover underpaid royalties — on average, in year two.
 
-Fine-tuning datasets with clear ownership clauses in vendor contracts.
+Every negotiation starts where the last licensee finished. If you don't know that benchmark, you're negotiating blind.
 
-AI output governed by your own trade-secret protocol.
-
-AI companies with clean data IP exit at 2.4x vs 1.1x for those without it.
-
-The model is becoming a commodity. The data behind it is not.
-
-That's where the exit multiple lives.
-
-#AI #IPStrategy #DataMonetization
+#IPStrategy #PatentLicensing #Licensing
