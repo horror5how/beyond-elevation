@@ -4259,3 +4259,19 @@ A late-stage startup with a completed IP audit hits a median 25.8x revenue multi
 The problem is not that founders lack IP. Most tech companies own more protectable assets than they realize. The problem is they never measure w
 
 ---
+
+## How to Value Trade Secrets: The 3-Method Framework That Proves Your Unpatented IP Is Worth More Than Your Patents
+
+URL: https://beyondelevation.com/blog/posts/how-to-value-trade-secrets/
+
+The average tech startup holds trade secrets worth 3 to 5x the value of its patent portfolio. Hayat Amin argues this ratio is conservative. "I have reviewed portfolios where the trade secrets generated $14 million in attributable revenue and the patents supported $2 million. The founders had spent $180,000 on patent filings and $0 documenting their trade secrets. They could not defend the $14 million because they had never valued it."
+
+Trade secret valuation is the largest blind spot in startup finance. Companies with patents are 10.2x more likely to secure early-stage funding. But patents represent only 20 to 30% of most tech companies' total IP value. The rest sits in trade secrets: proprietary algorithms, training data pipelines, customer pricing models, manufacturing processes, supplier terms, and the accumulated engineering know-how that makes the product work. None of it appears on the balance sheet. None of it has a number attached.
+
+That changes with the 3-method framework [Beyond Elevation](https://beyondelevation.com) uses to put a defensible dollar figure on trade secrets before fundraising, M&A, or licensing negotiations.
+
+## What Counts as a Trade Secret and Why Do Most Founders Undercount?
+
+A trade secret is any confidential business information that provides competitive advantage and is subject to reasonable efforts to maintain its secrecy. That legal definition covers far more ground than most founders realize. It includes algorithms, customer lists, pricing f
+
+---

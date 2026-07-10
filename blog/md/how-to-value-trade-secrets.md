@@ -2,8 +2,8 @@
 title: "How to Value Trade Secrets: The 3-Method Framework That Proves Your Unpatented IP Is Worth More Than Your Patents"
 slug: how-to-value-trade-secrets
 date: 2026-07-10
-url: https://beyondelevation.com/blog/post.html?slug=how-to-value-trade-secrets
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/how-to-value-trade-secrets/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -79,6 +79,20 @@ Hayat Amin says the $0 trade secret problem is not a legal issue. It is a financ
 
 [Beyond Elevation](https://beyondelevation.com) produces trade secret valuations for fundraising, M&A, and [trade secret licensing](/blog/posts/license-trade-secret-without-losing-protection/) engagements. The deliverable is a scored, documented, triangulated valuation your board can present and your buyer can price. Founders who know what their trade secrets are worth negotiate from a position their competitors never reach.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-to-value-trade-secrets)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does a trade secret valuation cost?
@@ -100,3 +114,6 @@ A valuation expert with IP experience. Lawyers define and protect trade secrets.
 ### How often should trade secrets be revalued?
 
 Annually, or before any major financial event: fundraising, M&A, licensing negotiation, or IP-backed financing. Trade secrets gain and lose value as technology evolves, markets shift, and competitors catch up. An annual reassessment ensures your valuation reflects current competitive conditions, not the market from 18 months ago.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
