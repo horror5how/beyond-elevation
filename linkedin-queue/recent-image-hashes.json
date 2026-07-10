@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef010710b35ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "ai-patent-startups-wrong-lesson",
-    "ts": "2026-07-09T10:28:54.956Z"
-  },
-  {
     "hash": "0042e7ffc3e7ff99",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "acquirer-ip-diligence-hidden-risks",
     "ts": "2026-07-10T12:00:53.338Z"
+  },
+  {
+    "hash": "00c3e7ffc381ff9f",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "openai-agent-efficiency-operational-cost",
+    "ts": "2026-07-10T13:09:35.182Z"
   }
 ]

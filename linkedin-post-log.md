@@ -435,3 +435,4 @@
 2026-07-10 12:00 | urn:li:share:7481316513958957056 | post #2 | acquirer-ip-diligence-hidden-risks | Your acquirer just missed $1.5M in IP risk.  Acquirers often miss critical IP ga
 2026-07-10 12:51 | QUEUED | ai-model-commoditization-data-moat-2026 | GPT-4 inference cost fell 10,000x in 24 months.  The model is not the moat.  You
 2026-07-10 12:51 | urn:li:share:7481329369920028672 | GPT-4 inference cost fell 10,000x in 24 months.  The model is not the moat.  You
+2026-07-10 13:09 | urn:li:share:7481333802305413120 | post #3 | openai-agent-efficiency-operational-cost | OpenAI's 54% efficiency changes nothing for your agents.  Everyone thinks lower 

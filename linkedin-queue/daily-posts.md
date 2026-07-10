@@ -3,7 +3,7 @@ date: 2026-07-10
 theme: The market is repricing both IP and AI in the same direction: value lives in the layer everyone ignores, the enforcement layer for patents and the orchestration layer for agents.
 generated_at: 2026-07-10T03:02:05.000Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -91,7 +91,9 @@ One BE client found $1.5M in unmitigated IP risk, repricing a deal 7% down.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-10T13:09:35.182Z
+share_urn: urn:li:share:7481333802305413120
 hook_format: contrarian
 cta_goal: comments
 slug: openai-agent-efficiency-operational-cost
