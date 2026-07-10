@@ -569,3 +569,6 @@ T5-01 → T5-86 + T5-88 shipped (PatSnap rows T5-38 → T5-67 pending full recon
 ### How to extend Tier 5
 
 The SEO Strategist scheduled task re-runs PAA scraping every Mon/Thu. New rows are appended here with the scrape date. Covered rows get struck through + the slug added. The Blog Publisher treats 🟢 rows as first-class briefs equivalent to Tier 3 (AEO plays).
+
+### Net-new synthesized posts (all tiers saturated)
+- 2026-07-10 — `patents-as-a-revenue-line` (Licensing) — "patents as a revenue line" P&L reframe / stranded royalty asset. All Tier 1-5 briefs confirmed covered (255 posts); synthesized per de-dup rule from live 2026 signal (Solve Intelligence $40M Series B) + Ocean Tomo intangibles stat. Grep-confirmed uncovered: "revenue line"/"license your patent" = 0 prior hits.
