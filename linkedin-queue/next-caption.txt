@@ -1,17 +1,21 @@
-Your $100K patent royalty is worth $1.2M at exit.
+GPT-4 inference cost fell 10,000x in 24 months.
 
-The same $100K in product revenue? $400K.
+The model is not the moat.
 
-Royalty income gets a 12x EBITDA multiple. Product revenue gets 4x.
+Your proprietary data is — but only if the IP chain is clean.
 
-The difference: royalty income is recurring, predictable, and margin-pure. Buyers pay 3x more for that certainty.
+3 assets that survive model commoditization:
 
-Add a 3% annual escalator clause to your license.
+Training data with documented IP provenance.
 
-That $100K in year one becomes $134K by year ten. At 12x, that's a compounding exit asset.
+Fine-tuning datasets with clear ownership clauses in vendor contracts.
 
-Most founders hand over royalty rights in a licensing deal without this clause.
+AI output governed by your own trade-secret protocol.
 
-That mistake costs $300K in exit value per contract.
+AI companies with clean data IP exit at 2.4x vs 1.1x for those without it.
 
-#IPStrategy #PatentLicensing #ExitMultiple
+The model is becoming a commodity. The data behind it is not.
+
+That's where the exit multiple lives.
+
+#AI #IPStrategy #DataMonetization
