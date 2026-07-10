@@ -445,3 +445,4 @@ ai-roi-happy-path-lie
 fund-the-payback-not-the-demo
 ip-budget-cut-valuation-lag-2026
 fractional-cfo-ip-valuation-unlock
+solve-intelligence-patents-as-revenue-line

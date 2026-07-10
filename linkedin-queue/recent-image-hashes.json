@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0044ffffc381ff99",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "revops-team-of-four-outsold-eleven",
-    "ts": "2026-07-08T15:18:38.668Z"
-  },
-  {
     "hash": "81ffffffffff3434",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "fractional-cfo-ip-valuation-unlock",
     "ts": "2026-07-09T18:45:02.104Z"
+  },
+  {
+    "hash": "40c3e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "solve-intelligence-patents-as-revenue-line",
+    "ts": "2026-07-10T10:27:16.534Z"
   }
 ]

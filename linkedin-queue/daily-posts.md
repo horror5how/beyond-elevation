@@ -3,7 +3,7 @@ date: 2026-07-10
 theme: The market is repricing both IP and AI in the same direction: value lives in the layer everyone ignores, the enforcement layer for patents and the orchestration layer for agents.
 generated_at: 2026-07-10T03:02:05.000Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Two markets, one lesson. VCs just paid $40M for patent software while founders s
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-10T10:27:16.534Z
+share_urn: urn:li:share:7481292954310164481
 hook_format: number-led
 cta_goal: follows
 slug: solve-intelligence-patents-as-revenue-line
