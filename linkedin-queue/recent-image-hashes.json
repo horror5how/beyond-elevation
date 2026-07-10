@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00e3e7ff81c3ff9d",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "ai-roi-happy-path-lie",
-    "ts": "2026-07-09T13:47:40.466Z"
-  },
-  {
     "hash": "3cfc30033bf0ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "claude-code-vulnerabilities-shadow-ai-risk",
     "ts": "2026-07-10T15:30:00.213Z"
+  },
+  {
+    "hash": "3efc00770f31ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "ibm-multi-agent-build-vs-buy",
+    "ts": "2026-07-10T18:15:52.722Z"
   }
 ]
