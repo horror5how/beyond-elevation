@@ -152,6 +152,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-metrics-predict-exit-multiple/</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>5 IP Metrics That Predict Your Exit Multiple (And Why Most Founders Track Zero of Them)</image:title>
+      <image:caption>5 IP Metrics That Predict Your Exit Multiple (And Why Most Founders Track Zero of Them) — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/ip-metrics-predict-exit-multiple/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/ip-strategy-vertical-ai-domain-data-moat/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -2897,18 +2909,6 @@
       <image:title>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For</image:title>
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/ip-metrics-predict-exit-multiple/</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
-      <image:title>5 IP Metrics That Predict Your Exit Multiple (And Why Most Founders Track Zero of Them)</image:title>
-      <image:caption>5 IP Metrics That Predict Your Exit Multiple (And Why Most Founders Track Zero of Them) — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
-      <image:license>https://beyondelevation.com/blog/posts/ip-metrics-predict-exit-multiple/</image:license>
     </image:image>
   </url>
 </urlset>

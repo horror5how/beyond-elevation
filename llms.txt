@@ -279,5 +279,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [IP Valuation vs Business Valuation: 5 Differences That Change Your Exit Number](https://beyondelevation.com/blog/posts/ip-valuation-vs-business-valuation/) — /blog/md/ip-valuation-vs-business-valuation.md
 - [Why Your Patent Portfolio Is Worth 80% Less Than You Think (And the 4-Step Fix)](https://beyondelevation.com/blog/posts/patent-portfolio-valuation-gap-4-step-fix/) — /blog/md/patent-portfolio-valuation-gap-4-step-fix.md
 - [Your Patents Are a 90% Gross-Margin Revenue Line. Your Board Books Them as a Cost.](https://beyondelevation.com/blog/posts/patents-as-a-revenue-line/) — /blog/md/patents-as-a-revenue-line.md
+- [5 IP Metrics That Predict Your Exit Multiple (And Why Most Founders Track Zero of Them)](https://beyondelevation.com/blog/posts/ip-metrics-predict-exit-multiple/) — /blog/md/ip-metrics-predict-exit-multiple.md
 
 > Full blog content available at /llms-full.txt
