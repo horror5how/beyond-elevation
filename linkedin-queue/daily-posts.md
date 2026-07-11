@@ -1,191 +1,199 @@
 ---
-date: 2026-07-10
-theme: The market is repricing both IP and AI in the same direction: value lives in the layer everyone ignores, the enforcement layer for patents and the orchestration layer for agents.
-generated_at: 2026-07-10T03:02:05.000Z
+date: 2026-07-11
+theme: Both markets reward the layer everyone skips: patent density and enforcement on the IP side, governance and P&L-visible KPIs on the AI side.
+generated_at: 2026-07-11T18:54:36.000Z
 posts_total: 5
-posts_published: 5
+posts_published: 0
 ---
 
 # Daily theme
-Two markets, one lesson. VCs just paid $40M for patent software while founders still book patents as legal cost. Enterprises keep buying "AI efficiency" while the real money and the real risk sit one layer down: orchestration, enforcement, and the hidden costs nobody put in the model. Today's five posts drag the value out of the layer operators overlook.
+Filing, time saved, and autonomy are vanity metrics until someone measures and protects them. On the IP side, value lives in portfolio density and enforcement, not the act of filing. On the AI side, value lives in the P&L line and the governance layer, not the hours a dashboard says you saved. Today's five posts drag the money out of the layer operators keep overlooking.
 
 # Topic shortlist (research notes - not posted)
-1. Solve Intelligence $40M Series B (20VC), Ceva AI licensing deal - patents as a revenue line, not legal cost - 10x revenue, 90% gross margin.
-2. Acquirer IP diligence gaps - hidden post-close liability - $1.5M IP risk, 7% deal repricing.
-3. OpenAI 54% token efficiency - why cheaper tokens do not mean cheaper agents - 30-40% cost overruns.
-4. Claude/shadow-LLM security exposure - undocumented models in the enterprise - 70% shadow LLMs, 4x leakage risk.
-5. IBM multi-agent entry - build vs buy for orchestration - 3-4x build cost, 60-75% faster to license.
+1. Merck Keytruda patent thicket - Senator questions strategy - portfolio density protects $29.5B ARR to 2028.
+2. AI-for-patents funding wave - DeepIP $25M + Solve $55M total - dormant patents are stranded capital.
+3. The "time saved" vanity trap - 40% time saved, 0 margin movement - Parkinson's law eats the gain.
+4. AI in sales - research layer beats send button - close rate up 22%, volume flat.
+5. Agentic workflow security - live GitHub prompt injection - agents are unaudited employees, $4.9M breach cost.
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-07-10T10:27:16.534Z
-share_urn: urn:li:share:7481292954310164481
+status: pending
 hook_format: number-led
 cta_goal: follows
-slug: solve-intelligence-patents-as-revenue-line
+slug: keytruda-patent-density-protects-arr
+keyword: patent portfolio strategy
+numbers_check: $29.5B, 100 patents, 2028, 80%
+image_direction: single molecule ringed by a wall of patent icons, ARR shield framing
+headline: One drug. 100 patents.<br>$29.5B protected.
+metric_1: $29.5B
+label_1: ANNUAL KEYTRUDA<br>REVENUE
+metric_2: 100+
+label_2: PATENTS ON<br>ONE DRUG
+metric_3: 80%
+label_3: PRICE DROP AT<br>BIOSIMILAR
+
+Merck's Keytruda earns $29.5B a year.
+
+One molecule, guarded by over 100 patents.
+
+Here is what founders miss about patent strategy.
+
+Merck did not file once. It built a wall around a single asset, stacking claims to push biosimilars out to 2028.
+
+That density delays generics that would cut the price up to 80%.
+
+A patent is not a legal document. It is ARR insurance measured in years.
+
+Scattered filings protect nothing. Concentrated portfolios protect billions.
+
+↳ Are your patents a wall, or a pile?
+
+#IPStrategy #PatentStrategy #Pharma
+
+---
+
+## Post 2
+status: pending
+hook_format: contrarian
+cta_goal: clicks
+slug: ai-for-patents-wave-dormant-capital
 keyword: patents as a financial asset
-numbers_check: $40M, 10x, 90%, $2M, 12x, $24M
-image_direction: balance-sheet framing, patent icon reclassified from cost to asset
-headline: $40M says patents<br>aren't a legal cost.
-metric_1: $40M
-label_1: SERIES B<br>FOR PATENTS
+numbers_check: $65M, $25M, $55M, 10x, 12x
+image_direction: dormant patent certificates stamped "stranded capital", VC cash flowing to tooling
+headline: VCs bet $65M<br>your patents are dead.
+metric_1: $65M
+label_1: RAISED IN<br>ONE WEEK
 metric_2: 10X
 label_2: REVENUE<br>JUMP
-metric_3: $24M
-label_3: STRANDED<br>IP ASSET
+metric_3: 12X
+label_3: MULTIPLE ON<br>ROYALTIES
 
-Solve Intelligence just raised $40M. For patent software.
+Two AI patent startups raised $65M in one week.
 
-20VC backed it after a 10x revenue jump. Ceva signed a landmark AI licensing deal the same week.
+DeepIP took $25M. Solve Intelligence hit $55M total after a 10x revenue year.
 
-Read the signal, not the headline:
+Read what the money is actually saying.
 
-1. Patents stopped being legal paperwork. They are a licensing line with 90% gross margin.
+The entire pitch is "you own IP you never monetize."
 
-2. The value sits in enforcement and claim charting, not filing. Filing is a cost center.
+VCs do not fund tooling for a solved problem. They fund it because dormant patents are everywhere.
 
-3. A portfolio throwing off $2M in yearly royalties at a 12x multiple is a $24M asset most founders never book.
+Most corporate portfolios sit as stranded capital. Filed, forgotten, never licensed or enforced.
 
-BE clients who treat IP as revenue raise at higher multiples. File-and-forget strands the asset.
+A patent throwing off zero royalties at a 12x multiple is a zero on your balance sheet.
 
-↳ Founders: is your IP a cost line or a revenue line?
+↳ How much of your IP is dead capital?
 
 #IPStrategy #PatentStrategy #Licensing
 
 ---
 
-## Post 2
-status: published
-published_at: 2026-07-10T12:00:53.338Z
-share_urn: urn:li:share:7481316513958957056
-hook_format: contrarian
-cta_goal: comments
-slug: acquirer-ip-diligence-hidden-risks
-keyword: IP due diligence for acquirers
-numbers_check: $1.5M, 7%
-headline: Your acquirer just missed<br>$1.5M in IP risk.
-metric_1: $1.5M
-label_1: UNDISCLOSED<br>IP RISK
-metric_2: 7%
-label_2: DEAL VALUE<br>REPRICING
-metric_3: 4X
-label_3: POST-CLOSE<br>LIABILITY
-
-Your acquirer just missed $1.5M in IP risk.
-
-Acquirers often miss critical IP gaps in diligence. This omission leads to painful post-close liabilities and deal value erosion.
-
-The fix (3 moves, this week):
-1. Expand diligence beyond patents to trade secrets.
-2. Review all third-party IP use for hidden liabilities.
-3. Stress-test your FTO against emerging competitor filings.
-
-One BE client found $1.5M in unmitigated IP risk, repricing a deal 7% down.
-
-↳ Founders: what IP risk would surface post-acquisition for you?
-
-#M&A #DueDiligence #IPStrategy
-
----
-
 ## Post 3
-status: published
-published_at: 2026-07-10T13:09:35.182Z
-share_urn: urn:li:share:7481333802305413120
-hook_format: contrarian
-cta_goal: comments
-slug: openai-agent-efficiency-operational-cost
-keyword: OpenAI token efficiency
-numbers_check: 54%, 30-40%
-headline: OpenAI's 54% efficiency<br>changes nothing for your agents.
-metric_1: 54%
-label_1: TOKEN<br>EFFICIENCY
-metric_2: 30-40%
-label_2: COST<br>OVERRUNS
-metric_3: 2X
-label_3: RETRY<br>RATE
+status: pending
+hook_format: frame-break
+cta_goal: follows
+slug: ai-time-saved-vanity-trap
+keyword: enterprise AI ROI
+numbers_check: 40%, 12 hours, 0
+image_direction: dashboard showing "40% time saved" beside a flat EBITDA line
+headline: You saved 40% of the time.<br>Margin didn't move.
+metric_1: 40%
+label_1: TIME<br>SAVED
+metric_2: 12 hrs
+label_2: SAVED PER<br>PERSON WEEKLY
+metric_3: 0
+label_3: MARGIN<br>MOVEMENT
 
-OpenAI's 54% efficiency changes nothing for your agents.
+Your team saves 40% of its time with AI.
 
-Everyone thinks lower token cost means cheaper agents, faster dev. Your agent deployment cost will still exceed estimates by 30-40%.
+Your margin did not move. Here is why.
 
-What it actually means on the ground:
-1. Increased efficiency enables more complex, longer agent chains.
-2. This leads to higher compute use and more API calls, not cheaper runs.
-3. Hidden costs: orchestration errors, retries, and human oversight.
+Saved hours are not saved dollars.
 
-The play: Refactor agent chains for shorter, single-purpose steps.
+The time refills with low value work the moment it opens up. Parkinson's law eats the gain.
 
-↳ Operators: where do your agent errors add most to cost?
+I watched a client's ops team save 12 hours a week per person, then post the exact same EBITDA.
 
-#AIOps #AIAutomation #Engineering
+The fix is brutal: convert saved time into a hard KPI. Cycle time, revenue per head, or headcount you do not backfill.
+
+If the P&L cannot see it, it did not happen.
+
+↳ What did your "time saved" actually change?
+
+#AIStrategy #Operations #AIROI
 
 ---
 
 ## Post 4
-status: published
-published_at: 2026-07-10T15:30:00.213Z
-share_urn: urn:li:share:7481369139408732161
-hook_format: contrarian
-cta_goal: comments
-slug: claude-code-vulnerabilities-shadow-ai-risk
-keyword: Claude security vulnerabilities
-numbers_check: 70%, 4x
-headline: Claude's code vulnerabilities<br>are already in your enterprise.
-metric_1: 70%
-label_1: SHADOW<br>LLMS
-metric_2: 4X
-label_2: DATA LEAKAGE<br>RISK
-metric_3: 12 HRS
-label_3: AVERAGE<br>DETECTION TIME
+status: pending
+hook_format: listicle
+cta_goal: dm
+slug: ai-in-sales-research-layer
+keyword: AI in sales
+numbers_check: 30 min, 3 min, 22%
+image_direction: split funnel, "more sends" tanking vs "more context" lifting close rate
+headline: AI didn't fix sales.<br>It flooded it.
+metric_1: 22%
+label_1: CLOSE RATE<br>LIFT
+metric_2: 3 min
+label_2: PREP TIME<br>FROM 30
+metric_3: 0%
+label_3: EXTRA<br>VOLUME
 
-Claude's code vulnerabilities are already in your enterprise.
+Most AI sales tools just send more emails.
 
-This is not just a nation-state issue. 70% of enterprise AI deployments are running undocumented shadow LLMs.
+That tanks deliverability and burns the domain. Wrong layer.
 
-What it actually means on the ground:
-1. Shadow IT deployments bypass enterprise security reviews.
-2. Undocumented forks or local versions introduce unknown attack surfaces.
-3. Internal data leakage risk spikes 4x from unmanaged model versions.
+Here is where AI actually lifts revenue.
 
-The play: Implement a daily AI footprint audit across all dev/ops environments.
+1. Pre-call research. 30 minutes of prep compressed to 3.
 
-↳ CISOs: what shadow AI has you most worried this week?
+2. Personalization at the top, not volume at the bottom.
 
-#AISecurity #EnterpriseAI #Compliance
+3. Call notes straight to CRM, so reps sell instead of type.
+
+A client's RevOps team moved AI from the send button to the research layer. Close rate up 22%, meeting volume flat.
+
+More sends lowers reply rates. Better context raises them.
+
+↳ Is your AI adding volume, or adding context?
+
+#AIinSales #RevOps #AIStrategy
 
 ---
 
 ## Post 5
-status: published
-published_at: 2026-07-10T18:15:52.722Z
-share_urn: urn:li:share:7481410883315822593
-hook_format: contrarian
-cta_goal: comments
-slug: ibm-multi-agent-build-vs-buy
-keyword: IBM multi-agent capabilities
-numbers_check: 3-4x, 60-75%
-headline: IBM's multi-agent move:<br>buy the chain, not the agent.
-metric_1: 3-4X
-label_1: HIGHER<br>BUILD COST
-metric_2: 60-75%
-label_2: FASTER<br>DEPLOYMENT
-metric_3: 100%
-label_3: BUDGET<br>OVERRUNS
+status: pending
+hook_format: prediction
+cta_goal: clicks
+slug: agentic-workflows-unaudited-employee
+keyword: AI agent security
+numbers_check: 2026, $4.9M, 1
+image_direction: AI agent badge stamped "no background check", prod access warning
+headline: Your AI agent is<br>an unaudited employee.
+metric_1: $4.9M
+label_1: AVG BREACH<br>COST
+metric_2: 2026
+label_2: THE AGENT<br>BREACH YEAR
+metric_3: 1
+label_3: POISONED MESSAGE<br>TO EXFILTRATE
 
-IBM's multi-agent move: buy the chain, not the agent.
+Companies are handing AI agents production access.
 
-IBM's entry means you can now build robust agents easily. But building your own agent orchestration costs 3-4x more than licensing.
+That is a new hire with admin rights and no background check.
 
-What it actually means on the ground:
-1. The complexity isn't the agent, it's the orchestration (chaining, reliability).
-2. Licensing mature multi-agent platforms cuts deployment time by 60-75%.
-3. In-house build teams hit 100% budget overruns on agent infrastructure.
+This week, live prompt injection attacks hit GitHub's agentic workflows and leaked private repo data.
 
-The play: Prototype on open-source, then license an orchestration layer by Q4.
+My prediction: 2026's worst breaches come from agents, not hackers.
 
-↳ Founders: where will your multi-agent build project hit budget first?
+An agent that reads untrusted input and holds write access is one poisoned message from exfiltration. Average breach cost sits at $4.9M.
 
-#AIStrategy #AIStartups #ProductDev
+The move: a governance layer before you scale. Scoped permissions, audit logs, human gates on every write.
+
+Autonomy without guardrails is not efficiency. It is liability on a faster clock.
+
+↳ Who audits your agents?
+
+#AIStrategy #AISecurity #AIGovernance
