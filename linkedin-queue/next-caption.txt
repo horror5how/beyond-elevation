@@ -1,13 +1,19 @@
-Most founders accept the first royalty offer. That costs them $800K.
+AI companies leave 3x more patentable IP on the table than they file.
 
-Three things move the rate.
+Not because the ideas aren't there.
 
-Field-of-use restrictions double your revenue ceiling.
+Because nobody runs the discovery process.
 
-Minimum annual guarantees eliminate downside risk.
+The average AI company produces 9 patentable innovations per year.
 
-Audit clauses recover underpaid royalties — on average, in year two.
+Files 3.
 
-Every negotiation starts where the last licensee finished. If you don't know that benchmark, you're negotiating blind.
+The 6 that went unfiled?
 
-#IPStrategy #PatentLicensing #Licensing
+At $150K average first-year licensing revenue per AI patent, that's $900K/year walking out the door.
+
+Every year you delay costs 12 months of licensing runway.
+
+The fix: a quarterly IP review with your engineering lead. Two hours. That's it.
+
+#PatentStrategy #AIstrategy #IPmonetization
