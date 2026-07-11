@@ -440,3 +440,4 @@
 2026-07-10 17:50 | urn:li:share:7481404513657028608 | Most founders accept the first royalty offer. That costs them $800K.  Three thin
 2026-07-10 18:15 | urn:li:share:7481410883315822593 | post #5 | ibm-multi-agent-build-vs-buy | IBM's multi-agent move: buy the chain, not the agent.  IBM's entry means you can
 2026-07-11 07:52 | QUEUED | ai-ip-discovery-gap-revenue-2026 | AI companies leave 3x more patentable IP on the table than they file.  Not becau
+2026-07-11 07:53 | urn:li:share:7481616556456722432 | AI companies leave 3x more patentable IP on the table than they file.  Not becau
