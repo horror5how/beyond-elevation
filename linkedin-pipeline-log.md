@@ -877,3 +877,13 @@ Post 5: hook_too_long(11w)
 2026-07-10 13:09 | li-auto-post | render OK | post #3 | layout=b accent=#8aa6b8 hash=00c3e7ffc381ff9f minDist=5 attempts=1
 2026-07-10 15:29 | li-auto-post | render OK | post #4 | layout=c accent=#8aa6b8 hash=7ef911190f34ffff minDist=15 attempts=1
 2026-07-10 18:15 | li-auto-post | render OK | post #5 | layout=c accent=#8aa6b8 hash=3efc00770f31ffff minDist=12 attempts=1
+2026-07-11 06:10 | li-generate-queue | news rail: 20 trending AI headlines in prompt
+2026-07-11 06:10 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-11 06:11 | li-generate-queue | attempt 1 | quality gate failed:
+Post 1: hook_too_long(10w)
+2026-07-11 06:11 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-11 06:11 | li-generate-queue | attempt 2 | quality gate failed:
+Post 1: slug_already_used(ip-backed-loan-vs-equity-dilution-cost)
+2026-07-11 06:11 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-11 06:12 | li-generate-queue | attempt 3 | Structural failure: pendingPosts=5 headline=true metrics=false date=true. Re-emit ALL 5 posts with the exact frontmatter and the canonical headline:/metric_*/label_* lines.
+2026-07-11 06:12 | li-generate-queue | ABORT — no candidate accepted
