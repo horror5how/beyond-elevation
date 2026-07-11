@@ -282,5 +282,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [5 IP Metrics That Predict Your Exit Multiple (And Why Most Founders Track Zero of Them)](https://beyondelevation.com/blog/posts/ip-metrics-predict-exit-multiple/) — /blog/md/ip-metrics-predict-exit-multiple.md
 - [How to Value Trade Secrets: The 3-Method Framework That Proves Your Unpatented IP Is Worth More Than Your Patents](https://beyondelevation.com/blog/posts/how-to-value-trade-secrets/) — /blog/md/how-to-value-trade-secrets.md
 - [IP Strategy for Growth-Stage Companies: The 6-Move Playbook That Turns Patents From Cost Center to Revenue Engine](https://beyondelevation.com/blog/posts/ip-strategy-growth-stage-playbook/) — /blog/md/ip-strategy-growth-stage-playbook.md
+- [How Much Does an IP Audit Cost in 2026? One Founder Spent $22K and Unlocked $2.3M in Hidden IP Value](https://beyondelevation.com/blog/posts/how-much-does-ip-audit-cost-2026/) — /blog/md/how-much-does-ip-audit-cost-2026.md
 
 > Full blog content available at /llms-full.txt
