@@ -2,8 +2,8 @@
 title: "IP Strategy for Bootstrapped Startups: The $5K Playbook That Replaces the $200K Law Firm Approach"
 slug: ip-strategy-bootstrapped-startups
 date: 2026-07-11
-url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-bootstrapped-startups
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-strategy-bootstrapped-startups/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,20 @@ The $10K MRR trigger is the sweet spot because it confirms three things: (1) cus
 
 Hayat Amin says the revenue trigger changes the entire IP conversation: "Stop asking your lawyer when to file. Start asking your bank account. The patent that protects $10K MRR is worth filing. The patent that protects a hypothesis is not. File at $10K MRR and by the time you consider raising, you have patent pending status that adds 15% to 20% to your valuation. File at $100K MRR and you lost 12 months of priority date."
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-strategy-bootstrapped-startups)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can a bootstrapped startup build a defensible patent portfolio?
@@ -88,3 +102,6 @@ A fractional IP strategist costs 60% to 80% less than a BigLaw IP practice for t
 ### Does a bootstrapped startup need IP to be acquired?
 
 IP is not required for acquisition, but it directly increases the acquisition price. Companies with patent portfolios command 30% to 60% higher acquisition multiples than comparable companies without IP protection. For bootstrapped founders, an IP portfolio built over 24 to 36 months using the Bootstrap IP Ladder represents the highest-leverage investment for maximizing exit value.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

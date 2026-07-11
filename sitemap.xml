@@ -164,6 +164,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-strategy-bootstrapped-startups/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>IP Strategy for Bootstrapped Startups: The $5K Playbook That Replaces the $200K Law Firm Approach</image:title>
+      <image:caption>IP Strategy for Bootstrapped Startups: The $5K Playbook That Replaces the $200K Law Firm Approach — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/ip-strategy-bootstrapped-startups/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/patents-as-a-revenue-line/</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
@@ -2958,11 +2970,5 @@
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=ip-strategy-bootstrapped-startups</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
