@@ -442,3 +442,4 @@
 2026-07-11 07:52 | QUEUED | ai-ip-discovery-gap-revenue-2026 | AI companies leave 3x more patentable IP on the table than they file.  Not becau
 2026-07-11 07:53 | urn:li:share:7481616556456722432 | AI companies leave 3x more patentable IP on the table than they file.  Not becau
 2026-07-11 12:50 | urn:li:share:7481691421641728000 | Your trade secrets are worth more than your patents. Most founders can't prove i
+2026-07-11 17:52 | QUEUED | royalty-audit-underpayment-2026 | 74% of royalty audits catch the licensee underpaying.  Most founders sign a lice
