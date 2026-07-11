@@ -86,3 +86,12 @@
 - Hook: "Automation didn't kill your job. It killed your excuse."
 - Root cause: Same expired Instagram token EAASS...ZD in workflow secret. All CI runs fail. horror5how/instagram-autopilot repo does not exist (cloud/run_cloud.sh unreachable). graph.facebook.com proxy-blocked 403 in this env.
 - Fix required: Renew token at developers.facebook.com → update ACTIVE_IG_TOKEN secret in repo Settings → Secrets → Actions → re-trigger instagram-post.yml via workflow_dispatch. Content is ready — no other changes needed.
+
+## 2026-07-11T00:00:00Z
+- Pillar: Human Purpose of Work (Pillar 1) — queue unchanged
+- Status: FAILED — TOKEN EXPIRED (error 190, 16th consecutive failure since 2026-06-25)
+- Media ID: n/a
+- Slides: 6 (ready, rendered HTML in instagram-queue/slides/)
+- Hook: "Automation didn't kill your job. It killed your excuse."
+- Root cause: Same expired Instagram token EAASS...ZD in workflow secret. horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403 in cloud env.
+- Fix required: Renew token at developers.facebook.com → update repo secret INSTAGRAM_TOKEN in horror5how/beyond-elevation Settings → Secrets → Actions → re-trigger instagram-post.yml.
