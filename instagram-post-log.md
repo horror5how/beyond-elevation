@@ -95,3 +95,19 @@
 - Hook: "Automation didn't kill your job. It killed your excuse."
 - Root cause: Same expired Instagram token EAASS...ZD in workflow secret. horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403 in cloud env.
 - Fix required: Renew token at developers.facebook.com → update repo secret INSTAGRAM_TOKEN in horror5how/beyond-elevation Settings → Secrets → Actions → re-trigger instagram-post.yml.
+
+## 2026-07-11T16:10:00Z
+- Pillar: Human Purpose of Work (Pillar 1) — queue unchanged
+- Status: FAILED — TOKEN EXPIRED (error 190, 17th consecutive failure since 2026-06-25)
+- Media ID: n/a
+- Slides: 6 (ready)
+- Hook: "Automation didn't kill your job. It killed your excuse."
+- Root cause: Token EAASS...ZD in task prompt = same expired token already in workflow (expired 2026-06-25 23:32 PDT). horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403. No posting possible.
+- Fix required (one-time, takes ~5 min):
+  1. Go to developers.facebook.com → Tools → Graph API Explorer
+  2. Select app, select Instagram business account 17841422274109557
+  3. Generate new long-lived token with instagram_basic, instagram_content_publish scopes
+  4. Go to github.com/horror5how/beyond-elevation → Settings → Secrets and variables → Actions
+  5. Create or update secret named INSTAGRAM_TOKEN with the new token value
+  6. Re-run the instagram-post.yml workflow (Actions tab → instagram-post.yml → Run workflow)
+  7. Content is ready — no other changes needed. Post will go live within 2 minutes of workflow run.
