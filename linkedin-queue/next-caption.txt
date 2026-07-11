@@ -1,19 +1,15 @@
-AI companies leave 3x more patentable IP on the table than they file.
+Your trade secrets are worth more than your patents. Most founders can't prove it.
 
-Not because the ideas aren't there.
+Acquirers always run three valuations — and take the lowest number.
 
-Because nobody runs the discovery process.
+Cost approach: what it cost to develop × what it costs a competitor to replicate. Sets the floor.
 
-The average AI company produces 9 patentable innovations per year.
+Income approach: the royalty stream a licensee would pay. Real rate: 3–8% of product revenue.
 
-Files 3.
+Market approach: comparable trade secret sales from M&A comps and IP exchanges.
 
-The 6 that went unfiled?
+If you can't document all three before an LOI lands, your acquirer does it for you.
 
-At $150K average first-year licensing revenue per AI patent, that's $900K/year walking out the door.
+And they will not be generous.
 
-Every year you delay costs 12 months of licensing runway.
-
-The fix: a quarterly IP review with your engineering lead. Two hours. That's it.
-
-#PatentStrategy #AIstrategy #IPmonetization
+#IPStrategy #Valuation #IntellectualProperty
