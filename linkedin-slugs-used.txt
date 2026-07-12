@@ -463,3 +463,4 @@ apple-openai-trade-secret-risk
 ip-term-sheet-negotiation-clauses-2026
 openai-agents-break-teams
 ghost-font-ai-proof-gimmick
+compute-rent-patents-property-2026

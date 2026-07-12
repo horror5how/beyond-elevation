@@ -1,17 +1,17 @@
-The $10M term sheet assigns them 20 years of your IP income.
+Your $1M compute bill is worth $0 at exit.
 
-Three clauses prevent that.
+Your $100K patent budget creates an $800K royalty asset.
 
-Scope clause: limits assignment to work done with company resources. Pre-existing IP stays yours.
+Both feel like costs. Only one is.
 
-Prosecution clause: you keep rights to file patent continuations. New claims, your royalty stream.
+Compute is rent. Every dollar expires at month-end.
 
-Carve-out clause: pre-existing methods stay licensable to third parties. That income survives the deal.
+Patents are property. Every dollar compounds toward your exit multiple.
 
-Most founders never ask for them.
+$500/month in patent maintenance builds a $600K asset.
 
-Those who negotiate all three retain an average $2.4M in IP value at Series A.
+$50K/month on GPUs builds nothing that survives the wire transfer.
 
-Read every clause before you sign.
+Buyers pay 8x royalty income. They don't buy your AWS invoice.
 
-#IPStrategy #VentureCapital #StartupFunding
+#IPStrategy #StartupFinance #PatentROI
