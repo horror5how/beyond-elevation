@@ -286,5 +286,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Cross-Border IP Licensing in 2026: The 5-Move Playbook That Turns Single-Country Patents Into Global Royalty Streams](https://beyondelevation.com/blog/posts/cross-border-ip-licensing-strategy/) — /blog/md/cross-border-ip-licensing-strategy.md
 - [IP Strategy for Bootstrapped Startups: The $5K Playbook That Replaces the $200K Law Firm Approach](https://beyondelevation.com/blog/posts/ip-strategy-bootstrapped-startups/) — /blog/md/ip-strategy-bootstrapped-startups.md
 - [IP Strategy for Fintech Startups: The 6 IP Assets You Must Lock Down Before Series A](https://beyondelevation.com/blog/posts/ip-strategy-fintech-startups/) — /blog/md/ip-strategy-fintech-startups.md
+- [IP Strategy for Deep Tech Startups: The 5-Layer Patent Architecture That Turns Hardware Into a Fortress](https://beyondelevation.com/blog/posts/ip-strategy-deep-tech-startups/) — /blog/md/ip-strategy-deep-tech-startups.md
 
 > Full blog content available at /llms-full.txt
