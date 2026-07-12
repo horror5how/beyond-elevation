@@ -887,3 +887,7 @@ Post 1: slug_already_used(ip-backed-loan-vs-equity-dilution-cost)
 2026-07-11 06:11 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
 2026-07-11 06:12 | li-generate-queue | attempt 3 | Structural failure: pendingPosts=5 headline=true metrics=false date=true. Re-emit ALL 5 posts with the exact frontmatter and the canonical headline:/metric_*/label_* lines.
 2026-07-11 06:12 | li-generate-queue | ABORT — no candidate accepted
+2026-07-12 06:32 | li-generate-queue | news rail: 20 trending AI headlines in prompt
+2026-07-12 06:32 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-12 06:33 | li-generate-queue | attempt 1 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
+2026-07-12 06:33 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
