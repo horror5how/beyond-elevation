@@ -449,3 +449,4 @@
 2026-07-12 11:56 | urn:li:share:7482040250811424768 | post #3 | apple-openai-trade-secret-risk | Apple vs. OpenAI: the real cost isn't IP.  This isn't just about trade secrets. 
 2026-07-12 12:56 | urn:li:share:7482055158672269313 | The $10M term sheet assigns them 20 years of your IP income.  Three clauses prev
 2026-07-12 14:25 | urn:li:share:7482077670583808002 | post #4 | openai-agents-break-teams | OpenAI's agents don't replace employees. They break teams.  Everyone thinks AI a
+2026-07-12 17:49 | urn:li:share:7482129080805539840 | post #5 | ghost-font-ai-proof-gimmick | Ghost Font: Don't buy the "AI-proof" gimmick.  Founders waste time chasing AI-pr

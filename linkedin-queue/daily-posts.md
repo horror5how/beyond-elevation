@@ -3,7 +3,7 @@ date: 2026-07-12
 theme: Navigating IP and AI's operational realities for founders, from revenue generation to risk mitigation and strategic deployment.
 generated_at: 2026-07-12T06:32:31.015Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -155,7 +155,9 @@ One BE client saw 60% of agent deployments fail to hit ROI targets.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-12T17:49:44.337Z
+share_urn: urn:li:share:7482129080805539840
 hook_format: contrarian
 cta_goal: comments
 slug: ghost-font-ai-proof-gimmick
