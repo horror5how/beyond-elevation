@@ -444,3 +444,4 @@
 2026-07-11 12:50 | urn:li:share:7481691421641728000 | Your trade secrets are worth more than your patents. Most founders can't prove i
 2026-07-11 17:52 | QUEUED | royalty-audit-underpayment-2026 | 74% of royalty audits catch the licensee underpaying.  Most founders sign a lice
 2026-07-12 09:08 | urn:li:share:7481997819873165312 | post #1 | patents-as-a-revenue-line | Your patent budget is a revenue line.  Most CFOs bury patent costs as legal expe
+2026-07-12 10:38 | urn:li:share:7482020645405442048 | post #2 | ip-strategy-bootstrapped-startups | Bootstrapped IP strategy isn't cheap. It's smart.  Most founders think patents a

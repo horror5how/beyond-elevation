@@ -3,7 +3,7 @@ date: 2026-07-12
 theme: Navigating IP and AI's operational realities for founders, from revenue generation to risk mitigation and strategic deployment.
 generated_at: 2026-07-12T06:32:31.015Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One BE client found $3.2M of hidden annual revenue in 6 weeks.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-12T10:38:51.361Z
+share_urn: urn:li:share:7482020645405442048
 hook_format: contrarian
 cta_goal: comments
 slug: ip-strategy-bootstrapped-startups

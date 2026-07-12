@@ -1,12 +1,5 @@
 [
   {
-    "hash": "e7ffffffffff1414",
-    "layout": "a",
-    "accent": "#d7b086",
-    "slug": "fractional-cfo-ip-valuation-unlock",
-    "ts": "2026-07-09T18:45:02.104Z"
-  },
-  {
     "hash": "40c3e7ffc3c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "patents-as-a-revenue-line",
     "ts": "2026-07-12T09:08:09.275Z"
+  },
+  {
+    "hash": "2466e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "ip-strategy-bootstrapped-startups",
+    "ts": "2026-07-12T10:38:51.361Z"
   }
 ]

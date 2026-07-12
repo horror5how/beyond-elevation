@@ -892,3 +892,4 @@ Post 1: slug_already_used(ip-backed-loan-vs-equity-dilution-cost)
 2026-07-12 06:33 | li-generate-queue | attempt 1 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
 2026-07-12 06:33 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
 2026-07-12 09:08 | li-auto-post | render OK | post #1 | layout=c accent=#7a8c6e hash=7ef0703107f4ffff minDist=10 attempts=1
+2026-07-12 10:38 | li-auto-post | render OK | post #2 | layout=b accent=#a87c7c hash=2466e7ffc3c3ff99 minDist=7 attempts=1
