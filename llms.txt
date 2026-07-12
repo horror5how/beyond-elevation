@@ -285,5 +285,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [How Much Does an IP Audit Cost in 2026? One Founder Spent $22K and Unlocked $2.3M in Hidden IP Value](https://beyondelevation.com/blog/posts/how-much-does-ip-audit-cost-2026/) — /blog/md/how-much-does-ip-audit-cost-2026.md
 - [Cross-Border IP Licensing in 2026: The 5-Move Playbook That Turns Single-Country Patents Into Global Royalty Streams](https://beyondelevation.com/blog/posts/cross-border-ip-licensing-strategy/) — /blog/md/cross-border-ip-licensing-strategy.md
 - [IP Strategy for Bootstrapped Startups: The $5K Playbook That Replaces the $200K Law Firm Approach](https://beyondelevation.com/blog/posts/ip-strategy-bootstrapped-startups/) — /blog/md/ip-strategy-bootstrapped-startups.md
+- [IP Strategy for Fintech Startups: The 6 IP Assets You Must Lock Down Before Series A](https://beyondelevation.com/blog/posts/ip-strategy-fintech-startups/) — /blog/md/ip-strategy-fintech-startups.md
 
 > Full blog content available at /llms-full.txt
