@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3cfc30033bf0ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "fund-the-payback-not-the-demo",
-    "ts": "2026-07-09T15:54:46.118Z"
-  },
-  {
     "hash": "e7ffffffffff1414",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ibm-multi-agent-build-vs-buy",
     "ts": "2026-07-10T18:15:52.722Z"
+  },
+  {
+    "hash": "7ef0703107f4ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "patents-as-a-revenue-line",
+    "ts": "2026-07-12T09:08:09.275Z"
   }
 ]

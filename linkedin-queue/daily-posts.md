@@ -3,7 +3,7 @@ date: 2026-07-12
 theme: Navigating IP and AI's operational realities for founders, from revenue generation to risk mitigation and strategic deployment.
 generated_at: 2026-07-12T06:32:31.015Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content batch focuses on equipping founders and CEOs with actionable ins
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-12T09:08:09.275Z
+share_urn: urn:li:share:7481997819873165312
 hook_format: contrarian
 cta_goal: comments
 slug: patents-as-a-revenue-line
