@@ -1,12 +1,5 @@
 [
   {
-    "hash": "40c3f7ffc3e7fffb",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "acquirer-ip-diligence-hidden-risks",
-    "ts": "2026-07-10T12:00:53.338Z"
-  },
-  {
     "hash": "00c3e7ffc381ff9f",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "apple-openai-trade-secret-risk",
     "ts": "2026-07-12T11:56:45.604Z"
+  },
+  {
+    "hash": "007effffffff2505",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "openai-agents-break-teams",
+    "ts": "2026-07-12T14:25:27.213Z"
   }
 ]

@@ -3,7 +3,7 @@ date: 2026-07-12
 theme: Navigating IP and AI's operational realities for founders, from revenue generation to risk mitigation and strategic deployment.
 generated_at: 2026-07-12T06:32:31.015Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ A BE client found 15% of its internal code base mirrored externally in 4 weeks.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-12T14:25:27.213Z
+share_urn: urn:li:share:7482077670583808002
 hook_format: contrarian
 cta_goal: comments
 slug: openai-agents-break-teams
