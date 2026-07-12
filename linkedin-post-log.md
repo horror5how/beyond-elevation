@@ -446,3 +446,4 @@
 2026-07-12 09:08 | urn:li:share:7481997819873165312 | post #1 | patents-as-a-revenue-line | Your patent budget is a revenue line.  Most CFOs bury patent costs as legal expe
 2026-07-12 10:38 | urn:li:share:7482020645405442048 | post #2 | ip-strategy-bootstrapped-startups | Bootstrapped IP strategy isn't cheap. It's smart.  Most founders think patents a
 2026-07-12 11:05 | urn:li:share:7482027388776828928 | The M&A buyer paid 4.8x. I spent a week figuring out why.  It was not the produc
+2026-07-12 11:56 | urn:li:share:7482040250811424768 | post #3 | apple-openai-trade-secret-risk | Apple vs. OpenAI: the real cost isn't IP.  This isn't just about trade secrets. 

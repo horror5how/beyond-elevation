@@ -1,12 +1,5 @@
 [
   {
-    "hash": "40c3e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "solve-intelligence-patents-as-revenue-line",
-    "ts": "2026-07-10T10:27:16.534Z"
-  },
-  {
     "hash": "40c3f7ffc3e7fffb",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ip-strategy-bootstrapped-startups",
     "ts": "2026-07-12T10:38:51.361Z"
+  },
+  {
+    "hash": "fff1510133f0ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "apple-openai-trade-secret-risk",
+    "ts": "2026-07-12T11:56:45.604Z"
   }
 ]

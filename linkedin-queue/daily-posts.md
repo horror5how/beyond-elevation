@@ -3,7 +3,7 @@ date: 2026-07-12
 theme: Navigating IP and AI's operational realities for founders, from revenue generation to risk mitigation and strategic deployment.
 generated_at: 2026-07-12T06:32:31.015Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ Bootstrapped startups with IP raise 2x faster, with 40% less dilution.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-12T11:56:45.604Z
+share_urn: urn:li:share:7482040250811424768
 hook_format: contrarian
 cta_goal: comments
 slug: apple-openai-trade-secret-risk
