@@ -1,13 +1,15 @@
-74% of royalty audits catch the licensee underpaying.
+The M&A buyer paid 4.8x. I spent a week figuring out why.
 
-Most founders sign a licensing deal and never look at the numbers again.
+It was not the product. It was not the team. It was not the ARR.
 
-The audit clause is already in your contract.
+IP with a licensing history trades at 8x revenue at exit.
 
-Standard lookback: 3 years. Average underpayment found: $400K per engagement.
+IP with no licensing history gets valued at cost. Usually $0.
 
-One audit call recovers more than 2 years of strategy fees.
+Three things that move the IP price in a deal: licensed, documented, clean chain of title.
 
-Your licensee knows you probably won't check. That is the problem.
+Most founders spend 3 years building a patent portfolio. Zero days building the licensing paper trail that makes it worth $4M to a buyer.
 
-#IPStrategy #Licensing #FounderFinance
+Fix that before the data room opens.
+
+#IPStrategy #MergersAndAcquisitions #ExitMultiple
