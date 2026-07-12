@@ -1,15 +1,17 @@
-The M&A buyer paid 4.8x. I spent a week figuring out why.
+The $10M term sheet assigns them 20 years of your IP income.
 
-It was not the product. It was not the team. It was not the ARR.
+Three clauses prevent that.
 
-IP with a licensing history trades at 8x revenue at exit.
+Scope clause: limits assignment to work done with company resources. Pre-existing IP stays yours.
 
-IP with no licensing history gets valued at cost. Usually $0.
+Prosecution clause: you keep rights to file patent continuations. New claims, your royalty stream.
 
-Three things that move the IP price in a deal: licensed, documented, clean chain of title.
+Carve-out clause: pre-existing methods stay licensable to third parties. That income survives the deal.
 
-Most founders spend 3 years building a patent portfolio. Zero days building the licensing paper trail that makes it worth $4M to a buyer.
+Most founders never ask for them.
 
-Fix that before the data room opens.
+Those who negotiate all three retain an average $2.4M in IP value at Series A.
 
-#IPStrategy #MergersAndAcquisitions #ExitMultiple
+Read every clause before you sign.
+
+#IPStrategy #VentureCapital #StartupFunding
