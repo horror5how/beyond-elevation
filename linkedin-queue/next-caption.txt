@@ -1,19 +1,15 @@
-Two AI startups. Same ARR. One valuation is 40% higher.
+DEMPE decides who owns your IP for tax purposes. Not your lawyers.
 
-The difference is not the product.
+Most founders build an IP holdco to separate royalty income from operations.
 
-Not the team.
+Tax authorities use DEMPE instead.
 
-Not the growth rate.
+5 functions: Development, Enhancement, Maintenance, Protection, Exploitation.
 
-It is the IP defensibility score investors run before they wire.
+The entity that Controls all 5 captures the royalty income. Legal title is irrelevant.
 
-Replication speed. Data moat depth. Patent coverage. Licensing optionality.
+UK opco does the real IP work. Cayman holdco takes the royalties. You fail DEMPE. Tax authority reallocates.
 
-Score 4+ on these axes: you close at 8x forward revenue.
+Fix: economic substance log + DEMPE control matrix before Series B.
 
-Score 2 or below: you close at 5-6x. Or you do not close.
-
-Your ARR sets the floor. Your defensibility sets the ceiling.
-
-#IPStrategy #AIValuation #StartupFunding
+#IPStrategy #TaxPlanning #Founders
