@@ -291,5 +291,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Section 174 Handed Back Your R&D Deduction in 2026. The Asset It Builds Is Worth More Than the Tax Break.](https://beyondelevation.com/blog/posts/section-174-rd-expensing-ip-asset-2026/) — /blog/md/section-174-rd-expensing-ip-asset-2026.md
 - [IP Strategy for Climate Tech Startups: The 5-Layer IP Stack That Covers Hardware, Processes, Software, Carbon Data, and Regulatory Moats](https://beyondelevation.com/blog/posts/ip-strategy-climate-tech-startups/) — /blog/md/ip-strategy-climate-tech-startups.md
 - [You Moved Your IP Into a Holding Company to Save Tax. Under the 2026 OECD DEMPE Rules You May Have Just Stripped the Asset That Funds Your Next Round.](https://beyondelevation.com/blog/posts/ip-holdco-dempe-valuation-trap-2026/) — /blog/md/ip-holdco-dempe-valuation-trap-2026.md
+- [The EU Pushed the AI Act High-Risk Deadline to December 2027. That Is Not Relief. It Is a 16-Month Governance Moat Window.](https://beyondelevation.com/blog/posts/eu-ai-act-omnibus-governance-moat-window/) — /blog/md/eu-ai-act-omnibus-governance-moat-window.md
 
 > Full blog content available at /llms-full.txt
