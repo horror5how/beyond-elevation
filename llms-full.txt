@@ -4407,3 +4407,19 @@ Most CFOs will treat the win as one line on the tax return and stop there. The c
 It means domestic R&D is immediately deductible again. From 2022 through 2024, the Tax Cuts and Jobs Act required companies to capitalize specified research costs and amortize them over five years for domestic work and 15 years for foreign work. Software development was named explicitly, so almost every venture-backed tech company got hit. A startup that spent $2M on engineering could deduct roughly $200K in year one and owed tax on paper profit it never saw in the bank. Section 174A ends that for domestic spend starting with tax years after December 31, 2024. Foreign R&D still amortizes over 15 years, which quietly rew
 
 ---
+
+## IP Strategy for Climate Tech Startups: The 5-Layer IP Stack That Covers Hardware, Processes, Software, Carbon Data, and Regulatory Moats
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-climate-tech-startups/
+
+Climate tech startups raised over $32 billion in 2025. Most of them protected the device with a single patent filing and left everything else exposed. The manufacturing process, the control software, the carbon data pipeline, the regulatory certification that took 18 months to earn: all unprotected. That is four defensible moats worth more than the device itself, and competitors are already copying them.
+
+Hayat Amin saw this pattern firsthand while structuring IP for a hardware company that held 12 patents on the core device and zero protection on the process that made it manufacturable at scale. "The device patent stopped one competitor," Hayat Amin says. "The process trade secret would have stopped all of them." The fix is not more patents. It is a layered IP strategy built for the specific way climate tech companies create value across hardware, software, data, and regulation.
+
+## Why Is Climate Tech IP Different From Standard Tech IP?
+
+Climate tech intellectual property spans five distinct asset types that most IP strategies built for pure software companies never address. A SaaS company protects code and algorithms. A climate tech company protects a physical device, a manufacturing process, the software that runs the device, the data the device generates, and the regulatory certification that permits its operation. Each layer requires a different protection mechanism, and missing any single layer creates an entry point competitors exploit.
+
+This is what separates climate
+
+---

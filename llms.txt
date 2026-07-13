@@ -289,5 +289,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [IP Strategy for Deep Tech Startups: The 5-Layer Patent Architecture That Turns Hardware Into a Fortress](https://beyondelevation.com/blog/posts/ip-strategy-deep-tech-startups/) — /blog/md/ip-strategy-deep-tech-startups.md
 - [IP Strategy for HealthTech Startups: The 5-Layer Patent Stack That Separates $500M Exits From $50M Acqui-Hires](https://beyondelevation.com/blog/posts/ip-strategy-healthtech-startups/) — /blog/md/ip-strategy-healthtech-startups.md
 - [Section 174 Handed Back Your R&D Deduction in 2026. The Asset It Builds Is Worth More Than the Tax Break.](https://beyondelevation.com/blog/posts/section-174-rd-expensing-ip-asset-2026/) — /blog/md/section-174-rd-expensing-ip-asset-2026.md
+- [IP Strategy for Climate Tech Startups: The 5-Layer IP Stack That Covers Hardware, Processes, Software, Carbon Data, and Regulatory Moats](https://beyondelevation.com/blog/posts/ip-strategy-climate-tech-startups/) — /blog/md/ip-strategy-climate-tech-startups.md
 
 > Full blog content available at /llms-full.txt
