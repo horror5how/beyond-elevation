@@ -4393,3 +4393,17 @@ HealthTech IP strategy differs because regulatory timelines create irreversible 
 In standard tech, you can file a patent after shipping a product (within the US 12-month grace period). In healthtech, your clini
 
 ---
+
+## Section 174 Handed Back Your R&D Deduction in 2026. The Asset It Builds Is Worth More Than the Tax Break.
+
+URL: https://beyondelevation.com/blog/posts/section-174-rd-expensing-ip-asset-2026/
+
+Section 174 R&D expensing came back in 2026. Under the One Big Beautiful Bill Act signed in July 2025, new Section 174A lets US companies deduct domestic research and development costs in full the year they spend them, reversing the 2022 rule that forced R&D to be amortized over five years. For a tech or AI founder, that is real cash back in the business this year. It is also the smaller half of the story. The R&D you just got to expense is the same R&D that builds your patents, trade secrets, and proprietary data, and that asset carries a valuation multiple the tax deduction never will.
+
+Most CFOs will treat the win as one line on the tax return and stop there. The company that treats it as an asset-creation event instead walks into its next raise with a balance sheet the first company reports as pure expense.
+
+## What Section 174 R&D expensing means in 2026
+
+It means domestic R&D is immediately deductible again. From 2022 through 2024, the Tax Cuts and Jobs Act required companies to capitalize specified research costs and amortize them over five years for domestic work and 15 years for foreign work. Software development was named explicitly, so almost every venture-backed tech company got hit. A startup that spent $2M on engineering could deduct roughly $200K in year one and owed tax on paper profit it never saw in the bank. Section 174A ends that for domestic spend starting with tax years after December 31, 2024. Foreign R&D still amortizes over 15 years, which quietly rew
+
+---
