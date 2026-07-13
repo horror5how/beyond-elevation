@@ -3,7 +3,7 @@ date: 2026-07-13
 theme: The market just repriced patents and enterprise AI on the same question: where is the hard financial return, not the activity.
 generated_at: 2026-07-13T04:00:00Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -83,7 +83,9 @@ If your gross margin is stuck, audit what you own before you build something new
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-13T13:21:10.666Z
+share_urn: urn:li:share:7482423880717049856
 hook_format: contrarian
 cta_goal: follows
 slug: hours-saved-vanity-metric

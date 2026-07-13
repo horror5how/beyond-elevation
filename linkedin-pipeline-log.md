@@ -899,3 +899,5 @@ Post 1: slug_already_used(ip-backed-loan-vs-equity-dilution-cost)
 2026-07-12 17:49 | li-auto-post | render OK | post #5 | layout=a accent=#8aa6b8 hash=007effffffa3a0b8 minDist=13 attempts=1
 2026-07-13 10:32 | li-auto-post | render OK | post #1 | layout=a accent=#a87c7c hash=00ffffffffff0104 minDist=5 attempts=1
 2026-07-13 12:07 | li-auto-post | render OK | post #2 | layout=c accent=#d7b086 hash=fff901310333ffff minDist=11 attempts=1
+2026-07-13 13:21 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=3 < 5) | trying different variant
+2026-07-13 13:21 | li-auto-post | render OK | post #3 | layout=c accent=#a87c7c hash=7efe00100777ffff minDist=11 attempts=2

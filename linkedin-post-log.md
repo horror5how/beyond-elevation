@@ -456,3 +456,4 @@
 2026-07-13 12:07 | urn:li:share:7482405432251269121 | post #2 | patents-are-a-revenue-line | Your patents are not legal documents.  They are your highest-margin revenue line
 2026-07-13 12:52 | QUEUED | ai-startup-same-revenue-valuation-gap-2026 | Two AI startups. Same ARR. One valuation is 40% higher.  The difference is not t
 2026-07-13 12:53 | urn:li:share:7482416876757696512 | Two AI startups. Same ARR. One valuation is 40% higher.  The difference is not t
+2026-07-13 13:21 | urn:li:share:7482423880717049856 | post #3 | hours-saved-vanity-metric | Hours saved is a vanity metric.  I watched a client's RevOps team celebrate 400 
