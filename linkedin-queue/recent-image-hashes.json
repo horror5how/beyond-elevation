@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef911190f34ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "claude-code-vulnerabilities-shadow-ai-risk",
-    "ts": "2026-07-10T15:30:00.213Z"
-  },
-  {
     "hash": "3efc00770f31ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ghost-font-ai-proof-gimmick",
     "ts": "2026-07-12T17:49:44.337Z"
+  },
+  {
+    "hash": "00ffffffffff0104",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "ai-patent-startups-65m-week",
+    "ts": "2026-07-13T10:32:52.060Z"
   }
 ]

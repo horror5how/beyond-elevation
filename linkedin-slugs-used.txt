@@ -465,3 +465,4 @@ openai-agents-break-teams
 ghost-font-ai-proof-gimmick
 compute-rent-patents-property-2026
 ai-era-saas-price-floor-ip-2026
+ai-patent-startups-65m-week

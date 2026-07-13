@@ -3,7 +3,7 @@ date: 2026-07-13
 theme: The market just repriced patents and enterprise AI on the same question: where is the hard financial return, not the activity.
 generated_at: 2026-07-13T04:00:00Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ This week capital and CFOs asked patents and AI the same question: prove the ret
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-13T10:32:52.060Z
+share_urn: urn:li:share:7482381526240800768
 hook_format: number-led
 cta_goal: follows
 slug: ai-patent-startups-65m-week
