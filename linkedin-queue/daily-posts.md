@@ -3,7 +3,7 @@ date: 2026-07-13
 theme: The market just repriced patents and enterprise AI on the same question: where is the hard financial return, not the activity.
 generated_at: 2026-07-13T04:00:00Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -145,7 +145,9 @@ Seat pricing made vendors rich. Outcome pricing makes buyers safe.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-13T18:25:38.253Z
+share_urn: urn:li:share:7482500502782664704
 hook_format: story
 cta_goal: dms
 slug: agentic-sdr-pipeline-no-headcount

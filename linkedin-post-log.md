@@ -459,3 +459,4 @@
 2026-07-13 13:21 | urn:li:share:7482423880717049856 | post #3 | hours-saved-vanity-metric | Hours saved is a vanity metric.  I watched a client's RevOps team celebrate 400 
 2026-07-13 15:44 | urn:li:share:7482459954994413569 | post #4 | ai-token-binge-over-outcome-pricing | The AI token binge is over.  Klarna said its AI did the work of 700 agents and l
 2026-07-13 17:51 | urn:li:share:7482491954061217792 | DEMPE decides who owns your IP for tax purposes. Not your lawyers.  Most founder
+2026-07-13 18:25 | urn:li:share:7482500502782664704 | post #5 | agentic-sdr-pipeline-no-headcount | We fired the busywork, not the sellers.  A client's SDRs spent 60 percent of the

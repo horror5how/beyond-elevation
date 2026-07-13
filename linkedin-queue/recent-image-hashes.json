@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff1510133f0ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "apple-openai-trade-secret-risk",
-    "ts": "2026-07-12T11:56:45.604Z"
-  },
-  {
     "hash": "007effffffff2505",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-token-binge-over-outcome-pricing",
     "ts": "2026-07-13T15:44:31.045Z"
+  },
+  {
+    "hash": "3c7a331317f5ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "agentic-sdr-pipeline-no-headcount",
+    "ts": "2026-07-13T18:25:38.253Z"
   }
 ]

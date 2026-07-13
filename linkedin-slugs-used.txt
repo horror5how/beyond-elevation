@@ -470,3 +470,4 @@ ai-startup-same-revenue-valuation-gap-2026
 hours-saved-vanity-metric
 ai-token-binge-over-outcome-pricing
 dempe-ip-holdco-transfer-pricing-2026
+agentic-sdr-pipeline-no-headcount
