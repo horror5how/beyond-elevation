@@ -453,3 +453,4 @@
 2026-07-12 17:56 | urn:li:share:7482130698766684162 | compute-rent-patents-property-2026 | Your $1M compute bill is worth $0 at exit.  Your $100K patent budget creates an 
 2026-07-13 07:55 | urn:li:share:7482341894534987776 | Enterprise buyers now run AI benchmarks before every SaaS renewal.  Prices dropp
 2026-07-13 10:32 | urn:li:share:7482381526240800768 | post #1 | ai-patent-startups-65m-week | AI patent startups just raised $65M in a week.  Solve Intelligence took $40M. De
+2026-07-13 12:07 | urn:li:share:7482405432251269121 | post #2 | patents-are-a-revenue-line | Your patents are not legal documents.  They are your highest-margin revenue line

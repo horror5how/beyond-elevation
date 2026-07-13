@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3efc00770f31ffff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "ibm-multi-agent-build-vs-buy",
-    "ts": "2026-07-10T18:15:52.722Z"
-  },
-  {
     "hash": "7ef0703107f4ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-patent-startups-65m-week",
     "ts": "2026-07-13T10:32:52.060Z"
+  },
+  {
+    "hash": "fff901310333ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "patents-are-a-revenue-line",
+    "ts": "2026-07-13T12:07:51.703Z"
   }
 ]

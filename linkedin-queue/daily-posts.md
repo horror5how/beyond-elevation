@@ -3,7 +3,7 @@ date: 2026-07-13
 theme: The market just repriced patents and enterprise AI on the same question: where is the hard financial return, not the activity.
 generated_at: 2026-07-13T04:00:00Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -51,7 +51,9 @@ Most founders still expense their IP. The smart ones are about to carry it at an
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-13T12:07:51.703Z
+share_urn: urn:li:share:7482405432251269121
 hook_format: frame-break
 cta_goal: clicks
 slug: patents-are-a-revenue-line
