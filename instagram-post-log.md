@@ -111,3 +111,12 @@
   5. Create or update secret named INSTAGRAM_TOKEN with the new token value
   6. Re-run the instagram-post.yml workflow (Actions tab → instagram-post.yml → Run workflow)
   7. Content is ready — no other changes needed. Post will go live within 2 minutes of workflow run.
+
+## 2026-07-13T00:00:00Z
+- Pillar: Human Purpose of Work (Pillar 1) — queue unchanged
+- Status: FAILED — TOKEN EXPIRED (error 190, 18th consecutive failure since 2026-06-25)
+- Media ID: n/a
+- Slides: 6 (ready)
+- Hook: "Automation didn't kill your job. It killed your excuse."
+- Root cause: Token EAASS...ZD in task prompt = same expired token already in workflow (expired 2026-06-25). horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403 in cloud env.
+- Fix required (one-time, ~5 min): Generate new long-lived token at developers.facebook.com → set as INSTAGRAM_TOKEN secret in horror5how/beyond-elevation → re-run instagram-post.yml workflow. Content is ready.
