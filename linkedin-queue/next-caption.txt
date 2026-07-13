@@ -1,21 +1,19 @@
-Enterprise buyers now run AI benchmarks before every SaaS renewal.
+Two AI startups. Same ARR. One valuation is 40% higher.
 
-Prices dropped 23% on average where an AI alternative exists.
+The difference is not the product.
 
-The companies that held price had one thing in common.
+Not the team.
 
-Proprietary IP the buyer could not replicate or benchmark against.
+Not the growth rate.
 
-Three structures that create a price floor AI cannot touch:
+It is the IP defensibility score investors run before they wire.
 
-A patent on your data pipeline. A licensed data asset. A trade secret on your model weights.
+Replication speed. Data moat depth. Patent coverage. Licensing optionality.
 
-Without one of these, you are negotiating against GPT-4.
+Score 4+ on these axes: you close at 8x forward revenue.
 
-And GPT-4 gets cheaper every six months.
+Score 2 or below: you close at 5-6x. Or you do not close.
 
-File now. License now. Structure the holdco now.
+Your ARR sets the floor. Your defensibility sets the ceiling.
 
-Not after the renewal cycle starts.
-
-#IPStrategy #SaaSFounders #Licensing
+#IPStrategy #AIValuation #StartupFunding
