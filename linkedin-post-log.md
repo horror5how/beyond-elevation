@@ -451,3 +451,4 @@
 2026-07-12 14:25 | urn:li:share:7482077670583808002 | post #4 | openai-agents-break-teams | OpenAI's agents don't replace employees. They break teams.  Everyone thinks AI a
 2026-07-12 17:49 | urn:li:share:7482129080805539840 | post #5 | ghost-font-ai-proof-gimmick | Ghost Font: Don't buy the "AI-proof" gimmick.  Founders waste time chasing AI-pr
 2026-07-12 17:56 | urn:li:share:7482130698766684162 | compute-rent-patents-property-2026 | Your $1M compute bill is worth $0 at exit.  Your $100K patent budget creates an 
+2026-07-13 07:55 | urn:li:share:7482341894534987776 | Enterprise buyers now run AI benchmarks before every SaaS renewal.  Prices dropp
