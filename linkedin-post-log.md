@@ -457,3 +457,4 @@
 2026-07-13 12:52 | QUEUED | ai-startup-same-revenue-valuation-gap-2026 | Two AI startups. Same ARR. One valuation is 40% higher.  The difference is not t
 2026-07-13 12:53 | urn:li:share:7482416876757696512 | Two AI startups. Same ARR. One valuation is 40% higher.  The difference is not t
 2026-07-13 13:21 | urn:li:share:7482423880717049856 | post #3 | hours-saved-vanity-metric | Hours saved is a vanity metric.  I watched a client's RevOps team celebrate 400 
+2026-07-13 15:44 | urn:li:share:7482459954994413569 | post #4 | ai-token-binge-over-outcome-pricing | The AI token binge is over.  Klarna said its AI did the work of 700 agents and l

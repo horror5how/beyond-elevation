@@ -468,3 +468,4 @@ ai-era-saas-price-floor-ip-2026
 ai-patent-startups-65m-week
 ai-startup-same-revenue-valuation-gap-2026
 hours-saved-vanity-metric
+ai-token-binge-over-outcome-pricing

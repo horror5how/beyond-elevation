@@ -1,12 +1,5 @@
 [
   {
-    "hash": "2466e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "ip-strategy-bootstrapped-startups",
-    "ts": "2026-07-12T10:38:51.361Z"
-  },
-  {
     "hash": "fff1510133f0ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "hours-saved-vanity-metric",
     "ts": "2026-07-13T13:21:10.666Z"
+  },
+  {
+    "hash": "007effffffff20a0",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "ai-token-binge-over-outcome-pricing",
+    "ts": "2026-07-13T15:44:31.045Z"
   }
 ]
