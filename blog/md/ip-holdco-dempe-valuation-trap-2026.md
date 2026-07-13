@@ -2,8 +2,8 @@
 title: "You Moved Your IP Into a Holding Company to Save Tax. Under the 2026 OECD DEMPE Rules You May Have Just Stripped the Asset That Funds Your Next Round."
 slug: ip-holdco-dempe-valuation-trap-2026
 date: 2026-07-13
-url: https://beyondelevation.com/blog/post.html?slug=ip-holdco-dempe-valuation-trap-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-holdco-dempe-valuation-trap-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ Hayat Amin recommends running the DEMPE Holdco Diagnostic at least 12 months bef
 
 The takeaway is simple: an IP holding company is a powerful structure when it performs real DEMPE functions. It is a liability when it holds title and nothing else. [Contact Beyond Elevation](https://beyondelevation.com) to run the DEMPE Holdco Diagnostic on your structure before your next raise.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-holdco-dempe-valuation-trap-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Does the DEMPE framework apply to startups or only large multinationals?
@@ -94,3 +108,6 @@ Acquirers typically discount the IP component of the purchase price by 15 to 25%
 ### Should I avoid setting up an IP holding company entirely?
 
 No. The IP holding company structure is powerful when the holdco has real substance and performs genuine DEMPE functions. The problem is not the structure itself but the empty-shell implementation most tax advisors set up by default. Get the structure right and it protects value. Get it wrong and it strips value.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

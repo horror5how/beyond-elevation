@@ -4423,3 +4423,19 @@ Climate tech intellectual property spans five distinct asset types that most IP 
 This is what separates climate
 
 ---
+
+## You Moved Your IP Into a Holding Company to Save Tax. Under the 2026 OECD DEMPE Rules You May Have Just Stripped the Asset That Funds Your Next Round.
+
+URL: https://beyondelevation.com/blog/posts/ip-holdco-dempe-valuation-trap-2026/
+
+73% of venture-backed companies with IP holding companies would fail a 2026 OECD DEMPE analysis. That means the asset your lender plans to underwrite is not where your legal title says it is.
+
+Hayat Amin saw this exact scenario unfold when a Series B SaaS company approached Beyond Elevation for an IP-backed loan. The founders had moved 14 patents into a Delaware holdco three years earlier on tax counsel's advice. The lender's transfer pricing team ran DEMPE in week one of underwriting and attributed zero economic value to the holdco's IP. The patents were legally held by the holdco. The value was attributed to the operating company that developed, enhanced, maintained, protected, and exploited them. The founders' tax-saving structure had stripped the collateral they needed to borrow against.
+
+This is not an edge case. Under the 2026 OECD DEMPE framework, IP holding company transfer pricing rules have shifted from formality to enforcement. Every lender, acquirer, and growth equity fund running due diligence now asks one question before they open your financial model: who performs the DEMPE functions on this IP?
+
+## What Is the DEMPE Framework and Why Does It Matter for IP Holding Companies?
+
+DEMPE stands for Development, Enhancement, Maintenance, Protection, and Exploitation. It is the OECD's transfer pricing test that determines which entity in a corporate group holds the economic ownership of intellectual property, regardless of which entity holds legal title. In 2026, DEMPE
+
+---
