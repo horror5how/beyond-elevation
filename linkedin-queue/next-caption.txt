@@ -1,17 +1,21 @@
-Your $1M compute bill is worth $0 at exit.
+Enterprise buyers now run AI benchmarks before every SaaS renewal.
 
-Your $100K patent budget creates an $800K royalty asset.
+Prices dropped 23% on average where an AI alternative exists.
 
-Both feel like costs. Only one is.
+The companies that held price had one thing in common.
 
-Compute is rent. Every dollar expires at month-end.
+Proprietary IP the buyer could not replicate or benchmark against.
 
-Patents are property. Every dollar compounds toward your exit multiple.
+Three structures that create a price floor AI cannot touch:
 
-$500/month in patent maintenance builds a $600K asset.
+A patent on your data pipeline. A licensed data asset. A trade secret on your model weights.
 
-$50K/month on GPUs builds nothing that survives the wire transfer.
+Without one of these, you are negotiating against GPT-4.
 
-Buyers pay 8x royalty income. They don't buy your AWS invoice.
+And GPT-4 gets cheaper every six months.
 
-#IPStrategy #StartupFinance #PatentROI
+File now. License now. Structure the holdco now.
+
+Not after the renewal cycle starts.
+
+#IPStrategy #SaaSFounders #Licensing
