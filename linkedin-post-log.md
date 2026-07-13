@@ -455,3 +455,4 @@
 2026-07-13 10:32 | urn:li:share:7482381526240800768 | post #1 | ai-patent-startups-65m-week | AI patent startups just raised $65M in a week.  Solve Intelligence took $40M. De
 2026-07-13 12:07 | urn:li:share:7482405432251269121 | post #2 | patents-are-a-revenue-line | Your patents are not legal documents.  They are your highest-margin revenue line
 2026-07-13 12:52 | QUEUED | ai-startup-same-revenue-valuation-gap-2026 | Two AI startups. Same ARR. One valuation is 40% higher.  The difference is not t
+2026-07-13 12:53 | urn:li:share:7482416876757696512 | Two AI startups. Same ARR. One valuation is 40% higher.  The difference is not t
