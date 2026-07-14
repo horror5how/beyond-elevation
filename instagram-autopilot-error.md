@@ -1,4 +1,4 @@
-# Instagram Autopilot — BLOCKED: Expired Token (updated 2026-07-09)
+# Instagram Autopilot — BLOCKED: Expired Token (updated 2026-07-14)
 
 ## Status
 
@@ -16,11 +16,11 @@
 
 The Instagram access token `EAASS...ZD` expired **2026-06-25**. Every run since then fails at the "Publish to Instagram" step with **error 190** (token expired).
 
-Confirmed across 14 GH Actions runs — steps 1–7 succeed, step 8 "Publish to Instagram" fails.
+Confirmed across 20 GH Actions runs — steps 1–7 succeed, step 8 "Publish to Instagram" fails.
 
-Latest failure: run #29017185386 (2026-07-09T12:10:13Z).
+Latest failure: run #29364353723 (2026-07-14T20:06:38Z). CI log exact error: "Session has expired on Thursday, 25-Jun-26 23:32:48 PDT."
 
-Run history: June 28, 29, 30, July 1, 2 (×2), July 3 (×3), July 4, July 6, July 7 (×3), July 8 (×2), July 9 (×2) — all FAILED with same error 190.
+Run history: June 28, 29, 30, July 1, 2 (×2), July 3 (×3), July 4, July 6, July 7 (×3), July 8 (×2), July 9 (×2), July 14 — all FAILED with same error 190.
 
 The expired token is hardcoded in:
 - `.github/workflows/instagram-post.yml` env.ACTIVE_IG_TOKEN (line 24)
@@ -52,4 +52,4 @@ Direct calls to `graph.facebook.com` are blocked in the cloud session environmen
 Once token is renewed, push any change to `instagram-queue/slides/slide-1.html` to trigger the workflow automatically.
 
 ---
-*Last updated: 2026-07-09 by cloud autopilot session (run #29017185386)*
+*Last updated: 2026-07-14 by cloud autopilot session (run #29364353723) — 20th consecutive failure*
