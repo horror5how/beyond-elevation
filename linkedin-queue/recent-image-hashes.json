@@ -1,12 +1,5 @@
 [
   {
-    "hash": "00ffffffffff0104",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "ai-patent-startups-65m-week",
-    "ts": "2026-07-13T10:32:52.060Z"
-  },
-  {
     "hash": "fff901310333ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "patent-bankability-lending-checklist",
     "ts": "2026-07-14T10:47:59.585Z"
+  },
+  {
+    "hash": "7ef930110bf5ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "synthetic-data-robot-training-moat",
+    "ts": "2026-07-14T12:08:40.463Z"
   }
 ]

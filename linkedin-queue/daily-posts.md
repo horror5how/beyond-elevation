@@ -3,7 +3,7 @@ date: 2026-07-14
 theme: Today's content explores how strategic IP management drives revenue and how cutting-edge AI news impacts operational reality, from synthetic data for robots to innovation risk in research.
 generated_at: 2026-07-14T06:08:55.054Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ One BE client's LTV jumped 15% after a bankability audit.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-14T12:08:40.463Z
+share_urn: urn:li:share:7482768024580792321
 hook_format: contrarian
 cta_goal: follows
 slug: synthetic-data-robot-training-moat
