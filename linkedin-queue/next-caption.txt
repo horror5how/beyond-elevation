@@ -1,23 +1,19 @@
-A $3,000 patent protects what a $50,000 patent cannot.
+A $5M royalty line in your S-1 is worth more than $20M in product revenue.
 
-Utility patents protect how your product works.
+Royalty income has no COGS. Product revenue does.
 
-Design patents protect how it looks.
+Qualcomm's licensing segment earns 70% EBIT margin. Its chip segment earns 20%.
 
-Apple's rounded-rectangle design patent earned them $539M from Samsung. One filing.
+Bankers price royalty revenue at 8–12x. SaaS at 3–5x. Same dollar, different multiple.
 
-Cost to file a US design patent: $1,500–$3,000.
+Most pre-IPO companies have unlicensed patents generating $0.
 
-Time to grant: 12–18 months. Utility patents take 3–4 years.
+Legal owns them. Finance ignores them.
 
-Enforceable term: 15 years.
+The window to add a royalty line before your S-1: 18–24 months minimum. Not 90 days.
 
-Most hardware and product founders file one utility patent and ignore the appearance entirely.
+If you're planning an IPO in the next 3 years, the IP audit should start now.
 
-Then a competitor copies the UI, the form factor, the packaging.
+Most founders find this out after the S-1 is filed.
 
-And you have no recourse. You never protected the look.
-
-File the design patent. Costs less than one lawyer consultation.
-
-#Patents #IPStrategy #ProductDesign
+#IPO #IPStrategy #Patents
