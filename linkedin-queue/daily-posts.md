@@ -3,7 +3,7 @@ date: 2026-07-14
 theme: Today's content explores how strategic IP management drives revenue and how cutting-edge AI news impacts operational reality, from synthetic data for robots to innovation risk in research.
 generated_at: 2026-07-14T06:08:55.054Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ The exact play to run this week: pilot a virtual environment for 10% of critical
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-14T14:46:52.498Z
+share_urn: urn:li:share:7482807836587012096
 hook_format: frame-break
 cta_goal: dms
 slug: ai-content-flagging-revenue-impact
