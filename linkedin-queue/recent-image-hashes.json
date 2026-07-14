@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7efe00100777ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "hours-saved-vanity-metric",
-    "ts": "2026-07-13T13:21:10.666Z"
-  },
-  {
     "hash": "007effffffff20a0",
     "layout": "a",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-content-flagging-revenue-impact",
     "ts": "2026-07-14T14:46:52.498Z"
+  },
+  {
+    "hash": "fff9313903fdffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-research-narrows-innovation-risk",
+    "ts": "2026-07-14T17:55:49.743Z"
   }
 ]

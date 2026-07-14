@@ -483,3 +483,4 @@ design-patent-licensing-revenue-2026
 royalty-line-ipo-valuation-s1-2026
 ai-content-flagging-revenue-impact
 eu-ai-act-omnibus-deferral-governance-moat-2026
+ai-research-narrows-innovation-risk

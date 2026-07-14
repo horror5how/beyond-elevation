@@ -475,3 +475,4 @@
 2026-07-14 13:18 | urn:li:share:7482785592850747392 | A $5M royalty line in your S-1 is worth more than $20M in product revenue.  Roya
 2026-07-14 14:46 | urn:li:share:7482807836587012096 | post #4 | ai-content-flagging-revenue-impact | AI content flags change your revenue.  Hacker News discusses flagging AI-generat
 2026-07-14 17:52 | urn:li:share:7482854443143831552 | The EU just pushed the AI Act high-risk deadline to December 2027.  Most founder
+2026-07-14 17:55 | urn:li:share:7482855388569169921 | post #5 | ai-research-narrows-innovation-risk | AI narrows research, stifles new ideas.  A new study reveals AI boosts research 
