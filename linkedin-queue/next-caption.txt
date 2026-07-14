@@ -1,15 +1,21 @@
-DEMPE decides who owns your IP for tax purposes. Not your lawyers.
+Congress restored immediate R&D expensing. Most founders took the tax break.
 
-Most founders build an IP holdco to separate royalty income from operations.
+Nobody claimed the asset it created.
 
-Tax authorities use DEMPE instead.
+Under new §174A (OBBBA 2025), a $500K R&D budget gives you two things:
 
-5 functions: Development, Enhancement, Maintenance, Protection, Exploitation.
+A $420K deduction in year one.
 
-The entity that Controls all 5 captures the royalty income. Legal title is irrelevant.
+An IP asset a buyer will underwrite at 8-12x.
 
-UK opco does the real IP work. Cayman holdco takes the royalties. You fail DEMPE. Tax authority reallocates.
+Most CFOs book the deduction and close the spreadsheet.
 
-Fix: economic substance log + DEMPE control matrix before Series B.
+The IP asset goes unregistered, unvalued, undefended.
 
-#IPStrategy #TaxPlanning #Founders
+Then a buyer haircuts 20-30% off your multiple because you cannot prove what your R&D built.
+
+The deduction lowers your tax bill once.
+
+The IP asset funds every round and every exit after.
+
+#IPStrategy #RDExpensing #StartupValuation
