@@ -129,3 +129,9 @@
 - Hook: "Automation didn't kill your job. It killed your excuse."
 - Note: Cloud autopilot run 2026-07-14. instagram-autopilot repo still does not exist. Token in task prompt = same EAASS...ZD (expired 2026-06-25). Triggered workflow by touching slide-1.html. If secrets.INSTAGRAM_TOKEN has been renewed in repo settings since 2026-07-09, this run will succeed. If not, error 190 again.
 - Fix required (unchanged): developers.facebook.com → Token Tools → new long-lived token → horror5how/beyond-elevation Settings → Secrets → INSTAGRAM_TOKEN → re-run instagram-post.yml.
+
+## 2026-07-14T20:06:38Z
+- Pillar: Human Purpose of Work
+- Status: FAILED
+- Media ID: n/a
+- Slides: 6
