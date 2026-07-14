@@ -477,3 +477,4 @@ section-174-rd-expensing-ip-asset-2026
 synthetic-data-robot-training-moat
 royalty-withholding-tax-ip-holdco-2026
 patent-grace-period-global-trap-2026
+ai-feature-replication-window-2026
