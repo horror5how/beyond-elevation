@@ -1,19 +1,17 @@
-Your AI feature will be replicated in 6 months.
+Most founders sell their IP at exit. The smart ones rent it.
 
-In 2021, the average time to copy an AI product feature: 18 months.
+When a buyer acquires your company, you don't have to sell the patent portfolio outright.
 
-In 2026: 6 months. Open-weight models and better tooling compressed it.
+Structure it as a licensing earn-out: retain IP ownership, license it to the acquirer.
 
-Without IP protection, your competitive window is one quarter.
+A lower headline price — but a 4–8% royalty on the acquirer's revenue. Ongoing.
 
-Filed patent application: 20 years of enforceable exclusivity.
+$10M acquisition + 5% royalty on $50M acquirer revenue = $12.5M in post-close income.
 
-Proprietary training dataset: compounding advantage, indefinite.
+Total consideration: $22.5M vs. $10M outright sale.
 
-The founders who built IP in 2024 are pulling ahead now.
+The IP you spent 5 years building keeps paying after the deal closes.
 
-The ones who said "we'll deal with IP later" are in feature parity with competitors who started 3 months after them.
+You need to structure this before the LOI. Not after.
 
-Build the moat while the window is open.
-
-#AIStrategy #Patents #IPStrategy
+#MergersAndAcquisitions #IPStrategy #Licensing
