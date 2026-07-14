@@ -3,7 +3,7 @@ date: 2026-07-14
 theme: Today's content explores how strategic IP management drives revenue and how cutting-edge AI news impacts operational reality, from synthetic data for robots to innovation risk in research.
 generated_at: 2026-07-14T06:08:55.054Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's posts dissect the dual imperatives for founders: first, transforming dor
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-14T09:10:01.614Z
+share_urn: urn:li:share:7482723066704367616
 hook_format: contrarian
 cta_goal: clicks
 slug: ip-strategy-climate-tech-stack
