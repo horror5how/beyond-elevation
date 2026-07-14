@@ -479,3 +479,4 @@ royalty-withholding-tax-ip-holdco-2026
 patent-grace-period-global-trap-2026
 ai-feature-replication-window-2026
 ip-licensing-earnout-acquisition-2026
+design-patent-licensing-revenue-2026

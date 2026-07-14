@@ -1,17 +1,23 @@
-Most founders sell their IP at exit. The smart ones rent it.
+A $3,000 patent protects what a $50,000 patent cannot.
 
-When a buyer acquires your company, you don't have to sell the patent portfolio outright.
+Utility patents protect how your product works.
 
-Structure it as a licensing earn-out: retain IP ownership, license it to the acquirer.
+Design patents protect how it looks.
 
-A lower headline price — but a 4–8% royalty on the acquirer's revenue. Ongoing.
+Apple's rounded-rectangle design patent earned them $539M from Samsung. One filing.
 
-$10M acquisition + 5% royalty on $50M acquirer revenue = $12.5M in post-close income.
+Cost to file a US design patent: $1,500–$3,000.
 
-Total consideration: $22.5M vs. $10M outright sale.
+Time to grant: 12–18 months. Utility patents take 3–4 years.
 
-The IP you spent 5 years building keeps paying after the deal closes.
+Enforceable term: 15 years.
 
-You need to structure this before the LOI. Not after.
+Most hardware and product founders file one utility patent and ignore the appearance entirely.
 
-#MergersAndAcquisitions #IPStrategy #Licensing
+Then a competitor copies the UI, the form factor, the packaging.
+
+And you have no recourse. You never protected the look.
+
+File the design patent. Costs less than one lawyer consultation.
+
+#Patents #IPStrategy #ProductDesign
