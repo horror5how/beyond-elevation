@@ -467,3 +467,4 @@
 2026-07-14 12:08 | urn:li:share:7482768024580792321 | post #3 | synthetic-data-robot-training-moat | Synthetic data is robot training's future.  MIT News highlights virtual playgrou
 2026-07-14 12:52 | QUEUED | royalty-withholding-tax-ip-holdco-2026 | Your IP royalties are taxed before they leave the country.  Most founders find o
 2026-07-14 12:53 | urn:li:share:7482779112453943297 | royalty-withholding-tax-ip-holdco-2026 | Your IP royalties are taxed before they leave the country.  Most founders find o
+2026-07-14 12:59 | QUEUED | patent-grace-period-global-trap-2026 | One investor demo can kill your European patent rights. Forever.  Most founders 
