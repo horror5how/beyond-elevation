@@ -120,3 +120,12 @@
 - Hook: "Automation didn't kill your job. It killed your excuse."
 - Root cause: Token EAASS...ZD in task prompt = same expired token already in workflow (expired 2026-06-25). horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403 in cloud env.
 - Fix required (one-time, ~5 min): Generate new long-lived token at developers.facebook.com → set as INSTAGRAM_TOKEN secret in horror5how/beyond-elevation → re-run instagram-post.yml workflow. Content is ready.
+
+## 2026-07-14T00:00:00Z
+- Pillar: Human Purpose of Work (Pillar 1)
+- Status: TRIGGERED — awaiting CI result
+- Media ID: n/a
+- Slides: 6 (queued, rendered PNGs committed)
+- Hook: "Automation didn't kill your job. It killed your excuse."
+- Note: Cloud autopilot run 2026-07-14. instagram-autopilot repo still does not exist. Token in task prompt = same EAASS...ZD (expired 2026-06-25). Triggered workflow by touching slide-1.html. If secrets.INSTAGRAM_TOKEN has been renewed in repo settings since 2026-07-09, this run will succeed. If not, error 190 again.
+- Fix required (unchanged): developers.facebook.com → Token Tools → new long-lived token → horror5how/beyond-elevation Settings → Secrets → INSTAGRAM_TOKEN → re-run instagram-post.yml.
