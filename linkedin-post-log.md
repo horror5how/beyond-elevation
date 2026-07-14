@@ -465,3 +465,4 @@
 2026-07-14 11:22 | QUEUED | section-174-rd-expensing-ip-asset-2026 | Congress restored immediate R&D expensing. Most founders took the tax break.  No
 2026-07-14 11:28 | urn:li:share:7482756449430052865 | section-174-rd-expensing-ip-asset-2026 | Congress restored immediate R&D expensing. Most founders took the tax break.  No
 2026-07-14 12:08 | urn:li:share:7482768024580792321 | post #3 | synthetic-data-robot-training-moat | Synthetic data is robot training's future.  MIT News highlights virtual playgrou
+2026-07-14 12:52 | QUEUED | royalty-withholding-tax-ip-holdco-2026 | Your IP royalties are taxed before they leave the country.  Most founders find o
