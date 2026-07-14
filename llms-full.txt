@@ -4455,3 +4455,17 @@ Here is what matters for every AI company building products for the European mar
 The Digital Omnibus pushed the EU AI Act high-risk deadline for Annex III obligations from 2 August 2026 to 2 December 2027, giving AI companies 16 additional months to prepare for conformity assessments, risk management documentat
 
 ---
+
+## What Makes a Patent Portfolio Bankable in 2026? The 6-Factor Scorecard Lenders Run Before They Read Your P&L
+
+URL: https://beyondelevation.com/blog/posts/what-makes-patent-portfolio-bankable-2026/
+
+In 2026, mainstream venture-debt providers formally underwrite patents. Western Technology Investment, Horizon Technology Finance, and a growing bench of IP-aware lenders now ask for your patent schedule before they open your financial model. The difference between a 20% loan-to-value ratio and a 40% LTV is not your revenue. It is a bankability scorecard they run on your patent portfolio that determines whether it is bankable. Most founders walk into these conversations blind. Hayat Amin argues that this is the single most expensive information gap in [IP-backed lending](/blog/posts/venture-debt-ip-collateral-playbook/): "Founders spend six months preparing their financial model and zero days preparing their patent portfolio for the lender's diligence. The scorecard decides the LTV. Everything else is negotiation theater."
+
+Companies with patents are 10.2x more likely to secure early-stage funding. That stat moves term sheets. But a patent portfolio that scores poorly on bankability still gets a 20% LTV or a polite rejection, regardless of how impressive the technology looks on paper.
+
+## What Makes a Patent Portfolio Bankable?
+
+A bankable patent portfolio passes six tests that lenders run before they evaluate your business fundamentals. These tests measure enforceability, market validation, and geographic coverage. [Beyond Elevation](https://beyondelevation.com) developed a diagnostic specifically for founders approaching IP-backed lenders, because the bankability score dete
+
+---
