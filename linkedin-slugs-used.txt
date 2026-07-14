@@ -475,3 +475,4 @@ ip-strategy-climate-tech-stack
 patent-bankability-lending-checklist
 section-174-rd-expensing-ip-asset-2026
 synthetic-data-robot-training-moat
+royalty-withholding-tax-ip-holdco-2026

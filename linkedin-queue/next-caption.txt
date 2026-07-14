@@ -1,21 +1,17 @@
-Congress restored immediate R&D expensing. Most founders took the tax break.
+Your IP royalties are taxed before they leave the country.
 
-Nobody claimed the asset it created.
+Most founders find out in year two. By then they've lost $200K+.
 
-Under new §174A (OBBBA 2025), a $500K R&D budget gives you two things:
+Cross-border royalties: default withholding rate is 30% for non-treaty countries.
 
-A $420K deduction in year one.
+The US has 60+ bilateral tax treaties. The right holdco structure drops your rate to 0%.
 
-An IP asset a buyer will underwrite at 8-12x.
+$1M royalty stream × 30% withholding = $300K gone per year.
 
-Most CFOs book the deduction and close the spreadsheet.
+Ireland. Netherlands. Singapore. All sub-5% via treaty.
 
-The IP asset goes unregistered, unvalued, undefended.
+Structure the IP holdco before the first licence. Not after the tax bill arrives.
 
-Then a buyer haircuts 20-30% off your multiple because you cannot prove what your R&D built.
+Founders who do this keep $300K–$600K more per year. Compounding.
 
-The deduction lowers your tax bill once.
-
-The IP asset funds every round and every exit after.
-
-#IPStrategy #RDExpensing #StartupValuation
+#IPStrategy #Licensing #TaxPlanning
