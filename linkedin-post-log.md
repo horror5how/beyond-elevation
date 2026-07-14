@@ -463,3 +463,4 @@
 2026-07-14 09:10 | urn:li:share:7482723066704367616 | post #1 | ip-strategy-climate-tech-stack | Climate tech IP is your $100M revenue line.  Founders often focus solely on engi
 2026-07-14 10:47 | urn:li:share:7482747720743555073 | post #2 | patent-bankability-lending-checklist | Lenders check your patents before financials.  Your ability to secure 20-40% LTV
 2026-07-14 11:22 | QUEUED | section-174-rd-expensing-ip-asset-2026 | Congress restored immediate R&D expensing. Most founders took the tax break.  No
+2026-07-14 11:28 | urn:li:share:7482756449430052865 | section-174-rd-expensing-ip-asset-2026 | Congress restored immediate R&D expensing. Most founders took the tax break.  No
