@@ -469,3 +469,4 @@
 2026-07-14 12:53 | urn:li:share:7482779112453943297 | royalty-withholding-tax-ip-holdco-2026 | Your IP royalties are taxed before they leave the country.  Most founders find o
 2026-07-14 12:59 | QUEUED | patent-grace-period-global-trap-2026 | One investor demo can kill your European patent rights. Forever.  Most founders 
 2026-07-14 12:59 | urn:li:share:7482780820156526593 | patent-grace-period-global-trap-2026 | One investor demo can kill your European patent rights. Forever.  Most founders
+2026-07-14 13:04 | urn:li:share:7482782089004695552 | Your AI feature will be replicated in 6 months.  In 2021, the average time to co
