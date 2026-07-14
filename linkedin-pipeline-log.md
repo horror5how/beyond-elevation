@@ -915,3 +915,4 @@ Post 5: hook_too_long(12w)
 2026-07-14 06:09 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
 2026-07-14 09:09 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=1 < 5) | trying different variant
 2026-07-14 09:10 | li-auto-post | render OK | post #1 | layout=b accent=#a87c7c hash=02c3e7ffc3c3ff9f minDist=25 attempts=2
+2026-07-14 10:47 | li-auto-post | render OK | post #2 | layout=c accent=#8aa6b8 hash=7af131110bfff5ff minDist=14 attempts=1

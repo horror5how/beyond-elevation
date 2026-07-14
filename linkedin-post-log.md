@@ -461,3 +461,4 @@
 2026-07-13 17:51 | urn:li:share:7482491954061217792 | DEMPE decides who owns your IP for tax purposes. Not your lawyers.  Most founder
 2026-07-13 18:25 | urn:li:share:7482500502782664704 | post #5 | agentic-sdr-pipeline-no-headcount | We fired the busywork, not the sellers.  A client's SDRs spent 60 percent of the
 2026-07-14 09:10 | urn:li:share:7482723066704367616 | post #1 | ip-strategy-climate-tech-stack | Climate tech IP is your $100M revenue line.  Founders often focus solely on engi
+2026-07-14 10:47 | urn:li:share:7482747720743555073 | post #2 | patent-bankability-lending-checklist | Lenders check your patents before financials.  Your ability to secure 20-40% LTV

@@ -472,3 +472,4 @@ ai-token-binge-over-outcome-pricing
 dempe-ip-holdco-transfer-pricing-2026
 agentic-sdr-pipeline-no-headcount
 ip-strategy-climate-tech-stack
+patent-bankability-lending-checklist

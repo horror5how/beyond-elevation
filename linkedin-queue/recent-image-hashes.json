@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffa3a0b8",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "ghost-font-ai-proof-gimmick",
-    "ts": "2026-07-12T17:49:44.337Z"
-  },
-  {
     "hash": "00ffffffffff0104",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ip-strategy-climate-tech-stack",
     "ts": "2026-07-14T09:10:01.614Z"
+  },
+  {
+    "hash": "7af131110bfff5ff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "patent-bankability-lending-checklist",
+    "ts": "2026-07-14T10:47:59.585Z"
   }
 ]

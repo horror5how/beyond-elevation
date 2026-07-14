@@ -3,7 +3,7 @@ date: 2026-07-14
 theme: Today's content explores how strategic IP management drives revenue and how cutting-edge AI news impacts operational reality, from synthetic data for robots to innovation risk in research.
 generated_at: 2026-07-14T06:08:55.054Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One BE client secured $40M in licensing from overlooked climate tech IP.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-14T10:47:59.585Z
+share_urn: urn:li:share:7482747720743555073
 hook_format: frame-break
 cta_goal: dms
 slug: patent-bankability-lending-checklist
