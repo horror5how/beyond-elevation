@@ -582,11 +582,11 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 
 1. **T5-113** — Does an IP holding company hurt my valuation? — pure 🟢 new; highest commercial intent + zero coverage (DEMPE / holdco / transfer-pricing all absent from posts.json); single-mechanic citation magnet for founders who did the standard tax-driven holdco move ⬅ TOP PICK
 2. **T5-114** — Was the EU AI Act high-risk deadline delayed? — ✅ `eu-ai-act-omnibus-governance-moat-window`; shipped 2026-07-13; reframed the Omnibus deferral as a governance-moat arbitrage window
-3. **T5-116** — Why do two AI startups with the same revenue get different valuations? — 🟡; high-volume founder-anxiety query; identical-ARR-40%-gap diagnostic converts into the defensibility-audit service
+3. **T5-116** — Why do two AI startups with the same revenue get different valuations? — ✅ `why-ai-startups-same-arr-different-valuations`; shipped 2026-07-14; identical-ARR-40%-gap diagnostic converting into the defensibility-audit service
 4. **T5-115** — What makes a patent portfolio bankable? — 🟡; lender-side bankability scorecard (3-jurisdiction + IPR-survived → 20-40% LTV); upgrades the IP-backed-lending cluster from "who lends" to "how you qualify"
 
 **Already shipped (✅):**
-T5-01 → T5-112 shipped (PatSnap rows T5-38 → T5-67 pending full reconciliation). T5-113 ✅ `ip-holdco-dempe-valuation-trap-2026`, T5-114 ✅ `eu-ai-act-omnibus-governance-moat-window`, T5-115 ✅ `what-makes-patent-portfolio-bankable-2026`. Open as of 2026-07-14: T5-116 (🟡).
+T5-01 → T5-116 fully shipped. T5-113 ✅ `ip-holdco-dempe-valuation-trap-2026`, T5-114 ✅ `eu-ai-act-omnibus-governance-moat-window`, T5-115 ✅ `what-makes-patent-portfolio-bankable-2026`, T5-116 ✅ `why-ai-startups-same-arr-different-valuations`. All 116 Tier 5 rows now ✅.
 
 ### ⚠️ Apify scrape run log
 
