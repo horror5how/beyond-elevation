@@ -1,19 +1,19 @@
-A $5M royalty line in your S-1 is worth more than $20M in product revenue.
+The EU just pushed the AI Act high-risk deadline to December 2027.
 
-Royalty income has no COGS. Product revenue does.
+Most founders exhaled.
 
-Qualcomm's licensing segment earns 70% EBIT margin. Its chip segment earns 20%.
+That is the wrong reaction.
 
-Bankers price royalty revenue at 8–12x. SaaS at 3–5x. Same dollar, different multiple.
+GPAI enforcement still starts 2 August 2026.
 
-Most pre-IPO companies have unlicensed patents generating $0.
+That date did not move.
 
-Legal owns them. Finance ignores them.
+Competitors who wait until 2027 will scramble: €500K+ in legal spend, 6 months of roadmap, frameworks built in 90 days instead of 16 months.
 
-The window to add a royalty line before your S-1: 18–24 months minimum. Not 90 days.
+You use the 16-month window. They burn through it.
 
-If you're planning an IPO in the next 3 years, the IP audit should start now.
+Documented AI governance adds a 1.7x valuation multiple to a raise.
 
-Most founders find this out after the S-1 is filed.
+Build the moat now.
 
-#IPO #IPStrategy #Patents
+#EUAIACT #AIGovernance #IPStrategy
