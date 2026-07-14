@@ -470,3 +470,4 @@
 2026-07-14 12:59 | QUEUED | patent-grace-period-global-trap-2026 | One investor demo can kill your European patent rights. Forever.  Most founders 
 2026-07-14 12:59 | urn:li:share:7482780820156526593 | patent-grace-period-global-trap-2026 | One investor demo can kill your European patent rights. Forever.  Most founders
 2026-07-14 13:04 | urn:li:share:7482782089004695552 | Your AI feature will be replicated in 6 months.  In 2021, the average time to co
+2026-07-14 13:09 | urn:li:share:7482783317465993216 | Most founders sell their IP at exit. The smart ones rent it.  When a buyer acqui
