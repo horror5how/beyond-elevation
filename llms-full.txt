@@ -4487,3 +4487,19 @@ The numbers are specific. Research from Qubit, Lucid, FE International, and Finr
 This is not abstract theory. When an investor compares two AI companies side by side, the one with a [structured patent portfolio](/bl
 
 ---
+
+## 73% of 2026 Rounds Are Down or Flat. The Founders Who Survive All Do the Same Thing With Their IP.
+
+URL: https://beyondelevation.com/blog/posts/down-round-ip-strategy-protect-assets-2026/
+
+73% of Series B and later rounds in 2026 close at flat or down valuations. Investors reprice your equity. They do not reprice your patents. That gap between share price and IP value is the single biggest lever founders ignore during a down round, and it costs them millions in dilution they did not need to take.
+
+Hayat Amin argues that a down round IP strategy is not a defensive move. It is the most aggressive capital play a founder can make when the market turns against them. The founders who run this playbook walk into their down round with leverage. The ones who do not hand it to their investors.
+
+## What Happens to Your IP in a Down Round?
+
+Your IP retains its appraised value even when your cap table gets repriced. Patents, trade secrets, proprietary data sets, and trademarks are independently appraised assets with market values derived from licensing revenue potential, claim breadth, and competitive coverage, not from your last preferred share price. A company trading down from a $50M post-money to a $25M post-money still owns the same patent portfolio, the same proprietary data, and the same trade secrets it held before the round.
+
+This matters because investors in a down round use one number: the new share price. That number does not account for the $8M, $12M, or $20M in appraised IP sitting on the balance sheet. Hayat Amin calls this the "valuation floor problem": the floor of your company's worth is the replacement cost of your IP, and most term sheets in a down round
+
+---
