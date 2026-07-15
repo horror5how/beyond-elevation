@@ -476,3 +476,4 @@
 2026-07-14 14:46 | urn:li:share:7482807836587012096 | post #4 | ai-content-flagging-revenue-impact | AI content flags change your revenue.  Hacker News discusses flagging AI-generat
 2026-07-14 17:52 | urn:li:share:7482854443143831552 | The EU just pushed the AI Act high-risk deadline to December 2027.  Most founder
 2026-07-14 17:55 | urn:li:share:7482855388569169921 | post #5 | ai-research-narrows-innovation-risk | AI narrows research, stifles new ideas.  A new study reveals AI boosts research 
+2026-07-15 07:54 | QUEUED | ai-patent-disclosure-invalidity-trap-2026 | Most founders used AI tools to draft or refine patent claims after early 2024.

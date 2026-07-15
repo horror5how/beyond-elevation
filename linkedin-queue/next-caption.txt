@@ -1,19 +1,15 @@
-The EU just pushed the AI Act high-risk deadline to December 2027.
+Most founders used AI tools to draft or refine patent claims after early 2024.
 
-Most founders exhaled.
+Most did not document AI's role in the invention record.
 
-That is the wrong reaction.
+The USPTO's 2024 guidance is clear: if AI contributed to conception, that must be tracked and disclosed. Inventorship defects do not expire.
 
-GPAI enforcement still starts 2 August 2026.
+They surface in the data room. At the worst possible moment.
 
-That date did not move.
+Average licensing value at risk per patent family: $3M.
+Cost to audit and remediate before diligence: $8K.
+Time before IPR or M&A due diligence exposes it: 12–36 months.
 
-Competitors who wait until 2027 will scramble: €500K+ in legal spend, 6 months of roadmap, frameworks built in 90 days instead of 16 months.
+Most companies have not run this audit.
 
-You use the 16-month window. They burn through it.
-
-Documented AI governance adds a 1.7x valuation multiple to a raise.
-
-Build the moat now.
-
-#EUAIACT #AIGovernance #IPStrategy
+#IPStrategy #Patents #AI
