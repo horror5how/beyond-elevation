@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef930110bf5ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "synthetic-data-robot-training-moat",
-    "ts": "2026-07-14T12:08:40.463Z"
-  },
-  {
     "hash": "3cf9101117f5ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "inkling-open-weights-build-stop",
     "ts": "2026-07-16T14:58:31.203Z"
+  },
+  {
+    "hash": "e7e7e7ff81c3ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "openai-keyboard-ops-reality",
+    "ts": "2026-07-16T17:58:38.192Z"
   }
 ]

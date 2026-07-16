@@ -3,7 +3,7 @@ date: 2026-07-16
 theme: This batch explores overlooked financial and operational risks in IP and AI. Founders often miss subtle IP structures that impact valuation or fail to separate AI headlines from ground-truth operational impact. We cut through the noise to reveal what truly changes on the ground for P&L and defensibility.
 generated_at: 2026-07-16T06:14:50.383Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -155,7 +155,9 @@ One BE client saved 200 developer hours/month by pivoting to open-weights fine-t
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-16T17:58:38.192Z
+share_urn: urn:li:share:7483580871401320448
 hook_format: contrarian
 cta_goal: comments
 slug: openai-keyboard-ops-reality

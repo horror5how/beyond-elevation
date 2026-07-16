@@ -486,3 +486,4 @@
 2026-07-16 12:53 | urn:li:share:7483504021111091200 | Most founders are carrying IP debt. None of them know the number.  Like technica
 2026-07-16 14:58 | urn:li:share:7483535543499399168 | post #4 | inkling-open-weights-build-stop | Open-weights models just created your next build/stop decision.  Everyone sees "
 2026-07-16 17:55 | urn:li:share:7483579985962713088 | August 2 is 17 days away.  Every AI company deploying a general-purpose AI model
+2026-07-16 17:58 | urn:li:share:7483580871401320448 | post #5 | openai-keyboard-ops-reality | OpenAI’s keypad changes nothing for ops.  The press calls OpenAI’s new keypad “l
