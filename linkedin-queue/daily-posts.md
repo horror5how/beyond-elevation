@@ -3,7 +3,7 @@ date: 2026-07-16
 theme: This batch explores overlooked financial and operational risks in IP and AI. Founders often miss subtle IP structures that impact valuation or fail to separate AI headlines from ground-truth operational impact. We cut through the noise to reveal what truly changes on the ground for P&L and defensibility.
 generated_at: 2026-07-16T06:14:50.383Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ One BE client protected $8M in core IP during a 0.7x down round.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-16T12:18:57.843Z
+share_urn: urn:li:share:7483495389447442433
 hook_format: contrarian
 cta_goal: comments
 slug: ai-voice-fraud-ops-reality

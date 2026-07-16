@@ -488,3 +488,4 @@ ai-patent-disclosure-invalidity-trap-2026
 ip-indemnification-escrow-exit-2026
 ip-escrow-acquisition-protection
 down-round-ip-salvage-strategy
+ai-voice-fraud-ops-reality

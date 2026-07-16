@@ -1,12 +1,5 @@
 [
   {
-    "hash": "02c3e7ffc3c3ff9f",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "ip-strategy-climate-tech-stack",
-    "ts": "2026-07-14T09:10:01.614Z"
-  },
-  {
     "hash": "7af131110bfff5ff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "down-round-ip-salvage-strategy",
     "ts": "2026-07-16T11:01:49.157Z"
+  },
+  {
+    "hash": "0066e7ff8183fff9",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "ai-voice-fraud-ops-reality",
+    "ts": "2026-07-16T12:18:57.843Z"
   }
 ]
