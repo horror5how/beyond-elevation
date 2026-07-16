@@ -3,7 +3,7 @@ date: 2026-07-16
 theme: This batch explores overlooked financial and operational risks in IP and AI. Founders often miss subtle IP structures that impact valuation or fail to separate AI headlines from ground-truth operational impact. We cut through the noise to reveal what truly changes on the ground for P&L and defensibility.
 generated_at: 2026-07-16T06:14:50.383Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ This batch delves into the hidden financial implications of IP strategy and AI d
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-16T09:20:40.278Z
+share_urn: urn:li:share:7483450520993509379
 hook_format: contrarian
 cta_goal: comments
 slug: ip-escrow-acquisition-protection

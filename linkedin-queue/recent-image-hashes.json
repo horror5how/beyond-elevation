@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff20a0",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "ai-token-binge-over-outcome-pricing",
-    "ts": "2026-07-13T15:44:31.045Z"
-  },
-  {
     "hash": "3c7a331317f5ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-research-narrows-innovation-risk",
     "ts": "2026-07-14T17:55:49.743Z"
+  },
+  {
+    "hash": "7ef10171373dffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "ip-escrow-acquisition-protection",
+    "ts": "2026-07-16T09:20:40.278Z"
   }
 ]

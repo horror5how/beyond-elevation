@@ -486,3 +486,4 @@ eu-ai-act-omnibus-deferral-governance-moat-2026
 ai-research-narrows-innovation-risk
 ai-patent-disclosure-invalidity-trap-2026
 ip-indemnification-escrow-exit-2026
+ip-escrow-acquisition-protection

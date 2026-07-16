@@ -480,3 +480,4 @@
 2026-07-15 07:55 | urn:li:share:7483066728533561344 | Most founders used AI tools to draft or refine patent claims after early 2024.  
 2026-07-16 07:51 | QUEUED | ip-indemnification-escrow-exit-2026 | Acquirers held back $1.8M from a client's exit. Clean IP would have prevented it
 2026-07-16 07:52 | urn:li:share:7483428173234323457 | ip-indemnification-escrow-exit-2026 | Acquirers held back $1.8M from a client's exit. Clean IP would have prevented it
+2026-07-16 09:20 | urn:li:share:7483450520993509379 | post #1 | ip-escrow-acquisition-protection | Your acquisition just died on IP escrow.  Many founders greenlight M&A without t
