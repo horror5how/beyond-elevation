@@ -1,15 +1,24 @@
-Acquirers held back $1.8M from a client's exit. Clean IP would have prevented it.
+Most founders are carrying IP debt. None of them know the number.
 
-IP indemnification escrow is standard in every M&A deal.
+Like technical debt, it compounds silently.
 
-15% of deal value. Locked for 12–18 months.
+Every month you delay filing:
+A competitor files first.
+VCs haircut your valuation 15-30% at Series B.
+Remediation costs rise.
 
-Released only after no IP claims surface post-close.
+The bill arrives in diligence.
 
-Founders celebrate the headline number. Then wait 18 months for the rest.
+Acquirers subtract IP remediation from your price.
+Average: 20-40% of undefended IP value.
 
-Three fixes before the LOI eliminate the clause entirely: FTO on core product, signed IP assignments from all employees, documented trade secrets.
+3 signs you have IP debt:
+1. Innovations in production with no application filed.
+2. Engineers who left without IP assignment agreements.
+3. AI tools in your R&D with no ownership clause.
 
-Fix IP before you go to market. Not after.
+IP debt is not a legal problem.
 
-#IPStrategy #MergersAndAcquisitions #ExitPlanning
+It is a balance sheet problem.
+
+#IPstrategy #startupvaluation #founderfinance
