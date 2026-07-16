@@ -295,5 +295,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [What Makes a Patent Portfolio Bankable in 2026? The 6-Factor Scorecard Lenders Run Before They Read Your P&L](https://beyondelevation.com/blog/posts/what-makes-patent-portfolio-bankable-2026/) — /blog/md/what-makes-patent-portfolio-bankable-2026.md
 - [Two AI Startups With Identical ARR. One Is Worth 40% More. The Valuation Factor That Outranks Growth.](https://beyondelevation.com/blog/posts/why-ai-startups-same-arr-different-valuations/) — /blog/md/why-ai-startups-same-arr-different-valuations.md
 - [73% of 2026 Rounds Are Down or Flat. The Founders Who Survive All Do the Same Thing With Their IP.](https://beyondelevation.com/blog/posts/down-round-ip-strategy-protect-assets-2026/) — /blog/md/down-round-ip-strategy-protect-assets-2026.md
+- [73% of Joint Venture IP Disputes Start With One Missing Clause. The 7-Clause Framework That Prevents Every One.](https://beyondelevation.com/blog/posts/ip-ownership-joint-venture-7-clause-framework/) — /blog/md/ip-ownership-joint-venture-7-clause-framework.md
 
 > Full blog content available at /llms-full.txt

@@ -4503,3 +4503,21 @@ Your IP retains its appraised value even when your cap table gets repriced. Pate
 This matters because investors in a down round use one number: the new share price. That number does not account for the $8M, $12M, or $20M in appraised IP sitting on the balance sheet. Hayat Amin calls this the "valuation floor problem": the floor of your company's worth is the replacement cost of your IP, and most term sheets in a down round
 
 ---
+
+## 73% of Joint Venture IP Disputes Start With One Missing Clause. The 7-Clause Framework That Prevents Every One.
+
+URL: https://beyondelevation.com/blog/posts/ip-ownership-joint-venture-7-clause-framework/
+
+73% of joint venture disputes involve intellectual property ownership. That number surfaces across every major arbitration dataset from ICC to LCIA, and it reveals one truth: founders walk into partnership deals thinking about revenue splits and walk out fighting over who owns what was built.
+
+Hayat Amin, who has structured IP ownership in joint ventures ranging from early-stage AI partnerships to eight-figure licensing deals, argues that every one of these disputes traces to the same root cause. The JV agreement either says nothing about IP or what it says is fatally incomplete. Companies with patents are 10.2x more likely to secure early-stage funding, but those patents become liabilities the moment their ownership is disputed in a JV dissolution.
+
+IP ownership in joint ventures is not a legal footnote. It is the structural clause that determines whether your partnership creates value or destroys it.
+
+## Why Do 73% of Joint Venture IP Disputes Happen?
+
+Joint venture IP disputes happen because default ownership rules do not match what founders expect. In most common-law jurisdictions, the party that creates intellectual property owns it, regardless of who funded the R&D and regardless of what the JV agreement says about revenue sharing. The gap between expectation and legal reality is where the lawsuits live.
+
+The typical scenario unfolds like this. Two companies form a JV to build a product. Company A contributes the technology. Company B contributes distribution and capita
+
+---
