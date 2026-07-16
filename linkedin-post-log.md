@@ -484,3 +484,4 @@
 2026-07-16 11:01 | urn:li:share:7483475975599652864 | post #2 | down-round-ip-salvage-strategy | Your down round just wiped out your core IP.  Founders prioritize valuation and 
 2026-07-16 12:18 | urn:li:share:7483495389447442433 | post #3 | ai-voice-fraud-ops-reality | AI voice fraud now costs 100x the tool.  Executives are being duped by 3-second 
 2026-07-16 12:53 | urn:li:share:7483504021111091200 | Most founders are carrying IP debt. None of them know the number.  Like technica
+2026-07-16 14:58 | urn:li:share:7483535543499399168 | post #4 | inkling-open-weights-build-stop | Open-weights models just created your next build/stop decision.  Everyone sees "

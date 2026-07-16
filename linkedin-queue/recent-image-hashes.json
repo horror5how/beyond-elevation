@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7af131110bfff5ff",
-    "layout": "c",
-    "accent": "#8aa6b8",
-    "slug": "patent-bankability-lending-checklist",
-    "ts": "2026-07-14T10:47:59.585Z"
-  },
-  {
     "hash": "7ef930110bf5ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-voice-fraud-ops-reality",
     "ts": "2026-07-16T12:18:57.843Z"
+  },
+  {
+    "hash": "42c7e7ff8181ff9f",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "inkling-open-weights-build-stop",
+    "ts": "2026-07-16T14:58:31.203Z"
   }
 ]
