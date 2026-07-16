@@ -1,4 +1,19 @@
-19 verified, source-linked statistics on startup finance, fractional CFO economics, and IP value in 2026.
-19 verified, source-linked statistics on startup finance, fractional CFO economics, and IP value in 2026. Every number links to its primary source.
-Read it: https://beyondelevation.com/blog/posts/startup-finance-ip-statistics-2026/
-#IPStrategy #Founders #AIvaluation
+August 2 is 17 days away.
+
+Every AI company deploying a general-purpose AI model needs documented training data lineage by then.
+
+Most don't have it.
+
+The GPAI fine: €35M or 7% of global revenue.
+
+Three documents protect you:
+
+A training data inventory listing every dataset, its source, date, and rights status.
+
+Licensing or fair-use documentation for every third-party dataset in your pipeline.
+
+Technical records that trace model outputs back to training inputs.
+
+One licensing deal signed now costs less than one week of remediation later.
+
+#IPStrategy #EUAIACT #AILicensing
