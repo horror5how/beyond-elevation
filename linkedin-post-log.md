@@ -481,3 +481,4 @@
 2026-07-16 07:51 | QUEUED | ip-indemnification-escrow-exit-2026 | Acquirers held back $1.8M from a client's exit. Clean IP would have prevented it
 2026-07-16 07:52 | urn:li:share:7483428173234323457 | ip-indemnification-escrow-exit-2026 | Acquirers held back $1.8M from a client's exit. Clean IP would have prevented it
 2026-07-16 09:20 | urn:li:share:7483450520993509379 | post #1 | ip-escrow-acquisition-protection | Your acquisition just died on IP escrow.  Many founders greenlight M&A without t
+2026-07-16 11:01 | urn:li:share:7483475975599652864 | post #2 | down-round-ip-salvage-strategy | Your down round just wiped out your core IP.  Founders prioritize valuation and 

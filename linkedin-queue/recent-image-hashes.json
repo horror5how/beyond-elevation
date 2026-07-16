@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c7a331317f5ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "agentic-sdr-pipeline-no-headcount",
-    "ts": "2026-07-13T18:25:38.253Z"
-  },
-  {
     "hash": "02c3e7ffc3c3ff9f",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ip-escrow-acquisition-protection",
     "ts": "2026-07-16T09:20:40.278Z"
+  },
+  {
+    "hash": "fff101730337ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "down-round-ip-salvage-strategy",
+    "ts": "2026-07-16T11:01:49.157Z"
   }
 ]
