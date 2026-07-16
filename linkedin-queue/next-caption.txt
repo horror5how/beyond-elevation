@@ -1,15 +1,15 @@
-Most founders used AI tools to draft or refine patent claims after early 2024.
+Acquirers held back $1.8M from a client's exit. Clean IP would have prevented it.
 
-Most did not document AI's role in the invention record.
+IP indemnification escrow is standard in every M&A deal.
 
-The USPTO's 2024 guidance is clear: if AI contributed to conception, that must be tracked and disclosed. Inventorship defects do not expire.
+15% of deal value. Locked for 12–18 months.
 
-They surface in the data room. At the worst possible moment.
+Released only after no IP claims surface post-close.
 
-Average licensing value at risk per patent family: $3M.
-Cost to audit and remediate before diligence: $8K.
-Time before IPR or M&A due diligence exposes it: 12–36 months.
+Founders celebrate the headline number. Then wait 18 months for the rest.
 
-Most companies have not run this audit.
+Three fixes before the LOI eliminate the clause entirely: FTO on core product, signed IP assignments from all employees, documented trade secrets.
 
-#IPStrategy #Patents #AI
+Fix IP before you go to market. Not after.
+
+#IPStrategy #MergersAndAcquisitions #ExitPlanning
