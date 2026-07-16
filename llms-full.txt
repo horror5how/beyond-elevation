@@ -4521,3 +4521,19 @@ Joint venture IP disputes happen because default ownership rules do not match wh
 The typical scenario unfolds like this. Two companies form a JV to build a product. Company A contributes the technology. Company B contributes distribution and capita
 
 ---
+
+## You Transferred Your IP for $1. The Tax Authority Says It Is Worth $40M. The IP Transfer Pricing Rules That Break Most Holdco Structures.
+
+URL: https://beyondelevation.com/blog/posts/ip-transfer-pricing-holdco-founders-2026/
+
+A founder transferred a patent portfolio into a Delaware holding company for $1. Eighteen months later the IRS repriced that transfer at $38M and issued a $9.2M deficiency notice. Hayat Amin argues this outcome was entirely predictable: "$1 IP transfers are the single most auditable structure a founder can create, and every major tax authority now flags them automatically."
+
+IP transfer pricing is the set of rules governing how intercompany intellectual property transactions must be priced. If you have moved patents, trade secrets, or proprietary data into a holding company, subsidiary, or joint venture entity, the price you assigned must satisfy the arm's length standard. Get it wrong and the tax authority reprices the transfer, assesses back taxes, adds penalties, and in some cases disqualifies the entire holdco structure.
+
+The problem is acute for founders. Most early-stage IP holdco formations are blessed by general-practice accountants who have never sat across from a transfer pricing examiner. The result: $1 nominal transfers on assets worth millions in an arm's length sale. In 2026 every OECD tax authority runs automated risk-scoring on IP-heavy entities, and $1 transfers rank near the top of every model. Companies with patents are 10.2x more likely to secure early-stage funding, but those patents become liabilities when their transfer pricing collapses under audit.
+
+## What Is IP Transfer Pricing?
+
+IP transfer pricing is the discipline of setting a defensible price fo
+
+---

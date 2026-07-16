@@ -2,8 +2,8 @@
 title: "You Transferred Your IP for $1. The Tax Authority Says It Is Worth $40M. The IP Transfer Pricing Rules That Break Most Holdco Structures."
 slug: ip-transfer-pricing-holdco-founders-2026
 date: 2026-07-16
-url: https://beyondelevation.com/blog/post.html?slug=ip-transfer-pricing-holdco-founders-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-transfer-pricing-holdco-founders-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -69,6 +69,20 @@ Hayat Amin reminds founders that the holdco structure only works when the founda
 
 For founders with existing holdco structures and $1 transfers already on the books, the time to fix this is before the audit, not during it. A voluntary correction with a retroactive valuation is dramatically cheaper than a contested adjustment with penalties. Book a consultation at [beyondelevation.com](https://beyondelevation.com) to run the IP Transfer Pricing Stress Test on your current structure.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-transfer-pricing-holdco-founders-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the penalty for incorrect IP transfer pricing?
@@ -90,3 +104,6 @@ The OECD DEMPE framework requires that economic ownership of IP follow the entit
 ### What is the arm's length price for a patent portfolio?
 
 The arm's length price depends on the specific IP, its revenue-generating potential, comparable market transactions, and the [IP valuation method](/blog/posts/ip-valuation-methods-explained/) used. Patent portfolios with active licensing programs typically command valuations ranging from 2x to 15x their annual attributable revenue. An independent valuation using the income approach or comparable uncontrolled transaction method establishes the defensible arm's length range.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
