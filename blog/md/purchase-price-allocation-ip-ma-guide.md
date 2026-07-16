@@ -2,8 +2,8 @@
 title: "How Purchase Price Allocation Destroys IP Value in Tech M&A (And the 5 Step Framework to Stop It)"
 slug: purchase-price-allocation-ip-ma-guide
 date: 2026-07-16
-url: https://beyondelevation.com/blog/post.html?slug=purchase-price-allocation-ip-ma-guide
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/purchase-price-allocation-ip-ma-guide/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -69,6 +69,20 @@ Beyond Elevation's approach to [IP-backed M&A positioning](/blog/posts/ip-backed
 
 The acquisition price is the headline. The purchase price allocation is the fine print. Founders who ignore the fine print discover that their IP, the asset that made the deal possible, is worth a fraction of what the deal implied on paper. The founders who prepare for PPA before the close protect the value they spent years building. [Book a consultation with Beyond Elevation](https://beyondelevation.com) to build your PPA defense before your next deal.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-purchase-price-allocation-ip-ma-guide)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is purchase price allocation in M&A?
@@ -90,3 +104,6 @@ The three primary methods are relief from royalty (most common for patents), mul
 ### When should you start preparing for purchase price allocation?
 
 Preparation should begin before the letter of intent. An independent IP valuation, trade secret register, and useful life evidence package take 60 to 90 days to assemble. Starting after the deal closes means the ability to influence the allocation is already gone.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

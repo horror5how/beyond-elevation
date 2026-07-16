@@ -4559,3 +4559,19 @@ Founders lose companies over two things: they run out of money, and they never c
 **US financial managers earn a median wage of $161,700,** a
 
 ---
+
+## How Purchase Price Allocation Destroys IP Value in Tech M&A (And the 5 Step Framework to Stop It)
+
+URL: https://beyondelevation.com/blog/posts/purchase-price-allocation-ip-ma-guide/
+
+The acquisition closes at $200M. The founders celebrate. Three months later, a Big 4 appraiser files a purchase price allocation report that values the entire patent portfolio at $8M and classifies $140M as goodwill. The IP that drove the deal is now worth 4% of the price tag on paper.
+
+This is not an edge case. Hayat Amin argues that purchase price allocation of intellectual property is the most consequential financial event most tech founders never prepare for. In more than 80% of tech acquisitions, the PPA report undervalues identified IP relative to the deal economics that justified the acquisition price. The acquirer's appraiser has every incentive to shift value into goodwill. The seller has already cashed the check and moved on. The IP loses.
+
+[Beyond Elevation](https://beyondelevation.com) has advised on portfolio restructurings where the PPA delta between the acquirer's initial report and the corrected valuation exceeded 40%. That gap is not rounding error. It is structural, and it compounds across every deal in the market.
+
+## What Is Purchase Price Allocation for Intellectual Property?
+
+Purchase price allocation is the accounting process under ASC 805 (US GAAP) and IFRS 3 that requires an acquirer to assign the total acquisition price to every identifiable asset and liability at fair value on the closing date. Whatever is left over becomes goodwill. For technology companies, intellectual property is typically the largest identifiable intangible asset category, cove
+
+---
