@@ -930,3 +930,11 @@ Post 1: hook_no_terminal_punct
 2026-07-15 06:13 | li-generate-queue | attempt 3 | quality gate failed:
 Post 4: no_specific_number
 2026-07-15 06:13 | li-generate-queue | ABORT after 3 attempts — quality gate could not be satisfied. SKIPPING SLOT per routine-resilience rule.
+2026-07-16 06:14 | li-generate-queue | news rail: 20 trending AI headlines in prompt
+2026-07-16 06:14 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-16 06:15 | li-generate-queue | attempt 1 | quality gate failed:
+Post 2: hook_too_long(10w)
+Post 5: hook_too_long(11w)
+2026-07-16 06:15 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-16 06:15 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
+2026-07-16 06:15 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
