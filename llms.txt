@@ -300,5 +300,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Startup Finance and IP Statistics 2026: 19 Numbers Founders Can Cite](https://beyondelevation.com/blog/posts/startup-finance-ip-statistics-2026/) — /blog/md/startup-finance-ip-statistics-2026.md
 - [How Purchase Price Allocation Destroys IP Value in Tech M&A (And the 5 Step Framework to Stop It)](https://beyondelevation.com/blog/posts/purchase-price-allocation-ip-ma-guide/) — /blog/md/purchase-price-allocation-ip-ma-guide.md
 - [Your AI Agent Just Infringed a Patent. The Liability Falls on You, Not the Model Provider.](https://beyondelevation.com/blog/posts/ai-agent-ip-liability-who-pays-2026/) — /blog/md/ai-agent-ip-liability-who-pays-2026.md
+- [Is AI-Generated Content Copyrightable in 2026? Only If You Structure the Workflow This Way](https://beyondelevation.com/blog/posts/is-ai-generated-content-copyrightable-2026/) — /blog/md/is-ai-generated-content-copyrightable-2026.md
 
 > Full blog content available at /llms-full.txt
