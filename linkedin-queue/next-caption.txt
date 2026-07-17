@@ -1,19 +1,13 @@
-August 2 is 17 days away.
+Most AI founders are booking AI costs to COGS. That one decision is cutting their exit multiple by 30%.
 
-Every AI company deploying a general-purpose AI model needs documented training data lineage by then.
+AI inference booked to COGS: gross margin drops 18 points. Revenue multiple compresses to 4x.
 
-Most don't have it.
+Same spend. Classified as R&D: gross margin stays intact. Multiple holds at 8x.
 
-The GPAI fine: €35M or 7% of global revenue.
+On $25M ARR that difference is $100M in exit value before negotiation even starts.
 
-Three documents protect you:
+GAAP, IFRS, and the IRS all have tests for when AI infrastructure qualifies as R&D. None of your investors will flag the wrong classification before term sheet.
 
-A training data inventory listing every dataset, its source, date, and rights status.
+Your CFO should run this audit before the next raise, not after.
 
-Licensing or fair-use documentation for every third-party dataset in your pipeline.
-
-Technical records that trace model outputs back to training inputs.
-
-One licensing deal signed now costs less than one week of remediation later.
-
-#IPStrategy #EUAIACT #AILicensing
+#StartupFinance #AIStartups #IPStrategy

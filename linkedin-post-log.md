@@ -487,3 +487,4 @@
 2026-07-16 14:58 | urn:li:share:7483535543499399168 | post #4 | inkling-open-weights-build-stop | Open-weights models just created your next build/stop decision.  Everyone sees "
 2026-07-16 17:55 | urn:li:share:7483579985962713088 | August 2 is 17 days away.  Every AI company deploying a general-purpose AI model
 2026-07-16 17:58 | urn:li:share:7483580871401320448 | post #5 | openai-keyboard-ops-reality | OpenAI’s keypad changes nothing for ops.  The press calls OpenAI’s new keypad “l
+2026-07-17 07:00 | QUEUED | ai-cost-pl-categorization-valuation-2026 | Most AI founders are booking AI costs to COGS. That one decision is cutting their exit multiple by 30%.
