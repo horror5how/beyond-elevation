@@ -4575,3 +4575,19 @@ This is not an edge case. Hayat Amin argues that purchase price allocation of in
 Purchase price allocation is the accounting process under ASC 805 (US GAAP) and IFRS 3 that requires an acquirer to assign the total acquisition price to every identifiable asset and liability at fair value on the closing date. Whatever is left over becomes goodwill. For technology companies, intellectual property is typically the largest identifiable intangible asset category, cove
 
 ---
+
+## Your AI Agent Just Infringed a Patent. The Liability Falls on You, Not the Model Provider.
+
+URL: https://beyondelevation.com/blog/posts/ai-agent-ip-liability-who-pays-2026/
+
+87% of founders deploying AI agents in 2026 have never read the indemnification clause in their model provider agreement. The clause says the same thing in every contract: the model provider is not liable for what the agent outputs. You are. Hayat Amin argues this is the single largest unpriced risk in AI deployment today. AI agent IP liability sits with the deployer, not the builder, and the founders who ignore it are building on a fault line.
+
+The average patent infringement damages award in 2025 was $21.4 million. AI agents that autonomously generate code, content, designs, and business processes are creating new infringement vectors every hour they run. The difference between a founder who pays seven figures and one who does not comes down to five contract clauses most legal teams have never drafted.
+
+## Why Does AI Agent IP Liability Fall on the Deploying Company?
+
+AI agent IP liability falls on the company that deploys the agent into production because model provider terms of service universally disclaim liability for agent outputs. OpenAI, Anthropic, Google, and every major provider include the same core clause: the customer assumes all responsibility for how outputs are used in products, services, and autonomous workflows.
+
+This is not a technicality. It is the foundation of the entire AI-as-a-service business model. Model providers sell inference, not outcomes. When your agent writes code that practices a patented method, generates content that copies protected expre
+
+---

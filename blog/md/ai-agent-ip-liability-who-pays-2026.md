@@ -2,8 +2,8 @@
 title: "Your AI Agent Just Infringed a Patent. The Liability Falls on You, Not the Model Provider."
 slug: ai-agent-ip-liability-who-pays-2026
 date: 2026-07-17
-url: https://beyondelevation.com/blog/post.html?slug=ai-agent-ip-liability-who-pays-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ai-agent-ip-liability-who-pays-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ Finally, build the output pipeline with monitoring, logging, and filtering integ
 
 Beyond Elevation runs these pre-deployment audits for AI companies deploying autonomous agents. The audit identifies the specific infringement vectors in your agent's operational scope, maps them against active patent portfolios, and delivers the 5-Clause framework tailored to your provider agreements and insurance coverage. [Book a consultation](https://beyondelevation.com) before your agent creates a liability your cap table cannot absorb.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-agent-ip-liability-who-pays-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Does the AI model provider share any liability for agent infringement?
@@ -92,3 +106,6 @@ Traditional software infringement involves code written by humans and reviewed b
 ### Is an AI agent's output considered a derivative work under copyright law?
 
 Courts have not settled this question definitively. The US Copyright Office has ruled that purely AI-generated works are not copyrightable. However, if an AI agent produces output that is substantially similar to a copyrighted work, the deploying company can still face infringement liability regardless of whether the output itself qualifies for copyright protection. The infringement question and the copyrightability question are legally distinct.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
