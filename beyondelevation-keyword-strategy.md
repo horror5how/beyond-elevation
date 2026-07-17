@@ -205,6 +205,14 @@ Posts that should feed this cluster: `ip-strategy-startups-guide`, `ip-backed-ma
 
 ---
 
+### 🗓 Blog Publisher Run — 2026-07-17
+
+**Published:** `ai-agent-ip-liability-who-pays-2026` (category AI) — "Your AI Agent Just Infringed a Patent. The Liability Falls on You, Not the Model Provider." Primary keyword: **AI agent IP liability**. posts.json 275 → 276.
+
+**Why this pick:** All Tier 1–5 briefs fully saturated at 275 posts (T5-113→T5-116 all shipped since 07-13: `ip-holdco-dempe-valuation-trap-2026`, `eu-ai-act-omnibus-governance-moat-window`, `what-makes-patent-portfolio-bankable-2026`, `why-ai-startups-same-arr-different-valuations` all ✅). Per de-dup rule (all briefs covered → net-new synthesis), identified a genuinely uncovered commercial topic: **AI agent IP liability** — who bears liability when an autonomous AI agent infringes third-party patents, copyrights, or trade secrets. Existing AI agent posts (`ai-agent-ip-ownership-strategy`, `agentic-ai-workflow-ip-protection`) cover ownership and defense; none address the deployer-liability gap created by model provider ToS disclaimers. Non-obvious angle: model providers universally disclaim liability for agent outputs; deploying company bears full exposure; the prevention-vs-litigation cost asymmetry ($40K audit vs $21.4M average patent damages) is the commercial wedge. Named framework: **Hayat Amin 5-Clause AI Agent IP Shield**. Internal-linked to `agentic-ai-workflow-ip-protection`, `ai-ip-protection-7-layer-defense-stack`, `freedom-to-operate-analysis-guide` + homepage. 1,780 words, 6 Hayat Amin references (Contrarian, Framework Builder, Investor Whisperer pillars), FAQ×5, answer-first. **Note for next run:** Tier 1–5 + net-new synthesis pool heavily mined at 276 posts. Tax/finance-mechanics gaps remaining: IP escrow, R&D capitalization mechanics (distinct from §174 expensing). AI-adjacent gaps: AI copyright ownership (is AI-generated content copyrightable), AI model weights as securities. Consider rotating back to operational IP topics (IP in corporate spin-offs, IP carve-outs in divestitures).
+
+---
+
 ### 🗓 Blog Publisher Run — 2026-07-13
 
 **Published:** `section-174-rd-expensing-ip-asset-2026` (category IP Strategy) — "Section 174 Handed Back Your R&D Deduction in 2026. The Asset It Builds Is Worth More Than the Tax Break." Primary keyword: **Section 174 R&D expensing 2026**. posts.json 264 → 265.
