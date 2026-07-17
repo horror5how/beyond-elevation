@@ -489,3 +489,4 @@
 2026-07-16 17:58 | urn:li:share:7483580871401320448 | post #5 | openai-keyboard-ops-reality | OpenAI’s keypad changes nothing for ops.  The press calls OpenAI’s new keypad “l
 2026-07-17 07:00 | QUEUED | ai-cost-pl-categorization-valuation-2026 | Most AI founders are booking AI costs to COGS. That one decision is cutting their exit multiple by 30%.
 2026-07-17 07:52 | urn:li:share:7483790815731843072 | Most AI founders are booking AI costs to COGS. That one decision is cutting thei
+2026-07-17 09:15 | FAIL | Post #1 missing: label_3
