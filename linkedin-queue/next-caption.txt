@@ -1,13 +1,16 @@
-Most AI founders are booking AI costs to COGS. That one decision is cutting their exit multiple by 30%.
+July is when founders review revenue and ignore IP.
 
-AI inference booked to COGS: gross margin drops 18 points. Revenue multiple compresses to 4x.
+3 numbers to know before August:
 
-Same spend. Classified as R&D: gross margin stays intact. Multiple holds at 8x.
+1. Maintenance fees due before December
+Miss the window and the patent lapses. Most founders don't know their renewal schedule.
 
-On $25M ARR that difference is $100M in exit value before negotiation even starts.
+2. Active licensing renewal clauses
+Most agreements have a 90-day notice window. August to October is peak renewal season. Miss it, restart from zero.
 
-GAAP, IFRS, and the IRS all have tests for when AI infrastructure qualifies as R&D. None of your investors will flag the wrong classification before term sheet.
+3. Unlicensed value sitting dormant
+This is the number VCs calculate in due diligence. Know it before they do.
 
-Your CFO should run this audit before the next raise, not after.
+Three numbers. One audit. Run it now.
 
-#StartupFinance #AIStartups #IPStrategy
+#IPStrategy #PatentLicensing #FounderFinance
