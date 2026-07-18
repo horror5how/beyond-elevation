@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3cf9101117f5ffff",
-    "layout": "c",
-    "accent": "#7a8c6e",
-    "slug": "ai-content-flagging-revenue-impact",
-    "ts": "2026-07-14T14:46:52.498Z"
-  },
-  {
     "hash": "fff9313903fdffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "openai-keyboard-ops-reality",
     "ts": "2026-07-16T17:58:38.192Z"
+  },
+  {
+    "hash": "c3ffff39380068ff",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "patents-as-a-revenue-line-pl-not-cost",
+    "ts": "2026-07-18T14:19:11.009Z"
   }
 ]

@@ -3,7 +3,7 @@ date: 2026-07-18
 theme: This batch cuts through the noise on IP monetization and practical AI deployment. We're reframing patents from a cost to a revenue driver, then tackling real-world AI challenges for founders: streamlining admin, maximizing content ROI, and optimizing sales effort with smart lead scoring.
 generated_at: 2026-07-18T03:03:34.000Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's posts deliver actionable strategies for founders navigating the dual wor
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-18T14:19:11.009Z
+share_urn: urn:li:share:7484250419947409408
 hook_format: contrarian
 cta_goal: comments
 slug: patents-as-a-revenue-line-pl-not-cost
