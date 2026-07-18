@@ -498,3 +498,4 @@
 2026-07-17 17:50 | QUEUED | ip-holdco-dempe-valuation-trap-2026 | You moved your IP into a holding company to save tax.
 2026-07-17 17:56 | FAIL | Post #1 missing: label_3
 2026-07-18 00:00 | QUEUED | ai-defensibility-rebuild-test-2026 | Investors set your AI multiple with one question.  Could a well-funded competito
+2026-07-18 07:51 | urn:li:share:7484152743297998849 | Investors set your AI multiple with one question.  Could a well-funded competito
