@@ -1,7 +1,7 @@
 ---
-date: 2026-07-17
+date: 2026-07-18
 theme: This batch cuts through the noise on IP monetization and practical AI deployment. We're reframing patents from a cost to a revenue driver, then tackling real-world AI challenges for founders: streamlining admin, maximizing content ROI, and optimizing sales effort with smart lead scoring.
-generated_at: 2026-07-17T06:12:36.353Z
+generated_at: 2026-07-18T03:03:34.000Z
 posts_total: 5
 posts_published: 0
 ---
