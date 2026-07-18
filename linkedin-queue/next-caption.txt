@@ -1,15 +1,15 @@
-There is a formula for pricing a data license.
+Lenders take patents as collateral. In 2026 they started taking data.
 
-Almost nobody uses it.
+Most founders don't know there's a 5-axis bankability test for datasets.
 
-Founders price data like a product: cost to collect, plus margin. Buyers ignore that number.
+Uniqueness. Recency. Provenance. Revenue history. Addressable demand.
 
-Buyers care about their alternative cost — what it would cost them to replicate the dataset themselves.
+Clear all 5 → 20-40% LTV against your data portfolio.
 
-The formula: License Value = Buyer's Alternative Cost × 25–40%
+Miss provenance → back to equity dilution.
 
-A dataset that cost $80k to build can command $400k per year from the right buyer.
+Reddit's $60M/yr licensing contract cleared axis 4. Your archive probably hasn't.
 
-The formula does not change the data. It changes who controls the negotiation.
+Fix the provenance gap before your next raise.
 
-#DataMonetization #IPStrategy #Licensing
+#DataStrategy #IPFinance #Fundraising

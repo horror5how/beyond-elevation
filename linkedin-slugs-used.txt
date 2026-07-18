@@ -501,3 +501,4 @@ ai-defensibility-rebuild-test-2026
 data-licensing-pricing-formula-2026
 patents-as-a-revenue-line-pl-not-cost
 cross-border-ip-licensing-strategy-five-moves
+data-as-loan-collateral-2026
