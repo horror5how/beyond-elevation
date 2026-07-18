@@ -1,17 +1,15 @@
-Investors set your AI multiple with one question.
+There is a formula for pricing a data license.
 
-Could a well-funded competitor rebuild this in 18 months for $5M?
+Almost nobody uses it.
 
-Answer yes and your multiple compresses 20-30%.
+Founders price data like a product: cost to collect, plus margin. Buyers ignore that number.
 
-Answer no - trade secrets, proprietary data, deep workflow integration - and it expands.
+Buyers care about their alternative cost — what it would cost them to replicate the dataset themselves.
 
-Most founders can't answer no.
+The formula: License Value = Buyer's Alternative Cost × 25–40%
 
-Not because their AI is weak. Because they never documented the defensibility.
+A dataset that cost $80k to build can command $400k per year from the right buyer.
 
-An independent IP audit adds 15-20% to the multiple.
+The formula does not change the data. It changes who controls the negotiation.
 
-That's not a legal bill. That's a fundraising tool.
-
-#AIValuation #IPStrategy #StartupFunding
+#DataMonetization #IPStrategy #Licensing

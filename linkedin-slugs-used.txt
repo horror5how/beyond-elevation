@@ -498,3 +498,4 @@ ai-cost-pl-categorization-valuation-2026
 ip-h2-checkup-three-numbers-2026
 ip-holdco-dempe-valuation-trap-2026
 ai-defensibility-rebuild-test-2026
+data-licensing-pricing-formula-2026

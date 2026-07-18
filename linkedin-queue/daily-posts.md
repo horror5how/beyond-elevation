@@ -31,6 +31,7 @@ label_1: CLIENT<br>GROWTH
 metric_2: 8<br>FIGURES
 label_2: RECURRING<br>ROYALTIES
 metric_3: 90%<br>PROFIT MARGIN
+label_3: ROYALTY<br>GROSS<br>MARGIN
 
 Your patents are not a cost center.
 
