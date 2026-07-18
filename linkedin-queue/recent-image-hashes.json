@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff9313903fdffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "ai-research-narrows-innovation-risk",
-    "ts": "2026-07-14T17:55:49.743Z"
-  },
-  {
     "hash": "7ef10171373dffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "patents-as-a-revenue-line-pl-not-cost",
     "ts": "2026-07-18T14:19:11.009Z"
+  },
+  {
+    "hash": "46ffffff83880e0f",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "cross-border-ip-licensing-strategy-five-moves",
+    "ts": "2026-07-18T17:45:23.522Z"
   }
 ]

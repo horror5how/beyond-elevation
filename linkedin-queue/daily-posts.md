@@ -3,7 +3,7 @@ date: 2026-07-18
 theme: This batch cuts through the noise on IP monetization and practical AI deployment. We're reframing patents from a cost to a revenue driver, then tackling real-world AI challenges for founders: streamlining admin, maximizing content ROI, and optimizing sales effort with smart lead scoring.
 generated_at: 2026-07-18T03:03:34.000Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ Beyond Elevation clients 10x their ARR by activating patents.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-18T17:45:23.522Z
+share_urn: urn:li:share:7484302313654890496
 hook_format: number-led
 cta_goal: comments
 slug: cross-border-ip-licensing-strategy-five-moves
