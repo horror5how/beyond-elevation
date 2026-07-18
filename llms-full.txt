@@ -4643,20 +4643,18 @@ This surprises people because founders think of patents as theirs. Legally they 
 
 ---
 
-## The Data Licensing Pricing Formula That Separates $400K Deals From $5M Deals
+## Dataset Tokenization Created a $10M License From a Single Dataset. Here Is How to Turn Your Data Into Tradeable Capital
 
-URL: https://beyondelevation.com/blog/posts/data-licensing-pricing-formula-2026/
+URL: https://beyondelevation.com/blog/posts/dataset-tokenization-tradeable-asset-class-2026/
 
-Geospatial data licenses closed at $400K to $5M per year in 2026. The difference between the low end and the high end is not negotiation skill. It is one formula: uniqueness times timeliness.
+A single dataset tokenization deal just generated $10M in licensing revenue. Datavault AI secured an exclusive worldwide license with Scilex by tokenizing genomic and therapeutic datasets into a tradeable instrument. Not by selling the data. Not by running a one-off licensing deal. By wrapping the dataset in a structure that makes it bookable, pledgable, and licensable as a standalone asset class.
 
-Most founders who license data leave seven figures on the table because they price on volume. Rows, records, API calls. Hayat Amin argues this is the single most expensive mistake in [data monetization](/blog/posts/data-monetization-strategy-framework/): "Founders price their data like a commodity when it is actually a perishable asset. Perishable assets command recurring fees. Commodities get one-off payments."
+That deal is not an outlier. It is the leading edge of a structural shift. Hayat Amin argues that most tech founders are sitting on datasets worth seven figures in tokenized licensing value and treating them as a cost center because nobody showed them the wrapper. The global data monetization market hits $4.74B in 2026. But the founders capturing that value are not the ones with the most data. They are the ones who tokenized it first.
 
-The global data monetization market hits $4.74 billion in 2026. API-commercialized data reports more than 20% annual recurring-revenue growth. The companies capturing the top of that market are not selling more data. They are pricing it with a data licensing pricing formula that maps directly to buyer willingness to pay.
+## What Is Dataset Tokenization and Why Should Founders Care?
 
-## What Determines Data Licensing Pricing in 2026?
+Dataset tokenization is the process of wrapping a proprietary dataset in a legally distinct, transferable structure that converts it from raw operational data into a registered, bookable, licensable asset. Unlike standard data licensing, which is bilateral and renegotiated every cycle, tokenization creates a standardized unit of value that can be licensed to multiple counterparties, pledged as non-dilutive collateral, and recognized on a balance sheet.
 
-Data licensing pricing is determined by two variables that multiply, not add: uniqueness and timeliness. A dataset that scores high on both commands the top of the $400K to $5M annual band. A dataset that scores high on only one sits in the middle. Low on both means commodity pricing and commodity returns.
-
-Uniqueness measures how expensive and difficult it would be for the buyer to collect the same data independently. Proprietary sensor networks, exclusive partnerships, domain-specific curation, and regulato
+The distinction matters because it changes what your data can do financially. A raw dataset sitting on your servers is an operational too
 
 ---
