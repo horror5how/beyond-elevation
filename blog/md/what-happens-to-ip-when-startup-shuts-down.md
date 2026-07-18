@@ -2,10 +2,12 @@
 title: "The Patents Outlive the Company: What Happens to IP When a Startup Shuts Down"
 slug: what-happens-to-ip-when-startup-shuts-down
 date: 2026-07-17
-category: IP Strategy
+url: https://beyondelevation.com/blog/posts/what-happens-to-ip-when-startup-shuts-down/
 author: Hayat Amin
-description: "What happens to IP when a startup shuts down: who gets the patents, how insolvency reshuffles ownership, and the pre-wind-down move that salvages value."
+site: Beyond Elevation
 ---
+
+# The Patents Outlive the Company: What Happens to IP When a Startup Shuts Down
 
 Most startups that raise money never return it. When they wind down, the cap table is worth zero and the bank account is empty. The patents are frequently the only asset left that has a buyer on the other side.
 
@@ -44,25 +46,50 @@ Timing is the whole game. Do this while the company is a going concern and it is
 The founders who keep control of their IP through a shutdown all did the same small number of things early:
 
 - **Confirm the assignments.** Every founder, employee, and contractor should have assigned inventions to the company in writing. Missing assignments mean the company never fully owned the patent, which surfaces at the worst time. The reverse of this same gap is covered in the [IP holdco valuation trap](ip-holdco-dempe-valuation-trap-2026).
+
 - **Know who holds a security interest.** Read your venture debt and bridge documents. If the patents are collateral, model what happens on default before you sign, not after.
+
 - **Structure the holdco while solvent.** A separate IP entity only protects you if the transfer happened cleanly and for value while the business was healthy. Late transfers get unwound.
+
 - **Value the portfolio now.** You cannot license, sell, or defend an asset you have never priced. A current valuation is what turns a dying company's patents into a real recovery instead of a giveaway.
 
 Beyond Elevation exists for this exact moment. We have turned many patents into billions in IP value, and the same discipline that raises a valuation in a fundraise is what preserves it in a wind-down. Founders who want the salvage plan built before they need it can start at [beyondelevation.com](https://beyondelevation.com). Our clients rate the work 4.5 on Trustpilot, and the pattern from the DGS data monetization program holds here too: the value was always in the asset, it just needed someone to price it and structure it before the clock ran out.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-what-happens-to-ip-when-startup-shuts-down)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What happens to patents when a startup shuts down?
+
 Patents owned by a shutting-down startup become assets of the failed company and are distributed to creditors by priority. A secured lender can foreclose on them, an assignee or bankruptcy trustee can sell them, or, if they were assigned to a separate holding entity in advance, they may sit outside the creditor pool entirely.
 
 ### Do founders keep the IP if the company fails?
+
 Usually not. The IP belongs to the company, not the individuals, unless it was formally moved to another entity while the company was solvent. Founders who assume the patents are personally theirs often find a creditor or buyer holds the senior claim.
 
 ### Can you sell patents during an insolvency?
+
 Yes, and it is common. In an Assignment for the Benefit of Creditors or a Chapter 7 bankruptcy, the assignee or trustee sells the patents to the highest bidder to raise cash for creditors. The founders typically have no control over the price or the buyer.
 
 ### How do you protect IP before a startup winds down?
+
 Confirm every invention assignment is in writing, know exactly who holds a security interest over the patents, structure any IP holdco while the business is solvent, and get a current valuation. A pre-insolvency license granted for fair value can also preserve a revenue interest that survives the shutdown.
 
 ### Does a UCC-1 secure a patent as collateral?
+
 Not on its own for US patents. A UCC-1 financing statement covers general assets, but to protect a security interest against a later good-faith purchaser of the patent, the interest is commonly recorded directly with the United States Patent and Trademark Office. Skipping that step is how lenders lose collateral they thought they held.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -4624,3 +4624,21 @@ The core problem: standard escrow templates treat IP as a compliance checkbox. T
 
 
 ---
+
+## The Patents Outlive the Company: What Happens to IP When a Startup Shuts Down
+
+URL: https://beyondelevation.com/blog/posts/what-happens-to-ip-when-startup-shuts-down/
+
+Most startups that raise money never return it. When they wind down, the cap table is worth zero and the bank account is empty. The patents are frequently the only asset left that has a buyer on the other side.
+
+What happens to IP when a startup shuts down: it stops belonging to the founders and becomes a creditor asset. The moment a company is insolvent, its patents, trademarks, source code, and proprietary data are pledged, sold, or abandoned by whoever holds the senior claim. Where the IP lands depends on three decisions made long before the shutdown, and almost no founder makes them on purpose. At Beyond Elevation we get the call after the decision is already lost. This post is how to make it early.
+
+## What happens to IP when a startup shuts down: it becomes a creditor asset
+
+When a startup shuts down, its IP is treated as property of the failed entity, and that property is distributed to creditors in order of priority. The founders sit at the bottom of that stack, behind the venture debt lender, the bank, unpaid vendors, and often the last bridge investor who took a security interest on the way in.
+
+This surprises people because founders think of patents as theirs. Legally they are the company's, unless the company assigned them somewhere else. So the real question is not who invented the technology. It is who holds the paper on the entity that owns it. In a solvent company nobody checks. In a wind-down it is the only thing that matters.
+
+## Who actually gets the patent
+
+---
