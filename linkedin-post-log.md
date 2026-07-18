@@ -505,3 +505,4 @@
 2026-07-18 12:53 | QUEUED | data-licensing-pricing-formula-2026 | There is a formula for pricing a data license.  Almost nobody uses it.  Founders
 2026-07-18 14:19 | urn:li:share:7484250419947409408 | post #1 | patents-as-a-revenue-line-pl-not-cost | Your patents are not a cost center.  Most founders treat IP like a legal expense
 2026-07-18 17:45 | urn:li:share:7484302313654890496 | post #2 | cross-border-ip-licensing-strategy-five-moves | Stop losing 22% on cross-border licensing.  Founders think global licensing is s
+2026-07-18 17:51 | urn:li:share:7484303960426823680 | Lenders take patents as collateral. In 2026 they started taking data.  Most foun
