@@ -511,3 +511,4 @@
 2026-07-19 10:35 | urn:li:share:7484556618530107392 | post #2 | skipped-patent-claims-valuation-cost | You skipped filing 3 patent claims.  This just cost your Series B $6M. Founders 
 2026-07-19 10:41 | urn:li:share:7484557955284176896 | Datavault tokenized a genomic dataset and licensed it for $10M.  Most founders h
 2026-07-19 11:54 | urn:li:share:7484576511933526017 | post #3 | ai-customer-upsell-expansion-revenue | Upsell 20% more existing customers.  AI finds hidden expansion opportunities oth
+2026-07-19 12:51 | QUEUED | sub-licensing-revenue-multiplier-2026 | One licensing deal. 40 sub-licensees. Founder got paid once.  Here is the clause
