@@ -1,17 +1,23 @@
-Datavault tokenized a genomic dataset and licensed it for $10M.
+One licensing deal. 40 sub-licensees. Founder got paid once.
 
-Most founders have data sitting idle.
+Here is the clause that fixes it.
 
-Tokenization is not crypto.
+Most licensing deals are silent on sub-licensing.
 
-It means turning your dataset into a bookable, licensed asset — valued, term-sheeted, generating recurring royalties.
+Your licensee packages your IP, sells it to 40 enterprise clients.
 
-The same dataset on two servers is worth zero.
+Each pays them. None pay you.
 
-Structured and licensed, it becomes a revenue line.
+Three words change the math: consent and proportional royalty sharing.
 
-Datavault projects $40M from data this year.
+Without it: you capture 1 of 41 revenue streams.
 
-What is yours generating?
+With it: 41.
 
-#DataLicensing #IPStrategy #FounderFinance
+40x — sub-licensee reach per Fortune 500 anchor deal
+3x — royalty premium when sub-licensing is carved out separately
+$2.8M — average licensing revenue recovered per renegotiated clause
+
+Your lawyer filed the patent. They did not build the revenue model.
+
+#IPStrategy #Licensing #Valuation
