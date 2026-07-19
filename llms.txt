@@ -304,5 +304,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your IP Escrow Agreement Protects Your Customer, Not You. The 4-Tier Framework That Fixes It.](https://beyondelevation.com/blog/posts/ip-escrow-agreement-framework-2026/) — /blog/md/ip-escrow-agreement-framework-2026.md
 - [The Patents Outlive the Company: What Happens to IP When a Startup Shuts Down](https://beyondelevation.com/blog/posts/what-happens-to-ip-when-startup-shuts-down/) — /blog/md/what-happens-to-ip-when-startup-shuts-down.md
 - [Dataset Tokenization Created a $10M License From a Single Dataset. Here Is How to Turn Your Data Into Tradeable Capital](https://beyondelevation.com/blog/posts/dataset-tokenization-tradeable-asset-class-2026/) — /blog/md/dataset-tokenization-tradeable-asset-class-2026.md
+- [Your Data Is Worth $400K to $5M a Year in Recurring Licensing. One Formula Sets the Price.](https://beyondelevation.com/blog/posts/data-licensing-pricing-formula-2026/) — /blog/md/data-licensing-pricing-formula-2026.md
 
 > Full blog content available at /llms-full.txt

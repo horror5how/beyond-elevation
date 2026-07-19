@@ -4658,3 +4658,21 @@ Dataset tokenization is the process of wrapping a proprietary dataset in a legal
 The distinction matters because it changes what your data can do financially. A raw dataset sitting on your servers is an operational too
 
 ---
+
+## Your Data Is Worth $400K to $5M a Year in Recurring Licensing. One Formula Sets the Price.
+
+URL: https://beyondelevation.com/blog/posts/data-licensing-pricing-formula-2026/
+
+## Your Data Is Worth $400K to $5M a Year in Recurring Licensing. One Formula Sets the Price.
+
+In 2026, geospatial, financial, and perishable-data licensing deals close between $400K and $5M per year in recurring revenue. Not one-off sales. Recurring. The global data-monetization market hits approximately $4.74 billion this year, and the companies capturing the largest share price their datasets using a single two-axis formula: uniqueness multiplied by timeliness.
+
+Hayat Amin argues that most founders misprice their data by 80% because they think in cost-to-collect, not value-to-buyer. The cost to build your dataset is irrelevant. What matters is how expensive the data is to replicate from public sources and how fast it degrades. That intersection is where pricing power lives. Beyond Elevation uses this formula on every data-licensing engagement because it is the only method that produces a number buyers and sellers both accept.
+
+## How Much Should You Charge to License Your Data?
+
+You should charge based on where your dataset lands on the uniqueness-times-timeliness matrix, not based on what it cost you to collect. Datasets that score high on both axes command $2M to $5M per year in recurring licensing fees. Datasets high on one axis but low on the other land in the $400K to $1.5M range. Datasets low on both are commodity data and rarely justify a licensing program at all.
+
+The reason most founders leave money on the table is they anchor to a cost-plus model. They spent $200
+
+---
