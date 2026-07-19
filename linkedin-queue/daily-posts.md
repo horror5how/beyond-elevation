@@ -3,7 +3,7 @@ date: 2026-07-19
 theme: Unlocking hidden value in IP and operations via strategic AI deployment.
 generated_at: 2026-07-19T06:27:38.115Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's posts dissect how founders can uncover and secure tangible value: by pro
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-19T09:09:08.975Z
+share_urn: urn:li:share:7484534784581533696
 hook_format: number-led
 cta_goal: comments
 slug: pre-acquisition-ip-audit-save-deal

@@ -507,3 +507,4 @@
 2026-07-18 17:45 | urn:li:share:7484302313654890496 | post #2 | cross-border-ip-licensing-strategy-five-moves | Stop losing 22% on cross-border licensing.  Founders think global licensing is s
 2026-07-18 17:51 | urn:li:share:7484303960426823680 | Lenders take patents as collateral. In 2026 they started taking data.  Most foun
 2026-07-19 07:51 | urn:li:share:7484515276743503877 | Datavault tokenized a genomic dataset and licensed it for $10M.  Most founders h
+2026-07-19 09:09 | urn:li:share:7484534784581533696 | post #1 | pre-acquisition-ip-audit-save-deal | Acquirers found $2M in IP risks.  Your deal stalled, or the price dropped. Unide
