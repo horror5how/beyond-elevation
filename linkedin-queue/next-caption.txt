@@ -1,23 +1,23 @@
-One licensing deal. 40 sub-licensees. Founder got paid once.
+Acquirers discount your patent royalties at 3%. They discount your SaaS at 12%.
 
-Here is the clause that fixes it.
+That 9-point gap is worth $14M on a $5M revenue company.
 
-Most licensing deals are silent on sub-licensing.
+Here is what the DCF actually shows:
 
-Your licensee packages your IP, sells it to 40 enterprise clients.
+$1M in patent royalties capitalized at 3% = $33M
 
-Each pays them. None pay you.
+$1M in SaaS ARR capitalized at 12% = $8M
 
-Three words change the math: consent and proportional royalty sharing.
+Same revenue. Four times the exit value.
 
-Without it: you capture 1 of 41 revenue streams.
+Royalties are contractual. Senior to churn. Backed by IP that does not expire.
 
-With it: 41.
+Acquirers price them like bonds. Not subscriptions.
 
-40x — sub-licensee reach per Fortune 500 anchor deal
-3x — royalty premium when sub-licensing is carved out separately
-$2.8M — average licensing revenue recovered per renegotiated clause
+3 moves to capture it:
 
-Your lawyer filed the patent. They did not build the revenue model.
+1. Separate licensing from product on your P&L now.
+2. Sign one paying license before your next term sheet.
+3. Show the WACC gap in your data room model.
 
-#IPStrategy #Licensing #Valuation
+#IPStrategy #Valuation #StartupFinance
