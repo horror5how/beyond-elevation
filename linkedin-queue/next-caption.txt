@@ -1,15 +1,17 @@
-Lenders take patents as collateral. In 2026 they started taking data.
+Datavault tokenized a genomic dataset and licensed it for $10M.
 
-Most founders don't know there's a 5-axis bankability test for datasets.
+Most founders have data sitting idle.
 
-Uniqueness. Recency. Provenance. Revenue history. Addressable demand.
+Tokenization is not crypto.
 
-Clear all 5 → 20-40% LTV against your data portfolio.
+It means turning your dataset into a bookable, licensed asset — valued, term-sheeted, generating recurring royalties.
 
-Miss provenance → back to equity dilution.
+The same dataset on two servers is worth zero.
 
-Reddit's $60M/yr licensing contract cleared axis 4. Your archive probably hasn't.
+Structured and licensed, it becomes a revenue line.
 
-Fix the provenance gap before your next raise.
+Datavault projects $40M from data this year.
 
-#DataStrategy #IPFinance #Fundraising
+What is yours generating?
+
+#DataLicensing #IPStrategy #FounderFinance
