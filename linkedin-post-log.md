@@ -514,3 +514,4 @@
 2026-07-19 12:51 | QUEUED | sub-licensing-revenue-multiplier-2026 | One licensing deal. 40 sub-licensees. Founder got paid once.  Here is the clause
 2026-07-19 14:22 | urn:li:share:7484613702390878208 | post #4 | ai-fastest-admin-win-no-code | Kill admin tasks. No engineer.  Free up 40% of admin hours this month, boosting 
 2026-07-19 17:46 | urn:li:share:7484665078005411840 | post #5 | ai-cost-savings-operational-audit | Audit AI cost savings. Start here.  Find 10-20% hidden operational cost savings 
+2026-07-19 17:52 | QUEUED | ip-licensing-wacc-valuation-gap-2026 | Acquirers discount patent royalties at 3%. They discount your SaaS at 12%.
