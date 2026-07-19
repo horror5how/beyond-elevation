@@ -4694,3 +4694,19 @@ The $5M rebuild test measures the total cost and time a well-funded competitor w
 This is not a theoretical exercise.
 
 ---
+
+## Lenders Now Accept Datasets as Loan Collateral. Here Is the 5-Axis Bankability Test Your Data Must Pass
+
+URL: https://beyondelevation.com/blog/posts/data-as-loan-collateral-5-axis-bankability-test/
+
+Patents as collateral is a solved problem. Data as loan collateral is not. In H1 2026, two categories of lenders started underwriting datasets alongside patent portfolios, and the deciding factor is a 5-axis bankability test most founders have never seen. Hayat Amin, who built [Beyond Elevation](https://beyondelevation.com)'s non-dilutive capital practice after pricing IP-backed facilities across three continents, argues that data collateral will surpass patent collateral in total addressable lending volume within 24 months. The reason is structural: datasets produce recurring revenue streams that patents alone do not generate.
+
+The global [data monetization](/blog/posts/data-monetization-strategy-framework/) market hit $4.74 billion in 2026. API-commercialized data reports 20%+ annual recurring revenue growth. When a dataset generates measurable, recurring licensing revenue, it starts to look like the same income stream a patent royalty produces. Lenders underwrite income streams, not abstract "value."
+
+## Can You Actually Use Data as Loan Collateral in 2026?
+
+Yes. Data as loan collateral is now a live financing route for founders who own proprietary datasets with existing licensing revenue. Mainstream lenders who already underwrite patents (Western Technology Investment, Horizon Technology Finance, insurance-wrapped IP lenders) have expanded their collateral schedules to include datasets that meet specific bankability criteria.
+
+The Isle of Man [Data Asset Foundation](/blog
+
+---
