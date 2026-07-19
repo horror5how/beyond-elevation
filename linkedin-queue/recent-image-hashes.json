@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff101730337ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "down-round-ip-salvage-strategy",
-    "ts": "2026-07-16T11:01:49.157Z"
-  },
-  {
     "hash": "0066e7ff8183fff9",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "pre-acquisition-ip-audit-save-deal",
     "ts": "2026-07-19T09:09:08.975Z"
+  },
+  {
+    "hash": "3c76030717f5ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "skipped-patent-claims-valuation-cost",
+    "ts": "2026-07-19T10:35:54.434Z"
   }
 ]

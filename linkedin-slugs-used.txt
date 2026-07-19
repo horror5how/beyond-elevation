@@ -504,3 +504,4 @@ cross-border-ip-licensing-strategy-five-moves
 data-as-loan-collateral-2026
 dataset-tokenization-tradeable-asset-class-2026
 pre-acquisition-ip-audit-save-deal
+skipped-patent-claims-valuation-cost

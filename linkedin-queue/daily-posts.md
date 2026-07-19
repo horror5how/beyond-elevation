@@ -3,7 +3,7 @@ date: 2026-07-19
 theme: Unlocking hidden value in IP and operations via strategic AI deployment.
 generated_at: 2026-07-19T06:27:38.115Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One BE client averted a $2M earn-out holdback by fixing IP pre-deal.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-19T10:35:54.434Z
+share_urn: urn:li:share:7484556618530107392
 hook_format: contrarian
 cta_goal: comments
 slug: skipped-patent-claims-valuation-cost
