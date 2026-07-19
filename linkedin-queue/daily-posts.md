@@ -3,7 +3,7 @@ date: 2026-07-19
 theme: Unlocking hidden value in IP and operations via strategic AI deployment.
 generated_at: 2026-07-19T06:27:38.115Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ One client recovered $6M in valuation by adding 3 overlooked claims.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-19T11:54:57.372Z
+share_urn: urn:li:share:7484576511933526017
 hook_format: number-led
 cta_goal: comments
 slug: ai-customer-upsell-expansion-revenue

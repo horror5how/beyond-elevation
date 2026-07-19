@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0066e7ff8183fff9",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "ai-voice-fraud-ops-reality",
-    "ts": "2026-07-16T12:18:57.843Z"
-  },
-  {
     "hash": "42c7e7ff8181ff9f",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "skipped-patent-claims-valuation-cost",
     "ts": "2026-07-19T10:35:54.434Z"
+  },
+  {
+    "hash": "007effffffff2020",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "ai-customer-upsell-expansion-revenue",
+    "ts": "2026-07-19T11:54:57.372Z"
   }
 ]
