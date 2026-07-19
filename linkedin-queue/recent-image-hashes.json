@@ -1,12 +1,5 @@
 [
   {
-    "hash": "42c7e7ff8181ff9f",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "inkling-open-weights-build-stop",
-    "ts": "2026-07-16T14:58:31.203Z"
-  },
-  {
     "hash": "e7e7e7ff81c3ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-customer-upsell-expansion-revenue",
     "ts": "2026-07-19T11:54:57.372Z"
+  },
+  {
+    "hash": "3c78f00913f5ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "ai-fastest-admin-win-no-code",
+    "ts": "2026-07-19T14:22:44.276Z"
   }
 ]

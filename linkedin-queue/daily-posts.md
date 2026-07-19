@@ -3,7 +3,7 @@ date: 2026-07-19
 theme: Unlocking hidden value in IP and operations via strategic AI deployment.
 generated_at: 2026-07-19T06:27:38.115Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -123,7 +123,9 @@ One client identified $3.2M in new ARR from existing accounts in 1 month.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-19T14:22:44.276Z
+share_urn: urn:li:share:7484613702390878208
 hook_format: contrarian
 cta_goal: comments
 slug: ai-fastest-admin-win-no-code
