@@ -43,7 +43,7 @@ The 5-axis data bankability test is the scoring framework lenders and investors 
 
 **Axis 5: Monetization optionality.** Is the dataset already licensed to paying customers, or is it theoretical? Lenders discount theoretical revenue. A dataset with three existing licensing contracts and $600K in annual licensing revenue is bankable. A dataset with zero contracts and a pitch deck is not.
 
-Hayat Amin scores each axis on a 1-to-5 scale. A total score of 20 or above qualifies for lender review. Below 15, the dataset needs operational work before it is borrowable.
+Each axis is scored on a 1-to-5 scale. A total score of 20 or above qualifies for lender review. Below 15, the dataset needs operational work before it is borrowable.
 
 ## How Does Data Collateral Compare to Patent Collateral?
 
@@ -73,7 +73,7 @@ Four factors kill a data collateral deal immediately. Any one of them is disqual
 
 Founders who want to borrow against their data should start 6 to 12 months before they need the capital. The preparation sequence mirrors the process Beyond Elevation runs for [data asset valuation](/blog/posts/ai-training-data-valuation/) engagements, extended to include lender-facing documentation.
 
-**Step 1: Establish at least one commercial licensing contract.** Revenue proves demand. Even a $50K annual license changes the conversation from "this data is theoretically valuable" to "this data generates recurring income." Hayat Amin argues that founders who skip this step waste 6 months negotiating with lenders who will ask for proof of revenue on the first call.
+**Step 1: Establish at least one commercial licensing contract.** Revenue proves demand. Even a $50K annual license changes the conversation from "this data is theoretically valuable" to "this data generates recurring income." Founders who skip this step waste 6 months negotiating with lenders who will ask for proof of revenue on the first call.
 
 **Step 2: Register the dataset where possible.** The Isle of Man Data Asset Foundation provides formal registration. China's 2026 accounting guidance allows booking eligible data as intangible assets. Either route creates a legal record that increases the lender's collateral confidence and your loan-to-value ratio.
 
