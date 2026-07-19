@@ -1,12 +1,5 @@
 [
   {
-    "hash": "e7e7e7ff81c3ff99",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "openai-keyboard-ops-reality",
-    "ts": "2026-07-16T17:58:38.192Z"
-  },
-  {
     "hash": "c3ffff39380068ff",
     "layout": "a",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-fastest-admin-win-no-code",
     "ts": "2026-07-19T14:22:44.276Z"
+  },
+  {
+    "hash": "007effffff61253f",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "ai-cost-savings-operational-audit",
+    "ts": "2026-07-19T17:46:53.248Z"
   }
 ]

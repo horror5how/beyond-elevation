@@ -3,7 +3,7 @@ date: 2026-07-19
 theme: Unlocking hidden value in IP and operations via strategic AI deployment.
 generated_at: 2026-07-19T06:27:38.115Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -159,7 +159,9 @@ One founder shipped 3 AI automations in 5 days, saving 16 hours/week.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-19T17:46:53.248Z
+share_urn: urn:li:share:7484665078005411840
 hook_format: contrarian
 cta_goal: comments
 slug: ai-cost-savings-operational-audit
