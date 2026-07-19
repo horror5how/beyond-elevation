@@ -509,3 +509,4 @@
 2026-07-19 07:51 | urn:li:share:7484515276743503877 | Datavault tokenized a genomic dataset and licensed it for $10M.  Most founders h
 2026-07-19 09:09 | urn:li:share:7484534784581533696 | post #1 | pre-acquisition-ip-audit-save-deal | Acquirers found $2M in IP risks.  Your deal stalled, or the price dropped. Unide
 2026-07-19 10:35 | urn:li:share:7484556618530107392 | post #2 | skipped-patent-claims-valuation-cost | You skipped filing 3 patent claims.  This just cost your Series B $6M. Founders 
+2026-07-19 10:41 | urn:li:share:7484557955284176896 | Datavault tokenized a genomic dataset and licensed it for $10M.  Most founders h
