@@ -1,17 +1,17 @@
-Most founders sign a licensing deal with 3 missing clauses.
+Avanci charges every automaker $32 per vehicle for 5G patent pool access.
 
-Acquirers find all 3 in diligence. Every time.
+Tesla went to the UK Supreme Court to turn that into a court-set number instead.
 
-The 3 clauses acquirers require before they pay full price:
+The UKSC is deciding if a judge can price an entire patent pool at an implementer's request.
 
-1. Field-of-use limits. Geographic, product, and time-bound. Undefined scope = unlimited liability = price haircut.
+If yes, every fixed-rate pool licence is legally exposed.
 
-2. Audit rights with a 5% underreporting penalty. Without this, licensees underpay by 22% on average.
+Pool owners can no longer offer take-it-or-leave-it pricing.
 
-3. Minimum guarantee with ratchet escalator. No floor means $0 in Year 1. That erases your licensing revenue history.
+Implementers gain a judicial lever, not just a negotiating table.
 
-Acquirers pay 30% more for IP with clean, auditable licensing history.
+SEP holders who cannot justify their FRAND basis in court lose the rate.
 
-Missing one clause costs you $840K at exit.
+Document your royalty methodology before a licensee does it for you.
 
-#IPStrategy #MergersAndAcquisitions #Founders
+#PatentStrategy #SEP #IPLicensing
