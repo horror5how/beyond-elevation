@@ -518,3 +518,4 @@
 2026-07-20 07:54 | QUEUED | ip-strategy-fintech-2026 | Fintech founders think you can't patent financial methods.  That assumption cost
 2026-07-20 10:17 | urn:li:share:7484914479978328064 | post #1 | ip-is-not-a-legal-cost | Patent teams are a cost center. Until they aren't.  Last week Solve Intelligence
 2026-07-20 11:46 | urn:li:share:7484936813221015553 | post #2 | one-portfolio-billions | One portfolio. Billions in annual royalties.  Qualcomm's QTL licensing arm books
+2026-07-20 12:53 | QUEUED | three-licensing-clauses-acquirers-find-2026 | Most founders sign a licensing deal with 3 missing clauses.  Acquirers find all 
