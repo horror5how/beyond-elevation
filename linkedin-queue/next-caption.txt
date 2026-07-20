@@ -1,23 +1,19 @@
-Acquirers discount your patent royalties at 3%. They discount your SaaS at 12%.
+Fintech founders think you can't patent financial methods.
 
-That 9-point gap is worth $14M on a $5M revenue company.
+That assumption costs $6M at Series B.
 
-Here is what the DCF actually shows:
+6 layers of IP exist in every fintech. Most protect 1.
 
-$1M in patent royalties capitalized at 3% = $33M
+1. Core algorithm patents — fraud scoring, payment routing, risk models (§101-eligible with the right claim architecture)
 
-$1M in SaaS ARR capitalized at 12% = $8M
+2. Compliance trade secrets — your KYC/AML workflow is worth more sealed than published
 
-Same revenue. Four times the exit value.
+3. Risk model IP — the scoring method, training pipeline, feature engineering
 
-Royalties are contractual. Senior to churn. Backed by IP that does not expire.
+4. Open banking architecture — API orchestration, data permissioning, normalization flows
 
-Acquirers price them like bonds. Not subscriptions.
+The top-10 fintechs hold 2,400 patents on average.
 
-3 moves to capture it:
+Your competitors are already filing.
 
-1. Separate licensing from product on your P&L now.
-2. Sign one paying license before your next term sheet.
-3. Show the WACC gap in your data room model.
-
-#IPStrategy #Valuation #StartupFinance
+#fintech #patents #IPstrategy
