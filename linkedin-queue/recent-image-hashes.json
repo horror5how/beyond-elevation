@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c76030717f5ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "skipped-patent-claims-valuation-cost",
-    "ts": "2026-07-19T10:35:54.434Z"
-  },
-  {
     "hash": "007effffffff2020",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-sdr-killed-the-pipeline",
     "ts": "2026-07-20T13:03:15.013Z"
+  },
+  {
+    "hash": "2062e7ffc3e7ff99",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "ai-cost-is-rework-not-tokens",
+    "ts": "2026-07-20T15:09:43.841Z"
   }
 ]

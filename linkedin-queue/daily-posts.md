@@ -3,7 +3,7 @@ date: 2026-07-20
 theme: The market is repricing IP and AI operations as balance-sheet assets while most companies still book them as cost lines.
 generated_at: 2026-07-20T04:00:00Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -119,7 +119,9 @@ Measure the dollar, not the DM.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-20T15:09:43.841Z
+share_urn: urn:li:share:7484987916201463808
 hook_format: prediction
 cta_goal: clicks
 slug: ai-cost-is-rework-not-tokens
