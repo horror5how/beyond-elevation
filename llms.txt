@@ -309,5 +309,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Lenders Now Accept Datasets as Loan Collateral. Here Is the 5-Axis Bankability Test Your Data Must Pass](https://beyondelevation.com/blog/posts/data-as-loan-collateral-5-axis-bankability-test/) — /blog/md/data-as-loan-collateral-5-axis-bankability-test.md
 - [The Clause That Claws Back Your Exit: IP Reps and Warranties in an M&A Deal, Explained for Sellers](https://beyondelevation.com/blog/posts/ip-reps-and-warranties-ma-sell-side-2026/) — /blog/md/ip-reps-and-warranties-ma-sell-side-2026.md
 - [You Generated 10 Million Synthetic Training Records. Here Is Who Actually Owns Them.](https://beyondelevation.com/blog/posts/synthetic-data-ip-ownership-2026/) — /blog/md/synthetic-data-ip-ownership-2026.md
+- [Tesla Asked a Court to Reset a $32-Per-Vehicle Patent Pool Royalty. If It Wins, Every Implementer Gets the Same Weapon.](https://beyondelevation.com/blog/posts/patent-pool-court-set-royalty-implementer-2026/) — /blog/md/patent-pool-court-set-royalty-implementer-2026.md
 
 > Full blog content available at /llms-full.txt

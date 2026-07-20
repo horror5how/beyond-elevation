@@ -2,8 +2,8 @@
 title: "Tesla Asked a Court to Reset a $32-Per-Vehicle Patent Pool Royalty. If It Wins, Every Implementer Gets the Same Weapon."
 slug: patent-pool-court-set-royalty-implementer-2026
 date: 2026-07-20
-url: https://beyondelevation.com/blog/post.html?slug=patent-pool-court-set-royalty-implementer-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-pool-court-set-royalty-implementer-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -85,6 +85,20 @@ For SEP holders, the message is equally direct: defend your rate with data, esse
 
 Beyond Elevation advises both sides of this equation. Whether you are an implementer preparing a patent pool rate challenge or a patent holder strengthening your pool position, [book a strategic review](https://beyondelevation.com) before the judgment lands.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-patent-pool-court-set-royalty-implementer-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is a patent pool royalty rate?
@@ -106,3 +120,6 @@ Avanci is a patent pool intermediary that licences cellular standard-essential p
 ### How can implementers reduce their patent pool royalty exposure?
 
 Implementers can audit which pooled SEPs they actually practise in their products, benchmark pool rates against comparable bilateral FRAND licences, document negotiation history for any future rate challenge, and — if the Tesla ruling favours implementers — seek judicial determination of a fair pool rate. Beyond Elevation's Pool Rate Challenge Audit provides a structured framework for quantifying implementer leverage before engaging a pool operator.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

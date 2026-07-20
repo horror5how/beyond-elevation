@@ -4746,3 +4746,21 @@ Beyond Elevation has seen this play out in data licensing deals worth eight figu
 The owner of synthetic data depends on three factors: the source data license terms, the generation method used, and the jurisdiction where both parties operate. In most common-law jurisdictions, synthetic data generated from a proprietary dataset qualifies as a derivative work, meaning the original data owner retains rights unless the license explicitly permits creation and c
 
 ---
+
+## Tesla Asked a Court to Reset a $32-Per-Vehicle Patent Pool Royalty. If It Wins, Every Implementer Gets the Same Weapon.
+
+URL: https://beyondelevation.com/blog/posts/patent-pool-court-set-royalty-implementer-2026/
+
+A single UK Supreme Court ruling could hand every implementer in every patent pool the power to force a court-set royalty rate. Tesla is challenging Avanci's non-negotiable $32-per-vehicle 5G patent pool royalty — and the judgment, expected in 2026, will redraw the licensing map for every company that builds products covered by standard-essential patents.
+
+Hayat Amin argues this is the most consequential SEP licensing development of the decade. Patent pools have operated on a take-it-or-leave-it pricing model for years. If the UK Supreme Court rules that a court can reset the royalty for an entire pool at an implementer's request, the fixed-rate model collapses overnight. That is not a theoretical risk — it is a live case with a judgment pending.
+
+This is not a niche telecommunications dispute. Any company implementing 5G, Wi-Fi 6E, HEVC video, or any other standard covered by a patent pool should be watching. Here is what happened, what it means, and how to position your business on either side of the ruling.
+
+## What Is a Patent Pool Royalty — and Why Are Implementers Challenging It?
+
+A patent pool royalty is a single licence fee paid to an intermediary that bundles standard-essential patents from multiple owners into one agreement, giving the implementer access to the entire pool for one fixed rate per unit. Avanci's 5G pool charges a flat $32 per connected vehicle, regardless of how many SEPs the pool contains or how many the implementer actually practises.
+
+The model was
+
+---
