@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef0301133f5ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "pre-acquisition-ip-audit-save-deal",
-    "ts": "2026-07-19T09:09:08.975Z"
-  },
-  {
     "hash": "3c76030717f5ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "one-portfolio-billions",
     "ts": "2026-07-20T11:46:40.449Z"
+  },
+  {
+    "hash": "007effffffa1a1f8",
+    "layout": "a",
+    "accent": "#8aa6b8",
+    "slug": "ai-sdr-killed-the-pipeline",
+    "ts": "2026-07-20T13:03:15.013Z"
   }
 ]

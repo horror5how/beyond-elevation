@@ -3,7 +3,7 @@ date: 2026-07-20
 theme: The market is repricing IP and AI operations as balance-sheet assets while most companies still book them as cost lines.
 generated_at: 2026-07-20T04:00:00Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -85,7 +85,9 @@ Audit which ones you actually hold.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-20T13:03:15.013Z
+share_urn: urn:li:share:7484956085267795968
 hook_format: story
 cta_goal: dms
 slug: ai-sdr-killed-the-pipeline

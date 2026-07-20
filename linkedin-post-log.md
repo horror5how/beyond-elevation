@@ -519,3 +519,4 @@
 2026-07-20 10:17 | urn:li:share:7484914479978328064 | post #1 | ip-is-not-a-legal-cost | Patent teams are a cost center. Until they aren't.  Last week Solve Intelligence
 2026-07-20 11:46 | urn:li:share:7484936813221015553 | post #2 | one-portfolio-billions | One portfolio. Billions in annual royalties.  Qualcomm's QTL licensing arm books
 2026-07-20 12:53 | QUEUED | three-licensing-clauses-acquirers-find-2026 | Most founders sign a licensing deal with 3 missing clauses.  Acquirers find all 
+2026-07-20 13:03 | urn:li:share:7484956085267795968 | post #3 | ai-sdr-killed-the-pipeline | Your AI SDR tripled replies. And quietly killed your pipeline.  A client's RevOp
