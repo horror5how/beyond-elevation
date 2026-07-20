@@ -3,7 +3,7 @@ date: 2026-07-20
 theme: The market is repricing IP and AI operations as balance-sheet assets while most companies still book them as cost lines.
 generated_at: 2026-07-20T04:00:00Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -151,7 +151,9 @@ Scope narrow. Measure fully loaded cost. Scale what pays back in 60 days.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-20T18:47:35.631Z
+share_urn: urn:li:share:7485042743212347392
 hook_format: frame-break
 cta_goal: follows
 slug: ai-fails-on-dirty-data

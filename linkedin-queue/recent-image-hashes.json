@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff2020",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "ai-customer-upsell-expansion-revenue",
-    "ts": "2026-07-19T11:54:57.372Z"
-  },
-  {
     "hash": "3c78f00913f5ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-cost-is-rework-not-tokens",
     "ts": "2026-07-20T15:09:43.841Z"
+  },
+  {
+    "hash": "0062e7ffc3c3fff9",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "ai-fails-on-dirty-data",
+    "ts": "2026-07-20T18:47:35.631Z"
   }
 ]
