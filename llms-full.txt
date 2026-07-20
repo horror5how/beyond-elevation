@@ -4710,3 +4710,21 @@ Yes. Data as loan collateral is now a live financing route for founders who own 
 The Isle of Man [Data Asset Foundation](/blog
 
 ---
+
+## The Clause That Claws Back Your Exit: IP Reps and Warranties in an M&A Deal, Explained for Sellers
+
+URL: https://beyondelevation.com/blog/posts/ip-reps-and-warranties-ma-sell-side-2026/
+
+## The Clause That Claws Back Your Exit: IP Reps and Warranties in an M&A Deal, Explained for Sellers
+
+IP reps and warranties in an M&A deal are the promises you sign that your intellectual property is what you claim it is, and they are where a buyer claws back 10 to 30% of your headline price after the deal closes. The purchase price gets the attention. The IP representations decide how much of it you keep. In 2026 R&W insurer claims data, intellectual property and tax are the two most frequently breached representations, and IP breaches drive a disproportionate share of the largest indemnity payouts. Founders celebrate the number on the term sheet and lose real money in a clause they never read.
+
+Hayat Amin has structured the IP side of exits across three of his own and advised on many more. The pattern holds: the sellers who keep their full price are the ones who scoped and capped the IP reps before signing, not the ones who argued about them in escrow a year later.
+
+## What IP Reps and Warranties Actually Promise the Buyer
+
+IP reps and warranties are a set of factual statements in the purchase agreement where the seller guarantees the condition of the target's intellectual property. Break one and the buyer has a contractual claim against you, usually paid out of an escrow holdback or a clawback of proceeds. A typical IP representation package asks you to promise several distinct things.
+
+**Ownership.** You own the IP outright, free of liens, and every employee and contrac
+
+---
