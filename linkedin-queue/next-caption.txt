@@ -1,19 +1,17 @@
-Fintech founders think you can't patent financial methods.
+Most founders sign a licensing deal with 3 missing clauses.
 
-That assumption costs $6M at Series B.
+Acquirers find all 3 in diligence. Every time.
 
-6 layers of IP exist in every fintech. Most protect 1.
+The 3 clauses acquirers require before they pay full price:
 
-1. Core algorithm patents — fraud scoring, payment routing, risk models (§101-eligible with the right claim architecture)
+1. Field-of-use limits. Geographic, product, and time-bound. Undefined scope = unlimited liability = price haircut.
 
-2. Compliance trade secrets — your KYC/AML workflow is worth more sealed than published
+2. Audit rights with a 5% underreporting penalty. Without this, licensees underpay by 22% on average.
 
-3. Risk model IP — the scoring method, training pipeline, feature engineering
+3. Minimum guarantee with ratchet escalator. No floor means $0 in Year 1. That erases your licensing revenue history.
 
-4. Open banking architecture — API orchestration, data permissioning, normalization flows
+Acquirers pay 30% more for IP with clean, auditable licensing history.
 
-The top-10 fintechs hold 2,400 patents on average.
+Missing one clause costs you $840K at exit.
 
-Your competitors are already filing.
-
-#fintech #patents #IPstrategy
+#IPStrategy #MergersAndAcquisitions #Founders
