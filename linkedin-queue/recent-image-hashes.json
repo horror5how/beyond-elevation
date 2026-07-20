@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c3ffff39380068ff",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "patents-as-a-revenue-line-pl-not-cost",
-    "ts": "2026-07-18T14:19:11.009Z"
-  },
-  {
     "hash": "46ffffff83880e0f",
     "layout": "a",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-cost-savings-operational-audit",
     "ts": "2026-07-19T17:46:53.248Z"
+  },
+  {
+    "hash": "c1c3e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#d7b086",
+    "slug": "ip-is-not-a-legal-cost",
+    "ts": "2026-07-20T10:17:55.340Z"
   }
 ]

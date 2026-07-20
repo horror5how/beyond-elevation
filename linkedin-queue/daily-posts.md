@@ -3,7 +3,7 @@ date: 2026-07-20
 theme: The market is repricing IP and AI operations as balance-sheet assets while most companies still book them as cost lines.
 generated_at: 2026-07-20T04:00:00Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Capital is voting. AI-for-patents startups are raising $40M rounds on 10x revenu
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-20T10:17:55.340Z
+share_urn: urn:li:share:7484914479978328064
 hook_format: contrarian
 cta_goal: follows
 slug: ip-is-not-a-legal-cost
