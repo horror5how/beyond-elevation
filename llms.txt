@@ -307,6 +307,5 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your Data Is Worth $400K to $5M a Year in Recurring Licensing. One Formula Sets the Price.](https://beyondelevation.com/blog/posts/data-licensing-pricing-formula-2026/) — /blog/md/data-licensing-pricing-formula-2026.md
 - [Investors Set Your AI Multiple With One Question: Could a Funded Team Rebuild This in 18 Months for $5M?](https://beyondelevation.com/blog/posts/ai-startup-defensibility-rebuild-test-2026/) — /blog/md/ai-startup-defensibility-rebuild-test-2026.md
 - [Lenders Now Accept Datasets as Loan Collateral. Here Is the 5-Axis Bankability Test Your Data Must Pass](https://beyondelevation.com/blog/posts/data-as-loan-collateral-5-axis-bankability-test/) — /blog/md/data-as-loan-collateral-5-axis-bankability-test.md
-- [One Question Swings Your AI Valuation by 30%: Could a Rival Rebuild This With $5M and 18 Months?](https://beyondelevation.com/blog/posts/ai-defensibility-rebuild-test-5m-18-months/) — /blog/md/ai-defensibility-rebuild-test-5m-18-months.md
 
 > Full blog content available at /llms-full.txt
