@@ -517,3 +517,4 @@
 2026-07-19 17:52 | urn:li:share:7484666518686048257 | post #6 | ip-licensing-wacc-valuation-gap-2026 | Acquirers discount patent royalties at 3%. They discount your SaaS at 12%.
 2026-07-20 07:54 | QUEUED | ip-strategy-fintech-2026 | Fintech founders think you can't patent financial methods.  That assumption cost
 2026-07-20 10:17 | urn:li:share:7484914479978328064 | post #1 | ip-is-not-a-legal-cost | Patent teams are a cost center. Until they aren't.  Last week Solve Intelligence
+2026-07-20 11:46 | urn:li:share:7484936813221015553 | post #2 | one-portfolio-billions | One portfolio. Billions in annual royalties.  Qualcomm's QTL licensing arm books

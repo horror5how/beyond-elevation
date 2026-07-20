@@ -3,7 +3,7 @@ date: 2026-07-20
 theme: The market is repricing IP and AI operations as balance-sheet assets while most companies still book them as cost lines.
 generated_at: 2026-07-20T04:00:00Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ Value the asset. Then monetize it.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-20T11:46:40.449Z
+share_urn: urn:li:share:7484936813221015553
 hook_format: number-led
 cta_goal: clicks
 slug: one-portfolio-billions

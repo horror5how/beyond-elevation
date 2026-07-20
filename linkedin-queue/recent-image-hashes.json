@@ -1,12 +1,5 @@
 [
   {
-    "hash": "46ffffff83880e0f",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "cross-border-ip-licensing-strategy-five-moves",
-    "ts": "2026-07-18T17:45:23.522Z"
-  },
-  {
     "hash": "7ef0301133f5ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ip-is-not-a-legal-cost",
     "ts": "2026-07-20T10:17:55.340Z"
+  },
+  {
+    "hash": "7ef0f0000bf5ffff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "one-portfolio-billions",
+    "ts": "2026-07-20T11:46:40.449Z"
   }
 ]
