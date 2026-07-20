@@ -135,3 +135,13 @@
 - Status: FAILED
 - Media ID: n/a
 - Slides: 6
+
+## 2026-07-20T00:00:00Z
+- Pillar: Human Purpose of Work (Pillar 1)
+- Status: FAILED — TOKEN EXPIRED (error 190, 21st consecutive failure since 2026-06-25)
+- Media ID: n/a
+- Slides: 6 (fresh — new hook "AI just separated your job from your work")
+- Hook: "AI just separated your job from your work. They were never the same thing."
+- Root cause: Instagram token expired 2026-06-25 23:32 PDT. Token in task prompt (EAASSEUy7BCo...) is the SAME expired token already in instagram-post.yml. No INSTAGRAM_TOKEN repo secret is set (confirmed: CI logs show token unmasked). horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403 in cloud env.
+- Fix required: Go to developers.facebook.com → Token Tools → generate new long-lived user token → go to horror5how/beyond-elevation Settings → Secrets → Actions → create INSTAGRAM_TOKEN secret → push any change to instagram-queue/slides/slide-1.html to trigger workflow.
+- Note: Fresh slides committed with [skip ci] to avoid triggering another doomed CI run.
