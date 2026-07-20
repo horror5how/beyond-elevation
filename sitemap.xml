@@ -152,6 +152,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/synthetic-data-ip-ownership-2026/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>You Generated 10 Million Synthetic Training Records. Here Is Who Actually Owns Them.</image:title>
+      <image:caption>You Generated 10 Million Synthetic Training Records. Here Is Who Actually Owns Them. — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/synthetic-data-ip-ownership-2026/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/data-licensing-pricing-formula-2026/</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -3245,18 +3257,6 @@
       <image:title>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For</image:title>
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/synthetic-data-ip-ownership-2026/</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
-      <image:title>You Generated 10 Million Synthetic Training Records. Here Is Who Actually Owns Them.</image:title>
-      <image:caption>You Generated 10 Million Synthetic Training Records. Here Is Who Actually Owns Them. — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
-      <image:license>https://beyondelevation.com/blog/posts/synthetic-data-ip-ownership-2026/</image:license>
     </image:image>
   </url>
 </urlset>
