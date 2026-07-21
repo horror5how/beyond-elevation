@@ -528,3 +528,4 @@
 2026-07-21 11:10 | urn:li:share:7485290102735413249 | post #2 | ip-audit-valuation-multiple-41-percent-gap-2026 | Audited AI startups clear 25.8x. Unaudited get 18.2x.  This 41% multiple gap com
 2026-07-21 12:22 | urn:li:share:7485308177144700928 | post #3 | ai-sop-consistent-output-quality | Consistent AI output isn't about better prompts.  Inconsistent AI output creates
 2026-07-21 12:51 | urn:li:share:7485315617844080641 | WIPO just published 3 methods to price a standard-essential patent royalty.  Mos
+2026-07-21 15:02 | urn:li:share:7485348427480932352 | post #4 | ai-lead-scoring-prioritization | Score leads with AI *before* you buy more.  Sales teams chase every lead equally

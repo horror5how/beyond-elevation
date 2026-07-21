@@ -3,7 +3,7 @@ date: 2026-07-21
 theme: Today's theme focuses on activating intangible assets, from IP licensing and valuation strategies that impact funding and exit multiples, to tangible AI operational plays that drive consistency, efficiency, and customer experience without losing the human touch. We move from strategic IP leverage to practical AI deployment.
 generated_at: 2026-07-21T06:25:48.762Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ A client cut rework for AI-generated reports by 40%, saving 15 hours/week from t
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-21T15:02:16.497Z
+share_urn: urn:li:share:7485348427480932352
 hook_format: contrarian
 cta_goal: comments
 slug: ai-lead-scoring-prioritization
