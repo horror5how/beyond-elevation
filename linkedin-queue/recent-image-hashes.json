@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffa1a1f8",
-    "layout": "a",
-    "accent": "#8aa6b8",
-    "slug": "ai-sdr-killed-the-pipeline",
-    "ts": "2026-07-20T13:03:15.013Z"
-  },
-  {
     "hash": "2062e7ffc3e7ff99",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-lead-scoring-prioritization",
     "ts": "2026-07-21T15:02:16.497Z"
+  },
+  {
+    "hash": "7ef3f31303f5ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-customer-support-human-touch",
+    "ts": "2026-07-21T18:07:48.351Z"
   }
 ]

@@ -524,3 +524,4 @@ ai-sop-consistent-output-quality
 wipo-frand-royalty-valuation-three-methods-2026
 ai-lead-scoring-prioritization
 eu-ai-act-deferral-compliance-runway-math-2026
+ai-customer-support-human-touch

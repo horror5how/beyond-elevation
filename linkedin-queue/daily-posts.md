@@ -3,7 +3,7 @@ date: 2026-07-21
 theme: Today's theme focuses on activating intangible assets, from IP licensing and valuation strategies that impact funding and exit multiples, to tangible AI operational plays that drive consistency, efficiency, and customer experience without losing the human touch. We move from strategic IP leverage to practical AI deployment.
 generated_at: 2026-07-21T06:25:48.762Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -155,7 +155,9 @@ One founder cut SDR ramp time 40% by focusing on high-fit leads, improving pipel
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-21T18:07:48.351Z
+share_urn: urn:li:share:7485395118317875200
 hook_format: contrarian
 cta_goal: comments
 slug: ai-customer-support-human-touch
