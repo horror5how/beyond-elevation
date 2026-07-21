@@ -3,7 +3,7 @@ date: 2026-07-21
 theme: Today's theme focuses on activating intangible assets, from IP licensing and valuation strategies that impact funding and exit multiples, to tangible AI operational plays that drive consistency, efficiency, and customer experience without losing the human touch. We move from strategic IP leverage to practical AI deployment.
 generated_at: 2026-07-21T06:25:48.762Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content explores how founders activate their hidden assets: patent portf
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-21T09:32:03.487Z
+share_urn: urn:li:share:7485265325542846465
 hook_format: contrarian
 cta_goal: comments
 slug: patent-pool-court-set-royalty-implementer-2026

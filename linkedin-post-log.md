@@ -524,3 +524,4 @@
 2026-07-20 17:55 | urn:li:share:7485029723962650624 | Avanci charges every automaker $32 per vehicle for 5G patent pool access.  Tesla
 2026-07-20 18:47 | urn:li:share:7485042743212347392 | post #5 | ai-fails-on-dirty-data | AI doesn't fail on models. It fails on your data.  Everyone benchmarks the LLM. 
 2026-07-21 07:53 | urn:li:share:7485240631393554432 | Audited AI startups get 25.8x revenue multiple. Unaudited ones get 18.2x.  That 
+2026-07-21 09:32 | urn:li:share:7485265325542846465 | post #1 | patent-pool-court-set-royalty-implementer-2026 | Tesla just challenged a $32-per-car patent royalty.  Your fixed-rate patent pool
