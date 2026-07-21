@@ -1,19 +1,21 @@
-WIPO just published 3 methods to price a standard-essential patent royalty.
+The EU just pushed its high-risk AI rules to December 2027.
 
-Most SEP holders are still guessing.
+16 extra months.
 
-The 3 WIPO-named methods: top-down, comparable-licence, incremental-value.
+Most founders are reading it as regulatory relief.
 
-Without one, implementers dictate the rate.
+Smart ones are putting it in their raise deck.
 
-Without a rate, you can't enforce.
+The compliance budget you're not spending this year runs €200K–€500K for a mid-size AI product.
 
-Without enforcement, your SEP is a cost, not an asset.
+That's new runway. That's a valuation line.
 
-5G SEPs generate over $100B in annual royalties globally.
+GPAI transparency obligations still activate 2 August 2026.
 
-The founders who hold standards-essential IP and don't know which method applies are leaving the table.
+Fines up to €15M or 3% of global turnover.
 
-Know the method. Set the rate. Protect the income.
+The window is to build a governance moat now — before competitors are forced to.
 
-#IPStrategy #PatentLicensing #SEP
+One IP audit. One framework. 16 months to price it into your round.
+
+#AIStrategy #IPStrategy #Fundraising
