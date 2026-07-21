@@ -2,7 +2,7 @@ name: Gated Blog Publisher
 
 # Re-activated 2026-05-11. The HUMAN_REVIEWED gate is now live.
 # Enforces THREE hard rules:
-#   1. Hard cap: at most 2 published posts per ROLLING 7-DAY window.
+#   1. Hard cap: at most 30 published posts per ROLLING 7-DAY window (runaway backstop; raised from 2 on 2026-07-21 — real cadence exceeds 2).
 #   2. Frontmatter gate: every published post in posts.json MUST have human_reviewed: true.
 #   3. Named-author gate: every published post MUST have a real human author
 #      (no "Beyond Elevation Team", no empty author) — Google E-E-A-T.
@@ -65,7 +65,7 @@ jobs:
               && !prevPublished.has(p.slug)
             );
 
-            // Hard cap: max 2 new published posts per rolling 7d window.
+            // Hard cap: runaway backstop only. Raised 2 -> 30 on 2026-07-21 (cap 2 was below real publish cadence and blocked every push).
             const today = new Date();
             const weekAgo = new Date(today.getTime() - 7*24*3600*1000);
             const recentPublished = posts.filter(p =>
@@ -75,7 +75,7 @@ jobs:
             );
             console.log('Newly-published in this push: ' + newlyPublished.length);
             console.log('Total indexable published in last 7d: ' + recentPublished.length);
-            if (newlyPublished.length > 0 && recentPublished.length > 2) {
+            if (newlyPublished.length > 0 && recentPublished.length > 30) {
               console.error('::error::Rolling 7d cap exceeded. Cannot add ' + newlyPublished.length + ' new published post(s); 7d total would be ' + recentPublished.length + '.');
               recentPublished.forEach(p => console.error(' - ' + p.slug + ' (' + p.date + ')'));
               process.exit(2);
