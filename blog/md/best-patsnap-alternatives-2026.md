@@ -59,6 +59,12 @@ Hayat Amin’s view on this is direct: “PatSnap tells you what exists. A strat
 
 A fractional IP strategist at Beyond Elevation runs Hayat Amin’s IP Defensibility 7-Point Test on your portfolio, identifies the patents worth filing, the claims worth defending, and the licensing opportunities worth pursuing — and does it in 2–4 weeks, not 12 months of dashboard exploration. Cost: a fraction of a full-time hire and often less than the PatSnap contract it replaces.
 
+## Looking for a PAT.com Alternative?
+
+PAT.com is PatSnap's flagship platform — so if you searched for a PAT.com alternative, every option in this guide applies. The reasons founders leave PAT.com are the same reasons they leave PatSnap: entry pricing that typically starts around $15K–$30K per year, seat-based contracts that punish small teams, and dashboards that still need a human to turn data into a licensing or filing decision.
+
+If you want a free PAT.com alternative, start with Google Patents and Lens.org — both cover the core prior-art and competitor search work at zero cost. If you want the analysis without the software contract, a [fractional IP strategist](/blog/posts/fractional-patent-counsel-vs-patsnap/) gives you the interpretation layer PAT.com sells, priced against outcomes instead of seats.
+
 ## How to Choose the Right PatSnap Alternative for Your Stage
 
 The right PatSnap alternative depends on what you actually need — data or strategy. Hayat Amin reminds founders that most startups do not have a data problem. They have a decision problem. They know their competitors have patents. They do not know which patents to file, when to file them, or how to structure them for [licensing revenue](/blog/posts/patent-licensing-revenue-model/).
@@ -94,6 +100,14 @@ Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising
 ---
 
 ## FAQ
+
+### Is there a free PAT.com alternative?
+
+Yes. Google Patents and Lens.org are completely free PAT.com alternatives for patent search and prior-art work. Espacenet (from the EPO) adds strong international coverage. You lose PAT.com's workflow dashboards, but the underlying patent data is the same.
+
+### How much does PatSnap (PAT.com) cost?
+
+PatSnap does not publish pricing, but founders typically report entry contracts around $15K–$30K per year, scaling with seats and modules. That price point is the single most common reason teams in this guide's audience switch to a cheaper alternative or to a human-led IP strategy engagement.
 
 ### What is the cheapest PatSnap alternative?
 

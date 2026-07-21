@@ -37,7 +37,7 @@ Set automated alerts on the USPTO, EPO, WIPO, and any jurisdiction where your co
 
 ### Layer 2 — Semantic Search Engines
 
-Keyword alerts miss claims drafted in non-obvious language. [Semantic search engines](/blog/posts/semantic-patent-search-explained/) like PatSnap Discovery, Ambercite, or Google Patents' AI-powered search use vector embeddings to match concepts, not strings. Run monthly semantic sweeps using your own patent claims as the search query — this catches competitor filings that cover the same technical territory using entirely different terminology.
+Keyword alerts miss claims drafted in non-obvious language. [Semantic search engines](/blog/posts/semantic-patent-search-explained/) like PatSnap Discovery, Ambercite, or Google Patents' AI-powered search use vector embeddings to match concepts, not strings. Run monthly semantic sweeps using your own patent claims as the search query — this catches competitor filings that cover the same technical territory using entirely different terminology. For a full comparison of options, see our guide to the [best PatSnap (PAT.com) alternatives](/blog/posts/best-patsnap-alternatives-2026/).
 
 ### Layer 3 — Litigation and PTAB Tracking
 

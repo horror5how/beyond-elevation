@@ -49,7 +49,7 @@ A fractional IP CxO beats software when the core problem is strategic, not admin
 
 Software wins when you manage 500+ assets across 20+ jurisdictions and need automated docketing, renewal management, and cost tracking at scale. The administrative complexity at that level exceeds what any individual can handle manually.
 
-The grey zone — 200 to 500 assets — is where the decision gets interesting. Hayat Amin says most companies in this range need both: a lightweight IPMS for docketing and renewals (IPfolio or Questel's entry tier) paired with a fractional IP CxO who makes the strategic calls on what to file, what to license, and what to abandon. This [human-plus-software hybrid](/blog/posts/fractional-patent-counsel-vs-patsnap/) outperforms either approach alone because software handles scale while the strategist handles judgement.
+The grey zone — 200 to 500 assets — is where the decision gets interesting. Hayat Amin says most companies in this range need both: a lightweight IPMS for docketing and renewals (IPfolio or Questel's entry tier) paired with a fractional IP CxO who makes the strategic calls on what to file, what to license, and what to abandon. This [human-plus-software hybrid](/blog/posts/fractional-patent-counsel-vs-patsnap/) outperforms either approach alone because software handles scale while the strategist handles judgement. For a full comparison of options, see our guide to the [best PatSnap (PAT.com) alternatives](/blog/posts/best-patsnap-alternatives-2026/).
 
 ## What Is the Hayat Amin Patent Portfolio Triage Method?
 

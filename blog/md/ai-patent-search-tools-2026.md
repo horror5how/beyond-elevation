@@ -39,7 +39,7 @@ Three structural problems compound this failure in 2026.
 
 Seven platforms now use LLM embeddings or transformer-based models as their primary search mechanism. Here is how they compare on recall (percentage of relevant patents found), precision (percentage of results actually relevant), and total cost of ownership.
 
-**1. PatSnap Discovery.** Market leader by install base. Proprietary embedding model trained on 180M+ patent documents. Strong recall on English-language patents, weaker on CNIPA and KIPO filings. Annual licence starts at $25K per seat. Best for enterprise IP teams managing 500+ patent portfolios.
+**1. PatSnap Discovery.** Market leader by install base. Proprietary embedding model trained on 180M+ patent documents. Strong recall on English-language patents, weaker on CNIPA and KIPO filings. Annual licence starts at $25K per seat. Best for enterprise IP teams managing 500+ patent portfolios. For a full comparison of options, see our guide to the [best PatSnap (PAT.com) alternatives](/blog/posts/best-patsnap-alternatives-2026/).
 
 **2. IPRally.** Finnish platform using a graph-neural-network approach that maps patent claims as structured graphs rather than flat vectors. Highest precision in independent benchmarks — 78% at top-50 results vs PatSnap's 71%. From $15K/year. Best for FTO and invalidity searches where precision outweighs breadth.
 
