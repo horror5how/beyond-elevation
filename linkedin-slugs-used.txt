@@ -521,3 +521,4 @@ ai-fails-on-dirty-data
 ip-audit-valuation-multiple-41-percent-gap-2026
 patent-pool-court-set-royalty-implementer-2026
 ai-sop-consistent-output-quality
+wipo-frand-royalty-valuation-three-methods-2026

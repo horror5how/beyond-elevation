@@ -1,15 +1,19 @@
-Audited AI startups get 25.8x revenue multiple. Unaudited ones get 18.2x.
+WIPO just published 3 methods to price a standard-essential patent royalty.
 
-That is a 41% gap. One IP audit.
+Most SEP holders are still guessing.
 
-The penalty compounds every round.
+The 3 WIPO-named methods: top-down, comparable-licence, incremental-value.
 
-20-30% discount at seed. 30-40% by Series A.
+Without one, implementers dictate the rate.
 
-Founders who skip the audit raise every round at a structural discount.
+Without a rate, you can't enforce.
 
-The audit costs $40K. The missed multiple costs $6M at Series B. $20M at exit.
+Without enforcement, your SEP is a cost, not an asset.
 
-Run the audit before the raise. Not after.
+5G SEPs generate over $100B in annual royalties globally.
 
-#IPStrategy #StartupValuation #VentureCapital
+The founders who hold standards-essential IP and don't know which method applies are leaving the table.
+
+Know the method. Set the rate. Protect the income.
+
+#IPStrategy #PatentLicensing #SEP
