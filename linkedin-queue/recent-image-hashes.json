@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffff61253f",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "ai-cost-savings-operational-audit",
-    "ts": "2026-07-19T17:46:53.248Z"
-  },
-  {
     "hash": "c1c3e7ffc3c3ff99",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "patent-pool-court-set-royalty-implementer-2026",
     "ts": "2026-07-21T09:32:03.487Z"
+  },
+  {
+    "hash": "0042e7ffe7c3ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "ip-audit-valuation-multiple-41-percent-gap-2026",
+    "ts": "2026-07-21T11:10:30.720Z"
   }
 ]

@@ -3,7 +3,7 @@ date: 2026-07-21
 theme: Today's theme focuses on activating intangible assets, from IP licensing and valuation strategies that impact funding and exit multiples, to tangible AI operational plays that drive consistency, efficiency, and customer experience without losing the human touch. We move from strategic IP leverage to practical AI deployment.
 generated_at: 2026-07-21T06:25:48.762Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One Beyond Elevation client renegotiated 18% off a 5G SEP royalty.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-21T11:10:30.720Z
+share_urn: urn:li:share:7485290102735413249
 hook_format: number-led
 cta_goal: comments
 slug: ip-audit-valuation-multiple-41-percent-gap-2026

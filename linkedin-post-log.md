@@ -525,3 +525,4 @@
 2026-07-20 18:47 | urn:li:share:7485042743212347392 | post #5 | ai-fails-on-dirty-data | AI doesn't fail on models. It fails on your data.  Everyone benchmarks the LLM. 
 2026-07-21 07:53 | urn:li:share:7485240631393554432 | Audited AI startups get 25.8x revenue multiple. Unaudited ones get 18.2x.  That 
 2026-07-21 09:32 | urn:li:share:7485265325542846465 | post #1 | patent-pool-court-set-royalty-implementer-2026 | Tesla just challenged a $32-per-car patent royalty.  Your fixed-rate patent pool
+2026-07-21 11:10 | urn:li:share:7485290102735413249 | post #2 | ip-audit-valuation-multiple-41-percent-gap-2026 | Audited AI startups clear 25.8x. Unaudited get 18.2x.  This 41% multiple gap com
