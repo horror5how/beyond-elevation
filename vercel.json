@@ -1,5 +1,11 @@
 {
   "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.beyondelevation.com" }],
+      "destination": "https://beyondelevation.com/:path*?utm_source=sender-domain",
+      "permanent": false
+    },
     { "source": "/pricing", "destination": "/services/", "permanent": true },
     { "source": "/pricing/", "destination": "/services/", "permanent": true },
     { "source": "/insights", "destination": "/blog/", "permanent": true },
