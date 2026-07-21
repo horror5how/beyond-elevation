@@ -1,17 +1,15 @@
-Avanci charges every automaker $32 per vehicle for 5G patent pool access.
+Audited AI startups get 25.8x revenue multiple. Unaudited ones get 18.2x.
 
-Tesla went to the UK Supreme Court to turn that into a court-set number instead.
+That is a 41% gap. One IP audit.
 
-The UKSC is deciding if a judge can price an entire patent pool at an implementer's request.
+The penalty compounds every round.
 
-If yes, every fixed-rate pool licence is legally exposed.
+20-30% discount at seed. 30-40% by Series A.
 
-Pool owners can no longer offer take-it-or-leave-it pricing.
+Founders who skip the audit raise every round at a structural discount.
 
-Implementers gain a judicial lever, not just a negotiating table.
+The audit costs $40K. The missed multiple costs $6M at Series B. $20M at exit.
 
-SEP holders who cannot justify their FRAND basis in court lose the rate.
+Run the audit before the raise. Not after.
 
-Document your royalty methodology before a licensee does it for you.
-
-#PatentStrategy #SEP #IPLicensing
+#IPStrategy #StartupValuation #VentureCapital
