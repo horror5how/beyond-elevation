@@ -3,7 +3,7 @@ date: 2026-07-21
 theme: Today's theme focuses on activating intangible assets, from IP licensing and valuation strategies that impact funding and exit multiples, to tangible AI operational plays that drive consistency, efficiency, and customer experience without losing the human touch. We move from strategic IP leverage to practical AI deployment.
 generated_at: 2026-07-21T06:25:48.762Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ One Beyond Elevation client added $14M to their Series B valuation in 11 days.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-21T12:22:19.965Z
+share_urn: urn:li:share:7485308177144700928
 hook_format: contrarian
 cta_goal: comments
 slug: ai-sop-consistent-output-quality

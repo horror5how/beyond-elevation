@@ -1,12 +1,5 @@
 [
   {
-    "hash": "c1c3e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "ip-is-not-a-legal-cost",
-    "ts": "2026-07-20T10:17:55.340Z"
-  },
-  {
     "hash": "7ef0f0000bf5ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ip-audit-valuation-multiple-41-percent-gap-2026",
     "ts": "2026-07-21T11:10:30.720Z"
+  },
+  {
+    "hash": "007effffffff2000",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-sop-consistent-output-quality",
+    "ts": "2026-07-21T12:22:19.965Z"
   }
 ]

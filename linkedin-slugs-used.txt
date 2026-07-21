@@ -520,3 +520,4 @@ tesla-avanci-patent-pool-court-rate-2026
 ai-fails-on-dirty-data
 ip-audit-valuation-multiple-41-percent-gap-2026
 patent-pool-court-set-royalty-implementer-2026
+ai-sop-consistent-output-quality
