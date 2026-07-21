@@ -4814,3 +4814,19 @@ The EU AI Act delay deferred Annex III high-risk system obligations from 2 Augus
 The Omnibus regulation also expanded the microenterprise QMS simplification to all SMEs, startups, and small mid-caps. That is a material scope change: most venture-backed AI companies now qualify for lighter 
 
 ---
+
+## A SEP Anti-Suit Injunction Can Erase 60% of Your Licensing Revenue. Here Is the 4-Move Defense Playbook for 2026.
+
+URL: https://beyondelevation.com/blog/posts/sep-anti-suit-injunction-frand-playbook-2026/
+
+A single court order filed in the wrong jurisdiction can freeze your entire standard-essential patent licensing program overnight. Hayat Amin argues that most SEP holders discover anti-suit injunction risk after they have already lost their strongest forum, and the damage is permanent. The weapon is called a SEP anti-suit injunction, and in 2026 it is the most powerful tactical move in global patent licensing.
+
+If you hold standard-essential patents and you do not have an anti-suit injunction defense strategy, you are leaving 40 to 60 percent of your licensing revenue on the table. The forum that sets your FRAND royalty rate determines how much every licensee pays. Implementers know this. That is why they race to file anti-suit injunctions in jurisdictions that set the lowest rates.
+
+## What Is a SEP Anti-Suit Injunction and Why Does It Decide Your Revenue?
+
+A SEP anti-suit injunction is a court order that prohibits a patent holder from pursuing or enforcing standard-essential patents in a foreign jurisdiction. Implementers use these orders to control which court sets the FRAND royalty rate, because the forum determines the price. In 2026, anti-suit injunctions are the single most powerful weapon in SEP licensing disputes worldwide.
+
+The mechanic is straightforward. An implementer files for an anti-suit injunction in a jurisdiction known for setting low FRAND rates. If granted, the order blocks the SEP holder from litigating in any other court. The patent holder is locked int
+
+---
