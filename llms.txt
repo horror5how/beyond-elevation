@@ -311,5 +311,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [You Generated 10 Million Synthetic Training Records. Here Is Who Actually Owns Them.](https://beyondelevation.com/blog/posts/synthetic-data-ip-ownership-2026/) — /blog/md/synthetic-data-ip-ownership-2026.md
 - [Tesla Asked a Court to Reset a $32-Per-Vehicle Patent Pool Royalty. If It Wins, Every Implementer Gets the Same Weapon.](https://beyondelevation.com/blog/posts/patent-pool-court-set-royalty-implementer-2026/) — /blog/md/patent-pool-court-set-royalty-implementer-2026.md
 - [Audited AI Startups Get 25.8x. Unaudited Ones Get 18.2x. The 41% Valuation Gap One IP Audit Closes.](https://beyondelevation.com/blog/posts/ip-audit-valuation-multiple-41-percent-gap-2026/) — /blog/md/ip-audit-valuation-multiple-41-percent-gap-2026.md
+- [WIPO Just Published 3 Ways to Price a FRAND Royalty. Only One Holds Up in Court.](https://beyondelevation.com/blog/posts/frand-royalty-rate-wipo-3-methods-2026/) — /blog/md/frand-royalty-rate-wipo-3-methods-2026.md
 
 > Full blog content available at /llms-full.txt

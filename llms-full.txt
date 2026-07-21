@@ -4782,3 +4782,21 @@ The IP audit valuation multiple gap is the measurable difference in revenue mult
 FE International's 2026 analysis of AI company acquisitions found that companies presenting a structured IP portfolio — patents mapped to revenue lines, trade secrets inventoried, data assets classified, freedom-to-operate confirmed — consistently comman
 
 ---
+
+## WIPO Just Published 3 Ways to Price a FRAND Royalty. Only One Holds Up in Court.
+
+URL: https://beyondelevation.com/blog/posts/frand-royalty-rate-wipo-3-methods-2026/
+
+Three methods. Billions in royalty flows. And in 2026, WIPO finally standardized which ones hold up in court.
+
+The standard-essential patent licensing market runs on a single premise: that royalties will be fair, reasonable, and non-discriminatory. FRAND. But "fair" is a word that launches lawsuits, not a number that settles them. Hayat Amin argues that FRAND royalty pricing is where more value leaks from patent portfolios than any other single licensing decision. Most SEP holders pick the wrong valuation method and defend it with the wrong evidence.
+
+WIPO's 2026 report on SEP licensing practices distilled decades of global case law into three standardized methods for calculating a FRAND royalty rate: top-down, comparable licence, and incremental value. [Beyond Elevation](https://beyondelevation.com) has priced SEP portfolios using all three. The choice of method changes the outcome by 40 to 300%.
+
+## What Is a FRAND Royalty Rate?
+
+A FRAND royalty rate is the licensing fee a standard-essential patent holder must charge implementers under fair, reasonable, and non-discriminatory terms. The commitment is made when the patent's technology is contributed to an industry standard like 5G, Wi-Fi, or Bluetooth. The rate must reward innovation without blocking market adoption.
+
+No standard-setting organization publishes a rate. SSOs require the FRAND commitment but leave pricing to bilateral negotiation. When negotiation fails, courts and arbitrators decide. In 2026, the legal landsca
+
+---
