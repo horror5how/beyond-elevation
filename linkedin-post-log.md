@@ -529,3 +529,4 @@
 2026-07-21 12:22 | urn:li:share:7485308177144700928 | post #3 | ai-sop-consistent-output-quality | Consistent AI output isn't about better prompts.  Inconsistent AI output creates
 2026-07-21 12:51 | urn:li:share:7485315617844080641 | WIPO just published 3 methods to price a standard-essential patent royalty.  Mos
 2026-07-21 15:02 | urn:li:share:7485348427480932352 | post #4 | ai-lead-scoring-prioritization | Score leads with AI *before* you buy more.  Sales teams chase every lead equally
+2026-07-21 17:53 | QUEUED | eu-ai-act-deferral-compliance-runway-math-2026 | The EU just pushed its high-risk AI rules to December 2027.  16 extra months.  M
