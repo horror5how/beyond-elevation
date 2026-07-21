@@ -2,8 +2,8 @@
 title: "The EU Pushed High-Risk AI Rules to Dec 2027. Here Is the Runway Math for Your Next Raise Deck."
 slug: eu-ai-act-delay-runway-raise-deck-2026
 date: 2026-07-21
-url: https://beyondelevation.com/blog/post.html?slug=eu-ai-act-delay-runway-raise-deck-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/eu-ai-act-delay-runway-raise-deck-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,20 @@ The founders who lose the window will treat the deferral as a reason to defer al
 
 Beyond Elevation runs the EU AI Act Runway Calculator for AI companies raising or preparing to raise. The calculation takes one meeting. The deck impact compounds through every investor conversation until December 2027. [Book a consultation](https://beyondelevation.com) to quantify how much runway the deferral adds to your specific burn model.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-eu-ai-act-delay-runway-raise-deck-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### When do EU AI Act high-risk obligations now take effect?
@@ -88,3 +102,6 @@ No. GPAI provider transparency obligations still take effect on 2 August 2026. T
 ### How does the EU AI Act delay affect AI company valuations?
 
 The delay creates a measurable runway extension of 2 to 4 months at typical Series A burn rates, improving capital efficiency metrics investors track. Companies that combine the runway extension with voluntary governance documentation earn a 1.5x to 2x forward revenue premium, turning a regulatory timeline shift into a quantifiable valuation advantage.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

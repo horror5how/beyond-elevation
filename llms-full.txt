@@ -4800,3 +4800,21 @@ A FRAND royalty rate is the licensing fee a standard-essential patent holder mus
 No standard-setting organization publishes a rate. SSOs require the FRAND commitment but leave pricing to bilateral negotiation. When negotiation fails, courts and arbitrators decide. In 2026, the legal landsca
 
 ---
+
+## The EU Pushed High-Risk AI Rules to Dec 2027. Here Is the Runway Math for Your Next Raise Deck.
+
+URL: https://beyondelevation.com/blog/posts/eu-ai-act-delay-runway-raise-deck-2026/
+
+The EU Council approved the Omnibus deferral on 29 June 2026, pushing Annex III high-risk AI obligations to 2 December 2027. Most founders read the headline as compliance relief. The real headline: you just added 17 months of deferred spend to your runway calculation.
+
+Hayat Amin argues this is the most expensive misread in AI fundraising right now. A Series A AI company deploying a high-risk system faces €800K to €2M in first-year compliance costs. That spend just moved 17 months into the future. Put the number in the raise deck or watch a competitor put it in theirs.
+
+At [Beyond Elevation](https://beyondelevation.com), the EU AI Act delay runway calculation is now the first slide built for every AI company preparing a 2026 or 2027 raise. Seven companies have run the math since the Council vote. In every case, the deferred spend materially changed the burn projection investors see.
+
+## What Did the EU AI Act Delay Actually Defer?
+
+The EU AI Act delay deferred Annex III high-risk system obligations from 2 August 2026 to 2 December 2027, giving providers and deployers 17 additional months before conformity assessments, quality management systems, and mandatory risk management documentation become enforceable. Annex I embedded AI systems shifted further to 2 August 2028.
+
+The Omnibus regulation also expanded the microenterprise QMS simplification to all SMEs, startups, and small mid-caps. That is a material scope change: most venture-backed AI companies now qualify for lighter 
+
+---
