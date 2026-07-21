@@ -650,12 +650,12 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 **Open rows only (re-ranked 2026-07-20 — Tier 5 now 125 rows; 284 posts in `data/posts.json`. Every prior Tier 5 row (T5-01 → T5-121) is shipped, so today's 4 synthesized rows are the entire open queue and lead it.)**
 
 1. **T5-122** — ✅ `patent-pool-court-set-royalty-implementer-2026` — Can you force a patent-pool licence at a court-set rate? — shipped 2026-07-20
-2. **T5-123** — Does an IP audit actually raise my valuation multiple? — 🟡; highest commercial intent (pre-raise founder query); 25.8x-vs-18.2x hard-number gap + round-by-round compounding penalty refreshes `ip-audit-valuation-premium` and converts into the IP-audit service
-3. **T5-125** — How do you calculate a FRAND royalty rate? — 🟡; first how-to-value-a-SEP piece using WIPO's 2026 three-method framework; high-authority AEO play that pairs with T5-122 to own the SEP/pool cluster
+2. **T5-123** — ✅ `ip-audit-valuation-multiple-41-percent-gap-2026` — Does an IP audit actually raise my valuation multiple? — shipped 2026-07-20
+3. **T5-125** — ✅ `frand-royalty-rate-wipo-3-methods-2026` — How do you calculate a FRAND royalty rate? — shipped 2026-07-21
 4. **T5-124** — How much runway does the EU AI Act delay buy me? — 🟡; turns the Omnibus final-green-light headline into a fundraising-leverage runway number; net-new framing vs the existing `eu-ai-act-omnibus-governance-moat-window` moat-window post
 
 **Already shipped (✅):**
-T5-01 → T5-122 fully shipped. Latest flips: T5-117 ✅ `data-licensing-pricing-formula-2026`, T5-118 ✅ `ai-startup-defensibility-rebuild-test-2026`, T5-119 ✅ `data-as-loan-collateral-5-axis-bankability-test`, T5-120 ✅ `dataset-tokenization-tradeable-asset-class-2026`, T5-121 ✅ `ip-reps-and-warranties-ma-sell-side-2026`, T5-122 ✅ `patent-pool-court-set-royalty-implementer-2026`. All 122 prior Tier 5 rows now ✅; T5-123 → T5-125 remain open.
+T5-01 → T5-123 fully shipped. Latest flips: T5-117 ✅ `data-licensing-pricing-formula-2026`, T5-118 ✅ `ai-startup-defensibility-rebuild-test-2026`, T5-119 ✅ `data-as-loan-collateral-5-axis-bankability-test`, T5-120 ✅ `dataset-tokenization-tradeable-asset-class-2026`, T5-121 ✅ `ip-reps-and-warranties-ma-sell-side-2026`, T5-122 ✅ `patent-pool-court-set-royalty-implementer-2026`, T5-123 ✅ `ip-audit-valuation-multiple-41-percent-gap-2026`, T5-125 ✅ `frand-royalty-rate-wipo-3-methods-2026`. T5-124 remains open.
 
 ### ⚠️ Apify scrape run log
 
