@@ -652,10 +652,10 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 1. **T5-122** — ✅ `patent-pool-court-set-royalty-implementer-2026` — Can you force a patent-pool licence at a court-set rate? — shipped 2026-07-20
 2. **T5-123** — ✅ `ip-audit-valuation-multiple-41-percent-gap-2026` — Does an IP audit actually raise my valuation multiple? — shipped 2026-07-20
 3. **T5-125** — ✅ `frand-royalty-rate-wipo-3-methods-2026` — How do you calculate a FRAND royalty rate? — shipped 2026-07-21
-4. **T5-124** — How much runway does the EU AI Act delay buy me? — 🟡; turns the Omnibus final-green-light headline into a fundraising-leverage runway number; net-new framing vs the existing `eu-ai-act-omnibus-governance-moat-window` moat-window post
+4. **T5-124** — ✅ `eu-ai-act-delay-runway-raise-deck-2026` — How much runway does the EU AI Act delay buy me? — shipped 2026-07-21
 
 **Already shipped (✅):**
-T5-01 → T5-123 fully shipped. Latest flips: T5-117 ✅ `data-licensing-pricing-formula-2026`, T5-118 ✅ `ai-startup-defensibility-rebuild-test-2026`, T5-119 ✅ `data-as-loan-collateral-5-axis-bankability-test`, T5-120 ✅ `dataset-tokenization-tradeable-asset-class-2026`, T5-121 ✅ `ip-reps-and-warranties-ma-sell-side-2026`, T5-122 ✅ `patent-pool-court-set-royalty-implementer-2026`, T5-123 ✅ `ip-audit-valuation-multiple-41-percent-gap-2026`, T5-125 ✅ `frand-royalty-rate-wipo-3-methods-2026`. T5-124 remains open.
+T5-01 → T5-125 fully shipped. Latest flips: T5-117 ✅ `data-licensing-pricing-formula-2026`, T5-118 ✅ `ai-startup-defensibility-rebuild-test-2026`, T5-119 ✅ `data-as-loan-collateral-5-axis-bankability-test`, T5-120 ✅ `dataset-tokenization-tradeable-asset-class-2026`, T5-121 ✅ `ip-reps-and-warranties-ma-sell-side-2026`, T5-122 ✅ `patent-pool-court-set-royalty-implementer-2026`, T5-123 ✅ `ip-audit-valuation-multiple-41-percent-gap-2026`, T5-124 ✅ `eu-ai-act-delay-runway-raise-deck-2026`, T5-125 ✅ `frand-royalty-rate-wipo-3-methods-2026`. All T5-01 → T5-125 shipped.
 
 ### ⚠️ Apify scrape run log
 
