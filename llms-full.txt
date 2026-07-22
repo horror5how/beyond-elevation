@@ -4850,3 +4850,19 @@ The value leak has three sources, and all three start on closing day.
 **Trade secret loss.** Acquired companies typically lose 15-30% of their technical staff within the first six months post-close. Every departing engineer carries institutional knowledge — training recipes, system configurations, proprietary workflows — that was never documented as a trade sec
 
 ---
+
+## The 4 IP Clauses in Your Term Sheet That Quietly Transfer Your Best Asset to Your Investors
+
+URL: https://beyondelevation.com/blog/posts/ip-clauses-term-sheet-founder-trap-2026/
+
+83% of seed-stage founders sign term sheets without reading the IP clauses. Hayat Amin calls this the most expensive signature in startup history — not because of the valuation cap, but because of the four provisions buried in the boilerplate that determine who actually owns your patents, data assets, and trade secrets after the ink dries.
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But that stat means nothing if the IP clauses in your term sheet hand the asset that drives the funding to a board you no longer control.
+
+## What IP Clauses Are Hiding in a Standard Term Sheet?
+
+Every standard term sheet contains four IP-related provisions that most founders treat as boilerplate: the IP assignment clause, the pre-existing IP schedule, the background IP definition, and the change-of-control IP transfer trigger. Each one determines whether your competitive position survives the fundraise or gets silently transferred to your investors. Beyond Elevation reviews hundreds of term sheets each year, and the pattern is always the same — founders fight over valuation while signing away the asset that creates it.
+
+**The IP assignment clause** requires founders and employees to assign all inventions to the company. Standard. Expected. But the scope language is where the damage hides. A well-drafted clause assigns company-related inventions only. A poorly drafted one assigns everything — including side projects, pre-existing patents, and technology you develop
+
+---
