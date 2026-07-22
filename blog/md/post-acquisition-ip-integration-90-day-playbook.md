@@ -2,8 +2,8 @@
 title: "73% of Acquirers Never Run a Post-Acquisition IP Integration. Here Is the 90-Day Playbook That Stops the Value Leak."
 slug: post-acquisition-ip-integration-90-day-playbook
 date: 2026-07-22
-url: https://beyondelevation.com/blog/post.html?slug=post-acquisition-ip-integration-90-day-playbook
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/post-acquisition-ip-integration-90-day-playbook/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -65,6 +65,20 @@ The math is direct. If the acquisition premium attributable to IP was $10 millio
 
 Beyond Elevation runs post-acquisition IP integration as a 90-day sprint specifically to prevent this value leak. The output is a unified IP register, an activated licensing pipeline, a documented trade secret inventory, and a pruned portfolio that costs less to maintain and generates more revenue than either legacy portfolio. Hayat Amin reminds founders and acquirers that the day you close is not the end of the IP transaction — it is the start of the IP activation. Book a [post-acquisition IP integration assessment](https://beyondelevation.com) before the 90-day window closes.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-post-acquisition-ip-integration-90-day-playbook)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long should post-acquisition IP integration take?
@@ -82,3 +96,6 @@ Trade secrets from the acquired company are the most fragile IP asset post-close
 ### Should you abandon patents from the acquired company's portfolio?
 
 Strategic abandonment is a legitimate part of post-acquisition IP integration. Most combined portfolios contain 20-30% of patents that no longer serve a defensive, offensive, or licensing purpose. Maintaining them wastes $2,000-$8,000 per patent per year across major jurisdictions. Map every patent to the combined product roadmap and licensing strategy, then abandon or sell those that serve neither. Redirect the savings into strengthening the patents that matter — the ones that anchor your [recurring patent revenue streams](/blog/posts/recurring-patent-revenue-streams/).
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

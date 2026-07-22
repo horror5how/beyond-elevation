@@ -4830,3 +4830,23 @@ A SEP anti-suit injunction is a court order that prohibits a patent holder from 
 The mechanic is straightforward. An implementer files for an anti-suit injunction in a jurisdiction known for setting low FRAND rates. If granted, the order blocks the SEP holder from litigating in any other court. The patent holder is locked int
 
 ---
+
+## 73% of Acquirers Never Run a Post-Acquisition IP Integration. Here Is the 90-Day Playbook That Stops the Value Leak.
+
+URL: https://beyondelevation.com/blog/posts/post-acquisition-ip-integration-90-day-playbook/
+
+73% of acquirers never run a structured post-acquisition IP integration after close. They paid for the patent portfolio. Then they let it rot.
+
+Post-acquisition IP integration is the gap where most deal value disappears. Hayat Amin has tracked this pattern across dozens of tech acquisitions: the buyer's IP team runs exhaustive due diligence before signing, celebrates the close, then goes dark on day one. Three months later, trade secrets have walked out with departing engineers, patent maintenance fees have lapsed on critical filings, and the licensing program that justified the premium is dormant.
+
+The problem is not the diligence. The problem is that nobody builds a post-acquisition IP integration playbook with the same rigour they applied to the diligence checklist.
+
+## Why Does IP Value Leak After an Acquisition?
+
+Post-acquisition IP integration is where most acquirers destroy the premium they paid. Trade secrets walk out with departing employees, patent maintenance deadlines get missed during reorg, and licensing programs go dark — all within 90 days of close. The diligence was right. The integration was absent.
+
+The value leak has three sources, and all three start on closing day.
+
+**Trade secret loss.** Acquired companies typically lose 15-30% of their technical staff within the first six months post-close. Every departing engineer carries institutional knowledge — training recipes, system configurations, proprietary workflows — that was never documented as a trade sec
+
+---
