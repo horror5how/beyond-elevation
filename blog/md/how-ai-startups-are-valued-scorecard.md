@@ -87,6 +87,10 @@ What investors evaluate under this factor:
 
 The venture consensus in May 2026 is clear: GPT-wrapper rejection is table stakes. Investors explicitly score defensibility on proprietary data flywheels, workflow integration depth, and vertical specialisation. The generic AI plays are dead. The vertical-specific, IP-defended, data-rich plays are where the premium multiples live.
 
+## AI Company Valuation Multiples: The 2026 Benchmarks
+
+Once the four factors are scored, investors translate them into a revenue multiple. In 2026 the spread looks like this: commodity AI wrappers with no IP trade at 3x to 8x revenue, vertical AI software with sticky data trades at 10x to 20x, and AI companies with defensible IP plus proprietary data command 25x to 40x. The same £2m ARR business can be worth £8m or £60m depending on which bucket it lands in. For the full breakdown by vertical, see our [2026 AI valuation multiples cheat sheet](/blog/posts/ai-business-worth-2026-multiples/) and the [6-number valuation worksheet](/blog/posts/how-to-value-ai-company-worksheet/).
+
 ## The Hayat Amin AI Startup Valuation Scorecard
 
 Hayat Amin developed this scorecard after studying how investors actually price AI companies — not how they claim to. Each factor is scored 1–10, then weighted to produce a composite defensibility rating that correlates directly with the valuation multiples AI startups command.
@@ -118,6 +122,14 @@ Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising
 ---
 
 ## FAQ
+
+### How do you value an AI software company?
+
+Start with recurring revenue, then adjust the multiple for defensibility: patents filed, proprietary training data, switching costs, and revenue concentration. An AI software company with protected IP and unique data typically earns 2x to 4x the multiple of an identical business running on rented models and public data.
+
+### What are typical AI valuation multiples in 2026?
+
+Roughly 3x to 8x revenue for undifferentiated AI products, 10x to 20x for vertical AI with real data moats, and 25x+ for companies with patent-protected methods and exclusive datasets. The multiple is a scoreboard for defensibility, not revenue size.
 
 ### How are AI startups valued differently from SaaS startups?
 

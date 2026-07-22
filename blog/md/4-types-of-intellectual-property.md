@@ -27,6 +27,18 @@ The 4 types of intellectual property are patents, trademarks, copyrights, and tr
 
 **Trade secrets** protect confidential business information — algorithms, customer lists, manufacturing processes, pricing models, and proprietary datasets. Trade secret protection lasts indefinitely, costs nothing to file (because you do not file), and is often the most valuable form of IP a company holds. The catch: once a trade secret is disclosed, the protection is gone forever.
 
+## The 4 Types of Intellectual Property at a Glance
+
+TypeWhat it protectsHow long it lastsTypical cost to obtain
+PatentsInventions, methods, technical systems20 years from filing$10K to $25K per patent with counsel
+TrademarksBrand names, logos, slogansIndefinite with renewal$250 to $2K per class
+CopyrightCode, content, designs, creative workLife of author + 70 yearsAutomatic; registration ~$65
+Trade secretsFormulas, processes, data, know-howAs long as kept secretCost of internal controls
+
+## What Makes Intellectual Property Defensible?
+
+Owning IP and owning defensible IP are different things. Defensible IP survives three tests: it is hard to design around, it is enforceable in the markets where your competitors sell, and it maps to the revenue your buyers care about. A patent nobody infringes protects nothing. A trade secret your engineers can walk out with protects nothing. When investors say they pay premiums for defensible IP, they mean IP that passes all three tests, and they discount everything else to zero.
+
 ## Which Types of Intellectual Property Matter Most for Tech Founders?
 
 Patents and trade secrets drive more than 85% of defensible business value for technology companies. These are the two types of intellectual property that create the barriers competitors cannot easily cross — and the two that investors evaluate most heavily during due diligence.
@@ -92,6 +104,10 @@ Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising
 ---
 
 ## FAQ
+
+### What are the 4 types of intellectual property with examples?
+
+Patents (Dyson's cyclone technology), trademarks (the Nike swoosh), copyright (the source code of your product), and trade secrets (Google's ranking algorithm). Most valuable tech companies stack all four rather than relying on one.
 
 ### What are the 4 types of intellectual property?
 
