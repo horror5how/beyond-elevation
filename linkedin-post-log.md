@@ -537,3 +537,4 @@
 2026-07-22 12:23 | urn:li:share:7485670972843548672 | post #3 | ai-shorten-sales-cycle | AI doesn't just chase leads. It cuts days.  Long sales cycles drain cash and del
 2026-07-22 12:53 | urn:li:share:7485678285985673216 | You can sell your patent once. Or license it 200 times.  Most founders treat IP 
 2026-07-22 15:02 | urn:li:share:7485710769817333760 | post #4 | ai-revenue-forecasting-accuracy | Stop guessing revenue. Forecast with AI.  Inaccurate revenue forecasts lead to m
+2026-07-22 17:56 | urn:li:share:7485754634482003969 | 68% of tech acquisitions surface an IP chain-of-title gap at due diligence.  The
