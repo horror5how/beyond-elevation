@@ -1,12 +1,5 @@
 [
   {
-    "hash": "2062e7ffc3e7ff99",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ai-cost-is-rework-not-tokens",
-    "ts": "2026-07-20T15:09:43.841Z"
-  },
-  {
     "hash": "0062e7ffc3c3fff9",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-customer-support-human-touch",
     "ts": "2026-07-21T18:07:48.351Z"
+  },
+  {
+    "hash": "3cf030133ff7ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "ip-anti-suit-injunction-strategy",
+    "ts": "2026-07-22T09:32:07.989Z"
   }
 ]

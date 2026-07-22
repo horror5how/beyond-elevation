@@ -3,7 +3,7 @@ date: 2026-07-22
 theme: Activating IP for non-dilutive value and deploying AI for operational velocity (sales, finance, CX) with real-world insights from enterprise deployments.
 generated_at: 2026-07-22T06:25:34.779Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content focuses on turning intangible assets—from patent portfolios to
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-22T09:32:07.989Z
+share_urn: urn:li:share:7485627732496781312
 hook_format: contrarian
 cta_goal: clicks
 slug: ip-anti-suit-injunction-strategy
