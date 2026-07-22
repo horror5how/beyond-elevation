@@ -140,6 +140,18 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/post-acquisition-ip-integration-90-day-playbook/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>73% of Acquirers Never Run a Post-Acquisition IP Integration. Here Is the 90-Day Playbook That Stops the Value Leak.</image:title>
+      <image:caption>73% of Acquirers Never Run a Post-Acquisition IP Integration. Here Is the 90-Day Playbook That Stops the Value Leak. — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/post-acquisition-ip-integration-90-day-playbook/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/frand-royalty-rate-wipo-3-methods-2026/</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -3318,11 +3330,5 @@
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/post-acquisition-ip-integration-90-day-playbook/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
