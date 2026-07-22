@@ -3,7 +3,7 @@ date: 2026-07-22
 theme: Activating IP for non-dilutive value and deploying AI for operational velocity (sales, finance, CX) with real-world insights from enterprise deployments.
 generated_at: 2026-07-22T06:25:34.779Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -155,7 +155,9 @@ One client improved forecast accuracy by 15%, saving their CFO 20 hours/month.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-22T18:00:43.081Z
+share_urn: urn:li:share:7485755722522353664
 hook_format: contrarian
 cta_goal: comments
 slug: ai-personalize-cx-small-scale

@@ -529,3 +529,4 @@ ai-shorten-sales-cycle
 ip-licensing-retain-ownership-cashflow-2026
 ai-revenue-forecasting-accuracy
 ip-chain-of-title-exit-cost-2026
+ai-personalize-cx-small-scale
