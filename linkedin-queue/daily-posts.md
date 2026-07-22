@@ -3,7 +3,7 @@ date: 2026-07-22
 theme: Activating IP for non-dilutive value and deploying AI for operational velocity (sales, finance, CX) with real-world insights from enterprise deployments.
 generated_at: 2026-07-22T06:25:34.779Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ Companies earning 11% of revenue from data assets use this strategy, a 5x gap.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-22T12:23:57.244Z
+share_urn: urn:li:share:7485670972843548672
 hook_format: contrarian
 cta_goal: comments
 slug: ai-shorten-sales-cycle

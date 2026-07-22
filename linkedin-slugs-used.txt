@@ -528,3 +528,4 @@ ai-customer-support-human-touch
 sep-anti-suit-injunction-licensing-2026
 ip-anti-suit-injunction-strategy
 data-licensing-public-vs-proprietary
+ai-shorten-sales-cycle

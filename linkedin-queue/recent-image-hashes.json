@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c7031111f34ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "patent-pool-court-set-royalty-implementer-2026",
-    "ts": "2026-07-21T09:32:03.487Z"
-  },
-  {
     "hash": "0042e7ffe7c3ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "data-licensing-public-vs-proprietary",
     "ts": "2026-07-22T11:10:56.727Z"
+  },
+  {
+    "hash": "2424ffff81e7ff99",
+    "layout": "b",
+    "accent": "#8aa6b8",
+    "slug": "ai-shorten-sales-cycle",
+    "ts": "2026-07-22T12:23:57.244Z"
   }
 ]
