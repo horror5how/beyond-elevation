@@ -535,3 +535,4 @@
 2026-07-22 09:32 | urn:li:share:7485627732496781312 | post #1 | ip-anti-suit-injunction-strategy | One IP clause stops global lawsuits.  Multi-jurisdictional patent litigation cos
 2026-07-22 11:10 | urn:li:share:7485652599812177920 | post #2 | data-licensing-public-vs-proprietary | Public data is free. Proprietary data is revenue.  Relying on commoditized publi
 2026-07-22 12:23 | urn:li:share:7485670972843548672 | post #3 | ai-shorten-sales-cycle | AI doesn't just chase leads. It cuts days.  Long sales cycles drain cash and del
+2026-07-22 12:53 | urn:li:share:7485678285985673216 | You can sell your patent once. Or license it 200 times.  Most founders treat IP 
