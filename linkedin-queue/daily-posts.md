@@ -3,7 +3,7 @@ date: 2026-07-22
 theme: Activating IP for non-dilutive value and deploying AI for operational velocity (sales, finance, CX) with real-world insights from enterprise deployments.
 generated_at: 2026-07-22T06:25:34.779Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One BE client avoided $14M in global litigation in 18 months.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-22T11:10:56.727Z
+share_urn: urn:li:share:7485652599812177920
 hook_format: contrarian
 cta_goal: clicks
 slug: data-licensing-public-vs-proprietary

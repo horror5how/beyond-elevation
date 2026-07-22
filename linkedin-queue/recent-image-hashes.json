@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0062e7ffc3c3fff9",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "ai-fails-on-dirty-data",
-    "ts": "2026-07-20T18:47:35.631Z"
-  },
-  {
     "hash": "3c7031111f34ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ip-anti-suit-injunction-strategy",
     "ts": "2026-07-22T09:32:07.989Z"
+  },
+  {
+    "hash": "2066e7ffc381ff9f",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "data-licensing-public-vs-proprietary",
+    "ts": "2026-07-22T11:10:56.727Z"
   }
 ]

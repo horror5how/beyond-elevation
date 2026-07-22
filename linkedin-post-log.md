@@ -533,3 +533,4 @@
 2026-07-21 18:07 | urn:li:share:7485395118317875200 | post #5 | ai-customer-support-human-touch | AI support doesn't have to sound like a bot.  Impersonal AI support drives custo
 2026-07-22 07:53 | urn:li:share:7485602991430098944 | Most founders don't know this weapon exists.  When a licensee runs to a cheap co
 2026-07-22 09:32 | urn:li:share:7485627732496781312 | post #1 | ip-anti-suit-injunction-strategy | One IP clause stops global lawsuits.  Multi-jurisdictional patent litigation cos
+2026-07-22 11:10 | urn:li:share:7485652599812177920 | post #2 | data-licensing-public-vs-proprietary | Public data is free. Proprietary data is revenue.  Relying on commoditized publi
