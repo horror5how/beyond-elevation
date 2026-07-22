@@ -530,3 +530,4 @@ ip-anti-suit-injunction-strategy
 data-licensing-public-vs-proprietary
 ai-shorten-sales-cycle
 ip-licensing-retain-ownership-cashflow-2026
+ai-revenue-forecasting-accuracy

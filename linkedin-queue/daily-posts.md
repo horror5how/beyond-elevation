@@ -3,7 +3,7 @@ date: 2026-07-22
 theme: Activating IP for non-dilutive value and deploying AI for operational velocity (sales, finance, CX) with real-world insights from enterprise deployments.
 generated_at: 2026-07-22T06:25:34.779Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ One client reduced average sales cycle by 14 days, boosting Q3 revenue 8%.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-22T15:02:05.551Z
+share_urn: urn:li:share:7485710769817333760
 hook_format: contrarian
 cta_goal: comments
 slug: ai-revenue-forecasting-accuracy

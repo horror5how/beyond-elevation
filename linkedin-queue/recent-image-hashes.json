@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0042e7ffe7c3ff99",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "ip-audit-valuation-multiple-41-percent-gap-2026",
-    "ts": "2026-07-21T11:10:30.720Z"
-  },
-  {
     "hash": "007effffffff2000",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#8aa6b8",
     "slug": "ai-shorten-sales-cycle",
     "ts": "2026-07-22T12:23:57.244Z"
+  },
+  {
+    "hash": "003cffffffff2424",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "ai-revenue-forecasting-accuracy",
+    "ts": "2026-07-22T15:02:05.551Z"
   }
 ]
