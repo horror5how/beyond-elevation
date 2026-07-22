@@ -50,7 +50,6 @@ china-cnipa-2026-rectification-bad-faith
 ai-multiple-dispersion-workflow-moat
 agtech-ip-binsentry-vertical-multiples
 software-royalty-rates-2026
-agentic-ai-business-strategy
 patent-troll-defense-strategy
 data-monetization-revenue-gap
 ai-defensibility-five-axes-2026
@@ -214,7 +213,6 @@ spotify-umg-ai-licensing-deal-no-ai-sellout-protest-2026
 ai-data-licensing-revenue-stream-reddit-news-corp-2026
 freedom-to-operate-fto-2026
 ocean-tomo-90-percent-intangibles-brand-ip-committee-2026
-agentic-ai-business-strategy
 ip-audit-roi-2026
 ai-moat-vc-8-axis-score-2026
 patent-licence-minimum-guarantee-floor
@@ -275,7 +273,6 @@ every-patent-has-ai-by-2030
 5-ip-mistakes-cutting-valuation
 your-training-data-is-a-licensing-line
 ip-runs-47-percent-of-europe-economy
-fractional-cfo-patent-valuation
 a-tariff-can-erase-a-drug-patent
 pe-ip-discount-ai-acquisition-2026
 patent-work-got-a-40m-price-tag
@@ -531,3 +528,4 @@ data-licensing-public-vs-proprietary
 ai-shorten-sales-cycle
 ip-licensing-retain-ownership-cashflow-2026
 ai-revenue-forecasting-accuracy
+ip-chain-of-title-exit-cost-2026

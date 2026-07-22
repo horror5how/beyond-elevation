@@ -1,21 +1,21 @@
-You can sell your patent once. Or license it 200 times.
+68% of tech acquisitions surface an IP chain-of-title gap at due diligence.
 
-Most founders treat IP like real estate you flip.
+The average valuation hit: 30%.
 
-Licensing is the rental portfolio version.
+It almost always comes from 3 sources.
 
-One patent. 50 licensees. $200K each. That's $10M in royalties — you still own the asset.
+A contractor wrote core code. No IP assignment clause.
 
-Your acquirer pays again at exit.
+A co-founder built the first prototype. Left before the SHA. No IP deed.
 
-3 reasons founders skip this:
+An employee filed the founding invention. Left. No assignment back.
 
-They think deals take years. (Most close in 60 days.)
+The acquirer's IP counsel traces every asset to its creator. If the chain breaks, the deal reprices.
 
-They think it needs BigLaw. (A licensing advisor costs less than one BigLaw hour.)
+You have 14 days to resolve a title issue cleanly before it becomes a permanent haircut.
 
-They think their IP isn't valuable. (73% of audited portfolios have a licensable claim.)
+Most founders find out when the LOI arrives.
 
-Retained ownership + recurring royalties = the capital efficiency play most founders never touch.
+Run the audit before they do.
 
-#IPstrategy #patentlicensing #startupfinance
+#IPStrategy #Founders #Acquisitions
