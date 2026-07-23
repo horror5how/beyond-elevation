@@ -531,3 +531,4 @@ ai-revenue-forecasting-accuracy
 ip-chain-of-title-exit-cost-2026
 ai-personalize-cx-small-scale
 ip-rep-warranty-insurance-holdback-2026
+ip-startup-shutdown-salvage-strategy

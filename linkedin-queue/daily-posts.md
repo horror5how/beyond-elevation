@@ -3,7 +3,7 @@ date: 2026-07-23
 theme: Today's posts focus on turning hidden costs and uncaptured value into tangible gains. For IP, we look at salvaging value from distressed portfolios and eliminating cash drains from dormant patents. For AI, we tackle the operational reality of dynamic pricing, lead follow-up, and churn prediction, highlighting the numbers vendors hide and the actionable steps operators can take this week.
 generated_at: 2026-07-23T06:28:09.660Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content batch targets the hidden costs and missed revenue opportunities 
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-23T09:29:04.000Z
+share_urn: urn:li:share:7485989349054939136
 hook_format: contrarian
 cta_goal: comments
 slug: ip-startup-shutdown-salvage-strategy
