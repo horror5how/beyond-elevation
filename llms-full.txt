@@ -5061,3 +5061,21 @@ The reason is a false trade-off. Founders assume that disclosing how their techn
 The cost of inaction is concrete. Cybersecurity companies without IP protection trade at lower multiples, face design-arou
 
 ---
+
+## IP Strategy for Defense Tech Startups: The Government Contract Trap That Costs Founders Their Entire Exit
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-defense-tech-startups/
+
+Defense tech startups raised over $12 billion in the last 18 months. And 4 out of 5 of those founders signed government contracts that give the Pentagon commercial rights to their best technology without realizing it. They find out during acquisition due diligence. By then, the exit multiple has already been cut.
+
+Hayat Amin has reviewed IP portfolios from over a dozen dual-use startups preparing for acquisition. "The pattern is identical every time," Hayat Amin says. "The founder builds transformative technology, wins a DoD contract, and never reads the IP clause. Two years later, an acquirer runs diligence and discovers the government holds unlimited rights to the core innovation. The offer drops 30 to 40 percent overnight." IP strategy for defense tech startups is fundamentally different from every other vertical because your biggest customer is also your biggest IP risk.
+
+## What Are Government Purpose Rights and Why Do They Threaten Defense Tech IP Strategy?
+
+Government Purpose Rights (GPR) give the U.S. government a royalty-free license to use, modify, and distribute your technology for any government purpose, including letting other contractors use it. Under DFARS 252.227-7013, any technology developed with mixed government and private funding falls under GPR for five years, then converts to unlimited rights unless you negotiate otherwise.
+
+This single clause has destroyed more defense tech exit multiples than any competitor or market downturn.
+
+The trap works like thi
+
+---
