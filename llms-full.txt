@@ -5095,3 +5095,21 @@ Proprietary data is still a moat — but only if it is living data that compound
 Forbes reported in March 2026 that VCs are formally rethinking startup moats, specifically calling out one-time proprietary datasets as vulnerable. Stanford Law's June 2026 analysis of defensible moats for vertical AI reinforced the finding: the onl
 
 ---
+
+## 40% of Seed Money Now Goes to $100M AI Rounds — How to Land on the Funded Side of the Barbell
+
+URL: https://beyondelevation.com/blog/posts/ai-funding-barbell-100m-rounds-2026/
+
+AI is 81% of all venture capital in 2026. Four companies — OpenAI, Anthropic, xAI, Waymo — took a combined $188 billion in Q1 alone. And 40% of every seed and Series A dollar now flows to rounds north of $100 million.
+
+The 42% AI startup premium everyone quotes is a lie. It is an average hiding a barbell: one side raises $100M+ mega-rounds at 30x+ revenue multiples, the other side gets politely rejected at partner meetings. The difference is not better demos or faster growth. It is defensibility — and defensibility, in 2026, is an IP decision.
+
+Hayat Amin argues that the AI funding barbell is the single most important structural shift founders need to understand before their next raise. "VCs are not splitting on product quality," Hayat Amin says. "They are splitting on whether a funded team could rebuild your startup in 18 months for $5 million. If the answer is yes, you are on the wrong side of the barbell."
+
+## What Is the AI Funding Barbell?
+
+The AI funding barbell is the capital-concentration pattern where venture dollars cluster at the extremes — massive infrastructure bets on one end and a desert of skepticism for surface-AI startups on the other. According to Qubit Capital and Carta data, 40% of all seed and Series A capital in 2026 went to rounds exceeding $100 million, while AI's share of total global VC reached 81% by Q1 2026, up from 30% in 2022.
+
+This is not a rising tide lifting all boats. It is a divergence. The startups raising mega-rounds share a profile: prop
+
+---

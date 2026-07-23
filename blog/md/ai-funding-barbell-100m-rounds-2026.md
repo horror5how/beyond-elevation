@@ -2,8 +2,8 @@
 title: "40% of Seed Money Now Goes to $100M AI Rounds — How to Land on the Funded Side of the Barbell"
 slug: ai-funding-barbell-100m-rounds-2026
 date: 2026-07-23
-url: https://beyondelevation.com/blog/post.html?slug=ai-funding-barbell-100m-rounds-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ai-funding-barbell-100m-rounds-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -63,6 +63,20 @@ Beyond Elevation's [IP defensibility assessment](/blog/posts/ip-defensibility-as
 
 The AI funding barbell is not going away. Capital concentration will accelerate as foundation model costs drop and application-layer differentiation becomes harder. The founders who raise in this market are the ones who prove their position cannot be replicated — and that proof, in every case, starts with IP.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ai-funding-barbell-100m-rounds-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### What is the AI funding barbell in 2026?
@@ -84,3 +98,6 @@ Run a pre-raise IP audit that maps defensible assets, files a patent cluster cov
 ### Is the 42% AI premium real?
 
 The 42% AI premium is an average that hides the barbell split. Infra-defensible AI startups with IP and enterprise revenue close well above it. AI-as-a-surface-feature startups with no IP protection close well below it — or do not close at all.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
