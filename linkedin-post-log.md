@@ -541,3 +541,4 @@
 2026-07-22 18:00 | urn:li:share:7485755722522353664 | post #5 | ai-personalize-cx-small-scale | Personalized CX at small scale. No huge budget.  Generic customer experiences le
 2026-07-23 07:53 | QUEUED | ip-rep-warranty-insurance-holdback-2026 | M&A holdbacks on IP reps take $1.8M from the average tech exit.
 2026-07-23 09:29 | urn:li:share:7485989349054939136 | post #1 | ip-startup-shutdown-salvage-strategy | Your IP isn't worthless when your startup dies.  Most founders assume creditors 
+2026-07-23 11:11 | urn:li:share:7486015223825530880 | post #2 | dormant-patent-portfolio-cash-drain | Your dormant patent portfolio is a $15K/year cash drain.  You're paying escalati

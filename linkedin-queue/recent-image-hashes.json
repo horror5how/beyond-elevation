@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef3f31303f5ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "ai-customer-support-human-touch",
-    "ts": "2026-07-21T18:07:48.351Z"
-  },
-  {
     "hash": "3cf030133ff7ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ip-startup-shutdown-salvage-strategy",
     "ts": "2026-07-23T09:29:04.000Z"
+  },
+  {
+    "hash": "2466e7ffc3c3ff99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "dormant-patent-portfolio-cash-drain",
+    "ts": "2026-07-23T11:11:53.082Z"
   }
 ]

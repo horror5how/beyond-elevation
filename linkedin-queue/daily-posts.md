@@ -3,7 +3,7 @@ date: 2026-07-23
 theme: Today's posts focus on turning hidden costs and uncaptured value into tangible gains. For IP, we look at salvaging value from distressed portfolios and eliminating cash drains from dormant patents. For AI, we tackle the operational reality of dynamic pricing, lead follow-up, and churn prediction, highlighting the numbers vendors hide and the actionable steps operators can take this week.
 generated_at: 2026-07-23T06:28:09.660Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One BE client salvaged $4M in IP value from a portfolio slated for zero liquidat
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-23T11:11:53.082Z
+share_urn: urn:li:share:7486015223825530880
 hook_format: number-led
 cta_goal: comments
 slug: dormant-patent-portfolio-cash-drain
