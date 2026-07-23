@@ -1,12 +1,5 @@
 [
   {
-    "hash": "2424ffff81e7ff99",
-    "layout": "b",
-    "accent": "#8aa6b8",
-    "slug": "ai-shorten-sales-cycle",
-    "ts": "2026-07-22T12:23:57.244Z"
-  },
-  {
     "hash": "003cffffffff2424",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-lead-follow-up-24-7-reality",
     "ts": "2026-07-23T15:06:27.321Z"
+  },
+  {
+    "hash": "7ef301711775ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-churn-prediction-action-plan",
+    "ts": "2026-07-23T18:06:20.451Z"
   }
 ]

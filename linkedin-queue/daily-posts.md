@@ -3,7 +3,7 @@ date: 2026-07-23
 theme: Today's posts focus on turning hidden costs and uncaptured value into tangible gains. For IP, we look at salvaging value from distressed portfolios and eliminating cash drains from dormant patents. For AI, we tackle the operational reality of dynamic pricing, lead follow-up, and churn prediction, highlighting the numbers vendors hide and the actionable steps operators can take this week.
 generated_at: 2026-07-23T06:28:09.660Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -155,7 +155,9 @@ One sales team increased qualified demo bookings by 22% and cut follow-up hours 
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-23T18:06:20.451Z
+share_urn: urn:li:share:7486119525218865153
 hook_format: contrarian
 cta_goal: comments
 slug: ai-churn-prediction-action-plan

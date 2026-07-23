@@ -546,3 +546,4 @@
 2026-07-23 14:08 | urn:li:share:7486059768357400576 | Growth is no longer the #1 AI valuation driver.  Defensibility is. Formally. In 
 2026-07-23 15:06 | urn:li:share:7486074255323983873 | post #4 | ai-lead-follow-up-24-7-reality | AI can follow up 24/7. Your brand can't.  Impersonal, automated follow-ups kill 
 2026-07-23 17:52 | urn:li:share:7486115973046034433 | The data-monetisation market hits $17.6B by 2033.  Most companies get none of it
+2026-07-23 18:06 | urn:li:share:7486119525218865153 | post #5 | ai-churn-prediction-action-plan | Cut churn *before* it happens. This week.  Losing 5% of customers costs 2x more 

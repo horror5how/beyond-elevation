@@ -537,3 +537,4 @@ ai-dynamic-pricing-sme-reality
 ai-valuation-scorecard-inversion-2026
 ai-lead-follow-up-24-7-reality
 why-data-monetization-strategies-fail-infra-2026
+ai-churn-prediction-action-plan
