@@ -1,12 +1,5 @@
 [
   {
-    "hash": "2066e7ffc381ff9f",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "data-licensing-public-vs-proprietary",
-    "ts": "2026-07-22T11:10:56.727Z"
-  },
-  {
     "hash": "2424ffff81e7ff99",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-dynamic-pricing-sme-reality",
     "ts": "2026-07-23T12:22:24.582Z"
+  },
+  {
+    "hash": "3c78100b03f5ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "ai-lead-follow-up-24-7-reality",
+    "ts": "2026-07-23T15:06:27.321Z"
   }
 ]
