@@ -539,3 +539,4 @@
 2026-07-22 15:02 | urn:li:share:7485710769817333760 | post #4 | ai-revenue-forecasting-accuracy | Stop guessing revenue. Forecast with AI.  Inaccurate revenue forecasts lead to m
 2026-07-22 17:56 | urn:li:share:7485754634482003969 | 68% of tech acquisitions surface an IP chain-of-title gap at due diligence.  The
 2026-07-22 18:00 | urn:li:share:7485755722522353664 | post #5 | ai-personalize-cx-small-scale | Personalized CX at small scale. No huge budget.  Generic customer experiences le
+2026-07-23 07:53 | QUEUED | ip-rep-warranty-insurance-holdback-2026 | M&A holdbacks on IP reps take $1.8M from the average tech exit.
