@@ -5079,3 +5079,19 @@ This single clause has destroyed more defense tech exit multiples than any compe
 The trap works like thi
 
 ---
+
+## Your Expensive Dataset Stopped Being a Moat in 2026 — Only Living Data Defends
+
+URL: https://beyondelevation.com/blog/posts/living-data-vs-static-dataset-moat-2026/
+
+VCs now say the same thing behind closed doors: the dataset you spent $2M collecting is a depreciating asset. Static proprietary data — scraped, purchased, or manually curated — no longer defends against competitors armed with large language models that ingest and recombine the world's knowledge overnight. Hayat Amin argues this is the sharpest inflection point in AI defensibility since the open-weight model release wave: "A founder who tells me their moat is a dataset they built once is telling me they have no moat at all."
+
+The split that matters now is living data versus static data. And it changes how every AI company should think about [data moat scoring](/blog/posts/data-moat-scoring-framework-investors/), IP protection, and fundraising positioning.
+
+## Is Proprietary Data Still a Moat for AI Companies?
+
+Proprietary data is still a moat — but only if it is living data that compounds through continuous operations. Static datasets, no matter how expensive to assemble, have lost their defensive value because LLMs can approximate most of their informational content within months of training on publicly available sources. The defensible form is data generated continuously through operations that are themselves hard to replicate.
+
+Forbes reported in March 2026 that VCs are formally rethinking startup moats, specifically calling out one-time proprietary datasets as vulnerable. Stanford Law's June 2026 analysis of defensible moats for vertical AI reinforced the finding: the onl
+
+---
