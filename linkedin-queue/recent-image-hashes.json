@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3cf030133ff7ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "ip-anti-suit-injunction-strategy",
-    "ts": "2026-07-22T09:32:07.989Z"
-  },
-  {
     "hash": "2066e7ffc381ff9f",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "dormant-patent-portfolio-cash-drain",
     "ts": "2026-07-23T11:11:53.082Z"
+  },
+  {
+    "hash": "02ffffffff642d25",
+    "layout": "a",
+    "accent": "#d7b086",
+    "slug": "ai-dynamic-pricing-sme-reality",
+    "ts": "2026-07-23T12:22:24.582Z"
   }
 ]

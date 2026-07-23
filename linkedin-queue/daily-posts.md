@@ -3,7 +3,7 @@ date: 2026-07-23
 theme: Today's posts focus on turning hidden costs and uncaptured value into tangible gains. For IP, we look at salvaging value from distressed portfolios and eliminating cash drains from dormant patents. For AI, we tackle the operational reality of dynamic pricing, lead follow-up, and churn prediction, highlighting the numbers vendors hide and the actionable steps operators can take this week.
 generated_at: 2026-07-23T06:28:09.660Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ One client cut $400K in fees and generated $1.2M in new licensing revenue in 90 
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-23T12:22:24.582Z
+share_urn: urn:li:share:7486032972052287488
 hook_format: contrarian
 cta_goal: comments
 slug: ai-dynamic-pricing-sme-reality
