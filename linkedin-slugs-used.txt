@@ -534,3 +534,4 @@ ip-rep-warranty-insurance-holdback-2026
 ip-startup-shutdown-salvage-strategy
 dormant-patent-portfolio-cash-drain
 ai-dynamic-pricing-sme-reality
+ai-valuation-scorecard-inversion-2026

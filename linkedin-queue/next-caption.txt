@@ -1,22 +1,13 @@
-M&A holdbacks on IP reps take $1.8M from the average tech exit.
+Growth is no longer the #1 AI valuation driver.
 
-Most founders accept 10-15% in escrow for 18 months. Their lawyer said it is standard.
+Defensibility is. Formally. In most 2026 VC scoring frameworks.
 
-It is not the only option.
+A moderate-growth startup with strong IP now out-multiples a high-growth one without it.
 
-Rep and warranty insurance transfers IP indemnification risk to an insurer at close.
+That's the 2021 growth-at-all-costs scorecard — inverted.
 
-Seller gets the full wire. No escrow. No wait.
+No-IP penalty: 20-30% at seed. 30-40% at Series A. Compounding every round.
 
-Cost: 2-3% of the insured amount. One-time premium.
+The move: IP audit before your next raise. Not for compliance. For the multiple.
 
-$12M exit, 15% holdback: insurance runs $54K. Releases $1.8M at close.
-
-Three clauses determine if you qualify:
-IP chain of title clean.
-No open infringement claims.
-No undisclosed employee IP assignments.
-
-Tick all three. Get paid in full on day one.
-
-#MergersAndAcquisitions #IPStrategy #ExitMultiple
+#IPStrategy #AIValuation #StartupFunding
