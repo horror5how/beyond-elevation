@@ -1,21 +1,22 @@
-68% of tech acquisitions surface an IP chain-of-title gap at due diligence.
+M&A holdbacks on IP reps take $1.8M from the average tech exit.
 
-The average valuation hit: 30%.
+Most founders accept 10-15% in escrow for 18 months. Their lawyer said it is standard.
 
-It almost always comes from 3 sources.
+It is not the only option.
 
-A contractor wrote core code. No IP assignment clause.
+Rep and warranty insurance transfers IP indemnification risk to an insurer at close.
 
-A co-founder built the first prototype. Left before the SHA. No IP deed.
+Seller gets the full wire. No escrow. No wait.
 
-An employee filed the founding invention. Left. No assignment back.
+Cost: 2-3% of the insured amount. One-time premium.
 
-The acquirer's IP counsel traces every asset to its creator. If the chain breaks, the deal reprices.
+$12M exit, 15% holdback: insurance runs $54K. Releases $1.8M at close.
 
-You have 14 days to resolve a title issue cleanly before it becomes a permanent haircut.
+Three clauses determine if you qualify:
+IP chain of title clean.
+No open infringement claims.
+No undisclosed employee IP assignments.
 
-Most founders find out when the LOI arrives.
+Tick all three. Get paid in full on day one.
 
-Run the audit before they do.
-
-#IPStrategy #Founders #Acquisitions
+#MergersAndAcquisitions #IPStrategy #ExitMultiple
