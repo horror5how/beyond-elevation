@@ -680,7 +680,7 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 
 1. **T5-126** — ✅ `living-data-vs-static-dataset-moat-2026` — Is proprietary data still a moat? (living-vs-static data split) — SHIPPED
 2. **T5-128** — 🟡 `defensibility-overtook-growth-ai-valuation-2026` (slug hint) — Does defensibility beat growth for AI valuation? (scorecard inversion) — open
-3. **T5-127** — 🟡 `ai-funding-barbell-100m-rounds-2026` (slug hint) — Why do some AI startups raise mega-rounds while others get punished? — open
+3. **T5-127** — ✅ `ai-funding-barbell-100m-rounds-2026` — Why do some AI startups raise mega-rounds while others get punished? — SHIPPED
 4. **T5-129** — 🟡 `why-data-monetization-strategies-fail-infra-2026` (slug hint) — Why do most data monetization strategies fail? (infra not strategy) — open
 
 **Already shipped (✅):**
