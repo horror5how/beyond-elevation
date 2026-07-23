@@ -545,3 +545,4 @@
 2026-07-23 12:22 | urn:li:share:7486032972052287488 | post #3 | ai-dynamic-pricing-sme-reality | Dynamic pricing with AI works. For some.  Most businesses lose 5-10% margin chas
 2026-07-23 14:08 | urn:li:share:7486059768357400576 | Growth is no longer the #1 AI valuation driver.  Defensibility is. Formally. In 
 2026-07-23 15:06 | urn:li:share:7486074255323983873 | post #4 | ai-lead-follow-up-24-7-reality | AI can follow up 24/7. Your brand can't.  Impersonal, automated follow-ups kill 
+2026-07-23 17:52 | urn:li:share:7486115973046034433 | The data-monetisation market hits $17.6B by 2033.  Most companies get none of it
