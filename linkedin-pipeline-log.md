@@ -993,3 +993,8 @@ Post 5: hook_too_long(14w)
 2026-07-22 12:23 | li-auto-post | render OK | post #3 | layout=b accent=#8aa6b8 hash=2424ffff81e7ff99 minDist=13 attempts=1
 2026-07-22 15:02 | li-auto-post | render OK | post #4 | layout=a accent=#a87c7c hash=003cffffffff2424 minDist=5 attempts=1
 2026-07-22 18:00 | li-auto-post | render OK | post #5 | layout=b accent=#8aa6b8 hash=0042e7ff81e3ff99 minDist=9 attempts=1
+2026-07-23 06:28 | li-generate-queue | news rail: 20 trending AI headlines in prompt
+2026-07-23 06:28 | li-generate-queue | ceo question bank: 35 loaded, 10 in today's shortlist
+2026-07-23 06:28 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-23 06:28 | li-generate-queue | attempt 1 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
+2026-07-23 06:28 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
