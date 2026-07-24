@@ -552,3 +552,4 @@
 2026-07-24 11:07 | urn:li:share:7486376418453434368 | post #2 | data-asset-acquisition-premium | Acquirers pay 2x more for data-first companies.  Most businesses treat data as a
 2026-07-24 12:17 | urn:li:share:7486394006176882688 | post #1 | licensing-revenue-concentration-risk | One licensing renewal moved Reddit's whole valuation.  Data licensing revenue is
 2026-07-24 14:52 | urn:li:share:7486433237020377088 | post #2 | patent-backlog-time-to-grant | Cheap patent drafting will not save you.  Three AI patent startups raised $83M b
+2026-07-24 18:09 | urn:li:share:7486482779812036611 | post #3 | ai-finds-hidden-upsell | AI finds hidden upsell in 3 minutes.  Sales teams lose $25K+ per rep annually fr

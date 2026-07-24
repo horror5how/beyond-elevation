@@ -3,7 +3,7 @@ date: 2026-07-24
 theme: Intangible assets only pay when you manage their risk and their clock: licensing revenue is priced on concentration, patents are priced on time to grant, and AI operations are priced on the before and after numbers they move.
 generated_at: 2026-07-24T11:14:01.000Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -83,7 +83,9 @@ By 2027 the diligence question shifts from filings per year to granted claims pe
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-24T18:09:47.177Z
+share_urn: urn:li:share:7486482779812036611
 hook_format: contrarian
 cta_goal: comments
 slug: ai-finds-hidden-upsell

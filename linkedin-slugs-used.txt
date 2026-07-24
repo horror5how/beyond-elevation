@@ -543,3 +543,4 @@ ip-drives-capital-efficiency
 data-asset-acquisition-premium
 licensing-revenue-concentration-risk
 patent-backlog-time-to-grant
+ai-finds-hidden-upsell
