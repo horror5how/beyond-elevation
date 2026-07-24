@@ -681,7 +681,7 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 1. **T5-126** — ✅ `living-data-vs-static-dataset-moat-2026` — Is proprietary data still a moat? (living-vs-static data split) — SHIPPED
 2. **T5-128** — 🟡 `defensibility-overtook-growth-ai-valuation-2026` (slug hint) — Does defensibility beat growth for AI valuation? (scorecard inversion) — open
 3. **T5-127** — ✅ `ai-funding-barbell-100m-rounds-2026` — Why do some AI startups raise mega-rounds while others get punished? — SHIPPED
-4. **T5-129** — 🟡 `why-data-monetization-strategies-fail-infra-2026` (slug hint) — Why do most data monetization strategies fail? (infra not strategy) — open
+4. **T5-129** — ✅ `why-data-monetization-fails-infrastructure-2026` — Why do most data monetization strategies fail? (infra not strategy) — SHIPPED
 
 **Already shipped (✅):**
 T5-01 → T5-125 fully shipped. Latest flips (07-20 batch shipped since last run): T5-122 ✅ `patent-pool-court-set-royalty-implementer-2026`, T5-123 ✅ `ip-audit-valuation-multiple-41-percent-gap-2026`, T5-124 ✅ `eu-ai-act-delay-runway-raise-deck-2026`, T5-125 ✅ `frand-royalty-rate-wipo-3-methods-2026`; plus a PatSnap-competitor-comparison batch (`patsnap-pricing-2026`, `clarivate-alternatives-2026`, `orbit-intelligence-alternatives-2026`, `derwent-innovation-alternatives-2026`, `ip-software-cost-comparison-2026`). All T5-01 → T5-125 shipped; T5-126 → T5-129 are the open queue.
