@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c78113b3715ffff",
-    "layout": "c",
-    "accent": "#7a8c6e",
-    "slug": "ip-startup-shutdown-salvage-strategy",
-    "ts": "2026-07-23T09:29:04.000Z"
-  },
-  {
     "hash": "2466e7ffc3c3ff99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "data-asset-acquisition-premium",
     "ts": "2026-07-24T11:07:08.605Z"
+  },
+  {
+    "hash": "3ef030103bf5ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "licensing-revenue-concentration-risk",
+    "ts": "2026-07-24T12:17:01.832Z"
   }
 ]

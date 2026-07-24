@@ -3,7 +3,7 @@ date: 2026-07-24
 theme: Intangible assets only pay when you manage their risk and their clock: licensing revenue is priced on concentration, patents are priced on time to grant, and AI operations are priced on the before and after numbers they move.
 generated_at: 2026-07-24T11:14:01.000Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Intangible assets only pay when you manage their risk and their clock: licensing
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-24T12:17:01.832Z
+share_urn: urn:li:share:7486394006176882688
 hook_format: number-led
 cta_goal: follows
 slug: licensing-revenue-concentration-risk
