@@ -23,7 +23,7 @@ AI features are probabilistic. A fine-tuned model takes the same input and produ
 
 Hayat Amin's analysis across 40+ SaaS-to-AI transitions reveals a consistent number: fewer than 8% of existing SaaS patent claims cover any part of the new AI feature stack. The other 92% protect a product architecture the company is actively migrating away from. When investors run [IP due diligence](/blog/posts/ip-due-diligence-checklist-vc-investors/), they check whether the patent portfolio covers the revenue-generating product. If the patents cover the old SaaS product while revenue shifts to AI features, the portfolio becomes a depreciating asset.
 
-## What Is Hayat Amin's SaaS-to-AI IP Pivot Framework?
+## What Is the SaaS-to-AI IP Pivot Framework?
 
 The SaaS-to-AI IP Pivot Framework is a 5-move sequence Hayat Amin developed at Beyond Elevation after running IP restructurings for SaaS companies transitioning to AI-native products. It converts a SaaS patent portfolio from a depreciating legacy asset into an AI-ready defensibility stack in under 90 days.
 
