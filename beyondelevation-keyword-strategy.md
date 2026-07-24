@@ -679,7 +679,11 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 **Open rows only (re-ranked 2026-07-23 — Tier 5 now 129 rows; 298 posts in `data/posts.json`. Every prior Tier 5 row (T5-01 → T5-125) is shipped, so today's 4 synthesized rows are the entire open queue and lead it.)**
 
 1. **T5-126** — ✅ `living-data-vs-static-dataset-moat-2026` — Is proprietary data still a moat? (living-vs-static data split) — SHIPPED
-2. **T5-128** — 🟡 `defensibility-overtook-growth-ai-valuation-2026` (slug hint) — Does defensibility beat growth for AI valuation? (scorecard inversion) — open
+2. **T5-128** — ✅ `ip-defensibility-beats-growth-2026` — Does defensibility beat growth for AI valuation? (scorecard inversion) — SHIPPED (that live post carries the same 25.8x vs 18.2x thesis; do not re-file)
+
+**⚠️ Tier 5 queue is EMPTY as of 2026-07-24.** The Blog-Publisher run on 2026-07-24 found all four 07-23 rows (T5-126 → T5-129) already shipped by concurrent crons, and Tier 1-4 closed, so it synthesized a net-new brief from a live coverage gap instead of the queue. The next SEO-strategist run must add fresh rows (T5-130+); until then Blog-Publisher will keep synthesizing.
+
+**Net-new brief shipped 2026-07-24 (logged as T5-130):** `ip-strategy-robotics-physical-ai-startups` — "Your Robot Patent Grants Two Hardware Generations Too Late" — primary keyword *IP strategy for robotics startups*. Non-obvious angle: the USPTO grant clock (~27.5 months total pendency) is slower than the robotics hardware iteration clock (12 to 18 months), so mechanism patents issue two product generations after the design they cover; the durable filings sit at the control/perception layer plus the fleet-telemetry regeneration loop, and the primary IP instrument is the customer deployment contract's derived-data clause. Grounded on H1-2026 robotics funding ($8.6B, 1.8x all of 2025) and robotic-foundation-model concentration ($3.92B across 9 deals). **Vertical gaps still open for future picks: medtech/medical devices, biotech, industrial manufacturing, semiconductors, space/aerospace** (fintech, climate tech, deep tech, cybersecurity and defense tech are already shipped).
 3. **T5-127** — ✅ `ai-funding-barbell-100m-rounds-2026` — Why do some AI startups raise mega-rounds while others get punished? — SHIPPED
 4. **T5-129** — ✅ `why-data-monetization-fails-infrastructure-2026` — Why do most data monetization strategies fail? (infra not strategy) — SHIPPED
 
