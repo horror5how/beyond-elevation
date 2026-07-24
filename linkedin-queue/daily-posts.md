@@ -3,7 +3,7 @@ date: 2026-07-24
 theme: Intangible assets only pay when you manage their risk and their clock: licensing revenue is priced on concentration, patents are priced on time to grant, and AI operations are priced on the before and after numbers they move.
 generated_at: 2026-07-24T11:14:01.000Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -51,7 +51,9 @@ Diversify the licensees before you book the ARR.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-24T14:52:55.606Z
+share_urn: urn:li:share:7486433237020377088
 hook_format: prediction
 cta_goal: clicks
 slug: patent-backlog-time-to-grant

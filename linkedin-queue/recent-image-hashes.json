@@ -1,12 +1,5 @@
 [
   {
-    "hash": "2466e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "dormant-patent-portfolio-cash-drain",
-    "ts": "2026-07-23T11:11:53.082Z"
-  },
-  {
     "hash": "02ffffffff642d25",
     "layout": "a",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "licensing-revenue-concentration-risk",
     "ts": "2026-07-24T12:17:01.832Z"
+  },
+  {
+    "hash": "007effffffff0505",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "patent-backlog-time-to-grant",
+    "ts": "2026-07-24T14:52:55.606Z"
   }
 ]
