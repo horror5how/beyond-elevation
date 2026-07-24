@@ -1,19 +1,27 @@
-The data-monetisation market hits $17.6B by 2033.
+Defensibility overtook growth as AI's #1 valuation driver.
 
-Most companies get none of it.
+81% of Q1 2026 VC went to AI.
 
-Not because their strategy is wrong.
+40% of seed and Series A rounds are now $100M+ tickets.
 
-Because their data isn't structured, registered, or licensable.
+Same ARR. Radically different multiples.
 
-When the buyer shows up — and they will — you can't sell.
+The question isn't how fast you're growing.
 
-The fix isn't another strategy doc.
+It's: can a well-funded competitor rebuild this in 18 months?
 
-It's plumbing: structure the data, register the asset, wire the licence.
+If yes — your multiple is capped.
 
-Companies that run all three steps unlock an average $1.2M ARR within 18 months.
+If no — you command a 4x premium on comparable revenue.
 
-The ones who stop at strategy are still "exploring" it.
+Three things that set the defensibility score:
 
-#DataMonetisation #IPStrategy #CapitalStrategy
+Living data moat, not a static dataset.
+
+Patent coverage depth, not provisional filings.
+
+Workflow integration that creates switching cost.
+
+Growth gets you in the room. Defensibility sets the price.
+
+#AIValuation #IPStrategy #VentureCapital
