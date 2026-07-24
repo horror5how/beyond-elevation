@@ -5133,3 +5133,21 @@ Data monetization fails because enterprises treat it as a commercial problem whe
 The 20.4% CAGR driving the market from $4.8B to $17.6B (Grand View Research, 2026) represents real demand. Buyers — AI companies, research institutions, fintech platforms, phar
 
 ---
+
+## Your Robot Patent Grants Two Hardware Generations Too Late: The IP Strategy for Robotics Startups That Survives the Redesign
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-robotics-physical-ai-startups/
+
+Robotics startups raised $8.6 billion in the first half of 2026, roughly 1.8 times the whole of 2025, and almost none of that capital is underwriting the patents those companies filed. The IP strategy for robotics startups that holds value in 2026 protects the control and data layer, not the mechanism. A mechanism patent grants around 27.5 months after filing, which lands two hardware revisions after the part you patented stopped shipping.
+
+That gap is the whole problem. Most robotics founders run an IP strategy borrowed from industrial manufacturing, where a product ships for eight years and a patent that grants in year three still guards six good years of revenue. Physical AI does not work that way. The hardware iterates every 12 to 18 months. The patent office does not.
+
+## Why the standard IP strategy for robotics startups fails
+
+The standard playbook says file on the thing you built. The actuator. The gripper geometry. The joint assembly. The thermal path. These feel like the invention because they are the parts you can hold.
+
+They are also the parts a competent mechanical engineering team designs around in a quarter. Hardware claims are geometric, and geometry has substitutes. Change the linkage count, move the compliance into the material, relocate the sensor, and the claim stops reading on the competing product. Beyond Elevation has reviewed portfolios where 80% of the granted claims covered a bill of materials the company itself had already abandoned.
+
+Meanwhile the 
+
+---
