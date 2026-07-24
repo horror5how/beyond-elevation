@@ -3,7 +3,7 @@ date: 2026-07-24
 theme: Today's posts focus on how strategic IP management and targeted AI operations can directly boost valuation and revenue, turning intangible assets into measurable financial gains and operational efficiency.
 generated_at: 2026-07-24T06:22:56.833Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ This batch illustrates how IP is a direct revenue and valuation lever, not just 
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-24T09:26:07.661Z
+share_urn: urn:li:share:7486350997271908352
 hook_format: contrarian
 cta_goal: comments
 slug: ip-drives-capital-efficiency

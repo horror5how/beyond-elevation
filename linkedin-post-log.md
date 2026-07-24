@@ -548,3 +548,4 @@
 2026-07-23 17:52 | urn:li:share:7486115973046034433 | The data-monetisation market hits $17.6B by 2033.  Most companies get none of it
 2026-07-23 18:06 | urn:li:share:7486119525218865153 | post #5 | ai-churn-prediction-action-plan | Cut churn *before* it happens. This week.  Losing 5% of customers costs 2x more 
 2026-07-24 07:51 | urn:li:share:7486327138510475264 | Defensibility overtook growth as AI's #1 valuation driver.  81% of Q1 2026 VC we
+2026-07-24 09:26 | urn:li:share:7486350997271908352 | post #1 | ip-drives-capital-efficiency | IP drives 40% higher capital efficiency.  Founders burn through $2.3M more than 

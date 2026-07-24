@@ -1,12 +1,5 @@
 [
   {
-    "hash": "003cffffffff2424",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "ai-revenue-forecasting-accuracy",
-    "ts": "2026-07-22T15:02:05.551Z"
-  },
-  {
     "hash": "0042e7ff81e3ff99",
     "layout": "b",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-churn-prediction-action-plan",
     "ts": "2026-07-23T18:06:20.451Z"
+  },
+  {
+    "hash": "0062e7ffe7c3ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "ip-drives-capital-efficiency",
+    "ts": "2026-07-24T09:26:07.661Z"
   }
 ]
