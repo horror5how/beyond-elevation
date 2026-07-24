@@ -3,7 +3,7 @@ date: 2026-07-24
 theme: Today's posts focus on how strategic IP management and targeted AI operations can directly boost valuation and revenue, turning intangible assets into measurable financial gains and operational efficiency.
 generated_at: 2026-07-24T06:22:56.833Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One client secured a 3x higher funding valuation using this IP playbook.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-24T11:07:08.605Z
+share_urn: urn:li:share:7486376418453434368
 hook_format: number-led
 cta_goal: comments
 slug: data-asset-acquisition-premium
