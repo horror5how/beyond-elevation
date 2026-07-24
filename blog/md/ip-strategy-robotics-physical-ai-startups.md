@@ -37,7 +37,7 @@ The funding data settles this argument better than any framework. In the physica
 
 Read that allocation carefully. The capital is concentrating on the layer that learns, not the layer that bolts together. Investors have priced the lesson that hardware converges and behaviour compounds. A humanoid chassis in 2026 is a supply chain exercise. A policy trained on 40,000 hours of deployed manipulation is not.
 
-This is the same split we wrote about in [living data versus static datasets](https://beyondelevation.com/blog/living-data-vs-static-dataset-moat-2026). A one-time dataset depreciates. A fleet that regenerates telemetry every operating hour appreciates. In robotics the effect is sharper, because the data is physically expensive to collect and cannot be scraped.
+This is the same split we wrote about in [living data versus static datasets](https://beyondelevation.com/blog/posts/living-data-vs-static-dataset-moat-2026/). A one-time dataset depreciates. A fleet that regenerates telemetry every operating hour appreciates. In robotics the effect is sharper, because the data is physically expensive to collect and cannot be scraped.
 
 ## The four layers, ranked by what survives
 
@@ -65,11 +65,11 @@ Founders ask what to do first. This order works.
 
 **Days 76 to 90.** Write the defensibility page for your data room: deployed fleet hours, telemetry volume per operating hour, retraining cadence, and the contractual basis of your data rights. Investors in this category ask for exactly this and most founders cannot produce it in under a week.
 
-The same discipline applies across hard technology categories. Our guide to [IP strategy for deep tech startups](https://beyondelevation.com/blog/ip-strategy-deep-tech-startups) covers the adjacent case where the physics is the moat rather than the data loop.
+The same discipline applies across hard technology categories. Our guide to [IP strategy for deep tech startups](https://beyondelevation.com/blog/posts/ip-strategy-deep-tech-startups/) covers the adjacent case where the physics is the moat rather than the data loop.
 
 ## The valuation consequence
 
-Robotics founders under-index on this because the payoff arrives at diligence, not at filing. It arrives loudly. Structured, audited IP positions clear materially higher multiples than unstructured ones, a gap we broke down in [why defensibility now beats growth rate](https://beyondelevation.com/blog/ip-defensibility-beats-growth-2026). In physical AI the effect compounds further, because the acquirer is buying an operating capability that a rebuild cannot replicate without the same years of deployment.
+Robotics founders under-index on this because the payoff arrives at diligence, not at filing. It arrives loudly. Structured, audited IP positions clear materially higher multiples than unstructured ones, a gap we broke down in [why defensibility now beats growth rate](https://beyondelevation.com/blog/posts/ip-defensibility-beats-growth-2026/). In physical AI the effect compounds further, because the acquirer is buying an operating capability that a rebuild cannot replicate without the same years of deployment.
 
 Beyond Elevation has turned many patents into billions in IP value by moving companies from asset counting to asset structuring. In robotics that means one shift: stop protecting the thing on the bench, start protecting the thing that learns.
 

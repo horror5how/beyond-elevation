@@ -164,6 +164,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/saas-to-ai-pivot-ip-strategy-2026/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>Your SaaS Patents Do Not Cover Your AI Features: The 5-Move IP Pivot That Turns a Product Transition Into a 3x Valuation Event</image:title>
+      <image:caption>Your SaaS Patents Do Not Cover Your AI Features: The 5-Move IP Pivot That Turns a Product Transition Into a 3x Valuation Event — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/saas-to-ai-pivot-ip-strategy-2026/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/ip-strategy-defense-tech-startups/</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -3486,11 +3498,5 @@
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/post.html?slug=saas-to-ai-pivot-ip-strategy-2026</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
