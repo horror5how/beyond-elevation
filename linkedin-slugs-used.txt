@@ -547,3 +547,4 @@ ai-finds-hidden-upsell
 ip-carve-out-ma-premium-founders
 patent-maintenance-fee-cash-drain-audit
 ai-customer-upsell-expansion-revenue-ops
+ai-ad-campaign-optimization-roas-sme

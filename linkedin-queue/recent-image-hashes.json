@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffffa5a4",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "data-asset-acquisition-premium",
-    "ts": "2026-07-24T11:07:08.605Z"
-  },
-  {
     "hash": "3ef030103bf5ffff",
     "layout": "c",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-customer-upsell-expansion-revenue-ops",
     "ts": "2026-07-25T12:02:37.055Z"
+  },
+  {
+    "hash": "3c7010017ff1ffff",
+    "layout": "c",
+    "accent": "#8aa6b8",
+    "slug": "ai-ad-campaign-optimization-roas-sme",
+    "ts": "2026-07-25T14:29:51.048Z"
   }
 ]
