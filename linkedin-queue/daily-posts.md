@@ -3,7 +3,7 @@ date: 2026-07-25
 theme: Today's theme focuses on how founders can unlock hidden value and operational efficiency. For IP, we look at strategic asset management and cost control. For AI, the focus shifts to direct revenue growth and adapting to new digital realities, answering critical CEO questions with actionable, on-the-ground plays.
 generated_at: 2026-07-25T06:15:13.224Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -158,7 +158,9 @@ One BE client saw ROAS jump 2.7x on AI-optimized campaigns within 2 weeks.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-25T17:48:22.003Z
+share_urn: urn:li:share:7486839777707683841
 hook_format: contrarian
 cta_goal: comments
 slug: ai-answer-engine-seo-playbook-traffic

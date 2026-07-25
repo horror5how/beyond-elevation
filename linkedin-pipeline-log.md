@@ -1040,3 +1040,4 @@ Post 3: slug_already_used(ai-contract-review-cycle-time-cut)
 2026-07-25 14:29 | li-auto-post | render attempt 1 | TOO SIMILAR (dist=4 < 5) | trying different variant
 2026-07-25 14:29 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=2 < 5) | trying different variant
 2026-07-25 14:29 | li-auto-post | render OK | post #4 | layout=c accent=#8aa6b8 hash=3c7010017ff1ffff minDist=8 attempts=3
+2026-07-25 17:48 | li-auto-post | render OK | post #5 | layout=b accent=#a89968 hash=02e3e7ffc3c3ff9d minDist=7 attempts=1
