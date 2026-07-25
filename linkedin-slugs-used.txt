@@ -545,3 +545,4 @@ licensing-revenue-concentration-risk
 patent-backlog-time-to-grant
 ai-finds-hidden-upsell
 ip-carve-out-ma-premium-founders
+patent-maintenance-fee-cash-drain-audit

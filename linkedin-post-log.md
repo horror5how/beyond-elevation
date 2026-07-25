@@ -554,3 +554,4 @@
 2026-07-24 14:52 | urn:li:share:7486433237020377088 | post #2 | patent-backlog-time-to-grant | Cheap patent drafting will not save you.  Three AI patent startups raised $83M b
 2026-07-24 18:09 | urn:li:share:7486482779812036611 | post #3 | ai-finds-hidden-upsell | AI finds hidden upsell in 3 minutes.  Sales teams lose $25K+ per rep annually fr
 2026-07-25 09:05 | urn:li:share:7486708071092834305 | post #1 | ip-carve-out-ma-premium-founders | Your M&A deal just left $8M on the table.  Bundling all IP with your operating c
+2026-07-25 10:28 | urn:li:share:7486728986006507520 | post #2 | patent-maintenance-fee-cash-drain-audit | Your "dead" patents drain $15,000 annually.  Most founders pay escalating mainte

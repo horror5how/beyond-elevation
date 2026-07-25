@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef301711775ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "ai-churn-prediction-action-plan",
-    "ts": "2026-07-23T18:06:20.451Z"
-  },
-  {
     "hash": "0062e7ffe7c3ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ip-carve-out-ma-premium-founders",
     "ts": "2026-07-25T09:05:00.684Z"
+  },
+  {
+    "hash": "0081ffffc3c3ff9f",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "patent-maintenance-fee-cash-drain-audit",
+    "ts": "2026-07-25T10:28:07.255Z"
   }
 ]
