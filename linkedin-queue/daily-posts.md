@@ -3,7 +3,7 @@ date: 2026-07-25
 theme: Today's theme focuses on how founders can unlock hidden value and operational efficiency. For IP, we look at strategic asset management and cost control. For AI, the focus shifts to direct revenue growth and adapting to new digital realities, answering critical CEO questions with actionable, on-the-ground plays.
 generated_at: 2026-07-25T06:15:13.224Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content helps founders unearth and realize value that is often overlooke
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-25T09:05:00.684Z
+share_urn: urn:li:share:7486708071092834305
 hook_format: contrarian
 cta_goal: clicks
 slug: ip-carve-out-ma-premium-founders

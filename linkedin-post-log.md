@@ -553,3 +553,4 @@
 2026-07-24 12:17 | urn:li:share:7486394006176882688 | post #1 | licensing-revenue-concentration-risk | One licensing renewal moved Reddit's whole valuation.  Data licensing revenue is
 2026-07-24 14:52 | urn:li:share:7486433237020377088 | post #2 | patent-backlog-time-to-grant | Cheap patent drafting will not save you.  Three AI patent startups raised $83M b
 2026-07-24 18:09 | urn:li:share:7486482779812036611 | post #3 | ai-finds-hidden-upsell | AI finds hidden upsell in 3 minutes.  Sales teams lose $25K+ per rep annually fr
+2026-07-25 09:05 | urn:li:share:7486708071092834305 | post #1 | ip-carve-out-ma-premium-founders | Your M&A deal just left $8M on the table.  Bundling all IP with your operating c
