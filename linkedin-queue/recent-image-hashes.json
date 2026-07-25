@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0062e7ffe7c3ff99",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "ip-drives-capital-efficiency",
-    "ts": "2026-07-24T09:26:07.661Z"
-  },
-  {
     "hash": "007effffffffa5a4",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "patent-maintenance-fee-cash-drain-audit",
     "ts": "2026-07-25T10:28:07.255Z"
+  },
+  {
+    "hash": "007effffff0c25a5",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-customer-upsell-expansion-revenue-ops",
+    "ts": "2026-07-25T12:02:37.055Z"
   }
 ]
