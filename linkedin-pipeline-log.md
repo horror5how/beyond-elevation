@@ -1024,3 +1024,11 @@ Post 4: hook_too_long(10w)
 2026-07-24 12:17 | li-auto-post | render OK | post #1 | layout=c accent=#7a8c6e hash=3ef030103bf5ffff minDist=11 attempts=1
 2026-07-24 14:52 | li-auto-post | render OK | post #2 | layout=a accent=#a89968 hash=007effffffff0505 minDist=5 attempts=1
 2026-07-24 18:09 | li-auto-post | render OK | post #3 | layout=b accent=#a87c7c hash=3424e7ffc3c3ff99 minDist=8 attempts=1
+2026-07-25 06:15 | li-generate-queue | news rail: 20 trending AI headlines in prompt
+2026-07-25 06:15 | li-generate-queue | ceo question bank: 35 loaded, 10 in today's shortlist
+2026-07-25 06:15 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-25 06:15 | li-generate-queue | attempt 1 | quality gate failed:
+Post 3: slug_already_used(ai-contract-review-cycle-time-cut)
+2026-07-25 06:15 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-25 06:16 | li-generate-queue | attempt 2 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
+2026-07-25 06:16 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts

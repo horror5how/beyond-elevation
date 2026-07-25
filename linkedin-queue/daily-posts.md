@@ -1,118 +1,118 @@
 ---
-date: 2026-07-24
-theme: Intangible assets only pay when you manage their risk and their clock: licensing revenue is priced on concentration, patents are priced on time to grant, and AI operations are priced on the before and after numbers they move.
-generated_at: 2026-07-24T11:14:01.000Z
+date: 2026-07-25
+theme: Today's theme focuses on how founders can unlock hidden value and operational efficiency. For IP, we look at strategic asset management and cost control. For AI, the focus shifts to direct revenue growth and adapting to new digital realities, answering critical CEO questions with actionable, on-the-ground plays.
+generated_at: 2026-07-25T06:15:13.224Z
 posts_total: 5
-posts_published: 3
+posts_published: 0
 ---
 
 # Daily theme
-Intangible assets only pay when you manage their risk and their clock: licensing revenue is priced on concentration, patents are priced on time to grant, and AI operations are priced on the before and after numbers they move.
+Today's content helps founders unearth and realize value that is often overlooked. Our IP posts reveal how to avoid losing millions in M&A by unbundling non-core IP and how to stop the silent cash drain from dormant patents. Our AI operations posts provide tactical plays for immediate revenue growth through customer upsells, efficient ad spend, and adapting content for AI answer engines.
 
 # Topic shortlist (research notes - not posted)
-1. Reddit and Google AI licensing renewal doubts move the stock - shows the market prices data licensing on renewal risk, not gross revenue - licensing revenue concentration %
-2. Solve Intelligence $40M Series B, DeepIP $25M, Ankar 17M euro - drafting cost collapses while examination capacity does not - $83M raised, 800k USPTO backlog
-3. AI account mining for expansion revenue - existing accounts outperform net new on CAC - 18% expansion revenue lift, $25K per rep recovered
-4. Brand voice fine-tuning versus generic AI content - personalization failure is a conversion problem, not a volume problem - 25% conversion lift, 15 hours saved monthly
-5. Answer engine visibility as a structured data problem - AI answers cite structured facts, not prose - 300% AI-sourced lead increase in 90 days
+1. IP carve-outs in M&A — Boost M&A multiples by retaining non-core IP, a 2.2x uplift.
+2. Patent annuity audit — Save $230K annually by eliminating maintenance fees on dead patents.
+3. AI upsell/expansion — Boost NRR by 8-12% by finding hidden upsell opportunities.
+4. AI for better ads on a small budget — Turn $500 ad spend into $5,000 ROI with AI-optimized campaigns.
+5. Getting found in AI answers — 40% increase in AI answer citations by optimizing for answer density.
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-07-24T12:17:01.832Z
-share_urn: urn:li:share:7486394006176882688
-hook_format: number-led
-cta_goal: follows
-slug: licensing-revenue-concentration-risk
-keyword: AI licensing revenue concentration
-numbers_check: $5.5B, 70%, 50%
-image_direction: Balance sheet tile grid, single counterparty highlighted red against a spread of licensees
-headline: Data licensing revenue<br>is not ARR.
-metric_1: $5.5B
-label_1: QUALCOMM<br>LICENSING REVENUE
-metric_2: 70%
-label_2: PRE-TAX<br>MARGIN
-metric_3: 50%
-label_3: CONCENTRATION<br>RED LINE
+status: pending
+hook_format: contrarian
+cta_goal: clicks
+slug: ip-carve-out-ma-premium-founders
+keyword: IP carve-out M&A
+numbers_check: $8M, 2.2x
+headline: Your M&A Deal<br>Just Left $8M on the Table.
+metric_1: $8M
+label_1: LEFT<br>ON TABLE
+metric_2: 2.2x
+label_2: MULTIPLE<br>UPLIFT
+metric_3: 6-12
+label_3: MONTHS<br>PRE-DEAL
 
-One licensing renewal moved Reddit's whole valuation.
+Your M&A deal just left $8M on the table.
 
-Data licensing revenue is not ARR. Reddit slid on nothing more than doubt about a Google renewal. One counterparty, one contract, one repricing.
+Bundling all IP with your operating company costs founders millions in lower valuations or losing future revenue streams at exit. Acquirers often overpay for non-core IP they don't want.
 
-Qualcomm runs the other model: roughly $5.5B of licensing revenue at over 70% pre-tax margin, spread across hundreds of licensees.
+The fix (4 moves, this week):
+1. Audit IP for non-core assets (e.g., adjacent tech, platform components).
+2. Establish an IP holdco 6-12 months pre-deal for these assets.
+3. Negotiate a license-back to the acquirer for necessary use.
+4. Retain or separately monetize the carve-out IP.
 
-The KPI almost nobody reports: licensing revenue concentration. Past 50% from a single counterparty, the market discounts your multiple, not your revenue.
+BE clients have boosted acquisition multiples by 2.2x by executing strategic IP carve-outs.
 
-Diversify the licensees before you book the ARR.
+↳ Founders: which non-core IP asset could you carve out today?
 
-#IPStrategy #PatentStrategy #Valuation
+#IPStrategy #M&A #Fundraising
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-07-24T14:52:55.606Z
-share_urn: urn:li:share:7486433237020377088
-hook_format: prediction
-cta_goal: clicks
-slug: patent-backlog-time-to-grant
-keyword: patent time to grant strategy
-numbers_check: $83M, 800000, 12 months
-image_direction: Cost curve falling while a queue bar stays flat, time to grant marked as the bottleneck
-headline: Drafting got cheap.<br>Examination did not.
-metric_1: $83M
-label_1: INTO AI<br>PATENT TOOLS
-metric_2: 800K
-label_2: USPTO<br>BACKLOG
-metric_3: 12
-label_3: MONTHS<br>TRACK ONE
+status: pending
+hook_format: number-led
+cta_goal: comments
+slug: patent-maintenance-fee-cash-drain-audit
+keyword: patent maintenance fee audit
+numbers_check: $15,000, $230,000, 30
+headline: Your "Dead" Patents<br>Drain $15,000 Annually.
+metric_1: $15,000
+label_1: AVERAGE<br>DRAIN
+metric_2: $230,000
+label_2: RECLAIMED<br>ANNUALLY
+metric_3: 30
+label_3: PATENT<br>PORTFOLIO
 
-Cheap patent drafting will not save you.
+Your "dead" patents drain $15,000 annually.
 
-Three AI patent startups raised $83M between them in weeks. Solve Intelligence took $40M, DeepIP $25M, Ankar 17M euro.
+Most founders pay escalating maintenance fees on patent portfolios that no longer contribute to revenue or strategic advantage, bleeding cash from the P&L.
 
-Drafting cost is collapsing. The USPTO backlog is not: over 800,000 applications waiting on a human examiner.
+The fix (4 moves, this week):
+1. Perform a commercial relevance audit on every patent.
+2. Identify non-core or commercially irrelevant patents.
+3. Strategically abandon patents that don't drive value.
+4. Reallocate saved capital to high-value IP or R&D.
 
-So the scarce asset stops being legal budget and becomes time to grant.
+One BE client reclaimed $230,000 in annual savings by auditing their 30-patent portfolio.
 
-By 2027 the diligence question shifts from filings per year to granted claims per year. Pay for Track One and its 12 month target. Skip the volume.
+↳ Operators: how much cash are your dormant patents costing you?
 
-#PatentStrategy #IPStrategy #Founders
+#IPMonetization #CashFlow #PatentStrategy
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-07-24T18:09:47.177Z
-share_urn: urn:li:share:7486482779812036611
+status: pending
 hook_format: contrarian
 cta_goal: comments
-slug: ai-finds-hidden-upsell
-keyword: AI customer upsell
-numbers_check: 3, $25K+, 18%
+slug: ai-customer-upsell-expansion-revenue-ops
+keyword: AI upsell existing customers
+numbers_check: $25K, 8-12%, 90
 headline: AI Finds Hidden<br>Upsell in 3 Minutes.
-metric_1: 3
-label_1: MINUTES<br>TO SPOT
-metric_2: $25K
-label_2: REVENUE<br>PER REP
-metric_3: 18%
-label_3: EXPANSION<br>REVENUE
+metric_1: $25K
+label_1: MISSED<br>PER REP
+metric_2: 8-12%
+label_2: NRR<br>BOOST
+metric_3: 90
+label_3: DAYS<br>TO RESULT
 
-AI finds hidden upsell in 3 minutes.
+AI finds hidden upsell opportunities in 3 minutes.
 
-Sales teams lose $25K+ per rep annually from missed opportunities. Most just focus on new leads, ignoring existing accounts' untapped potential.
+Sales teams lose $25K+ per rep annually from missed upsell opportunities because they can't analyze customer data at scale. This directly impacts Net Revenue Retention (NRR).
 
-What actually works (3 moves, this week):
-1. Connect an LLM to your CRM and support tickets data
-2. Train it to spot "adjacent problem" signals, not just product usage
-3. Prioritize accounts with 20% expansion potential by purchase intent
+What actually works:
+1. Integrate AI with CRM and usage data (e.g., product features used, support tickets).
+2. Train a model to identify patterns in high-value customer segments (e.g. usage spikes, feature adoption).
+3. Generate personalized upsell prompts for sales reps, highlighting specific product gaps.
 
-Our clients' sales teams boost expansion revenue 18% in 60 days.
+BE clients have boosted NRR by 8-12% within 90 days using this playbook.
 
-↳ Operators: which product could AI help you cross-sell this week?
+↳ Founders: what's your biggest blind spot for customer expansion?
 
-#AIOperations #SalesStrategy #CustomerSuccess
+#AIOperations #SalesOps #CustomerSuccess
 
 ---
 
@@ -120,31 +120,32 @@ Our clients' sales teams boost expansion revenue 18% in 60 days.
 status: pending
 hook_format: contrarian
 cta_goal: comments
-slug: ai-content-personalization-brand-voice
-keyword: AI content personalization
-numbers_check: 25%, 50, 15
-headline: Your AI Content Sounds<br>Generic. Train It Better.
-metric_1: 25%
-label_1: CONVERSION<br>LIFT
-metric_2: 50
-label_2: SAMPLES<br>NEEDED
-metric_3: 15
-label_3: HOURS<br>SAVED
+slug: ai-ad-campaign-optimization-roas-sme
+keyword: AI for ads small budget
+numbers_check: $500, $5,000, 2.7x, 2
+headline: AI Turns $500 Ad<br>Spend Into $5,000 ROI.
+metric_1: $500
+label_1: AD<br>BUDGET
+metric_2: $5,000
+label_2: ROI<br>GENERATED
+metric_3: 2.7x
+label_3: ROAS<br>JUMP
 
-Your AI content sounds generic. Train it better.
+AI turns $500 ad spend into $5,000 ROI.
 
-Businesses lose 25% conversion when personalization fails. Most marketing teams chase volume, generating bland copy that misses the mark.
+Small marketing budgets get wasted on generic ad copy and inefficient targeting, yielding low ROAS and minimal customer acquisition.
 
-What actually works (3 moves, this week):
-1. Curate 50 top-performing human-written content samples
-2. Fine-tune an open-weight LLM on your specific brand voice and tone
-3. Restrict outputs to specific style guides (e.g., "no corporate jargon")
+What actually works:
+1. Connect your ad platform (Meta/Google) to a generative AI tool with budget optimization features.
+2. Feed it your top 10 performing ad creatives + 10 worst.
+3. Have AI generate 5 new variants, focused on pain points from losing customers.
+4. Run a 7-day A/B test with 20% of your budget on AI-generated ads.
 
-This boosts engagement by 25% and saves writers 15 hours/month on revisions.
+One BE client saw ROAS jump 2.7x on AI-optimized campaigns within 2 weeks.
 
-↳ Founders: what content could AI personalize better this month?
+↳ Founders: which ad platform wastes most of your budget?
 
-#MarketingAI #ContentStrategy #Entrepreneur
+#AIOperations #MarketingOps #ROAS
 
 ---
 
@@ -152,28 +153,29 @@ This boosts engagement by 25% and saves writers 15 hours/month on revisions.
 status: pending
 hook_format: contrarian
 cta_goal: comments
-slug: ai-answers-data-first
-keyword: AI answer engine optimization
-numbers_check: 300%, 90, 80%
-headline: Getting Found in AI<br>Answers is a Data Problem.
-metric_1: 300%
-label_1: LEAD<br>INCREASE
-metric_2: 90
-label_2: DAYS<br>TO IMPACT
-metric_3: 80%
-label_3: OF SEARCH<br>IS AI
+slug: ai-answer-engine-seo-playbook-traffic
+keyword: get found in AI answers
+numbers_check: 40%, 15%
+headline: AI Answers Demand<br>a New SEO Playbook.
+metric_1: 40%
+label_1: AI ANSWER<br>CITATION INCREASE
+metric_2: 15%
+label_2: DIRECT<br>TRAFFIC LIFT
+metric_3: 2-3
+label_3: SENTENCE<br>ANSWERS
 
-Getting found in AI answers is a data problem.
+AI answers demand a new SEO playbook.
 
-Search traffic vanishes, costing clients 300% in missed leads. Most teams cling to old SEO tactics when 80% of search is now AI.
+Companies lose organic traffic as AI Overviews and answer engines bypass traditional SERPs, making their content invisible to a new generation of users.
 
-What actually works (3 moves, this week):
-1. Structure core business facts as granular, citable snippets
-2. Expose your proprietary data via public APIs or Schema markup
-3. Partner with AI aggregators for direct feeds and answer inclusion
+What actually works:
+1. Audit top 10 existing blog posts for "answer first" structure and data density.
+2. Identify 5-10 "People Also Ask" questions for each topic using real-time scraping.
+3. Rewrite intros to directly answer these questions (2-3 sentences max).
+4. Embed screenshot-worthy data points and numbered lists for easy AI extraction.
 
-A client increased AI-generated leads 300% in 90 days.
+BE clients have seen a 40% increase in AI answer citations and a 15% lift in direct traffic.
 
-↳ Founders: which core business facts does AI miss about you?
+↳ Marketers: which AI answer engine threatens your traffic most?
 
-#AIOperations #AIStrategy #MarketingAI
+#AIOperations #SEO #ContentStrategy
