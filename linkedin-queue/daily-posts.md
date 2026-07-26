@@ -3,7 +3,7 @@ date: 2026-07-26
 theme: This batch focuses on how founders can protect and monetize their IP in fast-moving industries like semiconductors and biotech, while also leveraging AI to solve critical operational challenges in finance and content generation. The through-line is unlocking hidden value and efficiency through strategic IP and practical AI deployment.
 generated_at: 2026-07-26T06:33:50.166Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ One BE client improved cash forecast accuracy to 85% in 4 weeks, cutting manual 
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-26T14:27:23.906Z
+share_urn: urn:li:share:7487151589829480448
 hook_format: contrarian
 cta_goal: comments
 slug: ai-content-originality-marketing-ops

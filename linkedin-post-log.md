@@ -561,3 +561,4 @@
 2026-07-26 09:19 | urn:li:share:7487074191444226048 | post #1 | semiconductor-ip-strategy-lifecycle-2026 | Your semiconductor patent is obsolete on grant day.  Founders file patents that 
 2026-07-26 10:45 | urn:li:share:7487095757997654016 | post #2 | biotech-ip-strategy-data-moat-2026 | Biotech IP isn't just the drug. It's the data.  Founders focus on molecule paten
 2026-07-26 12:01 | urn:li:share:7487114856601481216 | post #3 | ai-bookkeeping-cashflow-forecasting-sme | Stop guessing cash flow. AI forecasts daily.  Most founders spend $25K+ yearly o
+2026-07-26 14:27 | urn:li:share:7487151589829480448 | post #4 | ai-content-originality-marketing-ops | AI content doesn't have to read generic.  Most teams generate bland AI copy, los

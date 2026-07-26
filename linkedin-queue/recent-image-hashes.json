@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0081ffffc3c3ff9f",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "patent-maintenance-fee-cash-drain-audit",
-    "ts": "2026-07-25T10:28:07.255Z"
-  },
-  {
     "hash": "007effffff0c25a5",
     "layout": "a",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-bookkeeping-cashflow-forecasting-sme",
     "ts": "2026-07-26T12:01:25.976Z"
+  },
+  {
+    "hash": "0062efffc3ffbf99",
+    "layout": "b",
+    "accent": "#a87c7c",
+    "slug": "ai-content-originality-marketing-ops",
+    "ts": "2026-07-26T14:27:23.906Z"
   }
 ]
