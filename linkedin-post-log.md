@@ -558,3 +558,4 @@
 2026-07-25 12:02 | urn:li:share:7486752767060140032 | post #3 | ai-customer-upsell-expansion-revenue-ops | AI finds hidden upsell opportunities in 3 minutes.  Sales teams lose $25K+ per r
 2026-07-25 14:29 | urn:li:share:7486789819570794496 | post #4 | ai-ad-campaign-optimization-roas-sme | AI turns $500 ad spend into $5,000 ROI.  Small marketing budgets get wasted on g
 2026-07-25 17:48 | urn:li:share:7486839777707683841 | post #5 | ai-answer-engine-seo-playbook-traffic | AI answers demand a new SEO playbook.  Companies lose organic traffic as AI Over
+2026-07-26 09:19 | urn:li:share:7487074191444226048 | post #1 | semiconductor-ip-strategy-lifecycle-2026 | Your semiconductor patent is obsolete on grant day.  Founders file patents that 

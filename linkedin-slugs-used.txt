@@ -549,3 +549,4 @@ patent-maintenance-fee-cash-drain-audit
 ai-customer-upsell-expansion-revenue-ops
 ai-ad-campaign-optimization-roas-sme
 ai-answer-engine-seo-playbook-traffic
+semiconductor-ip-strategy-lifecycle-2026

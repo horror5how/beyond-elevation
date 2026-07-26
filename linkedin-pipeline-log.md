@@ -1046,3 +1046,4 @@ Post 3: slug_already_used(ai-contract-review-cycle-time-cut)
 2026-07-26 06:33 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
 2026-07-26 06:34 | li-generate-queue | attempt 1 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
 2026-07-26 06:34 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
+2026-07-26 09:19 | li-auto-post | render OK | post #1 | layout=b accent=#d7b086 hash=bf950085efc3c3db minDist=22 attempts=1

@@ -3,7 +3,7 @@ date: 2026-07-26
 theme: This batch focuses on how founders can protect and monetize their IP in fast-moving industries like semiconductors and biotech, while also leveraging AI to solve critical operational challenges in finance and content generation. The through-line is unlocking hidden value and efficiency through strategic IP and practical AI deployment.
 generated_at: 2026-07-26T06:33:50.166Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content highlights how operators can build defensible value in industrie
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-26T09:19:50.612Z
+share_urn: urn:li:share:7487074191444226048
 hook_format: contrarian
 cta_goal: comments
 slug: semiconductor-ip-strategy-lifecycle-2026
