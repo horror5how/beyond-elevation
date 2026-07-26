@@ -3,7 +3,7 @@ date: 2026-07-26
 theme: This batch focuses on how founders can protect and monetize their IP in fast-moving industries like semiconductors and biotech, while also leveraging AI to solve critical operational challenges in finance and content generation. The through-line is unlocking hidden value and efficiency through strategic IP and practical AI deployment.
 generated_at: 2026-07-26T06:33:50.166Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ IP-first semiconductor startups see 2.5x higher valuations than hardware-only pe
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-26T10:45:32.473Z
+share_urn: urn:li:share:7487095757997654016
 hook_format: contrarian
 cta_goal: comments
 slug: biotech-ip-strategy-data-moat-2026

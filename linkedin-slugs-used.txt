@@ -550,3 +550,4 @@ ai-customer-upsell-expansion-revenue-ops
 ai-ad-campaign-optimization-roas-sme
 ai-answer-engine-seo-playbook-traffic
 semiconductor-ip-strategy-lifecycle-2026
+biotech-ip-strategy-data-moat-2026

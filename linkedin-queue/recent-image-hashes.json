@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3424e7ffc3c3ff99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "ai-finds-hidden-upsell",
-    "ts": "2026-07-24T18:09:47.177Z"
-  },
-  {
     "hash": "0042ffffe3c1ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "semiconductor-ip-strategy-lifecycle-2026",
     "ts": "2026-07-26T09:19:50.612Z"
+  },
+  {
+    "hash": "3c7011730f74ffff",
+    "layout": "c",
+    "accent": "#a87c7c",
+    "slug": "biotech-ip-strategy-data-moat-2026",
+    "ts": "2026-07-26T10:45:32.473Z"
   }
 ]
