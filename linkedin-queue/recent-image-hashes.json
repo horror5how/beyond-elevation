@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffff0c25a5",
-    "layout": "a",
-    "accent": "#a89968",
-    "slug": "ai-customer-upsell-expansion-revenue-ops",
-    "ts": "2026-07-25T12:02:37.055Z"
-  },
-  {
     "hash": "3c7010017ff1ffff",
     "layout": "c",
     "accent": "#8aa6b8",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ai-content-originality-marketing-ops",
     "ts": "2026-07-26T14:27:23.906Z"
+  },
+  {
+    "hash": "40c3e7ffc3ff9f99",
+    "layout": "b",
+    "accent": "#a89968",
+    "slug": "ai-fraud-detection-operations-reality",
+    "ts": "2026-07-26T17:54:32.253Z"
   }
 ]

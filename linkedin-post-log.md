@@ -562,3 +562,4 @@
 2026-07-26 10:45 | urn:li:share:7487095757997654016 | post #2 | biotech-ip-strategy-data-moat-2026 | Biotech IP isn't just the drug. It's the data.  Founders focus on molecule paten
 2026-07-26 12:01 | urn:li:share:7487114856601481216 | post #3 | ai-bookkeeping-cashflow-forecasting-sme | Stop guessing cash flow. AI forecasts daily.  Most founders spend $25K+ yearly o
 2026-07-26 14:27 | urn:li:share:7487151589829480448 | post #4 | ai-content-originality-marketing-ops | AI content doesn't have to read generic.  Most teams generate bland AI copy, los
+2026-07-26 17:54 | urn:li:share:7487203718019600384 | post #5 | ai-fraud-detection-operations-reality | AI spots fraud your finance team misses.  Manual fraud detection catches 10% of 
