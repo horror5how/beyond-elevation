@@ -1041,3 +1041,8 @@ Post 3: slug_already_used(ai-contract-review-cycle-time-cut)
 2026-07-25 14:29 | li-auto-post | render attempt 2 | TOO SIMILAR (dist=2 < 5) | trying different variant
 2026-07-25 14:29 | li-auto-post | render OK | post #4 | layout=c accent=#8aa6b8 hash=3c7010017ff1ffff minDist=8 attempts=3
 2026-07-25 17:48 | li-auto-post | render OK | post #5 | layout=b accent=#a89968 hash=02e3e7ffc3c3ff9d minDist=7 attempts=1
+2026-07-26 06:33 | li-generate-queue | news rail: 20 trending AI headlines in prompt
+2026-07-26 06:33 | li-generate-queue | ceo question bank: 35 loaded, 10 in today's shortlist
+2026-07-26 06:33 | li-generate-queue | anthropic failed (Anthropic API 400: {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to P) → falling back to gemini
+2026-07-26 06:34 | li-generate-queue | attempt 1 | OK — all 5 posts pass P→M→R gate (auto-fixes=0)
+2026-07-26 06:34 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
