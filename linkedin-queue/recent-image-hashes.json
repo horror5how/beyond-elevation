@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0042ffffe3c1ff99",
-    "layout": "b",
-    "accent": "#7a8c6e",
-    "slug": "ip-carve-out-ma-premium-founders",
-    "ts": "2026-07-25T09:05:00.684Z"
-  },
-  {
     "hash": "0081ffffc3c3ff9f",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "biotech-ip-strategy-data-moat-2026",
     "ts": "2026-07-26T10:45:32.473Z"
+  },
+  {
+    "hash": "fff150130ff4ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-bookkeeping-cashflow-forecasting-sme",
+    "ts": "2026-07-26T12:01:25.976Z"
   }
 ]

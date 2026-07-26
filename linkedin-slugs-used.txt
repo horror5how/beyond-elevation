@@ -551,3 +551,4 @@ ai-ad-campaign-optimization-roas-sme
 ai-answer-engine-seo-playbook-traffic
 semiconductor-ip-strategy-lifecycle-2026
 biotech-ip-strategy-data-moat-2026
+ai-bookkeeping-cashflow-forecasting-sme

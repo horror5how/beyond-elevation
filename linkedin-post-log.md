@@ -560,3 +560,4 @@
 2026-07-25 17:48 | urn:li:share:7486839777707683841 | post #5 | ai-answer-engine-seo-playbook-traffic | AI answers demand a new SEO playbook.  Companies lose organic traffic as AI Over
 2026-07-26 09:19 | urn:li:share:7487074191444226048 | post #1 | semiconductor-ip-strategy-lifecycle-2026 | Your semiconductor patent is obsolete on grant day.  Founders file patents that 
 2026-07-26 10:45 | urn:li:share:7487095757997654016 | post #2 | biotech-ip-strategy-data-moat-2026 | Biotech IP isn't just the drug. It's the data.  Founders focus on molecule paten
+2026-07-26 12:01 | urn:li:share:7487114856601481216 | post #3 | ai-bookkeeping-cashflow-forecasting-sme | Stop guessing cash flow. AI forecasts daily.  Most founders spend $25K+ yearly o
