@@ -560,3 +560,4 @@ medtech-ip-strategy-regulatory-moat
 manufacturing-process-ip-trade-secrets
 ip-annuity-vs-ai-capex-2026
 ai-support-human-touch-csat
+ai-collections-cashflow-speed

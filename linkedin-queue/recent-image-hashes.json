@@ -1,12 +1,5 @@
 [
   {
-    "hash": "3c7011730f74ffff",
-    "layout": "c",
-    "accent": "#a87c7c",
-    "slug": "biotech-ip-strategy-data-moat-2026",
-    "ts": "2026-07-26T10:45:32.473Z"
-  },
-  {
     "hash": "fff150130ff4ffff",
     "layout": "c",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-support-human-touch-csat",
     "ts": "2026-07-27T13:37:13.412Z"
+  },
+  {
+    "hash": "3c78f00b1bf5ffff",
+    "layout": "c",
+    "accent": "#7a8c6e",
+    "slug": "ai-collections-cashflow-speed",
+    "ts": "2026-07-27T15:40:07.772Z"
   }
 ]

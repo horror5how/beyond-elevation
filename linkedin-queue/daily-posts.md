@@ -3,7 +3,7 @@ date: 2026-07-27
 theme: This batch explores how founders can strategically protect and monetize their unique operational IP, from MedTech devices and manufacturing processes to AI-powered support, collections, and onboarding. The through-line is identifying hidden value and operational efficiency at every stage.
 generated_at: 2026-07-27T07:27:18.101Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -118,7 +118,9 @@ BE clients see 20% higher CSAT and 10% lower AHT within 6 weeks.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-27T15:40:07.772Z
+share_urn: urn:li:share:7487532281209982976
 hook_format: number-led
 cta_goal: comments
 slug: ai-collections-cashflow-speed
