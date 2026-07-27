@@ -1,15 +1,17 @@
-81% of Q1 2026 VC went to AI. The $15M Series A is dying.
+AI infrastructure is not a moat. It is a depreciating asset.
 
-40% of AI rounds are now $100M+.
+AI inference costs dropped 68% in 24 months.
 
-Sub-$2M angels and $200M mega-rounds are both growing. The $10M–$30M band is collapsing.
+The GPU cluster you called a competitive advantage last year is now a commodity.
 
-Without a patent moat or proprietary data stream, you cannot compete against the $100M cohort.
+Meanwhile, royalty income from IP compounds.
 
-The barbell isn't AI vs non-AI.
+IP-intensive companies exit at 2.1x higher multiples than peers without.
 
-It's defensible AI vs replaceable AI.
+Patent portfolios generate returns for 20 years. GPUs are obsolete in 4.
 
-One gets 12x revenue multiples. One gets acqui-hired at cost.
+Founders who know the difference raise capital at better terms and keep more equity at exit.
 
-#IPStrategy #AIFunding #VentureCapital
+Stop calling it infrastructure. Call it depreciation.
+
+#IPStrategy #AIStartups #VentureCapital

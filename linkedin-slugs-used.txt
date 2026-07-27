@@ -558,3 +558,4 @@ living-data-static-moat-2026
 ai-funding-barbell-2026
 medtech-ip-strategy-regulatory-moat
 manufacturing-process-ip-trade-secrets
+ip-annuity-vs-ai-capex-2026
