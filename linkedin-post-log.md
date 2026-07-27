@@ -563,3 +563,4 @@
 2026-07-26 12:01 | urn:li:share:7487114856601481216 | post #3 | ai-bookkeeping-cashflow-forecasting-sme | Stop guessing cash flow. AI forecasts daily.  Most founders spend $25K+ yearly o
 2026-07-26 14:27 | urn:li:share:7487151589829480448 | post #4 | ai-content-originality-marketing-ops | AI content doesn't have to read generic.  Most teams generate bland AI copy, los
 2026-07-26 17:54 | urn:li:share:7487203718019600384 | post #5 | ai-fraud-detection-operations-reality | AI spots fraud your finance team misses.  Manual fraud detection catches 10% of 
+2026-07-27 01:58 | urn:li:share:7487325619106660352 | Your expensive dataset stopped being a moat in 2026.  VCs now score data on one 
