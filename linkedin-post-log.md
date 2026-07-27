@@ -565,3 +565,4 @@
 2026-07-26 17:54 | urn:li:share:7487203718019600384 | post #5 | ai-fraud-detection-operations-reality | AI spots fraud your finance team misses.  Manual fraud detection catches 10% of 
 2026-07-27 01:58 | urn:li:share:7487325619106660352 | Your expensive dataset stopped being a moat in 2026.  VCs now score data on one 
 2026-07-27 07:52 | urn:li:share:7487414705628577792 | 81% of Q1 2026 VC went to AI. The $15M Series A is dying.  40% of AI rounds are 
+2026-07-27 10:49 | urn:li:share:7487459073672744960 | post #1 | medtech-ip-strategy-regulatory-moat | MedTech IP isn't just the device. 68% of MedTech startups lose their moat to reg

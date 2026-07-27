@@ -3,7 +3,7 @@ date: 2026-07-27
 theme: This batch explores how founders can strategically protect and monetize their unique operational IP, from MedTech devices and manufacturing processes to AI-powered support, collections, and onboarding. The through-line is identifying hidden value and operational efficiency at every stage.
 generated_at: 2026-07-27T07:27:18.101Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's posts guide founders on uncovering and activating hidden value. We start
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-27T10:49:13.725Z
+share_urn: urn:li:share:7487459073672744960
 hook_format: contrarian
 cta_goal: comments
 slug: medtech-ip-strategy-regulatory-moat
