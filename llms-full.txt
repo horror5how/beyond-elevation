@@ -5169,3 +5169,19 @@ SaaS patents fail to cover AI features because they protect different layers of 
 AI features are probabilistic. A fine-tuned model takes the same input and 
 
 ---
+
+## 80% of AI Acqui-Hire Deals Leave Patent Value on the Table: The 4 IP Clauses That Recover It
+
+URL: https://beyondelevation.com/blog/posts/ai-acqui-hire-ip-value-4-clause-fix-2026/
+
+80% of AI acqui-hire deals fold the patent portfolio into the talent premium. The acquirer pays a per-engineer number. The patents, trade secrets, and data assets get assigned as a throw-in at the bottom of the purchase agreement. Hayat Amin has reviewed over 30 acqui-hire term sheets since 2024 and the pattern is identical: IP that would fetch $2M to $8M in a structured asset sale gets bundled at zero separate valuation because the deal framework treats it as incidental to the hire.
+
+This is not a negotiation failure. It is a structural gap in how acqui-hire deals are papered. The term sheet is built around talent retention, not asset transfer. The IP section is four lines in an exhibit. Nobody prices it, nobody values it, and nobody negotiates it. It does not have to work this way.
+
+## Why Do AI Acqui-Hire Deals Destroy IP Value?
+
+AI acqui-hire deals destroy IP value because they are structured as employment transactions, not asset transactions. The acquirer calculates a per-engineer price, multiplies by headcount, adds a retention bonus pool, and presents a number. Patents, trade secrets, and proprietary datasets are assigned through a blanket IP assignment clause buried in the employment agreement each founder signs on day one of the new role.
+
+The problem is mathematical. A typical AI acqui-hire prices talent at $500K to $2M per engineer for a team of 5 to 15. That is a $2.5M to $30M deal. But the IP portfolio would price separately at 30 to 50 percent of total deal valu
+
+---
