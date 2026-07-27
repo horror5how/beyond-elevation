@@ -49,6 +49,7 @@ Address: 178 Broadway, 3rd Floor #4542, New York, NY 10001, United States
 
 Beyond Elevation publishes expert articles on IP strategy and licensing revenue. Individual markdown files available at /blog/md/{slug}.md
 
+- [80% of AI Acqui-Hire Deals Leave Patent Value on the Table: The 4 IP Clauses That Recover It](https://beyondelevation.com/blog/posts/ai-acqui-hire-ip-value-4-clause-fix-2026/) — /blog/md/ai-acqui-hire-ip-value-4-clause-fix-2026.md
 - [Most Data Monetization Strategies Fail — The $17.6B Market Has an Infrastructure Problem, Not a Strategy One](https://beyondelevation.com/blog/posts/why-data-monetization-fails-infrastructure-2026/) — /blog/md/why-data-monetization-fails-infrastructure-2026.md
 - [Your Robot Patent Grants Two Hardware Generations Too Late: The IP Strategy for Robotics Startups That Survives the Redesign](https://beyondelevation.com/blog/posts/ip-strategy-robotics-physical-ai-startups/) — /blog/md/ip-strategy-robotics-physical-ai-startups.md
 - [Your SaaS Patents Do Not Cover Your AI Features: The 5-Move IP Pivot That Turns a Product Transition Into a 3x Valuation Event](https://beyondelevation.com/blog/posts/saas-to-ai-pivot-ip-strategy-2026/) — /blog/md/saas-to-ai-pivot-ip-strategy-2026.md
