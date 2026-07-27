@@ -567,3 +567,4 @@
 2026-07-27 07:52 | urn:li:share:7487414705628577792 | 81% of Q1 2026 VC went to AI. The $15M Series A is dying.  40% of AI rounds are 
 2026-07-27 10:49 | urn:li:share:7487459073672744960 | post #1 | medtech-ip-strategy-regulatory-moat | MedTech IP isn't just the device. 68% of MedTech startups lose their moat to reg
 2026-07-27 12:24 | urn:li:share:7487483093566722049 | post #2 | manufacturing-process-ip-trade-secrets | Your factory process is a $50M trade secret. Industrial founders lose 15-25% mar
+2026-07-27 12:53 | urn:li:share:7487490325322747906 | AI infrastructure is not a moat. It is a depreciating asset.  AI inference costs
