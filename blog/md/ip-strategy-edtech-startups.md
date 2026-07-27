@@ -2,8 +2,8 @@
 title: "Most EdTech Startups Patent Their Curriculum Instead of Their Algorithm — The 5-Layer IP Strategy That Turns Learning Technology Into Licensable Assets"
 slug: ip-strategy-edtech-startups
 date: 2026-07-27
-url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-edtech-startups
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-strategy-edtech-startups/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -53,6 +53,20 @@ Filing sequence matters. EdTech startups should file adaptive learning algorithm
 
 Book an [IP strategy audit with Beyond Elevation](https://beyondelevation.com) to map the protectable innovation across every layer of your edtech stack — before your next raise or your next competitor ships a feature that looks exactly like yours.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-strategy-edtech-startups)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can you patent an adaptive learning algorithm in 2026?
@@ -74,3 +88,6 @@ Acquirers pay for technology IP — adaptive learning algorithms, assessment eng
 ### Does FERPA compliance create IP value for edtech companies?
 
 Yes. FERPA-compliant student data infrastructure is a structural moat. Building compliant data pipelines requires 12 to 24 months of institutional partnerships, legal review, and technical implementation. This infrastructure — when documented and protected as trade secrets — creates switching costs and adds measurable value to the IP portfolio that Beyond Elevation audits as a distinct asset class alongside patents.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
