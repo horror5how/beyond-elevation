@@ -3,7 +3,7 @@ date: 2026-07-27
 theme: This batch explores how founders can strategically protect and monetize their unique operational IP, from MedTech devices and manufacturing processes to AI-powered support, collections, and onboarding. The through-line is identifying hidden value and operational efficiency at every stage.
 generated_at: 2026-07-27T07:27:18.101Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -52,7 +52,9 @@ One BE client unlocked $18M in licensing by identifying a hidden regulatory data
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-27T12:24:40.491Z
+share_urn: urn:li:share:7487483093566722049
 hook_format: contrarian
 cta_goal: comments
 slug: manufacturing-process-ip-trade-secrets

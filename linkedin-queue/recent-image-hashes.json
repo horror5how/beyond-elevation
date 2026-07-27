@@ -1,12 +1,5 @@
 [
   {
-    "hash": "02e3e7ffc3c3ff9d",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ai-answer-engine-seo-playbook-traffic",
-    "ts": "2026-07-25T17:48:22.003Z"
-  },
-  {
     "hash": "bf950085efc3c3db",
     "layout": "b",
     "accent": "#d7b086",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "medtech-ip-strategy-regulatory-moat",
     "ts": "2026-07-27T10:49:13.725Z"
+  },
+  {
+    "hash": "007effffffff0505",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "manufacturing-process-ip-trade-secrets",
+    "ts": "2026-07-27T12:24:40.491Z"
   }
 ]
