@@ -330,5 +330,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your Robot Patent Grants Two Hardware Generations Too Late: The IP Strategy for Robotics Startups That Survives the Redesign](https://beyondelevation.com/blog/posts/ip-strategy-robotics-physical-ai-startups/) — /blog/md/ip-strategy-robotics-physical-ai-startups.md
 - [Your SaaS Patents Do Not Cover Your AI Features: The 5-Move IP Pivot That Turns a Product Transition Into a 3x Valuation Event](https://beyondelevation.com/blog/posts/saas-to-ai-pivot-ip-strategy-2026/) — /blog/md/saas-to-ai-pivot-ip-strategy-2026.md
 - [80% of AI Acqui-Hire Deals Leave Patent Value on the Table: The 4 IP Clauses That Recover It](https://beyondelevation.com/blog/posts/ai-acqui-hire-ip-value-4-clause-fix-2026/) — /blog/md/ai-acqui-hire-ip-value-4-clause-fix-2026.md
+- [The IP Strategy for AI Infrastructure Companies That Stops a Hyperscaler From Shipping Your Feature in 18 Months](https://beyondelevation.com/blog/posts/ip-strategy-ai-infrastructure-companies-2026/) — /blog/md/ip-strategy-ai-infrastructure-companies-2026.md
 
 > Full blog content available at /llms-full.txt
