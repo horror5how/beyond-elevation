@@ -1,12 +1,5 @@
 [
   {
-    "hash": "fff150130ff4ffff",
-    "layout": "c",
-    "accent": "#d7b086",
-    "slug": "ai-bookkeeping-cashflow-forecasting-sme",
-    "ts": "2026-07-26T12:01:25.976Z"
-  },
-  {
     "hash": "0062efffc3ffbf99",
     "layout": "b",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#7a8c6e",
     "slug": "ai-collections-cashflow-speed",
     "ts": "2026-07-27T15:40:07.772Z"
+  },
+  {
+    "hash": "fff9000977f7ffff",
+    "layout": "c",
+    "accent": "#d7b086",
+    "slug": "ai-reduce-new-hire-ramp-time",
+    "ts": "2026-07-27T18:17:34.090Z"
   }
 ]

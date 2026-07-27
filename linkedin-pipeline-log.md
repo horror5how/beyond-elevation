@@ -1060,3 +1060,4 @@ Post 3: slug_already_used(ai-contract-review-cycle-time-cut)
 2026-07-27 12:24 | li-auto-post | render OK | post #2 | layout=a accent=#a87c7c hash=007effffffff0505 minDist=17 attempts=1
 2026-07-27 13:37 | li-auto-post | render OK | post #3 | layout=b accent=#7a8c6e hash=0062e7ffc3c7ff99 minDist=5 attempts=1
 2026-07-27 15:40 | li-auto-post | render OK | post #4 | layout=c accent=#7a8c6e hash=3c78f00b1bf5ffff minDist=13 attempts=1
+2026-07-27 18:17 | li-auto-post | render OK | post #5 | layout=c accent=#d7b086 hash=fff9000977f7ffff minDist=11 attempts=1

@@ -3,7 +3,7 @@ date: 2026-07-27
 theme: This batch explores how founders can strategically protect and monetize their unique operational IP, from MedTech devices and manufacturing processes to AI-powered support, collections, and onboarding. The through-line is identifying hidden value and operational efficiency at every stage.
 generated_at: 2026-07-27T07:27:18.101Z
 posts_total: 5
-posts_published: 4
+posts_published: 5
 ---
 
 # Daily theme
@@ -151,7 +151,9 @@ Our clients reduce average days outstanding by 30% in 90 days.
 ---
 
 ## Post 5
-status: pending
+status: published
+published_at: 2026-07-27T18:17:34.090Z
+share_urn: urn:li:share:7487571902165626880
 hook_format: number-led
 cta_goal: comments
 slug: ai-reduce-new-hire-ramp-time
