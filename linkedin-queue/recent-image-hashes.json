@@ -1,12 +1,5 @@
 [
   {
-    "hash": "bf950085efc3c3db",
-    "layout": "b",
-    "accent": "#d7b086",
-    "slug": "semiconductor-ip-strategy-lifecycle-2026",
-    "ts": "2026-07-26T09:19:50.612Z"
-  },
-  {
     "hash": "3c7011730f74ffff",
     "layout": "c",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "manufacturing-process-ip-trade-secrets",
     "ts": "2026-07-27T12:24:40.491Z"
+  },
+  {
+    "hash": "0062e7ffc3c7ff99",
+    "layout": "b",
+    "accent": "#7a8c6e",
+    "slug": "ai-support-human-touch-csat",
+    "ts": "2026-07-27T13:37:13.412Z"
   }
 ]

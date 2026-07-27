@@ -3,7 +3,7 @@ date: 2026-07-27
 theme: This batch explores how founders can strategically protect and monetize their unique operational IP, from MedTech devices and manufacturing processes to AI-powered support, collections, and onboarding. The through-line is identifying hidden value and operational efficiency at every stage.
 generated_at: 2026-07-27T07:27:18.101Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -85,7 +85,9 @@ We helped one manufacturer protect $50M in unique process IP in 90 days.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-27T13:37:13.412Z
+share_urn: urn:li:share:7487501351124459522
 hook_format: contrarian
 cta_goal: comments
 slug: ai-support-human-touch-csat
