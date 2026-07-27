@@ -1,17 +1,17 @@
-AI infrastructure is not a moat. It is a depreciating asset.
+PE firms that skip the IP audit in the first 100 days leave $5M on the table.
 
-AI inference costs dropped 68% in 24 months.
+3 in 4 portfolio companies have never had a structured IP licensing review.
 
-The GPU cluster you called a competitive advantage last year is now a commodity.
+The ones that do average 18% higher exit multiples.
 
-Meanwhile, royalty income from IP compounds.
+Three plays:
 
-IP-intensive companies exit at 2.1x higher multiples than peers without.
+IP audit at close surfaces licensable assets nobody knew existed.
 
-Patent portfolios generate returns for 20 years. GPUs are obsolete in 4.
+Restructuring exclusive licenses to non-exclusive creates a new P&L line.
 
-Founders who know the difference raise capital at better terms and keep more equity at exit.
+Royalty run rate gets multiplied at exit. $1M of recurring royalties = $8-12M in deal value.
 
-Stop calling it infrastructure. Call it depreciation.
+This is not a legal project. It is a capital strategy.
 
-#IPStrategy #AIStartups #VentureCapital
+#IPStrategy #PrivateEquity #ExitMultiple
