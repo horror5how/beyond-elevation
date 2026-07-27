@@ -1,27 +1,13 @@
-Defensibility overtook growth as AI's #1 valuation driver.
+Your expensive dataset stopped being a moat in 2026.
 
-81% of Q1 2026 VC went to AI.
+VCs now score data on one question: is this regenerating continuously, or did you collect it once?
 
-40% of seed and Series A rounds are now $100M+ tickets.
+Static datasets depreciate. A well-funded competitor can buy, scrape, or synthesise most of them in 18 months.
 
-Same ARR. Radically different multiples.
+Living data compounds. Every user action, every transaction, every feedback loop rebuilds the moat daily.
 
-The question isn't how fast you're growing.
+81% of Q1 2026 VC went to AI. The companies that captured the premium shared one trait: proprietary operational data streams — not archives.
 
-It's: can a well-funded competitor rebuild this in 18 months?
+The data-monetisation market grows to $17.6B by 2033. The founders who capture it own data that never stops being generated.
 
-If yes — your multiple is capped.
-
-If no — you command a 4x premium on comparable revenue.
-
-Three things that set the defensibility score:
-
-Living data moat, not a static dataset.
-
-Patent coverage depth, not provisional filings.
-
-Workflow integration that creates switching cost.
-
-Growth gets you in the room. Defensibility sets the price.
-
-#AIValuation #IPStrategy #VentureCapital
+#IPStrategy #AIValuation #DataStrategy
