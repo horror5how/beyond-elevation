@@ -570,3 +570,4 @@
 2026-07-27 12:53 | urn:li:share:7487490325322747906 | AI infrastructure is not a moat. It is a depreciating asset.  AI inference costs
 2026-07-27 13:37 | urn:li:share:7487501351124459522 | post #3 | ai-support-human-touch-csat | AI support can sound human. Generic bot responses frustrate 78% of customers, dr
 2026-07-27 15:40 | urn:li:share:7487532281209982976 | post #4 | ai-collections-cashflow-speed | AI cuts collections time by 40%. Slow collections delay cash flow by 30-45 days,
+2026-07-27 17:52 | urn:li:share:7487565632989851648 | PE firms that skip the IP audit in the first 100 days leave $5M on the table.  3
