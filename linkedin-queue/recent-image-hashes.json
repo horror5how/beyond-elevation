@@ -1,12 +1,5 @@
 [
   {
-    "hash": "007effffffff0505",
-    "layout": "a",
-    "accent": "#a87c7c",
-    "slug": "manufacturing-process-ip-trade-secrets",
-    "ts": "2026-07-27T12:24:40.491Z"
-  },
-  {
     "hash": "0062e7ffc3c7ff99",
     "layout": "b",
     "accent": "#7a8c6e",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ai-customer-expansion-data-signals",
     "ts": "2026-07-28T12:51:06.007Z"
+  },
+  {
+    "hash": "e3e0e027676121ff",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "fractional-cfo-vs-ai-finance-tool",
+    "ts": "2026-07-28T15:28:17.938Z"
   }
 ]

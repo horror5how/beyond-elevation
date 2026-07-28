@@ -3,7 +3,7 @@ date: 2026-07-28
 theme: Today's posts cut through complexity for founders: IP protection in deep tech (semiconductors, medtech) and practical AI deployment in core operations (sales, finance, support). Each post delivers a concrete playbook for immediate impact.
 generated_at: 2026-07-28T06:24:03.790Z
 posts_total: 5
-posts_published: 3
+posts_published: 4
 ---
 
 # Daily theme
@@ -121,7 +121,9 @@ A BE client boosted expansion ARR by 12% in 90 days.
 ---
 
 ## Post 4
-status: pending
+status: published
+published_at: 2026-07-28T15:28:17.938Z
+share_urn: urn:li:share:7487891691761438721
 hook_format: contrarian
 cta_goal: comments
 slug: fractional-cfo-vs-ai-finance-tool

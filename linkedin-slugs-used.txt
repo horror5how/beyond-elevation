@@ -568,3 +568,4 @@ ip-strategy-semiconductor-startups-delay
 ip-strategy-medtech-regulatory-data
 ai-customer-expansion-data-signals
 ai-copilot-vs-agent-architecture-2026
+fractional-cfo-vs-ai-finance-tool
