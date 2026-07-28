@@ -578,3 +578,4 @@
 2026-07-28 12:51 | urn:li:share:7487852131891290113 | post #3 | ai-customer-expansion-data-signals | AI finds expansion revenue, not just upsells.  Sales teams miss 15-20% of expans
 2026-07-28 13:01 | urn:li:share:7487854868968194048 | Most companies build AI agents when they need AI copilots.  That's a 6-month dep
 2026-07-28 15:28 | urn:li:share:7487891691761438721 | post #4 | fractional-cfo-vs-ai-finance-tool | Fractional CFO beats AI finance tools first.  Founders waste $20K+ on AI tools b
+2026-07-28 17:56 | QUEUED-BLOCKED | chatgpt-destroys-trade-secret-2026-rulings | LinkedIn workflows disabled — re-enable linkedin-post.yml to publish queued post
