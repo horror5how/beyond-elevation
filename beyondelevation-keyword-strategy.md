@@ -714,7 +714,7 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 3. **T5-133** — 🟡 `slug_hint: venture-debt-patent-schedule-before-financial-model-2026` — What do venture debt lenders look at first? (underwriting order inversion; WTI + Horizon) — publish as an internal-link sibling of T5-131 to build the IP-finance cluster.
 4. **T5-134** — 🟡 `slug_hint: who-buys-patent-portfolios-2026-standing-bid` — Who actually buys patent portfolios? (SIM IP 11 deals in 15 months; licensing displaced litigation) — re-opens the IP-monetization vein.
 
-**Still-open vertical gaps for synthesized picks (carried from 07-24, none claimed yet): medtech/medical devices, biotech, industrial manufacturing, semiconductors, space/aerospace** (fintech, climate tech, deep tech, cybersecurity, defense tech and robotics/physical-AI are shipped).
+**Still-open vertical gaps for synthesized picks (re-checked against `data/posts.json` at 311 posts, 2026-07-28): medtech/medical devices, industrial manufacturing, space/aerospace.** Claimed since the 07-24 list was written — do NOT re-file: semiconductors (`ip-strategy-semiconductor-startups-2026`), biotech (`ip-strategy-biotech-startups`), plus `ip-strategy-edtech-startups` and `ip-strategy-autonomous-vehicle-startups`; fintech, climate tech, deep tech, cybersecurity, defense tech and robotics/physical-AI were already shipped. **Concurrency note: posts.json moved 304 → 311 during this run's own commit window — always re-verify slugs AFTER `git pull`, never only at pick time.**
 
 <!-- RESOLVED 2026-07-28: the "Tier 5 queue is EMPTY as of 2026-07-24" warning that stood here is cleared — T5-131 → T5-134 added this run. Historical note retained below for the 07-24 synthesized ship. -->
 
