@@ -1,15 +1,17 @@
-3 in 5 enterprise AI deals stall in legal review over IP indemnification.
+Most companies build AI agents when they need AI copilots.
 
-The procurement team asks one question: who pays if your AI infringes a third-party patent?
+That's a 6-month deployment failure.
 
-Most AI vendors can't answer it.
+Copilot: AI suggests, human decides. Production in 4-6 weeks.
 
-That's a $3.2M average contract value sitting in legal limbo.
+Agent: AI decides and acts autonomously. Minimum 3-6 months. Needs rollback, audit trail, error budgets.
 
-The fix isn't a better pitch deck.
+When you need a copilot: first AI deployment, customer-facing workflows, regulated processes.
 
-It's 3 filings your patent attorney completes in 90 days.
+When you need an agent: proven process, defined decision tree, low error consequence.
 
-Enterprise AI sales is now an IP problem disguised as a sales problem.
+Companies that confuse the two spend 3x more to build the wrong thing.
 
-#IPStrategy #AIStrategy #EnterpriseSales
+Architecture first. Tool selection second.
+
+#AIStrategy #AITransformation #Agentic
