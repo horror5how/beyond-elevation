@@ -1,17 +1,17 @@
-Most companies build AI agents when they need AI copilots.
+Two 2026 federal courts just killed trade secret claims.
 
-That's a 6-month deployment failure.
+Not because someone stole the secret.
 
-Copilot: AI suggests, human decides. Production in 4-6 weeks.
+Because the founder typed it into ChatGPT first.
 
-Agent: AI decides and acts autonomously. Minimum 3-6 months. Needs rollback, audit trail, error budgets.
+SDNY (Feb 2026): public AI platform communications are not confidential where the platform lacks a secrecy contract.
 
-When you need a copilot: first AI deployment, customer-facing workflows, regulated processes.
+ND Cal (Jan 2026): DTSA claim dismissed. Founder used ChatGPT to build the secret. That counts as voluntary disclosure.
 
-When you need an agent: proven process, defined decision tree, low error consequence.
+Your NDA does not cover OpenAI's servers.
 
-Companies that confuse the two spend 3x more to build the wrong thing.
+Build IP in a public AI tool. Lose it before you file.
 
-Architecture first. Tool selection second.
+Run an AI tool policy audit this week.
 
-#AIStrategy #AITransformation #Agentic
+#TradeSecrets #IP #AIStrategy
