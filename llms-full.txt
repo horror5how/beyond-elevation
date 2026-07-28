@@ -5243,3 +5243,19 @@ Hayat Amin argues this is the most expensive miscalculation in mobility tech: "A
 Autonomous vehicle IP operates across three layers simultaneously — hardware, software, and data — and each layer has a different patent landscape, a different competitive dynamic, and a different licensing exposure. No other tech vertical forces founders to defend across all three at once. A perception algorithm patent means nothing if a competitor's LiDAR patent blocks the sensor input. A mapping dataset means nothing if the 
 
 ---
+
+## Most Biotech Founders Patent Their Molecule and Stop — The 5-Layer IP Strategy That Turns Drug Discovery Into a Licensing Machine
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-biotech-startups/
+
+87% of biotech startups hold fewer than 5 patents. Most protect a single compound and stop there. That is not an IP strategy for biotech startups — it is a liability wrapped in a filing fee.
+
+Hayat Amin, who restructured Position Imaging's 66-patent portfolio into eight figures of recurring royalty revenue, argues biotech founders make the same mistake as every other tech vertical: they patent the product instead of the platform. "A compound patent protects one molecule. A platform patent protects the method that discovers the next fifty," Hayat Amin says. Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com) — and in biotech, where a single Phase 2 failure can wipe 80% of market cap, IP defensibility is the floor investors stand on before writing a check.
+
+## Why Is IP Strategy Different for Biotech Startups?
+
+IP strategy for biotech startups operates on a different timeline, regulatory framework, and competitive landscape than software or AI. Biotech patents interact with FDA exclusivity periods, Hatch-Waxman provisions, and patent term extensions that can add up to 5 years of protection — advantages that do not exist in any other tech vertical. [General IP strategy for startups](https://beyondelevation.com/blog/posts/ip-strategy-startups-guide/) provides the foundation, but biotech demands specific adaptations.
+
+The first difference is timing. Software startups can iterate and file patents post-launch. Biotech startups mu
+
+---

@@ -2,8 +2,8 @@
 title: "Most Biotech Founders Patent Their Molecule and Stop — The 5-Layer IP Strategy That Turns Drug Discovery Into a Licensing Machine"
 slug: ip-strategy-biotech-startups
 date: 2026-07-28
-url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-biotech-startups
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-strategy-biotech-startups/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ The second most expensive mistake is failing to file in key jurisdictions. A US-
 
 Beyond Elevation's biotech clients run the [IP Defensibility Assessment Framework](https://beyondelevation.com/blog/posts/ip-defensibility-assessment-framework/) before every funding round to close these gaps before investors find them. The cost of building a layered portfolio from the start is a fraction of the value it adds at exit. [Book a consultation](https://beyondelevation.com) to run the 5-layer diagnostic on your biotech IP.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-strategy-biotech-startups)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How many patents should a biotech startup have before Series A?
@@ -92,3 +106,6 @@ Patent protection prevents others from making, using, or selling the patented in
 ### Should biotech startups use trade secrets instead of patents for manufacturing processes?
 
 Biotech startups should use trade secrets and patents together for manufacturing processes. Patent the process steps competitors could reverse-engineer from the final product. Keep as trade secrets the specific parameters and cell line adaptations that cannot be deduced from the marketed drug.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
