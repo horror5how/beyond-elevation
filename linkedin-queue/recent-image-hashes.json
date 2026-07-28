@@ -1,12 +1,5 @@
 [
   {
-    "hash": "7ef901711737ffff",
-    "layout": "c",
-    "accent": "#a89968",
-    "slug": "medtech-ip-strategy-regulatory-moat",
-    "ts": "2026-07-27T10:49:13.725Z"
-  },
-  {
     "hash": "007effffffff0505",
     "layout": "a",
     "accent": "#a87c7c",
@@ -47,5 +40,12 @@
     "accent": "#a87c7c",
     "slug": "ip-strategy-medtech-regulatory-data",
     "ts": "2026-07-28T11:18:40.617Z"
+  },
+  {
+    "hash": "01ffffffdec64446",
+    "layout": "a",
+    "accent": "#a89968",
+    "slug": "ai-customer-expansion-data-signals",
+    "ts": "2026-07-28T12:51:06.007Z"
   }
 ]

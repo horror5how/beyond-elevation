@@ -1073,3 +1073,4 @@ Post 5: slug_already_used(ai-product-feature-prioritization-speed)
 2026-07-28 06:25 | li-generate-queue | SHIPPED | linkedin-queue/daily-posts.md | 5 pending posts
 2026-07-28 09:40 | li-auto-post | render OK | post #1 | layout=c accent=#a89968 hash=f3f000602037fff6 minDist=16 attempts=1
 2026-07-28 11:18 | li-auto-post | render OK | post #2 | layout=a accent=#a87c7c hash=c3c40c2cc4decfef minDist=24 attempts=1
+2026-07-28 12:51 | li-auto-post | render OK | post #3 | layout=a accent=#a89968 hash=01ffffffdec64446 minDist=14 attempts=1

@@ -3,7 +3,7 @@ date: 2026-07-28
 theme: Today's posts cut through complexity for founders: IP protection in deep tech (semiconductors, medtech) and practical AI deployment in core operations (sales, finance, support). Each post delivers a concrete playbook for immediate impact.
 generated_at: 2026-07-28T06:24:03.790Z
 posts_total: 5
-posts_published: 2
+posts_published: 3
 ---
 
 # Daily theme
@@ -87,7 +87,9 @@ One BE client unlocked $250M in valuation by structuring regulatory data as IP.
 ---
 
 ## Post 3
-status: pending
+status: published
+published_at: 2026-07-28T12:51:06.007Z
+share_urn: urn:li:share:7487852131891290113
 hook_format: contrarian
 cta_goal: comments
 slug: ai-customer-expansion-data-signals
