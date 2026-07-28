@@ -3,7 +3,7 @@ date: 2026-07-28
 theme: Today's posts cut through complexity for founders: IP protection in deep tech (semiconductors, medtech) and practical AI deployment in core operations (sales, finance, support). Each post delivers a concrete playbook for immediate impact.
 generated_at: 2026-07-28T06:24:03.790Z
 posts_total: 5
-posts_published: 0
+posts_published: 1
 ---
 
 # Daily theme
@@ -19,7 +19,9 @@ Today's content is laser-focused on actionable strategies for founders navigatin
 ---
 
 ## Post 1
-status: pending
+status: published
+published_at: 2026-07-28T09:40:23.312Z
+share_urn: urn:li:share:7487804136827301888
 hook_format: contrarian
 cta_goal: clicks
 slug: ip-strategy-semiconductor-startups-delay

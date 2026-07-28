@@ -1,12 +1,5 @@
 [
   {
-    "hash": "0062efffc3ffbf99",
-    "layout": "b",
-    "accent": "#a87c7c",
-    "slug": "ai-content-originality-marketing-ops",
-    "ts": "2026-07-26T14:27:23.906Z"
-  },
-  {
     "hash": "40c3e7ffc3ff9f99",
     "layout": "b",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#d7b086",
     "slug": "ai-reduce-new-hire-ramp-time",
     "ts": "2026-07-27T18:17:34.090Z"
+  },
+  {
+    "hash": "f3f000602037fff6",
+    "layout": "c",
+    "accent": "#a89968",
+    "slug": "ip-strategy-semiconductor-startups-delay",
+    "ts": "2026-07-28T09:40:23.312Z"
   }
 ]

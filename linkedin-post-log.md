@@ -573,3 +573,4 @@
 2026-07-27 17:52 | urn:li:share:7487565632989851648 | PE firms that skip the IP audit in the first 100 days leave $5M on the table.  3
 2026-07-27 18:17 | urn:li:share:7487571902165626880 | post #5 | ai-reduce-new-hire-ramp-time | AI cuts new hire ramp time by 40%. New hires take 60-90 days to reach full produ
 2026-07-28 07:56 | urn:li:share:7487778053507579904 | 3 in 5 enterprise AI deals stall in legal review over IP indemnification.  The p
+2026-07-28 09:40 | urn:li:share:7487804136827301888 | post #1 | ip-strategy-semiconductor-startups-delay | Semiconductor patents grant two years too late.  Founders file IP on hardware al
