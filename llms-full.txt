@@ -5259,3 +5259,17 @@ IP strategy for biotech startups operates on a different timeline, regulatory fr
 The first difference is timing. Software startups can iterate and file patents post-launch. Biotech startups mu
 
 ---
+
+## Your Chip Patent Is Worthless If Nobody Can See It: The IP Strategy for Semiconductor Startups in 2026
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-semiconductor-startups/
+
+The IP strategy for semiconductor startups that holds value in 2026 files on what a competitor's shipped product reveals and keeps everything else as a trade secret. Detectability, not novelty, sets the price of a chip patent. A claim nobody can read off a packaged die, a datasheet, or a standard interface transaction is a public disclosure with no enforcement behind it.
+
+Investors have put roughly [$10.7 billion into semiconductor startups so far in 2026](https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/), with 18 companies taking rounds above $100 million in Q1 alone. Etched closed a $300 million Series C on 23 July. MatX reached $605 million across three rounds. Almost every one of those decks lists a patent count. Very few of those patents could survive the question an acquirer asks in year four: show me the product you can prove infringes this.
+
+## The reason most chip patents never get enforced
+
+Finnegan, one of the largest patent firms in the United States, puts the mechanic bluntly in its guidance on [drafting and enforcing semiconductor patents](https://www.finnegan.com/en/insights/articles/drafting-and-enforcing-semiconductor-patents.html): proving that device and fabrication inventions are being used by others normally requires reverse engineering, which is costly, slow, and may not even show the invention is in use. A nanoscale multilayer device can demand repeated cross sectional SEM and TEM analysis wi
+
+---
