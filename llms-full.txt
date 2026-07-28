@@ -5229,3 +5229,17 @@ Hayat Amin argues this is the most expensive mistake in edtech: "Content is a co
 EdTech IP strategy operates under two constraints no other vertical faces — and both create defensible moats for founders who understand them. First, student data privacy regulations (FERPA in the US, GDPR for minors in the EU, COPPA for under-13s) make compliant data pipelines expensive to build and impossible to shortcut. Second, learning outcomes are measurable — adaptive learning algorithms that demonstrably
 
 ---
+
+## Most Autonomous Vehicle Startups Patent Their Sensors Instead of Their Decision Stack — The 5-Layer IP Strategy That Turns Self-Driving Technology Into Licensable Assets
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-autonomous-vehicle-startups/
+
+91% of autonomous vehicle startups hold fewer than 10 patents — while the 5 largest AV incumbents hold a combined 30,000+. Most founders in this space patent their sensor hardware or LiDAR configuration and assume they have IP protection. They do not.
+
+Hayat Amin argues this is the most expensive miscalculation in mobility tech: "A sensor patent protects a component. A decision-stack patent protects the entire vehicle's intelligence — and that is what acquirers pay 8x multiples for." The IP strategy for autonomous vehicle startups that drives defensibility has nothing to do with cameras or LiDAR and everything to do with the software layers that decide what the vehicle does next. Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com) — and in autonomous vehicles, where a single freedom-to-operate gap can kill an OEM partnership, that defensibility signal determines whether tier-one suppliers even take the call.
+
+## Why Is IP Strategy for Autonomous Vehicle Startups Different From Other Tech Verticals?
+
+Autonomous vehicle IP operates across three layers simultaneously — hardware, software, and data — and each layer has a different patent landscape, a different competitive dynamic, and a different licensing exposure. No other tech vertical forces founders to defend across all three at once. A perception algorithm patent means nothing if a competitor's LiDAR patent blocks the sensor input. A mapping dataset means nothing if the 
+
+---
