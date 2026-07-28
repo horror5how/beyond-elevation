@@ -3,7 +3,7 @@ date: 2026-07-28
 theme: Today's posts cut through complexity for founders: IP protection in deep tech (semiconductors, medtech) and practical AI deployment in core operations (sales, finance, support). Each post delivers a concrete playbook for immediate impact.
 generated_at: 2026-07-28T06:24:03.790Z
 posts_total: 5
-posts_published: 1
+posts_published: 2
 ---
 
 # Daily theme
@@ -53,7 +53,9 @@ One BE client secured a 3x higher exit multiple with this IP sequencing.
 ---
 
 ## Post 2
-status: pending
+status: published
+published_at: 2026-07-28T11:18:40.617Z
+share_urn: urn:li:share:7487828872181256192
 hook_format: contrarian
 cta_goal: clicks
 slug: ip-strategy-medtech-regulatory-data

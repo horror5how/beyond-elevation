@@ -574,3 +574,4 @@
 2026-07-27 18:17 | urn:li:share:7487571902165626880 | post #5 | ai-reduce-new-hire-ramp-time | AI cuts new hire ramp time by 40%. New hires take 60-90 days to reach full produ
 2026-07-28 07:56 | urn:li:share:7487778053507579904 | 3 in 5 enterprise AI deals stall in legal review over IP indemnification.  The p
 2026-07-28 09:40 | urn:li:share:7487804136827301888 | post #1 | ip-strategy-semiconductor-startups-delay | Semiconductor patents grant two years too late.  Founders file IP on hardware al
+2026-07-28 11:18 | urn:li:share:7487828872181256192 | post #2 | ip-strategy-medtech-regulatory-data | MedTech IP isn't just the device.  68% of MedTech startups lose their moat to re

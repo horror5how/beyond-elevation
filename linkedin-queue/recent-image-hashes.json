@@ -1,12 +1,5 @@
 [
   {
-    "hash": "40c3e7ffc3ff9f99",
-    "layout": "b",
-    "accent": "#a89968",
-    "slug": "ai-fraud-detection-operations-reality",
-    "ts": "2026-07-26T17:54:32.253Z"
-  },
-  {
     "hash": "7ef901711737ffff",
     "layout": "c",
     "accent": "#a89968",
@@ -47,5 +40,12 @@
     "accent": "#a89968",
     "slug": "ip-strategy-semiconductor-startups-delay",
     "ts": "2026-07-28T09:40:23.312Z"
+  },
+  {
+    "hash": "c3c40c2cc4decfef",
+    "layout": "a",
+    "accent": "#a87c7c",
+    "slug": "ip-strategy-medtech-regulatory-data",
+    "ts": "2026-07-28T11:18:40.617Z"
   }
 ]
