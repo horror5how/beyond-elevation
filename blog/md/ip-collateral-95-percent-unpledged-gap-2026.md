@@ -2,8 +2,8 @@
 title: "90% of Enterprise Value Is Intangible but Under 5% of Intellectual Property Has Ever Been Pledged as Loan Collateral"
 slug: ip-collateral-95-percent-unpledged-gap-2026
 date: 2026-07-28
-url: https://beyondelevation.com/blog/post.html?slug=ip-collateral-95-percent-unpledged-gap-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-collateral-95-percent-unpledged-gap-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -73,6 +73,20 @@ The 95% unpledged IP collateral gap is closing from both sides. Government progr
 
 [Beyond Elevation](https://beyondelevation.com) runs the IP Pledgeability 4-Gate Test and the independent valuation that the lending conversation requires. If you hold IP and need capital without dilution, start with the audit before the market prices your portfolio for you.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-collateral-95-percent-unpledged-gap-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much can I borrow against my intellectual property?
@@ -94,3 +108,6 @@ The independent IP valuation engagement takes 4 to 8 weeks. The lending process 
 ### What are rated IP-backed securities?
 
 Financial instruments backed by a pool of IP assets with documented revenue streams, rated by a credit agency for institutional investors. The first issuances are expected in the 2026 to 2028 window. They will create standardised pricing benchmarks for IP collateral and bring institutional capital into a market that has operated on bespoke terms until now.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

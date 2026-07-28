@@ -336,5 +336,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Most Autonomous Vehicle Startups Patent Their Sensors Instead of Their Decision Stack — The 5-Layer IP Strategy That Turns Self-Driving Technology Into Licensable Assets](https://beyondelevation.com/blog/posts/ip-strategy-autonomous-vehicle-startups/) — /blog/md/ip-strategy-autonomous-vehicle-startups.md
 - [Most Biotech Founders Patent Their Molecule and Stop — The 5-Layer IP Strategy That Turns Drug Discovery Into a Licensing Machine](https://beyondelevation.com/blog/posts/ip-strategy-biotech-startups/) — /blog/md/ip-strategy-biotech-startups.md
 - [Your Chip Patent Is Worthless If Nobody Can See It: The IP Strategy for Semiconductor Startups in 2026](https://beyondelevation.com/blog/posts/ip-strategy-semiconductor-startups/) — /blog/md/ip-strategy-semiconductor-startups.md
+- [90% of Enterprise Value Is Intangible but Under 5% of Intellectual Property Has Ever Been Pledged as Loan Collateral](https://beyondelevation.com/blog/posts/ip-collateral-95-percent-unpledged-gap-2026/) — /blog/md/ip-collateral-95-percent-unpledged-gap-2026.md
 
 > Full blog content available at /llms-full.txt

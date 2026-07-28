@@ -5273,3 +5273,19 @@ Investors have put roughly [$10.7 billion into semiconductor startups so far in 
 Finnegan, one of the largest patent firms in the United States, puts the mechanic bluntly in its guidance on [drafting and enforcing semiconductor patents](https://www.finnegan.com/en/insights/articles/drafting-and-enforcing-semiconductor-patents.html): proving that device and fabrication inventions are being used by others normally requires reverse engineering, which is costly, slow, and may not even show the invention is in use. A nanoscale multilayer device can demand repeated cross sectional SEM and TEM analysis wi
 
 ---
+
+## 90% of Enterprise Value Is Intangible but Under 5% of Intellectual Property Has Ever Been Pledged as Loan Collateral
+
+URL: https://beyondelevation.com/blog/posts/ip-collateral-95-percent-unpledged-gap-2026/
+
+Intangible assets now make up roughly 90% of S&P 500 market capitalisation, up from 17% in 1975. Fewer than 5% of identifiable intellectual property assets have ever been pledged as loan collateral. That is the largest untapped financing pool in the capital stack, sitting directly underneath every founder who holds patents, datasets, or structured know-how. Hayat Amin argues this gap is not a market failure but a timing problem: the financial infrastructure for using intellectual property as loan collateral did not exist at operational scale until 2026. Three jurisdictions changed the rules this year, the first rated intangible-backed securities are due before 2028, and the founders who pledge their IP before that pricing mechanism arrives will set their own terms instead of accepting them.
+
+## Why Is Intellectual Property as Loan Collateral the Largest Untapped Financing Pool?
+
+The gap exists because lending infrastructure stayed anchored to physical assets, real estate, and receivables for 50 years while enterprise value shifted decisively to intangibles. The EUIPO 2026 IP-backed finance report documents this structural mismatch in hard numbers.
+
+Traditional lenders require three things to accept collateral: a reliable valuation method, a liquid secondary market, and an enforcement mechanism in default. Physical assets deliver all three. Intellectual property, until recently, delivered none at reliable scale.
+
+Hayat Amin's view is blunt: the lending market spent decades pre
+
+---
