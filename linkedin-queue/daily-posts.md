@@ -1,160 +1,93 @@
 ---
 date: 2026-07-28
-theme: Today's posts cut through complexity for founders: IP protection in deep tech (semiconductors, medtech) and practical AI deployment in core operations (sales, finance, support). Each post delivers a concrete playbook for immediate impact.
-generated_at: 2026-07-28T06:24:03.790Z
+theme: Cheap inputs are not the win. Whether you are filing patents or firing agents at your funnel, the money sits in the filter you put after the output.
+generated_at: 2026-07-28T15:55:00.000Z
 posts_total: 5
-posts_published: 4
+posts_published: 0
 ---
 
 # Daily theme
-Today's content is laser-focused on actionable strategies for founders navigating complex IP and AI landscapes. We provide concrete playbooks for IP protection in high-stakes deep tech sectors like semiconductors and medtech, ensuring your core innovation is defensible from day one. Complementing this, our AI operations posts deliver insider insights into using AI to drive immediate, measurable improvements in sales, finance, and customer support, bypassing common pitfalls and vendor-speak with real-world deployment tactics.
 
-# Topic shortlist (research notes - not posted)
-1. IP: Semiconductor IP strategy (late patent grants, trade secrets for process, data moats)
-2. IP: MedTech IP strategy (regulatory data exclusivity, clinical workflow patents, digital therapeutics)
-3. AI Ops: AI for customer expansion (data signals, personalized outreach, boosting ARR)
-4. AI Ops: Fractional CFO vs. AI finance tool (strategic guidance vs. tactical automation, process first)
-5. AI Ops: AI for human-like support (fine-tuning, brand persona, human-in-the-loop)
+Two IP posts and three AI-operations posts built on one idea: volume got cheap, judgement did not. Patent drafting tools just took $65M in fresh venture money while enforcement still costs millions. AI agents produce more output than any team can verify. In both cases the constraint moved downstream, and the operators pricing for that shift are the ones showing margin.
+
+# Topic shortlist (research notes | not posted)
+1. Solve Intelligence $40M Series B, DeepIP $25M Series B, Ankar €17M | AI patent drafting is funded, but drafting was never the cost centre | enforcement runs $3M+ per case
+2. Sisvel expands AI licensing pool into optical interconnect and Ultra Ethernet | royalty stacks are forming on AI datacentre hardware before buyers price them | 1% stack on a $3M rack is $30k
+3. McKinsey and Forbes both report enterprise AI ROI stalling on operating cost, not model cost | verification labour is the hidden line | 3x the inference bill in one client account
+4. Microsoft ships ROI tracking for agents while "AI productivity is a faulty metric" gains traction | hours saved never hit the P&L | only a removed vendor line or a margin point does
+5. CIOs using agents for revenue growth | AI lifts reply rates and drops close rates | the leverage is disqualification, not personalisation
 
 ---
 
 ## Post 1
-status: published
-published_at: 2026-07-28T09:40:23.312Z
-share_urn: urn:li:share:7487804136827301888
-hook_format: contrarian
-cta_goal: clicks
-slug: ip-strategy-semiconductor-startups-delay
-keyword: IP strategy for semiconductor startups
-numbers_check: 27.5 months, $50M, 3x
-headline: Semiconductor Patents<br>Grant Two Years Late.
-metric_1: 27.5<br>MONTHS PENDENCY
-label_1: AVERAGE<br>PATENT GRANT
-metric_2: 50M<br>MARKET CAP AT RISK
-label_2: OBSOLETE IP<br>COST
-metric_3: 3X<br>EXIT MULTIPLE
-label_3: WITH STRATEGIC<br>IP SEQUENCING
+status: pending
+hook_format: number-led
+cta_goal: follows
+slug: patent-drafting-is-not-the-bottleneck
+keyword: AI patent drafting cost vs enforcement cost
+numbers_check: $40M, $25M, $5.6B, 70%, $3M
+image_direction: Balance sheet framing, drafting cost dwarfed by enforcement cost
+headline: Cheap patents are not<br>the same as strong ones.
+metric_1: $65M
+label_1: RAISED TO<br>DRAFT FASTER
+metric_2: $3M
+label_2: MEDIAN COST<br>TO ENFORCE
+metric_3: 70%
+label_3: QUALCOMM<br>LICENSING MARGIN
 
-Semiconductor patents grant two years too late.
+$40M to draft patents faster.
 
-Founders file IP on hardware already obsolete. This puts $50M+ of market cap at risk.
+Speed was never the bottleneck.
 
-The fix (3 moves, this week):
-1. Patent control/perception layers, not just physical hardware.
-2. Guard manufacturing process IP as trade secrets, indefinitely.
-3. Lock derived data rights in customer contracts for fleet telemetry.
+Solve Intelligence raised $40M this month and DeepIP $25M, both to accelerate drafting. Meanwhile Qualcomm's licensing arm books around $5.6B a year at margins north of 70%, and it earns that on claim scope, not word count.
 
-One BE client secured a 3x higher exit multiple with this IP sequencing.
+Drafting is under 1% of what a patent costs you if you ever have to enforce it. Median litigation runs $3M and up.
 
-↳ Founders: which semiconductor layer is your biggest IP blind spot?
+Cheaper filings just get you a bigger pile of unenforceable paper.
 
-#IPStrategy #Semiconductors #DeepTech
+Score every claim against one question: can a competitor ship around this in a quarter?
+
+↳ Follow for IP read as a balance sheet, not a legal file.
+
+#IntellectualProperty #PatentStrategy #FounderEconomics
 
 ---
 
 ## Post 2
-status: published
-published_at: 2026-07-28T11:18:40.617Z
-share_urn: urn:li:share:7487828872181256192
-hook_format: contrarian
+status: pending
+hook_format: prediction
 cta_goal: clicks
-slug: ip-strategy-medtech-regulatory-data
-keyword: MedTech IP strategy
-numbers_check: 68%, $100M, $250M
-headline: MedTech IP Isn't<br>Just the Device.
-metric_1: 68%<br>STARTUPS LOSE MOAT
-label_1: TO REGULATORY<br>IP BLIND SPOT
-metric_2: 100M+<br>EXIT VALUE AT RISK
-label_2: WITHOUT DATA<br>EXCLUSIVITY
-metric_3: 250M<br>VALUATION UNLOCKED
-label_3: CLIENT OUTCOME<br>FROM IP
+slug: ai-rack-royalty-stack-cogs
+keyword: AI hardware patent pool royalty cost
+numbers_check: 1%, $30,000, $3M, 100 racks
+image_direction: Datacentre rack with a royalty line item stamped into COGS
+headline: Patent pools price your<br>hardware before you do.
+metric_1: $3M
+label_1: COST OF ONE<br>AI RACK
+metric_2: 1%
+label_2: TYPICAL ROYALTY<br>STACK
+metric_3: $3M
+label_3: HIT ON A<br>100 RACK BUILD
 
-MedTech IP isn't just the device.
+Your AI racks have a royalty problem coming.
 
-68% of MedTech startups lose their moat to regulatory data exclusivity. This leaves $100M+ in exit value on the table.
+Sisvel just expanded its AI licensing pool into optical interconnect and Ultra Ethernet.
 
-The fix (3 moves, this week):
-1. Secure regulatory data exclusivity as critical IP.
-2. Patent clinical workflow integration, not just the device.
-3. Capture digital therapeutic IP early, linked to patient outcomes.
+Pools form quietly, then the rate arrives as a line item.
 
-One BE client unlocked $250M in valuation by structuring regulatory data as IP.
+Run it: a $3M GPU rack carrying a 1% royalty stack is $30,000 per rack. On a 100 rack build that is $3M straight out of gross margin.
 
-↳ Founders: what regulatory hurdle feels like an IP trap?
+That cost lands in COGS, not in legal.
 
-#MedTech #IPStrategy #HealthTech
+Ask your hardware vendor which pools they have licensed, in writing, before the PO goes out. Indemnity language is worth more than the discount you negotiated.
+
+↳ Full breakdown of AI hardware royalty exposure on the site.
+
+#PatentPools #AIInfrastructure #GrossMargin
 
 ---
 
 ## Post 3
-status: published
-published_at: 2026-07-28T12:51:06.007Z
-share_urn: urn:li:share:7487852131891290113
-hook_format: contrarian
-cta_goal: comments
-slug: ai-customer-expansion-data-signals
-keyword: AI for customer expansion
-numbers_check: 15-20%, $50K, 12%
-headline: AI Finds Expansion<br>Revenue, Not Just Upsells.
-metric_1: 15-20%<br>MISSED EXPANSION
-label_1: REVENUE<br>OPPORTUNITY
-metric_2: 50K<br>PER REP ANNUALLY
-label_2: LOST REVENUE<br>PER REP
-metric_3: 12%<br>EXPANSION ARR LIFT
-label_3: CLIENT OUTCOME<br>IN 90 DAYS
-
-AI finds expansion revenue, not just upsells.
-
-Sales teams miss 15-20% of expansion opportunities. That's $50K+ per rep annually in lost ARR.
-
-The fix (3 moves, this week):
-1. Analyze product usage data for 10 key expansion signals.
-2. Proactively suggest next-tier features based on adoption patterns.
-3. Automate personalized outreach for inactive, high-value features.
-
-A BE client boosted expansion ARR by 12% in 90 days.
-
-↳ Founders: which customer segment has the most hidden expansion value?
-
-#AIOperations #SalesAI #CustomerExpansion
-
----
-
-## Post 4
-status: published
-published_at: 2026-07-28T15:28:17.938Z
-share_urn: urn:li:share:7487891691761438721
-hook_format: contrarian
-cta_goal: comments
-slug: fractional-cfo-vs-ai-finance-tool
-keyword: Fractional CFO or AI finance tool
-numbers_check: $20K+, 60%, 3 months
-headline: Fractional CFO<br>Beats AI Finance Tools First.
-metric_1: 20K+<br>WASTED ON TOOLS
-label_1: BEFORE PROCESS<br>FIX
-metric_2: 60%<br>FINANCE ERRORS CUT
-label_2: CLIENT OUTCOME<br>WITH CFO
-metric_3: 3<br>MONTHS FASTER FUNDING
-label_3: ACCELERATED<br>RAISE
-
-Fractional CFO beats AI finance tools first.
-
-Founders waste $20K+ on AI tools before fixing core finance processes. This leads to messy data, bad decisions.
-
-The fix (3 moves, this week):
-1. Hire a fractional CFO to define KPIs and streamline workflows.
-2. Implement core finance ops: clean books, accurate cash flow models.
-3. Integrate AI tools under CFO guidance for tactical automation.
-
-One BE client cut finance errors by 60% and secured funding 3 months faster.
-
-↳ Founders: which finance problem would you trust an AI tool with first?
-
-#FractionalCFO #AIFinance #StartupFinance
-
----
-
-## Post 5
 status: pending
 hook_format: contrarian
 cta_goal: comments
@@ -183,3 +116,71 @@ A BE client improved CSAT by 18% and resolved 35% more tickets with AI.
 ↳ Founders: which support interaction needs a truly human touch most?
 
 #CustomerSupport #AIinCX #AIOperations
+
+---
+
+## Post 4
+status: pending
+hook_format: frame-break
+cta_goal: comments
+slug: verification-cost-kills-agent-roi
+keyword: AI agent ROI verification cost
+numbers_check: 12,000, 22%, 264 hours, 3x, 11 months
+image_direction: Two cost bars, tiny inference bill next to a large human review bill
+headline: The model bill is not<br>what breaks agent ROI.
+metric_1: 264
+label_1: HOURS OF HUMAN<br>REVIEW PER MONTH
+metric_2: 3x
+label_2: REVIEW COST VS<br>INFERENCE COST
+metric_3: 7%
+label_3: REVIEW RATE<br>AFTER REPRICING
+
+Token cost is not what kills agent ROI.
+
+Verification is.
+
+A client's RevOps agent ran 12,000 tasks last month at $0.30 of inference each, so $3,600 in model spend. But 22% needed a human check at 6 minutes a piece. That is 264 hours of review, over $11,000 fully loaded, more than 3x the model bill.
+
+Payback slipped from 4 months to 11 on that line alone.
+
+We repriced the work per accepted output instead of per run. Once the acceptance bar got strict, the review rate fell to 7%.
+
+Track cost per accepted output. Cost per token tells you nothing.
+
+↳ What is your review rate right now? Most teams have never measured it.
+
+#AIOperations #RevOps #UnitEconomics
+
+---
+
+## Post 5
+status: pending
+hook_format: story
+cta_goal: DMs
+slug: ai-outbound-disqualification-leverage
+keyword: AI outbound reply rate vs close rate
+numbers_check: 1.1%, 3.4%, 210%, 24%, 14%, 41%, 27%
+image_direction: Funnel with a wide top and a hard filter clamped in the middle
+headline: More meetings did not<br>mean more revenue.
+metric_1: 210%
+label_1: MEETINGS<br>INCREASE
+metric_2: 24 to 14
+label_2: CLOSE RATE<br>COLLAPSE
+metric_3: 9 mo
+label_3: CAC PAYBACK<br>AFTER THE FIX
+
+Replies tripled. Revenue did not move.
+
+A client's outbound went from a 1.1% reply rate to 3.4% with AI personalisation. Meetings up 210%. Close rate fell from 24% to 14%.
+
+Net new ARR: flat.
+
+The agent got better at earning a yes to a meeting. It never got better at choosing who deserved one.
+
+So we pointed it at disqualification instead. It now kills 41% of booked meetings before they reach a calendar. Close rate recovered to 27%. CAC payback went from 14 months to 9.
+
+Everyone aims AI at the top of the funnel. The margin is in the filter.
+
+↳ DM me your reply rate and close rate. I will tell you which one is lying to you.
+
+#AIinSales #GoToMarket #CACPayback
