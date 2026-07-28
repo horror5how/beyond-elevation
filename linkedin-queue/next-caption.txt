@@ -1,17 +1,15 @@
-PE firms that skip the IP audit in the first 100 days leave $5M on the table.
+3 in 5 enterprise AI deals stall in legal review over IP indemnification.
 
-3 in 4 portfolio companies have never had a structured IP licensing review.
+The procurement team asks one question: who pays if your AI infringes a third-party patent?
 
-The ones that do average 18% higher exit multiples.
+Most AI vendors can't answer it.
 
-Three plays:
+That's a $3.2M average contract value sitting in legal limbo.
 
-IP audit at close surfaces licensable assets nobody knew existed.
+The fix isn't a better pitch deck.
 
-Restructuring exclusive licenses to non-exclusive creates a new P&L line.
+It's 3 filings your patent attorney completes in 90 days.
 
-Royalty run rate gets multiplied at exit. $1M of recurring royalties = $8-12M in deal value.
+Enterprise AI sales is now an IP problem disguised as a sales problem.
 
-This is not a legal project. It is a capital strategy.
-
-#IPStrategy #PrivateEquity #ExitMultiple
+#IPStrategy #AIStrategy #EnterpriseSales
