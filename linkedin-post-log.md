@@ -576,3 +576,4 @@
 2026-07-28 09:40 | urn:li:share:7487804136827301888 | post #1 | ip-strategy-semiconductor-startups-delay | Semiconductor patents grant two years too late.  Founders file IP on hardware al
 2026-07-28 11:18 | urn:li:share:7487828872181256192 | post #2 | ip-strategy-medtech-regulatory-data | MedTech IP isn't just the device.  68% of MedTech startups lose their moat to re
 2026-07-28 12:51 | urn:li:share:7487852131891290113 | post #3 | ai-customer-expansion-data-signals | AI finds expansion revenue, not just upsells.  Sales teams miss 15-20% of expans
+2026-07-28 13:01 | urn:li:share:7487854868968194048 | Most companies build AI agents when they need AI copilots.  That's a 6-month dep
