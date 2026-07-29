@@ -339,5 +339,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [90% of Enterprise Value Is Intangible but Under 5% of Intellectual Property Has Ever Been Pledged as Loan Collateral](https://beyondelevation.com/blog/posts/ip-collateral-95-percent-unpledged-gap-2026/) — /blog/md/ip-collateral-95-percent-unpledged-gap-2026.md
 - [Two 2026 Courts Ruled: Typing Trade Secrets Into ChatGPT Destroys Your Protection Forever](https://beyondelevation.com/blog/posts/chatgpt-trade-secret-court-ruling-2026/) — /blog/md/chatgpt-trade-secret-court-ruling-2026.md
 - [Venture Debt Underwriting Just Flipped: Why Lenders Now Ask for Your Patent Schedule Before Your Financial Model](https://beyondelevation.com/blog/posts/venture-debt-patent-schedule-first-2026/) — /blog/md/venture-debt-patent-schedule-first-2026.md
+- [Who Actually Buys Patent Portfolios in 2026? The Standing Bid Most Founders Never See](https://beyondelevation.com/blog/posts/who-buys-patent-portfolios-2026-standing-bid/) — /blog/md/who-buys-patent-portfolios-2026-standing-bid.md
 
 > Full blog content available at /llms-full.txt

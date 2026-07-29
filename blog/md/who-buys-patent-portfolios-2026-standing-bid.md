@@ -2,8 +2,8 @@
 title: "Who Actually Buys Patent Portfolios in 2026? The Standing Bid Most Founders Never See"
 slug: who-buys-patent-portfolios-2026-standing-bid
 date: 2026-07-29
-url: https://beyondelevation.com/blog/post.html?slug=who-buys-patent-portfolios-2026-standing-bid
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/who-buys-patent-portfolios-2026-standing-bid/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -59,6 +59,20 @@ Positioning starts years before the sale, and the founders who capture the highe
 
 **Price with data.** Use comparable transaction databases, royalty rate benchmarks, and licensing market analysis to build a defensible valuation range. Buyers run their own models. If your asking price is disconnected from market comps, you will not get a second meeting. For royalty rate benchmarking, see our analysis of why founders consistently [underprice patent royalty rates](/blog/posts/patent-royalty-rates-founders-underprice/).
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-who-buys-patent-portfolios-2026-standing-bid)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much do patent portfolios sell for in 2026?
@@ -80,3 +94,6 @@ Standard-essential patents command premiums because the licensee universe is lar
 ### What is the difference between a patent broker and a patent licensing firm?
 
 A broker facilitates a one-time sale transaction for a commission — typically 15% to 30% of deal value. A licensing firm builds and operates an ongoing licensing programme generating [recurring patent revenue streams](/blog/posts/recurring-patent-revenue-streams/). The right choice depends on whether you want a lump sum today or a multi-year royalty income stream. Both paths start with the same portfolio assessment — which is where most founders should begin.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
