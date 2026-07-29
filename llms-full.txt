@@ -5305,3 +5305,17 @@ In January 2026, the Northern District of California dismissed a DTSA claim beca
 In February 2026, the Southern District of New York ruled that communications memorialized through a public AI platform were not confidential. The reasoning was direct: because the AI platform operator was not con
 
 ---
+
+## Venture Debt Underwriting Just Flipped: Why Lenders Now Ask for Your Patent Schedule Before Your Financial Model
+
+URL: https://beyondelevation.com/blog/posts/venture-debt-patent-schedule-first-2026/
+
+Venture debt underwriting changed in 2026. Lenders including Western Technology Investment and Horizon Technology Finance now formally incorporate IP valuation into their credit process and they request the patent schedule before the financial model. Hayat Amin argues this is the most consequential shift in startup lending since revenue-based financing went mainstream: the financial model tells a lender what you project, but the patent schedule tells them what you own. In 2026, lenders want proof of ownership before they evaluate the projection.
+
+This is not a niche programme at specialist IP lenders. Mainstream venture debt providers across the United States and Europe are adopting AI-powered IP valuation as standard underwriting infrastructure through 2026 to 2028. The question for founders seeking non-dilutive capital is no longer whether patents have lending value. It is whether your patent schedule is structured to survive underwriting scrutiny on the first pass.
+
+## Why Did Venture Debt Underwriting Flip to Patents First?
+
+Venture debt underwriting shifted because lenders discovered that patent portfolio quality predicts repayment risk more reliably than revenue projections at the growth stage. A 2026 EUIPO report on intangible-asset finance confirmed that companies with structured, independently valued IP portfolios defaulted at significantly lower rates than those relying on revenue-only collateral, validating what WTI and Horizon had already observed in their own boo
+
+---
