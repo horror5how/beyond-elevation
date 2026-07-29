@@ -1,0 +1,102 @@
+name: Publish LinkedIn Post
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'linkedin-queue/next-caption.txt'
+      - 'linkedin-queue/next-image.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Playwright
+        run: |
+          npm install playwright@1.56.1
+          npx playwright install --with-deps chromium
+
+      - name: Render BEIP image
+        run: |
+          node -e "
+          const { chromium } = require('playwright');
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage();
+            await page.setViewportSize({ width: 1080, height: 1080 });
+            await page.goto('file://' + process.cwd() + '/linkedin-queue/next-image.html');
+            await page.waitForTimeout(800);
+            await page.screenshot({ path: '/tmp/be-li-image.png', fullPage: false });
+            await browser.close();
+            console.log('Image rendered');
+          })().catch(e => { console.error(e); process.exit(1); });
+          "
+          ls -la /tmp/be-li-image.png
+
+      - name: Publish to LinkedIn
+        env:
+          LI_TOKEN: ${{ secrets.LI_TOKEN }}
+          LI_URN: ${{ secrets.LI_URN }}
+        run: |
+          set +e
+          OUTPUT=$(node scripts/linkedin-publish.mjs \
+            --image /tmp/be-li-image.png \
+            --text "$(cat linkedin-queue/next-caption.txt)" 2>&1)
+          ECODE=$?
+          set -e
+          echo "$OUTPUT"
+          echo "exit=$ECODE"
+
+          git config user.email 'agent@beyondelevation.com'
+          git config user.name 'BE LinkedIn Agent'
+
+          push_with_rebase() {
+            for i in 1 2 3; do
+              git pull --rebase --autostash origin main 2>/dev/null || true
+              if git push origin main; then return 0; fi
+              sleep $((i*3))
+            done
+            return 1
+          }
+
+          if [ "$ECODE" = "2" ]; then
+            stamp=$(date -u '+%Y-%m-%d %H:%M')
+            echo "$stamp | FAIL | 401 EMPTY_ACCESS_TOKEN - re-auth needed locally via: cd ~/.claude/skills/linkedin-native-post && node auth.mjs" >> linkedin-post-log.md
+            git add linkedin-post-log.md
+            git commit -m 'LinkedIn: re-auth required'
+            push_with_rebase
+            exit 0
+          fi
+
+          if [ "$ECODE" != "0" ]; then
+            stamp=$(date -u '+%Y-%m-%d %H:%M')
+            echo "$stamp | FAIL | publish error (see Actions run log)" >> linkedin-post-log.md
+            git add linkedin-post-log.md
+            git commit -m 'LinkedIn: publish failed'
+            push_with_rebase
+            exit 1
+          fi
+
+          SHARE_URN=$(echo "$OUTPUT" | grep -oE 'urn:li:share:[0-9]+' | head -1)
+          stamp=$(date -u '+%Y-%m-%d %H:%M')
+          first80=$(head -c 80 linkedin-queue/next-caption.txt | tr '\n' ' ')
+          echo "$stamp | $SHARE_URN | $first80" >> linkedin-post-log.md
+          git add linkedin-post-log.md
+          git commit -m 'LinkedIn post log update'
+          push_with_rebase
+
+          echo ""
+          echo "PUBLISHED: https://www.linkedin.com/feed/update/${SHARE_URN}/"
