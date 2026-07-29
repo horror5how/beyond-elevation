@@ -1,17 +1,17 @@
-Two 2026 federal courts just killed trade secret claims.
+90% of S&P 500 value is intangible. Fewer than 5% of IP assets have ever been pledged as collateral.
 
-Not because someone stole the secret.
+That is a $32 trillion financing gap sitting on your balance sheet.
 
-Because the founder typed it into ChatGPT first.
+Singapore's IP Financing Scheme has facilitated $100M+ in IP-backed loans.
 
-SDNY (Feb 2026): public AI platform communications are not confidential where the platform lacks a secrecy contract.
+UK IPO launched a patent-backed lending pilot this year.
 
-ND Cal (Jan 2026): DTSA claim dismissed. Founder used ChatGPT to build the secret. That counts as voluntary disclosure.
+US SBA now accepts IP as supplementary collateral.
 
-Your NDA does not cover OpenAI's servers.
+First RATED intangible-backed securities are due 2026-28.
 
-Build IP in a public AI tool. Lose it before you file.
+Lenders are pricing your portfolio whether you act or not.
 
-Run an AI tool policy audit this week.
+The only question is who captures the value first.
 
-#TradeSecrets #IP #AIStrategy
+#IPStrategy #IntellectualProperty #StartupFinance

@@ -570,3 +570,4 @@ ai-customer-expansion-data-signals
 ai-copilot-vs-agent-architecture-2026
 fractional-cfo-vs-ai-finance-tool
 chatgpt-destroys-trade-secret-2026-rulings
+ip-collateral-95-percent-unpledged-gap-2026

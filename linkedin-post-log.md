@@ -579,3 +579,4 @@
 2026-07-28 13:01 | urn:li:share:7487854868968194048 | Most companies build AI agents when they need AI copilots.  That's a 6-month dep
 2026-07-28 15:28 | urn:li:share:7487891691761438721 | post #4 | fractional-cfo-vs-ai-finance-tool | Fractional CFO beats AI finance tools first.  Founders waste $20K+ on AI tools b
 2026-07-28 17:56 | QUEUED-BLOCKED | chatgpt-destroys-trade-secret-2026-rulings | LinkedIn workflows disabled — re-enable linkedin-post.yml to publish queued post
+2026-07-29 07:52 | QUEUED-BLOCKED | ip-collateral-95-percent-unpledged-gap-2026 | api.linkedin.com blocked by proxy — queue files committed; re-enable linkedin-post.yml and push to publish | 90% of S&P 500 value is intangible. Fewer than 5% of IP assets have ever been pl
