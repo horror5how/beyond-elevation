@@ -5289,3 +5289,19 @@ Traditional lenders require three things to accept collateral: a reliable valuat
 Hayat Amin's view is blunt: the lending market spent decades pre
 
 ---
+
+## Two 2026 Courts Ruled: Typing Trade Secrets Into ChatGPT Destroys Your Protection Forever
+
+URL: https://beyondelevation.com/blog/posts/chatgpt-trade-secret-court-ruling-2026/
+
+Two federal courts ruled in early 2026 that founders who type confidential information into public AI tools forfeit trade secret protection permanently. Not because a competitor stole the secret. Because the founder disclosed it voluntarily to a platform with no contractual duty of confidentiality. Hayat Amin calls this the most expensive unforced error in AI-era IP strategy, and the damage is irreversible once the disclosure happens.
+
+## What Did the 2026 ChatGPT Trade Secret Court Rulings Actually Decide?
+
+Two federal courts established that entering trade secrets into a public AI tool constitutes voluntary disclosure under the Defend Trade Secrets Act, permanently stripping the information of its protected status. The rulings invert the threat model every founder assumes: the person who destroys the trade secret is not a competitor or a rogue employee but the creator who typed it into ChatGPT.
+
+In January 2026, the Northern District of California dismissed a DTSA claim because the plaintiff had developed the alleged trade secret using ChatGPT. The court held that feeding proprietary information into OpenAI's platform constituted voluntary disclosure to a third party. The plaintiff failed the "reasonable measures" requirement that the DTSA demands for protection.
+
+In February 2026, the Southern District of New York ruled that communications memorialized through a public AI platform were not confidential. The reasoning was direct: because the AI platform operator was not con
+
+---

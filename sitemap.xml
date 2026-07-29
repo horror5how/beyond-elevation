@@ -140,6 +140,18 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/chatgpt-trade-secret-court-ruling-2026/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>Two 2026 Courts Ruled: Typing Trade Secrets Into ChatGPT Destroys Your Protection Forever</image:title>
+      <image:caption>Two 2026 Courts Ruled: Typing Trade Secrets Into ChatGPT Destroys Your Protection Forever — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/chatgpt-trade-secret-court-ruling-2026/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/ip-strategy-autonomous-vehicle-startups/</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
