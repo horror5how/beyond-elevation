@@ -710,7 +710,7 @@ Apply skills in this exact order: `alex-hormozi` (offer-stack + value-equation f
 **Open rows only (re-ranked 2026-07-28 — Tier 5 now 134 rows; 304 posts in `data/posts.json`. Every prior Tier 5 row (T5-01 → T5-130) is shipped, so today's 4 synthesized rows are the entire open queue and lead it. ✅ The empty-queue condition flagged 07-24 is now CLEARED.)**
 
 1. **T5-131** — 🟢 `slug_hint: ip-collateral-95-percent-unpledged-gap-2026` — Can you use IP as loan collateral? (90% intangible vs <5% ever pledged; rated intangible-backed securities landing 2026-28) — **WRITE FIRST.** Only pure 🟢 on the board, hardest number pair, non-dilutive-capital intent.
-2. **T5-132** — 🟡 `slug_hint: chatgpt-destroys-trade-secret-2026-rulings` — Does using ChatGPT destroy trade secret protection? (SDNY Feb 2026 + ND Cal Jan 2026 DTSA dismissal; the creator destroys it, not the thief) — highest urgency; also add a dated case-law update block to the now-stale `chatgpt-trade-secret-risk` and `trade-secret-protection-ai-models`.
+2. **T5-132** — ✅ `chatgpt-trade-secret-court-ruling-2026` — Does using ChatGPT destroy trade secret protection? (SDNY Feb 2026 + ND Cal Jan 2026 DTSA dismissal; the creator destroys it, not the thief) — shipped 2026-07-29.
 3. **T5-133** — 🟡 `slug_hint: venture-debt-patent-schedule-before-financial-model-2026` — What do venture debt lenders look at first? (underwriting order inversion; WTI + Horizon) — publish as an internal-link sibling of T5-131 to build the IP-finance cluster.
 4. **T5-134** — 🟡 `slug_hint: who-buys-patent-portfolios-2026-standing-bid` — Who actually buys patent portfolios? (SIM IP 11 deals in 15 months; licensing displaced litigation) — re-opens the IP-monetization vein.
 
