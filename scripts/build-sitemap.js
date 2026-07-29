@@ -50,9 +50,9 @@ const FIXED_ROUTES = [
         license: '/',
       },
       {
-        loc: '/assets/alexandra-headshot.jpg',
-        title: 'Alexandra — Executive Partnership Manager at Beyond Elevation',
-        caption: 'Alexandra, Executive Partnership Manager at Beyond Elevation. IP strategy and licensing revenue consultancy based in New York.',
+        loc: '/assets/georgina-king-headshot.jpg',
+        title: 'Georgina King — Executive Partnership Manager at Beyond Elevation',
+        caption: 'Georgina King, Executive Partnership Manager at Beyond Elevation. IP strategy and licensing revenue consultancy based in New York.',
         license: '/',
       },
       {
