@@ -581,3 +581,4 @@
 2026-07-28 17:56 | QUEUED-BLOCKED | chatgpt-destroys-trade-secret-2026-rulings | LinkedIn workflows disabled — re-enable linkedin-post.yml to publish queued post
 2026-07-29 07:52 | QUEUED-BLOCKED | ip-collateral-95-percent-unpledged-gap-2026 | api.linkedin.com blocked by proxy — queue files committed; re-enable linkedin-post.yml and push to publish | 90% of S&P 500 value is intangible. Fewer than 5% of IP assets have ever been pl
 2026-07-29 12:56 | urn:li:share:7488215903327899651 | Venture debt underwriters now ask for your patent schedule before your financial
+2026-07-29 17:51 | QUEUED | who-buys-patent-portfolios-2026-standing-bid | api.linkedin.com blocked by proxy — queue files committed; workflow will publish | There is now a standing bid under your patent portfolio. One fund closed 11 portfolio deals in 15 months
