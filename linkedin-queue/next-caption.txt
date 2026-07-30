@@ -1,15 +1,20 @@
-There is now a standing bid under your patent portfolio.
+Two federal courts ruled in 2026: the founder destroyed the trade secret.
 
-One fund closed 11 portfolio deals in 15 months — buying patents, not products.
+Not a hacker. The founder.
 
-Licensing overtook litigation as the preferred monetisation route in 2026.
+SDNY: AI platform messages were not confidential. Secret killed.
 
-Recurring royalties beat uncertain damages.
+ND Cal: DTSA claim dismissed. Developer built it via ChatGPT — voluntary disclosure.
 
-The patent licensing market runs to $4.4B by 2032 at a 7.8% compound annual rate.
+Most founders are routing proprietary IP through AI tools every sprint.
 
-If you have no active licensor or buyer at the table, that upside belongs to someone else.
+That is not a workflow. That is a disclosure event.
 
-Dormant is not safe. It is expensive.
+Three clauses your AI vendor contract needs now:
+→ Model provider confidentiality obligation
+→ No-training-on-inputs clause
+→ IP assignment for AI-generated work
 
-#IPStrategy #PatentLicensing #IntellectualProperty
+Your NDA does not cover this.
+
+#AI #TradeSecrets #IP
