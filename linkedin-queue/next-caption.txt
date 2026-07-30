@@ -1,20 +1,18 @@
-Two federal courts ruled in 2026: the founder destroyed the trade secret.
+Your AI SaaS feature has a 90-day moat.
 
-Not a hacker. The founder.
+Your training data has a 10-year one.
 
-SDNY: AI platform messages were not confidential. Secret killed.
+Every competitor can rebuild your feature. Nobody can replicate your proprietary dataset.
 
-ND Cal: DTSA claim dismissed. Developer built it via ChatGPT — voluntary disclosure.
+Reddit licenses its data. News Corp licenses its archive. OpenAI pays both.
 
-Most founders are routing proprietary IP through AI tools every sprint.
+The companies hitting 8x exit multiples treat data as a revenue line, not a product input.
 
-That is not a workflow. That is a disclosure event.
+Three assets sitting unused in your business right now:
+→ Proprietary training sets
+→ Synthetic data pipelines
+→ Fine-tuned model weights
 
-Three clauses your AI vendor contract needs now:
-→ Model provider confidentiality obligation
-→ No-training-on-inputs clause
-→ IP assignment for AI-generated work
+None of them are on your balance sheet. All of them are licensable.
 
-Your NDA does not cover this.
-
-#AI #TradeSecrets #IP
+#AI #DataStrategy #IPStrategy
