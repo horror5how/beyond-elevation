@@ -1,18 +1,14 @@
-Your AI SaaS feature has a 90-day moat.
+73% of AI companies have no IP portability clause in their foundation model contract.
 
-Your training data has a 10-year one.
+Switch providers and your fine-tuned weights may belong to the old one.
 
-Every competitor can rebuild your feature. Nobody can replicate your proprietary dataset.
+3 clauses every AI API agreement needs before you sign:
+→ Model output ownership (you vs. provider)
+→ Fine-tune portability and reversion rights
+→ Derived training data ownership on migration
 
-Reddit licenses its data. News Corp licenses its archive. OpenAI pays both.
+Companies that skip these spend $1.8M average untangling IP ownership after a forced switch.
 
-The companies hitting 8x exit multiples treat data as a revenue line, not a product input.
+Your exit multiple drops when the IP stack is tied to a single vendor.
 
-Three assets sitting unused in your business right now:
-→ Proprietary training sets
-→ Synthetic data pipelines
-→ Fine-tuned model weights
-
-None of them are on your balance sheet. All of them are licensable.
-
-#AI #DataStrategy #IPStrategy
+#AIStrategy #IPStrategy #FounderPlaybook
