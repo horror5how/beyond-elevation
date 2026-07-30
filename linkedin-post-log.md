@@ -583,3 +583,4 @@
 2026-07-29 12:56 | urn:li:share:7488215903327899651 | Venture debt underwriters now ask for your patent schedule before your financial
 2026-07-29 17:51 | QUEUED | who-buys-patent-portfolios-2026-standing-bid | api.linkedin.com blocked by proxy — queue files committed; workflow will publish | There is now a standing bid under your patent portfolio. One fund closed 11 portfolio deals in 15 months
 2026-07-29 17:52 | urn:li:share:7488290383127412736 | There is now a standing bid under your patent portfolio.  One fund closed 11 por
+2026-07-30 07:54 | QUEUED-BLOCKED | ai-agents-trade-secret-leak-2026 | All GHA workflows disabled_manually at 2026-07-29 23:30 — re-enable linkedin-post.yml to publish queued post | Two federal courts ruled in 2026: the founder destroyed the trade secret.
