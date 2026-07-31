@@ -1,19 +1,23 @@
-Your AI system prompt is worth more than your patent portfolio.
+Data licensing without a minimum guarantee is charity.
 
-Most companies have zero legal protection for it.
+Reddit negotiated $203M per year from Google.
 
-3 DTSA rulings in 2026: company disclosed proprietary logic to AI vendor without an NDA addendum. Trade secret — gone.
+Not projected. Contractually guaranteed.
 
-System prompts encode pricing models, scoring algorithms, decision trees. That is DTSA-eligible material.
+3 clauses that turn a data deal into a revenue line:
 
-The breach vector is not a hacker.
+1. Annual minimum — a floor, or you walk
 
-It is the "model improvement" clause in standard AI vendor terms.
+2. True-up audit rights — quarterly, not annually
 
-4 clauses every AI vendor agreement needs:
-1. System prompt confidentiality
-2. No-training on your outputs
-3. Return or destroy on termination
-4. Compliance audit rights
+3. Volume escalator — auto-renegotiate at defined thresholds
 
-#IPStrategy #TradeSecrets #AIGovernance
+Founders skip all three.
+
+Then they call $12K/year "licensing revenue" on the pitch deck.
+
+The minimum guarantee is what makes data licensing bankable.
+
+Without it, you have permission. Not revenue.
+
+#DataLicensing #IPStrategy #Valuation
