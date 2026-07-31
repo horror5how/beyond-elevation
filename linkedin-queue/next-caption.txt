@@ -1,14 +1,22 @@
-73% of AI companies have no IP portability clause in their foundation model contract.
+Planet Labs licenses imagery to Goldman Sachs, the US DoD, and 700+ clients.
 
-Switch providers and your fine-tuned weights may belong to the old one.
+It sells 0 satellites.
 
-3 clauses every AI API agreement needs before you sign:
-→ Model output ownership (you vs. provider)
-→ Fine-tune portability and reversion rights
-→ Derived training data ownership on migration
+That's the space IP model most founders miss.
 
-Companies that skip these spend $1.8M average untangling IP ownership after a forced switch.
+A rocket seat to LEO now costs $1,500/kg. Down from $65,000 in 2010.
 
-Your exit multiple drops when the IP stack is tied to a single vendor.
+Hardware is commoditized. The moat is the data licensing agreement.
 
-#AIStrategy #IPStrategy #FounderPlaybook
+The NewSpace IP stack:
+→ Earth observation data (recurring, government-backed revenue)
+→ Orbital slot + FCC spectrum (use it or lose it in 5 years)
+→ SAR algorithms (trade secret > patent)
+
+$1.8T space economy by 2035.
+
+Most of that sits in data, not hardware.
+
+File the licensing structure before the launch manifest.
+
+#IPStrategy #SpaceTech #FounderPlaybook
