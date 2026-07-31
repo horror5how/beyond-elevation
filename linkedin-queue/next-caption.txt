@@ -1,22 +1,19 @@
-Planet Labs licenses imagery to Goldman Sachs, the US DoD, and 700+ clients.
+Your AI system prompt is worth more than your patent portfolio.
 
-It sells 0 satellites.
+Most companies have zero legal protection for it.
 
-That's the space IP model most founders miss.
+3 DTSA rulings in 2026: company disclosed proprietary logic to AI vendor without an NDA addendum. Trade secret — gone.
 
-A rocket seat to LEO now costs $1,500/kg. Down from $65,000 in 2010.
+System prompts encode pricing models, scoring algorithms, decision trees. That is DTSA-eligible material.
 
-Hardware is commoditized. The moat is the data licensing agreement.
+The breach vector is not a hacker.
 
-The NewSpace IP stack:
-→ Earth observation data (recurring, government-backed revenue)
-→ Orbital slot + FCC spectrum (use it or lose it in 5 years)
-→ SAR algorithms (trade secret > patent)
+It is the "model improvement" clause in standard AI vendor terms.
 
-$1.8T space economy by 2035.
+4 clauses every AI vendor agreement needs:
+1. System prompt confidentiality
+2. No-training on your outputs
+3. Return or destroy on termination
+4. Compliance audit rights
 
-Most of that sits in data, not hardware.
-
-File the licensing structure before the launch manifest.
-
-#IPStrategy #SpaceTech #FounderPlaybook
+#IPStrategy #TradeSecrets #AIGovernance
