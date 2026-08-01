@@ -1,25 +1,17 @@
-Filing a patent for your AI feature takes 3 years and $50K.
+Licensing revenue is recurring revenue.
 
-Your competitor copies it in 90 days.
+Most founders label it 'other income.'
 
-The math does not work.
+That one label costs you $4M per $1M at exit.
 
-There is a free alternative that blocks competitors from patenting your idea.
+Acquirers apply 8x to ARR. They apply 3x to everything else.
 
-It is called a defensive publication.
+Your licensing checks arrive every quarter. Your P&L says 'other.'
 
-One document, published through the USPTO Prior Art Database.
+Fix it before the data room opens.
 
-Zero cost. 24 hours. Instant prior art.
+Rename the line. Show renewal rate. Document payment cadence.
 
-Three times this beats filing a patent:
+The multiple is in the label.
 
-1. Feature with a 6-month shelf life — publish, block, move on
-
-2. Methods you cannot enforce — make them public so nobody else can own them
-
-3. Speed beats a 3-year patent timeline
-
-When to still patent: foundational infrastructure taking 18 months to copy.
-
-#IPStrategy #AIPatents #StartupIP
+#IPStrategy #ExitMultiple #StartupFinance
