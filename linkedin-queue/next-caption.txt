@@ -1,17 +1,19 @@
-Licensing revenue is recurring revenue.
+Your AI stack runs on someone else's foundation model.
 
-Most founders label it 'other income.'
+One price increase and your unit economics collapse.
 
-That one label costs you $4M per $1M at exit.
+3 IP moves that survive a model switch:
 
-Acquirers apply 8x to ARR. They apply 3x to everything else.
+Patent the workflow layer — not the weights.
 
-Your licensing checks arrive every quarter. Your P&L says 'other.'
+Register your training dataset as a protected compilation.
 
-Fix it before the data room opens.
+File trade secret claims on your fine-tuning pipeline.
 
-Rename the line. Show renewal rate. Document payment cadence.
+68% of AI startups have no IP that survives their vendor raising prices.
 
-The multiple is in the label.
+The ones that do get acquired at 3.2x the multiple.
 
-#IPStrategy #ExitMultiple #StartupFinance
+Build IP above the model. It's the only asset that comes with you.
+
+#IPStrategy #AIStartups #FounderPlaybook

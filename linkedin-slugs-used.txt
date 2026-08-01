@@ -581,3 +581,4 @@ ai-system-prompt-trade-secret-2026
 data-licensing-minimum-guarantee-floor-2026
 defensive-publication-vs-patent-ai-2026
 licensing-revenue-arr-reclassification-exit-math-2026
+ai-model-lockout-ip-layer-2026
