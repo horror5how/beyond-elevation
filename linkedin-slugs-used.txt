@@ -579,3 +579,4 @@ foundation-model-switch-ip-clauses-2026
 ip-strategy-space-aerospace-2026
 ai-system-prompt-trade-secret-2026
 data-licensing-minimum-guarantee-floor-2026
+defensive-publication-vs-patent-ai-2026

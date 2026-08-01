@@ -1,23 +1,25 @@
-Data licensing without a minimum guarantee is charity.
+Filing a patent for your AI feature takes 3 years and $50K.
 
-Reddit negotiated $203M per year from Google.
+Your competitor copies it in 90 days.
 
-Not projected. Contractually guaranteed.
+The math does not work.
 
-3 clauses that turn a data deal into a revenue line:
+There is a free alternative that blocks competitors from patenting your idea.
 
-1. Annual minimum — a floor, or you walk
+It is called a defensive publication.
 
-2. True-up audit rights — quarterly, not annually
+One document, published through the USPTO Prior Art Database.
 
-3. Volume escalator — auto-renegotiate at defined thresholds
+Zero cost. 24 hours. Instant prior art.
 
-Founders skip all three.
+Three times this beats filing a patent:
 
-Then they call $12K/year "licensing revenue" on the pitch deck.
+1. Feature with a 6-month shelf life — publish, block, move on
 
-The minimum guarantee is what makes data licensing bankable.
+2. Methods you cannot enforce — make them public so nobody else can own them
 
-Without it, you have permission. Not revenue.
+3. Speed beats a 3-year patent timeline
 
-#DataLicensing #IPStrategy #Valuation
+When to still patent: foundational infrastructure taking 18 months to copy.
+
+#IPStrategy #AIPatents #StartupIP
