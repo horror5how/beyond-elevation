@@ -1,19 +1,21 @@
-Your AI stack runs on someone else's foundation model.
+PatSnap shows you who filed.
 
-One price increase and your unit economics collapse.
+Fractional patent counsel tells you what to file.
 
-3 IP moves that survive a model switch:
+One is data. One is strategy.
 
-Patent the workflow layer — not the weights.
+Founders spend $18K/year on PatSnap and still ask: "should we patent this?"
 
-Register your training dataset as a protected compilation.
+That question is not in any database.
 
-File trade secret claims on your fine-tuning pipeline.
+5 questions to tell you which one you need:
 
-68% of AI startups have no IP that survives their vendor raising prices.
+Do you know exactly what to file? PatSnap.
+Still figuring out your IP strategy? Counsel.
+Pre-Series B with no in-house IP team? Counsel.
+Monitoring competitor filings only? PatSnap.
+Next raise depends on IP defensibility? Counsel.
 
-The ones that do get acquired at 3.2x the multiple.
+Most early-stage founders need counsel first. Data second.
 
-Build IP above the model. It's the only asset that comes with you.
-
-#IPStrategy #AIStartups #FounderPlaybook
+#IPStrategy #StartupIP #PatentStrategy
