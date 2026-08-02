@@ -1,21 +1,17 @@
-PatSnap shows you who filed.
+Two federal courts ruled in 2026: the founder destroyed the trade secret.
 
-Fractional patent counsel tells you what to file.
+Not a hacker. Not an ex-employee. The founder.
 
-One is data. One is strategy.
+SDNY Feb 2026: platform had no secrecy obligation. Not confidential.
 
-Founders spend $18K/year on PatSnap and still ask: "should we patent this?"
+ND Cal Jan 2026: founder typed the trade secret into ChatGPT. DTSA claim dismissed.
 
-That question is not in any database.
+3 checks before you type anything into an AI tool:
 
-5 questions to tell you which one you need:
+Is the platform under NDA? ChatGPT: no.
+Does your policy define trade secrets? Most don't.
+Do you have an AI use audit trail? That's your only defence.
 
-Do you know exactly what to file? PatSnap.
-Still figuring out your IP strategy? Counsel.
-Pre-Series B with no in-house IP team? Counsel.
-Monitoring competitor filings only? PatSnap.
-Next raise depends on IP defensibility? Counsel.
+The threat model inverted. Your biggest IP risk in 2026 isn't a competitor. It's your own tooling.
 
-Most early-stage founders need counsel first. Data second.
-
-#IPStrategy #StartupIP #PatentStrategy
+#IPStrategy #TradeSecrets #AIGovernance
