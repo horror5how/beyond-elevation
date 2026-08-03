@@ -24,7 +24,7 @@ const ROOT = path.resolve(__dirname, '..');
 const SERVICES_JSON = path.join(ROOT, 'data', 'services.json');
 const OUT_DIR = path.join(ROOT, 'services');
 const SITE = 'https://beyondelevation.com';
-const CTA_URL = 'https://usemotion.com/meet/hayat-amin/be';
+const CTA_URL = '/call/web';
 
 function escapeHtml(str = '') {
   return String(str)

@@ -85,7 +85,7 @@ If running this analysis sounds complex, it is. Beyond Elevation's patent valuat
 
 Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
 
-[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-how-much-is-my-patent-worth)
+[Book the diagnostic →](/call/web?ref=blog-how-much-is-my-patent-worth)
 
 *14 founders booked this month. Hayat takes 4/week.*
 

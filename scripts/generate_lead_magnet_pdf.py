@@ -213,7 +213,7 @@ def page_scoring(c):
     c.drawString(1.0 * inch, 1.25 * inch, "Book a 30-minute IP leverage call with Hayat Amin.")
     c.setFont("Helvetica-Bold", 11)
     c.setFillColor(HexColor("#FAF7F2"))
-    c.drawString(1.0 * inch, 1.02 * inch, "usemotion.com/meet/hayat-amin/be")
+    c.drawString(1.0 * inch, 1.02 * inch, "beyondelevation.com/call/em")
     footer(c, 10)
     c.showPage()
 

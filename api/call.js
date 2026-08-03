@@ -7,7 +7,7 @@ const POSTHOG_KEY = "phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM";
 const POSTHOG_CAPTURE = "https://us.i.posthog.com/capture/";
 
 // Short code -> human label. Unknown codes pass through as-is.
-const SOURCES = { li: "LinkedIn", web: "Website", me: "Personal (Gmail)" };
+const SOURCES = { li: "LinkedIn", web: "Website", me: "Personal (Gmail)", em: "Email sequence", mh: "meethayat.com" };
 
 module.exports = async (req, res) => {
   const code = String((req.query && req.query.s) || "unknown").toLowerCase().slice(0, 40);

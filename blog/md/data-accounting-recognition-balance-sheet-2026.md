@@ -75,7 +75,7 @@ The question for every data-rich founder is no longer whether data belongs on th
 
 Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
 
-[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-data-accounting-recognition-balance-sheet-2026)
+[Book the diagnostic →](/call/web?ref=blog-data-accounting-recognition-balance-sheet-2026)
 
 *14 founders booked this month. Hayat takes 4/week.*
 

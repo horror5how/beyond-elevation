@@ -16,7 +16,7 @@ Loops dashboard → Loops → New Loop:
 - Step 4 → wait 3 days → email "Day 7" (`04.md`)
 - Step 5 → wait 3 days → email "Day 10" (`05.md`)
 Set From = `hayat@mail.beyondelevation.com`, Reply-to = `hayat@beyondelevation.com`.
-Use Loops merge tags: `{{firstName}}`, plus add custom variables `pdfUrl` (https://beyondelevation.com/assets/resources/ip-leverage-audit.pdf) and `motionUrl` (https://usemotion.com/meet/hayat-amin/be) at Loop level.
+Use Loops merge tags: `{{firstName}}`, plus add custom variables `pdfUrl` (https://beyondelevation.com/assets/resources/ip-leverage-audit.pdf) and `motionUrl` (https://beyondelevation.com/call/em) at Loop level.
 
 ## 3. Activate the Loop
 Top right "Publish" button. New leads will get the sequence automatically.

@@ -306,7 +306,7 @@ Hayat Amin, Founder & CEO. Exited operator who restructured Position Imaging's 6
 - Blog: ${SITE}/blog/
 
 ## Book a Strategy Session
-https://usemotion.com/meet/hayat-amin/be
+https://beyondelevation.com/call/web
 Phone: +1-571-380-7699
 Address: 178 Broadway, 3rd Floor #4542, New York, NY 10001, United States
 
