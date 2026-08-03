@@ -353,5 +353,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [One Copyleft License Can Force-Open Your Entire Codebase. The Open Source IP Compliance Audit 96% of Startups Have Never Run.](https://beyondelevation.com/blog/posts/open-source-ip-compliance-copyleft-risk-2026/) — /blog/md/open-source-ip-compliance-copyleft-risk-2026.md
 - [The 41% IP Valuation Premium Is Real. Here Is the 12-Month Playbook to Capture It.](https://beyondelevation.com/blog/posts/ip-valuation-premium-41-percent-playbook/) — /blog/md/ip-valuation-premium-41-percent-playbook.md
 - [VCs Never Sign NDAs. Here Are the 5 Ways to Protect Your IP During a Fundraise.](https://beyondelevation.com/blog/posts/protect-ip-during-fundraise-2026/) — /blog/md/protect-ip-during-fundraise-2026.md
+- [Who Really Owns Your Startup's IP? The Co-Founder Ownership Gap That Kills Deals](https://beyondelevation.com/blog/posts/co-founder-ip-ownership-startup-2026/) — /blog/md/co-founder-ip-ownership-startup-2026.md
 
 > Full blog content available at /llms-full.txt

@@ -5535,3 +5535,21 @@ Companies with patents are [10.2x more likely to secure early-stage funding](/bl
 VCs refuse NDAs because they review hundreds of deals per year across overlapping sectors. Signing an NDA with every pitch would create an unmanageable web of legal obligations and potential conflicts. A VC who signed your NDA and then funded a competitor in the same space faces a lawsuit regardless of wheth
 
 ---
+
+## Who Really Owns Your Startup's IP? The Co-Founder Ownership Gap That Kills Deals
+
+URL: https://beyondelevation.com/blog/posts/co-founder-ip-ownership-startup-2026/
+
+One in three startup acquisitions that collapse during due diligence fail because of co-founder IP ownership disputes. Not market risk. Not revenue shortfalls. IP ownership — the question nobody asked when the company was two people in a garage.
+
+Hayat Amin has seen this pattern destroy more deals than cap table disputes and revenue misses combined. "Founders split equity on day one," Hayat Amin argues, "but nobody splits the IP. Then a co-founder leaves, and suddenly the company's most valuable assets are owned by someone who is suing you." This is the co-founder IP ownership gap — and if you have not addressed it, your next fundraise or exit is at risk.
+
+## Who Owns IP Created Before the Company Exists?
+
+IP created before incorporation belongs to the individual who created it — not the company — unless a written agreement explicitly assigns it. This default rule catches founders off guard because they assume forming a company automatically transfers their prior work into it. It does not.
+
+Pre-incorporation IP — code written before the LLC filing, algorithms prototyped in a university lab, datasets assembled during a consulting engagement — remains the personal property of whoever created it. When that person is a co-founder, the company has a dependency on an asset it does not own.
+
+The fix is a **background IP declaration**: a written list of every piece of pre-existing IP each co-founder brings to the venture, with a corresponding assignment or licence agreement. Beyond E
+
+---
