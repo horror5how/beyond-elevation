@@ -5553,3 +5553,19 @@ Pre-incorporation IP — code written before the LLC filing, algorithms prototyp
 The fix is a **background IP declaration**: a written list of every piece of pre-existing IP each co-founder brings to the venture, with a corresponding assignment or licence agreement. Beyond E
 
 ---
+
+## Intangible Asset Accounting Hides 90% of Your Company Value. Here Is the 4-Step Fix.
+
+URL: https://beyondelevation.com/blog/posts/intangible-asset-accounting-gap-2026/
+
+Ninety percent of S&P 500 market capitalisation sits in intangible assets — up from 17% in 1975. Your balance sheet shows zero for every one of them. This is not a reporting quirk. It is the single biggest valuation leak in tech companies, and Hayat Amin argues it costs founders 20–40% in every negotiation where a financial statement hits the table.
+
+The culprit is intangible asset accounting under GAAP and IFRS. These rules force internally developed IP — patents, trade secrets, proprietary algorithms, curated datasets — off the balance sheet entirely. The fix is a 4-step framework that makes the invisible visible before your next fundraise, M&A process, or lending conversation.
+
+## Why Does Intangible Asset Accounting Hide Your IP's Value?
+
+Intangible asset accounting under GAAP (ASC 730) and IFRS (IAS 38) requires companies to expense internally developed intellectual property as R&D costs in the period incurred — not capitalise it as an asset. Your patents, trade secrets, and proprietary data show up as $0 on the balance sheet even when they are worth tens of millions.
+
+Here is how the distortion works. Every dollar you spend building a patent portfolio, training a proprietary model, or curating a dataset goes straight to the income statement as an expense. Nothing appears on the asset side. The only intangible assets that appear on a balance sheet are those *acquired* in a transaction — purchased patents, licensed technology, goodwill from an acquisition. If you built it
+
+---

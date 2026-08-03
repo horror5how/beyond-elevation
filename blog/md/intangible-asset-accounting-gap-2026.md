@@ -3,7 +3,7 @@ title: "Intangible Asset Accounting Hides 90% of Your Company Value. Here Is the
 slug: intangible-asset-accounting-gap-2026
 date: 2026-08-03
 url: https://beyondelevation.com/blog/posts/intangible-asset-accounting-gap-2026/
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -55,6 +55,20 @@ Every founder heading into a fundraise, M&A process, or lending conversation sho
 
 **Add IP disclosures to every financial package.** Hayat Amin reminds founders that the accounting rules will not change in your favour. ASC 730 and IAS 38 are not under active revision for internally developed intangibles. The founders who win are the ones who build the evidence layer that makes the balance sheet irrelevant — independent valuations, IP schedules, and pre-emptive PPA documentation that tell the real story.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-intangible-asset-accounting-gap-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Why do intangible assets show as zero on the balance sheet?
@@ -76,3 +90,6 @@ A purchase price allocation (PPA) is the process under ASC 805 and IFRS 3 where 
 ### Does the intangible asset accounting gap affect loan access?
 
 Yes. Traditional asset-based lenders can only lend against recognised balance sheet assets. When your IP shows as zero, it cannot serve as collateral in conventional lending. Programmes like Singapore's IP Financing Scheme and the UK IPO's patent-backed lending pilot are emerging, but founders who proactively surface IP value through independent valuations have significantly better access to non-dilutive capital today.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
