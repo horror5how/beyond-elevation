@@ -2,8 +2,8 @@
 title: "One Copyleft License Can Force-Open Your Entire Codebase. The Open Source IP Compliance Audit 96% of Startups Have Never Run."
 slug: open-source-ip-compliance-copyleft-risk-2026
 date: 2026-08-02
-url: https://beyondelevation.com/blog/post.html?slug=open-source-ip-compliance-copyleft-risk-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/open-source-ip-compliance-copyleft-risk-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -65,6 +65,20 @@ Open source IP compliance directly affects your defensibility score because unre
 
 Companies that maintain clean open source compliance consistently score 15-25% higher on [Beyond Elevation](https://beyondelevation.com)'s IP defensibility assessments. Run an open source IP compliance audit before your next fundraise, partnership negotiation, or exit conversation. The cost of the audit is a fraction of the value it protects.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-open-source-ip-compliance-copyleft-risk-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can one open source package really void my entire IP portfolio?
@@ -86,3 +100,6 @@ No. Permissive licenses carry negligible IP risk and power most of the modern so
 ### When should a startup run its first open source IP compliance audit?
 
 Before any external capital event — seed fundraise, Series A, strategic partnership, or M&A process. Ideally, implement automated scanning from the first commit. If your company already has a production codebase with no prior audit, run one now — every month of delay adds unreviewed dependencies and increases remediation cost.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

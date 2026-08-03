@@ -2,8 +2,8 @@
 title: "Medical Device IP Strategy: Why Filing Your Patent After FDA Submission Is the Most Expensive Mistake in Medtech"
 slug: ip-strategy-medical-device-startups
 date: 2026-07-30
-url: https://beyondelevation.com/blog/post.html?slug=ip-strategy-medical-device-startups
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-strategy-medical-device-startups/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -75,6 +75,20 @@ Hayat Amin reminds founders that in medtech, the acquirer is buying 10 years of 
 
 If your medtech startup is approaching FDA submission or preparing for a raise, [schedule a consultation with Beyond Elevation](https://beyondelevation.com) to map your patent-regulatory alignment before competitors file on the white space you left open.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-strategy-medical-device-startups)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How many patents does a medical device startup need before FDA clearance?
@@ -96,3 +110,6 @@ FDA clearance is not IP protection. It proves safety and efficacy, not ownership
 ### How does a freedom-to-operate analysis work for medical devices?
 
 A freedom-to-operate analysis for medical devices maps the device's functionality against active patents in the relevant FDA classification code. It identifies infringement risks before commercial launch and recommends design modifications or licensing agreements to clear the path to market. In medtech, an FTO analysis is especially critical because patent litigation can trigger FDA import alerts that pull the product entirely.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

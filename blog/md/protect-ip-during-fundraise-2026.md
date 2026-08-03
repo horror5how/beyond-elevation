@@ -2,8 +2,8 @@
 title: "VCs Never Sign NDAs. Here Are the 5 Ways to Protect Your IP During a Fundraise."
 slug: protect-ip-during-fundraise-2026
 date: 2026-08-03
-url: https://beyondelevation.com/blog/post.html?slug=protect-ip-during-fundraise-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/protect-ip-during-fundraise-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ The [10.2x funding advantage](/blog/posts/ip-valuation-for-fundraising/) for pat
 
 Book a consultation at [beyondelevation.com](https://beyondelevation.com) to start the 90-day pre-fundraise IP lockdown before your next raise.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-protect-ip-during-fundraise-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Do I need patents before I start fundraising?
@@ -92,3 +106,6 @@ A pre-fundraise IP audit and provisional filing program typically runs $15,000 t
 ### Can I still protect trade secrets after sharing them with VCs?
 
 Yes, if you disclosed them under controlled conditions such as a qualified data room with access logs, watermarking, and documented access restrictions. The [IP due diligence process](/blog/posts/ip-due-diligence-checklist-vc-investors/) works both ways. If you shared secrets in an open email or unprotected deck, trade secret protection may be compromised. An IP attorney can assess the specific situation and recommend remedial steps.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -2,8 +2,8 @@
 title: "Your Startup IP Is Worth $10M or $0. Here Is How to Tell in 10 Minutes."
 slug: startup-ip-value-10-minute-diagnostic
 date: 2026-08-01
-url: https://beyondelevation.com/blog/post.html?slug=startup-ip-value-10-minute-diagnostic
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/startup-ip-value-10-minute-diagnostic/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -87,6 +87,20 @@ Startup IP value directly predicts fundraising outcomes — this is not theory, 
 
 The 10-minute diagnostic is the first step. What follows — a full [IP defensibility assessment](/blog/posts/ip-defensibility-assessment-framework/), a filing strategy, a licensing programme — is what turns the score into revenue. But you cannot build on a foundation you have never measured. Run the diagnostic today. If you score 3 or more positive signals, [contact Beyond Elevation](https://beyondelevation.com) for a full IP audit. If you score 3 or more negative signals, contact them faster.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-startup-ip-value-10-minute-diagnostic)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How do I know if my startup IP is valuable enough to patent?
@@ -104,3 +118,6 @@ Yes. Trade secrets, proprietary datasets, documented know-how, and copyright-pro
 ### When should I run an IP audit — before or after raising funding?
 
 Before. An IP audit conducted pre-fundraising creates leverage: documented, defensible IP directly increases your valuation multiple and strengthens your negotiating position. Hayat Amin argues the pre-term-sheet IP audit is the highest-ROI activity a founder can run — it costs $15K-$30K and routinely adds $1M-$5M to the round valuation by surfacing assets investors are willing to price.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

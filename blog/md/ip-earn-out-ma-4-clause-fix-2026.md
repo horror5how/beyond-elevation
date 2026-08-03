@@ -2,8 +2,8 @@
 title: "IP Earn-Outs in M&A: 71% Trigger Disputes. The 4-Clause Framework That Gets Founders Paid After the Sale."
 slug: ip-earn-out-ma-4-clause-fix-2026
 date: 2026-07-31
-url: https://beyondelevation.com/blog/post.html?slug=ip-earn-out-ma-4-clause-fix-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-earn-out-ma-4-clause-fix-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -49,15 +49,29 @@ The right proportion depends on IP asset maturity. Pre-grant patent portfolios j
 
 The mistake most founders make is accepting an earn-out without adjusting the closing payment for the risk they absorb. A 40% earn-out on a $10M deal means you received $6M and accepted $4M in contingent payments that may never arrive. Hayat Amin's rule: price the closing payment as if the earn-out does not exist. If the deal does not work at that number, the earn-out is subsidizing a price the acquirer cannot pay.
 
-The same data that shows [IP-structured exits](https://beyondelevation.com/blog/posts/ip-backed-ma-positioning/) command 2x to 4x higher multiples also shows the earn-out is the mechanism acquirers use to recapture some of that premium. The four-clause framework is how founders keep it.
+The same data that shows [IP-structured exits](/blog/posts/ip-backed-ma-positioning/) command 2x to 4x higher multiples also shows the earn-out is the mechanism acquirers use to recapture some of that premium. The four-clause framework is how founders keep it.
 
 ## How Does a Pre-Deal IP Valuation Change the Earn-Out Negotiation?
 
-A pre-deal [IP valuation](https://beyondelevation.com/blog/posts/ip-valuation-for-fundraising/) shifts earn-out negotiation from subjective haggling to documented evidence. When the seller presents a third-party valuation that quantifies the patent portfolio, licensing pipeline, and data assets independently, the acquirer loses the ability to claim uncertainty as justification for shifting value into the earn-out.
+A pre-deal [IP valuation](/blog/posts/ip-valuation-for-fundraising/) shifts earn-out negotiation from subjective haggling to documented evidence. When the seller presents a third-party valuation that quantifies the patent portfolio, licensing pipeline, and data assets independently, the acquirer loses the ability to claim uncertainty as justification for shifting value into the earn-out.
 
 [Beyond Elevation](https://beyondelevation.com) runs pre-exit IP valuations specifically designed to reduce earn-out exposure. The valuation quantifies each IP asset class, identifies which assets are proven enough to command full closing payment, and isolates only genuinely uncertain IP into the earn-out portion. The result is a lower earn-out percentage with stronger protective covenants on whatever remains contingent.
 
-The founders who leave the most money on the table in M&A negotiate the earn-out without understanding what their IP is worth. An [IP audit before the letter of intent](https://beyondelevation.com/blog/posts/pre-exit-ip-audit-acquisition-premium/) costs $15,000 to $30,000. The average IP earn-out dispute costs $1.2 million in legal fees and takes 18 months to resolve. Hayat Amin reminds founders the math is not complicated. Spend the $30K now or spend the $1.2M later. There is no third option.
+The founders who leave the most money on the table in M&A negotiate the earn-out without understanding what their IP is worth. An [IP audit before the letter of intent](/blog/posts/pre-exit-ip-audit-acquisition-premium/) costs $15,000 to $30,000. The average IP earn-out dispute costs $1.2 million in legal fees and takes 18 months to resolve. Hayat Amin reminds founders the math is not complicated. Spend the $30K now or spend the $1.2M later. There is no third option.
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](https://usemotion.com/meet/hayat-amin/be?ref=blog-ip-earn-out-ma-4-clause-fix-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -80,3 +94,6 @@ A revenue earn-out ties payments to topline or EBITDA performance. An IP earn-ou
 ### Should I accept an earn-out on a patent that has not been granted yet?
 
 Accept it only if the purchase agreement includes a patent prosecution continuity covenant requiring the acquirer to maintain prosecution resources and timelines. Without this covenant, the acquirer can let the application lapse or abandon prosecution, making the patent grant milestone structurally impossible to achieve. The covenant converts risk from patent examination uncertainty to a contractual obligation the acquirer must fulfill.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
