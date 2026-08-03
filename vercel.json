@@ -1,4 +1,7 @@
 {
+  "rewrites": [
+    { "source": "/call/:s", "destination": "/api/call?s=:s" }
+  ],
   "redirects": [
     {
       "source": "/:path*",
