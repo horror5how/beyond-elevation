@@ -1,23 +1,21 @@
-Most founders sign 2-year license deals.
+43% of patent portfolios have at least one unrecorded assignment.
 
-Strategic buyers price IP over 10.
+The inventor signed.
 
-Residual term is the single biggest variable in how acquirers DCF your royalty stream.
+Nobody filed it at the USPTO.
 
-A 2-year deal with no renewal: worth ~1.7x annual royalty.
+Strategic buyer runs diligence.
 
-A 10-year evergreen with escalation: worth ~5.8x the same royalty.
+Chain of title is broken.
 
-Three clauses that close the gap:
+You have 30 days to close. Remediation takes 45.
 
-Auto-renewal unless 90-day written notice.
+Run a 3-point patent assignment audit before your data room opens:
 
-CPI escalator tied to inflation, not performance.
+1. Every assignment recorded at the USPTO - not just executed
+2. Pre-company employment agreements from all founders
+3. Contractor SOWs with work-for-hire language
 
-Sub-licensing limited to affiliates only.
+Two weeks of work. Done once. Protects the deal.
 
-You're not changing the rate. You're extending the duration acquirers price.
-
-The deal you sign today is the deal they value at exit.
-
-#IPStrategy #ExitMultiple #Licensing
+#IPStrategy #PatentStrategy #MergersAndAcquisitions
