@@ -1,17 +1,19 @@
-Two federal courts ruled in 2026: the founder destroyed the trade secret.
+The EU AI Act went live yesterday.
 
-Not a hacker. Not an ex-employee. The founder.
+Most companies are focused on compliance costs.
 
-SDNY Feb 2026: platform had no secrecy obligation. Not confidential.
+They're missing the IP play.
 
-ND Cal Jan 2026: founder typed the trade secret into ChatGPT. DTSA claim dismissed.
+3 moves in the next 30 days:
 
-3 checks before you type anything into an AI tool:
+Map your training data sources. Any licensed content now triggers a GPAI transparency obligation.
 
-Is the platform under NDA? ChatGPT: no.
-Does your policy define trade secrets? Most don't.
-Do you have an AI use audit trail? That's your only defence.
+File provisional patents on novel AI architecture before the transparency window forces disclosure.
 
-The threat model inverted. Your biggest IP risk in 2026 isn't a competitor. It's your own tooling.
+Classify your AI governance framework as a trade secret. No jurisdiction requires you to publish it.
 
-#IPStrategy #TradeSecrets #AIGovernance
+Companies that treat GPAI compliance as an IP event exit at a premium over those who treat it as a legal checkbox.
+
+The window opened yesterday.
+
+#IPStrategy #EUAIAct #AIGovernance
