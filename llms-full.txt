@@ -5587,3 +5587,19 @@ When you outsource AI development, you risk losing ownership of three categories
 The code is the most obvious asset at risk. Every line your contractor writes is a copyrighted work ow
 
 ---
+
+## Corporate Venture Capital IP Risk: 5 Clauses That Turn Your Investor Into Your Competitor
+
+URL: https://beyondelevation.com/blog/posts/corporate-venture-capital-ip-trap-2026/
+
+Corporate venture capital arms deployed over $80 billion globally in 2025. More than half of all Series A and Series B AI rounds now include at least one CVC on the cap table. Most founders who take that money have no idea they just handed their biggest competitive threat a backstage pass to their IP.
+
+Hayat Amin argues that traditional VC creates financial risk, but corporate VC creates IP risk. The corporate parent behind that CVC check is not a passive investor. It is a potential competitor, a future acquirer with inside knowledge, or an incumbent that will build your product in house the moment your technology is proven. Every information right, co-development clause, and strategic partnership term in that CVC term sheet is a vector for IP leakage that no amount of growth capital can repair.
+
+Companies with patents are [10.2x more likely to secure early-stage funding](/blog/posts/how-patents-increase-company-valuation/). That advantage evaporates the moment your CVC investor's parent company gains access to the very IP that made you fundable.
+
+## Why Is Corporate Venture Capital IP Risk Different From Traditional VC?
+
+Corporate venture capital IP risk is structurally different from traditional VC risk because the investor has operational capabilities that directly compete with yours. A financial VC cannot build your product. A corporate VC's parent company already has the engineering team, distribution channels, and customer base to replicate what you have built. That sin
+
+---
