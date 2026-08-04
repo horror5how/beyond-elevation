@@ -355,5 +355,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [VCs Never Sign NDAs. Here Are the 5 Ways to Protect Your IP During a Fundraise.](https://beyondelevation.com/blog/posts/protect-ip-during-fundraise-2026/) — /blog/md/protect-ip-during-fundraise-2026.md
 - [Who Really Owns Your Startup's IP? The Co-Founder Ownership Gap That Kills Deals](https://beyondelevation.com/blog/posts/co-founder-ip-ownership-startup-2026/) — /blog/md/co-founder-ip-ownership-startup-2026.md
 - [Intangible Asset Accounting Hides 90% of Your Company Value. Here Is the 4-Step Fix.](https://beyondelevation.com/blog/posts/intangible-asset-accounting-gap-2026/) — /blog/md/intangible-asset-accounting-gap-2026.md
+- [You Outsourced Your AI Development. You Probably Do Not Own the IP.](https://beyondelevation.com/blog/posts/outsourced-ai-development-ip-ownership-trap-2026/) — /blog/md/outsourced-ai-development-ip-ownership-trap-2026.md
 
 > Full blog content available at /llms-full.txt
