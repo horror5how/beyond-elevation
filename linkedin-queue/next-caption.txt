@@ -1,21 +1,17 @@
-The EU AI Act went live 72 hours ago.
+Physical AI companies move hardware in 18 months. US patents take 42.
 
-Most founders are scrambling to comply.
+You cannot patent a robot before your competitor ships the next generation.
 
-A few built an IP moat in the process.
+The founders winning protect three layers in this order:
 
-Here's the difference:
+Software claims first — fastest to grant, covers the core algorithm.
 
-GPAI rules now require documented training data provenance and licensing logs.
+Fleet telemetry as a trade secret — nobody else has it.
 
-Companies that did this early own documentation their competitors will take 18 months to replicate.
+Hardware patents last — pending status deters infringers while you ship.
 
-That's not compliance. That's a competitive moat with a timestamp.
+Figure AI raised at $2.6B. Three IP layers, not one patent.
 
-Buyers in 2026 pay 20-30% more for AI companies with clean regulatory history.
+Most founders file one hardware patent and wait. By grant, the category moved.
 
-The window to be first mover closed last Sunday.
-
-Audit your training data documentation this week.
-
-#EUAIAct #IPstrategy #AIlaw
+#PhysicalAI #IPstrategy #Robotics
