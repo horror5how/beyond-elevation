@@ -1,17 +1,19 @@
-Physical AI companies move hardware in 18 months. US patents take 42.
+Most AI agents create work, not remove it.
 
-You cannot patent a robot before your competitor ships the next generation.
+The agent sends 50 outbound emails. Your SDR reviews all 50.
 
-The founders winning protect three layers in this order:
+The agent generates 15 contract summaries. Your lawyer checks all 15.
 
-Software claims first — fastest to grant, covers the core algorithm.
+That is not automation. That is a junior assistant who never sleeps.
 
-Fleet telemetry as a trade secret — nobody else has it.
+Real ROI from agentic AI requires a gate.
 
-Hardware patents last — pending status deters infringers while you ship.
+Gate 1: agent acts autonomously below a confidence threshold
+Gate 2: human reviews the 5% that hits the flag
+Gate 3: every flagged case trains the gate higher
 
-Figure AI raised at $2.6B. Three IP layers, not one patent.
+Stripe's fraud model doesn't review every transaction. It surfaces only the ones that cross the threshold. 80% fewer human reviews. Better outcomes.
 
-Most founders file one hardware patent and wait. By grant, the category moved.
+Build the gate first. Then scale the agent.
 
-#PhysicalAI #IPstrategy #Robotics
+#AgenticAI #AI #AIStrategy
