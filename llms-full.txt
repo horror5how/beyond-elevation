@@ -5603,3 +5603,19 @@ Companies with patents are [10.2x more likely to secure early-stage funding](/bl
 Corporate venture capital IP risk is structurally different from traditional VC risk because the investor has operational capabilities that directly compete with yours. A financial VC cannot build your product. A corporate VC's parent company already has the engineering team, distribution channels, and customer base to replicate what you have built. That sin
 
 ---
+
+## How to Build an IP Moat in 90 Days: The Founder's Sprint Framework for 2026
+
+URL: https://beyondelevation.com/blog/posts/ip-moat-90-day-sprint-framework-2026/
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But most founders spend 12 months building an IP portfolio that a well-funded competitor replicates in 6. Hayat Amin argues that the traditional 12-month IP roadmap is a luxury 2026 founders cannot afford — and that the founders who win build an IP moat in 90 days, not 12 months. The difference is not speed for speed's sake. It is ruthless prioritization — filing what matters, protecting what is unique, and skipping the vanity patents that cost $30K each and protect nothing a competitor cares about.
+
+## Why Does a 90-Day IP Moat Sprint Work Better Than a 12-Month Roadmap?
+
+A 90-day IP moat sprint works because the competitive window in 2026 is 90 days, not 12 months. AI companies ship weekly. Competitors file provisionals on Monday. Investors decide in two meetings. A 12-month IP roadmap means you are building defenses after the castle has already been taken.
+
+Three forces make the sprint approach mandatory in 2026. First, AI development cycles have compressed from 18 months to 90 days — the time between foundation model releases, between your competitor's next feature launch. Second, investors now ask for IP documentation at the term sheet stage, not during Series B due diligence. Third, the EU AI Act enforcement deadline in August 2026 means compliance and IP protection now operate on the same clock.
+
+Hayat Amin's 90-Day IP Sprint Framework was built from running this exact process across dozens of 
+
+---
