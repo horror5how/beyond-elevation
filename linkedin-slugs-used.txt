@@ -588,3 +588,4 @@ gpai-enforcement-day-one-ip-window-aug-2026
 strategic-buyer-ip-premium-math-2026
 licensing-deal-time-horizon-exit-math-2026
 patent-assignment-audit-acquisition-2026
+eu-ai-act-gpai-compliance-ip-moat-72hours-2026

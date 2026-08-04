@@ -1,21 +1,21 @@
-43% of patent portfolios have at least one unrecorded assignment.
+The EU AI Act went live 72 hours ago.
 
-The inventor signed.
+Most founders are scrambling to comply.
 
-Nobody filed it at the USPTO.
+A few built an IP moat in the process.
 
-Strategic buyer runs diligence.
+Here's the difference:
 
-Chain of title is broken.
+GPAI rules now require documented training data provenance and licensing logs.
 
-You have 30 days to close. Remediation takes 45.
+Companies that did this early own documentation their competitors will take 18 months to replicate.
 
-Run a 3-point patent assignment audit before your data room opens:
+That's not compliance. That's a competitive moat with a timestamp.
 
-1. Every assignment recorded at the USPTO - not just executed
-2. Pre-company employment agreements from all founders
-3. Contractor SOWs with work-for-hire language
+Buyers in 2026 pay 20-30% more for AI companies with clean regulatory history.
 
-Two weeks of work. Done once. Protects the deal.
+The window to be first mover closed last Sunday.
 
-#IPStrategy #PatentStrategy #MergersAndAcquisitions
+Audit your training data documentation this week.
+
+#EUAIAct #IPstrategy #AIlaw
