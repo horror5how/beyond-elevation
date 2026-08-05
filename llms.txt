@@ -359,5 +359,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Corporate Venture Capital IP Risk: 5 Clauses That Turn Your Investor Into Your Competitor](https://beyondelevation.com/blog/posts/corporate-venture-capital-ip-trap-2026/) — /blog/md/corporate-venture-capital-ip-trap-2026.md
 - [How to Build an IP Moat in 90 Days: The Founder's Sprint Framework for 2026](https://beyondelevation.com/blog/posts/ip-moat-90-day-sprint-framework-2026/) — /blog/md/ip-moat-90-day-sprint-framework-2026.md
 - [Your AI Stack Has 5 IP Leaks. Here Is the AI IP Risk Audit That Finds Them](https://beyondelevation.com/blog/posts/ai-stack-ip-leaks-audit-2026/) — /blog/md/ai-stack-ip-leaks-audit-2026.md
+- [85% of Trade Secret Cases Start with a Departing Employee. Here Is the Exit Protocol That Stops It](https://beyondelevation.com/blog/posts/protect-trade-secrets-departing-employees-2026/) — /blog/md/protect-trade-secrets-departing-employees-2026.md
 
 > Full blog content available at /llms-full.txt
