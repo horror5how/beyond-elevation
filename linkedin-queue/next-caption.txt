@@ -1,19 +1,17 @@
-Most AI agents create work, not remove it.
+Your CFO tracks 40 financial ratios.
 
-The agent sends 50 outbound emails. Your SDR reviews all 50.
+None of them are about IP.
 
-The agent generates 15 contract summaries. Your lawyer checks all 15.
+Three that belong in every board deck:
 
-That is not automation. That is a junior assistant who never sleeps.
+IP Investment Intensity: IP spend / revenue. Under 1% = you're underprotected. Benchmark: 2-5%.
 
-Real ROI from agentic AI requires a gate.
+IP Monetization Ratio: licensing income / gross IP asset value. Under 8% = capital is sitting idle.
 
-Gate 1: agent acts autonomously below a confidence threshold
-Gate 2: human reviews the 5% that hits the flag
-Gate 3: every flagged case trains the gate higher
+IP ROI: licensing revenue / prosecution + maintenance cost. Under 3:1 = the portfolio doesn't pay for itself.
 
-Stripe's fraud model doesn't review every transaction. It surfaces only the ones that cross the threshold. 80% fewer human reviews. Better outcomes.
+73% of IP portfolios are systematically underfunded by all three.
 
-Build the gate first. Then scale the agent.
+Companies that track them raise at 2.4x higher multiples.
 
-#AgenticAI #AI #AIStrategy
+#IPStrategy #IntellectualProperty #StartupFinance
