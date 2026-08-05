@@ -1,17 +1,15 @@
-Venture debt lenders now ask for your patent schedule before your financial model.
+Most AI founders raising Series B have a training data liability they have never disclosed.
 
-That is not a legal preference.
+30% deal repricing when it surfaces in diligence.
 
-That is a credit decision.
+18 months escrow on your proceeds while lawyers sort it out.
 
-WTI and Horizon Technology Finance both moved IP review into underwriting — ahead of the P&L — in 2026.
+Diligence now has a specific IP reps and warranties checkbox for training data.
 
-The reason: AI-powered patent valuation made IP legible to credit committees for the first time.
+Common crawl. Reddit scrapes. News archives. All unlicensed. All flagged.
 
-The outcome: founders with a clean patent schedule are getting approved. Founders without one are being passed over.
+The fix takes 30 days and costs far less than a repricing.
 
-Your patents are not just legal documents. They are a credit instrument.
+Document your training data provenance before you go to market.
 
-Get a patent schedule before your next lender call.
-
-#IPStrategy #VentureDebt #Fundraising
+#AIStrategy #IPDueDiligence #Fundraising
