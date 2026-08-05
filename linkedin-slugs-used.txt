@@ -592,3 +592,4 @@ eu-ai-act-gpai-compliance-ip-moat-72hours-2026
 ip-strategy-physical-ai-robotics-2026
 agentic-ai-human-validation-trap-2026
 ip-investment-financial-ratios-2026
+venture-debt-patent-schedule-before-financial-model-2026

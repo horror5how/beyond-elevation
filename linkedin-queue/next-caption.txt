@@ -1,17 +1,17 @@
-Your CFO tracks 40 financial ratios.
+Venture debt lenders now ask for your patent schedule before your financial model.
 
-None of them are about IP.
+That is not a legal preference.
 
-Three that belong in every board deck:
+That is a credit decision.
 
-IP Investment Intensity: IP spend / revenue. Under 1% = you're underprotected. Benchmark: 2-5%.
+WTI and Horizon Technology Finance both moved IP review into underwriting — ahead of the P&L — in 2026.
 
-IP Monetization Ratio: licensing income / gross IP asset value. Under 8% = capital is sitting idle.
+The reason: AI-powered patent valuation made IP legible to credit committees for the first time.
 
-IP ROI: licensing revenue / prosecution + maintenance cost. Under 3:1 = the portfolio doesn't pay for itself.
+The outcome: founders with a clean patent schedule are getting approved. Founders without one are being passed over.
 
-73% of IP portfolios are systematically underfunded by all three.
+Your patents are not just legal documents. They are a credit instrument.
 
-Companies that track them raise at 2.4x higher multiples.
+Get a patent schedule before your next lender call.
 
-#IPStrategy #IntellectualProperty #StartupFinance
+#IPStrategy #VentureDebt #Fundraising
