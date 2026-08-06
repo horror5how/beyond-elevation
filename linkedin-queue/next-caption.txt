@@ -1,15 +1,17 @@
-Most AI founders raising Series B have a training data liability they have never disclosed.
+In 2019 you had 3 years to file before your competitor did.
 
-30% deal repricing when it surfaces in diligence.
+In 2026 you have 6 months.
 
-18 months escrow on your proceeds while lawyers sort it out.
+AI patent filings at the USPTO doubled between 2022 and 2025.
 
-Diligence now has a specific IP reps and warranties checkbox for training data.
+The first-mover window didn't shrink because the technology changed.
 
-Common crawl. Reddit scrapes. News archives. All unlicensed. All flagged.
+It shrank because 50,000 more companies entered the same queue.
 
-The fix takes 30 days and costs far less than a repricing.
+File a provisional before you ship or spend $200K fighting prior art later.
 
-Document your training data provenance before you go to market.
+3 things compressing your window: faster model iteration, more competitors filing, faster examiner rejection cycles.
 
-#AIStrategy #IPDueDiligence #Fundraising
+1 thing extends it: a provisional on launch day.
+
+#IPStrategy #Patents #AIStartups
