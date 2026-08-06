@@ -1,17 +1,15 @@
-In 2019 you had 3 years to file before your competitor did.
+The patent licensing market will hit $4.4B by 2032.
 
-In 2026 you have 6 months.
+That's a 7.77% compound annual growth rate.
 
-AI patent filings at the USPTO doubled between 2022 and 2025.
+One fund (SIM IP) closed 11 patent acquisition deals in 15 months.
 
-The first-mover window didn't shrink because the technology changed.
+They buy patents. Not companies. Not products. Patents.
 
-It shrank because 50,000 more companies entered the same queue.
+Most founders still treat their IP portfolio as a cost centre.
 
-File a provisional before you ship or spend $200K fighting prior art later.
+The market just told you it's an asset class.
 
-3 things compressing your window: faster model iteration, more competitors filing, faster examiner rejection cycles.
+Get a licensing revenue line before the buyer already knows what you're worth.
 
-1 thing extends it: a provisional on launch day.
-
-#IPStrategy #Patents #AIStartups
+#IPStrategy #Patents #Licensing
