@@ -596,3 +596,4 @@ venture-debt-patent-schedule-before-financial-model-2026
 ai-training-data-dd-repricing-series-b-2026
 ip-first-mover-window-compression-2026
 patent-licensing-market-44b-2032
+ai-code-patent-liability-enterprise-2026
