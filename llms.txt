@@ -362,5 +362,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [85% of Trade Secret Cases Start with a Departing Employee. Here Is the Exit Protocol That Stops It](https://beyondelevation.com/blog/posts/protect-trade-secrets-departing-employees-2026/) — /blog/md/protect-trade-secrets-departing-employees-2026.md
 - [The AI Supply Chain IP Trap: 3 Layers Where Founders Lose Ownership Without Knowing](https://beyondelevation.com/blog/posts/ai-supply-chain-ip-ownership-trap-2026/) — /blog/md/ai-supply-chain-ip-ownership-trap-2026.md
 - [IP Strategy for Compound AI: The 4 Patent Gaps Hiding in Every Multi-Model Architecture](https://beyondelevation.com/blog/posts/ip-strategy-compound-ai-systems-2026/) — /blog/md/ip-strategy-compound-ai-systems-2026.md
+- [The Customer Contract IP Trap: How Enterprise Agreement Clauses Quietly Destroy AI Startup Valuations](https://beyondelevation.com/blog/posts/customer-contract-ip-trap-enterprise-agreements-2026/) — /blog/md/customer-contract-ip-trap-enterprise-agreements-2026.md
 
 > Full blog content available at /llms-full.txt
