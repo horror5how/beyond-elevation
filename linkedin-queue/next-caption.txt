@@ -1,15 +1,23 @@
-There is now a standing bid under your patent portfolio.
+73% of startup enterprise value is intangible.
 
-SIM IP closed 11 patent transactions in 15 months — buying patents, not products.
+Fewer than 15% have run a formal IP assessment.
 
-Patent licensing overtook litigation as the default exit in 2026.
+10-signal diagnostic. Takes 10 minutes.
 
-Recurring royalties beat uncertain damages every time.
+5 signals you have leverage:
+– Competitors need 18+ months to replicate
+– Data compounds the product over time
+– Know-how lives only in your team's heads
+– Rivals are filing patents around your space
+– Technology works in 3+ adjacent markets
 
-The patent licensing market hits $4.4B by 2032 at 7.77% CAGR.
+5 signals you are exposed:
+– Copyleft code in the stack
+– Published before filing
+– Claims are narrow or feature-level
+– No IP assignment with early contractors
+– Innovation stops at product, not process
 
-Most founders treat IP as a wall.
+Run this before due diligence does.
 
-It is a liquid asset. There is a named buyer sitting on it right now.
-
-#IPStrategy #PatentLicensing #Founders
+#IPStrategy #StartupValuation #IntellectualProperty
