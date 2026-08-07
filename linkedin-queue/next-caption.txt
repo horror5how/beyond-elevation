@@ -1,20 +1,17 @@
-GitHub Copilot writes 40% of enterprise code in 2026.
+90% of S&P 500 value is intangible.
 
-Nobody audits it for patent infringement.
+Fewer than 5% of IP assets have ever been pledged as collateral.
 
-AI tools train on public repos. Those repos contain patented algorithms.
+That gap is the largest untapped financing pool in the capital stack.
 
-Your engineer ships AI-generated code.
+In 2026 the rails opened:
+Singapore: $100M+ in IP-backed loans facilitated
+UK IPO: patent-backed lending pilot live
+US SBA: now accepts IP as supplementary collateral
+First rated intangible-backed securities arriving 2026-28
 
-Patent holder sends a cease-and-desist to your biggest customer.
+Founders raise against revenue. Patents sit idle.
 
-$50K AI subscription. $2M liability.
+The window before rated IP securities price the gap for you is shrinking.
 
-Three moves before your next sprint:
-– FTO audit on AI-generated modules
-– Indemnification clause in your AI vendor contract
-– IP insurance that covers AI code exposure
-
-Founders who patent their methods are quietly building infringement cases against yours.
-
-#AIStrategy #Patents #IPStrategy
+#IPStrategy #Financing #Patents
