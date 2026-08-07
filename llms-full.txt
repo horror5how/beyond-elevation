@@ -5705,3 +5705,37 @@ Customer contract IP clauses are the single largest unforced error in AI startup
 Most AI founders treat customer agreements as a sales function
 
 ---
+
+## 97% of Patents Generate Zero Revenue. The 5-Step Framework That Activates a Dormant Portfolio.
+
+URL: https://beyondelevation.com/blog/posts/dormant-patent-portfolio-revenue-activation-2026/
+
+## Why Do 97% of Patent Portfolios Generate Zero Licensing Revenue?
+
+The number is not a misprint. Exposed by multiple IP industry audits and confirmed by licensing market data, roughly 97% of all granted patents never produce a single dollar in licensing income. Most founders assume the problem is weak technology. It is not. The problem is structural.
+
+Hayat Amin argues that the vast majority of dormant patent portfolios were never designed to generate revenue in the first place. They were filed by patent attorneys optimizing for grant probability, not commercial licensing. The result is narrow claims aimed at blocking one competitor, with no licensee identification, no market mapping, and no pricing framework attached. The patent sits in a drawer generating legal fees instead of royalty checks.
+
+At [Beyond Elevation](https://beyondelevation.com), portfolio restructurings consistently reveal the same three root causes behind the revenue gap.
+
+**First, the claims are too narrow.** A patent that covers only your specific implementation of a technology has no licensing market. A patent that covers the underlying method or system architecture has dozens of potential licensees. Most patent attorneys draft for defensibility, not breadth. That single decision at filing time determines whether the portfolio ever earns revenue.
+
+**Second, no licensee identification work was done.** Filing a patent and waiting for licensees to appear is like listing a product with no distribution. Lic
+
+---
+
+## IP Strategy for PropTech Startups: 5 Patent Categories That Separate $100M Exits from Acqui-Hires
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-proptech-startups/
+
+Smart building innovation is a $130 billion market projected to hit $232 billion by 2030. PropTech startups raised over $14 billion globally in 2025. Yet fewer than 12% of proptech companies have a structured IP strategy beyond a single provisional patent filing. Hayat Amin argues this is the most expensive oversight in real estate technology: "PropTech founders are sitting on sensor data, building automation algorithms, and occupancy models that competitors will clone within 18 months if left unpatented."
+
+The problem is not that proptech founders ignore IP. The problem is that their IP strategy looks like every other tech startup's IP strategy. It should not. Real estate technology sits at the intersection of hardware, software, and physical-world data — a three-layer stack that creates patent opportunities most founders and their lawyers miss entirely.
+
+Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com). For proptech startups competing for capital against pure SaaS companies with higher margins, that IP defensibility signal is not optional — it is the difference between a term sheet and a pass.
+
+## What Makes PropTech IP Strategy Different from Other Tech Verticals?
+
+PropTech IP strategy requires protecting three distinct technology layers simultaneously — hardware, software, and physical-world data — which is a filing challenge most tech-sector IP playbooks do not address. Standard SaaS IP strategy focuses on software
+
+---

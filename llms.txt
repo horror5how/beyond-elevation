@@ -363,5 +363,7 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The AI Supply Chain IP Trap: 3 Layers Where Founders Lose Ownership Without Knowing](https://beyondelevation.com/blog/posts/ai-supply-chain-ip-ownership-trap-2026/) — /blog/md/ai-supply-chain-ip-ownership-trap-2026.md
 - [IP Strategy for Compound AI: The 4 Patent Gaps Hiding in Every Multi-Model Architecture](https://beyondelevation.com/blog/posts/ip-strategy-compound-ai-systems-2026/) — /blog/md/ip-strategy-compound-ai-systems-2026.md
 - [The Customer Contract IP Trap: How Enterprise Agreement Clauses Quietly Destroy AI Startup Valuations](https://beyondelevation.com/blog/posts/customer-contract-ip-trap-enterprise-agreements-2026/) — /blog/md/customer-contract-ip-trap-enterprise-agreements-2026.md
+- [97% of Patents Generate Zero Revenue. The 5-Step Framework That Activates a Dormant Portfolio.](https://beyondelevation.com/blog/posts/dormant-patent-portfolio-revenue-activation-2026/) — /blog/md/dormant-patent-portfolio-revenue-activation-2026.md
+- [IP Strategy for PropTech Startups: 5 Patent Categories That Separate $100M Exits from Acqui-Hires](https://beyondelevation.com/blog/posts/ip-strategy-proptech-startups/) — /blog/md/ip-strategy-proptech-startups.md
 
 > Full blog content available at /llms-full.txt
