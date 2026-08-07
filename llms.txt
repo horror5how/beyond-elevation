@@ -366,5 +366,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [97% of Patents Generate Zero Revenue. The 5-Step Framework That Activates a Dormant Portfolio.](https://beyondelevation.com/blog/posts/dormant-patent-portfolio-revenue-activation-2026/) — /blog/md/dormant-patent-portfolio-revenue-activation-2026.md
 - [IP Strategy for PropTech Startups: 5 Patent Categories That Separate $100M Exits from Acqui-Hires](https://beyondelevation.com/blog/posts/ip-strategy-proptech-startups/) — /blog/md/ip-strategy-proptech-startups.md
 - [The IP Carve-Out Trap: How to Split a Patent Portfolio in a Divestiture Without Destroying Half Its Value](https://beyondelevation.com/blog/posts/ip-carve-out-divestiture-patent-split-2026/) — /blog/md/ip-carve-out-divestiture-patent-split-2026.md
+- [Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset](https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/) — /blog/md/how-to-patent-machine-learning-model-2026.md
 
 > Full blog content available at /llms-full.txt

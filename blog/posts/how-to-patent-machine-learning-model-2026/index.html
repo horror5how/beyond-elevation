@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset</title>
+    <meta name="description" content="The December 2025 USPTO §101 reset reopened machine learning model patents. Here is the 5-layer claim architecture that gets AI patents granted in 2026" />
+    <link rel="canonical" href="https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="GPTBot" content="index, follow" />
+    <meta name="ChatGPT-User" content="index, follow" />
+    <meta name="ClaudeBot" content="index, follow" />
+    <meta name="Claude-Web" content="index, follow" />
+    <meta name="anthropic-ai" content="index, follow" />
+    <meta name="PerplexityBot" content="index, follow" />
+    <meta name="Google-Extended" content="index, follow" />
+    <meta name="Applebot-Extended" content="index, follow" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/" />
+    <meta property="og:title" content="Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset" />
+    <meta property="og:description" content="The December 2025 USPTO §101 reset reopened machine learning model patents. Here is the 5-layer claim architecture that gets AI patents granted in 2026" />
+    <meta property="og:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Beyond Elevation" />
+    <meta property="article:published_time" content="2026-08-07" />
+    <meta property="article:modified_time" content="2026-08-07" />
+    <meta property="article:author" content="Hayat Amin" />
+    <meta property="article:section" content="Patents" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/" />
+    <meta name="twitter:title" content="Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset" />
+    <meta name="twitter:description" content="The December 2025 USPTO §101 reset reopened machine learning model patents. Here is the 5-layer claim architecture that gets AI patents granted in 2026" />
+    <meta name="twitter:image" content="https://beyondelevation.com/assets/og-image.jpg" />
+    <meta name="twitter:site" content="@BeyondElevation" />
+    <meta name="twitter:creator" content="@HayatAmin" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" /></noscript>
+    <link rel="stylesheet" href="/styles.css?v=20260411a" />
+    <style>
+      .post-page { padding: 120px 0 90px; }
+      .post-shell { max-width: 720px; margin: 0 auto; }
+      .post-shell h1 { font-size: clamp(2.1rem, 5vw, 3.7rem); max-width: 14ch; line-height: 1.04; letter-spacing: -0.03em; }
+      .post-meta { display:flex; gap: 14px; flex-wrap:wrap; color:#666; margin: 18px 0 30px; font-size: 0.92rem; }
+      .post-body { color:#1f1f1f; line-height: 1.92; font-size: 1.08rem; }
+      .post-body p { margin: 0 0 24px; }
+      .post-body h2 { margin: 48px 0 16px; font-size: 1.55rem; line-height: 1.25; letter-spacing: -0.01em; }
+      .post-body h3 { margin: 36px 0 12px; font-size: 1.2rem; line-height: 1.3; }
+      .post-body a { color: #2A1E3F; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+      .author-block { display:flex; align-items:center; gap: 12px; margin: 18px 0 24px; padding: 0; border: 0; background: transparent; box-shadow:none; }
+      .author-photo { width: 34px; height: 34px; border-radius: 999px; object-fit: cover; }
+      .author-copy strong { display:block; font-size:1rem; color:#2A1E3F; }
+      .author-copy span { color:#666; font-size: 0.93rem; }
+      .post-hero { width: 100%; border-radius: 16px; margin: 24px 0 28px; object-fit: cover; }
+      .post-cta { margin: 48px 0 8px; padding: 28px 28px 24px; border-radius: 16px; background: #FAF7F2; border: 1px solid #ECE6DA; box-shadow: 0 1px 0 rgba(17,17,17,0.02); font-family: 'Inter', system-ui, -apple-system, Helvetica, Arial, sans-serif; }
+      .post-cta h3 { margin: 0 0 12px; font-size: 1.32rem; line-height: 1.25; letter-spacing: -0.018em; color: #111; font-weight: 700; max-width: 28ch; }
+      .post-cta p { margin: 0 0 18px; color: #2a2a2a; line-height: 1.65; font-size: 1rem; }
+      .post-cta .cta-primary { display: inline-flex; align-items: center; gap: 8px; padding: 14px 24px; font-size: 0.95rem; font-weight: 700; letter-spacing: -0.005em; border-radius: 100px; background: #2A1E3F; color: #fff; text-decoration: none; border: 2px solid #2A1E3F; transition: transform 0.2s ease, background 0.2s ease; }
+      .post-cta .cta-primary:hover { background: #000; transform: translateY(-1px); }
+      .post-cta .cta-fineprint { margin: 14px 0 0; font-size: 0.84rem; color: #777; line-height: 1.5; }
+      @media (max-width: 760px) { .post-cta { padding: 22px 20px 20px; border-radius: 14px; } .post-cta h3 { font-size: 1.18rem; } }
+      .related-posts { margin: 64px 0 0; padding: 48px 0 0; border-top: 1px solid #e8e8e8; }
+      .related-eyebrow { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; }
+      .related-head h2 { margin: 8px 0 28px; font-size: 1.6rem; line-height: 1.18; letter-spacing: -0.02em; color: #2A1E3F; }
+      .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+      .related-card { display: flex; flex-direction: column; gap: 12px; padding: 22px 22px 20px; border-radius: 14px; border: 1px solid #e8e8e8; background: #fff; color: inherit; text-decoration: none; transition: border-color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease; }
+      .related-card:hover { border-color: #2A1E3F; transform: translateY(-2px); box-shadow: 0 12px 28px rgba(0,0,0,0.06); }
+      .related-tag { display: inline-block; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #666; }
+      .related-card h3 { font-size: 1.05rem; line-height: 1.32; letter-spacing: -0.012em; color: #2A1E3F; margin: 0; }
+      .related-cta { font-size: 0.82rem; font-weight: 600; color: #2A1E3F; margin-top: auto; }
+      @media (max-width: 760px) { .related-grid { grid-template-columns: 1fr; } }
+      .share-bar { margin: 56px 0 0; padding: 40px 0 0; border-top: 1px solid #e8e8e8; }
+      .share-bar-label { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #999; margin-bottom: 16px; }
+      .share-buttons { display: flex; gap: 10px; flex-wrap: wrap; }
+      .share-btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; font-size: 0.82rem; font-weight: 600; border-radius: 100px; border: 1.5px solid #e0e0e0; background: #fff; color: #333; text-decoration: none; transition: all 0.25s ease; }
+      .share-btn:hover { border-color: #333; background: #2A1E3F; color: #fff; transform: translateY(-1px); }
+      .share-btn svg { width: 16px; height: 16px; fill: currentColor; flex-shrink: 0; }
+      @media (max-width: 760px) {
+        .post-page { padding: 102px 0 72px; }
+        .post-shell { max-width: 100%; }
+        .post-shell h1 { max-width: none; }
+      }
+    </style>
+
+    <!-- Article schema (JSON-LD) -->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset","description":"The December 2025 USPTO §101 reset reopened machine learning model patents. Here is the 5-layer claim architecture that gets AI patents granted in 2026","image":"https://beyondelevation.com/assets/og-image.jpg","datePublished":"2026-08-07","dateModified":"2026-08-07","author":{"@type":"Person","name":"Hayat Amin","url":"https://beyondelevation.com/#founder","jobTitle":"CEO of Beyond Elevation"},"publisher":{"@type":"Organization","name":"Beyond Elevation","url":"https://beyondelevation.com","logo":{"@type":"ImageObject","url":"https://beyondelevation.com/assets/og-image.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/"},"articleSection":"Patents"}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://beyondelevation.com"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://beyondelevation.com/blog/"},{"@type":"ListItem","position":3,"name":"Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset","item":"https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can you patent a neural network architecture in 2026?","acceptedAnswer":{"@type":"Answer","text":"Yes, if the architecture produces a specific technical improvement over prior architectures for a defined task. A claim that covers \"a neural network\" generically will be rejected. A claim that covers a specific arrangement of attention layers that reduces inference latency by 40% on medical imaging classification is grantable under the post-§101-reset guidance."}},{"@type":"Question","name":"How long does it take to get an ML patent granted?","acceptedAnswer":{"@type":"Answer","text":"Average time from utility filing to grant at the USPTO is 22 to 28 months for AI-related applications in 2026. The prioritized examination program (Track One) reduces this to 6 to 12 months for an additional ,000 fee. Provisional applications provide immediate patent-pending status with a 12-month window before the full utility filing is required."}},{"@type":"Question","name":"Does patenting an ML model require disclosing your training data?","acceptedAnswer":{"@type":"Answer","text":"No. Patent claims cover the method, not the data. You must describe the training methodology in enough detail for a skilled practitioner to replicate the approach, but you are not required to disclose the specific dataset, its sources, or its contents. Training data is best protected as a trade secret alongside the patent filing."}},{"@type":"Question","name":"Can you patent an AI model trained on publicly available data?","acceptedAnswer":{"@type":"Answer","text":"Yes. The patentability of an ML model does not depend on whether the training data is public or proprietary. What matters is whether the method of training, the architecture, or the application produces a novel technical result. A unique training methodology applied to public data can be just as patentable as one applied to proprietary data. The innovation is in what you do with the data, not where the data comes from.If your machine learning model represents genuine technical innovation, the filing window created by the §101 reset will not stay open forever. Competitors are filing now. Beyond Elevation helps AI founders identify patentable layers, structure defensible claims, and build the IP portfolio that turns an ML innovation into a licensable, fundable, acquirable asset. The 5-layer architecture is how it starts."}}]}</script>
+
+    <!-- Analytics: Vercel + Speed Insights -->
+    <script defer src="/_vercel/insights/script.js"></script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
+    <!-- /Analytics -->
+
+    <!-- PostHog -->
+    <script>
+      !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture identify alias people set set_once register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures startSessionRecording stopSessionRecording captureException loadToolbar".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+      posthog.init('phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM',{api_host:'https://us.i.posthog.com',capture_pageview:true,capture_pageleave:true,autocapture:true,person_profiles:'always',loaded:function(ph){try{if(location.search.indexOf('utm_source=sender-domain')>-1){ph.register_for_session({utm_source:'sender-domain'});history.replaceState(null,'',location.pathname+location.hash)}}catch(e){}}});
+    </script>
+    <!-- /PostHog -->
+  </head>
+  <body>
+    <header class="topbar shell is-scrolled">
+      <a class="brand" href="/">
+        <span class="brand-dot"></span>
+        <span>Beyond Elevation</span>
+      </a>
+      <nav>
+        <a href="/blog/">Insights</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+      <a class="button button-ghost small" href="/#contact">Book a Strategy Session</a>
+    </header>
+
+    <main class="shell post-page">
+      <article id="post" class="post-shell">
+        <span class="eyebrow">Patents</span>
+        <h1>Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset</h1>
+        <div class="author-block">
+          <img class="author-photo" src="/assets/be-author-headshot.jpg" alt="Hayat Amin" loading="eager" />
+          <div class="author-copy">
+            <strong>Hayat Amin</strong>
+            <span>CEO of Beyond Elevation · IP strategy &amp; licensing</span>
+          </div>
+        </div>
+        <img class="post-hero" src="https://beyondelevation.com/assets/og-image.jpg" alt="Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset" loading="eager" />
+        <div class="post-meta">
+          <span>Hayat Amin</span>
+          <span>2026-08-07</span>
+          
+        </div>
+        <div class="post-body">
+<p>Before December 2025, the USPTO rejected most machine learning model patent applications on sight. The Alice doctrine treated ML algorithms as abstract ideas, and the rejection rate for AI-related claims exceeded 67%. Then the USPTO issued the Subject Matter Eligibility Declaration memos, and the landscape inverted overnight. Hayat Amin argues that founders who understand how to patent a machine learning model under the new rules will own the defensible ground in their category, while founders who wait will find the claims they need already filed by competitors.</p><p>Companies with patents are <a href="/blog/posts/ai-patent-eligibility-101-advisor/">10.2x more likely to secure early-stage funding</a>. For AI startups, that number is no longer theoretical. The §101 reset turned a locked door into an open one, but only for founders who file the right claims in the right structure.</p><h2>What Changed About Machine Learning Model Patent Eligibility in 2026?</h2><p>The December 2025 Subject Matter Eligibility Declaration pathway lets AI applicants submit objective evidence and expert testimony to establish patent eligibility, bypassing the old binary abstract-idea rejection. The August 2025 examiner memo narrowed the mental-process exclusion so that ML inference on large datasets is no longer automatically rejected as something a human could do in their head. Together, these two changes reversed a decade of hostile §101 precedent for AI founders.</p><p>The practical result: machine learning innovations that were routinely rejected in 2023 and 2024 are now grantable if the claims are structured correctly. The key word is structured. The USPTO did not declare all AI patentable. It created a pathway for claims that demonstrate a specific, technical improvement, not just an abstract concept applied to a computer. Hayat Amin says the difference between a granted ML patent and a rejected one is almost never the quality of the innovation. It is the quality of the claim architecture.</p><h2>Which Parts of a Machine Learning Model Can You Actually Patent?</h2><p>You can patent the technical components that produce a specific, measurable improvement over prior methods. The patentable surface of an ML system is broader than most founders realize, and it extends well beyond the model architecture itself. Beyond Elevation advises founders to map every layer of their ML stack for protectable innovation before deciding what to file.</p><p>Patentable elements include novel training methodologies (how you prepare, augment, or sequence training data in ways that improve model performance), inference architectures (specific model configurations that produce faster, more accurate, or more efficient outputs for a defined task), data preprocessing pipelines (proprietary methods for cleaning, structuring, or enriching data before it enters the model), application-layer systems (the integration of ML outputs into business processes, user interfaces, or decision engines that produce a concrete technical effect), and evaluation and feedback loops (systems that monitor, retrain, or adapt models based on production performance data).</p><p>What you cannot patent: the mathematical formula behind a neural network in isolation, a generic instruction to "apply machine learning" to a known problem, or a training process that a person could replicate with pen and paper. These remain abstract ideas under §101 even after the reset.</p><h2>What Is the 5-Layer Claim Architecture for Machine Learning Patents?</h2><p>Hayat Amin developed the ML Patent Claim Architecture after reviewing over 200 AI patent applications that were rejected pre-reset and identifying the structural patterns that separated grantable claims from abstract-idea rejections. The framework maps five distinct claim layers, each targeting a different patentable surface of the ML system. Filing claims across multiple layers creates a defensible cluster that is difficult to design around.</p><p><strong>Layer 1: Data Pipeline Claims.</strong> Patent the specific method by which raw data is transformed into training-ready input. If your preprocessing involves a novel sequence of filtering, augmentation, normalization, or feature extraction steps that measurably improve model output, that pipeline is patentable. These claims are among the hardest for competitors to detect and the easiest to enforce because the input-output transformation is observable.</p><p><strong>Layer 2: Architecture Claims.</strong> Patent the specific model architecture or configuration that produces a technical improvement. This is not patenting "a neural network." It is patenting a particular arrangement of layers, attention mechanisms, skip connections, or hybrid architectures that achieves a defined performance gain on a defined task. Claim specificity is critical here: the narrower the architectural innovation, the stronger the claim.</p><p><strong>Layer 3: Training Method Claims.</strong> Patent the method by which the model is trained, fine-tuned, or adapted. This includes novel loss functions, curriculum learning sequences, reinforcement learning reward structures, or multi-stage training protocols. If your training process produces results that other training approaches on the same architecture do not, that method is a patentable technical contribution.</p><p><strong>Layer 4: Application Integration Claims.</strong> Patent the system-level integration of ML outputs into a specific domain workflow. This is where most AI startups hold their strongest claims because application integration is inherently concrete and technical. A claim that covers how a predictive model interfaces with a supply chain management system, a diagnostic imaging pipeline, or a financial risk engine is far less vulnerable to abstract-idea rejection than a bare model claim.</p><p><strong>Layer 5: Feedback and Adaptation Claims.</strong> Patent the system that monitors model performance in production and triggers retraining, parameter adjustment, or model selection based on defined criteria. These claims protect the operational intelligence layer of your ML system, the component that compounds value over time as the system learns from deployment data. Hayat Amin calls this the most underpatented layer in AI because founders treat operational tuning as engineering rather than innovation.</p><h2>How Much Does It Cost to Patent a Machine Learning Model in 2026?</h2><p>A provisional patent application for a single ML innovation costs ,000 to ,000 in attorney fees plus 20 in USPTO filing fees for small entities. The provisional buys 12 months of patent-pending status and establishes your priority date, the date that determines who filed first if a competitor files a similar claim.</p><p>A full utility application costs 2,000 to 5,000 depending on claim complexity and the number of independent claims. For a 5-layer claim architecture covering multiple aspects of your ML system, expect 5,000 to 5,000 in total filing costs for the first jurisdiction. International filing through the PCT pathway adds ,000 to ,000 for the initial international application, plus ,000 to 5,000 per national phase entry in each additional jurisdiction.</p><p>The ROI math is straightforward. <a href="/blog/posts/patent-vs-trade-secret-ai-model/">Each granted patent adds approximately M in subsequent-round valuation</a> for AI startups, according to 2026 venture data. A 5-layer filing strategy costing 0,000 that produces 3 to 5 granted patents represents a potential M to M valuation increase, a 100x return on the filing investment. Beyond Elevation runs this calculation for every AI founder before their first filing meeting.</p><h2>Should You Patent or Trade-Secret Your Machine Learning Model?</h2><p>The patent-versus-trade-secret decision for machine learning is not binary. Hayat Amin argues that the optimal strategy uses both protections on different layers of the same system. Patent the layers that competitors can observe or reverse-engineer (application integration, inference architecture, data pipeline outputs). Trade-secret the layers that remain invisible in the deployed product (training data composition, hyperparameter configurations, reward function details, internal evaluation benchmarks).</p><p>The decision turns on one question: can a competitor determine what you did by examining your product? If yes, patent it, because trade-secret protection evaporates the moment the secret is discoverable. If no, trade-secret it, because patent protection requires public disclosure that hands competitors the blueprint.</p><p>Hayat Amin reminds founders that two 2026 federal court rulings destroyed trade-secret claims specifically because founders disclosed confidential methods through public AI tools. The protection framework has hardened. If you choose trade-secret for any layer, you need documented access controls, contractual protections, and a policy that prevents team members from inputting protected methods into third-party AI platforms.</p><p>The strongest AI IP position in 2026 combines 3 to 5 granted patents on observable innovation layers with documented trade-secret programs on invisible layers. This dual strategy creates a defensive moat that survives both patent challenges and trade-secret leakage.</p>
+<aside class="post-cta">
+  <h3>You just read the framework. Now price your own IP.</h3>
+  <p>Beyond Elevation runs a 60-minute IP &amp; licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.</p>
+  <a class="cta-primary" href="/call/web?ref=blog-how-to-patent-machine-learning-model-2026" target="_blank" rel="noreferrer">Book the diagnostic →</a>
+  <p class="cta-fineprint">14 founders booked this month. Hayat takes 4/week.</p>
+</aside>
+<h2>FAQ</h2><h3>Can you patent a neural network architecture in 2026?</h3><p>Yes, if the architecture produces a specific technical improvement over prior architectures for a defined task. A claim that covers "a neural network" generically will be rejected. A claim that covers a specific arrangement of attention layers that reduces inference latency by 40% on medical imaging classification is grantable under the post-§101-reset guidance.</p><h3>How long does it take to get an ML patent granted?</h3><p>Average time from utility filing to grant at the USPTO is 22 to 28 months for AI-related applications in 2026. The prioritized examination program (Track One) reduces this to 6 to 12 months for an additional ,000 fee. Provisional applications provide immediate patent-pending status with a 12-month window before the full utility filing is required.</p><h3>Does patenting an ML model require disclosing your training data?</h3><p>No. Patent claims cover the method, not the data. You must describe the training methodology in enough detail for a skilled practitioner to replicate the approach, but you are not required to disclose the specific dataset, its sources, or its contents. Training data is best protected as a trade secret alongside the patent filing.</p><h3>Can you patent an AI model trained on publicly available data?</h3><p>Yes. The patentability of an ML model does not depend on whether the training data is public or proprietary. What matters is whether the method of training, the architecture, or the application produces a novel technical result. A unique training methodology applied to public data can be just as patentable as one applied to proprietary data. The innovation is in what you do with the data, not where the data comes from.</p><p>If your machine learning model represents genuine technical innovation, the filing window created by the §101 reset will not stay open forever. Competitors are filing now. <a href="https://beyondelevation.com">Beyond Elevation</a> helps AI founders identify patentable layers, structure defensible claims, and build the IP portfolio that turns an ML innovation into a licensable, fundable, acquirable asset. The 5-layer architecture is how it starts.</p>
+        </div>
+
+        <aside class="related-posts" aria-label="Related insights">
+          <div class="related-head">
+            <span class="related-eyebrow">Continue reading</span>
+            <h2>Related insights</h2>
+          </div>
+          <div class="related-grid">
+            <a class="related-card" href="/blog/posts/ai-patent-eligibility-101-advisor/">
+              <span class="related-tag">Patents</span>
+              <h3>The Post-Alice §101 Survival Guide: How AI Founders Get Patents Granted in 2026</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/can-you-patent-a-business-model/">
+              <span class="related-tag">Patents</span>
+              <h3>Can You Patent a Business Model? The 2026 Claim Structure That Survives Alice</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/ai-patent-strategy-2026/">
+              <span class="related-tag">IP Strategy</span>
+              <h3>AI Patent Strategy in 2026: What Changed After the Foundation Model Wars</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+            <a class="related-card" href="/blog/posts/ip-strategy-compound-ai-systems-2026/">
+              <span class="related-tag">AI</span>
+              <h3>IP Strategy for Compound AI: The 4 Patent Gaps Hiding in Every Multi-Model Architecture</h3>
+              <span class="related-cta">Read article →</span>
+            </a>
+          </div>
+        </aside>
+
+        <div class="share-bar">
+          <div class="share-bar-label">Share this article</div>
+          <div class="share-buttons">
+            <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-patent-machine-learning-model-2026%2F" target="_blank" rel="noopener">LinkedIn</a>
+            <a class="share-btn" href="https://x.com/intent/tweet?url=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-patent-machine-learning-model-2026%2F&text=Your%20Machine%20Learning%20Model%20Is%20Now%20Patentable%3A%20The%205-Layer%20Claim%20Architecture%20That%20Gets%20AI%20Patents%20Granted%20After%20the%20%C2%A7101%20Reset%20%E2%80%94%20Beyond%20Elevation" target="_blank" rel="noopener">X</a>
+            <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbeyondelevation.com%2Fblog%2Fposts%2Fhow-to-patent-machine-learning-model-2026%2F" target="_blank" rel="noopener">Facebook</a>
+          </div>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>

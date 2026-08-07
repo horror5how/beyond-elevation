@@ -5753,3 +5753,19 @@ The stakes are specific. A 40-patent portfolio valued at $20M as a unit does not
 IP is the hardest asset to split in a corporate divestiture because patent value is non-linear and depends on portfolio architecture, not individual asset quality. A single patent in isolation has limited defensive or licensing value. That same patent inside a cluster of 8 related claims covering adjacent methods, 
 
 ---
+
+## Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset
+
+URL: https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/
+
+Before December 2025, the USPTO rejected most machine learning model patent applications on sight. The Alice doctrine treated ML algorithms as abstract ideas, and the rejection rate for AI-related claims exceeded 67%. Then the USPTO issued the Subject Matter Eligibility Declaration memos, and the landscape inverted overnight. Hayat Amin argues that founders who understand how to patent a machine learning model under the new rules will own the defensible ground in their category, while founders who wait will find the claims they need already filed by competitors.
+
+Companies with patents are [10.2x more likely to secure early-stage funding](/blog/posts/ai-patent-eligibility-101-advisor/). For AI startups, that number is no longer theoretical. The §101 reset turned a locked door into an open one, but only for founders who file the right claims in the right structure.
+
+## What Changed About Machine Learning Model Patent Eligibility in 2026?
+
+The December 2025 Subject Matter Eligibility Declaration pathway lets AI applicants submit objective evidence and expert testimony to establish patent eligibility, bypassing the old binary abstract-idea rejection. The August 2025 examiner memo narrowed the mental-process exclusion so that ML inference on large datasets is no longer automatically rejected as something a human could do in their head. Together, these two changes reversed a decade of hostile §101 precedent for AI founders.
+
+The practical result: machine learning innovations that 
+
+---

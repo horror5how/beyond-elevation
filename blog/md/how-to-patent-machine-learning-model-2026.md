@@ -2,8 +2,8 @@
 title: "Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset"
 slug: how-to-patent-machine-learning-model-2026
 date: 2026-08-07
-url: https://beyondelevation.com/blog/post.html?slug=how-to-patent-machine-learning-model-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -43,11 +43,11 @@ Hayat Amin developed the ML Patent Claim Architecture after reviewing over 200 A
 
 ## How Much Does It Cost to Patent a Machine Learning Model in 2026?
 
-A provisional patent application for a single ML innovation costs $2,000 to $5,000 in attorney fees plus $320 in USPTO filing fees for small entities. The provisional buys 12 months of patent-pending status and establishes your priority date, the date that determines who filed first if a competitor files a similar claim.
+A provisional patent application for a single ML innovation costs ,000 to ,000 in attorney fees plus 20 in USPTO filing fees for small entities. The provisional buys 12 months of patent-pending status and establishes your priority date, the date that determines who filed first if a competitor files a similar claim.
 
-A full utility application costs $12,000 to $25,000 depending on claim complexity and the number of independent claims. For a 5-layer claim architecture covering multiple aspects of your ML system, expect $15,000 to $35,000 in total filing costs for the first jurisdiction. International filing through the PCT pathway adds $4,000 to $8,000 for the initial international application, plus $5,000 to $15,000 per national phase entry in each additional jurisdiction.
+A full utility application costs 2,000 to 5,000 depending on claim complexity and the number of independent claims. For a 5-layer claim architecture covering multiple aspects of your ML system, expect 5,000 to 5,000 in total filing costs for the first jurisdiction. International filing through the PCT pathway adds ,000 to ,000 for the initial international application, plus ,000 to 5,000 per national phase entry in each additional jurisdiction.
 
-The ROI math is straightforward. [Each granted patent adds approximately $1M in subsequent-round valuation](/blog/posts/patent-vs-trade-secret-ai-model/) for AI startups, according to 2026 venture data. A 5-layer filing strategy costing $30,000 that produces 3 to 5 granted patents represents a potential $3M to $5M valuation increase, a 100x return on the filing investment. Beyond Elevation runs this calculation for every AI founder before their first filing meeting.
+The ROI math is straightforward. [Each granted patent adds approximately M in subsequent-round valuation](/blog/posts/patent-vs-trade-secret-ai-model/) for AI startups, according to 2026 venture data. A 5-layer filing strategy costing 0,000 that produces 3 to 5 granted patents represents a potential M to M valuation increase, a 100x return on the filing investment. Beyond Elevation runs this calculation for every AI founder before their first filing meeting.
 
 ## Should You Patent or Trade-Secret Your Machine Learning Model?
 
@@ -59,6 +59,20 @@ Hayat Amin reminds founders that two 2026 federal court rulings destroyed trade-
 
 The strongest AI IP position in 2026 combines 3 to 5 granted patents on observable innovation layers with documented trade-secret programs on invisible layers. This dual strategy creates a defensive moat that survives both patent challenges and trade-secret leakage.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-how-to-patent-machine-learning-model-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can you patent a neural network architecture in 2026?
@@ -67,7 +81,7 @@ Yes, if the architecture produces a specific technical improvement over prior ar
 
 ### How long does it take to get an ML patent granted?
 
-Average time from utility filing to grant at the USPTO is 22 to 28 months for AI-related applications in 2026. The prioritized examination program (Track One) reduces this to 6 to 12 months for an additional $2,000 fee. Provisional applications provide immediate patent-pending status with a 12-month window before the full utility filing is required.
+Average time from utility filing to grant at the USPTO is 22 to 28 months for AI-related applications in 2026. The prioritized examination program (Track One) reduces this to 6 to 12 months for an additional ,000 fee. Provisional applications provide immediate patent-pending status with a 12-month window before the full utility filing is required.
 
 ### Does patenting an ML model require disclosing your training data?
 
@@ -78,3 +92,6 @@ No. Patent claims cover the method, not the data. You must describe the training
 Yes. The patentability of an ML model does not depend on whether the training data is public or proprietary. What matters is whether the method of training, the architecture, or the application produces a novel technical result. A unique training methodology applied to public data can be just as patentable as one applied to proprietary data. The innovation is in what you do with the data, not where the data comes from.
 
 If your machine learning model represents genuine technical innovation, the filing window created by the §101 reset will not stay open forever. Competitors are filing now. [Beyond Elevation](https://beyondelevation.com) helps AI founders identify patentable layers, structure defensible claims, and build the IP portfolio that turns an ML innovation into a licensable, fundable, acquirable asset. The 5-layer architecture is how it starts.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
