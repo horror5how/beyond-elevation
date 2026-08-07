@@ -5739,3 +5739,17 @@ Companies with patents are [10.2x more likely to secure early-stage funding](htt
 PropTech IP strategy requires protecting three distinct technology layers simultaneously — hardware, software, and physical-world data — which is a filing challenge most tech-sector IP playbooks do not address. Standard SaaS IP strategy focuses on software
 
 ---
+
+## The IP Carve-Out Trap: How to Split a Patent Portfolio in a Divestiture Without Destroying Half Its Value
+
+URL: https://beyondelevation.com/blog/posts/ip-carve-out-divestiture-patent-split-2026/
+
+62% of corporate divestitures undervalue the carved-out intellectual property by more than 30%. The reason is structural, not subjective. Patent portfolios derive value from adjacency — clusters of related claims that collectively block competitors across an entire technology space. Split the cluster wrong, and both halves lose the network effect that made the portfolio valuable in the first place. Hayat Amin argues that IP carve-out strategy is the single most underpriced advisory category in M&A because the lawyers structuring the deal treat patents like divisible inventory when they function like interconnected infrastructure.
+
+The stakes are specific. A 40-patent portfolio valued at $20M as a unit does not become two 20-patent portfolios worth $10M each. It becomes two fragmented sets worth $6M to $7M each — a combined destruction of $6M to $8M in enterprise value. Companies with patents are 10.2x more likely to secure early-stage funding, but that advantage evaporates when a poorly structured carve-out leaves both entities holding fragments too weak to demonstrate defensibility to investors.
+
+## Why Is IP the Hardest Asset to Split in a Corporate Divestiture?
+
+IP is the hardest asset to split in a corporate divestiture because patent value is non-linear and depends on portfolio architecture, not individual asset quality. A single patent in isolation has limited defensive or licensing value. That same patent inside a cluster of 8 related claims covering adjacent methods, 
+
+---
