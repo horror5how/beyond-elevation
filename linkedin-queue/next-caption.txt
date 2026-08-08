@@ -1,23 +1,13 @@
-73% of startup enterprise value is intangible.
+Your enterprise team runs 10,000 LLM queries a day.
 
-Fewer than 15% have run a formal IP assessment.
+Product roadmaps. Customer segmentation. Competitive teardowns.
 
-10-signal diagnostic. Takes 10 minutes.
+12% of those outputs qualify as protectable IP — trade secret or patent-claimable.
 
-5 signals you have leverage:
-– Competitors need 18+ months to replicate
-– Data compounds the product over time
-– Know-how lives only in your team's heads
-– Rivals are filing patents around your space
-– Technology works in 3+ adjacent markets
+Most enterprises capture none of it.
 
-5 signals you are exposed:
-– Copyleft code in the stack
-– Published before filing
-– Claims are narrow or feature-level
-– No IP assignment with early contractors
-– Innovation stops at product, not process
+Competitors run the same prompts six months later and file first.
 
-Run this before due diligence does.
+One IP capture workflow changes the math.
 
-#IPStrategy #StartupValuation #IntellectualProperty
+#AI #IPStrategy #EnterpriseAI
