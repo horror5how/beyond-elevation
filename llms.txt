@@ -369,5 +369,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset](https://beyondelevation.com/blog/posts/how-to-patent-machine-learning-model-2026/) — /blog/md/how-to-patent-machine-learning-model-2026.md
 - [Your University Owns Your Best Patent and Your Investor Knows It: The Tech Transfer IP Trap 78% of Spinout Founders Miss](https://beyondelevation.com/blog/posts/university-spinout-ip-strategy-tech-transfer-2026/) — /blog/md/university-spinout-ip-strategy-tech-transfer-2026.md
 - [The First Rated Patent-Backed Securities Land in 2026. Here Is What Every IP-Rich Founder Must Do Before the Market Prices Your Portfolio Without You.](https://beyondelevation.com/blog/posts/ip-securitization-patent-backed-securities-2026/) — /blog/md/ip-securitization-patent-backed-securities-2026.md
+- [Your Platform Has 10 Million Users and Zero Patent Protection. The IP Strategy That Turns Network Effects Into Legal Moats.](https://beyondelevation.com/blog/posts/ip-strategy-platform-marketplace-startups/) — /blog/md/ip-strategy-platform-marketplace-startups.md
 
 > Full blog content available at /llms-full.txt
