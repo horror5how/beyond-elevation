@@ -5769,3 +5769,21 @@ The December 2025 Subject Matter Eligibility Declaration pathway lets AI applica
 The practical result: machine learning innovations that 
 
 ---
+
+## Your University Owns Your Best Patent and Your Investor Knows It: The Tech Transfer IP Trap 78% of Spinout Founders Miss
+
+URL: https://beyondelevation.com/blog/posts/university-spinout-ip-strategy-tech-transfer-2026/
+
+78% of university spinout founders enter their first funding round without clear IP ownership — and every VC in the room sees it on slide one.
+
+The problem is not that universities steal IP. The problem is that founders assume they own research they conducted on university time, using university resources, under employment agreements they never read. Hayat Amin argues that university spinout IP is the single most overlooked ownership risk in deep tech: "Founders spend twelve months building on research they think is theirs. Then the tech transfer office sends one email and the entire cap table recalculates."
+
+University spinout IP strategy is the discipline of converting academic research into commercially ownable assets before investors ask the question that kills the deal: who actually owns this?
+
+## Why Does University Spinout IP Ownership Matter for Your Fundraise?
+
+University spinout IP ownership determines whether your startup holds a defensible asset or a revocable license. That distinction sets your valuation floor, your licensing ceiling, and your acquirability. Founders who get this wrong discover it during due diligence — when the leverage has already shifted to the other side of the table.
+
+In 2026, over 1,100 university spinouts launched in the US alone. An AUTM survey found that 67% of tech transfer licenses contain at least one clause limiting the startup's ability to sublicense, assign, or use the IP in adjacent markets. That single clause can reduce enterpris
+
+---
