@@ -1,23 +1,17 @@
-Access Advance paid royalties last month to 12 companies holding HEVC and VVC patents.
+Most GPAI compliance budgets go to lawyers and audit firms.
 
-Meta, Samsung, and Sharp just joined as licensors.
+The companies building a moat are spending the last 20% on IP capture instead.
 
-None of them litigated to collect.
+GPAI compliance: €150K–€400K on average.
 
-Most founders think patent licensing means one negotiation, one deal, one customer.
+Article 53 forces you to log training data provenance anyway.
 
-Patent pools flip that model.
+That provenance log is a licensable asset.
 
-You contribute patents.
+File it. Price it. License it.
 
-The pool collects from hundreds of implementers.
+Strategic buyers pay 37% more for IP-activated AI companies.
 
-You receive quarterly distributions.
+6 days since enforcement started. 90 days before competitors close the filing window.
 
-The patent licensing market hits $4.4B by 2032 — 7.77% CAGR.
-
-SIM IP closed 11 portfolio transactions in 15 months buying patents, not products.
-
-If your portfolio includes standard-adjacent patents, there is already a bid on the table.
-
-#IP #Licensing #Patents
+#IPStrategy #EUAIAct #AIGovernance
