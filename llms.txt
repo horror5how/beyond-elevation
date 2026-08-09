@@ -371,5 +371,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [The First Rated Patent-Backed Securities Land in 2026. Here Is What Every IP-Rich Founder Must Do Before the Market Prices Your Portfolio Without You.](https://beyondelevation.com/blog/posts/ip-securitization-patent-backed-securities-2026/) — /blog/md/ip-securitization-patent-backed-securities-2026.md
 - [Your Platform Has 10 Million Users and Zero Patent Protection. The IP Strategy That Turns Network Effects Into Legal Moats.](https://beyondelevation.com/blog/posts/ip-strategy-platform-marketplace-startups/) — /blog/md/ip-strategy-platform-marketplace-startups.md
 - [Patent Renewal Strategy: The 4-Question Framework That Stops Founders Wasting $100K on Dead Patents](https://beyondelevation.com/blog/posts/patent-renewal-strategy-maintenance-fee-framework-2026/) — /blog/md/patent-renewal-strategy-maintenance-fee-framework-2026.md
+- [The IP Portfolio Stress Test: Find Your 3 Weakest Patents Before Investors Do](https://beyondelevation.com/blog/posts/ip-portfolio-stress-test-investor-ready-2026/) — /blog/md/ip-portfolio-stress-test-investor-ready-2026.md
 
 > Full blog content available at /llms-full.txt

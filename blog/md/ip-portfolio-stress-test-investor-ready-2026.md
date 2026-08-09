@@ -2,8 +2,8 @@
 title: "The IP Portfolio Stress Test: Find Your 3 Weakest Patents Before Investors Do"
 slug: ip-portfolio-stress-test-investor-ready-2026
 date: 2026-08-09
-url: https://beyondelevation.com/blog/post.html?slug=ip-portfolio-stress-test-investor-ready-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-portfolio-stress-test-investor-ready-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -69,6 +69,20 @@ The pre-M&A stress test is non-negotiable. Beyond Elevation has seen deals delay
 
 The annual stress test is the one most founders skip — and the one that creates the most compounding value. Hayat Amin's rule: if you are not stress-testing your portfolio annually, you are relying on the assumption that nothing in the prior art landscape, your competitive environment, or your own product roadmap has changed in 12 months. That assumption is always wrong. Book your first stress test at [beyondelevation.com](https://beyondelevation.com) and stop guessing whether your portfolio will survive its next real test.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-ip-portfolio-stress-test-investor-ready-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does an IP portfolio stress test cost?
@@ -86,3 +100,6 @@ Run a stress test annually at minimum, plus before any major capital event — f
 ### What is the difference between an IP audit and an IP portfolio stress test?
 
 An [IP audit](/blog/posts/ip-audit-checklist-hidden-assets/) catalogs what you own — patent numbers, filing dates, jurisdictions, maintenance fee status. An IP portfolio stress test goes further by pressure-testing each asset against adversarial scenarios: validity challenges, ownership disputes, enforcement feasibility, and design-around vulnerability. The audit tells you what you have. The stress test tells you what will survive. Most founders need both — the audit first to establish the baseline, then the stress test to identify what the baseline is actually worth under pressure.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
