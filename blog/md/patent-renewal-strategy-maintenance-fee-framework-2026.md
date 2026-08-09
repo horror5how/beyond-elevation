@@ -2,8 +2,8 @@
 title: "Patent Renewal Strategy: The 4-Question Framework That Stops Founders Wasting $100K on Dead Patents"
 slug: patent-renewal-strategy-maintenance-fee-framework-2026
 date: 2026-08-09
-url: https://beyondelevation.com/blog/post.html?slug=patent-renewal-strategy-maintenance-fee-framework-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-renewal-strategy-maintenance-fee-framework-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,20 @@ The founders who treat patent renewal strategy as a quarterly discipline — not
 
 Book a portfolio review at [beyondelevation.com](https://beyondelevation.com) to run the Patent Renewal Decision Matrix on your portfolio. The average client identifies 30% to 40% in maintenance savings within the first session.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-patent-renewal-strategy-maintenance-fee-framework-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How often should you review your patent renewal strategy?
@@ -88,3 +102,6 @@ Yes. A 3-patent portfolio with international filings in 5 countries generates $1
 ### What is the best alternative to renewing a dormant patent?
 
 Sell it. The IP acquisition market has a standing institutional bid for patents covering technology actively practiced by third parties. A sale generates immediate cash and eliminates ongoing maintenance costs. If the patent has unlicensed third-party use, a licensing program may generate more value than a one-time sale.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
