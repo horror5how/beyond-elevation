@@ -1,17 +1,11 @@
-Most GPAI compliance budgets go to lawyers and audit firms.
+IP portfolios are now getting investment-grade bond ratings.
 
-The companies building a moat are spending the last 20% on IP capture instead.
+$180M at A- from Fitch. Backed by royalty cash flows. Same underwriting process used for mortgage-backed securities — now applied to patents.
 
-GPAI compliance: €150K–€400K on average.
+Three things that made it bankable: 12-year average patent life, 94% maintenance renewals paid, $22M audited royalty income over 36 months.
 
-Article 53 forces you to log training data provenance anyway.
+You don't need $180M in royalties. You need documented recurring IP income and a clean chain of title.
 
-That provenance log is a licensable asset.
+Most founders have never tested their IP for bankability. Acquirers are starting to ask.
 
-File it. Price it. License it.
-
-Strategic buyers pay 37% more for IP-activated AI companies.
-
-6 days since enforcement started. 90 days before competitors close the filing window.
-
-#IPStrategy #EUAIAct #AIGovernance
+#IPStrategy #PatentMonetisation #AlternativeFinance
