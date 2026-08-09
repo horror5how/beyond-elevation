@@ -604,3 +604,4 @@ llm-output-ip-enterprise-strategy-2026
 patent-pool-licensor-play-2026
 gpai-compliance-budget-ip-allocation-2026
 ip-securitisation-investment-grade-2026
+ip-licensing-capital-cost-reduction-2026
