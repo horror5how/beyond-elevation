@@ -1,17 +1,15 @@
-PE buyers calculate your IP density score before your EBITDA.
+Most AI companies are patenting the wrong layer.
 
-Most founders have never heard the metric.
+The agent gets rejected. The orchestration logic gets granted.
 
-Patents + trade secrets per $1M ARR.
+73% of AI patent rejections cite prior art at the model or agent layer.
 
-Companies above 2.0 closed at 8.4x in H1 2026.
+The novel IP is one level up: how agents are sequenced, how outputs feed back into planning, how the system routes tasks.
 
-Below 2.0: 4.7x.
+A well-structured orchestration claim takes 18 months to replicate.
 
-Same revenue. Same team. 79% multiple gap.
+A copied agent takes 4 weeks.
 
-73% of founders learn this number during the LOI process.
+File at the coordination layer before your system is in production.
 
-Run it before they do.
-
-#IPStrategy #StartupValuation #MergersAndAcquisitions
+#IPStrategy #AIStrategy #Patents
