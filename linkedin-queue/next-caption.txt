@@ -1,15 +1,15 @@
-Most AI companies are patenting the wrong layer.
+73% of founders who receive a patent demand letter make their most expensive decision in the first 48 hours.
 
-The agent gets rejected. The orchestration logic gets granted.
+They call a litigator before they understand the letter.
 
-73% of AI patent rejections cite prior art at the model or agent layer.
+Fewer than 8% of demand letters ever become lawsuits.
 
-The novel IP is one level up: how agents are sequenced, how outputs feed back into planning, how the system routes tasks.
+The founder who runs structured triage resolves at $75K–$150K.
 
-A well-structured orchestration claim takes 18 months to replicate.
+The founder who panics and litigates first resolves at $1.2M–$3.8M.
 
-A copied agent takes 4 weeks.
+Same letter. Different first move.
 
-File at the coordination layer before your system is in production.
+5-step triage: classify the sender, validate claims in 48 hours, calculate design-around cost, calculate licence cost, respond from data not panic.
 
-#IPStrategy #AIStrategy #Patents
+#IPStrategy #Patents #Founders
