@@ -5883,3 +5883,23 @@ Companies with patents are 10.2x more likely to secure early-stage funding. That
 IP gets lost in business partnerships because standard partnership agreements default to joint ownership of everything created during the engagement, and joint ownership is the worst possible outcome for the smaller company. When two companies jointly own a patent, either party can license it to anyone without the other's consent, share no revenue, and face no p
 
 ---
+
+## How Many Patents Does a Startup Need? The Minimum Viable Portfolio That Costs $47K and Adds $5M to Your Valuation
+
+URL: https://beyondelevation.com/blog/posts/how-many-patents-startup-needs-minimum-portfolio/
+
+$47K. That is what a defensible patent portfolio costs a startup in 2026. Companies with patents are 10.2x more likely to secure early-stage funding, yet 72% of seed-stage founders file zero patents before their first raise. Hayat Amin argues this is the single most expensive mistake a technical founder makes: "You are handing investors a reason to discount your valuation by 15 to 20 percent because you skipped an investment that costs less than a senior engineer's quarterly salary."
+
+The real question is not whether to build a patent portfolio. It is how many patents your startup actually needs to create a defensible position without burning runway on filings that add no strategic value.
+
+## How Many Patents Does a Startup Need?
+
+A startup needs 5 to 7 strategically chosen patent filings to create a defensible moat that moves investor multiples. That is not a guess. Late-stage AI startups with structured IP portfolios post a median 25.8x revenue multiple versus 18.2x for those without, a 41% gap that starts compounding from the seed round.
+
+The number is not 1. A single patent is a flag, not a fortress. It tells competitors exactly what you protect and exactly where to design around it.
+
+The number is not 50. Filing broadly is what large corporations do with $2M annual prosecution budgets. A startup that files 50 patents before Series B is lighting runway on fire.
+
+Five to seven filings hit the sweet spot. Hayat Amin calls this the Minimum Viable Patent Portfolio, or MVPP. I
+
+---
