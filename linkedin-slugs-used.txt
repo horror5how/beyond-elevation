@@ -608,3 +608,4 @@ ip-licensing-capital-cost-reduction-2026
 ip-density-score-acquisition-multiple-2026
 ai-orchestration-layer-patent-claim-2026
 patent-demand-letter-response-playbook-2026
+european-patent-ai-licensing-premium-2026

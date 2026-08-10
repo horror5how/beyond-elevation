@@ -1,15 +1,21 @@
-73% of founders who receive a patent demand letter make their most expensive decision in the first 48 hours.
+EU AI Act went live 8 days ago.
 
-They call a litigator before they understand the letter.
+Most founders see a compliance cost.
 
-Fewer than 8% of demand letters ever become lawsuits.
+The ones who understand IP see a pricing floor.
 
-The founder who runs structured triage resolves at $75K–$150K.
+EU-regulated AI systems need compliant data lineage and documented architecture.
 
-The founder who panics and litigates first resolves at $1.2M–$3.8M.
+If you hold patents over that architecture — your royalty rate just went up.
 
-Same letter. Different first move.
+Competitors inside the EU cannot build around your patent without rebuilding their compliance stack.
 
-5-step triage: classify the sender, validate claims in 48 hours, calculate design-around cost, calculate licence cost, respond from data not panic.
+That is not protection. That is pricing power.
 
-#IPStrategy #Patents #Founders
+Most founders only filed in the US. Adding EU coverage costs £3K more to file.
+
+3x licensing leverage for £3K.
+
+File before your competitor reads this.
+
+#IPStrategy #EUAIAct #PatentLicensing
