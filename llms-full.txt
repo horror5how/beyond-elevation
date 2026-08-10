@@ -5903,3 +5903,21 @@ The number is not 50. Filing broadly is what large corporations do with $2M annu
 Five to seven filings hit the sweet spot. Hayat Amin calls this the Minimum Viable Patent Portfolio, or MVPP. I
 
 ---
+
+## Your IP Budget Is Backwards: The Stage-by-Stage Guide From Pre-Seed to Series B
+
+URL: https://beyondelevation.com/blog/posts/ip-budget-startup-stage-guide-2026/
+
+$412K. That is the average IP spend for tech startups between founding and Series B. The problem: 73% of that money protects the wrong assets at the wrong time, and most founders never see the misallocation until a due diligence report shows them what they missed.
+
+Hayat Amin argues that most founders get their IP budget backwards. They pour $80K into utility patent filings before the product generates a dollar of revenue, while spending zero on trade secret documentation and data asset protection — the IP that creates immediate licensing value. The result is a portfolio that costs six figures to maintain and generates zero revenue until the patents grant three years later.
+
+The fix is not spending less on IP. It is spending at the right stage on the right assets. Here is the stage-by-stage IP budget breakdown that [Beyond Elevation](https://beyondelevation.com) uses with every client engagement.
+
+## What Should Your Pre-Seed IP Budget Look Like?
+
+Pre-seed startups should allocate $2,000 to $8,000 on their IP budget — focused entirely on trade secret protection and one provisional patent application. That budget covers four moves: NDA templates, inventor assignment agreements, a provisional patent filing on your core innovation, and a trade secret register documenting your proprietary know-how.
+
+The provisional patent costs $1,500 to $3,000 with a specialist and establishes your priority date. It buys you 12 months to prove the concept before committing $15,000 or more to a f
+
+---
