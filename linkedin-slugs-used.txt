@@ -610,3 +610,4 @@ ai-orchestration-layer-patent-claim-2026
 patent-demand-letter-response-playbook-2026
 european-patent-ai-licensing-premium-2026
 gpai-training-data-licensor-play-2026
+data-licensing-model-depreciation-2026

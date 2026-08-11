@@ -1,21 +1,21 @@
-The EU AI Act GPAI provisions went live August 2.
+Your AI model has an 18-month shelf life.
 
-Most founders are calculating their compliance cost.
+Your training data does not.
 
-A few just realized they own the asset every GPAI provider now legally needs.
+GPT-3. GPT-4. GPT-4o. Each version makes the last one worthless to license.
 
-GPAI providers must document training data provenance.
+The data that trained it? Every new model needs the same type.
 
-Clean, licensed, audited datasets are worth 3-4x what they were 6 months ago.
+Reddit signed a 10-year data deal with Google. No AI model carries a 10-year price tag.
 
-If you curated proprietary data, you are not a compliance burden.
+Model access deals run 12–18 months before superseded.
 
-You are a licensor.
+Training data licenses run 5–10 years with annual escalators.
 
-Three datasets that hit $400K+ annual licensing deals post-August 2: geospatial coordinates, medical outcomes, financial transaction sequences.
+Founders building on model access are building on a depreciating asset.
 
-Your data is not a byproduct.
+Founders who own training data are building a perpetual annuity.
 
-It is a revenue line.
+That distinction does not show in your pitch deck. It shows in your exit multiple.
 
-#AIAct #IPStrategy #DataMonetization
+#IPStrategy #DataMonetization #AIStrategy
