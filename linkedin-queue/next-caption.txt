@@ -1,21 +1,21 @@
-EU AI Act went live 8 days ago.
+The EU AI Act GPAI provisions went live August 2.
 
-Most founders see a compliance cost.
+Most founders are calculating their compliance cost.
 
-The ones who understand IP see a pricing floor.
+A few just realized they own the asset every GPAI provider now legally needs.
 
-EU-regulated AI systems need compliant data lineage and documented architecture.
+GPAI providers must document training data provenance.
 
-If you hold patents over that architecture — your royalty rate just went up.
+Clean, licensed, audited datasets are worth 3-4x what they were 6 months ago.
 
-Competitors inside the EU cannot build around your patent without rebuilding their compliance stack.
+If you curated proprietary data, you are not a compliance burden.
 
-That is not protection. That is pricing power.
+You are a licensor.
 
-Most founders only filed in the US. Adding EU coverage costs £3K more to file.
+Three datasets that hit $400K+ annual licensing deals post-August 2: geospatial coordinates, medical outcomes, financial transaction sequences.
 
-3x licensing leverage for £3K.
+Your data is not a byproduct.
 
-File before your competitor reads this.
+It is a revenue line.
 
-#IPStrategy #EUAIAct #PatentLicensing
+#AIAct #IPStrategy #DataMonetization

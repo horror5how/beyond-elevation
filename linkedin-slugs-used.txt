@@ -609,3 +609,4 @@ ip-density-score-acquisition-multiple-2026
 ai-orchestration-layer-patent-claim-2026
 patent-demand-letter-response-playbook-2026
 european-patent-ai-licensing-premium-2026
+gpai-training-data-licensor-play-2026
