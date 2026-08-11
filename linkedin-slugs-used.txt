@@ -611,3 +611,4 @@ patent-demand-letter-response-playbook-2026
 european-patent-ai-licensing-premium-2026
 gpai-training-data-licensor-play-2026
 data-licensing-model-depreciation-2026
+patent-licensing-financial-model-2026

@@ -1,21 +1,21 @@
-Your AI model has an 18-month shelf life.
+Most founders file patents.
 
-Your training data does not.
+None of them build a licensing financial model.
 
-GPT-3. GPT-4. GPT-4o. Each version makes the last one worthless to license.
+That's why 80% of patent programs generate zero revenue.
 
-The data that trained it? Every new model needs the same type.
+The model has 3 inputs:
 
-Reddit signed a 10-year data deal with Google. No AI model carries a 10-year price tag.
+Royalty base: total licensable market, not your revenue
 
-Model access deals run 12–18 months before superseded.
+Rate: industry benchmark plus a strategic premium
 
-Training data licenses run 5–10 years with annual escalators.
+Escalator: contractual step-up at each renewal term
 
-Founders building on model access are building on a depreciating asset.
+One tech founder ran the numbers. First deal closed with a $2.3M minimum guarantee.
 
-Founders who own training data are building a perpetual annuity.
+Acquirers model your licensing program at due diligence.
 
-That distinction does not show in your pitch deck. It shows in your exit multiple.
+Build the model before they do.
 
-#IPStrategy #DataMonetization #AIStrategy
+#IPStrategy #PatentLicensing #Founders
