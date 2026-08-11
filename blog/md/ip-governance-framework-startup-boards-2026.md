@@ -13,7 +13,7 @@ site: Beyond Elevation
 
 That gap is not an oversight. It is a structural failure in governance that costs founders millions at exit.
 
-Hayat Amin argues that IP governance is the single largest blind spot in startup board rooms — and the reason most companies sell for less than their IP is worth. "Boards review financial statements every quarter," Hayat Amin says. "They review operational KPIs. They review sales pipeline. But they have zero visibility into the asset class that represents the majority of their enterprise value."
+Hayat Amin argues that IP governance is the single largest blind spot in startup board rooms — and the reason most companies sell for less than their IP is worth. Boards review financial statements every quarter. They review operational KPIs. They review sales pipeline. But zero visibility into the asset class that represents the majority of enterprise value.
 
 The fix is not complex. It is a framework.
 
@@ -41,7 +41,7 @@ Most startup boards fail at IP governance because they classify intellectual pro
 
 **Blind spot 5: IP is reactive, not proactive.** Without governance, companies respond to IP events — a patent troll letter, a competitor filing, a due diligence finding — rather than building IP value strategically. Reactive IP management costs 3-5x more than proactive governance and produces weaker outcomes at every stage.
 
-## What Does Hayat Amin's IP Governance Framework Include?
+## What Does the Board-Level IP Governance Framework Include?
 
 Hayat Amin's Board-Level IP Governance Framework is a five-component system that [Beyond Elevation deploys](/blog/posts/ip-monetization-for-ceos/) with portfolio companies and growth-stage startups preparing for exit. It turns IP from an invisible asset into a board-reported, strategically managed value driver with quarterly accountability and clear escalation triggers.
 
