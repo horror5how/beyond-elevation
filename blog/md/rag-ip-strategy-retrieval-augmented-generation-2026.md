@@ -2,8 +2,8 @@
 title: "Your RAG Pipeline Has 4 Patentable Layers. You Are Protecting Zero of Them."
 slug: rag-ip-strategy-retrieval-augmented-generation-2026
 date: 2026-08-11
-url: https://beyondelevation.com/blog/post.html?slug=rag-ip-strategy-retrieval-augmented-generation-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/rag-ip-strategy-retrieval-augmented-generation-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -59,6 +59,20 @@ Start with Hayat Amin's RAG IP Stack Framework. Map every component of your RAG 
 
 Then audit your data licensing. Pull every agreement governing data flowing into your knowledge base. Flag restrictions on derivative works, commercial use, or redistribution. Fix the gaps before they become liabilities. Finally, structure filings around the [continuation strategy](/blog/posts/patent-continuation-strategy-15-claim-playbook/) that lets you expand claims as your RAG architecture evolves — because the company that files first on a novel retrieval method owns the licensing revenue for the next 20 years.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-rag-ip-strategy-retrieval-augmented-generation-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can you patent a RAG architecture?
@@ -75,4 +89,7 @@ Output ownership depends on who owns the model, who owns the knowledge base, and
 
 ### What is the biggest RAG IP mistake founders make?
 
-Treating the RAG pipeline as integration code rather than protectable IP. The engineering that makes retrieval accuracy, fast, and domain-specific is more defensible than the model itself — which can be swapped for a newer foundation model at any time. File on the retrieval layer first.
+Treating the RAG pipeline as integration code rather than protectable IP. The engineering that makes retrieval accurate, fast, and domain-specific is more defensible than the model itself — which can be swapped for a newer foundation model at any time. File on the retrieval layer first.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
