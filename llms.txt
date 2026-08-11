@@ -378,5 +378,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your IP Budget Is Backwards: The Stage-by-Stage Guide From Pre-Seed to Series B](https://beyondelevation.com/blog/posts/ip-budget-startup-stage-guide-2026/) — /blog/md/ip-budget-startup-stage-guide-2026.md
 - [5 Data Valuation Methods That Separate $500K Datasets from $50M Data Assets](https://beyondelevation.com/blog/posts/data-valuation-methods-5-frameworks-2026/) — /blog/md/data-valuation-methods-5-frameworks-2026.md
 - [Your RAG Pipeline Has 4 Patentable Layers. You Are Protecting Zero of Them.](https://beyondelevation.com/blog/posts/rag-ip-strategy-retrieval-augmented-generation-2026/) — /blog/md/rag-ip-strategy-retrieval-augmented-generation-2026.md
+- [83% of Enterprise Value Is Intangible. Your Board Governs Zero Percent of It.](https://beyondelevation.com/blog/posts/ip-governance-framework-startup-boards-2026/) — /blog/md/ip-governance-framework-startup-boards-2026.md
 
 > Full blog content available at /llms-full.txt

@@ -2,8 +2,8 @@
 title: "83% of Enterprise Value Is Intangible. Your Board Governs Zero Percent of It."
 slug: ip-governance-framework-startup-boards-2026
 date: 2026-08-11
-url: https://beyondelevation.com/blog/post.html?slug=ip-governance-framework-startup-boards-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ip-governance-framework-startup-boards-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -79,6 +79,20 @@ Second, IP governance reduces due diligence timelines by 30-45%. When the IP das
 
 Third, boards with IP oversight identify licensing revenue opportunities an average of 18 months earlier than boards without it. The quarterly strategy alignment review surfaces patents that cover competitor products — opportunities that would otherwise remain invisible until the company hired an external licensing advisor.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-ip-governance-framework-startup-boards-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Who Should Own IP Governance on a Startup Board?
@@ -100,3 +114,6 @@ Most companies below 500 employees lack the internal expertise to build and main
 ### Can IP Governance Work for Pre-Revenue Startups?
 
 Absolutely. Pre-revenue startups benefit most from early IP governance because it establishes the documentation, processes, and board-level visibility that investors evaluate during diligence. A lightweight version of the framework — quarterly dashboard and IP risk register only — costs less than a single patent filing and creates outsized value at the seed and Series A stages.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -5955,3 +5955,25 @@ Retrieval-augmented generation creates protectable IP value because it solves a 
 RAG exploded in enterprise AI because foundation models hallucinate, and hallucination kills enterprise trust. The fix is retrieval — pulling verified facts from a company's o
 
 ---
+
+## 83% of Enterprise Value Is Intangible. Your Board Governs Zero Percent of It.
+
+URL: https://beyondelevation.com/blog/posts/ip-governance-framework-startup-boards-2026/
+
+83% of enterprise value sits in intangible assets. The average startup board spends zero minutes per quarter discussing them.
+
+That gap is not an oversight. It is a structural failure in governance that costs founders millions at exit.
+
+Hayat Amin argues that IP governance is the single largest blind spot in startup board rooms — and the reason most companies sell for less than their IP is worth. "Boards review financial statements every quarter," Hayat Amin says. "They review operational KPIs. They review sales pipeline. But they have zero visibility into the asset class that represents the majority of their enterprise value."
+
+The fix is not complex. It is a framework.
+
+## What Is an IP Governance Framework?
+
+An IP governance framework is the board-level oversight system that ensures patents, trade secrets, data assets, and proprietary know-how are identified, protected, monetized, and reported with the same discipline as financial assets. Without one, directors make fiduciary decisions about a company's future while ignoring the assets that drive 83% of its value.
+
+Most companies treat intellectual property as a legal function — something handled by outside counsel, reviewed only when a problem surfaces. This is the equivalent of treating revenue as an accounting problem rather than a strategic priority.
+
+IP governance elevates IP strategy to the board agenda. It creates accountability, establishes reporting rhythms, and ensures the company's most valuable assets are manag
+
+---
