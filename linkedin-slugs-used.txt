@@ -614,3 +614,4 @@ data-licensing-model-depreciation-2026
 patent-licensing-financial-model-2026
 ip-cost-of-capital-bridge-round-gap-2026
 fine-tuned-model-moat-dead-ip-pivot-2026
+three-tier-ip-stack-licensing-2026

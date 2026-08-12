@@ -1,17 +1,17 @@
-Your fine-tuned model is not a moat.
+Qualcomm earns $5.6B a year without making a single chip.
 
-Open-source matched it in 6 months.
+It doesn't have one IP asset. It has a 3-tier stack.
 
-Every time Meta drops a new Llama release, fine-tuned advantages compress to zero.
+Tier 1: Patents — the public face. Licensees see these. Courts enforce these.
 
-The 3 IP moves protecting AI founders in 2026:
+Tier 2: Know-how — the hidden lever. The implementation guide your patent doesn't include. The negotiation asset most founders never price.
 
-1. Exclusive training data agreements. Your dataset is defensible. The model is not.
+Tier 3: Trade secrets — the moat under the moat. The stuff that dies the moment you disclose it wrong.
 
-2. Process patents. Patent what the AI enables, not the model itself. 73% of model patents fail §101.
+Most founders patent at Tier 1 and leave Tier 2 and Tier 3 unmonetized.
 
-3. Prompt trade secrets. Register your engineering stack before the team leaves.
+Qualcomm doesn't. Ericsson doesn't. Nokia doesn't.
 
-Your model is a liability. Your data is an asset.
+3 assets. 1 stack. $5.6B/year.
 
-#IPStrategy #AIStartups #DataLicensing
+#IPStrategy #Licensing #Patents
