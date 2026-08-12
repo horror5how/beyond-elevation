@@ -5977,3 +5977,19 @@ Most companies treat intellectual property as a legal function — something han
 IP governance elevates IP strategy to the board agenda. It creates accountability, establishes reporting rhythms, and ensures the company's most valuable assets are managed proactively rather than reactively
 
 ---
+
+## The EU AI Act GPAI Rules Went Live August 2. Here Is How to Comply Without Giving Away Your Trade Secrets.
+
+URL: https://beyondelevation.com/blog/posts/eu-ai-act-gpai-transparency-vs-trade-secrets-2026/
+
+Two laws collided on August 2, 2026. The EU AI Act GPAI transparency rules now require every general-purpose AI model provider to document training data, model capabilities, and risk assessments. Trade secret law says voluntary disclosure of confidential information destroys legal protection permanently. One law demands you reveal. The other says revealing kills the asset.
+
+ Hayat Amin argues this is the most dangerous compliance trap in AI right now. "Founders are hiring EU AI Act consultants who have never handled a trade secret case. They document everything into public model cards and do not realize they just destroyed the asset VCs priced at [8x forward revenue](/blog/posts/ai-governance-competitive-moat-2026/)." The GPAI transparency requirements do not demand total disclosure. They demand structured disclosure. The difference between those two words is worth millions in enterprise value.
+
+ ## What Do the EU AI Act GPAI Transparency Rules Actually Require?
+
+ Article 53 of the EU AI Act requires providers of general-purpose AI models to publish a sufficiently detailed summary of training data content, make technical documentation available, provide downstream deployers with information for integration, and comply with EU copyright obligations. The GPAI penalty powers became enforceable on August 2, 2026, with [fines up to EUR 15 million or 3% of global turnover](/blog/posts/eu-ai-act-fines-2026/).
+
+ The critical phrase is "sufficiently detailed summary." The regulation d
+
+---
