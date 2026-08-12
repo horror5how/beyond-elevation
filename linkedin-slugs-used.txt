@@ -612,3 +612,4 @@ european-patent-ai-licensing-premium-2026
 gpai-training-data-licensor-play-2026
 data-licensing-model-depreciation-2026
 patent-licensing-financial-model-2026
+ip-cost-of-capital-bridge-round-gap-2026
