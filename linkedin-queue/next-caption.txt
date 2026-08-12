@@ -1,23 +1,17 @@
-Most founders pay 18-24% interest on bridge rounds.
+Your fine-tuned model is not a moat.
 
-Their patent portfolio could fund the same runway at 4-6% effective cost.
+Open-source matched it in 6 months.
 
-Nobody tells them this.
+Every time Meta drops a new Llama release, fine-tuned advantages compress to zero.
 
-IP-backed royalty financing is now available from 6 major lenders across Europe and North America.
+The 3 IP moves protecting AI founders in 2026:
 
-Minimum: $500K. Maximum: $15M. No equity. No personal guarantee.
+1. Exclusive training data agreements. Your dataset is defensible. The model is not.
 
-Three moves to access it:
+2. Process patents. Patent what the AI enables, not the model itself. 73% of model patents fail §101.
 
-1. Formal IP valuation — $5K-$15K, 3 weeks
-2. Clean IP audit trail to present to lenders
-3. Royalty revenue or licensing pipeline as collateral
+3. Prompt trade secrets. Register your engineering stack before the team leaves.
 
-One SaaS founder replaced a $2.8M bridge at 22% with a $3M IP facility at 5.2%.
+Your model is a liability. Your data is an asset.
 
-$470K in interest saved over 18 months.
-
-The capital exists. Most founders never ask.
-
-#IPStrategy #StartupFinance #Founders
+#IPStrategy #AIStartups #DataLicensing
