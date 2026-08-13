@@ -617,3 +617,4 @@ fine-tuned-model-moat-dead-ip-pivot-2026
 three-tier-ip-stack-licensing-2026
 ip-buyer-vs-seller-valuation-gap-2026
 model-collapse-training-data-licensing-2026
+patent-portfolio-three-revenue-streams-2026

@@ -1,17 +1,15 @@
-Most AI companies are quietly training on synthetic data.
+One patent portfolio. Three revenue lines running simultaneously.
 
-They didn't plan to. It leaked in through web scraping.
+Most founders only activate one.
 
-Model collapse: when models train on AI-generated content, performance degrades 15-30%.
+Direct licensing: avg $2.4M/yr per patent family when properly structured.
 
-The fix is clean, human-generated data.
+IP-backed financing: $3–8M non-dilutive capital at 10–14% vs 22%+ equity dilution.
 
-That data is licensed. Premium sources charge $2M+ per year.
+Exit premium: IP-intensive companies exit at 41% higher multiples than peers.
 
-Companies with proprietary non-synthetic training data command a 20-25% valuation premium at Series B.
+You're not running all three. That's a compounding gap.
 
-Your model is not the moat.
+The fix starts with an IP audit that maps which assets unlock which stream.
 
-Your access to clean data is.
-
-#AIStrategy #DataMonetization #IPStrategy
+#IPStrategy #StartupFinance #PatentLicensing
