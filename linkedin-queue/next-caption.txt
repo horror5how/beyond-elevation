@@ -1,17 +1,11 @@
-Qualcomm earns $5.6B a year without making a single chip.
+Your IP is worth 3x less in a deal than your last appraisal.
 
-It doesn't have one IP asset. It has a 3-tier stack.
+IP lawyers value what was filed. Acquirers value what generates revenue.
 
-Tier 1: Patents — the public face. Licensees see these. Courts enforce these.
+Patents sitting unlicensed: priced near zero.
+Patents tied to an active royalty stream: 12x EBITDA.
+Know-how bundled into licensing agreements: full multiple.
 
-Tier 2: Know-how — the hidden lever. The implementation guide your patent doesn't include. The negotiation asset most founders never price.
+The fix is not a better appraisal. It is a licensing program you build 18 months before you sell.
 
-Tier 3: Trade secrets — the moat under the moat. The stuff that dies the moment you disclose it wrong.
-
-Most founders patent at Tier 1 and leave Tier 2 and Tier 3 unmonetized.
-
-Qualcomm doesn't. Ericsson doesn't. Nokia doesn't.
-
-3 assets. 1 stack. $5.6B/year.
-
-#IPStrategy #Licensing #Patents
+#IPStrategy #Valuation #MergersAndAcquisitions
