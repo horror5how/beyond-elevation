@@ -1,11 +1,17 @@
-Your IP is worth 3x less in a deal than your last appraisal.
+Most AI companies are quietly training on synthetic data.
 
-IP lawyers value what was filed. Acquirers value what generates revenue.
+They didn't plan to. It leaked in through web scraping.
 
-Patents sitting unlicensed: priced near zero.
-Patents tied to an active royalty stream: 12x EBITDA.
-Know-how bundled into licensing agreements: full multiple.
+Model collapse: when models train on AI-generated content, performance degrades 15-30%.
 
-The fix is not a better appraisal. It is a licensing program you build 18 months before you sell.
+The fix is clean, human-generated data.
 
-#IPStrategy #Valuation #MergersAndAcquisitions
+That data is licensed. Premium sources charge $2M+ per year.
+
+Companies with proprietary non-synthetic training data command a 20-25% valuation premium at Series B.
+
+Your model is not the moat.
+
+Your access to clean data is.
+
+#AIStrategy #DataMonetization #IPStrategy
