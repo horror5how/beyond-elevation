@@ -6047,3 +6047,23 @@ Most data licensing agreements fail because they are modeled on software license
 Hayat Amin identifies three failure modes in every underperforming data deal. Derivative data rights left unaddressed — the licensee's AI models trained on your data generate revenue you never share in. Refresh obligations treated as optional — stale data becomes worthless while the licensee stops
 
 ---
+
+## Exclusive vs Non-Exclusive Patent License: The Decision That Separates 6-Figure Licensing Programs from 7-Figure Ones
+
+URL: https://beyondelevation.com/blog/posts/exclusive-vs-non-exclusive-patent-license-2026/
+
+One founder signed an exclusive patent license for $800K per year and celebrated. Eighteen months later, Hayat Amin showed them the math: the same portfolio, licensed non-exclusively to five companies, would generate $3.2M annually. The exclusive license was not a win. It was a ceiling.
+
+The exclusive vs non-exclusive patent license decision is the single highest-leverage choice in any licensing program. Get it wrong and you cap your revenue at one buyer's willingness to pay. Get it right and you build a compounding royalty stream that scales with every new licensee at near-zero marginal cost.
+
+Most founders get it wrong.
+
+## Why Do Founders Default to Exclusive Patent Licenses?
+
+Founders default to exclusive patent licenses because exclusivity sounds premium. It is not. Exclusivity is a concession you make to a licensee in exchange for higher per-deal terms, and it permanently caps your upside at what one counterparty will pay. The math almost never works in the licensor's favor.
+
+The psychology is straightforward. A licensee offers $800K per year for exclusive rights and the founder compares that to $0 (no license at all) rather than to what a non-exclusive program would generate across multiple licensees. The comparison is wrong. The correct baseline is total addressable licensing revenue, not zero.
+
+Hayat Amin argues that exclusivity is a seller's concession, not a seller's advantage. "Founders treat an exclusive license like a premium product. It is not. It is a volume c
+
+---
