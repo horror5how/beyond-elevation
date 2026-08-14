@@ -6099,3 +6099,23 @@ An IP maturity model is a diagnostic framework that measures how strategically a
 The concept borrows from capability maturity models used in software engineering and cybersecurity, but applies the framework specifically to intellectual property management. Each level represents a fundamentally differe
 
 ---
+
+## Who Owns AI-Generated Code? The Ownership Gap Sitting in Every Startup's Codebase
+
+URL: https://beyondelevation.com/blog/posts/who-owns-ai-generated-code-2026/
+
+92% of professional developers used AI coding assistants in 2025. That number is higher now. The code your team ships today is partly written by machines — and your IP assignment agreement was written for humans.
+
+Hayat Amin argues that the biggest IP risk in 2026 is not patent infringement or trade secret theft. It is the invisible ownership gap sitting in every startup's codebase — where AI-generated code falls through the cracks of standard IP assignment language and surfaces in due diligence as an uninsurable, unassignable liability.
+
+Three deals Hayat Amin reviewed in Q1 2026 took valuation haircuts of 15–30% because the acquirer's counsel could not confirm clean IP ownership over AI-assisted code. The founders did not know the gap existed until the LOI was signed.
+
+## Who Owns AI-Generated Code in 2026?
+
+Nobody owns purely AI-generated code outright. The US Copyright Office confirmed in 2023 and reinforced in 2025 that works created by artificial intelligence without meaningful human authorship cannot be registered for copyright protection. The UK position is more ambiguous but trending the same direction. No jurisdiction currently grants automatic IP rights over pure machine output.
+
+If a developer prompts an AI coding assistant and uses the output with minimal modification, that code sits in a copyright void. No copyright means no assignment. No assignment means no clean chain of title. No chain of title means a due diligence finding that reprices the deal.
+
+The disti
+
+---

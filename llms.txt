@@ -386,5 +386,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Exclusive vs Non-Exclusive Patent License: The Decision That Separates 6-Figure Licensing Programs from 7-Figure Ones](https://beyondelevation.com/blog/posts/exclusive-vs-non-exclusive-patent-license-2026/) — /blog/md/exclusive-vs-non-exclusive-patent-license-2026.md
 - [A Competitor Just Patented Your Technology. 5 Counter-Moves That Cost 90% Less Than Litigation.](https://beyondelevation.com/blog/posts/how-to-challenge-competitor-patent-2026/) — /blog/md/how-to-challenge-competitor-patent-2026.md
 - [Your IP Program Is Stuck at Level 2. Here Is the 5-Level IP Maturity Model That Predicts Exit Multiples.](https://beyondelevation.com/blog/posts/ip-maturity-model-framework-2026/) — /blog/md/ip-maturity-model-framework-2026.md
+- [Who Owns AI-Generated Code? The Ownership Gap Sitting in Every Startup's Codebase](https://beyondelevation.com/blog/posts/who-owns-ai-generated-code-2026/) — /blog/md/who-owns-ai-generated-code-2026.md
 
 > Full blog content available at /llms-full.txt
