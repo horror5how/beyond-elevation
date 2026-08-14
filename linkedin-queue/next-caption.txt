@@ -1,15 +1,13 @@
-Top-quartile AI companies file 1 patent per 4 engineers.
+The average IP licensing deal takes 9 months from first contact to signed agreement.
 
-Most startups file 0.
+Most founders budget 3.
 
-VCs are now scoring this before they score your ARR.
+Phase 1 (months 1–3): identify and qualify licensees. Most founders skip straight to outreach.
 
-AI-powered diligence tools cross-check your headcount against USPTO filings in seconds.
+Phase 2 (months 4–6): negotiate terms. 60% of deals stall here because the founder never set a walk-away rate.
 
-Zero patents + 40 engineers = "this can be rebuilt."
+Phase 3 (months 7–9): legal review and execution. Budget $15–40K in external counsel.
 
-1 patent per 4 engineers = "there's a moat here."
+The founder who plans this in Q1 closes revenue in Q4. The founder who starts in Q3 is still negotiating at year-end.
 
-The ratio doesn't lie. Your cap table doesn't hide it. Fix it before the next raise.
-
-#IPStrategy #StartupValuation #VentureCapital
+#IPStrategy #PatentLicensing #StartupGrowth
