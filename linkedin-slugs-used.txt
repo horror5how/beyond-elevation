@@ -623,3 +623,4 @@ ip-licensing-deal-timeline-three-phases-2026
 manufacturing-process-patent-equipment-financing-2026
 patent-in-prosecution-capital-2026
 open-data-competitor-training-ip-2026
+rag-ip-strategy-retrieval-augmented-generation-2026
