@@ -387,5 +387,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [A Competitor Just Patented Your Technology. 5 Counter-Moves That Cost 90% Less Than Litigation.](https://beyondelevation.com/blog/posts/how-to-challenge-competitor-patent-2026/) — /blog/md/how-to-challenge-competitor-patent-2026.md
 - [Your IP Program Is Stuck at Level 2. Here Is the 5-Level IP Maturity Model That Predicts Exit Multiples.](https://beyondelevation.com/blog/posts/ip-maturity-model-framework-2026/) — /blog/md/ip-maturity-model-framework-2026.md
 - [Who Owns AI-Generated Code? The Ownership Gap Sitting in Every Startup's Codebase](https://beyondelevation.com/blog/posts/who-owns-ai-generated-code-2026/) — /blog/md/who-owns-ai-generated-code-2026.md
+- [Your Contractor Just Walked Away With Your IP: The 5-Clause Fix That Prevents a $10M Mistake](https://beyondelevation.com/blog/posts/contractor-ip-protection-5-clause-framework-2026/) — /blog/md/contractor-ip-protection-5-clause-framework-2026.md
 
 > Full blog content available at /llms-full.txt

@@ -3,7 +3,7 @@ title: "Your Contractor Just Walked Away With Your IP: The 5-Clause Fix That Pre
 slug: contractor-ip-protection-5-clause-framework-2026
 date: 2026-08-15
 url: https://beyondelevation.com/blog/posts/contractor-ip-protection-5-clause-framework-2026/
-author: Beyond Elevation Team
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,13 +67,27 @@ If your contractors already shipped code, designs, or inventions without valid I
 
 International contractor IP protection requires jurisdiction-specific clauses that account for the default ownership rules in the contractor's country. A single-template approach fails because the legal defaults differ fundamentally across the three largest startup hiring markets.
 
-**United States:** Work-for-hire applies only to employees and nine specific categories of commissioned works (software excluded). Require an explicit present-tense IP assignment clause and a separate invention assignment. Include California Labor Code Section 2870 carve-outs if the contractor is California-based.
+**United States:** Work-for-hire applies only to employees and nine specific categories of commissioned works (software excluded). Require an explicit present-tense IP assignment clause and a separate invention assignment. Include California Labor Code §2870 carve-outs if the contractor is California-based.
 
 **United Kingdom:** The contractor (not the company) owns IP by default under CDPA 1988. The assignment must be in writing, signed by the contractor, and should include a moral rights waiver. Equitable assignment is recognized but statutory assignment is stronger — use both.
 
 **European Union:** Rules vary by member state. Germany's Arbeitnehmererfindungsgesetz gives employees (not contractors) automatic assignment rights; contractors require explicit contracts. France requires specific identification of the IP being assigned. The Netherlands applies the maker's right principle. For each EU contractor, tailor the IP clause to the applicable national law and specify governing jurisdiction.
 
 Hayat Amin's rule for international contractor IP protection is straightforward: "The clause must work in the contractor's jurisdiction, not yours. A US-law IP assignment clause signed by a Berlin-based developer may not be enforceable in Germany. You need local counsel or a multi-jurisdiction framework — not a template from the internet."
+
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-contractor-ip-protection-5-clause-framework-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
 
 ## FAQ
 
@@ -96,3 +110,6 @@ Yes. IP ownership defaults vary significantly by jurisdiction. The UK assigns co
 ### When should a startup conduct a contractor IP audit?
 
 Before every fundraising round, before any M&A process, and ideally within the first 90 days of engaging any contractor who touches core product IP. Beyond Elevation recommends a quarterly contractor IP audit for companies with more than five active contractors. The audit takes 5-10 business days and catches gaps before they become deal-threatening liabilities.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*
