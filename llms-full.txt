@@ -6135,3 +6135,23 @@ Contractor IP protection fails more often than any other IP ownership issue beca
 The scale of this problem is documented. In a 2025 analysis of 312 tech startup IP audits, missing or defective contractor IP assignments appeared in 41% of portfolios. The same study found
 
 ---
+
+## IP Valuation for Fundraising Changed in 2026: 4 Numbers VCs Price Now That They Ignored Last Year
+
+URL: https://beyondelevation.com/blog/posts/ip-valuation-fundraising-4-numbers-2026/
+
+Companies with a structured IP portfolio raised at 25.8x revenue in 2026. Companies without one raised at 18.2x. That is a 41% gap on the same ARR, same market, same team size.
+
+If you raised your last round using a 2024 IP valuation framework, you left money on the table. Hayat Amin argues that IP valuation for fundraising has undergone a structural reset in 2026, and founders who do not update their math will pay the price at their next term sheet.
+
+Here are the four numbers that changed, why they matter, and the exact framework to run before you talk to a single investor.
+
+## What Changed in IP Valuation for Fundraising in 2026?
+
+IP valuation for fundraising shifted because investors flipped their scoring model. Defensibility now outweighs growth rate as the top factor in every major VC valuation framework. A moderate-growth AI startup with strong IP earns a higher multiple than a high-growth one without protection.
+
+Three forces drove the shift. First, open-source AI models commoditized the application layer, so the only durable value sits in patents, proprietary data, and documented trade secrets. Second, IP-backed lending went mainstream, turning patents into collateral that lenders underwrite before they even look at the financial model. Third, the EU AI Act enforcement (GPAI transparency rules live since August 2, 2026) made documented AI governance a measurable valuation premium, not a compliance cost.
+
+The result: IP is no longer a line item investors glance at duri
+
+---
