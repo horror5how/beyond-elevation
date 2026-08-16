@@ -1,20 +1,23 @@
-92% of enterprise AI deployments use RAG.
+Patent licensing just overtook litigation as the preferred exit in 2026.
 
-Fewer than 8% have filed a patent on any pipeline component.
+One fund closed 11 patent deals in 15 months.
 
-Your retrieval layer is live in production.
-Your competitors' lawyers are reading your architecture.
+Not 11 acquisitions.
 
-4 RAG layers most founders never protect:
+Not 11 court settlements.
 
-Layer 1: Ingestion and chunking logic — patentable
-Layer 2: Retrieval and ranking algorithm — patentable
-Layer 3: Context assembly and prompt construction — patentable
-Layer 4: Feedback loop and reranking — trade secret
+11 patent portfolio purchases — at market prices.
 
-Rule: patent what is detectable. Trade-secret what runs server-side.
+There is now a standing institutional bid under your IP.
 
-The team writing "RAG" in their pitch deck owns 0 IP.
-The team mapping 4 layers to legal protection owns the category.
+Recurring royalties compound. Litigation damages are one-time and uncertain.
 
-#AI #IPStrategy #Patents
+The patent licensing market hits $4.4B by 2032 at 7.77% CAGR.
+
+Institutional buyers are building portfolios while founders treat patents as legal overhead.
+
+Your patents are more liquid than you think.
+
+The question is whether you know who is bidding.
+
+#IPStrategy #PatentLicensing #Founders
