@@ -390,5 +390,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Your Contractor Just Walked Away With Your IP: The 5-Clause Fix That Prevents a $10M Mistake](https://beyondelevation.com/blog/posts/contractor-ip-protection-5-clause-framework-2026/) — /blog/md/contractor-ip-protection-5-clause-framework-2026.md
 - [IP Valuation for Fundraising Changed in 2026: 4 Numbers VCs Price Now That They Ignored Last Year](https://beyondelevation.com/blog/posts/ip-valuation-fundraising-4-numbers-2026/) — /blog/md/ip-valuation-fundraising-4-numbers-2026.md
 - [7 AI Tool Policies That Protect Your Trade Secrets After the 2026 Court Rulings](https://beyondelevation.com/blog/posts/ai-tool-trade-secret-policy-7-rules-2026/) — /blog/md/ai-tool-trade-secret-policy-7-rules-2026.md
+- [Defensive Publication vs Patent Filing: The $0 IP Move That Blocks Competitors From Patenting Your Invention](https://beyondelevation.com/blog/posts/defensive-publication-vs-patent-filing-2026/) — /blog/md/defensive-publication-vs-patent-filing-2026.md
 
 > Full blog content available at /llms-full.txt
