@@ -1,14 +1,23 @@
-84% of software company value sits in trade secrets.
-Most founders have never collected a dollar from them.
+The EU AI Act GPAI enforcement went live August 2.
 
-Not because the asset isn't valuable.
+Two weeks in, the pattern is clear:
 
-Because they don't know how to license what they haven't patented.
+Companies with training data licenses are protected.
 
-Trade secret royalties are real, enforceable, and recurring.
-The average agreement runs 3–5 years.
-First payment typically arrives within 90 days of signing.
+Companies relying on "legitimate interest" are getting notices.
 
-Your unpatented know-how is a revenue line you haven't opened yet.
+The difference is one contract.
 
-#IPStrategy #Licensing #FounderFinance
+92 GPAI providers now need documented training data provenance.
+
+"Crawled from the internet" is not compliance.
+
+The ones who pre-negotiated data licenses in Q1 are now re-licensing that data to GPAI providers at 10x the rate.
+
+They didn't plan for compliance. They planned for leverage.
+
+Most founders think data licensing is a future problem.
+
+It is today's revenue line.
+
+#IPstrategy #AI #EUAIAct
