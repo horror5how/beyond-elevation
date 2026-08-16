@@ -392,5 +392,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [7 AI Tool Policies That Protect Your Trade Secrets After the 2026 Court Rulings](https://beyondelevation.com/blog/posts/ai-tool-trade-secret-policy-7-rules-2026/) — /blog/md/ai-tool-trade-secret-policy-7-rules-2026.md
 - [Defensive Publication vs Patent Filing: The $0 IP Move That Blocks Competitors From Patenting Your Invention](https://beyondelevation.com/blog/posts/defensive-publication-vs-patent-filing-2026/) — /blog/md/defensive-publication-vs-patent-filing-2026.md
 - [Patent Licensing Revenue Forecast: The 5-Step Model That Turns Dormant IP Into a Fundable Revenue Line](https://beyondelevation.com/blog/posts/patent-licensing-revenue-forecast-investor-deck-2026/) — /blog/md/patent-licensing-revenue-forecast-investor-deck-2026.md
+- [IP Negotiation in M&A: The 7 Leverage Points That Add Millions to Your Exit Price](https://beyondelevation.com/blog/posts/ip-negotiation-ma-7-leverage-points-exit-2026/) — /blog/md/ip-negotiation-ma-7-leverage-points-exit-2026.md
 
 > Full blog content available at /llms-full.txt
