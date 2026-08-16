@@ -625,3 +625,4 @@ patent-in-prosecution-capital-2026
 open-data-competitor-training-ip-2026
 rag-ip-strategy-retrieval-augmented-generation-2026
 patent-portfolio-standing-bid-institutional-2026
+trade-secret-royalties-uncollected-2026
