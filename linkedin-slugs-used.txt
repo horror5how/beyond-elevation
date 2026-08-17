@@ -627,3 +627,4 @@ rag-ip-strategy-retrieval-augmented-generation-2026
 patent-portfolio-standing-bid-institutional-2026
 trade-secret-royalties-uncollected-2026
 gpai-enforcement-two-weeks-data-licensing-2026
+data-monetisation-audit-six-revenue-lines-2026

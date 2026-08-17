@@ -1,23 +1,13 @@
-The EU AI Act GPAI enforcement went live August 2.
+Your proprietary dataset has 6 revenue lines. Most founders run exactly 0.
 
-Two weeks in, the pattern is clear:
+Reddit charges Google $60M/year for text they already had.
 
-Companies with training data licenses are protected.
+AI labs pay $200K+ for domain-specific training data generated as a byproduct.
 
-Companies relying on "legitimate interest" are getting notices.
+White-label buyers pay $50K per vertical for cleaned, structured datasets.
 
-The difference is one contract.
+Three revenue lines. One asset you already own. Zero new products required.
 
-92 GPAI providers now need documented training data provenance.
+The only thing missing: a licensing clause and a minimum guarantee.
 
-"Crawled from the internet" is not compliance.
-
-The ones who pre-negotiated data licenses in Q1 are now re-licensing that data to GPAI providers at 10x the rate.
-
-They didn't plan for compliance. They planned for leverage.
-
-Most founders think data licensing is a future problem.
-
-It is today's revenue line.
-
-#IPstrategy #AI #EUAIAct
+#DataMonetisation #IPStrategy #FounderFinance
