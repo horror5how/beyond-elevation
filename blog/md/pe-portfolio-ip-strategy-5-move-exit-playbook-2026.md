@@ -2,8 +2,8 @@
 title: "The 5-Move IP Strategy That Adds 20-40% to PE Portfolio Company Exit Multiples"
 slug: pe-portfolio-ip-strategy-5-move-exit-playbook-2026
 date: 2026-08-17
-url: https://beyondelevation.com/blog/post.html?slug=pe-portfolio-ip-strategy-5-move-exit-playbook-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/pe-portfolio-ip-strategy-5-move-exit-playbook-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -77,6 +77,20 @@ PE firms that wait until the exit process to address IP face two problems. First
 
 [Beyond Elevation](https://beyondelevation.com) works with PE operating partners to embed IP strategy into the value creation plan from day one. The 5-move playbook runs alongside existing operational improvements — not in place of them — and the ROI typically exceeds every other value creation lever in the PE toolkit. Contact Beyond Elevation for a portfolio IP assessment.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-pe-portfolio-ip-strategy-5-move-exit-playbook-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How much does an IP audit cost for a PE portfolio company?
@@ -94,3 +108,6 @@ Beyond patent counts, PE firms should evaluate trade secret documentation, data 
 ### How does IP holdco consolidation work after multiple acquisitions?
 
 IP holdco consolidation transfers all patents, trademarks, and trade secrets from individual operating entities into a single holding company. The holdco licenses IP back to operating companies at arm's-length royalty rates, creating tax-efficient income flows and simplifying the IP schedule for exit due diligence.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -6259,3 +6259,19 @@ Companies with patents are [10.2x more likely to secure early-stage funding](htt
 Distilling a foundation model creates a new set of weights, but whether those weights qualify as independently owned IP depends on the source license, the training process, and the provider's terms of service. The legal default in most jurisdictions treats derivative works as inheriting the restrictions of the original
 
 ---
+
+## The 5-Move IP Strategy That Adds 20-40% to PE Portfolio Company Exit Multiples
+
+URL: https://beyondelevation.com/blog/posts/pe-portfolio-ip-strategy-5-move-exit-playbook-2026/
+
+Private equity firms run the most disciplined value creation playbooks in finance — margin expansion, add-on acquisitions, management upgrades, revenue acceleration. But IP strategy for private equity portfolio companies remains the biggest operational blind spot in the industry. Hayat Amin argues that the average PE portfolio company sits on 20-40% of unrealized exit value locked inside patents, trade secrets, and data assets that nobody has mapped, structured, or monetized.
+
+The numbers confirm it. Companies with structured IP portfolios exit at 2.1x higher multiples than comparable companies without IP protection. Yet most PE operating partners treat intellectual property as a legal line item — something the portfolio company's counsel handles — rather than a value creation lever with the same ROI potential as a bolt-on acquisition.
+
+## Why Do PE Firms Ignore IP Strategy for Portfolio Companies?
+
+IP strategy for private equity portfolio companies falls between two functions and gets owned by neither. Legal sees IP as protection. Operations sees it as irrelevant to EBITDA. The result is a 3-5 year hold period where patents go unfiled, trade secrets go undocumented, data assets go unvalued, and licensing revenue stays at zero — a structural gap that costs millions at exit.
+
+The root cause is operational. PE value creation playbooks are built around financial and operational levers — pricing optimization, sales force effectiveness, procurement savings, technology modernizatio
+
+---
