@@ -1,13 +1,23 @@
-Your proprietary dataset has 6 revenue lines. Most founders run exactly 0.
+A 5-patent AI company should generate $600K–$1.2M a year in licensing revenue.
 
-Reddit charges Google $60M/year for text they already had.
+Most generate $0.
 
-AI labs pay $200K+ for domain-specific training data generated as a byproduct.
+At a 5x exit multiple, that gap costs $3M–$6M from your final number.
 
-White-label buyers pay $50K per vertical for cleaned, structured datasets.
+The ones that close it don't have better lawyers.
 
-Three revenue lines. One asset you already own. Zero new products required.
+They have a licensing model before they have licensees.
 
-The only thing missing: a licensing clause and a minimum guarantee.
+Three things they did differently:
 
-#DataMonetisation #IPStrategy #FounderFinance
+Priced the licence before anyone asked.
+
+Built their target list from patent claims — not their customer list.
+
+Structured the first deal as a repeatable template.
+
+The ones still at $0 are waiting for inbound.
+
+The ones at $1M/year went looking.
+
+#Patents #Licensing #IPStrategy
