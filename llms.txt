@@ -393,5 +393,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Defensive Publication vs Patent Filing: The $0 IP Move That Blocks Competitors From Patenting Your Invention](https://beyondelevation.com/blog/posts/defensive-publication-vs-patent-filing-2026/) — /blog/md/defensive-publication-vs-patent-filing-2026.md
 - [Patent Licensing Revenue Forecast: The 5-Step Model That Turns Dormant IP Into a Fundable Revenue Line](https://beyondelevation.com/blog/posts/patent-licensing-revenue-forecast-investor-deck-2026/) — /blog/md/patent-licensing-revenue-forecast-investor-deck-2026.md
 - [IP Negotiation in M&A: The 7 Leverage Points That Add Millions to Your Exit Price](https://beyondelevation.com/blog/posts/ip-negotiation-ma-7-leverage-points-exit-2026/) — /blog/md/ip-negotiation-ma-7-leverage-points-exit-2026.md
+- [Patent Litigation Funding: How Founders Enforce Million-Dollar Patents for $0 Upfront](https://beyondelevation.com/blog/posts/patent-litigation-funding-startup-guide-2026/) — /blog/md/patent-litigation-funding-startup-guide-2026.md
 
 > Full blog content available at /llms-full.txt
