@@ -1,23 +1,19 @@
-A 5-patent AI company should generate $600K–$1.2M a year in licensing revenue.
+Most AI companies spent 18 months building an explainability layer. None of them patented it.
 
-Most generate $0.
+The EU AI Act covers 47 high-risk system categories. All of them require explainability.
 
-At a 5x exit multiple, that gap costs $3M–$6M from your final number.
+That requirement just turned your engineering overhead into a licensing asset.
 
-The ones that close it don't have better lawyers.
+Your XAI method answers one specific question: why did the model decide this.
 
-They have a licensing model before they have licensees.
+The answer is protectable. The patent takes 27 months to grant.
 
-Three things they did differently:
+Most founders file after a competitor does.
 
-Priced the licence before anyone asked.
+A healthcare AI company earning $2M in licensing revenue is not licensing the model.
 
-Built their target list from patent claims — not their customer list.
+It is licensing the explanation engine they built three years ago.
 
-Structured the first deal as a repeatable template.
+Start the clock now.
 
-The ones still at $0 are waiting for inbound.
-
-The ones at $1M/year went looking.
-
-#Patents #Licensing #IPStrategy
+#AIPatents #EUAIAct #IPStrategy

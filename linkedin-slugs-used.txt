@@ -629,3 +629,4 @@ trade-secret-royalties-uncollected-2026
 gpai-enforcement-two-weeks-data-licensing-2026
 data-monetisation-audit-six-revenue-lines-2026
 patent-licensing-annual-revenue-gap-2026
+ai-explainability-ip-asset-eu-2026
