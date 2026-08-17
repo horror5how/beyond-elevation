@@ -2,8 +2,8 @@
 title: "AI Model Distillation IP Ownership: You Built It, You Trained It, and You Might Not Own It"
 slug: ai-model-distillation-ip-ownership-2026
 date: 2026-08-17
-url: https://beyondelevation.com/blog/post.html?slug=ai-model-distillation-ip-ownership-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/ai-model-distillation-ip-ownership-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -71,6 +71,20 @@ Hayat Amin showed one AI startup that a $25,000 audit caught a ToS violation tha
 
 Beyond Elevation runs distillation IP audits for AI companies from pre-seed through acquisition. The audit follows Hayat Amin's Clean Distillation Protocol and produces an investor-ready provenance report that converts the model from a red-flag asset into a verified one.
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-ai-model-distillation-ip-ownership-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### Can I distill an open-weight AI model without IP risk?
@@ -92,3 +106,6 @@ Document the full provenance chain from source model through distilled output. S
 ### Does the EU AI Act affect AI model distillation IP ownership?
 
 The EU AI Act requires GPAI providers to document training data provenance, creating additional disclosure obligations for distilled models that qualify as general-purpose AI. US law relies primarily on contract terms and trade secret protection. In both jurisdictions, the clean distillation license remains the critical document for establishing ownership.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

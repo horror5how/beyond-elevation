@@ -6243,3 +6243,19 @@ Patent litigation funding is a financial arrangement where a third-party funder 
 The model originated in Australia in the 1990s, moved to the UK, and scaled rapidly in the US after courts confirmed its legality. The global
 
 ---
+
+## AI Model Distillation IP Ownership: You Built It, You Trained It, and You Might Not Own It
+
+URL: https://beyondelevation.com/blog/posts/ai-model-distillation-ip-ownership-2026/
+
+Distillation is the default architecture play for every AI product company shipping in 2026. Compress a large foundation model into a smaller, faster, cheaper model tuned to your vertical. The problem: AI model distillation IP ownership is governed by three clauses buried in your provider's terms of service, and those clauses say the model you spent $2M building might not be yours.
+
+Hayat Amin argues this is the single largest unpriced IP risk in the AI stack right now. "A founder will spend eighteen months and seven figures distilling GPT-4 outputs into a production model," Hayat Amin says. "Then a single ToS audit during Series B due diligence reveals the provider treats those distilled weights as a derivative work. The entire asset goes to zero on the cap table."
+
+Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com). But a patent on a model you do not legally own is a liability, not an asset. AI model distillation IP ownership is the gap [Beyond Elevation](https://beyondelevation.com) flags in more AI company audits than any other single issue.
+
+## Does Distilling a Foundation Model Create New IP You Own?
+
+Distilling a foundation model creates a new set of weights, but whether those weights qualify as independently owned IP depends on the source license, the training process, and the provider's terms of service. The legal default in most jurisdictions treats derivative works as inheriting the restrictions of the original
+
+---
