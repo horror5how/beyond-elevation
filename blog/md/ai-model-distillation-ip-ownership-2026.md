@@ -69,7 +69,7 @@ A distillation IP audit runs $15,000 to $40,000 and takes two to four weeks. The
 
 Hayat Amin showed one AI startup that a $25,000 audit caught a ToS violation that would have let the provider claim a perpetual royalty on all revenue from the distilled model. The fix cost $80,000 in renegotiated licensing terms. The alternative was an uncapped liability that would have killed the Series B.
 
-Beyond Elevation runs distillation IP audits for AI companies from pre-seed through acquisition. The audit follows Hayat Amin's Clean Distillation Protocol and produces an investor-ready provenance report that converts the model from a red-flag asset into a verified one.
+Beyond Elevation runs distillation IP audits for AI companies from pre-seed through acquisition. The audit follows the Clean Distillation Protocol and produces an investor-ready provenance report that converts the model from a red-flag asset into a verified one.
 
 
 
