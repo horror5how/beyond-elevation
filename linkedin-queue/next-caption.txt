@@ -1,19 +1,13 @@
-Most AI companies spent 18 months building an explainability layer. None of them patented it.
+Most CEOs treat IP as a legal cost centre.
 
-The EU AI Act covers 47 high-risk system categories. All of them require explainability.
+Qualcomm earns $5.6B a year from patents and makes zero chips.
 
-That requirement just turned your engineering overhead into a licensing asset.
+IBM clears $1.5B in royalties annually — no new products required.
 
-Your XAI method answers one specific question: why did the model decide this.
+3M holds 60,000 patents generating $3.2B in recurring licensing revenue.
 
-The answer is protectable. The patent takes 27 months to grant.
+Your patent portfolio is not a defensive shield.
 
-Most founders file after a competitor does.
+It is a revenue line you have never turned on.
 
-A healthcare AI company earning $2M in licensing revenue is not licensing the model.
-
-It is licensing the explanation engine they built three years ago.
-
-Start the clock now.
-
-#AIPatents #EUAIAct #IPStrategy
+#IPStrategy #Licensing #CEOPlaybook
