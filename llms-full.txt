@@ -6275,3 +6275,19 @@ IP strategy for private equity portfolio companies falls between two functions a
 The root cause is operational. PE value creation playbooks are built around financial and operational levers — pricing optimization, sales force effectiveness, procurement savings, technology modernizatio
 
 ---
+
+## One Patent Filing, Seven Enforceable Patents: The Continuation Strategy Most Founders Never Learn
+
+URL: https://beyondelevation.com/blog/posts/patent-continuation-strategy-founders-2026/
+
+83% of startup patent portfolios contain exactly one patent — a single filing that covers one narrow slice of the founder's innovation. Meanwhile, the companies that dominate licensing negotiations and command acquisition premiums hold 5 to 15 patents, most of which trace back to the same original invention. The difference is not more R&D. It is a patent continuation strategy.
+
+Hayat Amin argues this is the most underused tool in startup IP: the ability to file multiple patents from a single invention disclosure, each covering a different commercial angle of the same technology. Founders who understand continuation strategy build enforceable portfolios at a fraction of what competitors spend on separate invention disclosures.
+
+The math is direct. One parent application costs $15K–$25K. Each continuation costs $8K–$12K because the specification is already written. A seven-patent portfolio built through continuations costs $60K–$85K. Filing seven independent patents from scratch costs $105K–$175K. Same coverage, 40–50% less spend.
+
+## What Is a Patent Continuation Strategy?
+
+A patent continuation strategy is the deliberate practice of filing follow-on patent applications that claim priority back to an original parent application, each targeting different claims while sharing the same specification and priority date. This is the primary mechanism patent-savvy companies use to expand a single invention into a portfolio that covers multiple commercial angles, product generations, 
+
+---
