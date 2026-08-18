@@ -397,5 +397,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [AI Model Distillation IP Ownership: You Built It, You Trained It, and You Might Not Own It](https://beyondelevation.com/blog/posts/ai-model-distillation-ip-ownership-2026/) — /blog/md/ai-model-distillation-ip-ownership-2026.md
 - [The 5-Move IP Strategy That Adds 20-40% to PE Portfolio Company Exit Multiples](https://beyondelevation.com/blog/posts/pe-portfolio-ip-strategy-5-move-exit-playbook-2026/) — /blog/md/pe-portfolio-ip-strategy-5-move-exit-playbook-2026.md
 - [One Patent Filing, Seven Enforceable Patents: The Continuation Strategy Most Founders Never Learn](https://beyondelevation.com/blog/posts/patent-continuation-strategy-founders-2026/) — /blog/md/patent-continuation-strategy-founders-2026.md
+- [How to Measure IP ROI: The 4-Number Framework That Separates Revenue-Ready Patents From Expensive Paper](https://beyondelevation.com/blog/posts/ip-roi-patent-portfolio-measurement-framework-2026/) — /blog/md/ip-roi-patent-portfolio-measurement-framework-2026.md
 
 > Full blog content available at /llms-full.txt

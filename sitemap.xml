@@ -152,6 +152,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://beyondelevation.com/blog/posts/ip-roi-patent-portfolio-measurement-framework-2026/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://beyondelevation.com/assets/og-image.jpg</image:loc>
+      <image:title>How to Measure IP ROI: The 4-Number Framework That Separates Revenue-Ready Patents From Expensive Paper</image:title>
+      <image:caption>How to Measure IP ROI: The 4-Number Framework That Separates Revenue-Ready Patents From Expensive Paper — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
+      <image:license>https://beyondelevation.com/blog/posts/ip-roi-patent-portfolio-measurement-framework-2026/</image:license>
+    </image:image>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/blog/posts/patent-litigation-funding-startup-guide-2026/</loc>
     <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -4314,11 +4326,5 @@
       <image:caption>How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For — IP strategy insights from Beyond Elevation by Hayat Amin</image:caption>
       <image:license>https://beyondelevation.com/blog/posts/ai-company-valuations-ip-role/</image:license>
     </image:image>
-  </url>
-  <url>
-    <loc>https://beyondelevation.com/blog/posts/ip-roi-patent-portfolio-measurement-framework-2026/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
