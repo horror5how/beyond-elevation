@@ -1,15 +1,13 @@
-AI training cost fell 99.9% in 36 months. Your licensing rate didn't move.
+94% of companies holding IP collect $0 in royalties.
 
-GPT-3 cost $4.6M to train in 2020.
+They own the asset. They never built the income line.
 
-An equivalent model costs under $200K today.
+Qualcomm: $5.6B/year. Arm: $2.7B/year. Pure licensing margin: 70-80%.
 
-The model depreciates. The licence does not.
+No factories. No sales teams. No inventory.
 
-Every month you delay, the rate floor you can credibly demand drops.
+One licensing deal replaces a bridge round without diluting a single share.
 
-Companies that lock in licensing deals before commodity parity closes the window earn 3-5x the revenue of those who wait 18 months.
+Your acquirer already knows your royalty rate. The question is whether you do.
 
-The arbitrage is not in the model. It is in the IP locked on top of it.
-
-#AI #IPStrategy #Licensing
+#IPStrategy #Licensing #FounderFinance
