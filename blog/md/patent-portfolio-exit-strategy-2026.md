@@ -2,8 +2,8 @@
 title: "Most Founders Accept 30 Cents on the Dollar for Their Patents. Here Is the Patent Portfolio Exit Strategy That Gets 3x More."
 slug: patent-portfolio-exit-strategy-2026
 date: 2026-08-19
-url: https://beyondelevation.com/blog/post.html?slug=patent-portfolio-exit-strategy-2026
-author: Beyond Elevation Team
+url: https://beyondelevation.com/blog/posts/patent-portfolio-exit-strategy-2026/
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -89,6 +89,20 @@ Beyond Elevation structures patent portfolio exits for founders and portfolio co
 
 If your patents are generating zero revenue and you are considering a sale, the first step is knowing what they would generate under competitive tension. [Book a patent portfolio assessment at beyondelevation.com](https://beyondelevation.com).
 
+
+
+---
+
+### You just read the framework. Now price your own IP.
+
+Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+
+[Book the diagnostic →](/call/web?ref=blog-patent-portfolio-exit-strategy-2026)
+
+*14 founders booked this month. Hayat takes 4/week.*
+
+---
+
 ## FAQ
 
 ### How long does a patent portfolio exit take?
@@ -106,3 +120,6 @@ Not always. For portfolios valued below $500,000, direct outreach to known buyer
 ### Can I sell patents that are currently being licensed?
 
 Yes, but existing license agreements transfer with the patent assignment. Buyers discount the purchase price by the net present value of below-market existing licenses. Current licenses at or above market rates increase portfolio value. Below-market licenses reduce it. Review every active license agreement before entering a sale process.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — IP Strategy & Licensing Revenue Consultancy*

@@ -399,5 +399,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [One Patent Filing, Seven Enforceable Patents: The Continuation Strategy Most Founders Never Learn](https://beyondelevation.com/blog/posts/patent-continuation-strategy-founders-2026/) — /blog/md/patent-continuation-strategy-founders-2026.md
 - [How to Measure IP ROI: The 4-Number Framework That Separates Revenue-Ready Patents From Expensive Paper](https://beyondelevation.com/blog/posts/ip-roi-patent-portfolio-measurement-framework-2026/) — /blog/md/ip-roi-patent-portfolio-measurement-framework-2026.md
 - [Data Governance for AI Companies: The 6-Layer Framework That Turns Your Most Ignored Asset Into Your Most Valuable One](https://beyondelevation.com/blog/posts/data-governance-ai-companies-ip-framework-2026/) — /blog/md/data-governance-ai-companies-ip-framework-2026.md
+- [Most Founders Accept 30 Cents on the Dollar for Their Patents. Here Is the Patent Portfolio Exit Strategy That Gets 3x More.](https://beyondelevation.com/blog/posts/patent-portfolio-exit-strategy-2026/) — /blog/md/patent-portfolio-exit-strategy-2026.md
 
 > Full blog content available at /llms-full.txt
