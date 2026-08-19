@@ -1,19 +1,15 @@
-Your board has zero IP governance.
-That's not a legal oversight. That's a valuation problem.
+AI training cost fell 99.9% in 36 months. Your licensing rate didn't move.
 
-83% of enterprise value is intangible.
+GPT-3 cost $4.6M to train in 2020.
 
-The average board spends 0 minutes per quarter on IP.
+An equivalent model costs under $200K today.
 
-5 KPIs your board should track instead:
-— Patent coverage ratio
-— IP revenue contribution %
-— IP maintenance efficiency
-— Competitive IP gap score
-— Exit-readiness index
+The model depreciates. The licence does not.
 
-None on your board dashboard?
+Every month you delay, the rate floor you can credibly demand drops.
 
-You're governing the wrong 17%.
+Companies that lock in licensing deals before commodity parity closes the window earn 3-5x the revenue of those who wait 18 months.
 
-#IP #IntellectualProperty #Startups
+The arbitrage is not in the model. It is in the IP locked on top of it.
+
+#AI #IPStrategy #Licensing
