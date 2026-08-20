@@ -638,3 +638,4 @@ ai-training-cost-collapse-licensing-lock-2026
 royalty-income-zero-revenue-gap-2026
 ip-q4-ma-window-9-weeks-2026
 ai-series-b-patent-diligence-2026
+ai-api-commodity-ip-layer-2026

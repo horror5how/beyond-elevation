@@ -1,17 +1,21 @@
-1 in 3 AI companies at Series B now face patent diligence as a primary criterion.
+APIs are free. Models are free. The AI commodity era arrived.
 
-In 2023 that number was 1 in 10.
+Most founders celebrated. The smart ones got scared.
 
-VCs aren't asking "do you have patents?"
+$0.15 per million tokens for GPT-4-level capability.
 
-They're asking for your licensing thesis.
+Every AI product built on rented infrastructure is exposed.
 
-Your answer determines your exit multiple.
+Three things still can't be commoditized:
 
-Most founders have neither patents nor a thesis.
+Proprietary data with contractual licensing rights
 
-The window to fix this is 18 months before your next raise.
+Documented methodology protected as know-how
 
-Start now.
+Patent claims on the novel workflow — not the model
 
-#IPStrategy #SeriesB #AIStartups
+Companies with IP around the workflow layer trade at 2-3x premium vs pure API wrappers.
+
+The window to file is closing. Prior art accumulates daily.
+
+#IPStrategy #AI #Licensing
