@@ -6379,3 +6379,17 @@ A design patent protects the ornamental appearance of a functional article — t
 The protection lasts 15 years from the grant date with zero maintenance fees. Utility patents require three separate maintenance payments totaling $12,000 to $15,000 over their 20-year 
 
 ---
+
+## Your Joint Development Deal Just Gave Away Your Best Patent. Here Is the 5-Clause Fix.
+
+URL: https://beyondelevation.com/blog/posts/joint-development-agreement-ip-protection-2026/
+
+72% of joint development agreements hand your most valuable IP to your partner by default. Not because the partner negotiated for it — because the founder's lawyer used a template that assigns all foreground IP to the party with the larger R&D budget. Hayat Amin, who has restructured joint development agreement IP protection terms across deals collectively worth nine figures, argues that the standard JDA your law firm pulls from its precedent bank was written for Fortune 500 partnerships where both sides have IP counsel reviewing every clause. Founders signing their first JDA get the same template — and the same default ownership rules — without the army of lawyers to catch the traps.
+
+The result is predictable. The startup contributes the core innovation. The corporate partner contributes resources, data, and market access. And the JDA assigns ownership of everything created during the project to the partner, because the template's foreground IP clause defaults to the party funding the majority of development costs. This is the single most common way founders lose patents they built — not through theft, but through contract terms they never read.
+
+## What Is Joint Development Agreement IP Protection and Why Does It Matter?
+
+Joint development agreement IP protection is the set of contractual clauses that determine who owns, licenses, and controls intellectual property created during a collaborative R&D project between two or more parties. Without explicit terms, most jurisdic
+
+---

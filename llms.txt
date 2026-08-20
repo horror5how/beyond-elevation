@@ -402,5 +402,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Most Founders Accept 30 Cents on the Dollar for Their Patents. Here Is the Patent Portfolio Exit Strategy That Gets 3x More.](https://beyondelevation.com/blog/posts/patent-portfolio-exit-strategy-2026/) — /blog/md/patent-portfolio-exit-strategy-2026.md
 - [AI Safety IP Strategy: The $12 Billion Patent Blind Spot Most AI Founders Miss](https://beyondelevation.com/blog/posts/ai-safety-alignment-ip-strategy-2026/) — /blog/md/ai-safety-alignment-ip-strategy-2026.md
 - [Design Patents Are the Fastest IP Win Most Tech Founders Ignore: The 2026 Strategy Guide](https://beyondelevation.com/blog/posts/design-patent-strategy-tech-startups-2026/) — /blog/md/design-patent-strategy-tech-startups-2026.md
+- [Your Joint Development Deal Just Gave Away Your Best Patent. Here Is the 5-Clause Fix.](https://beyondelevation.com/blog/posts/joint-development-agreement-ip-protection-2026/) — /blog/md/joint-development-agreement-ip-protection-2026.md
 
 > Full blog content available at /llms-full.txt
