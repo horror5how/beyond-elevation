@@ -6415,3 +6415,23 @@ The lazy answer is that skill equals knowledge. Everything written down is prior
 "Though books have knowledge, this isn't the equivalent of skill. I can read a LOT of weight lifting books and still not be an Olympic ath
 
 ---
+
+## You Signed an Uncapped IP Indemnity to Close That Enterprise Deal. Here Is What AI Vendor IP Indemnification Costs You at Exit.
+
+URL: https://beyondelevation.com/blog/posts/ai-vendor-ip-indemnification-cap-2026/
+
+The most expensive clause in your company is one your sales team signed to close a logo.
+
+AI vendor IP indemnification is the promise you make to an enterprise customer that you will pay their legal fees, their damages and their settlement if your model, your training data or your outputs infringe someone else's intellectual property. Almost every enterprise master services agreement carves that promise out of the general liability cap. That means it is unlimited.
+
+Hayat Amin says it without softening: the clause that wins your biggest customer is the same clause that reprices your company in diligence eighteen months later. Beyond Elevation runs into it on nearly every sell-side IP review, and by then the contracts are already signed.
+
+Here is what the clause does, what it costs, and how to cap it without losing the deal.
+
+## What Is AI Vendor IP Indemnification and What Did You Actually Promise?
+
+AI vendor IP indemnification is a contractual obligation to defend and reimburse your customer for any third party IP claim arising from their use of your product. It covers patents, copyright, trade secrets and, increasingly, training data provenance. In most enterprise agreements it sits outside the liability cap, so a $180,000 annual contract can carry unlimited exposure.
+
+Read your own MSA. The general limitation of liability clause almost certainly says something like "in no event shall liability exceed fees paid in the preceding twelve months." Then read the exclusions. IP in
+
+---
