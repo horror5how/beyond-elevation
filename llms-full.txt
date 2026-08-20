@@ -6393,3 +6393,25 @@ The result is predictable. The startup contributes the core innovation. The corp
 Joint development agreement IP protection is the set of contractual clauses that determine who owns, licenses, and controls intellectual property created during a collaborative R&D project between two or more parties. Without explicit terms, most jurisdic
 
 ---
+
+## AI Is Raising the Bar for What Counts as Obvious. That Changes What Your Patents Are Worth
+
+URL: https://beyondelevation.com/blog/posts/ai-obviousness-bar-problem-recognition-2026/
+
+I wrote to Jordana Goodman a few days ago. She teaches intellectual property law at Illinois Tech and her research is on inventorship, meaning who actually ends up named on a patent and who gets written out. I asked her a question I have not been able to answer on my own. If AI hands every company the same build capability, what is left to compete on.
+
+Her answer came back on 19 August and it reframed the question better than anything I have read this year. It is worth walking through slowly, because there is a valuation consequence at the end of it that almost nobody is pricing yet.
+
+## The test every patent has to pass
+
+To get a patent, an invention has to be non-obvious to what the law calls a person having ordinary skill in the art. Lawyers shorten it to PHOSITA. It is an imaginary competent professional in your field, and the whole system hangs off them. If your invention would have been obvious to that person, you get nothing.
+
+So the question that decides whether your filing survives is a strange one. What does ordinary skill actually mean.
+
+## Knowledge is not skill
+
+The lazy answer is that skill equals knowledge. Everything written down is prior art, so the sum of the published record is what our imaginary professional knows. Goodman pushes back on that, and her line for why is the best explanation of the difference I have heard:
+
+"Though books have knowledge, this isn't the equivalent of skill. I can read a LOT of weight lifting books and still not be an Olympic ath
+
+---
