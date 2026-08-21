@@ -31,7 +31,7 @@ Hayat Amin's view is blunt: "A patent attorney who drafts claims without modelin
 
 The commercial consequences are direct. A single invalidated patent can collapse a [licensing revenue model](/blog/posts/patent-licensing-revenue-model/) overnight. An IPR filed during due diligence can crater a fundraise or acquisition premium. And the cost of defending — $200K to $500K per proceeding — drains the exact capital a growth-stage company needs elsewhere.
 
-## Hayat Amin's PTAB Survival Architecture: The 5-Move Inter Partes Review Defense
+## The PTAB Survival Architecture: 5 Moves That Build Inter Partes Review Defense Into Your Portfolio
 
 The PTAB Survival Architecture is the inter partes review defense strategy Hayat Amin developed after analyzing hundreds of IPR outcomes. It comprises five structural moves, each implemented during patent prosecution — not after a petition lands. Beyond Elevation applies this architecture to every new portfolio engagement.
 
