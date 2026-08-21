@@ -641,3 +641,4 @@ ai-series-b-patent-diligence-2026
 ai-api-commodity-ip-layer-2026
 ip-licensing-irr-beats-venture-debt-2026
 upc-unified-patent-court-licensing-tool-2026
+ai-training-data-value-floor-2026
