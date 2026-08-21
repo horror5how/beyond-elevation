@@ -1,21 +1,15 @@
-APIs are free. Models are free. The AI commodity era arrived.
+Venture debt costs 14-16% annually.
 
-Most founders celebrated. The smart ones got scared.
+Patent royalty portfolios yield 14-22%.
 
-$0.15 per million tokens for GPT-4-level capability.
+Most founders borrow money at the same rate their IP could earn.
 
-Every AI product built on rented infrastructure is exposed.
+The math nobody shows you:
+A 5-patent AI portfolio earning $600K/year in royalties = $7.2M in PE-valued assets.
+A venture debt term on the same collateral: $2M at 15%.
 
-Three things still can't be commoditized:
+One line costs you. One line pays you.
 
-Proprietary data with contractual licensing rights
+Most founders only built the first one.
 
-Documented methodology protected as know-how
-
-Patent claims on the novel workflow — not the model
-
-Companies with IP around the workflow layer trade at 2-3x premium vs pure API wrappers.
-
-The window to file is closing. Prior art accumulates daily.
-
-#IPStrategy #AI #Licensing
+#IPStrategy #PatentLicensing #Fundraising
