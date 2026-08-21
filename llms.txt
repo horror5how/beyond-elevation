@@ -407,5 +407,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [You Signed an Uncapped IP Indemnity to Close That Enterprise Deal. Here Is What AI Vendor IP Indemnification Costs You at Exit.](https://beyondelevation.com/blog/posts/ai-vendor-ip-indemnification-cap-2026/) — /blog/md/ai-vendor-ip-indemnification-cap-2026.md
 - [No Claim Chart, No Revenue: The 5-Step Evidence-of-Use Process That Turns Dead Patents Into Licensing Deals](https://beyondelevation.com/blog/posts/patent-claim-chart-licensing-revenue-2026/) — /blog/md/patent-claim-chart-licensing-revenue-2026.md
 - [65% of Patents Die at the PTAB — The Inter Partes Review Defense Strategy Most Founders Discover Too Late](https://beyondelevation.com/blog/posts/inter-partes-review-defense-strategy-2026/) — /blog/md/inter-partes-review-defense-strategy-2026.md
+- [5 AI Startup IP Strategy Mistakes in 2026 That Did Not Exist in 2024](https://beyondelevation.com/blog/posts/ai-startup-ip-strategy-mistakes-2026/) — /blog/md/ai-startup-ip-strategy-mistakes-2026.md
 
 > Full blog content available at /llms-full.txt
