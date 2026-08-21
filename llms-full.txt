@@ -6451,3 +6451,21 @@ A patent claim chart is a side-by-side document that maps every element of a pat
 Think of the claim chart as a patent's proof-of-relevance document. The patent itself describes what you invented. The claim chart proves that someone else is using what you invented — element by element, with evidence a licensing target cannot dispute. Without one, you are asking 
 
 ---
+
+## 65% of Patents Die at the PTAB — The Inter Partes Review Defense Strategy Most Founders Discover Too Late
+
+URL: https://beyondelevation.com/blog/posts/inter-partes-review-defense-strategy-2026/
+
+Your patent portfolio has a 65% kill rate hanging over it. Inter partes review — the PTAB proceeding that lets anyone challenge your patent's validity for a fraction of litigation cost — invalidates the majority of claims it examines. Yet fewer than 12% of startup founders have ever heard of IPR before receiving a petition.
+
+Hayat Amin argues this is the single most dangerous blind spot in startup IP strategy: "Founders spend $30K to $80K filing patents and never once ask what happens when a well-funded competitor pays $30K to try to kill them at the PTAB. The asymmetry is staggering."
+
+## What Is an Inter Partes Review Defense Strategy?
+
+An inter partes review defense strategy is a pre-built architecture of claim drafting, portfolio structuring, and prior art positioning that maximizes your patents' survival rate at the Patent Trial and Appeal Board (PTAB). It is not a response plan — it is a design principle baked into the portfolio from the first filing.
+
+The PTAB was created by the America Invents Act in 2012 as a faster, cheaper alternative to district court for challenging patent validity. Anyone — a competitor, an NPE, a potential licensee seeking leverage — can file a petition requesting inter partes review of any claim in any granted patent. The filing fee starts at $23,000 for up to 20 claims. The proceeding finishes within 12 to 18 months. And the invalidation rate for claims that reach final written decision runs between 60% and 70%.
+
+That is the threat model. An 
+
+---
