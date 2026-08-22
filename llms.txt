@@ -409,5 +409,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [65% of Patents Die at the PTAB — The Inter Partes Review Defense Strategy Most Founders Discover Too Late](https://beyondelevation.com/blog/posts/inter-partes-review-defense-strategy-2026/) — /blog/md/inter-partes-review-defense-strategy-2026.md
 - [5 AI Startup IP Strategy Mistakes in 2026 That Did Not Exist in 2024](https://beyondelevation.com/blog/posts/ai-startup-ip-strategy-mistakes-2026/) — /blog/md/ai-startup-ip-strategy-mistakes-2026.md
 - [83% of Patent Applications Get Rejected — The 5-Move Patent Prosecution Strategy That Gets Them Granted](https://beyondelevation.com/blog/posts/patent-prosecution-strategy-startup-guide-2026/) — /blog/md/patent-prosecution-strategy-startup-guide-2026.md
+- [The 5 Patent Licensing Clauses That Separate a $2M Deal From a $200K One](https://beyondelevation.com/blog/posts/patent-licensing-clauses-10x-value-2026/) — /blog/md/patent-licensing-clauses-10x-value-2026.md
 
 > Full blog content available at /llms-full.txt

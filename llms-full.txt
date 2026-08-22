@@ -6501,3 +6501,21 @@ Patent prosecution strategy is the deliberate plan for navigating a patent appli
 The patent office is not a rubber stamp. The examiner's job is to narrow your claims. Your job —
 
 ---
+
+## The 5 Patent Licensing Clauses That Separate a $2M Deal From a $200K One
+
+URL: https://beyondelevation.com/blog/posts/patent-licensing-clauses-10x-value-2026/
+
+The difference between a $2M patent license and a $200K one is not the patent. It is five clauses. Hayat Amin has reviewed hundreds of patent licensing agreements across tech, AI, and hardware — and the pattern is identical every time. Founders with strong patents sign weak deals because they negotiate the wrong things. They fight over royalty rates while ignoring the patent licensing clauses that determine whether that rate applies to $50M in revenue or $5M.
+
+Companies with patents are 10.2x more likely to secure early-stage funding. But filing the patent is step one. The licensing clause structure determines whether those patents generate seven-figure revenue or sit idle in a filing cabinet.
+
+These are not obscure legal technicalities. These five patent licensing clauses determine the commercial architecture of every deal — and they are negotiable at the term sheet stage, before lawyers lock the language. Miss them, and your patent attorney will draft an agreement that protects your legal rights while leaving 80% of the commercial value to the licensee.
+
+## What Makes Patent Licensing Clauses Worth 10x More?
+
+Patent licensing clauses create order-of-magnitude value differences because they define what the royalty rate applies to — not just what the rate is. A 3% royalty on total product revenue generates 10x more than 3% on the patented component alone. Most founders accept the component-only base without understanding what they surrendered.
+
+Hayat Amin proves this in every
+
+---
