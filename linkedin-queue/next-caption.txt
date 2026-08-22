@@ -1,15 +1,17 @@
-News Corp got $70M for its archives. Reddit got $65M from Google. Most founders holding equivalent proprietary data have priced it at $0.
+97% of Series B companies miss all three IP financial benchmarks.
 
-The AI training data market is $1.8B in 2026 and growing 40% a year.
+VC is about to ask.
 
-Your floor isn't zero. Your floor is what the last comparable dataset sold for — minus negotiating discount.
+Benchmark 1: Royalty income as % of ARR. Target: 8–15%. Most companies: 0%.
 
-3 steps to value yours:
+Benchmark 2: Licensing deal count. Target: 1+ active deal before Series B. Most companies: 0.
 
-1. Map the data type (text, images, structured, time-series)
-2. Find the last 3 closed licensing deals in that category
-3. Apply a volume discount for size, a freshness premium for recency
+Benchmark 3: IP-backed debt capacity. Target: patent schedule covers 12 months runway. Most: $0 pledged.
 
-The founders who skip this sell equity. The ones who don't sell a license.
+Miss all three and your IP looks like a cost. Hit even one and your deck changes.
 
-#IPstrategy #AIlicensing #DataMonetization
+Companies that hit Benchmark 1 get 3.7× exit multiple premium. Same product. Different paper trail.
+
+Start with the royalty line. It takes 9 months to build. Series B closes in 12.
+
+#IPstrategy #StartupFinance #VentureCapital
