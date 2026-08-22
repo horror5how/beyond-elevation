@@ -63,7 +63,7 @@ One mid-market data holder Beyond Elevation advised generated $2.3 million in ye
 
 ## What Is Hayat Amin's Data Clean Room Monetization Framework?
 
-Hayat Amin's Data Clean Room Monetization Framework is the 5-step process Beyond Elevation runs to turn dormant proprietary data into a structured licensing revenue stream. The framework addresses the entire chain from data inventory to deal close.
+The Data Clean Room Monetization Framework is the 5-step process Beyond Elevation runs to turn dormant proprietary data into a structured licensing revenue stream. The framework addresses the entire chain from data inventory to deal close.
 
 **Step 1: Data asset inventory and classification.** Catalog every proprietary dataset by collection method, refresh frequency, uniqueness score, and regulatory status. Datasets with proprietary collection methodology and daily refresh rates command the highest clean room premiums.
 
