@@ -1,17 +1,15 @@
-3 in 4 US patents generate zero licensing revenue in year 1.
+Big Tech filed 340+ AI process patents in Q1 2026. Most AI startups filed zero.
 
-Not because the patents are weak.
+Your model performance is a commodity.
 
-Because the licensee learned the founder wasn't watching.
+Your training pipeline is patentable.
 
-The 90-day window after grant is when your royalty floor gets set — or it doesn't.
+OpenAI, Google, Anthropic are filing on the HOW — the inference architecture, the fine-tuning loop, the data selection method.
 
-First 30 days: Send formal notice to known infringers. Start the damages clock.
+Most founders don't know their process IP exists. So they never file.
 
-Days 31–60: Mark your products. Every unmarked unit is a day of lost damages.
+18 months from filing to grant. Prior art compounds daily.
 
-Days 61–90: File a licensing offer — even one refusal creates a market price.
+The window to own your pipeline closes while you're shipping features.
 
-Most founders spend those 90 days on product. That's how you stay at $0.
-
-#IPstrategy #PatentLicensing #Patents
+#IPStrategy #AIPatents #Startups

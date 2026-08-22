@@ -644,3 +644,4 @@ upc-unified-patent-court-licensing-tool-2026
 ai-training-data-value-floor-2026
 series-b-ip-financial-benchmarks-2026
 patent-licensing-first-90-days-2026
+ai-process-patent-window-closing-2026
