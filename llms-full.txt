@@ -6485,3 +6485,19 @@ Typing proprietary information into ChatGPT, Claude, or any public AI platform n
 These rulings invert the traditional threat model. Every
 
 ---
+
+## 83% of Patent Applications Get Rejected — The 5-Move Patent Prosecution Strategy That Gets Them Granted
+
+URL: https://beyondelevation.com/blog/posts/patent-prosecution-strategy-startup-guide-2026/
+
+83% of patent applications get rejected on the first try. That number shocks most founders — but the rejection itself is not the problem. The problem is what happens next. Founders without a patent prosecution strategy let their attorney respond on autopilot, accept narrow claim amendments, and end up with patents that no competitor needs to license. Hayat Amin argues that prosecution is not a legal process — it is a negotiation, and most founders walk into it without a strategy, without leverage, and without any understanding of what they are giving up with each response.
+
+The USPTO's first-action allowance rate sits at roughly 15%. The eventual grant rate is about 52%. That 37-point gap represents the prosecution battlefield — where claim scope is won or lost. Companies with disciplined patent prosecution strategy get broader claims, faster grants, and patents worth 5-10x more in licensing revenue than those who let prosecution run on default settings.
+
+## What Is Patent Prosecution Strategy?
+
+Patent prosecution strategy is the deliberate plan for navigating a patent application from filing through examination to granted claims — maximizing claim breadth, controlling timeline, and minimizing cost at every office action. Most founders treat prosecution as their attorney's problem. That abdication costs them 40-60% of their potential claim scope and thousands in wasted responses.
+
+The patent office is not a rubber stamp. The examiner's job is to narrow your claims. Your job —
+
+---
