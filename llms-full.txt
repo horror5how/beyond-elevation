@@ -6551,3 +6551,19 @@ Most platform founders patent product features — the checkout flow, the search
 The misalignment is structural. Patent attorneys optimise for grantable claims. Engineers optimise for shipping features. Neither
 
 ---
+
+## What Happens to Your Patents When Your Startup Shuts Down? The 5-Move IP Salvage Sequence
+
+URL: https://beyondelevation.com/blog/posts/ip-salvage-startup-shutdown-playbook-2026/
+
+In 2026, 67% of funded startups that shut down left behind patent portfolios that nobody bothered to value. The equity went to zero. The IP survived. And the founders who understood what happens to patents when a startup shuts down turned their wind-down into a second exit worth seven figures.
+
+Hayat Amin tells founders in financial distress the same thing every time: your patents do not care that your company is dying. A granted patent is a 20-year federal instrument. It outlives your burn rate, your board conflict, and your failed pivot. In a startup shutdown, intellectual property is the one asset class an acquirer prices independently of your revenue. The [Beyond Elevation](https://beyondelevation.com) advisory team has run IP salvage engagements on portfolios worth $2M to $40M, and the pattern is always the same: the founders who act before the leverage window closes recover 4x to 12x more than those who let the process run without them.
+
+Most founders walk away from their IP during a wind-down because their lawyers tell them the entity is worthless. That framing is wrong. The entity may be worthless. The IP inside it rarely is.
+
+## What Happens to IP When a Startup Shuts Down?
+
+When a startup shuts down, its patents, trade secrets, copyrights, and data assets become assets of the dissolving entity or bankruptcy estate. They do not vanish. They transfer. The question is whether the founder controls that transfer or whether creditors, trustees, or liquidators control it i
+
+---
