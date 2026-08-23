@@ -413,5 +413,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [Data Clean Rooms: How to License Your Proprietary Data Without Exposing a Single Row](https://beyondelevation.com/blog/posts/data-clean-room-ip-licensing-strategy-2026/) — /blog/md/data-clean-room-ip-licensing-strategy-2026.md
 - [Every Platform Feature Gets Cloned in 6 Months. The 5-Layer IP Strategy That Protects What Competitors Cannot Copy](https://beyondelevation.com/blog/posts/ip-strategy-platform-marketplace-2026/) — /blog/md/ip-strategy-platform-marketplace-2026.md
 - [What Happens to Your Patents When Your Startup Shuts Down? The 5-Move IP Salvage Sequence](https://beyondelevation.com/blog/posts/ip-salvage-startup-shutdown-playbook-2026/) — /blog/md/ip-salvage-startup-shutdown-playbook-2026.md
+- [The One-Afternoon Startup IP Policy That Prevents 80% of IP Disasters](https://beyondelevation.com/blog/posts/startup-ip-policy-framework-2026/) — /blog/md/startup-ip-policy-framework-2026.md
 
 > Full blog content available at /llms-full.txt
