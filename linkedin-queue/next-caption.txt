@@ -1,17 +1,24 @@
-Two founders co-developed an AI tool. Filed the patent together. Then the enterprise client started licensing it to their competitors — and owed nothing.
+GPAI enforcement is 21 days old. Most AI founders still don't know which side they're on.
 
-Joint patent ownership is a trap most founders never see coming.
+Side 1: You licensed your training data before August 2.
 
-Under US law, any joint owner can license the patent independently and keep 100% of royalties.
+Audit trail. Compliance. Licensing revenue.
 
-No consent from you. No revenue share to you.
+Side 2: You didn't.
 
-Fix this before your next co-development deal:
+7% global revenue fine. No defence when a rights-holder files.
 
-Demand sole assignment in every contract.
+The split is widening fast.
 
-Add a licensing consent clause and revenue split if joint ownership is unavoidable.
+Founders with data agreements are licensing outward — compliance became a revenue line.
 
-Audit chain of title before any financing — joint ownership is the #1 red flag acquirers find.
+Those without are paying law firms retroactively.
 
-#IPStrategy #StartupLaw #Patents
+3 numbers that show where you stand:
+→ % training data with a signed licence
+→ Rights-holder register: yes or no
+→ Fine ceiling at 7% of global revenue
+
+Don't know all 3? You're already behind.
+
+#GPAI #AIStrategy #IPLicensing
