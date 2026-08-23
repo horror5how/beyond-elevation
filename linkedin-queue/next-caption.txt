@@ -1,17 +1,17 @@
-Q4 due diligence opens in 7 weeks.
+Two founders co-developed an AI tool. Filed the patent together. Then the enterprise client started licensing it to their competitors — and owed nothing.
 
-73% of founders who skip IP prep lose 15-25% of deal value post-LOI.
+Joint patent ownership is a trap most founders never see coming.
 
-5 moves that change the math:
+Under US law, any joint owner can license the patent independently and keep 100% of royalties.
 
-File unfiled patent continuations before November.
+No consent from you. No revenue share to you.
 
-Reclassify royalty income as recurring revenue in your data room.
+Fix this before your next co-development deal:
 
-Order an income-approach IP valuation — acquirers speak DCF, not cost.
+Demand sole assignment in every contract.
 
-Audit every inventor assignment and clean the chain of title.
+Add a licensing consent clause and revenue split if joint ownership is unavoidable.
 
-Build 18 months of documented licensing pipeline. Buyers price forward revenue, not history.
+Audit chain of title before any financing — joint ownership is the #1 red flag acquirers find.
 
-#IPStrategy #MergersAndAcquisitions #ExitPlanning
+#IPStrategy #StartupLaw #Patents
