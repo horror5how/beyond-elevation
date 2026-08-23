@@ -6535,3 +6535,19 @@ A data clean room is a secure computational environment where multiple parties c
 Three types dominate the 2026 market. Walled-garden clean rooms (Google Ads Data Hub, Amazon Marketing Cloud, Meta Advanced Analytics) lock data i
 
 ---
+
+## Every Platform Feature Gets Cloned in 6 Months. The 5-Layer IP Strategy That Protects What Competitors Cannot Copy
+
+URL: https://beyondelevation.com/blog/posts/ip-strategy-platform-marketplace-2026/
+
+Platform businesses generate 73% of the world's tech market cap. Fewer than 12% have a documented IP strategy for platform businesses that covers anything beyond their product layer. Hayat Amin argues that this is the single most expensive blind spot in startup IP — because the layer most platforms patent is the one competitors clone in six months, while the layers that actually create defensibility sit unprotected.
+
+The IP strategy for marketplace businesses is not the same playbook as a SaaS company, a hardware startup, or an AI model. Platform businesses hold unique IP assets — network effects, two-sided data flywheels, API ecosystems, trust infrastructure — that demand a fundamentally different approach. [Beyond Elevation](https://beyondelevation.com) built a framework for this.
+
+## Why Do Most Platform Businesses Patent the Wrong Things?
+
+Most platform founders patent product features — the checkout flow, the search interface, the notification system — because those are the innovations engineers surface and patent attorneys can describe in claims. The problem is that feature-layer patents protect the most replaceable part of a platform business. A well-funded competitor can rebuild any feature in three to six months. Nobody can rebuild 10 million user reviews, a two-sided behavioural data set, or four years of marketplace liquidity overnight.
+
+The misalignment is structural. Patent attorneys optimise for grantable claims. Engineers optimise for shipping features. Neither
+
+---
