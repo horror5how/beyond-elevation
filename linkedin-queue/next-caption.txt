@@ -1,15 +1,17 @@
-Big Tech filed 340+ AI process patents in Q1 2026. Most AI startups filed zero.
+Q4 due diligence opens in 7 weeks.
 
-Your model performance is a commodity.
+73% of founders who skip IP prep lose 15-25% of deal value post-LOI.
 
-Your training pipeline is patentable.
+5 moves that change the math:
 
-OpenAI, Google, Anthropic are filing on the HOW — the inference architecture, the fine-tuning loop, the data selection method.
+File unfiled patent continuations before November.
 
-Most founders don't know their process IP exists. So they never file.
+Reclassify royalty income as recurring revenue in your data room.
 
-18 months from filing to grant. Prior art compounds daily.
+Order an income-approach IP valuation — acquirers speak DCF, not cost.
 
-The window to own your pipeline closes while you're shipping features.
+Audit every inventor assignment and clean the chain of title.
 
-#IPStrategy #AIPatents #Startups
+Build 18 months of documented licensing pipeline. Buyers price forward revenue, not history.
+
+#IPStrategy #MergersAndAcquisitions #ExitPlanning
