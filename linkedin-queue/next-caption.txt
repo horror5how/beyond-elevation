@@ -1,13 +1,13 @@
-Your competitor filed 23 patents last quarter.
+Your AI model is already commoditised.
 
-You found out when their product launched.
+Google filed 47 agent orchestration patents in Q1 2026. Most AI founders filed zero.
 
-Patent filings are public within 18 months. The roadmap is there. Most founders never look.
+The moat is not the model. It is the workflow.
 
-3 patent clusters in their portfolio = 3 product directions they're building. No press release needed.
+How your agents hand off, retry, validate, and escalate — that architecture is patentable IP.
 
-A monthly patent watch costs less than one legal dispute.
+Companies filing workflow patents see 2.8x higher acquisition premiums than model-only protection.
 
-Most founders run FTO searches reactively. The winners run patent watch proactively.
+The prior art window closes in 18 months.
 
-#IPStrategy #Patents #CompetitiveIntelligence
+#AIStrategy #Patents #IPStrategy

@@ -650,3 +650,4 @@ joint-patent-ownership-licensing-trap-2026
 gpai-first-month-data-licensing-2026
 ip-amortization-ebitda-add-back-2026
 patent-competitive-intelligence-playbook-2026
+agentic-workflow-patent-strategy-2026
