@@ -6581,3 +6581,19 @@ Hayat Amin argues that every startup needs a formal startup IP policy before it 
 A startup IP policy is a written internal document that governs how the company identifies, protects, and manages its intellectual property. It covers invention disclosure, IP own
 
 ---
+
+## 40% of AI Patents Fail Under Section 101. Here Is the 4-Step Quality Audit That Saves Your Portfolio.
+
+URL: https://beyondelevation.com/blog/posts/ai-patent-quality-audit-101-fix-2026/
+
+40% of AI patent applications fail under Section 101 eligibility challenges. That number should alarm every AI founder sitting on a patent portfolio they have never stress-tested.
+
+Hayat Amin argues that most AI patent portfolios are "paper fortresses" built during the 2019 to 2023 filing rush, when startups raced to accumulate patents without asking whether those patents would survive scrutiny. The result: thousands of AI patents with claims so broad, so abstract, or so poorly tied to technical implementation that they fold the moment an investor's IP counsel or an Inter Partes Review panel looks twice. This is not a hypothetical risk. It is a deal-killer that [Beyond Elevation](https://beyondelevation.com) sees in due diligence every month.
+
+## Why Are Most AI Patents Structurally Weak?
+
+Most AI patents are structurally weak because they were filed during a land-grab where speed beat quality. Between 2019 and 2023, AI patent filings at the USPTO grew at 30% year over year. Patent attorneys filed applications describing "a method for using machine learning to do X" without specifying the technical architecture, the novel data pipeline, or the engineering choices that made the approach non-obvious.
+
+The USPTO's Alice/Mayo framework punishes exactly this. Under Section 101, a patent claim directed at an abstract idea (like "applying a neural network to a classification problem") is ineligible unless the claim recites an "inventive concept" that transforms it into something sig
+
+---
