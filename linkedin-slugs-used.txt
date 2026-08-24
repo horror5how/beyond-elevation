@@ -648,3 +648,4 @@ ai-process-patent-window-closing-2026
 five-ip-moves-q4-exit-2026
 joint-patent-ownership-licensing-trap-2026
 gpai-first-month-data-licensing-2026
+ip-amortization-ebitda-add-back-2026

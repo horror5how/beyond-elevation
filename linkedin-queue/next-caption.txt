@@ -1,24 +1,19 @@
-GPAI enforcement is 21 days old. Most AI founders still don't know which side they're on.
+Your patent amortization is a phantom cost. It's suppressing your acquisition price by 6-11%.
 
-Side 1: You licensed your training data before August 2.
+Most founders never push to add it back.
 
-Audit trail. Compliance. Licensing revenue.
+Non-cash charge. Hits reported EBITDA. Buyers apply the multiple to reported.
 
-Side 2: You didn't.
+71% of LOIs accept the add-back — if you disclose it pre-diligence.
 
-7% global revenue fine. No defence when a rights-holder files.
+$50M ARR. $3M IP amortization. 8x multiple.
 
-The split is widening fast.
+Add-back = $24M more at close.
 
-Founders with data agreements are licensing outward — compliance became a revenue line.
+Your CFO never listed it in the QoE.
 
-Those without are paying law firms retroactively.
+Ask them tomorrow: "Is patent amortization a normalization add-back in our next LOI?"
 
-3 numbers that show where you stand:
-→ % training data with a signed licence
-→ Rights-holder register: yes or no
-→ Fine ceiling at 7% of global revenue
+If they hesitate, you're leaving 8 figures on the table.
 
-Don't know all 3? You're already behind.
-
-#GPAI #AIStrategy #IPLicensing
+#IPStrategy #Valuation #ExitPlanning
