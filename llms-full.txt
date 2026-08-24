@@ -6597,3 +6597,19 @@ Most AI patents are structurally weak because they were filed during a land-grab
 The USPTO's Alice/Mayo framework punishes exactly this. Under Section 101, a patent claim directed at an abstract idea (like "applying a neural network to a classification problem") is ineligible unless the claim recites an "inventive concept" that transforms it into something sig
 
 ---
+
+## Three Courts Killed the Fair Use Defense for AI Training Data. Your Model Has the Same Exposure.
+
+URL: https://beyondelevation.com/blog/posts/ai-training-data-copyright-fair-use-2026/
+
+In 2025 and 2026, three federal courts rejected the fair use defense for AI companies that trained models on copyrighted content. Statutory damages in US copyright law run up to $150,000 per willfully infringed work. If your training pipeline ingests 10,000 copyrighted articles, your theoretical exposure is $1.5 billion. That number is not hypothetical. It is on the complaint in NYT v. OpenAI.
+
+Hayat Amin argues that fair use is a litigation defense, not a business strategy. "Founders treat fair use like a permission slip," Amin says. "It is not. It is an argument you make after you have already been sued, and in 2026, courts are rejecting it for AI training more often than they accept it." Beyond Elevation now runs an AI training data copyright audit on every AI company that walks through the door, because the exposure sits in the training pipeline, not the product.
+
+## Is AI Training on Copyrighted Data Automatically Fair Use?
+
+No. AI training on copyrighted data is not automatically fair use under US copyright law. The fair use doctrine requires a case by case analysis under four statutory factors, and recent rulings show courts applying those factors against AI companies more often than founders expect. The default assumption that ingesting copyrighted content to train a model is "transformative" enough to qualify as fair use collapsed in 2025 when Thomson Reuters v. ROSS Intelligence reached its final judgment.
+
+The Thomson Reuters ruling was the first to squarely hold t
+
+---

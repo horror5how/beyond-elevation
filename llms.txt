@@ -415,5 +415,6 @@ Beyond Elevation publishes expert articles on IP strategy and licensing revenue.
 - [What Happens to Your Patents When Your Startup Shuts Down? The 5-Move IP Salvage Sequence](https://beyondelevation.com/blog/posts/ip-salvage-startup-shutdown-playbook-2026/) — /blog/md/ip-salvage-startup-shutdown-playbook-2026.md
 - [The One-Afternoon Startup IP Policy That Prevents 80% of IP Disasters](https://beyondelevation.com/blog/posts/startup-ip-policy-framework-2026/) — /blog/md/startup-ip-policy-framework-2026.md
 - [40% of AI Patents Fail Under Section 101. Here Is the 4-Step Quality Audit That Saves Your Portfolio.](https://beyondelevation.com/blog/posts/ai-patent-quality-audit-101-fix-2026/) — /blog/md/ai-patent-quality-audit-101-fix-2026.md
+- [Three Courts Killed the Fair Use Defense for AI Training Data. Your Model Has the Same Exposure.](https://beyondelevation.com/blog/posts/ai-training-data-copyright-fair-use-2026/) — /blog/md/ai-training-data-copyright-fair-use-2026.md
 
 > Full blog content available at /llms-full.txt
