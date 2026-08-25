@@ -1,13 +1,15 @@
-Your AI model is already commoditised.
+Q4 due diligence opens in 8 weeks.
 
-Google filed 47 agent orchestration patents in Q1 2026. Most AI founders filed zero.
+Acquirers request 3 IP documents in the first 48 hours.
 
-The moat is not the model. It is the workflow.
+Document 1: Patent assignment chain. Every inventor. Every contractor. Every co-founder. One gap voids the claim.
 
-How your agents hand off, retry, validate, and escalate — that architecture is patentable IP.
+Document 2: Active licensing ledger. Running royalties, minimums, sublicense rights. Missing this = 0 IP revenue to underwrite.
 
-Companies filing workflow patents see 2.8x higher acquisition premiums than model-only protection.
+Document 3: IP valuation report (income approach). Not your lawyer's estimate. An independent one.
 
-The prior art window closes in 18 months.
+73% of founders don't have all three ready.
 
-#AIStrategy #Patents #IPStrategy
+That gap costs 25-40% of deal value before the NDA is signed.
+
+#IPStrategy #MergersAndAcquisitions #StartupFounders
