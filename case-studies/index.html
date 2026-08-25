@@ -1,367 +1,178 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>IP Licensing Case Studies — Revenue & Valuation Results | Beyond Elevation</title>
-    <link rel="icon" href="/favicon.ico" sizes="32x32" />
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <meta name="description" content="See how companies turned dormant IP into licensing revenue and 4x valuation multiples. Real case studies from Beyond Elevation." />
-    <link rel="canonical" href="https://beyondelevation.com/case-studies/" />
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <meta name="GPTBot" content="index, follow" />
-    <meta name="ChatGPT-User" content="index, follow" />
-    <meta name="ClaudeBot" content="index, follow" />
-    <meta name="Claude-Web" content="index, follow" />
-    <meta name="anthropic-ai" content="index, follow" />
-    <meta name="PerplexityBot" content="index, follow" />
-    <meta name="Google-Extended" content="index, follow" />
-    <meta name="Applebot-Extended" content="index, follow" />
-
-    <!-- Open Graph -->
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://beyondelevation.com/case-studies/">
-    <meta property="og:title" content="IP Licensing Case Studies — Revenue & Valuation Results | Beyond Elevation">
-    <meta property="og:description" content="See how companies turned dormant IP into licensing revenue and 4x valuation multiples.">
-    <meta property="og:image" content="https://beyondelevation.com/assets/og-image.jpg">
-
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://beyondelevation.com/case-studies/">
-    <meta property="twitter:title" content="IP Licensing Case Studies — Revenue & Valuation Results">
-    <meta property="twitter:description" content="See how companies turned dormant IP into licensing revenue and 4x valuation multiples.">
-    <meta property="twitter:image" content="https://beyondelevation.com/assets/og-image.jpg">
-    <meta name="twitter:site" content="@BeyondElevation">
-    <meta name="twitter:creator" content="@HayatAmin">
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
-    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" /></noscript>
-    <link rel="stylesheet" href="../styles.css?v=20260409b" />
-    <style>
-      .case-page { padding: 120px 0 100px; }
-      .case-hero { display:grid; grid-template-columns:1.05fr .95fr; gap:24px; align-items:stretch; margin-bottom:24px; }
-      .case-hero-card,
-      .case-nav,
-      .case-study-card,
-      .case-closing { background:rgba(255,255,255,.88); border:1px solid rgba(139,111,192,.12); box-shadow:var(--shadow); border-radius:30px; }
-      .case-hero-card { padding:34px; }
-      .case-hero-card h1 { font-size:clamp(3rem,6vw,4.8rem); line-height:.92; letter-spacing:-.08em; font-weight:400; color:#2A1E3F; max-width:10ch; margin:14px 0 18px; }
-      .case-hero-card p { color:#2A1E3F; line-height:1.8; max-width:56ch; }
-      .case-hero-points { display:grid; gap:12px; align-content:start; padding:24px; }
-      .case-hero-points article { padding:20px 22px; border-radius:24px; background:linear-gradient(180deg,rgba(250,248,244,.96),rgba(243,239,232,.88)); border:1px solid rgba(139,111,192,.1); }
-      .case-hero-points strong { display:block; font-size:1.15rem; margin-bottom:6px; }
-      .case-hero-points span { color:#2A1E3F; line-height:1.6; }
-      .case-nav { display:flex; flex-wrap:wrap; gap:12px; padding:16px; margin-bottom:24px; position:sticky; top:76px; z-index:5; }
-      .case-nav a { display:inline-flex; align-items:center; min-height:44px; padding:0 16px; border-radius:999px; background:rgba(255,255,255,.86); border:1px solid rgba(139,111,192,.12); color:#2A1E3F; font-weight:700; }
-      .case-list { display:grid; gap:18px; }
-      .case-study-card { padding:28px; scroll-margin-top:110px; }
-      .case-top { display:grid; grid-template-columns:1.08fr .92fr; gap:18px; align-items:start; margin-bottom:18px; }
-      .case-title h2 { font-size:clamp(2rem,4vw,3.6rem); line-height:.95; letter-spacing:-.06em; margin:10px 0 8px; }
-      .case-sub { color:#2A1E3F; font-size:1.08rem; font-weight:700; }
-      .case-summary { padding:22px; border-radius:24px; background:linear-gradient(180deg,rgba(248,246,242,.92),rgba(250,248,244,.86)); border:1px solid rgba(139,111,192,.1); }
-      .case-summary strong { display:block; margin-bottom:8px; font-size:1rem; }
-      .case-summary p { margin:0; color:#2A1E3F; line-height:1.7; }
-      .case-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }
-      .case-block { padding:22px; border-radius:24px; background:linear-gradient(180deg,rgba(250,248,244,.94),rgba(243,239,232,.88)); border:1px solid rgba(139,111,192,.1); }
-      .case-block strong { display:block; font-size:.82rem; letter-spacing:.12em; text-transform:uppercase; color:#2A1E3F; margin-bottom:10px; }
-      .case-block p, .case-block li { color:#2A1E3F; line-height:1.7; margin:0; }
-      .case-block ul { margin:0; padding-left:18px; }
-      .case-block li + li { margin-top:6px; }
-      .case-closing { margin-top:24px; padding:32px; text-align:center; }
-      .case-closing h2 { font-size:clamp(2.2rem,4.4vw,4.4rem); line-height:.95; letter-spacing:-.06em; max-width:12ch; margin:12px auto 14px; }
-      .case-closing p { max-width:52ch; margin:0 auto; color:#2A1E3F; line-height:1.75; }
-      .case-closing .button { margin-top:22px; }
-      @media (max-width: 980px) {
-        .case-hero, .case-top, .case-grid { grid-template-columns:1fr; }
-        .case-nav { position:static; }
-      }
-    </style>
-    <!-- Analytics: Vercel + Speed Insights (additional providers injected post-signup) -->
-  <script defer src="/_vercel/insights/script.js"></script>
-  <script defer src="/_vercel/speed-insights/script.js"></script>
-  <!-- /Analytics -->
-  <!-- PostHog -->
-  <script>
-    !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split('.');2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement('script')).type='text/javascript',p.crossOrigin='anonymous',p.async=!0,p.src=s.api_host.replace('.i.posthog.com','-assets.i.posthog.com')+'/static/array.js',(r=t.getElementsByTagName('script')[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a='posthog',u.people=u.people||[],u.toString=function(t){var e='posthog';return'posthog'!==a&&(e+='.'+a),t||(e+=' (stub)'),e},u.people.toString=function(){return u.toString(1)+'.people (stub)'},o='init me ws ge fs capture De calculateEventProperties register register_once register_for_session unregister unregister_for_session Ps getFeatureFlag getFeatureFlagPayload isFeatureEnabled reloadFeatureFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSurveysLoaded onSessionId getSurveys getActiveMatchingSurveys renderSurvey canRenderSurvey canRenderSurveyAsync identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException loadToolbar get_property getSessionProperty Es $s createPersonProfile Is opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing clear_opt_in_out_capturing Ss debug xs getPageViewId captureTraceFeedback captureTraceMetric'.split(' '),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
-    posthog.init('phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM',{api_host:'https://us.i.posthog.com',capture_pageview:true,capture_pageleave:true,autocapture:true,person_profiles:'always',loaded:function(ph){try{if(location.search.indexOf('utm_source=sender-domain')>-1){ph.register_for_session({utm_source:'sender-domain'});history.replaceState(null,'',location.pathname+location.hash)}}catch(e){}}});
-  </script>
-  <!-- /PostHog -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Case studies | Beyond Elevation</title>
+<meta name="description" content="Seven companies, seven seats. The client stories behind Beyond Elevation.">
+<link rel="stylesheet" href="/assets/fonts/fonts.css">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="canonical" href="https://beyondelevation.com/case-studies">
+<meta name="theme-color" content="#FAF9F7">
+<meta property="og:url" content="https://beyondelevation.com/case-studies">
+<meta property="og:image" content="https://beyondelevation.com/assets/img/og.jpg">
+<meta property="og:title" content="Case studies | Beyond Elevation">
+<meta property="og:description" content="Seven companies, seven seats. The client stories behind Beyond Elevation.">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="/assets/style.css?v=33">
 </head>
-  <body>
-    <header class="topbar shell is-scrolled">
-      <a class="brand" href="../index.html" aria-label="Beyond Elevation home">
-        <span class="brand-mark" aria-hidden="true">BE</span>
-        <span>Beyond Elevation</span>
-      </a>
-      <nav>
-        <a href="/services/">Pricing</a>
-        <a href="/case-studies/" aria-current="page">Case Studies</a>
-        <a href="/blog/">Insights</a>
-        <a href="/about/">About</a>
-      </nav>
-      <a class="button button-ghost small" href="/call/web" target="_blank" rel="noreferrer">Book Session</a>
-    </header>
+<body>
+<a class="skip" href="#main">Skip to content</a>
 
-    <main class="shell case-page">
-      <section class="case-hero">
-        <article class="case-hero-card">
-          <span class="eyebrow">Case studies</span>
-          <h1>We do not just protect IP—we turn it into money.</h1>
-          <p>
-            These companies had patents, data, know-how, or deep tech the market was underpricing.
-            We turned that hidden value into licensing revenue, stronger valuation, and better deal leverage.
-          </p>
-        </article>
-        <aside class="case-hero-points">
-          <article>
-            <strong>What CEOs care about</strong>
-            <span>Revenue. Valuation. Leverage. Moat. Exit upside.</span>
-          </article>
-          <article>
-            <strong>What changes</strong>
-            <span>Weak IP stories become commercial assets buyers, investors, and partners can price properly.</span>
-          </article>
-          <article>
-            <strong>What this page shows</strong>
-            <span>Problem. What we changed. Outcome. Why it matters.</span>
-          </article>
-        </aside>
-      </section>
 
-      <nav class="case-nav" aria-label="Case studies navigation">
-        <a href="#position-imaging">Position Imaging</a>
-        <a href="#dgs">DGS</a>
-        <a href="#quantumgrid">QuantumGrid Systems</a>
-        <a href="#neurolytics">Neurolytics AI</a>
-        <a href="#aeroshield">AeroShield Technologies</a>
-      </nav>
+<header class="nav">
+  <a class="brand" href="/"><span class="mark"></span>Beyond&nbsp;Elevation</a>
+  <nav class="navlinks">
+    <a href="/cfo">Chief Financial Officer</a>
+    <a href="/ip">Chief IP Officer</a>
+    <a href="/fde">AI Operations</a>
+    <a href="/case-studies">Case Studies</a>
+    <a href="/insights">Insights</a>
+    <a href="/about">About</a>
+  </nav>
+  <div class="navcta">
+    <a class="ghost" href="/case-studies">All stories</a>
+    <a class="btn" href="/call">Book a free call <span class="arw">&#8599;</span></a>
+  </div>
+  <button class="menubtn" aria-label="Menu" aria-expanded="false" type="button"><span></span><span></span><span></span></button>
+  <nav class="mobilemenu" aria-label="Menu">
+    <div class="mm-grid">
+      <div><p class="mono">The three positions</p><a href="/cfo">Chief Financial Officer</a><a href="/ip">Chief IP Officer</a><a href="/fde">AI Operations</a><a href="/which-seat">Which position do I need?</a></div>
+      <div><p class="mono">Proof</p><a href="/case-studies">Case studies</a><a href="/insights">Insights</a><a href="/faq">Questions, answered</a></div>
+      <div><p class="mono">Company</p><a href="/about">About</a><a href="/how-it-works">How it works</a><a href="/contact">Contact</a><a href="/privacy">Privacy policy</a></div>
+      <div class="mm-contact"><p class="mono">Talk to us</p><p><a href="/call">Book a free call</a></p><p><a href="tel:+15713807699">+1 571 380 7699</a></p><p><a href="tel:+447476383531">+44 7476 383531</a></p><p><a href="tel:+971521125754">+971 52 112 5754</a></p><p><a href="mailto:clara.hawkins@beyondelevation.com">clara.hawkins@beyondelevation.com</a></p></div>
+    </div>
+  </nav>
+</header>
+<div id="main"></div>
 
-      <section class="case-list">
-        <article class="case-study-card" id="position-imaging">
-          <div class="case-top">
-            <div class="case-title">
-              <span class="eyebrow">Case study 01</span>
-              <h2>Position Imaging</h2>
-              <div class="case-sub">From scattered patents to a licensing machine.</div>
-            </div>
-            <div class="case-summary">
-              <strong>Big shift</strong>
-              <p>Patents went from fragmented legal assets to a licensing story investors could actually price.</p>
-            </div>
-          </div>
-          <div class="case-grid">
-            <div class="case-block">
-              <strong>Problem</strong>
-              <p>Strong RF positioning tech. Weak commercial story. Patents existed, but the value was fragmented and hard for investors to price.</p>
-            </div>
-            <div class="case-block">
-              <strong>What we changed</strong>
-              <ul>
-                <li>Rebuilt the portfolio into clear system-level IP clusters</li>
-                <li>Mapped patents to real commercial use cases</li>
-                <li>Used citation analysis to validate market demand</li>
-                <li>Repositioned the portfolio as infrastructure, not features</li>
-                <li>Built a licensing-first go-to-market plan</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Outcome</strong>
-              <ul>
-                <li>Stronger licensing story across multiple industries</li>
-                <li>Higher perceived IP value</li>
-                <li>Better investor valuation framing</li>
-                <li>Foundation for recurring licensing revenue</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Why it matters</strong>
-              <p>Patents do not create value on their own. Control over future markets does.</p>
-            </div>
-          </div>
-        </article>
+<section class="storyhero">
+  <div class="inner">
+    <p class="eyebrow">Case studies</p>
+    <h1>Behind some of the most successful and backed scaleups in the world.</h1>
+    <p class="sub">Seven companies. Seven positions our operators have actually held, owned and delivered.</p>
+  </div>
+</section>
 
-        <article class="case-study-card" id="dgs">
-          <div class="case-top">
-            <div class="case-title">
-              <span class="eyebrow">Case study 02</span>
-              <h2>DGS</h2>
-              <div class="case-sub">From raw data to monetisable infrastructure.</div>
-            </div>
-            <div class="case-summary">
-              <strong>Big shift</strong>
-              <p>Complex wireless data capability became a clearer revenue model investors and buyers could understand.</p>
-            </div>
-          </div>
-          <div class="case-grid">
-            <div class="case-block">
-              <strong>Problem</strong>
-              <p>Huge wireless data capability. No clear business model. Investors saw complexity, not cash flow.</p>
-            </div>
-            <div class="case-block">
-              <strong>What we changed</strong>
-              <ul>
-                <li>Treated the data as an asset, not a by-product</li>
-                <li>Built monetisation layers across 8 industries</li>
-                <li>Structured pricing and licensing frameworks</li>
-                <li>Identified high-value use cases in security, spectrum, and defence</li>
-                <li>Positioned DGS as infrastructure, not a data experiment</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Outcome</strong>
-              <ul>
-                <li>Clear revenue paths</li>
-                <li>Stronger investor story</li>
-                <li>Better positioning for enterprise and government deals</li>
-                <li>Long-term data licensing model</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Why it matters</strong>
-              <p>Data is not valuable because you have it. It is valuable when buyers know why they should pay for it.</p>
-            </div>
-          </div>
-        </article>
+<section style="padding:0 0 clamp(64px,8vw,120px)">
+  <div class="csgrid">
+    <a class="storycard" href="/story/codi">
+      <img loading="lazy" decoding="async" src="/assets/img/client-codi.webp" alt="Codi: Andreessen Horowitz backed workplace tech.">
+      <div class="sc-scrim"></div>
+      <img class="sc-logo" loading="lazy" decoding="async" src="/assets/img/logo-codi.svg" alt="">
+      <div class="sc-body">
+        <p class="mono">Client story &middot; Fractional CFO</p>
+        <h3>Codi: Andreessen Horowitz backed workplace tech.</h3>
+        <p class="sc-go">Read the story <span class="arw">&#8599;</span></p>
+      </div>
+    </a>
+    <a class="storycard" href="/story/dgs">
+      <img loading="lazy" decoding="async" src="/assets/img/client-dgs.webp" alt="DGS: the company whose patents alone are valued at $18 billion.">
+      <div class="sc-scrim"></div>
+      <img class="sc-logo sq" loading="lazy" decoding="async" src="/assets/img/logo-dgs.png" alt="">
+      <div class="sc-body">
+        <p class="mono">Client story &middot; Fractional CFO + Chief IP Officer</p>
+        <h3>DGS: the company whose patents alone are valued at $18 billion.</h3>
+        <p class="sc-go">Read the story <span class="arw">&#8599;</span></p>
+      </div>
+    </a>
+    <a class="storycard" href="/story/loowatt">
+      <img loading="lazy" decoding="async" src="/assets/img/client-loowatt.webp" alt="Loowatt: the Bill Gates backed sanitation technology company.">
+      <div class="sc-scrim"></div>
+      <img class="sc-logo" loading="lazy" decoding="async" src="/assets/img/logo-loowatt.png" alt="">
+      <div class="sc-body">
+        <p class="mono">Client story &middot; Fractional CFO</p>
+        <h3>Loowatt: the Bill Gates backed sanitation technology company.</h3>
+        <p class="sc-go">Read the story <span class="arw">&#8599;</span></p>
+      </div>
+    </a>
+    <a class="storycard" href="/story/position-imaging">
+      <img loading="lazy" decoding="async" src="/assets/img/client-pi.webp" alt="Position Imaging: a US technology powerhouse.">
+      <div class="sc-scrim"></div>
+      <img class="sc-logo" loading="lazy" decoding="async" src="/assets/img/logo-pi.png" alt="">
+      <div class="sc-body">
+        <p class="mono">Client story &middot; Fractional Chief IP Officer</p>
+        <h3>Position Imaging: a US technology powerhouse.</h3>
+        <p class="sc-go">Read the story <span class="arw">&#8599;</span></p>
+      </div>
+    </a>
+    <a class="storycard" href="/story/mcards">
+      <img loading="lazy" decoding="async" src="/assets/img/client-mcards.webp" alt="mCards: the branded payments and rewards platform.">
+      <div class="sc-scrim"></div>
+      <img class="sc-logo" loading="lazy" decoding="async" src="/assets/img/logo-mcards.svg" alt="">
+      <div class="sc-body">
+        <p class="mono">Client story &middot; Fractional CFO</p>
+        <h3>mCards: the branded payments and rewards platform.</h3>
+        <p class="sc-go">Read the story <span class="arw">&#8599;</span></p>
+      </div>
+    </a>
+    <a class="storycard" href="/story/arabesque">
+      <img loading="lazy" decoding="async" src="/assets/img/client-arabesque.webp" alt="Arabesque: AI asset management born out of Barclays.">
+      <div class="sc-scrim"></div>
+      <img class="sc-logo" loading="lazy" decoding="async" src="/assets/img/logo-arabesque.svg" alt="">
+      <div class="sc-body">
+        <p class="mono">Client story &middot; Fractional CSO + CFO</p>
+        <h3>Arabesque: AI asset management born out of Barclays.</h3>
+        <p class="sc-go">Read the story <span class="arw">&#8599;</span></p>
+      </div>
+    </a>
+    <a class="storycard" href="/story/iona">
+      <img loading="lazy" decoding="async" src="/assets/img/client-iona.webp" alt="IONA: drones and robotic hubs for rural deliveries.">
+      <div class="sc-scrim"></div>
+      <img class="sc-logo" loading="lazy" decoding="async" src="/assets/img/logo-iona.png" alt="">
+      <div class="sc-body">
+        <p class="mono">Client story &middot; Fractional CFO</p>
+        <h3>IONA: drones and robotic hubs for rural deliveries.</h3>
+        <p class="sc-go">Read the story <span class="arw">&#8599;</span></p>
+      </div>
+    </a>
+  </div>
+</section>
 
-        <article class="case-study-card" id="quantumgrid">
-          <div class="case-top">
-            <div class="case-title">
-              <span class="eyebrow">Case study 03</span>
-              <h2>QuantumGrid Systems</h2>
-              <div class="case-sub">From misunderstood deep tech to licensing-led scale.</div>
-            </div>
-            <div class="case-summary">
-              <strong>Big shift</strong>
-              <p>The wrong market was crushing value. Reframing the buyer and model unlocked scale fast.</p>
-            </div>
-          </div>
-          <div class="case-grid">
-            <div class="case-block">
-              <strong>Problem</strong>
-              <p>Advanced energy optimisation tech. Sold as SaaS to SMEs. Long sales cycles. Weak traction. Wrong market.</p>
-            </div>
-            <div class="case-block">
-              <strong>What we changed</strong>
-              <ul>
-                <li>Reframed the product as grid-level optimisation IP</li>
-                <li>Identified utilities and governments as the real buyers</li>
-                <li>Built a licensing + revenue share model</li>
-                <li>Created a scenario-based valuation model</li>
-                <li>Designed an enterprise go-to-market strategy</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Outcome</strong>
-              <ul>
-                <li>TAM shifted from £2M to £2B+</li>
-                <li>First utility licensing deal closed</li>
-                <li>Valuation multiple increased 4x</li>
-                <li>Sales friction dropped sharply</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Why it matters</strong>
-              <p>Wrong market hides value. Right market multiplies it.</p>
-            </div>
-          </div>
-        </article>
+<section class="about">
+  <div class="about-copy">
+    <p class="eyebrow">Let&rsquo;s get on a call</p>
+    <h2 class="h2">Want this position in your company?</h2>
+    <p class="sub"><b>Georgina</b> books you a free 30 minute call. Straight answer, no pitch. If there is nothing worth doing, we say so on the call.</p>
+    <p class="mono small">Consultants are paid to advise. We are paid to deliver.</p>
+    <a class="gk-btn" href="/call">Get on a call now <span class="arw">&#8599;</span></a>
+  </div>
+  <figure class="about-art gk-art">
+    <img loading="lazy" decoding="async" src="/assets/img/georgina-king.webp" alt="Georgina King" width="800" height="800">
+    <span class="gk-status"><span class="gk-pulse"></span>Available this week</span>
+    <figcaption><b>Georgina King</b><i>Executive Partnership Manager</i></figcaption>
+  </figure>
+</section>
 
-        <article class="case-study-card" id="neurolytics">
-          <div class="case-top">
-            <div class="case-title">
-              <span class="eyebrow">Case study 04</span>
-              <h2>Neurolytics AI</h2>
-              <div class="case-sub">From AI tool to high-margin data business.</div>
-            </div>
-            <div class="case-summary">
-              <strong>Big shift</strong>
-              <p>The AI tool was crowded. The data asset underneath it was where the real value lived.</p>
-            </div>
-          </div>
-          <div class="case-grid">
-            <div class="case-block">
-              <strong>Problem</strong>
-              <p>AI platform analysing consumer behaviour. Crowded market. Low differentiation. Revenue had stalled.</p>
-            </div>
-            <div class="case-block">
-              <strong>What we changed</strong>
-              <ul>
-                <li>Identified the behavioural dataset as the real asset</li>
-                <li>Built a data moat strategy</li>
-                <li>Structured data licensing and API monetisation</li>
-                <li>Created industry-specific intelligence products</li>
-                <li>Repositioned the business as a decision engine, not another AI tool</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Outcome</strong>
-              <ul>
-                <li>Shifted into a higher-margin data model</li>
-                <li>Locked in enterprise clients through data dependency</li>
-                <li>Built stronger defensibility</li>
-                <li>Increased valuation multiple</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Why it matters</strong>
-              <p>AI tools compete. Data monopolies win.</p>
-            </div>
-          </div>
-        </article>
+<section class="gkslim">
+  <div class="gkslim-who">
+    <img loading="lazy" decoding="async" src="../assets/img/georgina-king.webp" alt="Georgina King">
+    <p><b>Still reading? Talk it through instead.</b><span>A free 30-minute call with Georgina. Straight answer, no pitch, if there is nothing worth doing, we say so.</span></p>
+  </div>
+  <a class="btn" href="/call">Book a free call <span class="arw">↗</span></a>
+</section>
 
-        <article class="case-study-card" id="aeroshield">
-          <div class="case-top">
-            <div class="case-title">
-              <span class="eyebrow">Case study 05</span>
-              <h2>AeroShield Technologies</h2>
-              <div class="case-sub">From low-margin hardware to IP-led recurring revenue.</div>
-            </div>
-            <div class="case-summary">
-              <strong>Big shift</strong>
-              <p>Hardware sold once. Pulling out the IP layer created a repeatable, more valuable revenue model.</p>
-            </div>
-          </div>
-          <div class="case-grid">
-            <div class="case-block">
-              <strong>Problem</strong>
-              <p>Drone detection hardware company. Revenue depended on hardware sales. Low margins. Heavy capital needs. Limited scale.</p>
-            </div>
-            <div class="case-block">
-              <strong>What we changed</strong>
-              <ul>
-                <li>Pulled the core detection algorithms out as the real IP layer</li>
-                <li>Built a software + licensing stack around them</li>
-                <li>Positioned the company for critical infrastructure markets</li>
-                <li>Created multi-layer pricing across hardware, software, and IP</li>
-                <li>Built a global licensing strategy</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Outcome</strong>
-              <ul>
-                <li>Revenue model shifted toward recurring income</li>
-                <li>Margins improved significantly</li>
-                <li>Opened global defence and infrastructure opportunities</li>
-                <li>Positioned the business for strategic acquisition</li>
-              </ul>
-            </div>
-            <div class="case-block">
-              <strong>Why it matters</strong>
-              <p>Hardware sells once. IP sells again and again.</p>
-            </div>
-          </div>
-        </article>
-      </section>
+<footer class="foot">
+  <div class="foot-top">
+    <p class="footline">Operators, not consultants.</p>
+    <a class="btn" href="/call">Book a free call <span class="arw">&#8599;</span></a>
+  </div>
+  <div class="foot-cols">
+    <div><p class="mono">The three positions</p><a href="/cfo">Chief Financial Officer</a><a href="/ip">Chief IP Officer</a><a href="/fde">AI Operations</a></div>
+    <div><p class="mono">Client stories</p><a href="/story/codi">Codi</a>
+<a href="/story/dgs">DGS</a>
+<a href="/story/loowatt">Loowatt</a>
+<a href="/story/position-imaging">Position Imaging</a>
+<a href="/story/mcards">mCards</a>
+<a href="/story/arabesque">Arabesque</a>
+<a href="/story/iona">Iona Drones</a></div>
+    <div><p class="mono">Contact</p><a href="tel:+15713807699">+1 571 380 7699</a><a href="tel:+447476383531">+44 7476 383531</a><a href="tel:+971521125754">+971 52 112 5754</a><a href="mailto:clara.hawkins@beyondelevation.com">clara.hawkins@beyondelevation.com</a></div>
+  </div>
+  <p class="fineprint">Beyond Elevation places exited C-suite operators into fractional executive positions. New York &middot; London &middot; Dubai.</p>
+  <p class="fineprint">&copy; 2026 Beyond Elevation &middot; <a href="/company">Company</a> &middot; <a href="/privacy">Privacy</a></p>
+</footer>
 
-      <section class="case-closing">
-        <span class="eyebrow">Closing</span>
-        <h2>Most companies already own the asset. They just never build the business around it.</h2>
-        <p>If your patents, data, or technical know-how are not driving revenue, valuation, or leverage, they are underperforming.</p>
-        <a class="button button-primary large" href="/call/web" target="_blank" rel="noreferrer">Book Session</a>
-      </section>
-    </main>
-  </body>
+<script src="/assets/site.js?v=4"></script>
+</body>
 </html>

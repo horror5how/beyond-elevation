@@ -1,4 +1,5 @@
 {
+  "cleanUrls": true,
   "rewrites": [
     { "source": "/call/:s", "destination": "/api/call?s=:s" }
   ],
@@ -6,51 +7,56 @@
     {
       "source": "/:path*",
       "has": [{ "type": "host", "value": "www.beyondelevation.com" }],
-      "destination": "https://beyondelevation.com/:path*?utm_source=sender-domain",
+      "destination": "https://beyondelevation.com/:path*",
       "permanent": false
     },
-    { "source": "/pricing", "destination": "/services/", "permanent": true },
-    { "source": "/pricing/", "destination": "/services/", "permanent": true },
-    { "source": "/insights", "destination": "/blog/", "permanent": true },
-    { "source": "/insights/", "destination": "/blog/", "permanent": true },
-    { "source": "/insights/:slug*", "destination": "/blog/:slug*", "permanent": true },
-    { "source": "/home-1", "destination": "/", "permanent": true },
-    { "source": "/home-1/", "destination": "/", "permanent": true },
-    { "source": "/post/:slug*", "destination": "/blog/", "permanent": true },
-    { "source": "/blog/categories/:slug*", "destination": "/blog/", "permanent": true },
-    { "source": "/blog/posts/ip-backed-lending-patents-as-collateral", "destination": "/blog/posts/ip-backed-financing-patents-as-collateral/", "permanent": true },
-    { "source": "/blog/posts/ip-backed-lending-patents-as-collateral/", "destination": "/blog/posts/ip-backed-financing-patents-as-collateral/", "permanent": true },
-    { "source": "/blog/posts/engineer-ip-assignment-founder-mistake", "destination": "/blog/posts/employee-ip-assignment-gap/", "permanent": true },
-    { "source": "/blog/posts/engineer-ip-assignment-founder-mistake/", "destination": "/blog/posts/employee-ip-assignment-gap/", "permanent": true }
+    { "source": "/CFO", "destination": "/cfo", "permanent": true },
+    { "source": "/CIP", "destination": "/ip", "permanent": true },
+    { "source": "/cip", "destination": "/ip", "permanent": true },
+    { "source": "/IP", "destination": "/ip", "permanent": true },
+    { "source": "/FDE", "destination": "/fde", "permanent": true },
+    { "source": "/blog", "destination": "/insights", "permanent": true },
+    { "source": "/blog/:slug*", "destination": "/insights", "permanent": true },
+    { "source": "/services", "destination": "/which-seat", "permanent": true },
+    { "source": "/pricing", "destination": "/which-seat", "permanent": true },
+    { "source": "/resources", "destination": "/insights", "permanent": true },
+    { "source": "/resources/:slug*", "destination": "/insights", "permanent": true }
   ],
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/assets/fonts/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "DENY" },
-        { "key": "X-XSS-Protection", "value": "1; mode=block" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" },
-        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://us-assets.i.posthog.com https://va.vercel-scripts.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://us.i.posthog.com https://us-assets.i.posthog.com https://va.vercel-scripts.com https://vitals.vercel-insights.com;" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
-      "source": "/assets/(.*)",
+      "source": "/assets/img/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
-      "source": "/(.*\\.css|.*\\.js)",
+      "source": "/assets/style.css",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=86400" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     },
     {
-      "source": "/(.*\\.html|.*\\.json)",
+      "source": "/assets/site.js",
       "headers": [
-        { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     }
   ]
