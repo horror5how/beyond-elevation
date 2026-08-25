@@ -5,8 +5,8 @@
  * One-shot helper for the BE Blog Publisher scheduled task. Takes a post
  * object (passed as a JSON string argument or via stdin) and appends it to
  * data/posts.json after a duplicate check. The auto-merge workflow then
- * regenerates every derived file (blog/posts/<slug>/index.html,
- * blog/index.html, sitemap.xml, blog/md/*.md, llms.txt, llms-full.txt) on
+ * regenerates every derived file (insights/<slug>/index.html,
+ * insights/index.html, sitemap.xml, insights/md/*.md, llms.txt, llms-full.txt) on
  * push.
  *
  * Usage:

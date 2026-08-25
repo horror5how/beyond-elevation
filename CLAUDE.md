@@ -1,15 +1,19 @@
 # CLAUDE.md — Beyond Elevation
 
+## Site (since 2026-08-25)
+
+This repo IS beyondelevation.com — the be-fearn 2026 design (fractional CFO / Chief IP Officer / AI Operations positioning). The old IP-only site and its /blog are gone; posts live at /insights/<slug>/. Six hand-written evergreen insight pages (what-is-a-fractional-cfo, what-is-a-chief-ip-officer, what-is-ai-operations, automate-first, two-day-close, value-your-data) are owned by hand — the generator never overwrites them.
+
 ## Blog Publishing (critical — read before any blog task)
 
 **The live site renders from static HTML files, NOT from data/posts.json directly.**
 
 When publishing a blog post, you MUST only update `data/posts.json` and push. The GitHub Actions workflow (`auto-merge-scheduled-posts.yml`) automatically regenerates all derived files:
 
-- `blog/posts/<slug>/index.html`
-- `blog/index.html`
+- `insights/<slug>/index.html`
+- `insights/index.html`
 - `sitemap.xml`
-- `blog/md/<slug>.md`
+- `insights/md/<slug>.md`
 - `llms.txt`, `llms-full.txt`
 
 **Do NOT hand-edit those derived files.** They are regenerated from posts.json on every push.
@@ -33,7 +37,7 @@ The workflow handles everything else. Full instructions in `TASK_PROMPT.md`.
   "slug": "kebab-case",
   "title": "Hormozi-hook title",
   "excerpt": "1-2 sentences with primary keyword",
-  "category": "IP Strategy | Licensing | Valuation | Patents | AI | Data",
+  "category": "CFO | AI Operations | Leadership | IP Strategy | Licensing | Valuation | Patents | AI | Data",
   "date": "YYYY-MM-DD",
   "body": "<p>HTML body</p>"
 }
@@ -43,13 +47,13 @@ The workflow handles everything else. Full instructions in `TASK_PROMPT.md`.
 
 ### Internal link format
 
-Always use `/blog/posts/<slug>/` for internal links (NOT `/blog/post.html?slug=<slug>`).
+Always use `/insights/<slug>/` for internal links. The old `/blog/posts/<slug>/` URLs 301 to `/insights/<slug>/` — never write new links to them.
 
 ### Build scripts (run by the workflow, not by you)
 
-- `node scripts/build-static-posts.js` — generates blog/posts/ and blog/index.html
+- `node scripts/build-static-posts.js` — generates insights/<slug>/ pages and insights/index.html
 - `node scripts/build-sitemap.js` — regenerates sitemap.xml
-- `node scripts/generate-blog-markdown.js` — regenerates blog/md/, llms.txt, llms-full.txt
+- `node scripts/generate-blog-markdown.js` — regenerates insights/md/, llms.txt, llms-full.txt
 
 ## LinkedIn Deduplication (MANDATORY — read before every LinkedIn task)
 
@@ -69,9 +73,9 @@ If a slug or its close variant appears there, skip it entirely. No exceptions.
 
 Every post must belong to one of these pillars. Never publish three consecutive posts in the same pillar.
 
-1. **IP** — patents, licensing, IP strategy, IP valuation, holdco structure, trade secrets, patent clustering, IP monetisation
-2. **AI** — AI strategy, AI governance, AI transformation, AI IP/patents, agentic AI, open-weight models, EU AI Act
-3. **Financial** — exit multiples, M&A/IP positioning, data monetisation, valuation methods, capital strategy, IP-backed financing
+1. **IP** — patents, licensing, IP strategy, IP valuation, trade secrets, IP monetisation, when to hire a Chief IP Officer
+2. **AI** — AI operations, what to automate first, agent rollout, AI-native back office, AI governance, board AI capability
+3. **Financial & Leadership** — fractional CFO, month-end close, exit readiness, valuation methods, fractional MD/COO, running a company on fractional executives
 
 ### How to pick a topic
 
@@ -159,7 +163,7 @@ Model the file exactly on the working template below. **Do not reference local f
 </style>
 </head>
 <body>
-  <div class="eyebrow">IP + DATA INTELLIGENCE</div>
+  <div class="eyebrow">FRACTIONAL C-SUITE OPERATORS</div>
   <div class="headline">LINE ONE<br>LINE TWO</div>
   <div class="metrics">
     <div class="metric">
@@ -181,7 +185,7 @@ Model the file exactly on the working template below. **Do not reference local f
   <div class="footer">
     <div class="be-wordmark">BE</div>
     <div class="powered-by">Powered by Beyond Elevation</div>
-    <div class="tagline">Turn IP and data into licensing revenue, higher valuation, and market domination.</div>
+    <div class="tagline">Exited operators, wired to AI. Fractional CFO, Chief IP Officer, AI Operations.</div>
   </div>
 </body>
 </html>

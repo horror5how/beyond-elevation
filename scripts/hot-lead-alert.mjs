@@ -56,7 +56,7 @@ const rows = await ph(`
   select
     person_id,
     argMax(distinct_id, timestamp) as did,
-    countIf(match(properties.$pathname, '^/blog/posts/')) as blog_views,
+    countIf(match(properties.$pathname, '^/(blog/posts|insights)/')) as blog_views,
     count(distinct properties.$pathname) as pages,
     countIf(
       properties.$pathname like '%/services%' or

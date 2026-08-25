@@ -111,7 +111,7 @@ jobs:
         run: |
           git config user.email 'agent@beyondelevation.com'
           git config user.name 'BE Gated Publisher'
-          git add blog/ sitemap.xml llms.txt
+          git add insights/ sitemap.xml llms.txt llms-full.txt
           git diff --cached --quiet && { echo 'Nothing to commit'; exit 0; }
           git commit -m "chore(publish): gated regenerate static + sitemap"
           git push origin main

@@ -98,9 +98,9 @@ async function checkPage(browser, route, label, expectFaq) {
 
   const pages = [
     { route: '/', label: 'home', faq: false },
-    { route: '/blog/posts/ai-engineering-ip-what-is-protectable/', label: 'post1', faq: true },
-    { route: '/blog/posts/what-is-a-trade-secret/', label: 'post2', faq: true },
-    { route: '/blog/', label: 'bloglist', faq: false },
+    { route: '/insights/ai-engineering-ip-what-is-protectable/', label: 'post1', faq: true },
+    { route: '/insights/what-is-a-trade-secret/', label: 'post2', faq: true },
+    { route: '/insights/', label: 'bloglist', faq: false },
   ];
 
   let allOk = true;

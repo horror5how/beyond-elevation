@@ -1,7 +1,7 @@
 ---
 title: Beyond Elevation Keyword Strategy (Source of Truth for Blog Cron)
 owner: Hayat Amin
-last_updated: 2026-07-28
+last_updated: 2026-08-25
 source_files: [seo-geo-plan.md, seo-content-plan.md, ai-seo-plan.md, research/ig-reel-patsnap-keywords.md]
 coverage_audit: 2026-07-28
 paa_last_scraped: 2026-07-28 (❌ FAILED — `apify call apify/google-search-scraper` (actor `nFJndFXA5zjCTuudP`) returned `Error: Monthly usage hard limit exceeded` (verified live this run: 301-byte error log, exit code 1, 0-byte data payload). Same per-cycle binding constraint: the 2026-07-07 billing-cycle Apify cap is still drained by the shared outreach scrapers; cap resets ~2026-08-07 so PAA stays dark for roughly one more run. Per task fallback, Phase 1 last-48h trending research ran as normal and 4 net-new rows (T5-131→T5-134, 1 🟢 the 95%-unpledged IP-collateral gap + 3 🟡) were synthesized from differentiated rising signals, rotated to fundraising-leverage / AI-know-how / IP-monetization (IP-collateral pledge gap against 90% intangible S&P 500 market cap plus the first rated intangible-backed securities; two 2026 DTSA rulings where the founder's own AI-tool use destroyed the secret; venture-debt underwriting order flip — patent schedule requested before the financial model; IP investment funds bidding — SIM IP closed 11 portfolio deals in 15 months). NOTE: T5-130 was consumed by the 2026-07-24 Blog-Publisher ship (`ip-strategy-robotics-physical-ai-startups`), so this run starts at T5-131. posts.json at 304 (+6 since 07-23). ACTION FOR HAYAT: raise the Apify console monthly hard limit to restore live PAA before ~08-07.)
@@ -17,6 +17,66 @@ patsnap_injection: 2026-05-21 (40 keywords injected from PatSnap/IP keyword rese
 ---
 
 # Beyond Elevation — Keyword Strategy
+
+## ⚡ EDITORIAL RESET — 2026-08-25 (read this before anything below)
+
+The site relaunched on 24 Aug 2026 with a new positioning. Everything below this
+section (Tiers 1 to 5) is the OLD IP-only strategy: keep it for dedup checks and
+keyword history, but DO NOT pick topics from the old IP-only angle by default.
+
+**New positioning:** Beyond Elevation places exited C-suite operators into
+fractional executive positions. Three positions: Chief Financial Officer (/cfo),
+Chief IP Officer (/ip), AI Operations (/fde). Operators, not consultants.
+Audience: CEOs, founders and boards deciding whether and how to hire a
+fractional executive. Voice: straight talking, no fluff, no legal waffle.
+
+**Topic wheel (rotate, never two consecutive posts from the same slice):**
+- 30% Chief Financial Officer: fractional CFO hiring, cost, month-end close, fundraising readiness, finance function design, exit preparation
+- 25% AI Operations: what an AI operations operator does, what to automate first, AI in the back office, agent rollout, AI-native finance and reporting
+- 25% Chief IP Officer and IP: when to hire a CIPO, IP strategy, licensing, valuation, data as an asset (the old Tier 1-5 themes live here now)
+- 20% Leadership and other fractional roles: fractional Managing Director, interim vs fractional, fractional COO, board-level AI capability, how to run a company on fractional executives
+
+**Category field:** use one of `CFO`, `AI Operations`, `IP Strategy`, `Leadership`,
+`Valuation`, `Data`, `Patents`, `Licensing`, `AI`. The generator maps these to the
+card labels on /insights.
+
+**Output location:** posts render to `/insights/<slug>/` in the new site design.
+Internal links use `/insights/<slug>/` — never `/blog/posts/`.
+
+**Six hand-written evergreen pages already exist — never duplicate them:**
+what-is-a-fractional-cfo, what-is-a-chief-ip-officer, what-is-ai-operations,
+automate-first, two-day-close, value-your-data. Write adjacent topics, link to them.
+
+## Tier 6 — Role-based briefs (NEW theme; work these before synthesizing fresh rows)
+
+| # | slug_hint | primary_keyword | supporting_keywords | angle | category | covered |
+|---|---|---|---|---|---|---|
+| T6-01 | fractional-cfo-cost-2026 | fractional CFO cost | fractional CFO rates, fractional CFO pricing, part time CFO cost | What a Fractional CFO Actually Costs in 2026 (And What You Get For It) | CFO | |
+| T6-02 | when-to-hire-fractional-cfo | when to hire a fractional CFO | signs you need a CFO, first finance hire, CFO vs accountant | The 5 Signals Your Company Has Outgrown Its Accountant | CFO | |
+| T6-03 | fractional-cfo-vs-interim-cfo | fractional CFO vs interim CFO | interim CFO, part time CFO difference, temporary CFO | Fractional vs Interim CFO: Two Different Tools For Two Different Problems | CFO | |
+| T6-04 | fractional-cfo-fundraising | fractional CFO for fundraising | CFO for Series A, fundraising finance preparation, investor-ready numbers | What Investors Check In Your Numbers Before They Check Your Product | CFO | |
+| T6-05 | ai-native-finance-function | AI native finance function | AI in finance department, automate finance operations, AI bookkeeping | The Finance Team That Costs Less Than One Hire | CFO | |
+| T6-06 | chief-ip-officer-job-description | chief IP officer job description | CIPO role, head of IP responsibilities, IP executive | The Chief IP Officer Job Description Most Boards Get Wrong | IP Strategy | |
+| T6-07 | when-to-hire-chief-ip-officer | when to hire a chief IP officer | CIPO hiring, IP leadership, patent strategy owner | Your Patents Have No Owner: When a Company Needs a Chief IP Officer | IP Strategy | |
+| T6-08 | fractional-chief-ip-officer-vs-law-firm | fractional chief IP officer vs law firm | outside IP counsel, IP strategy vs legal, patent attorney limits | Why Your Law Firm Cannot Run Your IP Strategy | IP Strategy | |
+| T6-09 | ai-operations-operator-vs-consultant | AI operations operator vs consultant | AI consultant difference, AI implementation, hands-on AI expert | Consultants Advise, Operators Ship: the AI Hire That Actually Changes Your P&L | AI Operations | |
+| T6-10 | what-to-automate-first-with-ai-agents | what to automate with AI agents | AI agent rollout, business process automation AI, agentic workflows | The First 90 Days of an AI Operations Rollout | AI Operations | |
+| T6-11 | ai-back-office-small-company | AI back office | AI admin automation, AI operations small business, back office agents | Your Back Office Should Be Software By Now | AI Operations | |
+| T6-12 | hire-ai-operations-expert | hire AI operations expert | AI operations hire, AI transformation lead, AI operator recruitment | How to Hire Someone Who Has Actually Shipped AI (Not Just Talked About It) | AI Operations | |
+| T6-13 | fractional-managing-director | fractional managing director | part time managing director, fractional MD, hire managing director | The Fractional Managing Director: When a Company Needs Leadership, Not Headcount | Leadership | |
+| T6-14 | interim-vs-fractional-executive | interim vs fractional executive | interim executive, fractional executive difference, part time executive | Interim Fixes a Crisis. Fractional Builds a Function. Know Which One You Are Buying. | Leadership | |
+| T6-15 | fractional-coo-vs-fractional-cfo | fractional COO vs fractional CFO | which executive to hire first, COO or CFO, operations vs finance hire | COO or CFO First? The Order Most Founders Get Backwards | Leadership | |
+| T6-16 | board-ai-capability-gap | board AI capability | AI expertise board of directors, board technology gap, AI governance board | Your Board Approved an AI Strategy Nobody On It Can Evaluate | Leadership | |
+| T6-17 | run-company-on-fractional-executives | fractional executive team | fractional C-suite, part time executive team, fractional leadership model | The Full-Time C-Suite Is a Legacy Cost: Running a Company on Fractional Executives | Leadership | |
+| T6-18 | fractional-executive-cost-comparison | fractional executive cost | fractional executive rates, C-suite salary comparison, executive hiring cost | One Full-Time Executive Salary Buys You Three Fractional Ones. Here Is the Math. | Leadership | |
+| T6-19 | two-day-month-end-close-playbook | month end close automation | fast month end close, close process automation, finance close checklist | The Two-Day Close: a Step-by-Step Playbook (What to Wire First) | CFO | |
+| T6-20 | exit-ready-finance-function | exit ready finance function | exit preparation finance, due diligence readiness, sale-ready numbers | Exit-Ready Is a Finance State, Not a Banker Deck | CFO | |
+| T6-21 | ai-operations-roi-measurement | AI operations ROI | measure AI ROI, AI automation savings, AI business case | The Only Three Numbers That Prove Your AI Rollout Worked | AI Operations | |
+| T6-22 | data-asset-cfo-balance-sheet | data as a company asset | data valuation CFO, data on balance sheet, monetize company data | The Asset Your Balance Sheet Ignores: a CFO's Guide to Data | Data | |
+| T6-23 | ip-strategy-for-non-tech-companies | IP strategy for non-tech companies | IP for manufacturers, trade secrets SME, brand IP strategy | You Do Not Need a Lab to Have an IP Strategy | IP Strategy | |
+| T6-24 | first-100-days-fractional-cfo | fractional CFO first 100 days | new CFO checklist, CFO onboarding, finance function audit | What a Good Fractional CFO Does in the First 100 Days | CFO | |
+
+## (Archived preamble — old IP-only strategy)
 
 This is the **single source of truth** for the `BE Blog Publisher` scheduled task. The cron MUST read this file before picking a topic, match against `data/posts.json` to avoid duplicates, then pick the highest-ROI keyword brief that is not yet covered.
 

@@ -15,7 +15,7 @@ import { readFileSync, writeFileSync, existsSync, appendFileSync } from "node:fs
 import { execSync } from "node:child_process";
 
 const ROOT = process.cwd();
-const POSTS_DIR = `${ROOT}/blog/posts`;
+const POSTS_DIR = `${ROOT}/insights`;
 
 // 1. Pick the post: prefer the most recent ADDED/MODIFIED post in the last commit;
 //    fall back to the newest by lastmod in sitemap.
@@ -24,7 +24,7 @@ function latestSlugFromGit() {
     const range = process.env.GITHUB_BEFORE && process.env.GITHUB_AFTER
       ? `${process.env.GITHUB_BEFORE}..${process.env.GITHUB_AFTER}`
       : "HEAD~1..HEAD";
-    const out = execSync(`git diff --name-only --diff-filter=AM ${range} -- 'blog/posts/**/index.html' 'blog/posts/**.html'`, { encoding: "utf8" });
+    const out = execSync(`git diff --name-only --diff-filter=AM ${range} -- 'insights/**/index.html'`, { encoding: "utf8" });
     const lines = out.trim().split("\n").filter(Boolean);
     if (!lines.length) return null;
     // Prefer index.html paths
@@ -64,7 +64,7 @@ function decodeEntities(s){return String(s||"")
   .replace(/&ndash;/g,"–").replace(/&hellip;/g,"…").replace(/&nbsp;/g," ");}
 const h1 = decodeEntities((html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/) || [, ""])[1].replace(/<[^>]+>/g, "").trim());
 const desc = decodeEntities((html.match(/<meta\s+name="description"\s+content="([^"]+)"/) || [, ""])[1]);
-const url = `https://beyondelevation.com/blog/posts/${slug}/`;
+const url = `https://beyondelevation.com/insights/${slug}/`;
 console.log(`[2/4] title: ${h1.slice(0, 80)}`);
 
 // 3. Build caption — worker-facing, hook-first, includes URL.

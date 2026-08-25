@@ -20,14 +20,14 @@
  *   { slug, title, url, score, ctaLine, fallback: false }  — topic-matched
  *   { slug: null, url, ctaLine, fallback: true }           — generic blog-index fallback
  *
- * BE blog URLs are https://beyondelevation.com/blog/posts/<slug>/
+ * BE blog URLs are https://beyondelevation.com/insights/<slug>/
  * (confirmed in sitemap.xml at https://beyondelevation.com/sitemap.xml).
  */
 
 import { readFileSync, existsSync } from 'node:fs';
 
 const POSTS_FILE = 'data/posts.json';
-const BLOG_BASE  = 'https://beyondelevation.com/blog/posts/';
+const BLOG_BASE  = 'https://beyondelevation.com/insights/';
 const BLOG_INDEX = 'https://beyondelevation.com/blog/';
 const MIN_SCORE  = 2;    // need ≥2 shared meaningful tokens to be relevant
 const STOP = new Set([

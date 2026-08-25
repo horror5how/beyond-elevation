@@ -63,7 +63,7 @@ jobs:
           CHANGED=$(git diff --name-only "main...${{ github.sha }}")
           echo "Changed files:"
           echo "$CHANGED"
-          BAD=$(echo "$CHANGED" | grep -v -E '^(data/posts\.json|sitemap\.xml|llms\.txt|llms-full\.txt|blog/md/[^/]+\.md|blog/index\.html|blog/posts/[^/]+/index\.html|beyondelevation-keyword-strategy\.md)$' || true)
+          BAD=$(echo "$CHANGED" | grep -v -E '^(data/posts\.json|sitemap\.xml|llms\.txt|llms-full\.txt|insights/md/[^/]+\.md|insights/index\.html|insights/[^/]+/index\.html|beyondelevation-keyword-strategy\.md)$' || true)
           if [ -n "$BAD" ]; then
             echo "Branch touches files outside the allow-list:"
             echo "$BAD"
@@ -119,10 +119,10 @@ jobs:
           git reset --hard origin/main
           # Single authoritative publish step. Reads data/posts.json and
           # regenerates:
-          #   - blog/posts/<slug>/index.html for every approved post
-          #   - blog/index.html (cards + JSON-LD ItemList)
+          #   - insights/<slug>/index.html for every approved post
+          #   - insights/index.html (cards + JSON-LD ItemList)
           #   - sitemap.xml
-          #   - blog/md/<slug>.md, llms.txt, llms-full.txt
+          #   - insights/md/<slug>.md, llms.txt, llms-full.txt
           # This guarantees the live site reflects posts.json even if the
           # scheduled task only updates posts.json.
           node scripts/build-static-posts.js
@@ -133,7 +133,7 @@ jobs:
         if: steps.ahead.outputs.commits_ahead != '0' && steps.safety.outputs.safe == 'true'
         run: |
           set -e
-          git add blog/posts blog/index.html sitemap.xml llms.txt llms-full.txt blog/md 2>/dev/null || true
+          git add insights sitemap.xml llms.txt llms-full.txt 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No generated changes to commit — nothing to publish."
           else

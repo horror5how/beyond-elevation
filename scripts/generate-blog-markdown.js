@@ -17,14 +17,14 @@ const path = require('path');
 
 const BASE = path.resolve(__dirname, '..');
 const POSTS_FILE = path.join(BASE, 'data', 'posts.json');
-const MD_DIR = path.join(BASE, 'blog', 'md');
+const MD_DIR = path.join(BASE, 'insights', 'md');
 const LLMS_FILE = path.join(BASE, 'llms.txt');
 const LLMS_FULL_FILE = path.join(BASE, 'llms-full.txt');
 const SITEMAP_FILE = path.join(BASE, 'sitemap.xml');
 
 // End-of-post conversion CTA in markdown form. Inserted between body and FAQ
 // (when present), otherwise appended. Mirrors the HTML CTA in
-// scripts/build-static-posts.js so /blog/md/<slug>.md and llms-full.txt also
+// scripts/build-static-posts.js so /insights/md/<slug>.md and llms-full.txt also
 // surface the conversion path. ?ref=blog-<slug> attributes Motion bookings.
 function renderPostCTAMarkdown(slug) {
   const ref = encodeURIComponent(slug || '');
@@ -32,13 +32,11 @@ function renderPostCTAMarkdown(slug) {
 
 ---
 
-### You just read the framework. Now price your own IP.
+### Want this position in your company?
 
-Beyond Elevation runs a 60-minute IP & licensing diagnostic for founders raising Seed–Series B. You leave with: (1) a defensibility score, (2) the royalty range your current portfolio supports, (3) the next 3 filings ranked by exit-multiple impact. No deck. No proposal. One call, one number.
+Beyond Elevation places exited C-suite operators into fractional executive positions: Chief Financial Officer, Chief IP Officer, AI Operations. A free 30 minute call, straight answer, no pitch. If there is nothing worth doing, we say so on the call.
 
-[Book the diagnostic →](/call/web?ref=blog-${ref})
-
-*14 founders booked this month. Hayat takes 4/week.*
+[Book a free call →](https://beyondelevation.com/call)
 
 ---
 `;
@@ -115,7 +113,7 @@ function main() {
     const date = post.publishDate || post.date || '';
     // Clean canonical URL \u2014 NOT the legacy /blog/post.html?slug= pattern,
     // which serves a JS shell and looks like a duplicate page to crawlers.
-    const cleanUrl = `https://beyondelevation.com/blog/posts/${post.slug}/`;
+    const cleanUrl = `https://beyondelevation.com/insights/${post.slug}/`;
 
     const mdContent = `---
 title: "${post.title.replace(/"/g, '\\"')}"
@@ -131,21 +129,21 @@ site: Beyond Elevation
 ${bodyMd}
 
 ---
-*Published on [Beyond Elevation](https://beyondelevation.com) \u2014 IP Strategy & Licensing Revenue Consultancy*
+*Published on [Beyond Elevation](https://beyondelevation.com) \u2014 Fractional CFO, Chief IP Officer and AI Operations placements*
 `;
 
     fs.writeFileSync(path.join(MD_DIR, `${post.slug}.md`), mdContent);
 
-    blogListing += `- [${post.title}](${cleanUrl}) \u2014 /blog/md/${post.slug}.md\n`;
+    blogListing += `- [${post.title}](${cleanUrl}) \u2014 /insights/md/${post.slug}.md\n`;
     blogFullContent += `\n## ${post.title}\n\nURL: ${cleanUrl}\n\n${bodyMd.substring(0, 1500)}\n\n---\n`;
   }
 
   // Update llms.txt - replace blog section or append
   let llms = fs.readFileSync(LLMS_FILE, 'utf8');
-  const blogSectionMarker = '## Blog Articles';
+  const blogSectionMarker = '## Insights articles';
   const blogSectionIdx = llms.indexOf(blogSectionMarker);
 
-  const newBlogSection = `## Blog Articles\n\nBeyond Elevation publishes expert articles on IP strategy and licensing revenue. Individual markdown files available at /blog/md/{slug}.md\n\n${blogListing}\n> Full blog content available at /llms-full.txt\n`;
+  const newBlogSection = `## Insights articles\n\nBeyond Elevation publishes straight talking pieces on finance, AI operations, IP strategy, data and the money behind them. Individual markdown files available at /insights/md/{slug}.md\n\n${blogListing}\n> Full blog content available at /llms-full.txt\n`;
 
   if (blogSectionIdx !== -1) {
     llms = llms.substring(0, blogSectionIdx) + newBlogSection;
@@ -155,7 +153,7 @@ ${bodyMd}
   fs.writeFileSync(LLMS_FILE, llms);
 
   // Update llms-full.txt - replace blog section or append
-  let llmsFull = fs.readFileSync(LLMS_FULL_FILE, 'utf8');
+  let llmsFull = fs.existsSync(LLMS_FULL_FILE) ? fs.readFileSync(LLMS_FULL_FILE, 'utf8') : '# Beyond Elevation, full article content\n';
   const blogFullMarker = '# Blog Articles';
   const blogFullIdx = llmsFull.indexOf(blogFullMarker);
 
