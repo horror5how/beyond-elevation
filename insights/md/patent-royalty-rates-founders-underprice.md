@@ -2,7 +2,7 @@
 title: "Why Founders Underprice Patent Royalties (And the 2026 Industry Rate Benchmarks That Prove It)"
 slug: patent-royalty-rates-founders-underprice
 date: 2026-05-06
-url: https://beyondelevation.com/insights/patent-royalty-rates-founders-underprice/
+url: https://beyondelevation.com/insights/patent-royalty-rates-founders-underprice
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Patent Landscape Analysis in 2026: The 5-Step Playbook PatSnap and Questel Charge $80K For (And the Open-Source Version That Beats Both)"
 slug: patent-landscape-analysis
 date: 2026-05-25
-url: https://beyondelevation.com/insights/patent-landscape-analysis/
+url: https://beyondelevation.com/insights/patent-landscape-analysis
 author: Hayat Amin
 site: Beyond Elevation
 ---

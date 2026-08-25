@@ -2,7 +2,7 @@
 title: "Your AI Agent Workflow Is Worth More Than Your Model: The Agentic AI Intellectual Property Playbook for 2026"
 slug: agentic-ai-workflow-ip-protection
 date: 2026-07-04
-url: https://beyondelevation.com/insights/agentic-ai-workflow-ip-protection/
+url: https://beyondelevation.com/insights/agentic-ai-workflow-ip-protection
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "How to Value Trade Secrets: The 3-Method Framework That Proves Your Unpatented IP Is Worth More Than Your Patents"
 slug: how-to-value-trade-secrets
 date: 2026-07-10
-url: https://beyondelevation.com/insights/how-to-value-trade-secrets/
+url: https://beyondelevation.com/insights/how-to-value-trade-secrets
 author: Hayat Amin
 site: Beyond Elevation
 ---

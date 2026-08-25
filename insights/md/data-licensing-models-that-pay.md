@@ -2,7 +2,7 @@
 title: "The 5 Data Licensing Models That Actually Pay — And Which One Gets Top AI Sellers to 11% of Revenue From Data"
 slug: data-licensing-models-that-pay
 date: 2026-06-09
-url: https://beyondelevation.com/insights/data-licensing-models-that-pay/
+url: https://beyondelevation.com/insights/data-licensing-models-that-pay
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "IP Strategy for AgriTech Startups: Your Precision Agriculture Data Is Worth More Than Your Patent and Most Founders Protect Neither"
 slug: ip-strategy-agritech-foodtech-startups
 date: 2026-07-31
-url: https://beyondelevation.com/insights/ip-strategy-agritech-foodtech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-agritech-foodtech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

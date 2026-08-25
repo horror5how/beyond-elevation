@@ -2,7 +2,7 @@
 title: "5 AI Startup IP Strategy Mistakes in 2026 That Did Not Exist in 2024"
 slug: ai-startup-ip-strategy-mistakes-2026
 date: 2026-08-21
-url: https://beyondelevation.com/insights/ai-startup-ip-strategy-mistakes-2026/
+url: https://beyondelevation.com/insights/ai-startup-ip-strategy-mistakes-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

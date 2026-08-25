@@ -2,7 +2,7 @@
 title: "You Spent $2M on R&D Last Year. You Protected $0 of It."
 slug: rd-spending-zero-ip-protection
 date: 2026-04-09
-url: https://beyondelevation.com/insights/rd-spending-zero-ip-protection/
+url: https://beyondelevation.com/insights/rd-spending-zero-ip-protection
 author: Hayat Amin
 site: Beyond Elevation
 ---

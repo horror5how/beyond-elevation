@@ -2,7 +2,7 @@
 title: "An IP-Backed Loan Costs $1.08M. The Same Raise as Equity Costs You $20M. The Founder Math Nobody Runs Before Their Next Round"
 slug: ip-backed-loan-vs-equity-dilution-cost
 date: 2026-07-02
-url: https://beyondelevation.com/insights/ip-backed-loan-vs-equity-dilution-cost/
+url: https://beyondelevation.com/insights/ip-backed-loan-vs-equity-dilution-cost
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "40% of Seed Money Now Goes to $100M AI Rounds — How to Land on the Funded Side of the Barbell"
 slug: ai-funding-barbell-100m-rounds-2026
 date: 2026-07-23
-url: https://beyondelevation.com/insights/ai-funding-barbell-100m-rounds-2026/
+url: https://beyondelevation.com/insights/ai-funding-barbell-100m-rounds-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

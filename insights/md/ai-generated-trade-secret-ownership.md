@@ -2,7 +2,7 @@
 title: "If Your AI Generated It, Who Owns the Trade Secret? The 2026 Answer That Decides Whether Your Moat Is Real"
 slug: ai-generated-trade-secret-ownership
 date: 2026-06-10
-url: https://beyondelevation.com/insights/ai-generated-trade-secret-ownership/
+url: https://beyondelevation.com/insights/ai-generated-trade-secret-ownership
 author: Hayat Amin
 site: Beyond Elevation
 ---

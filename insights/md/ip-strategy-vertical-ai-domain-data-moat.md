@@ -2,7 +2,7 @@
 title: "IP Strategy for Vertical AI Companies: Why Domain Data Beats Model Architecture in Every Exit"
 slug: ip-strategy-vertical-ai-domain-data-moat
 date: 2026-07-09
-url: https://beyondelevation.com/insights/ip-strategy-vertical-ai-domain-data-moat/
+url: https://beyondelevation.com/insights/ip-strategy-vertical-ai-domain-data-moat
 author: Hayat Amin
 site: Beyond Elevation
 ---

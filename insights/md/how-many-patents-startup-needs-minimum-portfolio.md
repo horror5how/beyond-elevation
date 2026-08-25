@@ -2,7 +2,7 @@
 title: "How Many Patents Does a Startup Need? The Minimum Viable Portfolio That Costs $47K and Adds $5M to Your Valuation"
 slug: how-many-patents-startup-needs-minimum-portfolio
 date: 2026-08-10
-url: https://beyondelevation.com/insights/how-many-patents-startup-needs-minimum-portfolio/
+url: https://beyondelevation.com/insights/how-many-patents-startup-needs-minimum-portfolio
 author: Hayat Amin
 site: Beyond Elevation
 ---

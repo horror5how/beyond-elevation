@@ -2,7 +2,7 @@
 title: "9 IP Strategy Mistakes That Cost Startups 40% of Their Valuation"
 slug: ip-strategy-mistakes-startup-valuation
 date: 2026-07-01
-url: https://beyondelevation.com/insights/ip-strategy-mistakes-startup-valuation/
+url: https://beyondelevation.com/insights/ip-strategy-mistakes-startup-valuation
 author: Hayat Amin
 site: Beyond Elevation
 ---

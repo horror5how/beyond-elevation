@@ -2,7 +2,7 @@
 title: "Your IP Could Add 40% to Your Exit Price. Most Founders Never Collect It."
 slug: ip-exit-value-multiplier
 date: 2026-04-05
-url: https://beyondelevation.com/insights/ip-exit-value-multiplier/
+url: https://beyondelevation.com/insights/ip-exit-value-multiplier
 author: Hayat Amin
 site: Beyond Elevation
 ---

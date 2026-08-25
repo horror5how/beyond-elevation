@@ -2,7 +2,7 @@
 title: "SEP Licensing and FRAND Explained: Why Your Standard Essential Patent Is Worth $50K or $50M (And the One Determinant That Decides It)"
 slug: sep-licensing-frand-explained
 date: 2026-05-27
-url: https://beyondelevation.com/insights/sep-licensing-frand-explained/
+url: https://beyondelevation.com/insights/sep-licensing-frand-explained
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "What Happens to Your Patents When Your Startup Shuts Down? The 5-Move IP Salvage Sequence"
 slug: ip-salvage-startup-shutdown-playbook-2026
 date: 2026-08-23
-url: https://beyondelevation.com/insights/ip-salvage-startup-shutdown-playbook-2026/
+url: https://beyondelevation.com/insights/ip-salvage-startup-shutdown-playbook-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

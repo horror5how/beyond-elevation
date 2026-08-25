@@ -2,7 +2,7 @@
 title: "Your Lead Engineer Legally Owns Your Core Patent. You Forgot the IP Assignment Clause."
 slug: employee-ip-assignment-gap
 date: 2026-04-10
-url: https://beyondelevation.com/insights/employee-ip-assignment-gap/
+url: https://beyondelevation.com/insights/employee-ip-assignment-gap
 author: Hayat Amin
 site: Beyond Elevation
 ---

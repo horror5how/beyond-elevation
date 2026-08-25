@@ -2,7 +2,7 @@
 title: "Can You Patent a Business Model? The 2026 Claim Structure That Survives Alice"
 slug: can-you-patent-a-business-model
 date: 2026-07-06
-url: https://beyondelevation.com/insights/can-you-patent-a-business-model/
+url: https://beyondelevation.com/insights/can-you-patent-a-business-model
 author: Hayat Amin
 site: Beyond Elevation
 ---

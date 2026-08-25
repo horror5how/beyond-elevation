@@ -2,7 +2,7 @@
 title: "Is Data Worth More Than Gold? Top AI Firms Earn 11% of Revenue From Data Assets vs 2% for Everyone Else"
 slug: is-data-worth-more-than-gold-2026
 date: 2026-06-08
-url: https://beyondelevation.com/insights/is-data-worth-more-than-gold-2026/
+url: https://beyondelevation.com/insights/is-data-worth-more-than-gold-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

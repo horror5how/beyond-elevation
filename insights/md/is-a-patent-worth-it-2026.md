@@ -2,7 +2,7 @@
 title: "Is a Patent Worth It in 2026? Only If You Pass These 4 Tests First"
 slug: is-a-patent-worth-it-2026
 date: 2026-05-20
-url: https://beyondelevation.com/insights/is-a-patent-worth-it-2026/
+url: https://beyondelevation.com/insights/is-a-patent-worth-it-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

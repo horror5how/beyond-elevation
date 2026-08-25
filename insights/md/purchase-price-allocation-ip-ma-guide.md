@@ -2,7 +2,7 @@
 title: "How Purchase Price Allocation Destroys IP Value in Tech M&A (And the 5 Step Framework to Stop It)"
 slug: purchase-price-allocation-ip-ma-guide
 date: 2026-07-16
-url: https://beyondelevation.com/insights/purchase-price-allocation-ip-ma-guide/
+url: https://beyondelevation.com/insights/purchase-price-allocation-ip-ma-guide
 author: Hayat Amin
 site: Beyond Elevation
 ---

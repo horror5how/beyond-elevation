@@ -2,7 +2,7 @@
 title: "AI Due Diligence Is Killing Deals in 2026. Here Is the 6-Point Framework Buyers Actually Use."
 slug: ai-due-diligence-ma-framework
 date: 2026-05-20
-url: https://beyondelevation.com/insights/ai-due-diligence-ma-framework/
+url: https://beyondelevation.com/insights/ai-due-diligence-ma-framework
 author: Hayat Amin
 site: Beyond Elevation
 ---

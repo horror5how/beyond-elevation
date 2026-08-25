@@ -2,7 +2,7 @@
 title: "The Top 3 Valuation Methods Founders Must Know Cold (And the One Investors Trust for Intangibles)"
 slug: top-3-valuation-methods-intangibles
 date: 2026-06-23
-url: https://beyondelevation.com/insights/top-3-valuation-methods-intangibles/
+url: https://beyondelevation.com/insights/top-3-valuation-methods-intangibles
 author: Hayat Amin
 site: Beyond Elevation
 ---

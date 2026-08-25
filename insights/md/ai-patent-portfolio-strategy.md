@@ -2,7 +2,7 @@
 title: "Most AI Founders Have Patents. Almost None Have a Portfolio. That Gap Is Worth Millions."
 slug: ai-patent-portfolio-strategy
 date: 2026-04-06
-url: https://beyondelevation.com/insights/ai-patent-portfolio-strategy/
+url: https://beyondelevation.com/insights/ai-patent-portfolio-strategy
 author: Hayat Amin
 site: Beyond Elevation
 ---

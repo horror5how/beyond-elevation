@@ -2,7 +2,7 @@
 title: "These Lenders Ask for Your Patent Schedule Before Your Financials — The 2026 IP-Backed Venture Debt Directory"
 slug: venture-debt-lenders-patent-collateral-2026
 date: 2026-06-08
-url: https://beyondelevation.com/insights/venture-debt-lenders-patent-collateral-2026/
+url: https://beyondelevation.com/insights/venture-debt-lenders-patent-collateral-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

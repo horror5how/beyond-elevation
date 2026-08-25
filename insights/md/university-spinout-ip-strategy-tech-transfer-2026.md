@@ -2,7 +2,7 @@
 title: "Your University Owns Your Best Patent and Your Investor Knows It: The Tech Transfer IP Trap 78% of Spinout Founders Miss"
 slug: university-spinout-ip-strategy-tech-transfer-2026
 date: 2026-08-08
-url: https://beyondelevation.com/insights/university-spinout-ip-strategy-tech-transfer-2026/
+url: https://beyondelevation.com/insights/university-spinout-ip-strategy-tech-transfer-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

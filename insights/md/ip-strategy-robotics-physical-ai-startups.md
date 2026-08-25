@@ -2,7 +2,7 @@
 title: "Your Robot Patent Grants Two Hardware Generations Too Late: The IP Strategy for Robotics Startups That Survives the Redesign"
 slug: ip-strategy-robotics-physical-ai-startups
 date: 2026-07-24
-url: https://beyondelevation.com/insights/ip-strategy-robotics-physical-ai-startups/
+url: https://beyondelevation.com/insights/ip-strategy-robotics-physical-ai-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

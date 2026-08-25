@@ -2,7 +2,7 @@
 title: "How the UK Patent Box Works in 2026: The 10% Tax Rate Most Founders Ignore (And the R&D Co-Claim That Doubles the Saving)"
 slug: uk-patent-box-rd-co-claim-2026
 date: 2026-06-14
-url: https://beyondelevation.com/insights/uk-patent-box-rd-co-claim-2026/
+url: https://beyondelevation.com/insights/uk-patent-box-rd-co-claim-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

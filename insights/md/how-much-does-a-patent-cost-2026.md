@@ -2,7 +2,7 @@
 title: "How Much Does a Patent Cost in 2026? The Real Numbers Most Founders Never Budget For"
 slug: how-much-does-a-patent-cost-2026
 date: 2026-06-19
-url: https://beyondelevation.com/insights/how-much-does-a-patent-cost-2026/
+url: https://beyondelevation.com/insights/how-much-does-a-patent-cost-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

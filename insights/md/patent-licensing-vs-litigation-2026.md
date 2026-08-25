@@ -2,7 +2,7 @@
 title: "Patent Litigation Costs $3M and Takes 3 Years. Patent Licensing Pays Recurring Royalties From Day One. The 2026 Data Is Not Close."
 slug: patent-licensing-vs-litigation-2026
 date: 2026-08-01
-url: https://beyondelevation.com/insights/patent-licensing-vs-litigation-2026/
+url: https://beyondelevation.com/insights/patent-licensing-vs-litigation-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

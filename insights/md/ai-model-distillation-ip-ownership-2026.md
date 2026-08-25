@@ -2,7 +2,7 @@
 title: "AI Model Distillation IP Ownership: You Built It, You Trained It, and You Might Not Own It"
 slug: ai-model-distillation-ip-ownership-2026
 date: 2026-08-17
-url: https://beyondelevation.com/insights/ai-model-distillation-ip-ownership-2026/
+url: https://beyondelevation.com/insights/ai-model-distillation-ip-ownership-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

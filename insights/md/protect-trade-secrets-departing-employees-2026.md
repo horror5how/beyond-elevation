@@ -2,7 +2,7 @@
 title: "85% of Trade Secret Cases Start with a Departing Employee. Here Is the Exit Protocol That Stops It"
 slug: protect-trade-secrets-departing-employees-2026
 date: 2026-08-05
-url: https://beyondelevation.com/insights/protect-trade-secrets-departing-employees-2026/
+url: https://beyondelevation.com/insights/protect-trade-secrets-departing-employees-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

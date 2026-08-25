@@ -2,7 +2,7 @@
 title: "AI Patent Search in 2026: The 7 Tools That Use LLM Embeddings Instead of Boolean (And Which One Beats PatSnap on Recall)"
 slug: ai-patent-search-tools-2026
 date: 2026-06-07
-url: https://beyondelevation.com/insights/ai-patent-search-tools-2026/
+url: https://beyondelevation.com/insights/ai-patent-search-tools-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

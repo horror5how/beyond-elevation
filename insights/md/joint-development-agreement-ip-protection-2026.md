@@ -2,7 +2,7 @@
 title: "Your Joint Development Deal Just Gave Away Your Best Patent. Here Is the 5-Clause Fix."
 slug: joint-development-agreement-ip-protection-2026
 date: 2026-08-20
-url: https://beyondelevation.com/insights/joint-development-agreement-ip-protection-2026/
+url: https://beyondelevation.com/insights/joint-development-agreement-ip-protection-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Your IP Budget Is Backwards: The Stage-by-Stage Guide From Pre-Seed to Series B"
 slug: ip-budget-startup-stage-guide-2026
 date: 2026-08-10
-url: https://beyondelevation.com/insights/ip-budget-startup-stage-guide-2026/
+url: https://beyondelevation.com/insights/ip-budget-startup-stage-guide-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

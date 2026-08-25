@@ -2,7 +2,7 @@
 title: "How to License Your Data to AI Companies: The 5-Step Playbook Worth 7 Figures"
 slug: how-to-license-data-to-ai-companies
 date: 2026-06-29
-url: https://beyondelevation.com/insights/how-to-license-data-to-ai-companies/
+url: https://beyondelevation.com/insights/how-to-license-data-to-ai-companies
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "How to License Your AI Model: The 5 Deal Structures That Turn Inference Into Income"
 slug: how-to-license-ai-model
 date: 2026-05-20
-url: https://beyondelevation.com/insights/how-to-license-ai-model/
+url: https://beyondelevation.com/insights/how-to-license-ai-model
 author: Hayat Amin
 site: Beyond Elevation
 ---

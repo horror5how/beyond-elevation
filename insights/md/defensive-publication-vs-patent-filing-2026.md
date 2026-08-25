@@ -2,7 +2,7 @@
 title: "Defensive Publication vs Patent Filing: The $0 IP Move That Blocks Competitors From Patenting Your Invention"
 slug: defensive-publication-vs-patent-filing-2026
 date: 2026-08-16
-url: https://beyondelevation.com/insights/defensive-publication-vs-patent-filing-2026/
+url: https://beyondelevation.com/insights/defensive-publication-vs-patent-filing-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

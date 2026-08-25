@@ -2,7 +2,7 @@
 title: "Your Codebase Has $500K of Unfiled IP. Most Founders Ship It Instead."
 slug: patent-mining-codebase-hidden-ip
 date: 2026-04-10
-url: https://beyondelevation.com/insights/patent-mining-codebase-hidden-ip/
+url: https://beyondelevation.com/insights/patent-mining-codebase-hidden-ip
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "7 IP Licensing Agreement Clauses That Separate $100K Deals From $10M Deals"
 slug: ip-licensing-agreement-clauses-that-matter
 date: 2026-07-08
-url: https://beyondelevation.com/insights/ip-licensing-agreement-clauses-that-matter/
+url: https://beyondelevation.com/insights/ip-licensing-agreement-clauses-that-matter
 author: Hayat Amin
 site: Beyond Elevation
 ---

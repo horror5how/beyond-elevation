@@ -2,7 +2,7 @@
 title: "IP Strategy for Compound AI: The 4 Patent Gaps Hiding in Every Multi-Model Architecture"
 slug: ip-strategy-compound-ai-systems-2026
 date: 2026-08-06
-url: https://beyondelevation.com/insights/ip-strategy-compound-ai-systems-2026/
+url: https://beyondelevation.com/insights/ip-strategy-compound-ai-systems-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

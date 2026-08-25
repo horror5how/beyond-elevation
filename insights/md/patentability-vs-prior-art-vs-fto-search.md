@@ -2,7 +2,7 @@
 title: "Patentability Search vs Prior Art Search vs FTO: The 3-Search Decision Tree Every Founder Confuses (And the One You Actually Need First)"
 slug: patentability-vs-prior-art-vs-fto-search
 date: 2026-05-30
-url: https://beyondelevation.com/insights/patentability-vs-prior-art-vs-fto-search/
+url: https://beyondelevation.com/insights/patentability-vs-prior-art-vs-fto-search
 author: Hayat Amin
 site: Beyond Elevation
 ---

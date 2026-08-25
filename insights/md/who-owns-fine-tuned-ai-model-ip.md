@@ -2,7 +2,7 @@
 title: "You Fine-Tuned an AI Model on Your Data. Who Actually Owns the Result?"
 slug: who-owns-fine-tuned-ai-model-ip
 date: 2026-07-04
-url: https://beyondelevation.com/insights/who-owns-fine-tuned-ai-model-ip/
+url: https://beyondelevation.com/insights/who-owns-fine-tuned-ai-model-ip
 author: Hayat Amin
 site: Beyond Elevation
 ---

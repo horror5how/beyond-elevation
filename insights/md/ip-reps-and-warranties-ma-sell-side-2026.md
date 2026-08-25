@@ -2,7 +2,7 @@
 title: "The Clause That Claws Back Your Exit: IP Reps and Warranties in an M&A Deal, Explained for Sellers"
 slug: ip-reps-and-warranties-ma-sell-side-2026
 date: 2026-07-20
-url: https://beyondelevation.com/insights/ip-reps-and-warranties-ma-sell-side-2026/
+url: https://beyondelevation.com/insights/ip-reps-and-warranties-ma-sell-side-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

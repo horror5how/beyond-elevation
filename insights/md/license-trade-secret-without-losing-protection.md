@@ -2,7 +2,7 @@
 title: "You Can License a Trade Secret for Recurring Revenue. One Missing Clause Destroys It Forever. The 4 Guardrails AI Labs Use."
 slug: license-trade-secret-without-losing-protection
 date: 2026-07-03
-url: https://beyondelevation.com/insights/license-trade-secret-without-losing-protection/
+url: https://beyondelevation.com/insights/license-trade-secret-without-losing-protection
 author: Hayat Amin
 site: Beyond Elevation
 ---

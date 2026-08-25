@@ -2,7 +2,7 @@
 title: "IP Portfolio Structuring: The IP Holdco Structure Billion-Dollar Companies Use to Protect and License Their Patents"
 slug: ip-portfolio-structuring-guide
 date: 2026-04-15
-url: https://beyondelevation.com/insights/ip-portfolio-structuring-guide/
+url: https://beyondelevation.com/insights/ip-portfolio-structuring-guide
 author: Hayat Amin
 site: Beyond Elevation
 ---

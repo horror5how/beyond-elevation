@@ -2,7 +2,7 @@
 title: "80% of AI Acqui-Hire Deals Leave Patent Value on the Table: The 4 IP Clauses That Recover It"
 slug: ai-acqui-hire-ip-value-4-clause-fix-2026
 date: 2026-07-27
-url: https://beyondelevation.com/insights/ai-acqui-hire-ip-value-4-clause-fix-2026/
+url: https://beyondelevation.com/insights/ai-acqui-hire-ip-value-4-clause-fix-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

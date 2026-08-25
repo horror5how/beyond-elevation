@@ -2,7 +2,7 @@
 title: "The 5 Patent Licensing Clauses That Separate a $2M Deal From a $200K One"
 slug: patent-licensing-clauses-10x-value-2026
 date: 2026-08-22
-url: https://beyondelevation.com/insights/patent-licensing-clauses-10x-value-2026/
+url: https://beyondelevation.com/insights/patent-licensing-clauses-10x-value-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

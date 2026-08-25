@@ -2,7 +2,7 @@
 title: "Most Patent Licensing Deals Leave 80% of the Money on the Table. Here Is the 7-Term Framework That Stops It."
 slug: patent-licensing-deal-structure
 date: 2026-05-21
-url: https://beyondelevation.com/insights/patent-licensing-deal-structure/
+url: https://beyondelevation.com/insights/patent-licensing-deal-structure
 author: Hayat Amin
 site: Beyond Elevation
 ---

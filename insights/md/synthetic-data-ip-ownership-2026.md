@@ -2,7 +2,7 @@
 title: "You Generated 10 Million Synthetic Training Records. Here Is Who Actually Owns Them."
 slug: synthetic-data-ip-ownership-2026
 date: 2026-07-20
-url: https://beyondelevation.com/insights/synthetic-data-ip-ownership-2026/
+url: https://beyondelevation.com/insights/synthetic-data-ip-ownership-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

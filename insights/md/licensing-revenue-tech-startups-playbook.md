@@ -2,7 +2,7 @@
 title: "Licensing Revenue for Tech Startups: The Playbook That Turned a 66-Patent Portfolio Into an Eight-Figure Royalty Machine"
 slug: licensing-revenue-tech-startups-playbook
 date: 2026-04-14
-url: https://beyondelevation.com/insights/licensing-revenue-tech-startups-playbook/
+url: https://beyondelevation.com/insights/licensing-revenue-tech-startups-playbook
 author: Hayat Amin
 site: Beyond Elevation
 ---

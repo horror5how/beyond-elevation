@@ -2,7 +2,7 @@
 title: "The 30% Rule in AI Valuation: What Investors Actually Mean"
 slug: 30-percent-rule-ai-valuation
 date: 2026-04-27
-url: https://beyondelevation.com/insights/30-percent-rule-ai-valuation/
+url: https://beyondelevation.com/insights/30-percent-rule-ai-valuation
 author: Hayat Amin
 site: Beyond Elevation
 ---

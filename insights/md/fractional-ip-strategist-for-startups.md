@@ -2,7 +2,7 @@
 title: "The Fractional IP Strategist Playbook: How Startups Get FTSE 100-Grade IP Strategy Without Hiring a Full-Time CIPO"
 slug: fractional-ip-strategist-for-startups
 date: 2026-05-22
-url: https://beyondelevation.com/insights/fractional-ip-strategist-for-startups/
+url: https://beyondelevation.com/insights/fractional-ip-strategist-for-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

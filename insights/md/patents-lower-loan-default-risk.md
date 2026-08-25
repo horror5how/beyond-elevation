@@ -2,7 +2,7 @@
 title: "Patents Lower Your Loan Default Risk by 38% — Why IP-Backed Loans Are Cheaper Than Venture Debt"
 slug: patents-lower-loan-default-risk
 date: 2026-06-04
-url: https://beyondelevation.com/insights/patents-lower-loan-default-risk/
+url: https://beyondelevation.com/insights/patents-lower-loan-default-risk
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "You Are 10.2x More Likely to Get Funded With Patents. Most Founders File After the Round."
 slug: patent-strategy-seed-series-a-fundraising
 date: 2026-04-07
-url: https://beyondelevation.com/insights/patent-strategy-seed-series-a-fundraising/
+url: https://beyondelevation.com/insights/patent-strategy-seed-series-a-fundraising
 author: Hayat Amin
 site: Beyond Elevation
 ---

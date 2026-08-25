@@ -2,7 +2,7 @@
 title: "The 4 IP Clauses in Your Term Sheet That Quietly Transfer Your Best Asset to Your Investors"
 slug: ip-clauses-term-sheet-founder-trap-2026
 date: 2026-07-22
-url: https://beyondelevation.com/insights/ip-clauses-term-sheet-founder-trap-2026/
+url: https://beyondelevation.com/insights/ip-clauses-term-sheet-founder-trap-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

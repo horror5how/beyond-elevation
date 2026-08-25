@@ -2,7 +2,7 @@
 title: "Corporate Venture Capital IP Risk: 5 Clauses That Turn Your Investor Into Your Competitor"
 slug: corporate-venture-capital-ip-trap-2026
 date: 2026-08-04
-url: https://beyondelevation.com/insights/corporate-venture-capital-ip-trap-2026/
+url: https://beyondelevation.com/insights/corporate-venture-capital-ip-trap-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

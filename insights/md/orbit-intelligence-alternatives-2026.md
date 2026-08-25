@@ -2,7 +2,7 @@
 title: "The Best Orbit Intelligence Alternatives in 2026 (Questel Compared Honestly)"
 slug: orbit-intelligence-alternatives-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/orbit-intelligence-alternatives-2026/
+url: https://beyondelevation.com/insights/orbit-intelligence-alternatives-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

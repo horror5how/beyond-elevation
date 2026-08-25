@@ -2,7 +2,7 @@
 title: "What Is a Patent Family? The Hidden Structure That Doubles Your IP Value"
 slug: what-is-a-patent-family
 date: 2026-05-21
-url: https://beyondelevation.com/insights/what-is-a-patent-family/
+url: https://beyondelevation.com/insights/what-is-a-patent-family
 author: Hayat Amin
 site: Beyond Elevation
 ---

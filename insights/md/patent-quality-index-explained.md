@@ -2,7 +2,7 @@
 title: "Patent Quality Index Explained: How PatentSight and Innography Score Patents (And the 5 Inputs You Should Run Yourself in 20 Minutes)"
 slug: patent-quality-index-explained
 date: 2026-05-31
-url: https://beyondelevation.com/insights/patent-quality-index-explained/
+url: https://beyondelevation.com/insights/patent-quality-index-explained
 author: Hayat Amin
 site: Beyond Elevation
 ---

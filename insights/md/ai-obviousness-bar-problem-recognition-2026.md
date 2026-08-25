@@ -2,7 +2,7 @@
 title: "AI Is Raising the Bar for What Counts as Obvious. That Changes What Your Patents Are Worth"
 slug: ai-obviousness-bar-problem-recognition-2026
 date: 2026-08-20
-url: https://beyondelevation.com/insights/ai-obviousness-bar-problem-recognition-2026/
+url: https://beyondelevation.com/insights/ai-obviousness-bar-problem-recognition-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

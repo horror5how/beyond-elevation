@@ -2,7 +2,7 @@
 title: "Can You Patent a Prompt? The 2026 Legal Reality for AI Prompt Engineering IP"
 slug: can-you-patent-a-prompt-2026
 date: 2026-07-07
-url: https://beyondelevation.com/insights/can-you-patent-a-prompt-2026/
+url: https://beyondelevation.com/insights/can-you-patent-a-prompt-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

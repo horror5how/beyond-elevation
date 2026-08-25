@@ -2,7 +2,7 @@
 title: "The 5-Axis Data Moat Score Investors Run Before They Price Your Round"
 slug: data-moat-scoring-framework-investors
 date: 2026-06-22
-url: https://beyondelevation.com/insights/data-moat-scoring-framework-investors/
+url: https://beyondelevation.com/insights/data-moat-scoring-framework-investors
 author: Hayat Amin
 site: Beyond Elevation
 ---

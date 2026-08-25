@@ -2,7 +2,7 @@
 title: "Quantum Computing IP Strategy: IBM Owns 2,000 Quantum Patents and Most Startups Are Building on Claims They Have Not Cleared"
 slug: ip-strategy-quantum-computing-startups
 date: 2026-07-30
-url: https://beyondelevation.com/insights/ip-strategy-quantum-computing-startups/
+url: https://beyondelevation.com/insights/ip-strategy-quantum-computing-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The Pre-IPO IP Audit: 11 Things Your S-1 Reviewer Will Find If You Do Not"
 slug: pre-ipo-ip-audit-consultant
 date: 2026-05-23
-url: https://beyondelevation.com/insights/pre-ipo-ip-audit-consultant/
+url: https://beyondelevation.com/insights/pre-ipo-ip-audit-consultant
 author: Hayat Amin
 site: Beyond Elevation
 ---

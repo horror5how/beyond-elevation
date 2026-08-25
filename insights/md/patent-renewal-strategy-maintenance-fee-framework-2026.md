@@ -2,7 +2,7 @@
 title: "Patent Renewal Strategy: The 4-Question Framework That Stops Founders Wasting $100K on Dead Patents"
 slug: patent-renewal-strategy-maintenance-fee-framework-2026
 date: 2026-08-09
-url: https://beyondelevation.com/insights/patent-renewal-strategy-maintenance-fee-framework-2026/
+url: https://beyondelevation.com/insights/patent-renewal-strategy-maintenance-fee-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

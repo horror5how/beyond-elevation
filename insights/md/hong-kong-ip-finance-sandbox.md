@@ -2,7 +2,7 @@
 title: "Hong Kong Just Made IP a Borrowable Asset in 2026 — Inside the IP-Finance Sandbox Founders Are Already Using to Raise Without Equity"
 slug: hong-kong-ip-finance-sandbox
 date: 2026-05-28
-url: https://beyondelevation.com/insights/hong-kong-ip-finance-sandbox/
+url: https://beyondelevation.com/insights/hong-kong-ip-finance-sandbox
 author: Hayat Amin
 site: Beyond Elevation
 ---

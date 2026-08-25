@@ -2,7 +2,7 @@
 title: "What Is the ROI of Filing a Patent? The 2026 Math Most Founders Never Run"
 slug: patent-filing-roi-2026
 date: 2026-06-20
-url: https://beyondelevation.com/insights/patent-filing-roi-2026/
+url: https://beyondelevation.com/insights/patent-filing-roi-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

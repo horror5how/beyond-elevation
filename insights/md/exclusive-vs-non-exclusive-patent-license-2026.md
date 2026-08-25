@@ -2,7 +2,7 @@
 title: "Exclusive vs Non-Exclusive Patent License: The Decision That Separates 6-Figure Licensing Programs from 7-Figure Ones"
 slug: exclusive-vs-non-exclusive-patent-license-2026
 date: 2026-08-13
-url: https://beyondelevation.com/insights/exclusive-vs-non-exclusive-patent-license-2026/
+url: https://beyondelevation.com/insights/exclusive-vs-non-exclusive-patent-license-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

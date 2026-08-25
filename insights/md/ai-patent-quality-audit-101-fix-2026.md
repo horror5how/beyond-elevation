@@ -2,7 +2,7 @@
 title: "40% of AI Patents Fail Under Section 101. Here Is the 4-Step Quality Audit That Saves Your Portfolio."
 slug: ai-patent-quality-audit-101-fix-2026
 date: 2026-08-24
-url: https://beyondelevation.com/insights/ai-patent-quality-audit-101-fix-2026/
+url: https://beyondelevation.com/insights/ai-patent-quality-audit-101-fix-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

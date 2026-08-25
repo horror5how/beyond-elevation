@@ -2,7 +2,7 @@
 title: "IP Revenue Streams: You Already Own Three. You Are Only Monetizing One."
 slug: ip-revenue-streams-stacking-framework
 date: 2026-06-20
-url: https://beyondelevation.com/insights/ip-revenue-streams-stacking-framework/
+url: https://beyondelevation.com/insights/ip-revenue-streams-stacking-framework
 author: Hayat Amin
 site: Beyond Elevation
 ---

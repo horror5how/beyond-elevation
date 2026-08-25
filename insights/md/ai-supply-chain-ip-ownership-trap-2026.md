@@ -2,7 +2,7 @@
 title: "The AI Supply Chain IP Trap: 3 Layers Where Founders Lose Ownership Without Knowing"
 slug: ai-supply-chain-ip-ownership-trap-2026
 date: 2026-08-05
-url: https://beyondelevation.com/insights/ai-supply-chain-ip-ownership-trap-2026/
+url: https://beyondelevation.com/insights/ai-supply-chain-ip-ownership-trap-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

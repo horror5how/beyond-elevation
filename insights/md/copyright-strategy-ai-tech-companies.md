@@ -2,7 +2,7 @@
 title: "Your AI Startup's Code Is Worth Millions. You Are Giving It Away for Free."
 slug: copyright-strategy-ai-tech-companies
 date: 2026-04-05
-url: https://beyondelevation.com/insights/copyright-strategy-ai-tech-companies/
+url: https://beyondelevation.com/insights/copyright-strategy-ai-tech-companies
 author: Hayat Amin
 site: Beyond Elevation
 ---

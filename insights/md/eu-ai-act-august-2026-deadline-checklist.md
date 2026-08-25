@@ -2,7 +2,7 @@
 title: "The EU AI Act August 2026 Deadline Is a Valuation Event, Not a Compliance Chore: The 9-Point High-Risk Classification Checklist"
 slug: eu-ai-act-august-2026-deadline-checklist
 date: 2026-06-29
-url: https://beyondelevation.com/insights/eu-ai-act-august-2026-deadline-checklist/
+url: https://beyondelevation.com/insights/eu-ai-act-august-2026-deadline-checklist
 author: Hayat Amin
 site: Beyond Elevation
 ---

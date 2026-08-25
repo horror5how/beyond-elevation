@@ -2,7 +2,7 @@
 title: "What Does a Patent Attorney Actually Do? The Honest Answer Most Founders Never Get"
 slug: what-does-a-patent-attorney-actually-do
 date: 2026-04-16
-url: https://beyondelevation.com/insights/what-does-a-patent-attorney-actually-do/
+url: https://beyondelevation.com/insights/what-does-a-patent-attorney-actually-do
 author: Hayat Amin
 site: Beyond Elevation
 ---

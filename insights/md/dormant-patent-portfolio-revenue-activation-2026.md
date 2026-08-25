@@ -2,7 +2,7 @@
 title: "97% of Patents Generate Zero Revenue. The 5-Step Framework That Activates a Dormant Portfolio."
 slug: dormant-patent-portfolio-revenue-activation-2026
 date: 2026-08-06
-url: https://beyondelevation.com/insights/dormant-patent-portfolio-revenue-activation-2026/
+url: https://beyondelevation.com/insights/dormant-patent-portfolio-revenue-activation-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

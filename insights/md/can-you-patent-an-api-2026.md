@@ -2,7 +2,7 @@
 title: "Can You Patent an API? The 2026 Claim Strategy That Turns Your Endpoints Into Enforceable IP"
 slug: can-you-patent-an-api-2026
 date: 2026-07-08
-url: https://beyondelevation.com/insights/can-you-patent-an-api-2026/
+url: https://beyondelevation.com/insights/can-you-patent-an-api-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

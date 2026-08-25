@@ -2,7 +2,7 @@
 title: "How to Negotiate a Patent License in 2026: The 7-Step Playbook That Triples Your Royalty Revenue"
 slug: how-to-negotiate-patent-license-2026
 date: 2026-06-21
-url: https://beyondelevation.com/insights/how-to-negotiate-patent-license-2026/
+url: https://beyondelevation.com/insights/how-to-negotiate-patent-license-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

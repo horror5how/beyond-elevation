@@ -2,7 +2,7 @@
 title: "Your IP Program Is Stuck at Level 2. Here Is the 5-Level IP Maturity Model That Predicts Exit Multiples."
 slug: ip-maturity-model-framework-2026
 date: 2026-08-14
-url: https://beyondelevation.com/insights/ip-maturity-model-framework-2026/
+url: https://beyondelevation.com/insights/ip-maturity-model-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

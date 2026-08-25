@@ -2,7 +2,7 @@
 title: "The EU AI Act GPAI Rules Went Live August 2. Here Is How to Comply Without Giving Away Your Trade Secrets."
 slug: eu-ai-act-gpai-transparency-vs-trade-secrets-2026
 date: 2026-08-12
-url: https://beyondelevation.com/insights/eu-ai-act-gpai-transparency-vs-trade-secrets-2026/
+url: https://beyondelevation.com/insights/eu-ai-act-gpai-transparency-vs-trade-secrets-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "IP Software Cost Comparison 2026: PatSnap vs Derwent vs Orbit vs Anaqua vs Free"
 slug: ip-software-cost-comparison-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/ip-software-cost-comparison-2026/
+url: https://beyondelevation.com/insights/ip-software-cost-comparison-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

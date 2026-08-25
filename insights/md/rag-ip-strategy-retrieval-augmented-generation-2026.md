@@ -2,7 +2,7 @@
 title: "Your RAG Pipeline Has 4 Patentable Layers. You Are Protecting Zero of Them."
 slug: rag-ip-strategy-retrieval-augmented-generation-2026
 date: 2026-08-11
-url: https://beyondelevation.com/insights/rag-ip-strategy-retrieval-augmented-generation-2026/
+url: https://beyondelevation.com/insights/rag-ip-strategy-retrieval-augmented-generation-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

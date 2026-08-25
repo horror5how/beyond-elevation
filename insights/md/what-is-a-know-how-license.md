@@ -2,7 +2,7 @@
 title: "What Is a Know-How License? The Unpatented Asset Most Founders Give Away Free"
 slug: what-is-a-know-how-license
 date: 2026-06-19
-url: https://beyondelevation.com/insights/what-is-a-know-how-license/
+url: https://beyondelevation.com/insights/what-is-a-know-how-license
 author: Hayat Amin
 site: Beyond Elevation
 ---

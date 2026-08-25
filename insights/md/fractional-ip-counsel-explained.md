@@ -2,7 +2,7 @@
 title: "Fractional IP Counsel Explained: The 3 Engagement Models (Hourly, Retainer, Embedded) and Which One Saves You $300K in Year One"
 slug: fractional-ip-counsel-explained
 date: 2026-06-06
-url: https://beyondelevation.com/insights/fractional-ip-counsel-explained/
+url: https://beyondelevation.com/insights/fractional-ip-counsel-explained
 author: Hayat Amin
 site: Beyond Elevation
 ---

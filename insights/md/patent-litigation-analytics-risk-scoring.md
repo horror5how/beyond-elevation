@@ -2,7 +2,7 @@
 title: "Patent Litigation Analytics: How to Score Your Litigation Risk in 30 Minutes (Using the Same Data PatentSight and Lex Machina Sell for $50K/yr)"
 slug: patent-litigation-analytics-risk-scoring
 date: 2026-05-31
-url: https://beyondelevation.com/insights/patent-litigation-analytics-risk-scoring/
+url: https://beyondelevation.com/insights/patent-litigation-analytics-risk-scoring
 author: Hayat Amin
 site: Beyond Elevation
 ---

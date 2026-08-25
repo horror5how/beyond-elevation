@@ -2,7 +2,7 @@
 title: "The Pre-Exit IP Audit: 9 Fixes Worth 30% of Your Acquisition Price (Most Founders Find Them Too Late)"
 slug: pre-exit-ip-audit-acquisition-premium
 date: 2026-06-14
-url: https://beyondelevation.com/insights/pre-exit-ip-audit-acquisition-premium/
+url: https://beyondelevation.com/insights/pre-exit-ip-audit-acquisition-premium
 author: Hayat Amin
 site: Beyond Elevation
 ---

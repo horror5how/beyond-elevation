@@ -2,7 +2,7 @@
 title: "How Much Is Personal Data Worth in 2026? Pennies Per Person — But Your First-Party Dataset Is Worth Millions"
 slug: how-much-is-personal-data-worth-2026
 date: 2026-06-09
-url: https://beyondelevation.com/insights/how-much-is-personal-data-worth-2026/
+url: https://beyondelevation.com/insights/how-much-is-personal-data-worth-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

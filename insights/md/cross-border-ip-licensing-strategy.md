@@ -2,7 +2,7 @@
 title: "Cross-Border IP Licensing in 2026: The 5-Move Playbook That Turns Single-Country Patents Into Global Royalty Streams"
 slug: cross-border-ip-licensing-strategy
 date: 2026-07-11
-url: https://beyondelevation.com/insights/cross-border-ip-licensing-strategy/
+url: https://beyondelevation.com/insights/cross-border-ip-licensing-strategy
 author: Hayat Amin
 site: Beyond Elevation
 ---

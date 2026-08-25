@@ -2,7 +2,7 @@
 title: "How to Legally Protect Know-How You Can't Patent: The Trade-Secret Playbook AI Labs Run on Model Weights"
 slug: how-to-protect-know-how-legally
 date: 2026-06-19
-url: https://beyondelevation.com/insights/how-to-protect-know-how-legally/
+url: https://beyondelevation.com/insights/how-to-protect-know-how-legally
 author: Hayat Amin
 site: Beyond Elevation
 ---

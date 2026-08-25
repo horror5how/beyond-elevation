@@ -2,7 +2,7 @@
 title: "Lenders Now Accept Datasets as Loan Collateral. Here Is the 5-Axis Bankability Test Your Data Must Pass"
 slug: data-as-loan-collateral-5-axis-bankability-test
 date: 2026-07-19
-url: https://beyondelevation.com/insights/data-as-loan-collateral-5-axis-bankability-test/
+url: https://beyondelevation.com/insights/data-as-loan-collateral-5-axis-bankability-test
 author: Hayat Amin
 site: Beyond Elevation
 ---

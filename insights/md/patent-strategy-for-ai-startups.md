@@ -2,7 +2,7 @@
 title: "The AI Startup Patent Strategy Most Founders Get Wrong (And the 4-Step Framework That Wins)"
 slug: patent-strategy-for-ai-startups
 date: 2026-05-22
-url: https://beyondelevation.com/insights/patent-strategy-for-ai-startups/
+url: https://beyondelevation.com/insights/patent-strategy-for-ai-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

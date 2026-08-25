@@ -2,7 +2,7 @@
 title: "Patent Portfolio Optimization: The 4-Bucket Triage That Turns 40% of Your IP Into Revenue"
 slug: patent-portfolio-optimization-triage
 date: 2026-07-07
-url: https://beyondelevation.com/insights/patent-portfolio-optimization-triage/
+url: https://beyondelevation.com/insights/patent-portfolio-optimization-triage
 author: Hayat Amin
 site: Beyond Elevation
 ---

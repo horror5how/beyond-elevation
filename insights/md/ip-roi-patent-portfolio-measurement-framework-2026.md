@@ -2,7 +2,7 @@
 title: "How to Measure IP ROI: The 4-Number Framework That Separates Revenue-Ready Patents From Expensive Paper"
 slug: ip-roi-patent-portfolio-measurement-framework-2026
 date: 2026-08-18
-url: https://beyondelevation.com/insights/ip-roi-patent-portfolio-measurement-framework-2026/
+url: https://beyondelevation.com/insights/ip-roi-patent-portfolio-measurement-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

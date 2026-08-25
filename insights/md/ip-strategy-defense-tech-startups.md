@@ -2,7 +2,7 @@
 title: "IP Strategy for Defense Tech Startups: The Government Contract Trap That Costs Founders Their Entire Exit"
 slug: ip-strategy-defense-tech-startups
 date: 2026-07-23
-url: https://beyondelevation.com/insights/ip-strategy-defense-tech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-defense-tech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

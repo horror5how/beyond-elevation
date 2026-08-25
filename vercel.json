@@ -1,5 +1,6 @@
 {
   "cleanUrls": true,
+  "trailingSlash": false,
   "rewrites": [
     { "source": "/call/:s", "destination": "/api/call?s=:s" }
   ],

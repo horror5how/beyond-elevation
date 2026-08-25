@@ -2,7 +2,7 @@
 title: "Your Startup IP Is Worth $10M or $0. Here Is How to Tell in 10 Minutes."
 slug: startup-ip-value-10-minute-diagnostic
 date: 2026-08-01
-url: https://beyondelevation.com/insights/startup-ip-value-10-minute-diagnostic/
+url: https://beyondelevation.com/insights/startup-ip-value-10-minute-diagnostic
 author: Hayat Amin
 site: Beyond Elevation
 ---

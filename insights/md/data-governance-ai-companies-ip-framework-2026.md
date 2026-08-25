@@ -2,7 +2,7 @@
 title: "Data Governance for AI Companies: The 6-Layer Framework That Turns Your Most Ignored Asset Into Your Most Valuable One"
 slug: data-governance-ai-companies-ip-framework-2026
 date: 2026-08-18
-url: https://beyondelevation.com/insights/data-governance-ai-companies-ip-framework-2026/
+url: https://beyondelevation.com/insights/data-governance-ai-companies-ip-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The CEO's 90-Day AI Adoption Roadmap That Delivers Measurable Results Before Month 4"
 slug: ai-adoption-roadmap-ceo
 date: 2026-04-20
-url: https://beyondelevation.com/insights/ai-adoption-roadmap-ceo/
+url: https://beyondelevation.com/insights/ai-adoption-roadmap-ceo
 author: Hayat Amin
 site: Beyond Elevation
 ---

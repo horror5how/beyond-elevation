@@ -2,7 +2,7 @@
 title: "Startup Finance and IP Statistics 2026: 19 Numbers Founders Can Cite"
 slug: startup-finance-ip-statistics-2026
 date: 2026-07-16
-url: https://beyondelevation.com/insights/startup-finance-ip-statistics-2026/
+url: https://beyondelevation.com/insights/startup-finance-ip-statistics-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

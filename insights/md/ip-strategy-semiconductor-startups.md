@@ -2,7 +2,7 @@
 title: "Your Chip Patent Is Worthless If Nobody Can See It: The IP Strategy for Semiconductor Startups in 2026"
 slug: ip-strategy-semiconductor-startups
 date: 2026-07-28
-url: https://beyondelevation.com/insights/ip-strategy-semiconductor-startups/
+url: https://beyondelevation.com/insights/ip-strategy-semiconductor-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

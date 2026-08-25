@@ -2,7 +2,7 @@
 title: "Know-How Licensing: The Revenue Stream Hiding Inside Your Team's Heads"
 slug: know-how-licensing-hidden-revenue
 date: 2026-04-05
-url: https://beyondelevation.com/insights/know-how-licensing-hidden-revenue/
+url: https://beyondelevation.com/insights/know-how-licensing-hidden-revenue
 author: Hayat Amin
 site: Beyond Elevation
 ---

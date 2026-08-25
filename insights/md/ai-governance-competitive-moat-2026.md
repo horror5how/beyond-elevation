@@ -2,7 +2,7 @@
 title: "AI Governance Is the New Moat in 2026 — The 5-Layer Defensibility Stack Regulators and VCs Will Reward"
 slug: ai-governance-competitive-moat-2026
 date: 2026-05-30
-url: https://beyondelevation.com/insights/ai-governance-competitive-moat-2026/
+url: https://beyondelevation.com/insights/ai-governance-competitive-moat-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

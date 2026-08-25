@@ -2,7 +2,7 @@
 title: "How Much Is Your Patent Actually Worth? The 3-Number Formula Nobody Teaches"
 slug: how-much-is-my-patent-worth
 date: 2026-04-17
-url: https://beyondelevation.com/insights/how-much-is-my-patent-worth/
+url: https://beyondelevation.com/insights/how-much-is-my-patent-worth
 author: Hayat Amin
 site: Beyond Elevation
 ---

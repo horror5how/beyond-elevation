@@ -2,7 +2,7 @@
 title: "AI Startup Patent Defense: 7 Patents That Turn Big Tech Copycats Into Licensees"
 slug: ai-startup-patent-defense-big-tech-2026
 date: 2026-08-24
-url: https://beyondelevation.com/insights/ai-startup-patent-defense-big-tech-2026/
+url: https://beyondelevation.com/insights/ai-startup-patent-defense-big-tech-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

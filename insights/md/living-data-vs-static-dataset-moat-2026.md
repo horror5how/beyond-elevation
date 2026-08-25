@@ -2,7 +2,7 @@
 title: "Your Expensive Dataset Stopped Being a Moat in 2026 — Only Living Data Defends"
 slug: living-data-vs-static-dataset-moat-2026
 date: 2026-07-23
-url: https://beyondelevation.com/insights/living-data-vs-static-dataset-moat-2026/
+url: https://beyondelevation.com/insights/living-data-vs-static-dataset-moat-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

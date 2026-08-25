@@ -2,7 +2,7 @@
 title: "AI IP Protection: The 7-Layer Defense Stack That Stops Competitors From Cloning Your Moat"
 slug: ai-ip-protection-7-layer-defense-stack
 date: 2026-07-06
-url: https://beyondelevation.com/insights/ai-ip-protection-7-layer-defense-stack/
+url: https://beyondelevation.com/insights/ai-ip-protection-7-layer-defense-stack
 author: Hayat Amin
 site: Beyond Elevation
 ---

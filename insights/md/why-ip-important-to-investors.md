@@ -2,7 +2,7 @@
 title: "Why Investors Read Your Patent Schedule Before Your Deck: The IP Signals That Add 15-20% to Your Multiple"
 slug: why-ip-important-to-investors
 date: 2026-06-15
-url: https://beyondelevation.com/insights/why-ip-important-to-investors/
+url: https://beyondelevation.com/insights/why-ip-important-to-investors
 author: Hayat Amin
 site: Beyond Elevation
 ---

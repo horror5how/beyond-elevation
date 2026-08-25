@@ -2,7 +2,7 @@
 title: "Intangible Asset Accounting Hides 90% of Your Company Value. Here Is the 4-Step Fix."
 slug: intangible-asset-accounting-gap-2026
 date: 2026-08-03
-url: https://beyondelevation.com/insights/intangible-asset-accounting-gap-2026/
+url: https://beyondelevation.com/insights/intangible-asset-accounting-gap-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

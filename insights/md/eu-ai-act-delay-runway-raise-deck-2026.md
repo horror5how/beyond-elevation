@@ -2,7 +2,7 @@
 title: "The EU Pushed High-Risk AI Rules to Dec 2027. Here Is the Runway Math for Your Next Raise Deck."
 slug: eu-ai-act-delay-runway-raise-deck-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/eu-ai-act-delay-runway-raise-deck-2026/
+url: https://beyondelevation.com/insights/eu-ai-act-delay-runway-raise-deck-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

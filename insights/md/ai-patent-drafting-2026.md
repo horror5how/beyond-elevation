@@ -2,7 +2,7 @@
 title: "The 4 Ways AI Is Already Drafting Patents in 2026 (And the One USPTO Rule That Voids Your Claims If You Get It Wrong)"
 slug: ai-patent-drafting-2026
 date: 2026-05-29
-url: https://beyondelevation.com/insights/ai-patent-drafting-2026/
+url: https://beyondelevation.com/insights/ai-patent-drafting-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

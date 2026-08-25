@@ -2,7 +2,7 @@
 title: "How Much Is Your IP Actually Worth? The 3-Method Valuation You Run Before Any Investor or Lender Does It For You"
 slug: how-much-is-intellectual-property-worth
 date: 2026-06-17
-url: https://beyondelevation.com/insights/how-much-is-intellectual-property-worth/
+url: https://beyondelevation.com/insights/how-much-is-intellectual-property-worth
 author: Hayat Amin
 site: Beyond Elevation
 ---

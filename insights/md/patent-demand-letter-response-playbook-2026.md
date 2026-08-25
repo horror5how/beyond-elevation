@@ -2,7 +2,7 @@
 title: "How to Respond to a Patent Demand Letter: The 5-Move Playbook That Saves Founders Millions"
 slug: patent-demand-letter-response-playbook-2026
 date: 2026-08-09
-url: https://beyondelevation.com/insights/patent-demand-letter-response-playbook-2026/
+url: https://beyondelevation.com/insights/patent-demand-letter-response-playbook-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

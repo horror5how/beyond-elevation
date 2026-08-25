@@ -2,7 +2,7 @@
 title: "Semantic Patent Search Explained: Why Keyword Search Misses 40% of Relevant Prior Art (And the Embedding Models That Catch It)"
 slug: semantic-patent-search-explained
 date: 2026-05-26
-url: https://beyondelevation.com/insights/semantic-patent-search-explained/
+url: https://beyondelevation.com/insights/semantic-patent-search-explained
 author: Hayat Amin
 site: Beyond Elevation
 ---

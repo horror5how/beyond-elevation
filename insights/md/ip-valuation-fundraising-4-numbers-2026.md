@@ -2,7 +2,7 @@
 title: "IP Valuation for Fundraising Changed in 2026: 4 Numbers VCs Price Now That They Ignored Last Year"
 slug: ip-valuation-fundraising-4-numbers-2026
 date: 2026-08-15
-url: https://beyondelevation.com/insights/ip-valuation-fundraising-4-numbers-2026/
+url: https://beyondelevation.com/insights/ip-valuation-fundraising-4-numbers-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

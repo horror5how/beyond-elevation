@@ -2,7 +2,7 @@
 title: "Your Data Is About to Hit the Balance Sheet: The 2026 Accounting Shift That Turns Datasets Into Bookable Capital"
 slug: data-accounting-recognition-balance-sheet-2026
 date: 2026-06-23
-url: https://beyondelevation.com/insights/data-accounting-recognition-balance-sheet-2026/
+url: https://beyondelevation.com/insights/data-accounting-recognition-balance-sheet-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

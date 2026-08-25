@@ -2,7 +2,7 @@
 title: "Your Biggest Competitor Filed 19 Patents Last Quarter. You Have Not Checked Once."
 slug: competitor-patent-blind-spot
 date: 2026-04-08
-url: https://beyondelevation.com/insights/competitor-patent-blind-spot/
+url: https://beyondelevation.com/insights/competitor-patent-blind-spot
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -113,7 +113,7 @@ function main() {
     const date = post.publishDate || post.date || '';
     // Clean canonical URL \u2014 NOT the legacy /blog/post.html?slug= pattern,
     // which serves a JS shell and looks like a duplicate page to crawlers.
-    const cleanUrl = `https://beyondelevation.com/insights/${post.slug}/`;
+    const cleanUrl = `https://beyondelevation.com/insights/${post.slug}`;
 
     const mdContent = `---
 title: "${post.title.replace(/"/g, '\\"')}"

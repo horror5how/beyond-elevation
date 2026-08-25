@@ -2,7 +2,7 @@
 title: "Standard Essential Patents: The 4-Filter Test That Tells You If Your Patent Is Actually SEP (Or Just Adjacent)"
 slug: standard-essential-patents-4-filter-test
 date: 2026-06-11
-url: https://beyondelevation.com/insights/standard-essential-patents-4-filter-test/
+url: https://beyondelevation.com/insights/standard-essential-patents-4-filter-test
 author: Hayat Amin
 site: Beyond Elevation
 ---

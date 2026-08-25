@@ -2,7 +2,7 @@
 title: "The 25% Rule for IP Royalties Is Dead in 2026 — Here Is What Smart Licensors Negotiate Instead"
 slug: 25-percent-rule-ip-royalties-dead-2026
 date: 2026-06-19
-url: https://beyondelevation.com/insights/25-percent-rule-ip-royalties-dead-2026/
+url: https://beyondelevation.com/insights/25-percent-rule-ip-royalties-dead-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

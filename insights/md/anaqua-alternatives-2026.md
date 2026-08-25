@@ -2,7 +2,7 @@
 title: "The Best Anaqua Alternatives in 2026: What to Use Instead (And When to Use None of Them)"
 slug: anaqua-alternatives-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/anaqua-alternatives-2026/
+url: https://beyondelevation.com/insights/anaqua-alternatives-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Three Courts Killed the Fair Use Defense for AI Training Data. Your Model Has the Same Exposure."
 slug: ai-training-data-copyright-fair-use-2026
 date: 2026-08-24
-url: https://beyondelevation.com/insights/ai-training-data-copyright-fair-use-2026/
+url: https://beyondelevation.com/insights/ai-training-data-copyright-fair-use-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

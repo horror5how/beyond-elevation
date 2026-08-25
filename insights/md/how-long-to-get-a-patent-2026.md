@@ -2,7 +2,7 @@
 title: "How Long Does It Take to Get a Patent? 23 Months Average, But Founders Who Plan Cut It to 6"
 slug: how-long-to-get-a-patent-2026
 date: 2026-06-21
-url: https://beyondelevation.com/insights/how-long-to-get-a-patent-2026/
+url: https://beyondelevation.com/insights/how-long-to-get-a-patent-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

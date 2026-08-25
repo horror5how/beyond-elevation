@@ -2,7 +2,7 @@
 title: "An Independent IP Audit Adds 15-20% to Your Valuation Multiple — The 6-Step Audit Investors Actually Trust"
 slug: ip-audit-valuation-premium
 date: 2026-06-01
-url: https://beyondelevation.com/insights/ip-audit-valuation-premium/
+url: https://beyondelevation.com/insights/ip-audit-valuation-premium
 author: Hayat Amin
 site: Beyond Elevation
 ---

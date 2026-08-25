@@ -2,7 +2,7 @@
 title: "A SEP Anti-Suit Injunction Can Erase 60% of Your Licensing Revenue. Here Is the 4-Move Defense Playbook for 2026."
 slug: sep-anti-suit-injunction-frand-playbook-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/sep-anti-suit-injunction-frand-playbook-2026/
+url: https://beyondelevation.com/insights/sep-anti-suit-injunction-frand-playbook-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

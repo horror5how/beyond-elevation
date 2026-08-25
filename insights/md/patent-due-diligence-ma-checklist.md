@@ -2,7 +2,7 @@
 title: "Patent Due Diligence in M&A: The 14-Point Checklist Acquirers Run (And the 4 Items That Kill 30% of Deals)"
 slug: patent-due-diligence-ma-checklist
 date: 2026-06-12
-url: https://beyondelevation.com/insights/patent-due-diligence-ma-checklist/
+url: https://beyondelevation.com/insights/patent-due-diligence-ma-checklist
 author: Hayat Amin
 site: Beyond Elevation
 ---

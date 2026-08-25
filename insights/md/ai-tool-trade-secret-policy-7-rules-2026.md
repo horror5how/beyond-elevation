@@ -2,7 +2,7 @@
 title: "7 AI Tool Policies That Protect Your Trade Secrets After the 2026 Court Rulings"
 slug: ai-tool-trade-secret-policy-7-rules-2026
 date: 2026-08-15
-url: https://beyondelevation.com/insights/ai-tool-trade-secret-policy-7-rules-2026/
+url: https://beyondelevation.com/insights/ai-tool-trade-secret-policy-7-rules-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

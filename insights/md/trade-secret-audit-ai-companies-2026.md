@@ -2,7 +2,7 @@
 title: "The Trade Secret Audit That Finds $2M in Hidden IP Inside Every AI Company"
 slug: trade-secret-audit-ai-companies-2026
 date: 2026-06-29
-url: https://beyondelevation.com/insights/trade-secret-audit-ai-companies-2026/
+url: https://beyondelevation.com/insights/trade-secret-audit-ai-companies-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

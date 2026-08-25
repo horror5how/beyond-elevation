@@ -2,7 +2,7 @@
 title: "How Does IP Make Money? 4 Mechanisms That Turn Patents Into Cash (With 2026 Royalty Rates)"
 slug: how-does-ip-make-money
 date: 2026-05-06
-url: https://beyondelevation.com/insights/how-does-ip-make-money/
+url: https://beyondelevation.com/insights/how-does-ip-make-money
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "How IP Drives AI Company Valuations: The Hidden Multiplier Investors Look For"
 slug: ai-company-valuations-ip-role
 date: 2026-03-15
-url: https://beyondelevation.com/insights/ai-company-valuations-ip-role/
+url: https://beyondelevation.com/insights/ai-company-valuations-ip-role
 author: Hayat Amin
 site: Beyond Elevation
 ---

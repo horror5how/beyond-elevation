@@ -2,7 +2,7 @@
 title: "How Patents Increase Company Valuation: The Real Math Behind 2.1x Higher Exit Multiples"
 slug: how-patents-increase-company-valuation
 date: 2026-04-14
-url: https://beyondelevation.com/insights/how-patents-increase-company-valuation/
+url: https://beyondelevation.com/insights/how-patents-increase-company-valuation
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Lenders That Accept Patents as Collateral: Who Actually Funds Founders in 2026"
 slug: lenders-that-accept-patents-as-collateral-2026
 date: 2026-06-15
-url: https://beyondelevation.com/insights/lenders-that-accept-patents-as-collateral-2026/
+url: https://beyondelevation.com/insights/lenders-that-accept-patents-as-collateral-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

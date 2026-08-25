@@ -2,7 +2,7 @@
 title: "Your Patents Are a 90% Gross-Margin Revenue Line. Your Board Books Them as a Cost."
 slug: patents-as-a-revenue-line
 date: 2026-07-10
-url: https://beyondelevation.com/insights/patents-as-a-revenue-line/
+url: https://beyondelevation.com/insights/patents-as-a-revenue-line
 author: Hayat Amin
 site: Beyond Elevation
 ---

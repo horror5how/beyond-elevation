@@ -2,7 +2,7 @@
 title: "Venture Debt Backed By Your Patents in 2026: The 5-Step Playbook to Raise $1M–$25M Without Diluting a Single Share"
 slug: venture-debt-ip-collateral-playbook
 date: 2026-05-29
-url: https://beyondelevation.com/insights/venture-debt-ip-collateral-playbook/
+url: https://beyondelevation.com/insights/venture-debt-ip-collateral-playbook
 author: Hayat Amin
 site: Beyond Elevation
 ---

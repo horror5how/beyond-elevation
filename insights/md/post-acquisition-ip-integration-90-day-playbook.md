@@ -2,7 +2,7 @@
 title: "73% of Acquirers Never Run a Post-Acquisition IP Integration. Here Is the 90-Day Playbook That Stops the Value Leak."
 slug: post-acquisition-ip-integration-90-day-playbook
 date: 2026-07-22
-url: https://beyondelevation.com/insights/post-acquisition-ip-integration-90-day-playbook/
+url: https://beyondelevation.com/insights/post-acquisition-ip-integration-90-day-playbook
 author: Hayat Amin
 site: Beyond Elevation
 ---

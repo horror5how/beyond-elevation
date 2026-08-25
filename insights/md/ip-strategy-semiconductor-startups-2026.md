@@ -2,7 +2,7 @@
 title: "Most Semiconductor Startups File the Wrong Patents — The 5-Layer IP Strategy That Actually Defends Chip Innovation"
 slug: ip-strategy-semiconductor-startups-2026
 date: 2026-07-27
-url: https://beyondelevation.com/insights/ip-strategy-semiconductor-startups-2026/
+url: https://beyondelevation.com/insights/ip-strategy-semiconductor-startups-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

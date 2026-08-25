@@ -2,7 +2,7 @@
 title: "The First Rated Patent-Backed Securities Land in 2026. Here Is What Every IP-Rich Founder Must Do Before the Market Prices Your Portfolio Without You."
 slug: ip-securitization-patent-backed-securities-2026
 date: 2026-08-08
-url: https://beyondelevation.com/insights/ip-securitization-patent-backed-securities-2026/
+url: https://beyondelevation.com/insights/ip-securitization-patent-backed-securities-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

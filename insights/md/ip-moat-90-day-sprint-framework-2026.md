@@ -2,7 +2,7 @@
 title: "How to Build an IP Moat in 90 Days: The Founder's Sprint Framework for 2026"
 slug: ip-moat-90-day-sprint-framework-2026
 date: 2026-08-04
-url: https://beyondelevation.com/insights/ip-moat-90-day-sprint-framework-2026/
+url: https://beyondelevation.com/insights/ip-moat-90-day-sprint-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

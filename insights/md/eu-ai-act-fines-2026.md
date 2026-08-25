@@ -2,7 +2,7 @@
 title: "EU AI Act Fines Hit €15M or 3% of Global Revenue From Aug 2 2026: The 4 Triggers That Sink AI Startups First"
 slug: eu-ai-act-fines-2026
 date: 2026-05-29
-url: https://beyondelevation.com/insights/eu-ai-act-fines-2026/
+url: https://beyondelevation.com/insights/eu-ai-act-fines-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

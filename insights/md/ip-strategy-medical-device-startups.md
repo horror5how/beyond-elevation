@@ -2,7 +2,7 @@
 title: "Medical Device IP Strategy: Why Filing Your Patent After FDA Submission Is the Most Expensive Mistake in Medtech"
 slug: ip-strategy-medical-device-startups
 date: 2026-07-30
-url: https://beyondelevation.com/insights/ip-strategy-medical-device-startups/
+url: https://beyondelevation.com/insights/ip-strategy-medical-device-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

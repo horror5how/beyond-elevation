@@ -2,7 +2,7 @@
 title: "AI Companies That Complete These 7 IP Moves Before Exit Close at 25.8x. The Rest Close at 18.2x."
 slug: ai-exit-ip-preparation-7-moves
 date: 2026-07-05
-url: https://beyondelevation.com/insights/ai-exit-ip-preparation-7-moves/
+url: https://beyondelevation.com/insights/ai-exit-ip-preparation-7-moves
 author: Hayat Amin
 site: Beyond Elevation
 ---

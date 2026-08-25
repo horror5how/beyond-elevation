@@ -2,7 +2,7 @@
 title: "83% of Enterprise Value Is Intangible. Your Board Governs Zero Percent of It."
 slug: ip-governance-framework-startup-boards-2026
 date: 2026-08-11
-url: https://beyondelevation.com/insights/ip-governance-framework-startup-boards-2026/
+url: https://beyondelevation.com/insights/ip-governance-framework-startup-boards-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

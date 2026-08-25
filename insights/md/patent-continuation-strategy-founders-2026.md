@@ -2,7 +2,7 @@
 title: "One Patent Filing, Seven Enforceable Patents: The Continuation Strategy Most Founders Never Learn"
 slug: patent-continuation-strategy-founders-2026
 date: 2026-08-18
-url: https://beyondelevation.com/insights/patent-continuation-strategy-founders-2026/
+url: https://beyondelevation.com/insights/patent-continuation-strategy-founders-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

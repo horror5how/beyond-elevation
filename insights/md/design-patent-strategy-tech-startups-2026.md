@@ -2,7 +2,7 @@
 title: "Design Patents Are the Fastest IP Win Most Tech Founders Ignore: The 2026 Strategy Guide"
 slug: design-patent-strategy-tech-startups-2026
 date: 2026-08-19
-url: https://beyondelevation.com/insights/design-patent-strategy-tech-startups-2026/
+url: https://beyondelevation.com/insights/design-patent-strategy-tech-startups-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

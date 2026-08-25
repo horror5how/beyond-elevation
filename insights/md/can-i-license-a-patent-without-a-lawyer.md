@@ -2,7 +2,7 @@
 title: "Can You License a Patent Without a Lawyer? Yes, But Only Under These 4 Conditions"
 slug: can-i-license-a-patent-without-a-lawyer
 date: 2026-04-17
-url: https://beyondelevation.com/insights/can-i-license-a-patent-without-a-lawyer/
+url: https://beyondelevation.com/insights/can-i-license-a-patent-without-a-lawyer
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "63% of Patent Licensees Underpay. The Royalty Audit Playbook That Recovers What You Are Owed."
 slug: patent-royalty-audit-licensee-underpayment-2026
 date: 2026-08-12
-url: https://beyondelevation.com/insights/patent-royalty-audit-licensee-underpayment-2026/
+url: https://beyondelevation.com/insights/patent-royalty-audit-licensee-underpayment-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

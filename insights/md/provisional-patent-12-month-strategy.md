@@ -2,7 +2,7 @@
 title: "Your Provisional Patent Is a 12-Month Weapon. Most Founders File It and Forget It."
 slug: provisional-patent-12-month-strategy
 date: 2026-04-10
-url: https://beyondelevation.com/insights/provisional-patent-12-month-strategy/
+url: https://beyondelevation.com/insights/provisional-patent-12-month-strategy
 author: Hayat Amin
 site: Beyond Elevation
 ---

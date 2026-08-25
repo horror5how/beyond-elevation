@@ -2,7 +2,7 @@
 title: "73% of Joint Venture IP Disputes Start With One Missing Clause. The 7-Clause Framework That Prevents Every One."
 slug: ip-ownership-joint-venture-7-clause-framework
 date: 2026-07-16
-url: https://beyondelevation.com/insights/ip-ownership-joint-venture-7-clause-framework/
+url: https://beyondelevation.com/insights/ip-ownership-joint-venture-7-clause-framework
 author: Hayat Amin
 site: Beyond Elevation
 ---

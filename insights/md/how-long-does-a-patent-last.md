@@ -2,7 +2,7 @@
 title: "How Long Does a Patent Really Last? (The 3 Expiration Dates Nobody Tells You About)"
 slug: how-long-does-a-patent-last
 date: 2026-05-19
-url: https://beyondelevation.com/insights/how-long-does-a-patent-last/
+url: https://beyondelevation.com/insights/how-long-does-a-patent-last
 author: Hayat Amin
 site: Beyond Elevation
 ---

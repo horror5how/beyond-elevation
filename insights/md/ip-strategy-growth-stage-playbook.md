@@ -2,7 +2,7 @@
 title: "IP Strategy for Growth-Stage Companies: The 6-Move Playbook That Turns Patents From Cost Center to Revenue Engine"
 slug: ip-strategy-growth-stage-playbook
 date: 2026-07-10
-url: https://beyondelevation.com/insights/ip-strategy-growth-stage-playbook/
+url: https://beyondelevation.com/insights/ip-strategy-growth-stage-playbook
 author: Hayat Amin
 site: Beyond Elevation
 ---

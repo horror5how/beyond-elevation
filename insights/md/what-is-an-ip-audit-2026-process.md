@@ -2,7 +2,7 @@
 title: "What Is an IP Audit? The 2026 Process That Uncovers Hidden Assets and Adds 15-20% to Your Valuation"
 slug: what-is-an-ip-audit-2026-process
 date: 2026-07-04
-url: https://beyondelevation.com/insights/what-is-an-ip-audit-2026-process/
+url: https://beyondelevation.com/insights/what-is-an-ip-audit-2026-process
 author: Hayat Amin
 site: Beyond Elevation
 ---

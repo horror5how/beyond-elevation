@@ -2,7 +2,7 @@
 title: "7 Ways to Cut Your AI Spend by 40% Without Touching Model Quality"
 slug: ai-cost-optimisation-strategy
 date: 2026-04-21
-url: https://beyondelevation.com/insights/ai-cost-optimisation-strategy/
+url: https://beyondelevation.com/insights/ai-cost-optimisation-strategy
 author: Hayat Amin
 site: Beyond Elevation
 ---

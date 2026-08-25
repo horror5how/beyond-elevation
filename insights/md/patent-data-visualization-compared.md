@@ -2,7 +2,7 @@
 title: "Patent Data Visualization Compared: PatSnap Heatmaps vs Derwent Innovation vs Orbit Intelligence (And the Free Python Stack That Beats All Three)"
 slug: patent-data-visualization-compared
 date: 2026-06-13
-url: https://beyondelevation.com/insights/patent-data-visualization-compared/
+url: https://beyondelevation.com/insights/patent-data-visualization-compared
 author: Hayat Amin
 site: Beyond Elevation
 ---

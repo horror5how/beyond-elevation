@@ -2,7 +2,7 @@
 title: "Section 174 Handed Back Your R&D Deduction in 2026. The Asset It Builds Is Worth More Than the Tax Break."
 slug: section-174-rd-expensing-ip-asset-2026
 date: 2026-07-13
-url: https://beyondelevation.com/insights/section-174-rd-expensing-ip-asset-2026/
+url: https://beyondelevation.com/insights/section-174-rd-expensing-ip-asset-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

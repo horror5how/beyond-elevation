@@ -2,7 +2,7 @@
 title: "AI Startups Trade at 10x–50x Revenue in 2026 — The Exact Multiple Your Stage Commands (Seed 10–25x, Series A 15–30x)"
 slug: ai-startup-revenue-multiples-by-stage-2026
 date: 2026-06-07
-url: https://beyondelevation.com/insights/ai-startup-revenue-multiples-by-stage-2026/
+url: https://beyondelevation.com/insights/ai-startup-revenue-multiples-by-stage-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

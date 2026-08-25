@@ -2,7 +2,7 @@
 title: "The Income Approach to Patent Valuation: The 6-Variable DCF That Actually Holds Up in Court (With a Worked Example)"
 slug: income-approach-patent-valuation
 date: 2026-05-25
-url: https://beyondelevation.com/insights/income-approach-patent-valuation/
+url: https://beyondelevation.com/insights/income-approach-patent-valuation
 author: Hayat Amin
 site: Beyond Elevation
 ---

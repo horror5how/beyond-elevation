@@ -2,7 +2,7 @@
 title: "Tesla Asked a Court to Reset a $32-Per-Vehicle Patent Pool Royalty. If It Wins, Every Implementer Gets the Same Weapon."
 slug: patent-pool-court-set-royalty-implementer-2026
 date: 2026-07-20
-url: https://beyondelevation.com/insights/patent-pool-court-set-royalty-implementer-2026/
+url: https://beyondelevation.com/insights/patent-pool-court-set-royalty-implementer-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

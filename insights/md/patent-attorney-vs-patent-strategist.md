@@ -2,7 +2,7 @@
 title: "Patent Attorney vs Patent Strategist: Your Attorney Files. A Strategist Gets You Paid."
 slug: patent-attorney-vs-patent-strategist
 date: 2026-04-11
-url: https://beyondelevation.com/insights/patent-attorney-vs-patent-strategist/
+url: https://beyondelevation.com/insights/patent-attorney-vs-patent-strategist
 author: Hayat Amin
 site: Beyond Elevation
 ---

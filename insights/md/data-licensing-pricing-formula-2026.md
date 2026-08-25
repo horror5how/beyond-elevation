@@ -2,7 +2,7 @@
 title: "Your Data Is Worth $400K to $5M a Year in Recurring Licensing. One Formula Sets the Price."
 slug: data-licensing-pricing-formula-2026
 date: 2026-07-19
-url: https://beyondelevation.com/insights/data-licensing-pricing-formula-2026/
+url: https://beyondelevation.com/insights/data-licensing-pricing-formula-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

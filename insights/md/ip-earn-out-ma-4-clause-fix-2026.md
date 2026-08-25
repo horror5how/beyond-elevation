@@ -2,7 +2,7 @@
 title: "IP Earn-Outs in M&A: 71% Trigger Disputes. The 4-Clause Framework That Gets Founders Paid After the Sale."
 slug: ip-earn-out-ma-4-clause-fix-2026
 date: 2026-07-31
-url: https://beyondelevation.com/insights/ip-earn-out-ma-4-clause-fix-2026/
+url: https://beyondelevation.com/insights/ip-earn-out-ma-4-clause-fix-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

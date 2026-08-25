@@ -2,7 +2,7 @@
 title: "IP Strategy for Bootstrapped Startups: The $5K Playbook That Replaces the $200K Law Firm Approach"
 slug: ip-strategy-bootstrapped-startups
 date: 2026-07-11
-url: https://beyondelevation.com/insights/ip-strategy-bootstrapped-startups/
+url: https://beyondelevation.com/insights/ip-strategy-bootstrapped-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

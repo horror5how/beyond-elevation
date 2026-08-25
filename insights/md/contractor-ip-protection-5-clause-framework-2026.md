@@ -2,7 +2,7 @@
 title: "Your Contractor Just Walked Away With Your IP: The 5-Clause Fix That Prevents a $10M Mistake"
 slug: contractor-ip-protection-5-clause-framework-2026
 date: 2026-08-15
-url: https://beyondelevation.com/insights/contractor-ip-protection-5-clause-framework-2026/
+url: https://beyondelevation.com/insights/contractor-ip-protection-5-clause-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

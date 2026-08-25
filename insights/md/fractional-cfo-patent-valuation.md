@@ -2,7 +2,7 @@
 title: "Why Your Fractional CFO — Not Your Patent Lawyer — Should Own Your Patent Valuation"
 slug: fractional-cfo-patent-valuation
 date: 2026-05-23
-url: https://beyondelevation.com/insights/fractional-cfo-patent-valuation/
+url: https://beyondelevation.com/insights/fractional-cfo-patent-valuation
 author: Hayat Amin
 site: Beyond Elevation
 ---

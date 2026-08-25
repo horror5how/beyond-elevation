@@ -2,7 +2,7 @@
 title: "Patent Prior Art Search Explained: The 3-Pass Method Examiners Use (And Why Yours Probably Missed 25% of Relevant References)"
 slug: patent-prior-art-search-explained
 date: 2026-05-27
-url: https://beyondelevation.com/insights/patent-prior-art-search-explained/
+url: https://beyondelevation.com/insights/patent-prior-art-search-explained
 author: Hayat Amin
 site: Beyond Elevation
 ---

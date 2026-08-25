@@ -2,7 +2,7 @@
 title: "The Freedom to Operate Analysis Every Pre-Launch Founder Skips (And the 7-Layer Checklist That Catches the Lawsuit Before It Hits)"
 slug: freedom-to-operate-analysis-guide
 date: 2026-06-11
-url: https://beyondelevation.com/insights/freedom-to-operate-analysis-guide/
+url: https://beyondelevation.com/insights/freedom-to-operate-analysis-guide
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Your Product Patent Is the Cheapest Part of Your Manufacturing IP. The Process Is the Moat."
 slug: ip-strategy-industrial-manufacturing-startups
 date: 2026-08-01
-url: https://beyondelevation.com/insights/ip-strategy-industrial-manufacturing-startups/
+url: https://beyondelevation.com/insights/ip-strategy-industrial-manufacturing-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

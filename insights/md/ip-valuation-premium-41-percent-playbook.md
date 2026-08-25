@@ -2,7 +2,7 @@
 title: "The 41% IP Valuation Premium Is Real. Here Is the 12-Month Playbook to Capture It."
 slug: ip-valuation-premium-41-percent-playbook
 date: 2026-08-02
-url: https://beyondelevation.com/insights/ip-valuation-premium-41-percent-playbook/
+url: https://beyondelevation.com/insights/ip-valuation-premium-41-percent-playbook
 author: Hayat Amin
 site: Beyond Elevation
 ---

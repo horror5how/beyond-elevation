@@ -2,7 +2,7 @@
 title: "VCs Stopped Funding AI Wrappers in 2026 — The 4 Defensibility Layers That Separate a Fundable Startup From a Feature"
 slug: are-ai-wrappers-fundable-2026
 date: 2026-06-02
-url: https://beyondelevation.com/insights/are-ai-wrappers-fundable-2026/
+url: https://beyondelevation.com/insights/are-ai-wrappers-fundable-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

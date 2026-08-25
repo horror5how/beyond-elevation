@@ -2,7 +2,7 @@
 title: "No Claim Chart, No Revenue: The 5-Step Evidence-of-Use Process That Turns Dead Patents Into Licensing Deals"
 slug: patent-claim-chart-licensing-revenue-2026
 date: 2026-08-21
-url: https://beyondelevation.com/insights/patent-claim-chart-licensing-revenue-2026/
+url: https://beyondelevation.com/insights/patent-claim-chart-licensing-revenue-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

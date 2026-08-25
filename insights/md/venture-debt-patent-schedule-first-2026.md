@@ -2,7 +2,7 @@
 title: "Venture Debt Underwriting Just Flipped: Why Lenders Now Ask for Your Patent Schedule Before Your Financial Model"
 slug: venture-debt-patent-schedule-first-2026
 date: 2026-07-29
-url: https://beyondelevation.com/insights/venture-debt-patent-schedule-first-2026/
+url: https://beyondelevation.com/insights/venture-debt-patent-schedule-first-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

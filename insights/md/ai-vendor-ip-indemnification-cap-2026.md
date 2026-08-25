@@ -2,7 +2,7 @@
 title: "You Signed an Uncapped IP Indemnity to Close That Enterprise Deal. Here Is What AI Vendor IP Indemnification Costs You at Exit."
 slug: ai-vendor-ip-indemnification-cap-2026
 date: 2026-08-20
-url: https://beyondelevation.com/insights/ai-vendor-ip-indemnification-cap-2026/
+url: https://beyondelevation.com/insights/ai-vendor-ip-indemnification-cap-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

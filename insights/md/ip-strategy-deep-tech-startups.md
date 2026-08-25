@@ -2,7 +2,7 @@
 title: "IP Strategy for Deep Tech Startups: The 5-Layer Patent Architecture That Turns Hardware Into a Fortress"
 slug: ip-strategy-deep-tech-startups
 date: 2026-07-12
-url: https://beyondelevation.com/insights/ip-strategy-deep-tech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-deep-tech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

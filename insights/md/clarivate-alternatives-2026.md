@@ -2,7 +2,7 @@
 title: "The Best Clarivate Alternatives in 2026: Unbundling the IP Giant"
 slug: clarivate-alternatives-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/clarivate-alternatives-2026/
+url: https://beyondelevation.com/insights/clarivate-alternatives-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

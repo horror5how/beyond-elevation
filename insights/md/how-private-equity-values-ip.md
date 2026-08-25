@@ -2,7 +2,7 @@
 title: "How Private Equity Firms Value IP: The 5 Levers That Add 20-40% to Your Exit Multiple"
 slug: how-private-equity-values-ip
 date: 2026-07-02
-url: https://beyondelevation.com/insights/how-private-equity-values-ip/
+url: https://beyondelevation.com/insights/how-private-equity-values-ip
 author: Hayat Amin
 site: Beyond Elevation
 ---

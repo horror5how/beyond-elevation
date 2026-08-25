@@ -2,7 +2,7 @@
 title: "Your AI Agent Just Infringed a Patent. The Liability Falls on You, Not the Model Provider."
 slug: ai-agent-ip-liability-who-pays-2026
 date: 2026-07-17
-url: https://beyondelevation.com/insights/ai-agent-ip-liability-who-pays-2026/
+url: https://beyondelevation.com/insights/ai-agent-ip-liability-who-pays-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

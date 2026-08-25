@@ -2,7 +2,7 @@
 title: "AI Patent Strategy in 2026: What Changed After the Foundation Model Wars"
 slug: ai-patent-strategy-2026
 date: 2026-04-15
-url: https://beyondelevation.com/insights/ai-patent-strategy-2026/
+url: https://beyondelevation.com/insights/ai-patent-strategy-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

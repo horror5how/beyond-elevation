@@ -2,7 +2,7 @@
 title: "Perplexity and OpenAI Are the Top 2 Buyers of Licensed Data in 2026 — And the 7-Buyer Directory Most Founders Don't Know Exists"
 slug: who-buys-licensed-data-2026
 date: 2026-05-28
-url: https://beyondelevation.com/insights/who-buys-licensed-data-2026/
+url: https://beyondelevation.com/insights/who-buys-licensed-data-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "5 IP Strategy Shifts in 2026 That Created a 41% Valuation Gap"
 slug: ip-strategy-5-shifts-2026
 date: 2026-08-25
-url: https://beyondelevation.com/insights/ip-strategy-5-shifts-2026/
+url: https://beyondelevation.com/insights/ip-strategy-5-shifts-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

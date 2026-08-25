@@ -2,7 +2,7 @@
 title: "Generative AI IP Strategy: 93% of Founders Protect the Wrong Asset (Here Is the Decision Tree That Fixes It)"
 slug: generative-ai-ip-strategy-decision-tree
 date: 2026-07-01
-url: https://beyondelevation.com/insights/generative-ai-ip-strategy-decision-tree/
+url: https://beyondelevation.com/insights/generative-ai-ip-strategy-decision-tree
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The One-Afternoon Startup IP Policy That Prevents 80% of IP Disasters"
 slug: startup-ip-policy-framework-2026
 date: 2026-08-23
-url: https://beyondelevation.com/insights/startup-ip-policy-framework-2026/
+url: https://beyondelevation.com/insights/startup-ip-policy-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

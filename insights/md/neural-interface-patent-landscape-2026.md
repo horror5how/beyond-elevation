@@ -2,7 +2,7 @@
 title: "The Neural Interface Patent Landscape: Neuralink vs Synchron vs Paradromics — Who Actually Owns the IP Stack (And the 2 Gaps Worth $1B)"
 slug: neural-interface-patent-landscape-2026
 date: 2026-06-12
-url: https://beyondelevation.com/insights/neural-interface-patent-landscape-2026/
+url: https://beyondelevation.com/insights/neural-interface-patent-landscape-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

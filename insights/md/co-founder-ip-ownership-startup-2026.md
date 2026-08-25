@@ -2,7 +2,7 @@
 title: "Who Really Owns Your Startup's IP? The Co-Founder Ownership Gap That Kills Deals"
 slug: co-founder-ip-ownership-startup-2026
 date: 2026-08-03
-url: https://beyondelevation.com/insights/co-founder-ip-ownership-startup-2026/
+url: https://beyondelevation.com/insights/co-founder-ip-ownership-startup-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

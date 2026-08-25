@@ -2,7 +2,7 @@
 title: "The IP Carve-Out Trap: How to Split a Patent Portfolio in a Divestiture Without Destroying Half Its Value"
 slug: ip-carve-out-divestiture-patent-split-2026
 date: 2026-08-07
-url: https://beyondelevation.com/insights/ip-carve-out-divestiture-patent-split-2026/
+url: https://beyondelevation.com/insights/ip-carve-out-divestiture-patent-split-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "IP Competitive Intelligence: The 5-Step Framework That Reveals What Your Competitors Are Building Next"
 slug: ip-competitive-intelligence-framework-2026
 date: 2026-07-06
-url: https://beyondelevation.com/insights/ip-competitive-intelligence-framework-2026/
+url: https://beyondelevation.com/insights/ip-competitive-intelligence-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

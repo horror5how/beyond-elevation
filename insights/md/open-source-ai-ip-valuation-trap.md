@@ -2,7 +2,7 @@
 title: "You Open-Sourced Your AI Model. You Just Gave Away the Only Leverage You Had."
 slug: open-source-ai-ip-valuation-trap
 date: 2026-04-08
-url: https://beyondelevation.com/insights/open-source-ai-ip-valuation-trap/
+url: https://beyondelevation.com/insights/open-source-ai-ip-valuation-trap
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The 12 Largest Patent Holding Companies in 2026 (And the 3 Structures They Use to Monetize Billions in IP)"
 slug: top-patent-holding-companies-2026
 date: 2026-05-19
-url: https://beyondelevation.com/insights/top-patent-holding-companies-2026/
+url: https://beyondelevation.com/insights/top-patent-holding-companies-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

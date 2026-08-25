@@ -2,7 +2,7 @@
 title: "Know-How vs Patent: The 20-Year Trade-Off That Decides Whether You File or Stay Silent"
 slug: know-how-vs-patent
 date: 2026-06-17
-url: https://beyondelevation.com/insights/know-how-vs-patent/
+url: https://beyondelevation.com/insights/know-how-vs-patent
 author: Hayat Amin
 site: Beyond Elevation
 ---

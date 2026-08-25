@@ -2,7 +2,7 @@
 title: "The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)"
 slug: how-to-evaluate-ai-company-checklist
 date: 2026-05-19
-url: https://beyondelevation.com/insights/how-to-evaluate-ai-company-checklist/
+url: https://beyondelevation.com/insights/how-to-evaluate-ai-company-checklist
 author: Hayat Amin
 site: Beyond Elevation
 ---

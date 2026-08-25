@@ -2,7 +2,7 @@
 title: "Most Founders Treat Patent Infringement Like a Legal Problem. It Is a Licensing Opportunity Worth 6 Figures."
 slug: patent-infringement-licensing-opportunity
 date: 2026-07-01
-url: https://beyondelevation.com/insights/patent-infringement-licensing-opportunity/
+url: https://beyondelevation.com/insights/patent-infringement-licensing-opportunity
 author: Hayat Amin
 site: Beyond Elevation
 ---

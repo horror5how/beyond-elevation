@@ -2,7 +2,7 @@
 title: "VCs Never Sign NDAs. Here Are the 5 Ways to Protect Your IP During a Fundraise."
 slug: protect-ip-during-fundraise-2026
 date: 2026-08-03
-url: https://beyondelevation.com/insights/protect-ip-during-fundraise-2026/
+url: https://beyondelevation.com/insights/protect-ip-during-fundraise-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

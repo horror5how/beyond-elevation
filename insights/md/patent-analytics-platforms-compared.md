@@ -2,7 +2,7 @@
 title: "Patent Analytics Platforms Compared: PatSnap vs Anaqua vs Cypris vs Researchly (And Where a Human IP Strategist Still Wins)"
 slug: patent-analytics-platforms-compared
 date: 2026-05-31
-url: https://beyondelevation.com/insights/patent-analytics-platforms-compared/
+url: https://beyondelevation.com/insights/patent-analytics-platforms-compared
 author: Hayat Amin
 site: Beyond Elevation
 ---

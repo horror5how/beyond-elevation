@@ -2,7 +2,7 @@
 title: "The Isle of Man Just Made Your Dataset a Balance-Sheet Asset — Inside the Data Asset Foundation"
 slug: data-asset-foundation-isle-of-man
 date: 2026-06-02
-url: https://beyondelevation.com/insights/data-asset-foundation-isle-of-man/
+url: https://beyondelevation.com/insights/data-asset-foundation-isle-of-man
 author: Hayat Amin
 site: Beyond Elevation
 ---

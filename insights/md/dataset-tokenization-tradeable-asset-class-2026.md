@@ -2,7 +2,7 @@
 title: "Dataset Tokenization Created a $10M License From a Single Dataset. Here Is How to Turn Your Data Into Tradeable Capital"
 slug: dataset-tokenization-tradeable-asset-class-2026
 date: 2026-07-18
-url: https://beyondelevation.com/insights/dataset-tokenization-tradeable-asset-class-2026/
+url: https://beyondelevation.com/insights/dataset-tokenization-tradeable-asset-class-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

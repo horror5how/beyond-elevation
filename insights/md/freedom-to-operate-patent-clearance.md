@@ -2,7 +2,7 @@
 title: "Your Product Is Infringing Patents Right Now. You Just Have Not Run the Search."
 slug: freedom-to-operate-patent-clearance
 date: 2026-04-10
-url: https://beyondelevation.com/insights/freedom-to-operate-patent-clearance/
+url: https://beyondelevation.com/insights/freedom-to-operate-patent-clearance
 author: Hayat Amin
 site: Beyond Elevation
 ---

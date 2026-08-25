@@ -2,7 +2,7 @@
 title: "The 5 Numbers Your Board Will Ask About Your AI Transformation ROI (And How to Prepare Them)"
 slug: ai-transformation-roi-framework
 date: 2026-04-18
-url: https://beyondelevation.com/insights/ai-transformation-roi-framework/
+url: https://beyondelevation.com/insights/ai-transformation-roi-framework
 author: Hayat Amin
 site: Beyond Elevation
 ---

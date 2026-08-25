@@ -2,7 +2,7 @@
 title: "Patent Licensing Revenue Forecast: The 5-Step Model That Turns Dormant IP Into a Fundable Revenue Line"
 slug: patent-licensing-revenue-forecast-investor-deck-2026
 date: 2026-08-16
-url: https://beyondelevation.com/insights/patent-licensing-revenue-forecast-investor-deck-2026/
+url: https://beyondelevation.com/insights/patent-licensing-revenue-forecast-investor-deck-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

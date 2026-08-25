@@ -2,7 +2,7 @@
 title: "Your SaaS Patents Do Not Cover Your AI Features: The 5-Move IP Pivot That Turns a Product Transition Into a 3x Valuation Event"
 slug: saas-to-ai-pivot-ip-strategy-2026
 date: 2026-07-24
-url: https://beyondelevation.com/insights/saas-to-ai-pivot-ip-strategy-2026/
+url: https://beyondelevation.com/insights/saas-to-ai-pivot-ip-strategy-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

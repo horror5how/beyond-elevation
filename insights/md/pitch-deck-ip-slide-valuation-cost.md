@@ -2,7 +2,7 @@
 title: "The Missing Slide in 87% of Pitch Decks That Costs Founders 30-60% of Their Valuation"
 slug: pitch-deck-ip-slide-valuation-cost
 date: 2026-08-02
-url: https://beyondelevation.com/insights/pitch-deck-ip-slide-valuation-cost/
+url: https://beyondelevation.com/insights/pitch-deck-ip-slide-valuation-cost
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "11 Patent Strategy Consulting Questions to Ask Before You Hire Any Advisor"
 slug: patent-strategy-consulting-questions-to-ask
 date: 2026-04-13
-url: https://beyondelevation.com/insights/patent-strategy-consulting-questions-to-ask/
+url: https://beyondelevation.com/insights/patent-strategy-consulting-questions-to-ask
 author: Hayat Amin
 site: Beyond Elevation
 ---

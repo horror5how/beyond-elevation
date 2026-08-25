@@ -2,7 +2,7 @@
 title: "Non-Dilutive Funding for Startups: Your Patents Are Worth $2-20M in Capital You Are Not Raising"
 slug: non-dilutive-funding-startups-patent-capital
 date: 2026-07-05
-url: https://beyondelevation.com/insights/non-dilutive-funding-startups-patent-capital/
+url: https://beyondelevation.com/insights/non-dilutive-funding-startups-patent-capital
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "73% of 2026 Rounds Are Down or Flat. The Founders Who Survive All Do the Same Thing With Their IP."
 slug: down-round-ip-strategy-protect-assets-2026
 date: 2026-07-15
-url: https://beyondelevation.com/insights/down-round-ip-strategy-protect-assets-2026/
+url: https://beyondelevation.com/insights/down-round-ip-strategy-protect-assets-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The Customer Contract IP Trap: How Enterprise Agreement Clauses Quietly Destroy AI Startup Valuations"
 slug: customer-contract-ip-trap-enterprise-agreements-2026
 date: 2026-08-06
-url: https://beyondelevation.com/insights/customer-contract-ip-trap-enterprise-agreements-2026/
+url: https://beyondelevation.com/insights/customer-contract-ip-trap-enterprise-agreements-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

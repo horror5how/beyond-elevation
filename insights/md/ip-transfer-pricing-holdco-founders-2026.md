@@ -2,7 +2,7 @@
 title: "You Transferred Your IP for $1. The Tax Authority Says It Is Worth $40M. The IP Transfer Pricing Rules That Break Most Holdco Structures."
 slug: ip-transfer-pricing-holdco-founders-2026
 date: 2026-07-16
-url: https://beyondelevation.com/insights/ip-transfer-pricing-holdco-founders-2026/
+url: https://beyondelevation.com/insights/ip-transfer-pricing-holdco-founders-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

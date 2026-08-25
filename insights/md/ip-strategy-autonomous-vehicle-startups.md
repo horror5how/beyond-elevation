@@ -2,7 +2,7 @@
 title: "Most Autonomous Vehicle Startups Patent Their Sensors Instead of Their Decision Stack — The 5-Layer IP Strategy That Turns Self-Driving Technology Into Licensable Assets"
 slug: ip-strategy-autonomous-vehicle-startups
 date: 2026-07-28
-url: https://beyondelevation.com/insights/ip-strategy-autonomous-vehicle-startups/
+url: https://beyondelevation.com/insights/ip-strategy-autonomous-vehicle-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

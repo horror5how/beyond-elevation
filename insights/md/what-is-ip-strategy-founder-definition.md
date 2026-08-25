@@ -2,7 +2,7 @@
 title: "What Is IP Strategy? The Definition VCs Use (Not the One Your Lawyer Uses)"
 slug: what-is-ip-strategy-founder-definition
 date: 2026-04-16
-url: https://beyondelevation.com/insights/what-is-ip-strategy-founder-definition/
+url: https://beyondelevation.com/insights/what-is-ip-strategy-founder-definition
 author: Hayat Amin
 site: Beyond Elevation
 ---

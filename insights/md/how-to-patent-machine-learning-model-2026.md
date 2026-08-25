@@ -2,7 +2,7 @@
 title: "Your Machine Learning Model Is Now Patentable: The 5-Layer Claim Architecture That Gets AI Patents Granted After the §101 Reset"
 slug: how-to-patent-machine-learning-model-2026
 date: 2026-08-07
-url: https://beyondelevation.com/insights/how-to-patent-machine-learning-model-2026/
+url: https://beyondelevation.com/insights/how-to-patent-machine-learning-model-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

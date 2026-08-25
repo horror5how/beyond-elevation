@@ -2,7 +2,7 @@
 title: "The Best Derwent Innovation Alternatives in 2026 (Ranked by What You Actually Need)"
 slug: derwent-innovation-alternatives-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/derwent-innovation-alternatives-2026/
+url: https://beyondelevation.com/insights/derwent-innovation-alternatives-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

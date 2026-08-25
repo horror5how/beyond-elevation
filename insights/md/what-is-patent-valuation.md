@@ -2,7 +2,7 @@
 title: "Patent Valuation Explained: The 4 Methods (Cost, Market, Income, Real Options) and Which One Wins for AI, Pharma, and Hardware in 2026"
 slug: what-is-patent-valuation
 date: 2026-06-07
-url: https://beyondelevation.com/insights/what-is-patent-valuation/
+url: https://beyondelevation.com/insights/what-is-patent-valuation
 author: Hayat Amin
 site: Beyond Elevation
 ---

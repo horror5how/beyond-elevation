@@ -2,7 +2,7 @@
 title: "How Much Is My IP Worth? The 3-Lever Number Founders Get Wrong by 10x"
 slug: how-much-is-my-ip-worth
 date: 2026-06-20
-url: https://beyondelevation.com/insights/how-much-is-my-ip-worth/
+url: https://beyondelevation.com/insights/how-much-is-my-ip-worth
 author: Hayat Amin
 site: Beyond Elevation
 ---

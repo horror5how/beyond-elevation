@@ -2,7 +2,7 @@
 title: "The Samsung Trade Secret Leak Cost Them Millions — Here Are the 6 ChatGPT Rules Every AI Startup Must Enforce By Monday"
 slug: chatgpt-trade-secret-risk
 date: 2026-05-30
-url: https://beyondelevation.com/insights/chatgpt-trade-secret-risk/
+url: https://beyondelevation.com/insights/chatgpt-trade-secret-risk
 author: Hayat Amin
 site: Beyond Elevation
 ---

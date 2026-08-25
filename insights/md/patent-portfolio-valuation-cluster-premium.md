@@ -2,7 +2,7 @@
 title: "Patent Portfolio Valuation: Your IP Is Worth 5x More Than Individual Patent Math Says"
 slug: patent-portfolio-valuation-cluster-premium
 date: 2026-06-29
-url: https://beyondelevation.com/insights/patent-portfolio-valuation-cluster-premium/
+url: https://beyondelevation.com/insights/patent-portfolio-valuation-cluster-premium
 author: Hayat Amin
 site: Beyond Elevation
 ---

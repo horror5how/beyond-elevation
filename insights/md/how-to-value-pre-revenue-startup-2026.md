@@ -2,7 +2,7 @@
 title: "How to Value a Pre-Revenue Startup in 2026: The 5 Methods VCs Use When Revenue Is Zero"
 slug: how-to-value-pre-revenue-startup-2026
 date: 2026-06-08
-url: https://beyondelevation.com/insights/how-to-value-pre-revenue-startup-2026/
+url: https://beyondelevation.com/insights/how-to-value-pre-revenue-startup-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

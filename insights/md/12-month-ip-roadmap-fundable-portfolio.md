@@ -2,7 +2,7 @@
 title: "The 12-Month IP Roadmap: From Zero Patents to a Fundable, Defensible Portfolio"
 slug: 12-month-ip-roadmap-fundable-portfolio
 date: 2026-06-22
-url: https://beyondelevation.com/insights/12-month-ip-roadmap-fundable-portfolio/
+url: https://beyondelevation.com/insights/12-month-ip-roadmap-fundable-portfolio
 author: Hayat Amin
 site: Beyond Elevation
 ---

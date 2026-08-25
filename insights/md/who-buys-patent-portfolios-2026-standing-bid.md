@@ -2,7 +2,7 @@
 title: "Who Actually Buys Patent Portfolios in 2026? The Standing Bid Most Founders Never See"
 slug: who-buys-patent-portfolios-2026-standing-bid
 date: 2026-07-29
-url: https://beyondelevation.com/insights/who-buys-patent-portfolios-2026-standing-bid/
+url: https://beyondelevation.com/insights/who-buys-patent-portfolios-2026-standing-bid
 author: Hayat Amin
 site: Beyond Elevation
 ---

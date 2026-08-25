@@ -2,7 +2,7 @@
 title: "Is AI-Generated Content Copyrightable in 2026? Only If You Structure the Workflow This Way"
 slug: is-ai-generated-content-copyrightable-2026
 date: 2026-07-17
-url: https://beyondelevation.com/insights/is-ai-generated-content-copyrightable-2026/
+url: https://beyondelevation.com/insights/is-ai-generated-content-copyrightable-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

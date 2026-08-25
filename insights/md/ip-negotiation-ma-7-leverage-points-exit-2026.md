@@ -2,7 +2,7 @@
 title: "IP Negotiation in M&A: The 7 Leverage Points That Add Millions to Your Exit Price"
 slug: ip-negotiation-ma-7-leverage-points-exit-2026
 date: 2026-08-16
-url: https://beyondelevation.com/insights/ip-negotiation-ma-7-leverage-points-exit-2026/
+url: https://beyondelevation.com/insights/ip-negotiation-ma-7-leverage-points-exit-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

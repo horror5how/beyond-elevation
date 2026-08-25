@@ -2,7 +2,7 @@
 title: "White Space Analysis Explained: The 4-Step Method to Find $100M Patentable Gaps Your Competitors Missed"
 slug: white-space-analysis-patents
 date: 2026-05-28
-url: https://beyondelevation.com/insights/white-space-analysis-patents/
+url: https://beyondelevation.com/insights/white-space-analysis-patents
 author: Hayat Amin
 site: Beyond Elevation
 ---

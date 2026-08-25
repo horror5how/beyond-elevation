@@ -2,7 +2,7 @@
 title: "The IP Capital Stack: How to Fund Growth With Patents Instead of Equity"
 slug: ip-capital-stack-fund-growth-patents
 date: 2026-07-03
-url: https://beyondelevation.com/insights/ip-capital-stack-fund-growth-patents/
+url: https://beyondelevation.com/insights/ip-capital-stack-fund-growth-patents
 author: Hayat Amin
 site: Beyond Elevation
 ---

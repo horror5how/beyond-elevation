@@ -2,7 +2,7 @@
 title: "PatSnap Pricing in 2026: What It Really Costs (And How to Pay Less)"
 slug: patsnap-pricing-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/patsnap-pricing-2026/
+url: https://beyondelevation.com/insights/patsnap-pricing-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

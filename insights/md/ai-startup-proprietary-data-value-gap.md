@@ -2,7 +2,7 @@
 title: "How Much of an AI Startup's Value Comes From Proprietary Data? The 5x Gap That Doubles Your Multiple"
 slug: ai-startup-proprietary-data-value-gap
 date: 2026-06-05
-url: https://beyondelevation.com/insights/ai-startup-proprietary-data-value-gap/
+url: https://beyondelevation.com/insights/ai-startup-proprietary-data-value-gap
 author: Hayat Amin
 site: Beyond Elevation
 ---

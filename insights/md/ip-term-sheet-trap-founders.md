@@ -2,7 +2,7 @@
 title: "Your Term Sheet Has a Clause That Hands Your IP to Your Investor. You Already Signed It."
 slug: ip-term-sheet-trap-founders
 date: 2026-04-08
-url: https://beyondelevation.com/insights/ip-term-sheet-trap-founders/
+url: https://beyondelevation.com/insights/ip-term-sheet-trap-founders
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The IP Strategy for AI Infrastructure Companies That Stops a Hyperscaler From Shipping Your Feature in 18 Months"
 slug: ip-strategy-ai-infrastructure-companies-2026
 date: 2026-07-27
-url: https://beyondelevation.com/insights/ip-strategy-ai-infrastructure-companies-2026/
+url: https://beyondelevation.com/insights/ip-strategy-ai-infrastructure-companies-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

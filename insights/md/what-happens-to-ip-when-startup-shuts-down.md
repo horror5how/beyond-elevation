@@ -2,7 +2,7 @@
 title: "The Patents Outlive the Company: What Happens to IP When a Startup Shuts Down"
 slug: what-happens-to-ip-when-startup-shuts-down
 date: 2026-07-17
-url: https://beyondelevation.com/insights/what-happens-to-ip-when-startup-shuts-down/
+url: https://beyondelevation.com/insights/what-happens-to-ip-when-startup-shuts-down
 author: Hayat Amin
 site: Beyond Elevation
 ---

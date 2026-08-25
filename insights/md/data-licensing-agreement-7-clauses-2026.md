@@ -2,7 +2,7 @@
 title: "The 7 Data Licensing Agreement Clauses That Separate Revenue Machines From Free Data Giveaways"
 slug: data-licensing-agreement-7-clauses-2026
 date: 2026-08-13
-url: https://beyondelevation.com/insights/data-licensing-agreement-7-clauses-2026/
+url: https://beyondelevation.com/insights/data-licensing-agreement-7-clauses-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Your Balance Sheet Is Lying. 90% of Your Company's Value Is Not On It."
 slug: intangible-asset-valuation-hidden-worth
 date: 2026-04-06
-url: https://beyondelevation.com/insights/intangible-asset-valuation-hidden-worth/
+url: https://beyondelevation.com/insights/intangible-asset-valuation-hidden-worth
 author: Hayat Amin
 site: Beyond Elevation
 ---

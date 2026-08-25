@@ -2,7 +2,7 @@
 title: "83% of Patent Applications Get Rejected — The 5-Move Patent Prosecution Strategy That Gets Them Granted"
 slug: patent-prosecution-strategy-startup-guide-2026
 date: 2026-08-22
-url: https://beyondelevation.com/insights/patent-prosecution-strategy-startup-guide-2026/
+url: https://beyondelevation.com/insights/patent-prosecution-strategy-startup-guide-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

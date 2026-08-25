@@ -2,7 +2,7 @@
 title: "Patent Licensing vs Patent Selling: Why Selling Usually Costs You 10x"
 slug: patent-licensing-vs-patent-selling
 date: 2026-04-10
-url: https://beyondelevation.com/insights/patent-licensing-vs-patent-selling/
+url: https://beyondelevation.com/insights/patent-licensing-vs-patent-selling
 author: Hayat Amin
 site: Beyond Elevation
 ---

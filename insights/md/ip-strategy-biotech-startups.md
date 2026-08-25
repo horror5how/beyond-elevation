@@ -2,7 +2,7 @@
 title: "Most Biotech Founders Patent Their Molecule and Stop — The 5-Layer IP Strategy That Turns Drug Discovery Into a Licensing Machine"
 slug: ip-strategy-biotech-startups
 date: 2026-07-28
-url: https://beyondelevation.com/insights/ip-strategy-biotech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-biotech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

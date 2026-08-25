@@ -2,7 +2,7 @@
 title: "Data Clean Rooms: How to License Your Proprietary Data Without Exposing a Single Row"
 slug: data-clean-room-ip-licensing-strategy-2026
 date: 2026-08-22
-url: https://beyondelevation.com/insights/data-clean-room-ip-licensing-strategy-2026/
+url: https://beyondelevation.com/insights/data-clean-room-ip-licensing-strategy-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

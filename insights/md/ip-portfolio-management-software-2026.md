@@ -2,7 +2,7 @@
 title: "IP Portfolio Management Software in 2026: Anaqua vs Clarivate vs Questel (And When to Hire a Fractional IP CxO Instead)"
 slug: ip-portfolio-management-software-2026
 date: 2026-05-27
-url: https://beyondelevation.com/insights/ip-portfolio-management-software-2026/
+url: https://beyondelevation.com/insights/ip-portfolio-management-software-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

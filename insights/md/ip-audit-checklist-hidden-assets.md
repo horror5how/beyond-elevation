@@ -2,7 +2,7 @@
 title: "The IP Audit Checklist: 7 Steps That Find $500K in Hidden Assets and Fix the Gaps That Kill Deals"
 slug: ip-audit-checklist-hidden-assets
 date: 2026-06-30
-url: https://beyondelevation.com/insights/ip-audit-checklist-hidden-assets/
+url: https://beyondelevation.com/insights/ip-audit-checklist-hidden-assets
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The 10-20-70 Rule for AI: Why 70% of Your AI Budget Should Go to People and Process, Not the Model"
 slug: 10-20-70-rule-for-ai
 date: 2026-06-10
-url: https://beyondelevation.com/insights/10-20-70-rule-for-ai/
+url: https://beyondelevation.com/insights/10-20-70-rule-for-ai
 author: Hayat Amin
 site: Beyond Elevation
 ---

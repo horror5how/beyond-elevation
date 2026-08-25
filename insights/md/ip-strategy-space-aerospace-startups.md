@@ -2,7 +2,7 @@
 title: "IP Strategy for Space Tech Startups: The 4-Clause Fix That Stops Government Contracts From Claiming Your Patents"
 slug: ip-strategy-space-aerospace-startups
 date: 2026-07-30
-url: https://beyondelevation.com/insights/ip-strategy-space-aerospace-startups/
+url: https://beyondelevation.com/insights/ip-strategy-space-aerospace-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

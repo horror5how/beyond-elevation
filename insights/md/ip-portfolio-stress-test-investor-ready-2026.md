@@ -2,7 +2,7 @@
 title: "The IP Portfolio Stress Test: Find Your 3 Weakest Patents Before Investors Do"
 slug: ip-portfolio-stress-test-investor-ready-2026
 date: 2026-08-09
-url: https://beyondelevation.com/insights/ip-portfolio-stress-test-investor-ready-2026/
+url: https://beyondelevation.com/insights/ip-portfolio-stress-test-investor-ready-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

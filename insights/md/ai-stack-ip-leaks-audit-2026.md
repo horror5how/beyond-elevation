@@ -2,7 +2,7 @@
 title: "Your AI Stack Has 5 IP Leaks. Here Is the AI IP Risk Audit That Finds Them"
 slug: ai-stack-ip-leaks-audit-2026
 date: 2026-08-05
-url: https://beyondelevation.com/insights/ai-stack-ip-leaks-audit-2026/
+url: https://beyondelevation.com/insights/ai-stack-ip-leaks-audit-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

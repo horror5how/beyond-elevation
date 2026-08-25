@@ -2,7 +2,7 @@
 title: "Your IP Escrow Agreement Protects Your Customer, Not You. The 4-Tier Framework That Fixes It."
 slug: ip-escrow-agreement-framework-2026
 date: 2026-07-17
-url: https://beyondelevation.com/insights/ip-escrow-agreement-framework-2026/
+url: https://beyondelevation.com/insights/ip-escrow-agreement-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The Technology Landscape Report: What a $40K PatSnap Deliverable Actually Contains (And the 6-Slide Version a Strategist Builds in 2 Weeks)"
 slug: technology-landscape-report-explained
 date: 2026-06-11
-url: https://beyondelevation.com/insights/technology-landscape-report-explained/
+url: https://beyondelevation.com/insights/technology-landscape-report-explained
 author: Hayat Amin
 site: Beyond Elevation
 ---

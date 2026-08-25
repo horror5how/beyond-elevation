@@ -2,7 +2,7 @@
 title: "IP Due Diligence for VCs: The 9-Point Checklist That Separates a 10x Return From a Write-Off"
 slug: ip-due-diligence-checklist-vc-investors
 date: 2026-07-07
-url: https://beyondelevation.com/insights/ip-due-diligence-checklist-vc-investors/
+url: https://beyondelevation.com/insights/ip-due-diligence-checklist-vc-investors
 author: Hayat Amin
 site: Beyond Elevation
 ---

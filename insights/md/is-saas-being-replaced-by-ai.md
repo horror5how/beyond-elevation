@@ -2,7 +2,7 @@
 title: "Is SaaS Being Replaced by AI? The SaaS Companies That Keep Their Multiple All Own One Thing"
 slug: is-saas-being-replaced-by-ai
 date: 2026-06-22
-url: https://beyondelevation.com/insights/is-saas-being-replaced-by-ai/
+url: https://beyondelevation.com/insights/is-saas-being-replaced-by-ai
 author: Hayat Amin
 site: Beyond Elevation
 ---

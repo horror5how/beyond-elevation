@@ -2,7 +2,7 @@
 title: "What a Patent Monetization Consultant Actually Does (And When to Hire One vs PatSnap or a Law Firm)"
 slug: patent-monetization-consultant
 date: 2026-06-21
-url: https://beyondelevation.com/insights/patent-monetization-consultant/
+url: https://beyondelevation.com/insights/patent-monetization-consultant
 author: Hayat Amin
 site: Beyond Elevation
 ---

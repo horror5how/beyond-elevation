@@ -2,7 +2,7 @@
 title: "Your AI Agents Are Creating IP Right Now. You Probably Don't Own Any of It."
 slug: ai-agent-ip-ownership-strategy
 date: 2026-04-07
-url: https://beyondelevation.com/insights/ai-agent-ip-ownership-strategy/
+url: https://beyondelevation.com/insights/ai-agent-ip-ownership-strategy
 author: Hayat Amin
 site: Beyond Elevation
 ---

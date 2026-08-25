@@ -2,7 +2,7 @@
 title: "How AI Is Used in Valuations in 2026: 4 Methods Investors Trust (And the One Place Every Model Breaks)"
 slug: how-ai-is-used-in-valuations-2026
 date: 2026-06-09
-url: https://beyondelevation.com/insights/how-ai-is-used-in-valuations-2026/
+url: https://beyondelevation.com/insights/how-ai-is-used-in-valuations-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

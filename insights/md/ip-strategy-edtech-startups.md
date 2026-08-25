@@ -2,7 +2,7 @@
 title: "Most EdTech Startups Patent Their Curriculum Instead of Their Algorithm — The 5-Layer IP Strategy That Turns Learning Technology Into Licensable Assets"
 slug: ip-strategy-edtech-startups
 date: 2026-07-27
-url: https://beyondelevation.com/insights/ip-strategy-edtech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-edtech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

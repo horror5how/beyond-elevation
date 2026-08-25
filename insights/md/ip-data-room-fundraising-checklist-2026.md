@@ -2,7 +2,7 @@
 title: "Your IP Data Room Is Missing the 7 Documents VCs Check First. Here Is the Complete Checklist."
 slug: ip-data-room-fundraising-checklist-2026
 date: 2026-08-25
-url: https://beyondelevation.com/insights/ip-data-room-fundraising-checklist-2026/
+url: https://beyondelevation.com/insights/ip-data-room-fundraising-checklist-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

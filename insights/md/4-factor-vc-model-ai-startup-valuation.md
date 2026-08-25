@@ -2,7 +2,7 @@
 title: "The 4-Factor Model VCs Use to Value AI Startups in 2026 — Where Defensibility Now Outweighs Growth Rate"
 slug: 4-factor-vc-model-ai-startup-valuation
 date: 2026-06-05
-url: https://beyondelevation.com/insights/4-factor-vc-model-ai-startup-valuation/
+url: https://beyondelevation.com/insights/4-factor-vc-model-ai-startup-valuation
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "You Moved Your IP Into a Holding Company to Save Tax. Under the 2026 OECD DEMPE Rules You May Have Just Stripped the Asset That Funds Your Next Round."
 slug: ip-holdco-dempe-valuation-trap-2026
 date: 2026-07-13
-url: https://beyondelevation.com/insights/ip-holdco-dempe-valuation-trap-2026/
+url: https://beyondelevation.com/insights/ip-holdco-dempe-valuation-trap-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

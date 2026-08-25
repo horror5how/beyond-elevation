@@ -2,7 +2,7 @@
 title: "Why Your Patent Portfolio Is Worth 80% Less Than You Think (And the 4-Step Fix)"
 slug: patent-portfolio-valuation-gap-4-step-fix
 date: 2026-07-09
-url: https://beyondelevation.com/insights/patent-portfolio-valuation-gap-4-step-fix/
+url: https://beyondelevation.com/insights/patent-portfolio-valuation-gap-4-step-fix
 author: Hayat Amin
 site: Beyond Elevation
 ---

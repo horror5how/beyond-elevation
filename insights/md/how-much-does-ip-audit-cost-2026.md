@@ -2,7 +2,7 @@
 title: "How Much Does an IP Audit Cost in 2026? One Founder Spent $22K and Unlocked $2.3M in Hidden IP Value"
 slug: how-much-does-ip-audit-cost-2026
 date: 2026-07-11
-url: https://beyondelevation.com/insights/how-much-does-ip-audit-cost-2026/
+url: https://beyondelevation.com/insights/how-much-does-ip-audit-cost-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

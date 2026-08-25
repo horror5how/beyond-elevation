@@ -2,7 +2,7 @@
 title: "70-80% of Your AI Startup’s Value Is Unpatented Know-How — Here Is How to Put a Defensible Number on It Before You Raise"
 slug: valuing-unpatented-ai-know-how
 date: 2026-06-06
-url: https://beyondelevation.com/insights/valuing-unpatented-ai-know-how/
+url: https://beyondelevation.com/insights/valuing-unpatented-ai-know-how
 author: Hayat Amin
 site: Beyond Elevation
 ---

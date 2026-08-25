@@ -2,7 +2,7 @@
 title: "A Competitor Just Patented Your Technology. 5 Counter-Moves That Cost 90% Less Than Litigation."
 slug: how-to-challenge-competitor-patent-2026
 date: 2026-08-13
-url: https://beyondelevation.com/insights/how-to-challenge-competitor-patent-2026/
+url: https://beyondelevation.com/insights/how-to-challenge-competitor-patent-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

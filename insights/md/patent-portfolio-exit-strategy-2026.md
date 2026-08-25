@@ -2,7 +2,7 @@
 title: "Most Founders Accept 30 Cents on the Dollar for Their Patents. Here Is the Patent Portfolio Exit Strategy That Gets 3x More."
 slug: patent-portfolio-exit-strategy-2026
 date: 2026-08-19
-url: https://beyondelevation.com/insights/patent-portfolio-exit-strategy-2026/
+url: https://beyondelevation.com/insights/patent-portfolio-exit-strategy-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

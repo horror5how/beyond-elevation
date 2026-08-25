@@ -2,7 +2,7 @@
 title: "Patent Citation Analysis: Forward vs Backward Citations and What Each One Tells You About a Portfolio's Real Value"
 slug: patent-citation-analysis-portfolio-value
 date: 2026-06-01
-url: https://beyondelevation.com/insights/patent-citation-analysis-portfolio-value/
+url: https://beyondelevation.com/insights/patent-citation-analysis-portfolio-value
 author: Hayat Amin
 site: Beyond Elevation
 ---

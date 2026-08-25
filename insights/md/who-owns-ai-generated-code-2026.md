@@ -2,7 +2,7 @@
 title: "Who Owns AI-Generated Code? The Ownership Gap Sitting in Every Startup's Codebase"
 slug: who-owns-ai-generated-code-2026
 date: 2026-08-14
-url: https://beyondelevation.com/insights/who-owns-ai-generated-code-2026/
+url: https://beyondelevation.com/insights/who-owns-ai-generated-code-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

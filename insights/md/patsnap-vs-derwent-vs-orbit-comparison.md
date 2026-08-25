@@ -2,7 +2,7 @@
 title: "PatSnap vs Derwent vs Orbit Intelligence: The 12-Criteria Comparison (And the One Use Case Where Each One Wins)"
 slug: patsnap-vs-derwent-vs-orbit-comparison
 date: 2026-06-12
-url: https://beyondelevation.com/insights/patsnap-vs-derwent-vs-orbit-comparison/
+url: https://beyondelevation.com/insights/patsnap-vs-derwent-vs-orbit-comparison
 author: Hayat Amin
 site: Beyond Elevation
 ---

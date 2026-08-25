@@ -2,7 +2,7 @@
 title: "IP Defensibility Beats Growth in 2026: The 25.8x vs 18.2x Gap That Repriced Every AI Startup"
 slug: ip-defensibility-beats-growth-2026
 date: 2026-06-29
-url: https://beyondelevation.com/insights/ip-defensibility-beats-growth-2026/
+url: https://beyondelevation.com/insights/ip-defensibility-beats-growth-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

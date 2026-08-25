@@ -2,7 +2,7 @@
 title: "The Acquirer's IP Due Diligence Checklist: What 73% of Buyers Miss Before Signing the LOI"
 slug: ip-due-diligence-for-acquirers
 date: 2026-05-24
-url: https://beyondelevation.com/insights/ip-due-diligence-for-acquirers/
+url: https://beyondelevation.com/insights/ip-due-diligence-for-acquirers
 author: Hayat Amin
 site: Beyond Elevation
 ---

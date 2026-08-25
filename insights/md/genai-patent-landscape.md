@@ -2,7 +2,7 @@
 title: "The GenAI Patent Landscape in 2026: Who Actually Owns the Future of AI"
 slug: genai-patent-landscape
 date: 2026-04-15
-url: https://beyondelevation.com/insights/genai-patent-landscape/
+url: https://beyondelevation.com/insights/genai-patent-landscape
 author: Hayat Amin
 site: Beyond Elevation
 ---

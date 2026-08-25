@@ -2,7 +2,7 @@
 title: "Two AI Startups With Identical ARR. One Is Worth 40% More. The Valuation Factor That Outranks Growth."
 slug: why-ai-startups-same-arr-different-valuations
 date: 2026-07-14
-url: https://beyondelevation.com/insights/why-ai-startups-same-arr-different-valuations/
+url: https://beyondelevation.com/insights/why-ai-startups-same-arr-different-valuations
 author: Hayat Amin
 site: Beyond Elevation
 ---

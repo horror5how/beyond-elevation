@@ -2,7 +2,7 @@
 title: "Is IP Licensing Profitable? The 90%+ Gross-Margin Math That Beats Building the Product Yourself"
 slug: is-ip-licensing-profitable
 date: 2026-06-16
-url: https://beyondelevation.com/insights/is-ip-licensing-profitable/
+url: https://beyondelevation.com/insights/is-ip-licensing-profitable
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Patent Litigation Funding: How Founders Enforce Million-Dollar Patents for $0 Upfront"
 slug: patent-litigation-funding-startup-guide-2026
 date: 2026-08-17
-url: https://beyondelevation.com/insights/patent-litigation-funding-startup-guide-2026/
+url: https://beyondelevation.com/insights/patent-litigation-funding-startup-guide-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

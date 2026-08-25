@@ -2,7 +2,7 @@
 title: "IP Valuation vs Business Valuation: 5 Differences That Change Your Exit Number"
 slug: ip-valuation-vs-business-valuation
 date: 2026-07-09
-url: https://beyondelevation.com/insights/ip-valuation-vs-business-valuation/
+url: https://beyondelevation.com/insights/ip-valuation-vs-business-valuation
 author: Hayat Amin
 site: Beyond Elevation
 ---

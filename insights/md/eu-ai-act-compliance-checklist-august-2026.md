@@ -2,7 +2,7 @@
 title: "EU AI Act Compliance Checklist: 8 IP Steps Every AI Company Must Complete Before August 2, 2026"
 slug: eu-ai-act-compliance-checklist-august-2026
 date: 2026-06-24
-url: https://beyondelevation.com/insights/eu-ai-act-compliance-checklist-august-2026/
+url: https://beyondelevation.com/insights/eu-ai-act-compliance-checklist-august-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

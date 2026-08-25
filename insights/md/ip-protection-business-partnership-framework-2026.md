@@ -2,7 +2,7 @@
 title: "How to Protect Your IP in Any Business Partnership: The 7-Clause Framework That Stops the Leak"
 slug: ip-protection-business-partnership-framework-2026
 date: 2026-08-10
-url: https://beyondelevation.com/insights/ip-protection-business-partnership-framework-2026/
+url: https://beyondelevation.com/insights/ip-protection-business-partnership-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

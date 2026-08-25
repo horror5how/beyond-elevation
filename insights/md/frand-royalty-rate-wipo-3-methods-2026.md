@@ -2,7 +2,7 @@
 title: "WIPO Just Published 3 Ways to Price a FRAND Royalty. Only One Holds Up in Court."
 slug: frand-royalty-rate-wipo-3-methods-2026
 date: 2026-07-21
-url: https://beyondelevation.com/insights/frand-royalty-rate-wipo-3-methods-2026/
+url: https://beyondelevation.com/insights/frand-royalty-rate-wipo-3-methods-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

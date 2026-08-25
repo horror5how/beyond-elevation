@@ -2,7 +2,7 @@
 title: "The 2026 EV Battery Patent Landscape: 9 Tech Clusters, 4 Inventor Pacers, and the One White-Space CATL and BYD Both Missed"
 slug: ev-battery-patent-landscape-2026
 date: 2026-06-13
-url: https://beyondelevation.com/insights/ev-battery-patent-landscape-2026/
+url: https://beyondelevation.com/insights/ev-battery-patent-landscape-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

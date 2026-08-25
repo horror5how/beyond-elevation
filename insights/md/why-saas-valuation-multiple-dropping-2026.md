@@ -2,7 +2,7 @@
 title: "Why SaaS Multiples Dropped From 25.8x to 3.4x: Buyers Underwrite the Data Moat, Not the Feature Set"
 slug: why-saas-valuation-multiple-dropping-2026
 date: 2026-07-03
-url: https://beyondelevation.com/insights/why-saas-valuation-multiple-dropping-2026/
+url: https://beyondelevation.com/insights/why-saas-valuation-multiple-dropping-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "IP Strategy for Fintech Startups: The 6 IP Assets You Must Lock Down Before Series A"
 slug: ip-strategy-fintech-startups
 date: 2026-07-12
-url: https://beyondelevation.com/insights/ip-strategy-fintech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-fintech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

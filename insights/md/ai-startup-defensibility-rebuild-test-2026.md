@@ -2,7 +2,7 @@
 title: "Investors Set Your AI Multiple With One Question: Could a Funded Team Rebuild This in 18 Months for $5M?"
 slug: ai-startup-defensibility-rebuild-test-2026
 date: 2026-07-19
-url: https://beyondelevation.com/insights/ai-startup-defensibility-rebuild-test-2026/
+url: https://beyondelevation.com/insights/ai-startup-defensibility-rebuild-test-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "The ADC Competitive Landscape: 14 Pipelines, 6 Linker Technologies, and the Targets Pfizer-Seagen Did Not Buy"
 slug: adc-competitive-landscape-2026
 date: 2026-06-14
-url: https://beyondelevation.com/insights/adc-competitive-landscape-2026/
+url: https://beyondelevation.com/insights/adc-competitive-landscape-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

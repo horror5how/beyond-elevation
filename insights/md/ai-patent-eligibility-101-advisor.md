@@ -2,7 +2,7 @@
 title: "The Post-Alice §101 Survival Guide: How AI Founders Get Patents Granted in 2026"
 slug: ai-patent-eligibility-101-advisor
 date: 2026-05-24
-url: https://beyondelevation.com/insights/ai-patent-eligibility-101-advisor/
+url: https://beyondelevation.com/insights/ai-patent-eligibility-101-advisor
 author: Hayat Amin
 site: Beyond Elevation
 ---

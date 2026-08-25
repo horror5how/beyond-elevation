@@ -2,7 +2,7 @@
 title: "The EU Pushed the AI Act High-Risk Deadline to December 2027. That Is Not Relief. It Is a 16-Month Governance Moat Window."
 slug: eu-ai-act-omnibus-governance-moat-window
 date: 2026-07-13
-url: https://beyondelevation.com/insights/eu-ai-act-omnibus-governance-moat-window/
+url: https://beyondelevation.com/insights/eu-ai-act-omnibus-governance-moat-window
 author: Hayat Amin
 site: Beyond Elevation
 ---

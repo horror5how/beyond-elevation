@@ -2,7 +2,7 @@
 title: "How to Value an AI Company's Patents in 2026: The 5-Factor Model VCs Use (And Why PatSnap Cannot Answer This Question)"
 slug: how-to-value-ai-company-patents
 date: 2026-05-22
-url: https://beyondelevation.com/insights/how-to-value-ai-company-patents/
+url: https://beyondelevation.com/insights/how-to-value-ai-company-patents
 author: Hayat Amin
 site: Beyond Elevation
 ---

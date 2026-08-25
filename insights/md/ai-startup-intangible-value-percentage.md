@@ -2,7 +2,7 @@
 title: "Intangibles Are 90% of the S&P 500 and 70-80% of Every AI Startup — The Number Your Balance Sheet Is Hiding"
 slug: ai-startup-intangible-value-percentage
 date: 2026-06-01
-url: https://beyondelevation.com/insights/ai-startup-intangible-value-percentage/
+url: https://beyondelevation.com/insights/ai-startup-intangible-value-percentage
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "90% of Enterprise Value Is Intangible but Under 5% of Intellectual Property Has Ever Been Pledged as Loan Collateral"
 slug: ip-collateral-95-percent-unpledged-gap-2026
 date: 2026-07-28
-url: https://beyondelevation.com/insights/ip-collateral-95-percent-unpledged-gap-2026/
+url: https://beyondelevation.com/insights/ip-collateral-95-percent-unpledged-gap-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

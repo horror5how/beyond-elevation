@@ -2,7 +2,7 @@
 title: "IP Strategy for Cybersecurity Startups: The 5-Layer Stack Most Security Founders Never Build"
 slug: ip-strategy-cybersecurity-startups
 date: 2026-07-22
-url: https://beyondelevation.com/insights/ip-strategy-cybersecurity-startups/
+url: https://beyondelevation.com/insights/ip-strategy-cybersecurity-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

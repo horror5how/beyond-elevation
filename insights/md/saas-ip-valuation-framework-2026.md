@@ -2,7 +2,7 @@
 title: "SaaS IP Valuation in 2026: Why the Same Revenue Gets a 4x or 15x Multiple"
 slug: saas-ip-valuation-framework-2026
 date: 2026-06-30
-url: https://beyondelevation.com/insights/saas-ip-valuation-framework-2026/
+url: https://beyondelevation.com/insights/saas-ip-valuation-framework-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

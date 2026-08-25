@@ -2,7 +2,7 @@
 title: "What Makes a Patent Portfolio Bankable in 2026? The 6-Factor Scorecard Lenders Run Before They Read Your P&L"
 slug: what-makes-patent-portfolio-bankable-2026
 date: 2026-07-14
-url: https://beyondelevation.com/insights/what-makes-patent-portfolio-bankable-2026/
+url: https://beyondelevation.com/insights/what-makes-patent-portfolio-bankable-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

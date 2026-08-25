@@ -2,7 +2,7 @@
 title: "IP Insurance: The Missing Layer That Turns a $200K Patent Portfolio Into a $10M Enforcement Machine"
 slug: ip-insurance-patent-enforcement-startups
 date: 2026-06-30
-url: https://beyondelevation.com/insights/ip-insurance-patent-enforcement-startups/
+url: https://beyondelevation.com/insights/ip-insurance-patent-enforcement-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

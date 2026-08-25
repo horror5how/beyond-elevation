@@ -2,7 +2,7 @@
 title: "IP Strategy for AI Companies: The Playbook Foundation Model Companies Use That You Do Not"
 slug: ip-strategy-for-ai-companies
 date: 2026-04-13
-url: https://beyondelevation.com/insights/ip-strategy-for-ai-companies/
+url: https://beyondelevation.com/insights/ip-strategy-for-ai-companies
 author: Hayat Amin
 site: Beyond Elevation
 ---

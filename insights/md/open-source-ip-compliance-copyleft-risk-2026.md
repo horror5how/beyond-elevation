@@ -2,7 +2,7 @@
 title: "One Copyleft License Can Force-Open Your Entire Codebase. The Open Source IP Compliance Audit 96% of Startups Have Never Run."
 slug: open-source-ip-compliance-copyleft-risk-2026
 date: 2026-08-02
-url: https://beyondelevation.com/insights/open-source-ip-compliance-copyleft-risk-2026/
+url: https://beyondelevation.com/insights/open-source-ip-compliance-copyleft-risk-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Royalty-Backed IP Financing Beats IP Term Loans: 50-70% LTV at 6-10% vs 20-40% at 8-15%"
 slug: royalty-backed-ip-financing-vs-term-loan
 date: 2026-06-23
-url: https://beyondelevation.com/insights/royalty-backed-ip-financing-vs-term-loan/
+url: https://beyondelevation.com/insights/royalty-backed-ip-financing-vs-term-loan
 author: Hayat Amin
 site: Beyond Elevation
 ---

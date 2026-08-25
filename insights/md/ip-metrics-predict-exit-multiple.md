@@ -2,7 +2,7 @@
 title: "5 IP Metrics That Predict Your Exit Multiple (And Why Most Founders Track Zero of Them)"
 slug: ip-metrics-predict-exit-multiple
 date: 2026-07-10
-url: https://beyondelevation.com/insights/ip-metrics-predict-exit-multiple/
+url: https://beyondelevation.com/insights/ip-metrics-predict-exit-multiple
 author: Hayat Amin
 site: Beyond Elevation
 ---

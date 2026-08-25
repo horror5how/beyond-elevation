@@ -2,7 +2,7 @@
 title: "Is Your IP Licensable? The 5-Signal Test That Separates Revenue-Generating Patents From Expensive Wall Art"
 slug: is-your-ip-licensable-5-signal-test
 date: 2026-06-24
-url: https://beyondelevation.com/insights/is-your-ip-licensable-5-signal-test/
+url: https://beyondelevation.com/insights/is-your-ip-licensable-5-signal-test
 author: Hayat Amin
 site: Beyond Elevation
 ---

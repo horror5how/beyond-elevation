@@ -2,7 +2,7 @@
 title: "The IP Moat Assessment 90% of Founders Get Wrong: How to Score Your Patents Against Competitors in 30 Minutes"
 slug: ip-moat-assessment-competitive-benchmark
 date: 2026-07-03
-url: https://beyondelevation.com/insights/ip-moat-assessment-competitive-benchmark/
+url: https://beyondelevation.com/insights/ip-moat-assessment-competitive-benchmark
 author: Hayat Amin
 site: Beyond Elevation
 ---

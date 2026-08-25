@@ -2,7 +2,7 @@
 title: "The mRNA Delivery Patent Landscape Post-COVID: 7 LNP Filers, 3 Lipid Chemistries, and the Patent Cliff Coming in 2028"
 slug: mrna-delivery-patent-landscape
 date: 2026-06-13
-url: https://beyondelevation.com/insights/mrna-delivery-patent-landscape/
+url: https://beyondelevation.com/insights/mrna-delivery-patent-landscape
 author: Hayat Amin
 site: Beyond Elevation
 ---

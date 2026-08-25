@@ -2,7 +2,7 @@
 title: "Patent Continuation Strategy: How One Filing Becomes a 15-Claim Licensing Machine Over 10 Years"
 slug: patent-continuation-strategy-15-claim-playbook
 date: 2026-07-05
-url: https://beyondelevation.com/insights/patent-continuation-strategy-15-claim-playbook/
+url: https://beyondelevation.com/insights/patent-continuation-strategy-15-claim-playbook
 author: Hayat Amin
 site: Beyond Elevation
 ---

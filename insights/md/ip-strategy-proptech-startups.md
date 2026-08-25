@@ -2,7 +2,7 @@
 title: "IP Strategy for PropTech Startups: 5 Patent Categories That Separate $100M Exits from Acqui-Hires"
 slug: ip-strategy-proptech-startups
 date: 2026-08-07
-url: https://beyondelevation.com/insights/ip-strategy-proptech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-proptech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

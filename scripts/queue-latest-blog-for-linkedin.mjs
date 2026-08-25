@@ -64,7 +64,7 @@ function decodeEntities(s){return String(s||"")
   .replace(/&ndash;/g,"–").replace(/&hellip;/g,"…").replace(/&nbsp;/g," ");}
 const h1 = decodeEntities((html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/) || [, ""])[1].replace(/<[^>]+>/g, "").trim());
 const desc = decodeEntities((html.match(/<meta\s+name="description"\s+content="([^"]+)"/) || [, ""])[1]);
-const url = `https://beyondelevation.com/insights/${slug}/`;
+const url = `https://beyondelevation.com/insights/${slug}`;
 console.log(`[2/4] title: ${h1.slice(0, 80)}`);
 
 // 3. Build caption — worker-facing, hook-first, includes URL.

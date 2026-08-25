@@ -2,7 +2,7 @@
 title: "The 5-Move IP Strategy That Adds 20-40% to PE Portfolio Company Exit Multiples"
 slug: pe-portfolio-ip-strategy-5-move-exit-playbook-2026
 date: 2026-08-17
-url: https://beyondelevation.com/insights/pe-portfolio-ip-strategy-5-move-exit-playbook-2026/
+url: https://beyondelevation.com/insights/pe-portfolio-ip-strategy-5-move-exit-playbook-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

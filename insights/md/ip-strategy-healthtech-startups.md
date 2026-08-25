@@ -2,7 +2,7 @@
 title: "IP Strategy for HealthTech Startups: The 5-Layer Patent Stack That Separates $500M Exits From $50M Acqui-Hires"
 slug: ip-strategy-healthtech-startups
 date: 2026-07-12
-url: https://beyondelevation.com/insights/ip-strategy-healthtech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-healthtech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

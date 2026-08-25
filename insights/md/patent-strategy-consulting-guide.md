@@ -2,7 +2,7 @@
 title: "Patent Strategy Consulting in 2026: What IPCG, Aurora, and Hupp IP Actually Do (And When a Fractional IP Strategist Beats All of Them)"
 slug: patent-strategy-consulting-guide
 date: 2026-07-08
-url: https://beyondelevation.com/insights/patent-strategy-consulting-guide/
+url: https://beyondelevation.com/insights/patent-strategy-consulting-guide
 author: Hayat Amin
 site: Beyond Elevation
 ---

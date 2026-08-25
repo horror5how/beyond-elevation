@@ -2,7 +2,7 @@
 title: "Acquirers Pay 2-4x Premiums for AI Startups They Cannot Build in 5 Years — The 4 Capabilities That Trigger a Bidding War"
 slug: acquirer-premium-multiples-ai-startups
 date: 2026-06-05
-url: https://beyondelevation.com/insights/acquirer-premium-multiples-ai-startups/
+url: https://beyondelevation.com/insights/acquirer-premium-multiples-ai-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

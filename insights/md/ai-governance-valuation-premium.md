@@ -2,7 +2,7 @@
 title: "AI Governance Is a 1.7x Valuation Premium, Not a Cost: 8.2x vs 6.5x Forward Revenue"
 slug: ai-governance-valuation-premium
 date: 2026-07-02
-url: https://beyondelevation.com/insights/ai-governance-valuation-premium/
+url: https://beyondelevation.com/insights/ai-governance-valuation-premium
 author: Hayat Amin
 site: Beyond Elevation
 ---

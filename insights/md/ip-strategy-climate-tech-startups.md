@@ -2,7 +2,7 @@
 title: "IP Strategy for Climate Tech Startups: The 5-Layer IP Stack That Covers Hardware, Processes, Software, Carbon Data, and Regulatory Moats"
 slug: ip-strategy-climate-tech-startups
 date: 2026-07-13
-url: https://beyondelevation.com/insights/ip-strategy-climate-tech-startups/
+url: https://beyondelevation.com/insights/ip-strategy-climate-tech-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

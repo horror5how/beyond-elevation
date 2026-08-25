@@ -2,7 +2,7 @@
 title: "How to Price an IP License Without Leaving Half Your Revenue on the Table"
 slug: how-to-price-ip-license-royalty-stack
 date: 2026-07-08
-url: https://beyondelevation.com/insights/how-to-price-ip-license-royalty-stack/
+url: https://beyondelevation.com/insights/how-to-price-ip-license-royalty-stack
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "Your Patent Stops at the Border. Your Competitor's Product Doesn't."
 slug: patent-international-filing-strategy
 date: 2026-04-09
-url: https://beyondelevation.com/insights/patent-international-filing-strategy/
+url: https://beyondelevation.com/insights/patent-international-filing-strategy
 author: Hayat Amin
 site: Beyond Elevation
 ---

@@ -2,7 +2,7 @@
 title: "IoT IP Strategy: You Patented the Device. The 4 Layers That Generate 80% of Licensing Revenue Are Wide Open."
 slug: ip-strategy-iot-connected-device-startups
 date: 2026-07-31
-url: https://beyondelevation.com/insights/ip-strategy-iot-connected-device-startups/
+url: https://beyondelevation.com/insights/ip-strategy-iot-connected-device-startups
 author: Hayat Amin
 site: Beyond Elevation
 ---

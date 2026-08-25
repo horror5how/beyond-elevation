@@ -2,7 +2,7 @@
 title: "Two 2026 Courts Ruled: Typing Trade Secrets Into ChatGPT Destroys Your Protection Forever"
 slug: chatgpt-trade-secret-court-ruling-2026
 date: 2026-07-29
-url: https://beyondelevation.com/insights/chatgpt-trade-secret-court-ruling-2026/
+url: https://beyondelevation.com/insights/chatgpt-trade-secret-court-ruling-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

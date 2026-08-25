@@ -2,7 +2,7 @@
 title: "Your Series B Will Stall Without an IP Portfolio. Here Is the Proof."
 slug: ip-portfolio-series-b-fundraising
 date: 2026-04-04
-url: https://beyondelevation.com/insights/ip-portfolio-series-b-fundraising/
+url: https://beyondelevation.com/insights/ip-portfolio-series-b-fundraising
 author: Hayat Amin
 site: Beyond Elevation
 ---

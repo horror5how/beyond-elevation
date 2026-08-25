@@ -200,13 +200,13 @@ const FOOTER = `<footer class="foot">
 // new home so link equity stays on-site instead of bouncing through a 301.
 function rewriteInternalLinks(body = '') {
   return String(body)
-    .replace(/(href=["'])(?:https?:\/\/(?:www\.)?beyondelevation\.com)?\/blog\/posts\/([^"'#?]+?)\/?(["'#?])/gi, '$1/insights/$2/$3')
+    .replace(/(href=["'])(?:https?:\/\/(?:www\.)?beyondelevation\.com)?\/blog\/posts\/([^"'#?]+?)\/?(["'#?])/gi, '$1/insights/$2$3')
     .replace(/(href=["'])(?:https?:\/\/(?:www\.)?beyondelevation\.com)?\/blog\/?(["'#?])/gi, '$1/insights/$2');
 }
 
 function relatedCards(related) {
   if (!related || !related.length) return '';
-  const cards = related.map(p => `    <a class="inscard" href="/insights/${p.slug}/">
+  const cards = related.map(p => `    <a class="inscard" href="/insights/${p.slug}">
       <p class="mono">${escapeHtml(categoryLabel(p.category))}</p>
       <h3>${escapeHtml(p.title || '')}</h3>
       <p class="ins-go">Read the insight <span class="arw">↗</span></p>
@@ -220,7 +220,7 @@ ${cards}
 }
 
 function pageTemplate(post, related) {
-  const canonical = `${SITE}/insights/${post.slug}/`;
+  const canonical = `${SITE}/insights/${post.slug}`;
   const seoTitle = post.seoTitle || post.title;
   const BRAND_SUFFIX = ' | Beyond Elevation';
   const title = (seoTitle.length + BRAND_SUFFIX.length) <= 60
@@ -353,7 +353,7 @@ function insightsIndexTemplate(posts) {
       <p class="ins-go">Read the insight <span class="arw">↗</span></p>
     </a>`).join('\n');
 
-  const cards = sorted.map(p => `    <a class="inscard" href="/insights/${p.slug}/">
+  const cards = sorted.map(p => `    <a class="inscard" href="/insights/${p.slug}">
       <p class="mono">${escapeHtml(categoryLabel(p.category))}</p>
       <h3>${escapeHtml(p.title || '')}</h3>
       <p class="ins-go">Read the insight <span class="arw">↗</span></p>
@@ -365,7 +365,7 @@ function insightsIndexTemplate(posts) {
     itemListElement: [...PINNED.map((p, i) => ({
       '@type': 'ListItem', position: i + 1, url: `${SITE}/insights/${p.slug}`,
     })), ...sorted.map((p, i) => ({
-      '@type': 'ListItem', position: PINNED.length + i + 1, url: `${SITE}/insights/${p.slug}/`,
+      '@type': 'ListItem', position: PINNED.length + i + 1, url: `${SITE}/insights/${p.slug}`,
     }))],
   };
 

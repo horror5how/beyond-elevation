@@ -2,7 +2,7 @@
 title: "65% of Patents Die at the PTAB — The Inter Partes Review Defense Strategy Most Founders Discover Too Late"
 slug: inter-partes-review-defense-strategy-2026
 date: 2026-08-21
-url: https://beyondelevation.com/insights/inter-partes-review-defense-strategy-2026/
+url: https://beyondelevation.com/insights/inter-partes-review-defense-strategy-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

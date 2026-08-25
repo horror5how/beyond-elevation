@@ -2,7 +2,7 @@
 title: "You Outsourced Your AI Development. You Probably Do Not Own the IP."
 slug: outsourced-ai-development-ip-ownership-trap-2026
 date: 2026-08-04
-url: https://beyondelevation.com/insights/outsourced-ai-development-ip-ownership-trap-2026/
+url: https://beyondelevation.com/insights/outsourced-ai-development-ip-ownership-trap-2026
 author: Hayat Amin
 site: Beyond Elevation
 ---

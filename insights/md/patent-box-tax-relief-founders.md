@@ -2,7 +2,7 @@
 title: "Your Patents Can Cut Your Corporate Tax to 10%. Most Founders Never File the Election."
 slug: patent-box-tax-relief-founders
 date: 2026-04-10
-url: https://beyondelevation.com/insights/patent-box-tax-relief-founders/
+url: https://beyondelevation.com/insights/patent-box-tax-relief-founders
 author: Hayat Amin
 site: Beyond Elevation
 ---

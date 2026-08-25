@@ -2,7 +2,7 @@
 title: "What Is IP Funding? How Founders Raise Capital Against Patents Without Giving Up a Single Share"
 slug: what-is-ip-funding
 date: 2026-06-15
-url: https://beyondelevation.com/insights/what-is-ip-funding/
+url: https://beyondelevation.com/insights/what-is-ip-funding
 author: Hayat Amin
 site: Beyond Elevation
 ---

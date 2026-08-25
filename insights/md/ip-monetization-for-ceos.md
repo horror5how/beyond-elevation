@@ -2,7 +2,7 @@
 title: "The IP Monetization Playbook Every CEO Should Read Before Their Next Board Meeting"
 slug: ip-monetization-for-ceos
 date: 2026-04-16
-url: https://beyondelevation.com/insights/ip-monetization-for-ceos/
+url: https://beyondelevation.com/insights/ip-monetization-for-ceos
 author: Hayat Amin
 site: Beyond Elevation
 ---
