@@ -51,7 +51,7 @@ automate-first, two-day-close, value-your-data. Write adjacent topics, link to t
 
 | # | slug_hint | primary_keyword | supporting_keywords | angle | category | covered |
 |---|---|---|---|---|---|---|
-| T6-01 | fractional-cfo-cost-2026 | fractional CFO cost | fractional CFO rates, fractional CFO pricing, part time CFO cost | What a Fractional CFO Actually Costs in 2026 (And What You Get For It) | CFO | |
+| T6-01 | fractional-cfo-cost-2026 | fractional CFO cost | fractional CFO rates, fractional CFO pricing, part time CFO cost | What a Fractional CFO Actually Costs in 2026 (And What You Get For It) | CFO | ✅ fractional-cfo-cost-2026 |
 | T6-02 | when-to-hire-fractional-cfo | when to hire a fractional CFO | signs you need a CFO, first finance hire, CFO vs accountant | The 5 Signals Your Company Has Outgrown Its Accountant | CFO | |
 | T6-03 | fractional-cfo-vs-interim-cfo | fractional CFO vs interim CFO | interim CFO, part time CFO difference, temporary CFO | Fractional vs Interim CFO: Two Different Tools For Two Different Problems | CFO | |
 | T6-04 | fractional-cfo-fundraising | fractional CFO for fundraising | CFO for Series A, fundraising finance preparation, investor-ready numbers | What Investors Check In Your Numbers Before They Check Your Product | CFO | |
