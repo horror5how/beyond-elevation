@@ -652,3 +652,4 @@ ip-amortization-ebitda-add-back-2026
 patent-competitive-intelligence-playbook-2026
 agentic-workflow-patent-strategy-2026
 three-ip-documents-q4-diligence-2026
+trade-secret-inventory-audit-2026

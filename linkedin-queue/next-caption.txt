@@ -1,15 +1,21 @@
-Q4 due diligence opens in 8 weeks.
+Most companies have 50 trade secrets and have documented 0.
 
-Acquirers request 3 IP documents in the first 48 hours.
+Not because they don't exist.
 
-Document 1: Patent assignment chain. Every inventor. Every contractor. Every co-founder. One gap voids the claim.
+Because nobody told them protection starts with an inventory, not a lawsuit.
 
-Document 2: Active licensing ledger. Running royalties, minimums, sublicense rights. Missing this = 0 IP revenue to underwrite.
+A trade secret you can't identify can't be licensed, enforced, or valued.
 
-Document 3: IP valuation report (income approach). Not your lawyer's estimate. An independent one.
+Three numbers:
 
-73% of founders don't have all three ready.
+68% of trade secret cases fail the "reasonable measures" test — not on the merits.
 
-That gap costs 25-40% of deal value before the NDA is signed.
+$2.3M average exit value gap for companies with no formal trade secret register.
 
-#IPStrategy #MergersAndAcquisitions #StartupFounders
+14 days to complete a first-pass inventory with the right framework.
+
+The assets exist. The documentation doesn't.
+
+That's a fixable problem.
+
+#IPStrategy #TradeSecrets #Valuation
