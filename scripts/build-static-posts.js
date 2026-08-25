@@ -322,9 +322,9 @@ ${NAV}
 <main class="article">
   <p class="mono">${escapeHtml(label)}</p>
   <h1>${escapeHtml(post.title)}</h1>
+  <p class="mono">${escapeHtml(author)} · Updated ${escapeHtml(dateModified)}</p>
   ${excerpt}
   ${body}
-  <p class="mono" style="margin-top:32px">${escapeHtml(author)} · ${escapeHtml(datePublished)}</p>
 </main>
 
 <section class="storynav" style="border-top:0;padding-top:0">

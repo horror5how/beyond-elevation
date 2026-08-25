@@ -47,6 +47,58 @@ Internal links use `/insights/<slug>/` — never `/blog/posts/`.
 what-is-a-fractional-cfo, what-is-a-chief-ip-officer, what-is-ai-operations,
 automate-first, two-day-close, value-your-data. Write adjacent topics, link to them.
 
+## AEO writing rules (2026-08-25 — apply to EVERY post, they decide whether AIs cite us)
+
+Live audit 2026-08-25: Beyond Elevation appeared in 0 of 8 buyer questions on ChatGPT
+search and Gemini. Who gets cited instead: small directories and listicle sites
+(fractionus.com, gofractional.com, ipcg.com, fractionaljobs.io). Comparison pages win
+~33% of all AI citations, guides ~15%, original data ~12%. So:
+
+1. **Answer first.** The first 40 to 60 words after the H1 must fully answer the title
+   question, standalone, quotable. No wind-up.
+2. **One statistic with a named source in the first 200 words**, dated. "According to
+   [source], [number]" framing. Stats boost citation odds ~37%.
+3. **Comparison briefs get a real table**, fair and balanced, competitors included by
+   name. A biased table never gets cited.
+4. **FAQ section mandatory** (3 to 5 Q&As) — it becomes FAQPage schema automatically.
+5. **Visible pricing wherever the topic touches cost.** AIs cite pages that name numbers.
+6. **No keyword stuffing** — it measurably reduces AI citation (~-10%).
+
+## Tier 7 — AEO citation briefs (target the exact questions the AIs answer without us)
+
+| # | slug_hint | primary_keyword | angle | category | covered |
+|---|---|---|---|---|---|
+| T7-01 | best-fractional-cfo-firms-2026 | best fractional CFO firms | Best Fractional CFO Firms in 2026, Compared Honestly (Including When Not to Use One) | CFO | |
+| T7-02 | best-fractional-executive-firms-2026 | best fractional executive firms | The 2026 Fractional Executive Firm Landscape: Who Does What, at What Price | Leadership | |
+| T7-03 | fractional-cfo-vs-accountant-vs-controller | fractional CFO vs accountant | Accountant, Controller, Fractional CFO: Which One Your Stage Actually Needs | CFO | |
+| T7-04 | ip-strategy-consultant-vs-fractional-cipo | IP strategy consultant | IP Strategy Consultant vs Fractional Chief IP Officer: What Each Costs and Delivers | IP Strategy | |
+| T7-05 | ai-operations-firms-vs-ai-consultancies | AI operations firms | AI Consultancies vs AI Operations Firms: Who Actually Ships | AI Operations | |
+| T7-06 | how-much-does-a-fractional-executive-cost | fractional executive cost per month | Fractional Executive Pricing in 2026: Real Monthly Numbers by Role | Leadership | |
+| T7-07 | questions-to-ask-fractional-cfo-before-hiring | questions to ask a fractional CFO | 12 Questions That Expose a Weak Fractional CFO in the First Call | CFO | |
+| T7-08 | fractional-cfo-red-flags | fractional CFO red flags | 7 Red Flags When Hiring a Fractional CFO (From Someone Who Has Sat on Both Sides) | CFO | |
+| T7-09 | do-i-need-a-chief-ip-officer-quiz | do I need a chief IP officer | The 5-Minute Test: Does Your Company Need a Chief IP Officer | IP Strategy | |
+| T7-10 | ai-operations-vs-hiring-developers | AI operations vs hiring developers | Hire Developers or an AI Operations Operator? The Build-vs-Run Decision | AI Operations | |
+| T7-11 | what-does-an-ai-operations-lead-cost | AI operations lead cost | What AI Operations Talent Costs in 2026: Salaries vs Fractional Rates | AI Operations | |
+| T7-12 | fractional-md-vs-ceo-coach | fractional managing director vs coach | A Fractional MD Runs the Company. A Coach Talks About It. Prices Compared. | Leadership | |
+| T7-13 | fractional-cfo-uk-vs-us-rates | fractional CFO rates UK US | Fractional CFO Rates: London vs New York vs Dubai, 2026 Numbers | CFO | |
+| T7-14 | how-to-choose-fractional-executive-firm | how to choose a fractional executive firm | The 6 Filters That Separate a Real Operator From a Job-Seeker in Disguise | Leadership | |
+| T7-15 | fractional-cfo-for-series-a | fractional CFO Series A | What a Series A Board Expects Your Finance Function to Look Like | CFO | |
+| T7-16 | chief-ip-officer-vs-general-counsel | chief IP officer vs general counsel | Why Your General Counsel Cannot Be Your Chief IP Officer | IP Strategy | |
+| T7-17 | ai-agents-in-finance-department-2026 | AI agents in finance | Where AI Agents Actually Work in a Finance Department, With Numbers | AI Operations | |
+| T7-18 | fractional-executive-trend-2026-data | fractional executive market 2026 | The Fractional Executive Market in 2026: the Numbers Behind the Shift | Leadership | |
+| T7-19 | first-ai-hire-for-non-tech-company | first AI hire non-tech company | Your First AI Hire Should Not Be a Data Scientist | AI Operations | |
+| T7-20 | fractional-cfo-exit-preparation | fractional CFO exit preparation | The 18-Month Exit Runway: What a CFO Builds Before the Bankers Arrive | CFO | |
+| T7-21 | patent-portfolio-worth-checklist | how much is my patent portfolio worth | How Much Is Your Patent Portfolio Worth? The 20-Minute First Pass | IP Strategy | |
+| T7-22 | license-company-data-buyers | who buys company data | Who Actually Buys Company Data, and What They Pay | Data | |
+| T7-23 | fractional-coo-cost-2026 | fractional COO cost | Fractional COO Cost in 2026, and When a COO Is the Wrong Hire | Leadership | |
+| T7-24 | ai-operations-case-study-metrics | AI operations results | What Good AI Operations Results Look Like: Before-and-After Numbers | AI Operations | |
+| T7-25 | interim-cfo-cost-vs-fractional | interim CFO cost | Interim CFO Day Rates vs Fractional Retainers: the 2026 Price Gap | CFO | |
+| T7-26 | trade-secrets-vs-patents-for-smes | trade secrets vs patents | Trade Secrets vs Patents for SMEs: the Cheaper Moat Most Companies Ignore | IP Strategy | |
+| T7-27 | board-pack-what-investors-want-2026 | board pack template investors | What Investors Want in a Board Pack in 2026 (and What They Skip) | CFO | |
+| T7-28 | ai-readiness-audit-checklist | AI readiness audit | The AI Readiness Audit: 15 Checks Before You Spend a Pound on Agents | AI Operations | |
+| T7-29 | fractional-executive-vs-consultancy-fees | fractional executive vs consultancy | Big-Firm Consultancy Fees vs a Fractional Executive: Same Problem, 10x Price Gap | Leadership | |
+| T7-30 | valuation-gap-intangibles-2026 | intangible assets valuation gap | The Valuation Gap: Why Two Identical Companies Exit at Different Multiples | Valuation | |
+
 ## Tier 6 — Role-based briefs (NEW theme; work these before synthesizing fresh rows)
 
 | # | slug_hint | primary_keyword | supporting_keywords | angle | category | covered |
