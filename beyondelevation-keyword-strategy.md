@@ -68,6 +68,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 
 | # | slug_hint | primary_keyword | angle | category | covered |
 |---|---|---|---|---|---|
+| T7-00 | beyond-elevation-vs-burkland-vs-kruze | beyond elevation vs burkland vs kruze | Beyond Elevation vs Burkland vs Kruze: an Honest Head-to-Head for Founders Choosing a Fractional CFO (write FIRST: comparison pages win ~33% of AI citations; be scrupulously fair, concede where rivals win, real pricing from their sites, comparison table mandatory) | CFO | |
 | T7-01 | best-fractional-cfo-firms-2026 | best fractional CFO firms | Best Fractional CFO Firms in 2026, Compared Honestly (Including When Not to Use One) | CFO | |
 | T7-02 | best-fractional-executive-firms-2026 | best fractional executive firms | The 2026 Fractional Executive Firm Landscape: Who Does What, at What Price | Leadership | |
 | T7-03 | fractional-cfo-vs-accountant-vs-controller | fractional CFO vs accountant | Accountant, Controller, Fractional CFO: Which One Your Stage Actually Needs | CFO | |
