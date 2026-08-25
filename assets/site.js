@@ -364,3 +364,25 @@
     });
   });
 })();
+
+// Top nav tabs: rebuild .navlinks into Services dropdown + section links.
+// Injected here so all ~440 static pages get the same nav from one file.
+(function () {
+  var nav = document.querySelector('header.nav .navlinks');
+  if (!nav) return;
+  nav.classList.add('navtabs');
+  nav.innerHTML =
+    '<div class="dd">' +
+      '<button type="button" aria-haspopup="true" aria-expanded="false">Services <span class="dd-arw">▾</span></button>' +
+      '<div class="dd-menu"><div class="dd-card">' +
+        '<a href="/cfo">CFO — Chief Financial Officer</a>' +
+        '<a href="/ip">IP — Chief IP Officer</a>' +
+        '<a href="/fde">AI Operations</a>' +
+        '<a class="dd-test" href="/which-seat">Not sure? Take the 30-second test</a>' +
+      '</div></div>' +
+    '</div>' +
+    '<a href="/#how">Pricing</a>' +
+    '<a href="/#comparison">Why us</a>' +
+    '<a href="/case-studies">Results</a>' +
+    '<a href="/insights">Insights</a>';
+})();
