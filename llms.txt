@@ -389,5 +389,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI Startup Patent Defense: 7 Patents That Turn Big Tech Copycats Into Licensees](https://beyondelevation.com/insights/ai-startup-patent-defense-big-tech-2026) — /insights/md/ai-startup-patent-defense-big-tech-2026.md
 - [5 IP Strategy Shifts in 2026 That Created a 41% Valuation Gap](https://beyondelevation.com/insights/ip-strategy-5-shifts-2026) — /insights/md/ip-strategy-5-shifts-2026.md
 - [Your IP Data Room Is Missing the 7 Documents VCs Check First. Here Is the Complete Checklist.](https://beyondelevation.com/insights/ip-data-room-fundraising-checklist-2026) — /insights/md/ip-data-room-fundraising-checklist-2026.md
+- [What a Fractional CFO Actually Costs in 2026 (And What You Get For It)](https://beyondelevation.com/insights/fractional-cfo-cost-2026) — /insights/md/fractional-cfo-cost-2026.md
 
 > Full blog content available at /llms-full.txt
