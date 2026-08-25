@@ -1105,6 +1105,16 @@ a.plan-btn.ghost .arw{background:var(--panel);color:var(--ink)}
 .plan-list{list-style:none;margin:0;padding:0;display:grid;gap:9px}
 .plan-list li{position:relative;padding-left:26px;font-size:14.5px;color:var(--ink-2)}
 .plan-list li::before{content:"\2713";position:absolute;left:0;top:0;color:var(--ink);font-weight:700}
+.plan-audit{
+  max-width:900px;margin:22px auto 0;background:#fff;border:1px solid var(--line);border-radius:16px;
+  padding:20px 26px;display:flex;align-items:center;gap:22px;
+}
+.plan-audit p{margin:0;font-size:14.5px;color:var(--ink-2);flex:1}
+.plan-audit strong{color:var(--ink)}
+.plan-audit .pa-price{font-family:var(--serif);font-size:24px;color:var(--ink);white-space:nowrap;flex:0 0 auto}
+.plan-audit .pa-price span{font-size:13px;color:var(--mute);font-family:var(--sans)}
+.plan-audit .plan-btn{width:auto;flex:0 0 auto}
+@media (max-width:720px){.plan-audit{flex-direction:column;align-items:flex-start}}
 .plans-trust{
   text-align:center;margin:clamp(40px,5vw,64px) auto 0;font-family:var(--mono);
   font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);
