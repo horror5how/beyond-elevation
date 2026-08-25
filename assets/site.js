@@ -365,7 +365,7 @@
   });
 })();
 
-// Top nav tabs: rebuild .navlinks into Services dropdown + section links.
+// Top nav tabs: rebuild .navlinks into Services mega-dropdown + section links.
 // Injected here so all ~440 static pages get the same nav from one file.
 (function () {
   var nav = document.querySelector('header.nav .navlinks');
@@ -373,16 +373,24 @@
   nav.classList.add('navtabs');
   nav.innerHTML =
     '<div class="dd">' +
-      '<button type="button" aria-haspopup="true" aria-expanded="false">Services <span class="dd-arw">▾</span></button>' +
-      '<div class="dd-menu"><div class="dd-card">' +
-        '<a href="/cfo">CFO — Chief Financial Officer</a>' +
-        '<a href="/ip">IP — Chief IP Officer</a>' +
-        '<a href="/fde">AI Operations</a>' +
-        '<a class="dd-test" href="/which-seat">Not sure? Take the 30-second test</a>' +
+      '<button type="button" aria-haspopup="true" aria-expanded="false">Services <span class="dd-arw">\u25be</span></button>' +
+      '<div class="dd-menu"><div class="dd-card dd-mega">' +
+        '<div class="dd-links">' +
+          '<a href="/cfo"><b>Chief Financial Officer</b><span>Cash, margin, runway and the board</span></a>' +
+          '<a href="/ip"><b>Chief IP Officer</b><span>Patents, licensing and IP value</span></a>' +
+          '<a href="/fde"><b>AI Operations</b><span>One function made AI ready</span></a>' +
+          '<a class="dd-test" href="/which-seat">Not sure? Take the 30 second test</a>' +
+        '</div>' +
+        '<div class="dd-quote">' +
+          '<img src="/assets/img/ceo-babacar-lg.webp" alt="Babacar Diallo" loading="lazy">' +
+          '<p>\u201cThey turned data we were sitting on into real revenue streams.\u201d</p>' +
+          '<b>Babacar Diallo</b><i>CEO, Oolu Solar</i>' +
+        '</div>' +
       '</div></div>' +
     '</div>' +
     '<a href="/#how">Pricing</a>' +
     '<a href="/#comparison">Why us</a>' +
     '<a href="/case-studies">Results</a>' +
-    '<a href="/insights">Insights</a>';
+    '<a href="/insights">Insights</a>' +
+    '<a href="/contact">Contact</a>';
 })();
