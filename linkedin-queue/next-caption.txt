@@ -1,18 +1,13 @@
-Your AI consultant delivered a 47-slide strategy deck.
+Running a full-time CFO + COO + General Counsel at £5M ARR costs £480K a year.
 
-Your AI operations operator deployed a working system in 30 days.
+Most of that spend covers work AI does in minutes.
 
-Same budget. Different outcome.
+Fractional C-suite runs the same function for £140K.
 
-Consultants earn fees for advice. Operators earn trust by shipping.
+The £340K gap goes back into the business or the cap table.
 
-3 things a real AI operator does that a consultant cannot:
-- Owns the outcome, not the recommendation
-- Runs the change management while the code runs in production
-- Is still accountable in month 4 when the edge cases hit
+Beyond Elevation operators average 14 years of exit experience.
 
-Most companies hire consultants for AI and wonder why nothing ships.
+You get the judgment — without the headcount.
 
-The bottleneck was never the strategy.
-
-#AIOperations #FractionalExecutive #BeyondElevation
+#FractionalCFO #FractionalExecutive #AIOperations
