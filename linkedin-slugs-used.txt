@@ -656,3 +656,4 @@ trade-secret-inventory-audit-2026
 ai-operations-operator-vs-consultant
 fractional-c-suite-cost-vs-full-time-2026
 ip-strategy-consultant-vs-fractional-cipo
+chief-ip-officer-job-description
