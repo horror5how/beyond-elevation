@@ -392,5 +392,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [What a Fractional CFO Actually Costs in 2026 (And What You Get For It)](https://beyondelevation.com/insights/fractional-cfo-cost-2026) — /insights/md/fractional-cfo-cost-2026.md
 - [Beyond Elevation vs Burkland vs Kruze: an Honest Head to Head for Founders Choosing a Fractional CFO](https://beyondelevation.com/insights/beyond-elevation-vs-burkland-vs-kruze) — /insights/md/beyond-elevation-vs-burkland-vs-kruze.md
 - [AI Consultancies vs AI Operations Firms: Who Actually Ships](https://beyondelevation.com/insights/ai-operations-firms-vs-ai-consultancies) — /insights/md/ai-operations-firms-vs-ai-consultancies.md
+- [What Is a Forward Deployed Engineer for Startups?](https://beyondelevation.com/insights/forward-deployed-engineer-for-startups) — /insights/md/forward-deployed-engineer-for-startups.md
 
 > Full blog content available at /llms-full.txt
