@@ -378,7 +378,7 @@
         '<div class="dd-links">' +
           '<a href="/cfo"><b>Chief Financial Officer</b><span>Cash, margin, runway and the board</span></a>' +
           '<a href="/ip"><b>Chief IP Officer</b><span>Patents, licensing and IP value</span></a>' +
-          '<a href="/fde"><b>AI Operations</b><span>One function made AI ready</span></a>' +
+          '<a href="/fde"><b>AI Operations</b><span>Your processes made AI ready</span></a>' +
           '<a class="dd-test" href="/which-seat">Not sure? Take the 30 second test</a>' +
         '</div>' +
         '<div class="dd-quote">' +
