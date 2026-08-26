@@ -4,7 +4,7 @@
     {
       "name": "beyond-elevation",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["serve", "-l", "3456", "/Users/hayatamin/Documents/beyond-elevation"],
+      "runtimeArgs": ["serve", "-l", "3456", "/Users/hayatamin/repos/beyond-elevation"],
       "port": 3456
     }
   ]

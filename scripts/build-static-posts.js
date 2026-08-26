@@ -36,8 +36,8 @@ const HANDWRITTEN = new Set([
 const PINNED = [
   { slug: 'what-is-a-fractional-cfo', label: 'CFO insight', title: 'What is a fractional CFO?' },
   { slug: 'what-is-a-chief-ip-officer', label: 'IP insight', title: 'What is a Chief IP Officer?' },
-  { slug: 'what-is-ai-operations', label: 'AI Operations insight', title: 'What is an AI Operations operator?' },
-  { slug: 'automate-first', label: 'AI Operations insight', title: 'Which business processes should you automate first with AI?' },
+  { slug: 'what-is-ai-operations', label: 'AI Operations (FDE) insight', title: 'What is an AI Operations (FDE) operator?' },
+  { slug: 'automate-first', label: 'AI Operations (FDE) insight', title: 'Which business processes should you automate first with AI?' },
   { slug: 'two-day-close', label: 'CFO insight', title: 'How fast should month end actually close?' },
   { slug: 'value-your-data', label: 'CFO & IP insight', title: 'How do you value your company’s data?' },
 ];
@@ -46,7 +46,7 @@ const PINNED = [
 // article eyebrows, in the new site's voice.
 function categoryLabel(category = '') {
   const c = String(category).toLowerCase();
-  if (/ai operations|fde|automation/.test(c)) return 'AI Operations insight';
+  if (/ai operations|fde|automation/.test(c)) return 'AI Operations (FDE) insight';
   if (/^ai$|ai strategy/.test(c)) return 'AI insight';
   if (/cfo|finance|fundrais/.test(c)) return 'CFO insight';
   if (/leadership|managing director|md insight|coo|exec/.test(c)) return 'Leadership insight';
@@ -59,7 +59,7 @@ function categoryLabel(category = '') {
 // Which service page an article should point back to.
 function positionLink(category = '') {
   const label = categoryLabel(category);
-  if (label === 'AI Operations insight' || label === 'AI insight') return { href: '/fde', name: 'The AI Operations position' };
+  if (label === 'AI Operations (FDE) insight' || label === 'AI insight') return { href: '/fde', name: 'The AI Operations (FDE) position' };
   if (label === 'CFO insight' || label === 'Valuation insight') return { href: '/cfo', name: 'The CFO position' };
   if (label === 'Leadership insight') return { href: '/which-seat', name: 'Which position do I need?' };
   return { href: '/ip', name: 'The Chief IP Officer position' };
@@ -154,7 +154,7 @@ const NAV = `<header class="nav">
   <nav class="navlinks">
     <a href="/cfo">Chief Financial Officer</a>
     <a href="/ip">Chief IP Officer</a>
-    <a href="/fde">AI Operations</a>
+    <a href="/fde">AI Operations (FDE)</a>
     <a href="/case-studies">Case Studies</a>
     <a class="on" href="/insights">Insights</a>
     <a href="/about">About</a>
@@ -165,7 +165,7 @@ const NAV = `<header class="nav">
   <button class="menubtn" aria-label="Menu" aria-expanded="false" type="button"><span></span><span></span><span></span></button>
   <nav class="mobilemenu" aria-label="Menu">
     <div class="mm-grid">
-      <div><p class="mono">The three positions</p><a href="/cfo">Chief Financial Officer</a><a href="/ip">Chief IP Officer</a><a href="/fde">AI Operations</a><a href="/which-seat">Which position do I need?</a></div>
+      <div><p class="mono">The three positions</p><a href="/cfo">Chief Financial Officer</a><a href="/ip">Chief IP Officer</a><a href="/fde">AI Operations (FDE)</a><a href="/which-seat">Which position do I need?</a></div>
       <div><p class="mono">Proof</p><a href="/case-studies">Case studies</a><a href="/insights">Insights</a><a href="/faq">Questions, answered</a></div>
       <div><p class="mono">Company</p><a href="/about">About</a><a href="/how-it-works">How it works</a><a href="/contact">Contact</a><a href="/privacy">Privacy policy</a></div>
       <div class="mm-contact"><p class="mono">Talk to us</p><p><a href="/call">Book a free call</a></p><p><a href="tel:+15713807699">+1 571 380 7699</a></p><p><a href="tel:+447476383531">+44 7476 383531</a></p><p><a href="tel:+971521125754">+971 52 112 5754</a></p><p><a href="mailto:clara.hawkins@beyondelevation.com">clara.hawkins@beyondelevation.com</a></p></div>
@@ -188,7 +188,7 @@ const FOOTER = `<footer class="foot">
     <a class="btn" href="/call">Book a free call <span class="arw">↗</span></a>
   </div>
   <div class="foot-cols">
-    <div><p class="mono">The three positions</p><a href="/ip">Chief IP Officer</a><a href="/cfo">Chief Financial Officer</a><a href="/fde">AI Operations</a><a href="/which-seat">Which position do I need?</a></div>
+    <div><p class="mono">The three positions</p><a href="/ip">Chief IP Officer</a><a href="/cfo">Chief Financial Officer</a><a href="/fde">AI Operations (FDE)</a><a href="/which-seat">Which position do I need?</a></div>
     <div><p class="mono">Company</p><a href="/case-studies">Case studies</a><a href="/insights">Insights</a><a href="/about">About</a></div>
     <div><p class="mono">Contact</p><a href="tel:+15713807699">+1 571 380 7699</a><a href="tel:+447476383531">+44 7476 383531</a><a href="mailto:clara.hawkins@beyondelevation.com">clara.hawkins@beyondelevation.com</a></div>
   </div>
