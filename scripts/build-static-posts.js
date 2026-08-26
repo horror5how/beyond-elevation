@@ -227,7 +227,19 @@ function pageTemplate(post, related) {
     ? `${seoTitle}${BRAND_SUFFIX}`
     : seoTitle;
   const description = clampMeta(post.metaDescription || post.excerpt || `Insights from Beyond Elevation — ${post.title}`);
-  const ogImage = `${SITE}/assets/img/og.jpg`;
+  // Posts published before hero art carry the old default '../assets/og-image.jpg'
+  // and render exactly as before. A real heroImage becomes the og:image and a
+  // full-width hero at the top of the article.
+  const DEFAULT_HERO = '../assets/og-image.jpg';
+  let heroPath = null;
+  if (post.heroImage && post.heroImage !== DEFAULT_HERO) {
+    heroPath = /^https?:\/\//.test(post.heroImage)
+      ? post.heroImage
+      : '/' + String(post.heroImage).replace(/^(\.\.\/|\.\/|\/)+/, '');
+  }
+  const ogImage = heroPath
+    ? (/^https?:\/\//.test(heroPath) ? heroPath : `${SITE}${heroPath}`)
+    : `${SITE}/assets/img/og.jpg`;
   const datePublished = post.date;
   const dateModified = post.dateModified || post.date;
   let author = post.author || 'Hayat Amin';
@@ -290,6 +302,9 @@ function pageTemplate(post, related) {
 
   const body = rewriteInternalLinks(post.body);
   const excerpt = post.excerpt ? `<p class="standfirst">${escapeHtml(decodeEntities(stripTags(post.excerpt)))}</p>` : '';
+  const heroImg = heroPath
+    ? `\n  <img class="article-hero" src="${heroPath}" alt="${escapeHtml(post.title)}" style="width:100%;height:auto;display:block;margin:26px 0 6px;border:1px solid var(--line)" decoding="async">`
+    : '';
 
   return `<!doctype html>
 <html lang="en">
@@ -322,7 +337,7 @@ ${NAV}
 <main class="article">
   <p class="mono">${escapeHtml(label)}</p>
   <h1>${escapeHtml(post.title)}</h1>
-  <p class="mono">${escapeHtml(author)} · Updated ${escapeHtml(dateModified)}</p>
+  <p class="mono">${escapeHtml(author)} · Updated ${escapeHtml(dateModified)}</p>${heroImg}
   ${excerpt}
   ${body}
 </main>
