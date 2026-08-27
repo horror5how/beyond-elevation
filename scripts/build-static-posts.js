@@ -325,7 +325,7 @@ function pageTemplate(post, related) {
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="${datePublished}">
 <meta property="article:modified_time" content="${dateModified}">
-<link rel="stylesheet" href="/assets/style.css?v=41">
+<link rel="stylesheet" href="/assets/style.css?v=42">
 <script type="application/ld+json">${JSON.stringify(articleSchema)}</script>
 <script type="application/ld+json">${JSON.stringify(breadcrumbSchema)}</script>${faqScript}
 </head>
@@ -401,7 +401,7 @@ function insightsIndexTemplate(posts) {
 <meta property="og:title" content="Insights | Beyond Elevation">
 <meta property="og:description" content="Straight talking pieces on finance, AI operations, IP strategy, data and the money behind them.">
 <meta property="og:type" content="website">
-<link rel="stylesheet" href="/assets/style.css?v=41">
+<link rel="stylesheet" href="/assets/style.css?v=42">
 <script type="application/ld+json">${JSON.stringify(itemList)}</script>
 </head>
 <body>

@@ -1750,3 +1750,75 @@ body.menu-open .mcta{display:none!important}
   h1,.h2,.gk2-h2,.footline,.cta .big{text-wrap:balance}
   .sub,.hero-copy .lede,.gk2-sub{text-wrap:pretty}
 }
+
+/* ================= MOBILE REFINEMENTS (2026-08-27, round 2) ================= */
+
+/* numbered role chips — stacked (mobile/tablet) layouts only */
+.seatno{display:none}
+@media (max-width:1020px){
+  .seatno{
+    display:inline-flex;align-items:center;justify-content:center;
+    width:32px;height:32px;flex:none;border:1.5px solid var(--ink);
+    font-family:var(--mono);font-size:14px;font-weight:500;
+    margin-right:12px;vertical-align:6px;
+  }
+  .pitch h3{display:flex;align-items:center}
+}
+
+@media (max-width:640px){
+  /* 1 — the two hero reviews: half the presence */
+  .herotestis{padding:30px 12px}
+  .ht-grid{gap:12px}
+  .ht-card{padding:20px 18px 18px}
+  .ht-mark{font-size:36px;margin-bottom:8px}
+  .ht-card blockquote{font-size:16px;line-height:1.42}
+  .ht-who{margin-top:14px;gap:10px}
+  .ht-who img{width:34px;height:34px}
+  .ht-who b{font-size:13px}
+  .ht-who i{font-size:11.5px}
+
+  /* 2 — Sunday Times badge: even smaller */
+  .ht-badge{margin-top:12px;padding-top:12px;gap:9px}
+  .ht-badge img{width:28px;height:28px}
+  .ht-badge b{font-size:12px}
+  .ht-badge i{font-size:10.5px}
+
+  /* 3 — "We specialise in three roles": a real heading */
+  .seats .secthead .h2{font-size:clamp(38px,11vw,46px)!important;line-height:1.05;letter-spacing:-.028em}
+
+  /* 4 — client photo off the seat quote tiles on phones */
+  .bquote{grid-template-columns:1fr}
+  .bq-photo{display:none}
+  .bq-copy{padding:12px 10px 8px}
+}
+
+/* 5 — honest comparison, rebuilt for phones: three option cards */
+.cmp-mobile{display:none}
+@media (max-width:720px){
+  .compare table{display:none}
+  .becard-sky{display:none}
+  .cmp-mobile{display:grid;gap:14px;max-width:520px;margin:0 auto}
+  .cm-opt{border:1px solid var(--line);background:#fff;padding:22px 20px 10px}
+  .cm-tag{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);display:block;margin-bottom:7px}
+  .cm-opt h3{font-family:var(--serif);font-weight:400;font-size:23px;letter-spacing:-.015em;margin:0 0 10px;display:flex;align-items:center;gap:10px}
+  .cm-opt ul{list-style:none;margin:0;padding:0}
+  .cm-opt li{position:relative;padding:11px 0 11px 27px;font-size:15px;line-height:1.45;color:var(--ink-2);border-top:1px solid var(--line)}
+  .cm-opt li::before{content:"\2715";position:absolute;left:1px;top:12px;font-size:12px;color:#B4544A}
+  .cm-be{background:var(--ink);border-color:var(--ink)}
+  .cm-be h3{color:#fff}
+  .cm-be .cm-tag{color:rgba(255,255,255,.55)}
+  .cm-be li{color:rgba(255,255,255,.92);border-top-color:rgba(255,255,255,.16)}
+  .cm-be li::before{content:"\2713";color:#2FD4B2;font-size:13px}
+  .cm-be .becard-mark{filter:invert(1)}
+}
+
+/* story cards: 16/11 is too short for the copy on phones — go portrait */
+@media (max-width:640px){
+  .storycard{aspect-ratio:3/4}
+  .storycard img.sc-logo{top:16px;left:18px}
+}
+
+/* portrait crop reveals baked-in credit strips at photo bottoms — crop from top */
+@media (max-width:640px){
+  .storycard>img:not(.sc-logo){object-position:center top}
+}
