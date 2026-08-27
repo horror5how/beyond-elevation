@@ -69,7 +69,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 | # | slug_hint | primary_keyword | angle | category | covered |
 |---|---|---|---|---|---|
 | T7-00 | beyond-elevation-vs-burkland-vs-kruze | beyond elevation vs burkland vs kruze | Beyond Elevation vs Burkland vs Kruze: an Honest Head to Head | CFO | ✅ shipped 2026-08-25 |
-| T7-01 | best-fractional-cfo-firms-2026 | best fractional CFO firms | Best Fractional CFO Firms in 2026, Compared Honestly (Including When Not to Use One) | CFO | |
+| T7-01 | best-fractional-cfo-firms-2026 | best fractional CFO firms | Best Fractional CFO Firms in 2026, Compared Honestly (Including When Not to Use One) | CFO | ✅ shipped 2026-08-27 |
 | T7-02 | best-fractional-executive-firms-2026 | best fractional executive firms | The 2026 Fractional Executive Firm Landscape: Who Does What, at What Price | Leadership | |
 | T7-03 | fractional-cfo-vs-accountant-vs-controller | fractional CFO vs accountant | Accountant, Controller, Fractional CFO: Which One Your Stage Actually Needs | CFO | |
 | T7-04 | ip-strategy-consultant-vs-fractional-cipo | IP strategy consultant | IP Strategy Consultant vs Fractional Chief IP Officer: What Each Costs and Delivers | IP Strategy | |
