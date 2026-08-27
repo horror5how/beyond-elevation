@@ -1,17 +1,17 @@
-Your AI rollout has been running for 6 months. Nothing shipped.
+Most £3M businesses are paying for the wrong finance hire.
 
-Most founders start with the interesting problem. They should start with the frequent one.
+An accountant records what happened. A controller keeps the books. A fractional CFO changes what happens next.
 
-The 90-day sequence that actually works:
+The difference is not seniority. It is the question they ask.
 
-Days 1-30: automate the task you do 50 times a week with zero judgment. 80% time cut, visible in week 2.
+Accountant: "What did we spend?"
+Controller: "Does it reconcile?"
+Fractional CFO: "Where are you bleeding margin?"
 
-Days 31-60: build an agent on top of that freed capacity. Operators supervise instead of execute.
+At £2M–10M ARR, you need the third question. You do not need to hire for it full-time.
 
-Days 61-90: wire AI into reporting and finance. Back office runs itself.
+Full-time CFO: £180K+ salary. Fractional CFO: £25–45K per year.
 
-Companies that sequence it this way cut admin costs 40% before month 3.
+Same question. Different cost structure.
 
-Most never get there because they start with the interesting problem, not the frequent one.
-
-#AIOperations #Automation #FractionalCFO
+#FractionalCFO #StartupFinance #Founders
