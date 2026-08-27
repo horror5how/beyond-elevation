@@ -1,18 +1,17 @@
-Your IP counsel renewed 67 patents last quarter. None were assessed for licensing potential.
+Your AI rollout has been running for 6 months. Nothing shipped.
 
-That's not an IP function. That's a cost centre.
+Most founders start with the interesting problem. They should start with the frequent one.
 
-The Chief IP Officer job description most boards write has it backwards.
+The 90-day sequence that actually works:
 
-They hire to protect. A real CIPO is hired to monetise.
+Days 1-30: automate the task you do 50 times a week with zero judgment. 80% time cut, visible in week 2.
 
-3 questions every CIPO asks before renewing any patent:
-Who would pay to license this?
-What's the royalty window before expiry?
-What does protection cost vs what it earns?
+Days 31-60: build an agent on top of that freed capacity. Operators supervise instead of execute.
 
-73% of patents earn zero licensing revenue in their lifetime.
+Days 61-90: wire AI into reporting and finance. Back office runs itself.
 
-Not because the IP has no value. Because no one owns the extraction job.
+Companies that sequence it this way cut admin costs 40% before month 3.
 
-#IPStrategy #ChiefIPOfficer #IntellectualProperty
+Most never get there because they start with the interesting problem, not the frequent one.
+
+#AIOperations #Automation #FractionalCFO

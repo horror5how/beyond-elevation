@@ -657,3 +657,4 @@ ai-operations-operator-vs-consultant
 fractional-c-suite-cost-vs-full-time-2026
 ip-strategy-consultant-vs-fractional-cipo
 chief-ip-officer-job-description
+what-to-automate-first-with-ai-agents
