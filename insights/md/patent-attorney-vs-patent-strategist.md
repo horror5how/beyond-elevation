@@ -25,7 +25,7 @@ Attorneys are trained to maximise claim scope and survive examiner rejections. T
 
 A patent strategist turns a granted patent into cash, leverage, or valuation premium. The strategist starts where the attorney stops: mapping the portfolio against revenue opportunities, identifying licensable claims, benchmarking royalty rates against comparable deals, and structuring agreements that generate recurring income.
 
-The job is commercial, not legal. Beyond Elevation has structured licensing frameworks that moved clients from zero licensing revenue to multi-year recurring deals. DGS used a data monetisation strategy that contributed to a $5B valuation outcome. Neither result came from filing more patents. Both came from restructuring what was already there.
+The job is commercial, not legal. Beyond Elevation has structured licensing frameworks that moved clients from zero licensing revenue to multi-year recurring deals. DGS used a data monetisation strategy alongside a patent portfolio independently valued at $18B. Neither result came from filing more patents. Both came from restructuring what was already there.
 
 ## Why does the distinction matter for founders?
 
@@ -113,7 +113,7 @@ Yes. The strategist does not replace the attorney. Strategists work with your ex
 
 ### What proof does Beyond Elevation have that this works?
 
-Beyond Elevation restructured a 66-patent portfolio at Position Imaging, contributed to DGS's data monetisation work tied to a $5B valuation outcome, and holds a Trustpilot rating of 4.5. Companies with patents are 10.2x more likely to secure early-stage funding — but only when the portfolio is positioned the way a strategist positions it.
+Beyond Elevation restructured a 66-patent portfolio at Position Imaging, contributed to DGS's data monetisation work alongside a patent portfolio independently valued at $18B, and holds a Trustpilot rating of 4.5. Companies with patents are 10.2x more likely to secure early-stage funding — but only when the portfolio is positioned the way a strategist positions it.
 
         
         

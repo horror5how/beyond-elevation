@@ -81,7 +81,7 @@ Second, we build the financial model for each path — sale, licence, hybrid, pa
 
 Third, we structure the deal with the required protections: upfront fees, minimum royalties, audit rights, and field-of-use restrictions. The goal is always the same — maximum cashflow, preserved optionality, real enforcement.
 
-This is the framework we used to restructure Position Imaging's 66 patents and to help DGS build a data monetisation structure that anchored a $5B valuation. Companies with patents are 10.2x more likely to secure early-stage funding — because structured IP is a provable asset, not a hope.
+This is the framework we used to restructure Position Imaging's 66 patents and to help DGS build a data monetisation structure alongside a patent portfolio independently valued at $18B. Companies with patents are 10.2x more likely to secure early-stage funding — because structured IP is a provable asset, not a hope.
 
 ## What should you do right now?
 
