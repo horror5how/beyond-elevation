@@ -394,3 +394,28 @@
     '<a href="/insights">Insights</a>' +
     '<a href="/contact">Contact</a>';
 })();
+
+// Mobile sticky call bar: appears after the hero, hides over the footer CTA.
+// Injected here so every static page gets it from one file.
+(function () {
+  if (window.matchMedia && !window.matchMedia('(max-width: 640px)').matches) return;
+  if (document.querySelector('.mcta')) return;
+  var bar = document.createElement('div');
+  bar.className = 'mcta';
+  bar.innerHTML = '<a class="btn" href="/call">Book a free call <span class="arw">↗</span></a>';
+  document.body.appendChild(bar);
+  var footer = document.querySelector('.foot');
+  var nearFooter = false;
+  if (footer && 'IntersectionObserver' in window) {
+    new IntersectionObserver(function (entries) {
+      nearFooter = entries[0].isIntersecting;
+      update();
+    }).observe(footer);
+  }
+  function update() {
+    var past = window.scrollY > 500;
+    bar.classList.toggle('show', past && !nearFooter);
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  update();
+})();

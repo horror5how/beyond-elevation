@@ -1627,3 +1627,126 @@ body.menu-open .mobilemenu{background:var(--ink)!important;border-bottom:1px sol
   .fdex-line{flex:none;width:2px;height:34px;max-width:none;background:linear-gradient(180deg,rgba(138,123,255,.14),rgba(138,123,255,.6))}
   .fdex-probgrid{grid-template-columns:1fr}
 }
+
+/* ================= MOBILE 0-100 LAYER (2026-08-27) =================
+   Site-wide mobile upgrade: legible type floor, 44px+ tap targets,
+   sticky call bar, menu + section polish. Desktop untouched. */
+
+/* iOS polish: stop Safari auto-inflating text, kill grey tap flash */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+a,button{-webkit-tap-highlight-color:transparent}
+
+@media (max-width:640px){
+
+  /* 1 — type floor: no body copy under 14.5px on a phone */
+  body{font-size:16px}
+  .grid4 p,.seat-body p,.ipx-copy p,.ipx-why p,.grid3 p,.steps p,
+  .compare td,.card .who b,.quotecard b,.bstat-sub,.prow-b,
+  .fdex-probgrid p,.ipx-checkcard span,.wgb-cap{font-size:15px}
+  .sc-sub{font-size:14.5px;-webkit-line-clamp:4}
+  .conv-item i{font-size:14.5px}
+  .conv-item b{font-size:13px}
+  .seatquote{font-size:14.5px}
+  .quotecard blockquote{font-size:15.5px}
+  .card blockquote{font-size:20px}
+  .plan-sub,.plan-list li,.plan-audit p{font-size:15px}
+  .timeline li{font-size:15px}
+  .tl-head{font-size:14px}
+  .chart b{font-size:15px}
+  .rulelist li,.beforeafter li,.builtlist b{font-size:15px}
+  .statrow span{font-size:15.5px}
+  .qa p{font-size:16px;line-height:1.65}
+  .gk2-sub{font-size:16px}
+  .gkslim-who p{font-size:16px}
+  .gkslim-who p span{font-size:14px}
+  .hero-copy .lede{font-size:17px;line-height:1.6}
+  .sub{font-size:16px;line-height:1.62}
+
+  /* 2 — small caps labels: readable, still quiet */
+  .eyebrow,.mono{font-size:12px}
+  .hero-copy .label,.wall,.split .kicker{font-size:11.5px}
+  .compare td::before{font-size:11px}
+  .ticker a{font-size:12.5px}
+  .fineprint{font-size:12.5px}
+  .foot-cols a{font-size:15px;padding:4px 0}
+  .about .small{font-size:13px}
+
+  /* 3 — tap targets: 44px+ everywhere that matters */
+  .btn{min-height:44px;font-size:14px}
+  .btn.lg{min-height:52px;font-size:15.5px;justify-content:center;width:100%;box-sizing:border-box}
+  .heroalt{font-size:15px;padding:6px 0}
+  .ctanote{font-size:13.5px}
+  .qa summary{padding:22px 44px 22px 0;font-size:19px}
+  .qa summary::after{font-size:24px;right:2px}
+  .storynav a{padding:22px 20px}
+  .wgb-tab{padding:15px 18px;font-size:14.5px}
+
+  /* 4 — hero: give the pitch room, keep the drama */
+  .hero-copy h1{font-size:clamp(42px,12vw,52px);line-height:1.02;margin-bottom:24px}
+  .hero{padding-top:22px}
+
+  /* 5 — section rhythm: consistent breathing room */
+  .secthead{margin-bottom:34px}
+  .stats,.stories,.assets,.process,.ai,.pricing,.faq{padding-left:20px;padding-right:20px}
+  .statrow{gap:34px}
+  .statrow b{font-size:clamp(52px,17vw,72px)}
+
+  /* 6 — compare cards: clearer card separation */
+  .compare tbody tr{border-bottom:14px solid var(--panel)}
+  .compare tbody th{font-size:16px;padding:16px 18px 8px}
+  .compare td{padding:9px 18px}
+
+  /* 7 — story belt: one full card per swipe */
+  .storycard{flex-basis:86vw}
+  .sc-body{padding:18px}
+  .sc-body h3{font-size:22px}
+
+  /* 8 — orange call panel */
+  .gk2-h2{font-size:clamp(34px,10vw,44px)}
+  .gk2-cap b{font-size:16px}
+  .gk2-cap span{font-size:14px}
+
+  /* 9 — plans */
+  .plan{padding:26px 22px 30px}
+  .plan-name{font-size:24px}
+
+  /* 10 — footer CTA line */
+  .footline{font-size:clamp(26px,8vw,34px)}
+}
+
+/* 11 — mobile menu: bigger, calmer, locked scroll behind it */
+@media (max-width:1080px){
+  body.menu-open{overflow:hidden}
+  body.menu-open .mobilemenu{max-height:calc(100dvh - 70px);overflow-y:auto;-webkit-overflow-scrolling:touch}
+  .mm-grid a{font-size:18px;padding:12px 0}
+  .mm-contact p{font-size:15px}
+}
+
+/* 12 — sticky call bar (injected by site.js on phones) */
+.mcta{
+  position:fixed;left:0;right:0;bottom:0;z-index:70;
+  display:none;gap:10px;align-items:center;
+  padding:10px 14px calc(10px + env(safe-area-inset-bottom));
+  background:rgba(255,255,255,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  border-top:1px solid var(--line);
+  transform:translateY(110%);transition:transform .3s ease;
+}
+.mcta.show{transform:translateY(0)}
+.mcta .btn{flex:1;justify-content:center;min-height:50px;font-size:15.5px;margin:0}
+body.menu-open .mcta{display:none!important}
+@media (max-width:640px){.mcta{display:flex}}
+
+/* caption + role lines: 13px floor on phones */
+@media (max-width:640px){
+  .card .who i,.quotecard i,.about-art i,.bquote figcaption i,.ht-who i,
+  .fq-who span,.conv-item b,.gk2-cap span,.ht-badge i{font-size:13px}
+  .bicon p{font-size:14.5px}
+  .card .who b,.quotecard b,.bquote figcaption b,.ht-who b{font-size:14.5px}
+  .ht-badge b{font-size:15px}
+}
+
+/* balanced headings on phones: no single-word orphan lines */
+@media (max-width:640px){
+  h1,.h2,.gk2-h2,.footline,.cta .big{text-wrap:balance}
+  .sub,.hero-copy .lede,.gk2-sub{text-wrap:pretty}
+}
