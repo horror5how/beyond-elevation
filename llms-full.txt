@@ -6719,3 +6719,17 @@ Yet most founders overpay or underbuy because nobody publishes honest numbers. T
 Monthly retainers vary by role, with CFOs at the lower end and Managing Directors at the top, driven by scope of accountability and the scarcity of operators who have actually run the function at scale. The table below reflects 2026 UK and US market rates for operator-grade fractional executives — not advisory-tier consultants who attend a monthl
 
 ---
+
+## Forward Deployed Engineer vs Software Engineer: Who to Hire
+
+URL: https://beyondelevation.com/insights/forward-deployed-engineer-vs-software-engineer
+
+A forward deployed engineer and a software engineer answer different questions. A software engineer builds and maintains your product, working from a specification, inside your own engineering organisation, over a roadmap measured in quarters. A forward deployed engineer is embedded against one customer's real environment and one real problem, ships a working system there directly, and is judged on whether it runs, not on what it adds to a backlog. If the job is building the product, hire the software engineer. If the job is getting AI live inside a business that cannot wait for the product roadmap to reach it, hire the forward deployed engineer.
+
+The distinction is no longer a Palantir curiosity. Forward deployed engineer job listings grew roughly 800 percent between January and September 2025, and more than 1,000 percent year on year into early 2026, according to Perspective AI's analysis of 1,000 job postings and reporting from Pragmatic Engineer and Paraform. The New Stack has called it AI's hottest job. Palantir remains the largest single hirer of forward deployed engineers, followed by OpenAI, Anthropic, Google and Databricks, and Google Cloud alone is hiring 59 forward deployed engineers in 2026, a headcount line that sits entirely separate from its core software engineering hiring.
+
+## What a Forward Deployed Engineer Does That a Software Engineer Does Not
+
+A software engineer's output is code that ships into a product used by many customers, reviewed by a team, and m
+
+---
