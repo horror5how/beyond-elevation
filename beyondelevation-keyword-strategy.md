@@ -71,7 +71,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 | T7-00 | beyond-elevation-vs-burkland-vs-kruze | beyond elevation vs burkland vs kruze | Beyond Elevation vs Burkland vs Kruze: an Honest Head to Head | CFO | ✅ shipped 2026-08-25 |
 | T7-01 | best-fractional-cfo-firms-2026 | best fractional CFO firms | Best Fractional CFO Firms in 2026, Compared Honestly (Including When Not to Use One) | CFO | ✅ shipped 2026-08-27 |
 | T7-02 | best-fractional-executive-firms-2026 | best fractional executive firms | The 2026 Fractional Executive Firm Landscape: Who Does What, at What Price | Leadership | ✅ shipped 2026-08-27 |
-| T7-03 | fractional-cfo-vs-accountant-vs-controller | fractional CFO vs accountant | Accountant, Controller, Fractional CFO: Which One Your Stage Actually Needs | CFO | |
+| T7-03 | fractional-cfo-vs-accountant-vs-controller | fractional CFO vs accountant | Accountant, Controller, Fractional CFO: Which One Your Stage Actually Needs | CFO | ✅ shipped 2026-08-28 |
 | T7-04 | ip-strategy-consultant-vs-fractional-cipo | IP strategy consultant | IP Strategy Consultant vs Fractional Chief IP Officer: What Each Costs and Delivers | IP Strategy | |
 | T7-05 | ai-operations-firms-vs-ai-consultancies | AI operations firms | AI Consultancies vs AI Operations Firms: Who Actually Ships | AI Operations | ✅ shipped 2026-08-26 |
 | T7-06 | how-much-does-a-fractional-executive-cost | fractional executive cost per month | Fractional Executive Pricing in 2026: Real Monthly Numbers by Role | Leadership | |
