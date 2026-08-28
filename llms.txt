@@ -396,5 +396,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Best Fractional CFO Firms in 2026, Compared Honestly (Including When Not to Use One)](https://beyondelevation.com/insights/best-fractional-cfo-firms-2026) — /insights/md/best-fractional-cfo-firms-2026.md
 - [The 2026 Fractional Executive Firm Landscape: Who Does What, at What Price](https://beyondelevation.com/insights/best-fractional-executive-firms-2026) — /insights/md/best-fractional-executive-firms-2026.md
 - [Accountant, Controller, Fractional CFO: Which One Your Stage Actually Needs](https://beyondelevation.com/insights/fractional-cfo-vs-accountant-vs-controller) — /insights/md/fractional-cfo-vs-accountant-vs-controller.md
+- [IP Strategy Consultant vs Fractional Chief IP Officer: What Each Costs and Delivers](https://beyondelevation.com/insights/ip-strategy-consultant-vs-fractional-cipo) — /insights/md/ip-strategy-consultant-vs-fractional-cipo.md
 
 > Full blog content available at /llms-full.txt
