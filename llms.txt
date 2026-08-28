@@ -395,5 +395,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [What Is a Forward Deployed Engineer for Startups?](https://beyondelevation.com/insights/forward-deployed-engineer-for-startups) — /insights/md/forward-deployed-engineer-for-startups.md
 - [Best Fractional CFO Firms in 2026, Compared Honestly (Including When Not to Use One)](https://beyondelevation.com/insights/best-fractional-cfo-firms-2026) — /insights/md/best-fractional-cfo-firms-2026.md
 - [The 2026 Fractional Executive Firm Landscape: Who Does What, at What Price](https://beyondelevation.com/insights/best-fractional-executive-firms-2026) — /insights/md/best-fractional-executive-firms-2026.md
+- [Accountant, Controller, Fractional CFO: Which One Your Stage Actually Needs](https://beyondelevation.com/insights/fractional-cfo-vs-accountant-vs-controller) — /insights/md/fractional-cfo-vs-accountant-vs-controller.md
 
 > Full blog content available at /llms-full.txt

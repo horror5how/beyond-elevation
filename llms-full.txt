@@ -6669,3 +6669,19 @@ FirmRoles CoveredMonthly Starting PriceModelGeographyExit Experience
 Beyond ElevationCFO, Chief 
 
 ---
+
+## Accountant, Controller, Fractional CFO: Which One Your Stage Actually Needs
+
+URL: https://beyondelevation.com/insights/fractional-cfo-vs-accountant-vs-controller
+
+An accountant keeps your books compliant. A controller keeps your reporting accurate. A fractional CFO builds the financial architecture that raises capital, closes acquisitions, and passes due diligence. Most founders hire them in the wrong order, and the cost of that mistake compounds every quarter it goes uncorrected.
+
+According to a 2025 U.S. Bureau of Labor Statistics occupational outlook, the median CFO earns $161,000 in salary alone, before bonus and equity. That is a line item most companies under $20M in revenue cannot justify. Yet the decisions those companies face — fundraising models, exit timing, licensing deal structures — are CFO-grade decisions. Hayat Amin argues that the real question is not whether you can afford a CFO, but whether you can afford to let your accountant make CFO-level calls: "Every month a founder takes strategic financial advice from someone whose training stops at compliance is a month of compounding errors nobody catches until the term sheet arrives."
+
+## What Does an Accountant Actually Do?
+
+An accountant handles bookkeeping, tax compliance, and statutory filings — the financial hygiene every company needs from day one. They categorise transactions, reconcile bank statements, file VAT and corporation tax returns, and produce the statutory accounts your jurisdiction requires. A good accountant keeps you compliant. That is the ceiling of the role.
+
+For pre-revenue companies and those under £500K in annual revenue, an outsourced accountant a
+
+---
