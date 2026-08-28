@@ -1,17 +1,19 @@
-Your AI budget is stuck in a hiring debate that's the wrong question.
+Investors don't read your deck first. They open your P&L.
 
-Developers build systems.
+Most founders spend 6 months on pitch polish and 6 hours on their numbers.
 
-AI operators run them.
+That is the wrong ratio.
 
-73% of AI projects fail in production — not in development.
+Gross margin is checked before the product demo.
 
-You don't have a build problem. You have an execution problem.
+Burn rate before the team slide.
 
-A developer adds capacity. An AI operations operator changes your P&L.
+Cash forecast before market size.
 
-The first 90 days of a real AI rollout ships 4 to 6 automations. Not a roadmap. Results.
+67% of Series A decks get rejected at first meeting. Not on vision. On weak financials.
 
-Hire for the work you have, not the work that sounds impressive.
+A fractional CFO builds investor-ready numbers in 90 days.
 
-#AIOperations #FractionalExec #FounderOperations
+The deck sells the vision. The numbers close the round.
+
+#FractionalCFO #Fundraising #FounderFinance
