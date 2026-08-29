@@ -663,3 +663,4 @@ ip-institutional-capital-patent-portfolios-2026
 ai-operations-vs-hiring-developers
 fractional-cfo-fundraising-2026
 fractional-md-vs-ceo-coach
+ai-agents-in-finance-department-2026

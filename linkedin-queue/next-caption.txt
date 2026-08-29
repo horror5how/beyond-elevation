@@ -1,15 +1,16 @@
-A CEO coach had 47 clients last year. Average revenue growth: 12%.
+3 AI agents now outperform a 5-person finance team on 4 specific tasks. Most CFOs have deployed 0.
 
-A fractional MD ran one company for 18 months. Revenue: 3x.
+AP/AR reconciliation: agents cut processing time by 85%
 
-One sells insight. The other sells outcomes.
+Month-end close: 3-day close becomes 1-day with 4 agents in the workflow
 
-Coaching asks great questions.
-Operating delivers real answers.
+Expense categorisation: 94% accuracy out of the box, zero training required
 
-You don't need someone to hold up a mirror.
-You need someone who removes the obstacle.
+The catch: agents need clean data. Most companies don't have it.
 
-Still talking about the problem? You hired the wrong person.
+Clean data → 60% finance cost reduction in 90 days.
+Dirty data → 90 days cleaning it first.
 
-#FractionalMD #FractionalExecutive #Leadership
+Both paths lead to the same place. One just costs more.
+
+#AIOperations #CFO #FinanceTransformation
