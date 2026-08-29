@@ -1,16 +1,17 @@
-3 AI agents now outperform a 5-person finance team on 4 specific tasks. Most CFOs have deployed 0.
+Your general counsel renewed 14 patents last year. 0 were assessed for licensing revenue.
 
-AP/AR reconciliation: agents cut processing time by 85%
+That's not negligence. That's the wrong mandate.
 
-Month-end close: 3-day close becomes 1-day with 4 agents in the workflow
+A GC manages legal exposure.
 
-Expense categorisation: 94% accuracy out of the box, zero training required
+A CIPO turns your IP portfolio into a revenue line.
 
-The catch: agents need clean data. Most companies don't have it.
+83% of B2B licensing conversations never happen — not from lack of value, but from lack of mandate.
 
-Clean data → 60% finance cost reduction in 90 days.
-Dirty data → 90 days cleaning it first.
+The average unlicensed patent loses £180K in royalty income over 5 years.
 
-Both paths lead to the same place. One just costs more.
+A fractional CIPO costs £3–5K a month. They pay for themselves in the first licensing conversation.
 
-#AIOperations #CFO #FinanceTransformation
+Hire for the outcome, not the credential.
+
+#IPStrategy #ChiefIPOfficer #FractionalExecutive
