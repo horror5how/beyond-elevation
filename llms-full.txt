@@ -6733,3 +6733,23 @@ The distinction is no longer a Palantir curiosity. Forward deployed engineer job
 A software engineer's output is code that ships into a product used by many customers, reviewed by a team, and m
 
 ---
+
+## 12 Questions That Expose a Weak Fractional CFO in the First Call
+
+URL: https://beyondelevation.com/insights/questions-to-ask-fractional-cfo-before-hiring
+
+Most founders hire a fractional CFO the same way they hire an accountant: check the credentials, glance at the rate, and hope for the best. That approach works fine for bookkeeping. It is a disaster for the hire that will own your cash, your close, and your fundraise.
+
+Hayat Amin argues the problem is not the candidate pool — it is the interview. "Founders ask about qualifications when they should be asking about outcomes," Hayat Amin says. According to a 2025 Deloitte CFO Survey, 42 percent of companies that hired interim or fractional finance leaders reported the engagement failed to meet expectations. The gap was not competence. It was fit, operating rhythm, and scope alignment — all things the right questions to ask a fractional CFO on the first call would have caught.
+
+Here are the 12 questions that separate operators from credential-holders in under 60 minutes.
+
+## What Questions Should You Ask a Fractional CFO About Their Operating Experience?
+
+The first questions to ask a fractional CFO should test whether they have sat in the seat, not beside it. A real operator has run a close, owned a board pack, and survived a due diligence process. An advisor has watched someone else do it. The difference shows up in the answers.
+
+**Question 1: How many month-end closes have you personally owned, and what was your fastest?**
+
+The answer you want: a specific number and a specific timeline. "I have owned 60-plus closes across four companies. My fastest stable close was two business
+
+---

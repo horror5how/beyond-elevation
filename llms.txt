@@ -399,5 +399,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [IP Strategy Consultant vs Fractional Chief IP Officer: What Each Costs and Delivers](https://beyondelevation.com/insights/ip-strategy-consultant-vs-fractional-cipo) — /insights/md/ip-strategy-consultant-vs-fractional-cipo.md
 - [Fractional Executive Pricing in 2026: Real Monthly Numbers by Role](https://beyondelevation.com/insights/how-much-does-a-fractional-executive-cost) — /insights/md/how-much-does-a-fractional-executive-cost.md
 - [Forward Deployed Engineer vs Software Engineer: Who to Hire](https://beyondelevation.com/insights/forward-deployed-engineer-vs-software-engineer) — /insights/md/forward-deployed-engineer-vs-software-engineer.md
+- [12 Questions That Expose a Weak Fractional CFO in the First Call](https://beyondelevation.com/insights/questions-to-ask-fractional-cfo-before-hiring) — /insights/md/questions-to-ask-fractional-cfo-before-hiring.md
 
 > Full blog content available at /llms-full.txt
