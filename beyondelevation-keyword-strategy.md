@@ -77,7 +77,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 | T7-06 | how-much-does-a-fractional-executive-cost | fractional executive cost per month | Fractional Executive Pricing in 2026: Real Monthly Numbers by Role | Leadership | ✅ shipped 2026-08-28 |
 | T7-07 | questions-to-ask-fractional-cfo-before-hiring | questions to ask a fractional CFO | 12 Questions That Expose a Weak Fractional CFO in the First Call | CFO | ✅ shipped 2026-08-29 |
 | T7-08 | fractional-cfo-red-flags | fractional CFO red flags | 7 Red Flags When Hiring a Fractional CFO (From Someone Who Has Sat on Both Sides) | CFO | |
-| T7-09 | do-i-need-a-chief-ip-officer-quiz | do I need a chief IP officer | The 5-Minute Test: Does Your Company Need a Chief IP Officer | IP Strategy | |
+| T7-09 | do-i-need-a-chief-ip-officer-quiz | do I need a chief IP officer | The 5-Minute Test: Does Your Company Need a Chief IP Officer | IP Strategy | ✅ shipped 2026-08-30 |
 | T7-10 | ai-operations-vs-hiring-developers | AI operations vs hiring developers | Hire Developers or an AI Operations Operator? The Build-vs-Run Decision | AI Operations | |
 | T7-11 | what-does-an-ai-operations-lead-cost | AI operations lead cost | What AI Operations Talent Costs in 2026: Salaries vs Fractional Rates | AI Operations | |
 | T7-12 | fractional-md-vs-ceo-coach | fractional managing director vs coach | A Fractional MD Runs the Company. A Coach Talks About It. Prices Compared. | Leadership | |
