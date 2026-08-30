@@ -1,15 +1,15 @@
-7 red flags in your fractional CFO's first conversation.
+Your AI rollout report shows 97% uptime and 40,000 tokens saved.
 
-They talk about processes, not your numbers.
+Your board doesn't know what that means.
 
-They have never closed books in under 3 days.
+Three numbers that actually move a valuation:
 
-They cannot name the 2 metrics that predict your runway.
+Cycle time cut — from 14 days to 3.
 
-They pitch a team when you asked for one person.
+Revenue per head — from £280K to £740K.
 
-They want 6 months to "understand the business."
+Decision latency — from 4 hours to 18 minutes.
 
-A fractional CFO who needs 6 months is a consultant without a retainer.
+Those are outcomes. Everything else is a metrics dashboard.
 
-#FractionalCFO #Founders #Finance
+#AIOperations #FractionalCFO #Founders

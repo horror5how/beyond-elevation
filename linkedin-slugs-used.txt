@@ -666,3 +666,4 @@ fractional-md-vs-ceo-coach
 ai-agents-in-finance-department-2026
 chief-ip-officer-vs-general-counsel
 fractional-cfo-red-flags
+ai-operations-roi-measurement
