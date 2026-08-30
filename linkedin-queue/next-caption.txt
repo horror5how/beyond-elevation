@@ -1,15 +1,17 @@
-Your AI rollout report shows 97% uptime and 40,000 tokens saved.
+Your VC just wired £2M. Your IP still belongs to your old employer.
 
-Your board doesn't know what that means.
+Most founding teams skip IP title cleanup at incorporation.
 
-Three numbers that actually move a valuation:
+By Series A, it's a £300K legal bill to fix.
 
-Cycle time cut — from 14 days to 3.
+Three checks in the first 90 days post-funding:
 
-Revenue per head — from £280K to £740K.
+Employee invention assignments for every founder and hire.
 
-Decision latency — from 4 hours to 18 minutes.
+Prior employer IP clauses in your employment contracts.
 
-Those are outcomes. Everything else is a metrics dashboard.
+Co-founder IP splits in writing, signed, dated.
 
-#AIOperations #FractionalCFO #Founders
+One missing signature invalidated a £4M patent portfolio at a UK Series B last quarter.
+
+#IPStrategy #StartupFounders #ChiefIPOfficer
