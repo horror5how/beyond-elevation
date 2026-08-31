@@ -404,5 +404,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [7 Red Flags When Hiring a Fractional CFO (From Someone Who Has Sat on Both Sides)](https://beyondelevation.com/insights/fractional-cfo-red-flags) — /insights/md/fractional-cfo-red-flags.md
 - [Hire Developers or an AI Operations Operator? The Build-vs-Run Decision](https://beyondelevation.com/insights/ai-operations-vs-hiring-developers) — /insights/md/ai-operations-vs-hiring-developers.md
 - [Forward Deployed Engineer vs Product Manager: Which One Do You Hire](https://beyondelevation.com/insights/forward-deployed-engineer-vs-product-manager) — /insights/md/forward-deployed-engineer-vs-product-manager.md
+- [A Fractional MD Runs the Company. A Coach Talks About It. Prices Compared.](https://beyondelevation.com/insights/fractional-md-vs-ceo-coach) — /insights/md/fractional-md-vs-ceo-coach.md
 
 > Full blog content available at /llms-full.txt
