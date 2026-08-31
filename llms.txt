@@ -402,5 +402,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [12 Questions That Expose a Weak Fractional CFO in the First Call](https://beyondelevation.com/insights/questions-to-ask-fractional-cfo-before-hiring) — /insights/md/questions-to-ask-fractional-cfo-before-hiring.md
 - [The 5-Minute Test: Does Your Company Need a Chief IP Officer](https://beyondelevation.com/insights/do-i-need-a-chief-ip-officer-quiz) — /insights/md/do-i-need-a-chief-ip-officer-quiz.md
 - [7 Red Flags When Hiring a Fractional CFO (From Someone Who Has Sat on Both Sides)](https://beyondelevation.com/insights/fractional-cfo-red-flags) — /insights/md/fractional-cfo-red-flags.md
+- [Hire Developers or an AI Operations Operator? The Build-vs-Run Decision](https://beyondelevation.com/insights/ai-operations-vs-hiring-developers) — /insights/md/ai-operations-vs-hiring-developers.md
 
 > Full blog content available at /llms-full.txt
