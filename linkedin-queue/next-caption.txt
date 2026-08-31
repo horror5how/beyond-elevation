@@ -1,15 +1,17 @@
-Most founders have 8 patents and no idea if they're worth £50K or £5M.
+Acquirers spend 90 days in your data room. Most founders give them 9 years of unsorted mess.
 
-The difference is almost never the technology.
+The average M&A deal loses 23% of its headline price in due diligence.
 
-3 numbers decide the range: sector royalty rate, Freedom to Operate clearance cost, and comparable licensing deals in the last 36 months.
+Not because the business is bad.
 
-Without those 3 numbers, your patent valuation is a guess.
+Because the CFO started exit prep 6 months before the banker call, not 18.
 
-A 20-minute audit narrows it to a defensible range.
+Month 1–3: clean 3-year P&L, normalise EBITDA, document every add-back.
 
-Most IP lawyers won't run it. Valuation isn't billable at £400/hour.
+Month 4–9: IP title chain audited, recurring revenue separated from one-offs, customer concentration below 25%.
 
-A fractional CIPO does it as part of week one.
+Month 10–18: management accounts investor-ready, data room built, CIM drafted.
 
-#IPStrategy #PatentValuation #FractionalCIPO
+Acquirers pay a premium for clean books. They discount for noise.
+
+#FractionalCFO #ExitReadiness #MergersAndAcquisitions
