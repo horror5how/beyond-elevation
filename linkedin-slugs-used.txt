@@ -670,3 +670,4 @@ ai-operations-roi-measurement
 post-funding-ip-title-cleanup-founders-2026
 fractional-cfo-uk-vs-us-rates
 what-does-an-ai-operations-lead-cost
+patent-portfolio-worth-checklist

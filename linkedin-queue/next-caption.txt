@@ -1,15 +1,15 @@
-Hiring a full-time AI Operations lead in 2026 costs £180K base plus equity.
+Most founders have 8 patents and no idea if they're worth £50K or £5M.
 
-Most £5M ARR companies get someone who runs 3 pilots and calls it transformation.
+The difference is almost never the technology.
 
-A fractional AI operations operator costs £4,500/month.
+3 numbers decide the range: sector royalty rate, Freedom to Operate clearance cost, and comparable licensing deals in the last 36 months.
 
-Ships in week one. Deploying agents, not PowerPoints.
+Without those 3 numbers, your patent valuation is a guess.
 
-The full-time hire asks for 6 months before showing results.
+A 20-minute audit narrows it to a defensible range.
 
-The fractional operator has 4 workflows live by month 2.
+Most IP lawyers won't run it. Valuation isn't billable at £400/hour.
 
-Same problem. 40x the cost difference.
+A fractional CIPO does it as part of week one.
 
-#AIOperations #FractionalExecutive #AIStrategy
+#IPStrategy #PatentValuation #FractionalCIPO
