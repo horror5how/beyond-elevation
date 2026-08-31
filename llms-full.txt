@@ -6807,3 +6807,17 @@ A developer writes code to build software products. An AI operations operator de
 Developers work in sprints, ship features, maintain codebases, and optimise model performance. Their output is software. An AI 
 
 ---
+
+## Forward Deployed Engineer vs Product Manager: Which One Do You Hire
+
+URL: https://beyondelevation.com/insights/forward-deployed-engineer-vs-product-manager
+
+Hire the forward deployed engineer when the problem is that your AI is not running inside the business yet. Hire the product manager when the problem is that you do not know what to build next. A forward deployed engineer is a builder embedded against one real environment who ships a working system into it and is judged on whether it runs. A product manager decides what gets built, for whom and in what order, and is judged on whether those decisions were right. If you have a plan and no deployment, hire the engineer. If you have engineers and no direction, hire the product manager.
+
+The two get confused now because the forward deployed engineer role has grown fast enough to blur its own edges. Listings grew roughly 800 percent between January and September 2025 and more than 1,000 percent year on year into 2026, on Perspective AI's read of about 1,000 English language postings, with reporting to match from Pragmatic Engineer and Paraform. Palantir is the highest volume single hirer, followed by OpenAI, Anthropic, Google, Databricks, Scale AI, Mistral and Cohere, while vertical AI companies including Harvey, Sierra, Decagon, Cresta and Hebbia are growing their forward deployed headcount fastest. The New Stack calls it AI's hottest job. When a role scales that quickly, buyers start using its name for work it does not do.
+
+## What Each Role Actually Owns
+
+Read an OpenAI forward deployed engineer posting and the work is stated plainly. Five or more years of engineering or technic
+
+---
