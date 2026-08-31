@@ -80,7 +80,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 | T7-09 | do-i-need-a-chief-ip-officer-quiz | do I need a chief IP officer | The 5-Minute Test: Does Your Company Need a Chief IP Officer | IP Strategy | ✅ shipped 2026-08-30 |
 | T7-10 | ai-operations-vs-hiring-developers | AI operations vs hiring developers | Hire Developers or an AI Operations Operator? The Build-vs-Run Decision | AI Operations | ✅ shipped 2026-08-31 |
 | T7-11 | what-does-an-ai-operations-lead-cost | AI operations lead cost | What AI Operations Talent Costs in 2026: Salaries vs Fractional Rates | AI Operations | |
-| T7-12 | fractional-md-vs-ceo-coach | fractional managing director vs coach | A Fractional MD Runs the Company. A Coach Talks About It. Prices Compared. | Leadership | |
+| T7-12 | fractional-md-vs-ceo-coach | fractional managing director vs coach | A Fractional MD Runs the Company. A Coach Talks About It. Prices Compared. | Leadership | ✅ shipped 2026-08-31 |
 | T7-13 | fractional-cfo-uk-vs-us-rates | fractional CFO rates UK US | Fractional CFO Rates: London vs New York vs Dubai, 2026 Numbers | CFO | |
 | T7-14 | how-to-choose-fractional-executive-firm | how to choose a fractional executive firm | The 6 Filters That Separate a Real Operator From a Job-Seeker in Disguise | Leadership | |
 | T7-15 | fractional-cfo-for-series-a | fractional CFO Series A | What a Series A Board Expects Your Finance Function to Look Like | CFO | |
