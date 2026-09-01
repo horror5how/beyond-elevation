@@ -1,15 +1,22 @@
-Your CFO is spending 8 days closing the books every month.
+7 patents. No one paid to monetise them.
 
-AI agents cut that to 3. Here's what actually changes.
+Most companies hire a patent attorney.
 
-Data reconciliation across 6 sources: 3 days → 4 hours.
+None of them pay someone to build a licensing strategy.
 
-Variance commentary drafting: 2 days → 40 minutes.
+A patent attorney defends.
 
-Board slide formatting: 4 hours → automated.
+A Chief IP Officer earns.
 
-A fractional CFO running this stack handles 3x the portfolio at the same day rate.
+The gap: £200–400K in uncollected licensing revenue per year.
 
-8 days is now a signal that the finance function is manual.
+You need a CIPO when:
 
-#FractionalCFO #AIOperations #MonthEndClose
+— 3+ patents, £0 in licensing income
+— IP legal spend over £50K, licensing revenue £0
+— Series B diligence flagged IP gaps
+— A potential acquirer found nothing to buy
+
+A law firm protects your IP. A CIPO monetises it.
+
+#BeyondElevation #IPStrategy #FractionalCIPO
