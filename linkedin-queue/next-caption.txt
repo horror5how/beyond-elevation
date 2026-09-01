@@ -1,17 +1,15 @@
-Acquirers spend 90 days in your data room. Most founders give them 9 years of unsorted mess.
+Your CFO is spending 8 days closing the books every month.
 
-The average M&A deal loses 23% of its headline price in due diligence.
+AI agents cut that to 3. Here's what actually changes.
 
-Not because the business is bad.
+Data reconciliation across 6 sources: 3 days → 4 hours.
 
-Because the CFO started exit prep 6 months before the banker call, not 18.
+Variance commentary drafting: 2 days → 40 minutes.
 
-Month 1–3: clean 3-year P&L, normalise EBITDA, document every add-back.
+Board slide formatting: 4 hours → automated.
 
-Month 4–9: IP title chain audited, recurring revenue separated from one-offs, customer concentration below 25%.
+A fractional CFO running this stack handles 3x the portfolio at the same day rate.
 
-Month 10–18: management accounts investor-ready, data room built, CIM drafted.
+8 days is now a signal that the finance function is manual.
 
-Acquirers pay a premium for clean books. They discount for noise.
-
-#FractionalCFO #ExitReadiness #MergersAndAcquisitions
+#FractionalCFO #AIOperations #MonthEndClose
