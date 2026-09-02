@@ -1,19 +1,19 @@
-Your accountant filed every return on time. Your Series A still fell apart.
+Your first AI hire shouldn't be a data scientist.
 
-An accountant records what happened.
+Most founders recruit an ML engineer. Then watch them spend 6 months finding something to build.
 
-A CFO shapes what happens next.
+The right hire: an AI operations operator. They map processes, not models.
 
-Most founders make this hire 18 months too late — after the fundraise stalls, not before it.
+21 days to first deployed automation. Not 180.
 
-Three signals you've outgrown your accountant:
+8 processes automated per month. Not 0.5.
 
-Investor diligence stalled on your numbers, not your product.
+34% ops cost reduction in year one. Not 4%.
 
-Your cash forecast has no scenarios. Just one column.
+The data scientist builds the engine.
 
-You can't answer "what does Q4 look like?" without a week of spreadsheet calls.
+The AI ops operator drives it.
 
-A fractional CFO costs £8,000/month. A failed raise costs 6.
+Most non-tech companies need the driver first.
 
-#FractionalCFO #StartupFinance #Fundraising
+#AIOperations #FractionalExecutive #Founders
