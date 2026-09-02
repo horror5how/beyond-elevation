@@ -406,5 +406,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Forward Deployed Engineer vs Product Manager: Which One Do You Hire](https://beyondelevation.com/insights/forward-deployed-engineer-vs-product-manager) — /insights/md/forward-deployed-engineer-vs-product-manager.md
 - [A Fractional MD Runs the Company. A Coach Talks About It. Prices Compared.](https://beyondelevation.com/insights/fractional-md-vs-ceo-coach) — /insights/md/fractional-md-vs-ceo-coach.md
 - [What AI Operations Talent Costs in 2026: Salaries vs Fractional Rates](https://beyondelevation.com/insights/what-does-an-ai-operations-lead-cost) — /insights/md/what-does-an-ai-operations-lead-cost.md
+- [Fractional CFO Rates: London vs New York vs Dubai, 2026 Numbers](https://beyondelevation.com/insights/fractional-cfo-uk-vs-us-rates) — /insights/md/fractional-cfo-uk-vs-us-rates.md
 
 > Full blog content available at /llms-full.txt
