@@ -1,19 +1,15 @@
-Your first AI hire shouldn't be a data scientist.
+Most founders send their patent attorney to licensing negotiations.
 
-Most founders recruit an ML engineer. Then watch them spend 6 months finding something to build.
+That's the single biggest reason deals underprice by 30%.
 
-The right hire: an AI operations operator. They map processes, not models.
+Licensing is a commercial conversation, not a legal one.
 
-21 days to first deployed automation. Not 180.
+Your attorney defends the claims. They don't know your revenue model, your market positioning, or how a licensee calculates value.
 
-8 processes automated per month. Not 0.5.
+The commercial negotiator closes the deal. The attorney reviews the contract.
 
-34% ops cost reduction in year one. Not 4%.
+Most founders never separate the two roles.
 
-The data scientist builds the engine.
+The ones who exit at 4x+ do.
 
-The AI ops operator drives it.
-
-Most non-tech companies need the driver first.
-
-#AIOperations #FractionalExecutive #Founders
+#IPStrategy #Licensing #FractionalExecutive

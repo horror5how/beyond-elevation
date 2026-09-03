@@ -676,3 +676,4 @@ ai-month-end-close-cycle-2026
 when-to-hire-chief-ip-officer
 when-to-hire-fractional-cfo
 first-ai-hire-for-non-tech-company
+ip-licensing-negotiation-commercial-vs-legal-2026
