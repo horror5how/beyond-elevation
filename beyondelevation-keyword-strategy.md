@@ -83,7 +83,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 | T7-12 | fractional-md-vs-ceo-coach | fractional managing director vs coach | A Fractional MD Runs the Company. A Coach Talks About It. Prices Compared. | Leadership | ✅ shipped 2026-08-31 |
 | T7-13 | fractional-cfo-uk-vs-us-rates | fractional CFO rates UK US | Fractional CFO Rates: London vs New York vs Dubai, 2026 Numbers | CFO | ✅ shipped 2026-09-02 |
 | T7-14 | how-to-choose-fractional-executive-firm | how to choose a fractional executive firm | The 6 Filters That Separate a Real Operator From a Job-Seeker in Disguise | Leadership | ✅ shipped 2026-09-02 |
-| T7-15 | fractional-cfo-for-series-a | fractional CFO Series A | What a Series A Board Expects Your Finance Function to Look Like | CFO | |
+| T7-15 | fractional-cfo-for-series-a | fractional CFO Series A | What a Series A Board Expects Your Finance Function to Look Like | CFO | ✅ shipped 2026-09-05 |
 | T7-16 | chief-ip-officer-vs-general-counsel | chief IP officer vs general counsel | Why Your General Counsel Cannot Be Your Chief IP Officer | IP Strategy | |
 | T7-17 | ai-agents-in-finance-department-2026 | AI agents in finance | Where AI Agents Actually Work in a Finance Department, With Numbers | AI Operations | |
 | T7-18 | fractional-executive-trend-2026-data | fractional executive market 2026 | The Fractional Executive Market in 2026: the Numbers Behind the Shift | Leadership | |
