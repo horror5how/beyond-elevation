@@ -145,3 +145,13 @@
 - Root cause: Instagram token expired 2026-06-25 23:32 PDT. Token in task prompt (EAASSEUy7BCo...) is the SAME expired token already in instagram-post.yml. No INSTAGRAM_TOKEN repo secret is set (confirmed: CI logs show token unmasked). horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403 in cloud env.
 - Fix required: Go to developers.facebook.com → Token Tools → generate new long-lived user token → go to horror5how/beyond-elevation Settings → Secrets → Actions → create INSTAGRAM_TOKEN secret → push any change to instagram-queue/slides/slide-1.html to trigger workflow.
 - Note: Fresh slides committed with [skip ci] to avoid triggering another doomed CI run.
+
+## 2026-09-05T00:00:00Z
+- Pillar: The Fractional Future (Pillar 2)
+- Status: QUEUED — awaiting CI (token fix required)
+- Media ID: n/a
+- Slides: 6 (fresh — new pillar, new hook "You don't need one employer. You need three clients.")
+- Hook: "You don't need one employer. You need three clients."
+- Root cause: Same as all runs since 2026-06-25 — Instagram token EAASSEUy7BCoB...ZD expired. The token in the task prompt IS the same expired token. horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403.
+- Action taken: Fresh Pillar 2 content written and committed. Workflow triggered. Will fail unless INSTAGRAM_TOKEN secret updated.
+- Fix required (unchanged, one action needed): developers.facebook.com → Token Tools → generate new long-lived user token → horror5how/beyond-elevation Settings → Secrets → Actions → INSTAGRAM_TOKEN → save → re-run instagram-post.yml.

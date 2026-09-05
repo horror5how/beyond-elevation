@@ -1,4 +1,4 @@
-<!-- generated: 2026-07-20 | Pillar 1: Human Purpose of Work | run: autopilot -->
+<!-- generated: 2026-09-05 | Pillar 2: The Fractional Future | run: autopilot -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,41 +15,50 @@
     position: relative; overflow: hidden;
   }
   body::before {
-    content: ''; position: absolute; bottom: -200px; left: -200px;
+    content: ''; position: absolute; top: -200px; left: -200px;
     width: 700px; height: 700px;
     background: radial-gradient(ellipse at center, rgba(230,185,140,0.20) 0%, transparent 70%);
     pointer-events: none;
   }
   .eyebrow {
-    font-size: 11px; font-weight: 700; letter-spacing: 0.18em;
-    color: #d7b086; text-transform: uppercase; text-align: center;
+    font-size: 12px; font-weight: 700; letter-spacing: 0.16em;
+    color: #4a4a4a; text-transform: uppercase; text-align: center;
   }
   .main {
-    flex: 1; display: flex; flex-direction: column;
-    align-items: center; justify-content: center;
-    text-align: center; gap: 0;
+    display: flex; flex-direction: column;
+    align-items: flex-start; justify-content: center;
+    flex: 1; width: 100%;
   }
-  .question {
-    font-size: 52px; font-weight: 300; line-height: 1.15;
-    letter-spacing: -0.03em; color: #1a1a1a;
-    max-width: 860px; margin-bottom: 48px;
+  .label {
+    font-size: 13px; font-weight: 700; letter-spacing: 0.14em;
+    color: #d7b086; text-transform: uppercase; margin-bottom: 40px;
   }
-  .question em { font-style: normal; font-weight: 700; }
-  .answer-row {
-    display: flex; gap: 24px; margin-bottom: 48px;
+  .comparison {
+    display: flex; flex-direction: column; gap: 0; width: 100%;
   }
-  .answer {
-    padding: 20px 36px;
-    font-size: 20px; font-weight: 600;
-    letter-spacing: 0.02em; text-transform: uppercase;
+  .comp-row {
+    display: flex; align-items: stretch; gap: 0;
+    border-bottom: 1px solid #c8c4bc;
+    padding: 24px 0;
   }
-  .answer-a { background: #1a1a1a; color: #f8f6f2; }
-  .answer-b { border: 2px solid #d7b086; color: #1a1a1a; }
-  .compass {
-    font-size: 20px; font-weight: 400; color: #4a4a4a;
-    letter-spacing: -0.01em; line-height: 1.6;
+  .comp-row:first-child { border-top: 1px solid #c8c4bc; }
+  .comp-label {
+    font-size: 12px; font-weight: 700; letter-spacing: 0.12em;
+    color: #4a4a4a; text-transform: uppercase; width: 200px;
+    display: flex; align-items: center; flex-shrink: 0;
   }
-  .compass strong { color: #1a1a1a; font-weight: 600; }
+  .comp-old {
+    flex: 1; font-size: 26px; font-weight: 300; color: #9a9a9a;
+    letter-spacing: -0.02em; padding: 0 32px;
+    display: flex; align-items: center;
+    text-decoration: line-through;
+  }
+  .divider-v { width: 1px; background: #c8c4bc; }
+  .comp-new {
+    flex: 1; font-size: 26px; font-weight: 700; color: #1a1a1a;
+    letter-spacing: -0.02em; padding: 0 32px;
+    display: flex; align-items: center;
+  }
   .footer {
     width: 100%; border-top: 1px solid #c8c4bc;
     padding-top: 22px;
@@ -60,14 +69,35 @@
 </style>
 </head>
 <body>
-  <div class="eyebrow">The honest question</div>
+  <div class="eyebrow">The Fractional Future</div>
   <div class="main">
-    <div class="question">If AI did <em>80%</em><br>of your tasks tomorrow —<br>would you feel<br>replaced or relieved?</div>
-    <div class="answer-row">
-      <div class="answer answer-a">Replaced</div>
-      <div class="answer answer-b">Relieved</div>
+    <div class="label">The shift</div>
+    <div class="comparison">
+      <div class="comp-row">
+        <div class="comp-label">Income</div>
+        <div class="comp-old">Fixed salary</div>
+        <div class="divider-v"></div>
+        <div class="comp-new">Day rate × clients</div>
+      </div>
+      <div class="comp-row">
+        <div class="comp-label">Promotion</div>
+        <div class="comp-old">Ask your boss</div>
+        <div class="divider-v"></div>
+        <div class="comp-new">Raise your rate</div>
+      </div>
+      <div class="comp-row">
+        <div class="comp-label">Risk</div>
+        <div class="comp-old">One employer</div>
+        <div class="divider-v"></div>
+        <div class="comp-new">Spread across clients</div>
+      </div>
+      <div class="comp-row">
+        <div class="comp-label">Time</div>
+        <div class="comp-old">5 days, one company</div>
+        <div class="divider-v"></div>
+        <div class="comp-new">4 days, your clients</div>
+      </div>
     </div>
-    <div class="compass">Your answer is your <strong>compass.</strong></div>
   </div>
   <div class="footer">
     <div class="be-wordmark">BE</div>
