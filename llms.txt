@@ -410,5 +410,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How to Choose a Fractional Executive Firm: 6 Filters That Separate Real Operators From Job-Seekers in Disguise](https://beyondelevation.com/insights/how-to-choose-fractional-executive-firm) — /insights/md/how-to-choose-fractional-executive-firm.md
 - [Forward Deployed Engineer vs Professional Services: Which One Do You Actually Buy](https://beyondelevation.com/insights/forward-deployed-engineer-vs-professional-services) — /insights/md/forward-deployed-engineer-vs-professional-services.md
 - [What a Series A Board Expects Your Finance Function to Look Like](https://beyondelevation.com/insights/fractional-cfo-for-series-a) — /insights/md/fractional-cfo-for-series-a.md
+- [Why Your General Counsel Cannot Be Your Chief IP Officer](https://beyondelevation.com/insights/chief-ip-officer-vs-general-counsel) — /insights/md/chief-ip-officer-vs-general-counsel.md
 
 > Full blog content available at /llms-full.txt

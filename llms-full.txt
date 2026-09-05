@@ -6921,3 +6921,19 @@ A Series A board expects five things on day one: GAAP or IFRS-compliant financia
 The gap matters because board members price risk. A company that cannot produce a clean P&L within five days of month-end signals operational immaturity. A company that cannot show customer-level unit e
 
 ---
+
+## Why Your General Counsel Cannot Be Your Chief IP Officer
+
+URL: https://beyondelevation.com/insights/chief-ip-officer-vs-general-counsel
+
+Your General Counsel was hired to manage legal risk. A Chief IP Officer exists to turn intellectual property into revenue. Confusing those two mandates — and most boards do — costs companies an average of 40 percent of their IP's licensable value.
+
+According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now account for 90 percent of S&P 500 market value. Yet the executives responsible for the most valuable asset class on the balance sheet are, in most companies, lawyers whose training begins and ends with risk mitigation. Hayat Amin argues this is the single most expensive leadership gap in corporate strategy: "A General Counsel protects value. A Chief IP Officer creates it. You would never ask your insurer to run your sales team — so why is your GC running your licensing strategy?"
+
+## What Does a Chief IP Officer Do That a General Counsel Does Not?
+
+A Chief IP Officer operates at the intersection of IP, commercial strategy, and capital markets — pricing licences, structuring royalty stacks, positioning patents for M&A, and translating IP portfolios into investor language. A General Counsel's mandate is legal risk mitigation, compliance, and litigation management. The roles share a surface-level connection to intellectual property, but their objectives, skill sets, and KPIs are fundamentally different.
+
+A GC's IP involvement typically stops at filing and enforcement — making sure patents are granted and infringers are warned. A CIPO starts where
+
+---
