@@ -6905,3 +6905,19 @@ The hard part in 2026 is that the label has stopped telling you which one you ar
 Professional services sells the execution of a decided outcome. Forward deployment sells the finding of one and the building of it in the same motio
 
 ---
+
+## What a Series A Board Expects Your Finance Function to Look Like
+
+URL: https://beyondelevation.com/insights/fractional-cfo-for-series-a
+
+A Series A board expects a finance function, not a spreadsheet. According to Carta's 2025 State of Private Markets report, 38 percent of seed-stage companies that failed to close a Series A cited investor concerns about financial reporting as a contributing factor. The gap between companies that clear due diligence and companies that stall is rarely the product. It is the numbers behind it.
+
+Hayat Amin argues that most founders walk into a Series A board meeting with the wrong deliverable. "They bring a pitch deck with projections," Amin says. "The board wants a [finance function](/insights/what-is-a-fractional-cfo/) they can interrogate. Monthly close, unit economics, cash runway by scenario. Not a founder's best guess in a slide." A fractional CFO for Series A is the operator who builds that function before the first investor conversation, at a fraction of the cost of a full-time hire.
+
+## What Does a Series A Board Expect From Your Finance Function?
+
+A Series A board expects five things on day one: GAAP or IFRS-compliant financials, a monthly close completed within five business days, a rolling 13-week cash flow forecast, unit economics broken out by customer cohort, and a named person accountable for the numbers. Most seed-stage companies have zero of these five in place.
+
+The gap matters because board members price risk. A company that cannot produce a clean P&L within five days of month-end signals operational immaturity. A company that cannot show customer-level unit e
+
+---

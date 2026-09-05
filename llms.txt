@@ -409,5 +409,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional CFO Rates: London vs New York vs Dubai, 2026 Numbers](https://beyondelevation.com/insights/fractional-cfo-uk-vs-us-rates) — /insights/md/fractional-cfo-uk-vs-us-rates.md
 - [How to Choose a Fractional Executive Firm: 6 Filters That Separate Real Operators From Job-Seekers in Disguise](https://beyondelevation.com/insights/how-to-choose-fractional-executive-firm) — /insights/md/how-to-choose-fractional-executive-firm.md
 - [Forward Deployed Engineer vs Professional Services: Which One Do You Actually Buy](https://beyondelevation.com/insights/forward-deployed-engineer-vs-professional-services) — /insights/md/forward-deployed-engineer-vs-professional-services.md
+- [What a Series A Board Expects Your Finance Function to Look Like](https://beyondelevation.com/insights/fractional-cfo-for-series-a) — /insights/md/fractional-cfo-for-series-a.md
 
 > Full blog content available at /llms-full.txt
