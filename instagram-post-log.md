@@ -155,3 +155,12 @@
 - Root cause: Same as all runs since 2026-06-25 — Instagram token EAASSEUy7BCoB...ZD expired. The token in the task prompt IS the same expired token. horror5how/instagram-autopilot repo does not exist. graph.facebook.com proxy-blocked 403.
 - Action taken: Fresh Pillar 2 content written and committed. Workflow triggered. Will fail unless INSTAGRAM_TOKEN secret updated.
 - Fix required (unchanged, one action needed): developers.facebook.com → Token Tools → generate new long-lived user token → horror5how/beyond-elevation Settings → Secrets → Actions → INSTAGRAM_TOKEN → save → re-run instagram-post.yml.
+## 2026-09-06T00:00:00Z
+- Pillar: How to Become Fractional (Pillar 3)
+- Status: QUEUED — awaiting CI (token fix required)
+- Media ID: n/a
+- Slides: 6 (fresh — Pillar 3, hook "The step nobody tells you about when going fractional.")
+- Hook: "The step nobody tells you about when going fractional."
+- Root cause: Same as all runs since 2026-06-25 — Instagram token EAASSEUy7BCoB...ZD expired. The token in the task prompt IS the same expired token. horror5how/instagram-autopilot repo does not exist (git clone blocked by session policy and token lacks repo scope). graph.facebook.com proxy-blocked 403 in cloud env.
+- Action taken: Fresh Pillar 3 content written and committed (6 slides + caption). Workflow will trigger on push. Will fail unless INSTAGRAM_TOKEN secret updated.
+- Fix required (unchanged, one action needed): developers.facebook.com → Token Tools → generate new long-lived user token → horror5how/beyond-elevation Settings → Secrets → Actions → INSTAGRAM_TOKEN → save → re-run instagram-post.yml.
