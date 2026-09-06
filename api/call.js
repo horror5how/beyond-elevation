@@ -13,12 +13,25 @@ const BOT = /bot|crawl|spider|slurp|headless|preview|scan|fetch|monitor|curl|wge
 
 const SOURCES = { li: "LinkedIn", web: "Website", me: "Personal (Gmail)", em: "Email sequence", mh: "meethayat.com" };
 
+function readPhId(cookie) {
+  const m = cookie.match(/ph_[^=]+_posthog=([^;]+)/);
+  if (!m) return "";
+  try {
+    return JSON.parse(decodeURIComponent(m[1])).distinct_id || "";
+  } catch (_) {
+    return "";
+  }
+}
+
 module.exports = async (req, res) => {
   const code = String((req.query && req.query.s) || "unknown").toLowerCase().slice(0, 40);
   const source = SOURCES[code] || code;
   const ip = (req.headers["x-forwarded-for"] || "").split(",")[0].trim() || "anon";
 
   const ua = (req.headers["user-agent"] || "");
+  // PostHog's own cookie carries the id it already gave this browser. Logging it here is
+  // what lets a booking be joined to the pages that visitor read, instead of guessing by IP.
+  const phId = readPhId(req.headers.cookie || "");
 
   // Log the click. Await so the send completes before the function freezes — but never block the redirect.
   try {
@@ -38,6 +51,7 @@ module.exports = async (req, res) => {
           $current_url: req.url,
           referrer: req.headers["referer"] || "",
           user_agent: ua,
+          ph_distinct_id: phId,
         },
       }),
     });
