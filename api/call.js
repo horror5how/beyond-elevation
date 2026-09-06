@@ -25,6 +25,7 @@ module.exports = async (req, res) => {
         distinct_id: ip,
         properties: {
           site: "beyondelevation",
+          $ip: ip, // real visitor IP, else PostHog geolocates every click to Vercel in Ashburn
           booking_source: source,
           source_code: code,
           $current_url: req.url,
