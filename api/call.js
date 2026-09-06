@@ -7,6 +7,10 @@ const POSTHOG_KEY = "phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM";
 const POSTHOG_CAPTURE = "https://us.i.posthog.com/capture/";
 
 // Short code -> human label. Unknown codes pass through as-is.
+// Bots hammer /call — Turnitin, PetalBot, Ahrefs, headless Chrome and friends made up
+// most of the 8k "clicks" in the first month. Skip them so the numbers mean something.
+const BOT = /bot|crawl|spider|slurp|headless|preview|scan|fetch|monitor|curl|wget|python|turnitin|ahrefs|semrush|barkrowler|petal|bingbot|yandex|facebookexternalhit|discord|whatsapp|linkedinbot|apis-google|google-inspection/i;
+
 const SOURCES = { li: "LinkedIn", web: "Website", me: "Personal (Gmail)", em: "Email sequence", mh: "meethayat.com" };
 
 module.exports = async (req, res) => {
@@ -14,8 +18,11 @@ module.exports = async (req, res) => {
   const source = SOURCES[code] || code;
   const ip = (req.headers["x-forwarded-for"] || "").split(",")[0].trim() || "anon";
 
+  const ua = (req.headers["user-agent"] || "");
+
   // Log the click. Await so the send completes before the function freezes — but never block the redirect.
   try {
+    if (BOT.test(ua)) throw new Error("bot");
     await fetch(POSTHOG_CAPTURE, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -30,7 +37,7 @@ module.exports = async (req, res) => {
           source_code: code,
           $current_url: req.url,
           referrer: req.headers["referer"] || "",
-          user_agent: req.headers["user-agent"] || "",
+          user_agent: ua,
         },
       }),
     });
