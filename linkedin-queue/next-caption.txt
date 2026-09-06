@@ -1,15 +1,15 @@
-The fractional executive market crossed $5.8B in 2026.
+3 AI rollouts. Same tools. Same budget. One company got acquired at 4.2x revenue. Two got cut in the next board meeting.
 
-Most founders still treat it as a startup workaround.
+The difference was 3 numbers they tracked.
 
-43% of Series A companies now seat a fractional CFO before any full-time C-suite hire.
+Cycle time beats accuracy.
 
-Average retainer: £4,200/month. Full-time equivalent: £120,000+ per year.
+Revenue per head beats cost reduction.
 
-Median time to Series A close: 11 months with a fractional CFO in seat. 18 months without.
+Decision latency beats uptime.
 
-Investors started asking for financial rigour before they asked for headcount.
+If your AI report shows tokens saved and uptime percentages, you're measuring the wrong thing.
 
-The fractional executive is not a gap-fill. It is a structural choice.
+The companies that get acquired measure outcomes. Not activity.
 
-#FractionalCFO #FractionalExecutive #Leadership
+#AIOperations #FractionalCFO #BusinessAI
