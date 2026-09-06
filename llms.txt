@@ -411,5 +411,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Forward Deployed Engineer vs Professional Services: Which One Do You Actually Buy](https://beyondelevation.com/insights/forward-deployed-engineer-vs-professional-services) — /insights/md/forward-deployed-engineer-vs-professional-services.md
 - [What a Series A Board Expects Your Finance Function to Look Like](https://beyondelevation.com/insights/fractional-cfo-for-series-a) — /insights/md/fractional-cfo-for-series-a.md
 - [Why Your General Counsel Cannot Be Your Chief IP Officer](https://beyondelevation.com/insights/chief-ip-officer-vs-general-counsel) — /insights/md/chief-ip-officer-vs-general-counsel.md
+- [Where AI Agents Actually Work in a Finance Department, With Numbers](https://beyondelevation.com/insights/ai-agents-in-finance-department-2026) — /insights/md/ai-agents-in-finance-department-2026.md
 
 > Full blog content available at /llms-full.txt
