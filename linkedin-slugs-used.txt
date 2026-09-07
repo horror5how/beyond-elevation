@@ -681,3 +681,4 @@ fractional-executive-trend-2026-data
 ai-operations-case-study-metrics
 fractional-cfo-exit-preparation
 trade-secrets-vs-patents-for-smes
+ai-readiness-audit-checklist

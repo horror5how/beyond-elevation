@@ -1,11 +1,13 @@
-Most founders spend £15K filing a patent when a £0 trade secret does the same job better.
+Most companies deploy AI before they can name what they're automating.
 
-A patent expires after 20 years and publishes your formula to the world the day it grants.
+The result: 68% of AI pilots stall inside 90 days.
 
-A trade secret has no expiry, costs nothing to create, and can be licensed for revenue.
+Not because the tools are wrong. Because the processes feeding them are broken.
 
-Coca-Cola chose the trade secret in 1891. It still earns billions annually. No patent required.
+15 checks tell you whether you're ready. Most firms fail 9 of them.
 
-3 questions that tell you which one your business actually needs.
+Fix the process first. Then deploy.
 
-#IPStrategy #TradeSecrets #Fractional
+The audit takes an afternoon. The rollout that skips it takes 18 months to unwind.
+
+#AIOperations #Automation #AI
