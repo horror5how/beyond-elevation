@@ -20,6 +20,7 @@ permissions:
 jobs:
   post:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     env:
       # Prefer the INSTAGRAM_TOKEN secret (update via repo Settings → Secrets) over the hardcoded fallback
       ACTIVE_IG_TOKEN: ${{ secrets.INSTAGRAM_TOKEN || 'EAASSEUy7BCoBRU1jEwOKcOHbd6gtz0nilxU9hJblV8I9KpbpjFITnFZAlQGadjpm8sOsilvi6SICmqkvmxRCJpLGeZCIZCZB72S7kQDOtEZApWyz8AVlz3WFpDDhZAJwvcqlfVN0tpvnHQmDeLY0YNgBig4mAhAGeNRhXm6JwWNkpUBMZCZBUS4GCZCZBjilS6meS8Yed9RT5nBwZDZD' }}
