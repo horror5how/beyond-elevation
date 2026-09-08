@@ -683,3 +683,4 @@ fractional-cfo-exit-preparation
 trade-secrets-vs-patents-for-smes
 ai-readiness-audit-checklist
 fractional-executive-cost-comparison
+patent-expiry-cliff-founder-blind-spot
