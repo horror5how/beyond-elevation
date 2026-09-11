@@ -89,6 +89,8 @@ The order matters. Hayat Amin's rule: file the patent first to secure priority, 
 
 **[Book a free IP coverage audit with Beyond Elevation to identify which of the 4 types you are missing →](https://beyondelevation.com)**
 
+Owning the IP is one job. Putting it on the balance sheet is another, and it is the CFO's. See [the best fractional CFO for deep tech startups, compared on IP and R&D credits](/insights/best-fractional-cfo-for-deep-tech-startups/).
+
 
 
 ---

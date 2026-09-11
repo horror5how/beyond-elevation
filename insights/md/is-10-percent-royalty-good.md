@@ -67,6 +67,8 @@ The 25% rule — allocating 25% of the licensee’s expected profit from the pat
 
 [Beyond Elevation](https://beyondelevation.com) runs this analysis on every licensing engagement. The framework removes guesswork from rate-setting and gives founders a number they can defend in negotiation — backed by margin data, industry benchmarks, and deal precedent, not gut feel.
 
+A royalty only pays if the finance function tracks and collects it. For companies whose value is in IP, here is [a comparison of fractional CFO firms for deep tech](/insights/best-fractional-cfo-for-deep-tech-startups/), read from their own sites.
+
 
 
 ---

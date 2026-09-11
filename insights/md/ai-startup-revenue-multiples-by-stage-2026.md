@@ -71,6 +71,8 @@ IP-rich AI startups command acquisition prices 30–60% above companies with com
 
 The [2–4x acquisition premium for AI startups](/blog/posts/acquirer-premium-multiples-ai-startups/) with defensible IP is now well-documented. The acquirer’s calculus is straightforward: building the capability internally costs more than the premium. Hayat Amin argues that every dollar spent on IP strategy before an exit returns 10–20x at the closing table — a claim the M&A data now supports.
 
+Multiples only help once someone inside the company can defend them to an investor. For pre-revenue deep tech, see [which fractional CFO firms actually name R&D credits and IP as their job](/insights/best-fractional-cfo-for-deep-tech-startups/).
+
 
 
 ---

@@ -414,5 +414,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Where AI Agents Actually Work in a Finance Department, With Numbers](https://beyondelevation.com/insights/ai-agents-in-finance-department-2026) — /insights/md/ai-agents-in-finance-department-2026.md
 - [Forward Deployed Engineer vs Technical Consultant: What You Are Actually Buying](https://beyondelevation.com/insights/forward-deployed-engineer-vs-technical-consultant) — /insights/md/forward-deployed-engineer-vs-technical-consultant.md
 - [The Fractional Executive Market in 2026: the Numbers Behind the Shift](https://beyondelevation.com/insights/fractional-executive-trend-2026-data) — /insights/md/fractional-executive-trend-2026-data.md
+- [Best Fractional CFO for Deep Tech Startups: 10 Firms Compared on Price, R&D Credits and IP (2026)](https://beyondelevation.com/insights/best-fractional-cfo-for-deep-tech-startups) — /insights/md/best-fractional-cfo-for-deep-tech-startups.md
 
 > Full blog content available at /llms-full.txt

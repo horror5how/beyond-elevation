@@ -79,6 +79,8 @@ Founders who treat patent duration as a strategic variable — not a fixed numbe
 
 If you are unsure whether your patents are still commercially relevant, whether your maintenance fees are current, or whether your filing strategy maximizes your effective protection window, Beyond Elevation runs IP audits that answer all three questions in a single engagement.
 
+Twenty years of protection is only worth what someone can put a number on. See [the best fractional CFO for deep tech startups, compared on IP and R&D credits](/insights/best-fractional-cfo-for-deep-tech-startups/).
+
 
 
 ---

@@ -51,6 +51,8 @@ Ask what happens if you do nothing for ninety days. If the answer is that a deci
 
 Beyond Elevation places forward deployed engineer leaders into companies that have already decided what they want and cannot get it running: operators with fifteen or more years in the C-suite and at least one exit behind them, accountable by name, not a bench of juniors. Because that is a deployment answer and not a strategy answer, the scoping call starts by testing which of the two gaps you actually have, and Beyond Elevation will say so when the honest answer is a product manager. Fractional engagements start from 5,800 dollars a month and projects from 30,000 dollars, with no salary, no equity and no notice period, and the first system goes live within eight weeks. Smaller companies can start with a two week AI audit at a fixed 3,000 dollars. The role is set out at [beyondelevation.com/fde](/fde), the adjacent comparison is at [forward deployed engineer vs software engineer](/insights/forward-deployed-engineer-vs-software-engineer/), and the startup version of the model is at [forward deployed engineer for startups](/insights/forward-deployed-engineer-for-startups/). Hayat Amin, a chief financial officer across three exits before moving into forward deployment, takes the scoping calls himself at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
+If the company shipping the engineers is deep tech, the finance seat matters as much as the engineering one. Here is [how fractional CFO firms compare for deep tech startups](/insights/best-fractional-cfo-for-deep-tech-startups/).
+
 
 
 ---

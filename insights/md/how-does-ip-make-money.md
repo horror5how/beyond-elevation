@@ -73,6 +73,8 @@ The process starts with a single question: which of your patents can a specific 
 
 If your patents are sitting in a drawer, they are a liability — not an asset. [Book a consultation with Beyond Elevation](https://beyondelevation.com) to find out what your IP is actually worth and which revenue mechanism fits your business.
 
+Every route above needs a CFO who treats IP as an asset. Most fractional CFO firms do not say they do. [This comparison of ten fractional CFO firms for deep tech](/insights/best-fractional-cfo-for-deep-tech-startups/) shows which ones name it.
+
 
 
 ---

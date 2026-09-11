@@ -63,6 +63,8 @@ Patent families also unlock [recurring revenue streams](/blog/posts/recurring-pa
 
 **Mistake 3: Ignoring international filings.** Your patent stops at the border. A US-only patent family gives competitors complete freedom to manufacture, sell, and license your technology in every other market on earth. If your product sells internationally or your competitors manufacture overseas, you need [patent coverage in the jurisdictions where revenue is at stake](/blog/posts/patent-clustering-strategy-moat/). The PCT filing window is 12 months from your priority date — miss it, and you have permanently forfeited international rights for that invention.
 
+A patent family is an asset, and an asset needs a finance owner. See [the best fractional CFO for deep tech startups](/insights/best-fractional-cfo-for-deep-tech-startups/), compared on whether IP is part of the job.
+
 
 
 ---

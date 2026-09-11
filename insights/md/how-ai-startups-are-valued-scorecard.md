@@ -107,6 +107,8 @@ A composite score above 7.5 correlates with top-quartile multiples (30x+ revenue
 
 Run this scorecard before your next fundraise. If you score below 6.0 on IP Defensibility, book a strategy session at [beyondelevation.com](https://beyondelevation.com) — the 90-day window before a funding round is the highest-ROI period to file patents and structure trade secrets.
 
+If your company is deep tech rather than SaaS, the valuation work above lands on whoever runs finance. Here is [how ten fractional CFO firms compare for deep tech startups](/insights/best-fractional-cfo-for-deep-tech-startups/), on price, R&D credits and IP.
+
 
 
 ---
