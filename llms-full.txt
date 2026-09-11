@@ -7005,3 +7005,19 @@ FirmPublished pricingNamed deep tech fitR&D tax creditsIP as an asset
 Burkland AssociatesDepends on scope. Typical engageme
 
 ---
+
+## How Can AI Help Small Businesses? Nine Jobs It Actually Does, Priced
+
+URL: https://beyondelevation.com/insights/how-can-ai-help-small-businesses
+
+AI helps a small business by taking over repeating jobs: moving data between apps, answering the same customer question at midnight, keeping the books, drafting routine writing, booking meetings, taking notes, and running the email list. Every one of those has named software behind it and a price printed on the vendor's own website.
+
+This piece is that list. Nine tools, ranked by how much of an owner's week each one gives back per dollar, with the price read from the vendor's own pricing page on 12 September 2026, and, for each, the kind of business it is wrong for.
+
+The reason to be this specific is that most small American companies still are not doing any of it. The United States Census Bureau's Business Trends and Outlook Survey, reported on 26 May 2026, found overall AI use among American firms hovering between 17 and 20 percent from December 2025 to May 2026. Thirty seven percent of firms with at least 250 employees said they used AI. Fewer than 20 percent of firms with four or fewer employees did. Over that same window use rose among firms with at least twenty employees and did not change significantly among firms with fewer than twenty. The gap is widening, and it is not a gap in software. It is a gap in knowing which jobs to hand over.
+
+## How this list was ranked
+
+Four tests, applied in order. First, the vendor publishes a price on its own website, with no sales call and no quote form. Second, a company of under fifty people can start on it this week without hiring 
+
+---
