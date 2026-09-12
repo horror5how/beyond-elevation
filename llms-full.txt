@@ -7021,3 +7021,19 @@ The reason to be this specific is that most small American companies still are n
 Four tests, applied in order. First, the vendor publishes a price on its own website, with no sales call and no quote form. Second, a company of under fifty people can start on it this week without hiring 
 
 ---
+
+## How Can I Automate My Business? The Method, One Handoff at a Time
+
+URL: https://beyondelevation.com/insights/how-can-i-automate-my-business
+
+You automate a business one handoff at a time. Find the job that repeats every week, runs on a rule anyone could follow, and moves information between two systems by hand. Wire that single job, count the hours it gives back, then take the next one.
+
+That sentence is the whole method. The rest of this piece is how to run it: how to find the job, what an hour of it actually costs you, which tool to buy, what the published prices were when this was written, and how to tell when a process has outgrown a subscription and needs an engineer.
+
+## Where automation actually lands in American companies
+
+Before the method, the map. The United States Census Bureau ran an artificial intelligence supplement to its Business Trends and Outlook Survey, and six researchers, Kathryn Bonney, Cory Breaux, Emin Dinlersoz, Lucia Foster, John Haltiwanger and Aditya Pande, published the analysis as working paper CES-26-25 in April 2026. Over the reference period of November 2025 to January 2026, 18 percent of firms used artificial intelligence in a business function, rising to 32 percent when weighted by employment, and adoption was expected to reach 22 percent within six months.
+
+The useful part is where it lands. Among firms that had adopted, the most common functions were Sales and Marketing at 52 percent, Strategy and Business Development at 45 percent, and information technology at 41 percent. Fifty seven percent of those firms used it in three or fewer functions at all. At the level of the indiv
+
+---

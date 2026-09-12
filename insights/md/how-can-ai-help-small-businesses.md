@@ -153,5 +153,7 @@ Take the nine jobs above and mark the one that consumed the most of your own hou
 
 If the job that comes up is bigger than a subscription, which happens when the work sits across several systems and none of them talk, that is a forward deployment problem rather than a software purchase. Hayat Amin at Beyond Elevation does that work inside small and mid sized companies in New York City and across the United States. You can [book a call about the engineering work](https://meethayat.com/services/fde), or, if the question is really about the numbers underneath it, [the CFO seat](https://meethayat.com/cfo). If a free Zapier plan is the honest answer, you will be told that on the call, at no charge, which is the cheapest outcome on this page.
 
+If you want to know which of your own processes are worth automating first, we run a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
+
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

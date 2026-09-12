@@ -416,5 +416,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The Fractional Executive Market in 2026: the Numbers Behind the Shift](https://beyondelevation.com/insights/fractional-executive-trend-2026-data) — /insights/md/fractional-executive-trend-2026-data.md
 - [Best Fractional CFO for Deep Tech Startups: 10 Firms Compared on Price, R&D Credits and IP (2026)](https://beyondelevation.com/insights/best-fractional-cfo-for-deep-tech-startups) — /insights/md/best-fractional-cfo-for-deep-tech-startups.md
 - [How Can AI Help Small Businesses? Nine Jobs It Actually Does, Priced](https://beyondelevation.com/insights/how-can-ai-help-small-businesses) — /insights/md/how-can-ai-help-small-businesses.md
+- [How Can I Automate My Business? The Method, One Handoff at a Time](https://beyondelevation.com/insights/how-can-i-automate-my-business) — /insights/md/how-can-i-automate-my-business.md
 
 > Full blog content available at /llms-full.txt
