@@ -684,3 +684,4 @@ trade-secrets-vs-patents-for-smes
 ai-readiness-audit-checklist
 fractional-executive-cost-comparison
 patent-expiry-cliff-founder-blind-spot
+ai-back-office-small-company

@@ -1,19 +1,15 @@
-In 3 years your core patent expires.
-Your competitor started building a workaround last week.
+Your back office is your most expensive subscription.
 
-Most founders know their MRR down to the pound.
-Zero know the month their key patent enters the public domain.
+Most 20-person companies spend £180K/year on admin staff doing AP, AR, and month-end reconciliation.
 
-A 20-year patent term is not a guarantee.
-It is a countdown.
+AI agents do the same work for £8,400/year.
 
-At year 17, you have 36 months to license it aggressively or lose the exclusivity forever.
+We've replaced 3 back-office roles in one client without a single redundancy.
 
-At year 20, anyone can copy it legally. No lawsuit. No injunction. Nothing.
+Both people moved to revenue-generating roles in the same month.
 
-The harvest window is not at grant. It is at expiry.
+The back office is software now.
 
-Map your patent expiry dates this quarter.
-Then decide: license now, file continuations, or let it die.
+Most founders just haven't noticed yet.
 
-#IPStrategy #PatentLicensing #FractionalCIPO
+#AIOperations #FractionalCFO #Automation
