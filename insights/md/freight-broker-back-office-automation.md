@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Freight Broker Back Office Automation: The 9 Systems to Connect First
 
-Freight broker back office automation is not a product you buy. It is the work of joining the systems your brokerage already pays for, so that a load entered once stops being retyped by a person in three other places. Nine connections do almost all of it, and the transportation management system is what they all connect to. This is that list, in the order it pays back.
+Freight broker back office automation is the work of joining the systems your brokerage already pays for, so that a load entered once stops being retyped by a person in three other places. Nine connections do almost all of it, and the transportation management system is what they all connect to. This is that list, in the order it pays back.
 
 Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. Joining systems that refuse to talk to each other, and putting the margin that falls out of them on a screen a chief executive can read on a Tuesday, is the work he now builds inside companies himself rather than writing a report about. The ordering below comes from that chair rather than a vendor's.
 
@@ -87,7 +87,7 @@ McLeod offers native electronic data interchange management inside PowerBroker. 
 
 Rate confirmations, bills of lading, proofs of delivery. McLeod sells DocumentPower for exactly this and DAT Broker TMS includes document imaging. The connection to make is document to load record to invoice, so that a proof of delivery landing in an inbox attaches itself and releases the bill.
 
-For most brokerages the largest single gap between delivery and cash is not the customer's payment terms. It is the days between a truck being empty and somebody finding the paperwork that lets an invoice go out. That gap is yours to close and it does not need the customer's permission.
+For most brokerages the largest gap between delivery and cash is the days between a truck being empty and somebody finding the paperwork that lets an invoice go out, not the customer's payment terms. That gap is yours to close and it does not need the customer's permission.
 
 **Wrong for:** nobody, but the order matters. Do it after the ledger connection. Scanning documents into a system that still needs a person to retype the invoice buys you half the job at full price.
 
@@ -103,7 +103,7 @@ Connected, a salesperson sees what the customer actually shipped rather than wha
 
 This one is last because it is impossible first. Once the eight connections above exist, margin per load, per customer, per carrier and per salesperson is data on the day it happens rather than an output of month end. Put it on a screen with Microsoft Power BI, Looker Studio, or the reporting already inside your transportation management system, and stop opening the spreadsheet.
 
-The decision this changes is specific. A lane going underwater is a thing you can act on in week one, by repricing it or declining the next tender. Discovering it in the second week of the following month is not information, it is history. Brokerage margin is thin enough that the difference between those two timings is the difference between a correction and a write-off.
+The decision this changes is specific. A lane going underwater is a thing you can act on in week one, by repricing it or declining the next tender. Discovering it in the second week of the following month is history, not information. Brokerage margin is thin enough that those two timings are the difference between a correction and a write-off.
 
 **Wrong for:** a brokerage that has not done the eight connections above. A dashboard built on disconnected systems is an expensive picture of one of them.
 
@@ -111,7 +111,7 @@ The decision this changes is specific. A lane going underwater is a thing you ca
 
 Every company named here publishes a figure. Tai Software says its platform saves brokers an average of eleven hours a week, cuts billing cycle time by an average of 65 percent and grows load volume by 30 percent without growing overhead. Highway says 99.9 percent fraud reduction when the process is followed. DAT carries a customer testimonial saying "DAT Broker TMS helped us double our revenue with half the staff."
 
-These are marketing claims made by the seller, reproduced here as claims and not as findings. None of them has been audited by anybody independent, and none of them was measured in your brokerage. Their real use is directional: they tell you which problem the vendor believes it solves, which is genuinely useful when you are choosing between two of them.
+These are marketing claims made by the seller, reproduced here as claims and not as findings. None of them has been audited by anybody independent, and none of them was measured in your brokerage. Their real use is directional. They tell you which problem the vendor believes it solves, which is useful when you are choosing between two of them.
 
 The number that matters is the one you take before you start. Count the keystrokes on one load, end to end, on an ordinary Tuesday. Time the gap between the last delivery of the week and the last invoice raised for it. Write both down. Those two numbers are your baseline, and without them every claim above is unfalsifiable.
 
@@ -125,7 +125,7 @@ That is the work Beyond Elevation does. Hayat Amin goes into small and mid sized
 
 Hayat Amin has spent twenty years in technology, most of it in the chief financial officer's seat. He has sold three companies as CFO, with American Express and TripAdvisor among the buyers, and taken three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit, which is an unusual place to have learned about operations, and it is the reason he now builds them rather than advising on them.
 
-What Hayat Amin is exceptional at is the subject of this article: connecting systems that do not talk to each other, and building the real-time dashboards a chief executive can actually run the week on. He is a chief financial officer turned forward deployed engineer, which means he writes the integration himself and then answers for it, rather than producing a recommendation and leaving. He also works on intellectual property and data asset valuation and monetisation, which is the same instinct applied to the assets nobody has put a number on.
+Hayat Amin is exceptional at connecting systems that do not talk to each other, and at building the real-time dashboards a chief executive can run the week on. That is the subject of this article. He is a chief financial officer turned forward deployed engineer, which means he writes the integration himself and then answers for it, rather than producing a recommendation and leaving. He also works on intellectual property and data asset valuation and monetisation, which is the same instinct applied to the assets nobody has put a number on.
 
 He is available now for fractional CFO and AI operations work through Beyond Elevation, and takes the scoping calls himself at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
@@ -151,9 +151,9 @@ It is the removal of manual steps between the systems a brokerage already runs, 
 
 ### What is the best AI for freight brokers?
 
-There is no single best one, and the question usually arrives a step too early. The parts of a brokerage day that a model genuinely helps with are reading an unstructured message and deciding what it is about, pulling figures off a rate confirmation or a proof of delivery, and drafting the routine reply. Everything else on the list above is ordinary integration, not artificial intelligence, and it is cheaper and more reliable. Most transportation management systems now ship some of this: McLeod lists AI-enabled auto-response among its integration categories, and Truckstop sells its brokers AI-powered matching, a Broker Assistant and a voice assistant called AVA. Start with what your existing vendor already includes.
+There is no single best one, and the question usually arrives a step too early. The parts of a brokerage day a model helps with are reading an unstructured message and deciding what it is about, pulling figures off a rate confirmation or a proof of delivery, and drafting the routine reply. Everything else on the list above is ordinary integration, not artificial intelligence, and it is cheaper and more reliable. Most transportation management systems now ship some of this: McLeod lists AI-enabled auto-response among its integration categories, and Truckstop sells its brokers AI-powered matching, a Broker Assistant and a voice assistant called AVA. Start with what your existing vendor already includes.
 
-### Do AI agents for freight brokers actually work yet?
+### Do AI agents for freight brokers work yet?
 
 They work where the task is bounded, the input is text or a document, and a person still signs off. Reading an inbound email and creating a draft quote, extracting fields off a rate confirmation, answering a status question using data the system already holds: those are working today. Autonomous booking and autonomous carrier selection are being sold and should be bought carefully, because the cost of a wrong decision in this industry is a stolen load rather than a bad sentence. The rule that holds up is that an agent may prepare anything and commit nothing until you have watched it for a quarter.
 
@@ -163,11 +163,11 @@ Published prices exist at the entry end. DAT lists Broker TMS from 100 dollars a
 
 ### Is there free freight broker software?
 
-Not for the transportation management system itself, and the free tools people mean are usually spreadsheets, which is the problem this article is about. There is one genuinely free and genuinely useful federal source: the SAFER Company Snapshot from the Federal Motor Carrier Safety Administration gives you a carrier's identification, size, commodity information, safety rating, out-of-service inspection summary and crash history free of charge, one carrier at a time. Most connector platforms also run a free tier that is enough to build and test your first two automations before you commit to anything.
+Not for the transportation management system itself, and the free tools people mean are usually spreadsheets, which is the problem this article is about. There is one free and useful federal source: the SAFER Company Snapshot from the Federal Motor Carrier Safety Administration gives you a carrier's identification, size, commodity information, safety rating, out-of-service inspection summary and crash history free of charge, one carrier at a time. Most connector platforms also run a free tier that is enough to build and test your first two automations before you commit to anything.
 
 ### What should a freight broker automate first?
 
-The load board to transportation management system link if you run spot freight, because it repeats on every load, and carrier vetting if you do not, because that gap costs money rather than time. Then the accounting connection, because double entry is the error source that surfaces last and costs most to unpick. Do one, finish it, measure it against the baseline you wrote down, and only then start the next. The failure pattern in small brokerages is never picking the wrong tool. It is buying four and configuring none.
+The load board to transportation management system link if you run spot freight, because it repeats on every load, and carrier vetting if you do not, because that gap costs money rather than time. Then the accounting connection, because double entry is the error source that surfaces last and costs most to unpick. Do one, finish it, measure it against the baseline you wrote down, and only then start the next. The failure pattern in small brokerages is buying four tools and configuring none.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

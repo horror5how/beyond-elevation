@@ -7042,17 +7042,19 @@ The useful part is where it lands. Among firms that had adopted, the most common
 
 URL: https://beyondelevation.com/insights/when-to-hire-fractional-cfo
 
-Eighty-two per cent of failed startups cite cash-flow problems as a contributing factor, according to a 2023 CB Insights post-mortem analysis. The pattern is always the same: by the time the founder realises the numbers are wrong, the damage is already months old. Knowing when to hire a fractional CFO is not a scaling luxury — it is the difference between a controlled fundraise and a fire drill.
+Eighty-two per cent of failed startups cite cash-flow problems as a contributing factor, according to a 2023 CB Insights post-mortem analysis. The pattern is always the same: by the time the founder realises the numbers are wrong, the damage is already months old. Hiring a fractional CFO early is what separates a controlled fundraise from a fire drill.
 
-Hayat Amin argues that founders almost always ask the question too late. “The right moment to bring in a fractional CFO is the moment you stop understanding your own numbers — and that moment arrived three months before you noticed,” Amin says. Most companies cross that line somewhere between £500K and £2M in annual revenue, long before a full-time CFO makes economic sense.
+Hayat Amin argues that founders almost always ask the question too late. "The right moment to bring in a fractional CFO is the moment you stop understanding your own numbers, and that moment arrived three months before you noticed," Amin says. Most companies cross that line somewhere between £500K and £2M in annual revenue, long before a full-time CFO makes economic sense.
 
-The answer is not about revenue size. It is about five observable breakdowns in your finance function. If three or more apply, you are already behind.
+Revenue size does not decide it. Five observable breakdowns in your finance function do. If three or more apply, you are already behind.
 
-## When Should You Hire a Fractional CFO? When Nobody Owns the Financial Model
+## When should you hire a fractional CFO? When nobody owns the financial model
 
-You should hire a fractional CFO the moment your financial model has no owner — when your accountant files the taxes, bookkeeps the ledger, and produces statutory reports, but nobody is building the forward-looking model that drives decisions. This is the single clearest signal that you have outgrown your current finance setup.
+You should hire a fractional CFO the moment your financial model has no owner, when your accountant files the taxes, bookkeeps the ledger, and produces statutory reports, but nobody is building the forward-looking model that drives decisions. This is the clearest signal that you have outgrown your current finance setup.
 
-Accountants are trained to look backward. They reconcile what happened. A fractional CFO looks forward: runway projections, scenario modelling, pricing impact 
+Accountants are trained to look backward. They reconcile what happened. A fractional CFO looks forward: runway projections, scenario modelling, pricing impact analysis.
+
+The distinction matters because every strategic decision
 
 ---
 
@@ -7060,19 +7062,19 @@ Accountants are trained to look backward. They reconcile what happened. A fracti
 
 URL: https://beyondelevation.com/insights/chief-ip-officer-job-description
 
-Most chief IP officer job descriptions are written by lawyers who want a senior lawyer — not by operators who understand that the role exists to generate revenue, not file patents. The result is a hire who protects IP on paper and leaves millions in licensing value sitting on the table.
+Most chief IP officer job descriptions are written by lawyers who want a senior lawyer, not by operators who understand that the role exists to generate revenue, not file patents. The result is a hire who protects IP on paper and leaves millions in licensing value sitting on the table.
 
-Hayat Amin, who has built IP functions across three continents, argues that the standard CIPO job description gets the mandate backwards: it emphasises legal risk mitigation when the primary job is commercial IP monetisation. According to Ocean Tomo's 2024 Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation — yet fewer than 12% of companies have a dedicated IP executive reporting to the C-suite. The gap between the value of IP and the leadership assigned to manage it is the single largest governance failure in corporate strategy today.
+Hayat Amin, who has built IP functions across three continents, argues that the standard CIPO job description gets the mandate backwards: it emphasises legal risk mitigation when the primary job is commercial IP monetisation. According to Ocean Tomo's 2024 Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation, yet fewer than 12% of companies have a dedicated IP executive reporting to the C-suite. That gap between IP value and IP leadership is a governance failure most boards have not addressed.
 
-## What Does a Chief IP Officer Actually Do?
+## What does a chief IP officer actually do?
 
-A chief IP officer owns the commercial strategy for all intellectual property — patents, trade secrets, data assets, and proprietary know-how. The role sits at the intersection of legal, finance, and business development, with a mandate centred on revenue generation, not compliance paperwork.
+A chief IP officer owns the commercial strategy for all intellectual property, patents, trade secrets, data assets, and proprietary know-how. The role sits at the intersection of legal, finance, and business development, with a mandate centred on revenue generation, not compliance paperwork.
 
 Most boards assume the CIPO role is an extension of the legal department. It is not. A well-scoped CIPO:
 
 - Audits and values the existing IP portfolio quarterly
 - Identifies licensing and monetisation opportunities across every asset class
-- Sets the patent filing strat
+- Sets the patent filing strategy aligned to business objectives, not legal 
 
 ---
 
@@ -7080,7 +7082,7 @@ Most boards assume the CIPO role is an extension of the legal department. It is 
 
 URL: https://beyondelevation.com/insights/freight-broker-back-office-automation
 
-Freight broker back office automation is not a product you buy. It is the work of joining the systems your brokerage already pays for, so that a load entered once stops being retyped by a person in three other places. Nine connections do almost all of it, and the transportation management system is what they all connect to. This is that list, in the order it pays back.
+Freight broker back office automation is the work of joining the systems your brokerage already pays for, so that a load entered once stops being retyped by a person in three other places. Nine connections do almost all of it, and the transportation management system is what they all connect to. This is that list, in the order it pays back.
 
 Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. Joining systems that refuse to talk to each other, and putting the margin that falls out of them on a screen a chief executive can read on a Tuesday, is the work he now builds inside companies himself rather than writing a report about. The ordering below comes from that chair rather than a vendor's.
 
@@ -7092,6 +7094,6 @@ First, how often a person retypes something across the gap. A connection that re
 
 Second, whether the gap costs money directly rather than only time. An insurance certificate that expired while the freight was moving, and a carrier invoice that sat in an inbox for nine days before anyone could bill the shipper, are not inconvenience. One is a claim and the other is working capital.
 
-Third, whether the connection already exists as a shipped product. Most of these do. Paying an engineer to rebuild what a vendor supports natively is the most common way
+Third, whether the connection already exists as a shipped product. Most of these do. Paying an engineer to rebuild what a vendor supports natively is the most common way a brokerage burns its first 
 
 ---
