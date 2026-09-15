@@ -7075,3 +7075,23 @@ Most boards assume the CIPO role is an extension of the legal department. It is 
 - Sets the patent filing strat
 
 ---
+
+## Freight Broker Back Office Automation: The 9 Systems to Connect First
+
+URL: https://beyondelevation.com/insights/freight-broker-back-office-automation
+
+Freight broker back office automation is not a product you buy. It is the work of joining the systems your brokerage already pays for, so that a load entered once stops being retyped by a person in three other places. Nine connections do almost all of it, and the transportation management system is what they all connect to. This is that list, in the order it pays back.
+
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. Joining systems that refuse to talk to each other, and putting the margin that falls out of them on a screen a chief executive can read on a Tuesday, is the work he now builds inside companies himself rather than writing a report about. The ordering below comes from that chair rather than a vendor's.
+
+## How this list is ordered
+
+Three tests, applied in this order.
+
+First, how often a person retypes something across the gap. A connection that removes keystrokes on every load beats one that removes them once a month, whatever the second one costs.
+
+Second, whether the gap costs money directly rather than only time. An insurance certificate that expired while the freight was moving, and a carrier invoice that sat in an inbox for nine days before anyone could bill the shipper, are not inconvenience. One is a claim and the other is working capital.
+
+Third, whether the connection already exists as a shipped product. Most of these do. Paying an engineer to rebuild what a vendor supports natively is the most common way
+
+---
