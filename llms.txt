@@ -420,5 +420,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [When to Hire a Fractional CFO: 5 Signals You Have Outgrown Your Accountant](https://beyondelevation.com/insights/when-to-hire-fractional-cfo) — /insights/md/when-to-hire-fractional-cfo.md
 - [The Chief IP Officer Job Description Most Boards Get Wrong](https://beyondelevation.com/insights/chief-ip-officer-job-description) — /insights/md/chief-ip-officer-job-description.md
 - [Freight Broker Back Office Automation: The 9 Systems to Connect First](https://beyondelevation.com/insights/freight-broker-back-office-automation) — /insights/md/freight-broker-back-office-automation.md
+- [The 18-Month Exit Runway: What a CFO Builds Before the Bankers Arrive](https://beyondelevation.com/insights/fractional-cfo-exit-preparation) — /insights/md/fractional-cfo-exit-preparation.md
 
 > Full blog content available at /llms-full.txt
