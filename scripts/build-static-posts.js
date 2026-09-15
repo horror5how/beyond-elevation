@@ -103,6 +103,28 @@ function pickRelated(post, allPosts, n = 4) {
   return cands.slice(0, n).map(c => c.post);
 }
 
+// === Author Person entity for Article JSON-LD ===
+// The same Person object is emitted on beyondelevation.com, meethayat.com and
+// topelevens.com so the three sites reinforce one entity rather than three.
+// Claims here are the ceiling set in fde/AUTHOR.md: nothing outside that list.
+function authorPerson(name) {
+  if (name !== 'Hayat Amin') {
+    return { '@type': 'Person', name, url: 'https://beyondelevation.com/about' };
+  }
+  return {
+    '@type': 'Person',
+    name: 'Hayat Amin',
+    jobTitle: 'Chief Financial Officer turned Forward Deployed Engineer',
+    url: 'https://beyondelevation.com/about',
+    sameAs: [
+      'https://meethayat.com',
+      'https://beyondelevation.com',
+      'https://www.linkedin.com/in/hayatamin',
+    ],
+    description: 'Hayat Amin has spent twenty years in technology and sold three companies as Chief Financial Officer, with American Express and TripAdvisor among the buyers, and three Financial Times 100 fastest growing companies listings. A CFO turned forward deployed engineer, he builds AI operations inside companies himself, connects systems that do not talk to each other, builds real-time dashboards a chief executive can run the week on, and works on intellectual property and data asset valuation and monetisation. Available for fractional CFO and AI operations work through Beyond Elevation.',
+  };
+}
+
 // === FAQ extraction for FAQPage JSON-LD ===
 function stripTags(s = '') {
   return String(s).replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
@@ -261,11 +283,7 @@ function pageTemplate(post, related) {
     image: ogImage,
     datePublished,
     dateModified,
-    author: {
-      '@type': 'Person',
-      name: author,
-      url: 'https://beyondelevation.com/about',
-    },
+    author: authorPerson(author),
     publisher: {
       '@type': 'Organization',
       name: 'Beyond Elevation',
