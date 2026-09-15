@@ -1,21 +1,17 @@
-Most "AI consultants" have never shipped a live agent to production.
+Most founders hire an interim CFO when they need a fractional one.
 
-You need an operator, not an advisor.
+The bill is £108,000 for 90 days.
 
-3 questions that separate them in 30 minutes:
+Interim: £1,200/day. Crisis cover. Gone when the problem is patched.
 
-What failed in your last AI rollout — and why?
+Fractional: £4,500/month. Function builder. Still there in 18 months.
 
-What was the first workflow you automated and how did you measure it?
+Interim fixes last quarter's mess.
 
-Which processes still have humans in the loop and why?
+Fractional prevents next quarter's mess.
 
-Anyone who answers in specifics has built something real.
+Same budget. Completely different outcome.
 
-A full-time AI Operations lead costs £180K base plus equity.
+Most £5M-revenue businesses have never needed an interim CFO.
 
-A fractional operator costs £4,500/month and ships in week two.
-
-Interview for outcomes. Not credentials.
-
-#AIOperations #FractionalExecutive #AILeadership
+#FractionalCFO #CFO #Founders
