@@ -1,15 +1,21 @@
-You don't need a patent lab to have an IP strategy.
+Most "AI consultants" have never shipped a live agent to production.
 
-A bakery chain built £4M licensing revenue from a patented process.
+You need an operator, not an advisor.
 
-A recruitment firm turned its methodology into a licensed product.
+3 questions that separate them in 30 minutes:
 
-A logistics company licensed its routing system to 3 direct competitors.
+What failed in your last AI rollout — and why?
 
-Your IP isn't in a lab. It's in your process, your data, your brand.
+What was the first workflow you automated and how did you measure it?
 
-73% of non-tech companies have unmapped IP generating zero revenue.
+Which processes still have humans in the loop and why?
 
-That's a choice, not a constraint.
+Anyone who answers in specifics has built something real.
 
-#IPStrategy #Founders #Licensing
+A full-time AI Operations lead costs £180K base plus equity.
+
+A fractional operator costs £4,500/month and ships in week two.
+
+Interview for outcomes. Not credentials.
+
+#AIOperations #FractionalExecutive #AILeadership
