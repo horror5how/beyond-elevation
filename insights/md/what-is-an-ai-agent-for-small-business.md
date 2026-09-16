@@ -123,7 +123,7 @@ Start by not building one. Pick a job that repeats 20 times a week, write the ru
 
 ### How do I get an AI agent for my business?
 
-Three routes, in rising order of cost. Switch one on inside software you already pay for, which is what the Copilot, Gemini and HubSpot credits are. Assemble one on a connector platform like Zapier or n8n, which takes a week of somebody's attention. Or have one built into your own stack by an engineer who stays long enough to hand it over. Beyond Elevation does the third, and the free audit at beyondelevation.com/call/audit exists to tell you honestly which of the three you need.
+Three routes, in rising order of cost. Switch one on inside software you already pay for, which is what the Copilot, Gemini and HubSpot credits are. Assemble one on a connector platform like Zapier or n8n, which takes a week of somebody's attention. Or have one built into your own stack by an engineer who stays long enough to hand it over. Beyond Elevation does the third. Most owners who ask us this need the first or the second, and we will say so.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
