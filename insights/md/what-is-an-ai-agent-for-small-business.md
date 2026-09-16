@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 An AI agent for a small business is software you give a goal, access to your own tools, and permission to work out the steps itself. A chatbot answers a question. An agent books the appointment, raises the invoice, or chases the carrier, then tells you it's done. The difference is who decides the order of the steps.
 
-Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. He now builds this work inside small and mid sized companies himself rather than writing a report about it, which is why the section below on what these things cost is arithmetic off published price pages rather than a vendor's brochure.
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. He now builds this work inside small and mid sized companies himself rather than writing a report about it, which is why every price below was read on the vendor's own page this week rather than taken from a brochure.
 
 ## the line between an agent and the software you already pay for
 
@@ -19,7 +19,7 @@ Anthropic publishes the cleanest version of that line we've read. Its engineerin
 
 Read that again with your own company in mind. In a workflow you decide the steps in advance and the software repeats them the same way on load 1 and load 900. With an agent the model picks the steps inside limits you set. That is more useful on messy work, and more dangerous on money.
 
-Anthropic tells its own engineers to find "the simplest solution possible, and only increasing complexity when needed". A company of nine people should take that harder than a bank does. Most of what an owner wants from an agent turns out to be a workflow, and a workflow costs less and breaks less.
+Anthropic's own advice to engineers is "finding the simplest solution possible, and only increasing complexity when needed". A company of nine people should take that harder than a bank does. Most of what an owner wants from an agent turns out to be a workflow, and a workflow costs less and breaks less.
 
 ## the four jobs small companies hand to agents in 2026
 
@@ -73,9 +73,9 @@ Friday, compare the two numbers you wrote on Monday. If the agent saved under an
 
 ## when this stops being a subscription and becomes engineering
 
-Everything above is buyable. You stop being able to buy it the moment the job crosses three systems, one of them has no usable integration, or the number you want nobody's dashboard holds. That is the week a small company either hires an engineer or gives up and keeps retyping.
+Everything above is buyable. You stop being able to buy it the moment the job crosses three systems, one of them has no usable integration, or the number you want nobody's dashboard holds. That is the week a small company does one of three things: hires an engineer, gives up and keeps retyping, or brings somebody in to build it and hand it over.
 
-Beyond Elevation does that third option. Hayat Amin goes into small and mid sized companies in New York City and across the United States as a forward deployed engineer, builds the agent or the connection inside the company's own stack rather than beside it, and leaves it running and documented instead of leaving a slide deck. You can read how the engagement works on the [forward deployed engineering page](/fde), book the build conversation at [meethayat.com/services/fde](https://meethayat.com/services/fde), or take the finance seat instead at [meethayat.com/cfo](https://meethayat.com/cfo). The broader version of this question is [how to automate your business](/insights/how-can-i-automate-my-business/), the named tools by job are in [nine jobs artificial intelligence does for a small business](/insights/how-can-ai-help-small-businesses/), and the discipline it all sits under is [AI operations](/insights/what-is-ai-operations/).
+Beyond Elevation is the third. Hayat Amin goes into small and mid sized companies in New York City and across the United States as a forward deployed engineer, builds the agent or the connection inside the company's own stack rather than beside it, and leaves it running and documented instead of leaving a slide deck. You can read how the engagement works on the [forward deployed engineering page](/fde), book the build conversation at [meethayat.com/services/fde](https://meethayat.com/services/fde), or take the finance seat instead at [meethayat.com/cfo](https://meethayat.com/cfo). The broader version of this question is [how to automate your business](/insights/how-can-i-automate-my-business/), the named tools by job are in [nine jobs artificial intelligence does for a small business](/insights/how-can-ai-help-small-businesses/), and the discipline it all sits under is [AI operations](/insights/what-is-ai-operations/).
 
 ## About Hayat Amin
 
