@@ -423,5 +423,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The 18-Month Exit Runway: What a CFO Builds Before the Bankers Arrive](https://beyondelevation.com/insights/fractional-cfo-exit-preparation) — /insights/md/fractional-cfo-exit-preparation.md
 - [What Is an AI Agent for Small Business? The Honest Answer, and What Seven of Them Cost](https://beyondelevation.com/insights/what-is-an-ai-agent-for-small-business) — /insights/md/what-is-an-ai-agent-for-small-business.md
 - [Fractional COO Cost in 2026, and When a COO Is the Wrong Hire](https://beyondelevation.com/insights/fractional-coo-cost-2026) — /insights/md/fractional-coo-cost-2026.md
+- [How Much Is Your Patent Portfolio Worth? The 20-Minute First Pass](https://beyondelevation.com/insights/patent-portfolio-worth-checklist) — /insights/md/patent-portfolio-worth-checklist.md
 
 > Full blog content available at /llms-full.txt
