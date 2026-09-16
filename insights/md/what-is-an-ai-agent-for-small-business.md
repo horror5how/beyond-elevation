@@ -69,7 +69,7 @@ Wednesday, build it on a free tier. Zapier gives you 100 tasks and 400 agent run
 
 Thursday, run it beside the person who does the job today, on live work, with the person still deciding. Count the corrections.
 
-Friday, compare the two numbers you wrote on Monday. If the agent saved under an hour across the week, kill it and pick a different job. That's not a failure, that's the test doing its job for the price of a few hours.
+Friday, compare the two numbers you wrote on Monday. If the agent saved under an hour across the week, kill it and pick a different job. Killing it there isn't a failure. It's the test doing its job for the price of a few hours.
 
 ## when this stops being a subscription and becomes engineering
 

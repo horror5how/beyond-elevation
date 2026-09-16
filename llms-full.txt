@@ -7044,17 +7044,17 @@ URL: https://beyondelevation.com/insights/when-to-hire-fractional-cfo
 
 Eighty-two per cent of failed startups cite cash-flow problems as a contributing factor, according to a 2023 CB Insights post-mortem analysis. The pattern is always the same: by the time the founder realises the numbers are wrong, the damage is already months old. Hiring a fractional CFO early is what separates a controlled fundraise from a fire drill.
 
-Hayat Amin argues that founders almost always ask the question too late. "The right moment to bring in a fractional CFO is the moment you stop understanding your own numbers, and that moment arrived three months before you noticed," Amin says. Most companies cross that line somewhere between £500K and £2M in annual revenue, long before a full-time CFO makes economic sense.
+Hayat Amin argues that founders almost always ask the question too late. "The right moment to bring in a fractional CFO is the moment you stop understanding your own numbers, and that moment arrived three months before you noticed," Amin says. Most companies cross that line somewhere between £500K and £2M in annual revenue, long before a CFO on the payroll makes economic sense.
 
 Revenue size does not decide it. Five observable breakdowns in your finance function do. If three or more apply, you are already behind.
 
-## When should you hire a fractional CFO? When nobody owns the financial model
+## When nobody owns the financial model, it is time to hire a fractional CFO
 
 You should hire a fractional CFO the moment your financial model has no owner, when your accountant files the taxes, bookkeeps the ledger, and produces statutory reports, but nobody is building the forward-looking model that drives decisions. This is the clearest signal that you have outgrown your current finance setup.
 
 Accountants are trained to look backward. They reconcile what happened. A fractional CFO looks forward: runway projections, scenario modelling, pricing impact analysis.
 
-The distinction matters because every strategic decision
+The distinction matters because every strategic decis
 
 ---
 
@@ -7066,7 +7066,7 @@ Most chief IP officer job descriptions are written by lawyers who want a senior 
 
 Hayat Amin, who has built IP functions across three continents, argues that the standard CIPO job description gets the mandate backwards: it emphasises legal risk mitigation when the primary job is commercial IP monetisation. According to Ocean Tomo's 2024 Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation, yet fewer than 12% of companies have a dedicated IP executive reporting to the C-suite. That gap between IP value and IP leadership is a governance failure most boards have not addressed.
 
-## What does a chief IP officer actually do?
+## What does a chief IP officer do?
 
 A chief IP officer owns the commercial strategy for all intellectual property, patents, trade secrets, data assets, and proprietary know-how. The role sits at the intersection of legal, finance, and business development, with a mandate centred on revenue generation, not compliance paperwork.
 
@@ -7074,7 +7074,8 @@ Most boards assume the CIPO role is an extension of the legal department. It is 
 
 - Audits and values the existing IP portfolio quarterly
 - Identifies licensing and monetisation opportunities across every asset class
-- Sets the patent filing strategy aligned to business objectives, not legal 
+- Sets the patent filing strategy aligned to business objectives, not legal habit
+- P
 
 ---
 
@@ -7102,17 +7103,17 @@ Third, whether the connection already exists as a shipped product. Most of these
 
 URL: https://beyondelevation.com/insights/fractional-cfo-exit-preparation
 
-A fractional CFO for exit preparation builds the financial infrastructure that turns due diligence from a risk event into a competitive advantage. Start 18 months before the sale, not 3 — and the difference shows in the multiple.
+A fractional CFO for exit preparation builds the financial infrastructure that turns due diligence from a risk event into a competitive advantage. Start 18 months before the sale, not 3, and the difference shows in the multiple.
 
-According to a 2025 Bain & Company Global M&A Report, companies that completed structured exit readiness programmes achieved acquisition premiums 20–35% above comparable transactions. Hayat Amin argues that most founders leave this premium on the table because they treat finance as an afterthought until the LOI arrives. By then, it is too late. The buyer's diligence team is already discounting the gaps.
+According to a 2025 Bain & Company Global M&A Report, companies that completed structured exit readiness programmes achieved acquisition premiums 20 to 35% above comparable transactions. Hayat Amin argues that most founders leave this premium on the table because they treat finance as an afterthought until the LOI arrives. By then, it is too late. The buyer's diligence team is already discounting the gaps.
 
-## Why Does Fractional CFO Exit Preparation Start 18 Months Out?
+## Why does fractional CFO exit preparation start 18 months out?
 
 Fractional CFO exit preparation starts 18 months before a sale because that is the minimum time needed to clean normalisation issues, build auditable records, and prove the trend line buyers pay for. Three months is enough to hire a banker. It is not enough to fix the numbers the banker needs to sell.
 
-Most founders think exit preparation is a project. It is not. It is a state — a way of running finance that makes every number auditable, every adjustment documented, and every growth story provable. A fractional CFO builds that state without the cost of a full-time hire who will be redundant after close.
+Most founders treat exit preparation as a project with a start date and an end date. A fractional CFO treats it as a way of running finance, one where every number is auditable, every adjustment documented, and every growth story provable, without the cost of hiring someone permanent who becomes redundant after close.
 
-The 18-month window breaks into three phases. Months 18–12: fix the foundation. Months 12–6: build the narrative. Months 6–0: execute the process. Skip the first phase and you spend t
+The 18-month window breaks into three phases. Months 18 to 12: fix the foundation. Months 12 to 6: build the narrative. Months 6 to 0: execute the process. Skip the fir
 
 ---
 
