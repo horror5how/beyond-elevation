@@ -89,7 +89,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 | T7-18 | fractional-executive-trend-2026-data | fractional executive market 2026 | The Fractional Executive Market in 2026: the Numbers Behind the Shift | Leadership | ✅ shipped 2026-09-08 |
 | T7-19 | first-ai-hire-for-non-tech-company | first AI hire non-tech company | Your First AI Hire Should Not Be a Data Scientist | AI Operations | |
 | T7-20 | fractional-cfo-exit-preparation | fractional CFO exit preparation | The 18-Month Exit Runway: What a CFO Builds Before the Bankers Arrive | CFO | ✅ shipped 2026-09-15 |
-| T7-21 | patent-portfolio-worth-checklist | how much is my patent portfolio worth | How Much Is Your Patent Portfolio Worth? The 20-Minute First Pass | IP Strategy | |
+| T7-21 | patent-portfolio-worth-checklist | how much is my patent portfolio worth | How Much Is Your Patent Portfolio Worth? The 20-Minute First Pass | IP Strategy | ✅ shipped 2026-09-16 |
 | T7-22 | license-company-data-buyers | who buys company data | Who Actually Buys Company Data, and What They Pay | Data | |
 | T7-23 | fractional-coo-cost-2026 | fractional COO cost | Fractional COO Cost in 2026, and When a COO Is the Wrong Hire | Leadership | ✅ shipped 2026-09-16 |
 | T7-24 | ai-operations-case-study-metrics | AI operations results | What Good AI Operations Results Look Like: Before-and-After Numbers | AI Operations | |
