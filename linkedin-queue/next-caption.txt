@@ -1,11 +1,17 @@
-Most board packs are 40 slides. Investors read 4.
+Your data earns £0 a year. Here is who pays for it.
 
-The 4 they always open: 13-week cash runway. Revenue vs forecast delta. Churn rate. Headcount cost per £1M revenue.
+AI training labs: £50–£2,000 per 1,000 rows. Structured behavioural data.
 
-The 36 they skip: everything else.
+Financial data vendors: £50K–£2M/yr. Proprietary feeds.
 
-Build your board pack backwards. Start with what a buyer uses in due diligence, not what makes you look busy.
+Market intelligence firms: £0.08–£0.40 per enriched record.
 
-A fractional CFO builds the pack that works in a Series B room and a sale process simultaneously.
+Healthcare AI companies: £200K–£1M for labelled clinical datasets.
 
-#FractionalCFO #BoardPack #StartupFinance
+Strategic acquirers: 2–4x revenue premium for documented data assets.
+
+You built the asset. Nobody sent you the invoice template.
+
+Map your data. Put buyers next to it. Send the invoice.
+
+#DataMonetisation #IPStrategy #DataAssets
