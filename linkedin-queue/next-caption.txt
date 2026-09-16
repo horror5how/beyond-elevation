@@ -1,21 +1,11 @@
-You're about to hire your next ops person.
+Most board packs are 40 slides. Investors read 4.
 
-Stop.
+The 4 they always open: 13-week cash runway. Revenue vs forecast delta. Churn rate. Headcount cost per £1M revenue.
 
-These 5 processes will cost you that salary every year until someone automates them:
+The 36 they skip: everything else.
 
-Invoice matching and three-way reconciliation
+Build your board pack backwards. Start with what a buyer uses in due diligence, not what makes you look busy.
 
-New hire onboarding task management
+A fractional CFO builds the pack that works in a Series B room and a sale process simultaneously.
 
-Customer query triage and first-draft responses
-
-Monthly management reporting pack
-
-Contract expiry tracking and renewal alerts
-
-One fractional AI Operations lead. 90 days. £160K saved annually.
-
-That's the real hire decision.
-
-#AIOperations #FractionalExecutive #ScaleUp
+#FractionalCFO #BoardPack #StartupFinance
