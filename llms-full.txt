@@ -7115,3 +7115,21 @@ Most founders think exit preparation is a project. It is not. It is a state — 
 The 18-month window breaks into three phases. Months 18–12: fix the foundation. Months 12–6: build the narrative. Months 6–0: execute the process. Skip the first phase and you spend t
 
 ---
+
+## What Is an AI Agent for Small Business? The Honest Answer, and What Seven of Them Cost
+
+URL: https://beyondelevation.com/insights/what-is-an-ai-agent-for-small-business
+
+An AI agent for a small business is software you give a goal, access to your own tools, and permission to work out the steps itself. A chatbot answers a question. An agent books the appointment, raises the invoice, or chases the carrier, then tells you it's done. The difference is who decides the order of the steps.
+
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. He now builds this work inside small and mid sized companies himself rather than writing a report about it, which is why the section below on what these things cost is arithmetic off published price pages rather than a vendor's brochure.
+
+## the line between an agent and the software you already pay for
+
+Anthropic publishes the cleanest version of that line we've read. Its engineering guidance calls workflows "systems where LLMs and tools are orchestrated through predefined code paths", and agents "systems where LLMs dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks."
+
+Read that again with your own company in mind. In a workflow you decide the steps in advance and the software repeats them the same way on load 1 and load 900. With an agent the model picks the steps inside limits you set. That is more useful on messy work, and more dangerous on money.
+
+Anthropic tells its own engineers to find "the simplest solution possible, and only increasing complexity when needed". A company of nine people should take that
+
+---

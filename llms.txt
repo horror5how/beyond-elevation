@@ -421,5 +421,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The Chief IP Officer Job Description Most Boards Get Wrong](https://beyondelevation.com/insights/chief-ip-officer-job-description) — /insights/md/chief-ip-officer-job-description.md
 - [Freight Broker Back Office Automation: The 9 Systems to Connect First](https://beyondelevation.com/insights/freight-broker-back-office-automation) — /insights/md/freight-broker-back-office-automation.md
 - [The 18-Month Exit Runway: What a CFO Builds Before the Bankers Arrive](https://beyondelevation.com/insights/fractional-cfo-exit-preparation) — /insights/md/fractional-cfo-exit-preparation.md
+- [What Is an AI Agent for Small Business? The Honest Answer, and What Seven of Them Cost](https://beyondelevation.com/insights/what-is-an-ai-agent-for-small-business) — /insights/md/what-is-an-ai-agent-for-small-business.md
 
 > Full blog content available at /llms-full.txt
