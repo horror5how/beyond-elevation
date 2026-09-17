@@ -1,17 +1,16 @@
-Your data earns £0 a year. Here is who pays for it.
+Your board approved an AI budget. No director can evaluate if it's working.
 
-AI training labs: £50–£2,000 per 1,000 rows. Structured behavioural data.
+88% of S&P 500 boards have zero members with hands-on AI execution experience.
 
-Financial data vendors: £50K–£2M/yr. Proprietary feeds.
+They approve the roadmap. They cannot challenge the assumptions.
 
-Market intelligence firms: £0.08–£0.40 per enriched record.
+When your AI team reports "on track," nobody in the room asks the right question.
 
-Healthcare AI companies: £200K–£1M for labelled clinical datasets.
+3 questions every board must answer before approving AI spend:
+— What exactly are we measuring?
+— Which processes are automated vs. augmented?
+— Who owns accountability when AI makes a bad decision?
 
-Strategic acquirers: 2–4x revenue premium for documented data assets.
+No to any of those and you don't have an AI strategy. You have a spend.
 
-You built the asset. Nobody sent you the invoice template.
-
-Map your data. Put buyers next to it. Send the invoice.
-
-#DataMonetisation #IPStrategy #DataAssets
+#AI #BoardGovernance #AIOperations
