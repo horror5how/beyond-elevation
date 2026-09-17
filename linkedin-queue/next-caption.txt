@@ -1,21 +1,21 @@
-Most "AI consultants" have never shipped a live agent to production.
+Big-4 consultancy project: £120K. Fractional CFO retainer: £4,500/month.
 
-You need an operator, not an advisor.
+Same problem. 10x price gap.
 
-3 questions that separate them in 30 minutes:
+Most founders don't know the difference until they've paid for both.
 
-What failed in your last AI rollout — and why?
+A consultancy bills for time and sends a deck.
 
-What was the first workflow you automated and how did you measure it?
+A fractional executive owns the outcome.
 
-Which processes still have humans in the loop and why?
+3 signs you bought the wrong one:
 
-Anyone who answers in specifics has built something real.
+The team handed over a report and left.
 
-A full-time AI Operations lead costs £180K base plus equity.
+The same problem is back 18 months later.
 
-A fractional operator costs £4,500/month and ships in week two.
+You paid for expertise but got process documentation.
 
-Interview for outcomes. Not credentials.
+The model isn't the credential. It's the accountability.
 
-#AIOperations #FractionalExecutive #AILeadership
+#FractionalCFO #Fractional #Leadership
