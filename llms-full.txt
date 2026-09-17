@@ -7168,3 +7168,19 @@ Here is the 20-minute first pass that tells you whether your portfolio is a liab
 Most patent portfolio valuations fail because they begin with the wrong input: filing cost. What you spent prosecuting a patent bears no relationship to what a licensee would pay to use the underlying technology. A £30,000 filing on a narrow claim no competitor will ever practise is worth zero. A £12,000 provisi
 
 ---
+
+## AI for Property Management Companies: the 9 Operations Worth Automating First
+
+URL: https://beyondelevation.com/insights/ai-for-property-management-companies
+
+AI earns its place in a property management company at nine specific jobs, and every one of them sits where two systems refuse to talk. The leasing enquiry that lands at 6.40pm, the maintenance call at 2am, and the owner statement nobody can produce until the 8th are the three that pay for the other six. The rest of what gets sold into this market is a demo.
+
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer. He now builds this work inside small and mid sized companies himself rather than writing a report about it, which is why every price below was read on the vendor's own page this week, and why we say so plainly when a vendor publishes no number at all.
+
+## which property management companies this pays for
+
+Four symptoms qualify a company. Your leasing enquiries, your work orders and your ledger sit in three different products, and a person carries data between them by hand. The open API you need to join them up is one plan above the one you bought. You cannot see collections, delinquency or maintenance spend until somebody assembles the report after month end. And your after hours line rings through to a human being who is asleep.
+
+The second of those is the most expensive and the least discussed. Buildium sells Essential from 62 dollars a month, Growth from 192 dollars a month and Premium from 400 dollars a month, and puts its open API on Premium only. DoorLoop sells Starter at 69 dollars a month, Pro at 149 and Premium a
+
+---
