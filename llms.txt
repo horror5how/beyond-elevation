@@ -425,5 +425,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional COO Cost in 2026, and When a COO Is the Wrong Hire](https://beyondelevation.com/insights/fractional-coo-cost-2026) — /insights/md/fractional-coo-cost-2026.md
 - [How Much Is Your Patent Portfolio Worth? The 20-Minute First Pass](https://beyondelevation.com/insights/patent-portfolio-worth-checklist) — /insights/md/patent-portfolio-worth-checklist.md
 - [AI for Property Management Companies: the 9 Operations Worth Automating First](https://beyondelevation.com/insights/ai-for-property-management-companies) — /insights/md/ai-for-property-management-companies.md
+- [Who Actually Buys Company Data, and What They Pay](https://beyondelevation.com/insights/license-company-data-buyers) — /insights/md/license-company-data-buyers.md
 
 > Full blog content available at /llms-full.txt

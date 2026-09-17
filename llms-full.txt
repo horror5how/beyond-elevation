@@ -7184,3 +7184,19 @@ Four symptoms qualify a company. Your leasing enquiries, your work orders and yo
 The second of those is the most expensive and the least discussed. Buildium sells Essential from 62 dollars a month, Growth from 192 dollars a month and Premium from 400 dollars a month, and puts its open API on Premium only. DoorLoop sells Starter at 69 dollars a month, Pro at 149 and Premium a
 
 ---
+
+## Who Actually Buys Company Data, and What They Pay
+
+URL: https://beyondelevation.com/insights/license-company-data-buyers
+
+Six categories of buyers actively purchase company data in 2026: private equity firms running market diligence, AI companies acquiring training sets, data aggregators building commercial indices, hedge funds seeking alternative alpha, consultancies packaging vertical benchmarks, and corporate development teams mapping acquisition targets. Prices range from £5,000 for aggregated benchmark reports to seven-figure annual licences for proprietary, real-time data feeds.
+
+Most founders never discover these buyers exist. According to Grand View Research, the global data monetisation market hit $4.2 billion in 2025 and is growing at 24% CAGR — yet fewer than 8% of mid-market companies have explored selling or licensing their operational data. Hayat Amin argues this is the single largest uncaptured revenue line in most technology businesses: "Every company with more than two years of operational data is sitting on a licensable asset. The question is not whether buyers exist. The question is whether the company knows what it owns."
+
+Beyond Elevation built the data licensing framework DGS used to turn a dormant telecom data layer into a seven-figure recurring revenue stream. The same buyer categories that closed that deal are actively purchasing data across every vertical.
+
+## Who Buys Company Data, and What Are They Looking For?
+
+Six distinct buyer categories purchase company data, each with different requirements, budgets, and use cases. Understanding who buys company data starts with
+
+---
