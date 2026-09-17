@@ -695,3 +695,4 @@ board-pack-what-investors-want-2026
 license-company-data-buyers
 board-ai-capability-gap
 fractional-executive-vs-consultancy-fees
+fractional-ip-strategist-startups
