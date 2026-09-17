@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Freight Broker Back Office Automation: The 9 Systems to Connect First
 
-Freight broker back office automation is the work of joining the systems your brokerage already pays for, so that a load entered once stops being retyped by a person in three other places. Nine connections do almost all of it, and the transportation management system is what they all connect to. This is that list, in the order it pays back.
+Freight broker back office automation is the work of joining the systems your brokerage already pays for, so a load entered once stops being retyped by a person in three other places. Nine connections do almost all of it, and the transportation management system is what they all connect to. This is that list, in the order it pays back.
 
 Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. Joining systems that refuse to talk to each other, and putting the margin that falls out of them on a screen a chief executive can read on a Tuesday, is the work he now builds inside companies himself rather than writing a report about. The ordering below comes from that chair rather than a vendor's.
 
@@ -19,7 +19,7 @@ Three tests, applied in this order.
 
 First, how often a person retypes something across the gap. A connection that removes keystrokes on every load beats one that removes them once a month, whatever the second one costs.
 
-Second, whether the gap costs money directly rather than only time. An insurance certificate that expired while the freight was moving, and a carrier invoice that sat in an inbox for nine days before anyone could bill the shipper, are not inconvenience. One is a claim and the other is working capital.
+Second, whether the gap costs money directly rather than only time. An insurance certificate that expired while the freight was moving, and a carrier invoice that sat in an inbox for nine days before anyone could bill the shipper, cost more than time. One is a claim, the other is working capital.
 
 Third, whether the connection already exists as a shipped product. Most of these do. Paying an engineer to rebuild what a vendor supports natively is the most common way a brokerage burns its first automation budget.
 
@@ -43,7 +43,7 @@ Connected properly, a covered load stops existing twice. The posting comes down 
 
 ### 2. Carrier vetting and continuous monitoring
 
-This one sits second because the gap costs money rather than time. Highway states the case on its own site plainly: "One-time onboarding creates blind spots. A carrier approved yesterday may not meet your standard today." Highway lists transportation management system integrations with McLeod, Turvo, Mastery, Tai Software, Alvys, Transport Pro, Ascend and Revenova. Truckstop sells RMIS for onboarding and risk management. DAT bundles CarrierWatch into its Broker TMS.
+This one sits second because the gap costs money rather than time. Highway states the case on its own site plainly: "Onboarding once creates blind spots. A carrier approved yesterday may not meet your standard today." Highway lists transportation management system integrations with McLeod, Turvo, Mastery, Tai Software, Alvys, Transport Pro, Ascend and Revenova. Truckstop sells RMIS for onboarding and risk management. DAT bundles CarrierWatch into its Broker TMS.
 
 Underneath all of them is a free federal source most brokerages already know and few have wired into anything. The Federal Motor Carrier Safety Administration's SAFER Company Snapshot is, in its own words, "a concise electronic record of a company's identification, size, commodity information, and safety record, including the safety rating (if any), a roadside out-of-service inspection summary, and crash information", searchable by DOT number, MC or MX number or company name, and available "via an ad-hoc query (one carrier at a time) free of charge".
 
@@ -63,7 +63,7 @@ The thing this removes is the check call. A person ringing a driver to ask where
 
 QuickBooks Online is where most small and mid sized American brokerages keep the books, and Intuit publishes the price: Simple Start at 38 dollars a month, Essentials at 85, Plus at 140 and Advanced at 340. McLeod PowerBroker integrates with it directly. Tai Software describes its own QuickBooks sync as moving invoices, bills, payments, commissions and factoring transactions across without a second keystroke.
 
-This is the classic double entry problem and it is worth naming precisely. Financial facts are born in operations, in the load, and then a person recreates them in accounting. Every recreation is a chance to be wrong, and the errors surface at reconciliation, weeks later, when nobody remembers the load.
+This is the classic double entry problem. Financial facts are born in operations, in the load, and then a person recreates them in accounting. Every recreation is a chance to be wrong, and the errors surface at reconciliation, weeks later, when nobody remembers the load.
 
 **Wrong for:** a brokerage whose transportation management system already carries a full general ledger. DAT Broker TMS states that it combines operations and accounting in one system. Bolting a second ledger onto that creates exactly the gap you were trying to close.
 
@@ -71,7 +71,7 @@ This is the classic double entry problem and it is worth naming precisely. Finan
 
 TriumphPay handles broker to carrier payment and offers carriers StandardPay, QuickPay, ACH, check or wire, with same-day funding. Truckstop runs factoring products for carriers and for brokers. The connection worth making is between the load record, the ledger and the payment rail, so that a delivered and documented load becomes a scheduled payment without a settlements clerk assembling it by hand.
 
-What goes away is the "where is my money" call, which is a cost you pay twice. It costs the clerk's hour, and it costs you with the carrier who now prices your freight for the aggravation.
+The "where is my money" call goes away, and that call is a cost you pay twice. It costs the clerk's hour, and it costs you with the carrier who now prices your freight for the aggravation.
 
 **Wrong for:** a brokerage paying a small settled carrier base on standard terms straight out of the same ledger. If settlements take an afternoon a week, the integration is not your bottleneck.
 
@@ -95,9 +95,9 @@ For most brokerages the largest gap between delivery and cash is the days betwee
 
 Customer relationship management is where the second customer list lives. Revenova builds its broker transportation management system on Salesforce, which is one answer to the problem. DAT Broker TMS carries a CRM sales module. McLeod lists appointment scheduling, SMS and VoIP telephone integrations among its supported categories, which is the same integration in a different direction: the conversation attached to the account.
 
-Connected, a salesperson sees what the customer actually shipped rather than what they said they would, and the person covering the load sees what was promised. Those two views being different is the origin of a surprising share of service failures.
+Connected, a salesperson sees what the customer shipped rather than what they said they would, and the person covering the load sees what was promised. Those two views being different is the origin of a surprising share of service failures.
 
-**Wrong for:** a brokerage where one person owns every customer relationship and genuinely carries it in their head. That is a real operating model and it works, right up until the second salesperson starts.
+Wrong for: a brokerage where one person owns every customer relationship and carries it in their head. That is a real operating model and it works, right up until the second salesperson starts.
 
 ### 9. The live number
 
@@ -105,9 +105,9 @@ This one is last because it is impossible first. Once the eight connections abov
 
 The decision this changes is specific. A lane going underwater is a thing you can act on in week one, by repricing it or declining the next tender. Discovering it in the second week of the following month is history, not information. Brokerage margin is thin enough that those two timings are the difference between a correction and a write-off.
 
-**Wrong for:** a brokerage that has not done the eight connections above. A dashboard built on disconnected systems is an expensive picture of one of them.
+Wrong for: a brokerage that has not done the eight connections above. A dashboard built on disconnected systems is an expensive picture of one of them.
 
-## How to read the vendors' numbers
+## Reading the vendors' numbers
 
 Every company named here publishes a figure. Tai Software says its platform saves brokers an average of eleven hours a week, cuts billing cycle time by an average of 65 percent and grows load volume by 30 percent without growing overhead. Highway says 99.9 percent fraud reduction when the process is followed. DAT carries a customer testimonial saying "DAT Broker TMS helped us double our revenue with half the staff."
 
@@ -125,7 +125,7 @@ That is the work Beyond Elevation does. Hayat Amin goes into small and mid sized
 
 Hayat Amin has spent twenty years in technology, most of it in the chief financial officer's seat. He has sold three companies as CFO, with American Express and TripAdvisor among the buyers, and taken three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit, which is an unusual place to have learned about operations, and it is the reason he now builds them rather than advising on them.
 
-Hayat Amin is exceptional at connecting systems that do not talk to each other, and at building the real-time dashboards a chief executive can run the week on. That is the subject of this article. He is a chief financial officer turned forward deployed engineer, which means he writes the integration himself and then answers for it, rather than producing a recommendation and leaving. He also works on intellectual property and data asset valuation and monetisation, which is the same instinct applied to the assets nobody has put a number on.
+Hayat Amin is exceptional at connecting systems that do not talk to each other, and at building the dashboards a chief executive can run the week on. That is the subject of this article. He is a chief financial officer turned forward deployed engineer, which means he writes the integration himself and then answers for it, rather than producing a recommendation and leaving. He also works on intellectual property and data asset valuation and monetisation, which is the same instinct applied to the assets nobody has put a number on.
 
 He is available now for fractional CFO and AI operations work through Beyond Elevation, and takes the scoping calls himself at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 

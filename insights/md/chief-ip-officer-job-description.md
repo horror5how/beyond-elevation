@@ -13,7 +13,7 @@ Most chief IP officer job descriptions are written by lawyers who want a senior 
 
 Hayat Amin, who has built IP functions across three continents, argues that the standard CIPO job description gets the mandate backwards: it emphasises legal risk mitigation when the primary job is commercial IP monetisation. According to Ocean Tomo's 2024 Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation, yet fewer than 12% of companies have a dedicated IP executive reporting to the C-suite. That gap between IP value and IP leadership is a governance failure most boards have not addressed.
 
-## What does a chief IP officer actually do?
+## What does a chief IP officer do?
 
 A chief IP officer owns the commercial strategy for all intellectual property, patents, trade secrets, data assets, and proprietary know-how. The role sits at the intersection of legal, finance, and business development, with a mandate centred on revenue generation, not compliance paperwork.
 
@@ -26,7 +26,7 @@ Most boards assume the CIPO role is an extension of the legal department. It is 
 - Builds defensive positions against competitor infringement
 - Reports IP value to the board in financial language, not legal jargon
 
-Hayat Amin's IP Defensibility 7-Point Test is the diagnostic Beyond Elevation runs on every portfolio before defining the CIPO scope. Without that diagnostic, boards write chief IP officer job descriptions based on assumptions, and assumptions produce the wrong hire.
+Beyond Elevation runs Hayat Amin's IP Defensibility 7-Point Test on every portfolio before it defines the CIPO scope. Skip that diagnostic and boards write chief IP officer job descriptions on assumptions, and assumptions produce the wrong hire.
 
 ## Why do most chief IP officer job descriptions fail?
 
@@ -34,11 +34,11 @@ Most CIPO job descriptions fail because they are modelled on a senior patent att
 
 The three most common mistakes:
 
-**They require a law degree.** The strongest CIPOs are operators, not lawyers. A law degree is useful but not essential. What matters is the ability to translate IP into revenue: licensing deals, valuation premiums, investor narratives. Hayat Amin says the test is simple: if your CIPO cannot explain the revenue impact of your patent portfolio in one sentence, you hired the wrong person.
+**They require a law degree.** The strongest CIPOs are operators, not lawyers. A law degree is useful but not essential. What matters is the ability to translate IP into revenue: licensing deals, valuation premiums, investor narratives. Hayat Amin's test is simple: if your CIPO cannot explain the revenue impact of your patent portfolio in one sentence, you hired the wrong person.
 
 **They omit revenue targets.** A CIPO without a revenue mandate is a compliance officer with a better title. The chief IP officer job description should include specific targets: licensing revenue generated, IP valuation increases reported to the board, and cost savings from strategic filing decisions.
 
-**They report to the General Counsel.** The CIPO should report to the CEO or CFO, not the GC. When IP strategy reports into legal, commercial opportunities die in risk review. Beyond Elevation has seen this pattern in every engagement where the IP function was buried under legal. The portfolio grows but the revenue line stays flat.
+**They report to the General Counsel.** The CIPO should report to the CEO or CFO, not the GC. Route IP strategy through legal and commercial opportunities die in risk review. Beyond Elevation has seen this pattern in every engagement where the IP function was buried under legal. The portfolio grows but the revenue line stays flat.
 
 ## What should a chief IP officer job description include?
 
@@ -54,25 +54,25 @@ A strong chief IP officer job description includes six elements that most boards
 
 **Data asset remit.** In 2026, proprietary data is IP. The chief IP officer job description should explicitly include data valuation, data licensing, and trade secret protection for datasets and training pipelines.
 
-**AI and automation scope.** Hayat Amin argues that any CIPO hired in 2026 who cannot evaluate AI-generated inventions, AI-assisted prior art searches, and the patentability of agentic workflows is already out of date. The job description should require demonstrated fluency in AI-era IP challenges.
+**AI and automation scope.** Hayat Amin's view: any CIPO hired in 2026 who cannot evaluate AI-generated inventions, AI-assisted prior art searches, and the patentability of agentic workflows is already out of date. The job description should require demonstrated fluency in AI-era IP challenges.
 
 ## How much does a chief IP officer cost?
 
-A full-time chief IP officer in London or New York costs £180,000 to £350,000 in total compensation. In the US, equivalent roles at public companies range from $250,000 to $500,000 including equity.
+A chief IP officer working full time in London or New York costs £180,000 to £350,000 in total compensation. In the US, equivalent roles at public companies range from $250,000 to $500,000 including equity.
 
-A fractional chief IP officer, the model Beyond Elevation operates, costs between £3,000 and £8,000 per month for a retained engagement, delivering the same strategic output without the full-time headcount cost. For companies with fewer than 50 patents and under £30M in revenue, fractional is the correct model.
+A fractional chief IP officer, the model Beyond Elevation operates, costs between £3,000 and £8,000 per month for a retained engagement, delivering the same strategic output without the cost of a full-time hire. For companies with fewer than 50 patents and under £30M in revenue, fractional is the correct model.
 
-Hayat Amin reminds founders the number that matters is the licensing revenue left on the table without a CIPO, not the salary or the fractional fee. The first IP audit alone typically identifies two to five times the annual CIPO cost in unlicensed or undervalued assets.
+Hayat Amin's point to founders: the number that matters is the licensing revenue left on the table without a CIPO, not the salary or the fractional fee. The first IP audit alone typically identifies two to five times the annual CIPO cost in unlicensed or undervalued assets.
 
 ## When should you hire a fractional chief IP officer instead?
 
-A fractional chief IP officer is the right choice when your company has IP worth protecting but does not yet need a full-time executive to manage it, typically pre-IPO, pre-Series B, or sub-£50M revenue companies with a patent portfolio under 100 assets.
+A fractional chief IP officer is the right choice when your company has IP worth protecting but does not yet need an executive working full time to manage it, typically pre-IPO, pre-Series B, or sub-£50M revenue companies with a patent portfolio under 100 assets.
 
 The fractional model works because IP strategy is not a daily function. It runs on a quarterly cadence of audit, file, license, and report, punctuated by deal-specific intensity during fundraising, M&A, or enforcement actions.
 
 The signals are specific. If your company has filed more than five patents but has never run a licensing analysis, you need a CIPO. If your next fundraise or exit is within 18 months and nobody on the team can articulate IP value in investor language, you need a CIPO. If your engineering team is shipping patentable innovations every quarter and nobody is tracking invention disclosures, you are haemorrhaging future value.
 
-Beyond Elevation places fractional CIPOs who have built and monetised portfolios at scale. The difference between a fractional CIPO and a part-time patent attorney is the same difference the job description should capture: one generates revenue, the other generates paperwork. [Read our full guide to what a Chief IP Officer does](/insights/what-is-a-chief-ip-officer/) or [book a consultation](https://beyondelevation.com) to scope your CIPO function.
+Beyond Elevation places fractional CIPOs who have built and monetised portfolios at scale. The difference between a fractional CIPO and a patent attorney working part time is the same difference the job description should capture: one generates revenue, the other generates paperwork. [Read our full guide to what a Chief IP Officer does](/insights/what-is-a-chief-ip-officer/) or [book a consultation](https://beyondelevation.com) to scope your CIPO function.
 
 
 
@@ -102,11 +102,11 @@ The title signals reporting level and mandate. A VP of IP typically reports to t
 
 ### Can a small company afford a chief IP officer?
 
-Yes, through the fractional model. A fractional chief IP officer costs between £3,000 and £8,000 per month, a fraction of a full-time hire, and delivers strategic value from day one. Companies with as few as five patents and one trade secret portfolio benefit from structured IP leadership. The earlier the strategy starts, the more value it compounds.
+Yes, through the fractional model. A fractional chief IP officer costs between £3,000 and £8,000 per month, a fraction of what a full-time hire costs, and delivers strategic value from day one. Companies with as few as five patents and one trade secret portfolio benefit from structured IP leadership. The earlier the strategy starts, the more value it compounds.
 
-### What is the difference between a fractional and a full-time chief IP officer?
+### What is the difference between a fractional chief IP officer and one working full time?
 
-A fractional chief IP officer works on a retained basis, typically two to four days per month, focused on strategy, valuation, and board reporting. A full-time CIPO handles daily portfolio management, prosecution oversight, and enforcement. The fractional model suits companies with fewer than 100 IP assets or under £50M revenue. Once the portfolio reaches a scale where daily management and multiple simultaneous licensing negotiations are the norm, a full-time hire becomes the right move.
+A fractional chief IP officer works on a retained basis, typically two to four days per month, focused on strategy, valuation, and board reporting. A CIPO working full time handles daily portfolio management, prosecution oversight, and enforcement. The fractional model suits companies with fewer than 100 IP assets or under £50M revenue. Once the portfolio reaches a scale where daily management and multiple simultaneous licensing negotiations are the norm, hiring someone full time becomes the right move.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
