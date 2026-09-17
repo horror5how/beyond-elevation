@@ -7200,3 +7200,19 @@ Beyond Elevation built the data licensing framework DGS used to turn a dormant t
 Six distinct buyer categories purchase company data, each with different requirements, budgets, and use cases. Understanding who buys company data start
 
 ---
+
+## Your First AI Hire Should Not Be a Data Scientist
+
+URL: https://beyondelevation.com/insights/first-ai-hire-for-non-tech-company
+
+Your first AI hire at a non-tech company should be an operations person who knows how to rewire workflows — not a data scientist who builds models nobody asked for. According to Gartner's 2025 AI in the Enterprise survey, 74% of non-tech companies that hired a data scientist as their first AI role reported no measurable ROI within 18 months. The problem is not the person. The problem is the sequence.
+
+Hayat Amin argues this is the most expensive hiring mistake a non-tech CEO can make: "You are hiring someone who needs infrastructure that does not exist, to build models for problems that do not need models. The first AI hire should be an operator who can deploy what already works." Beyond Elevation places fractional AI Operations operators into non-tech companies for exactly this reason. The companies that get AI right start with operations, not research.
+
+## Why Do Non-Tech Companies Hire Data Scientists First?
+
+Non-tech companies hire data scientists first because they copy Big Tech playbooks built on Big Tech infrastructure. Google, Amazon, and Meta hired data scientists because they already had petabytes of structured data, production ML pipelines, and engineering teams to deploy models. A mid-market manufacturer, logistics firm, or professional services business has none of that — and the mismatch destroys the hire.
+
+The pattern repeats across industries. A CEO reads about AI transformation, approves a £100,000-plus hire, brings in a data scientist with a PhD, and expects
+
+---
