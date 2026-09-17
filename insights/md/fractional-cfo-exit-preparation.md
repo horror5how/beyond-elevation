@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # The 18-Month Exit Runway: What a CFO Builds Before the Bankers Arrive
 
-A fractional CFO for exit preparation builds the financial infrastructure that turns due diligence from a risk event into a competitive advantage. Start 18 months before the sale, not 3, and the difference shows in the multiple.
+A fractional CFO for exit preparation builds the financial infrastructure that due diligence actually tests. Start 18 months before the sale, not 3, and the difference shows in the multiple.
 
 According to a 2025 Bain & Company Global M&A Report, companies that completed structured exit readiness programmes achieved acquisition premiums 20 to 35% above comparable transactions. Hayat Amin argues that most founders leave this premium on the table because they treat finance as an afterthought until the LOI arrives. By then, it is too late. The buyer's diligence team is already discounting the gaps.
 
@@ -17,7 +17,7 @@ According to a 2025 Bain & Company Global M&A Report, companies that completed s
 
 Fractional CFO exit preparation starts 18 months before a sale because that is the minimum time needed to clean normalisation issues, build auditable records, and prove the trend line buyers pay for. Three months is enough to hire a banker. It is not enough to fix the numbers the banker needs to sell.
 
-Most founders treat exit preparation as a project with a start date and an end date. A fractional CFO treats it as a way of running finance, one where every number is auditable, every adjustment documented, and every growth story provable, without the cost of hiring someone permanent who becomes redundant after close.
+Most founders treat exit preparation as a project with a start date and an end date. A fractional CFO treats it as how finance runs day to day: the numbers stay auditable, the adjustments stay documented, and the growth story holds together, without the cost of hiring someone permanent who becomes redundant after close.
 
 The 18-month window breaks into three phases. Months 18 to 12: fix the foundation. Months 12 to 6: build the narrative. Months 6 to 0: execute the process. Skip the first phase and you spend the last six months explaining problems instead of negotiating terms.
 
@@ -45,7 +45,7 @@ Hayat Amin's Exit Readiness Diagnostic is the framework Beyond Elevation runs on
 
 Between months 12 and 6, a fractional CFO turns cleaned financials into the story that drives valuation, a confidential information memorandum backed by data a buyer can independently verify. Numbers alone do not sell a company. The trend line, the margin trajectory, and the growth wedge do.
 
-This is where fractional CFO exit preparation separates from routine finance. A monthly close is operational hygiene. An exit narrative is strategic positioning. The fractional CFO builds:
+This is where fractional CFO exit preparation differs from routine finance. A monthly close keeps the books tidy. An exit narrative sells the company. The fractional CFO builds:
 
 **A three-year financial model.** Revenue bridges, expense waterfall, capex plan, and sensitivity analysis. The model must be internally consistent and reconcile to historical actuals. Any disconnect gives the buyer a lever to renegotiate.
 
@@ -63,21 +63,21 @@ The CFO's job shifts from building to defending. Every number in the CIM gets te
 
 Hayat Amin's rule on exit timing is direct: if the buyer's team finds a material issue during diligence that you did not disclose, it damages your credibility. Credibility is what closes deals at full price.
 
-## Why fractional instead of full-time for exit preparation?
+## Why fractional instead of a permanent CFO for exit preparation?
 
 A fractional CFO for exit preparation costs between £3,000 and £8,000 per month, a fraction of the £180,000, £250,000 annual salary of a full-time CFO. For a company with £5 to 30 million in revenue preparing for sale, the fractional model delivers the expertise without the overhead. After close, the engagement ends cleanly. No severance, no redundancy, no awkward conversation about the role disappearing post-acquisition.
 
-There's a second advantage most founders miss: a fractional CFO who's been through several exits brings pattern recognition an inexperienced CFO doesn't have. They've seen the diligence questions before. They know which adjustments buyers accept and which they reject, and when a buyer is testing them versus actually negotiating. That experience compresses timelines and protects value.
+There's a second advantage most founders miss: a fractional CFO who's been through several exits brings pattern recognition an inexperienced CFO doesn't have. They've seen the diligence questions before. They know which adjustments buyers accept, which they reject, and when a buyer is testing them rather than negotiating. That experience compresses timelines and protects value.
 
 Beyond Elevation places fractional CFOs with exit experience into companies 12 to 24 months before a planned sale. The operator stays through close, then steps out, so there's no ongoing cost and no headcount sitting on the buyer's integration plan, just clean numbers and a closed deal.
 
-## Where founders get exit finance wrong
+## Two mistakes founders make with exit finance
 
 The most expensive mistake is treating exit preparation as a one-month sprint. Founders call an accountant, ask for "clean financials," and assume the job is done. It is not. Clean financials are the starting point. The buyer's diligence team spends 6 to 12 weeks after that pulling every thread.
 
 The second mistake is assuming the banker handles finance. Bankers run the process, market the company, and negotiate terms. They do not fix your revenue recognition policy, reconcile your cap table, or build your QofE defence. That is the CFO's job, and if no CFO exists, the founder does it badly or it does not get done at all.
 
-Hayat Amin says the founders who land the highest exit multiples don't win on product. They win because their financial house can survive scrutiny. A buyer paying 8x EBITDA isn't buying your vision, they're buying numbers they trust.
+Hayat Amin says the founders who land the highest exit multiples win because their financial house can survive scrutiny. A buyer paying 8x EBITDA is buying numbers they trust.
 
 Book a free exit readiness review with [Beyond Elevation](https://beyondelevation.com) and find out where your finance function stands before the bankers arrive.
 
@@ -105,7 +105,7 @@ An investment banker markets your company to buyers and negotiates deal terms. A
 
 ### How much does a fractional CFO for exit preparation cost?
 
-Typically £3,000 to £8,000 a month, depending on company complexity, deal size and time commitment. Over an 18-month engagement, total cost runs £54,000 to £144,000, roughly half what a full-time CFO costs in a year, and a fraction of the value a well-run exit process protects.
+Typically £3,000 to £8,000 a month, depending on company complexity, deal size and time commitment. Over an 18-month engagement, total cost runs £54,000 to £144,000, roughly half what a full-time CFO costs in a year, and a fraction of the value a solid exit process protects.
 
 ### Can a fractional CFO stay through deal closing?
 

@@ -35,9 +35,9 @@ Working the customer record. Salesforce publishes Agentforce at 2 dollars per co
 
 Every price in the last section is charged on a different clock. We counted seven meters across six vendors this week: per seat, per outcome, per conversation, per credit, per task, per execution, and per hour of runtime. Anthropic's Managed Agents are billed at 0.08 dollars per session-hour of active runtime, alongside Claude Pro at 17 dollars a month annually or 20 monthly, a Team seat at 20 annually or 25 monthly, a premium seat at 100 or 125, and Enterprise at 20 dollars a seat plus usage at application programming interface rates.
 
-Here is why an owner should care. A seat price is flat, so it rewards you for using the thing until it hurts. An outcome price or a conversation price climbs with your own success, so a good month on marketing arrives as a bigger bill on support.
+Owners should care about the difference. A seat price is flat, so it rewards you for using the thing until it hurts. An outcome price or a conversation price climbs with your own success, so a good month on marketing arrives as a bigger bill on support.
 
-Put 4,000 support conversations a month through Agentforce at the published 2 dollars and you are looking at 8,000 dollars a month before seats. Put the same 4,000 through Fin at 0.99 dollars an outcome and it is 3,960 dollars, assuming every conversation resolves, which it won't. That arithmetic is ours, off published rates, and neither company has quoted it. The point stands anyway: pick the meter that matches how your business grows, then negotiate the number.
+Put 4,000 support conversations a month through Agentforce at the published 2 dollars and you are looking at 8,000 dollars a month before seats. Put the same 4,000 through Fin at 0.99 dollars an outcome and it is 3,960 dollars, assuming every conversation resolves, which it won't. That arithmetic is ours, off published rates, and neither company has quoted it. Pick the meter that matches how your business grows, then negotiate the number.
 
 ## where agents fail in a company of nine people
 
@@ -47,7 +47,7 @@ The permissions are too wide. An agent holding your inbox, your customer record 
 
 Errors compound quietly. Five steps that each work 95 times out of 100 give you 77 correct runs in 100 end to end. Owners buy the demo, which is one step, then meet the chain.
 
-And nobody owns it in week three. The person who set the agent up goes back to their day job, the source system changes a field name, the agent starts failing silently, and six weeks later someone notices the follow ups stopped. That failure is organisational rather than technical, and it kills more of these projects than the models do.
+Nobody owns it by week three, either. The person who set the agent up goes back to their day job, the source system changes a field name, the agent starts failing silently, and six weeks later someone notices the follow ups stopped. That failure is organisational rather than technical, and it kills more of these projects than the models do.
 
 ## four things that have to be true before you buy one
 
@@ -69,7 +69,7 @@ Wednesday, build it on a free tier. Zapier gives you 100 tasks and 400 agent run
 
 Thursday, run it beside the person who does the job today, on live work, with the person still deciding. Count the corrections.
 
-Friday, compare the two numbers you wrote on Monday. If the agent saved under an hour across the week, kill it and pick a different job. Killing it there isn't a failure. It's the test doing its job for the price of a few hours.
+Friday, compare the two numbers you wrote on Monday. If the agent saved under an hour across the week, kill it and pick a different job. Killing it there is the test doing its job, for the price of a few hours.
 
 ## when this stops being a subscription and becomes engineering
 
