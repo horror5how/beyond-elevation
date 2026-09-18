@@ -696,3 +696,4 @@ license-company-data-buyers
 board-ai-capability-gap
 fractional-executive-vs-consultancy-fees
 fractional-ip-strategist-startups
+valuation-gap-intangibles-2026
