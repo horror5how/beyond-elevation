@@ -164,3 +164,12 @@
 - Root cause: Same as all runs since 2026-06-25 — Instagram token EAASSEUy7BCoB...ZD expired. The token in the task prompt IS the same expired token. horror5how/instagram-autopilot repo does not exist (git clone blocked by session policy and token lacks repo scope). graph.facebook.com proxy-blocked 403 in cloud env.
 - Action taken: Fresh Pillar 3 content written and committed (6 slides + caption). Workflow will trigger on push. Will fail unless INSTAGRAM_TOKEN secret updated.
 - Fix required (unchanged, one action needed): developers.facebook.com → Token Tools → generate new long-lived user token → horror5how/beyond-elevation Settings → Secrets → Actions → INSTAGRAM_TOKEN → save → re-run instagram-post.yml.
+## 2026-09-18T00:00:00Z
+- Pillar: The Human Edge in the Age of AI (Pillar 4)
+- Status: QUEUED — awaiting CI (token fix required)
+- Media ID: n/a
+- Slides: 6 (fresh — hook "The skills AI can't learn are the ones your job stopped using.")
+- Hook: "The skills AI can't learn are the ones your job stopped using."
+- Root cause: Instagram token EAASSEUy7BCoB...ZD expired since 2026-06-25. Token in task prompt = same expired token. horror5how/instagram-autopilot repo does not exist (git clone blocked). graph.facebook.com proxy-blocked 403 in cloud env (confirmed this run).
+- Action taken: Fresh Pillar 4 content written (6 slides + caption). Triggering workflow via push to instagram-queue/slides/slide-1.html. Will succeed if INSTAGRAM_TOKEN secret has been updated in repo settings; will fail with error 190 if not.
+- Fix required (unchanged, one action): developers.facebook.com → Token Tools → generate new long-lived user token for IG business ID 17841422274109557 → horror5how/beyond-elevation Settings → Secrets → Actions → INSTAGRAM_TOKEN → save. Content is ready — no other changes needed.
