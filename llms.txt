@@ -428,5 +428,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Who Actually Buys Company Data, and What They Pay](https://beyondelevation.com/insights/license-company-data-buyers) — /insights/md/license-company-data-buyers.md
 - [Your First AI Hire Should Not Be a Data Scientist](https://beyondelevation.com/insights/first-ai-hire-for-non-tech-company) — /insights/md/first-ai-hire-for-non-tech-company.md
 - [How to Build AI Agents for Small Businesses: the Seven Steps, and What the Tools Cost](https://beyondelevation.com/insights/how-to-build-ai-agents-for-small-businesses) — /insights/md/how-to-build-ai-agents-for-small-businesses.md
+- [Interim CFO Day Rates vs Fractional Retainers: the 2026 Price Gap](https://beyondelevation.com/insights/interim-cfo-cost-vs-fractional) — /insights/md/interim-cfo-cost-vs-fractional.md
 
 > Full blog content available at /llms-full.txt
