@@ -697,3 +697,4 @@ board-ai-capability-gap
 fractional-executive-vs-consultancy-fees
 fractional-ip-strategist-startups
 valuation-gap-intangibles-2026
+ai-native-finance-function
