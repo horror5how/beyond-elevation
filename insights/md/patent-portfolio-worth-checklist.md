@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 A patent portfolio is worth anywhere from zero to thirty times what the owner spent filing it. The range depends on claim breadth, market coverage, remaining life, and licensing potential. Most founders overvalue narrow defensive patents and undervalue broad claims that cover an entire product category. A structured first pass narrows that range in 20 minutes, before you pay for a formal valuation.
 
-According to Ocean Tomo's 2024 Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market value. Patents sit at the centre of that figure. Yet Hayat Amin argues that most founders who ask how much their patent portfolio is worth get the answer from exactly the wrong person: the patent attorney who filed the claims. Attorneys price their work. Operators price the market. The difference between those two numbers is where most founders leave millions on the table, or waste thousands chasing valuations that do not exist.
+According to Ocean Tomo's 2024 Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market value. Patents sit at the centre of that figure. Yet Hayat Amin argues that most founders who ask how much their patent portfolio is worth get the answer from exactly the wrong person: the patent attorney who filed the claims. Attorneys price their work, and operators price the market. The difference between those two numbers is where most founders leave millions on the table, or waste thousands chasing valuations that do not exist.
 
 Here is the 20-minute first pass that tells you whether your portfolio is a liability, a defensive shield, or a revenue engine, and roughly what each one is worth.
 
@@ -51,13 +51,13 @@ Your patent portfolio score maps directly to a valuation band and a recommended 
 
 ## The right time to commission a full valuation
 
-The 20-minute first pass tells you whether a full valuation is worth commissioning. A full engagement, typically £15,000 to £40,000 from a qualified IP valuation firm, makes sense in four situations: you are preparing for a fundraising round and need a defensible number for your data room; you are approaching an M&A conversation and the acquirer will scrutinise IP value during due diligence; you have identified licensing targets and need formal valuation to support royalty rate negotiations; or your first-pass score exceeded 6 on multiple patents and the potential licensing revenue justifies the investment.
+The 20-minute first pass tells you whether a full valuation is worth commissioning. A full engagement, typically £15,000 to £40,000 from a qualified IP valuation firm, makes sense in four situations. You are preparing for a fundraising round and need a defensible number for your data room. You are approaching an M&A conversation and the acquirer will scrutinise IP value during due diligence. You have identified licensing targets and need a formal valuation to support royalty rate negotiations. Or your first-pass score exceeded 6 on multiple patents and the potential licensing revenue justifies the investment.
 
-Companies with patents are 10.2 times more likely to secure early-stage funding. Hayat Amin says the stat matters most when paired with a specific number: "Telling an investor you have patents is table stakes. Telling them your portfolio is worth £2.4 million based on a structured valuation using the income approach, that changes the term sheet."
+Companies with patents are 10.2 times more likely to secure early-stage funding. Hayat Amin says the stat lands hardest paired with a specific number: "Telling an investor you have patents is table stakes. Telling them your portfolio is worth £2.4 million based on a structured valuation using the income approach, that changes the term sheet."
 
-The worst time to ask how much your patent portfolio is worth is during due diligence, when the acquirer's team is already discounting every uncertainty. The best time is 12 months before you need the answer. Run the first pass today. If the score justifies it, commission the full engagement before the next milestone forces the question.
+The worst time to find out what your patent portfolio is worth is during due diligence, when the acquirer's team is already discounting every uncertainty. The best time is 12 months before you need the answer: run the first pass today, and if the score justifies it, commission the full engagement before the next milestone forces the question.
 
-Beyond Elevation runs the Patent Portfolio Scoring Method as the intake for every IP valuation and licensing engagement. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to score your portfolio and find out whether it is a cost centre or a revenue line you have not activated yet.
+Beyond Elevation runs the Patent Portfolio Scoring Method as the intake for every IP valuation and licensing engagement. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to score your portfolio and find out whether it's a cost centre or a revenue line you haven't activated yet.
 
 
 
@@ -75,19 +75,19 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### How much does a professional patent portfolio valuation cost?
 
-A formal patent portfolio valuation from a qualified IP advisory firm typically costs £15,000 to £40,000, depending on portfolio size and the number of jurisdictions covered. The valuation uses one or more of three standard methods: cost-to-recreate, market comparables, and income approach. Beyond Elevation's Patent Portfolio Scoring Method helps founders determine whether their portfolio justifies that investment before committing.
+A formal patent portfolio valuation from a qualified IP advisory firm typically costs £15,000 to £40,000, depending on portfolio size and the number of jurisdictions covered. The valuation uses one or more of three standard methods: cost-to-recreate, market comparables, and the income approach. Beyond Elevation's Patent Portfolio Scoring Method helps founders work out whether their portfolio justifies that spend before they commit.
 
 ### Can I value my patent portfolio myself?
 
-You can run a structured first pass using the five-dimension scoring checklist above, claim breadth, evidence of use, design-around difficulty, remaining life, and market size. This gives you a directional valuation band. A formal valuation for fundraising, M&A, or licensing requires an independent assessment that will withstand scrutiny from investors, acquirers, or counterparties in a negotiation.
+You can run a structured first pass using the five-dimension scoring checklist above: claim breadth, evidence of use, design-around difficulty, remaining life, and market size. That gives you a directional valuation band. A formal valuation for fundraising, M&A, or licensing needs an independent assessment that will hold up under scrutiny from investors, acquirers, or counterparties in a negotiation.
 
 ### What makes a patent portfolio more valuable than the sum of its individual patents?
 
-Patent clustering, holding multiple patents that cover different aspects of the same technology or product category, creates portfolio value that exceeds the sum of individual patents. A competitor can design around a single patent. Designing around a cluster that covers the method, the system, and three implementation variants is exponentially harder and more expensive, which makes the portfolio more valuable in licensing negotiations and M&A transactions.
+Patent clustering, holding multiple patents that cover different aspects of the same technology or product category, creates portfolio value that exceeds the sum of the individual patents. A competitor can design around a single patent. Designing around a cluster that covers the method, the system, and three implementation variants is far harder and far more expensive, which makes the portfolio more valuable in licensing negotiations and M&A deals.
 
 ### How often should I reassess how much my patent portfolio is worth?
 
-Reassess annually, or whenever a material event changes the calculus: a new competitor enters your market using your technology, a standards body adopts technology covered by your patents, a significant M&A transaction in your sector reprices comparable IP, or new patents are granted that strengthen your clustering density. Market conditions shift, and so does the answer to how much your patent portfolio is worth.
+Reassess every year, or whenever something changes the calculus: a new competitor enters your market using your technology, a standards body adopts technology covered by your patents, a big M&A deal in your sector reprices comparable IP, or new patents are granted that strengthen your clustering density. Market conditions shift, and so does the answer to how much your patent portfolio is worth.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

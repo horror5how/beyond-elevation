@@ -9,63 +9,63 @@ site: Beyond Elevation
 
 # AI for Property Management Companies: the 9 Operations Worth Automating First
 
-AI earns its place in a property management company at nine specific jobs, and every one of them sits where two systems don't talk to each other. The leasing enquiry that lands at 6.40pm, the maintenance call at 2am, and the owner statement nobody can produce until the 8th are the three that pay for the other six. The rest of what gets sold into this market is a demo.
+AI earns its place in a property management company at nine specific jobs, and every one sits where two systems don't talk to each other. The leasing enquiry that lands at 6.40pm, the maintenance call at 2am, and the owner statement nobody can produce until the 8th are the three that pay for the other six. The rest of what gets sold into this market is a demo.
 
-Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer. He now builds this work inside small and mid sized companies himself rather than writing a report about it, which is why every price below was read on the vendor's own page this week, and why we say so plainly when a vendor publishes no number at all.
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer. He builds this work inside small and mid-sized companies himself now, rather than writing a report about it, which is why every price below was read on the vendor's own page this week, and why we say so plainly when a vendor publishes no number at all.
 
 ## which property management companies this pays for
 
-Four symptoms qualify a company. Your leasing enquiries, your work orders and your ledger sit in three different products, and a person carries data between them by hand. The open API you need to join them up is one plan above the one you bought. You cannot see collections, delinquency or maintenance spend until somebody assembles the report after month end. And your after hours line rings through to a human being who is asleep.
+Four symptoms qualify a company. Your leasing enquiries, your work orders, and your ledger sit in three different products, and someone carries data between them by hand. The open API you need to join them up is one plan above the one you bought. You can't see collections, delinquency, or maintenance spend until somebody assembles the report after month end. And your after-hours line rings through to a human being who's asleep.
 
 The second of those is the most expensive and the least discussed. Buildium sells Essential from 62 dollars a month, Growth from 192 dollars a month and Premium from 400 dollars a month, and puts its open API on Premium only. DoorLoop sells Starter at 69 dollars a month, Pro at 149 and Premium at 209 billed yearly, and puts its open API on Premium only. QuickBooks Online sync starts one tier down, at Pro. If that is where you are sitting, the thing stopping you connecting anything is a line on an invoice, not an engineering problem.
 
-Door count decides the rest. Under about 100 doors the software cost stops mattering, because the floors do the pricing for you. Yardi Breeze charges 1 dollar per unit per month for residential on an annual agreement with a 100 dollar monthly minimum, so at 60 doors you pay for 100 anyway. Breeze Premier is the same 1 dollar a unit with a 400 dollar minimum. Commercial runs 2 dollars a unit with a 200 dollar minimum, affordable housing 3 dollars a unit with a 400 dollar minimum. DoorLoop's Starter plan caps at 10 units. Below 100 doors you are automating your own evenings, which is worth doing, but it is not a payroll decision.
+Door count decides the rest. Under about 100 doors the software cost stops mattering, because the minimums do the pricing for you. Yardi Breeze charges 1 dollar per unit per month for residential on an annual agreement with a 100 dollar monthly minimum, so at 60 doors you pay for 100 anyway. Breeze Premier is the same 1 dollar a unit with a 400 dollar minimum. Commercial runs 2 dollars a unit with a 200 dollar minimum, affordable housing 3 dollars a unit with a 400 dollar minimum. DoorLoop's Starter plan caps at 10 units. Below 100 doors you're automating your own evenings, which is worth doing, but it isn't a payroll decision.
 
-Between roughly 300 and 3,000 doors is where the nine operations below change a payroll line. DoorLoop's pricing page asks you to book a demo above 300 units. Buildium's asks you to phone above 5,000. That gap is the company this article is written for.
+Somewhere between 300 and 3,000 doors is where the nine operations below start changing a payroll line. DoorLoop's pricing page asks you to book a demo above 300 units. Buildium's asks you to call above 5,000. That gap is the company this article is written for.
 
 ## how we picked the nine
 
-We started where the work stalls in a property management company rather than where the software market is loudest. An operation only made the list if a real, named product ships it today. A figure only appears if we read it on the vendor's own page this week, and it is attributed to the vendor that published it, because almost all of it comes from vendor surveys of vendor customers. We name the plan tier a feature sits in, since half the disappointment in this market is buying the plan below the one with the thing you wanted. Nobody paid for a place. Beyond Elevation appears once, at the end, and the affiliation is stated.
+We started from where the work stalls in a property management company, not from where the software market is loudest. An operation only made the list if a real, named product ships it today. A figure only appears if we read it on the vendor's own page this week, and it's attributed to the vendor that published it, because almost all of it comes from vendor surveys of vendor customers. We name the plan tier a feature sits in, since half the disappointment in this market is buying the plan below the one with the thing you wanted. Nobody paid for a place here. Beyond Elevation appears once, at the end, and the affiliation is stated.
 
 ## 1. the leasing enquiry that lands at 6.40pm
 
-An enquiry that arrives after the office closes gets answered the next morning, and by then the renter has toured somewhere else. AppFolio's Core plan and above include Realm-X Messages, a central inbox for incoming messages. Plus and Max add Realm-X Flows for lead nurturing and rental applications, and Leasing Signals sits on Max only. LeadSimple runs an AI Engine for voice agents, triage, scoring and drafting on top of its own CRM and phone. EliseAI sells the same job into multifamily.
+An enquiry that arrives after the office closes gets answered the next morning, and by then the renter has toured somewhere else. AppFolio's Core plan and above include Realm-X Messages, a central inbox for incoming messages. Plus and Max add Realm-X Flows for lead nurturing and rental applications, with Leasing Signals on Max only. LeadSimple runs an AI Engine for voice agents, triage, scoring, and drafting on top of its own CRM and phone. EliseAI sells the same job into multifamily.
 
-AppFolio's August 2025 survey of its own users reports vacant units filled 5.2 days faster on average, and 12.5 hours a week saved using the Messages product for communications. Take both as a ceiling rather than a forecast.
+AppFolio's August 2025 survey of its own users reports vacant units filled 5.2 days faster on average, and 12.5 hours a week saved using the Messages product for communications. Take both numbers as a ceiling, not a forecast.
 
 Wrong for you if you can't see the price. AppFolio publishes no prices at all, only that a 50 unit minimum and a minimum spend apply on Core. EliseAI publishes no prices and no performance figures on its platform overview page either, and for an enterprise product that looks deliberate.
 
 ## 2. the maintenance call at 2am
 
-Every small property management firm has somebody whose phone is the emergency line, and that person is the reason the firm cannot grow past its current door count. Latchel runs the intake instead. It publishes 23 percent of requests solved at intake, 48 percent of emergencies de-escalated, 3,960,000 calls handled and 132,000 emergencies resolved, with a resident reaching a human expert in about 15 seconds.
+Every small property management firm has someone whose phone is the emergency line, and that person is the reason the firm can't grow past its current door count. Latchel runs the intake instead. It publishes 23 percent of requests solved at intake, 48 percent of emergencies de-escalated, 3,960,000 calls handled, and 132,000 emergencies resolved, with a resident reaching a human expert in about 15 seconds.
 
-It reads and writes to Yardi, AppFolio, Buildium, Rent Manager, Rentvine, Propertyware and Leonardo247, with lighter data integration for Aptly, LeadSimple, Entrata, RealPage and MRI. That integration list is the whole argument. An after hours service that doesn't write back into your system of record moves the retyping to the morning.
+It reads and writes to Yardi, AppFolio, Buildium, Rent Manager, Rentvine, Propertyware, and Leonardo247, with lighter data integration for Aptly, LeadSimple, Entrata, RealPage, and MRI. That integration list is the whole argument. An after-hours service that doesn't write back into your system of record moves the retyping to the morning.
 
-Wrong for you at 40 doors, where the after hours line is your own mobile and the saving is your evenings rather than a salary.
+Wrong for you at 40 doors, where the after-hours line is your own mobile and the saving is your evenings, not a salary.
 
 ## 3. dispatching the vendor and bundling the trip
 
 The real cost in maintenance is the four phone calls, the two reschedules and the technician who arrives without knowing what he's walking into. Property Meld publishes a 32 to 34 percent increase in jobs per day, repair timelines of 3.4 to 6.8 days, resident satisfaction of 4.2 to 4.6 out of 5 and 90 percent resident adoption, alongside its MAX Intelligence and TrueCost features. Latchel publishes intelligent dispatch bundling, says its users cut dispatches by around 20 percent and deflect half of after hours calls, and gives the technician the photos, videos and transcript before arrival. Lula runs the same coordination with its own vendor network and integrates with Property Meld.
 
-Wrong for you if you have one plumber, one electrician and 60 doors. That is a calendar problem.
+Wrong for you if you have one plumber, one electrician, and 60 doors. That's a calendar problem.
 
 ## 4. move in and move out inspections
 
-Inspections are the job that decides your deposit disputes nine months later. RentCheck sends the resident a guided mobile inspection instead of sending a person. It publishes that 80 percent of inspections are completed by tenants, an average resident satisfaction rating of 4.8 out of 5, and that 87 percent of its customers say it improved their ability to manage properties well. It integrates with AppFolio, Rent Manager and Buildium, and runs a 14 day trial with no card.
+Inspections are the job that decides your deposit disputes nine months later. RentCheck sends the resident a guided mobile inspection instead of sending a person. It publishes that 80 percent of inspections are completed by tenants, an average resident satisfaction rating of 4.8 out of 5, and that 87 percent of its customers say it improved their ability to manage properties well. It integrates with AppFolio, Rent Manager, and Buildium, and runs a 14 day trial with no card needed.
 
-Move in is where the relationship is won or lost. AppFolio's 2025 Renter Preferences Report, which surveyed more than 2,000 United States renters, found 75 percent of residents experience challenges with move in. That is a solvable number.
+Move in is where the relationship is won or lost. AppFolio's 2025 Renter Preferences Report, which surveyed more than 2,000 United States renters, found 75 percent of residents run into problems moving in. That's a solvable number.
 
-Wrong for you on commercial property, where your tenant is not going to photograph your building for you.
+Wrong for you on commercial property, where your tenant isn't going to photograph your building for you.
 
 ## 5. rent collection and the delinquency chase
 
-Collections is a calendar and a script, which is exactly what software is good at. Zego Pay handles rent and homeowner dues collection across online payments, CashPay, check scanning and lockbox. Zego Mobile Doorman sends automated rent reminders, renewal messages and community surveys. AppFolio's Flows engine covers rent collection too, on Plus and Max.
+Collections is a calendar and a script, which is exactly what software is good at. Zego Pay handles rent and homeowner dues collection across online payments, CashPay, check scanning, and lockbox. Zego Mobile Doorman sends automated rent reminders, renewal messages, and community surveys. AppFolio's Flows engine covers rent collection too, on Plus and Max.
 
-Zego publishes no delinquency figure, no adoption rate and no price. Neither does anybody else selling this job. If a vendor tells you on a call that its product cut delinquency by some percentage, ask where that is published, because none of them have put it in writing.
+Zego publishes no delinquency figure, no adoption rate, and no price. Neither does anyone else selling this job. If a vendor tells you on a call that its product cut delinquency by some percentage, ask where that's published, because none of them have put it in writing.
 
 ## 6. lease renewals
 
-A renewal you didn't ask for on day 300 becomes a turn on day 365, and a turn costs a vacancy plus a make ready. AppFolio's August 2025 user survey, of users on its Flows product, reports renewal rates up 20 percent, net operating income up 2.8 percent on average, and a 1.2 day average reduction in the time it takes to turn a unit. Ninety five percent of users saw a benefit within a few weeks. AppFolio also states that over 96 percent of customers increased operational efficiency with its AI, and that early users of Messages and Realm-X Assistant save an average of 10.3 hours a week on to do lists and 11.9 hours a week on communication tasks.
+A renewal you didn't ask for on day 300 becomes a turn on day 365, and a turn costs a vacancy plus a make ready. AppFolio's August 2025 user survey, of users on its Flows product, reports renewal rates up 20 percent, net operating income up 2.8 percent on average, and a 1.2 day average reduction in the time it takes to turn a unit. Ninety five percent of users saw a benefit within a few weeks. AppFolio also says over 96 percent of customers increased operational efficiency with its AI, and that early users of Messages and Realm-X Assistant save an average of 10.3 hours a week on to do lists and 11.9 hours a week on communication tasks.
 
 Those are AppFolio's numbers about AppFolio's customers. We quote them because they are published and specific, not because they are independent.
 
@@ -143,7 +143,7 @@ Not a serious one, but there are free trials. RentCheck runs a 14 day trial with
 
 ### What is an AI agent for property management?
 
-It is software you give a goal and access to your own systems, and it chooses the steps itself. AppFolio names four levels of this. Realm-X Assistant answers and acts on request, Messages runs the inbox, Flows executes a defined process such as a renewal or a rent collection run, and Performers, in AppFolio's words, "use agentic AI to independently observe, interpret and act on signals from your data". AppFolio also states that Realm-X connects directly to Anthropic's Claude. In a 400 door firm the useful version is almost always a Flow rather than an agent, because a defined process costs less and breaks less.
+It is software you give a goal and access to your own systems, and it chooses the steps itself. AppFolio names four levels of this: Realm-X Assistant answers and acts on request, Messages runs the inbox, Flows executes a defined process such as a renewal or a rent collection run, and Performers, in AppFolio's words, "use agentic AI to independently observe, interpret and act on signals from your data". AppFolio also states that Realm-X connects directly to Anthropic's Claude. In a 400 door firm, the useful version is almost always a Flow rather than an agent, because a defined process costs less and breaks less.
 
 ### What software do property managers use?
 

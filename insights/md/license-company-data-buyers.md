@@ -27,9 +27,9 @@ Six distinct buyer categories purchase company data, each with different require
 
 **4. Hedge funds and alternative data buyers.** Quantitative and systematic hedge funds purchase "alternative data", any dataset outside traditional financial feeds, to gain trading edge. Satellite imagery, transaction records, web traffic data, supply chain signals, and employment data all trade actively. Budget: £100,000, £1M+ per annual licence. According to Alternativedata.org, the alternative data market exceeded $7 billion in 2025. These buyers pay premium prices for exclusivity windows and low latency.
 
-**5. Management consultancies.** McKinsey, BCG, Bain, and specialist consultancies license proprietary datasets to power client engagements. They want vertical benchmarks, operational KPIs, and market sizing data that makes their analysis defensible. Budget: £15,000, £200,000 per dataset. They prefer structured, analyst-ready formats with clear methodology documentation.
+**5. Management consultancies.** McKinsey, BCG, Bain, and specialist consultancies license proprietary datasets to power client engagements. They want vertical benchmarks, operational KPIs, and market sizing data that makes their analysis defensible. Budget: £15,000, £200,000 per dataset. They prefer structured formats built for analysts to use straight away, with clear methodology documentation.
 
-**6. Corporate development teams.** Large companies acquiring in your sector buy data to map competitive landscapes, size addressable markets, and identify acquisition targets. This is often the most lucrative buyer category because the purchase is tied to a strategic decision worth hundreds of millions. Budget: £25,000, £500,000 per engagement. They want data nobody else has, and they will pay accordingly.
+**6. Corporate development teams.** Large companies acquiring in your sector buy data to map competitors, size addressable markets, and identify acquisition targets. This is the most lucrative buyer category when the purchase is tied to a strategic decision worth hundreds of millions. Budget: £25,000, £500,000 per engagement. They want data nobody else has, and they will pay accordingly.
 
 ## Who buys company data at premium prices, and what separates a £10K deal from a £1M deal?
 
@@ -43,7 +43,7 @@ Here are real pricing ranges Beyond Elevation sees across current client engagem
 
 **Annotated AI training datasets:** £50,000, £2M+ per licence. Medical imaging, legal document corpora, and industrial sensor data are in acute short supply. Hayat Amin showed one client that their three-year corpus of annotated compliance documents, built as a byproduct of normal operations, was worth more as a licensed AI training set than the software product it supported.
 
-**Real-time data feeds:** £100,000, £1M+ per year. Hedge funds and trading firms pay premium rates for continuous, low-latency access. Exclusivity windows, where you grant one buyer sole access for 30 to 90 days before making the feed available to others, command 2 to 5x standard pricing.
+**Live data feeds:** £100,000, £1M+ per year. Hedge funds and trading firms pay premium rates for continuous, low-latency access. Exclusivity windows, where you grant one buyer sole access for 30 to 90 days before making the feed available to others, command 2 to 5x standard pricing.
 
 ## How do you know if your data is worth selling?
 

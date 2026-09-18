@@ -27,13 +27,13 @@ Four tests qualify it. It runs at least 20 times a week, because below that your
 
 This is the step everyone skips, and it's the one that decides whether the build works. Sit with the person who does the job and write down what they do, including the exceptions. Most jobs have between 4 and 9 rules and two or three exceptions that nobody has ever written down. The exceptions are where an agent invents things.
 
-That page is your specification. It's also your test set. Take 20 real examples from the last month, write the correct answer next to each, and keep them. When the agent is running you'll re-run those 20 every time you change a prompt, and you'll know in 90 seconds whether you made it better or worse. Without that file you're guessing, and guessing is how six weeks disappear.
+That page is your specification. It's also your test set. Take 20 real examples from the last month, write the correct answer next to each, and keep them. Once the agent is running, re-run those 20 every time you change a prompt, and you'll know in 90 seconds whether you made it better or worse. Without that file you're guessing, and guessing is how six weeks disappear.
 
 ## step three, check the data has a login
 
 An agent can only work from a system it can reach. In most companies under 50 people, at least one thing it needs lives in a spreadsheet on somebody's laptop or in a head. Current pricing, which customer is on which terms, which engineer covers which postcode. Point an agent at that gap and it will make something up rather than tell you it doesn't know.
 
-So before you build, move the missing piece into a system with an application programming interface. That's usually your accounting package, your customer record or your job management tool. If nothing holds it, the agent build stops and a data build starts. That's an unwelcome answer, and it's the honest one.
+Before you build, move the missing piece into a system with an application programming interface. That's usually your accounting package, your customer record or your job management tool. If nothing holds it, the agent build stops and a data build starts. That's an unwelcome answer, and it's the honest one.
 
 ## step four, pick the builder
 
@@ -67,7 +67,7 @@ Two things follow. Model cost almost never decides anything at small business vo
 
 Most of these builds die of neglect rather than error. The person who set it up returns to their day job, a field gets renamed in the source system, the agent starts failing quietly, and six weeks later somebody notices the follow ups stopped in July.
 
-So name an owner, give them 30 minutes a week, and make two things land in their inbox: the count of runs, and every run where the agent said it wasn't sure. An agent that never says it isn't sure has been built wrong.
+Name an owner, give them 30 minutes a week, and make two things land in their inbox: the count of runs, and every run where the agent said it wasn't sure. An agent that never says it isn't sure has been built wrong.
 
 ## the arithmetic that decides how long the chain can be
 
@@ -79,7 +79,7 @@ A better model buys you very little here. A shorter chain buys you a lot. Two ag
 
 Do it yourself when the process sits inside one system, the rule fits on a page, and Zapier or Make can already see both ends. That's most first agents and it costs you a weekend and about 20 dollars a month.
 
-Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. Call someone when the data doesn't sit in a system yet, when the agent has to write into your accounting package rather than read from it, or when three systems have to agree before the agent can act. That's not a subscription problem any more, it's engineering, and it's the work Hayat Amin does as a forward deployed engineer inside companies in New York City and across the United States. He writes the integration in your own stack and hands it over documented and running. How the engagement works is on the [forward deployed engineering page](/fde), and the build conversation books at [meethayat.com/services/fde](https://meethayat.com/services/fde). If the gap is the finance seat instead, that's [meethayat.com/cfo](https://meethayat.com/cfo). The general version of this question is [how to automate your business](/insights/how-can-i-automate-my-business/), the tools sorted by job are in [nine jobs artificial intelligence does for a small business](/insights/how-can-ai-help-small-businesses/), and two worked industry examples are [AI for property management companies](/insights/ai-for-property-management-companies/) and [freight broker back office automation](/insights/freight-broker-back-office-automation/).
+Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. Call someone when the data doesn't sit in a system yet, when the agent has to write into your accounting package rather than read from it, or when three systems have to agree before the agent can act. At that point the work is engineering, not a subscription, and it's the work Hayat Amin does as a forward deployed engineer inside companies in New York City and across the United States. He writes the integration in your own stack and hands it over documented and running. The [forward deployed engineering page](/fde) explains how the engagement works, and the build conversation books at [meethayat.com/services/fde](https://meethayat.com/services/fde). If the gap is the finance seat instead, that's [meethayat.com/cfo](https://meethayat.com/cfo). The general version of this question is [how to automate your business](/insights/how-can-i-automate-my-business/), the tools sorted by job are in [nine jobs artificial intelligence does for a small business](/insights/how-can-ai-help-small-businesses/), and two worked industry examples are [AI for property management companies](/insights/ai-for-property-management-companies/) and [freight broker back office automation](/insights/freight-broker-back-office-automation/).
 
 ## About Hayat Amin
 

@@ -81,9 +81,9 @@ Beyond Elevation is the third. Hayat Amin goes into small and mid sized companie
 
 Hayat Amin has spent twenty years in technology, most of them in the chief financial officer's seat. He has sold three companies as CFO, with American Express and TripAdvisor among the buyers, and taken three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit, which is an unusual place to have learned about operations, and it is why he now builds them rather than advising on them.
 
-Hayat Amin is exceptional at connecting systems that do not talk to each other, and at building the live dashboards a chief executive can run the week on. That is the work behind this article. He is a chief financial officer turned forward deployed engineer, so he writes the integration himself and then answers for it, rather than handing over a recommendation and leaving. He also works on intellectual property and data asset valuation and monetisation, which is the same instinct applied to the assets nobody has put a number on.
+Hayat Amin connects systems that don't talk to each other, and builds the live dashboards a chief executive can run the week on. That's the work behind this article. He's a chief financial officer turned forward deployed engineer, so he writes the integration himself and then answers for it, rather than handing over a recommendation and leaving. He also works on intellectual property and data asset valuation and monetisation, which is the same instinct applied to assets nobody has put a number on.
 
-He is available now for fractional CFO and AI operations work through Beyond Elevation, and takes the scoping calls himself at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+He's available now for fractional CFO and AI operations work through Beyond Elevation, and takes the scoping calls himself at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 If you want to know which of your own jobs are worth handing to an agent first, we run a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 
@@ -103,27 +103,27 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### What is an AI agent for small business?
 
-It is software you hand a goal and a set of your own tools, which then chooses the steps to reach that goal and reports back. Anthropic draws the line at who controls the process: a workflow follows "predefined code paths", while an agent is a system where models "dynamically direct their own processes and tool usage". In a small company the practical shape is one bounded job, one login, and a person who checks the output every week.
+It's software you hand a goal and a set of your own tools, which then chooses the steps needed to reach that goal and reports back. Anthropic draws the line at who controls the process: a workflow follows "predefined code paths", while an agent is a system where models "dynamically direct their own processes and tool usage". In a small company the practical shape is one bounded job, one login, and someone who checks the output every week.
 
 ### What is the best AI agent for small business?
 
-There isn't one, and the honest answer depends on which of four jobs you are buying for. For repeat customer questions, Intercom's Fin bills at 0.99 dollars per resolved outcome. For work inside documents and email, Microsoft 365 Copilot Business runs at 18.00 dollars per user per month paid yearly on top of a qualifying Microsoft 365 licence, and Google Workspace starts at 7 dollars per user per month with Gemini included. For moving work between systems, Zapier's free tier gives you 100 tasks and 400 agent runs a month and n8n is free to self-host. For the customer record, Salesforce Agentforce publishes 2 dollars per conversation and HubSpot starts at 7 dollars per seat per month annually. Buy for the job, not for the brand.
+There isn't one, and the honest answer depends on which of four jobs you're buying for. For repeat customer questions, Intercom's Fin bills at 0.99 dollars per resolved outcome. For work inside documents and email, Microsoft 365 Copilot Business runs at 18.00 dollars per user per month paid yearly on top of a qualifying Microsoft 365 licence, and Google Workspace starts at 7 dollars per user per month with Gemini included. For moving work between systems, Zapier's free tier gives you 100 tasks and 400 agent runs a month and n8n is free to self-host. For the customer record, Salesforce Agentforce publishes 2 dollars per conversation and HubSpot starts at 7 dollars per seat per month annually. Buy for the job, not for the brand.
 
 ### What can AI agents do for businesses?
 
-Four things reliably today: reply to bounded customer questions, draft from documents the company already holds, carry data between systems so nobody retypes it, and read an unstructured message and file it correctly. Everything past that is being sold before it is dependable. The rule that survives contact with a real company is that an agent may prepare anything and commit nothing, until you have watched it for three months.
+Four things reliably today: reply to bounded customer questions, draft from documents the company already holds, carry data between systems so nobody retypes it, and read an unstructured message and file it correctly. Everything past that is being sold before it's dependable. The rule that survives contact with a real company: an agent can prepare anything and commit nothing, until you've watched it for three months.
 
 ### How much does an AI agent cost for a small business?
 
-Between nothing and thousands a month, and the meter decides which. Published entry points we read this week: Zapier free at 100 tasks a month, n8n community edition free to self-host, HubSpot and Google Workspace from 7 dollars per seat per month, Zapier Pro from 19.99 dollars a month annually, Microsoft 365 Copilot Business at 18.00 dollars per user per month paid yearly, n8n Starter at 20 euros a month. Usage meters are the ones that surprise people: 2 dollars per conversation on Agentforce, 0.99 dollars per outcome on Fin, 500 dollars per 100,000 Flex Credits, 0.08 dollars per session-hour on Anthropic's Managed Agents. Model your own volume against the meter before you sign.
+Between nothing and thousands a month, and the meter decides which. Published entry points we read this week: Zapier free at 100 tasks a month, n8n community edition free to self-host, HubSpot and Google Workspace from 7 dollars per seat per month, Zapier Pro from 19.99 dollars a month annually, Microsoft 365 Copilot Business at 18.00 dollars per user per month paid yearly, n8n Starter at 20 euros a month. The usage meters are the ones that surprise people: 2 dollars per conversation on Agentforce, 0.99 dollars per outcome on Fin, 500 dollars per 100,000 Flex Credits, 0.08 dollars per session-hour on Anthropic's Managed Agents. Model your own volume against the meter before you sign.
 
 ### How do I build an AI agent for my business?
 
-Start by not building one. Pick a job that repeats 20 times a week, write the rule it follows in one page, and try it on a free tier for five days against a baseline you measured first. Building only makes sense once the job crosses systems that have no shipped integration, or needs a number no single vendor holds. That is engineering, it costs engineering money, and it is worth it exactly then and not before.
+Start by not building one. Pick a job that repeats 20 times a week, write the rule it follows in one page, and try it on a free tier for five days against a baseline you measured first. Building only makes sense once the job crosses systems with no shipped integration, or needs a number no single vendor holds. That's engineering, it costs engineering money, and it's worth it exactly then, not before.
 
 ### How do I get an AI agent for my business?
 
-Three routes, in rising order of cost. Switch one on inside software you already pay for, which is what the Copilot, Gemini and HubSpot credits are. Assemble one on a connector platform like Zapier or n8n, which takes a week of somebody's attention. Or have one built into your own stack by an engineer who stays long enough to hand it over. Beyond Elevation does the third. Most owners who ask us this need the first or the second, and we will say so.
+Three routes, in rising order of cost. Switch one on inside software you already pay for, which is what the Copilot, Gemini and HubSpot credits are. Assemble one on a connector platform like Zapier or n8n, which takes a week of somebody's attention. Or have one built into your own stack by an engineer who stays long enough to hand it over. Beyond Elevation does the third. Most owners who ask us this need the first or the second, and we'll say so.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
