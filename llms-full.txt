@@ -7216,3 +7216,19 @@ Non-tech companies hire data scientists first because they copy Big Tech playboo
 The pattern repeats across industries. A CEO reads about AI transformation, approves a £100,000-plus hire, brings in a data scientist with a PhD, and expects
 
 ---
+
+## How to Build AI Agents for Small Businesses: the Seven Steps, and What the Tools Cost
+
+URL: https://beyondelevation.com/insights/how-to-build-ai-agents-for-small-businesses
+
+You build an AI agent for a small business in seven steps, and only one of them is engineering. Pick a process that repeats at least 20 times a week, write its rule on one page, point the agent at the system that already holds the data, and keep a person in the approval seat until it has earned its way out. The model is the cheapest part of the job. Anthropic charges 1 dollar per million input tokens and 5 dollars per million output for Haiku 4.5, so a single run costs less than a penny.
+
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. The sequence below is what he now builds inside small and mid sized companies himself instead of writing a report about it. Every price here was read on the vendor's own pricing page on 18 September 2026, and where a vendor publishes no number at all, we say so.
+
+## what you are building, in one paragraph
+
+An agent is software you give a goal and access to your own systems, and it picks the steps. That's the whole difference from the automation you already run. A Zap fires when a form is submitted and does what you told it. An agent reads the enquiry, decides it's a returning customer with an unpaid invoice, and handles both. We wrote the buying side of this in [what an AI agent for small business actually is](/insights/what-is-an-ai-agent-for-small-business/). This piece is the building side, and it assumes you've already decided the job is worth doing.
+
+## step one, pick the process rather t
+
+---
