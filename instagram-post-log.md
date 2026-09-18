@@ -171,5 +171,10 @@
 - Slides: 6 (fresh — hook "The skills AI can't learn are the ones your job stopped using.")
 - Hook: "The skills AI can't learn are the ones your job stopped using."
 - Root cause: Instagram token EAASSEUy7BCoB...ZD expired since 2026-06-25. Token in task prompt = same expired token. horror5how/instagram-autopilot repo does not exist (git clone blocked). graph.facebook.com proxy-blocked 403 in cloud env (confirmed this run).
-- Action taken: Fresh Pillar 4 content written (6 slides + caption). Triggering workflow via push to instagram-queue/slides/slide-1.html. Will succeed if INSTAGRAM_TOKEN secret has been updated in repo settings; will fail with error 190 if not.
-- Fix required (unchanged, one action): developers.facebook.com → Token Tools → generate new long-lived user token for IG business ID 17841422274109557 → horror5how/beyond-elevation Settings → Secrets → Actions → INSTAGRAM_TOKEN → save. Content is ready — no other changes needed.
+- Action taken: Fresh Pillar 4 content written (6 slides + caption) and pushed to main.
+- Blockers confirmed this run: (1) instagram-post.yml workflow is disabled_manually (disabled 2026-07-29) — push does not trigger it. (2) graph.facebook.com proxy-blocked 403 in cloud env. (3) Token in task prompt = same expired token.
+- Fix required (3 steps, ~10 min total):
+  1. Renew token: developers.facebook.com → Token Tools → generate new long-lived user token for IG business ID 17841422274109557
+  2. Update secret: horror5how/beyond-elevation → Settings → Secrets → Actions → INSTAGRAM_TOKEN → save new token
+  3. Re-enable workflow: github.com/horror5how/beyond-elevation/actions/workflows/instagram-post.yml → Enable workflow → Run workflow (or push any change to instagram-queue/slides/slide-1.html)
+  Content is ready — Pillar 4 slides and caption committed, no other changes needed.
