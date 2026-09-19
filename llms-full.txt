@@ -7306,3 +7306,21 @@ A patent grants a 20-year government monopoly on a specific invention in exchang
 The trade-off matters more for SMEs than for large corporations. A pa
 
 ---
+
+## What Investors Want in a Board Pack in 2026 (and What They Skip)
+
+URL: https://beyondelevation.com/insights/board-pack-what-investors-want-2026
+
+The average investor spends less than four minutes on a board pack before deciding whether to read it properly or file it. According to a 2025 DocSend analysis of 3,400 investor document sessions, the financial summary page receives 58% of total viewing time. The remaining 30 pages share the other 42%.
+
+Hayat Amin, who has built board packs across three exits and two FT100 listings, argues that the problem is not length — it is architecture. Most founders build board packs for themselves, not for the people reading them. The result is a document that buries the three things investors actually want behind twenty slides of product screenshots and team bios.
+
+Here is what investors want in a board pack in 2026, what they skip entirely, and how to build one that gets your board meeting finished in 90 minutes instead of three hours.
+
+## What Do Investors Actually Read in a Board Pack?
+
+Investors read cash, unit economics, and risk — in that order, and usually nothing else on the first pass. A board pack that opens with anything other than a financial summary is a board pack that starts unread.
+
+This is not a style preference. It is a triage system. Investors sit on multiple boards. They receive board packs from every portfolio company, typically within the same 48-hour window before a quarterly meeting. They cannot read all of them cover to cover. So they read the cash position first, because that determines urgency. Then unit economics, because that determines trajectory. Then th
+
+---
