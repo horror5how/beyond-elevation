@@ -7288,3 +7288,21 @@ Implementation is somebody building the thing. They get logins to your accountin
 Managed automation is implementation plus a monthly fee to keep it alive. It's the right shape when the pr
 
 ---
+
+## Trade Secrets vs Patents for SMEs: the Cheaper Moat Most Companies Ignore
+
+URL: https://beyondelevation.com/insights/trade-secrets-vs-patents-for-smes
+
+For most SMEs, trade secrets deliver stronger and cheaper IP protection than patents. A trade secret costs nothing to file, lasts indefinitely, and shields know-how that a patent would force you to publish. According to the World Intellectual Property Organization, trade secrets account for roughly two-thirds of all IP value held by small and mid-size enterprises — yet most founders still default to filing patents without asking whether they should.
+
+Hayat Amin argues that this default is the most expensive IP mistake an SME can make. The patent system was designed for companies that can afford to enforce what they file. An SME that spends £40,000 on a patent it will never litigate has bought an expensive piece of wall art. The trade secrets vs patents decision is one most SME founders get wrong because they reach for the more expensive option first.
+
+The correct question is not whether to protect your IP. It is which innovations belong behind a patent and which belong behind a lock.
+
+## What Is the Real Difference Between Trade Secrets and Patents?
+
+A patent grants a 20-year government monopoly on a specific invention in exchange for publishing exactly how it works. A trade secret protects any commercially valuable information — processes, formulas, customer lists, pricing models, algorithms — for as long as you keep it confidential. One is a sword you wave in public. The other is a vault you keep locked.
+
+The trade-off matters more for SMEs than for large corporations. A pa
+
+---

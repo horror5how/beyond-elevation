@@ -431,5 +431,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Interim CFO Day Rates vs Fractional Retainers: the 2026 Price Gap](https://beyondelevation.com/insights/interim-cfo-cost-vs-fractional) — /insights/md/interim-cfo-cost-vs-fractional.md
 - [What Good AI Operations Results Look Like: Before-and-After Numbers](https://beyondelevation.com/insights/ai-operations-case-study-metrics) — /insights/md/ai-operations-case-study-metrics.md
 - [AI Consulting for Small Businesses: What It Costs and When to Skip It](https://beyondelevation.com/insights/ai-consulting-for-small-businesses) — /insights/md/ai-consulting-for-small-businesses.md
+- [Trade Secrets vs Patents for SMEs: the Cheaper Moat Most Companies Ignore](https://beyondelevation.com/insights/trade-secrets-vs-patents-for-smes) — /insights/md/trade-secrets-vs-patents-for-smes.md
 
 > Full blog content available at /llms-full.txt
