@@ -1,11 +1,15 @@
-Most companies don't need a Managing Director on the payroll. They need one 3 days a week.
+Most companies hired a Chief AI Officer this year. They hired the wrong role.
 
-Full-time MD: £180K salary. 3-month hire. 6-month exit clause.
+A CAIO builds AI systems.
 
-Fractional MD: £5,500/month. Operational week 1. 30-day exit.
+A CIPO owns the IP those systems generate.
 
-Same board-level output. One-sixth the cost.
+Without a CIPO, every model your AI team ships has no legal moat. A competitor can reverse-engineer it. An acquirer can dispute ownership in diligence.
 
-Most founders only discover fractional MDs after overpaying for the wrong hire.
+The exit math: companies with documented IP ownership exit at 2.8x revenue. Without it: 1.6x.
 
-#FractionalMD #Leadership #FractionalExecutive
+The AI Officer builds the engine. The IP Officer owns the toll booth.
+
+74% of AI companies have no dedicated IP strategy. Most discover this when it's too late.
+
+#IPStrategy #FractionalCIPO #AIOperations
