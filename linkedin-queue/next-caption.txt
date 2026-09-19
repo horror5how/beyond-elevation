@@ -1,22 +1,19 @@
-Companies that spread AI across teams get 47% less ROI than those with a dedicated AI Ops function.
+A fractional CFO costs £4,500 a month.
 
-Most founders treat AI like a software rollout.
-One team lead. A few licences. Hope for the best.
+Most founders don't know what they're getting.
 
-That is not an operating model.
+Here is what the first 90 days actually looks like:
 
-The companies getting results have one thing in common: someone owns AI operations end to end.
+Week 1–2: A cash model that tells you the exact date you run out of money.
 
-Not IT. Not the data team. A dedicated function with a mandate.
+Week 3–4: Financials cleaned up so a VC can read them in 10 minutes.
 
-What that function does differently:
+Month 2: A board pack with the 4 slides investors always open first.
 
-Automates decisions, not just tasks.
+Month 3: 13-week rolling forecast, unit economics, and a clear exit runway.
 
-Measures output quality, not hours saved.
+That is not bookkeeping. That is the difference between raising and not raising.
 
-Ships agents to production. Not demos.
+£4,500 a month is not the cost. It is the option on your next round.
 
-No "AI Operations" title in your org = no AI strategy. Just subscriptions.
-
-#AIOperations #BusinessAutomation #FractionalLeadership
+#FractionalCFO #StartupFinance #FundraisingReadiness
