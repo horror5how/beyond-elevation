@@ -17,7 +17,7 @@ Beyond Elevation built the data licensing framework DGS used to turn a dormant t
 
 ## Who buys company data, and what are they looking for?
 
-Six distinct buyer categories purchase company data, each with different requirements, budgets, and use cases. Understanding who buys company data starts with matching your data characteristics to the right buyer type, not with listing your data on a marketplace and hoping someone bites.
+Six distinct buyer categories purchase company data, each with different requirements, budgets and use cases. Understanding who buys company data starts with matching your data characteristics to the right buyer type, not with listing your data on a marketplace and hoping someone bites.
 
 **1. Private equity and venture capital firms.** PE and VC firms purchase proprietary data to validate investment theses, benchmark portfolio company performance, and run sector mapping before committing capital. They pay for data that answers questions their analysts cannot answer with public sources. Budget: £10,000, £150,000 per dataset or engagement. They want vertical-specific operational metrics, anonymised customer behaviour data, and pricing trend data unavailable through Bloomberg or PitchBook.
 
@@ -25,37 +25,37 @@ Six distinct buyer categories purchase company data, each with different require
 
 **3. Data aggregators and index providers.** Companies such as S&P Global, MSCI, and vertical-specific aggregators purchase raw data feeds to build composite indices, benchmarks, and analytics products they sell to their own clients. Budget: £20,000, £500,000 per annual feed. They want high-frequency, machine-readable data with consistent schema and multi-year history. Volume and consistency matter more than uniqueness.
 
-**4. Hedge funds and alternative data buyers.** Quantitative and systematic hedge funds purchase "alternative data", any dataset outside traditional financial feeds, to gain trading edge. Satellite imagery, transaction records, web traffic data, supply chain signals, and employment data all trade actively. Budget: £100,000, £1M+ per annual licence. According to Alternativedata.org, the alternative data market exceeded $7 billion in 2025. These buyers pay premium prices for exclusivity windows and low latency.
+**4. Hedge funds and alternative data buyers.** Quantitative and systematic hedge funds buy "alternative data", any dataset outside the traditional financial feeds, for trading edge. Satellite imagery, transaction records, web traffic data, supply chain signals and employment data all trade actively. Budget: £100,000, £1M+ per annual licence. Alternativedata.org puts the alternative data market at over $7 billion in 2025. These buyers pay premium prices for exclusivity windows and low latency.
 
-**5. Management consultancies.** McKinsey, BCG, Bain, and specialist consultancies license proprietary datasets to power client engagements. They want vertical benchmarks, operational KPIs, and market sizing data that makes their analysis defensible. Budget: £15,000, £200,000 per dataset. They prefer structured formats built for analysts to use straight away, with clear methodology documentation.
+**5. Management consultancies.** McKinsey, BCG, Bain and specialist consultancies license proprietary datasets to power client engagements. They want vertical benchmarks, operational KPIs and market sizing data that makes their analysis defensible. Budget: £15,000, £200,000 per dataset. They prefer structured formats analysts can use straight away, with clear methodology documentation.
 
-**6. Corporate development teams.** Large companies acquiring in your sector buy data to map competitors, size addressable markets, and identify acquisition targets. This is the most lucrative buyer category when the purchase is tied to a strategic decision worth hundreds of millions. Budget: £25,000, £500,000 per engagement. They want data nobody else has, and they will pay accordingly.
+**6. Corporate development teams.** Large companies acquiring in your sector buy data to map competitors, size addressable markets and identify acquisition targets. This is the most lucrative buyer category when the purchase is tied to a strategic decision worth hundreds of millions. Budget: £25,000, £500,000 per engagement. They want data nobody else has, and they pay for it.
 
 ## Who buys company data at premium prices, and what separates a £10K deal from a £1M deal?
 
-Three factors determine whether company data sells for five figures or seven: exclusivity, refresh frequency, and the buyer's alternative cost to acquire equivalent information. Non-exclusive, static datasets with broad availability command £5,000, £25,000. Exclusive, continuously refreshed data with no public alternative commands six- to seven-figure annual licences.
+Three factors decide whether company data sells for five figures or seven: exclusivity, refresh frequency and the buyer's alternative cost of acquiring the same information elsewhere. Non-exclusive, static datasets with broad availability command £5,000, £25,000. Exclusive, continuously refreshed data with no public alternative commands six- to seven-figure annual licences.
 
 Here are real pricing ranges Beyond Elevation sees across current client engagements:
 
 **Anonymised transaction data:** £30,000, £350,000 per year, depending on transaction volume and vertical specificity. Financial services and retail data commands the highest premiums.
 
-**Operational benchmark data:** £10,000, £150,000 per year. Manufacturing throughput, SaaS usage metrics, and logistics KPIs are actively traded in benchmark markets.
+**Operational benchmark data:** £10,000, £150,000 per year. Manufacturing throughput, SaaS usage metrics and logistics KPIs are actively traded in benchmark markets.
 
-**Annotated AI training datasets:** £50,000, £2M+ per licence. Medical imaging, legal document corpora, and industrial sensor data are in acute short supply. Hayat Amin showed one client that their three-year corpus of annotated compliance documents, built as a byproduct of normal operations, was worth more as a licensed AI training set than the software product it supported.
+**Annotated AI training datasets:** £50,000, £2M+ per licence. Medical imaging, legal document corpora and industrial sensor data are in acute short supply. Hayat Amin showed one client that their three-year corpus of annotated compliance documents, built as a byproduct of normal operations, was worth more as a licensed AI training set than the software product it supported.
 
 **Live data feeds:** £100,000, £1M+ per year. Hedge funds and trading firms pay premium rates for continuous, low-latency access. Exclusivity windows, where you grant one buyer sole access for 30 to 90 days before making the feed available to others, command 2 to 5x standard pricing.
 
 ## How do you know if your data is worth selling?
 
-Not all company data has commercial value. The difference between data worth licensing and data worth ignoring comes down to four factors that Hayat Amin formalised as the **Data Commerciality Scoring Method**, the diagnostic Beyond Elevation runs on every prospective data asset before recommending a go-to-market strategy.
+Not all company data has commercial value. What separates data worth licensing from data worth ignoring comes down to four factors that Hayat Amin formalised as the **Data Commerciality Scoring Method**, the diagnostic Beyond Elevation runs on every prospective data asset before recommending a go-to-market strategy.
 
-**Factor 1: Uniqueness.** Can buyers get equivalent data elsewhere? If yes, your pricing power is minimal. If no, if the data exists only because of your specific operations, partnerships, or market position, you hold a monopoly asset. Score 1 to 10.
+**Factor 1: Uniqueness.** Can buyers get equivalent data elsewhere? If yes, your pricing power is minimal. If no, if the data exists only because of your specific operations, partnerships or market position, you hold a monopoly asset. Score 1 to 10.
 
 **Factor 2: Refresh frequency.** Static, historical datasets sell once. Continuously updated data sells annually. A dataset that refreshes daily or in real time commands recurring revenue and multi-year contracts. Score 1 to 10.
 
 **Factor 3: Depth and history.** Buyers pay more for multi-year longitudinal data than for a single snapshot. Three years of weekly data points is worth more than twelve months of monthly data points, even if the total volume is comparable. Score 1 to 10.
 
-**Factor 4: Clean provenance.** Data with documented sourcing, clear licensing rights, and GDPR-compliant processing sells at full price. Data with ambiguous provenance sells at a steep discount or does not sell at all. Hayat Amin reminds founders that provenance is not a legal nicety, it is the single factor that determines whether a buyer's compliance team approves the purchase. "I have seen seven-figure data deals collapse in week three because the seller could not produce a provenance trail. The data was valuable. It was also unlicensable."
+**Factor 4: Clean provenance.** Data with documented sourcing, clear licensing rights and GDPR-compliant processing sells at full price. Data with ambiguous provenance sells at a steep discount, or does not sell at all. Hayat Amin reminds founders that provenance is not a legal nicety, it is the one factor that decides whether a buyer's compliance team approves the purchase. "I have seen seven-figure data deals collapse in week three because the seller could not produce a provenance trail. The data was valuable. It was also unlicensable."
 
 A dataset scoring 7 or above on all four factors is a premium licensing candidate. A dataset scoring below 4 on uniqueness is unlikely to command meaningful pricing regardless of the other scores.
 
@@ -67,7 +67,7 @@ Three mistakes kill data deals before they close, and all three are preventable 
 
 **Mistake 2: Underpricing by anchoring to cost, not value.** Your data cost you very little to generate, it was a byproduct of operations. But its value to the buyer is the cost of acquiring equivalent data independently. A dataset that cost you nothing but would cost the buyer £3 million and two years to build is not a £50,000 asset. Price to the buyer's alternative, not to your production cost.
 
-**Mistake 3: Failing to protect the asset before selling it.** Once you license data without proper contractual protections, the buyer can share it, resell it, or use it to compete against you. Every data licensing agreement needs usage restrictions, redistribution prohibitions, audit rights, and termination clauses. Beyond Elevation structures every data licence to preserve the seller's competitive position while maximising revenue, the same framework that protected DGS's data asset through three subsequent licensing expansions.
+**Mistake 3: Failing to protect the asset before selling it.** Once you license data without proper contractual protections, the buyer can share it, resell it, or use it to compete against you. Every data licensing agreement needs usage restrictions, redistribution prohibitions, audit rights and termination clauses. Beyond Elevation structures every data licence to preserve the seller's competitive position while maximising revenue, the same framework that protected DGS's data asset through three subsequent licensing expansions.
 
 
 
@@ -89,19 +89,19 @@ Yes, provided you own the data, it complies with privacy regulations such as GDP
 
 ### Who buys company data most aggressively in 2026?
 
-AI companies and hedge funds are the most aggressive buyers. AI companies need domain-specific training data that cannot be scraped from the public web, and hedge funds pay premium prices for alternative data that gives them trading edge. Both buyer categories are growing at 20%+ annually and actively seeking new data sources.
+AI companies and hedge funds are the most aggressive buyers. AI companies need domain-specific training data that cannot be scraped from the public web, and hedge funds pay premium prices for alternative data that gives them trading edge. Both buyer categories are growing over 20% a year and actively seeking new data sources.
 
 ### How long does it take to close a data licensing deal?
 
-A typical data licensing deal takes 8 to 16 weeks from first conversation to signed agreement. The timeline depends on the buyer's compliance review process, data complexity, and whether exclusivity terms are involved. PE and hedge fund buyers move fastest. Enterprise buyers and consultancies typically require longer procurement cycles.
+A typical data licensing deal takes 8 to 16 weeks from first conversation to signed agreement. The timeline depends on the buyer's compliance review process, data complexity, and whether exclusivity terms are involved. PE and hedge fund buyers move fastest. Enterprise buyers and consultancies typically need longer procurement cycles.
 
 ### What is the minimum dataset size needed to sell company data?
 
-There is no minimum size, value depends on uniqueness, not volume. A narrow, deep dataset covering a specific vertical with multi-year history can be more valuable than a broad, shallow dataset with millions of rows. The question is whether your data answers a question the buyer cannot answer with publicly available sources.
+There is no minimum size, value depends on uniqueness, not volume. A narrow, deep dataset covering a specific vertical with multi-year history can be worth more than a broad, shallow dataset with millions of rows. The question is whether your data answers something the buyer cannot answer from publicly available sources.
 
 ### How does Beyond Elevation help companies sell their data?
 
-Beyond Elevation runs a complete data commercialisation engagement: asset identification, provenance audit, pricing strategy, buyer matching, licensing structure, and ongoing deal management. The firm built the framework DGS used to generate seven-figure recurring revenue from a data asset the company did not know it could licence. Book a data monetisation audit at [beyondelevation.com](https://beyondelevation.com) to find out what your data is worth, and who is already looking for it.
+Beyond Elevation runs a full data commercialisation engagement: asset identification, provenance audit, pricing strategy, buyer matching, licensing structure and ongoing deal management. The firm built the framework DGS used to generate seven-figure recurring revenue from a data asset the company did not know it could licence. Book a data monetisation audit at [beyondelevation.com](https://beyondelevation.com) to find out what your data is worth, and who is already looking for it.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

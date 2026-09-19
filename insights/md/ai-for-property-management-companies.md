@@ -25,11 +25,11 @@ Somewhere between 300 and 3,000 doors is where the nine operations below start c
 
 ## how we picked the nine
 
-We started from where the work stalls in a property management company, not from where the software market is loudest. An operation only made the list if a real, named product ships it today. A figure only appears if we read it on the vendor's own page this week, and it's attributed to the vendor that published it, because almost all of it comes from vendor surveys of vendor customers. We name the plan tier a feature sits in, since half the disappointment in this market is buying the plan below the one with the thing you wanted. Nobody paid for a place here. Beyond Elevation appears once, at the end, and the affiliation is stated.
+We started from where the work stalls in a property management company. The software market's own noise didn't decide what made the list. An operation only made the cut if a real, named product ships it today. A figure only appears if we read it on the vendor's own page this week, and we attribute it to the vendor that published it, because almost all of it comes from vendor surveys of vendor customers. We name the plan tier each feature sits in, since half the disappointment in this market is buying the plan below the one with the feature you wanted. Nobody paid for a place here. Beyond Elevation appears once, at the end, and we state the affiliation.
 
 ## 1. the leasing enquiry that lands at 6.40pm
 
-An enquiry that arrives after the office closes gets answered the next morning, and by then the renter has toured somewhere else. AppFolio's Core plan and above include Realm-X Messages, a central inbox for incoming messages. Plus and Max add Realm-X Flows for lead nurturing and rental applications, with Leasing Signals on Max only. LeadSimple runs an AI Engine for voice agents, triage, scoring, and drafting on top of its own CRM and phone. EliseAI sells the same job into multifamily.
+An enquiry that lands after the office shuts gets answered the next morning, and by then the renter has toured somewhere else. AppFolio bundles Realm-X Messages, a central inbox for incoming messages, into Core and every plan above it. Plus and Max add Realm-X Flows for lead nurturing and rental applications, and Leasing Signals sits on Max only. LeadSimple runs an AI Engine for voice agents, triage, scoring and drafting on top of its own CRM and phone. EliseAI sells the same job into multifamily.
 
 AppFolio's August 2025 survey of its own users reports vacant units filled 5.2 days faster on average, and 12.5 hours a week saved using the Messages product for communications. Take both numbers as a ceiling, not a forecast.
 
@@ -65,7 +65,7 @@ Zego publishes no delinquency figure, no adoption rate, and no price. Neither do
 
 ## 6. lease renewals
 
-A renewal you didn't ask for on day 300 becomes a turn on day 365, and a turn costs a vacancy plus a make ready. AppFolio's August 2025 user survey, of users on its Flows product, reports renewal rates up 20 percent, net operating income up 2.8 percent on average, and a 1.2 day average reduction in the time it takes to turn a unit. Ninety five percent of users saw a benefit within a few weeks. AppFolio also says over 96 percent of customers increased operational efficiency with its AI, and that early users of Messages and Realm-X Assistant save an average of 10.3 hours a week on to do lists and 11.9 hours a week on communication tasks.
+A renewal you didn't chase on day 300 becomes a turn on day 365, and a turn costs a vacancy plus a make ready. AppFolio surveyed users of its Flows product in August 2025 and reports renewal rates up 20 percent, net operating income up 2.8 percent on average, and a 1.2 day average cut in the time it takes to turn a unit. Ninety five percent of users saw a benefit within a few weeks. AppFolio also says over 96 percent of customers increased operational efficiency with its AI, and that early users of Messages and Realm-X Assistant save an average of 10.3 hours a week on to-do lists and 11.9 hours a week on communication tasks.
 
 Those are AppFolio's numbers about AppFolio's customers. We quote them because they are published and specific, not because they are independent.
 
@@ -85,11 +85,11 @@ Ask most owners of a 500 door firm what their collections rate was yesterday and
 
 That pricing decision is why so many firms end up with a live dashboard that is a spreadsheet somebody rebuilds every Monday. A real one reads from the property management system, the payment rail and the maintenance platform at once, and it exists the moment you are paying for the API you already bought.
 
-Wrong for you if you have one system and one bank account. Then the report is already correct.
+Wrong for you if you run one system and one bank account. Then the report is already correct.
 
 ## 9. the process itself, and who does what next
 
-The ninth operation is the one nobody buys first and everybody needs. LeadSimple runs leads, calls, processes and work orders on one system, with named products for CRM, Phone and Inbox, Operations with service level agreements, and Maintenance triage and dispatch, plus an AI Engine for voice agents, triage, scoring and drafting. It integrates with AppFolio, Buildium, Propertyware, Rent Manager and Rentvine, and runs a 14 day trial.
+The ninth operation is the one nobody buys first and everybody ends up needing. LeadSimple puts leads, calls, processes and work orders on one system, with named products for CRM, Phone and Inbox, Operations with service level agreements, and Maintenance for triage and dispatch, plus an AI Engine for voice agents, triage, scoring and drafting. It integrates with AppFolio, Buildium, Propertyware, Rent Manager and Rentvine, and runs a 14 day trial.
 
 Wrong for you if nobody has written your process down. Software applied to an undocumented process automates the confusion and does it faster.
 
@@ -109,7 +109,7 @@ Beyond Elevation is Hayat Amin's firm, so treat this paragraph as an interested 
 
 Hayat Amin has spent twenty years in technology, most of them in the chief financial officer's seat. He has sold three companies as CFO, with American Express and TripAdvisor among the buyers, and taken three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit, which is where he learned that operations and the numbers are the same subject.
 
-Hayat Amin is exceptional at connecting systems that refuse to talk to each other, and at building the live dashboards a chief executive can run the week on. That is the work behind items 8 and 9 above. He is a chief financial officer turned forward deployed engineer, so he writes the integration himself and then answers for it instead of leaving a recommendation behind. He also works on intellectual property and data asset valuation and monetisation, which is the same instinct pointed at the assets nobody has priced.
+Hayat Amin connects systems that refuse to talk to each other, and builds the live dashboards a chief executive can run the week on. That is the work behind items 8 and 9 above. He is a chief financial officer turned forward deployed engineer, so he writes the integration himself and then answers for it instead of leaving a recommendation behind. He also works on intellectual property and data asset valuation and monetisation, the same instinct pointed at the assets nobody has priced.
 
 He is available now for fractional CFO and AI operations work through Beyond Elevation, and takes the scoping calls himself at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
@@ -143,7 +143,7 @@ Not a serious one, but there are free trials. RentCheck runs a 14 day trial with
 
 ### What is an AI agent for property management?
 
-It is software you give a goal and access to your own systems, and it chooses the steps itself. AppFolio names four levels of this: Realm-X Assistant answers and acts on request, Messages runs the inbox, Flows executes a defined process such as a renewal or a rent collection run, and Performers, in AppFolio's words, "use agentic AI to independently observe, interpret and act on signals from your data". AppFolio also states that Realm-X connects directly to Anthropic's Claude. In a 400 door firm, the useful version is almost always a Flow rather than an agent, because a defined process costs less and breaks less.
+It is software you give a goal and access to your own systems, and it chooses the steps itself. AppFolio names four levels of it: the Assistant in Realm-X answers and acts on request, Messages runs the inbox, Flows executes a defined process such as a renewal or a rent collection run, and Performers, in AppFolio's words, "use agentic AI to independently observe, interpret and act on signals from your data". AppFolio also states that Realm-X connects directly to Anthropic's Claude. In a 400 door firm, the useful version is almost always a Flow rather than an agent, because a defined process costs less and breaks less.
 
 ### What software do property managers use?
 
@@ -151,7 +151,7 @@ The system of record is usually AppFolio, Buildium, Yardi Breeze, Rent Manager, 
 
 ### Is there an AI receptionist for property management?
 
-Yes, and there are two shapes of it. LeadSimple runs AI voice agents inside its own phone and inbox product for property management companies specifically. Latchel runs the after hours version for maintenance, publishing 3,960,000 calls handled and a resident reaching a human expert in about 15 seconds when the AI cannot resolve it. The question to ask either one is not how good the voice is. It is whether the call writes back into your property management system before morning.
+Yes, and there are two shapes of it. LeadSimple runs AI voice agents inside its own phone and inbox product, built specifically for property management companies. Latchel runs the after hours version for maintenance, and publishes 3,960,000 calls handled and a resident reaching a human expert in about 15 seconds when the AI cannot resolve it. The question worth asking either one is whether the call writes back into your property management system before morning. How good the voice sounds matters far less.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # AI Consulting for Small Businesses: What It Costs and When to Skip It
 
-AI consulting for a small business is an outsider picking which of your processes are worth automating, then building them inside the systems you already run. Published rates sit between 100 and 500 dollars an hour, and a small fixed scope project between 5,000 and 25,000 dollars. Before you pay any of that, spend 20 dollars a month on tools and find out what actually breaks.
+AI consulting for a small business is an outsider picking which of your processes are worth automating, then building them inside the systems you already run. Published rates sit between 100 and 500 dollars an hour, and a small fixed scope project between 5,000 and 25,000 dollars. Before you pay any of that, spend 20 dollars a month on tools and find out what breaks.
 
 Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. He now builds this work inside small and mid sized companies himself instead of writing a report about it. That's why the sections below on price and handover are blunter than a consultancy's own page. Every number here was read on the publisher's own page on 19 September 2026, and where nobody publishes a number, we say so.
 
@@ -29,7 +29,7 @@ Ask which of the four you're being sold before you discuss price. A firm that qu
 
 ## what it costs, and why nobody publishes a real rate card
 
-We went looking for a survey of what small companies pay for this. There isn't one. What exists is a set of pricing guides published by agencies that also sell the service. Ask the fishmonger what fish costs. Here's what two of them publish, named so you can weigh them.
+We went looking for a survey of what small companies pay for this. There isn't one, only pricing guides published by agencies that also sell the service. Ask the fishmonger what fish costs. Two of them publish numbers, named below so you can weigh them.
 
 Groovy Web's rate guide, published 2 April 2026 and updated on 10 September, puts solo experts at 80 to 200 dollars an hour, boutique consultancies at 150 to 300, Big Four and enterprise firms at 300 to 600, and offshore agencies at 22 to 50. Its project bands run 20,000 to 50,000 dollars for a proof of concept, 50,000 to 100,000 for a production system. The firm says the numbers come from its own 200 plus client engagements. That is not a survey, and Groovy Web sells consulting.
 
@@ -39,17 +39,17 @@ They agree on one band. A competent mid level builder costs 150 to 300 dollars a
 
 ## the floor any quote gets measured against
 
-You can't judge a 12,000 dollar quote without knowing what the same job costs if you do it yourself. So here's the floor, read on the vendors' own pricing pages this week.
+You can't judge a 12,000 dollar quote without knowing what the same job costs if you do it yourself. The floor below is read on the vendors' own pricing pages this week.
 
 Zapier's Free plan gives you 100 tasks a month and 400 agent activities. Professional starts at 19.99 dollars a month on annual billing for 750 tasks, or 29.99 paid monthly. Team starts at 69.00 dollars a month annually. n8n's Community Edition is free and open source if you host it yourself, and its Cloud Starter plan is 20 euros a month billed annually for 2,500 executions, with Pro at 50 euros. The model calls underneath are cheaper than people expect: Anthropic publishes Haiku 4.5 at 1 dollar per million input tokens and 5 dollars per million output, Sonnet 5 at 2 and 10.
 
-So the honest floor for a first automation is about 20 dollars a month plus your own weekend. A 12,000 dollar project is 50 years of Zapier Professional at the annual price, which is our arithmetic off their published number, not theirs. That doesn't make 12,000 dollars wrong. It makes it a number you should be able to explain to your bookkeeper. The explanation has to be about the part the subscription can't do.
+The honest floor for a first automation is about 20 dollars a month plus your own weekend. A 12,000 dollar project is 50 years of Zapier Professional at the annual price, which is our arithmetic off their published number, not theirs. That doesn't make 12,000 dollars wrong. It makes it a number you should be able to explain to your bookkeeper. The explanation has to be about the part the subscription can't do.
 
 ## why companies pay for it anyway
 
 Two pieces of evidence, both worth reading before you decide.
 
-The first is MIT Media Lab's Project NANDA report, "The GenAI Divide: State of AI in Business 2025", published July 2025 off a review of more than 300 publicly disclosed AI initiatives, 52 structured interviews and 153 survey responses from senior leaders. Against 30 to 40 billion dollars of enterprise spending, it found only 5 percent of custom enterprise AI tools reach production. The authors put the failure on adoption rather than on the models. Pilots stall because the tool doesn't retain feedback or adapt to how the work is actually done.
+The first is MIT Media Lab's Project NANDA report, "The GenAI Divide: State of AI in Business 2025", published July 2025 off a review of more than 300 publicly disclosed AI initiatives, 52 structured interviews and 153 survey responses from senior leaders. Against 30 to 40 billion dollars of enterprise spending, it found only 5 percent of custom enterprise AI tools reach production. The authors put the failure on adoption rather than on the models. Pilots stall because the tool doesn't retain feedback or adapt to how the work is done.
 
 The second is the United States Census Bureau, which asks this question every fortnight. In its Business Trends and Outlook Survey covering 14 December 2025 to 3 May 2026, overall AI use hovered between 17 and 20 percent of firms, reaching 19.8 percent nationally by the May collection. Break it by headcount and the gap opens: fewer than 20 percent of firms with four or fewer employees use AI, against 32 percent of firms with 100 to 249 staff and 37 percent of firms with at least 250. Use rose among firms with 20 or more employees over that period and didn't move significantly below 20. By sector, information sits at 39.7 percent and finance and insurance at 33.9, while retail trade runs near 14.
 
@@ -81,7 +81,7 @@ Skip it while you still want advice rather than a build. The Small Business Admi
 
 Skip it when the real problem is that a number lives in somebody's head. No model fixes that. The data build comes first. Any firm that agrees to automate around a missing system is taking your money.
 
-## what a fair engagement looks like
+## What a fair engagement looks like
 
 Fixed price for the first build, not hours. Hours reward slowness and neither side can forecast them.
 
@@ -91,7 +91,7 @@ Your accounts, your repository, your keys, from day one. Handover documented wel
 
 A named number checked at 90 days, agreed before anybody starts. If it moved, do the next one. If it didn't, stop, and expect the firm to say so first.
 
-On "near me": most of this work is done remotely, and the part that needs a room is the first week, when somebody sits next to the person doing the job and watches what they actually do. Buy the on site week. The rest can be anywhere.
+On "near me": most of this work is done remotely, and the part that needs a room is the first week, when somebody sits next to the person doing the job and watches what they do. Buy the on site week. The rest can be anywhere.
 
 Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. We do the implementation and fractional shapes, not the advisory one. The deliverable is software running in your systems, in your accounts, with the handover written. Hayat Amin works as a forward deployed engineer inside companies in New York City and across the United States, and he writes the integration himself. The [forward deployed engineering page](/fde) sets out how an engagement runs, and a scoping conversation books at [meethayat.com/services/fde](https://meethayat.com/services/fde). If what you're missing is the finance seat rather than the build, that's [meethayat.com/cfo](https://meethayat.com/cfo). For the work before you hire anyone, start with [how to automate your business](/insights/how-can-i-automate-my-business/) and the tools sorted by job in [nine jobs artificial intelligence does for a small business](/insights/how-can-ai-help-small-businesses/).
 
@@ -133,7 +133,7 @@ It's worth it when the job crosses systems and somebody has to write into one of
 
 ### How much does AI cost?
 
-The models are the cheap part. Anthropic publishes Haiku 4.5 at 1 dollar per million input tokens and 5 per million output, and Sonnet 5 at 2 and 10. The plumbing is the rest: Zapier Professional from 19.99 dollars a month on annual billing, n8n Cloud from 20 euros a month or free if you host the Community Edition yourself. A first automation running at low volume costs about 20 dollars a month. The cost you should actually budget for is the person who builds it.
+The models are the cheap part. Anthropic publishes Haiku 4.5 at 1 dollar per million input tokens and 5 per million output, and Sonnet 5 at 2 and 10. The plumbing is the rest: Zapier Professional from 19.99 dollars a month on annual billing, n8n Cloud from 20 euros a month or free if you host the Community Edition yourself. A first automation running at low volume costs about 20 dollars a month. The cost you should budget for is the person who builds it.
 
 ### Are there AI consulting companies for small business near me?
 
@@ -141,11 +141,11 @@ Plenty, and location matters less than it looks. The week that has to happen in 
 
 ### What does an AI implementation consultant do that a tool does not?
 
-A tool waits for you to tell it the rule. An implementation consultant finds the rule, including the exceptions nobody has written down, then makes two systems that were never designed to meet agree on one record. That's the work. If a firm's first deliverable is a roadmap rather than something running on your data, they're selling advisory, whatever the invoice says.
+A tool waits for you to tell it the rule. An implementation consultant finds the rule, including the exceptions nobody has written down, then makes two systems that were never designed to meet agree on one record, and that's the work. If a firm's first deliverable is a roadmap rather than something running on your data, they're selling advisory, whatever the invoice says.
 
 ### Why do people search for AI consulting for small businesses on Reddit?
 
-Because every page on the first results page is written by somebody selling the service. This one included. Go and read the threads. Then come back and ask the seven questions above. They're the ones the threads keep wishing they'd asked.
+Because every page on the first results page is written by somebody selling the service, this one included. Go and read the threads. Then come back and ask the seven questions above. They're the ones the threads keep wishing they'd asked.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

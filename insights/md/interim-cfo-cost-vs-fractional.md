@@ -9,11 +9,11 @@ site: Beyond Elevation
 
 # Interim CFO Day Rates vs Fractional Retainers: the 2026 Price Gap
 
-An interim CFO in the UK costs between £1,500 and £3,500 per day. A fractional CFO costs between £3,000 and £8,000 per month. That is a five-to-ten-times price gap for two people with the same three letters after their title. Seniority doesn't explain it. What you're buying does: a temporary fix or a permanent function.
+An interim CFO in the UK costs between £1,500 and £3,500 per day. A fractional CFO costs between £3,000 and £8,000 per month. That is a five-to-ten-times price gap for two people with the same three letters after their title. Seniority doesn't explain it. The difference is what you're buying: a temporary fix or a permanent function.
 
 According to the Interim Management Association's 2025 Rate Survey, the median interim CFO day rate in the UK sits at £2,200. A three-month engagement at four days per week costs roughly £176,000. Hayat Amin, who has placed and replaced interim and fractional CFOs across three continents, argues that most companies paying interim rates are solving a problem a fractional retainer handles at one-fifth the cost. The distinction matters because choosing wrong wastes money and delays the finance function you need.
 
-## What Does an Interim CFO Cost Per Day in 2026?
+## What does an interim CFO cost per day in 2026?
 
 An interim CFO in the UK charges between £1,500 and £3,500 per day in 2026, with the median sitting at £2,200 for companies between £5 million and £50 million in revenue. US interim CFO rates run $2,000 to $5,000 per day. Gulf-region rates land between $2,500 and $4,500 per day.
 
@@ -21,7 +21,7 @@ Interim engagements typically run three to nine months. The CFO works four or fi
 
 Three things push the day rate higher: sector complexity (regulated industries add 15 to 25 per cent), transaction work (M&A, IPO, or fundraising mandates command premium rates), and urgency (a CFO needed within two weeks costs more than one placed in six). Interim agencies typically add a 20 to 30 per cent margin on top of the CFO's personal rate.
 
-## What Does a Fractional CFO Cost Per Month?
+## What does a fractional CFO cost per month?
 
 A fractional CFO costs between £3,000 and £8,000 per month in the UK in 2026, typically working one to two days per week on a rolling retainer. Annual cost: £36,000 to £96,000. That is less than a single quarter of most interim engagements.
 
@@ -29,7 +29,7 @@ The fractional model works differently from interim. A fractional CFO isn't embe
 
 Beyond Elevation's fractional CFO engagements start at £4,000 per month for companies in the £2 million to £10 million revenue range, scaling to £7,500 for pre-exit or fundraising mandates that require heavier weekly involvement. The engagement includes AI-assisted reporting, which compresses two full days of work into half a day of review and decision-making.
 
-## Why Is There a 5x Price Gap for the Same Job Title?
+## Why is there a 5x price gap for the same job title?
 
 The price gap exists because interim and fractional CFOs solve different problems. An interim CFO is a crisis-grade hire priced for urgency and total commitment. A fractional CFO is a retained operator priced for ongoing value over months or years. One is a hotel room. The other is a lease.
 
@@ -37,7 +37,7 @@ Interim CFOs charge premium day rates because they accept short-term risk: no jo
 
 Fractional CFOs charge lower monthly rates because the relationship is ongoing. They build institutional knowledge over time. They do not need to re-learn your chart of accounts every quarter. Hayat Amin calls this the compounding advantage: a fractional CFO who has been in your business for twelve months knows where every number hides, where every leak sits, and what the board will ask before they ask it. An interim CFO walking in cold needs six to eight weeks just to reach baseline competence.
 
-## When Should You Pay Interim CFO Day Rates?
+## When should you pay interim CFO day rates?
 
 Pay interim rates when you need someone in the seat every day for a defined, time-bound event that cannot wait. The three scenarios where interim CFO pricing makes economic sense are genuine emergencies, transactions, and regulatory mandates.
 
@@ -107,7 +107,7 @@ Most interim CFO agencies can place a candidate within one to two weeks. For urg
 
 ### Do fractional CFOs work on-site?
 
-Most fractional CFOs work a hybrid model: one day per week on-site for team alignment and board interaction, with the remainder remote. The exact split depends on the company's needs and the CFO's other client commitments. Beyond Elevation's fractional CFOs typically spend one day per week on-site during the first 90 days, then shift to fortnightly visits as systems and rhythms are established.
+Most fractional CFOs work a hybrid model, one day per week on-site for team alignment and board interaction, with the remainder remote. The exact split depends on the company's needs and the CFO's other client commitments. Beyond Elevation's fractional CFOs typically spend one day per week on-site during the first 90 days, then shift to fortnightly visits once systems and rhythms are in place.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

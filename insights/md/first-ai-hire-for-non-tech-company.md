@@ -9,13 +9,13 @@ site: Beyond Elevation
 
 # Your First AI Hire Should Not Be a Data Scientist
 
-Your first AI hire at a non-tech company should be an operations person who can rewire workflows, not a data scientist who builds models nobody asked for. Gartner's 2025 AI in the Enterprise survey found that 74% of non-tech companies that hired a data scientist as their first AI role reported no measurable ROI within 18 months. The sequence is wrong, not the person.
+Your first AI hire at a non-tech company should be an operations person who can rewire workflows, not a data scientist who builds models nobody asked for. Gartner's 2025 AI in the Enterprise survey found that 74% of non-tech companies that hired a data scientist as their first AI role reported no measurable ROI within 18 months. The problem is the sequence, not the person.
 
-Hayat Amin argues this is the most expensive hiring mistake a non-tech CEO can make: "You are hiring someone who needs infrastructure that does not exist, to build models for problems that do not need models. The first AI hire should be an operator who can deploy what already works." Beyond Elevation places fractional AI Operations operators into non-tech companies for exactly this reason. The companies that get AI right start with operations, not research.
+Hayat Amin calls this the most expensive hiring mistake a non-tech CEO can make: "You are hiring someone who needs infrastructure that does not exist, to build models for problems that do not need models. The first AI hire should be an operator who can deploy what already works." Beyond Elevation places fractional AI Operations operators into non-tech companies for exactly this reason. The companies that get AI right start with operations, not research.
 
 ## Why do non-tech companies hire data scientists first?
 
-Non-tech companies hire data scientists first because they copy Big Tech playbooks built on Big Tech infrastructure. Google, Amazon, and Meta hired data scientists because they already had petabytes of structured data, production ML pipelines, and engineering teams to deploy models. A mid-market manufacturer, logistics firm, or professional services business has none of that, and the mismatch destroys the hire.
+Non-tech companies hire data scientists first because they copy Big Tech playbooks built on Big Tech infrastructure. Google, Amazon and Meta hired data scientists because they already had petabytes of structured data, production ML pipelines and engineering teams to deploy models. A mid-market manufacturer, logistics firm or professional services business has none of that, and the mismatch sinks the hire.
 
 The pattern repeats across industries. A CEO reads about AI transformation, approves a £100,000-plus hire, brings in a data scientist with a PhD, and expects results. Six months later, the data scientist has built a proof-of-concept model on a cleaned subset of data that took three months to extract from five different systems. The model is accurate. Nobody uses it. The CEO wonders where the ROI went.
 
@@ -27,11 +27,11 @@ A non-tech company's first AI hire should audit existing workflows, identify the
 
 Hayat Amin developed the **AI Hire Sequencing Method** after watching dozens of non-tech companies burn their first AI budget on the wrong role. The method is direct: operations first, analytics second, custom models third, and most companies never need step three.
 
-**Week 1 to 4: Process audit.** Map every manual, repetitive process across finance, operations, customer service, and compliance. Quantify the hours spent and error rates. Rank by automation feasibility and financial impact.
+**Week 1 to 4: Process audit.** Map every manual, repetitive process across finance, operations, customer service and compliance. Quantify the hours spent and error rates. Rank by automation feasibility and financial impact.
 
 **Week 5 to 8: Deploy and test.** Implement off-the-shelf AI tools, document processing, automated reporting, customer response drafting, invoice matching, on the top three targets. No custom models. No data infrastructure projects. Commercial tools that work out of the box.
 
-**Week 9 to 12: Measure and expand.** Document hours saved, error rates reduced, and cost avoided. Present the business case for the next round of automation. Only now does the question of custom analytics or data science arise, and only if the commercial tools cannot solve the next tier of problems.
+**Week 9 to 12: Measure and expand.** Document hours saved, error rates reduced, and cost avoided. Present the business case for the next round of automation. The question of custom analytics or data science only comes up now, and only if commercial tools can't solve the next tier of problems.
 
 ## How much does a first AI hire cost a non-tech company?
 
@@ -47,7 +47,7 @@ A competent first AI hire at a non-tech company should deliver three measurable 
 
 Hayat Amin reminds founders that the 90-day test is non-negotiable: "If your AI hire cannot point to hours saved and errors eliminated within one quarter, you hired the wrong profile. AI operations is not a research project. It is a P&L line."
 
-Real numbers from Beyond Elevation engagements tell the story. A 120-person logistics company automated invoice matching and delivery scheduling in 11 weeks, cutting 340 hours of manual processing per month and reducing invoice errors from 4.2% to 0.3%. A professional services firm deployed AI-assisted contract review and automated monthly reporting in 8 weeks, saving 180 hours per month across the finance and legal teams. Neither engagement required a data scientist or a custom model.
+Two Beyond Elevation engagements show what this looks like. A 120-person logistics company automated invoice matching and delivery scheduling in 11 weeks, cutting 340 hours of manual processing per month and reducing invoice errors from 4.2% to 0.3%. A professional services firm deployed AI-assisted contract review and automated monthly reporting in 8 weeks, saving 180 hours per month across the finance and legal teams. Neither engagement required a data scientist or a custom model.
 
 ## When should a non-tech company hire a data scientist?
 
@@ -87,7 +87,7 @@ A fractional AI operations operator who works two to three days per week, audits
 
 ### Can a non-tech company use AI without hiring anyone?
 
-Yes, for surface-level tasks. Off-the-shelf tools like document processors, chatbots, and automated reporting can be deployed by existing staff. But beyond basic adoption, a dedicated AI operations person is needed to identify the highest-value automation targets, integrate tools with existing systems, and measure ROI. The gap between using ChatGPT and running AI operations is an operator, not a subscription.
+Yes, for surface-level tasks: off-the-shelf tools like document processors, chatbots, and automated reporting can be deployed by existing staff. Beyond basic adoption, a dedicated AI operations person is needed to identify the highest-value automation targets, integrate tools with existing systems, and measure ROI. Closing that gap takes an operator, a subscription alone doesn't do it.
 
 ### How do I know if I need an AI operations hire or a data scientist?
 
