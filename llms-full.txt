@@ -7268,3 +7268,23 @@ Good AI operations results are measurable reductions in cycle time, cost per tra
 The difference between a successful AI operations deployment and a failed one is almost never the technology. It is whether someone established a baseline before deploying, chose 
 
 ---
+
+## AI Consulting for Small Businesses: What It Costs and When to Skip It
+
+URL: https://beyondelevation.com/insights/ai-consulting-for-small-businesses
+
+AI consulting for a small business is an outsider picking which of your processes are worth automating, then building them inside the systems you already run. Published rates sit between 100 and 500 dollars an hour, and a small fixed scope project between 5,000 and 25,000 dollars. Before you pay any of that, spend 20 dollars a month on tools and find out what actually breaks.
+
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies. He now builds this work inside small and mid sized companies himself instead of writing a report about it. That's why the sections below on price and handover are blunter than a consultancy's own page. Every number here was read on the publisher's own page on 19 September 2026, and where nobody publishes a number, we say so.
+
+## the four shapes it comes in, and what each one leaves you holding
+
+"AI consulting" covers four different products at four different prices, and the confusion between them is where most of the money goes missing.
+
+Advisory is a diagnosis. Somebody interviews your people for two weeks and hands back a roadmap. You own a document. Nothing in your company has changed, and the build is quoted separately.
+
+Implementation is somebody building the thing. They get logins to your accounting package and your customer record, write the integration, and leave it running. You own working software.
+
+Managed automation is implementation plus a monthly fee to keep it alive. It's the right shape wh
+
+---
