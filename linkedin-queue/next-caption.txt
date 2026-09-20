@@ -1,22 +1,15 @@
-Your management accounts were written for HMRC.
-Not your acquirer.
+Your IP strategy is probably a cost line. It should be a revenue line.
 
-That difference costs founders 2x on exit.
+IP monetisation is the process of turning patents, data, and trade secrets into recurring income.
 
-Acquirers read 4 things before they read anything else:
+Most founders have never heard the term. They file patents to protect their product. Not to generate cash from licensing, royalties, or asset sales.
 
-Monthly not quarterly
+A medtech founder had 3 patents sitting idle for 4 years. Maintenance fees going out. Zero revenue coming in.
 
-Revenue tied to invoices not estimates
+18 months after an IP monetisation review: £220K annual licensing income. Pure margin. No new product launched.
 
-EBITDA with a written add-back schedule
+73% of UK SMEs with registered IP generate £0 from it.
 
-13-week rolling cash forecast
+That is a cash flow problem with a known solution.
 
-73% of SME deals required financial restatements in due diligence.
-
-Average cost: £180K and 6 weeks of leverage you don't get back.
-
-Get investor-grade accounts before the call. Not after it.
-
-#FractionalCFO #ExitReadiness #Acquisitions
+#IPStrategy #Licensing #FractionalCFO
