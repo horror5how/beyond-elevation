@@ -298,7 +298,7 @@ capital-efficiency-ip-valuation-multiple-2026
 three-rights-that-set-the-rate
 ai-engineer-hiring-ip-contamination-2026
 cheap-patents-kill-the-old-moat
-deepgram-paid-for-the-data
+deepdram-paid-for-the-data
 ip-insurance-vc-requirement-2026
 three-ip-moves-one-repricing
 one-patent-one-automaker
@@ -704,3 +704,4 @@ ai-operating-model-structure-2026
 fractional-cfo-first-90-days-2026
 management-accounts-exit-multiple-2026
 what-is-ip-monetisation
+ai-pilot-to-production-gap

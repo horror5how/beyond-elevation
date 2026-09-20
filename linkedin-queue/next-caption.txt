@@ -1,15 +1,19 @@
-Your IP strategy is probably a cost line. It should be a revenue line.
+70% of AI pilots work. Less than 15% reach production.
 
-IP monetisation is the process of turning patents, data, and trade secrets into recurring income.
+The gap isn't technology.
 
-Most founders have never heard the term. They file patents to protect their product. Not to generate cash from licensing, royalties, or asset sales.
+It's operations.
 
-A medtech founder had 3 patents sitting idle for 4 years. Maintenance fees going out. Zero revenue coming in.
+Companies with a pilot team and companies with an AI Operations function are different organisations.
 
-18 months after an IP monetisation review: £220K annual licensing income. Pure margin. No new product launched.
+A pilot has a project owner.
 
-73% of UK SMEs with registered IP generate £0 from it.
+A production system has an operator — accountable for uptime, data quality, and business outcome every week.
 
-That is a cash flow problem with a known solution.
+That's the difference between AI as a one-off demo and AI as infrastructure.
 
-#IPStrategy #Licensing #FractionalCFO
+Build the function first. The pilots follow.
+
+3 months. Costs less than one senior hire.
+
+#AIOperations #FractionalExecutive #AI
