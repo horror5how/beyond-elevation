@@ -7324,3 +7324,19 @@ Investors read cash, unit economics, and risk — in that order, and usually not
 This is not a style preference. It is a triage system. Investors sit on multiple boards. They receive board packs from every portfolio company, typically within the same 48-hour window before a quarterly meeting. They cannot read all of them cover to cover. So they read the cash position first, because that determines urgency. Then unit economics, because that determines trajectory. Then th
 
 ---
+
+## AI for Insurance Agencies: the 9 Numbers You Should See Live, Not at Month End
+
+URL: https://beyondelevation.com/insights/ai-for-insurance-agencies
+
+AI earns its keep in an independent insurance agency at nine numbers, and every one of them is sitting in a system that will not hand it over. Your hit ratio lives in the rater, your commission lives in a carrier statement, your service backlog lives in somebody's inbox, and none of the three talks to the agency management system you paid for. The Big "I" Agents Council for Technology reported in July 2026 that only 25 percent of agencies actively use their own data to make decisions, quoting the 2024 Agency Universe Study. That is the gap worth closing first, ahead of any chatbot.
+
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he has built the version of this dashboard that a buyer's accountant will accept. He builds the work inside small and mid sized companies himself now instead of writing a report about it. Every figure below was read on the publisher's own page on 20 September 2026, and we say so plainly where a vendor publishes nothing.
+
+## which insurance agencies this pays for
+
+Four symptoms qualify an agency. Your comparative rater, your management system and your carrier portals are three separate products, and a service person retypes between them. Your commission statements arrive as PDFs and somebody reconciles them by eye. You cannot tell a producer their hit ratio this week without building a spreadsheet. And the number you run the agency on, whatever it is, arrives after the month closes.
+
+Size decides
+
+---
