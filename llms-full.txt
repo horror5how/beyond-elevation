@@ -7354,3 +7354,17 @@ Big Four consulting firms — Deloitte, PwC, EY, and KPMG — charge between £2
 The billing model drives the cost. Consultancies sell teams, not outcomes. A £1.5 million engagement might staff two partners, a senior manager, three associates, and a junior analyst. The partners attend the steering committee. The associates build the slide deck. The analyst runs the spr
 
 ---
+
+## The Intangible Assets Valuation Gap: Why Two Identical Companies Exit at Different Multiples
+
+URL: https://beyondelevation.com/insights/valuation-gap-intangibles-2026
+
+Two companies in the same sector, with the same revenue, the same margins, and the same growth rate walk into an M&A process. One exits at 12x EBITDA. The other exits at 7x. The intangible assets valuation gap — the difference in how each company documented, protected, and positioned its intellectual property, data, and know-how — accounts for 30 to 60 per cent of that spread.
+
+According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now represent 90 per cent of S&P 500 market capitalisation, up from 17 per cent in 1975. Yet most private companies treat their intangible assets the way they treat office furniture — owned, vaguely tracked, never valued. Hayat Amin, who has priced more than $400 million in IP across restructurings and exits, argues that the intangible assets valuation gap is the single largest source of value destruction in mid-market M&A. &ldquo;Every founder thinks revenue drives the multiple,&rdquo; Hayat Amin says. &ldquo;Revenue sets the baseline. Intangibles set the distance above it.&rdquo;
+
+## What Is the Intangible Assets Valuation Gap?
+
+The intangible assets valuation gap is the difference between what a company&rsquo;s intangible assets are actually worth in a transaction and what the company&rsquo;s balance sheet, data room, and pitch deck communicate to buyers. Most acquirers and investors price intangibles implicitly — they see the revenue, sense the defensibility, and apply a gut-feel premium or discount. The gap appea
+
+---

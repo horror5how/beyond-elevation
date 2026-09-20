@@ -435,5 +435,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [What Investors Want in a Board Pack in 2026 (and What They Skip)](https://beyondelevation.com/insights/board-pack-what-investors-want-2026) — /insights/md/board-pack-what-investors-want-2026.md
 - [AI for Insurance Agencies: the 9 Numbers You Should See Live, Not at Month End](https://beyondelevation.com/insights/ai-for-insurance-agencies) — /insights/md/ai-for-insurance-agencies.md
 - [Big-Firm Consultancy Fees vs a Fractional Executive: Same Problem, 10x Price Gap](https://beyondelevation.com/insights/fractional-executive-vs-consultancy-fees) — /insights/md/fractional-executive-vs-consultancy-fees.md
+- [The Intangible Assets Valuation Gap: Why Two Identical Companies Exit at Different Multiples](https://beyondelevation.com/insights/valuation-gap-intangibles-2026) — /insights/md/valuation-gap-intangibles-2026.md
 
 > Full blog content available at /llms-full.txt
