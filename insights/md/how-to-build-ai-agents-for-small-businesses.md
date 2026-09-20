@@ -15,7 +15,7 @@ Hayat Amin has spent twenty years as a technology chief financial officer and so
 
 ## what you are building, in one paragraph
 
-An agent is software you give a goal and access to your own systems, and it picks the steps. That's the whole difference from the automation you already run. A Zap fires when a form is submitted and does what you told it. An agent reads the enquiry, decides it's a returning customer with an unpaid invoice, and handles both. We wrote the buying side of this in [what an AI agent for small business actually is](/insights/what-is-an-ai-agent-for-small-business/). This piece is the building side, and it assumes you've already decided the job is worth doing.
+An agent is software you give a goal and access to your own systems, and it picks the steps. That's the whole difference from the automation you already run. A Zap fires when a form is submitted and does what you told it. An agent reads the enquiry, decides it's a returning customer with an unpaid invoice, and handles both. We wrote the buying side of this in [what an AI agent for small business is](/insights/what-is-an-ai-agent-for-small-business/). This piece is the building side, and it assumes you've already decided the job is worth doing.
 
 ## step one, pick the process rather than the department
 

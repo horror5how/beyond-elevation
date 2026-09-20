@@ -43,7 +43,7 @@ You can't judge a 12,000 dollar quote without knowing what the same job costs if
 
 Zapier's Free plan gives you 100 tasks a month and 400 agent activities. Professional starts at 19.99 dollars a month on annual billing for 750 tasks, or 29.99 paid monthly. Team starts at 69.00 dollars a month annually. n8n's Community Edition is free and open source if you host it yourself, and its Cloud Starter plan is 20 euros a month billed annually for 2,500 executions, with Pro at 50 euros. The model calls underneath are cheaper than people expect: Anthropic publishes Haiku 4.5 at 1 dollar per million input tokens and 5 dollars per million output, Sonnet 5 at 2 and 10.
 
-The honest floor for a first automation is about 20 dollars a month plus your own weekend. A 12,000 dollar project is 50 years of Zapier Professional at the annual price, which is our arithmetic off their published number, not theirs. That doesn't make 12,000 dollars wrong. It makes it a number you should be able to explain to your bookkeeper. The explanation has to be about the part the subscription can't do.
+The honest floor for a first automation is about 20 dollars a month plus your own weekend. A 12,000 dollar project is 50 years of Zapier Professional at the annual price, which is our arithmetic off their published number, not theirs. 12,000 dollars can still be the right number. It has to be one you can explain to your bookkeeper, and the explanation has to be about the part the subscription can't do.
 
 ## why companies pay for it anyway
 
@@ -51,9 +51,9 @@ Two pieces of evidence, both worth reading before you decide.
 
 The first is MIT Media Lab's Project NANDA report, "The GenAI Divide: State of AI in Business 2025", published July 2025 off a review of more than 300 publicly disclosed AI initiatives, 52 structured interviews and 153 survey responses from senior leaders. Against 30 to 40 billion dollars of enterprise spending, it found only 5 percent of custom enterprise AI tools reach production. The authors put the failure on adoption rather than on the models. Pilots stall because the tool doesn't retain feedback or adapt to how the work is done.
 
-The second is the United States Census Bureau, which asks this question every fortnight. In its Business Trends and Outlook Survey covering 14 December 2025 to 3 May 2026, overall AI use hovered between 17 and 20 percent of firms, reaching 19.8 percent nationally by the May collection. Break it by headcount and the gap opens: fewer than 20 percent of firms with four or fewer employees use AI, against 32 percent of firms with 100 to 249 staff and 37 percent of firms with at least 250. Use rose among firms with 20 or more employees over that period and didn't move significantly below 20. By sector, information sits at 39.7 percent and finance and insurance at 33.9, while retail trade runs near 14.
+The second is the United States Census Bureau, which asks this question every fortnight. In its Business Trends and Outlook Survey covering 14 December 2025 to 3 May 2026, overall AI use hovered between 17 and 20 percent of firms, reaching 19.8 percent nationally by the May collection. Break it by headcount and the gap opens: fewer than 20 percent of firms with four or fewer employees use AI, against 32 percent of firms with 100 to 249 staff and 37 percent of firms with at least 250. Use rose among firms with 20 or more employees over that period and stayed near 20. By sector, information sits at 39.7 percent and finance and insurance at 33.9, while retail trade runs near 14.
 
-A 9 person company isn't behind because its owner is slower. It's behind because nobody there has this as their job. That's the gap a consultant sells into. It's a real one.
+At a 9 person company, nobody has this as their job. That's why it falls behind, and it's the gap a consultant sells into. The gap is real.
 
 ## seven questions that separate a builder from a slide deck
 
@@ -67,7 +67,7 @@ Where does the code live? It should be in a repository you control, under your a
 
 What happens to this if I stop paying you? Ask it out loud and watch the face.
 
-Show me the last one you built for a company my size. Not a logo wall. The process, the systems it joined, what it does now.
+Show me the last one you built for a company my size, not a logo wall of clients. Walk me through the process, the systems it joined, and what it does now.
 
 How will we know in 90 days whether it worked? Make them name the number before the build, because after the build everyone is generous.
 
@@ -81,7 +81,7 @@ Skip it while you still want advice rather than a build. The Small Business Admi
 
 Skip it when the real problem is that a number lives in somebody's head. No model fixes that. The data build comes first. Any firm that agrees to automate around a missing system is taking your money.
 
-## What a fair engagement looks like
+## Terms of a fair engagement
 
 Fixed price for the first build, not hours. Hours reward slowness and neither side can forecast them.
 

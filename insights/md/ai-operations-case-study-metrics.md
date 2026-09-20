@@ -9,27 +9,27 @@ site: Beyond Elevation
 
 # What Good AI Operations Results Look Like: Before-and-After Numbers
 
-Good AI operations results show up in three places within 90 days. Cycle time drops by 40 to 70 percent, headcount-per-task ratios halve, and error rates fall below manual baselines. According to McKinsey's 2026 State of AI report, companies with dedicated AI operations leadership see 3.2 times higher return on their AI investments than companies that delegate AI to IT. Yet 80 percent of companies deploying AI cannot produce a single before-and-after number.
+Good AI operations results show up in three places within 90 days. Cycle time drops by 40 to 70 per cent, headcount-per-task ratios halve, and error rates fall below manual baselines. According to McKinsey's 2026 State of AI report, companies with dedicated AI operations leadership see 3.2 times higher return on their AI investments than companies that delegate AI to IT. Yet 80 per cent of companies deploying AI cannot produce a single before-and-after number.
 
 Hayat Amin calls this an operator problem. "Companies that cannot show AI operations results after 90 days did not deploy AI operations," Amin says. "They deployed software and hoped."
 
 Here is what real AI operations results look like, measured across three deployment categories with specific before-and-after numbers that separate working deployments from expensive experiments.
 
-## What good AI operations results look like
+## Good AI operations results: what they look like
 
 Good AI operations results are measurable reductions in cycle time, cost per transaction, and error rate within a defined business function, delivered within 90 days of deployment, with a clear baseline comparison. These are financial metrics your CFO can verify and your board can evaluate, not model accuracy scores, adoption dashboards, or vague productivity improvements.
 
 The difference between a successful AI operations deployment and a failed one is almost never the technology. It is whether someone established a baseline before deploying, chose the right process to automate first, and measured the output in business terms rather than technical terms.
 
-Beyond Elevation tracks AI operations results across three categories: finance and reporting, customer operations, and back-office administration. Each has a different measurement profile, a different expected timeline, and a different return curve. Here are the numbers.
+Beyond Elevation tracks AI operations results across three categories: finance and reporting, customer operations, and back-office administration. Each has its own measurement profile, timeline, and return curve. Here are the numbers.
 
 ## Finance and reporting: the AI operations results that appear fastest
 
 Finance automation delivers AI operations results faster than any other function because the processes are structured, the data is clean, and the cost per error is high. A manual month-end close in a company with £5 million to £50 million revenue typically takes 12 to 18 working days. With AI agents handling reconciliation, variance analysis, and report assembly, that drops to 2 to 4 days.
 
-**Before AI operations:** 15-day average close cycle. 4.2 FTE hours per reconciliation. 6 percent manual error rate on journal entries. £2,400 per close in overtime costs alone.
+**Before AI operations:** 15-day average close cycle. 4.2 FTE hours per reconciliation. 6 per cent manual error rate on journal entries. £2,400 per close in overtime costs alone.
 
-**After AI operations (90 days):** 3-day close cycle. 0.8 FTE hours per reconciliation. 0.3 percent error rate. Zero overtime.
+**After AI operations (90 days):** 3-day close cycle. 0.8 FTE hours per reconciliation. 0.3 per cent error rate. Zero overtime.
 
 That is a structural change in how the finance function operates, not a rounding improvement. Hayat Amin's rule for finance automation is blunt. "If your close takes more than five days and you have not deployed agents on reconciliation, you are overpaying for a solved problem."
 
@@ -37,13 +37,13 @@ The key metric boards care about is the cost-per-close divided by revenue, not t
 
 ## Customer operations: where AI operations results compound
 
-Customer operations AI results take longer to mature but compound faster because every improvement feeds back into the training data. The typical deployment targets tier-one support, document processing, and routing, the high-volume, repetitive work that consumes 60 to 70 percent of a support team's time.
+Customer operations AI results take longer to mature but compound faster because every improvement feeds back into the training data. The typical deployment targets tier-one support, document processing, and routing, the high-volume, repetitive work that consumes 60 to 70 per cent of a support team's time.
 
-**Before AI operations:** 340 tickets per agent per month. 22-minute average handle time. 14 percent escalation rate. First-response time of 4.2 hours during business hours.
+**Before AI operations:** 340 tickets per agent per month. 22-minute average handle time. 14 per cent escalation rate. First-response time of 4.2 hours during business hours.
 
-**After AI operations (90 days):** AI handles 55 percent of tier-one tickets autonomously. Average handle time drops to 8 minutes for agent-handled tickets. Escalation rate falls to 6 percent. First-response time hits 11 seconds, 24/7.
+**After AI operations (90 days):** AI handles 55 per cent of tier-one tickets autonomously. Average handle time drops to 8 minutes for agent-handled tickets. Escalation rate falls to 6 per cent. First-response time hits 11 seconds, 24/7.
 
-The compounding effect matters more than the initial improvement. Every resolved ticket generates labelled training data. Every correct routing decision improves the next one. By month six, the autonomous resolution rate typically climbs from 55 percent to 72 percent without additional engineering work.
+The compounding effect matters more than the initial improvement. Every resolved ticket generates labelled training data. Every correct routing decision improves the next one. By month six, the autonomous resolution rate typically climbs from 55 per cent to 72 per cent without additional engineering work.
 
 This is the data flywheel in practice, and it is the reason Hayat Amin tells founders that AI operations results should accelerate, not plateau. "If your AI metrics are flat after month three, your operator is not feeding the loop," Amin says.
 
@@ -51,9 +51,9 @@ This is the data flywheel in practice, and it is the reason Hayat Amin tells fou
 
 Back-office AI operations results are the hardest to measure because the work was never measured properly in the first place. Invoice processing, contract review, compliance checks, onboarding workflows, and internal reporting consume enormous hours that rarely appear on any dashboard.
 
-**Before AI operations:** Invoice processing at 8 minutes per invoice with 3 percent error rate. Contract review at 45 minutes per standard NDA. Employee onboarding taking 12 hours of HR time per hire. Internal report generation consuming 2 FTE days per week.
+**Before AI operations:** Invoice processing at 8 minutes per invoice with 3 per cent error rate. Contract review at 45 minutes per standard NDA. Employee onboarding taking 12 hours of HR time per hire. Internal report generation consuming 2 FTE days per week.
 
-**After AI operations (90 days):** Invoice processing at 40 seconds per invoice with 0.4 percent error rate. Contract review at 6 minutes per standard NDA with AI flagging non-standard clauses for human review. Onboarding reduced to 2 hours of human oversight per hire. Report generation fully automated with human review only.
+**After AI operations (90 days):** Invoice processing at 40 seconds per invoice with 0.4 per cent error rate. Contract review at 6 minutes per standard NDA with AI flagging non-standard clauses for human review. Onboarding reduced to 2 hours of human oversight per hire. Report generation fully automated with human review only.
 
 The savings per process look modest in isolation. In aggregate, they typically recover 1.5 to 3 FTE roles. For a company running a lean team, that is either significant cost reduction or the capacity to grow revenue without growing headcount, which is the metric acquirers and investors value most.
 
@@ -77,9 +77,9 @@ The Scorecard forces a discipline most AI deployments lack, measuring what chang
 
 The failure rate is a process problem, not a technology one, with three consistent root causes that Beyond Elevation sees in almost every engagement.
 
-**No baseline.** You cannot show a before-and-after if you never measured the before. Most companies deploy AI into processes they have never timed, costed, or error-rated. Without a baseline, every improvement is a claim. With a baseline, it is proof.
+**No baseline.** You cannot show a before-and-after if you never measured the before. Most companies deploy AI into processes they have never timed, costed, or error-rated. Without a baseline, every improvement is a claim, not proof.
 
-**Wrong process first.** Companies automate what excites them, not what pays them. A creative AI copilot generates internal buzz. An accounts payable agent generates measurable savings. The first process to automate should always be the one with the highest volume, the most structured steps, and the highest cost per error, not the most innovative one. For guidance on sequencing, see [what to automate first](/insights/automate-first/).
+**Wrong process first.** Companies automate what excites them instead of what pays them. A creative AI copilot generates internal buzz. An accounts payable agent generates measurable savings. The first process to automate should be the one with the highest volume, the most structured steps, and the highest cost per error, rather than the most innovative one. For guidance on sequencing, see [what to automate first](/insights/automate-first/).
 
 **No operator.** AI without an operator is a science project. Someone needs to own the deployment, measure the results, feed the data loop, and adjust the system weekly. This is what an [AI operations function](/insights/what-is-ai-operations/) does, an ongoing discipline rather than a single implementation, the same way finance operations and sales operations are ongoing disciplines.
 
@@ -97,7 +97,7 @@ A structured AI operations engagement, the kind Beyond Elevation runs as a fract
 
 **Days 76 to 90:** Results documentation. The Scorecard is updated with after-deployment numbers. A summary for the board compares baseline to current state across all five metrics. The after numbers are real, auditable, and denominated in money.
 
-The output is not a report about what AI could do. It is a spreadsheet showing what AI did do. That distinction is the difference between a conversation about AI strategy and a conversation about expanding the AI operations budget.
+The output is a spreadsheet showing what AI did do, not a report about what it could do, and that's the difference between a conversation about AI strategy and one about expanding the AI operations budget.
 
 Book an AI operations assessment at [beyondelevation.com](https://beyondelevation.com) and get the baseline numbers that turn your next AI conversation into a before-and-after case.
 

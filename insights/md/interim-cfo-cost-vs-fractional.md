@@ -31,11 +31,11 @@ Beyond Elevation's fractional CFO engagements start at £4,000 per month for com
 
 ## Why is there a 5x price gap for the same job title?
 
-The price gap exists because interim and fractional CFOs solve different problems. An interim CFO is a crisis-grade hire priced for urgency and total commitment. A fractional CFO is a retained operator priced for ongoing value over months or years. One is a hotel room. The other is a lease.
+The price gap exists because interim and fractional CFOs solve different problems. An interim CFO is a crisis-grade hire priced for urgency and total commitment, like a hotel room booked by the night. A fractional CFO is a retained operator priced for ongoing value over months or years, more like a lease.
 
 Interim CFOs charge premium day rates because they accept short-term risk: no job security, no equity, no benefits, no guarantee of the next engagement. They also carry transition costs, learning your business from scratch, then handing it back when the contract ends. The day rate compensates for that instability.
 
-Fractional CFOs charge lower monthly rates because the relationship is ongoing. They build institutional knowledge over time. They do not need to re-learn your chart of accounts every quarter. Hayat Amin calls this the compounding advantage: a fractional CFO who has been in your business for twelve months knows where every number hides, where every leak sits, and what the board will ask before they ask it. An interim CFO walking in cold needs six to eight weeks just to reach baseline competence.
+Fractional CFOs charge lower monthly rates because the relationship is ongoing. They build institutional knowledge over time and don't need to re-learn your chart of accounts every quarter. Hayat Amin calls this the compounding advantage: a fractional CFO who has been in your business for twelve months knows where the numbers sit, where the leaks are, and what the board will ask before they ask it. An interim CFO walking in cold needs six to eight weeks just to reach baseline competence.
 
 ## When should you pay interim CFO day rates?
 
@@ -55,13 +55,13 @@ A fractional CFO retainer is the better investment when you need ongoing finance
 
 Hayat Amin's Finance Leadership Pricing Test is a three-question filter Beyond Elevation uses with every new enquiry:
 
-**Question one: Is there a deadline forcing that kind of intensity?** If not, if what you need is better numbers, better reporting, better forecasting rather than a deal closing in 90 days, a fractional retainer covers it at a fraction of the interim cost.
+**Question one: Is there a deadline forcing that kind of intensity?** If not, if what you need is better numbers and forecasting rather than a deal closing in 90 days, a fractional retainer covers it at a fraction of the interim cost.
 
 **Question two: Will you need this person in twelve months?** If yes, you are building a function, and functions are built by retained operators who compound knowledge over time. An interim hands over a binder and leaves.
 
-**Question three: Can the scope fit into one to two days a week?** If yes, a fractional CFO can deliver what you need without paying for someone in the seat five days a week. Modern finance stacks, AI-assisted reconciliation, automated reporting, live dashboards, mean a skilled fractional CFO can run a finance function in two days that used to take five.
+**Question three: Can the scope fit into one to two days a week?** If yes, a fractional CFO can deliver what you need without paying for someone in the seat five days a week. Modern finance stacks, AI-assisted reconciliation and live dashboards, mean a skilled fractional CFO can run a finance function in two days that used to take five.
 
-If you answer no, yes, yes, or even two out of three, the fractional model wins on cost, continuity, and outcome.
+If you answer no, yes, yes, or even two out of three, the fractional model wins on cost and continuity.
 
 ## What is the hidden cost most companies miss?
 

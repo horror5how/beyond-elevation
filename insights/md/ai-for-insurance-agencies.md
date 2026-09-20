@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # AI for Insurance Agencies: the 9 Numbers You Should See Live, Not at Month End
 
-AI earns its keep in an independent insurance agency at nine numbers, and every one of them is sitting in a system that will not hand it over. Your hit ratio lives in the rater, your commission lives in a carrier statement, your service backlog lives in somebody's inbox, and none of the three talks to the agency management system you paid for. The Big "I" Agents Council for Technology reported in July 2026 that only 25 percent of agencies actively use their own data to make decisions, quoting the 2024 Agency Universe Study. That is the gap worth closing first, ahead of any chatbot.
+AI earns its keep in an independent insurance agency at nine numbers, and every one sits in a system that won't hand it over. Your hit ratio lives in the rater, your commission lives in a carrier statement, your service backlog lives in somebody's inbox, and none of the three talks to the agency management system you paid for. The Big "I" Agents Council for Technology reported in July 2026 that only 25 percent of agencies actively use their own data to make decisions, quoting the 2024 Agency Universe Study. That's the gap worth closing first, ahead of any chatbot.
 
 Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he has built the version of this dashboard that a buyer's accountant will accept. He builds the work inside small and mid sized companies himself now instead of writing a report about it. Every figure below was read on the publisher's own page on 20 September 2026, and we say so plainly where a vendor publishes nothing.
 
@@ -41,7 +41,7 @@ AgencyZoom puts renewal automation on its Growth plan at $199 a month for up to 
 
 ## 3. retention, counted the way a buyer counts it
 
-Policies in force at the start of the period against policies in force now, split by producer, carrier and line. Your management system can produce it, and the answer depends entirely on whether carrier download is writing cancellations back cleanly. Applied Epic publishes that "7 of the 10 largest insurance agencies are standardized on Applied Epic" and ships pre-built, role-based dashboards. Vertafore's AMS360 sells monthly, quarterly and annual trend reporting with KPI analysis, and claims "up to 26% revenue growth without adding employees".
+Policies in force at the start of the period against policies in force now, split by producer, carrier and line. Your management system can produce it, and the answer depends entirely on whether carrier download is writing cancellations back cleanly. Applied Epic publishes that "7 of the 10 largest insurance agencies are standardized on Applied Epic" and ships dashboards already set up for each role on the team. Vertafore's AMS360 sells monthly, quarterly and annual trend reporting with KPI analysis, and claims "up to 26% revenue growth without adding employees".
 
 Neither company publishes a price. HawkSoft does not publish a number either, but it does publish its shape, which is more useful than most: a base fee for the first user plus a set fee for each additional concurrent user with no tiers, "one base price for all core features, including all reporting", no fee to enable an integration, and 30 days notice to leave with no exit charge. That last clause is the one to check in your own contract before you build anything on top.
 
@@ -81,19 +81,19 @@ The number to build is plain: count of submissions by carrier, by class code, by
 
 Organic growth plus half of pro forma EBITDA margin is the industry's own summary score, and the 2026 Best Practices update reports it at 19.3 to 26.1 across the revenue bands, against 19.0 to 29.5 the year before. Agencies see it once a year, in a study, about last year.
 
-It is arithmetic on numbers 3, 4, 5 and 7. If those four are live, this one is live, and an owner can see in March that growth has softened rather than finding out the following August. Webb Milward of Reagan Consulting said in the same release that most Best Practices agencies are expected to put more money into producer recruitment. That is a decision you want to take against this month's score.
+It's arithmetic on numbers 3, 4, 5 and 7. If those four are live, this one is live too, and an owner can see in March that growth has softened rather than finding out the following August. Webb Milward of Reagan Consulting said in the same release that most Best Practices agencies plan to spend more on producer recruitment. That's a decision you want to make against this month's score.
 
 ## what a live dashboard will not fix
 
-Three honest limits. First, adoption is not the constraint people think it is. The 2026 Big "I" ACT Trends Report found only 8 percent of agencies have truly embedded AI in daily workflows, while Vertafore's 2026 Agency Technology and Growth Outlook found about a third actively using it and 39 percent still exploring. The winners are not the agencies with the best model. They are the ones whose data is joined up.
+Three honest limits. First, adoption isn't the constraint people think it is. The 2026 Big "I" ACT Trends Report found only 8 percent of agencies have embedded AI in daily workflows, while Vertafore's 2026 Agency Technology and Growth Outlook found about a third actively using it and 39 percent still exploring. What separates the winners is joined-up data, not the best model.
 
 Second, price discovery in this market is poor. AgencyZoom publishes its prices. EZLynx states openly that "there's no single flat rate" and asks you to call. Applied Systems, Vertafore, Comulate, Ascend, Semsee and Herald publish no price we could read. NowCerts served us nothing but a page title on two attempts, so we quote no figure from it at all. Budget for the sales calls.
 
-Third, every agency has one system nobody will touch. An inherited trust accounting setup, a producer's own spreadsheet, a carrier who only sends PDFs. That system is where buying stops and building starts, and it is usually where the interesting number is hiding.
+Third, every agency has one system nobody will touch. It might be an inherited trust accounting setup, a producer's own spreadsheet, or a carrier who only sends PDFs. That system is where buying stops and building starts, and it is usually where the interesting number is hiding.
 
 ## where Beyond Elevation fits, and the disclosure
 
-Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. We build items 8 and 9 and the awkward system in the paragraph above: the join between your rater, your management system, your carrier statements and the screen you actually run the week on. Hayat Amin goes into small and mid sized companies in New York City and across the United States as a forward deployed engineer, writes the integration inside your own stack rather than beside it, and hands it over documented and running. The engagement is described on the [forward deployed engineering page](/fde), and the build conversation is at [meethayat.com/services/fde](https://meethayat.com/services/fde). If the finance seat is the gap instead, that is [meethayat.com/cfo](https://meethayat.com/cfo). The same problem in other industries is in [AI for property management companies](/insights/ai-for-property-management-companies/) and [freight broker back office automation](/insights/freight-broker-back-office-automation/), and the general version is [how to automate your business](/insights/how-can-i-automate-my-business/).
+Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. We build items 8 and 9 and the awkward system in the paragraph above: the join between your rater, your management system, your carrier statements and the screen you run the week on. Hayat Amin goes into small and mid sized companies in New York City and across the United States as a forward deployed engineer, writes the integration inside your own stack rather than beside it, and hands it over documented and running. The engagement is described on the [forward deployed engineering page](/fde), and the build conversation is at [meethayat.com/services/fde](https://meethayat.com/services/fde). If the finance seat is the gap instead, that is [meethayat.com/cfo](https://meethayat.com/cfo). The same problem in other industries is in [AI for property management companies](/insights/ai-for-property-management-companies/) and [freight broker back office automation](/insights/freight-broker-back-office-automation/), and the general version is [how to automate your business](/insights/how-can-i-automate-my-business/).
 
 ## About Hayat Amin
 
@@ -145,7 +145,7 @@ Yes, and it is the wrong first purchase for most agencies. The question to ask a
 
 ### How can insurance agents use AI right now?
 
-Start where a person is retyping. Commission statement reconciliation has four vendors publishing figures on it, which is unusual and tells you the problem is common. Email triage into the management system is second. Renewal lists with last contact attached is third, and on AgencyZoom that is a $50 a month plan change rather than a project. The Big "I" ACT reported in July 2026 that only 8 percent of agencies have AI truly embedded in daily workflows, so the bar for being ahead in this market is still low.
+Start where a person is retyping. Commission statement reconciliation has four vendors publishing figures on it, which is unusual and tells you the problem is common. Email triage into the management system is second. Renewal lists with last contact attached is third, and on AgencyZoom that is a $50 a month plan change rather than a project. The Big "I" ACT reported in July 2026 that only 8 percent of agencies have AI embedded in daily workflows, so the bar for being ahead in this market is still low.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
