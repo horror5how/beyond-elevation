@@ -1,19 +1,11 @@
-70% of AI pilots work. Less than 15% reach production.
+Most founders hire an interim executive when they need a fractional one.
 
-The gap isn't technology.
+Interim is for a crisis. £1,500/day. 3–6 months. Exits when the fire's out.
 
-It's operations.
+Fractional is a permanent capability at £4,500/month. 18 months average. Builds the function and stays.
 
-Companies with a pilot team and companies with an AI Operations function are different organisations.
+One solves a problem that already happened. The other stops it happening again.
 
-A pilot has a project owner.
+The crisis costs you the same either way. Only one of them makes the function better.
 
-A production system has an operator — accountable for uptime, data quality, and business outcome every week.
-
-That's the difference between AI as a one-off demo and AI as infrastructure.
-
-Build the function first. The pilots follow.
-
-3 months. Costs less than one senior hire.
-
-#AIOperations #FractionalExecutive #AI
+#FractionalExecutive #Leadership #Operations
