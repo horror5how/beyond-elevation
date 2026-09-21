@@ -437,5 +437,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Big-Firm Consultancy Fees vs a Fractional Executive: Same Problem, 10x Price Gap](https://beyondelevation.com/insights/fractional-executive-vs-consultancy-fees) — /insights/md/fractional-executive-vs-consultancy-fees.md
 - [The Intangible Assets Valuation Gap: Why Two Identical Companies Exit at Different Multiples](https://beyondelevation.com/insights/valuation-gap-intangibles-2026) — /insights/md/valuation-gap-intangibles-2026.md
 - [The AI Readiness Audit: 15 Checks Before You Spend a Pound on Agents](https://beyondelevation.com/insights/ai-readiness-audit-checklist) — /insights/md/ai-readiness-audit-checklist.md
+- [Fractional vs Interim CFO: Two Different Tools For Two Different Problems](https://beyondelevation.com/insights/fractional-cfo-vs-interim-cfo) — /insights/md/fractional-cfo-vs-interim-cfo.md
 
 > Full blog content available at /llms-full.txt
