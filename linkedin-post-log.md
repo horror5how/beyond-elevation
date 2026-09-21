@@ -716,3 +716,4 @@
 2026-09-20 17:00 | QUEUED-BLOCKED | ai-pilot-to-production-gap | linkedin-post.yml disabled_manually (2026-07-29) AND LI_TOKEN expired (2026-06-17) — queue files committed with fresh AI-pillar post on AI pilot vs production gap (70% pilots pass POC, 12% reach production, 6mo avg stall); re-enable linkedin-post.yml in GitHub Settings → Actions + update LI_TOKEN Secret with fresh token to publish | 70% of AI pilots work. Less than 15% reach production.
 2026-09-21 07:51 | QUEUED | interim-vs-fractional-executive | linkedin-post.yml triggered — Most founders hire an interim executive when they need a fractional one.  Interi
 2026-09-21 12:52 | QUEUED | exit-ready-finance-function | Most founders start exit prep when the banker calls.  That's 18 months too late.
+2026-09-21 17:51 | QUEUED | cipo-first-90-days-2026 | linkedin-post.yml triggered — You hire a Chief IP Officer. Here's what they find in the first 90 days.  Day 1�
