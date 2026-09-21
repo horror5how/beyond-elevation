@@ -96,7 +96,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 | T7-25 | interim-cfo-cost-vs-fractional | interim CFO cost | Interim CFO Day Rates vs Fractional Retainers: the 2026 Price Gap | CFO | ✅ shipped 2026-09-18 |
 | T7-26 | trade-secrets-vs-patents-for-smes | trade secrets vs patents | Trade Secrets vs Patents for SMEs: the Cheaper Moat Most Companies Ignore | IP Strategy | ✅ shipped 2026-09-19 |
 | T7-27 | board-pack-what-investors-want-2026 | board pack template investors | What Investors Want in a Board Pack in 2026 (and What They Skip) | CFO | ✅ shipped 2026-09-19 |
-| T7-28 | ai-readiness-audit-checklist | AI readiness audit | The AI Readiness Audit: 15 Checks Before You Spend a Pound on Agents | AI Operations | |
+| T7-28 | ai-readiness-audit-checklist | AI readiness audit | The AI Readiness Audit: 15 Checks Before You Spend a Pound on Agents | AI Operations | ✅ shipped 2026-09-21 |
 | T7-29 | fractional-executive-vs-consultancy-fees | fractional executive vs consultancy | Big-Firm Consultancy Fees vs a Fractional Executive: Same Problem, 10x Price Gap | Leadership | ✅ shipped 2026-09-20 |
 | T7-30 | valuation-gap-intangibles-2026 | intangible assets valuation gap | The Valuation Gap: Why Two Identical Companies Exit at Different Multiples | Valuation | ✅ shipped 2026-09-20 |
 
