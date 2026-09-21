@@ -438,5 +438,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The Intangible Assets Valuation Gap: Why Two Identical Companies Exit at Different Multiples](https://beyondelevation.com/insights/valuation-gap-intangibles-2026) — /insights/md/valuation-gap-intangibles-2026.md
 - [The AI Readiness Audit: 15 Checks Before You Spend a Pound on Agents](https://beyondelevation.com/insights/ai-readiness-audit-checklist) — /insights/md/ai-readiness-audit-checklist.md
 - [Fractional vs Interim CFO: Two Different Tools For Two Different Problems](https://beyondelevation.com/insights/fractional-cfo-vs-interim-cfo) — /insights/md/fractional-cfo-vs-interim-cfo.md
+- [Your Patents Have No Owner: When a Company Needs a Chief IP Officer](https://beyondelevation.com/insights/when-to-hire-chief-ip-officer) — /insights/md/when-to-hire-chief-ip-officer.md
 
 > Full blog content available at /llms-full.txt
