@@ -1,13 +1,17 @@
-The average SME spends £2,300/month on AI tools.
+70% of startup patents earn £0 in licensing.
 
-60% delivers measurable ROI.
+Not because patents don't work.
 
-40% has no outcome attached.
+Because most are filed wrong.
 
-Most founders can't tell which is which.
+Wrong scope: claims too narrow to license or enforce.
 
-The audit takes 4 weeks. The savings cover a year of fractional CFO retainer.
+Wrong timing: filed pre-PMF, abandoned before product ships.
 
-What to cut: overlapping tools, anything with under 5 logins last quarter, anything the team works around.
+Wrong type: utility patent on a surface a design patent covers in 12 months at one-fifth the cost.
 
-#AIOperations #FractionalCFO #AIStrategy
+Three corrections fix this: right type for the surface, right timing for the stage, continuation strategy from day one.
+
+A 3-patent cluster with those corrections beats five standalone filings on licensing revenue.
+
+#IP #Patents #Founders
