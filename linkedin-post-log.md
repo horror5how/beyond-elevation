@@ -718,3 +718,4 @@
 2026-09-21 12:52 | QUEUED | exit-ready-finance-function | Most founders start exit prep when the banker calls.  That's 18 months too late.
 2026-09-21 17:51 | QUEUED | cipo-first-90-days-2026 | linkedin-post.yml triggered — You hire a Chief IP Officer. Here's what they find in the first 90 days.  Day 1�
 2026-09-22 07:52 | QUEUED | fractional-coo-vs-fractional-cfo | linkedin-post.yml triggered — Most founders hire a CFO first. It's the wrong call 60% of the time.  CFO fixes 
+2026-09-22 12:52 | QUEUED | ai-tool-spend-audit-sme-2026 | linkedin-post.yml triggered — The average SME spends £2,300/month on AI tools.  60% delivers measurable ROI. 
