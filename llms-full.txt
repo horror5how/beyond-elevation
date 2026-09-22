@@ -7450,3 +7450,19 @@ An AI operations operator embeds inside your company, builds the automations, de
 The distinction matters because AI implementation is not primarily a strategy problem. Most companies already know where AI could help. The bottleneck is execution: choosing the right tools, integrating them with existing systems, handling 
 
 ---
+
+## Why Your Law Firm Cannot Run Your IP Strategy
+
+URL: https://beyondelevation.com/insights/fractional-chief-ip-officer-vs-law-firm
+
+A fractional chief IP officer vs a law firm is not a close call. According to the 2025 Georgetown Law Center report on the legal industry, corporate IP spending has grown 11% year-on-year while patent licensing revenue for the average portfolio holder has stayed flat. Companies are spending more on outside IP counsel and getting less for it. Hayat Amin argues this is structural, not accidental: law firms sell hours, and hours do not produce strategy.
+
+The problem is not that your lawyers are bad at law. The problem is that law is not strategy. A patent attorney’s job is to prosecute claims. A fractional chief IP officer’s job is to turn those claims into revenue, licensing deals, and valuation premiums. These are fundamentally different skill sets, and most founders do not realise they are paying for one while needing the other.
+
+## Why Can a Law Firm Not Run Your IP Strategy?
+
+Law firms cannot run IP strategy because their business model rewards activity, not outcomes. A firm that bills 200 hours filing patents has no incentive to ask whether those patents are commercially relevant, and no mechanism to measure it. The result is portfolios full of claims that cost £30K each to prosecute and generate zero revenue.
+
+The structural misalignment runs deeper than incentives. Patent attorneys are trained in prosecution: claim drafting, prior art analysis, office action responses. None of that training covers market mapping, licensee identification, royalty rate negotiation, or port
+
+---
