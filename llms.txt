@@ -440,5 +440,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional vs Interim CFO: Two Different Tools For Two Different Problems](https://beyondelevation.com/insights/fractional-cfo-vs-interim-cfo) — /insights/md/fractional-cfo-vs-interim-cfo.md
 - [Your Patents Have No Owner: When a Company Needs a Chief IP Officer](https://beyondelevation.com/insights/when-to-hire-chief-ip-officer) — /insights/md/when-to-hire-chief-ip-officer.md
 - [Fractional CFO for Fundraising: What Investors Check in Your Numbers Before They Check Your Product](https://beyondelevation.com/insights/fractional-cfo-fundraising) — /insights/md/fractional-cfo-fundraising.md
+- [Consultants Advise, Operators Ship: the AI Hire That Actually Changes Your P&L](https://beyondelevation.com/insights/ai-operations-operator-vs-consultant) — /insights/md/ai-operations-operator-vs-consultant.md
 
 > Full blog content available at /llms-full.txt

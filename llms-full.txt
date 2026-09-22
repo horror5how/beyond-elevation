@@ -7434,3 +7434,19 @@ Beyond Elevation has prepared the finance function for over 30 raises across thr
 A fractional CFO for fundraising pressure-tests every financial claim in your pitch before investors do. They rebuild your model, reconcile your metrics, prepare your data room, and rehearse the due diligence process so nothing in your numbers
 
 ---
+
+## Consultants Advise, Operators Ship: the AI Hire That Actually Changes Your P&L
+
+URL: https://beyondelevation.com/insights/ai-operations-operator-vs-consultant
+
+An AI operations operator builds and ships working AI systems inside your company. An AI consultant delivers a strategy deck, a roadmap, and an invoice. According to RAND Corporation research, roughly 80 percent of enterprise AI projects fail to move from pilot to production — and the majority of those failures started with a consulting engagement that produced recommendations nobody could execute.
+
+Hayat Amin says the test is simple: "Ask what they shipped last quarter. A consultant names a strategy document. An operator names a system running in production. That one question saves you six months and £100,000." Beyond Elevation places AI operations operators, not consultants, because the distinction is not semantic. It is the difference between a company that talks about AI and a company where AI is doing the work.
+
+## What Is the Difference Between an AI Operations Operator and an AI Consultant?
+
+An AI operations operator embeds inside your company, builds the automations, deploys the agents, and stays until the system runs without them. An AI consultant analyses your business, recommends what to automate, and hands you a document. The operator's deliverable is a working system. The consultant's deliverable is advice about building one.
+
+The distinction matters because AI implementation is not primarily a strategy problem. Most companies already know where AI could help. The bottleneck is execution: choosing the right tools, integrating them with existing systems, handling 
+
+---
