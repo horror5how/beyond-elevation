@@ -442,5 +442,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional CFO for Fundraising: What Investors Check in Your Numbers Before They Check Your Product](https://beyondelevation.com/insights/fractional-cfo-fundraising) — /insights/md/fractional-cfo-fundraising.md
 - [Consultants Advise, Operators Ship: the AI Hire That Actually Changes Your P&L](https://beyondelevation.com/insights/ai-operations-operator-vs-consultant) — /insights/md/ai-operations-operator-vs-consultant.md
 - [Why Your Law Firm Cannot Run Your IP Strategy](https://beyondelevation.com/insights/fractional-chief-ip-officer-vs-law-firm) — /insights/md/fractional-chief-ip-officer-vs-law-firm.md
+- [The Finance Team That Costs Less Than One Hire: Building an AI Native Finance Function](https://beyondelevation.com/insights/ai-native-finance-function) — /insights/md/ai-native-finance-function.md
 
 > Full blog content available at /llms-full.txt

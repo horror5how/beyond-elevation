@@ -7466,3 +7466,19 @@ Law firms cannot run IP strategy because their business model rewards activity, 
 The structural misalignment runs deeper than incentives. Patent attorneys are trained in prosecution: claim drafting, prior art analysis, office action responses. None of that training covers market mapping, licensee identification, royalty rate negotiation, or port
 
 ---
+
+## The Finance Team That Costs Less Than One Hire: Building an AI Native Finance Function
+
+URL: https://beyondelevation.com/insights/ai-native-finance-function
+
+A five-person finance team costs between £180,000 and £300,000 per year in salary alone before you add software licences, office space, and management overhead. An AI native finance function delivers 80 percent of the same output for under £40,000. According to a 2026 Deloitte Digital CFO Survey, 68 percent of mid-market CFOs now report that at least one finance role has been fully replaced by automation in the past twelve months. Hayat Amin argues that most founders still overspend on finance headcount because they confuse compliance with strategy — and compliance is exactly what agents do better than humans.
+
+The AI native finance function is not a single tool. It is a stack: software agents handling bookkeeping, reconciliation, accounts payable, expense management, and management reporting, with a fractional CFO as the human layer that provides judgment, investor relations, and board-level strategy. The result is a finance operation that runs continuously, closes the books in two days instead of twelve, and costs less than a single mid-level hire.
+
+## What Is an AI Native Finance Function?
+
+An AI native finance function is a finance operation built from the ground up on automated agents and software, with human oversight limited to the decisions that require judgment, context, or stakeholder relationships. Unlike a traditional department that bolts AI tools onto existing workflows, this model starts with agents and adds humans only where automation cannot reach.
+
+The disti
+
+---
