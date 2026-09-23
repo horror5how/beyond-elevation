@@ -711,3 +711,4 @@ cipo-first-90-days-2026
 fractional-coo-vs-fractional-cfo
 ai-tool-spend-audit-sme-2026
 startup-patents-filed-wrong-2026
+two-day-month-end-close-playbook

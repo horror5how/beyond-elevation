@@ -1,17 +1,20 @@
-70% of startup patents earn £0 in licensing.
+Most finance teams take 8 days to close the month.
 
-Not because patents don't work.
+The best ones do it in 2.
 
-Because most are filed wrong.
+Not harder work. Different wiring.
 
-Wrong scope: claims too narrow to license or enforce.
+Day 1: automation runs while the month is still open.
+Day 2: human review on a clean ledger.
 
-Wrong timing: filed pre-PMF, abandoned before product ships.
+3 things that unlock a 2-day close:
+Revenue recognised at transaction, not month-end.
+Bank rec runs on Day 28, not Day 31.
+Variance commentary auto-drafted from actuals vs budget.
 
-Wrong type: utility patent on a surface a design patent covers in 12 months at one-fifth the cost.
+Faster close means cleaner numbers.
+Cleaner numbers mean a better exit.
 
-Three corrections fix this: right type for the surface, right timing for the stage, continuation strategy from day one.
+If your close still takes a week, the problem is wiring, not effort.
 
-A 3-patent cluster with those corrections beats five standalone filings on licensing revenue.
-
-#IP #Patents #Founders
+#CFO #FractionalCFO #FinanceOps
