@@ -7498,3 +7498,19 @@ A fractional managing director runs the daily operations of a company on a part-
 The difference between a fractional MD and a consultant is execution. A consultant advises. A fractional managing director decides, hires, fires, and signs off. They carry
 
 ---
+
+## The AI Back Office: Your Admin Function Should Be Software By Now
+
+URL: https://beyondelevation.com/insights/ai-back-office-small-company
+
+The average small company employs three to six people for pure administration — invoicing, accounts payable, expense coding, payroll prep, compliance filings — and pays £180,000 to £260,000 a year for the privilege. According to a 2026 Deloitte automation index, 61 percent of those tasks are now fully automatable with off-the-shelf AI agents. Hayat Amin puts it plainly: &ldquo;If your back office still runs on headcount doing work a prompt handles in seconds, you are not running a lean company — you are subsidising a process you forgot to redesign.&rdquo;
+
+An AI back office replaces the manual admin layer with AI agents that handle invoicing, payables, payroll preparation, and compliance filing — supervised by one human reviewer instead of a full department. [Beyond Elevation](https://beyondelevation.com) builds these for companies between 10 and 200 employees, and the cost difference is not marginal — it is structural.
+
+## What Exactly Is an AI Back Office?
+
+An AI back office is an operating model where AI agents perform the core administrative functions — accounts payable, accounts receivable, expense management, payroll preparation, compliance reporting, and document processing — that a traditional small company staffs with three to six full-time employees. The human role shifts from doing the work to reviewing the output, handling exceptions, and making judgment calls.
+
+This is not a bolt-on. It is a rearchitecture. In a traditional back office, a bookkeeper enters invoic
+
+---
