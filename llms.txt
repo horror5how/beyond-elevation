@@ -446,5 +446,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The Fractional Managing Director: When a Company Needs Leadership, Not Headcount](https://beyondelevation.com/insights/fractional-managing-director) — /insights/md/fractional-managing-director.md
 - [The AI Back Office: Your Admin Function Should Be Software By Now](https://beyondelevation.com/insights/ai-back-office-small-company) — /insights/md/ai-back-office-small-company.md
 - [Interim Fixes a Crisis. Fractional Builds a Function. Know Which One You Are Buying.](https://beyondelevation.com/insights/interim-vs-fractional-executive) — /insights/md/interim-vs-fractional-executive.md
+- [The First 90 Days of an AI Operations Rollout: What to Automate With AI Agents First](https://beyondelevation.com/insights/what-to-automate-first-with-ai-agents) — /insights/md/what-to-automate-first-with-ai-agents.md
 
 > Full blog content available at /llms-full.txt
