@@ -1,13 +1,17 @@
-Most companies still have a full-time C-suite. That is a legacy cost.
+73% of AI implementations fail to scale past month 6.
 
-One full-time CFO salary buys four fractional executives covering finance, IP, AI operations, and general management.
+Not because the AI stopped working.
 
-Deploy all four in 14 days. Not 6 months.
+Because no one owned it after launch.
 
-No notice period. No NI contributions. No equity dilution.
+A dedicated AI Ops function delivers 2.3x faster deployment.
 
-The full-time C-suite was built for an era when there was no other option.
+It compounds every workflow into the next one.
 
-There is now.
+Your competitors aren't buying better AI.
 
-#FractionalExecutive #CFO #BusinessStrategy
+They're building better ownership.
+
+Assign one person. Build the roadmap. Or spend £2,300/month on tools your team has quietly stopped using.
+
+#AIOperations #OperationalExcellence #BusinessStrategy
