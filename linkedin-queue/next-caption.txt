@@ -1,17 +1,15 @@
-73% of AI implementations fail to scale past month 6.
+Two companies. Same revenue. Same headcount. One exits at 3x. The other at 8x.
 
-Not because the AI stopped working.
+The difference is three numbers most accountants never flag.
 
-Because no one owned it after launch.
+Customer concentration: if your top customer is more than 30% of revenue, the acquirer discounts the multiple.
 
-A dedicated AI Ops function delivers 2.3x faster deployment.
+Net revenue retention: 120% NRR gets a premium. 85% NRR gets a question mark. The gap is whether existing customers spend more each year.
 
-It compounds every workflow into the next one.
+Revenue predictability: £3M recurring beats £5M project every time.
 
-Your competitors aren't buying better AI.
+Most founders learn this during diligence. By then it is too late to fix.
 
-They're building better ownership.
+Your CFO should know this before the process starts.
 
-Assign one person. Build the roadmap. Or spend £2,300/month on tools your team has quietly stopped using.
-
-#AIOperations #OperationalExcellence #BusinessStrategy
+#ExitReadiness #FractionalCFO #MandA
