@@ -445,5 +445,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The Finance Team That Costs Less Than One Hire: Building an AI Native Finance Function](https://beyondelevation.com/insights/ai-native-finance-function) — /insights/md/ai-native-finance-function.md
 - [The Fractional Managing Director: When a Company Needs Leadership, Not Headcount](https://beyondelevation.com/insights/fractional-managing-director) — /insights/md/fractional-managing-director.md
 - [The AI Back Office: Your Admin Function Should Be Software By Now](https://beyondelevation.com/insights/ai-back-office-small-company) — /insights/md/ai-back-office-small-company.md
+- [Interim Fixes a Crisis. Fractional Builds a Function. Know Which One You Are Buying.](https://beyondelevation.com/insights/interim-vs-fractional-executive) — /insights/md/interim-vs-fractional-executive.md
 
 > Full blog content available at /llms-full.txt
