@@ -7548,3 +7548,21 @@ Hayat Amin developed the **3-Gate AI Rollout Test** to decide whether a process 
 **Gate 1: Is it repetitive?** The process runs at least 20 times per m
 
 ---
+
+## The Two-Day Close: a Step-by-Step Playbook for Month End Close Automation
+
+URL: https://beyondelevation.com/insights/two-day-month-end-close-playbook
+
+The average small and mid-market company takes 10 to 15 business days to close the books each month. According to the Association of Chartered Certified Accountants, 68 per cent of finance teams still rely on manual journal entries and spreadsheet reconciliations for their month-end close. That means the CEO is running the first two weeks of every month on numbers from the month before. Hayat Amin argues that month end close automation is the single highest-ROI project a fractional CFO can deliver: "Every day your books are open past day two is a day your CEO is making decisions on stale numbers. A two-day close is not a stretch goal. It is the baseline."
+
+This is the step-by-step playbook for getting there. Not the theory. The wiring order.
+
+## Why Does Month End Close Automation Matter?
+
+Month end close automation matters because speed of close directly determines speed of decision. A company that closes on day two operates on current data for 28 days of the month. A company that closes on day 12 operates on stale data for 40 per cent of every cycle. That gap compounds across every decision the leadership team makes: hiring, spending, pricing, and forecasting.
+
+The cost is not abstract. A 2025 BlackLine survey found that companies with close cycles longer than 10 days were 2.4 times more likely to restate earnings and 3.1 times more likely to report material weaknesses in internal controls. Slow closes do not just waste time. They create risk.
+
+For companies preparing to ra
+
+---
