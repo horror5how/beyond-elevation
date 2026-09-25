@@ -719,3 +719,4 @@ revenue-quality-exit-multiple-2026
 cfo-cipo-collaboration-ip-revenue-2026
 ai-output-vs-outcome-measurement-2026
 data-asset-cfo-balance-sheet
+most-valuable-ip-asset-2026
