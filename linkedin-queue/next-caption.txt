@@ -1,21 +1,16 @@
-Your AI stack ran 12,000 tasks last month.
+73% of CFOs have never put a number on their company's data.
 
-Your revenue didn't move.
+It's probably their second-biggest asset.
 
-That's the measurement problem.
+Data doesn't depreciate. It compounds.
 
-73% of companies track AI by tasks completed or hours saved.
+Every query, transaction, and customer signal your business generates has a reuse value your balance sheet ignores.
 
-Neither is a business outcome.
+Three ways data creates real financial value:
+- Licensing it to third parties (Reddit earns $203M/yr)
+- Using it to train proprietary models your competitors can't replicate
+- Pledging it as collateral for non-dilutive capital
 
-Hours saved that aren't redeployed are just cost displacement on a server bill.
+A CFO who can't value data can't defend the balance sheet in 2026.
 
-Tasks automated without process redesign create new bottlenecks upstream.
-
-The companies winning with AI measure one thing: revenue or margin per unit of AI spend.
-
-Everything else is a vanity metric.
-
-Fix the KPI before the next rollout.
-
-#AIOperations #BusinessStrategy #FractionalCFO
+#FractionalCFO #DataStrategy #CFO
