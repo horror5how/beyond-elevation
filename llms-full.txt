@@ -7566,3 +7566,21 @@ The cost is not abstract. A 2025 BlackLine survey found that companies with clos
 For companies preparing to ra
 
 ---
+
+## How to Hire Someone Who Has Actually Shipped AI (Not Just Talked About It)
+
+URL: https://beyondelevation.com/insights/hire-ai-operations-expert
+
+83% of AI transformation projects fail to deliver measurable ROI. The pattern behind most failures is identical: the company hired a strategist when it needed an operator who could wire AI into the business and prove it on the P&L.
+
+If you are trying to hire an AI operations expert, the odds are stacked against you. According to McKinsey's 2026 State of AI survey, only 17% of companies that began an AI transformation in the past two years report positive returns. The rest spent six figures on pilots that never reached production.
+
+The gap between the 17% and everyone else is not budget, data quality, or model selection. It is the person running the programme. Hayat Amin argues that the single biggest mistake companies make is treating the role like a technology hire. "Most companies post a job ad for a data scientist or an ML engineer and wonder why nothing ships," Amin says. "An AI operations expert is not a technologist. They are an operator who happens to understand AI well enough to wire it into the processes that move the P&L."
+
+This guide covers what an AI operations expert actually does, what to look for when you hire one, what they cost, and whether you need a full-time employee, a contractor, or a [fractional AI operations operator](/insights/ai-operations-operator-vs-consultant/).
+
+## What Does an AI Operations Expert Actually Do?
+
+An AI operations expert identifies which business processes can be automated or augmented with AI, builds the systems to deliver it, and
+
+---
