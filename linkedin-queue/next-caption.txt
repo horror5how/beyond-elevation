@@ -1,13 +1,14 @@
-Hire a fractional CFO. Here is what they do in the first 100 days.
+Most founders automate the wrong thing first.
 
-Week 1: audit what exists. Bank access, accounting software, last 3 years of accounts.
+They pick the task that looks impressive. Not the one that compounds.
 
-Week 2: build a 13-week rolling cash forecast. Not projections. Real cash timing.
+Start with finance: close, collections, reporting.
+These three touch every investor conversation you will have.
 
-Month 2: find the top 3 revenue leaks. Most SMEs lose 18% of revenue to process gaps.
+The right first three automations cut 6 days from your month-end close.
+That is the win that funds everything after.
 
-Month 3: one dashboard, three KPIs. Every decision runs through it.
+73% of AI pilots pass the POC. Less than 15% reach production.
+The difference is what you automate, not how good the model is.
 
-CFOs who spend 100 days in meetings are consultants in disguise.
-
-#FractionalCFO #Finance #Founders
+#AIOperations #FractionalCFO #AIAgents
