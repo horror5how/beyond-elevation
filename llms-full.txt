@@ -7584,3 +7584,19 @@ This guide covers what an AI operations expert actually does, what to look for w
 An AI operations expert identifies which business processes can be automated or augmented with AI, builds the systems to deliver it, and
 
 ---
+
+## COO or CFO First? The Order Most Founders Get Backwards
+
+URL: https://beyondelevation.com/insights/fractional-coo-vs-fractional-cfo
+
+Sixty-one percent of scaling companies that hire a fractional COO before a fractional CFO end up bringing in a CFO within six months anyway. According to a 2025 Deloitte CFO Signals survey, companies that built their finance infrastructure before their operations layer hit revenue targets at nearly double the rate of those that sequenced it the other way around. The fractional COO vs fractional CFO question is the most expensive hiring decision most founders get wrong — and Hayat Amin argues the answer is simpler than most founders want to hear.
+
+Hire the fractional CFO first. Not because finance matters more than operations. Because finance reveals whether you have an operations problem at all. Most of the chaos founders blame on operations — missed deadlines, team overload, margin erosion — is a visibility problem. You cannot fix what you cannot measure. The CFO measures. Then the COO fixes what the measurement exposes.
+
+## What Is the Real Difference Between a Fractional COO and a Fractional CFO?
+
+A fractional COO owns execution — process design, team structure, delivery cadence, and operational throughput. A fractional CFO owns the numbers — cash flow forecasting, unit economics, financial reporting, and capital strategy. The confusion starts because both roles touch how the business runs, but they answer fundamentally different questions. The COO asks are we building efficiently. The CFO asks are we building profitably.
+
+Beyond Elevation places both roles, and the most c
+
+---
