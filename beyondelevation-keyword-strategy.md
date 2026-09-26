@@ -127,7 +127,7 @@ search and Gemini. Who gets cited instead: small directories and listicle sites
 | T6-21 | ai-operations-roi-measurement | AI operations ROI | measure AI ROI, AI automation savings, AI business case | The Only Three Numbers That Prove Your AI Rollout Worked | AI Operations | |
 | T6-22 | data-asset-cfo-balance-sheet | data as a company asset | data valuation CFO, data on balance sheet, monetize company data | The Asset Your Balance Sheet Ignores: a CFO's Guide to Data | Data | |
 | T6-23 | ip-strategy-for-non-tech-companies | IP strategy for non-tech companies | IP for manufacturers, trade secrets SME, brand IP strategy | You Do Not Need a Lab to Have an IP Strategy | IP Strategy | |
-| T6-24 | first-100-days-fractional-cfo | fractional CFO first 100 days | new CFO checklist, CFO onboarding, finance function audit | What a Good Fractional CFO Does in the First 100 Days | CFO | |
+| T6-24 | first-100-days-fractional-cfo | fractional CFO first 100 days | new CFO checklist, CFO onboarding, finance function audit | What a Good Fractional CFO Does in the First 100 Days | CFO | ✅ first-100-days-fractional-cfo |
 
 ## (Archived preamble — old IP-only strategy)
 
