@@ -452,5 +452,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [COO or CFO First? The Order Most Founders Get Backwards](https://beyondelevation.com/insights/fractional-coo-vs-fractional-cfo) — /insights/md/fractional-coo-vs-fractional-cfo.md
 - [What a Good Fractional CFO Does in the First 100 Days](https://beyondelevation.com/insights/first-100-days-fractional-cfo) — /insights/md/first-100-days-fractional-cfo.md
 - [Your Board Approved an AI Strategy Nobody On It Can Evaluate](https://beyondelevation.com/insights/board-ai-capability-gap) — /insights/md/board-ai-capability-gap.md
+- [Exit-Ready Is a Finance State, Not a Banker Deck](https://beyondelevation.com/insights/exit-ready-finance-function) — /insights/md/exit-ready-finance-function.md
 
 > Full blog content available at /llms-full.txt
