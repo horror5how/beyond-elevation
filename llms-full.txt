@@ -7618,3 +7618,21 @@ The first 48 hours are about access: bank accounts, accounting software, payroll
 By end of week o
 
 ---
+
+## Your Board Approved an AI Strategy Nobody On It Can Evaluate
+
+URL: https://beyondelevation.com/insights/board-ai-capability-gap
+
+Board AI capability is the ability of a company's board of directors to evaluate, govern, and hold accountable the AI investments the company makes. According to a 2026 MIT Sloan Management Review survey, only 12% of corporate boards include a member with direct AI deployment experience. The rest approve budgets they cannot evaluate, timelines they cannot challenge, and risk assessments they cannot verify.
+
+Hayat Amin says this is the most expensive governance failure in 2026. After sitting in board meetings where seven-figure AI budgets were approved in under fifteen minutes with zero technical questions asked, Amin argues that the gap between approval and capability is where companies burn capital, miss deployment deadlines, and build AI assets they do not legally own.
+
+The fix is not what most boards expect. It is not an AI training workshop. It is not adding a data scientist to the board. It is putting an operator in the room — someone who has shipped AI systems and can translate between the engineering team's metrics and the board's financial language.
+
+## What Does Board AI Capability Actually Require?
+
+Board AI capability requires the ability to evaluate four things: whether the AI investment will generate measurable returns, whether the IP being created is captured and protected, whether the deployment timeline is realistic, and whether the governance structure meets regulatory requirements. Most boards can do none of these.
+
+The problem is structural. Board members a
+
+---
