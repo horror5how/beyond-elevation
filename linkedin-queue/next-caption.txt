@@ -1,14 +1,13 @@
-Most founders automate the wrong thing first.
+VCs rejected your raise. Your IP data room was probably missing 3 things.
 
-They pick the task that looks impressive. Not the one that compounds.
+Most founders hand investors a folder of patent certificates.
 
-Start with finance: close, collections, reporting.
-These three touch every investor conversation you will have.
+That's not a data room.
 
-The right first three automations cut 6 days from your month-end close.
-That is the win that funds everything after.
+A real IP data room has four sections: ownership chain, freedom-to-operate, licensing revenue history, and third-party risk.
 
-73% of AI pilots pass the POC. Less than 15% reach production.
-The difference is what you automate, not how good the model is.
+67% of failed IP diligence traces to one missing section.
 
-#AIOperations #FractionalCFO #AIAgents
+Build it before the investor asks. Not after.
+
+#IPStrategy #Fundraising #Founders
