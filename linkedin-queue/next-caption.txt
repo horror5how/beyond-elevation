@@ -1,17 +1,15 @@
-Your burn rate doesn't tell investors what they need to know.
+Most founders track AI spend. Nobody tracks the cost of not having it.
 
-Your burn multiple does.
+The average back-office process that could be automated takes 4 months to ship without a dedicated AI ops function.
 
-Burn rate: how fast you're spending.
+That delay costs £18,000 in labour per process.
 
-Burn multiple: dollars burned per dollar of new ARR.
+Multiply by 6 processes. That is £108,000 sitting in your P&L doing nothing.
 
-Under 1.5x: you're building a machine.
+No vendor sells you that number. No consultant puts it in their proposal.
 
-Above 3x: VCs pass. Quietly.
+An AI Operations operator does.
 
-73% of pre-Series A founders can't calculate theirs on the spot.
+They own the build, the rollout, and the compounding — not just the slide deck.
 
-Your fractional CFO should flag it every month before your investors ask.
-
-#fractionalCFO #startupfinance #venturecapital
+#AIOperations #FractionalExecutive #BeyondElevation
