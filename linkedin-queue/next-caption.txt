@@ -1,13 +1,17 @@
-VCs rejected your raise. Your IP data room was probably missing 3 things.
+Your burn rate doesn't tell investors what they need to know.
 
-Most founders hand investors a folder of patent certificates.
+Your burn multiple does.
 
-That's not a data room.
+Burn rate: how fast you're spending.
 
-A real IP data room has four sections: ownership chain, freedom-to-operate, licensing revenue history, and third-party risk.
+Burn multiple: dollars burned per dollar of new ARR.
 
-67% of failed IP diligence traces to one missing section.
+Under 1.5x: you're building a machine.
 
-Build it before the investor asks. Not after.
+Above 3x: VCs pass. Quietly.
 
-#IPStrategy #Fundraising #Founders
+73% of pre-Series A founders can't calculate theirs on the spot.
+
+Your fractional CFO should flag it every month before your investors ask.
+
+#fractionalCFO #startupfinance #venturecapital
