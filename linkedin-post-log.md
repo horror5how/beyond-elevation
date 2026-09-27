@@ -1,1 +1,1 @@
-placeholder
+2026-05-09 17:41 | urn:li:share:7458934074427113472 | post #3 | ai-licensing-recurring-revenue-line-founder-playbook | 3 ways to turn your content into a licensing line.
