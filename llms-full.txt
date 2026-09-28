@@ -7668,3 +7668,21 @@ Most AI ROI calculations fail because they measure technology performance instea
 The incentive structure makes this worse. AI vendors sell on capability metrics. Internal teams report on usage metrics. Neither group is motivated to answer 
 
 ---
+
+## The Full-Time C-Suite Is a Legacy Cost: Running Your Company on a Fractional Executive Team
+
+URL: https://beyondelevation.com/insights/run-company-on-fractional-executives
+
+A full-time C-suite costs £700K to £1.2M a year. For a company doing £10M to £25M in revenue, that is 6 to 12 percent of topline sitting in three chairs that do not need to be occupied five days a week.
+
+The fix is structural, not staffing: a fractional executive team. Three part-time operators — each running a real function, each with a real seat at the table — for the fully loaded cost of one permanent hire. According to a 2025 Carta analysis, 58 percent of Series A and Series B funded companies now employ at least one fractional C-suite executive, up from 26 percent in 2022. Hayat Amin argues the number should be 100 percent below £25M revenue: "Every sub-£25M company I advise runs better with three fractional executives than with one full-time CFO and two empty seats."
+
+This is not a compromise. It is an upgrade. Here is how it works, what it costs, and when it breaks down.
+
+## What Is a Fractional Executive Team?
+
+A fractional executive team is a coordinated group of part-time C-suite operators — typically a CFO, a Chief IP Officer, and an AI Operations lead — who run their functions on a retained basis rather than a full-time salary. Each executive works one to three days per week, brings operator-grade experience from exits and scale-ups, and costs 60 to 80 percent less than a permanent equivalent.
+
+The model works because most C-suite functions at sub-£25M companies do not require five days of attention per week. A [fractional CFO](/insights/what-is-a-fractional-cfo/)
+
+---
