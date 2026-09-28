@@ -728,3 +728,4 @@ burn-multiple-founders-metric-2026
 cost-of-no-ai-operations-2026
 fractional-executive-q4-speed-2026
 ip-strategy-for-non-tech-companies
+q4-finance-function-audit-2026
