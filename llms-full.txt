@@ -7724,3 +7724,17 @@ The monthly rate splits by role:
 **Fractional CFO: £3,000–£8,000 per month** (1–3 days per week). Covers month-end close, fundraising preparation, board reporting, and finance function design. At the top end, you get an operator who has closed exits and sat in du
 
 ---
+
+## The Asset Your Balance Sheet Ignores: a CFO's Guide to Data
+
+URL: https://beyondelevation.com/insights/data-asset-cfo-balance-sheet
+
+Ninety percent of S&P 500 market capitalisation sits in intangible assets, according to Ocean Tomo's 2025 Intangible Asset Market Value Study, yet the average CFO reports fewer than 5 percent of those intangibles on the balance sheet. Data is the largest uncounted asset in most technology companies. If you are a CFO who treats data as an IT cost line, you are undervaluing your company by 20 to 40 percent — and Hayat Amin argues that gap is the single easiest win a fractional CFO can deliver in the first 90 days.
+
+Data as a company asset is not an abstract concept. It is a measurable, reportable, and increasingly bankable line item that changes how investors price your business, how lenders underwrite your debt, and how acquirers structure their offers. Beyond Elevation has valued data portfolios for companies from seed to Series C, and the conclusion is always the same: the data was worth more than the founders assumed, and less than the data scientists claimed. The truth sits in the financial model, which is why the CFO — not the CTO — should own the number.
+
+## Why Does Data Qualify as a Company Asset?
+
+Data qualifies as a company asset when it meets three conditions: the company controls it, it resulted from a past event such as collection or purchase, and it is expected to generate future economic benefit. Under IFRS and increasingly under GAAP, internally generated data that meets these criteria can be recognised as an intangible asset on the balance sheet, provided the 
+
+---
