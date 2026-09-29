@@ -456,5 +456,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The Only Three Numbers That Prove Your AI Operations ROI](https://beyondelevation.com/insights/ai-operations-roi-measurement) — /insights/md/ai-operations-roi-measurement.md
 - [The Full-Time C-Suite Is a Legacy Cost: Running Your Company on a Fractional Executive Team](https://beyondelevation.com/insights/run-company-on-fractional-executives) — /insights/md/run-company-on-fractional-executives.md
 - [You Do Not Need a Lab to Have an IP Strategy](https://beyondelevation.com/insights/ip-strategy-for-non-tech-companies) — /insights/md/ip-strategy-for-non-tech-companies.md
+- [One Full-Time Executive Salary Buys You Three Fractional Ones. Here Is the Math.](https://beyondelevation.com/insights/fractional-executive-cost-comparison) — /insights/md/fractional-executive-cost-comparison.md
 
 > Full blog content available at /llms-full.txt
