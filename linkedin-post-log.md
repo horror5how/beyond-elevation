@@ -739,3 +739,4 @@
 2026-09-28 12:52 | QUEUED | ip-strategy-for-non-tech-companies | linkedin-post.yml triggered — You don't need a lab to have IP worth protecting.  A manufacturer's process is a
 2026-09-28 17:57 | QUEUED | q4-finance-function-audit-2026 | linkedin-post.yml triggered — Your acquirer will request 36 months of management accounts. Most SMEs can produce 12.
 2026-09-29 07:52 | QUEUED | automate-before-next-hire-q4 | linkedin-post.yml triggered — You're about to make a hire in Q4.  Before you do, run this test.  Take the top 
+2026-09-29 12:54 | QUEUED | how-to-manage-fractional-executive | linkedin-post.yml triggered — Most companies hire a fractional exec. Nobody tells them how to manage one.  3 m
