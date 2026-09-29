@@ -1,17 +1,15 @@
-Your acquirer will request 36 months of management accounts. Most SMEs can produce 12. Maybe.
+You're about to make a hire in Q4.
 
-Q4 is when the gap between your finance function and your ambitions becomes visible.
+Before you do, run this test.
 
-Three things investors check before they look at your product:
+Take the top 3 tasks in that job description. Paste them into an AI agent. Give it a week.
 
-Management accounts that reconcile to bank statements
+Most founders discover they don't need the hire. They need the automation.
 
-A 13-week rolling cash forecast — not a spreadsheet
+A £50,000 salary buys one person. The same budget, deployed as AI operations, covers 8 processes for 3 years.
 
-Revenue split by customer, not just by product line
+Headcount is the expensive answer to a process problem.
 
-Get these wrong and you lose 20–30% of your exit multiple before negotiations start.
+Automate before you hire.
 
-The fix is not a better accountant. It is a function that runs on process, not people.
-
-#FractionalCFO #ExitReady #Founders
+#AIOperations #Automation #FractionalCFO
