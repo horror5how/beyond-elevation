@@ -1,23 +1,13 @@
-Your back office employs 3 people who do tasks software now handles in minutes.
+Your board approved an AI strategy. Nobody on it can evaluate whether it's working.
 
-Invoice processing.
+3 non-executives. Zero with hands-on AI deployment experience.
 
-Bank reconciliation.
+AI is now the fastest-growing spend line on most SME P&Ls. The people signing off have never deployed an agent.
 
-Management accounts.
+That is a governance gap, not an AI problem.
 
-These are not jobs. They are delays.
+Average cost: £340K in misdirected AI spend before anyone asks the right question.
 
-AI operations replaces the admin cycle with an automated one. Not 10% faster. Fully automated.
+The fix is not another consultant deck. It is one operator on the board who has actually shipped AI.
 
-The average SME back office runs 14 manual processes. Our clients automate 9 of them in 90 days.
-
-That is £18,000 a month in recovered capacity.
-
-The question is not whether your back office should be software.
-
-It should be.
-
-The question is why it is not yet.
-
-#AIOperations #FractionalCFO #BackOffice
+#Leadership #AIOperations #BoardGovernance
