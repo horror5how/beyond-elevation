@@ -458,5 +458,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [You Do Not Need a Lab to Have an IP Strategy](https://beyondelevation.com/insights/ip-strategy-for-non-tech-companies) — /insights/md/ip-strategy-for-non-tech-companies.md
 - [One Full-Time Executive Salary Buys You Three Fractional Ones. Here Is the Math.](https://beyondelevation.com/insights/fractional-executive-cost-comparison) — /insights/md/fractional-executive-cost-comparison.md
 - [The Asset Your Balance Sheet Ignores: a CFO's Guide to Data](https://beyondelevation.com/insights/data-asset-cfo-balance-sheet) — /insights/md/data-asset-cfo-balance-sheet.md
+- [Your Burn Rate Is Not a Cash Flow Forecast. Here Is the 13-Week Model That Stops the Number One Startup Killer.](https://beyondelevation.com/insights/cash-flow-forecast-13-week-model) — /insights/md/cash-flow-forecast-13-week-model.md
 
 > Full blog content available at /llms-full.txt

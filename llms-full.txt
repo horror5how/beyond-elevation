@@ -7738,3 +7738,21 @@ Data as a company asset is not an abstract concept. It is a measurable, reportab
 Data qualifies as a company asset when it meets three conditions: the company controls it, it resulted from a past event such as collection or purchase, and it is expected to generate future economic benefit. Under IFRS and increasingly under GAAP, internally generated data that meets these criteria can be recognised as an intangible asset on the balance sheet, provided the 
 
 ---
+
+## Your Burn Rate Is Not a Cash Flow Forecast. Here Is the 13-Week Model That Stops the Number One Startup Killer.
+
+URL: https://beyondelevation.com/insights/cash-flow-forecast-13-week-model
+
+Twenty-nine percent of startups die because they run out of cash. Not because the product failed. Not because the market disappeared. Because the founder watched a burn rate number on a dashboard and mistook it for a cash flow forecast.
+
+According to CB Insights' 2025 analysis of 1,100 startup failures, cash mismanagement is the number one killer of funded companies. Hayat Amin argues that the problem is not capital — it is visibility. Most founders know their monthly burn to the penny but cannot tell you within £100,000 when they will actually run out of money. The fix is not more runway. It is a 13-week cash flow forecast — the single most important financial model a CFO builds, and the one most founders do not have.
+
+A burn rate tells you how fast you are spending. A 13-week cash flow forecast tells you exactly when every pound arrives and every pound leaves — week by week, line by line, for the next quarter. One is a speedometer. The other is a GPS. The companies that survive are the ones that navigate.
+
+## What Is a 13-Week Cash Flow Forecast?
+
+A 13-week cash flow forecast is a rolling weekly projection of every cash inflow and outflow for the next 91 days. It is the standard liquidity management tool used by institutional investors, turnaround firms, and serious CFOs — and it is radically different from the monthly P&L projections most startups rely on for cash planning.
+
+The 13-week model works at the cash level, not the accrual level. Revenue recognition, deferred inc
+
+---
