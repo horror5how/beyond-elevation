@@ -1,13 +1,23 @@
-Q4 starts today. Your board wants 5 metrics. Most management teams can produce 2.
+Your back office employs 3 people who do tasks software now handles in minutes.
 
-Net Revenue Retention tells investors if your product works. 110%+ means customers expand before you sell more.
+Invoice processing.
 
-Burn Multiple tells them if your growth is fundable. Above 1.5x and each pound of new ARR costs more than it earns to generate.
+Bank reconciliation.
 
-Customer concentration is the number most founders hide. One client over 30% of revenue kills institutional LOIs before they start.
+Management accounts.
 
-The three your accountant never flags: gross margin by product line, cash conversion score, IP revenue as its own line.
+These are not jobs. They are delays.
 
-A fractional CFO builds this pack in week one. Your bookkeeper builds a P&L.
+AI operations replaces the admin cycle with an automated one. Not 10% faster. Fully automated.
 
-#fractionalcfo #boardreporting #founders
+The average SME back office runs 14 manual processes. Our clients automate 9 of them in 90 days.
+
+That is £18,000 a month in recovered capacity.
+
+The question is not whether your back office should be software.
+
+It should be.
+
+The question is why it is not yet.
+
+#AIOperations #FractionalCFO #BackOffice
