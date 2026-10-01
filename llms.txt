@@ -462,5 +462,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Private Equity Spends 18 Months Finding a Full-Time CFO. The Best Funds Fill the Seat in Two Weeks.](https://beyondelevation.com/insights/fractional-executives-for-private-equity) — /insights/md/fractional-executives-for-private-equity.md
 - [78% of AI Pilots Die Before Production. The Problem Is Not the Technology.](https://beyondelevation.com/insights/ai-pilot-proof-of-value-30-day-framework) — /insights/md/ai-pilot-proof-of-value-30-day-framework.md
 - [How Much Does AI Automation Cost? The Four Lines on the Bill, Priced](https://beyondelevation.com/insights/how-much-does-ai-automation-cost) — /insights/md/how-much-does-ai-automation-cost.md
+- [Financial Due Diligence Kills More Deals Than Valuation Disputes. Here Is the Checklist That Stops It.](https://beyondelevation.com/insights/financial-due-diligence-kills-deals) — /insights/md/financial-due-diligence-kills-deals.md
 
 > Full blog content available at /llms-full.txt
