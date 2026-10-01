@@ -1,13 +1,25 @@
-Most companies enter Q4 with 12 AI subscriptions. 3 of them are doing the work.
+Your accountant added £340K back to your EBITDA. Your acquirer rejected £280K of it.
 
-The rest produce demos, reports nobody reads, and outputs that go nowhere.
+Here's what sticks in diligence — and what doesn't.
 
-Average SME: £18K/month on AI tools. Less than half connects to a workflow.
+Add-backs acquirers accept:
 
-An AI audit in Q4 is not about cutting spend.
+Founder salary above benchmarked market rate. If documented.
 
-It is about finding the 3 that compound. And stopping the 9 that burn budget.
+One-off legal fees for a resolved dispute. With the invoice.
 
-If your AI stack cannot answer this — what decision did it change last month — you need the audit.
+Capex reclassified as opex under £50K. If auditable.
 
-#AIOperations #OperationalEfficiency #FractionalExecutive
+Add-backs acquirers reject:
+
+"Management time." Every time.
+
+Normalisation adjustments without third-party support.
+
+Related-party transactions at off-market rates.
+
+At 6.5x EBITDA, that £280K rejection costs £1.82m at exit.
+
+Fix your add-back schedule before you appoint advisers.
+
+#FractionalCFO #ExitReadiness #EBITDA
