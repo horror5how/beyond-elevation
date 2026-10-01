@@ -7788,3 +7788,23 @@ An AI pilot is a time-boxed deployment of an AI agent or workflow on a single bu
 The failure pattern is consistent. A company identifies ten processes that "could use A
 
 ---
+
+## How Much Does AI Automation Cost? The Four Lines on the Bill, Priced
+
+URL: https://beyondelevation.com/insights/how-much-does-ai-automation-cost
+
+AI automation costs a small business about 25 to 145 dollars a month to run for one process at 1,000 jobs a month, and 1,500 to 4,000 dollars to have built if the process is simple. The build is the big number. The software and the model are the small ones, and most quotes hide which is which.
+
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he reads an automation quote the way a buyer reads a contract. He now builds this work inside companies himself. Every price below was read on the vendor's own page on 1 October 2026. Where a figure is our arithmetic or our assumption, we say so next to it.
+
+## the four lines on every automation bill
+
+Every automation you pay for has four costs, whether the quote lists them or not. There's the build, which is somebody's time turning your process into steps. There's the platform, the subscription that runs those steps. There's the model, the per use charge when a step needs to read or write like a person. And there's upkeep, the hours each quarter when a supplier changes a form or a system updates its connection.
+
+Ask for all four on one page before you compare two quotes. A 2,000 dollar build on a platform that costs 1,800 dollars a year is a dearer job than a 3,000 dollar build on one that costs 240.
+
+## the platform, priced
+
+These are the four platforms most small and mid sized companies in the United States end up on. The prices are the list prices on each pricing page this morning
+
+---

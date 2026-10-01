@@ -461,5 +461,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Burn Rate Is Not a Cash Flow Forecast. Here Is the 13-Week Model That Stops the Number One Startup Killer.](https://beyondelevation.com/insights/cash-flow-forecast-13-week-model) — /insights/md/cash-flow-forecast-13-week-model.md
 - [Private Equity Spends 18 Months Finding a Full-Time CFO. The Best Funds Fill the Seat in Two Weeks.](https://beyondelevation.com/insights/fractional-executives-for-private-equity) — /insights/md/fractional-executives-for-private-equity.md
 - [78% of AI Pilots Die Before Production. The Problem Is Not the Technology.](https://beyondelevation.com/insights/ai-pilot-proof-of-value-30-day-framework) — /insights/md/ai-pilot-proof-of-value-30-day-framework.md
+- [How Much Does AI Automation Cost? The Four Lines on the Bill, Priced](https://beyondelevation.com/insights/how-much-does-ai-automation-cost) — /insights/md/how-much-does-ai-automation-cost.md
 
 > Full blog content available at /llms-full.txt
