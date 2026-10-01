@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 AI automation costs a small business about 25 to 145 dollars a month to run for one process at 1,000 jobs a month, and 1,500 to 4,000 dollars to have built if the process is simple. The build is the big number. The software and the model are the small ones, and most quotes hide which is which.
 
-Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he reads an automation quote the way a buyer reads a contract. He now builds this work inside companies himself. Every price below was read on the vendor's own page on 1 October 2026. Where a figure is our arithmetic or our assumption, we say so next to it.
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he reads an automation quote the way a buyer reads a contract. He now builds this work inside companies himself. Every price below was read on the vendor's own page on 1 October 2026. If a figure is our arithmetic or our assumption, we say so next to it.
 
 ## the four lines on every automation bill
 
@@ -41,7 +41,7 @@ On Haiku 4.5 that's 4.50 dollars a month. On Sonnet 5.5 it's 9 dollars. On gpt-5
 
 ## the build, priced
 
-Nobody publishes a survey of what small companies pay for an automation build. What exists are price guides written by firms that sell the work, so treat them as asking prices.
+Nobody publishes a survey of what small companies pay for an automation build. The guides that exist are written by firms that sell the work, so treat them as asking prices.
 
 Parix.ai, an automation agency, published its guide on 5 June 2026. It puts simple builds at 1,500 to 4,000 dollars, medium builds at 7,000 to 12,000, and custom AI work at 15,000 and up. It puts running costs at 5 to 15 percent of the setup cost per year.
 
@@ -81,7 +81,7 @@ Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested o
 
 Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He has sold three companies as CFO, with American Express and TripAdvisor among the buyers, and taken three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit.
 
-He's exceptional at the part of automation this article is about, which is putting a real number on it. A CFO who has been through three sales knows what a cost line looks like when a buyer's accountant opens it. As a forward deployed engineer he connects systems that don't talk to each other and builds the live dashboards a chief executive runs the week on, so the saving shows up in a number rather than a promise. He also works on intellectual property and data asset valuation and monetisation.
+He's good at the part of automation this article is about, which is putting a real number on it. A CFO who has been through three sales knows what a cost line looks like when a buyer's accountant opens it. As a forward deployed engineer he connects systems that don't talk to each other and builds the live dashboards a chief executive runs the week on, so the saving shows up in a number rather than a promise. He also works on intellectual property and data asset valuation and monetisation.
 
 He's available now for fractional CFO and AI operations work through Beyond Elevation, and takes scoping calls himself at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
@@ -111,7 +111,7 @@ Taskip's August 2026 guide puts small business retainers at 500 to 1,500 dollars
 
 ### How much does AI cost?
 
-Less than people expect at small volume. Claude Haiku 4.5 is 1 dollar per million input tokens and 5 per million output, and gpt-5-mini is 0.25 and 2. Reading 1,000 invoices a month costs between 1.50 and 9 dollars on the models in this article, on our token assumption. The platform and the build cost more than the model.
+Less than people expect at small volume. Claude Haiku 4.5 is 1 dollar per million input tokens and 5 per million output, and gpt-5-mini is 0.25 and 2. Reading 1,000 invoices a month costs between 1.50 and 9 dollars on the models above, on our token assumption. The platform and the build cost more than the model.
 
 ### How much does Zapier cost per month?
 
