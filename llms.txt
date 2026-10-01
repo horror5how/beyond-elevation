@@ -463,5 +463,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [78% of AI Pilots Die Before Production. The Problem Is Not the Technology.](https://beyondelevation.com/insights/ai-pilot-proof-of-value-30-day-framework) — /insights/md/ai-pilot-proof-of-value-30-day-framework.md
 - [How Much Does AI Automation Cost? The Four Lines on the Bill, Priced](https://beyondelevation.com/insights/how-much-does-ai-automation-cost) — /insights/md/how-much-does-ai-automation-cost.md
 - [Financial Due Diligence Kills More Deals Than Valuation Disputes. Here Is the Checklist That Stops It.](https://beyondelevation.com/insights/financial-due-diligence-kills-deals) — /insights/md/financial-due-diligence-kills-deals.md
+- [The First 90 Days of a Fractional Chief IP Officer: the Sprint That Turns Patent Costs Into Revenue](https://beyondelevation.com/insights/fractional-cipo-first-90-days) — /insights/md/fractional-cipo-first-90-days.md
 
 > Full blog content available at /llms-full.txt
