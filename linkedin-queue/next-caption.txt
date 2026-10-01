@@ -1,13 +1,15 @@
-Your board approved an AI strategy. Nobody on it can evaluate whether it's working.
+Your patent portfolio generated £0 in licensing revenue this year.
 
-3 non-executives. Zero with hands-on AI deployment experience.
+Q4 is your 90-day window to change that.
 
-AI is now the fastest-growing spend line on most SME P&Ls. The people signing off have never deployed an agent.
+Companies with active licensing income exit at 2.4x higher multiples than those without.
 
-That is a governance gap, not an AI problem.
+The licensing conversation takes 3 months to close.
 
-Average cost: £340K in misdirected AI spend before anyone asks the right question.
+Start it in October and you capture this year's budget cycle.
 
-The fix is not another consultant deck. It is one operator on the board who has actually shipped AI.
+Start it in January and you missed a year.
 
-#Leadership #AIOperations #BoardGovernance
+The window is open. Most founders won't use it.
+
+#IPStrategy #PatentLicensing #FractionalCIPO
