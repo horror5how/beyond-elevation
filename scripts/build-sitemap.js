@@ -23,6 +23,7 @@ const FIXED = [
   { loc: '/case-studies', priority: '0.9', changefreq: 'monthly' },
   { loc: '/insights', priority: '0.9', changefreq: 'daily' },
   { loc: '/about', priority: '0.9', changefreq: 'monthly' },
+  { loc: '/hayatamin', priority: '0.9', changefreq: 'monthly' },
   { loc: '/how-it-works', priority: '0.8', changefreq: 'monthly' },
   { loc: '/faq', priority: '0.8', changefreq: 'monthly' },
   { loc: '/contact', priority: '0.7', changefreq: 'monthly' },
