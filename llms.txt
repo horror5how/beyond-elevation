@@ -465,5 +465,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Financial Due Diligence Kills More Deals Than Valuation Disputes. Here Is the Checklist That Stops It.](https://beyondelevation.com/insights/financial-due-diligence-kills-deals) — /insights/md/financial-due-diligence-kills-deals.md
 - [The First 90 Days of a Fractional Chief IP Officer: the Sprint That Turns Patent Costs Into Revenue](https://beyondelevation.com/insights/fractional-cipo-first-90-days) — /insights/md/fractional-cipo-first-90-days.md
 - [When to Replace a Fractional Executive With a Full-Time Hire: The 4-Signal Test](https://beyondelevation.com/insights/when-to-replace-fractional-executive-full-time) — /insights/md/when-to-replace-fractional-executive-full-time.md
+- [How to Automate Administrative Tasks: the 9 to Hand Over First, With Prices](https://beyondelevation.com/insights/how-to-automate-administrative-tasks) — /insights/md/how-to-automate-administrative-tasks.md
 
 > Full blog content available at /llms-full.txt
