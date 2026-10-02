@@ -467,5 +467,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [When to Replace a Fractional Executive With a Full-Time Hire: The 4-Signal Test](https://beyondelevation.com/insights/when-to-replace-fractional-executive-full-time) — /insights/md/when-to-replace-fractional-executive-full-time.md
 - [How to Automate Administrative Tasks: the 9 to Hand Over First, With Prices](https://beyondelevation.com/insights/how-to-automate-administrative-tasks) — /insights/md/how-to-automate-administrative-tasks.md
 - [Fractional CFO vs Full-Time CFO: Most Founders Make the Switch £10M Too Early](https://beyondelevation.com/insights/fractional-cfo-vs-full-time-cfo-2026) — /insights/md/fractional-cfo-vs-full-time-cfo-2026.md
+- [You Hired the Wrong Fractional Executive First. The Sequencing Mistake That Costs Founders £200K.](https://beyondelevation.com/insights/fractional-executive-hiring-sequence-revenue-stage) — /insights/md/fractional-executive-hiring-sequence-revenue-stage.md
 
 > Full blog content available at /llms-full.txt
