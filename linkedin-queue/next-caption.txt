@@ -1,13 +1,17 @@
-Your board approved an AI strategy. Nobody on it can evaluate whether it's working.
+You're building your 2027 model right now.
 
-3 non-executives. Zero with hands-on AI deployment experience.
+Investors check 3 things before they read line one.
 
-AI is now the fastest-growing spend line on most SME P&Ls. The people signing off have never deployed an agent.
+Three-statement model. Not a revenue tab.
 
-That is a governance gap, not an AI problem.
+Unit economics by cohort vintage. Not a blended average.
 
-Average cost: £340K in misdirected AI spend before anyone asks the right question.
+A CFO who can defend every assumption live. Not a finance analyst.
 
-The fix is not another consultant deck. It is one operator on the board who has actually shipped AI.
+Most Series A companies pass 1 of 3.
 
-#Leadership #AIOperations #BoardGovernance
+That's why the model doesn't close the round.
+
+A fractional CFO fixes the other two in 6 weeks.
+
+#fractionalCFO #fundraising #seriesA
