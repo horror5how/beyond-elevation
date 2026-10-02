@@ -41,6 +41,11 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://beyondelevation.com/hayatamin</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://beyondelevation.com/how-it-works</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -2805,6 +2810,42 @@
   <url>
     <loc>https://beyondelevation.com/insights/how-much-does-ai-automation-cost</loc>
     <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/insights/financial-due-diligence-kills-deals</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/insights/fractional-cipo-first-90-days</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/insights/when-to-replace-fractional-executive-full-time</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/insights/how-to-automate-administrative-tasks</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/insights/fractional-cfo-vs-full-time-cfo-2026</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beyondelevation.com/insights/fractional-executive-hiring-sequence-revenue-stage</loc>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
