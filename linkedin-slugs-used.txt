@@ -737,3 +737,9 @@ ai-back-office-small-company
 board-ai-capability-gap
 2027-financial-model-investor-standard-2026
 q4-ip-audit-2027-valuation-2026
+ai-agent-no-owner-q4-2026
+ebitda-addbacks-acquirer-rejects-2026
+ai-subscription-audit-q4-2026
+licensing-budget-flush-q4-ip-2026
+ai-budget-category-error-2027
+ip-licensing-q4-90-days-2026
