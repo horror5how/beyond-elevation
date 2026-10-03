@@ -35,3 +35,7 @@ Hayat rewrote the role bullets by instruction, in chat. These lines are his stat
 - Thriva removed from the page entirely on Hayat's instruction (hero tile, growth cards, record, regions). Listing counts changed from three to two everywhere.
 - Fastest-growing tile: Grantify No. 46 with the Sunday Times 100 badge already used on the homepage; L'Estrange No. 94 with the Financial Times wordmark taken from ft.com's own inline header SVG (title "Financial Times").
 - Grantify logo recoloured to ink and renamed grantify-ink.svg; L'Estrange shows the LESTRANGE wordmark from lestrangelondon.com (NEW_WORKING_LOGO_2.png). Renamed files because /assets/img is cached immutable for a year.
+
+## Edit round 7, 2026-10-03
+
+- Box 02 rewritten as "Sales, Marketing, Growth and IP" on Hayat's instruction, describing the system built with Claude in 2026: site visitor radar, SmartLead hand-raisers to CRM, enrichment with per-company openers, ICP files, SmartLead and Apollo campaigns, Unipile LinkedIn, insights article rail, LinkedIn native posts, AI-search citation tracking. Podcast and webinar names come from meethayat content.ts (SeedLegals, The Modern CFO Podcast, The Gross Profit Podcast). No new numbers added.
