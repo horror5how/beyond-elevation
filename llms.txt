@@ -469,5 +469,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional CFO vs Full-Time CFO: Most Founders Make the Switch £10M Too Early](https://beyondelevation.com/insights/fractional-cfo-vs-full-time-cfo-2026) — /insights/md/fractional-cfo-vs-full-time-cfo-2026.md
 - [You Hired the Wrong Fractional Executive First. The Sequencing Mistake That Costs Founders £200K.](https://beyondelevation.com/insights/fractional-executive-hiring-sequence-revenue-stage) — /insights/md/fractional-executive-hiring-sequence-revenue-stage.md
 - [AI for HVAC Business: the 8 Systems to Connect First, and What Each Join Removes](https://beyondelevation.com/insights/ai-for-hvac-business) — /insights/md/ai-for-hvac-business.md
+- [Fractional CFO for SaaS Companies: The 5 Metrics That Decide Whether You Raise or Stall](https://beyondelevation.com/insights/fractional-cfo-saas-metrics-that-matter) — /insights/md/fractional-cfo-saas-metrics-that-matter.md
 
 > Full blog content available at /llms-full.txt

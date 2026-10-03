@@ -7924,3 +7924,19 @@ Three symptoms qualify a company. A call that comes in after hours becomes a voi
 Labour makes the case sharper in this trade than in most. The Bureau of Labor Statistics counted 440,900 heating, air conditioning and refrigeration mechanics and instal
 
 ---
+
+## Fractional CFO for SaaS Companies: The 5 Metrics That Decide Whether You Raise or Stall
+
+URL: https://beyondelevation.com/insights/fractional-cfo-saas-metrics-that-matter
+
+A SaaS company with $2M ARR and 95% net revenue retention is shrinking. Most founders do not know this because nobody in their company can calculate the number.
+
+According to SaaS Capital’s 2025 B2B SaaS Index, fewer than 30% of private SaaS companies can accurately report their net revenue retention at the time of their first institutional raise. Hayat Amin says the diagnosis is simple: these companies hired a bookkeeper to file VAT returns and categorise expenses, then expected that person to answer the five questions every Series A investor asks in the first meeting. It does not work. A fractional CFO for SaaS companies is the operator who bridges that gap — translating raw subscription data into the investor-grade metrics that determine whether the company raises or stalls.
+
+## What does a fractional CFO actually do for a SaaS company?
+
+A fractional CFO for SaaS companies builds the financial operating system that turns subscription data into the five metrics investors use to price a round and value an exit. The role sits above the bookkeeper and the accountant, owning the financial strategy, investor reporting, and unit economics model that neither can produce alone.
+
+In practice, a fractional CFO joins one to three days per week at a cost of $5,000 to $12,000 per month. In the first 30 days, they audit the chart of accounts, reconfigure the reporting stack, and build a financial model that maps unit economics by cohort, channel, and contract type. Within 90 days, a boar
+
+---
