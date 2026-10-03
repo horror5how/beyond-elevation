@@ -59,6 +59,13 @@
 .cvh .hb .stat .bstat-big{font-size:clamp(34px,3.4vw,54px)}
 .cvh .hb .stat p{margin:0}
 .cvh .hb .stat .bstat-sub{font-size:13.5px}
+.cvh .hb .exitt .bstat-big{font-size:clamp(22px,2.1vw,32px);white-space:nowrap}
+.cvh .hb .buyers{display:grid;gap:6px}
+.cvh .hb .buyer{display:grid;grid-template-columns:auto auto 1fr;align-items:center;gap:10px;background:var(--row);border-radius:12px;padding:9px 12px;font-size:13.5px}
+.cvh .hb .buyer img{height:20px;width:20px;min-width:20px;max-width:none;object-fit:contain}
+.cvh .hb .buyer img.wm{height:20px;width:66px;min-width:66px;grid-column:1 / span 2}
+.cvh .hb .buyer b{font-weight:600;white-space:nowrap}
+.cvh .hb .buyer span{color:var(--mute);font-size:12px;justify-self:end;text-align:right}
 .cvh .hb .ranks{display:grid;grid-template-rows:repeat(3,1fr);gap:clamp(10px,1.1vw,16px)}
 .cvh .hb .rk{border-radius:16px;padding:14px 18px;color:#fff;background:var(--tone);display:grid;grid-template-columns:auto 1fr;align-items:center;gap:14px}
 .cvh .hb .rk b{font-weight:650;letter-spacing:-.04em;font-size:clamp(24px,2.2vw,34px);line-height:1;white-space:nowrap}
@@ -261,9 +268,13 @@
     <div class="art">
       <div class="hb">
         <div class="photo"><img src="/assets/img/hayatamin/hayat-amin-portrait.webp" alt="Hayat Amin" width="1000" height="1333" fetchpriority="high"></div>
-        <div class="stat">
-          <p class="bstat-big">300% <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
-          <p class="bstat-sub">Average year on year growth across the companies he has run finance for</p>
+        <div class="stat exitt">
+          <p class="bstat-big">Three exits <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
+          <div class="buyers">
+            <div class="buyer"><img src="/assets/img/hayatamin/logos/amex.svg" alt=""><b>American Express</b><span>Cake</span></div>
+            <div class="buyer"><img src="/assets/img/hayatamin/logos/tripadvisor.svg" alt=""><b>TripAdvisor</b><span>Tripbod</span></div>
+            <div class="buyer"><img class="wm" src="/assets/img/hayatamin/logos/farview.svg" alt="Farview Equity Partners"><span>Grantify &middot; part exit</span></div>
+          </div>
         </div>
         <div class="ranks">
           <div class="rk" style="--tone:var(--plum)"><b>No. 3</b><span><strong>Thriva</strong>Fastest-growing in Europe, Financial Times</span></div>

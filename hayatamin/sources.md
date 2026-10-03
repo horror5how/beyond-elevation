@@ -19,3 +19,9 @@ Removed from the meethayat version on Hayat's instruction 2026-10-02: the "Three
 - **iHorizon**: Hayat had no part in the Cooper Parry acquisition. Removed from the exits section and the "Acquired by Cooper Parry" stamp. Kept as a seat, described as one of his first roles and the practice where he learned the trade (his words).
 - Skills restructured into three boxes: Core Finance, Strategy and IP, AI Operations. The "8 weeks to first system live" stat was a Beyond Elevation service promise, not his record, so it was replaced with the count of companies where he runs the AI operating layer (IO Health Tech, Swiipr, Digital Global Systems, all from data.ts).
 - Closing call-to-action band removed and sales phrasing cut on his instruction. Nav and footer are the site's shared chrome and unchanged.
+
+## Edit round 4, 2026-10-03
+
+- Hero: the 300% tile replaced with a "Three exits" tile carrying the three buyer logos. American Express and TripAdvisor marks are the same files the homepage uses.
+- **Grantify's private equity investor is Farview Equity Partners.** Sources read 2026-10-03: grantify.io/articles/grantify-farview-investment ("a significant growth investment from Farview Equity Partners") and farviewequity.com blog, Nov 2024 ("a significant minority investment in Grantify"). It is a minority stake, so the tile says "part exit", matching the rest of the page. Logo is Farview's own logo-black.svg from farviewequity.com.
+- Hayat's message named "Adzuna". Adzuna has not been acquired; its PE backer is Smedvig Capital (Series C, 2018, per PitchBook). Treated as a slip for Grantify, flagged to him.
