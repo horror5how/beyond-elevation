@@ -1,1 +1,6 @@
+2026-05-09 17:41 | urn:li:share:7458934074427113472 | post #3 | ai-licensing-recurring-revenue-line-founder-playbook | 3 ways to turn your content into a licensing line.  News Corp's Q1 earnings cite
+2026-05-09 17:53 | QUEUED | patent-royalty-rates-by-industry-2026 | Software patents earn 8–12% of net sales.  Most founders license theirs at 2%.
+2026-05-09 17:58 | urn:li:share:7458938458208841728 | Software patents earn 8–12% of net sales.  Most founders license theirs at 2%.
+2026-05-10 09:00 | QUEUED | foundation-model-patent-concentration-2026 | 3 companies hold 47% of all generative AI patents filed in 2025.
+2026-05-10 09:00 | urn:li:share:7459165359758020608 | post #4 | suno-2-45b-valuation-ip-risk-asterisk | Suno raised $250M at $2.45B with copyright lawsuits unresolved.  That valuation
 2026-10-03 12:53 | QUEUED-BLOCKED | ai-agent-no-owner-q4-2026 | linkedin-post.yml disabled_manually (2026-07-29) AND LI_TOKEN expired (2026-06-17) — queue files committed (caption + BEIP HTML) and pushed to main; re-enable linkedin-post.yml in GitHub Settings → Actions + update LI_TOKEN Secret to publish | Your company deployed 4 AI tools this year.  Nobody owns any of them.  That's not a technology problem.
