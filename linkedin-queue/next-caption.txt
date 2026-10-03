@@ -1,19 +1,17 @@
-Your company deployed 4 AI tools this year.
+Most founders hire a fractional CFO without asking a single operational question.
 
-Nobody owns any of them.
+They check credentials. They skip competence.
 
-That's not a technology problem. It's a governance problem.
+3 questions that separate a real operator from a CV review:
 
-AI with no owner has no accountability.
+"Walk me through your last month-end close."
 
-No accountability means no measurement.
+"Name a cash flow problem you fixed in the last 12 months."
 
-No measurement means no ROI — however good the model is.
+"Can I call a founder you've worked with?"
 
-11% of SMEs have a single person accountable for AI performance.
+If they hesitate on any of these, you have a consultant. Not a CFO.
 
-One owner. One mandate. One number.
+The right fractional CFO costs £5k–£12k/month and earns it back in 60 days.
 
-That's what AI Operations gives you.
-
-#AIOperations #FractionalCFO #BeyondElevation
+#FractionalCFO #Finance #BeyondElevation
