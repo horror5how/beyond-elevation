@@ -15,7 +15,7 @@ Hayat Amin has spent twenty years as a technology chief financial officer and so
 
 ## the four lines on every automation bill
 
-Every automation you pay for has four costs, whether the quote lists them or not. There's the build, which is somebody's time turning your process into steps. There's the platform, the subscription that runs those steps. There's the model, the per use charge when a step needs to read or write like a person. And there's upkeep, the hours each quarter when a supplier changes a form or a system updates its connection.
+Every automation you pay for has four costs, whether the quote lists them or not. The build is somebody's time turning your process into steps. The platform is the subscription that runs those steps. The model is the per use charge when a step needs to read or write like a person. And upkeep is the hours each quarter when a supplier changes a form or a system updates its connection.
 
 Ask for all four on one page before you compare two quotes. A 2,000 dollar build on a platform that costs 1,800 dollars a year is a dearer job than a 3,000 dollar build on one that costs 240.
 
@@ -55,7 +55,7 @@ Put the four lines together for the 1,000 invoice example. If the workflow takes
 
 At the bottom, n8n's Starter covers 1,000 runs inside its 2,500 executions for 20 euros, and Haiku 4.5 adds 4.50 dollars. Call it 25 dollars a month. The build, on Parix's simple band, is 1,500 to 4,000 dollars once.
 
-Now the other side of the scales. The Bureau of Labor Statistics puts the 2025 median pay for bookkeeping, accounting and auditing clerks at 24.36 dollars an hour. If each invoice takes three minutes to key in, which is our assumption and worth timing in your own office, 1,000 invoices is 50 hours a month, or 1,218 dollars at the median wage before payroll taxes and benefits.
+Now compare that against doing the job by hand. The Bureau of Labor Statistics puts the 2025 median pay for bookkeeping, accounting and auditing clerks at 24.36 dollars an hour. If each invoice takes three minutes to key in, which is our assumption and worth timing in your own office, 1,000 invoices is 50 hours a month, or 1,218 dollars at the median wage before payroll taxes and benefits.
 
 At 4,000 dollars to build and 142.50 a month to run, that's under four months of those hours. At 1,500 to build and 25 a month to run, it's under six weeks. Both are our arithmetic, and both only become cash if the 50 hours go to work that earns something. Freed hours that turn into longer lunches save nothing.
 
@@ -71,7 +71,7 @@ Upkeep is the fourth. Parix's 5 to 15 percent a year is a fair rule. A retainer 
 
 ## when the cheap version is the right one
 
-If the process sits inside one system and the rule fits on a page, don't hire anyone. Chasing late invoices, routing a web form to the right inbox, copying a closed deal into your accounting package. That's 20 dollars a month and a weekend, and we wrote the steps in [how to build AI agents for small businesses](/insights/how-to-build-ai-agents-for-small-businesses/).
+If the process sits inside one system and the rule fits on a page, don't hire anyone: chasing late invoices, routing a web form to the right inbox, copying a closed deal into your accounting package. That's 20 dollars a month and a weekend, and we wrote the steps in [how to build AI agents for small businesses](/insights/how-to-build-ai-agents-for-small-businesses/).
 
 Pay for a build when the job crosses three or more systems, when it has to write into your books rather than read from them, or when a mistake costs real money. That's where the hours go, and where a 4,000 dollar quote is cheaper than three weekends of your own. The questions to ask the firm doing it are in [what AI consulting costs and when to skip it](/insights/ai-consulting-for-small-businesses/).
 

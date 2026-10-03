@@ -17,7 +17,7 @@ Hayat Amin has spent twenty years as a technology chief financial officer and so
 
 Time Etc, a virtual assistant firm that sells the alternative to doing it yourself, had Censuswide survey 251 US entrepreneurs between 22 and 28 September 2023. The average week was 45.5 hours, and more than a third of it, 36 percent, went on administrative tasks. In a typical week 59 percent logged expenses, 45 percent managed schedules, 44 percent created invoices and 43 percent did data entry. Read it as a seller's survey, because it is one. It's also the most specific list of US owner admin we could find, so we built the ranking around it.
 
-The Bureau of Labor Statistics counts 3,515,600 secretaries and administrative assistants in the United States in 2025, at a median of $48,310 a year, or $23.23 an hour. It projects that number to fall 2 percent to 2035, a loss of 75,300 jobs, and gives the reason in plain words: technology lets staff prepare their own documents, and managers now do work that assistants used to do. So the owner is doing that work now. Automation is how you stop.
+The Bureau of Labor Statistics counts 3,515,600 secretaries and administrative assistants in the United States in 2025, at a median of $48,310 a year, or $23.23 an hour. It projects that number to fall 2 percent to 2035, a loss of 75,300 jobs, and gives the reason in plain words: technology lets staff prepare their own documents, and managers now do work that assistants used to do. The owner is doing that work now, and automation is how you stop.
 
 ## how we picked the nine
 
@@ -33,7 +33,7 @@ Wrong for you if your team pays on personal cards and claims later. Ramp is a co
 
 Forty five percent of owners in the survey manage their own schedule every week. Calendly's free plan gives you one event type and one calendar connection, which is enough to kill the email back and forth on a single kind of call. Standard is $10 a seat a month billed monthly, 17 percent less billed yearly, and adds unlimited event types, multiple calendars and "Automations & reminders". Teams is $16 a seat and adds round robin scheduling and lead routing.
 
-The saving here isn't the booking. It's the reminder that stops a no show and the routing that sends a new enquiry to the right person without you reading it first. If you run a sales team, Teams is the plan. If it's you and a calendar, free will do for months.
+What saves time here is the reminder that stops a no show and the routing that sends a new enquiry to the right person without you reading it first, not the booking itself. If you run a sales team, Teams is the plan. If it's you and a calendar, free will do for months.
 
 ## 3. sending invoices and chasing them
 
@@ -83,7 +83,7 @@ Three limits are worth saying out loud. First, every tool above does its own tas
 
 If you are still deciding where to begin, our longer guides are [how to automate your business](/insights/how-can-i-automate-my-business/) and [what an AI agent is for a small business](/insights/what-is-an-ai-agent-for-small-business/).
 
-## where Beyond Elevation fits, and the disclosure
+## Where Beyond Elevation fits, and the disclosure
 
 Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. The nine products above handle nine tasks. We build the joins between them: the email that becomes a bill in your accounts, the signed contract that becomes a project and an invoice, the payroll that lands in the cash forecast without anyone retyping it. Hayat Amin works inside small and mid sized companies in New York City and across the United States as a forward deployed engineer, building in your own accounts so you keep the code, the agents and the documentation. Our [forward deployed engineering page](/fde) publishes the prices: a two week AI audit at a fixed $3,000, projects from $30k over 8 to 14 weeks, and fractional work from $5,800 a month. The build conversation is at [meethayat.com/services/fde](https://meethayat.com/services/fde), and if the finance seat is the gap instead, that's [meethayat.com/cfo](https://meethayat.com/cfo).
 
