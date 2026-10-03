@@ -52,18 +52,20 @@
 .cvh .contact .mono{display:block;margin-bottom:3px}
 .cvh .contact a:hover{text-decoration:underline}
 .cvh .art{padding:clamp(14px,1.6vw,22px) clamp(14px,1.6vw,22px) clamp(14px,1.6vw,22px) 0;align-self:center}
-.cvh .hb{display:grid;grid-template-columns:1.15fr 1fr;grid-template-rows:auto auto;gap:clamp(10px,1.1vw,16px)}
+.cvh .hb{display:grid;grid-template-columns:1.15fr 1fr;grid-template-rows:1fr 1fr;gap:clamp(10px,1.1vw,16px)}
 .cvh .hb .photo{grid-row:1 / span 2;border-radius:18px;overflow:hidden;background:var(--panel-c)}
 .cvh .hb .photo img{width:100%;height:100%;object-fit:cover;object-position:50% 15%;display:block}
-.cvh .hb .stat{background:#fff;border:1px solid var(--line);border-radius:18px;padding:clamp(16px,1.6vw,24px);display:flex;flex-direction:column;justify-content:space-between;gap:28px;min-height:150px}
+.cvh .hb .stat{background:#fff;border:1px solid var(--line);border-radius:18px;padding:clamp(16px,1.6vw,22px);display:flex;flex-direction:column;justify-content:space-between;gap:18px;min-height:150px}
 .cvh .hb .stat .bstat-big{font-size:clamp(34px,3.4vw,54px)}
 .cvh .hb .stat p{margin:0}
 .cvh .hb .stat .bstat-sub{font-size:13.5px}
-.cvh .hb .exitt .bstat-big{font-size:clamp(22px,2.1vw,32px);white-space:nowrap}
+.cvh .hb .exitt .bstat-big{font-size:clamp(20px,1.8vw,27px);white-space:nowrap}
 .cvh .hb .buyers{display:grid;gap:6px}
 .cvh .hb .buyer{display:grid;grid-template-columns:auto auto 1fr;align-items:center;gap:10px;background:var(--row);border-radius:12px;padding:9px 12px;font-size:13.5px}
 .cvh .hb .buyer img{height:20px;width:20px;min-width:20px;max-width:none;object-fit:contain}
-.cvh .hb .buyer img.wm{height:20px;width:66px;min-width:66px;grid-column:1 / span 2}
+.cvh .hb .buyer img.wm{height:20px;width:66px;min-width:66px;object-position:left center}
+.cvh .hb .buyer img.wm.le{width:20px;min-width:20px}
+.cvh .hb .buyer:has(img.wm):not(:has(b)) img.wm{grid-column:1 / span 2}
 .cvh .hb .buyer b{font-weight:600;white-space:nowrap}
 .cvh .hb .buyer span{color:var(--mute);font-size:12px;justify-self:end;text-align:right}
 .cvh .hb .ranks{display:grid;grid-template-rows:repeat(3,1fr);gap:clamp(10px,1.1vw,16px)}
@@ -79,6 +81,13 @@
 .nums b small{font-size:.5em;letter-spacing:-.02em;font-weight:600}
 .nums span{color:var(--ink-2);font-size:13.5px;line-height:1.45}
 
+/* experience tabs */
+.xtabs{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 28px;scroll-margin-top:96px}
+.xtab{font-family:var(--sans);font-size:15px;font-weight:600;letter-spacing:-.01em;padding:14px 22px;border-radius:999px;border:1px solid var(--line-2);background:#fff;color:var(--ink);cursor:pointer;transition:background .15s,color .15s,border-color .15s}
+.xtab:hover{background:var(--tint)}
+.xtab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.js .box{display:none}
+.js .box.on{display:grid}
 /* three boxes */
 .boxes{display:flex;flex-direction:column;gap:clamp(20px,2.4vw,32px)}
 .box{display:grid;grid-template-columns:1.05fr 1fr;gap:clamp(28px,3.5vw,72px);align-items:center}
@@ -209,7 +218,7 @@
   .regions,.boards,.ginit{grid-template-columns:1fr}
   .cvh .hb{grid-template-columns:1fr}
   .cvh .hb .photo{grid-row:auto}
-  .cvh .hb .ranks{grid-template-rows:none}
+  .cvh .hb{grid-template-rows:auto}
   .pressband .tile{grid-template-columns:repeat(2,1fr)}
   .map text{font-size:22px}
   .map text.sm{display:none}
@@ -262,7 +271,7 @@
         <div><span class="mono">LinkedIn</span><a href="https://linkedin.com/in/hayatamin" rel="noopener">linkedin.com/in/hayatamin</a></div>
         <div><span class="mono">UK</span><a href="tel:+447476383531">+44 7476 383531</a></div>
         <div><span class="mono">US</span><a href="tel:+15713807699">+1 571 380 7699</a></div>
-        <div><span class="mono">Bases</span>London &middot; New York &middot; Dubai &middot; Amsterdam</div>
+        <div><span class="mono">Bases</span>London &middot; New York &middot; Dubai</div>
       </div>
     </div>
     <div class="art">
@@ -276,10 +285,13 @@
             <div class="buyer"><img class="wm" src="/assets/img/hayatamin/logos/farview.svg" alt="Farview Equity Partners"><span>Grantify &middot; part exit</span></div>
           </div>
         </div>
-        <div class="ranks">
-          <div class="rk" style="--tone:var(--plum)"><b>No. 3</b><span><strong>Thriva</strong>Fastest-growing in Europe, Financial Times</span></div>
-          <div class="rk" style="--tone:var(--orange)"><b>No. 46</b><span><strong>Grantify</strong>The Sunday Times 100, 2024</span></div>
-          <div class="rk" style="--tone:var(--teal)"><b>No. 94</b><span><strong>L&rsquo;Estrange</strong>Fastest-growing, Financial Times</span></div>
+        <div class="stat exitt">
+          <p class="bstat-big">Fastest-growing lists <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
+          <div class="buyers">
+            <div class="buyer"><img class="wm" src="/assets/img/hayatamin/logos/thriva.svg" alt="Thriva"><b>No. 3</b><span>FT, Europe</span></div>
+            <div class="buyer"><img class="wm" src="/assets/img/hayatamin/logos/grantify.svg" alt="Grantify"><b>No. 46</b><span>Sunday Times 100</span></div>
+            <div class="buyer"><img class="wm le" src="/assets/img/hayatamin/logos/lestrange.webp" alt="L&rsquo;Estrange"><b>No. 94</b><span>FT, Europe</span></div>
+          </div>
         </div>
       </div>
     </div>
@@ -301,14 +313,18 @@
 <!-- ============ THREE BOXES ============ -->
 <section id="skills">
   <div class="in">
-    <p class="eyebrow">What he does</p>
-    <h2 class="h2">Three areas of work.</h2>
-    <p class="lede">Core finance, strategy and IP, and the AI that runs underneath both. Each held at C-level.</p>
+    <p class="eyebrow">Experience</p>
+    <h2 class="h2">Three experience areas.</h2>
+    <div class="xtabs" role="tablist" aria-label="Experience areas">
+      <button class="xtab on" type="button" role="tab" aria-selected="true" aria-controls="x-finance" data-x="x-finance">Core Finance and Strategy</button>
+      <button class="xtab" type="button" role="tab" aria-selected="false" aria-controls="x-ip" data-x="x-ip">IP and Digital Asset Building</button>
+      <button class="xtab" type="button" role="tab" aria-selected="false" aria-controls="x-ai" data-x="x-ai">AI Operations</button>
+    </div>
 
     <div class="boxes">
 
-      <!-- 01 Core Finance -->
-      <article class="panel box">
+      <!-- 01 Core Finance and Strategy -->
+      <article class="panel box on" id="x-finance" role="tabpanel">
         <div class="bento">
           <div class="bcard bstat">
             <p class="bstat-big">300% <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
@@ -321,7 +337,7 @@
             </div>
             <div class="bcard bicon">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h6"/></svg>
-              <p>Three sell-sides run from the finance desk: Cake, Tripbod, Grantify</p>
+              <p>Company strategy, OKRs, QBRs and the operating rhythm behind the plan</p>
             </div>
           </div>
           <figure class="bquote" style="--tile:var(--green)">
@@ -331,17 +347,18 @@
         </div>
         <div class="pitch">
           <p class="boxnum">01</p>
-          <h3>Core Finance</h3>
-          <div class="pills"><span class="pill">CFO seat</span><span class="pill lite">Payment economics</span><span class="pill lite">M&amp;A and exits</span></div>
+          <h3>Core Finance and Strategy</h3>
+          <div class="pills"><span class="pill">CFO seat</span><span class="pill">CSO seat</span><span class="pill lite">Payment economics</span><span class="pill lite">M&amp;A and exits</span></div>
           <div class="prow"><p class="prow-t">Financial ownership and control</p><p class="prow-b">Driver-based model, unit economics, monthly close and the board pack. Cash, margin and runway reported live.</p></div>
           <div class="prow"><p class="prow-t">Budgeting, forecasting and FP&amp;A</p><p class="prow-b">Scenario planning and variance analysis. Annual budgeting cycle run with the operational and functional leaders. <span>Swiipr, Grantify, iHorizon</span></p></div>
           <div class="prow"><p class="prow-t">Payment economics</p><p class="prow-b">Interchange, scheme fees, FX and transaction margin, stress tested before go-live. <span>Swiipr, Cake Technologies</span></p></div>
           <div class="prow"><p class="prow-t">M&amp;A, fundraise and exit</p><p class="prow-b">Diligence, transaction planning, close and post-close integration. Investor relations and exit readiness. <span>American Express, TripAdvisor, private equity</span></p></div>
+          <div class="prow"><p class="prow-t">Strategy and the operating plan</p><p class="prow-b">Company strategy, annual operating plan, pricing and the commercial motion into enterprise buyers. Buy, partner or build calls sized against internal capability. <span>Swiipr, Grantify, Navi, Codi</span></p></div>
         </div>
       </article>
 
-      <!-- 02 Strategy and IP -->
-      <article class="panel box">
+      <!-- 02 IP and Digital Asset Building -->
+      <article class="panel box" id="x-ip" role="tabpanel">
         <div class="bento">
           <div class="bcard bstat">
             <p class="bstat-big">$20bn <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
@@ -354,7 +371,7 @@
             </div>
             <div class="bcard bicon">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
-              <p>Company strategy, OKRs, QBRs and the operating rhythm behind the plan</p>
+              <p>Data, patents and know-how turned into assets with a price and a licence attached</p>
             </div>
           </div>
           <figure class="bquote" style="--tile:var(--blue);--tiletext:#0A0A0A;--tilemute:rgba(10,10,10,.68)">
@@ -364,9 +381,8 @@
         </div>
         <div class="pitch">
           <p class="boxnum">02</p>
-          <h3>Strategy and IP</h3>
-          <div class="pills"><span class="pill">CSO seat</span><span class="pill lite">Patents</span><span class="pill lite">Data as an asset</span><span class="pill lite">Licensing</span></div>
-          <div class="prow"><p class="prow-t">Strategy and the operating plan</p><p class="prow-b">Company strategy, annual operating plan, pricing and the commercial motion into enterprise buyers. Buy, partner or build calls sized against internal capability. <span>Swiipr, Grantify, Navi, Codi</span></p></div>
+          <h3>IP and Digital Asset Building</h3>
+          <div class="pills"><span class="pill">President, IP</span><span class="pill lite">Patents</span><span class="pill lite">Data as an asset</span><span class="pill lite">Licensing</span></div>
           <div class="prow"><p class="prow-t">Portfolio valuation, read from the claims</p><p class="prow-b">Values a patent estate in dollars, read from claim text rather than titles, and defends it with buyers, licensees and the board. <span>Position Imaging, Digital Global Systems</span></p></div>
           <div class="prow"><p class="prow-t">Licensing revenue</p><p class="prow-b">Finds the licensees, structures the deals and negotiates the agreements. <span>Digital Global Systems: federal, defence and Tier 1 telecom buyers</span></p></div>
           <div class="prow"><p class="prow-t">Data and IP in the exit price</p><p class="prow-b">The IP and proprietary data valuation that supported a higher sale price in two exits. <span>Cake Technologies to American Express, Tripbod to TripAdvisor</span></p></div>
@@ -374,7 +390,7 @@
       </article>
 
       <!-- 03 AI Operations -->
-      <article class="panel box">
+      <article class="panel box" id="x-ai" role="tabpanel">
         <div class="bento">
           <div class="bcard bstat">
             <p class="bstat-big">3 <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
@@ -495,7 +511,7 @@
   <div class="in">
     <p class="eyebrow">Where the work has been</p>
     <h2 class="h2">Clients and seats across four continents.</h2>
-    <p class="lede">US healthcare AI and Washington DC deep tech. London fintech and grant platforms. EU travel data. A data business live in nine African markets. Based between London, New York, Dubai and Amsterdam.</p>
+    <p class="lede">US healthcare AI and Washington DC deep tech. London fintech and grant platforms. EU travel data. A data business live in nine African markets. Based between London, New York and Dubai.</p>
 
     <div class="panel">
       <div class="tile map">
@@ -509,11 +525,10 @@
           <text class="sm" x="300" y="210">New York &middot; Washington DC &middot; New Hampshire</text>
           <circle class="ring" cx="500" cy="118" r="40" stroke="#00A651"/>
           <circle class="pin g" cx="471.9" cy="106.8" r="4.5"/>
-          <circle class="pin g" cx="485.8" cy="103.8" r="4.5"/>
           <text x="445" y="70" text-anchor="end">United Kingdom</text>
           <text class="sm" x="445" y="84" text-anchor="end">London</text>
           <text x="548" y="112">Europe</text>
-          <text class="sm" x="548" y="126">Amsterdam &middot; EU</text>
+          <text class="sm" x="548" y="126">EU</text>
           <circle class="pin a" cx="625.8" cy="193.2" r="4.5"/>
           <text x="640" y="197">Dubai</text>
           <circle class="ring" cx="527.8" cy="269.4" r="58" stroke="#EF930A"/>
@@ -540,7 +555,6 @@
           <li>Tripbod <span>&middot; UK, US and EU, sold to TripAdvisor</span></li>
           <li>Thriva <span>&middot; No. 3 fastest-growing in Europe</span></li>
           <li>Terra Maris Capital <span>&middot; Mediterranean hotels</span></li>
-          <li>Amsterdam <span>&middot; base</span></li>
         </ul></div>
         <div class="tile"><p class="rh"><i style="background:var(--orange)"></i>Middle East</p><ul>
           <li>Dubai <span>&middot; base</span></li>
@@ -822,7 +836,7 @@
         <div><span class="k">Qualification</span><span>ACCA, practice qualified. All 14 papers passed in a single sitting cycle while working full time in a high-growth practice. BPP Professional Education.</span></div>
         <div><span class="k">Degree</span><span>BSc Finance and Accounting, 2.1. Anglia Ruskin University.</span></div>
         <div><span class="k">Languages</span><span>English, Hindi and Bangla.</span></div>
-        <div><span class="k">Bases</span><span>London, New York, Dubai and Amsterdam.</span></div>
+        <div><span class="k">Bases</span><span>London, New York and Dubai.</span></div>
         <div><span class="k">Off the clock</span><span>Hikes, travels, reads, and backs early-stage founders.</span></div>
       </div>
       <div class="tile stack">
@@ -871,5 +885,16 @@
 </footer>
 
 <script src="/assets/site.js?v=12"></script>
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var tabs=document.querySelectorAll('.xtab'),boxes=document.querySelectorAll('.box');
+  tabs.forEach(function(t){t.addEventListener('click',function(){
+    tabs.forEach(function(x){x.classList.toggle('on',x===t);x.setAttribute('aria-selected',x===t?'true':'false');});
+    boxes.forEach(function(b){b.classList.toggle('on',b.id===t.dataset.x);});
+    var row=document.querySelector('.xtabs');if(row&&row.getBoundingClientRect().top<80){row.scrollIntoView({behavior:'smooth',block:'start'});}
+  });});
+})();
+</script>
 </body>
 </html>
