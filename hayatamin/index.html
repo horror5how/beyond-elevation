@@ -94,11 +94,18 @@
 .nums b small{font-size:.5em;letter-spacing:-.02em;font-weight:600}
 .nums span{color:var(--ink-2);font-size:13.5px;line-height:1.45}
 
-/* experience tabs */
-.xtabs{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 28px;scroll-margin-top:96px}
+/* experience header band */
+.xhead{background:var(--deep);color:#fff;border-radius:28px;padding:clamp(28px,3.6vw,56px) clamp(24px,3.2vw,52px);margin-bottom:clamp(20px,2.4vw,32px)}
+.xhead .eyebrow{color:rgba(255,255,255,.62)}
+.xhead h2.h2{color:#fff;font-size:clamp(36px,4.6vw,66px);max-width:none;margin-bottom:12px}
+.xhead .xsub{margin:0 0 26px;color:rgba(255,255,255,.82);font-size:clamp(15px,1.15vw,17px);max-width:52ch;line-height:1.55}
+.xtabs{display:flex;flex-wrap:wrap;gap:10px;margin:0;scroll-margin-top:96px}
+.xhead .xtab{border-color:transparent}
+.xhead .xtab:hover{background:#F2F0EB}
 .xtab{font-family:var(--sans);font-size:15px;font-weight:600;letter-spacing:-.01em;padding:14px 22px;border-radius:999px;border:1px solid var(--line-2);background:#fff;color:var(--ink);cursor:pointer;transition:background .15s,color .15s,border-color .15s}
 .xtab:hover{background:var(--tint)}
 .xtab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.xhead .xtab.on{background:var(--ink);color:#fff}
 .box{scroll-margin-top:92px}
 /* three boxes */
 .boxes{display:flex;flex-direction:column;gap:clamp(20px,2.4vw,32px)}
@@ -252,7 +259,8 @@
   .pressband .tile{grid-template-columns:repeat(2,1fr)}
   .map text{font-size:22px}
   .map text.sm{display:none}
-  .cv .panel{border-radius:20px}
+  .cv .panel,.xhead{border-radius:20px}
+  .xhead{padding:24px 18px}
 }
 </style>
 </head>
@@ -344,12 +352,15 @@
 <!-- ============ THREE BOXES ============ -->
 <section id="skills">
   <div class="in">
-    <p class="eyebrow">Experience</p>
-    <h2 class="h2">Three experience areas.</h2>
-    <div class="xtabs" role="tablist" aria-label="Experience areas">
+    <div class="xhead">
+      <p class="eyebrow">Experience</p>
+      <h2 class="h2">Three experience areas.</h2>
+      <p class="xsub">Twenty years, three kinds of work. Each one held at C-level. Pick one to jump to it.</p>
+      <div class="xtabs" role="tablist" aria-label="Experience areas">
       <button class="xtab on" type="button" role="tab" aria-selected="true" aria-controls="x-finance" data-x="x-finance">Core Finance and Strategy</button>
       <button class="xtab" type="button" role="tab" aria-selected="false" aria-controls="x-ip" data-x="x-ip">IP and Digital Asset Building</button>
       <button class="xtab" type="button" role="tab" aria-selected="false" aria-controls="x-ai" data-x="x-ai">AI Operations</button>
+      </div>
     </div>
 
     <div class="boxes">
