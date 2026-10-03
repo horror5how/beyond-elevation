@@ -41,6 +41,9 @@
 .cv .prow .prow-t{padding:16px 0}
 .cv .prow-b{max-width:none}
 .cv .prow-b span{color:var(--ink-2);font-weight:500}
+.skl{list-style:none;margin:-4px 0 14px;padding:0;display:grid;gap:5px}
+.skl li{position:relative;padding-left:20px;font-size:14.5px;line-height:1.45;color:var(--ink-2)}
+.skl li::before{content:"\2713";position:absolute;left:0;top:0;color:var(--ink);font-weight:700}
 .cv .prow:first-of-type{border-top:1px solid var(--line-2)}
 
 /* hero: name, role, facts on the left; visual bento on the right */
@@ -373,12 +376,13 @@
         <div class="pitch">
           <p class="boxnum">01</p>
           <h3>Core Finance and Strategy</h3>
-          <div class="pills"><span class="pill">CFO seat</span><span class="pill">CSO seat</span><span class="pill lite">Payment economics</span><span class="pill lite">M&amp;A and exits</span></div>
-          <div class="prow"><p class="prow-t">Financial ownership and control</p><p class="prow-b">Driver-based model, unit economics, monthly close and the board pack. Cash, margin and runway reported live.</p></div>
-          <div class="prow"><p class="prow-t">Budgeting, forecasting and FP&amp;A</p><p class="prow-b">Scenario planning and variance analysis. Annual budgeting cycle run with the operational and functional leaders. <span>Swiipr, Grantify, iHorizon</span></p></div>
-          <div class="prow"><p class="prow-t">Payment economics</p><p class="prow-b">Interchange, scheme fees, FX and transaction margin, stress tested before go-live. <span>Swiipr, Cake Technologies</span></p></div>
-          <div class="prow"><p class="prow-t">M&amp;A, fundraise and exit</p><p class="prow-b">Diligence, transaction planning, close and post-close integration. Investor relations and exit readiness. <span>American Express, TripAdvisor, private equity</span></p></div>
-          <div class="prow"><p class="prow-t">Strategy and the operating plan</p><p class="prow-b">Company strategy, annual operating plan, pricing and the commercial motion into enterprise buyers. Buy, partner or build calls sized against internal capability. <span>Swiipr, Grantify, Navi, Codi</span></p></div>
+          <div class="pills"><span class="pill">CFO seat</span><span class="pill">CSO seat</span><span class="pill lite">FP&amp;A</span><span class="pill lite">M&amp;A and exits</span><span class="pill lite">Board reporting</span></div>
+          <div class="prow"><p class="prow-t">Financial ownership and control</p><ul class="skl"><li>Monthly close, management accounts and the board pack owned end to end</li><li>Cash, margin and runway visible to the CEO at all times</li></ul></div>
+          <div class="prow"><p class="prow-t">Modelling and FP&amp;A</p><ul class="skl"><li>Driver-based model, annual budget and rolling forecast</li><li>Scenario planning and variance analysis the board can act on</li></ul></div>
+          <div class="prow"><p class="prow-t">Payment economics</p><ul class="skl"><li>Interchange, scheme fees, FX and transaction margin priced and tested before launch</li></ul></div>
+          <div class="prow"><p class="prow-t">M&amp;A, fundraise and exit</p><ul class="skl"><li>Due diligence, data room and the buyer or investor process run from the finance seat</li><li>Post-close integration of reporting, accounting policies and controls</li></ul></div>
+          <div class="prow"><p class="prow-t">Strategy and operating rhythm</p><ul class="skl"><li>Annual operating plan, OKRs and quarterly business reviews</li><li>Board and sponsor reporting, value creation plan tracking</li></ul></div>
+          <div class="prow"><p class="prow-t">Tax and compliance</p><ul class="skl"><li>Statutory accounts, VAT and multi-country filings kept current</li></ul></div>
         </div>
       </article>
 
@@ -397,19 +401,21 @@
             <div><span>Stack</span><b>SmartLead, Apollo, Unipile, HubSpot, Claude</b></div>
           </div>
           <figure class="bquote" style="--tile:var(--blue);--tiletext:#0A0A0A;--tilemute:rgba(10,10,10,.68)">
-            <p>Every target account researched, scored and written to in its own words before anyone picks up the phone.</p>
-            <p class="who"><b>Beyond Elevation</b>Sales intelligence, built and run with AI</p>
+            <p>Target accounts researched, scored and contacted with a tailored message before the first call.</p>
+            <p class="who"><b>Beyond Elevation</b>Sales intelligence and CRM</p>
           </figure>
         </div>
         <div class="pitch">
           <p class="boxnum">02</p>
           <h3>Sales, Marketing, Growth and IP</h3>
-          <div class="pills"><span class="pill">Growth strategy</span><span class="pill lite">Sales intelligence</span><span class="pill lite">Thought leadership</span><span class="pill lite">AI platforms</span><span class="pill lite">IP</span></div>
-          <div class="prow"><p class="prow-t">Customers before they know they are customers</p><p class="prow-b">A radar that names the companies visiting the website, hand-raisers pulled from email opens and clicks into the CRM, and each target account researched with a one-line hook written from its own site. Sales starts warm.</p></div>
-          <div class="prow"><p class="prow-t">Outbound built as a system, not a blast</p><p class="prow-b">Ideal customer profiles with named decision makers, verified mailboxes on warmed sending domains, per-company opening lines, cold email and LinkedIn run from one place with every reply landing on one board. <span>SmartLead, Apollo, Unipile, HubSpot</span></p></div>
-          <div class="prow"><p class="prow-t">Thought leadership that compounds</p><p class="prow-b">Insight articles published on a schedule and built for search, LinkedIn posts with native image cards, newsletters, webinars and podcast appearances, with AI-search visibility tracked so the brand is the one ChatGPT and Perplexity cite. <span>SeedLegals webinar, The Modern CFO Podcast, The Gross Profit Podcast</span></p></div>
-          <div class="prow"><p class="prow-t">Many platforms, one AI layer</p><p class="prow-b">Agents that research, draft, publish, enrich and report across the sales and marketing stack, wired through APIs rather than tabs, and nothing goes out without a person reading it. <span>Claude, OpenAI, Browserbase, Vercel, GitHub Actions</span></p></div>
-          <div class="prow"><p class="prow-t">Intellectual property as a revenue line</p><p class="prow-b">Patents, data and know-how valued from the claims rather than the titles, packaged for buyers and licensees, and the licensing deals structured and negotiated. 18.5 billion data points repriced from ad targeting to enterprise licensing. <span>Position Imaging, Digital Global Systems, Nxtech</span></p></div>
+          <div class="pills"><span class="pill">Sales intelligence</span><span class="pill lite">CRM</span><span class="pill lite">Outbound</span><span class="pill lite">Content</span><span class="pill lite">LinkedIn</span><span class="pill lite">IP</span></div>
+          <div class="prow"><p class="prow-t">Sales intelligence and tailored CRM</p><ul class="skl"><li>Identifies companies showing buying intent before they make contact</li><li>Opens, clicks and replies land in one CRM, so the team works the warmest accounts first</li></ul></div>
+          <div class="prow"><p class="prow-t">Outbound built as a system</p><ul class="skl"><li>Named decision makers, verified mailboxes and warmed sending domains</li><li>Each message written from the prospect's own website, sent in sequence and tracked</li></ul></div>
+          <div class="prow"><p class="prow-t">Email marketing campaigns tailored with AI</p><ul class="skl"><li>Segmented campaigns with openers and follow-ups generated per recipient and reviewed before sending</li></ul></div>
+          <div class="prow"><p class="prow-t">Content marketing</p><ul class="skl"><li>Search-led articles, newsletters and webinars on a fixed publishing calendar</li><li>Visibility in AI search answers measured and improved</li></ul></div>
+          <div class="prow"><p class="prow-t">Multi-touch campaigns</p><ul class="skl"><li>Email, LinkedIn and content run as one sequence per account, with results tracked in one place</li></ul></div>
+          <div class="prow"><p class="prow-t">LinkedIn outreach and account management</p><ul class="skl"><li>Connection requests, messaging and engagement run through a managed account, replies tracked to the CRM</li></ul></div>
+          <div class="prow"><p class="prow-t">Intellectual property</p><ul class="skl"><li>Patent and data portfolios valued from the claims and packaged for buyers and licensees</li><li>Licensing agreements structured and negotiated</li></ul></div>
         </div>
       </article>
 
@@ -421,7 +427,7 @@
             <p class="bstat-sub">Companies where he runs the AI operating layer inside finance: IO Health Tech, Swiipr, Digital Global Systems</p>
           </div>
           <div class="bcard snap">
-            <div><span>Built, not advised</span><b>Agents live inside finance at IO Health Tech, Swiipr and Digital Global Systems</b></div>
+            <div><span>Delivered in production</span><b>Agents live inside finance at IO Health Tech, Swiipr and Digital Global Systems</b></div>
             <div><span>First month</span><b>Map the processes, pick the first system, get it live inside your stack</b></div>
             <div><span>You own it</span><b>Code, agents, accounts and docs stay with the company</b></div>
             <div><span>Guardrail</span><b>A person who has run companies reads every output before it is acted on</b></div>
@@ -435,11 +441,12 @@
         <div class="pitch">
           <p class="boxnum">03</p>
           <h3>AI Operations</h3>
-          <div class="pills"><span class="pill">Forward deployed</span><span class="pill lite">Agents</span><span class="pill lite">ML forecasting</span></div>
-          <div class="prow"><p class="prow-t">Finance on rails</p><p class="prow-b">Automated reporting, a cash forecast that updates itself, ML forecasting and revenue leakage detection. <span>IO Health Tech, Swiipr</span></p></div>
-          <div class="prow"><p class="prow-t">Pipeline feeds the forecast</p><p class="prow-b">Sales and go-to-market wired to AI, with account research done before a rep picks it up and pipeline landing in the forecast live. <span>Digital Global Systems</span></p></div>
-          <div class="prow"><p class="prow-t">Agents for the repetitive work</p><p class="prow-b">Reading, drafting and monitoring. AI-native data rooms, compliance evidence collected as it happens, competitor and market moves surfaced the day they happen. <span>Beyond Elevation clients</span></p></div>
-          <div class="prow"><p class="prow-t">Two years pointed at AI</p><p class="prow-b">Building and running the agents that now do the work inside finance, sales and operations, on top of twenty years in the finance seat.</p></div>
+          <div class="pills"><span class="pill">Forward deployed</span><span class="pill lite">Agents</span><span class="pill lite">ML forecasting</span><span class="pill lite">Automation</span></div>
+          <div class="prow"><p class="prow-t">Finance automation</p><ul class="skl"><li>Automated reporting, ML forecasting and revenue leakage detection inside the existing ledger</li></ul></div>
+          <div class="prow"><p class="prow-t">Month end and board pack</p><ul class="skl"><li>Close in days; board pack built from source data with margin by product, customer and channel</li></ul></div>
+          <div class="prow"><p class="prow-t">Pipeline to forecast</p><ul class="skl"><li>CRM pipeline feeding the forecast live; account research completed before a rep picks it up</li></ul></div>
+          <div class="prow"><p class="prow-t">Agents and data rooms</p><ul class="skl"><li>Agents for reading, drafting and monitoring; AI-native data rooms; compliance evidence collected continuously</li></ul></div>
+          <div class="prow"><p class="prow-t">Ownership and control</p><ul class="skl"><li>Built inside the company's own systems; code, agents, accounts and docs stay with the company</li><li>Every output reviewed by a person before it is acted on</li></ul></div>
         </div>
       </article>
 
