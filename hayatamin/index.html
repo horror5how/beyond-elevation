@@ -99,8 +99,7 @@
 .xtab{font-family:var(--sans);font-size:15px;font-weight:600;letter-spacing:-.01em;padding:14px 22px;border-radius:999px;border:1px solid var(--line-2);background:#fff;color:var(--ink);cursor:pointer;transition:background .15s,color .15s,border-color .15s}
 .xtab:hover{background:var(--tint)}
 .xtab.on{background:var(--ink);color:#fff;border-color:var(--ink)}
-.js .box{display:none}
-.js .box.on{display:grid}
+.box{scroll-margin-top:92px}
 /* three boxes */
 .boxes{display:flex;flex-direction:column;gap:clamp(20px,2.4vw,32px)}
 .box{display:grid;grid-template-columns:1.05fr 1fr;gap:clamp(28px,3.5vw,72px);align-items:center}
@@ -895,11 +894,10 @@
 <script>
 (function(){
   document.documentElement.classList.add('js');
-  var tabs=document.querySelectorAll('.xtab'),boxes=document.querySelectorAll('.box');
+  var tabs=document.querySelectorAll('.xtab');
   tabs.forEach(function(t){t.addEventListener('click',function(){
     tabs.forEach(function(x){x.classList.toggle('on',x===t);x.setAttribute('aria-selected',x===t?'true':'false');});
-    boxes.forEach(function(b){b.classList.toggle('on',b.id===t.dataset.x);});
-    var row=document.querySelector('.xtabs');if(row&&row.getBoundingClientRect().top<80){row.scrollIntoView({behavior:'smooth',block:'start'});}
+    var b=document.getElementById(t.dataset.x);if(b){b.scrollIntoView({behavior:'smooth',block:'start'});}
   });});
 })();
 </script>
