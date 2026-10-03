@@ -29,3 +29,9 @@ Removed from the meethayat version on Hayat's instruction 2026-10-02: the "Three
 ## Edit round 5, 2026-10-03 (Hayat's own corrections to the record)
 
 Hayat rewrote the role bullets by instruction, in chat. These lines are his statements about his own roles and replace the earlier data.ts wording: Cake (models, due diligence/audit/advisory, reporting and controls), Grantify (part of the team through 200 percent growth; partnerships; data assetisation), IO Health Tech (title now Fractional Chief Strategy Officer; pricing strategy, brand and go-to-market, fundraising and IR), Digital Global Systems (relationships and portfolio companies; oversaw finance, strategy and IP teams), Position Imaging (productised the patents), Nxtech (remodelled around the data estate; business model; part of the team on monetisation, fundraise, marketing), Navi (500 percent data monetisation and EBITDA line removed), Codi (Fractional CFO, not advisor; removed from the boards list), Thriva (Head of Finance, not advisor; finance, reporting, taxation and compliance).
+
+## Edit round 6, 2026-10-03
+
+- Thriva removed from the page entirely on Hayat's instruction (hero tile, growth cards, record, regions). Listing counts changed from three to two everywhere.
+- Fastest-growing tile: Grantify No. 46 with the Sunday Times 100 badge already used on the homepage; L'Estrange No. 94 with the Financial Times wordmark taken from ft.com's own inline header SVG (title "Financial Times").
+- Grantify logo recoloured to ink and renamed grantify-ink.svg; L'Estrange shows the LESTRANGE wordmark from lestrangelondon.com (NEW_WORKING_LOGO_2.png). Renamed files because /assets/img is cached immutable for a year.
