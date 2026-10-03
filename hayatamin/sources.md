@@ -39,3 +39,7 @@ Hayat rewrote the role bullets by instruction, in chat. These lines are his stat
 ## Edit round 7, 2026-10-03
 
 - Box 02 rewritten as "Sales, Marketing, Growth and IP" on Hayat's instruction, describing the system built with Claude in 2026: site visitor radar, SmartLead hand-raisers to CRM, enrichment with per-company openers, ICP files, SmartLead and Apollo campaigns, Unipile LinkedIn, insights article rail, LinkedIn native posts, AI-search citation tracking. Podcast and webinar names come from meethayat content.ts (SeedLegals, The Modern CFO Podcast, The Gross Profit Podcast). No new numbers added.
+
+## Edit round 8, 2026-10-03
+
+- Left side of the three experience cards rebuilt as "snapshot" tiles (stage, situations handled, first month, systems, markets; where sales starts, channels, growth lived, IP monetised, stack; built not advised, first month, you own it, guardrail, stack). Based on hiring-criteria reading 2026-10-03: preferredcfo.com "12 factors", ghjadvisors.com, cfoshare.org, aiassemblylines.com (production vs advisory credentials, ownership transfer, 30-day roadmap). All values reuse facts already on the page; "first month" rows describe the engagement, not a past claim.
