@@ -24,4 +24,4 @@ Removed from the meethayat version on Hayat's instruction 2026-10-02: the "Three
 
 - Hero: the 300% tile replaced with a "Three exits" tile carrying the three buyer logos. American Express and TripAdvisor marks are the same files the homepage uses.
 - **Grantify's private equity investor is Farview Equity Partners.** Sources read 2026-10-03: grantify.io/articles/grantify-farview-investment ("a significant growth investment from Farview Equity Partners") and farviewequity.com blog, Nov 2024 ("a significant minority investment in Grantify"). It is a minority stake, so the tile says "part exit", matching the rest of the page. Logo is Farview's own logo-black.svg from farviewequity.com.
-- Hayat's message named "Adzuna". Adzuna has not been acquired; its PE backer is Smedvig Capital (Series C, 2018, per PitchBook). Treated as a slip for Grantify, flagged to him.
+- Hayat's message named "Adzuna"; he confirmed on 2026-10-03 it was a slip for Grantify. Adzuna has not been acquired (PE backer Smedvig Capital, Series C 2018, per PitchBook).
