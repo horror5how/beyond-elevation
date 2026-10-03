@@ -119,23 +119,6 @@
 .box h3{font-family:var(--serif);font-weight:400;margin:0 0 20px;font-size:clamp(28px,3vw,46px);line-height:1.08;letter-spacing:-.022em}
 .box .pills{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 20px}
 
-/* growth */
-.gcards{display:grid;grid-template-columns:repeat(2,1fr);gap:clamp(12px,1.2vw,18px)}
-.gcard{border-radius:18px;padding:clamp(22px,2.2vw,30px);color:#fff;background:var(--tone);display:flex;flex-direction:column;min-height:300px}
-.gcard .mono{color:rgba(255,255,255,.72);margin:0 0 10px}
-.gcard .rank{font-weight:650;letter-spacing:-.04em;font-size:clamp(38px,3.6vw,56px);line-height:1;margin:0 0 18px}
-.gcard .co{font-weight:600;font-size:16px;margin:0 0 12px}
-.gcard .co span{font-weight:400;color:rgba(255,255,255,.78)}
-.gcard ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
-.gcard li{position:relative;padding-left:22px;font-size:14px;line-height:1.5;color:rgba(255,255,255,.92)}
-.gcard li::before{content:"\2713";position:absolute;left:0;top:0;font-weight:700;color:#fff}
-.ginit{display:grid;grid-template-columns:repeat(4,1fr);gap:clamp(12px,1.2vw,18px);margin-top:clamp(12px,1.2vw,18px)}
-.ginit .tile{padding:clamp(18px,1.8vw,24px);display:flex;flex-direction:column;justify-content:space-between;gap:22px;min-height:170px}
-.ginit b{font-weight:650;letter-spacing:-.04em;font-size:clamp(30px,2.8vw,42px);line-height:1}
-.ginit b small{font-size:.5em;font-weight:600;letter-spacing:-.02em}
-.ginit p{margin:0;font-size:13.5px;line-height:1.45;color:var(--ink-2)}
-.ginit p strong{display:block;color:var(--ink);font-weight:600;margin-bottom:2px}
-
 /* exits, compact */
 .deals{padding:clamp(8px,1vw,14px) clamp(18px,2vw,30px)}
 .deal{display:grid;grid-template-columns:220px 230px 1fr 160px;gap:24px;align-items:center;padding:22px 0;border-bottom:1px solid var(--line)}
@@ -223,7 +206,6 @@
   .deal .press{justify-self:start}
   .boards{grid-template-columns:1fr 1fr}
   .box{grid-template-columns:1fr;gap:26px}
-  .ginit{grid-template-columns:1fr 1fr}
   .pressband .tile{grid-template-columns:repeat(4,1fr)}
   .pressband .mono{grid-column:1 / -1}
 }
@@ -234,15 +216,13 @@
   .cvh .art{grid-column:1;grid-row:2;padding:18px 16px 6px}
   .cvh .copy{grid-column:1;grid-row:3;padding:10px 22px 28px}
   .cvh .hb .photo{aspect-ratio:1}
-  .gcards{grid-template-columns:1fr}
-  .gcard{min-height:0}
   .deal{grid-template-columns:1fr}
   .person .facts div{grid-template-columns:110px 1fr}
 }
 @media(max-width:560px){
   .nums{grid-template-columns:repeat(2,1fr)}
   .cvh .contact{grid-template-columns:1fr}
-  .regions,.boards,.ginit{grid-template-columns:1fr}
+  .regions,.boards{grid-template-columns:1fr}
   .person .facts div{grid-template-columns:1fr;gap:4px}
   .cvh .hb .buyer{gap:8px;padding:9px 10px}
   .cvh .hb .buyer img.wm{max-width:78px}
@@ -464,46 +444,6 @@
         </div>
       </article>
 
-    </div>
-  </div>
-</section>
-
-<!-- ============ GROWTH ============ -->
-<section id="growth">
-  <div class="in">
-    <p class="eyebrow">Growth</p>
-    <h2 class="h2">Two of the fastest-growing companies in Britain and Europe.</h2>
-    <p class="lede">The Financial Times and Sunday Times lists pick a few hundred companies a year out of millions. He has held a seat inside two of them. What he ran in each one, and the growth work elsewhere.</p>
-
-    <div class="panel">
-      <div class="gcards">
-        <article class="gcard" style="--tone:var(--orange)">
-          <p class="mono">The Sunday Times 100, 2024</p>
-          <div class="rank">No. 46</div>
-          <p class="co">Grantify <span>&middot; Chief Strategy Officer</span></p>
-          <ul>
-            <li>Part of the team through three years of 200 percent year-on-year growth, built on a pricing and customer intelligence engine</li>
-            <li>35 percent valuation uplift into the next round, with the financial and business model behind it</li>
-            <li>OKR, KPI and FP&amp;A architecture: operational performance up 32 percent, forecast inside 1 percent of actuals</li>
-          </ul>
-        </article>
-        <article class="gcard" style="--tone:var(--teal)">
-          <p class="mono">Financial Times</p>
-          <div class="rank">No. 94</div>
-          <p class="co">L&rsquo;Estrange <span>&middot; Finance lead</span></p>
-          <ul>
-            <li>Built the inventory, stock accounting and unit economics stack across the whole e-commerce operation</li>
-            <li>Hi-tech apparel, sold direct to consumer</li>
-          </ul>
-        </article>
-      </div>
-
-      <div class="ginit">
-        <div class="tile"><b>181<small>%</small></b><p><strong>Navi &middot; CEO</strong>Sales growth quarter on quarter off a new-product go-to-market, and a 55 percent increase in online sales.</p></div>
-        <div class="tile"><b>23<small>%</small></b><p><strong>Cake Technologies &middot; Head of Finance</strong>Operational performance lift from the KPI culture he embedded, and the data monetisation model behind the sale to American Express.</p></div>
-        <div class="tile"><b>18.5<small>bn</small></b><p><strong>Nxtech &middot; CSO</strong>Data points repositioned from ad targeting to enterprise licensing. Same data, higher price.</p></div>
-        <div class="tile"><b>9</b><p><strong>Asoko Insight &middot; CFO</strong>Markets where pricing was set and stress tested one by one before rollout, with a reporting package US investors trusted.</p></div>
-      </div>
     </div>
   </div>
 </section>
