@@ -471,5 +471,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI for HVAC Business: the 8 Systems to Connect First, and What Each Join Removes](https://beyondelevation.com/insights/ai-for-hvac-business) — /insights/md/ai-for-hvac-business.md
 - [Fractional CFO for SaaS Companies: The 5 Metrics That Decide Whether You Raise or Stall](https://beyondelevation.com/insights/fractional-cfo-saas-metrics-that-matter) — /insights/md/fractional-cfo-saas-metrics-that-matter.md
 - [Is AI Automation Worth It in 2026? Four Conditions and the Arithmetic on One Process](https://beyondelevation.com/insights/is-ai-automation-worth-it) — /insights/md/is-ai-automation-worth-it.md
+- [Your Engineers Created 47 Patentable Inventions Last Year. You Captured Zero. Here Is the Fix.](https://beyondelevation.com/insights/invention-disclosure-program-ip-capture) — /insights/md/invention-disclosure-program-ip-capture.md
 
 > Full blog content available at /llms-full.txt

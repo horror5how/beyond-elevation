@@ -7968,3 +7968,17 @@ The fourth one is where most of the return disappears. If 50 hours come back and
 The loudest number is MIT's. Project NANDA at the MIT Media Lab p
 
 ---
+
+## Your Engineers Created 47 Patentable Inventions Last Year. You Captured Zero. Here Is the Fix.
+
+URL: https://beyondelevation.com/insights/invention-disclosure-program-ip-capture
+
+An invention disclosure program is a structured internal system that identifies, captures, and evaluates patentable innovations from your engineering, product, and operations teams before those innovations leak into the public domain. Most companies do not have one. According to the World Intellectual Property Organization, fewer than 15% of companies with active R&D programs have a formal invention disclosure process. The other 85% are losing patent-eligible innovations to conference talks, blog posts, open-source commits, and casual customer conversations every week.
+
+Hayat Amin argues that this is not a patent problem. It is a capture problem. "The average B2B software company generates 30 to 50 patent-eligible inventions per year," Amin says. "Most founders think they generate zero because nobody is asking the right questions of the right people at the right time."
+
+## What Is an Invention Disclosure Program and Why Does Every Company With Engineers Need One?
+
+An invention disclosure program is a repeatable process that routes innovations from the people who create them to the people who evaluate and protect them. It sits between engineering output and patent filings, catching inventions that would otherwise be lost to prior art, public disclosure, or organisational blindness. Companies with patents are 10.2 times more likely to secure early-stage funding, according to the US Small Business Administration, but the pipeline that feeds those patent filings is almost always 
+
+---
