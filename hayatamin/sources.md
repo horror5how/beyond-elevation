@@ -43,3 +43,8 @@ Hayat rewrote the role bullets by instruction, in chat. These lines are his stat
 ## Edit round 8, 2026-10-03
 
 - Left side of the three experience cards rebuilt as "snapshot" tiles (stage, situations handled, first month, systems, markets; where sales starts, channels, growth lived, IP monetised, stack; built not advised, first month, you own it, guardrail, stack). Based on hiring-criteria reading 2026-10-03: preferredcfo.com "12 factors", ghjadvisors.com, cfoshare.org, aiassemblylines.com (production vs advisory credentials, ownership transfer, 30-day roadmap). All values reuse facts already on the page; "first month" rows describe the engagement, not a past claim.
+
+## Edit round 9, 2026-10-04
+
+- Left side of the experience cards replaced with animated visuals: a forecast-vs-actuals line (labelled "illustrative shape"; the only factual claim is Grantify's forecast inside 1 percent, already on the page), a lead pipeline diagram, and an AI operating layer diagram with a human review gate. Count-up numbers reuse page facts only: 3 sold, 300%, 120+, $20bn, 18.5bn, 200%, 3 companies, 100% owned.
+- Right side rewritten as skill headings with one-line bullets; sales phrasing removed. "Three-point marketing" in Hayat's note was read as multi-touch campaigns, flagged to him.

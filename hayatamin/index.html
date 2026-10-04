@@ -38,11 +38,11 @@
 .role .stamps .pill{padding:8px 14px;font-size:13px;border-radius:12px}
 .cv .panel{background:var(--panel-c);border:1px solid var(--line);border-radius:28px;padding:clamp(22px,2.6vw,44px);box-shadow:0 30px 70px -40px rgba(0,0,0,.35)}
 .cv .tile{background:#fff;border-radius:18px;box-shadow:0 10px 30px -18px rgba(0,0,0,.18)}
-.cv .prow .prow-t{padding:16px 0}
+.cv .prow .prow-t{padding:11px 0 8px;font-size:14.5px}
 .cv .prow-b{max-width:none}
 .cv .prow-b span{color:var(--ink-2);font-weight:500}
-.skl{list-style:none;margin:-4px 0 14px;padding:0;display:grid;gap:5px}
-.skl li{position:relative;padding-left:20px;font-size:14.5px;line-height:1.45;color:var(--ink-2)}
+.skl{list-style:none;margin:0 0 10px;padding:0;display:grid;gap:3px}
+.skl li{position:relative;padding-left:18px;font-size:13.5px;line-height:1.4;color:var(--ink-2)}
 .skl li::before{content:"\2713";position:absolute;left:0;top:0;color:var(--ink);font-weight:700}
 .cv .prow:first-of-type{border-top:1px solid var(--line-2)}
 
@@ -111,6 +111,32 @@
 .xhead .xtab.on{background:var(--ink);color:#fff}
 .box{scroll-margin-top:92px}
 /* three boxes */
+/* card visuals */
+.bento.vz{display:grid;grid-template-columns:1fr;grid-template-rows:auto auto;gap:clamp(12px,1.2vw,18px)}
+.viz{padding:clamp(16px,1.6vw,22px)}
+.viz .vt{margin:0 0 10px;font-weight:600;font-size:14px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.viz .vt span{font-weight:400;color:var(--mute);font-size:12.5px}
+.viz svg{width:100%;height:auto;display:block}
+.viz .vc{margin:12px 0 0;color:var(--mute);font-size:13px;line-height:1.5}
+.viz .draw{stroke-dasharray:1200;stroke-dashoffset:1200;transition:stroke-dashoffset 1.8s cubic-bezier(.4,0,.2,1)}
+.viz.in .draw{stroke-dashoffset:0}
+.viz .band{transition:opacity 1.2s ease .6s}
+.viz.in .band{opacity:.12}
+.viz .dot,.viz .badge{opacity:0;transition:opacity .5s ease 1.6s}
+.viz.in .dot,.viz.in .badge{opacity:1}
+.viz .node{opacity:0;transform:translateY(6px);transition:opacity .5s ease var(--d,0s),transform .5s ease var(--d,0s)}
+.viz.in .node{opacity:1;transform:none}
+.viz .layer{transform-origin:200px 117px;transform:scaleX(.2);transition:transform 1s cubic-bezier(.4,0,.2,1)}
+.viz.in .layer{transform:scaleX(1)}
+.viz .gate{opacity:0;transition:opacity .5s ease 1s}
+.viz.in .gate{opacity:1}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(12px,1.2vw,18px)}
+.kpi{padding:16px 16px 14px;display:flex;flex-direction:column;gap:6px}
+.kpi b{font-weight:650;letter-spacing:-.04em;font-size:clamp(26px,2.4vw,34px);line-height:1}
+.kpi b i{font-style:normal}
+.kpi span{color:var(--mute);font-size:12.5px;line-height:1.4}
+@media(prefers-reduced-motion:reduce){.viz .draw,.viz .band,.viz .dot,.viz .badge,.viz .node,.viz .layer,.viz .gate{transition:none;opacity:1;transform:none;stroke-dashoffset:0}.viz .band{opacity:.12}}
+
 .box .snap{padding:clamp(12px,1.3vw,18px) clamp(14px,1.5vw,20px);display:grid;align-content:start}
 .box .snap div{display:grid;gap:3px;padding:10px 0;border-top:1px solid var(--line)}
 .box .snap div:first-child{border-top:0;padding-top:2px}
@@ -118,15 +144,16 @@
 .box .snap b{font-weight:500;font-size:13.5px;line-height:1.4;color:var(--ink)}
 
 .boxes{display:flex;flex-direction:column;gap:clamp(20px,2.4vw,32px)}
-.box{display:grid;grid-template-columns:1.05fr 1fr;gap:clamp(28px,3.5vw,72px);align-items:center}
+.box{display:grid;grid-template-columns:1fr 1fr;gap:clamp(24px,3vw,56px);align-items:start;padding:clamp(18px,2.2vw,32px)}
 .box .bstat{min-height:220px}
 .box .bquote{padding:22px 24px;grid-template-columns:1fr}
 .box .bquote p{margin:0;font-family:var(--serif);font-size:clamp(17px,1.5vw,22px);line-height:1.3;letter-spacing:-.01em;color:var(--tiletext,#fff)}
 .box .bquote .who{margin:14px 0 0;font-family:var(--sans);font-size:12.5px;color:var(--tilemute,rgba(255,255,255,.78))}
 .box .bquote .who b{color:var(--tiletext,#fff);font-weight:600;display:block;font-size:13.5px}
-.box .boxnum{font-family:var(--mono);font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--mute);margin:0 0 12px}
-.box h3{font-family:var(--serif);font-weight:400;margin:0 0 20px;font-size:clamp(28px,3vw,46px);line-height:1.08;letter-spacing:-.022em}
-.box .pills{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 20px}
+.box .boxnum{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--mute);margin:0 0 8px}
+.box h3{font-family:var(--serif);font-weight:400;margin:0 0 14px;font-size:clamp(24px,2.4vw,34px);line-height:1.08;letter-spacing:-.022em}
+.box .pills{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 12px}
+.box .pills .pill{font-size:11.5px;padding:4px 10px}
 
 /* exits, compact */
 .deals{padding:clamp(8px,1vw,14px) clamp(18px,2vw,30px)}
@@ -232,6 +259,10 @@
   .nums{grid-template-columns:repeat(2,1fr)}
   .cvh .contact{grid-template-columns:1fr}
   .regions,.boards{grid-template-columns:1fr}
+  .kpis{grid-template-columns:repeat(3,1fr);gap:8px}
+  .kpi{padding:12px 10px}
+  .kpi b{font-size:22px}
+  .kpi span{font-size:11.5px}
   .person .facts div{grid-template-columns:1fr;gap:4px}
   .cvh .hb .buyer{gap:8px;padding:9px 10px}
   .cvh .hb .buyer img.wm{max-width:78px}
@@ -356,22 +387,34 @@
 
       <!-- 01 Core Finance and Strategy -->
       <article class="panel box on" id="x-finance" role="tabpanel">
-        <div class="bento">
-          <div class="bcard bstat">
-            <p class="bstat-big">300% <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
-            <p class="bstat-sub">Average year on year growth across the companies he has run finance for</p>
-          </div>
-          <div class="bcard snap">
-            <div><span>Stage</span><b>Seed to private equity, pre-exit and through the sale</b></div>
-            <div><span>Situations handled</span><b>Three exits, a PE process, raises, board and sponsor reporting</b></div>
-            <div><span>First month</span><b>The model, the close, the board pack, cash and runway live</b></div>
-            <div><span>Systems</span><b>Xero, QuickBooks, NetSuite, Workday, Adaptive Planning</b></div>
-            <div><span>Markets</span><b>UK, US, EU and nine African markets</b></div>
-          </div>
-          <figure class="bquote" style="--tile:var(--green)">
-            <p>Forecast held inside 1 percent of year-end actuals on a multi-country P&amp;L. Sales up 200 percent a year, three years running.</p>
-            <p class="who"><b>Grantify</b>Chief Strategy Officer</p>
-          </figure>
+        <div class="bento vz">
+        <div class="bcard viz" data-viz>
+          <p class="vt">Forecast against year-end actuals <span>12 months, illustrative shape</span></p>
+          <svg viewBox="0 0 400 230" role="img" aria-label="Line chart: forecast and actuals tracking together across twelve months, within one percent at year end">
+            <g class="grid" stroke="#E6E3DC" stroke-width="1"><line x1="40" x2="380" y1="70" y2="70"/><line x1="40" x2="380" y1="110" y2="110"/><line x1="40" x2="380" y1="150" y2="150"/><line x1="40" x2="380" y1="190" y2="190"/></g>
+            <path class="band" d="M40.0 194.0 L70.9 188.9 L101.8 181.0 L132.7 171.5 L163.6 160.8 L194.5 149.2 L225.5 136.6 L256.4 123.4 L287.3 109.4 L318.2 94.9 L349.1 79.7 L380.0 64.0 L380.0 76.0 L349.1 91.7 L318.2 106.9 L287.3 121.4 L256.4 135.4 L225.5 148.6 L194.5 161.2 L163.6 172.8 L132.7 183.5 L101.8 193.0 L70.9 200.9 L40.0 206.0Z" fill="#00A651" opacity="0"/>
+            <path class="draw fc" d="M40.0 200.0 L70.9 194.9 L101.8 187.0 L132.7 177.5 L163.6 166.8 L194.5 155.2 L225.5 142.6 L256.4 129.4 L287.3 115.4 L318.2 100.9 L349.1 85.7 L380.0 70.0" fill="none" stroke="#0A0A0A" stroke-width="1.5" stroke-dasharray="5 5"/>
+            <path class="draw ac" d="M40.0 200.0 L70.9 196.4 L101.8 186.0 L132.7 179.5 L163.6 164.8 L194.5 156.2 L225.5 141.1 L256.4 131.4 L287.3 114.4 L318.2 102.4 L349.1 84.7 L380.0 70.5" fill="none" stroke="#00A651" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            <circle class="dot" cx="380.0" cy="70.5" r="5" fill="#00A651"/>
+            <g class="lbl" font-family="Inter,system-ui,sans-serif" font-size="11" fill="#6B6B6B">
+              <text x="40" y="218">Jan</text><text x="195" y="218" text-anchor="middle">Jun</text><text x="380" y="218" text-anchor="end">Dec</text>
+            </g>
+            <g class="badge">
+              <rect x="276" y="42" width="104" height="26" rx="13" fill="#0A0A0A"/>
+              <text x="328" y="59" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="12" font-weight="600" fill="#fff">within 1 percent</text>
+            </g>
+            <g font-family="Inter,system-ui,sans-serif" font-size="11" fill="#6B6B6B">
+              <line x1="40" y1="34" x2="58" y2="34" stroke="#0A0A0A" stroke-width="1.5" stroke-dasharray="4 4"/><text x="64" y="38">Forecast</text>
+              <line x1="128" y1="34" x2="146" y2="34" stroke="#00A651" stroke-width="3"/><text x="152" y="38">Actual</text>
+            </g>
+          </svg>
+          <p class="vc">Grantify, multi-country P&amp;L. Forecast held inside 1 percent of year-end actuals.</p>
+        </div>
+        <div class="kpis">
+          <div class="bcard kpi"><b><i data-count="3">0</i></b><span>Companies sold</span></div>
+          <div class="bcard kpi"><b><i data-count="300">0</i>%</b><span>Average year-on-year growth</span></div>
+          <div class="bcard kpi"><b><i data-count="120">0</i>+</b><span>Scale-ups run finance for</span></div>
+        </div>
         </div>
         <div class="pitch">
           <p class="boxnum">01</p>
@@ -388,22 +431,22 @@
 
       <!-- 02 Sales, Marketing, Growth and IP -->
       <article class="panel box" id="x-ip" role="tabpanel">
-        <div class="bento">
-          <div class="bcard bstat">
-            <p class="bstat-big">$20bn <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
-            <p class="bstat-sub">In IP value created, specialising in US and European companies</p>
-          </div>
-          <div class="bcard snap">
-            <div><span>Where sales starts</span><b>Website visitors named, hand-raisers into the CRM, accounts researched before contact</b></div>
-            <div><span>Channels run</span><b>Cold email, LinkedIn, search articles, newsletters, webinars, podcasts</b></div>
-            <div><span>Growth lived</span><b>200 percent a year for three years at Grantify, 181 percent quarter on quarter at Navi</b></div>
-            <div><span>IP monetised</span><b>Claims-based valuation, licensing into federal, defence and Tier 1 telecom</b></div>
-            <div><span>Stack</span><b>SmartLead, Apollo, Unipile, HubSpot, Claude</b></div>
-          </div>
-          <figure class="bquote" style="--tile:var(--blue);--tiletext:#0A0A0A;--tilemute:rgba(10,10,10,.68)">
-            <p>Target accounts researched, scored and contacted with a tailored message before the first call.</p>
-            <p class="who"><b>Beyond Elevation</b>Sales intelligence and CRM</p>
-          </figure>
+        <div class="bento vz">
+        <div class="bcard viz" data-viz>
+          <p class="vt">From first visit to first meeting <span>how a lead moves</span></p>
+          <svg viewBox="0 0 400 160" role="img" aria-label="Pipeline diagram: website visitor named, account researched, contacted by email and LinkedIn, tracked in the CRM, first meeting">
+            <path d="M40 90 L360 90" stroke="#D9D6CF" stroke-width="2" fill="none"/>
+            <path class="draw" d="M40 90 L360 90" stroke="#36C9EB" stroke-width="2" fill="none"/>
+            <g class="node" style="--d:0.0s"><circle cx="40" cy="90" r="15" fill="#fff" stroke="#36C9EB" stroke-width="2"/><circle cx="40" cy="90" r="5.5" fill="#36C9EB"/><text x="40" y="126" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Website</text><text x="40" y="141" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="9.5" fill="#6B6B6B">visitor named</text></g><g class="node" style="--d:0.18s"><circle cx="120" cy="90" r="15" fill="#fff" stroke="#36C9EB" stroke-width="2"/><circle cx="120" cy="90" r="5.5" fill="#36C9EB"/><text x="120" y="126" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Enrich</text><text x="120" y="141" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="9.5" fill="#6B6B6B">researched</text></g><g class="node" style="--d:0.36s"><circle cx="200" cy="90" r="15" fill="#fff" stroke="#36C9EB" stroke-width="2"/><circle cx="200" cy="90" r="5.5" fill="#36C9EB"/><text x="200" y="126" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Outreach</text><text x="200" y="141" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="9.5" fill="#6B6B6B">email, LinkedIn</text></g><g class="node" style="--d:0.54s"><circle cx="280" cy="90" r="15" fill="#fff" stroke="#36C9EB" stroke-width="2"/><circle cx="280" cy="90" r="5.5" fill="#36C9EB"/><text x="280" y="126" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">CRM</text><text x="280" y="141" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="9.5" fill="#6B6B6B">opens, replies</text></g><g class="node" style="--d:0.72s"><circle cx="360" cy="90" r="15" fill="#fff" stroke="#36C9EB" stroke-width="2"/><circle cx="360" cy="90" r="5.5" fill="#36C9EB"/><text x="360" y="126" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Meeting</text><text x="360" y="141" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="9.5" fill="#6B6B6B">first call</text></g>
+            <circle r="4" fill="#0A0A0A"><animateMotion dur="4.8s" begin="0s" repeatCount="indefinite" path="M40 90 L360 90"/></circle><circle r="4" fill="#0A0A0A"><animateMotion dur="4.8s" begin="-1.6s" repeatCount="indefinite" path="M40 90 L360 90"/></circle><circle r="4" fill="#0A0A0A"><animateMotion dur="4.8s" begin="-3.2s" repeatCount="indefinite" path="M40 90 L360 90"/></circle>
+          </svg>
+          <p class="vc">Buying intent identified before contact. Every touch, open and reply lands on one board.</p>
+        </div>
+        <div class="kpis">
+          <div class="bcard kpi"><b>$<i data-count="20">0</i>bn</b><span>IP value created</span></div>
+          <div class="bcard kpi"><b><i data-count="18.5" data-dec="1">0</i>bn</b><span>Data points repriced</span></div>
+          <div class="bcard kpi"><b><i data-count="200">0</i>%</b><span>Annual growth, three years, Grantify</span></div>
+        </div>
         </div>
         <div class="pitch">
           <p class="boxnum">02</p>
@@ -421,22 +464,25 @@
 
       <!-- 03 AI Operations -->
       <article class="panel box" id="x-ai" role="tabpanel">
-        <div class="bento">
-          <div class="bcard bstat">
-            <p class="bstat-big">3 <span class="chevs"><i></i><i></i><i></i><i></i></span></p>
-            <p class="bstat-sub">Companies where he runs the AI operating layer inside finance: IO Health Tech, Swiipr, Digital Global Systems</p>
-          </div>
-          <div class="bcard snap">
-            <div><span>Delivered in production</span><b>Agents live inside finance at IO Health Tech, Swiipr and Digital Global Systems</b></div>
-            <div><span>First month</span><b>Map the processes, pick the first system, get it live inside your stack</b></div>
-            <div><span>You own it</span><b>Code, agents, accounts and docs stay with the company</b></div>
-            <div><span>Guardrail</span><b>A person who has run companies reads every output before it is acted on</b></div>
-            <div><span>Stack</span><b>Claude, OpenAI, n8n, Python, Snowflake, Airtable</b></div>
-          </div>
-          <figure class="bquote" style="--tile:var(--orange)">
-            <p>Month end closed in days rather than weeks. Board pack built from source data, margin by product, customer and channel.</p>
-            <p class="who"><b>IO Health Tech, Swiipr</b>The AI operating layer inside finance</p>
-          </figure>
+        <div class="bento vz">
+        <div class="bcard viz" data-viz>
+          <p class="vt">The AI operating layer inside finance <span>sources to decisions</span></p>
+          <svg viewBox="0 0 400 230" role="img" aria-label="Diagram: ledger, CRM and bank data feed an AI layer of agents, pass a human review gate, and produce the board pack, forecast and leakage alerts">
+            <g stroke="#D9D6CF" stroke-width="1.5"><line x1="80" y1="178" x2="80" y2="134"/><line x1="80" y1="96" x2="80" y2="52"/><line x1="200" y1="178" x2="200" y2="134"/><line x1="200" y1="96" x2="200" y2="52"/><line x1="320" y1="178" x2="320" y2="134"/><line x1="320" y1="96" x2="320" y2="52"/></g>
+            <g><rect x="30" y="178" width="100" height="34" rx="10" fill="#fff" stroke="#E3E0DA"/><text x="80.0" y="199.0" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Ledger</text></g><g><rect x="150" y="178" width="100" height="34" rx="10" fill="#fff" stroke="#E3E0DA"/><text x="200.0" y="199.0" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">CRM</text></g><g><rect x="270" y="178" width="100" height="34" rx="10" fill="#fff" stroke="#E3E0DA"/><text x="320.0" y="199.0" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Bank and data</text></g>
+            <rect class="layer" x="30" y="100" width="340" height="34" rx="10" fill="#EF930A"/>
+            <text x="200" y="121" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="12" font-weight="700" fill="#fff">AI layer: agents that read, draft, forecast, monitor</text>
+            <g class="gate"><rect x="140" y="60" width="120" height="26" rx="13" fill="#fff" stroke="#0A0A0A" stroke-width="1.5"/><text x="200" y="77" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11" font-weight="600" fill="#0A0A0A">Human review</text></g>
+            <g><rect x="30" y="18" width="100" height="34" rx="10" fill="#fff" stroke="#E3E0DA"/><text x="80.0" y="39.0" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Board pack</text></g><g><rect x="150" y="18" width="100" height="34" rx="10" fill="#fff" stroke="#E3E0DA"/><text x="200.0" y="39.0" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Forecast</text></g><g><rect x="270" y="18" width="100" height="34" rx="10" fill="#fff" stroke="#E3E0DA"/><text x="320.0" y="39.0" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="11.5" font-weight="600" fill="#0A0A0A">Leakage alerts</text></g>
+            <circle r="3.5" fill="#EF930A"><animateMotion dur="2.6s" begin="0s" repeatCount="indefinite" path="M80 178 L80 134"/></circle><circle r="3.5" fill="#EF930A"><animateMotion dur="2.6s" begin="0.9s" repeatCount="indefinite" path="M200 178 L200 134"/></circle><circle r="3.5" fill="#EF930A"><animateMotion dur="2.6s" begin="-1.8s" repeatCount="indefinite" path="M320 178 L320 134"/></circle><circle r="3.5" fill="#EF930A"><animateMotion dur="2.6s" begin="-1.3s" repeatCount="indefinite" path="M80 96 L80 52"/></circle><circle r="3.5" fill="#EF930A"><animateMotion dur="2.6s" begin="-2.2s" repeatCount="indefinite" path="M200 96 L200 52"/></circle><circle r="3.5" fill="#EF930A"><animateMotion dur="2.6s" begin="0.4s" repeatCount="indefinite" path="M320 96 L320 52"/></circle>
+          </svg>
+          <p class="vc">Built inside the company's own systems. Nothing is acted on until a person has read it.</p>
+        </div>
+        <div class="kpis">
+          <div class="bcard kpi"><b><i data-count="3">0</i></b><span>Companies with the layer live</span></div>
+          <div class="bcard kpi"><b><i data-count="100">0</i>%</b><span>Code, agents and accounts owned by the company</span></div>
+          <div class="bcard kpi"><b>Days</b><span>Month end, down from weeks</span></div>
+        </div>
         </div>
         <div class="pitch">
           <p class="boxnum">03</p>
@@ -851,6 +897,13 @@
 <script>
 (function(){
   document.documentElement.classList.add('js');
+  var vz=document.querySelectorAll('[data-viz]');
+  var ease=function(t){return 1-Math.pow(1-t,3)};
+  function count(el){var end=parseFloat(el.dataset.count),dec=parseInt(el.dataset.dec||'0'),t0=null;
+    function step(ts){if(!t0)t0=ts;var k=Math.min(1,(ts-t0)/1400);el.textContent=(end*ease(k)).toFixed(dec);if(k<1)requestAnimationFrame(step);}
+    requestAnimationFrame(step);}
+  if('IntersectionObserver' in window){var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');e.target.parentNode.querySelectorAll('[data-count]').forEach(count);io.unobserve(e.target);}});},{threshold:.35});vz.forEach(function(v){io.observe(v);});}
+  else{vz.forEach(function(v){v.classList.add('in');});document.querySelectorAll('[data-count]').forEach(function(el){el.textContent=el.dataset.count;});}
   var tabs=document.querySelectorAll('.xtab');
   tabs.forEach(function(t){t.addEventListener('click',function(){
     tabs.forEach(function(x){x.classList.toggle('on',x===t);x.setAttribute('aria-selected',x===t?'true':'false');});
