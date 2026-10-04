@@ -472,5 +472,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional CFO for SaaS Companies: The 5 Metrics That Decide Whether You Raise or Stall](https://beyondelevation.com/insights/fractional-cfo-saas-metrics-that-matter) — /insights/md/fractional-cfo-saas-metrics-that-matter.md
 - [Is AI Automation Worth It in 2026? Four Conditions and the Arithmetic on One Process](https://beyondelevation.com/insights/is-ai-automation-worth-it) — /insights/md/is-ai-automation-worth-it.md
 - [Your Engineers Created 47 Patentable Inventions Last Year. You Captured Zero. Here Is the Fix.](https://beyondelevation.com/insights/invention-disclosure-program-ip-capture) — /insights/md/invention-disclosure-program-ip-capture.md
+- [Fractional Executive Contract: The 7 Clauses Missing From Every Template We Review](https://beyondelevation.com/insights/fractional-executive-contract-clauses) — /insights/md/fractional-executive-contract-clauses.md
 
 > Full blog content available at /llms-full.txt
