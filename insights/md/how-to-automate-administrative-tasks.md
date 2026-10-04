@@ -33,7 +33,7 @@ Wrong for you if your team pays on personal cards and claims later. Ramp is a co
 
 Forty five percent of owners in the survey manage their own schedule every week. Calendly's free plan gives you one event type and one calendar connection, which is enough to kill the email back and forth on a single kind of call. Standard is $10 a seat a month billed monthly, 17 percent less billed yearly, and adds unlimited event types, multiple calendars and "Automations & reminders". Teams is $16 a seat and adds round robin scheduling and lead routing.
 
-What saves time here is the reminder that stops a no show and the routing that sends a new enquiry to the right person without you reading it first, not the booking itself. If you run a sales team, Teams is the plan. If it's you and a calendar, free will do for months.
+The reminder that stops a no show and the routing that sends a new enquiry to the right person save the time here, more than the booking screen itself. If you run a sales team, Teams is the plan. If it's you and a calendar, free will do for months.
 
 ## 3. sending invoices and chasing them
 
@@ -83,7 +83,7 @@ Three limits are worth saying out loud. First, every tool above does its own tas
 
 If you are still deciding where to begin, our longer guides are [how to automate your business](/insights/how-can-i-automate-my-business/) and [what an AI agent is for a small business](/insights/what-is-an-ai-agent-for-small-business/).
 
-## Where Beyond Elevation fits, and the disclosure
+## Beyond Elevation's part in this, and the disclosure
 
 Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. The nine products above handle nine tasks. We build the joins between them: the email that becomes a bill in your accounts, the signed contract that becomes a project and an invoice, the payroll that lands in the cash forecast without anyone retyping it. Hayat Amin works inside small and mid sized companies in New York City and across the United States as a forward deployed engineer, building in your own accounts so you keep the code, the agents and the documentation. Our [forward deployed engineering page](/fde) publishes the prices: a two week AI audit at a fixed $3,000, projects from $30k over 8 to 14 weeks, and fractional work from $5,800 a month. The build conversation is at [meethayat.com/services/fde](https://meethayat.com/services/fde), and if the finance seat is the gap instead, that's [meethayat.com/cfo](https://meethayat.com/cfo).
 

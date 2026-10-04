@@ -13,7 +13,7 @@ Yes, AI automation is worth it in 2026 for a company that picks one repetitive p
 
 Hayat Amin sold three companies as a chief financial officer, and every one of those sales came down to whether a stranger believed the numbers. That's the test we apply to automation below. Each figure was read on the publisher's own page on 4 October 2026, and where a number is our arithmetic or our assumption, we say so next to it.
 
-## the four conditions that make it worth it
+## The four conditions that make it worth it
 
 We say yes to an automation when four things are true. If one is missing, we'd wait.
 
@@ -103,7 +103,7 @@ Yes, and most firms still haven't started. The Census Bureau put US business AI 
 
 ### Is an AI automation agency worth it?
 
-When the job crosses three or more systems or writes into your books, usually yes. MIT's GenAI Divide report found vendor built tools succeed about twice as often as internal builds. For a job inside one system, do it yourself first and pay someone only when it outgrows you.
+If the job crosses three or more systems or writes into your books, the answer's usually yes. MIT's GenAI Divide report found vendor built tools succeed about twice as often as internal builds. For a job inside one system, do it yourself first, and pay someone only once it outgrows you.
 
 ### Is AI automation still worth it?
 
