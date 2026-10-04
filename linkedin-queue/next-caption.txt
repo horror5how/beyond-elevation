@@ -1,19 +1,14 @@
-Most companies treat their IP as a cost centre.
+Your AI company's gross margin is a lie.
 
-The acquirer sees a revenue line.
+68% of AI startups misclassify GPU compute as opex, not cost of revenue.
 
-That gap is your valuation discount.
+That makes your unit economics look better than they are.
 
-Three things that shift IP from cost to revenue:
+Your investor deck says 78% gross margin.
+Your corrected P&L says 51%.
 
-File patents with licensing terms in mind, not just protection.
+The market prices those at 4x different exit multiples.
 
-Audit which competitors are infringing before your next raise.
+Fix it before due diligence does.
 
-Price each renewal fee against expected licensing yield, not the attorney quote.
-
-One company patents to protect.
-
-The other patents to earn.
-
-#IPStrategy #ChiefIPOfficer #Licensing
+#FractionalCFO #AICompanies #StartupFinance
