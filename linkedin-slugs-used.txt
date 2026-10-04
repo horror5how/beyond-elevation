@@ -744,3 +744,4 @@ licensing-budget-flush-q4-ip-2026
 ai-budget-category-error-2027
 ip-licensing-q4-90-days-2026
 questions-to-ask-fractional-cfo-before-hiring
+ip-as-revenue-not-cost-2026
