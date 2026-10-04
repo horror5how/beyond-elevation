@@ -7940,3 +7940,31 @@ A fractional CFO for SaaS companies builds the financial operating system that t
 In practice, a fractional CFO joins one to three days per week at a cost of $5,000 to $12,000 per month. In the first 30 days, they audit the chart of accounts, reconfigure the reporting stack, and build a financial model that maps unit economics by cohort, channel, and contract type. Within 90 days, a boar
 
 ---
+
+## Is AI Automation Worth It in 2026? Four Conditions and the Arithmetic on One Process
+
+URL: https://beyondelevation.com/insights/is-ai-automation-worth-it
+
+Yes, AI automation is worth it in 2026 for a company that picks one repetitive process, times it, and buys a working build rather than a pilot. It isn't worth it when nobody can say how many hours the job takes today. MIT's 2025 study found 95 percent of organisations saw no measurable return, and the best returns it did find were in back office work.
+
+Hayat Amin sold three companies as a chief financial officer, and every one of those sales came down to whether a stranger believed the numbers. That's the test we apply to automation below. Each figure was read on the publisher's own page on 4 October 2026, and where a number is our arithmetic or our assumption, we say so next to it.
+
+## the four conditions that make it worth it
+
+We say yes to an automation when four things are true. If one is missing, we'd wait.
+
+- The job repeats at least a few hundred times a month and follows the same steps most of the time.
+
+- Somebody has timed it, so the hours it takes today are a number, not a feeling.
+
+- The data it needs already sits in a system, such as QuickBooks, a CRM, an inbox or a shared drive, rather than in one person's head.
+
+- There's a named person who'll do something more useful with the hours it frees.
+
+The fourth one is where most of the return disappears. If 50 hours come back and turn into a quieter month, the books show the cost of the build and no saving against it.
+
+## what the evidence says in 2026
+
+The loudest number is MIT's. Project NANDA at the MIT Media Lab p
+
+---
