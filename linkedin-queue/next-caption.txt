@@ -1,14 +1,21 @@
-Your AI company's gross margin is a lie.
+Q4 is 9 weeks.
 
-68% of AI startups misclassify GPU compute as opex, not cost of revenue.
+The average data room takes 16 weeks to clean up.
 
-That makes your unit economics look better than they are.
+You are already behind.
 
-Your investor deck says 78% gross margin.
-Your corrected P&L says 51%.
+Most founders think exit prep starts when they call the banker.
 
-The market prices those at 4x different exit multiples.
+It starts 12 months before that call.
 
-Fix it before due diligence does.
+The CFO who arrives after the banker is doing damage control, not prep.
 
-#FractionalCFO #AICompanies #StartupFinance
+By October, your CFO should have:
+
+1. Restated the last 2 years of accounts.
+2. Cleaned every revenue recognition entry.
+3. Built a rolling 13-week cash forecast.
+
+If none of those are done, this Q4 window is not for you.
+
+#FractionalCFO #ExitReadiness #MandA
