@@ -1,17 +1,22 @@
-Q4 due diligence asks one question most AI companies cannot answer.
+AI agent costs grew 340% for the average growth-stage company last year.
+Zero of them model it correctly.
 
-Who owns what you built this year?
+Agent compute scales with volume. Not seats.
 
-The answer is not in your contracts. Not in your patent filings. Not in your data agreements.
+Pipeline doubles.
+AI costs triple.
 
-Three IP items to document before December:
+Three ways this breaks the business:
 
-1. Model weights: fine-tuned on your data, but your vendor contract may say they own the output.
+Compute buried in IT instead of COGS — margins look 12pts better than they are.
 
-2. AI-generated code: in production since Q2, with no IP assignment clause in the contractor agreement.
+Engineers track tokens. Finance tracks spend. Nobody connects it to unit economics.
 
-3. Proprietary dataset: fed to 3 external tools, none of which have confidentiality carve-outs.
+Board sees demos. Not drawdown.
 
-A Chief IP Officer documents this in 30 days. Without one, you discover it in the deal room.
+The fix is not a new tool.
+It's one person who owns AI cost modelling end-to-end.
 
-#IP #AIOperations #FractionalCFO
+That's what AI Operations actually is.
+
+#AIOperations #FractionalCFO #AIStrategy
