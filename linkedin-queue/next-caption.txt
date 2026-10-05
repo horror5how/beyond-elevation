@@ -1,22 +1,19 @@
-AI agent costs grew 340% for the average growth-stage company last year.
-Zero of them model it correctly.
+The acquirer's team found 3 patents never assigned to the company.
 
-Agent compute scales with volume. Not seats.
+They repriced the deal by £2.4M before lunch.
 
-Pipeline doubles.
-AI costs triple.
+Most founders reach exit with no IP strategy on record.
 
-Three ways this breaks the business:
+No chain-of-title review.
 
-Compute buried in IT instead of COGS — margins look 12pts better than they are.
+No royalty line in the financials.
 
-Engineers track tokens. Finance tracks spend. Nobody connects it to unit economics.
+No one who treated IP as a revenue asset.
 
-Board sees demos. Not drawdown.
+The CIPO is not a legal cost — they prevent that conversation from happening.
 
-The fix is not a new tool.
-It's one person who owns AI cost modelling end-to-end.
+41% valuation gap between IP-audited and non-audited exits.
 
-That's what AI Operations actually is.
+9 weeks left in Q4.
 
-#AIOperations #FractionalCFO #AIStrategy
+#IPstrategy #FractionalCIPO #ExitReady
