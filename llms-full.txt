@@ -8014,3 +8014,19 @@ A fractional CFO should receive between 0.25% and 1.5% equity, depending on comp
 **Pre-seed and seed (pre-revenue to £1M ARR):** 0.75% to 1.5% equity alongside a £2,000–4,000/month retainer. The CFO is building a finance function from nothing — chart of accounts, reporting cadence, board pack, data room found
 
 ---
+
+## How to Learn AI for Small Business: Seven Free Courses and a 30 Day Plan on Your Own Work
+
+URL: https://beyondelevation.com/insights/how-to-learn-ai-for-small-business
+
+The fastest way to learn AI for a small business is to use it on one real job in your own company. Take one free course of under ten hours, then spend four weeks applying it to a task you've timed. You don't need to code, and you don't need a certificate.
+
+Hayat Amin spent twenty years as a technology chief financial officer and sold three companies, and he now builds AI operations inside companies himself. The plan below is what we'd tell an owner who wants to learn this without hiring anyone yet. Every course and figure was read on the provider's own page on 5 October 2026.
+
+## why most owners are stuck at the start
+
+Goldman Sachs 10,000 Small Businesses Voices surveyed 1,256 owners from all 50 states between 27 January and 4 February 2026. 76 percent said they use AI and 93 percent of those said it had helped. Only 14 percent said it was fully embedded in their core operations, and 73 percent said more training and implementation resources would help. The barriers they named were a lack of technical expertise, difficulty choosing tools, and data privacy.
+
+That survey is of Goldman's own programme participants, so it runs high. The Census Bureau's wider read is lower. A Census working paper published in April 2026 found 18 percent of US firms used AI in a business function between November 2025 and January 2026. The most common uses were sales and marketing at 52 percent, strategy at 45 percent and IT at 41 percent. 57 percent of the firms using it had it in three functions
+
+---
