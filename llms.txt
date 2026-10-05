@@ -475,5 +475,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional Executive Contract: The 7 Clauses Missing From Every Template We Review](https://beyondelevation.com/insights/fractional-executive-contract-clauses) — /insights/md/fractional-executive-contract-clauses.md
 - [How Much Equity Should a Fractional CFO Get? The Numbers Most Founders Never See](https://beyondelevation.com/insights/fractional-cfo-equity-how-much) — /insights/md/fractional-cfo-equity-how-much.md
 - [How to Learn AI for Small Business: Seven Free Courses and a 30 Day Plan on Your Own Work](https://beyondelevation.com/insights/how-to-learn-ai-for-small-business) — /insights/md/how-to-learn-ai-for-small-business.md
+- [Your Investors Check 4 Unit Economics Numbers. Most Founders Can Answer Zero.](https://beyondelevation.com/insights/unit-economics-investors-check-before-funding) — /insights/md/unit-economics-investors-check-before-funding.md
 
 > Full blog content available at /llms-full.txt
