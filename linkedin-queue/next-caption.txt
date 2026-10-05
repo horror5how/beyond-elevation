@@ -1,21 +1,17 @@
-Q4 is 9 weeks.
+Q4 due diligence asks one question most AI companies cannot answer.
 
-The average data room takes 16 weeks to clean up.
+Who owns what you built this year?
 
-You are already behind.
+The answer is not in your contracts. Not in your patent filings. Not in your data agreements.
 
-Most founders think exit prep starts when they call the banker.
+Three IP items to document before December:
 
-It starts 12 months before that call.
+1. Model weights: fine-tuned on your data, but your vendor contract may say they own the output.
 
-The CFO who arrives after the banker is doing damage control, not prep.
+2. AI-generated code: in production since Q2, with no IP assignment clause in the contractor agreement.
 
-By October, your CFO should have:
+3. Proprietary dataset: fed to 3 external tools, none of which have confidentiality carve-outs.
 
-1. Restated the last 2 years of accounts.
-2. Cleaned every revenue recognition entry.
-3. Built a rolling 13-week cash forecast.
+A Chief IP Officer documents this in 30 days. Without one, you discover it in the deal room.
 
-If none of those are done, this Q4 window is not for you.
-
-#FractionalCFO #ExitReadiness #MandA
+#IP #AIOperations #FractionalCFO
