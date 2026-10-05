@@ -97,6 +97,27 @@
 .nums b small{font-size:.5em;letter-spacing:-.02em;font-weight:600}
 .nums span{color:var(--ink-2);font-size:13.5px;line-height:1.45}
 
+/* mobile folding */
+.morebtn{display:none}
+@media(max-width:820px){
+  .morebtn{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--line-2);border-radius:999px;padding:9px 14px;font:600 13px/1 var(--sans);color:var(--ink);cursor:pointer;margin:4px 0 2px}
+  .morebtn span{font-size:16px;line-height:1}
+  .morebtn[aria-expanded="true"] span{transform:rotate(45deg)}
+  .more{display:none}
+  .more.open{display:block;margin-top:12px}
+  .role .more.open{margin-top:14px}
+  .cv section > .in > .lede, #world .lede, #career .lede{display:none}
+  .cv h2.h2{font-size:clamp(26px,7vw,34px)}
+  .cvh h1{font-size:40px}
+  .cvh .lede{font-size:15px}
+  .box h3{font-size:24px}
+  .role .co{font-size:22px}
+  .role .d{display:none}
+  .xhead h2.h2{font-size:30px}
+  .viz .vc{display:none}
+  .kpi span{font-size:11px}
+  .regions .tile ul li{font-size:13px}
+}
 /* experience header band */
 .xhead{background:var(--deep);color:#fff;border-radius:28px;padding:clamp(28px,3.6vw,56px) clamp(24px,3.2vw,52px);margin-bottom:clamp(20px,2.4vw,32px)}
 .xhead .eyebrow{color:rgba(255,255,255,.62)}
@@ -424,12 +445,15 @@
           <p class="boxnum">01</p>
           <h3>Core Finance and Strategy</h3>
           <div class="pills"><span class="pill">CFO</span><span class="pill">CSO</span><span class="pill lite">Capital and exits</span><span class="pill lite">Board</span></div>
+          <button class="morebtn" type="button" aria-expanded="false">What this covers <span>+</span></button>
+          <div class="more">
           <div class="prow"><p class="prow-t">Financial leadership</p><ul class="skl"><li>Full ownership of the numbers, from the first model to the board pack</li><li>Reporting that boards, investors and acquirers have relied on through three company sales</li></ul></div>
           <div class="prow"><p class="prow-t">Capital, deals and exits</p><ul class="skl"><li>Led the sell-side of three acquisitions and a private equity process</li><li>Fundraising and exit readiness, including a 35 percent valuation uplift at Grantify</li></ul></div>
           <div class="prow"><p class="prow-t">Planning and forecasting</p><ul class="skl"><li>Budgets, rolling forecasts and scenario plans the board can act on</li><li>Forecast held inside 1 percent of year-end actuals on a multi-country P&amp;L</li></ul></div>
           <div class="prow"><p class="prow-t">Strategy and operating rhythm</p><ul class="skl"><li>Company strategy and the annual plan, with an OKR and quarterly review cycle that keeps product, sales and finance on one page</li></ul></div>
           <div class="prow"><p class="prow-t">Pricing and margin</p><ul class="skl"><li>Pricing, unit economics and transaction margin for payments and subscription businesses, set and defended before launch</li></ul></div>
           <div class="prow"><p class="prow-t">Board, investors and compliance</p><ul class="skl"><li>Reporting to boards, private equity sponsors and US venture investors; statutory and tax obligations held to standard across the UK, US, EU and Africa</li></ul></div>
+          </div>
         </div>
       </article>
 
@@ -470,12 +494,15 @@
           <p class="boxnum">02</p>
           <h3>Finance and Growth</h3>
           <div class="pills"><span class="pill">Growth CFO</span><span class="pill lite">Commercial strategy</span><span class="pill lite">Customer intelligence</span><span class="pill lite">IP and data</span></div>
+          <button class="morebtn" type="button" aria-expanded="false">What this covers <span>+</span></button>
+          <div class="more">
           <div class="prow"><p class="prow-t">Commercial strategy, owned from the finance seat</p><ul class="skl"><li>Go-to-market, pricing and market entry decided on the numbers, not on instinct</li><li>Sat inside leadership teams through 200 percent annual growth for three years, and 181 percent quarter on quarter</li></ul></div>
           <div class="prow"><p class="prow-t">Market and customer intelligence</p><ul class="skl"><li>Demand identified before it reaches the sales team, so growth spend goes where the return is</li><li>Pipeline, conversion and customer value tracked in one view the CFO and CEO share</li></ul></div>
           <div class="prow"><p class="prow-t">Return on growth spend</p><ul class="skl"><li>Every sales and marketing channel measured as an investment: cost to acquire, payback period, lifetime value</li></ul></div>
           <div class="prow"><p class="prow-t">Revenue quality</p><ul class="skl"><li>Recurring, transactional and licensing revenue structured so it holds up in diligence and raises the exit multiple</li></ul></div>
           <div class="prow"><p class="prow-t">Partnerships and strategic relationships</p><ul class="skl"><li>Commercial relationships across airlines, federal and defence buyers, Tier 1 telecom and private equity</li></ul></div>
           <div class="prow"><p class="prow-t">Intellectual property and data as balance sheet assets</p><ul class="skl"><li>Patents and data valued from the claims and turned into licensing income</li><li>18.5 billion data points repositioned from advertising to enterprise licensing, at a higher price</li></ul></div>
+          </div>
         </div>
       </article>
 
@@ -505,11 +532,14 @@
           <p class="boxnum">03</p>
           <h3>AI Finance and Operations</h3>
           <div class="pills"><span class="pill">AI-native CFO</span><span class="pill lite">Finance transformation</span><span class="pill lite">Control</span></div>
+          <button class="morebtn" type="button" aria-expanded="false">What this covers <span>+</span></button>
+          <div class="more">
           <div class="prow"><p class="prow-t">The finance function, rebuilt on AI</p><ul class="skl"><li>Design and ownership of the AI operating layer inside finance, live in three companies</li><li>Month end moved from weeks to days; forecasting, reporting and revenue assurance run automatically</li></ul></div>
           <div class="prow"><p class="prow-t">Decisions on live numbers</p><ul class="skl"><li>Cash, margin and runway answered the day the question is asked, from source data rather than last month's pack</li></ul></div>
           <div class="prow"><p class="prow-t">Forecast connected to the pipeline</p><ul class="skl"><li>Sales pipeline, forecast and account research joined up, so the board sees one set of numbers from lead to cash</li></ul></div>
           <div class="prow"><p class="prow-t">Cost base and headcount</p><ul class="skl"><li>Repetitive finance, sales and operations work handed to agents, so headcount is spent on judgement</li></ul></div>
           <div class="prow"><p class="prow-t">Control and ownership</p><ul class="skl"><li>A person reviews every output before it is acted on; code, agents and accounts remain the property of the company, with the playbook left with the team</li></ul></div>
+          </div>
         </div>
       </article>
 
@@ -626,7 +656,8 @@
         <p class="lc">United Kingdom &middot; Fintech</p>
         <div class="stamps"><span class="pill exit">Exited to American Express</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">Payments business where people managed money, split bills and spent their own Cake credit currency.</p>
         <ul>
           <li>Led financial diligence and sat at the negotiating table through the <b>American Express</b> acquisition</li>
@@ -644,7 +675,8 @@
         <p class="lc">UK, US and EU &middot; Travel data</p>
         <div class="stamps"><span class="pill exit">Exited to TripAdvisor</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">Travel data platform connecting travellers to local expert recommendations across three regions.</p>
         <ul>
           <li>Set up and ran the whole finance and operations function across <b>UK, US and EU</b></li>
@@ -662,7 +694,8 @@
         <p class="lc">London &middot; Grant platform</p>
         <div class="stamps"><span class="pill exit">Exited to private equity</span><span class="pill plum">No. 46 Sunday Times 100</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">One of the world's largest grant platforms, processing 66 percent of all successful Innovate UK grants.</p>
         <ul>
           <li>Defended a <b>35 percent valuation uplift</b> into the next round with the financial and business model behind it</li>
@@ -680,7 +713,8 @@
         <p class="lc">United States &middot; Healthcare AI</p>
         <div class="stamps"><span class="pill sky">50%+ QA rework cut</span><span class="pill teal">SOC 2 Type II &middot; HIPAA</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">Workflow intelligence for post-acute care. Real-time clinical guidance that overlays the EMR a home health or hospice agency already uses.</p>
         <ul>
           <li>Holds the finance seat: the model, the reporting package, the board pack and the runway</li>
@@ -698,7 +732,8 @@
         <p class="lc">Washington DC &middot; Deep tech</p>
         <div class="stamps"><span class="pill sun">$20bn valuation</span><span class="pill sky">Raised over $130m</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">Software that reads the radio frequency environment for wireless deployments, selling into telecom, defence and government. Exit in progress.</p>
         <ul>
           <li>Built the model, the IP story and the licensing function behind a company that <b>raised over $130 million</b></li>
@@ -716,7 +751,8 @@
         <p class="lc">London &middot; Airline payments fintech</p>
         <div class="stamps"><span class="pill sun">Backed by Octopus Ventures</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">Payment infrastructure for the airline and travel industry: disbursements and card programmes for airlines, their passengers and crew.</p>
         <ul>
           <li>Owns the <b>global growth strategy</b> and the strategic plan end to end, from problem definition to execution</li>
@@ -734,7 +770,8 @@
         <p class="lc">New Hampshire &middot; Logistics technology</p>
         <div class="stamps"><span class="pill sky">Raised $150m</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">Deep tech logistics company holding a patent estate covering package and asset tracking.</p>
         <ul>
           <li>Runs IP and patent strategy for a company that has raised around <b>$150 million</b></li>
@@ -751,7 +788,8 @@
         <p class="lc">United States &middot; Consumer data</p>
         <div class="stamps"><span class="pill sky">18.5bn data points</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">Consumer data business holding a national-scale identity and behaviour estate.</p>
         <ul>
           <li>Valued and remodelled the company around a data estate of <b>18.5 billion data points</b> covering 85 percent of the US population</li>
@@ -768,7 +806,8 @@
         <p class="lc">London &middot; Private equity backed</p>
         <div class="stamps"><span class="pill sun">181% sales growth q/q</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">Private equity backed group across technology and hospitality. Full P&amp;L ownership, reporting to the board and the sponsor.</p>
         <ul>
           <li><b>181 percent</b> increase in sales quarter on quarter, and 55 percent increase in online sales off a new-product go-to-market</li>
@@ -785,7 +824,8 @@
         <p class="lc">London, live across nine African markets &middot; Data</p>
         <div class="stamps"><span class="pill teal">9 live markets</span><span class="pill sun">US venture backed</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">British company holding deep data on Africa, backed by US venture capital.</p>
         <ul>
           <li>Owned investor relations and financial strategy for a <b>US venture backed</b> data business</li>
@@ -802,7 +842,8 @@
         <p class="lc">UK and US &middot; Cloud accountancy</p>
         <div class="stamps"><span class="pill sky">120+ scale-ups</span><span class="pill lite">Where he learned the trade</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <p class="d">The UK's pioneering cloud accounting firm for high-growth technology companies. One of his first seats, and the practice where he learned the trade.</p>
         <ul>
           <li>Ran finance, budgeting and planning for <b>more than 120 high-growth tech scale-ups</b> across the UK and US</li>
@@ -820,7 +861,8 @@
         <p class="lc">United States &middot; Workspace technology</p>
         <div class="stamps"><span class="pill sun">a16z backed</span></div>
       </div>
-      <div>
+      <button class="morebtn" type="button" aria-expanded="false">Details <span>+</span></button>
+      <div class="more">
         <ul>
           <li>In charge of <b>financial modelling</b>, investor relationships and reporting</li>
           <li>Advises the leadership team on finance, pricing and the road to the next round</li>
@@ -921,6 +963,7 @@
     requestAnimationFrame(step);}
   if('IntersectionObserver' in window){var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');e.target.parentNode.querySelectorAll('[data-count]').forEach(count);io.unobserve(e.target);}});},{threshold:.35});vz.forEach(function(v){io.observe(v);});}
   else{vz.forEach(function(v){v.classList.add('in');});document.querySelectorAll('[data-count]').forEach(function(el){el.textContent=el.dataset.count;});}
+  document.querySelectorAll('.morebtn').forEach(function(btn){btn.addEventListener('click',function(){var m=btn.nextElementSibling;var o=!m.classList.contains('open');m.classList.toggle('open',o);btn.setAttribute('aria-expanded',o?'true':'false');btn.firstChild.textContent=(o?'Hide ':(btn.dataset.l||btn.textContent.trim().replace(/\s*\+$/,'')+' '));if(!btn.dataset.l)btn.dataset.l=btn.textContent.trim().replace(/\s*[+]$/,'').replace(/^Hide\s*/,'')+' ';});});
   var tabs=document.querySelectorAll('.xtab');
   tabs.forEach(function(t){t.addEventListener('click',function(){
     tabs.forEach(function(x){x.classList.toggle('on',x===t);x.setAttribute('aria-selected',x===t?'true':'false');});
