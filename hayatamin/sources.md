@@ -48,3 +48,7 @@ Hayat rewrote the role bullets by instruction, in chat. These lines are his stat
 
 - Left side of the experience cards replaced with animated visuals: a forecast-vs-actuals line (labelled "illustrative shape"; the only factual claim is Grantify's forecast inside 1 percent, already on the page), a lead pipeline diagram, and an AI operating layer diagram with a human review gate. Count-up numbers reuse page facts only: 3 sold, 300%, 120+, $20bn, 18.5bn, 200%, 3 companies, 100% owned.
 - Right side rewritten as skill headings with one-line bullets; sales phrasing removed. "Three-point marketing" in Hayat's note was read as multi-touch campaigns, flagged to him.
+
+## Edit round 10, 2026-10-05
+
+- Page recentred on the holistic CFO on Hayat's instruction. Card titles: Core Finance and Strategy, Finance and Growth, AI Finance and Operations. Hero role line now "Fractional Chief Financial Officer, finance, growth and AI, held from one seat". All bullets rewritten from the finance seat (return on growth spend, revenue quality, cost base). No new figures; the 200 percent, 181 percent, 35 percent, 1 percent, 18.5bn and "three companies" numbers are the ones already sourced above.
