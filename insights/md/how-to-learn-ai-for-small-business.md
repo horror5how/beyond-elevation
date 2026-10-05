@@ -19,11 +19,11 @@ Goldman Sachs 10,000 Small Businesses Voices surveyed 1,256 owners from all 50 s
 
 That survey is of Goldman's own programme participants, so it runs high. The Census Bureau's wider read is lower. A Census working paper published in April 2026 found 18 percent of US firms used AI in a business function between November 2025 and January 2026. The most common uses were sales and marketing at 52 percent, strategy at 45 percent and IT at 41 percent. 57 percent of the firms using it had it in three functions or fewer.
 
-So the gap isn't access. Most owners have opened ChatGPT or Claude. The gap is turning a chat window into a changed process, and that's a skill you learn by doing it once.
+Most owners have already opened ChatGPT or Claude, so access isn't the issue. What's missing is turning a chat window into a changed process, a skill you pick up by doing it once.
 
 ## what you need to learn, and what you can skip
 
-You need four things. How to describe a task so a model does it well. How to check what it gives back. Which jobs to hand over and which to keep. And where your data is allowed to go. Anthropic's free small business course is built around those four, which it calls delegation, description, discernment and diligence.
+You need four things: how to describe a task so a model does it well, how to check what it gives back, which jobs to hand over and which to keep, and where your data is allowed to go. Anthropic's free small business course is built around exactly those four, what it calls delegation, description, discernment and diligence.
 
 You can skip Python, neural networks and machine learning maths. They matter if you're building models. You're not. If a course asks you to write code in week one, it's for someone else.
 
@@ -57,7 +57,7 @@ Week four. Time the new version. If 10 hours became 4, you've learned AI the way
 
 ## where learning stops and building starts
 
-The plan above works for a job that lives in one inbox or one document. It runs out when the job crosses systems, for example an order that arrives by email, gets keyed into QuickBooks and then updates a spreadsheet the owner checks on Monday. Joining those needs an automation platform or an agent, and the steps are in [how to automate administrative tasks](/insights/how-to-automate-administrative-tasks/). What an agent is, in plain terms, is in [what is an AI agent for small business](/insights/what-is-an-ai-agent-for-small-business/), and the running costs are priced line by line in [how much AI automation costs](/insights/how-much-does-ai-automation-cost/).
+The plan above works for a job that lives in one inbox or one document. It runs out when the job crosses systems, for example an order that arrives by email, gets keyed into QuickBooks and then updates a spreadsheet the owner checks on Monday. Joining those needs an automation platform or an agent, and the steps are in [how to automate administrative tasks](/insights/how-to-automate-administrative-tasks/). An agent, in plain terms, is explained in [what is an AI agent for small business](/insights/what-is-an-ai-agent-for-small-business/), and the running costs are priced line by line in [how much AI automation costs](/insights/how-much-does-ai-automation-cost/).
 
 That's the point where Beyond Elevation comes in, so weigh this paragraph accordingly because it's our firm. Hayat Amin works as a forward deployed engineer inside companies in New York City and across the United States, and he writes the integration himself rather than handing over a slide deck. Our audit is 3,000 dollars fixed for two weeks, projects run 8 to 14 weeks from 30,000 dollars, and fractional work starts from 5,800 dollars a month for one or two days a week. The client owns the code, the agents, the accounts and the documents at the end. The [forward deployed engineering page](/fde) sets out how it runs, and a scoping call books at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 

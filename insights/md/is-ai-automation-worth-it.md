@@ -27,7 +27,7 @@ We say yes to an automation when four things are true. If one is missing, we'd w
 
 The fourth one is where most of the return disappears. If 50 hours come back and turn into a quieter month, the books show the cost of the build and no saving against it.
 
-## what the evidence says in 2026
+## What the evidence says in 2026
 
 The loudest number is MIT's. Project NANDA at the MIT Media Lab published The GenAI Divide in July 2025, built on more than 300 public AI initiatives, 52 interviews and 153 survey responses. It reported that 95 percent of organisations were getting no business return, against 30 to 40 billion dollars of enterprise spending on generative AI. Only 5 percent of custom enterprise tools reached production.
 
