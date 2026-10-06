@@ -13,11 +13,11 @@ AI is used in accounting to do the repeat work in the books: categorising bank t
 
 Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he has read a lot of ledgers kept by hand and knows which parts a machine now does better. Every price here was read on the vendor's own page on 6 October 2026, in US dollars, and where a claim is the vendor's own we say so.
 
-## how much of the bookkeeping is AI work already
+## How much of the bookkeeping is AI work already?
 
 Intuit surveyed more than 2,200 US businesses with up to 100 employees for its April 2025 QuickBooks Small Business Insights. 68 percent said they now use AI regularly, up from 48 percent the summer before, and 28 percent use it daily. Bookkeeping was the fifth most common use at 29 percent, behind marketing at 43 percent, customer service at 36, admin at 33 and data processing at 32. Intuit sells accounting software, so read it as a seller's survey. It's still the biggest US read on owners we found.
 
-The Bureau of Labor Statistics counts 1,532,400 bookkeeping, accounting and auditing clerks in the United States in 2025, at a median of $50,670 a year, or $24.36 an hour. It projects the job to shrink 6 percent to 2035, a loss of 85,600, and gives the reason plainly: "Software innovations have automated many of the tasks performed by bookkeeping, accounting, and auditing clerks." The same agency expects accountants and auditors to grow 5 percent, to add 79,400 jobs, and says AI "is not expected to reduce overall demand" for them. The keying is going. The judgement isn't.
+The Bureau of Labor Statistics counts 1,532,400 bookkeeping, accounting and auditing clerks in the United States in 2025, at a median of $50,670 a year, or $24.36 an hour. It projects the job to shrink 6 percent to 2035, a loss of 85,600, and gives the reason plainly: "Software innovations have automated many of the tasks performed by bookkeeping, accounting, and auditing clerks." The same agency expects accountants and auditors to grow 5 percent, to add 79,400 jobs, and says AI "is not expected to reduce overall demand" for them. The keying is going, but the judgement isn't.
 
 ## how we picked the eight
 
@@ -57,7 +57,7 @@ Wrong for you if your month has inventory, deferred revenue or work in progress.
 
 Intuit says businesses using its Payments Agent get paid "an average of 5 days faster", and that its agents save "up to 12 hours a month". Both are Intuit's figures, from its July 2025 announcement. On the pricing page, Essentials at $85 a month lists "Creates invoices in bulk, automatically" in beta and "Gets you paid faster" with Payments AI. Xero's assistant, JAX, can create invoices from earlier quotes, on plans of $27, $59 and $97 a month after the introductory offer.
 
-Wrong for you if your invoices depend on timesheets or job costs kept in another system. The AI can't bill what it can't see, and that's a join, not a feature.
+Wrong for you if your invoices depend on timesheets or job costs kept in another system. The AI can't bill what it can't see, and nobody builds that join for you.
 
 ## 7. working out sales tax
 
@@ -85,7 +85,7 @@ Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested o
 
 Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He has sold three companies as CFO, with American Express and TripAdvisor among the buyers, and taken three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit, where every number in the books gets read by a stranger.
 
-That's why Hayat Amin is exceptional at the accounting side of AI operations. He knows what a clean ledger has to look like when a buyer opens it, and he builds the automation that keeps it that way, connecting the systems that don't talk to each other and putting a live dashboard in front of the chief executive. He's a CFO turned forward deployed engineer, so he does the build and answers for it. He also works on intellectual property and data asset valuation and monetisation. He's available now for fractional CFO and AI operations work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+That's why Hayat Amin is strong on the accounting side of AI operations. He knows what a clean ledger has to look like when a buyer opens it, and he builds the automation that keeps it that way, connecting the systems that don't talk to each other and putting a live dashboard in front of the chief executive. He's a CFO turned forward deployed engineer, so he does the build and answers for it. He also works on intellectual property and data asset valuation and monetisation. He's available now for fractional CFO and AI operations work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 If you want to know which parts of your own books are worth handing to AI first, we do a free audit: one call, then a written list of what to automate, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 
@@ -121,7 +121,7 @@ Not on the government's numbers. The Bureau of Labor Statistics expects 79,400 m
 
 ### How is AI used in accounting and finance?
 
-In accounting it codes, captures and reconciles. In finance it forecasts and answers questions: Xero's JAX answers questions like "What was my total income in the last six months?", QuickBooks Plus plans scenarios by chat, and Intuit's Finance Agent is described as doing KPI analysis and forecasting. A forecasting tool like Float, from $105 a month, then turns the coded books into a 12 month cash view.
+In accounting it codes, captures and reconciles. In finance it forecasts and answers questions. Xero's JAX handles things like "What was my total income in the last six months?", QuickBooks Plus plans scenarios by chat, and Intuit's Finance Agent is described as doing KPI analysis and forecasting. A forecasting tool like Float, from $105 a month, then turns the coded books into a 12-month cash view.
 
 ### How to use AI in accounting software?
 
@@ -129,7 +129,7 @@ Switch on the features you already pay for before you buy anything. Most QuickBo
 
 ### What is the best AI accounting for small business?
 
-The one that matches your ledger. If you're on QuickBooks, its own AI on the Plus plan at $140 a month covers categorising, reconciling and anomalies. If you're on Xero, its assistant is JAX, and Xero's plans run from $27 a month. Add Dext at $25.21 a month for receipts or BILL from $49 a user a month for supplier bills only when the volume calls for it.
+The one that matches your ledger. If you're on QuickBooks, its own AI on the Plus plan at $140 a month covers categorising, reconciling and anomalies. If you're on Xero, its assistant is JAX, and Xero's plans run from $27 a month. Add Dext at $25.21 a month for receipts or BILL from $49 a user a month for supplier bills, only when the volume calls for it.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

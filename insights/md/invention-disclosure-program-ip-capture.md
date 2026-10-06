@@ -9,13 +9,13 @@ site: Beyond Elevation
 
 # Your Engineers Created 47 Patentable Inventions Last Year. You Captured Zero. Here Is the Fix.
 
-An invention disclosure program is a structured internal system that identifies, captures, and evaluates patentable innovations from your engineering, product, and operations teams before those innovations leak into the public domain. Most companies do not have one. According to the World Intellectual Property Organization, fewer than 15% of companies with active R&D programs have a formal invention disclosure process. The other 85% are losing patent-eligible innovations to conference talks, blog posts, open-source commits, and casual customer conversations every week.
+An invention disclosure programme is a structured internal system that identifies, captures, and evaluates patentable innovations from your engineering, product, and operations teams before those innovations leak into the public domain. Most companies do not have one. According to the World Intellectual Property Organization, fewer than 15% of companies with active R&D programmes have a formal invention disclosure process. The other 85% are losing patent-eligible innovations to conference talks, blog posts, open-source commits, and casual customer conversations every week.
 
-Hayat Amin says the real issue is capture, not patents. "The average B2B software company generates 30 to 50 patent-eligible inventions per year," Amin says. "Most founders think they generate zero because nobody is asking the right questions of the right people at the right time."
+Hayat Amin says most companies have a capture problem, not a patent problem. "The average B2B software company generates 30 to 50 patent-eligible inventions per year," Amin says. "Most founders think they generate zero because nobody is asking the right questions of the right people at the right time."
 
-## What is an invention disclosure program, and why does every company with engineers need one?
+## What is an invention disclosure programme, and why does every company with engineers need one?
 
-An invention disclosure program is a repeatable process that routes innovations from the people who create them to the people who evaluate and protect them. It sits between engineering output and patent filings, catching inventions that would otherwise be lost to prior art, public disclosure, or organisational blindness. Companies with patents are 10.2 times more likely to secure early-stage funding, according to the US Small Business Administration, but the pipeline that feeds those patent filings is almost always broken.
+An invention disclosure programme is a repeatable process that routes innovations from the people who create them to the people who evaluate and protect them. It sits between engineering output and patent filings, catching inventions that would otherwise be lost to prior art, public disclosure, or organisational blindness. Companies with patents are 10.2 times more likely to secure early-stage funding, according to the US Small Business Administration, but the pipeline that feeds those patent filings is almost always broken.
 
 The gap is structural. Patent attorneys draft and file applications. A [Chief IP Officer](/insights/what-is-a-chief-ip-officer/) builds the system that feeds applications to those attorneys. Without that system, even companies with large legal budgets file reactively, covering only the inventions senior leadership happens to know about while dozens of patentable innovations from mid-level engineers never surface.
 
@@ -51,9 +51,9 @@ Hayat Amin's IP Capture Engine is the framework [Beyond Elevation](https://beyon
 
 A patent attorney can draft and file applications once told what to file. A fractional Chief IP Officer builds the entire system that generates those instructions. According to the IP Owners Association, companies with a dedicated IP executive file 3.2 times more patents per R&D dollar than companies where IP strategy is handled by outside counsel on an ad hoc basis.
 
-A [fractional Chief IP Officer](/insights/fractional-cipo-first-90-days/) from Beyond Elevation builds the IP Capture Engine in 90 days. Month one covers the IP audit, engineering lead interviews and an assessment of current disclosure processes. Month two builds the disclosure form, sets up the review committee and launches the incentive programme. Month three runs the first invention mining sessions, triages the first batch of disclosures and files the first provisional applications.
+A [fractional Chief IP Officer](/insights/fractional-cipo-first-90-days/) from Beyond Elevation builds the IP Capture Engine in 90 days. The first month is the IP audit, engineering lead interviews, and a look at how disclosures are currently handled. The second builds the disclosure form, sets up the review committee, and gets the incentive programme live. By the third month the first invention mining sessions are running, the first batch of disclosures is triaged, and the first provisional applications get filed.
 
-By month six the system runs without daily oversight. The fractional CIPO attends the monthly review committee, manages the filing pipeline and runs quarterly mining sessions. The cost is a fraction of hiring a full-time IP executive, and the output, measured in disclosures captured, provisionals filed and innovations protected before public disclosure, matches what a full-time hire delivers.
+By month six the system runs without daily oversight. The fractional CIPO attends the monthly review committee, manages the filing pipeline, and runs quarterly mining sessions. The cost is a fraction of hiring a full-time IP executive, and the output, measured in disclosures captured, provisionals filed, and innovations protected before public disclosure, matches what that hire would deliver.
 
 ## The commercial case for an invention disclosure programme
 
@@ -61,7 +61,7 @@ Beyond Elevation's client data shows that companies which implement a structured
 
 The cost of the programme itself is modest: a fractional CIPO retainer, inventor bonuses and outside counsel filing fees. The return is the IP portfolio that makes your company 10.2 times more fundable, 2 to 4 times more valuable at exit and defensible against competitors who will eventually build what you built.
 
-Hayat Amin reminds founders that the window for filing is not open forever. "Every quarter without an invention disclosure programme is a quarter where your competitors can file first, your engineers can publish without clearance, and your most patentable innovations sit unprotected in a Git repository that three former employees still have access to." The fix is not complicated. It is not optional.
+Hayat Amin reminds founders that the window for filing won't stay open. "Every quarter without an invention disclosure programme is a quarter where your competitors can file first, your engineers can publish without clearance, and your most patentable innovations sit unprotected in a Git repository that three former employees still have access to." Fixing it isn't complicated, and it isn't optional.
 
 [Book a 30-minute IP capture audit with Beyond Elevation](https://beyondelevation.com) to find out how many patentable inventions your engineering team created last quarter and how many you lost.
 
@@ -93,7 +93,7 @@ Companies with five or more engineers building proprietary technology generate p
 
 ### What is the difference between an invention disclosure and a patent application?
 
-An invention disclosure is an internal document that describes what was invented, how it works, and why it is different from prior approaches. A patent application is the legal filing submitted to a patent office to obtain enforceable rights. The disclosure feeds the application. Most companies skip the disclosure step entirely, which means patent attorneys only file on inventions that happen to reach their attention, which is a random subset of what exists.
+An invention disclosure is an internal document that describes what was invented, how it works, and why it is different from prior approaches. A patent application is the legal filing submitted to a patent office to obtain enforceable rights. The disclosure feeds the application. Most companies skip the disclosure step entirely, so patent attorneys only file on inventions that happen to reach their attention, which is a random subset of what exists.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

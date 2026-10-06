@@ -19,7 +19,7 @@ Goldman Sachs 10,000 Small Businesses Voices surveyed 1,256 owners from all 50 s
 
 That survey is of Goldman's own programme participants, so it runs high. The Census Bureau's wider read is lower. A Census working paper published in April 2026 found 18 percent of US firms used AI in a business function between November 2025 and January 2026. The most common uses were sales and marketing at 52 percent, strategy at 45 percent and IT at 41 percent. 57 percent of the firms using it had it in three functions or fewer.
 
-Most owners have already opened ChatGPT or Claude, so access isn't the issue. What's missing is turning a chat window into a changed process, a skill you pick up by doing it once.
+Most owners have already opened ChatGPT or Claude, so access isn't the issue. Turning a chat window into a changed process is the skill that's missing, and it's one you pick up by doing it once.
 
 ## what you need to learn, and what you can skip
 

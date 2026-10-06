@@ -7963,9 +7963,9 @@ We say yes to an automation when four things are true. If one is missing, we'd w
 
 The fourth one is where most of the return disappears. If 50 hours come back and turn into a quieter month, the books show the cost of the build and no saving against it.
 
-## What the evidence says in 2026
+## The evidence for 2026
 
-The loudest number is MIT's. Project NANDA at the MIT Media Lab p
+The loudest number is MIT's. Project NANDA at the MIT Media Lab published 
 
 ---
 
@@ -7973,15 +7973,13 @@ The loudest number is MIT's. Project NANDA at the MIT Media Lab p
 
 URL: https://beyondelevation.com/insights/invention-disclosure-program-ip-capture
 
-An invention disclosure program is a structured internal system that identifies, captures, and evaluates patentable innovations from your engineering, product, and operations teams before those innovations leak into the public domain. Most companies do not have one. According to the World Intellectual Property Organization, fewer than 15% of companies with active R&D programs have a formal invention disclosure process. The other 85% are losing patent-eligible innovations to conference talks, blog posts, open-source commits, and casual customer conversations every week.
+An invention disclosure programme is a structured internal system that identifies, captures, and evaluates patentable innovations from your engineering, product, and operations teams before those innovations leak into the public domain. Most companies do not have one. According to the World Intellectual Property Organization, fewer than 15% of companies with active R&D programmes have a formal invention disclosure process. The other 85% are losing patent-eligible innovations to conference talks, blog posts, open-source commits, and casual customer conversations every week.
 
-Hayat Amin says the real issue is capture, not patents. "The average B2B software company generates 30 to 50 patent-eligible inventions per year," Amin says. "Most founders think they generate zero because nobody is asking the right questions of the right people at the right time."
+Hayat Amin says most companies have a capture problem, not a patent problem. "The average B2B software company generates 30 to 50 patent-eligible inventions per year," Amin says. "Most founders think they generate zero because nobody is asking the right questions of the right people at the right time."
 
-## What is an invention disclosure program, and why does every company with engineers need one?
+## What is an invention disclosure programme, and why does every company with engineers need one?
 
-An invention disclosure program is a repeatable process that routes innovations from the people who create them to the people who evaluate and protect them. It sits between engineering output and patent filings, catching inventions that would otherwise be lost to prior art, public disclosure, or organisational blindness. Companies with patents are 10.2 times more likely to secure early-stage funding, according to the US Small Business Administration, but the pipeline that feeds those patent filings is almost always broken.
-
-The gap is s
+An invention disclosure programme is a repeatable process that routes innovations from the people who create them to the people who evaluate and protect them. It sits between engineering output and patent filings, catching inventions that would otherwise be lost to prior art, public disclosure, or organisational blindness. Companies with patents are 10.2 times more likely to secure early-stage funding, according to the US Small Business Administration, but the pipeline that feeds those patent filings is almost
 
 ---
 
@@ -7991,7 +7989,7 @@ URL: https://beyondelevation.com/insights/fractional-executive-contract-clauses
 
 A fractional executive contract needs seven clauses most templates omit: a scope defined by deliverables, a performance trigger, an IP assignment, a data-access boundary, a transition plan, a non-compete carve-out and a termination notice with mandatory handover. Miss any one and the engagement ends in a dispute that costs more than the retainer.
 
-According to the 2025 Staffing Industry Analysts Workforce Solutions Survey, 67 per cent of fractional executive engagements that ended within six months traced the failure to a contract or scope gap, not to capability. Hayat Amin argues that most founders take a full-time employment contract, delete the word "full-time", and call it a fractional agreement. "A fractional runs a function across multiple companies at once," Hayat Amin says. "The contract has to reflect that or it protects nobody."
+According to the 2025 Staffing Industry Analysts Workforce Solutions Survey, 67 per cent of fractional executive engagements that ended within six months traced the failure to a contract or scope gap, not to capability. Hayat Amin argues that most founders take an employment contract, strike the line that says full-time, and call it a fractional agreement. "A fractional runs a function across multiple companies at once," Hayat Amin says. "The contract has to reflect that or it protects nobody."
 
 [Beyond Elevation](/insights/run-company-on-fractional-executives/) reviews fractional executive contracts weekly. These are the seven clauses that separate a working engagement from a costly dispute.
 
@@ -7999,7 +7997,7 @@ According to the 2025 Staffing Industry Analysts Workforce Solutions Survey, 67 
 
 Most fractional executive contracts fail because they borrow from employment law instead of commercial services law. Employment contracts assume one employer, five days a week and progressive discipline. None of that applies to a fractional executive who works across two to four companies, owns their own tools and brings existing frameworks to every engagement.
 
-The structural mismatch crea
+The structural mismatch creat
 
 ---
 
@@ -8007,7 +8005,7 @@ The structural mismatch crea
 
 URL: https://beyondelevation.com/insights/fractional-cfo-equity-how-much
 
-0.25% to 1.5%. That is the equity band a fractional CFO should receive, and most founders either overshoot it or structure the grant so badly it becomes a liability, not an incentive. According to the 2026 Carta Equity Benchmarks Report, fractional and interim executives now receive equity in 38% of seed-stage companies, up from 12% in 2022. The shift is real. The problem is that nobody publishes the deal structures behind the numbers.
+0.25% to 1.5%. That is the equity band a fractional CFO should receive, and most founders either overshoot it or structure the grant so badly it works against the business instead of for it. According to the 2026 Carta Equity Benchmarks Report, fractional and interim executives now receive equity in 38% of seed-stage companies, up from 12% in 2022. That shift is real, but nobody publishes the deal structures behind the numbers.
 
 Hayat Amin has structured more than 40 fractional CFO engagements across the UK, US, and Gulf. The pattern repeats: founders who get the compensation structure right retain their CFO for 18+ months and exit with a clean cap table. Founders who get it wrong lose the CFO at the worst possible moment, mid-raise, mid-diligence, mid-close, and the equity they granted sits on the cap table doing nothing.
 
@@ -8015,7 +8013,7 @@ Hayat Amin has structured more than 40 fractional CFO engagements across the UK,
 
 A fractional CFO should receive between 0.25% and 1.5% equity, depending on company stage, cash retainer, and the scope of work. Pre-revenue startups that pay a below-market retainer sit at the top of that range. Series B companies paying full market rate sit at the bottom, or skip equity entirely. Beyond Elevation uses a four-band model tied to stage and cash offset.
 
-**Pre-seed and seed (pre-revenue to £1M ARR):** 0.75% to 1.5% equity alongside a £2,000 to 4,000/month retainer. The CFO is building a finance function from nothing, chart of accounts, reporting cadence, board pack, data room foundatio
+**Pre-seed and seed (pre-revenue to £1M ARR):** 0.75% to 1.5% equity alongside a £2,000 to 4,000/month retainer. The CFO is building a finance function from nothing, chart of accounts, reporting cadence, board pack, data room foundations. The 
 
 ---
 
@@ -8041,13 +8039,13 @@ URL: https://beyondelevation.com/insights/unit-economics-investors-check-before-
 
 Investors check four unit economics numbers before they write a cheque. Most founders cannot produce any of them on demand. According to a 2026 Carta analysis of 4,100 seed and Series A rounds, 68 percent of term sheets that collapsed did so during financial due diligence, not product diligence, and unit economics gaps were the single most cited reason for withdrawal.
 
-Hayat Amin, who has closed three exits as a chief financial officer with American Express and TripAdvisor among the buyers, argues that unit economics are the language investors actually speak. Revenue growth tells them you can sell. Unit economics tell them whether selling makes you richer or poorer. A founder who cannot answer four questions about the cost of acquiring a customer and the value that customer returns is not ready for a term sheet, regardless of how fast the top line moves.
+Hayat Amin has closed three exits as a chief financial officer, with American Express and TripAdvisor among the buyers. He argues that unit economics are the language investors speak. Revenue growth tells them you can sell. Unit economics tell them whether selling makes you richer or poorer. A founder who cannot answer four questions about the cost of acquiring a customer and the value that customer returns is not ready for a term sheet, regardless of how fast the top line moves.
 
-## What Are Unit Economics for Startups?
+## What are unit economics for startups?
 
-Unit economics measure the direct revenue and cost associated with a single unit of your business, usually one customer or one transaction. They answer one question: does each new customer you acquire make you money, and how much? When unit economics are healthy, growth makes a company more valuable. When they are broken, growth accelerates the burn.
+Unit economics measure the direct revenue and cost tied to a single unit of your business, usually one customer or one transaction. They answer one question: does each new customer you acquire make you money, and how much? Healthy unit economics mean growth makes the company more valuable. Broken unit economics mean growth accelerates the burn.
 
-The four numbers that matter are lifetime value (LTV), customer acquisition cost (CAC), the LTV to CAC ratio, and payback period. Every investor model runs on these four inputs, and every fractional CFO worth hiring can produce them ins
+The four numbers that matter are lifetime value (LTV), customer acquisition cost (CAC), the LTV to CAC ratio, and payback period. Every investor model runs on these four inputs, and every fractional CFO worth hiring can produce them inside the first tw
 
 ---
 
@@ -8055,13 +8053,13 @@ The four numbers that matter are lifetime value (LTV), customer acquisition cost
 
 URL: https://beyondelevation.com/insights/chief-ip-officer-kpis
 
-Most Chief IP Officers report two numbers to the board: patents filed and legal spend. Both are vanity metrics. Neither tells the board whether IP is generating revenue, blocking competitors, or increasing enterprise value. According to the 2026 Ocean Tomo Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation — yet fewer than 15% of companies with a dedicated IP executive measure that executive's performance against revenue outcomes.
+Most Chief IP Officers report two numbers to the board: patents filed and legal spend. Both are vanity metrics. Neither tells the board whether IP is generating revenue, blocking competitors, or increasing enterprise value. According to the 2026 Ocean Tomo Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation, yet fewer than 15% of companies with a dedicated IP executive measure that executive's performance against revenue outcomes.
 
  Hayat Amin argues that a Chief IP Officer who reports filing counts is operating like an administrator, not an operator. The difference shows up at exit: companies whose CIPOs track revenue-linked chief IP officer KPIs command 30 to 60% higher acquisition premiums than those whose IP leadership reports only cost and volume metrics. The KPIs below are the ones that separate a CIPO worth their retainer from one who is quietly burning budget.
 
- ## What Are the Right Chief IP Officer KPIs?
+ ## What are the right chief IP officer KPIs?
 
- The right chief IP officer KPIs measure IP as a revenue-generating asset, not a legal function. They answer seven questions the board actually cares about: is IP making money, is it protecting market share, is the portfolio efficient, and is it increasing what the company is worth? Beyond Elevation uses these seven metrics as the standard CIPO performance dashboard for every fractional Chief IP Officer engagement — and the gap between companies that track them and companies that do not is measurable in multi
+ The right chief IP officer KPIs measure IP as a revenue-generating asset, not a legal function. They answer seven questions the board cares about: is IP making money, is it protecting market share, is the portfolio efficient, and is it increasing what the company is worth? Beyond Elevation uses these seven metrics as the standard CIPO performance dashboard for every fractional Chief IP Officer engagement, and the gap between companies that track them and companies that do not is measurable in multiples, not p
 
 ---
 
@@ -8069,17 +8067,17 @@ Most Chief IP Officers report two numbers to the board: patents filed and legal 
 
 URL: https://beyondelevation.com/insights/fractional-executive-30-day-scorecard
 
-Most companies measure their fractional executive the same way they measure a full-time hire: hours logged, meetings attended, reports delivered. Every one of those metrics is wrong.
+Most companies measure their fractional executive the same way they measure a permanent hire: hours logged, meetings attended, reports delivered. Every one of those metrics is wrong.
 
-According to Staffing Industry Analysts (2025), 71 percent of companies using fractional executives have no formal outcome-based performance framework for the engagement. They pay operator rates and measure attendance. Hayat Amin argues the problem is not the executive — it is the absence of a scorecard designed for fractional work. A fractional executive operates on a compressed timeline with limited hours. Measuring them on presence instead of outcomes guarantees the engagement underperforms, regardless of how talented the operator is.
+According to Staffing Industry Analysts (2025), 71 percent of companies using fractional executives have no formal performance framework tied to outcomes for the engagement. They pay operator rates and measure attendance. Hayat Amin says the executive isn't the problem. What's missing is a scorecard built for fractional work. A fractional executive operates on a compressed timeline with limited hours. Measuring them on presence instead of outcomes guarantees the engagement underperforms, regardless of how talented the operator is.
 
-Here is the 30-day scorecard Beyond Elevation uses to evaluate every fractional operator it places — and the framework any CEO can deploy to separate a real operator from an expensive consultant before the first quarterly review.
+Here is the 30-day scorecard Beyond Elevation uses to evaluate every fractional operator it places, and the framework any CEO can deploy to separate a real operator from an expensive consultant before the first quarterly review.
 
-## What Should You Measure in a Fractional Executive Engagement?
+## What should you measure in a fractional executive engagement?
 
-Fractional executive performance should be measured on three dimensions: speed to first deliverable, measurable business impact within the first quarter, and the rate at which the executive builds capability the company retains after the engagement ends. Activity metrics — hours worked, meetings attended, slide decks produced — reveal nothing about whether the engagement is creating value or consuming it.
+Fractional executive performance should be measured on three dimensions: speed to first deliverable, measurable business impact within the first quarter, and the rate at which the executive builds capability the company retains after the engagement ends. Activity metrics, hours worked, meetings attended, slide decks produced, reveal nothing about whether the engagement is creating value or consuming it.
 
-The distinction matters because fractional executives operate un
+The distinction matters because fractional executives work under different
 
 ---
 
@@ -8091,11 +8089,11 @@ AI is used in accounting to do the repeat work in the books: categorising bank t
 
 Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he has read a lot of ledgers kept by hand and knows which parts a machine now does better. Every price here was read on the vendor's own page on 6 October 2026, in US dollars, and where a claim is the vendor's own we say so.
 
-## how much of the bookkeeping is AI work already
+## How much of the bookkeeping is AI work already?
 
 Intuit surveyed more than 2,200 US businesses with up to 100 employees for its April 2025 QuickBooks Small Business Insights. 68 percent said they now use AI regularly, up from 48 percent the summer before, and 28 percent use it daily. Bookkeeping was the fifth most common use at 29 percent, behind marketing at 43 percent, customer service at 36, admin at 33 and data processing at 32. Intuit sells accounting software, so read it as a seller's survey. It's still the biggest US read on owners we found.
 
-The Bureau of Labor Statistics counts 1,532,400 bookkeeping, accounting and auditing clerks in the United States in 2025, at a median of $50,670 a year, or $24.36 an hour. It projects the job to shrink 6 percen
+The Bureau of Labor Statistics counts 1,532,400 bookkeeping, accounting and auditing clerks in the United States in 2025, at a median of $50,670 a year, or $24.36 an hour. It projects the job to shrink 6 perce
 
 ---
 

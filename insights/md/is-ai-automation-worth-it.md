@@ -27,7 +27,7 @@ We say yes to an automation when four things are true. If one is missing, we'd w
 
 The fourth one is where most of the return disappears. If 50 hours come back and turn into a quieter month, the books show the cost of the build and no saving against it.
 
-## What the evidence says in 2026
+## The evidence for 2026
 
 The loudest number is MIT's. Project NANDA at the MIT Media Lab published The GenAI Divide in July 2025, built on more than 300 public AI initiatives, 52 interviews and 153 survey responses. It reported that 95 percent of organisations were getting no business return, against 30 to 40 billion dollars of enterprise spending on generative AI. Only 5 percent of custom enterprise tools reached production.
 
@@ -61,7 +61,7 @@ Nobody owns the result. MIT's 95 percent were mostly pilots that never reached t
 
 A mistake is expensive and nobody checks. Anything that pays money, files a tax return or signs a contract needs a person approving the exceptions. If that person doesn't exist yet, hire or assign them first.
 
-## is an AI automation agency worth it
+## Is an AI automation agency worth it?
 
 Sometimes. MIT's finding that bought tools succeed about twice as often as home grown ones points toward outside help, but the question is whether you need someone to build or someone to teach you. If the job sits inside one system and the rule fits on a page, a 20 euro subscription and a weekend will do it, and we wrote the steps in [how to automate administrative tasks](/insights/how-to-automate-administrative-tasks/).
 
