@@ -1,14 +1,19 @@
-Most founders who ran out of money in Q1 never saw it coming in Q4.
+73% of employees at growth-stage companies use AI tools their company never approved.
 
-Revenue was up. Team was growing. Burn was "under control."
+That's not a productivity win.
 
-3 numbers decide whether next year is an opportunity or a survival play:
-Weeks of runway. Monthly burn trend. Lead time to next capital.
+It's a data liability your board has not priced.
 
-67% of growth-stage companies have under 90 days runway right now.
-Most don't know it until February.
+The average company of 100 people has 4 approved AI tools.
 
-A fractional CFO's first deliverable is always the 13-week cash forecast.
-Not because it's exciting. Because everything else depends on it.
+Their employees are running 11.
 
-#FractionalCFO #Cashflow #Founders
+The gap is where your customer data, your IP, and your trade secrets get fed into someone else's model.
+
+Shadow AI is not an IT problem.
+
+It's a governance failure waiting for a breach to make it expensive.
+
+An AI Operations operator maps the full stack, closes the gaps, and keeps the tools that drive margin.
+
+#AIOperations #AIGovernance #FractionalExecutive
