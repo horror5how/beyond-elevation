@@ -1,19 +1,21 @@
-The acquirer's team found 3 patents never assigned to the company.
+Most AI companies cannot define their unit economics.
 
-They repriced the deal by £2.4M before lunch.
+Investors terminate term sheets because of this.
 
-Most founders reach exit with no IP strategy on record.
+SaaS unit economics do not work for AI.
 
-No chain-of-title review.
+Token costs are variable. Models depreciate. Inference gets cheaper — then obsolete.
 
-No royalty line in the financials.
+3 numbers you need before your next raise:
 
-No one who treated IP as a revenue asset.
+1. Fully-loaded gross margin — include every dollar of compute
 
-The CIPO is not a legal cost — they prevent that conversation from happening.
+2. CAC payback corrected for model costs — when does your AI product actually pay back?
 
-41% valuation gap between IP-audited and non-audited exits.
+3. Net revenue retention adjusted for model depreciation
 
-9 weeks left in Q4.
+68% of AI Series B founders answer these wrong in due diligence.
 
-#IPstrategy #FractionalCIPO #ExitReady
+The ones who answer correctly raise at 2.4x higher multiples.
+
+#FractionalCFO #AIStartups #UnitEconomics
