@@ -479,5 +479,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Chief IP Officer KPIs: The 7 Metrics That Prove Your CIPO Is a Revenue Driver, Not a Cost Centre](https://beyondelevation.com/insights/chief-ip-officer-kpis) — /insights/md/chief-ip-officer-kpis.md
 - [The 30-Day Scorecard That Exposes Whether Your Fractional Executive Is an Operator or an Expensive Consultant](https://beyondelevation.com/insights/fractional-executive-30-day-scorecard) — /insights/md/fractional-executive-30-day-scorecard.md
 - [How is AI used in accounting? 8 jobs it already does in a small business](https://beyondelevation.com/insights/how-is-ai-used-in-accounting) — /insights/md/how-is-ai-used-in-accounting.md
+- [Revenue Forecasting for Startups: Your Board Wants Three Models, Not One](https://beyondelevation.com/insights/revenue-forecasting-startups-three-models) — /insights/md/revenue-forecasting-startups-three-models.md
 
 > Full blog content available at /llms-full.txt

@@ -8098,3 +8098,19 @@ Intuit surveyed more than 2,200 US businesses with up to 100 employees for its A
 The Bureau of Labor Statistics counts 1,532,400 bookkeeping, accounting and auditing clerks in the United States in 2025, at a median of $50,670 a year, or $24.36 an hour. It projects the job to shrink 6 percen
 
 ---
+
+## Revenue Forecasting for Startups: Your Board Wants Three Models, Not One
+
+URL: https://beyondelevation.com/insights/revenue-forecasting-startups-three-models
+
+Your revenue forecast is lying to your board. Not because you faked the numbers. Because you sent one line — the plan — and called it a forecast. A real revenue forecast for startups gives the board three scenarios: what happens if the plan works, what happens if it breaks, and what happens if it runs hot. One number is a guess. Three numbers are a decision framework.
+
+Hayat Amin has built revenue forecasts for three companies he took through exit — to American Express and TripAdvisor among the acquirers — and he says the pattern is always the same. Founders send the board a single revenue line that assumes every deal closes on time, every hire ramps in 90 days and no customer churns. The board nods, files it, and privately runs their own downside in their head. According to a 2025 Carta analysis of more than 10,000 startup board decks, fewer than 18 percent included a downside scenario, and the median forecast missed actual revenue by 28 percent within two quarters.
+
+That gap is where trust breaks. And it is the exact problem a fractional CFO solves before it becomes a board-level crisis.
+
+## What is revenue forecasting for startups?
+
+Revenue forecasting for startups is the process of building a financial model that projects future revenue across multiple scenarios, using assumptions your board can test, challenge and update every month. It is not a spreadsheet you build once for the fundraise deck and never touch again. It is a live operating tool that connects your pipelin
+
+---
