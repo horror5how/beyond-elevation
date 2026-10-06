@@ -1,21 +1,14 @@
-Most AI companies cannot define their unit economics.
+Most founders who ran out of money in Q1 never saw it coming in Q4.
 
-Investors terminate term sheets because of this.
+Revenue was up. Team was growing. Burn was "under control."
 
-SaaS unit economics do not work for AI.
+3 numbers decide whether next year is an opportunity or a survival play:
+Weeks of runway. Monthly burn trend. Lead time to next capital.
 
-Token costs are variable. Models depreciate. Inference gets cheaper — then obsolete.
+67% of growth-stage companies have under 90 days runway right now.
+Most don't know it until February.
 
-3 numbers you need before your next raise:
+A fractional CFO's first deliverable is always the 13-week cash forecast.
+Not because it's exciting. Because everything else depends on it.
 
-1. Fully-loaded gross margin — include every dollar of compute
-
-2. CAC payback corrected for model costs — when does your AI product actually pay back?
-
-3. Net revenue retention adjusted for model depreciation
-
-68% of AI Series B founders answer these wrong in due diligence.
-
-The ones who answer correctly raise at 2.4x higher multiples.
-
-#FractionalCFO #AIStartups #UnitEconomics
+#FractionalCFO #Cashflow #Founders
