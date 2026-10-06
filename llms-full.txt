@@ -8112,3 +8112,21 @@ That gap is where trust breaks. And it is the exact problem a fractional CFO sol
 Revenue forecasting for startups is the process of building a financial model that projects future revenue across multiple scenarios, using assumptions your board can test, challenge and update every month. It is not a spreadsheet you build once for the fundraise deck and never touch again. It is a live operating tool that connects your pipelin
 
 ---
+
+## The IP Risk Register Most Boards Skip — And the 12 Rows That Prevent a Due Diligence Disaster
+
+URL: https://beyondelevation.com/insights/ip-risk-register-board-governance-template
+
+78% of acquisition due diligence delays trace back to IP-related risks — not financials, not compliance, not cyber. Yet fewer than one in five boards maintains a formal IP risk register. Hayat Amin argues that this gap is the single most expensive governance failure in tech: "Every acquirer builds an IP risk register during due diligence. The question is whether you build yours first or they build it for you. The version they build always costs more."
+
+According to a 2025 Ocean Tomo study, intangible assets now represent over 90% of S&P 500 market capitalisation. The document that tracks and scores the risks to those assets — the IP risk register — is the governance blind spot most boards cannot afford to leave blank.
+
+## What Is an IP Risk Register?
+
+An IP risk register is a living governance document that catalogues, scores, and tracks every intellectual property risk that could destroy deal value, trigger litigation, or compromise competitive advantage. It sits alongside the financial risk register and the cybersecurity risk register as a board-level oversight tool — except most companies never build one.
+
+The format is straightforward: a spreadsheet with one row per risk, scored on likelihood and impact, assigned an owner, and reviewed quarterly. What makes it valuable is not the format but the forcing function. The act of cataloguing IP risks exposes the gaps that due diligence will find anyway.
+
+Beyond Elevation builds IP risk registers as part of every fractional Chief
+
+---
