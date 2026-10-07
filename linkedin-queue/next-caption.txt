@@ -1,21 +1,24 @@
-Most companies plan to hire one "AI person" for 2027.
+Most founders start fundraising in Q1.
+Their IP gaps get flagged by diligence in Q2.
 
-The problem is that's three jobs.
+By then, the multiple is already set.
 
-You need someone who decides WHAT to automate.
+8 weeks to run a clean IP audit.
 
-You need someone who builds the automations.
+22% is the average valuation haircut when IP title is not in order.
 
-You need someone who audits whether they're actually working — and kills the ones that aren't.
+73% of Series B targets have at least one patent not assigned to the company.
 
-When one person does all three, you get slow rollout, unclear ROI, and hidden cost overruns.
+Three things your diligence team will find:
 
-The companies winning split it.
+Patents filed personally by founders, not the company.
 
-Strategist. Operator. Auditor.
+Missing assignment agreements from early engineers.
 
-Three distinct roles. Not three headcounts.
+Zero licensing revenue on record — just cost-centre spend.
 
-All three can run fractionally for less than one mid-market full-time AI hire.
+Q4 is your 8-week window.
 
-#AIOperations #FractionalExecutive #AI
+Fix it before the bankers price you.
+
+#IPStrategy #FractionalCIPO #ExitReadiness
