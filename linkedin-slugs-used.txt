@@ -753,3 +753,4 @@ cost-of-no-cipo-exit-2026
 unit-economics-ai-company-2026
 q4-cash-position-2027-options-founders
 shadow-ai-hidden-cost-2026
+ai-ops-three-roles-2027-planning

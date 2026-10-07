@@ -1,19 +1,21 @@
-73% of employees at growth-stage companies use AI tools their company never approved.
+Most companies plan to hire one "AI person" for 2027.
 
-That's not a productivity win.
+The problem is that's three jobs.
 
-It's a data liability your board has not priced.
+You need someone who decides WHAT to automate.
 
-The average company of 100 people has 4 approved AI tools.
+You need someone who builds the automations.
 
-Their employees are running 11.
+You need someone who audits whether they're actually working — and kills the ones that aren't.
 
-The gap is where your customer data, your IP, and your trade secrets get fed into someone else's model.
+When one person does all three, you get slow rollout, unclear ROI, and hidden cost overruns.
 
-Shadow AI is not an IT problem.
+The companies winning split it.
 
-It's a governance failure waiting for a breach to make it expensive.
+Strategist. Operator. Auditor.
 
-An AI Operations operator maps the full stack, closes the gaps, and keeps the tools that drive margin.
+Three distinct roles. Not three headcounts.
 
-#AIOperations #AIGovernance #FractionalExecutive
+All three can run fractionally for less than one mid-market full-time AI hire.
+
+#AIOperations #FractionalExecutive #AI
