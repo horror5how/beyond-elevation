@@ -8130,3 +8130,21 @@ The format is straightforward: a spreadsheet with one row per risk, scored on li
 Beyond Elevation builds IP risk registers as part of every fractional Chief
 
 ---
+
+## How does workflow automation work? The five parts, the four tools and what each one charges
+
+URL: https://beyondelevation.com/insights/how-does-workflow-automation-work
+
+Workflow automation works by watching for an event in one app, a new order, an email or a signed form, and then running a fixed set of steps in other apps without a person touching them. Every workflow has the same parts: a trigger, the data it carries, a set of rules, the actions, and a record of what happened. Software such as Zapier, Make, n8n and Microsoft Power Automate runs those steps for you, for between nothing and a few hundred dollars a month.
+
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, and he now builds these workflows inside companies himself. Below is how one works, part by part, what each tool charges for it, and where it breaks. Every price was read on the vendor's own page on 7 October 2026, in US dollars unless marked.
+
+## the five parts of every automated workflow
+
+The trigger is the event that starts the run. A new row in a Google Sheet, a deal moved to won in your CRM, an invoice landing in a shared inbox. Nothing happens until it fires, and a workflow has exactly one.
+
+The data is what the trigger brings with it: the customer's name, the amount, the due date, the attachment. Each later step picks the fields it needs out of that bundle. Most of the setup time goes here, telling the tool that the field called "Total" in one app is the field called "Amount" in the next.
+
+The rules decide whether the run carries on and which way it goes. Only invoices over $5,000 go to the owner for approval, or only o
+
+---

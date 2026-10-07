@@ -481,5 +481,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How is AI used in accounting? 8 jobs it already does in a small business](https://beyondelevation.com/insights/how-is-ai-used-in-accounting) — /insights/md/how-is-ai-used-in-accounting.md
 - [Revenue Forecasting for Startups: Your Board Wants Three Models, Not One](https://beyondelevation.com/insights/revenue-forecasting-startups-three-models) — /insights/md/revenue-forecasting-startups-three-models.md
 - [The IP Risk Register Most Boards Skip — And the 12 Rows That Prevent a Due Diligence Disaster](https://beyondelevation.com/insights/ip-risk-register-board-governance-template) — /insights/md/ip-risk-register-board-governance-template.md
+- [How does workflow automation work? The five parts, the four tools and what each one charges](https://beyondelevation.com/insights/how-does-workflow-automation-work) — /insights/md/how-does-workflow-automation-work.md
 
 > Full blog content available at /llms-full.txt
