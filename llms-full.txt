@@ -8166,3 +8166,17 @@ EBITDA adjustments are legitimate normalisations that remove one-off costs, belo
 The problem is not dishonesty. The problem is that founders present numbers loaded with costs that vanish post-transaction, miss revenue that start
 
 ---
+
+## Your Best Engineer Just Resigned. The 72-Hour Playbook to Protect Your IP When Employees Leave.
+
+URL: https://beyondelevation.com/insights/protect-ip-when-employees-leave
+
+According to Ocean Tomo's 2025 Intangible Asset Market Value Study, 90% of S&P 500 market value now sits in intangible assets — patents, trade secrets, proprietary data, and know-how. When a key employee resigns, Hayat Amin argues that most of that value is suddenly at risk: "Founders spend the first three days worrying about the product roadmap. By the time they think about IP, the damage is already done." The question every founder must ask the moment a resignation letter lands is not who replaces this person, but what intellectual property leaves with them and how to protect IP when employees leave. This guide covers the 72-hour playbook and the structural protections that keep your IP inside the company.
+
+## What IP Actually Walks Out When a Key Employee Leaves?
+
+Five categories of intellectual property are at immediate risk the day a key employee resigns: trade secrets, unassigned inventions, proprietary datasets, customer relationships, and undocumented know-how. Each one represents enterprise value that can vanish before anyone notices it is gone. Beyond Elevation runs departure audits across all five categories for every client facing a senior exit.
+
+**Trade secrets** are the highest-risk category. Unlike patents, trade secrets live in people's heads — algorithms, pricing models, supplier terms, training recipes, and customer negotiation playbooks. The moment an employee walks out the door, everything they remember goes with them. Under the Defend Trade Secrets Act, y
+
+---
