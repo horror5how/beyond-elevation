@@ -8055,11 +8055,13 @@ URL: https://beyondelevation.com/insights/chief-ip-officer-kpis
 
 Most Chief IP Officers report two numbers to the board: patents filed and legal spend. Both are vanity metrics. Neither tells the board whether IP is generating revenue, blocking competitors, or increasing enterprise value. According to the 2026 Ocean Tomo Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation, yet fewer than 15% of companies with a dedicated IP executive measure that executive's performance against revenue outcomes.
 
- Hayat Amin argues that a Chief IP Officer who reports filing counts is operating like an administrator, not an operator. The difference shows up at exit: companies whose CIPOs track revenue-linked chief IP officer KPIs command 30 to 60% higher acquisition premiums than those whose IP leadership reports only cost and volume metrics. The KPIs below are the ones that separate a CIPO worth their retainer from one who is quietly burning budget.
+ Hayat Amin says a Chief IP Officer who reports filing counts is an administrator, not an operator. The difference shows up at exit: companies whose CIPOs track revenue-linked chief IP officer KPIs command 30 to 60% higher acquisition premiums than those whose IP leadership reports only cost and volume metrics. The KPIs below are the ones that separate a CIPO worth their retainer from one who is burning budget.
 
  ## What are the right chief IP officer KPIs?
 
- The right chief IP officer KPIs measure IP as a revenue-generating asset, not a legal function. They answer seven questions the board cares about: is IP making money, is it protecting market share, is the portfolio efficient, and is it increasing what the company is worth? Beyond Elevation uses these seven metrics as the standard CIPO performance dashboard for every fractional Chief IP Officer engagement, and the gap between companies that track them and companies that do not is measurable in multiples, not p
+ The right chief IP officer KPIs measure IP as a revenue-generating asset, not a legal function. They answer seven questions the board cares about: is IP making money, is it protecting market share, is the portfolio efficient, and is it increasing what the company is worth? Beyond Elevation uses these seven metrics as the standard CIPO performance dashboard for every fractional Chief IP Officer engagement, and the gap between companies that track them and companies that do not is measurable in multiples, not percentages.
+
+ ## KPI 1: what p
 
 ---
 
@@ -8069,7 +8071,7 @@ URL: https://beyondelevation.com/insights/fractional-executive-30-day-scorecard
 
 Most companies measure their fractional executive the same way they measure a permanent hire: hours logged, meetings attended, reports delivered. Every one of those metrics is wrong.
 
-According to Staffing Industry Analysts (2025), 71 percent of companies using fractional executives have no formal performance framework tied to outcomes for the engagement. They pay operator rates and measure attendance. Hayat Amin says the executive isn't the problem. What's missing is a scorecard built for fractional work. A fractional executive operates on a compressed timeline with limited hours. Measuring them on presence instead of outcomes guarantees the engagement underperforms, regardless of how talented the operator is.
+According to Staffing Industry Analysts (2025), 71 percent of companies using fractional executives have no formal performance framework tied to outcomes for the engagement. They pay operator rates and measure attendance. Hayat Amin says the executive isn't the problem. A scorecard built for fractional work is what's missing. A fractional executive operates on a compressed timeline with limited hours. Measuring them on presence instead of outcomes guarantees the engagement underperforms, regardless of how talented the operator is.
 
 Here is the 30-day scorecard Beyond Elevation uses to evaluate every fractional operator it places, and the framework any CEO can deploy to separate a real operator from an expensive consultant before the first quarterly review.
 
@@ -8101,15 +8103,15 @@ The Bureau of Labor Statistics counts 1,532,400 bookkeeping, accounting and audi
 
 URL: https://beyondelevation.com/insights/revenue-forecasting-startups-three-models
 
-Your revenue forecast is lying to your board. Not because you faked the numbers. Because you sent one line — the plan — and called it a forecast. A real revenue forecast for startups gives the board three scenarios: what happens if the plan works, what happens if it breaks, and what happens if it runs hot. One number is a guess. Three numbers are a decision framework.
+Your revenue forecast misleads the board. You didn't fake the numbers, you sent one line, the plan, and called it a forecast. A real revenue forecast for startups gives the board three scenarios: what happens if the plan works, what happens if it breaks, and what happens if it runs hot. One number is a guess, three is a decision framework.
 
-Hayat Amin has built revenue forecasts for three companies he took through exit — to American Express and TripAdvisor among the acquirers — and he says the pattern is always the same. Founders send the board a single revenue line that assumes every deal closes on time, every hire ramps in 90 days and no customer churns. The board nods, files it, and privately runs their own downside in their head. According to a 2025 Carta analysis of more than 10,000 startup board decks, fewer than 18 percent included a downside scenario, and the median forecast missed actual revenue by 28 percent within two quarters.
+Hayat Amin has built revenue forecasts for three companies he took through exit, to American Express and TripAdvisor among the acquirers, and he says the pattern is always the same. Founders send the board a single revenue line that assumes every deal closes on time, every hire ramps in 90 days and no customer churns. The board nods, files it, and privately runs their own downside in their head. According to a 2025 Carta analysis of more than 10,000 startup board decks, fewer than 18 percent included a downside scenario, and the median forecast missed actual revenue by 28 percent within two quarters.
 
-That gap is where trust breaks. And it is the exact problem a fractional CFO solves before it becomes a board-level crisis.
+That gap is where trust breaks, and it's the exact problem a fractional CFO solves before it becomes a board-level crisis.
 
 ## What is revenue forecasting for startups?
 
-Revenue forecasting for startups is the process of building a financial model that projects future revenue across multiple scenarios, using assumptions your board can test, challenge and update every month. It is not a spreadsheet you build once for the fundraise deck and never touch again. It is a live operating tool that connects your pipelin
+Revenue forecasting for startups is the process of building a financial model that projects future revenue across multiple scenarios, using assumptions your board can test, challenge and update every month. It isn't a spreadsheet you build once for the fundraise deck and never touch again, it's a live operating tool that connects your pipeline, burn rate and hiring plan into 
 
 ---
 
@@ -8117,17 +8119,17 @@ Revenue forecasting for startups is the process of building a financial model th
 
 URL: https://beyondelevation.com/insights/ip-risk-register-board-governance-template
 
-78% of acquisition due diligence delays trace back to IP-related risks — not financials, not compliance, not cyber. Yet fewer than one in five boards maintains a formal IP risk register. Hayat Amin argues that this gap is the single most expensive governance failure in tech: "Every acquirer builds an IP risk register during due diligence. The question is whether you build yours first or they build it for you. The version they build always costs more."
+78% of acquisition due diligence delays trace back to IP-related risks, not financials, not compliance, not cyber. Yet fewer than one in five boards maintains a formal IP risk register. Hayat Amin argues that this gap is the single most expensive governance failure in tech: "Every acquirer builds an IP risk register during due diligence. The question is whether you build yours first or they build it for you. The version they build always costs more."
 
-According to a 2025 Ocean Tomo study, intangible assets now represent over 90% of S&P 500 market capitalisation. The document that tracks and scores the risks to those assets — the IP risk register — is the governance blind spot most boards cannot afford to leave blank.
+According to a 2025 Ocean Tomo study, intangible assets now represent over 90% of S&P 500 market capitalisation. The document that tracks and scores the risks to those assets, the IP risk register, is the governance blind spot most boards cannot afford to leave blank.
 
-## What Is an IP Risk Register?
+## What is an IP risk register?
 
-An IP risk register is a living governance document that catalogues, scores, and tracks every intellectual property risk that could destroy deal value, trigger litigation, or compromise competitive advantage. It sits alongside the financial risk register and the cybersecurity risk register as a board-level oversight tool — except most companies never build one.
+An IP risk register is a living governance document that catalogues, scores, and tracks every intellectual property risk that could destroy deal value, trigger litigation, or compromise competitive advantage. It sits alongside the financial risk register and the cybersecurity risk register as a board-level oversight tool, except most companies never build one.
 
-The format is straightforward: a spreadsheet with one row per risk, scored on likelihood and impact, assigned an owner, and reviewed quarterly. What makes it valuable is not the format but the forcing function. The act of cataloguing IP risks exposes the gaps that due diligence will find anyway.
+The format is straightforward: a spreadsheet with one row per risk, scored on likelihood and impact, assigned an owner, and reviewed quarterly. The value sits in the forcing function rather than the format. Cataloguing IP risks exposes the gaps that due diligence will find anyway.
 
-Beyond Elevation builds IP risk registers as part of every fractional Chief
+Beyond Elevation builds IP risk registers as part of every fractional Chief IP Officer engagem
 
 ---
 

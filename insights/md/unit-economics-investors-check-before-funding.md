@@ -51,7 +51,7 @@ At seed, the benchmarks sharpen. LTV to CAC should be above 3 to 1 on a cohorted
 
 By Series A, investors expect a fully built unit economics model with cohort analysis, channel level CAC breakdowns and segment level LTV. Hayat Amin argues that the single biggest gap he sees at this stage is the absence of channel attribution. A founder knows their blended CAC is 2,800 dollars but cannot tell you whether Google costs 1,200 and referrals cost 400 or the reverse. Without that split, the company cannot make informed decisions about where to allocate the next dollar of growth capital, and the investor knows it.
 
-## What a fractional CFO builds in two weeks
+## A fractional CFO's two week build
 
 A fractional CFO connects your billing system, CRM and marketing platform, pulls cohort retention data, calculates gross margin by customer segment, maps acquisition spend by channel, and produces a live unit economics dashboard that updates monthly. The work takes 8 to 12 working days when the data exists in any structured form.
 

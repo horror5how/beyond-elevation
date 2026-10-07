@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 Most Chief IP Officers report two numbers to the board: patents filed and legal spend. Both are vanity metrics. Neither tells the board whether IP is generating revenue, blocking competitors, or increasing enterprise value. According to the 2026 Ocean Tomo Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation, yet fewer than 15% of companies with a dedicated IP executive measure that executive's performance against revenue outcomes.
 
- Hayat Amin argues that a Chief IP Officer who reports filing counts is operating like an administrator, not an operator. The difference shows up at exit: companies whose CIPOs track revenue-linked chief IP officer KPIs command 30 to 60% higher acquisition premiums than those whose IP leadership reports only cost and volume metrics. The KPIs below are the ones that separate a CIPO worth their retainer from one who is quietly burning budget.
+ Hayat Amin says a Chief IP Officer who reports filing counts is an administrator, not an operator. The difference shows up at exit: companies whose CIPOs track revenue-linked chief IP officer KPIs command 30 to 60% higher acquisition premiums than those whose IP leadership reports only cost and volume metrics. The KPIs below are the ones that separate a CIPO worth their retainer from one who is burning budget.
 
  ## What are the right chief IP officer KPIs?
 
@@ -39,7 +39,7 @@ Most Chief IP Officers report two numbers to the board: patents filed and legal 
 
  This KPI measures the delta between your company's enterprise value with its current IP portfolio and an estimated valuation without it. It answers the board's real question: how much of our valuation is IP holding up?
 
- Calculating it requires an IP valuation, typically using the income approach (discounted future cash flows attributable to IP assets) or the relief-from-royalty method (what you would pay to license the same technology if you did not own it). Beyond Elevation runs this valuation as part of every [fractional Chief IP Officer](/insights/what-is-a-chief-ip-officer/) engagement. The benchmark is clear: companies with well-structured IP portfolios trade at 20 to 60% premiums over comparable companies without IP protection. A CIPO who cannot quantify this premium in terms the board can use is leaving the most powerful argument for continued IP investment on the table.
+ Calculating it requires an IP valuation, typically using the income approach (discounted future cash flows attributable to IP assets) or the relief-from-royalty method (what you would pay to license the same technology if you did not own it). Beyond Elevation runs this valuation as part of every [fractional Chief IP Officer](/insights/what-is-a-chief-ip-officer/) engagement. Companies with well-structured IP portfolios trade at 20 to 60% premiums over comparable companies without IP protection. A CIPO who cannot quantify this premium in terms the board can use is leaving the most powerful argument for continued IP investment on the table.
 
  ## KPI 5: what is the filing-to-grant efficiency?
 
@@ -49,7 +49,7 @@ Most Chief IP Officers report two numbers to the board: patents filed and legal 
 
  ## KPI 6: what is the competitive exclusion score?
 
- The competitive exclusion score measures the percentage of your addressable market where competitors cannot operate without licensing your IP or designing around your patents. It answers a question investors ask constantly: can someone else build this?
+ The competitive exclusion score measures the percentage of your addressable market where competitors cannot operate without licensing your IP or designing around your patents. It answers a question investors ask often: can someone else build this?
 
  Calculating it requires mapping your patent claims against competitor products and the wider technology they rely on. A score above 60% means your IP creates genuine market exclusivity in more than half your addressable space. Below 30% means competitors can build functionally equivalent products without touching your claims, which means your patents are not doing their job regardless of how many you have. Beyond Elevation runs this analysis as part of every [CIPO performance review](/insights/what-is-a-chief-ip-officer/) and [IP strategy engagement](/insights/ip-strategy-startups-guide/).
 

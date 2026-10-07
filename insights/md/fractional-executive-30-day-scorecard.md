@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 Most companies measure their fractional executive the same way they measure a permanent hire: hours logged, meetings attended, reports delivered. Every one of those metrics is wrong.
 
-According to Staffing Industry Analysts (2025), 71 percent of companies using fractional executives have no formal performance framework tied to outcomes for the engagement. They pay operator rates and measure attendance. Hayat Amin says the executive isn't the problem. What's missing is a scorecard built for fractional work. A fractional executive operates on a compressed timeline with limited hours. Measuring them on presence instead of outcomes guarantees the engagement underperforms, regardless of how talented the operator is.
+According to Staffing Industry Analysts (2025), 71 percent of companies using fractional executives have no formal performance framework tied to outcomes for the engagement. They pay operator rates and measure attendance. Hayat Amin says the executive isn't the problem. A scorecard built for fractional work is what's missing. A fractional executive operates on a compressed timeline with limited hours. Measuring them on presence instead of outcomes guarantees the engagement underperforms, regardless of how talented the operator is.
 
 Here is the 30-day scorecard Beyond Elevation uses to evaluate every fractional operator it places, and the framework any CEO can deploy to separate a real operator from an expensive consultant before the first quarterly review.
 
@@ -21,7 +21,7 @@ Fractional executive performance should be measured on three dimensions: speed t
 
 The distinction matters because fractional executives work under different constraints than permanent hires. A full-time CFO has years to build relationships, learn the business and improve financial operations gradually. A [fractional CFO has roughly 100 days](/insights/first-100-days-fractional-cfo/) to prove the engagement pays for itself. That compressed timeline needs a measurement framework built for outcomes, not effort.
 
-Companies that measure fractional engagements the way they'd measure a full-time hire consistently get the performance wrong. They fire operators who deliver results but skip meetings, and they keep consultants who attend everything but ship nothing. The scorecard below fixes that.
+Companies that measure fractional engagements the way they'd measure a permanent hire consistently get the performance wrong. They fire operators who deliver results but skip meetings, and keep consultants who attend everything but ship nothing. The scorecard below fixes that.
 
 ## What are the 7 KPIs in Hayat Amin's Fractional Operator Scorecard?
 

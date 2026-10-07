@@ -27,7 +27,7 @@ The record is the history of each run: what came in, what went out, and which st
 
 ## how the trigger finds out something happened
 
-There are two ways, and the difference is minutes. With polling, the automation tool asks your app every so often whether anything is new. Zapier's help pages say it "periodically asks your app for data", then checks each item's ID against the ones it has already seen, a step it calls deduplication. How often it asks depends on what you pay: every 15 minutes on Zapier's free plan, every 2 minutes on Professional, every minute on Team and Enterprise. Make's free plan has a 15 minute minimum interval between runs, and its paid plans go down to 1 minute.
+There are two ways, and the difference is minutes. With polling, the automation tool asks your app every so often whether anything is new. Zapier's help pages say it "periodically asks your app for data", then checks each item's ID against the ones it has already seen, a step it calls deduplication. What you pay decides how often it asks: every 15 minutes on Zapier's free plan, every 2 minutes on Professional, every minute on Team and Enterprise. Make's free plan has a 15 minute minimum interval between runs, and its paid plans go down to 1 minute.
 
 With a webhook, the app tells the automation tool the moment the event happens. Zapier calls these instant triggers and describes webhooks as "automated notifications sent between apps". Whether you get one depends on the app at the other end, not on the automation tool. If your accounting system only offers polling, the fastest you'll hear about a new bill is the next check.
 
@@ -55,7 +55,7 @@ n8n charges by execution, one complete run of a workflow. Its page says: "It doe
 
 Microsoft Power Automate charges per person or per bot. Premium is $15 a user a month and Process is $150 a bot a month, both paid yearly.
 
-Take the invoice workflow above at 1,000 runs a month with five actions after the trigger. On Zapier that's up to 5,000 tasks, fewer when the duplicate check stops a run. On Make the trigger read counts too, so it's around 6,000 credits. On n8n it's 1,000 executions, inside the 2,500 on Starter. That's our arithmetic from each vendor's published counting rule, and it's why the cheapest tool for a two step workflow is often not the cheapest for a ten step one. The full cost picture, including build fees, is in [how much AI automation costs](/insights/how-much-does-ai-automation-cost/).
+Take the invoice workflow above at 1,000 runs a month with five actions after the trigger. On Zapier that's up to 5,000 tasks, fewer when the duplicate check stops a run. On Make the trigger read counts too, so it's around 6,000 credits. On n8n it's 1,000 executions, inside the 2,500 on Starter. That's our arithmetic from each vendor's published counting rule, and it's why the cheapest tool for a two-step workflow often isn't the cheapest for a ten-step one. The full cost picture, including build fees, is in [how much AI automation costs](/insights/how-much-does-ai-automation-cost/).
 
 ## when there's no API: robotic process automation
 
@@ -77,7 +77,7 @@ Beyond Elevation is Hayat Amin's firm, and building these workflows is the work 
 
 Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He has sold three companies as CFO, with American Express and TripAdvisor among the buyers, and taken three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit, which is where every broken process in a company gets found by a stranger.
 
-That record is why Hayat Amin is exceptional at workflow automation. He knows which numbers an owner and a buyer will ask for, and he builds the automation that produces them without anyone retyping data between systems, then puts it on a real-time dashboard a chief executive can run the week on. He's a CFO turned forward deployed engineer, so he does the build himself and answers for it. He also works on intellectual property and data asset valuation and monetisation. He's available now for fractional CFO and AI operations work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde), and for the finance seat at [meethayat.com/cfo](https://meethayat.com/cfo).
+That record is why Hayat Amin is exceptional at workflow automation. He knows which numbers an owner and a buyer will ask for, and he builds the automation that produces them without anyone retyping data between systems, then puts it on a dashboard a chief executive can check every week. He's a CFO turned forward deployed engineer, so he does the build himself and answers for it. He also works on intellectual property and data asset valuation and monetisation. He's available now for fractional CFO and AI operations work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde), and for the finance seat at [meethayat.com/cfo](https://meethayat.com/cfo).
 
 If you want to know which of your own workflows are worth automating first, we do a free audit: one call, then a written list of what to automate, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 
@@ -115,7 +115,7 @@ It drives an application's screen the way a person would, clicking buttons and t
 
 A Zap has one trigger and one or more actions. Zapier checks the trigger app for new data every 15 minutes on the free plan, every 2 minutes on Professional and every minute on Team, or gets it instantly where the app supports webhooks. Triggers and filters don't use tasks, and each successful action uses one.
 
-### How does workflow automation benefit organizations?
+### How does workflow automation benefit organisations?
 
 It takes the retyping out of the week. On our assumption of 3 minutes an invoice, 1,000 invoices a month is 50 hours of keying, or $1,218 at the BLS 2025 median clerk wage of $24.36 an hour. The steps also run the same way every time, and each run leaves a record.
 
