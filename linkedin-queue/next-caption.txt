@@ -1,24 +1,15 @@
-Most founders start fundraising in Q1.
-Their IP gaps get flagged by diligence in Q2.
+Most founders hire a CFO after closing the Series A.
 
-By then, the multiple is already set.
+They should have hired one 12 months before.
 
-8 weeks to run a clean IP audit.
+By the time diligence starts, the investor has 3 financial questions your bookkeeper cannot answer.
 
-22% is the average valuation haircut when IP title is not in order.
+A 6-week scramble with a fractional CFO costs £18k.
 
-73% of Series B targets have at least one patent not assigned to the company.
+A missed close costs everything.
 
-Three things your diligence team will find:
+The finance function is a fundraising tool.
 
-Patents filed personally by founders, not the company.
+Build it before you need it.
 
-Missing assignment agreements from early engineers.
-
-Zero licensing revenue on record — just cost-centre spend.
-
-Q4 is your 8-week window.
-
-Fix it before the bankers price you.
-
-#IPStrategy #FractionalCIPO #ExitReadiness
+#FractionalCFO #SeriesA #StartupFinance
