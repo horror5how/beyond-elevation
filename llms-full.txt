@@ -8150,3 +8150,19 @@ The data is what the trigger brings with it: the customer's name, the amount, th
 The rules decide whether the run carries on and which way it goes. Only invoices over $5,000 go to the owner for approval, or only o
 
 ---
+
+## Your Raw EBITDA Understates Your Business by 30-50%. Here Are the 7 Adjustments a Fractional CFO Makes Before Your Next Raise.
+
+URL: https://beyondelevation.com/insights/ebitda-adjustments-fractional-cfo-fundraise
+
+According to Deloitte's 2025 Quality of Earnings Survey, the average growth-stage tech company's adjusted EBITDA runs 34% higher than its reported EBITDA. Hayat Amin argues that EBITDA adjustments before a fundraise are not accounting games — they are the single fastest way to increase your valuation without changing anything about your business. Most founders present raw numbers to investors and leave 30-50% of their value sitting in expenses that will not recur, compensation that is mispriced, and revenue that started mid-period.
+
+The gap between raw EBITDA and adjusted EBITDA is where valuation lives. A company reporting £1M EBITDA at a 6x multiple gets valued at £6M. The same company, properly adjusted, shows £1.4M — and gets valued at £8.4M. Same business. Same revenue. £2.4M difference. The only variable is whether someone sat down and ran the adjustments before the data room opened.
+
+## What Are EBITDA Adjustments and Why Do They Change Term Sheets?
+
+EBITDA adjustments are legitimate normalisations that remove one-off costs, below-market owner compensation, and non-recurring expenses from your earnings to show investors what the business earns in a steady state. Every acquirer and institutional investor runs their own quality of earnings analysis. If you have not run yours first, their number wins — and it is always lower.
+
+The problem is not dishonesty. The problem is that founders present numbers loaded with costs that vanish post-transaction, miss revenue that start
+
+---
