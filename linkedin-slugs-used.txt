@@ -756,3 +756,4 @@ shadow-ai-hidden-cost-2026
 ai-ops-three-roles-2027-planning
 ip-2027-fundraising-q4-prep
 series-a-cfo-timing-mistake-2026
+ai-performance-review-q4-2026

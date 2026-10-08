@@ -1,15 +1,17 @@
-Most founders hire a CFO after closing the Series A.
+You reviewed every employee this year.
 
-They should have hired one 12 months before.
+Nobody reviewed the AI.
 
-By the time diligence starts, the investor has 3 financial questions your bookkeeper cannot answer.
+Your AI tools ran 10 months without a single performance check.
 
-A 6-week scramble with a fractional CFO costs £18k.
+3 questions to run before Q4 budget is locked:
 
-A missed close costs everything.
+1. What measurable output did each AI tool produce?
+2. Which processes got faster, cheaper, or more accurate?
+3. What did you pay, and what did it return?
 
-The finance function is a fundraising tool.
+Unreviewed AI is unaccountable spend.
 
-Build it before you need it.
+Do the review before the budget meeting.
 
-#FractionalCFO #SeriesA #StartupFinance
+#AIOperations #FractionalCFO #Q4Planning
