@@ -484,5 +484,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How does workflow automation work? The five parts, the four tools and what each one charges](https://beyondelevation.com/insights/how-does-workflow-automation-work) — /insights/md/how-does-workflow-automation-work.md
 - [Your Raw EBITDA Understates Your Business by 30-50%. Here Are the 7 Adjustments a Fractional CFO Makes Before Your Next Raise.](https://beyondelevation.com/insights/ebitda-adjustments-fractional-cfo-fundraise) — /insights/md/ebitda-adjustments-fractional-cfo-fundraise.md
 - [Your Best Engineer Just Resigned. The 72-Hour Playbook to Protect Your IP When Employees Leave.](https://beyondelevation.com/insights/protect-ip-when-employees-leave) — /insights/md/protect-ip-when-employees-leave.md
+- [AI for Staffing Agencies: 8 Operations Worth Automating First, and Which Agencies Get the Most From It](https://beyondelevation.com/insights/ai-for-staffing-agencies) — /insights/md/ai-for-staffing-agencies.md
 
 > Full blog content available at /llms-full.txt
