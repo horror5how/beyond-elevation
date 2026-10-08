@@ -13,7 +13,7 @@ Workflow automation works by watching for an event in one app, a new order, an e
 
 Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, and he now builds these workflows inside companies himself. Below is how one works, part by part, what each tool charges for it, and where it breaks. Every price was read on the vendor's own page on 7 October 2026, in US dollars unless marked.
 
-## the five parts of every automated workflow
+## The five parts of every automated workflow
 
 The trigger is the event that starts the run. A new row in a Google Sheet, a deal moved to won in your CRM, an invoice landing in a shared inbox. Nothing happens until it fires, and a workflow has exactly one.
 
@@ -25,9 +25,9 @@ The actions are the work itself. Create the bill, send the message, update the r
 
 The record is the history of each run: what came in, what went out, and which step failed. It's the part owners forget about, and it's the one that tells you the thing is still working on a Tuesday six months later.
 
-## how the trigger finds out something happened
+## How the trigger finds out something happened
 
-There are two ways, and the difference is minutes. With polling, the automation tool asks your app every so often whether anything is new. Zapier's help pages say it "periodically asks your app for data", then checks each item's ID against the ones it has already seen, a step it calls deduplication. What you pay decides how often it asks: every 15 minutes on Zapier's free plan, every 2 minutes on Professional, every minute on Team and Enterprise. Make's free plan has a 15 minute minimum interval between runs, and its paid plans go down to 1 minute.
+There are two ways, and the difference is minutes. With polling, the automation tool asks your app every so often whether anything is new. Zapier's help pages say it "periodically asks your app for data", then checks each item's ID against the ones it has already seen, a step it calls deduplication. The plan you pay for decides how often it asks: every 15 minutes on Zapier's free plan, every 2 minutes on Professional, every minute on Team and Enterprise. Make's free plan has a 15 minute minimum interval between runs, and its paid plans go down to 1 minute.
 
 With a webhook, the app tells the automation tool the moment the event happens. Zapier calls these instant triggers and describes webhooks as "automated notifications sent between apps". Whether you get one depends on the app at the other end, not on the automation tool. If your accounting system only offers polling, the fastest you'll hear about a new bill is the next check.
 
@@ -45,7 +45,7 @@ A classic workflow only handles data that arrives in a known shape. A form field
 
 That's the step AI now does. A language model reads the messy input and hands back clean fields the rest of the workflow can use, or it sorts an email into one of five queues, or drafts a reply for a person to send. The workflow around it is still the same trigger, rules and actions. We'd keep the AI to the reading and sorting, keep the money moves on fixed rules, and put a person on anything the model wasn't sure about. If you want the longer version of that, we wrote up [what an AI agent for a small business is](/insights/what-is-an-ai-agent-for-small-business/).
 
-## what you pay for, and how each tool counts it
+## What you pay for, and how each tool counts it
 
 The tools count differently, so the same workflow costs different amounts in each. Zapier charges by task. Its help centre says "a task is any successful action that runs in Zapier", and "Zap triggers never use tasks". Filter and path steps don't count either, and neither do steps that error. The free plan has 100 tasks a month, Professional starts at $19.99 a month billed annually ($29.99 monthly) for 750 tasks, and Team starts at $69 a month billed annually for 2,000.
 

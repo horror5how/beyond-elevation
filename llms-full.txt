@@ -8103,15 +8103,15 @@ The Bureau of Labor Statistics counts 1,532,400 bookkeeping, accounting and audi
 
 URL: https://beyondelevation.com/insights/revenue-forecasting-startups-three-models
 
-Your revenue forecast misleads the board. You didn't fake the numbers, you sent one line, the plan, and called it a forecast. A real revenue forecast for startups gives the board three scenarios: what happens if the plan works, what happens if it breaks, and what happens if it runs hot. One number is a guess, three is a decision framework.
+Your revenue forecast misleads the board. The numbers aren't fake. You sent one line, the plan, and called it a forecast. A real revenue forecast for startups gives the board three scenarios: what happens if the plan works, what happens if it breaks, and what happens if it runs hot. One number is a guess, three is a decision framework.
 
 Hayat Amin has built revenue forecasts for three companies he took through exit, to American Express and TripAdvisor among the acquirers, and he says the pattern is always the same. Founders send the board a single revenue line that assumes every deal closes on time, every hire ramps in 90 days and no customer churns. The board nods, files it, and privately runs their own downside in their head. According to a 2025 Carta analysis of more than 10,000 startup board decks, fewer than 18 percent included a downside scenario, and the median forecast missed actual revenue by 28 percent within two quarters.
 
-That gap is where trust breaks, and it's the exact problem a fractional CFO solves before it becomes a board-level crisis.
+That gap is where trust breaks. It's the problem a fractional CFO solves before it becomes a crisis for the board.
 
 ## What is revenue forecasting for startups?
 
-Revenue forecasting for startups is the process of building a financial model that projects future revenue across multiple scenarios, using assumptions your board can test, challenge and update every month. It isn't a spreadsheet you build once for the fundraise deck and never touch again, it's a live operating tool that connects your pipeline, burn rate and hiring plan into 
+Revenue forecasting for startups is the process of building a financial model that projects future revenue across multiple scenarios, using assumptions your board can test, challenge and update every month. It isn't a spreadsheet you build once for the fundraise deck and never touch again, it's a live operating tool that connects your pipeline, burn rate and hiring plan into a single vie
 
 ---
 
@@ -8141,7 +8141,7 @@ Workflow automation works by watching for an event in one app, a new order, an e
 
 Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, and he now builds these workflows inside companies himself. Below is how one works, part by part, what each tool charges for it, and where it breaks. Every price was read on the vendor's own page on 7 October 2026, in US dollars unless marked.
 
-## the five parts of every automated workflow
+## The five parts of every automated workflow
 
 The trigger is the event that starts the run. A new row in a Google Sheet, a deal moved to won in your CRM, an invoice landing in a shared inbox. Nothing happens until it fires, and a workflow has exactly one.
 
@@ -8155,15 +8155,15 @@ The rules decide whether the run carries on and which way it goes. Only invoices
 
 URL: https://beyondelevation.com/insights/ebitda-adjustments-fractional-cfo-fundraise
 
-According to Deloitte's 2025 Quality of Earnings Survey, the average growth-stage tech company's adjusted EBITDA runs 34% higher than its reported EBITDA. Hayat Amin argues that EBITDA adjustments before a fundraise are not accounting games — they are the single fastest way to increase your valuation without changing anything about your business. Most founders present raw numbers to investors and leave 30-50% of their value sitting in expenses that will not recur, compensation that is mispriced, and revenue that started mid-period.
+According to Deloitte's 2025 Quality of Earnings Survey, the average growth-stage tech company's adjusted EBITDA runs 34% higher than its reported EBITDA. Hayat Amin says EBITDA adjustments before a fundraise aren't an accounting game, they're the fastest way to increase your valuation without changing anything about the business. Most founders present raw numbers to investors and leave 30-50% of their value sitting in expenses that will not recur, compensation that is mispriced, and revenue that started mid-period.
 
-The gap between raw EBITDA and adjusted EBITDA is where valuation lives. A company reporting £1M EBITDA at a 6x multiple gets valued at £6M. The same company, properly adjusted, shows £1.4M — and gets valued at £8.4M. Same business. Same revenue. £2.4M difference. The only variable is whether someone sat down and ran the adjustments before the data room opened.
+The gap between raw EBITDA and adjusted EBITDA is where valuation lives. A company reporting £1M EBITDA at a 6x multiple is valued at £6M. The same company, properly adjusted, shows £1.4M and is valued at £8.4M, same business, same revenue, a £2.4M difference. The only variable is whether someone sat down and ran the adjustments before the data room opened.
 
-## What Are EBITDA Adjustments and Why Do They Change Term Sheets?
+## What are EBITDA adjustments and why do they change term sheets?
 
-EBITDA adjustments are legitimate normalisations that remove one-off costs, below-market owner compensation, and non-recurring expenses from your earnings to show investors what the business earns in a steady state. Every acquirer and institutional investor runs their own quality of earnings analysis. If you have not run yours first, their number wins — and it is always lower.
+EBITDA adjustments are legitimate normalisations that remove one-off costs, below-market owner compensation, and non-recurring expenses from your earnings to show investors what the business earns in a steady state. Every acquirer and institutional investor runs their own quality of earnings analysis. If you have not run yours first, their number wins, and it is always lower.
 
-The problem is not dishonesty. The problem is that founders present numbers loaded with costs that vanish post-transaction, miss revenue that start
+Founders aren't being dishonest. They present numbers loaded with costs that vanish post-transaction, miss revenue that started mid-period, and bury recurring profitabi
 
 ---
 
@@ -8171,13 +8171,13 @@ The problem is not dishonesty. The problem is that founders present numbers load
 
 URL: https://beyondelevation.com/insights/protect-ip-when-employees-leave
 
-According to Ocean Tomo's 2025 Intangible Asset Market Value Study, 90% of S&P 500 market value now sits in intangible assets — patents, trade secrets, proprietary data, and know-how. When a key employee resigns, Hayat Amin argues that most of that value is suddenly at risk: "Founders spend the first three days worrying about the product roadmap. By the time they think about IP, the damage is already done." The question every founder must ask the moment a resignation letter lands is not who replaces this person, but what intellectual property leaves with them and how to protect IP when employees leave. This guide covers the 72-hour playbook and the structural protections that keep your IP inside the company.
+According to Ocean Tomo's 2025 Intangible Asset Market Value Study, 90% of S&P 500 market value now sits in intangible assets: patents, trade secrets, proprietary data, and know-how. Hayat Amin argues that most of that value is suddenly at risk the moment a key employee resigns: "Founders spend the first three days worrying about the product roadmap. By the time they think about IP, the damage is already done." Founders fixate on who replaces the departing employee. The real question is what intellectual property leaves with them, and how to protect IP when employees leave. This guide covers the 72-hour playbook and the structural protections that keep your IP inside the company.
 
-## What IP Actually Walks Out When a Key Employee Leaves?
+## What IP walks out when a key employee leaves?
 
 Five categories of intellectual property are at immediate risk the day a key employee resigns: trade secrets, unassigned inventions, proprietary datasets, customer relationships, and undocumented know-how. Each one represents enterprise value that can vanish before anyone notices it is gone. Beyond Elevation runs departure audits across all five categories for every client facing a senior exit.
 
-**Trade secrets** are the highest-risk category. Unlike patents, trade secrets live in people's heads — algorithms, pricing models, supplier terms, training recipes, and customer negotiation playbooks. The moment an employee walks out the door, everything they remember goes with them. Under the Defend Trade Secrets Act, y
+**Trade secrets** are the highest-risk category. Unlike patents, trade secrets live in people's heads, algorithms, pricing models, supplier terms, training recipes, and customer negotiation playbooks. The moment an employee walks out the door, everything they remember goes with them. Under the Defend Trade Secrets Act, you can sue for misappropriation, but on
 
 ---
 

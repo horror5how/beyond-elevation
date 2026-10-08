@@ -9,11 +9,11 @@ site: Beyond Elevation
 
 # Revenue Forecasting for Startups: Your Board Wants Three Models, Not One
 
-Your revenue forecast misleads the board. You didn't fake the numbers, you sent one line, the plan, and called it a forecast. A real revenue forecast for startups gives the board three scenarios: what happens if the plan works, what happens if it breaks, and what happens if it runs hot. One number is a guess, three is a decision framework.
+Your revenue forecast misleads the board. The numbers aren't fake. You sent one line, the plan, and called it a forecast. A real revenue forecast for startups gives the board three scenarios: what happens if the plan works, what happens if it breaks, and what happens if it runs hot. One number is a guess, three is a decision framework.
 
 Hayat Amin has built revenue forecasts for three companies he took through exit, to American Express and TripAdvisor among the acquirers, and he says the pattern is always the same. Founders send the board a single revenue line that assumes every deal closes on time, every hire ramps in 90 days and no customer churns. The board nods, files it, and privately runs their own downside in their head. According to a 2025 Carta analysis of more than 10,000 startup board decks, fewer than 18 percent included a downside scenario, and the median forecast missed actual revenue by 28 percent within two quarters.
 
-That gap is where trust breaks, and it's the exact problem a fractional CFO solves before it becomes a board-level crisis.
+That gap is where trust breaks. It's the problem a fractional CFO solves before it becomes a crisis for the board.
 
 ## What is revenue forecasting for startups?
 
@@ -39,9 +39,9 @@ The three mistakes Hayat Amin sees in almost every forecast he inherits:
 
 Every startup board needs three revenue scenarios: a base case built on current pipeline and historical conversion, a downside that stress-tests the two or three assumptions most likely to break, and an upside that shows what acceleration looks like if the company executes perfectly. Together, these three models give the board a decision range instead of a single point of failure.
 
-**Model 1: base case.** This isn't the optimistic plan, it's what happens if the company continues at its current run rate with its current team, pipeline and conversion. Hayat Amin's Three-Scenario Revenue Framework starts here because it forces honesty. The base case uses trailing three-month averages for lead volume, win rate and average contract value: no assumed improvements, no planned hires that haven't started yet, no pipeline that hasn't been qualified. If this model shows the company running out of cash, the board needs to act now.
+**Model 1: base case.** The base case shows what happens if the company continues at its current run rate, with its current team, pipeline and conversion. Hayat Amin's Three-Scenario Revenue Framework starts here because it forces honesty. It uses trailing three-month averages for lead volume, win rate and average contract value: no assumed improvements, no planned hires that haven't started yet, no pipeline that hasn't been qualified. If this model shows the company running out of cash, the board needs to act now.
 
-**Model 2: downside.** Take the base case and break the two assumptions most likely to fail. For most startups, those are sales cycle length and close rate. If your average deal takes 45 days to close today, model 75 days. If your close rate is 25 percent, model 15 percent. Add one: a key customer churns, or a major deal slips a quarter, or a regulatory change freezes a vertical. The downside isn't a worst case, it's a plausible bad quarter. If the company survives the downside for 12 months without raising, the board can take risk. If it doesn't, the fundraising conversation starts immediately.
+**Model 2: downside.** Take the base case and break the two assumptions most likely to fail. For most startups, those are sales cycle length and close rate. If your average deal takes 45 days to close today, model 75 days. If your close rate is 25 percent, model 15 percent. Add one: a key customer churns, or a major deal slips a quarter, or a regulatory change freezes a vertical. The downside models a plausible bad quarter, not a worst case. If the company survives the downside for 12 months without raising, the board can take risk. If it doesn't, the fundraising conversation starts immediately.
 
 **Model 3: upside.** This is the plan the CEO wants to show investors. It assumes the new hires ramp, the enterprise deal closes, and the product launch drives inbound. The upside earns its place in the model only because it sits next to the base case and the downside. In isolation, it's a pitch deck. Beside the other two, it's a target the team is accountable to, with clear markers that tell the board each month whether the company is tracking toward upside, base or downside.
 
@@ -55,17 +55,17 @@ You build it in a spreadsheet with five tabs, one afternoon, and one person who 
 
 **Tab 3: scenario toggle.** Three columns of assumptions feeding three revenue outputs. One toggle switches the entire model between base, downside and upside. The board should be able to change any assumption and see the revenue impact in real time.
 
-**Tab 4: cash bridge.** Revenue feeds into a cash model that subtracts payroll, rent, software and one-off costs. The output is a runway number: months of cash remaining under each scenario. This is where revenue forecasting for startups connects to survival. For the full mechanics, see the [unit economics investors check](/insights/unit-economics-investors-check-before-funding/).
+**Tab 4: cash bridge.** Revenue feeds into a cash model that subtracts payroll, rent, software and one-off costs. The output is a runway number: months of cash remaining under each scenario. This is where revenue forecasting decides whether the business survives. For the full mechanics, see the [unit economics investors check](/insights/unit-economics-investors-check-before-funding/).
 
 **Tab 5: actuals vs forecast.** Each month, paste the real numbers beside the forecast. The variance tells you whether to update your assumptions or your strategy. If the variance is consistently above 20 percent in either direction, the model is broken and needs rebuilding from real data.
 
-A fractional CFO builds this model in the first month and owns it going forward. Beyond Elevation's CFO operators update it monthly, present it to the board, and rebuild the assumptions every quarter as the business changes. The model isn't the deliverable, the decision it enables is.
+A fractional CFO builds this model in the first month and owns it going forward. Beyond Elevation's CFO operators update it monthly, present it to the board, and rebuild the assumptions every quarter as the business changes. The decision the model enables matters more than the model itself.
 
 ## When should a startup start revenue forecasting?
 
 Start the moment you have three months of revenue data and a pipeline you can measure. Before that, the model has no inputs worth trusting. After that, every month you operate without a forecast is a month your board is making decisions on instinct instead of data.
 
-Hayat Amin reminds founders the forecast isn't a prediction, it's a communication tool. It tells the board: here is what we expect, here is what breaks it, and here is what we need from you if the downside plays out. That conversation is worth more than any single number in the model.
+Hayat Amin tells founders the forecast is a communication tool, not a single prediction. It tells the board: here is what we expect, here is what breaks it, and here is what we need from you if the downside plays out. That conversation is worth more than any single number in the model.
 
 For the full picture of what boards expect to see, read [what investors want in a board pack](/insights/board-pack-what-investors-want-2026/). For how the forecast fits the fundraising conversation, see [fractional CFO for fundraising](/insights/fractional-cfo-fundraising/).
 

@@ -25,7 +25,7 @@ Beyond Elevation builds IP risk registers as part of every fractional Chief IP O
 
 Most boards skip the IP risk register because IP risk falls between legal and finance and is owned by neither function. The general counsel treats patents as legal filings. The CFO treats them as amortisation schedules. Nobody tracks the operational risk, the expired maintenance fee, the contractor without an assignment clause, the trade secret with no access log.
 
-This is an ownership problem, not a documentation one. Financial risk has a CFO. Cyber risk has a CISO. IP risk has nobody, until the acquirer's diligence team arrives and assigns themselves the role.
+This is an ownership problem. Financial risk has a CFO. Cyber risk has a CISO. IP risk has nobody, until the acquirer's diligence team arrives and assigns themselves the role.
 
 Hayat Amin's view is direct: the company that assigns IP risk ownership before due diligence controls the narrative. The company that does not assigns it to the buyer's lawyers, who will use every gap they find as a price reduction.
 
