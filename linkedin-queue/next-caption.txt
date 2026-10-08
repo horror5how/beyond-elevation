@@ -1,17 +1,15 @@
-You reviewed every employee this year.
+Most founders think they have a revenue problem.
 
-Nobody reviewed the AI.
+It is a collections problem.
 
-Your AI tools ran 10 months without a single performance check.
+Your invoices go out 30 days late.
+Your terms say net-30 but your average collection is net-90.
+Your cash position is 60 days behind your P&L.
 
-3 questions to run before Q4 budget is locked:
+A 5-day improvement in your collection cycle is worth more than a 10% revenue increase at your margin.
 
-1. What measurable output did each AI tool produce?
-2. Which processes got faster, cheaper, or more accurate?
-3. What did you pay, and what did it return?
+Nobody told you that because nobody measured it.
 
-Unreviewed AI is unaccountable spend.
+Fix the cash cycle before you fix the growth rate.
 
-Do the review before the budget meeting.
-
-#AIOperations #FractionalCFO #Q4Planning
+#FractionalCFO #CashFlow #FounderFinance
