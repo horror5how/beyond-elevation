@@ -8208,3 +8208,21 @@ URL: https://beyondelevation.com/insights/financial-model-ai-companies
 A financial model for AI companies differs from a SaaS model in four structural ways: compute costs scale with usage instead of remaining flat, gross margins start lower and follow a different trajectory, revenue recognition depends on inference volume rather than seat count, and the R&D-to-COGS boundary is blurred because training spend produces both product improvement and direct delivery cost. A standard SaaS template assumes that cost of goods sold is hosting at 10 to 20 percent of revenue, that revenue is a predictable recurrin
 
 ---
+
+## How Long Should a Fractional Executive Engagement Last? The Three Timelines and the Exit Signal Most CEOs Miss
+
+URL: https://beyondelevation.com/insights/fractional-executive-engagement-length
+
+A fractional executive engagement should last between 90 days and 18 months. The right length depends entirely on whether you are fixing a crisis, building a function from scratch, or embedding ongoing strategic leadership. Most engagements run past their useful life because nobody set the exit date before the start date.
+
+Hayat Amin argues that the single biggest mistake CEOs make with fractional hires is treating the engagement as open-ended. According to the Institute of Interim Management’s 2025 UK survey, engagements without documented exit criteria run 55% longer than planned and deliver measurably less impact. The result is a fractional executive who becomes permanent-in-all-but-name — at a higher day rate than a full-time hire would cost.
+
+[Beyond Elevation](https://beyondelevation.com) structures every fractional placement around a defined timeline and a concrete exit trigger. The framework is simple. Three engagement models cover every scenario. Each one has a different duration, a different deliverable, and a different signal that the engagement is done.
+
+## What Are the Three Fractional Executive Engagement Timelines?
+
+Fractional executive engagements fall into three timelines: the 90-day crisis sprint, the 6-to-12-month function build, and the 12-to-18-month strategic embed. Each serves a different business need, carries a different cost structure, and ends when a specific condition is met — not when the calendar says so.
+
+**The 90-day sprint.** This is the crisi
+
+---

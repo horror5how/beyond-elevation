@@ -486,5 +486,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Best Engineer Just Resigned. The 72-Hour Playbook to Protect Your IP When Employees Leave.](https://beyondelevation.com/insights/protect-ip-when-employees-leave) — /insights/md/protect-ip-when-employees-leave.md
 - [AI for Staffing Agencies: 8 Operations Worth Automating First, and Which Agencies Get the Most From It](https://beyondelevation.com/insights/ai-for-staffing-agencies) — /insights/md/ai-for-staffing-agencies.md
 - [Financial Model for AI Companies: Why Standard SaaS Templates Break on Day One](https://beyondelevation.com/insights/financial-model-ai-companies) — /insights/md/financial-model-ai-companies.md
+- [How Long Should a Fractional Executive Engagement Last? The Three Timelines and the Exit Signal Most CEOs Miss](https://beyondelevation.com/insights/fractional-executive-engagement-length) — /insights/md/fractional-executive-engagement-length.md
 
 > Full blog content available at /llms-full.txt
