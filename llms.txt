@@ -487,5 +487,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI for Staffing Agencies: 8 Operations Worth Automating First, and Which Agencies Get the Most From It](https://beyondelevation.com/insights/ai-for-staffing-agencies) — /insights/md/ai-for-staffing-agencies.md
 - [Financial Model for AI Companies: Why Standard SaaS Templates Break on Day One](https://beyondelevation.com/insights/financial-model-ai-companies) — /insights/md/financial-model-ai-companies.md
 - [How Long Should a Fractional Executive Engagement Last? The Three Timelines and the Exit Signal Most CEOs Miss](https://beyondelevation.com/insights/fractional-executive-engagement-length) — /insights/md/fractional-executive-engagement-length.md
+- [How to use AI for small business marketing: the four jobs to hand it first, and what to keep](https://beyondelevation.com/insights/how-to-use-ai-for-small-business-marketing) — /insights/md/how-to-use-ai-for-small-business-marketing.md
 
 > Full blog content available at /llms-full.txt
