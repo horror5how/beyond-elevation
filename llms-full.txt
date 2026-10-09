@@ -8246,3 +8246,21 @@ Using a chatbot to write a caption is the easy part, and it's where most owners 
 A
 
 ---
+
+## Your Finance Function Is Two Stages Behind Your Revenue. Here Is the Blueprint.
+
+URL: https://beyondelevation.com/insights/finance-function-blueprint-revenue-stages
+
+Most startup founders are running a finance function designed for half their current revenue. According to a 2025 Deloitte Private survey, 71 percent of companies between &pound;2M and &pound;10M in revenue still rely on the same bookkeeper-and-spreadsheet setup they used at &pound;500K. The cost is invisible until it is not — a failed audit, a botched fundraise, or a month-end close that takes three weeks instead of two days.
+
+Hayat Amin has rebuilt finance functions at every stage from seed to pre-exit. Amin&rsquo;s rule is direct: &ldquo;If your finance setup has not changed since your last funding round, you are already behind. Revenue moves faster than you think. Your finance function has to move first.&rdquo;
+
+## What Should a Finance Function Look Like at &pound;1M in Revenue?
+
+At &pound;1M in revenue, a startup needs three things from its finance function: accurate monthly accounts, a cash forecast that extends at least 13 weeks, and clean enough records to survive basic investor due diligence. Anything more is premature. Anything less is a fundraise risk.
+
+The team at this stage is minimal: a part-time bookkeeper (&pound;500 to &pound;1,000 per month) and cloud accounting software — Xero or QuickBooks. No fractional CFO yet. No controller. The founder or COO reviews the numbers monthly, and the bookkeeper handles bank reconciliation, invoicing, and VAT returns.
+
+What most &pound;1M founders get wrong: they treat accounting as a compliance obligation instead of a deci
+
+---
