@@ -1,17 +1,17 @@
-AI companies with 110% Net Revenue Retention raise at 8-12x ARR.
+Most founders hire a CFO when they're already in trouble.
 
-Below 100%: 3-5x.
+That's the wrong order.
 
-Same revenue. 3x valuation gap.
+The sequence that compounds: CFO first. CIPO second. AI Operations lead third.
 
-Your CFO is optimising for the wrong number.
+CFO stabilises the numbers.
 
-ARR tells last month's story.
+CIPO turns your IP from a cost into a revenue line.
 
-NRR tells next year's.
+AI Operations lead removes the headcount you would have hired anyway.
 
-Most growth-stage founders have never calculated their NRR correctly.
+Each hire makes the next one 40% more effective.
 
-By the time diligence flags it, you have already left 30-40% of your exit multiple on the table.
+3 fractional operators. 70% of the cost of one full-time hire. Full C-suite coverage.
 
-#FractionalCFO #AIMetrics #Valuation
+#FractionalCFO #FractionalExecutive #AIOperations
