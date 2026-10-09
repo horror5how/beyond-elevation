@@ -8155,7 +8155,7 @@ The rules decide whether the run carries on and which way it goes. Only invoices
 
 URL: https://beyondelevation.com/insights/ebitda-adjustments-fractional-cfo-fundraise
 
-According to Deloitte's 2025 Quality of Earnings Survey, the average growth-stage tech company's adjusted EBITDA runs 34% higher than its reported EBITDA. Hayat Amin says EBITDA adjustments before a fundraise aren't an accounting game, they're the fastest way to increase your valuation without changing anything about the business. Most founders present raw numbers to investors and leave 30-50% of their value sitting in expenses that will not recur, compensation that is mispriced, and revenue that started mid-period.
+According to Deloitte's 2025 Quality of Earnings Survey, the average growth-stage tech company's adjusted EBITDA runs 34% higher than its reported EBITDA. Hayat Amin says EBITDA adjustments before a fundraise are the fastest way to increase your valuation without changing anything about the business. Most founders present raw numbers to investors and leave 30-50% of their value sitting in expenses that will not recur, compensation that is mispriced, and revenue that started mid-period.
 
 The gap between raw EBITDA and adjusted EBITDA is where valuation lives. A company reporting £1M EBITDA at a 6x multiple is valued at £6M. The same company, properly adjusted, shows £1.4M and is valued at £8.4M, same business, same revenue, a £2.4M difference. The only variable is whether someone sat down and ran the adjustments before the data room opened.
 
@@ -8163,7 +8163,7 @@ The gap between raw EBITDA and adjusted EBITDA is where valuation lives. A compa
 
 EBITDA adjustments are legitimate normalisations that remove one-off costs, below-market owner compensation, and non-recurring expenses from your earnings to show investors what the business earns in a steady state. Every acquirer and institutional investor runs their own quality of earnings analysis. If you have not run yours first, their number wins, and it is always lower.
 
-Founders aren't being dishonest. They present numbers loaded with costs that vanish post-transaction, miss revenue that started mid-period, and bury recurring profitabi
+Founders aren't being dishonest. They present numbers loaded with costs that vanish post-transaction, miss revenue that started mid-period, and bury recurring profitability under one-off charges. Hay
 
 ---
 
@@ -8175,9 +8175,9 @@ According to Ocean Tomo's 2025 Intangible Asset Market Value Study, 90% of S&P 5
 
 ## What IP walks out when a key employee leaves?
 
-Five categories of intellectual property are at immediate risk the day a key employee resigns: trade secrets, unassigned inventions, proprietary datasets, customer relationships, and undocumented know-how. Each one represents enterprise value that can vanish before anyone notices it is gone. Beyond Elevation runs departure audits across all five categories for every client facing a senior exit.
+Five categories of intellectual property are at immediate risk the day a key employee resigns: trade secrets, unassigned inventions, proprietary datasets, customer relationships, and undocumented know-how. Each one represents enterprise value that can vanish before anyone notices it's gone. Beyond Elevation runs departure audits across all five categories for every client facing a senior exit.
 
-**Trade secrets** are the highest-risk category. Unlike patents, trade secrets live in people's heads, algorithms, pricing models, supplier terms, training recipes, and customer negotiation playbooks. The moment an employee walks out the door, everything they remember goes with them. Under the Defend Trade Secrets Act, you can sue for misappropriation, but on
+**Trade secrets** are the highest-risk category. Unlike patents, trade secrets live in people's heads, algorithms, pricing models, supplier terms, training recipes, and customer negotiation playbooks. The moment an employee walks out the door, everything they remember goes with them. Under the Defend Trade Secrets Act, you can sue for misappropriation, but onl
 
 ---
 
@@ -8201,11 +8201,11 @@ The size of the market makes the case. The American Staffing Association says ne
 
 URL: https://beyondelevation.com/insights/financial-model-ai-companies
 
-92% of AI company financial models use a standard SaaS template. Most of them are wrong before Row 10. The reason is structural: an AI company's cost architecture, revenue mechanics, and margin trajectory are fundamentally different from a SaaS business, and a SaaS template hides every one of those differences behind assumptions that do not hold. According to a 2026 Bessemer Venture Partners analysis, the median AI company has compute costs that represent 25 to 45 percent of revenue — a cost line that does not appear in any standard SaaS financial template. Hayat Amin has reviewed financial models for over 200 AI companies in the past 18 months. The pattern is consistent: founders paste their numbers into a SaaS model, the margins look strong, and the first investor meeting exposes the gap. Beyond Elevation rebuilt 34 of those models before fundraise. Every one of them raised.
+92% of AI company financial models use a standard SaaS template. Most of them are wrong before Row 10. The reason is structural: an AI company's cost architecture, revenue mechanics, and margin trajectory differ from a SaaS business in kind, not degree, and a SaaS template hides every one of those differences behind assumptions that do not hold. According to a 2026 Bessemer Venture Partners analysis, the median AI company has compute costs that represent 25 to 45 percent of revenue, a cost line that does not appear in any standard SaaS financial template. Hayat Amin has reviewed financial models for over 200 AI companies in the past 18 months. The pattern is consistent: founders paste their numbers into a SaaS model, the margins look strong, and the first investor meeting exposes the gap. Beyond Elevation rebuilt 34 of those models before fundraise. Every one of them raised.
 
-## What Makes a Financial Model for AI Companies Different From SaaS?
+## What makes a financial model for AI companies different from SaaS?
 
-A financial model for AI companies differs from a SaaS model in four structural ways: compute costs scale with usage instead of remaining flat, gross margins start lower and follow a different trajectory, revenue recognition depends on inference volume rather than seat count, and the R&D-to-COGS boundary is blurred because training spend produces both product improvement and direct delivery cost. A standard SaaS template assumes that cost of goods sold is hosting at 10 to 20 percent of revenue, that revenue is a predictable recurrin
+A financial model for AI companies differs from a SaaS model in four structural ways: compute costs scale with usage instead of remaining flat, gross margins start lower and follow a different trajectory, revenue recognition depends on inference volume rather than seat count, and the R&D-to-COGS boundary is blurred because training spend produces both product improvement and direct delivery cost. A standard SaaS template assumes that cost of goods sold is hosting at 10 to 20 percent of revenue, that revenue is a predictable recurring 
 
 ---
 
@@ -8215,15 +8215,15 @@ URL: https://beyondelevation.com/insights/fractional-executive-engagement-length
 
 A fractional executive engagement should last between 90 days and 18 months. The right length depends entirely on whether you are fixing a crisis, building a function from scratch, or embedding ongoing strategic leadership. Most engagements run past their useful life because nobody set the exit date before the start date.
 
-Hayat Amin argues that the single biggest mistake CEOs make with fractional hires is treating the engagement as open-ended. According to the Institute of Interim Management’s 2025 UK survey, engagements without documented exit criteria run 55% longer than planned and deliver measurably less impact. The result is a fractional executive who becomes permanent-in-all-but-name — at a higher day rate than a full-time hire would cost.
+Hayat Amin argues that the single biggest mistake CEOs make with fractional hires is treating the engagement as open-ended. According to the Institute of Interim Management's 2025 UK survey, engagements without documented exit criteria run 55% longer than planned and deliver measurably less impact. The result is a fractional executive who becomes permanent-in-all-but-name, at a higher day rate than a permanent hire would cost.
 
 [Beyond Elevation](https://beyondelevation.com) structures every fractional placement around a defined timeline and a concrete exit trigger. The framework is simple. Three engagement models cover every scenario. Each one has a different duration, a different deliverable, and a different signal that the engagement is done.
 
-## What Are the Three Fractional Executive Engagement Timelines?
+## What are the three fractional executive engagement timelines?
 
-Fractional executive engagements fall into three timelines: the 90-day crisis sprint, the 6-to-12-month function build, and the 12-to-18-month strategic embed. Each serves a different business need, carries a different cost structure, and ends when a specific condition is met — not when the calendar says so.
+Fractional executive engagements fall into three timelines: the 90-day crisis sprint, the 6-to-12-month function build, and the 12-to-18-month strategic embed. Each serves a different business need, carries a different cost structure, and ends when a specific condition is met, not when the calendar says so.
 
-**The 90-day sprint.** This is the crisi
+**The 90-day sprint.** This is the crisis 
 
 ---
 
@@ -8233,14 +8233,16 @@ URL: https://beyondelevation.com/insights/how-to-use-ai-for-small-business-marke
 
 To use AI for small business marketing, give it the repeated work behind the marketing rather than the ideas. That means answering and routing every new lead within minutes, writing first drafts of emails and posts, drafting replies to reviews, and reporting each week what your spend brought in. Keep the offer, the voice and the final edit with a person.
 
-Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, and he now builds this kind of AI operations work inside companies himself. What follows is the order we'd do it in, what the tools charge, and the parts we'd never hand over. Every price was read on the vendor's own page on 9 October 2026, in US dollars.
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, and he now builds this kind of AI operations work inside companies himself. This piece covers the order we'd do it in, what the tools charge, and the parts we'd never hand over. Every price was read on the vendor's own page on 9 October 2026, in US dollars.
 
 ## how many small businesses already use AI for this
 
-Most of your competitors have started. The U.S. Chamber of Commerce's 2025 Empowering Small Business report, published on 18 August 2025, found that 58% of small businesses say they use generative AI, up from 40% in the 2024 edition and 23% in 2023. The same report found 82% of small businesses using AI increased their workforce over the past year.
+Most of your competitors have started. The U.S. Chamber of Commerce's 2025 small business AI report, published on 18 August 2025, found that 58% of small businesses say they use generative AI, up from 40% in the 2024 edition and 23% in 2023. The same report found 82% of small businesses using AI increased their workforce over the past year.
 
 Using a chatbot to write a caption is the easy part, and it's where most owners stop. The time in a small company's marketing goes on everything around the caption: the enquiry that sat in an inbox over the weekend, the review nobody answered, the spreadsheet someone builds on a Monday to work out which ads paid. That's where we start.
 
-## 1. answer every lead before it goes c
+## 1. answer every lead before it goes cold
+
+A
 
 ---

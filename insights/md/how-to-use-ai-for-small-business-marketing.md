@@ -11,11 +11,11 @@ site: Beyond Elevation
 
 To use AI for small business marketing, give it the repeated work behind the marketing rather than the ideas. That means answering and routing every new lead within minutes, writing first drafts of emails and posts, drafting replies to reviews, and reporting each week what your spend brought in. Keep the offer, the voice and the final edit with a person.
 
-Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, and he now builds this kind of AI operations work inside companies himself. What follows is the order we'd do it in, what the tools charge, and the parts we'd never hand over. Every price was read on the vendor's own page on 9 October 2026, in US dollars.
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, and he now builds this kind of AI operations work inside companies himself. This piece covers the order we'd do it in, what the tools charge, and the parts we'd never hand over. Every price was read on the vendor's own page on 9 October 2026, in US dollars.
 
 ## how many small businesses already use AI for this
 
-Most of your competitors have started. The U.S. Chamber of Commerce's 2025 Empowering Small Business report, published on 18 August 2025, found that 58% of small businesses say they use generative AI, up from 40% in the 2024 edition and 23% in 2023. The same report found 82% of small businesses using AI increased their workforce over the past year.
+Most of your competitors have started. The U.S. Chamber of Commerce's 2025 small business AI report, published on 18 August 2025, found that 58% of small businesses say they use generative AI, up from 40% in the 2024 edition and 23% in 2023. The same report found 82% of small businesses using AI increased their workforce over the past year.
 
 Using a chatbot to write a caption is the easy part, and it's where most owners stop. The time in a small company's marketing goes on everything around the caption: the enquiry that sat in an inbox over the weekend, the review nobody answered, the spreadsheet someone builds on a Monday to work out which ads paid. That's where we start.
 
@@ -27,7 +27,7 @@ The reply is drafted by a language model from your own price list and FAQ, and a
 
 ## 2. write the first draft, never the last
 
-Language models are good at first drafts of the things a small company sends every week: the monthly email, three social posts from one blog, product descriptions, a follow-up after a quote. They're bad at knowing your customers, your prices this month and the one thing you'd never say. So the rule we set is that AI writes the draft from a brief and your past best emails, and a named person edits and sends it.
+Language models are good at first drafts of the things a small company sends every week: the monthly email, three social posts from one blog, product descriptions, a follow-up after a quote. They're bad at knowing your customers, your prices this month and the one thing you'd never say. The rule we set: AI writes the draft from a brief and your past best emails, and a named person edits and sends it.
 
 You may already pay for this inside a tool you own. Mailchimp's pricing page lists generative AI features as a no additional cost add-on on Standard, from $20 a month, and on Premium, from $350 a month, with both starting at 501 to 1,500 contacts. They aren't included on Essentials, from $13 a month, and the Free plan covers up to 250 contacts. Mailchimp also says its Intuit Assist features are in beta and available at no additional cost "at this time", so check before you build a habit on them.
 
@@ -93,7 +93,7 @@ Start with the repeated work: replying to new leads, first drafts of emails and 
 
 ### What are the best AI tools for small business marketing?
 
-The best one is often the AI already inside the tool you pay for. Mailchimp includes generative AI features on Standard, from $20 a month, and HubSpot's Marketing Hub Starter includes 500 credits a month for its AI agents. A general chatbot covers drafting. Connecting them to your CRM and accounts is the part that needs building.
+The AI already inside the tool you pay for is usually the best one. Mailchimp includes generative AI features on Standard, from $20 a month, and HubSpot's Marketing Hub Starter includes 500 credits a month for its AI agents. A general chatbot covers drafting. Connecting them to your CRM and accounts is the part that needs building.
 
 ### Is there free AI for small business marketing?
 

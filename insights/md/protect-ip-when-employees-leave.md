@@ -13,11 +13,11 @@ According to Ocean Tomo's 2025 Intangible Asset Market Value Study, 90% of S&P 5
 
 ## What IP walks out when a key employee leaves?
 
-Five categories of intellectual property are at immediate risk the day a key employee resigns: trade secrets, unassigned inventions, proprietary datasets, customer relationships, and undocumented know-how. Each one represents enterprise value that can vanish before anyone notices it is gone. Beyond Elevation runs departure audits across all five categories for every client facing a senior exit.
+Five categories of intellectual property are at immediate risk the day a key employee resigns: trade secrets, unassigned inventions, proprietary datasets, customer relationships, and undocumented know-how. Each one represents enterprise value that can vanish before anyone notices it's gone. Beyond Elevation runs departure audits across all five categories for every client facing a senior exit.
 
-**Trade secrets** are the highest-risk category. Unlike patents, trade secrets live in people's heads, algorithms, pricing models, supplier terms, training recipes, and customer negotiation playbooks. The moment an employee walks out the door, everything they remember goes with them. Under the Defend Trade Secrets Act, you can sue for misappropriation, but only if you prove you took "reasonable measures" to protect the secret. Most startups cannot make that case.
+**Trade secrets** are the highest-risk category. Unlike patents, trade secrets live in people's heads, algorithms, pricing models, supplier terms, training recipes, and customer negotiation playbooks. The moment an employee walks out the door, everything they remember goes with them. Under the Defend Trade Secrets Act, you can sue for misappropriation, but only if you prove you took "reasonable measures" to protect the secret. Most startups can't make that case.
 
-**Unassigned inventions** are the gap most founders never see. If your employment agreement does not explicitly assign inventions created during employment, and many standard templates fail here, the employee may own the IP they created for you. In California, employees retain rights to inventions made on their own time without company resources, even if the invention relates to the company's business.
+**Unassigned inventions** are the gap most founders never see. If your employment agreement doesn't explicitly assign inventions created during employment, and many standard templates fail here, the employee may own the IP they created for you. In California, employees retain rights to inventions made on their own time without company resources, even if the invention relates to the company's business.
 
 **Proprietary data and datasets** leave through email forwards, personal cloud storage, and USB drives. A 2024 Cyberhaven study found that employees are 83% more likely to exfiltrate data in their final two weeks of employment. That includes training data, customer records, and analytical models that took years to build.
 
@@ -27,9 +27,9 @@ Five categories of intellectual property are at immediate risk the day a key emp
 
 ## Why do most employment contracts fail to protect IP when employees leave?
 
-Most employment contracts contain IP clauses written by generalist lawyers who do not understand how technology companies create intellectual property. The clauses look protective on paper but fail in the three situations that matter most. Hayat Amin calls this the "template trap", standard language that creates false confidence while leaving real gaps wide open.
+Most employment contracts contain IP clauses written by generalist lawyers who don't understand how technology companies create intellectual property. The clauses look protective on paper but fail in the three situations that matter most. Hayat Amin calls this the "template trap", standard language that creates false confidence while leaving real gaps wide open.
 
-**Gap one: pre-existing IP.** A standard assignment clause covers "inventions created during employment." It does not address the IP an employee brought with them on day one. If a senior engineer joins with a side project that later becomes core to your product, you may not own it. The Beyond Elevation approach is to require a pre-existing IP disclosure schedule at hiring, a simple document listing everything the employee already owns, with a clear licence or assignment for anything the company plans to use.
+**Gap one: pre-existing IP.** A standard assignment clause covers "inventions created during employment." It doesn't address the IP an employee brought with them on day one. If a senior engineer joins with a side project that later becomes core to your product, you may not own it. The Beyond Elevation approach is to require a pre-existing IP disclosure schedule at hiring, a simple document listing everything the employee already owns, with a clear licence or assignment for anything the company plans to use.
 
 **Gap two: off-hours inventions.** In states like California, Minnesota, and Washington, employees have statutory rights to inventions created on their own time with their own resources. A boilerplate "all inventions" clause is unenforceable in these jurisdictions. The contract must comply with state-specific carve-outs or it protects nothing.
 
@@ -39,17 +39,17 @@ Most employment contracts contain IP clauses written by generalist lawyers who d
 
 Hayat Amin's IP Departure Audit is a six-point diagnostic designed to run within 72 hours of a key employee's resignation. It identifies exposed IP, triggers immediate containment, and documents the company's position for any future enforcement action. Beyond Elevation runs this audit for every client facing a senior departure.
 
-**Check 1, Access revocation timeline.** Map every system, repository, cloud account, and API key the departing employee can access. Revoke access to trade-secret-level systems within 24 hours. Standard systems can wait until the final day, but anything containing proprietary algorithms, pricing data, or customer intelligence cannot.
+**Check 1, Access revocation timeline.** Map every system, repository, cloud account, and API key the departing employee can access. Revoke access to trade-secret-level systems within 24 hours. Standard systems can wait until the final day, but anything containing proprietary algorithms, pricing data, or customer intelligence can't.
 
 **Check 2, Invention disclosure review.** Pull every invention disclosure the employee filed during their tenure. Compare against patent applications and trade secret registers. Any disclosure that was never filed or documented is a gap, it must be captured before the employee's last day.
 
 **Check 3, Trade secret inventory.** List every trade secret the employee had access to. Cross-reference against your trade secret register. Document what they knew and when they knew it. This documentation is essential for any future DTSA claim.
 
-**Check 4, Non-compete and non-solicitation review.** Pull the employee's actual signed agreement, not the template. Verify enforceability in their jurisdiction. Since the FTC's 2024 non-compete restrictions, many clauses that were enforceable three years ago no longer are. Know your legal position before making threats you cannot back up.
+**Check 4, Non-compete and non-solicitation review.** Pull the employee's actual signed agreement, not the template. Verify enforceability in their jurisdiction. Since the FTC's 2024 non-compete restrictions, many clauses that were enforceable three years ago no longer are. Know your legal position before making threats you can't back up.
 
 **Check 5, Data access logging.** Pull 90 days of access logs for sensitive systems, then check for unusual download patterns, email forwards to personal accounts, and cloud storage uploads. The Cyberhaven data shows the exfiltration window starts two weeks before resignation, your logs should cover that period.
 
-**Check 6, Exit interview documentation.** Conduct a structured exit interview specifically designed to create an evidentiary record. Remind the employee of their confidentiality obligations. Have them confirm in writing what proprietary information they had access to and that they have returned or deleted all company materials. It's a legal document, not routine HR paperwork.
+**Check 6, Exit interview documentation.** Conduct a structured exit interview specifically designed to create an evidentiary record. Remind the employee of their confidentiality obligations. Have them confirm in writing what proprietary information they had access to and that they've returned or deleted all company materials. It's a legal document, not routine HR paperwork.
 
 ## What protections should you build before employees leave?
 
@@ -59,7 +59,7 @@ Companies that protect their IP when employees leave built the protections befor
 
 **2. Trade secret access controls with audit trails.** Classify your trade secrets by sensitivity tier. Restrict access on a need-to-know basis. Log every access event. If an employee leaves, you can prove exactly what they saw and when, meeting the "reasonable measures" threshold the DTSA requires.
 
-**3. Quarterly invention disclosure sessions.** Run 60-minute sessions where engineers describe what they have built. Capture innovations that would otherwise exist only in someone's head. These disclosures feed your [patent filing roadmap](/insights/ip-defensibility-assessment-framework/) and create a documented record of company-owned IP.
+**3. Quarterly invention disclosure sessions.** Run 60-minute sessions where engineers describe what they've built. Capture innovations that would otherwise exist only in someone's head. These disclosures feed your [patent filing roadmap](/insights/ip-defensibility-assessment-framework/) and create a documented record of company-owned IP.
 
 **4. Know-how documentation protocol.** Require engineers to document deployment procedures, system configurations, and troubleshooting workflows in a company-controlled knowledge base, so the knowledge stays when someone leaves.
 
@@ -67,11 +67,11 @@ Companies that protect their IP when employees leave built the protections befor
 
 ## When does a company need a chief IP officer instead of HR?
 
-A company needs a fractional Chief IP Officer the moment its intangible assets exceed its tangible ones in value, and HR alone can't fill that role. For most technology companies, that crossover happens before Series A. HR departments manage employment law and benefits. They are not equipped to audit patent claims, structure trade secret programmes, or run IP departure protocols that protect enterprise value.
+A company needs a fractional Chief IP Officer the moment its intangible assets exceed its tangible ones in value, and HR alone can't fill that role. For most technology companies, that crossover happens before Series A. HR departments manage employment law and benefits. They aren't equipped to audit patent claims, structure trade secret programmes, or run IP departure protocols that protect enterprise value.
 
-Hayat Amin proved this distinction at Position Imaging, where restructuring a 66-patent portfolio into a licensable revenue engine required an operator who understood both IP law and commercial strategy. An HR department would never have identified the licensing opportunities buried inside that portfolio, or protected them when key engineers moved on. A fractional [Chief IP Officer](/insights/what-is-a-chief-ip-officer/) does what HR cannot: connects IP protection to business value and turns defensive legal work into revenue-generating strategy.
+Hayat Amin proved this at Position Imaging, where he restructured a 66-patent portfolio into a licensing programme, work that needed someone who understood both IP law and business strategy. An HR department would never have spotted the licensing opportunities buried in that portfolio, or protected them when key engineers left. A fractional [Chief IP Officer](/insights/what-is-a-chief-ip-officer/) does what HR can't: ties IP protection to business value and turns defensive legal work into revenue.
 
-Companies with patents are [10.2x more likely to secure early-stage funding](/insights/ip-valuation-for-fundraising/). Companies that protect those patents when employees leave keep the multiple. If your IP protection strategy depends on boilerplate employment contracts and an exit interview checklist from 2019, what you have is a liability, not a strategy. [Book a consultation with Beyond Elevation](https://beyondelevation.com) to run a full IP departure audit before your next resignation catches you off guard.
+Companies with patents are [10.2x more likely to secure early-stage funding](/insights/ip-valuation-for-fundraising/). Companies that protect those patents when employees leave keep that multiple. If your IP protection strategy depends on boilerplate employment contracts and an exit interview checklist from 2019, it's a liability. [Book a consultation with Beyond Elevation](https://beyondelevation.com) to run a full IP departure audit before your next resignation catches you off guard.
 
 
 

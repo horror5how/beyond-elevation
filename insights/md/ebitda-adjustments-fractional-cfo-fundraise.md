@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Your Raw EBITDA Understates Your Business by 30-50%. Here Are the 7 Adjustments a Fractional CFO Makes Before Your Next Raise.
 
-According to Deloitte's 2025 Quality of Earnings Survey, the average growth-stage tech company's adjusted EBITDA runs 34% higher than its reported EBITDA. Hayat Amin says EBITDA adjustments before a fundraise aren't an accounting game, they're the fastest way to increase your valuation without changing anything about the business. Most founders present raw numbers to investors and leave 30-50% of their value sitting in expenses that will not recur, compensation that is mispriced, and revenue that started mid-period.
+According to Deloitte's 2025 Quality of Earnings Survey, the average growth-stage tech company's adjusted EBITDA runs 34% higher than its reported EBITDA. Hayat Amin says EBITDA adjustments before a fundraise are the fastest way to increase your valuation without changing anything about the business. Most founders present raw numbers to investors and leave 30-50% of their value sitting in expenses that will not recur, compensation that is mispriced, and revenue that started mid-period.
 
 The gap between raw EBITDA and adjusted EBITDA is where valuation lives. A company reporting £1M EBITDA at a 6x multiple is valued at £6M. The same company, properly adjusted, shows £1.4M and is valued at £8.4M, same business, same revenue, a £2.4M difference. The only variable is whether someone sat down and ran the adjustments before the data room opened.
 
@@ -17,7 +17,7 @@ The gap between raw EBITDA and adjusted EBITDA is where valuation lives. A compa
 
 EBITDA adjustments are legitimate normalisations that remove one-off costs, below-market owner compensation, and non-recurring expenses from your earnings to show investors what the business earns in a steady state. Every acquirer and institutional investor runs their own quality of earnings analysis. If you have not run yours first, their number wins, and it is always lower.
 
-Founders aren't being dishonest. They present numbers loaded with costs that vanish post-transaction, miss revenue that started mid-period, and bury recurring profitability under one-off charges. Hayat Amin's rule is direct: walk into a fundraise without an adjusted EBITDA schedule and you're negotiating against yourself.
+Founders aren't being dishonest. They present numbers loaded with costs that vanish post-transaction, miss revenue that started mid-period, and bury recurring profitability under one-off charges. Hayat Amin's rule is direct. Walk into a fundraise without an adjusted EBITDA schedule and you're negotiating against yourself.
 
 At [Beyond Elevation](https://beyondelevation.com), the [first 100 days of a fractional CFO engagement](/insights/first-100-days-fractional-cfo/) include building the adjusted EBITDA schedule, and it isn't optional. Investors expect it, the companies that present it get better terms, and the ones that don't get discounted.
 
@@ -35,7 +35,7 @@ A fractional CFO makes seven standard EBITDA adjustments that together add 30-50
 
 **5. Revenue run-rate adjustments.** If a major contract started in month nine of the trailing twelve months, the P&L shows three months of revenue but the business will earn twelve. Annualising contracted, committed revenue shows the investor what steady-state earnings look like. The word that matters is *contracted*, do not annualise pipeline.
 
-**6. Non-cash charges beyond the standard exclusions.** Depreciation, amortisation, and share-based compensation are already excluded from EBITDA by definition. But many founder-prepared P&Ls include other non-cash items, such as unrealised FX losses, impairment charges, or provision movements, that belong below the EBITDA line. A fractional CFO strips these out to show the cash-generating power of the business.
+**6. Non-cash charges beyond the standard exclusions.** Depreciation, amortisation, and compensation paid in shares are already excluded from EBITDA by definition. But many founder-prepared P&Ls include other non-cash items, such as unrealised FX losses, impairment charges, or provision movements, that belong below the EBITDA line. A fractional CFO strips these out to show the cash-generating power of the business.
 
 **7. Pandemic and supply-chain tail costs.** In 2026, some companies still carry lease exit fees, furlough repayments, or supply chain premiums from 2020-2023 disruption. These are non-recurring by definition and should be adjusted out.
 
@@ -69,7 +69,7 @@ Starting at 90 days also surfaces problems early. If the adjustments do not move
 
 The three most common mistakes are treating recurring costs as one-off, failing to document the evidence, and inflating the annualised revenue run-rate with uncommitted pipeline. Each one destroys credibility in due diligence and can unwind a term sheet after it has been signed.
 
-Hayat Amin argues that founders make these errors not because they are dishonest but because they have never been through the process. A [fractional CFO](/insights/fractional-cfo-cost-2026/) who has sat through 20 quality of earnings reviews knows exactly what the investor's analyst will challenge, and builds the schedule to survive that challenge from day one.
+Hayat Amin argues founders make these errors because they have never been through the process before. Dishonesty isn't the reason. A [fractional CFO](/insights/fractional-cfo-cost-2026/) who has sat through 20 quality of earnings reviews knows exactly what the investor's analyst will challenge, and builds the schedule to survive that challenge from day one.
 
 At [Beyond Elevation](https://beyondelevation.com), the adjusted EBITDA schedule is one deliverable inside a broader [exit-ready finance function](/insights/exit-ready-finance-function/). The schedule without the underlying financial infrastructure is a document. The schedule inside a clean, auditable finance stack is a valuation weapon.
 
@@ -95,7 +95,7 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### How much do EBITDA adjustments typically add to a company's valuation?
 
-For growth-stage companies between £2M and £20M revenue, EBITDA adjustments typically add 30-50% to the raw EBITDA number. At a 6x multiple, that translates to £1.8M-£4M of additional enterprise value without changing anything about the underlying business.
+For growth-stage companies between £2M and £20M revenue, EBITDA adjustments typically add 30-50% to the raw EBITDA number. At a 6x multiple, that's £1.8M-£4M of additional enterprise value without changing anything about the underlying business.
 
 ### Can investors challenge EBITDA adjustments during due diligence?
 
