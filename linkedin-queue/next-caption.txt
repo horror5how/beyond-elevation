@@ -1,15 +1,13 @@
-A full-time Chief IP Officer costs $300K all-in. Most founders hire a patent attorney instead.
+Most companies deployed AI tools across 3 departments last year.
 
-The attorney writes patents. The CIPO turns them into revenue.
+Not one of them has a measurable output on the P&L.
 
-Those are not the same job.
+A consultant builds a 40-slide roadmap. An AI Operations operator ships one working agent in 30 days.
 
-Full-time hire: $300K, 6 months to recruit, 12-month equity cliff before they ship a strategy.
+That is not a small difference. It is the gap between AI spend and AI value.
 
-Fractional: $3,500/month, live in 2 weeks, first IP revenue audit done in 90 days.
+First 90 days of an AI Operations engagement: map what to automate first, ship one agent, cut the 6 tools nobody actually uses.
 
-97% of companies with granted patents have never collected a single licensing payment.
+Most founders do not know this role exists until it is too late.
 
-That is not a patent problem. It is a management problem.
-
-#IPStrategy #FractionalExec #ChiefIPOfficer
+#AIOperations #FractionalExecutive #Automation
