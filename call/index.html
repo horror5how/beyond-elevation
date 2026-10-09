@@ -16,6 +16,46 @@
 <meta property="og:description" content="A free 30-minute call with Georgina. Straight answer, no pitch. If there is nothing worth doing, we say so on the call.">
 <meta property="og:type" content="website">
 <link rel="stylesheet" href="../assets/style.css?v=42">
+<style>
+.callframe.bk{height:auto;min-height:420px;padding:22px 24px 26px}
+.bk .mono{font-family:var(--mono);font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--mute)}
+.bk-step{margin:0 0 10px}
+.bk-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:12px}
+.bk-tz{display:flex;flex-direction:column;gap:4px}
+.bk-tz select{font:inherit;font-size:14px;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:#fff;max-width:260px}
+.bk-grid-wrap{display:grid;grid-template-columns:1.25fr 1fr;gap:28px}
+.bk-month{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+.bk-nav{border:1px solid var(--line);background:#fff;border-radius:8px;width:34px;height:34px;cursor:pointer;font-size:16px}
+.bk-nav:disabled{opacity:.3;cursor:default}
+.bk-dows,.bk-cells{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}
+.bk-dows span{text-align:center;font-family:var(--mono);font-size:11px;color:var(--faint);padding:4px 0}
+.bk-cell{aspect-ratio:1;border:0;border-radius:50%;background:transparent;color:var(--faint);font:inherit;font-size:15px;cursor:default}
+.bk-cell.open{background:var(--tint);color:var(--ink);font-weight:600;cursor:pointer}
+.bk-cell.open:hover{background:#dfe4e6}
+.bk-cell.sel,.bk-cell.sel:hover{background:var(--ink);color:#fff}
+.bk-cell.today:not(.sel){box-shadow:inset 0 0 0 1px var(--line)}
+.bk-times{border-left:1px solid var(--line);padding-left:24px;min-height:300px}
+.bk-dayname{margin:0 0 10px;font-weight:600}
+.bk-hint{color:var(--mute);font-size:.95rem;margin:0 0 8px;line-height:1.5}
+.bk-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(88px,1fr));gap:8px;max-height:330px;overflow:auto;padding-right:4px}
+.bk-time{border:1px solid var(--ink);background:#fff;border-radius:8px;padding:9px 0;font:inherit;font-size:14px;font-weight:600;cursor:pointer}
+.bk-time:hover{background:var(--tint)}
+.bk-time.sel{background:var(--ink);color:#fff}
+.bk-form{margin-top:26px;padding-top:22px;border-top:1px solid var(--line)}
+.bk-form.hidden{display:none}
+.bk-picked{font-weight:600;margin:0 0 14px}
+.bk-form label{display:block;font-size:14px;font-weight:600;margin-bottom:12px}
+.bk-form label .mono{text-transform:none;letter-spacing:0;font-size:11px;margin-left:6px}
+.bk-form input,.bk-form textarea{display:block;width:100%;margin-top:5px;font:inherit;font-size:15px;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:#fff}
+.bk-form textarea{resize:vertical}
+.bk-row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.bk-hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.bk-err{color:#B3261E;min-height:1.4em;margin:0 0 10px;font-size:14px}
+.bk-done h2{font-family:var(--serif);font-weight:400;font-size:clamp(26px,3vw,36px);line-height:1.2;margin:8px 0 14px}
+.bk-done h2 .mono{font-size:12px;margin-left:8px}
+.bk-done p{line-height:1.55}
+@media(max-width:700px){.bk-grid-wrap{grid-template-columns:1fr}.bk-times{border-left:0;padding-left:0;min-height:0}.bk-row{grid-template-columns:1fr}.bk-list{max-height:none}}
+</style>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -64,7 +104,7 @@
         <p>&ldquo;Our $30M round needed someone who understood valuation and the tactics behind a raise.&rdquo;<b>Carl Steinmann &middot; Founder, Acresclub</b></p>
       </div>
     </aside>
-    <iframe class="callframe" src="https://usemotion.com/meet/hayat-amin/be?ref=site" title="Pick a time for your free call" loading="lazy"></iframe>
+    <div class="callframe bk" id="book" aria-live="polite"></div>
   </div>
 </main>
 
@@ -82,5 +122,6 @@
   <p class="fineprint">© 2026 Beyond Elevation · <a href="/company">Company</a> · <a href="/privacy">Privacy</a></p>
 </footer>
 <script src="../assets/site.js?v=12"></script>
+<script src="/assets/book.js" defer></script>
 </body>
 </html>

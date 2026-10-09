@@ -1,8 +1,8 @@
-// Booking link source tracker. Logs the click to PostHog, then 302s to Motion.
+// Booking link source tracker. Logs the click to PostHog, then 302s to our own booking page (/call).
 // One function serves every channel: /call/li, /call/web, /call/me (see vercel.json rewrite).
 // Vercel serverless. No secrets needed — PostHog project key is public (write-only capture).
 
-const MOTION_URL = "https://usemotion.com/meet/hayat-amin/be";
+const BOOK_URL = "https://beyondelevation.com/call";
 const POSTHOG_KEY = "phc_CDKFjeVGfuEEid74UGx5CNwNFaqaijF8b6e9A6QhLruM";
 const POSTHOG_CAPTURE = "https://us.i.posthog.com/capture/";
 
@@ -57,8 +57,8 @@ module.exports = async (req, res) => {
     });
   } catch (_) { /* tracking must never break the booking */ }
 
-  // Pass the source to Motion too (shows up if Motion keeps the ref param).
-  const dest = `${MOTION_URL}?ref=${encodeURIComponent(code)}`;
+  // The page keeps the source and stamps it on the calendar event.
+  const dest = `${BOOK_URL}?s=${encodeURIComponent(code)}`;
   res.setHeader("Cache-Control", "no-store");
   res.writeHead(302, { Location: dest });
   res.end();
