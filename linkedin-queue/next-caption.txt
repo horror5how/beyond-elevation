@@ -1,13 +1,17 @@
-Most companies deployed AI tools across 3 departments last year.
+AI companies with 110% Net Revenue Retention raise at 8-12x ARR.
 
-Not one of them has a measurable output on the P&L.
+Below 100%: 3-5x.
 
-A consultant builds a 40-slide roadmap. An AI Operations operator ships one working agent in 30 days.
+Same revenue. 3x valuation gap.
 
-That is not a small difference. It is the gap between AI spend and AI value.
+Your CFO is optimising for the wrong number.
 
-First 90 days of an AI Operations engagement: map what to automate first, ship one agent, cut the 6 tools nobody actually uses.
+ARR tells last month's story.
 
-Most founders do not know this role exists until it is too late.
+NRR tells next year's.
 
-#AIOperations #FractionalExecutive #Automation
+Most growth-stage founders have never calculated their NRR correctly.
+
+By the time diligence flags it, you have already left 30-40% of your exit multiple on the table.
+
+#FractionalCFO #AIMetrics #Valuation
