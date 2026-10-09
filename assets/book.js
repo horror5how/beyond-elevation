@@ -70,7 +70,7 @@
         </div>
         <div class="bk-times">
           <p class="mono bk-step">2. Pick a time</p>
-          ${day ? `<p class="bk-dayname">${fmt(times[0] || new Date(day + "T12:00:00Z").toISOString(), { weekday: "long", day: "numeric", month: "long" })}</p>` : `<p class="bk-hint">Choose a day on the left. ${data.duration} minutes, Google Meet.</p>`}
+          ${day ? `<p class="bk-dayname">${fmt(times[0] || new Date(day + "T12:00:00Z").toISOString(), { weekday: "long", day: "numeric", month: "long" })}</p>` : `<p class="bk-hint">${data.link && data.link.intro ? esc(data.link.intro) + " " : ""}Choose a day on the left. ${data.duration} minutes, ${esc((data.link && data.link.location) || "Google Meet")}.</p>`}
           <div class="bk-list">${times.map((s) => `<button type="button" class="bk-time${s === pick ? " sel" : ""}" data-start="${s}">${fmt(s, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" })}</button>`).join("")}</div>
         </div>
       </div>
@@ -80,6 +80,7 @@
         <div class="bk-row"><label>Name<input name="name" required autocomplete="name" maxlength="80"></label>
         <label>Email<input name="email" type="email" required autocomplete="email" maxlength="120"></label></div>
         <label>Company <span class="mono">optional</span><input name="company" autocomplete="organization" maxlength="80"></label>
+        ${((data.link && data.link.questions) || []).map((q, i) => `<label>${esc(q.label)}${q.required ? "" : ' <span class="mono">optional</span>'}${q.kind === "textarea" ? `<textarea name="q${i}" rows="3" maxlength="1500"${q.required ? " required" : ""}></textarea>` : `<input name="q${i}" maxlength="300"${q.required ? " required" : ""}>`}</label>`).join("")}
         <label>What should we look at first? <span class="mono">optional</span><textarea name="notes" rows="3" maxlength="1500"></textarea></label>
         <input name="website" tabindex="-1" autocomplete="off" class="bk-hp" aria-hidden="true">
         <p class="bk-err" id="bk-err" role="alert"></p>
@@ -101,10 +102,15 @@
     const btn = f.querySelector("#bk-submit");
     err.textContent = "";
     if (!f.name.value.trim() || !f.email.checkValidity()) { err.textContent = "Name and a working email, please."; return; }
+    const qs = (data.link && data.link.questions) || [];
+    const answers = {};
+    qs.forEach((q, i) => { answers[q.label] = f[`q${i}`].value; });
+    const gap = qs.find((q, i) => q.required && !f[`q${i}`].value.trim());
+    if (gap) { err.textContent = `Please answer: ${gap.label}`; return; }
     btn.disabled = true; btn.textContent = "Booking…";
     try {
       const r = await fetch("/api/book", { method: "POST", headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ start: pick, name: f.name.value, email: f.email.value, company: f.company.value, notes: f.notes.value, tz, source, website: f.website.value }) });
+        body: JSON.stringify({ start: pick, name: f.name.value, email: f.email.value, company: f.company.value, notes: f.notes.value, answers, tz, source, website: f.website.value }) });
       const j = await r.json().catch(() => ({}));
       if (!r.ok || !j.ok) {
         err.textContent = j.error || "Something broke. Email hayat@beyondelevation.com and we will fix it by hand.";
@@ -112,11 +118,14 @@
         if (r.status === 409) { await load(); }
         return;
       }
+      const link = j.link || {};
+      if (link.redirectUrl) { location.href = link.redirectUrl; return; }
       root.innerHTML = `<div class="bk-done">
         <p class="mono">Booked</p>
         <h2>${esc(fmt(j.start, { weekday: "long", day: "numeric", month: "long" }))}<br>${esc(fmt(j.start, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" }))} to ${esc(fmt(j.end, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" }))} <span class="mono">${esc(tz.replace(/_/g, " "))}</span></h2>
         <p>The invite is on its way to <b>${esc(f.email.value.trim())}</b>${j.meet ? ` with the Google Meet link` : ""}. Nothing to prepare.</p>
         ${j.meet ? `<p><a class="btn" href="${esc(j.meet)}">Google Meet link <span class="arw">&rarr;</span></a></p>` : ""}
+        ${link.confirmText ? `<p>${esc(link.confirmText)}</p>` : ""}
         <p class="bk-hint">Need to move it? Reply to the confirmation email.</p>
       </div>`;
       root.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -129,7 +138,7 @@
   async function load() {
     root.innerHTML = `<p class="bk-hint">Checking the diary…</p>`;
     try {
-      const r = await fetch("/api/slots", { cache: "no-store" });
+      const r = await fetch(`/api/slots?s=${encodeURIComponent(source)}`, { cache: "no-store" });
       if (!r.ok) throw new Error(r.status);
       data = await r.json();
       if (!data.slots.length) throw new Error("empty");
