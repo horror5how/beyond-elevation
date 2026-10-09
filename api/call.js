@@ -11,7 +11,7 @@ const POSTHOG_CAPTURE = "https://us.i.posthog.com/capture/";
 // most of the 8k "clicks" in the first month. Skip them so the numbers mean something.
 const BOT = /bot|crawl|spider|slurp|headless|preview|scan|fetch|monitor|curl|wget|python|turnitin|ahrefs|semrush|barkrowler|petal|bingbot|yandex|facebookexternalhit|discord|whatsapp|linkedinbot|apis-google|google-inspection/i;
 
-const SOURCES = { li: "LinkedIn", web: "Website", me: "Personal (Gmail)", em: "Email sequence", mh: "meethayat.com" };
+const SOURCES = { li: "LinkedIn", web: "Website", me: "Personal (Gmail)", em: "Email sequence", mh: "meethayat.com", ha: "hayatamin.com" };
 
 function readPhId(cookie) {
   const m = cookie.match(/ph_[^=]+_posthog=([^;]+)/);
