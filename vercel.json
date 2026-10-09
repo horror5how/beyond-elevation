@@ -4,7 +4,9 @@
   "rewrites": [
     { "source": "/call/:s", "destination": "/api/call?s=:s" },
     { "source": "/backend", "destination": "https://finance-hq-two-gules.vercel.app/backend/" },
-    { "source": "/backend/:path*", "destination": "https://finance-hq-two-gules.vercel.app/backend/:path*" }
+    { "source": "/backend/:path*", "destination": "https://finance-hq-two-gules.vercel.app/backend/:path*" },
+    { "source": "/email", "destination": "https://mail-hq-navy.vercel.app/email" },
+    { "source": "/email/:path*", "destination": "https://mail-hq-navy.vercel.app/email/:path*" }
   ],
   "redirects": [
     {
