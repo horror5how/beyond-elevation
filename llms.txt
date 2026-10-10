@@ -493,5 +493,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How to use AI in sales operations: the six jobs a small company should hand it first](https://beyondelevation.com/insights/how-to-use-ai-in-sales-operations) — /insights/md/how-to-use-ai-in-sales-operations.md
 - [4 Startup Burn Rate Levers That Add 6 Months of Runway Without Raising a Down Round](https://beyondelevation.com/insights/startup-burn-rate-runway-extension) — /insights/md/startup-burn-rate-runway-extension.md
 - [Your Fractional Executive Will Leave. Here Is How You Keep Everything They Built.](https://beyondelevation.com/insights/fractional-executive-knowledge-transfer) — /insights/md/fractional-executive-knowledge-transfer.md
+- [The AI Company COGS Trap: Why Your Gross Margin Is Lying to Your Investors](https://beyondelevation.com/insights/ai-company-cogs-gross-margin-trap) — /insights/md/ai-company-cogs-gross-margin-trap.md
 
 > Full blog content available at /llms-full.txt

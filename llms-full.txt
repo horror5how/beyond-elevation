@@ -8332,3 +8332,19 @@ Most companies confuse knowledge transfer with documentation. Documentation is o
 Beyond Elevation embeds all five laye
 
 ---
+
+## The AI Company COGS Trap: Why Your Gross Margin Is Lying to Your Investors
+
+URL: https://beyondelevation.com/insights/ai-company-cogs-gross-margin-trap
+
+Most AI companies overstate gross margin by 15 to 30 percentage points. The gap comes from misclassifying GPU inference costs, third-party model API fees, and data pipeline processing as operating expenses instead of cost of goods sold. Hayat Amin calls it the fastest way to lose credibility in a Series B diligence process — and the easiest line item a fractional CFO fixes in week one.
+
+According to Bessemer Venture Partners' 2026 State of the Cloud report, AI-native companies that properly reclassified inference costs into COGS saw reported gross margins fall by an average of 18 percentage points. That single reclassification moved companies from SaaS-tier multiples (8-15x revenue) to services-tier multiples (3-6x revenue). One misplaced line item can halve your enterprise value.
+
+The problem is not dishonesty. Most founders genuinely do not know which costs belong in AI company cost of goods sold. Their accountant classifies everything below the gross margin line because that is where software companies put infrastructure costs. But AI companies are not software companies — every customer request burns compute, every API call costs real money, and every human-in-the-loop review adds direct labour to delivery. Hayat Amin argues that the financial architecture of AI companies is closer to manufacturing than to SaaS, and founders who report margins like SaaS companies get caught during due diligence.
+
+## What Counts as COGS in an AI Company?
+
+AI company cost of goods sold incl
+
+---
