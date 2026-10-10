@@ -491,5 +491,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Finance Function Is Two Stages Behind Your Revenue. Here Is the Blueprint.](https://beyondelevation.com/insights/finance-function-blueprint-revenue-stages) — /insights/md/finance-function-blueprint-revenue-stages.md
 - [Medical Device IP Strategy: The 3 Filing Windows Your Patent Attorney Never Maps to Your FDA Timeline](https://beyondelevation.com/insights/ip-strategy-medtech-medical-device-startups) — /insights/md/ip-strategy-medtech-medical-device-startups.md
 - [How to use AI in sales operations: the six jobs a small company should hand it first](https://beyondelevation.com/insights/how-to-use-ai-in-sales-operations) — /insights/md/how-to-use-ai-in-sales-operations.md
+- [4 Startup Burn Rate Levers That Add 6 Months of Runway Without Raising a Down Round](https://beyondelevation.com/insights/startup-burn-rate-runway-extension) — /insights/md/startup-burn-rate-runway-extension.md
 
 > Full blog content available at /llms-full.txt

@@ -8298,3 +8298,19 @@ The same report found 54% of sellers have used AI agents and nearly 9 in 10 plan
 ## 1. lo
 
 ---
+
+## 4 Startup Burn Rate Levers That Add 6 Months of Runway Without Raising a Down Round
+
+URL: https://beyondelevation.com/insights/startup-burn-rate-runway-extension
+
+Most founders learn their actual startup burn rate the same month they realize they have five months of runway left. By then, the only move their board offers is a down round. According to PitchBook's 2026 venture data, 78 percent of startups that raise a down round never recover their original valuation. The number is not a scare tactic. It is a reason to manage startup burn rate before anyone suggests you raise again.
+
+Hayat Amin argues that burn rate is the single most misunderstood number on a startup's dashboard. "Founders track it like a weather report," Amin says. "They watch it go up and hope conditions change. A fractional CFO treats it like a thermostat — something you set, not something you observe." That distinction — between passive monitoring and active management — is what separates companies that extend their runway from companies that give up equity they cannot afford to lose.
+
+## What Is Startup Burn Rate and Why Does Getting It Wrong Kill Companies?
+
+Startup burn rate is the monthly rate at which a company spends cash in excess of revenue. Net burn — total monthly expenses minus total monthly revenue — determines your runway: the months of cash remaining before the bank account hits zero. Most startups calculate this number. Very few manage it. Beyond Elevation sees this gap in almost every fractional CFO engagement: the finance function reports burn rate but does not control it.
+
+The reason this matters is not intuitive until you see the math. A company bu
+
+---
