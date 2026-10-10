@@ -1,17 +1,13 @@
-Most founders hire a CFO when they're already in trouble.
+Most companies will add 3 people in 2027.
 
-That's the wrong order.
+Fully loaded that is £120K per hire before they close their first task.
 
-The sequence that compounds: CFO first. CIPO second. AI Operations lead third.
+Every one of those roles has 3 to 5 processes inside it that should be software by now.
 
-CFO stabilises the numbers.
+That is not a hiring decision. It is an AI operations failure.
 
-CIPO turns your IP from a cost into a revenue line.
+The companies that win do not cut headcount. They automate before they hire, so every new person operates at 3x the output from day one.
 
-AI Operations lead removes the headcount you would have hired anyway.
+Your 2027 budget has a headcount line. Does it have an automation line?
 
-Each hire makes the next one 40% more effective.
-
-3 fractional operators. 70% of the cost of one full-time hire. Full C-suite coverage.
-
-#FractionalCFO #FractionalExecutive #AIOperations
+#AIOperations #BusinessAutomation #FractionalExecutive
