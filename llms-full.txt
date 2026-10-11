@@ -8348,3 +8348,19 @@ The problem is not dishonesty. Most founders genuinely do not know which costs b
 AI company cost of goods sold incl
 
 ---
+
+## How to Use AI in HR Operations: 8 Jobs Worth Automating First
+
+URL: https://beyondelevation.com/insights/how-to-use-ai-in-hr-operations
+
+To use AI in HR operations, start with the work that repeats every week and follows rules: screening applicants, booking interviews, sending offer letters and onboarding paperwork, ordering background checks, answering policy questions, approving time off and hours, reading survey comments, and giving the owner a live view of headcount and turnover.
+
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he reads HR the way a buyer does, line by line, starting with the data nobody trusts. He now builds this work inside companies himself, as a forward deployed engineer. Every price and figure below was read on the publisher's own page on 11 October 2026. Where a vendor publishes no price, we say so.
+
+## where HR operations stand in 2026
+
+Most small companies haven't started. SHRM previewed its State of AI in HR 2026 report in March, drawing on more than 1,900 HR professionals, and found that 60% of extra large organizations had adopted AI in HR against about 1 in 3 small ones. 31% hadn't begun using AI at all. Recruiting led at 27%, then HR technology at 21% and learning and development at 17%, and 7 of the top 10 AI use cases in HR were in recruiting. Only 2% of organizations used AI in compliance.
+
+The people doing this work aren't going anywhere. The Bureau of Labor Statistics counted 939,700 human resources specialists in 2025, at a median of $75,940 a year, or $36.51 an hour. It projects 6 percent growth from 2025 to 2035, 
+
+---
