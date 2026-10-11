@@ -8364,3 +8364,21 @@ Most small companies haven't started. SHRM previewed its State of AI in HR 2026 
 The people doing this work aren't going anywhere. The Bureau of Labor Statistics counted 939,700 human resources specialists in 2025, at a median of $75,940 a year, or $36.51 an hour. It projects 6 percent growth from 2025 to 2035, 
 
 ---
+
+## Revenue Recognition Errors Reprice 40% of Startup Acquisitions. Here Is How to Fix Yours.
+
+URL: https://beyondelevation.com/insights/revenue-recognition-startups-cfo-guide
+
+Revenue recognition errors reprice more startup acquisitions than bad code, missing customers, or founder disputes combined. Hayat Amin says it bluntly: the number on your P&L is not revenue until the accounting standard says it is — and most startups get the timing wrong by six to eighteen months.
+
+According to a 2025 Deloitte M&A due diligence survey, 38% of technology acquisitions required revenue restatement during financial due diligence, with a median downward adjustment of 14%. That means more than one in three deals get repriced because the seller's revenue number was wrong — not fraudulently, but structurally.
+
+This post explains exactly how revenue recognition works for startups, where founders make the five most expensive mistakes, and how to fix each one before an investor or acquirer finds it first.
+
+## What Is Revenue Recognition for Startups?
+
+Revenue recognition for startups is the set of rules that determine when a company can record revenue on its income statement. Under ASC 606 (US GAAP) and IFRS 15 (international), revenue is recognised when a performance obligation is satisfied — not when the contract is signed, not when the invoice is sent, and not when the cash lands in the bank.
+
+Most founders treat revenue as money in. That is cash accounting. It works for a lemonade stand. It does not work for a company with multi-year contracts, implementation fees, bundled products, or usage-based pricing — which describes nearly every SaaS, AI, and enterprise tech
+
+---

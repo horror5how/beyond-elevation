@@ -495,5 +495,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Fractional Executive Will Leave. Here Is How You Keep Everything They Built.](https://beyondelevation.com/insights/fractional-executive-knowledge-transfer) — /insights/md/fractional-executive-knowledge-transfer.md
 - [The AI Company COGS Trap: Why Your Gross Margin Is Lying to Your Investors](https://beyondelevation.com/insights/ai-company-cogs-gross-margin-trap) — /insights/md/ai-company-cogs-gross-margin-trap.md
 - [How to Use AI in HR Operations: 8 Jobs Worth Automating First](https://beyondelevation.com/insights/how-to-use-ai-in-hr-operations) — /insights/md/how-to-use-ai-in-hr-operations.md
+- [Revenue Recognition Errors Reprice 40% of Startup Acquisitions. Here Is How to Fix Yours.](https://beyondelevation.com/insights/revenue-recognition-startups-cfo-guide) — /insights/md/revenue-recognition-startups-cfo-guide.md
 
 > Full blog content available at /llms-full.txt
