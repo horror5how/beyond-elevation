@@ -8251,17 +8251,17 @@ A
 
 URL: https://beyondelevation.com/insights/finance-function-blueprint-revenue-stages
 
-Most startup founders are running a finance function designed for half their current revenue. According to a 2025 Deloitte Private survey, 71 percent of companies between &pound;2M and &pound;10M in revenue still rely on the same bookkeeper-and-spreadsheet setup they used at &pound;500K. The cost is invisible until it is not — a failed audit, a botched fundraise, or a month-end close that takes three weeks instead of two days.
+Most startup founders are running a finance function designed for half their current revenue. According to a 2025 Deloitte Private survey, 71 percent of companies between £2M and £10M in revenue still rely on the same bookkeeper-and-spreadsheet setup they used at £500K. The cost stays invisible, until a failed audit, a botched fundraise, or a month-end close that takes three weeks instead of two days makes it impossible to ignore.
 
-Hayat Amin has rebuilt finance functions at every stage from seed to pre-exit. Amin&rsquo;s rule is direct: &ldquo;If your finance setup has not changed since your last funding round, you are already behind. Revenue moves faster than you think. Your finance function has to move first.&rdquo;
+Hayat Amin has rebuilt finance functions at every stage from seed to pre-exit. Amin's rule is direct: "If your finance setup has not changed since your last funding round, you are already behind. Revenue moves faster than you think. Your finance function has to move first."
 
-## What Should a Finance Function Look Like at &pound;1M in Revenue?
+## What should a finance function look like at £1M in revenue?
 
-At &pound;1M in revenue, a startup needs three things from its finance function: accurate monthly accounts, a cash forecast that extends at least 13 weeks, and clean enough records to survive basic investor due diligence. Anything more is premature. Anything less is a fundraise risk.
+At £1M in revenue, a startup needs three things from its finance function: accurate monthly accounts, a cash forecast that extends at least 13 weeks, and clean enough records to survive basic investor due diligence. Anything more is premature. Anything less is a fundraise risk.
 
-The team at this stage is minimal: a part-time bookkeeper (&pound;500 to &pound;1,000 per month) and cloud accounting software — Xero or QuickBooks. No fractional CFO yet. No controller. The founder or COO reviews the numbers monthly, and the bookkeeper handles bank reconciliation, invoicing, and VAT returns.
+The team at this stage is minimal: a bookkeeper working part time (£500 to £1,000 a month) and cloud accounting software, Xero or QuickBooks. No fractional CFO yet. No controller. The founder or COO reviews the numbers monthly, and the bookkeeper handles bank reconciliation, invoicing, and VAT returns.
 
-What most &pound;1M founders get wrong: they treat accounting as a compliance obligation instead of a deci
+Most £1M founders get one thing wrong: they treat accounting as a compliance obligation instead of a decision-making tool. Monthly manageme
 
 ---
 
@@ -8271,13 +8271,13 @@ URL: https://beyondelevation.com/insights/ip-strategy-medtech-medical-device-sta
 
 A medical device IP strategy must synchronise patent filings with the FDA regulatory timeline, not the fundraising calendar. The three critical filing windows are before 510(k) submission, at design freeze, and prior to clinical data publication. Missing any of these windows permanently weakens the portfolio and reduces exit multiples by 30 to 40 percent.
 
-According to a 2025 IPlytics analysis of medical device M&A transactions, companies with active patent portfolios at the time of FDA clearance commanded acquisition premiums 38 percent higher than comparable companies without IP protection. Hayat Amin argues the real gap is wider. &ldquo;The 38 percent is the average. The founders who file before their 510(k) — not after — capture a 3 to 4x premium because the patent and the clearance letter are two sides of the same moat,&rdquo; says Amin, who has structured IP portfolios across regulated industries where timing determines everything.
+According to a 2025 IPlytics analysis of medical device M&A transactions, companies with active patent portfolios at the time of FDA clearance commanded acquisition premiums 38 percent higher than comparable companies without IP protection. Hayat Amin argues the real gap is wider. "The 38 percent is the average. The founders who file before their 510(k), not after, capture a 3 to 4x premium because the patent and the clearance letter are two sides of the same moat," says Amin, who has structured IP portfolios across regulated industries where timing determines everything.
 
-## Why Is Medical Device IP Strategy Different From Software IP?
+## Why is medical device IP strategy different from software IP?
 
-Medical device IP strategy requires a fundamentally different approach because the FDA regulatory pathway creates both a window and a constraint that no software company faces. In software, you can file a patent at any point in the product lifecycle. In medtech, your regulatory submission creates a public disclosure event that starts a countdown clock.
+Medical device IP strategy requires a different approach because the FDA regulatory pathway creates both a window and a constraint that no software company faces. In software, you can file a patent at any point in the product lifecycle. In medtech, your regulatory submission creates a public disclosure event that starts a countdown clock.
 
-When you submit a 510(k) or PMA application, the FDA eventually publishes a summary of your device&rsquo;s design, mechanism 
+Submit a 510(k) or PMA application and the FDA eventually publishes a summary of your device's design, mechanism of action, and performance data. Under U
 
 ---
 
@@ -8289,7 +8289,7 @@ To use AI in sales operations, give it the admin around a deal rather than the d
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, so he has sat through every version of a pipeline that looked fine until a buyer checked it. He now builds this work inside companies himself. Every price below was read on the vendor's own page on 10 October 2026, in US dollars.
 
-## why sales operations is where AI pays first
+## Why sales operations is where AI pays first
 
 Salesforce's State of Sales report, published on 3 February 2026 from a survey of 4,050 sales professionals in August and September 2025, found sellers spend 40% of their time selling. On a 40 hour week that leaves about 24 hours on everything else, on our arithmetic. Salesforce sells sales software, so read the figures as a vendor's survey, but the shape matches what we see.
 
@@ -8303,15 +8303,15 @@ The same report found 54% of sellers have used AI agents and nearly 9 in 10 plan
 
 URL: https://beyondelevation.com/insights/startup-burn-rate-runway-extension
 
-Most founders learn their actual startup burn rate the same month they realize they have five months of runway left. By then, the only move their board offers is a down round. According to PitchBook's 2026 venture data, 78 percent of startups that raise a down round never recover their original valuation. The number is not a scare tactic. It is a reason to manage startup burn rate before anyone suggests you raise again.
+Most founders learn their actual startup burn rate the same month they realise they have five months of runway left. By then, the only move their board offers is a down round. According to PitchBook's 2026 venture data, 78 percent of startups that raise a down round never recover their original valuation. The number is not a scare tactic. It's a reason to manage startup burn rate before anyone suggests you raise again.
 
-Hayat Amin argues that burn rate is the single most misunderstood number on a startup's dashboard. "Founders track it like a weather report," Amin says. "They watch it go up and hope conditions change. A fractional CFO treats it like a thermostat — something you set, not something you observe." That distinction — between passive monitoring and active management — is what separates companies that extend their runway from companies that give up equity they cannot afford to lose.
+Hayat Amin argues that burn rate is the single most misunderstood number on a startup's dashboard. "Founders track it like a weather report," Amin says. "They watch it go up and hope conditions change. A fractional CFO treats it like a thermostat, something you set, not something you observe." That distinction, between passive monitoring and active management, is what separates companies that extend their runway from companies that give up equity they cannot afford to lose.
 
-## What Is Startup Burn Rate and Why Does Getting It Wrong Kill Companies?
+## What is startup burn rate, and why does getting it wrong kill companies?
 
-Startup burn rate is the monthly rate at which a company spends cash in excess of revenue. Net burn — total monthly expenses minus total monthly revenue — determines your runway: the months of cash remaining before the bank account hits zero. Most startups calculate this number. Very few manage it. Beyond Elevation sees this gap in almost every fractional CFO engagement: the finance function reports burn rate but does not control it.
+Startup burn rate is the monthly rate at which a company spends cash in excess of revenue. Net burn, total monthly expenses minus total monthly revenue, determines your runway: the months of cash remaining before the bank account hits zero. Most startups calculate this number. Very few manage it. Beyond Elevation sees this gap in almost every fractional CFO engagement: the finance function reports burn rate but doesn't control it.
 
-The reason this matters is not intuitive until you see the math. A company bu
+The reason this matters is not intuitive until you see the math. A company burning 
 
 ---
 
@@ -8319,17 +8319,17 @@ The reason this matters is not intuitive until you see the math. A company bu
 
 URL: https://beyondelevation.com/insights/fractional-executive-knowledge-transfer
 
-A fractional executive engagement has an expiration date. That is not a flaw — it is the design. The flaw is what happens next. According to Deloitte's 2025 Global Human Capital Trends report, 74 percent of organisations lose critical operational knowledge during leadership transitions. Hayat Amin argues the real problem is not the exit — it is founders who never built a fractional executive knowledge transfer plan from Day 1.
+A fractional executive engagement has an expiration date. That is not a flaw, it is the design. The flaw is what happens next. According to Deloitte's 2025 Global Human Capital Trends report, 74 percent of organisations lose critical operational knowledge during leadership transitions. Hayat Amin argues the real problem is not the exit, it is founders who never built a fractional executive knowledge transfer plan from Day 1.
 
 The companies that get this right keep the systems, the processes, and the decision frameworks their operator built. The ones that get it wrong spend three to six months rebuilding what they already paid for. Here is how to be the first kind.
 
-## What Is Fractional Executive Knowledge Transfer?
+## What fractional executive knowledge transfer is
 
-Fractional executive knowledge transfer is the structured handover of every system, process, relationship, and decision framework a fractional operator built during their engagement — so the company retains full operational capability after the operator exits. It is not a document written on the last Friday. It is a discipline that runs from Day 1 to the final week.
+Fractional executive knowledge transfer is the structured handover of every system, process, relationship and decision framework a fractional operator built during the engagement, so the company keeps full operational capability after the operator exits. It's a discipline that runs from Day 1 to the final week, not a document written on the last Friday.
 
 Most companies confuse knowledge transfer with documentation. Documentation is one layer. A complete fractional executive knowledge transfer includes five distinct layers: process SOPs, system architecture maps, relationship registers, decision rationale logs, and internal team shadow training. Skip any one and the company inherits a manual nobody can operate.
 
-Beyond Elevation embeds all five laye
+Beyond Elevation embeds all five layers into every en
 
 ---
 
@@ -8337,15 +8337,15 @@ Beyond Elevation embeds all five laye
 
 URL: https://beyondelevation.com/insights/ai-company-cogs-gross-margin-trap
 
-Most AI companies overstate gross margin by 15 to 30 percentage points. The gap comes from misclassifying GPU inference costs, third-party model API fees, and data pipeline processing as operating expenses instead of cost of goods sold. Hayat Amin calls it the fastest way to lose credibility in a Series B diligence process — and the easiest line item a fractional CFO fixes in week one.
+Most AI companies overstate gross margin by 15 to 30 percentage points. The gap comes from misclassifying GPU inference costs, third-party model API fees, and data pipeline processing as operating expenses instead of cost of goods sold. Hayat Amin calls it the fastest way to lose credibility in a Series B diligence process, and the easiest line item a fractional CFO fixes in week one.
 
 According to Bessemer Venture Partners' 2026 State of the Cloud report, AI-native companies that properly reclassified inference costs into COGS saw reported gross margins fall by an average of 18 percentage points. That single reclassification moved companies from SaaS-tier multiples (8-15x revenue) to services-tier multiples (3-6x revenue). One misplaced line item can halve your enterprise value.
 
-The problem is not dishonesty. Most founders genuinely do not know which costs belong in AI company cost of goods sold. Their accountant classifies everything below the gross margin line because that is where software companies put infrastructure costs. But AI companies are not software companies — every customer request burns compute, every API call costs real money, and every human-in-the-loop review adds direct labour to delivery. Hayat Amin argues that the financial architecture of AI companies is closer to manufacturing than to SaaS, and founders who report margins like SaaS companies get caught during due diligence.
+The problem isn't dishonesty. Most founders don't know which costs belong in AI company cost of goods sold. Their accountant classifies everything below the gross margin line because that's where software companies put infrastructure costs. But AI companies aren't software companies: every customer request burns compute, every API call costs real money, and every human-in-the-loop review adds direct labour to delivery. Hayat Amin argues the financial architecture of AI companies is closer to manufacturing than to SaaS, and founders who report margins like SaaS companies get caught during due diligence.
 
-## What Counts as COGS in an AI Company?
+## What counts as COGS in an AI company?
 
-AI company cost of goods sold incl
+AI company cost of goods sold includes every expense di
 
 ---
 

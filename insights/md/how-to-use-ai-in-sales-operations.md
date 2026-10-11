@@ -13,7 +13,7 @@ To use AI in sales operations, give it the admin around a deal rather than the d
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, so he has sat through every version of a pipeline that looked fine until a buyer checked it. He now builds this work inside companies himself. Every price below was read on the vendor's own page on 10 October 2026, in US dollars.
 
-## why sales operations is where AI pays first
+## Why sales operations is where AI pays first
 
 Salesforce's State of Sales report, published on 3 February 2026 from a survey of 4,050 sales professionals in August and September 2025, found sellers spend 40% of their time selling. On a 40 hour week that leaves about 24 hours on everything else, on our arithmetic. Salesforce sells sales software, so read the figures as a vendor's survey, but the shape matches what we see.
 
@@ -21,13 +21,13 @@ The same report found 54% of sellers have used AI agents and nearly 9 in 10 plan
 
 ## 1. log every call and email without anyone typing
 
-The CRM is only as good as what reps put into it, and reps don't like putting things into it. So we take the typing away. A call recorder writes the summary and the next steps, and a sync writes them onto the right contact and deal. Emails and meetings are matched to the account automatically.
+The CRM is only as good as what reps put into it, and reps don't like putting things into it. We take the typing away: a call recorder writes the summary and the next steps, and a sync writes them onto the right contact and deal. Emails and meetings are matched to the account automatically.
 
 You may already have part of this. Salesforce's Starter Suite, at $25 per user per month, lists AI that automatically syncs emails, events and contacts. Fathom's Business plan, at $25 per user per month billed annually or $34 monthly, adds CRM field sync, so a call can update fields on the record rather than leaving a note. Fathom's free plan gives instant AI call summaries, which is enough to test whether your team will use it.
 
 ## 2. research and route each new lead in minutes
 
-A web form comes in. Someone has to look up the company, guess its size, decide whether it fits, and pass it to the right person. In most small companies that takes a day, sometimes three. We have AI read the form, look up the company, score it against the customers you've actually closed, write a two line brief and assign it, all before anyone opens their inbox.
+A web form comes in. Someone has to look up the company, guess its size, decide whether it fits, and pass it to the right person. In most small companies that takes a day, sometimes three. We have AI read the form, look up the company, score it against the customers you've closed, write a two line brief and assign it, all before anyone opens their inbox.
 
 HubSpot's Sales Hub Professional lists a Prospecting Agent and a Data Agent, with 3,000 HubSpot Credits a month, at $90 per seat per month on annual billing or $100 monthly, plus a one off $1,500 onboarding fee. Sellers in the Salesforce survey expected agents to cut prospect research time by 34%, which is an expectation, not a measured result.
 
@@ -107,7 +107,7 @@ Join the CRM to signed contracts and invoices first, then let fixed rules do the
 
 ### How to use AI in sales prospecting?
 
-Have AI research each new lead, score it against the customers you've actually won and draft a first message, with a person approving the send for the first few weeks.
+Have AI research each new lead, score it against the customers you've won and draft a first message, with a person approving the send for the first few weeks.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

@@ -61,7 +61,7 @@ Most owners run a survey, read the score and never get to the 200 written commen
 
 Most owners see their people costs a month late. The questions that matter can't wait for month end. Which team ran overtime three weeks in a row? Which roles have been open more than 30 days? Who resigned this quarter, from which manager? The answers sit across the HR system, payroll, scheduling and the accounting file. BambooHR's Elite plan builds custom dashboards from live HR data, and Rippling says it builds dashboards and reports across every system you run, priced on a custom quote. If your systems don't share a vendor, a tool such as n8n joins them, from 20 euros a month billed annually for 2,500 workflow runs. The build is one screen, refreshed daily, that the owner reads on Monday morning.
 
-Here is our own arithmetic on why this pays. If items 3, 5 and 6 give an HR specialist back 5 hours a week, at the BLS median of $36.51 an hour that's $182.55 a week, or about $9,490 a year. The 5 hours is our assumption, not a published figure. Check it against your own week before you rely on it.
+This is our own arithmetic on why this pays. If items 3, 5 and 6 give an HR specialist back 5 hours a week, at the BLS median of $36.51 an hour that's $182.55 a week, or about $9,490 a year. The 5 hours is our assumption, not a published figure. Check it against your own week before you rely on it.
 
 ## what the systems cost
 
