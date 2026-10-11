@@ -1,17 +1,15 @@
-The AI agent you deployed 6 months ago is already obsolete.
+Your top customer is 40% of your revenue.
 
-83% of companies have no model upgrade path.
+Acquirers don't call that loyalty.
 
-The average model refresh cycle is now 90 days.
+They call it concentration risk, and they reprice the deal.
 
-You are operating on 2025 capability at 2026 costs.
+The rule: no single customer above 20% of revenue before you go to market.
 
-Every quarter you wait, a competitor's agent runs faster, cheaper, and more accurately on the same task.
+Most founders think they can fix it in 12 months.
 
-An upgrade path is not a technology project. It is a financial decision.
+It takes 18.
 
-Model version, performance benchmark, cost per task, owner, review date.
+Q4 is 9 weeks. The clock is already running.
 
-Five fields on a spreadsheet. Zero of your competitors have it filled in.
-
-#AIOperations #AI #FractionalCFO
+#fractionalCFO #exitreadiness #foundertips
