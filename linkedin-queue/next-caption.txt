@@ -1,9 +1,17 @@
-Most founders think they're exit-ready. Their finance function says otherwise.
+87% of failed AI deployments trace back to the process, not the model.
 
-Buyers spend 60 days in your data room finding the problems you didn't know existed.
+Most companies bought the tool first.
 
-A sale-ready finance function takes 18 months to build. You cannot start it in the last quarter.
+Then discovered the process was broken.
 
-The gap between the valuation you expect and the price you accept is usually a finance problem.
+AI does not fix a bad workflow. It makes a bad workflow fail faster, at scale.
 
-#CFO #ExitReadiness #FractionalCFO
+The companies that scaled AI in 2026 mapped the exception path before they touched the API.
+
+They defined the human-in-the-loop rule before day one.
+
+They knew the failure mode before the first token was generated.
+
+Fix the process. Then automate.
+
+#AIOperations #OperationalExcellence #FractionalCFO
