@@ -9,11 +9,11 @@ site: Beyond Elevation
 
 # Your Fractional Executive Will Leave. Here Is How You Keep Everything They Built.
 
-A fractional executive engagement has an expiration date. That is not a flaw, it is the design. The flaw is what happens next. According to Deloitte's 2025 Global Human Capital Trends report, 74 percent of organisations lose critical operational knowledge during leadership transitions. Hayat Amin argues the real problem is not the exit, it is founders who never built a fractional executive knowledge transfer plan from Day 1.
+A fractional executive engagement has an expiration date by design. The problem is what happens next. According to Deloitte's 2025 Global Human Capital Trends report, 74 percent of organisations lose critical operational knowledge during leadership transitions. Hayat Amin argues the real issue is founders who never built a fractional executive knowledge transfer plan from Day 1.
 
-The companies that get this right keep the systems, the processes, and the decision frameworks their operator built. The ones that get it wrong spend three to six months rebuilding what they already paid for. Here is how to be the first kind.
+The companies that get this right keep the systems, the processes, and the decision frameworks their operator built. The ones that get it wrong spend three to six months rebuilding what they already paid for.
 
-## What fractional executive knowledge transfer is
+## Fractional executive knowledge transfer, defined
 
 Fractional executive knowledge transfer is the structured handover of every system, process, relationship and decision framework a fractional operator built during the engagement, so the company keeps full operational capability after the operator exits. It's a discipline that runs from Day 1 to the final week, not a document written on the last Friday.
 
@@ -87,7 +87,7 @@ Every fractional executive engagement should end with a structured seven-item ex
 
 **7. First-month solo plan**, a written plan for the internal team's first 30 days operating without the fractional executive, including which metrics to monitor weekly and which decisions to escalate.
 
-Hayat Amin's standard is direct: if a fractional executive cannot produce all seven items on their last day, the engagement was not designed to end well. The operator built a dependency, not a function. That is the difference between a [fractional operator and a consultant](/insights/fractional-executive-vs-consultancy-fees/), the operator leaves behind a machine that runs without them.
+Hayat Amin's standard is direct: if a fractional executive cannot produce all seven items on their last day, the engagement was not designed to end well. The operator built a dependency, not a function. That is the difference between a [fractional operator and a consultant](/insights/fractional-executive-vs-consultancy-fees/): the operator leaves behind a machine that runs without them.
 
 Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to structure an engagement with a built-in exit plan, one where you keep everything the operator builds.
 
@@ -111,15 +111,15 @@ A proper handover requires 30 to 60 days of shadow training, plus the running do
 
 ### Should I assign someone to shadow my fractional executive?
 
-Yes. Assign one internal team member to shadow the fractional operator for the final 30 to 60 days of the engagement. This person should be whoever will own or manage the function after the operator leaves. The shadow period is the single highest-ROI decision in any fractional executive engagement, and it costs nothing additional in consulting fees.
+Yes. Assign one internal team member to shadow the fractional operator for the final 30 to 60 days of the engagement. This should be whoever will own or manage the function after the operator leaves. The shadow period is the highest-ROI decision in any fractional executive engagement, and it costs nothing extra in consulting fees.
 
 ### What happens if the fractional executive leaves without a handover?
 
-Without a structured handover, companies typically lose 40 to 60 percent of the value built during the engagement within 90 days. Systems break, vendor relationships lapse, reporting gaps appear, and the replacement operator spends two to three months rediscovering what was already built. A fractional executive knowledge transfer plan started on Day 1 prevents this entirely.
+Without a structured handover, companies typically lose 40 to 60 percent of the value built during the engagement within 90 days. Systems break, vendor relationships lapse, reporting gaps appear, and the replacement operator spends two to three months rediscovering what was already built. A fractional executive knowledge transfer plan started on Day 1 prevents this.
 
 ### Can I include a knowledge transfer clause in the fractional executive contract?
 
-Yes, and you should. Include clauses requiring the operator to maintain running documentation throughout the engagement, participate in a 30 to 60 day shadow period before exit, and remain available for questions for 90 days post-departure. Beyond Elevation includes all three as standard [engagement contract terms](/insights/fractional-executive-contract-clauses/).
+Yes, and you should. Include clauses requiring the operator to maintain running documentation throughout the engagement, take part in a 30 to 60 day shadow period before exit, and stay available for questions for 90 days post-departure. Beyond Elevation includes all three as standard [engagement contract terms](/insights/fractional-executive-contract-clauses/).
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

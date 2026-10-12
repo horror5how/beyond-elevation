@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 To use AI in HR operations, start with the work that repeats every week and follows rules: screening applicants, booking interviews, sending offer letters and onboarding paperwork, ordering background checks, answering policy questions, approving time off and hours, reading survey comments, and giving the owner a live view of headcount and turnover.
 
-Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he reads HR the way a buyer does, line by line, starting with the data nobody trusts. He now builds this work inside companies himself, as a forward deployed engineer. Every price and figure below was read on the publisher's own page on 11 October 2026. Where a vendor publishes no price, we say so.
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he reads HR the way a buyer does, line by line, starting with the data nobody trusts. He now builds this work inside companies himself, as a forward deployed engineer. Every price and figure below was read on the publisher's own page on 11 October 2026. If a vendor publishes no price, we say so.
 
 ## where HR operations stand in 2026
 

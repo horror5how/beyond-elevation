@@ -13,7 +13,7 @@ Most AI companies overstate gross margin by 15 to 30 percentage points. The gap 
 
 According to Bessemer Venture Partners' 2026 State of the Cloud report, AI-native companies that properly reclassified inference costs into COGS saw reported gross margins fall by an average of 18 percentage points. That single reclassification moved companies from SaaS-tier multiples (8-15x revenue) to services-tier multiples (3-6x revenue). One misplaced line item can halve your enterprise value.
 
-The problem isn't dishonesty. Most founders don't know which costs belong in AI company cost of goods sold. Their accountant classifies everything below the gross margin line because that's where software companies put infrastructure costs. But AI companies aren't software companies: every customer request burns compute, every API call costs real money, and every human-in-the-loop review adds direct labour to delivery. Hayat Amin argues the financial architecture of AI companies is closer to manufacturing than to SaaS, and founders who report margins like SaaS companies get caught during due diligence.
+This isn't about dishonesty. Most founders don't know which costs belong in AI company cost of goods sold. Their accountant classifies everything below the gross margin line because that's where software companies put infrastructure costs. But AI companies aren't software companies: every customer request burns compute, every API call costs real money, and every human-in-the-loop review adds direct labour to delivery. Hayat Amin argues the financial architecture of AI companies is closer to manufacturing than to SaaS, and founders who report margins like SaaS companies get caught during due diligence.
 
 ## What counts as COGS in an AI company?
 
@@ -23,9 +23,9 @@ The distinction matters because gross margin is how investors judge business mod
 
 Here are the six cost categories most AI startups get wrong:
 
-**1. GPU inference compute.** This is COGS. Every customer query, every model call, every prediction burns GPU cycles. If you are running inference on AWS, GCP, or your own hardware, the compute cost of serving customer requests is a direct cost of delivering your product. It does not matter that it also appears on your cloud bill next to your dev environment, the portion tied to serving paying customers is COGS.
+**1. GPU inference compute.** This is COGS. Every customer query, every model call, every prediction burns GPU cycles. If you are running inference on AWS, GCP, or your own hardware, the compute cost of serving customer requests is a direct cost of delivering your product. It doesn't matter that it also appears on your cloud bill next to your dev environment, the portion tied to serving paying customers is COGS.
 
-**2. Third-party model API calls.** This is COGS. If your product calls OpenAI, Anthropic, Cohere, or any other model provider to deliver value to a customer, that API cost is a direct input to your product. Treat it exactly the way a manufacturer treats raw materials.
+**2. Third-party model API calls.** This is COGS. If your product calls OpenAI, Anthropic, Cohere, or any other model provider to deliver value to a customer, that API cost is a direct input to your product. Treat it the way a manufacturer treats raw materials.
 
 **3. Data pipeline processing costs.** This is COGS when tied to customer delivery. The ETL pipelines, vector database queries, and data transformations that run every time a customer uses your product are direct costs. Data pipelines that run for internal R&D or model training are not.
 
@@ -37,21 +37,21 @@ Here are the six cost categories most AI startups get wrong:
 
 ## What is the AI COGS classification test?
 
-Hayat Amin's AI COGS Classification Test is a five-question framework that eliminates the guesswork from cost classification. Beyond Elevation runs this test on every line item in an AI company's P&L before any investor conversation.
+Hayat Amin's AI COGS Classification Test is a five-question framework that takes the guesswork out of cost classification. Beyond Elevation runs this test on every line item in an AI company's P&L before any investor conversation.
 
-**Question 1: Does this cost exist only because a customer is using the product?** If yes, it is COGS. GPU inference does not run without a customer request. API calls do not fire without a user query. If the cost disappears when the customer disappears, it belongs above the gross margin line.
+**Question 1: Does this cost exist only because a customer is using the product?** If yes, it is COGS. GPU inference doesn't run without a customer request. API calls don't fire without a user query. If the cost disappears when the customer disappears, it belongs above the gross margin line.
 
 **Question 2: Does this cost increase linearly with usage or customer count?** If yes, it is COGS. Costs that scale with volume are direct costs by definition. Fixed costs that stay the same at 10 customers and 10,000 customers are operating expenses.
 
 **Question 3: Would removing this cost make the delivered product stop working?** If yes, it is COGS. Cut the inference compute and the product breaks. Cut the API calls and the product returns nothing. You can't skip these costs and still ship the product.
 
-**Question 4: Is this cost creating future capability or serving a current customer?** Future capability is R&D. Current customer delivery is COGS. Model training is future capability. Model inference is current delivery. The distinction is temporal, not technological.
+**Question 4: Is this cost creating future capability or serving a current customer?** Future capability is R&D. Current customer delivery is COGS. Model training is future capability. Model inference is current delivery. The distinction is about timing, not technology.
 
-**Question 5: Could you eliminate this cost and still keep your existing customers?** If no, it is COGS. If yes, it is an operating expense you could theoretically cut without losing revenue. This is the tiebreaker question for ambiguous costs like monitoring infrastructure and customer success tooling.
+**Question 5: Could you eliminate this cost and still keep your existing customers?** If no, it is COGS. If yes, it is an operating expense you could in theory cut without losing revenue. This is the tiebreaker question for ambiguous costs like monitoring infrastructure and customer success tooling.
 
 ## What happens when your gross margin gets reclassified during due diligence?
 
-Reclassification during due diligence typically triggers a 20 to 40 percent haircut on the proposed valuation. The investor's financial team re-runs the model with corrected margins, which drops the revenue multiple from the software peer set to the AI-services peer set. A company that entered the process at a $120M valuation on 15x revenue can exit at $60M on 7.5x revenue, with nothing about the business itself having changed. Only the margin presentation did.
+Reclassification during due diligence typically triggers a 20 to 40 percent haircut on the proposed valuation. The investor's financial team reruns the model with corrected margins, which drops the revenue multiple from the software peer set to the AI-services peer set. A company that entered the process at a $120M valuation on 15x revenue can exit at $60M on 7.5x revenue, with nothing about the business itself having changed. Only the margin presentation did.
 
 Hayat Amin saw this play out in a Beyond Elevation portfolio company engagement. The founder walked into a Series B process reporting 73% gross margins and expecting a $90M valuation. The lead investor's CFO reclassified $2.1M of annual inference and API costs from operating expenses to COGS. The reported gross margin dropped to 51%. The term sheet came back at $58M. Thirty-two million dollars of enterprise value evaporated because the costs were on the wrong line.
 
@@ -63,19 +63,19 @@ Present the real number alongside a clear path to margin improvement. Investors 
 
 **Step 1: Show the real gross margin.** Put every direct delivery cost in COGS. Present the honest number in your financial model, your board deck, and your investor materials. A 52% gross margin with a credible improvement path is worth more than a 75% gross margin that collapses under scrutiny.
 
-**Step 2: Show the margin improvement roadmap.** Demonstrate how gross margins will improve over the next 12 to 24 months. Specific levers: model distillation and quantisation reducing inference costs, batching and caching reducing API calls per customer, replacing third-party models with in-house models, and automating human-in-the-loop steps. Each lever should have a cost reduction estimate and a timeline.
+**Step 2: Show the margin improvement roadmap.** Show how gross margins will improve over the next 12 to 24 months. Specific levers: model distillation and quantisation reducing inference costs, batching and caching reducing API calls per customer, replacing third-party models with in-house models, and automating human-in-the-loop steps. Each lever should have a cost reduction estimate and a timeline.
 
-**Step 3: Show the unit economics at scale.** Prove that at 5x or 10x current volume, the per-unit cost of delivery drops meaningfully. AI companies have real economies of scale, inference cost per query drops with batch optimisation, fine-tuned smaller models replace expensive large models, and human review rates decline as the model improves. But these economies only show up if you model them explicitly.
+**Step 3: Show the unit economics at scale.** Prove that at 5x or 10x current volume, the per-unit cost of delivery drops meaningfully. AI companies have real economies of scale: inference cost per query drops with batch optimisation, fine-tuned smaller models replace expensive large models, and human review rates fall as the model improves. But these economies only show up if you model them explicitly.
 
-Hayat Amin reminds founders that a 52% gross margin with a credible path to 68% in 18 months prices better than a fabricated 75% that drops to 50% during diligence. The first signals an operator who understands the business. The second signals a founder who does not understand the financial mechanics of what they have built.
+Hayat Amin reminds founders that a 52% gross margin with a credible path to 68% in 18 months prices better than a fabricated 75% that drops to 50% during diligence. The first signals an operator who understands the business. The second signals a founder who doesn't understand the financial mechanics of what they've built.
 
 ## Why does every AI company need a fractional CFO who understands COGS?
 
-A generalist accountant will classify your AI company's costs the way they classify every technology company's costs, infrastructure below the line, labour in G&A, everything that is not a direct employee salary pushed into operating expenses. This is correct for a pure software company where the marginal cost of serving a customer is nearly zero. It is dangerously wrong for an AI company where every customer interaction has a real, measurable cost.
+A generalist accountant will classify your AI company's costs the way they classify every technology company's costs, infrastructure below the line, labour in G&A, everything that isn't a direct employee salary pushed into operating expenses. This is correct for a pure software company where the marginal cost of serving a customer is close to zero. It's dangerously wrong for an AI company where every customer interaction has a real, measurable cost.
 
-A fractional CFO with AI experience reclassifies your P&L on day one, builds the margin improvement model that investors need to see, and structures your financial reporting so that every board meeting shows the real unit economics. Beyond Elevation positions the fractional CFO as the operator who turns a misleading P&L into a fundable financial story by making the numbers accurate, not just better-looking.
+A fractional CFO with AI experience reclassifies your P&L on day one, builds the margin improvement model investors need to see, and structures your financial reporting so every board meeting shows the real unit economics. Beyond Elevation positions the fractional CFO as the operator who turns a misleading P&L into a fundable financial story, by making the numbers accurate rather than better-looking.
 
-AI companies that present accurate, defensible COGS classification close funding rounds 40% faster than companies that get reclassified mid-process, because the diligence team does not need to redo the financial model from scratch.
+AI companies that present accurate, defensible COGS classification close funding rounds 40% faster than companies that get reclassified mid-process, because the diligence team doesn't need to redo the financial model from scratch.
 
 Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to get your AI company's COGS classified correctly before your next investor conversation.
 

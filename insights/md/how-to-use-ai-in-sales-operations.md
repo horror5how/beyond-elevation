@@ -13,7 +13,7 @@ To use AI in sales operations, give it the admin around a deal rather than the d
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, so he has sat through every version of a pipeline that looked fine until a buyer checked it. He now builds this work inside companies himself. Every price below was read on the vendor's own page on 10 October 2026, in US dollars.
 
-## Why sales operations is where AI pays first
+## Sales operations is where AI pays first
 
 Salesforce's State of Sales report, published on 3 February 2026 from a survey of 4,050 sales professionals in August and September 2025, found sellers spend 40% of their time selling. On a 40 hour week that leaves about 24 hours on everything else, on our arithmetic. Salesforce sells sales software, so read the figures as a vendor's survey, but the shape matches what we see.
 
@@ -99,7 +99,7 @@ For research and drafting, often yes. Salesforce's 2026 survey found sellers exp
 
 ### Will AI replace sales operations?
 
-It replaces the typing, not the judgement. Someone still owns the process, the data rules and the forecast. In small companies that person is often the owner, and AI gives them hours back.
+It replaces the typing, not the judgement. Someone still owns the process, the data rules and the forecast. In small companies that's often the owner, and AI gives them hours back.
 
 ### How to use AI in sales forecasting?
 

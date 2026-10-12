@@ -8289,13 +8289,13 @@ To use AI in sales operations, give it the admin around a deal rather than the d
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, so he has sat through every version of a pipeline that looked fine until a buyer checked it. He now builds this work inside companies himself. Every price below was read on the vendor's own page on 10 October 2026, in US dollars.
 
-## Why sales operations is where AI pays first
+## Sales operations is where AI pays first
 
 Salesforce's State of Sales report, published on 3 February 2026 from a survey of 4,050 sales professionals in August and September 2025, found sellers spend 40% of their time selling. On a 40 hour week that leaves about 24 hours on everything else, on our arithmetic. Salesforce sells sales software, so read the figures as a vendor's survey, but the shape matches what we see.
 
 The same report found 54% of sellers have used AI agents and nearly 9 in 10 plan to by 2027. The line we'd underline is a different one: 51% said disconnected systems slow their AI work down. That's the real problem in most companies under 200 people. The CRM, the inbox, the calendar, the quoting tool and the accounting system each hold part of a deal, and no one joins them.
 
-## 1. lo
+## 1. log ev
 
 ---
 
@@ -8303,7 +8303,7 @@ The same report found 54% of sellers have used AI agents and nearly 9 in 10 plan
 
 URL: https://beyondelevation.com/insights/startup-burn-rate-runway-extension
 
-Most founders learn their actual startup burn rate the same month they realise they have five months of runway left. By then, the only move their board offers is a down round. According to PitchBook's 2026 venture data, 78 percent of startups that raise a down round never recover their original valuation. The number is not a scare tactic. It's a reason to manage startup burn rate before anyone suggests you raise again.
+Most founders learn their actual startup burn rate the same month they realise they have five months of runway left. By then, the only move their board offers is a down round. According to PitchBook's 2026 venture data, 78 percent of startups that raise a down round never recover their original valuation. That number is a reason to manage startup burn rate before anyone suggests you raise again.
 
 Hayat Amin argues that burn rate is the single most misunderstood number on a startup's dashboard. "Founders track it like a weather report," Amin says. "They watch it go up and hope conditions change. A fractional CFO treats it like a thermostat, something you set, not something you observe." That distinction, between passive monitoring and active management, is what separates companies that extend their runway from companies that give up equity they cannot afford to lose.
 
@@ -8311,7 +8311,7 @@ Hayat Amin argues that burn rate is the single most misunderstood number on a st
 
 Startup burn rate is the monthly rate at which a company spends cash in excess of revenue. Net burn, total monthly expenses minus total monthly revenue, determines your runway: the months of cash remaining before the bank account hits zero. Most startups calculate this number. Very few manage it. Beyond Elevation sees this gap in almost every fractional CFO engagement: the finance function reports burn rate but doesn't control it.
 
-The reason this matters is not intuitive until you see the math. A company burning 
+The reason this matters is not intuitive until you see the math. A company burning 250,000 pounds per month
 
 ---
 
@@ -8319,17 +8319,17 @@ The reason this matters is not intuitive until you see the math. A company burni
 
 URL: https://beyondelevation.com/insights/fractional-executive-knowledge-transfer
 
-A fractional executive engagement has an expiration date. That is not a flaw, it is the design. The flaw is what happens next. According to Deloitte's 2025 Global Human Capital Trends report, 74 percent of organisations lose critical operational knowledge during leadership transitions. Hayat Amin argues the real problem is not the exit, it is founders who never built a fractional executive knowledge transfer plan from Day 1.
+A fractional executive engagement has an expiration date by design. The problem is what happens next. According to Deloitte's 2025 Global Human Capital Trends report, 74 percent of organisations lose critical operational knowledge during leadership transitions. Hayat Amin argues the real issue is founders who never built a fractional executive knowledge transfer plan from Day 1.
 
-The companies that get this right keep the systems, the processes, and the decision frameworks their operator built. The ones that get it wrong spend three to six months rebuilding what they already paid for. Here is how to be the first kind.
+The companies that get this right keep the systems, the processes, and the decision frameworks their operator built. The ones that get it wrong spend three to six months rebuilding what they already paid for.
 
-## What fractional executive knowledge transfer is
+## Fractional executive knowledge transfer, defined
 
 Fractional executive knowledge transfer is the structured handover of every system, process, relationship and decision framework a fractional operator built during the engagement, so the company keeps full operational capability after the operator exits. It's a discipline that runs from Day 1 to the final week, not a document written on the last Friday.
 
 Most companies confuse knowledge transfer with documentation. Documentation is one layer. A complete fractional executive knowledge transfer includes five distinct layers: process SOPs, system architecture maps, relationship registers, decision rationale logs, and internal team shadow training. Skip any one and the company inherits a manual nobody can operate.
 
-Beyond Elevation embeds all five layers into every en
+Beyond Elevation embeds all five layers into every engagement from the first week. The additional cost is zero, it's built into how t
 
 ---
 
@@ -8341,11 +8341,11 @@ Most AI companies overstate gross margin by 15 to 30 percentage points. The gap 
 
 According to Bessemer Venture Partners' 2026 State of the Cloud report, AI-native companies that properly reclassified inference costs into COGS saw reported gross margins fall by an average of 18 percentage points. That single reclassification moved companies from SaaS-tier multiples (8-15x revenue) to services-tier multiples (3-6x revenue). One misplaced line item can halve your enterprise value.
 
-The problem isn't dishonesty. Most founders don't know which costs belong in AI company cost of goods sold. Their accountant classifies everything below the gross margin line because that's where software companies put infrastructure costs. But AI companies aren't software companies: every customer request burns compute, every API call costs real money, and every human-in-the-loop review adds direct labour to delivery. Hayat Amin argues the financial architecture of AI companies is closer to manufacturing than to SaaS, and founders who report margins like SaaS companies get caught during due diligence.
+This isn't about dishonesty. Most founders don't know which costs belong in AI company cost of goods sold. Their accountant classifies everything below the gross margin line because that's where software companies put infrastructure costs. But AI companies aren't software companies: every customer request burns compute, every API call costs real money, and every human-in-the-loop review adds direct labour to delivery. Hayat Amin argues the financial architecture of AI companies is closer to manufacturing than to SaaS, and founders who report margins like SaaS companies get caught during due diligence.
 
 ## What counts as COGS in an AI company?
 
-AI company cost of goods sold includes every expense di
+AI company cost of goods sold includes every expense dir
 
 ---
 
@@ -8355,13 +8355,13 @@ URL: https://beyondelevation.com/insights/how-to-use-ai-in-hr-operations
 
 To use AI in HR operations, start with the work that repeats every week and follows rules: screening applicants, booking interviews, sending offer letters and onboarding paperwork, ordering background checks, answering policy questions, approving time off and hours, reading survey comments, and giving the owner a live view of headcount and turnover.
 
-Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he reads HR the way a buyer does, line by line, starting with the data nobody trusts. He now builds this work inside companies himself, as a forward deployed engineer. Every price and figure below was read on the publisher's own page on 11 October 2026. Where a vendor publishes no price, we say so.
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he reads HR the way a buyer does, line by line, starting with the data nobody trusts. He now builds this work inside companies himself, as a forward deployed engineer. Every price and figure below was read on the publisher's own page on 11 October 2026. If a vendor publishes no price, we say so.
 
 ## where HR operations stand in 2026
 
 Most small companies haven't started. SHRM previewed its State of AI in HR 2026 report in March, drawing on more than 1,900 HR professionals, and found that 60% of extra large organizations had adopted AI in HR against about 1 in 3 small ones. 31% hadn't begun using AI at all. Recruiting led at 27%, then HR technology at 21% and learning and development at 17%, and 7 of the top 10 AI use cases in HR were in recruiting. Only 2% of organizations used AI in compliance.
 
-The people doing this work aren't going anywhere. The Bureau of Labor Statistics counted 939,700 human resources specialists in 2025, at a median of $75,940 a year, or $36.51 an hour. It projects 6 percent growth from 2025 to 2035, 
+The people doing this work aren't going anywhere. The Bureau of Labor Statistics counted 939,700 human resources specialists in 2025, at a median of $75,940 a year, or $36.51 an hour. It projects 6 percent growth from 2025 to 2035, wit
 
 ---
 
@@ -8369,17 +8369,17 @@ The people doing this work aren't going anywhere. The Bureau of Labor Statistics
 
 URL: https://beyondelevation.com/insights/revenue-recognition-startups-cfo-guide
 
-Revenue recognition errors reprice more startup acquisitions than bad code, missing customers, or founder disputes combined. Hayat Amin says it bluntly: the number on your P&L is not revenue until the accounting standard says it is — and most startups get the timing wrong by six to eighteen months.
+Revenue recognition errors reprice more startup acquisitions than bad code, missing customers, or founder disputes combined. Hayat Amin says it bluntly: the number on your P&L is not revenue until the accounting standard says it is, and most startups get the timing wrong by six to eighteen months.
 
-According to a 2025 Deloitte M&A due diligence survey, 38% of technology acquisitions required revenue restatement during financial due diligence, with a median downward adjustment of 14%. That means more than one in three deals get repriced because the seller's revenue number was wrong — not fraudulently, but structurally.
+According to a 2025 Deloitte M&A due diligence survey, 38% of technology acquisitions required revenue restatement during financial due diligence, with a median downward adjustment of 14%. That means more than one in three deals get repriced because the seller's revenue number was wrong, not fraudulently, but structurally.
 
 This post explains exactly how revenue recognition works for startups, where founders make the five most expensive mistakes, and how to fix each one before an investor or acquirer finds it first.
 
-## What Is Revenue Recognition for Startups?
+## What is revenue recognition for startups?
 
-Revenue recognition for startups is the set of rules that determine when a company can record revenue on its income statement. Under ASC 606 (US GAAP) and IFRS 15 (international), revenue is recognised when a performance obligation is satisfied — not when the contract is signed, not when the invoice is sent, and not when the cash lands in the bank.
+Revenue recognition for startups is the set of rules that determine when a company can record revenue on its income statement. Under ASC 606 (US GAAP) and IFRS 15 (international), revenue is recognised when a performance obligation is satisfied, not when the contract is signed, not when the invoice is sent, and not when the cash lands in the bank.
 
-Most founders treat revenue as money in. That is cash accounting. It works for a lemonade stand. It does not work for a company with multi-year contracts, implementation fees, bundled products, or usage-based pricing — which describes nearly every SaaS, AI, and enterprise tech
+Most founders treat revenue as money in. That is cash accounting. It works for a lemonade stand. It does not work for a company with multi-year contracts, implementation fees, bundled products, or pricing based on usage, which describes nearly every SaaS, AI, and enterprise tech 
 
 ---
 
@@ -8387,13 +8387,15 @@ Most founders treat revenue as money in. That is cash accounting. It works for a
 
 URL: https://beyondelevation.com/insights/fractional-executive-contract-5-clauses
 
-The average fractional executive engagement runs $15,000 to $25,000 per month. According to a 2026 Fractional Executive Association survey, 67 percent of founders who called their fractional hire "disappointing" pointed not to the person but to how the engagement was scoped in the contract. Five clauses decide whether you get an operator who builds a function or an advisor who attends meetings and sends slide decks. Hayat Amin, who has structured fractional engagements across three continents as an operator, not an advisor, argues that the contract is where most fractional relationships are won or lost — before the first week starts.
+The average fractional executive engagement runs $15,000 to $25,000 per month. According to a 2026 Fractional Executive Association survey, 67 percent of founders who called their fractional hire "disappointing" pointed not to the person but to how the engagement was scoped in the contract. Five clauses decide whether you get an operator who builds a function or an advisor who attends meetings and sends slide decks. Hayat Amin, who has structured fractional engagements across three continents as an operator, not an advisor, argues that the contract is where most fractional relationships are won or lost, before the first week starts.
 
-A fractional executive contract is not a scaled-down employment agreement. It is a scoping document that defines what gets built, who owns which decisions, and what the company looks like when the operator leaves. Get these five clauses right and the engagement pays for itself inside 90 days. Get them wrong and you pay C-suite rates for someone who functions as a part-time consultant.
+A fractional executive contract is not a scaled-down employment agreement. It is a scoping document that defines what gets built, who owns which decisions, and what the company looks like when the operator leaves. Get these five clauses right and the engagement pays for itself inside 90 days. Get them wrong and you pay C-suite rates for someone who works as a part-time consultant.
 
-## What Should a Fractional Executive Contract Scope Clause Actually Define?
+## What should a fractional executive contract scope clause define?
 
-The scope clause should list three to five deliverables with measurable outcomes and deadlines, not a paragraph of responsibilities. A deliverable-based scope forces the fractional executive to build something durable — a finance function, an IP filing roadmap, an AI operations stack — rather than advise on it from a distance. The difference in contract language is the difference in resu
+The scope clause should list three to five deliverables with measurable outcomes and deadlines, not a paragraph of responsibilities. A scope built around deliverables forces the fractional executive to build something durable, a finance function, an IP filing roadmap, an AI operations stack, rather than advise on it from a distance. The difference in contract language is the difference in results.
+
+Mo
 
 ---
 
@@ -8409,6 +8411,6 @@ Hayat Amin spent twenty years as a technology CFO and sold three companies, one 
 
 Most businesses we look at have messy handoffs. Short-term rental has clean ones. A reservation is confirmed, a guest checks in, a guest checks out. Each of those three events should set off the same chain every time, and almost nothing in the chain needs a judgement call.
 
-The scale is bigger than most owners think. Airbnb's own figures, last updated in May 2026, list more than 5.5 million hosts on Airbnb, and $15.6K earned by the typical US host in 2025. In a 2023 post, Airbnb said more than 75 percent of hosts share just one home. So the typical operator is one person with one or two listings and a phone that buzzes at 11pm. That's who this piece is for, along with the owner who has grown to 10 or 20 units and is now payi
+The scale is bigger than most owners think. Airbnb's own figures, last updated in May 2026, list more than 5.5 million hosts on Airbnb, and $15.6K earned by the typical US host in 2025. In a 2023 post, Airbnb said more than 75 percent of hosts share just one home. The typical operator, in other words, is one person with one or two listings and a phone that buzzes at 11pm. That's who this piece is for, along with the owner who has grown to 10 or 20 units a
 
 ---
