@@ -39,7 +39,7 @@ Preparation for a patent license negotiation requires five specific deliverables
 
 **5. A walkaway number.** Define the minimum acceptable deal before you enter the room. Hayat Amin's rule on this point is direct: if you do not have a walkaway number written down before the meeting, you do not have a negotiating position — you have a wish.
 
-## How Does Hayat Amin's Licensing Leverage Matrix Work?
+## How Does the Licensing Leverage Matrix Work?
 
 Hayat Amin's Licensing Leverage Matrix is a four-quadrant framework that determines negotiation strategy based on two variables: the strength of your claim position and the licensee's switching cost. Each quadrant dictates a different approach, and misreading the quadrant is the fastest way to kill a deal.
 
