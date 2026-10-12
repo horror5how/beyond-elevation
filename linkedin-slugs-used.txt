@@ -768,3 +768,4 @@ ai-agent-lifecycle-deprecation-2026
 customer-concentration-cfo-exit-2026
 ip-q4-fundraising-hidden-assets-2026
 best-patent-licensing-firms-compared
+exit-ready-finance-function
