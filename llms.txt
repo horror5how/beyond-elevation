@@ -497,5 +497,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How to Use AI in HR Operations: 8 Jobs Worth Automating First](https://beyondelevation.com/insights/how-to-use-ai-in-hr-operations) — /insights/md/how-to-use-ai-in-hr-operations.md
 - [Revenue Recognition Errors Reprice 40% of Startup Acquisitions. Here Is How to Fix Yours.](https://beyondelevation.com/insights/revenue-recognition-startups-cfo-guide) — /insights/md/revenue-recognition-startups-cfo-guide.md
 - [5 Clauses in Your Fractional Executive Contract That Separate an Operator From an Expensive Advisor](https://beyondelevation.com/insights/fractional-executive-contract-5-clauses) — /insights/md/fractional-executive-contract-5-clauses.md
+- [How to automate Airbnb business: the 7 jobs a host should hand over first](https://beyondelevation.com/insights/how-to-automate-airbnb-business) — /insights/md/how-to-automate-airbnb-business.md
 
 > Full blog content available at /llms-full.txt
