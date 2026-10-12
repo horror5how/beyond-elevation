@@ -499,5 +499,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [5 Clauses in Your Fractional Executive Contract That Separate an Operator From an Expensive Advisor](https://beyondelevation.com/insights/fractional-executive-contract-5-clauses) — /insights/md/fractional-executive-contract-5-clauses.md
 - [How to automate Airbnb business: the 7 jobs a host should hand over first](https://beyondelevation.com/insights/how-to-automate-airbnb-business) — /insights/md/how-to-automate-airbnb-business.md
 - [Patent License Negotiation: Why 73% of Founders Accept the First Offer (And the 5 Moves That Double the Deal)](https://beyondelevation.com/insights/patent-license-negotiation-playbook) — /insights/md/patent-license-negotiation-playbook.md
+- [Working Capital Management for Startups: Revenue Grows, Cash Disappears, and Nobody Tells the Founder Why](https://beyondelevation.com/insights/working-capital-management-startups) — /insights/md/working-capital-management-startups.md
 
 > Full blog content available at /llms-full.txt

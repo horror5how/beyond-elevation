@@ -8432,3 +8432,19 @@ Most patent license negotiations fail to capture full deal value because the lic
 The fundamental error is anchoring. When a founder enters a patent license negotiation thinking about their own costs — filing fees, maintenance, prosecutio
 
 ---
+
+## Working Capital Management for Startups: Revenue Grows, Cash Disappears, and Nobody Tells the Founder Why
+
+URL: https://beyondelevation.com/insights/working-capital-management-startups
+
+Working capital management is the discipline of ensuring your startup has enough cash flowing in to cover the cash flowing out — on time, every week, without a panic call to your investors. According to a 2025 U.S. Bank study, 82% of small business failures involve cash flow problems — and the majority of those businesses were generating revenue when they died. Hayat Amin argues that working capital management is the single most dangerous blind spot in startup finance: "Founders track MRR, CAC, and LTV religiously. Almost none of them can tell you their cash conversion cycle. That is the number that kills companies."
+
+This is not a liquidity crisis that hits bad businesses. It is a structural trap that hits good ones growing fast. The faster you grow, the more cash your working capital absorbs — and if nobody is managing the timing gap between when you pay and when you collect, growth itself becomes the thing that bankrupts you.
+
+## What Is Working Capital Management for Startups?
+
+Working capital management for startups is the process of monitoring and optimising the gap between current assets (cash, receivables, prepaid expenses) and current liabilities (payables, accrued costs, short-term debt) so the business never runs out of cash despite being profitable on paper. It is the CFO function that keeps the company solvent between the moment you spend money and the moment your customers pay you.
+
+For startups, working capital management matters more than for established busin
+
+---
