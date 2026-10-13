@@ -501,5 +501,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Patent License Negotiation: Why 73% of Founders Accept the First Offer (And the 5 Moves That Double the Deal)](https://beyondelevation.com/insights/patent-license-negotiation-playbook) — /insights/md/patent-license-negotiation-playbook.md
 - [Working Capital Management for Startups: Revenue Grows, Cash Disappears, and Nobody Tells the Founder Why](https://beyondelevation.com/insights/working-capital-management-startups) — /insights/md/working-capital-management-startups.md
 - [AI for Construction Companies: the 7 Systems to Connect First, and What Each Join Removes](https://beyondelevation.com/insights/ai-for-construction-companies) — /insights/md/ai-for-construction-companies.md
+- [Cross-Licensing: How Founders Trade Patent Rights Instead of Paying Royalties](https://beyondelevation.com/insights/cross-licensing-strategy-startup-guide) — /insights/md/cross-licensing-strategy-startup-guide.md
 
 > Full blog content available at /llms-full.txt
