@@ -8448,3 +8448,19 @@ Working capital management for startups is the process of monitoring and optimis
 For startups, working capital management matters more than for established busin
 
 ---
+
+## AI for Construction Companies: the 7 Systems to Connect First, and What Each Join Removes
+
+URL: https://beyondelevation.com/insights/ai-for-construction-companies
+
+AI for construction companies pays off first at the joins between seven systems: the takeoff and the bid, the project platform and the accounting file, field time and payroll, subcontractor invoices and lien waivers, insurance certificates and the payment run, the daily log and the project record, and the owner's view of work in progress. Most contractors run every one of those and retype between them each week. Connect them and you see this month's over and under billing while the month is still open.
+
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he knows that the work in progress schedule is the first page a buyer's accountant or a surety underwriter opens. He now builds this work inside companies himself, as a forward deployed engineer. Every product detail and price below was read on the vendor's own page on 13 October 2026, and where a vendor publishes no price, we say so.
+
+## which construction companies get the most from this
+
+Three symptoms qualify a company. A project manager approves a subcontractor's pay application in the project platform, and someone in accounting keys the same invoice into the ERP. Foremen's hours reach payroll on paper or in a spreadsheet, so job cost for labour is a week behind the field. And the owner can't say which jobs are overbilled today without waiting for the month-end WIP schedule.
+
+The people who'd normally absorb that retyping are the hardest to hire. The Associated General 
+
+---
