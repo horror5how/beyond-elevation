@@ -1,19 +1,17 @@
-Everyone sells AI as a cost-cutting tool.
+In M&A, the IP floor gets set in the first 48 hours.
 
-The companies compounding at 2x are using it to generate revenue.
+After that, it never moves up.
 
-AI Operations isn't a savings function.
+Acquirers run 4 checks before they open your financial model.
 
-It's a growth function.
+Chain of title. One patent still in a founder's name cuts the deal 15% minimum.
 
-23% of AI-first companies in 2026 report net-new revenue streams from AI workflows.
+Licensing revenue. Defensive-only IP gets discounted 30-40%. One active licence changes the floor.
 
-Not lower headcount. New revenue.
+Claim breadth. Your attorney wrote for grant. Acquirers price for enforcement. Most portfolios fail this test.
 
-The difference: they have someone who owns the outputs — not just the deployment.
+FTO exposure. They check if you're infringing something yourself. Most founders haven't.
 
-That role is what an AI Operations function is.
+Fix these before the bankers arrive, not after.
 
-If your 2027 plan treats AI as overhead, you're already behind.
-
-#AIOperations #BeyondElevation #FractionalLeadership
+#IPstrategy #mergersandacquisitions #founders
