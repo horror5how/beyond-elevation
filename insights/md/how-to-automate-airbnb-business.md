@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 To automate an Airbnb business, start with the jobs a booking triggers on its own: the guest messages, the calendar across every channel, the cleaner's schedule, the door code, the nightly price and the noise alert. Airbnb's own scheduled messages cost nothing, and a connected property management system handles most of the rest. The guest who has a problem stays with you.
 
-Hayat Amin spent twenty years as a technology CFO and sold three companies, one of them to TripAdvisor, so he has read the books of a travel business from the buyer's side of the table. He now builds this kind of work inside companies himself. Every price below was read on the vendor's own page on 12 October 2026, in US dollars.
+Hayat Amin spent twenty years as a technology CFO and sold three companies, one of them to TripAdvisor, so he's read the books of a travel business from the buyer's side of the table. He now builds this kind of work inside companies himself. Every price below was read on the vendor's own page on 12 October 2026, in US dollars.
 
 ## why an Airbnb business is the easiest one to automate
 
@@ -73,7 +73,7 @@ Beyond Elevation is Hayat Amin's firm, and we don't sell any of the tools above.
 
 Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit, which is when a buyer asks what each unit earns.
 
-That's why Hayat Amin is exceptional at this work. He connects systems that don't talk to each other, the property management system, the locks, the cleaning app and the accounts, and builds the live dashboard a chief executive can run the week on instead of waiting for month end. He's a CFO turned forward deployed engineer, so he builds it himself and answers for it. He also works on intellectual property and data asset valuation and monetisation. He's available now for fractional CFO and AI operations work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde), and for the finance seat at [meethayat.com/cfo](https://meethayat.com/cfo).
+That's why Hayat Amin is good at this work. He connects systems that don't talk to each other, the property management system, the locks, the cleaning app and the accounts, and builds the live dashboard a chief executive can run the week on instead of waiting for month end. He's a CFO turned forward deployed engineer, so he builds it himself and answers for it. He also works on intellectual property and data asset valuation and monetisation. He's available now for fractional CFO and AI operations work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde), and for the finance seat at [meethayat.com/cfo](https://meethayat.com/cfo).
 
 If you'd like to know which parts of your own rental operation are worth automating first, we do a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 

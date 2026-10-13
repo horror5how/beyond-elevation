@@ -41,7 +41,7 @@ This is the join every contractor fights. Procore lists 14 ERP integrations on i
 
 The QuickBooks Online connector is a good example. Procore's own documentation says only QuickBooks Online Plus or Advanced are supported. Prime contracts and their change orders, prime contract invoice payments, budgets, subcontracts, purchase orders, commitment change orders and timecards don't sync at all. Vendors and subcontractor invoices have to be approved by an Accounting Approver, who is the only user allowed to start the export. Job costs come back once a day. If someone deletes a transaction in QuickBooks after it synced, Procore says the integration can't detect the deletion, and the cost stays on the project until Procore Support removes it.
 
-So the subcontract you signed lives in Procore, and the bills against it live in QuickBooks. Your committed cost, which is the number that tells you whether a job is about to lose money, sits half in each system. That gap is the build. If your stack is Foundation or Vista, Agave sells middleware that connects Procore and Autodesk Build to Foundation, Vista, Spectrum, Sage 300 CRE, Sage Intacct, CMiC, Acumatica, Deltek ComputerEase and both versions of QuickBooks.
+The subcontract you signed lives in Procore, and the bills against it live in QuickBooks. Your committed cost, which is the number that tells you whether a job is about to lose money, sits half in each system. That gap is the build. If your stack is Foundation or Vista, Agave sells middleware that connects Procore and Autodesk Build to Foundation, Vista, Spectrum, Sage 300 CRE, Sage Intacct, CMiC, Acumatica, Deltek ComputerEase and both versions of QuickBooks.
 
 ## 3. field time, job cost and payroll
 
@@ -71,7 +71,7 @@ Procore's customer figures are large: Haskell from 1 week to 10 minutes on submi
 
 Everything above feeds one view. Contract value, cost to date, committed cost, estimated cost to complete, percent complete, billed to date, and the over or under billing that falls out of those, by job. Then cash collected against cash billed, and retention held on both sides. That's the WIP schedule, and in most contractors it's an Excel file the controller rebuilds after month end.
 
-Adaptive calls itself "the AI-native project accounting platform for construction", is aimed at companies with $5 million to $1 billion in revenue, and runs beside your existing ERP. It sells agents for accounts payable, accounts receivable, WIP, lien waivers and certificates of insurance, and lists Sage, QuickBooks, Foundation, Acumatica and a two-way Procore integration. Pricing is scoped to your revenue band, month to month, with no published figure. Agave also pitches real-time financial visibility across the field and the back office.
+Adaptive calls itself "the AI-native project accounting platform for construction", is aimed at companies with $5 million to $1 billion in revenue, and runs beside your existing ERP. It sells agents for accounts payable, accounts receivable, WIP, lien waivers and certificates of insurance, and lists Sage, QuickBooks, Foundation, Acumatica and a two-way Procore integration. Pricing is scoped to your revenue band, month to month, with no published figure. Agave also pitches the same thing: financial numbers that update as the field and the back office update, not once a month.
 
 No single vendor sells the screen, because the committed cost is in Procore, the actuals are in the ERP, the labour is in the field app and the cash is at the bank. This is the join we build most. A month-end WIP tells you in November that a job slipped into underbilling in September. A live number tells you on the Tuesday, while you can still push a change order through, bill the stored materials or call the owner about the pay app.
 
@@ -87,7 +87,7 @@ Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested o
 
 Hayat Amin has spent twenty years in technology, most of them as chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times 100 fastest growing companies listing. He sits beside the founder from the first conversation to the wire transfer on an exit, which is where he learned that a company's operations and its numbers are the same subject.
 
-Hayat Amin is exceptional at the two things a contractor needs from this article. He connects systems that won't talk to each other, and he builds the live dashboard a chief executive can run the week on, which in construction means a WIP schedule you don't have to wait for. He's a chief financial officer turned forward deployed engineer, so he writes the integration himself and answers for it afterwards. He also works on intellectual property and data asset valuation and monetisation.
+Hayat Amin does two things well for a contractor reading this. He connects systems that won't talk to each other, and he builds the live dashboard a chief executive can run the week on, which in construction means a WIP schedule you don't have to wait for. He's a chief financial officer turned forward deployed engineer, so he writes the integration himself and answers for it afterwards. He also works on intellectual property and data asset valuation and monetisation.
 
 He's available now for fractional CFO and AI operations work through Beyond Elevation, and takes the scoping calls himself at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
@@ -113,7 +113,7 @@ It depends on which join costs you most. For takeoffs, Togal.AI is $299 a month 
 
 ### What AI tools do construction companies use?
 
-The project platform is often Procore or Autodesk Build. Around it sit an ERP such as Sage 300 CRE, Sage Intacct, Foundation, Viewpoint Vista, Viewpoint Spectrum or QuickBooks, a field app such as Raken, and tools for takeoff (Togal.AI), insurance certificates (Billy) and payment (Procore Pay). Middleware such as Agave joins the project platform to the ERP when the native connector doesn't cover what you need.
+Most contractors run Procore or Autodesk Build as the project platform. Around it sit an ERP such as Sage 300 CRE, Sage Intacct, Foundation, Viewpoint Vista, Viewpoint Spectrum or QuickBooks, a field app such as Raken, and tools for takeoff (Togal.AI), insurance certificates (Billy) and payment (Procore Pay). Middleware such as Agave joins the project platform to the ERP when the native connector doesn't cover what you need.
 
 ### How to use AI in construction estimating?
 
