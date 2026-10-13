@@ -8484,3 +8484,19 @@ A cross-license agreement is a contract where two companies grant each other rig
 The stru
 
 ---
+
+## Scenario Planning for Startups: Why One Forecast Is the Fastest Way to Lose Your Board's Trust
+
+URL: https://beyondelevation.com/insights/scenario-planning-startups-fractional-cfo
+
+Seventy-eight percent of startup boards say they receive inadequate financial scenario planning, according to a 2025 Carta Board Effectiveness Survey. That number should concern every founder preparing for their next board meeting. Hayat Amin argues this gap is the single clearest signal a company has outgrown its finance function — because scenario planning for startups is not a spreadsheet exercise. It is a strategic conversation that demands someone who knows what investors actually model on the other side of the table.
+
+Most founders present one forecast with optimistic assumptions baked in. The board sees through it in five minutes. What they actually want is three distinct models showing how the business performs under stress, under plan, and under upside — with the cash implications of each laid out to the month.
+
+## What Is Scenario Planning for Startups?
+
+Scenario planning for startups is the process of building three to five financial models that map how cash, revenue, and headcount change under fundamentally different strategic realities — not just different revenue numbers. A base case assumes the current trajectory holds. A downside case assumes at least two key assumptions fail simultaneously. An upside case models what happens when one or two growth levers outperform by a specific margin.
+
+[Beyond Elevation's fractional CFOs](/insights/first-100-days-fractional-cfo/) use scenario planning as the first engagement deliverable because it exposes every weakness in 
+
+---
