@@ -15,9 +15,9 @@ Hayat Amin spent twenty years as a technology CFO and sold three companies, so h
 
 ## most small companies haven't started yet
 
-The US Census Bureau's Business Trends and Outlook Survey put AI use at 19.8% of US businesses as of 3 May 2026, in a band of 17% to 20% since December 2025. Size matters a lot. 37% of firms with 250 or more employees used AI, against 32% of firms with 100 to 249. Among firms with fewer than 20 employees, use didn't change significantly over the period, and fewer than 20% of firms with four or fewer employees used it at all.
+The US Census Bureau's Business Trends and Outlook Survey put AI use at 19.8% of US businesses as of 3 May 2026, in a band of 17% to 20% since December 2025. Size matters. 37% of firms with 250 or more employees used AI, against 32% of firms with 100 to 249. Among firms with fewer than 20 employees, use didn't change much over the period, and fewer than 20% of firms with four or fewer employees used it at all.
 
-So if you run a company under 200 people and you're unsure where AI fits, you're with roughly four in five American businesses. Being early here means you can pick the first job carefully, and every month a workflow runs is a month of cleaner data behind your numbers.
+If you run a company under 200 people and you're unsure where AI fits, you're with roughly four in five American businesses. Being early here means you can pick the first job carefully, and every month a workflow runs is a month of cleaner data behind your numbers.
 
 ## where AI belongs in operations
 
@@ -61,7 +61,7 @@ The hours matter less than the timing. A late invoice chased on day 31 instead o
 
 ## what stays human
 
-Prices and discounts. Paying people. Anything that makes a promise to a customer the company hasn't agreed. Hiring and firing. And the decision the dashboard informs, which the owner makes. For the people side, see [how to use AI in HR operations](/insights/how-to-use-ai-in-hr-operations/), and for the pipeline, [how to use AI in sales operations](/insights/how-to-use-ai-in-sales-operations/). We also write one page per workflow: what it reads, what it writes, who owns it and what it must never do.
+Prices and discounts, paying people, anything that makes a promise to a customer the company hasn't agreed, and hiring and firing stay with the owner, as does the decision the dashboard informs. For the people side, see [how to use AI in HR operations](/insights/how-to-use-ai-in-hr-operations/), and for the pipeline, [how to use AI in sales operations](/insights/how-to-use-ai-in-sales-operations/). We also write one page per workflow: what it reads, what it writes, who owns it and what it must never do.
 
 ## Beyond Elevation's part in this
 

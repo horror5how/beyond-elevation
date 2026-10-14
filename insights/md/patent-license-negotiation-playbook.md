@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 73% of licensors negotiating their first patent licence accept a royalty rate within 15% of the licensee's opening offer. The reason isn't weak patents. It's weak preparation.
 
-Hayat Amin says patent licence negotiation is the single highest-leverage activity in IP monetisation, and the one most founders hand to attorneys who have never priced a deal from the operator side. The *IAM Market 2026* survey found patent licensing transactions where the licensor used a structured negotiation framework closed at 2.1x the average royalty rate of unstructured, ad-hoc negotiations. On a single deal, that gap can be millions in lifetime royalty revenue.
+Hayat Amin says patent licence negotiation is the highest-value activity in IP monetisation, and the one most founders hand to attorneys who have never priced a deal from the operator side. The *IAM Market 2026* survey found patent licensing transactions where the licensor used a structured negotiation framework closed at 2.1x the average royalty rate of unstructured, ad-hoc negotiations. On a single deal, that gap can be millions in lifetime royalty revenue.
 
 Beyond Elevation has structured patent licence negotiations across technology, AI, and data licensing. The pattern holds: founders who enter a negotiation with a prepared framework close better deals in less time than those who treat each conversation as a one-off.
 
@@ -39,9 +39,9 @@ Preparation for a patent licence negotiation requires five specific deliverables
 
 **5. A walkaway number.** Define the minimum acceptable deal before you enter the room. Hayat Amin's rule here is direct: if you don't have a walkaway number written down before the meeting, you don't have a negotiating position, you have a wish.
 
-## How does the Licensing Leverage Matrix work?
+## How does the Licensing Value Matrix work?
 
-Hayat Amin's Licensing Leverage Matrix is a four-quadrant framework that sets negotiation strategy from two variables: the strength of your claim position and the licensee's switching cost. Each quadrant calls for a different approach, and reading the wrong quadrant is the fastest way to kill a deal.
+Hayat Amin's Licensing Value Matrix is a four-quadrant framework that sets negotiation strategy from two variables: the strength of your claim position and the licensee's switching cost. Each quadrant calls for a different approach, and reading the wrong quadrant is the fastest way to kill a deal.
 
 **Quadrant 1: Strong claims, high switching cost.** This is the power position. Your patent clearly reads on the licensee's product, and they can't easily design around it. Here, you set the anchor, name the royalty rate first, and negotiate down sparingly. Deals here typically close at 5 to 8% of net sales for technology patents.
 
@@ -77,7 +77,7 @@ Hayat Amin's view on this is characteristically blunt: the best deal you will ev
 
 ## How does Beyond Elevation run patent license negotiations?
 
-Beyond Elevation runs every patent license negotiation through the five-deliverable preparation framework and the Licensing Leverage Matrix before the first call. The process takes two to four weeks of preparation for a negotiation that typically closes in six to twelve weeks.
+Beyond Elevation runs every patent license negotiation through the five-deliverable preparation framework and the Licensing Value Matrix before the first call. The process takes two to four weeks of preparation for a negotiation that typically closes in six to twelve weeks.
 
 The approach is operator-led, not attorney-led. Attorneys draft the final agreement. Operators structure the deal, set the commercial terms, and run the negotiation. That distinction is why [Beyond Elevation](https://beyondelevation.com)'s licensing clients close at rates that average 2.1x the industry median for comparable technology deals.
 
@@ -107,13 +107,13 @@ Technology patent royalty rates typically range from 1% to 8% of the licensee's 
 
 ### Should I hire a patent attorney or a licensing advisor for negotiations?
 
-Hire a licensing advisor for deal structure and negotiation strategy, then bring in a patent attorney for the final agreement drafting. Attorneys are trained for prosecution and litigation, not commercial deal-making. The highest-value decisions in a patent license negotiation, royalty base, escalators, territory, sublicensing, are commercial decisions that require operator experience, not legal expertise.
+Hire a licensing advisor for deal structure and negotiation strategy, then bring in a patent attorney for the final agreement drafting. Attorneys are trained for prosecution and litigation, not commercial deal-making. The highest-value decisions in a patent licence negotiation (royalty base, escalators, territory, sublicensing) are commercial decisions that require operator experience, not legal expertise.
 
 ### Can I negotiate a patent licence without litigation?
 
 Over 90% of patent licences are negotiated without filing a lawsuit. Litigation is expensive, slow, and unpredictable. A structured licensing approach, claim charts, comparable rates, and a professional term sheet, resolves most negotiations commercially. The threat of litigation is a negotiation tool. Actual litigation is a last resort that destroys value on both sides.
 
-### What is the biggest mistake licensors make in patent license negotiations?
+### What is the biggest mistake licensors make in patent licence negotiations?
 
 Anchoring on patent prosecution cost instead of licensee value. A patent that cost $30,000 to obtain might protect technology worth $5 million to the licensee. Founders who price from their cost basis leave the entire value gap on the table. Price from the licensee's cost-to-design-around, not your cost-to-file.
 

@@ -61,7 +61,7 @@ We join the property management system to QuickBooks or Xero so every payout, cl
 
 ## what to keep human
 
-Four things. The guest with a real problem, a leak or a lockout, gets a person. Refunds and damage claims stay with you. Reviews you reply to yourself, because guests can tell. And the rules: in New York City, Local Law 18 requires short-term rental hosts to register with the Mayor's Office of Special Enforcement, and booking platforms won't process transactions for unregistered rentals. The 311 guidance says a host must stay in the same unit as the guests and have no more than two guests. No software makes a listing legal, so check your own city's rules before you automate a single message.
+Four things don't go to the software. The guest with a real problem, a leak or a lockout, gets a person. Refunds and damage claims stay with you. Reviews you reply to yourself, because guests can tell. And the rules: in New York City, Local Law 18 requires short-term rental hosts to register with the Mayor's Office of Special Enforcement, and booking platforms won't process transactions for unregistered rentals. The 311 guidance says a host must stay in the same unit as the guests and have no more than two guests. No software makes a listing legal, so check your own city's rules before you automate a single message.
 
 AI fits best on the in-between messages: the guest asking where to park or whether the pool's heated. A drafted reply from your house guide, approved by you for the first month, saves the typing without risking the review.
 

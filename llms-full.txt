@@ -8423,7 +8423,7 @@ URL: https://beyondelevation.com/insights/patent-license-negotiation-playbook
 
 73% of licensors negotiating their first patent licence accept a royalty rate within 15% of the licensee's opening offer. The reason isn't weak patents. It's weak preparation.
 
-Hayat Amin says patent licence negotiation is the single highest-leverage activity in IP monetisation, and the one most founders hand to attorneys who have never priced a deal from the operator side. The *IAM Market 2026* survey found patent licensing transactions where the licensor used a structured negotiation framework closed at 2.1x the average royalty rate of unstructured, ad-hoc negotiations. On a single deal, that gap can be millions in lifetime royalty revenue.
+Hayat Amin says patent licence negotiation is the highest-value activity in IP monetisation, and the one most founders hand to attorneys who have never priced a deal from the operator side. The *IAM Market 2026* survey found patent licensing transactions where the licensor used a structured negotiation framework closed at 2.1x the average royalty rate of unstructured, ad-hoc negotiations. On a single deal, that gap can be millions in lifetime royalty revenue.
 
 Beyond Elevation has structured patent licence negotiations across technology, AI, and data licensing. The pattern holds: founders who enter a negotiation with a prepared framework close better deals in less time than those who treat each conversation as a one-off.
 
@@ -8431,7 +8431,7 @@ Beyond Elevation has structured patent licence negotiations across technology, A
 
 Most patent licence negotiations fail to capture full deal value because the licensor negotiates from a product position instead of an IP position. A product position asks what the patent is worth to the licensor. An IP position asks what the patent costs the licensee to work around, and that number is almost always higher.
 
-The error is anchoring. A founder entering a patent licence negotiation who thinks about their own costs, filing fees, maintenance, prosecution, anchors low. The licensee's internal ca
+The error is anchoring. A founder entering a patent licence negotiation who thinks about their own costs, filing fees, maintenance, prosecution, anchors low. The licensee's internal calculation 
 
 ---
 
@@ -8441,13 +8441,13 @@ URL: https://beyondelevation.com/insights/working-capital-management-startups
 
 Working capital management is the discipline of ensuring your startup has enough cash flowing in to cover the cash flowing out, on time, every week, without a panic call to your investors. According to a 2025 U.S. Bank study, 82% of small business failures involve cash flow problems, and the majority of those businesses were generating revenue when they died. Hayat Amin argues that working capital management is the single most dangerous blind spot in startup finance: "Founders track MRR, CAC, and LTV religiously. Almost none of them can tell you their cash conversion cycle. That is the number that kills companies."
 
-It's a structural trap, not a liquidity crisis, and it catches good businesses growing fast just as easily as bad ones. The faster you grow, the more cash your working capital absorbs, and if nobody is managing the timing gap between when you pay and when you collect, growth itself becomes the thing that bankrupts you.
+This is a structural trap, not a liquidity crisis, and it catches good businesses growing fast as easily as bad ones. The faster you grow, the more cash your working capital absorbs, and if nobody manages the timing gap between when you pay and when you collect, growth itself becomes the thing that bankrupts you.
 
 ## What is working capital management for startups?
 
 Working capital management for startups is the process of monitoring and optimising the gap between current assets (cash, receivables, prepaid expenses) and current liabilities (payables, accrued costs, short-term debt) so the business never runs out of cash despite being profitable on paper. It is the CFO function that keeps the company solvent between the moment you spend money and the moment your customers pay you.
 
-For startups, working capital management matters more than for established bus
+For startups, working capital management matters more than for established businesse
 
 ---
 
@@ -8471,17 +8471,17 @@ The people who'd normally absorb that retyping are the hardest to hire. The Asso
 
 URL: https://beyondelevation.com/insights/cross-licensing-strategy-startup-guide
 
-Every year, startups write six-figure royalty checks for technology their competitors would gladly trade access to. The deal that eliminates those checks is called a cross-license, and it is the most underused weapon in a founder's IP arsenal.
+Every year, startups write six-figure royalty checks for technology their competitors would gladly trade access to. The deal that removes those checks is called a cross-license, and it's one of the most underused tools in a founder's IP arsenal.
 
 Hayat Amin argues that cross-licensing is the single most overlooked IP strategy for growth-stage companies. "Founders assume every patent dispute ends with a check or a lawsuit," Hayat Amin says. "A cross-license ends it with both companies walking away stronger." According to MLex (2026), patent licensing overtook litigation as the preferred monetisation route globally, with the market projected to reach $4.4 billion by 2032. A significant portion of that market runs on cross-license agreements between operating companies rather than one-directional cash royalties.
 
-The math is simple. If Company A holds three patents that Company B needs, and Company B holds two patents that Company A needs, a cross-license lets both companies access each other's technology without a single dollar changing hands. The royalty payments vanish. The legal fees drop. Both companies move faster.
+The maths is simple. If Company A holds three patents that Company B needs, and Company B holds two patents that Company A needs, a cross-license lets both companies access each other's technology without a single pound changing hands. The royalty payments vanish. The legal fees drop. Both companies move faster.
 
 ## What Is a Cross-License Agreement?
 
 A cross-license agreement is a contract where two companies grant each other rights to use their respective patents, typically without cash royalties. It replaces the one-directional licensing model where one party pays and the other collects, and substitutes a mutual exchange of IP access that benefits both sides.
 
-The stru
+The st
 
 ---
 
@@ -8489,15 +8489,17 @@ The stru
 
 URL: https://beyondelevation.com/insights/scenario-planning-startups-fractional-cfo
 
-Seventy-eight percent of startup boards say they receive inadequate financial scenario planning, according to a 2025 Carta Board Effectiveness Survey. That number should concern every founder preparing for their next board meeting. Hayat Amin argues this gap is the single clearest signal a company has outgrown its finance function — because scenario planning for startups is not a spreadsheet exercise. It is a strategic conversation that demands someone who knows what investors actually model on the other side of the table.
+Seventy-eight percent of startup boards say they receive inadequate financial scenario planning, according to a 2025 Carta Board Effectiveness Survey. That number should concern every founder preparing for their next board meeting. Hayat Amin argues this gap is the clearest signal a company has outgrown its finance function. Scenario planning for startups is a strategic conversation, not a spreadsheet exercise, and it demands someone who knows what investors model on the other side of the table.
 
-Most founders present one forecast with optimistic assumptions baked in. The board sees through it in five minutes. What they actually want is three distinct models showing how the business performs under stress, under plan, and under upside — with the cash implications of each laid out to the month.
+Most founders present one forecast with optimistic assumptions baked in. The board sees through it in five minutes. Boards want three distinct models showing how the business performs under stress, under plan, and under upside, with the cash implications of each laid out to the month.
 
 ## What Is Scenario Planning for Startups?
 
-Scenario planning for startups is the process of building three to five financial models that map how cash, revenue, and headcount change under fundamentally different strategic realities — not just different revenue numbers. A base case assumes the current trajectory holds. A downside case assumes at least two key assumptions fail simultaneously. An upside case models what happens when one or two growth levers outperform by a specific margin.
+Scenario planning for startups is the process of building three to five financial models that map how cash, revenue, and headcount change under different strategic realities, not different revenue numbers. A base case assumes the current trajectory holds. A downside case assumes at least two key assumptions fail simultaneously. An upside case models what happens when one or two growth levers outperform by a specific margin.
 
-[Beyond Elevation's fractional CFOs](/insights/first-100-days-fractional-cfo/) use scenario planning as the first engagement deliverable because it exposes every weakness in 
+[Beyond Elevation's fractional CFOs](/insights/first-100-days-fractional-cfo/) use scenario planning as the first engagement deliverable because it exposes every weakness in the existing finance function within two weeks.
+
+The mistake mos
 
 ---
 
@@ -8511,12 +8513,12 @@ Hayat Amin spent twenty years as a technology CFO and sold three companies, so h
 
 ## most small companies haven't started yet
 
-The US Census Bureau's Business Trends and Outlook Survey put AI use at 19.8% of US businesses as of 3 May 2026, in a band of 17% to 20% since December 2025. Size matters a lot. 37% of firms with 250 or more employees used AI, against 32% of firms with 100 to 249. Among firms with fewer than 20 employees, use didn't change significantly over the period, and fewer than 20% of firms with four or fewer employees used it at all.
+The US Census Bureau's Business Trends and Outlook Survey put AI use at 19.8% of US businesses as of 3 May 2026, in a band of 17% to 20% since December 2025. Size matters. 37% of firms with 250 or more employees used AI, against 32% of firms with 100 to 249. Among firms with fewer than 20 employees, use didn't change much over the period, and fewer than 20% of firms with four or fewer employees used it at all.
 
-So if you run a company under 200 people and you're unsure where AI fits, you're with roughly four in five American businesses. Being early here means you can pick the first job carefully, and every month a workflow runs is a month of cleaner data behind your numbers.
+If you run a company under 200 people and you're unsure where AI fits, you're with roughly four in five American businesses. Being early here means you can pick the first job carefully, and every month a workflow runs is a month of cleaner data behind your numbers.
 
 ## where AI belongs in operations
 
-Operations is the plumbing betwee
+Operations is the plumbing between the sale and the
 
 ---
