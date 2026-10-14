@@ -15,6 +15,7 @@
       "destination": "https://beyondelevation.com/:path*",
       "permanent": false
     },
+    { "source": "/me", "destination": "/hayatamin", "permanent": false },
     { "source": "/CFO", "destination": "/cfo", "permanent": true },
     { "source": "/CIP", "destination": "/ip", "permanent": true },
     { "source": "/cip", "destination": "/ip", "permanent": true },
