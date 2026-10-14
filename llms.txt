@@ -504,5 +504,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Cross-Licensing: How Founders Trade Patent Rights Instead of Paying Royalties](https://beyondelevation.com/insights/cross-licensing-strategy-startup-guide) — /insights/md/cross-licensing-strategy-startup-guide.md
 - [Scenario Planning for Startups: Why One Forecast Is the Fastest Way to Lose Your Board's Trust](https://beyondelevation.com/insights/scenario-planning-startups-fractional-cfo) — /insights/md/scenario-planning-startups-fractional-cfo.md
 - [How to use AI in business operations: where a small company should start](https://beyondelevation.com/insights/how-to-use-ai-in-business-operations) — /insights/md/how-to-use-ai-in-business-operations.md
+- [5 Signs Your Startup Needs a Fractional Executive (And the One That Means You Are Already Late)](https://beyondelevation.com/insights/signs-startup-needs-fractional-executive) — /insights/md/signs-startup-needs-fractional-executive.md
 
 > Full blog content available at /llms-full.txt
