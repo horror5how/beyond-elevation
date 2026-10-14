@@ -8500,3 +8500,23 @@ Scenario planning for startups is the process of building three to five financia
 [Beyond Elevation's fractional CFOs](/insights/first-100-days-fractional-cfo/) use scenario planning as the first engagement deliverable because it exposes every weakness in 
 
 ---
+
+## How to use AI in business operations: where a small company should start
+
+URL: https://beyondelevation.com/insights/how-to-use-ai-in-business-operations
+
+To use AI in business operations, start with the work your people retype, chase or check every week: invoices, order entry, the shared inbox, scheduling and the weekly report. Connect the systems that hold that data first, let AI read and draft, and keep a person on anything that moves money or makes a promise.
+
+Hayat Amin spent twenty years as a technology CFO and sold three companies, so he's watched what happens when a buyer opens the operations behind the numbers. He now builds that operations work inside companies himself, and what follows is the order we'd do it in for a company of 10 to 200 people. Every figure below was read on its source's own page on 14 October 2026.
+
+## most small companies haven't started yet
+
+The US Census Bureau's Business Trends and Outlook Survey put AI use at 19.8% of US businesses as of 3 May 2026, in a band of 17% to 20% since December 2025. Size matters a lot. 37% of firms with 250 or more employees used AI, against 32% of firms with 100 to 249. Among firms with fewer than 20 employees, use didn't change significantly over the period, and fewer than 20% of firms with four or fewer employees used it at all.
+
+So if you run a company under 200 people and you're unsure where AI fits, you're with roughly four in five American businesses. Being early here means you can pick the first job carefully, and every month a workflow runs is a month of cleaner data behind your numbers.
+
+## where AI belongs in operations
+
+Operations is the plumbing betwee
+
+---
