@@ -1,17 +1,11 @@
-In M&A, the IP floor gets set in the first 48 hours.
+Most founders know their burn rate. Almost none know their cash conversion cycle.
 
-After that, it never moves up.
+That gap costs 40 days of cash per quarter.
 
-Acquirers run 4 checks before they open your financial model.
+CCC under 30 days: you scale faster, borrow less, command better terms.
 
-Chain of title. One patent still in a founder's name cuts the deal 15% minimum.
+CCC over 90 days: you're funding your own growth on your balance sheet.
 
-Licensing revenue. Defensive-only IP gets discounted 30-40%. One active licence changes the floor.
+One fractional CFO. 90 days. Most companies halve theirs.
 
-Claim breadth. Your attorney wrote for grant. Acquirers price for enforcement. Most portfolios fail this test.
-
-FTO exposure. They check if you're infringing something yourself. Most founders haven't.
-
-Fix these before the bankers arrive, not after.
-
-#IPstrategy #mergersandacquisitions #founders
+#FractionalCFO #CashFlow #FinancialStrategy
