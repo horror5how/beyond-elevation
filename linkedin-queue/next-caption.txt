@@ -1,11 +1,13 @@
-Most founders know their burn rate. Almost none know their cash conversion cycle.
+Your AI handles 94% of tasks correctly.
 
-That gap costs 40 days of cash per quarter.
+The 6% it gets wrong just emailed your biggest client.
 
-CCC under 30 days: you scale faster, borrow less, command better terms.
+Founders deploy AI agents. They do not deploy exception handlers.
 
-CCC over 90 days: you're funding your own growth on your balance sheet.
+The gap is not a model problem. It is an ownership problem.
 
-One fractional CFO. 90 days. Most companies halve theirs.
+Every AI task that fails needs a human who owns the fix in under 4 hours.
 
-#FractionalCFO #CashFlow #FinancialStrategy
+Most companies find out 3 weeks later when the client calls.
+
+#AIOperations #FractionalCFO #Operations
