@@ -11,69 +11,69 @@ site: Beyond Elevation
 
 Seventy-eight percent of startups between two million and twenty million pounds in revenue operate without a single C-suite executive other than the founder. According to the 2026 Future Forum Pulse survey, 41 percent of UK companies with fewer than 250 employees now use at least one fractional executive, up from 18 percent in 2023. The companies that move first grow faster. The ones that wait pay more to catch up.
 
-Hayat Amin argues that the founder who delays the hire until the company is big enough has already missed the window. "The signs that you need a fractional executive are the same signs that the company is leaving money on the table right now," Hayat Amin says. "The question is never whether you can afford one. It is whether you can afford to keep running without one."
+Hayat Amin says the founder who delays the hire until the company is big enough has already missed the window. "The signs that you need a fractional executive are the same signs that the company is leaving money on the table right now," Hayat Amin says. "The question is never whether you can afford one. It is whether you can afford to keep running without one."
 
 Here are the five signals that a startup needs a fractional executive and the one that means the hire is already overdue.
 
 ## What Is a Fractional Executive?
 
-A fractional executive is a senior C-suite operator who works with a company on a part-time, retained basis, typically two to three days per week, rather than as a full-time permanent hire. Fractional executives carry the same authority, accountability, and domain expertise as their full-time equivalents at 30 to 40 percent of the total cost of employment.
+A fractional executive is a senior C-suite operator who works with a company on a part-time, retained basis, typically two to three days a week, rather than as a permanent full-time hire. Fractional executives carry the same authority, accountability and domain expertise as their full-time equivalents at 30 to 40 percent of the total cost of employment.
 
-This is not consulting. Consultants advise. Fractional executives execute. They own the function, manage the team, report to the board, and make the decisions that move the business forward. The model works because most companies under twenty million pounds do not generate five days of C-level complexity per week in any single function.
+This is not consulting. Consultants advise. Fractional executives execute. They own the function, manage the team, report to the board and make the decisions that move the business forward. The model works because most companies under twenty million pounds do not generate five days of C-level complexity a week in any single function.
 
 Beyond Elevation places three types of fractional executive: [Chief Financial Officer](/insights/what-is-a-fractional-cfo/), [Chief IP Officer](/insights/what-is-a-chief-ip-officer/), and [AI Operations lead](/insights/what-is-ai-operations/). Each is an exited operator with a track record of building the function from scratch, not a contractor filling a seat.
 
 ## What Are the 5 Signs You Need a Fractional Executive?
 
-The five signs that a startup needs a fractional executive are: the founder spends more than half their time on operations instead of growth, the board asks questions nobody can answer, the finance function has no owner, competitors move faster with fewer people, or an exit or fundraise sits within 24 months. Any three of these signals present simultaneously means the hire is already overdue.
+The five signs that a startup needs a fractional executive are: the founder spends more than half their time on operations instead of growth, the board asks questions nobody can answer, the finance function has no owner, competitors move faster with fewer people, or an exit or fundraise sits within 24 months. Any three of these present at once means the hire is already overdue.
 
-### Sign 1: The Founder Is the Bottleneck
+### Sign 1: the founder is the bottleneck
 
-When the founder spends more than 50 percent of their week on operational management, approving expenses, reviewing reports, managing vendors, chasing invoices, the company's growth is capped at the founder's bandwidth. Every hour spent on operations is an hour not spent on product, sales, or fundraising.
+If the founder spends more than 50 percent of their week on operational management, approving expenses, reviewing reports, managing vendors, chasing invoices, the company's growth is capped at the founder's bandwidth. Every hour spent on operations is an hour not spent on product, sales or fundraising.
 
 The fix is not hiring a junior operations manager. It is hiring someone who has built and scaled the function before and can run it with authority. A fractional CFO takes the finance stack off the founder's desk in week one. A fractional AI operations lead automates the manual workflows that eat the team's time. The founder gets their calendar back.
 
-### Sign 2: The Board Is Asking Questions Nobody Can Answer
+### Sign 2: the board is asking questions nobody can answer
 
-When investors ask about cash runway, unit economics, IP defensibility, or AI readiness and the founder scrambles to produce numbers from a spreadsheet, the company looks unprepared. Board confidence drops. Follow-on funding becomes harder. The quality of the management information pack signals the maturity of the company.
+If investors ask about cash runway, unit economics, IP defensibility or AI readiness and the founder scrambles to produce numbers from a spreadsheet, the company looks unprepared. Board confidence drops. Follow-on funding becomes harder. The quality of the management information pack signals the maturity of the company.
 
 A fractional executive builds the reporting infrastructure that answers these questions before they are asked. Hayat Amin's rule for board reporting is direct: "If the data arrives the day before the board meeting, the company does not have a finance function. It has a spreadsheet and a prayer."
 
-### Sign 3: Revenue Is Growing but the Finance Function Has No Owner
+### Sign 3: revenue is growing but the finance function has no owner
 
 A company above two million pounds in annual revenue running on an accountant and Xero is a company that does not know its real unit economics, cannot produce investor-grade financials, and has no cash flow forecast beyond the next quarter. The accountant does compliance. The fractional CFO builds the finance function that turns numbers into decisions.
 
 According to the [Beyond Elevation fractional executive cost comparison](/insights/fractional-executive-cost-comparison/), one full-time CFO salary buys three fractional executives. At the two to fifteen million pound revenue range, the maths consistently favour fractional: experienced execution without the fixed-cost drag that kills runway.
 
-### Sign 4: Competitors Are Moving Faster With Fewer People
+### Sign 4: competitors are moving faster with fewer people
 
-When a competitor with half your headcount ships faster, closes deals quicker, or enters new markets before you do, the gap is almost never talent. It is operational leverage. Companies that deploy AI operations and automate their back office free up 30 to 50 percent of team capacity for growth work. Companies that run manual processes burn the same capacity on repetitive tasks every week.
+If a competitor with half your headcount ships faster, closes deals quicker, or enters new markets before you do, the gap is almost never talent. It is operational capacity. Companies that deploy AI operations and automate their back office free up 30 to 50 percent of team capacity for growth work. Companies that run manual processes burn the same capacity on repetitive tasks every week.
 
 A fractional AI operations lead identifies the highest-value automation opportunities in the first two weeks and deploys working agents within 90 days. The [fractional executive model](/insights/run-company-on-fractional-executives/) is how smaller companies punch above their weight without inflating headcount.
 
-### Sign 5: You Are Raising or Exiting Within 24 Months
+### Sign 5: you are raising or exiting within 24 months
 
-This is the sign that means you are already late. An investor's or acquirer's due diligence will expose every gap in the finance function, the IP portfolio, and the operational infrastructure. Fixing those gaps under due diligence pressure costs three times more and delivers half the quality of fixing them ahead of time.
+This is the sign that means you are already late. An investor's or acquirer's due diligence will expose every gap in the finance function, the IP portfolio and the operational infrastructure. Fixing those gaps under due diligence pressure costs three times more and delivers half the quality of fixing them ahead of time.
 
 Hayat Amin reminds founders of a pattern that repeats in every deal room: "The company that has a fractional CFO, a structured IP portfolio, and an AI-native operations stack closes at a higher multiple. Every time. The company that shows up with a part-time accountant, no IP strategy, and a manual back office gets discounted. And the discount is bigger than the cost of all three fractional executives combined."
 
-## Which Fractional Executive Should You Hire First?
+## Which fractional executive should you hire first?
 
 The first fractional executive hire depends on the company's stage and its most expensive bottleneck. Hayat Amin's Fractional Executive Priority Matrix maps the decision: if the biggest constraint is financial visibility, hire the fractional CFO first. If the constraint is competitive defensibility, hire the fractional Chief IP Officer. If the constraint is operational speed, hire the AI operations lead.
 
 For companies preparing to raise or exit, the answer is almost always the fractional CFO. Investor-grade financials are table stakes for every subsequent conversation. For companies in crowded markets with replicable technology, the Chief IP Officer goes first because defensibility determines whether the company survives long enough to scale. For companies drowning in manual processes while competitors automate, the AI operations lead goes first.
 
-The practical test is simple: which of these three questions keeps the founder awake at night? "Do I know my real numbers?" means CFO. "Can a competitor copy what I have built?" means CIPO. "Why does everything take so long?" means AI operations. Companies with patents are 10.2x more likely to secure early-stage funding, so founders who have not filed should not assume the IP question can wait.
+The practical test is simple: which of these three questions keeps the founder awake at night? "Do I know my real numbers?" means CFO. "Can a competitor copy what I have built?" means CIPO. "Why does everything take so long?" means AI operations. Companies with patents are 10.2x more likely to secure early-stage funding, so founders who haven't filed shouldn't assume the IP question can wait.
 
-## How Much Does a Fractional Executive Cost Compared to Full-Time?
+## How much does a fractional executive cost compared to full-time?
 
-A fractional executive costs eight thousand to twenty thousand pounds per month on a two-to-three-day weekly retainer. A full-time C-suite hire at the same seniority level costs 180,000 to 350,000 pounds per year in total compensation, including salary, bonus, pension, and equity. The fractional model delivers 60 to 70 percent cost savings with zero dilution and a 30 to 90 day exit clause instead of a 6 to 12 month notice period.
+A fractional executive costs eight thousand to twenty thousand pounds per month on a two-to-three-day weekly retainer. A full-time C-suite hire at the same seniority level costs 180,000 to 350,000 pounds per year in total compensation, including salary, bonus, pension and equity. The fractional model delivers 60 to 70 percent cost savings with zero dilution and a 30 to 90-day exit clause instead of a 6 to 12-month notice period.
 
 The savings compound beyond salary. Full-time executive recruitment takes three to six months and costs 25 to 30 percent of first-year salary in recruiter fees. A fractional executive starts within two to four weeks. Time to value is measured in days, not quarters.
 
 Beyond Elevation's fractional operators work on monthly retainers with no long-term lock-in. The engagement scales up or down as the company's needs change: two days a week during normal operations, four days a week during a fundraise or exit sprint.
 
-## What Does the First 90 Days of a Fractional Executive Look Like?
+## What does the first 90 days of a fractional executive look like?
 
 The first 90 days follow a structured playbook regardless of which function the fractional executive owns. Days one to thirty: audit the current state, meet every stakeholder, identify the three decisions the founder has been deferring, and deliver a gap analysis. Days thirty-one to sixty: install the infrastructure, including dashboards, workflows, reporting cadence, and team structure. Days sixty-one to ninety: run the function at full cadence while the founder steps back from operational involvement.
 
@@ -97,7 +97,7 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### What is the difference between a fractional executive and an interim executive?
 
-A fractional executive works part-time on an ongoing retained basis, building and running a function over 12 to 24 months. An interim executive works full-time temporarily, usually filling a vacancy during a crisis or leadership transition for three to nine months. Fractional builds infrastructure. Interim fills a gap.
+A fractional executive works part-time on an ongoing retained basis, building and running a function over 12 to 24 months. An interim executive works full-time temporarily, usually filling a vacancy during a crisis or leadership transition for three to nine months. Fractional work builds infrastructure, while interim work fills a gap.
 
 ### Can a startup afford a fractional executive?
 

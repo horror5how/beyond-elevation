@@ -65,15 +65,15 @@ This is our firm, so read it as disclosure, not ranking. Our [forward deployed e
 
 Taskip, which sells software to agencies, updated its pricing guide on 14 October 2026. It puts small business work at $1,500 to $5,000 one off plus $500 to $1,500 a month, mid market at $5,000 to $20,000 plus $1,500 to $4,000 a month, and enterprise at $20,000 to $100,000 and up plus $3,000 to $8,000 a month. It doesn't cite a survey for those ranges, so treat them as one writer's view. They do line up with the published prices above.
 
-## the costs that aren't on the quote
+## The costs that aren't on the quote
 
 The software is billed to you, not the agency. Zapier's free plan gives 100 tasks a month, Professional is $19.99 a month on annual billing for 750 tasks, or $29.99 monthly, and Team starts at $69 a month annually for 2,000 tasks. AI model fees sit on top, billed by the model provider. We go through those line by line in [how much AI automation costs](/insights/how-much-does-ai-automation-cost/).
 
 Maintenance is the line that grows. Ask what it costs when a workflow breaks in month seven. Ask where the accounts sit, too. If the automations live in the agency's Zapier or n8n account, under their keys, you're renting them, and leaving costs you a rebuild.
 
-## is it worth paying an agency?
+## Is it worth paying an agency?
 
-The Bureau of Labor Statistics puts the median pay for general office clerks at $21.64 an hour in May 2025. If an automation takes 5 hours a week of retyping off one person, which is our assumption and not a measured figure, that's about $108 a week, or $5,626 a year, on our arithmetic. A 20 hour block at $250 an hour costs $5,000. So one well chosen workflow pays for a small agency job inside a year, and a badly chosen one never does. We wrote more on that in [is AI automation worth it](/insights/is-ai-automation-worth-it/).
+The Bureau of Labor Statistics puts the median pay for general office clerks at $21.64 an hour in May 2025. If an automation takes 5 hours a week of retyping off one person, which is our assumption and not a measured figure, that's about $108 a week, or $5,626 a year, on our arithmetic. A 20 hour block at $250 an hour costs $5,000. One well chosen workflow pays for a small agency job inside a year, and a badly chosen one never does. We wrote more on that in [is AI automation worth it](/insights/is-ai-automation-worth-it/).
 
 Before you ask for quotes, list the jobs your team does more than once a week that involve copying data from one system to another, with the hours next to each. Our guide to [how to automate your business](/insights/how-can-i-automate-my-business/) walks through it. An agency quoting against that list will give you a price you can compare. One quoting against "we want AI" will give you a number it can't defend.
 

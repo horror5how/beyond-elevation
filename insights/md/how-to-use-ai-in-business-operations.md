@@ -61,7 +61,7 @@ The hours matter less than the timing. A late invoice chased on day 31 instead o
 
 ## what stays human
 
-Prices and discounts, paying people, anything that makes a promise to a customer the company hasn't agreed, and hiring and firing stay with the owner, as does the decision the dashboard informs. For the people side, see [how to use AI in HR operations](/insights/how-to-use-ai-in-hr-operations/), and for the pipeline, [how to use AI in sales operations](/insights/how-to-use-ai-in-sales-operations/). We also write one page per workflow: what it reads, what it writes, who owns it and what it must never do.
+Prices and discounts, paying people, anything that promises a customer something the company hasn't agreed, and hiring and firing stay with the owner, as does the decision the dashboard informs. For the people side, see [how to use AI in HR operations](/insights/how-to-use-ai-in-hr-operations/), and for the pipeline, [how to use AI in sales operations](/insights/how-to-use-ai-in-sales-operations/). We also write one page per workflow: what it reads, what it writes, who owns it and what it must never do.
 
 ## Beyond Elevation's part in this
 
