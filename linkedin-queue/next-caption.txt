@@ -1,15 +1,15 @@
-One person in your company knows how all your AI workflows run.
+Founders who start IP licensing 24 months before exit get 2.8x the valuation uplift at close.
 
-They just accepted an offer elsewhere.
+Founders who start at LOI stage get 0.3x.
 
-74% of growth-stage AI operations are owned by a single undocumented person.
+The difference is not the assets.
 
-When they leave, you lose 6 months of prompt engineering, 14 integrations, and every workaround nobody wrote down.
+It is the revenue history.
 
-$180K is the average cost to rebuild from scratch.
+A licensing deal with 12 months of royalty payments looks like recurring revenue to an acquirer.
 
-The fix is not better documentation.
+A licensing deal signed last month looks like desperation.
 
-It is treating AI operations like a P&L line: an owner, an audit trail, a succession plan.
+One move this quarter: identify your most licensable asset and run one pilot deal before the window closes.
 
-#AIOperations #OperationalRisk #FractionalCFO
+#IPStrategy #Founders #ExitPlanning

@@ -779,3 +779,4 @@ ai-edge-case-ops-risk-2026
 ip-strategy-after-series-a-2026
 operating-leverage-ai-era-sme-2026
 ai-ops-key-person-dependency-2026
+ip-licensing-cash-before-exit-2026
