@@ -8558,3 +8558,23 @@ A virtual CFO is a remote finance professional — usually employed by an accoun
 Virtual CFO services typically include monthly management accounts, cash flow reports, tax return preparation, VAT or sale
 
 ---
+
+## How much do AI automation agencies charge? Real prices from 9 firms
+
+URL: https://beyondelevation.com/insights/how-much-do-ai-automation-agencies-charge
+
+AI automation agencies in the United States charge in three ways: by the hour, at about $150 to $250, by the project, from roughly $1,000 for a single setup to $15,000 for a design sprint, or by the month, from $1,000 for a light retainer up to $15,000 to $30,000 for a fully managed service. The software they build on is extra and usually cheap.
+
+Hayat Amin spent twenty years as a technology CFO and sold three companies, so he's read a lot of supplier invoices and knows which line on a quote is the one that grows. He now builds AI operations inside companies himself, and the prices below are what we'd want an owner to see before signing anything. Every figure was read on the agency's own page on 15 October 2026, unless we say otherwise.
+
+## the three ways agencies price
+
+Hourly is the simplest to compare and the easiest to overspend on. You buy a block of hours, the agency works through it, and you top up. It suits one or two small automations and a team that knows what it wants.
+
+A fixed project means you pay for an outcome: a discovery sprint, a set of workflows built and handed over. It suits a company that can describe the job in a page. Watch what happens after handover, because most fixed projects end the day the build ends.
+
+A monthly retainer pays for a set amount of time or for keeping things running. It suits a company with more than five automations live, because every one of them will break at some point when a supplier changes a form or a field gets renamed.
+
+## 
+
+---

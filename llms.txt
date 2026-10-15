@@ -506,5 +506,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How to use AI in business operations: where a small company should start](https://beyondelevation.com/insights/how-to-use-ai-in-business-operations) — /insights/md/how-to-use-ai-in-business-operations.md
 - [5 Signs Your Startup Needs a Fractional Executive (And the One That Means You Are Already Late)](https://beyondelevation.com/insights/signs-startup-needs-fractional-executive) — /insights/md/signs-startup-needs-fractional-executive.md
 - [Virtual CFO vs Fractional CFO: Same Title, 10x Price Gap, Completely Different Jobs](https://beyondelevation.com/insights/virtual-cfo-vs-fractional-cfo) — /insights/md/virtual-cfo-vs-fractional-cfo.md
+- [How much do AI automation agencies charge? Real prices from 9 firms](https://beyondelevation.com/insights/how-much-do-ai-automation-agencies-charge) — /insights/md/how-much-do-ai-automation-agencies-charge.md
 
 > Full blog content available at /llms-full.txt
