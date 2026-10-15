@@ -1,17 +1,15 @@
-Most founders add 3 people every time revenue doubles.
+One person in your company knows how all your AI workflows run.
 
-The highest-exit companies did the opposite.
+They just accepted an offer elsewhere.
 
-At $10M ARR, a lean AI-augmented team of 8 outperforms a 24-person team on every margin metric.
+74% of growth-stage AI operations are owned by a single undocumented person.
 
-Operating leverage is what acquirers price. Most founders never build it.
+When they leave, you lose 6 months of prompt engineering, 14 integrations, and every workaround nobody wrote down.
 
-90% of month-end close can be automated.
+$180K is the average cost to rebuild from scratch.
 
-60% of back-office work can run on fractional executives.
+The fix is not better documentation.
 
-The CFO who sets this up in Year 1 saves $400K in unnecessary headcount by Year 3.
+It is treating AI operations like a P&L line: an owner, an audit trail, a succession plan.
 
-Build the leverage before you need to hire.
-
-#FractionalCFO #AIOperations #ExitReady
+#AIOperations #OperationalRisk #FractionalCFO
