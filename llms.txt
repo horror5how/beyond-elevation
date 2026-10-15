@@ -508,5 +508,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Virtual CFO vs Fractional CFO: Same Title, 10x Price Gap, Completely Different Jobs](https://beyondelevation.com/insights/virtual-cfo-vs-fractional-cfo) — /insights/md/virtual-cfo-vs-fractional-cfo.md
 - [How much do AI automation agencies charge? Real prices from 9 firms](https://beyondelevation.com/insights/how-much-do-ai-automation-agencies-charge) — /insights/md/how-much-do-ai-automation-agencies-charge.md
 - [Your Ecommerce Business Needs a CFO Who Understands Inventory, Not Just Income Statements](https://beyondelevation.com/insights/fractional-cfo-ecommerce-businesses) — /insights/md/fractional-cfo-ecommerce-businesses.md
+- [93% of Patent Portfolios Generate Zero Licensing Revenue. Here Are the 4 Metrics That Change That.](https://beyondelevation.com/insights/patent-portfolio-roi-measurement) — /insights/md/patent-portfolio-roi-measurement.md
 
 > Full blog content available at /llms-full.txt

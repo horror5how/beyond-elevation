@@ -2,8 +2,8 @@
 title: "93% of Patent Portfolios Generate Zero Licensing Revenue. Here Are the 4 Metrics That Change That."
 slug: patent-portfolio-roi-measurement
 date: 2026-10-15
-url: https://beyondelevation.com/insights/patent-portfolio-roi-measurement/
-author: Beyond Elevation Team
+url: https://beyondelevation.com/insights/patent-portfolio-roi-measurement
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -67,6 +67,18 @@ The companies that achieve this are the ones that treat their patent portfolio l
 
 Beyond Elevation runs patent portfolio ROI audits for technology companies preparing for fundraising, licensing campaigns, or exit. The audit typically surfaces 20% to 35% of portfolio value that the company was not capturing — through unidentified licensing targets, undervalued defensive positions, or maintenance spend on patents with no commercial path. Book a portfolio ROI audit at [beyondelevation.com](https://beyondelevation.com) to see what your patents are actually returning.
 
+
+
+---
+
+### Want this position in your company?
+
+Beyond Elevation places exited C-suite operators into fractional executive positions: Chief Financial Officer, Chief IP Officer, AI Operations. A free 30 minute call, straight answer, no pitch. If there is nothing worth doing, we say so on the call.
+
+[Book a free call →](https://beyondelevation.com/call)
+
+---
+
 ## FAQ
 
 ### What is a good ROI for a patent portfolio?
@@ -88,3 +100,6 @@ Annually at minimum, and before any major capital event — fundraising round, a
 ### What is the biggest mistake companies make with patent portfolio management?
 
 Filing without a licensing or monetisation plan. Most companies spend 90% of their IP budget on obtaining patents and less than 10% on extracting value from them. Flipping that ratio — even partially — is the single highest-leverage change a company can make to its patent portfolio ROI.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
