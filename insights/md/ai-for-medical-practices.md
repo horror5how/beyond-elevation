@@ -9,13 +9,13 @@ site: Beyond Elevation
 
 # AI for Medical Practices: 8 Operations Worth Automating First
 
-AI for medical practices pays off first in the back office, not the exam room. Eight operations are worth automating first: the visit note, prior authorization, eligibility checks, claim follow-up, patient intake, the phones and reminders, the safe link between your systems, and a live screen for the owner. Most independent practices run all eight by hand or by fax, and the same patient gets typed in three times.
+AI for medical practices pays off first in the back office, not the exam room. Eight operations are worth automating first: the visit note, prior authorisation, eligibility checks, claim follow-up, patient intake, the phones and reminders, the safe link between your systems, and a live screen for the owner. Most independent practices run all eight by hand or by fax, and the same patient gets typed in three times.
 
 Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he reads a practice the way a buyer does: by its collections, its days in accounts receivable and the hours its staff lose to insurers. He now builds this work inside companies himself, as a forward deployed engineer. Every price below was read on the vendor's own page on 16 October 2026, and where a vendor hides its price, we say so.
 
 ## which practices get the most from this
 
-Three symptoms qualify a practice. A front desk person checks insurance on a payer portal and retypes the result into the practice management system. Someone spends part of every day on prior authorizations by phone and fax. And the owner can't say what was collected this week, or how many claims are stuck, until the billing company sends a report after month end.
+Three symptoms qualify a practice. A front desk person checks insurance on a payer portal and retypes the result into the practice management system. Someone spends part of every day on prior authorisations by phone and fax. And the owner can't say what was collected this week, or how many claims are stuck, until the billing company sends a report after month end.
 
 The time loss is measured. In a time and motion study of 57 US physicians published in the Annals of Internal Medicine in 2016, physicians spent 27.0 percent of the office day face to face with patients and 49.2 percent on EHR and desk work. The authors' summary is blunt: for every hour of direct patient time, nearly 2 more hours went on EHR and desk work, plus 1 to 2 hours of personal time each night.
 
@@ -73,7 +73,7 @@ Keragon is built for exactly this gap. It includes a BAA on every plan, and list
 
 Everything above feeds one view: visits booked and seen today, no-shows, authorizations pending, claims over 30 days, denials by payer and cash collected this week against the same week last year. In most independent practices that view is a monthly PDF from the billing company, which tells you in November what went wrong in September.
 
-Tebra sells practice management, EHR, billing and patient experience as one product with unlimited non-clinical staff, quoted on request. It publishes only add-on prices, such as a one-time EPCS setup of about $75 per provider. An all-in-one product shortens the list of joins, but the bank, the payroll and the payer portals still sit outside it. No vendor sells the screen that pulls them together, which is why we build it.
+Tebra sells practice management, EHR, billing and patient experience as one product with unlimited non-clinical staff, quoted on request. It publishes only add-on prices, such as an EPCS setup charge of about $75 per provider, billed once. An all-in-one product shortens the list of joins, but the bank, the payroll and the payer portals still sit outside it. No vendor sells the screen that pulls them together, which is why we build it.
 
 ## where Beyond Elevation fits, and the disclosure
 
@@ -109,7 +109,7 @@ Start where your staff lose the most hours, which for most practices is prior au
 
 ### What is the best AI for medical practice?
 
-It depends on which job costs you most. For notes, Freed starts at $39 a month for up to 40 notes. For prior authorization, Silna covers 1,000 payers and quotes on request. For moving patient data between systems under a BAA, Keragon starts at $99 a month billed annually. Buy for the hours you can measure today.
+It depends on which job costs you most. For notes, Freed starts at $39 a month for up to 40 notes. For prior authorisation, Silna covers 1,000 payers and quotes on request. For moving patient data between systems under a BAA, Keragon starts at $99 a month billed annually. Buy for the hours you can measure today.
 
 ### Can AI do medical billing and coding?
 
@@ -117,11 +117,11 @@ Partly. Freed's Premier plan at $104 a month suggests ICD-10 and CPT codes from 
 
 ### Will AI replace medical receptionists?
 
-No. The Bureau of Labor Statistics projects medical secretary and administrative assistant jobs growing 5 percent from 2025 to 2035, while all secretaries and administrative assistants decline 2 percent. AI takes the retyping, the reminder calls and the portal checks, and leaves the patient at the desk to a person.
+No. The Bureau of Labor Statistics projects medical secretary and administrative assistant jobs growing 5 percent from 2025 to 2035, while all secretaries and administrative assistants decline 2 percent. AI takes the retyping, the reminder calls and the portal checks. The person at the desk still handles the patient.
 
 ### Is an AI scribe HIPAA compliant?
 
-Only if the vendor signs a business associate agreement with you and handles patient data under it. HHS guidance treats any cloud service that stores or transmits protected health information for you as a business associate. Ask for the BAA before the first recorded visit, and read which plan it comes with.
+Only if the vendor signs a business associate agreement with you and handles patient data under it. HHS guidance treats any cloud service that stores or transmits protected health information for you as a business associate. Ask for the BAA before the first recorded visit, and check which plan it comes with.
 
 ### How much does an AI scribe cost?
 

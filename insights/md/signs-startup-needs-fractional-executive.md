@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # 5 Signs Your Startup Needs a Fractional Executive (And the One That Means You Are Already Late)
 
-Seventy-eight percent of startups between two million and twenty million pounds in revenue operate without a single C-suite executive other than the founder. According to the 2026 Future Forum Pulse survey, 41 percent of UK companies with fewer than 250 employees now use at least one fractional executive, up from 18 percent in 2023. The companies that move first grow faster. The ones that wait pay more to catch up.
+Seventy-eight percent of startups between two million and twenty million pounds in revenue operate without a single C-suite executive other than the founder. According to the 2026 Future Forum Pulse survey, 41 percent of UK companies with fewer than 250 employees now use at least one fractional executive, up from 18 percent in 2023. The companies that move first grow faster. The ones that wait end up paying more to catch up.
 
 Hayat Amin says the founder who delays the hire until the company is big enough has already missed the window. "The signs that you need a fractional executive are the same signs that the company is leaving money on the table right now," Hayat Amin says. "The question is never whether you can afford one. It is whether you can afford to keep running without one."
 
@@ -19,7 +19,7 @@ Here are the five signals that a startup needs a fractional executive and the on
 
 A fractional executive is a senior C-suite operator who works with a company on a part-time, retained basis, typically two to three days a week, rather than as a permanent full-time hire. Fractional executives carry the same authority, accountability and domain expertise as their full-time equivalents at 30 to 40 percent of the total cost of employment.
 
-This is not consulting. Consultants advise. Fractional executives execute. They own the function, manage the team, report to the board and make the decisions that move the business forward. The model works because most companies under twenty million pounds do not generate five days of C-level complexity a week in any single function.
+This is execution, not consulting: consultants advise, fractional executives execute. They own the function, manage the team, report to the board and make the decisions that move the business forward. The model works because most companies under twenty million pounds do not generate five days of C-level complexity a week in any single function.
 
 Beyond Elevation places three types of fractional executive: [Chief Financial Officer](/insights/what-is-a-fractional-cfo/), [Chief IP Officer](/insights/what-is-a-chief-ip-officer/), and [AI Operations lead](/insights/what-is-ai-operations/). Each is an exited operator with a track record of building the function from scratch, not a contractor filling a seat.
 
@@ -31,7 +31,7 @@ The five signs that a startup needs a fractional executive are: the founder spen
 
 If the founder spends more than 50 percent of their week on operational management, approving expenses, reviewing reports, managing vendors, chasing invoices, the company's growth is capped at the founder's bandwidth. Every hour spent on operations is an hour not spent on product, sales or fundraising.
 
-The fix is not hiring a junior operations manager. It is hiring someone who has built and scaled the function before and can run it with authority. A fractional CFO takes the finance stack off the founder's desk in week one. A fractional AI operations lead automates the manual workflows that eat the team's time. The founder gets their calendar back.
+The fix is someone who has already built and scaled the function and can run it with authority, not a junior operations manager. A fractional CFO takes the finance stack off the founder's desk in week one. A fractional AI operations lead automates the manual workflows that eat the team's time. The founder gets their calendar back.
 
 ### Sign 2: the board is asking questions nobody can answer
 
@@ -65,9 +65,9 @@ For companies preparing to raise or exit, the answer is almost always the fracti
 
 The practical test is simple: which of these three questions keeps the founder awake at night? "Do I know my real numbers?" means CFO. "Can a competitor copy what I have built?" means CIPO. "Why does everything take so long?" means AI operations. Companies with patents are 10.2x more likely to secure early-stage funding, so founders who haven't filed shouldn't assume the IP question can wait.
 
-## How much does a fractional executive cost compared to full-time?
+## How much does a fractional executive cost compared to a full-time hire?
 
-A fractional executive costs eight thousand to twenty thousand pounds per month on a two-to-three-day weekly retainer. A full-time C-suite hire at the same seniority level costs 180,000 to 350,000 pounds per year in total compensation, including salary, bonus, pension and equity. The fractional model delivers 60 to 70 percent cost savings with zero dilution and a 30 to 90-day exit clause instead of a 6 to 12-month notice period.
+A fractional executive costs eight thousand to twenty thousand pounds per month on a two-to-three-day weekly retainer. A full-time C-suite hire at the same seniority level costs 180,000 to 350,000 pounds per year in total compensation, including salary, bonus, pension and equity. The fractional model delivers 60 to 70 percent cost savings with zero dilution and a 30-to-90-day exit clause instead of a 6-to-12-month notice period.
 
 The savings compound beyond salary. Full-time executive recruitment takes three to six months and costs 25 to 30 percent of first-year salary in recruiter fees. A fractional executive starts within two to four weeks. Time to value is measured in days, not quarters.
 
@@ -97,7 +97,7 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### What is the difference between a fractional executive and an interim executive?
 
-A fractional executive works part-time on an ongoing retained basis, building and running a function over 12 to 24 months. An interim executive works full-time temporarily, usually filling a vacancy during a crisis or leadership transition for three to nine months. Fractional work builds infrastructure, while interim work fills a gap.
+A fractional executive works part time on an ongoing retained basis, building and running a function over 12 to 24 months. An interim executive works full time temporarily, usually filling a vacancy during a crisis or leadership transition for three to nine months. Fractional work builds infrastructure, while interim work fills a gap.
 
 ### Can a startup afford a fractional executive?
 

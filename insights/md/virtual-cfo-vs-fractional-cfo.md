@@ -25,9 +25,9 @@ This is a reporting function. It tells you what happened last month. It does not
 
 ## What Is a Fractional CFO?
 
-A fractional CFO is a part-time C-suite executive who operates inside your business one to three days a week, owns the financial strategy, and is accountable for outcomes a board or investor can underwrite. The role typically costs £3,000 to £12,000 a month and covers fundraising preparation, financial modelling, cash flow management, board reporting, and exit readiness.
+A fractional CFO works inside the business one to three days a week as a senior finance executive, owns the financial strategy, and is accountable for outcomes a board or investor can underwrite. The role typically costs £3,000 to £12,000 a month and covers fundraising preparation, financial modelling, cash flow management, board reporting, and exit readiness.
 
-The difference comes down to altitude, not scope. A fractional CFO doesn't produce reports, they interpret them, challenge the numbers, build the finance function and sit in the room when decisions are made.
+The difference is altitude, not scope. A fractional CFO interprets the reports, challenges the numbers, builds the finance function, and sits in the room when decisions get made.
 
 Hayat Amin's Finance Function Maturity Scale breaks this into four levels. Level 1 is bookkeeping: recording transactions. Level 2 is compliance: producing accounts and tax returns. Level 3 is management information: monthly reporting with basic KPIs. Level 4 is strategic finance: capital allocation, scenario planning, investor-grade modelling, and exit preparation. A virtual CFO operates at Level 2 or 3. A fractional CFO operates at Level 4 and builds the infrastructure underneath it.
 
@@ -39,7 +39,7 @@ Virtual CFOFractional CFO**Typical cost**£300–£1,500/month£3,000–£12,000
 
 ## When should you hire a virtual CFO?
 
-A virtual CFO is the right hire when your finance needs are compliance-driven and your next twelve months don't include a fundraise, acquisition or board-level reporting requirement. You're pre-revenue or early revenue, your accounting is straightforward, and you don't have outside investors demanding monthly board packs. Your main pain point is producing accurate numbers on time rather than using those numbers to make decisions.
+A virtual CFO is the right hire when your finance needs are about staying compliant rather than making decisions, and your next twelve months don't include a fundraise, an acquisition, or board-level reporting. You're pre-revenue or early revenue, your accounting is straightforward, and you don't have outside investors demanding monthly board packs. Your main pain point is producing accurate numbers on time, not using those numbers to make decisions.
 
 If you are a solo founder running a services business at £500K revenue with no plans to raise, a virtual CFO at £500 a month will produce your management accounts, handle your VAT, and keep Companies House happy. That is a legitimate, cost-effective finance function for that stage.
 
@@ -57,7 +57,7 @@ At [Beyond Elevation](https://beyondelevation.com), fractional CFO engagements s
 
 Yes, and most companies do. The mistake is waiting too long. Hayat Amin's rule is specific: upgrade the moment your next milestone, a raise, an exit, a board expansion, a pricing restructure, requires financial decisions rather than financial data. "The founders who lose six months are the ones who believe better reports will solve a strategy problem," Amin argues. "Reports describe the past. A CFO decides the future."
 
-The transition typically happens between £1M and £3M in revenue, when the founder realises the monthly management accounts are no longer enough to run a board meeting, close a funding round, or negotiate a deal. By that point, upgrading to a fractional CFO is not an expense, it is the thing that opens up the next stage of value.
+The transition typically happens between £1M and £3M in revenue, when the founder realises the monthly management accounts are no longer enough to run a board meeting, close a funding round, or negotiate a deal. By that point, the fractional CFO upgrade pays for itself by opening up the next stage of value.
 
 ## How much does each one cost in 2026?
 
@@ -67,7 +67,7 @@ Pricing varies by geography, complexity, and provider quality. These are the ran
 
 **Fractional CFO:** £3,000 to £12,000 per month. Includes financial strategy, investor-grade modelling, board attendance, [fundraise support](/insights/fractional-cfo-cost-2026/), and exit preparation. Engagement typically runs one to three days per week.
 
-The price gap looks large until you calculate what a missed raise, a bad exit, or a failed due diligence process actually costs. A fractional CFO engagement of £8,000 per month for twelve months is £96,000. A valuation discount from poor financial presentation in a £10M exit is £1M to £3M. The return on the right hire is not marginal, it is the difference between capturing the value your business has built and leaving it on the table.
+The price gap looks large until you work out what a missed raise, a bad exit, or a failed due diligence process costs. A fractional CFO engagement at £8,000 a month for twelve months comes to £96,000. A valuation discount from poor financial presentation in a £10M exit runs £1M to £3M. The right hire captures that value instead of leaving it on the table.
 
 
 
@@ -85,7 +85,7 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### Is a virtual CFO the same as a fractional CFO?
 
-No. A virtual CFO provides remote financial reporting and compliance, typically from an accounting firm at £300 to £1,500 per month. A fractional CFO is a part-time C-suite executive who owns your financial strategy, attends board meetings, and prepares the business for raises or exits at £3,000 to £12,000 per month. The roles serve different stages and different needs.
+No. A virtual CFO provides remote financial reporting and compliance, typically from an accounting firm at £300 to £1,500 per month. A fractional CFO works inside the business as a senior finance executive a few days a week, owns the financial strategy, attends board meetings, and prepares the business for raises or exits, at £3,000 to £12,000 per month. The roles serve different stages and different needs.
 
 ### When should I switch from a virtual CFO to a fractional CFO?
 
@@ -101,7 +101,7 @@ Typically one to three days per week, depending on the company's stage and the c
 
 ### Is a fractional CFO worth it for a small business?
 
-It depends on the business's trajectory, not its size. A lifestyle business generating steady revenue with no plans to raise, exit, or scale aggressively is well served by a virtual CFO. A growth-stage company targeting a raise, a strategic acquisition, or a significant expansion needs the strategic depth a fractional CFO provides. The question is not size, it is where the business is heading next.
+It depends on the business's trajectory, not its size. A lifestyle business generating steady revenue with no plans to raise, exit, or scale aggressively is well served by a virtual CFO. A growth-stage company targeting a raise, a strategic acquisition, or a significant expansion needs the strategic depth a fractional CFO provides. What matters is where the business is heading next.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
