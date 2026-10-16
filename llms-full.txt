@@ -8642,3 +8642,21 @@ The question is not whether fractional leadership works. Seven in ten companies 
 Most CEOs struggle because they apply full-time management habits to a part-time role, and the habits do not translate. The three most common mistakes are over-scheduling, under-delegating, and treating presence as productivity. A fractional executive who sits in every meeting is a fractional executive who cannot do the 
 
 ---
+
+## How to Budget for AI in 2027: The 5-Line Framework That Gets Board Approval on the First Ask
+
+URL: https://beyondelevation.com/insights/how-to-budget-for-ai-2027
+
+Most AI budgets are built by engineers and approved by nobody. According to RAND Corporation's 2026 enterprise AI survey, 73 percent of AI initiatives never reach production — and the budget is where failure starts. Companies drop a lump sum into a line called "AI/ML," lose visibility within 60 days, and quietly shelve the project by month four.
+
+Hayat Amin argues that the root cause is structural, not technical. "Every failed AI project I have reviewed shares the same financial fingerprint," Amin says. "A budget built by the technical team with no CFO oversight, no phase gates, and no kill criteria. The board never approved the spend because nobody framed it as a business decision."
+
+Beyond Elevation builds AI budgets the opposite way — starting from the business outcome and working backward to the cost. Here is the five-line framework that gets board approval on the first ask.
+
+## What Does a Proper AI Budget Contain?
+
+A proper AI budget contains five line items, not one. Collapsing everything into a single "AI" line on the P&L is the fastest way to lose control of the spend. The five lines are compute and inference, tooling and platform, people and operators, data acquisition and preparation, and governance and compliance. Each has a different cost curve, a different approval cadence, and a different ROI timeline — and each must be visible to the CFO independently.
+
+**Line 1: Compute and inference.** This is the line that surprises CFOs. Inference costs — running models in
+
+---

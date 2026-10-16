@@ -511,5 +511,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [93% of Patent Portfolios Generate Zero Licensing Revenue. Here Are the 4 Metrics That Change That.](https://beyondelevation.com/insights/patent-portfolio-roi-measurement) — /insights/md/patent-portfolio-roi-measurement.md
 - [AI for Medical Practices: 8 Operations Worth Automating First](https://beyondelevation.com/insights/ai-for-medical-practices) — /insights/md/ai-for-medical-practices.md
 - [How to Manage a Fractional Executive: The CEO's Playbook for Getting 5 Days of Value From 2 Days of Time](https://beyondelevation.com/insights/how-to-manage-fractional-executive) — /insights/md/how-to-manage-fractional-executive.md
+- [How to Budget for AI in 2027: The 5-Line Framework That Gets Board Approval on the First Ask](https://beyondelevation.com/insights/how-to-budget-for-ai-2027) — /insights/md/how-to-budget-for-ai-2027.md
 
 > Full blog content available at /llms-full.txt
