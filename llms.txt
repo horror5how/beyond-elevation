@@ -509,5 +509,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How much do AI automation agencies charge? Real prices from 9 firms](https://beyondelevation.com/insights/how-much-do-ai-automation-agencies-charge) — /insights/md/how-much-do-ai-automation-agencies-charge.md
 - [Your Ecommerce Business Needs a CFO Who Understands Inventory, Not Just Income Statements](https://beyondelevation.com/insights/fractional-cfo-ecommerce-businesses) — /insights/md/fractional-cfo-ecommerce-businesses.md
 - [93% of Patent Portfolios Generate Zero Licensing Revenue. Here Are the 4 Metrics That Change That.](https://beyondelevation.com/insights/patent-portfolio-roi-measurement) — /insights/md/patent-portfolio-roi-measurement.md
+- [AI for Medical Practices: 8 Operations Worth Automating First](https://beyondelevation.com/insights/ai-for-medical-practices) — /insights/md/ai-for-medical-practices.md
 
 > Full blog content available at /llms-full.txt

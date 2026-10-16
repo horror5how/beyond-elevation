@@ -8610,3 +8610,19 @@ Patent portfolio ROI is the total economic return your patents deliver divided b
 The standard mistake is treating patents as a binary: either they block a competitor or they do not. That framing ignores three of the four ways patents generate economic value. A patent that has never been asserted or licensed can still be driving ROI through valuation pre
 
 ---
+
+## AI for Medical Practices: 8 Operations Worth Automating First
+
+URL: https://beyondelevation.com/insights/ai-for-medical-practices
+
+AI for medical practices pays off first in the back office, not the exam room. Eight operations are worth automating first: the visit note, prior authorization, eligibility checks, claim follow-up, patient intake, the phones and reminders, the safe link between your systems, and a live screen for the owner. Most independent practices run all eight by hand or by fax, and the same patient gets typed in three times.
+
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, so he reads a practice the way a buyer does: by its collections, its days in accounts receivable and the hours its staff lose to insurers. He now builds this work inside companies himself, as a forward deployed engineer. Every price below was read on the vendor's own page on 16 October 2026, and where a vendor hides its price, we say so.
+
+## which practices get the most from this
+
+Three symptoms qualify a practice. A front desk person checks insurance on a payer portal and retypes the result into the practice management system. Someone spends part of every day on prior authorizations by phone and fax. And the owner can't say what was collected this week, or how many claims are stuck, until the billing company sends a report after month end.
+
+The time loss is measured. In a time and motion study of 57 US physicians published in the Annals of Internal Medicine in 2016, physicians spent 27.0 percent of the office day face to face with patients and 49.2 percent on EHR an
+
+---
