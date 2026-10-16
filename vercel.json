@@ -3,6 +3,7 @@
   "trailingSlash": false,
   "rewrites": [
     { "source": "/call/:s", "destination": "/api/call?s=:s" },
+    { "source": "/login", "destination": "https://mail-hq-navy.vercel.app/email/login" },
     { "source": "/backend", "destination": "https://finance-hq-two-gules.vercel.app/backend/" },
     { "source": "/backend/:path*", "destination": "https://finance-hq-two-gules.vercel.app/backend/:path*" },
     { "source": "/email", "destination": "https://mail-hq-navy.vercel.app/email" },
