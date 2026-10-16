@@ -1,15 +1,13 @@
-Founders who start IP licensing 24 months before exit get 2.8x the valuation uplift at close.
+Your bookkeeper logged £800K of annual contracts as revenue on day one.
 
-Founders who start at LOI stage get 0.3x.
+That's a liability, not revenue.
 
-The difference is not the assets.
+When your acquirer's team arrives, they'll restate it across 12 months.
 
-It is the revenue history.
+Your "£800K revenue year" becomes £400K.
 
-A licensing deal with 12 months of royalty payments looks like recurring revenue to an acquirer.
+Revenue recognition errors are the most common restatement in SME diligence.
 
-A licensing deal signed last month looks like desperation.
+Fix it before they find it: audit deferred balances monthly, run a clean recognition schedule 12 months before any exit process.
 
-One move this quarter: identify your most licensable asset and run one pilot deal before the window closes.
-
-#IPStrategy #Founders #ExitPlanning
+#FractionalCFO #Founders #ExitReadiness
