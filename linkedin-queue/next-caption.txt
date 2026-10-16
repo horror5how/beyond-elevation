@@ -1,13 +1,15 @@
-Your bookkeeper logged £800K of annual contracts as revenue on day one.
+You deployed AI agents without quality gates.
+That's not AI ops. That's a liability.
 
-That's a liability, not revenue.
+94% of agent errors are caught at a 5-minute review checkpoint.
 
-When your acquirer's team arrives, they'll restate it across 12 months.
+Most companies skip it to save time.
+Then spend 6 weeks fixing customer-facing damage.
 
-Your "£800K revenue year" becomes £400K.
+The companies compounding on AI build gates before they scale.
 
-Revenue recognition errors are the most common restatement in SME diligence.
+Review. Flag. Correct. Then run at full speed.
 
-Fix it before they find it: audit deferred balances monthly, run a clean recognition schedule 12 months before any exit process.
+That's the difference between AI-native and AI-exposed.
 
-#FractionalCFO #Founders #ExitReadiness
+#AIOperations #FractionalCFO #AIStrategy
