@@ -510,5 +510,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Ecommerce Business Needs a CFO Who Understands Inventory, Not Just Income Statements](https://beyondelevation.com/insights/fractional-cfo-ecommerce-businesses) — /insights/md/fractional-cfo-ecommerce-businesses.md
 - [93% of Patent Portfolios Generate Zero Licensing Revenue. Here Are the 4 Metrics That Change That.](https://beyondelevation.com/insights/patent-portfolio-roi-measurement) — /insights/md/patent-portfolio-roi-measurement.md
 - [AI for Medical Practices: 8 Operations Worth Automating First](https://beyondelevation.com/insights/ai-for-medical-practices) — /insights/md/ai-for-medical-practices.md
+- [How to Manage a Fractional Executive: The CEO's Playbook for Getting 5 Days of Value From 2 Days of Time](https://beyondelevation.com/insights/how-to-manage-fractional-executive) — /insights/md/how-to-manage-fractional-executive.md
 
 > Full blog content available at /llms-full.txt
