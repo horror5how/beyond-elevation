@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # AI for Wholesale Distributors: the 8 Systems to Connect First
 
-AI for wholesale distributors pays off first in the order desk and the back office, not in a forecasting model. The eight systems to connect first are the purchase order inbox, EDI, the ERP, accounts payable, inventory planning, the CRM, parcel shipping and a live screen for the owner. Where they don't talk to each other, a person carries data between them by hand every day, and the owner sees the result at month end.
+AI for wholesale distributors pays off first in the order desk and the back office, not in a forecasting model. The eight systems to connect first are the purchase order inbox, EDI, the ERP, accounts payable, inventory planning, the CRM, parcel shipping and a live screen for the owner. When they don't talk to each other, someone carries data between them by hand every day, and the owner sees the result at month end.
 
 Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, and he reads a distributor the way a buyer does: by margin per order, cash tied up in stock and the hours it takes to turn a customer's PDF into a shipped pallet. He now builds these connections inside companies himself, as a forward deployed engineer. Every price below was read on the vendor's own page on 17 October 2026, in US dollars, and where a vendor hides its price we say so.
 
@@ -37,7 +37,7 @@ Do the arithmetic on your own desk before a demo. If your team keys 400 emailed 
 
 If you sell into big box retailers or grocers, EDI isn't optional, and the purchase orders, advance ship notices and invoices it carries have to match what's in your ERP. SPS Commerce sells EDI fulfillment and says it has 46,000+ subscribing customers and pre-built connections to over 100 ERP, WMS and other systems. It shows no price and routes you to a demo.
 
-The join to check is the ship notice. When the warehouse ships short and the advance ship notice goes out with the original quantity, the retailer charges you back. The automation worth paying for writes the picked quantity, not the ordered one, into the ship notice.
+The join to check is the ship notice. If the warehouse ships short but the advance ship notice still carries the original quantity, the retailer charges you back. The automation worth paying for writes the picked quantity, not the ordered one, into the ship notice.
 
 ## 3. the ERP at the centre
 
@@ -59,7 +59,7 @@ The automation worth having is the suggested purchase order landing in front of 
 
 ## 6. the CRM and the sales reps
 
-Reps in distribution sell from memory and from the ERP's customer screen. The CRM is where a quote that didn't convert should come back as a task. HubSpot lists Sales Hub Professional at $90 per seat per month, with a one-time $1,500 onboarding fee, and Enterprise at $150 per seat with a $3,500 onboarding fee. It also has a free tier for up to 2 users.
+Reps in distribution sell from memory and from the ERP's customer screen. The CRM is where a quote that didn't convert should come back as a task. HubSpot lists Sales Hub Professional at $90 per seat per month, with a single $1,500 onboarding fee, and Enterprise at $150 per seat with a $3,500 onboarding fee. It also has a free tier for up to 2 users.
 
 The join that matters is quotes. A quote raised in the ERP and never followed up is lost margin nobody sees. Pull open quotes over 7 days into the rep's task list automatically, and the follow up stops depending on memory.
 
@@ -75,7 +75,7 @@ Everything above feeds one view: orders taken today, lines keyed by hand against
 
 Microsoft Power BI Pro is $14 per user per month and Premium Per User $24, both paid yearly. The tool is cheap. The work is in the joins: getting the ERP, the AP tool, the planning tool and the CRM to agree on what a customer, an order and a SKU are, so the number on the screen is one the owner can act on before Friday.
 
-## where Beyond Elevation fits, and the disclosure
+## Where Beyond Elevation fits, and the disclosure
 
 Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. We build the joins between the products above, and items 1, 4 and 8 most often: the purchase order inbox writing into the ERP you already run, supplier invoices matched against receipts, and the live screen a distributor's owner can run the week on. Hayat Amin takes this work on for distributors in New York, New Jersey and across the United States as a forward deployed engineer, writes the integration in your own stack and hands it over documented and running. The engagement is on the [forward deployed engineering page](/fde), where smaller companies start with a two week AI Audit at a fixed $3,000, and the build conversation is at [meethayat.com/services/fde](https://meethayat.com/services/fde). If the finance seat is the gap, that's [meethayat.com/cfo](https://meethayat.com/cfo). The same problem in other industries is in [freight broker back office automation](/insights/freight-broker-back-office-automation/) and [AI for construction companies](/insights/ai-for-construction-companies/), and what a build costs is in [how much AI automation costs](/insights/how-much-does-ai-automation-cost/).
 

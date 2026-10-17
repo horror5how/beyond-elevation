@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Your Ecommerce Business Needs a CFO Who Understands Inventory, Not Just Income Statements
 
-Most ecommerce founders hire a bookkeeper, then an accountant, then wonder why they're profitable on paper and broke in the bank. The gap is financial operations, not accounting. A fractional CFO for ecommerce closes that gap for a fraction of what a full time hire costs.
+Most ecommerce founders hire a bookkeeper, then an accountant, then wonder why they're profitable on paper and broke in the bank. The gap is financial operations, and no accountant closes it. A fractional CFO for ecommerce closes that gap for a fraction of what a full-time hire costs.
 
 Hayat Amin argues that ecommerce is the single most financially mismanaged business model in the SME market. According to the 2026 Shopify Commerce Report, 67 percent of ecommerce businesses between £1 million and £10 million in revenue have no dedicated finance leader. They run on QuickBooks, gut instinct, and last month's bank balance. That works until it does not, and it usually stops working the quarter inventory commitments outpace cash.
 
@@ -37,7 +37,7 @@ A fractional CFO for ecommerce solves five specific financial problems that gene
 
 ## How much does a fractional CFO cost for an ecommerce business?
 
-A fractional CFO for an ecommerce business costs £3,000 to £8,000 per month for one to two days per week, compared to £120,000 to £180,000 per year for a full-time hire with the same experience. The investment pays for itself within the first quarter for any ecommerce business doing over £2 million in annual revenue.
+A fractional CFO for an ecommerce business costs £3,000 to £8,000 a month for one to two days a week, compared to £120,000 to £180,000 a year to hire someone full time with the same experience. The investment pays for itself within the first quarter for any ecommerce business doing over £2 million in annual revenue.
 
 The return on investment is concrete and measurable. A fractional CFO who compresses the cash conversion cycle by 15 days on £2 million in annual inventory frees approximately £82,000 in working capital. One who identifies a 3 percent channel margin leak across £5 million in revenue recovers £150,000 per year. One who negotiates better payment terms with three key suppliers gains 30 to 60 days of additional cash flow.
 
@@ -49,7 +49,7 @@ A fractional CFO for ecommerce should deliver three things in the first 90 days:
 
 **Week 1 to 2: Financial diagnostic.** Pull the last 12 months of data from Shopify, Amazon Seller Central, the warehouse management system, and the accounting platform. Map every revenue stream, every cost, and every cash flow timing gap. Most founders have never seen their business's finances in one view.
 
-**Week 3 to 4: Channel P&L build.** Create a profit and loss statement for each sales channel including all variable costs: platform fees, fulfilment, shipping, returns, marketing, and payment processing. The output shows the founder which channels are profitable after all costs, as distinct from which ones simply generate the most revenue.
+**Week 3 to 4: Channel P&L build.** Create a profit and loss statement for each sales channel including all variable costs: platform fees, fulfilment, shipping, returns, marketing, and payment processing. The output shows the founder which channels are profitable after all costs, separate from which ones generate the most revenue.
 
 **Week 5 to 8: Cash flow model.** Build a rolling 13-week cash flow forecast that incorporates inventory purchase commitments, seasonal demand patterns, payment terms, and outstanding liabilities. This is the tool that prevents the "profitable but cash-broke" problem that kills growing ecommerce businesses.
 

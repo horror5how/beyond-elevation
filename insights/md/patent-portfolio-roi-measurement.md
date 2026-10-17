@@ -9,25 +9,25 @@ site: Beyond Elevation
 
 # 93% of Patent Portfolios Generate Zero Licensing Revenue. Here Are the 4 Metrics That Change That.
 
-According to the World Intellectual Property Organization, fewer than 7% of granted patents ever generate licensing revenue. The rest sit in maintenance-fee queues, costing their owners thousands per year while producing nothing. Hayat Amin argues this is not a patent quality problem, it is a measurement problem. Most companies have never calculated the ROI of their patent portfolio because nobody taught them what to measure.
+According to the World Intellectual Property Organization, fewer than 7% of granted patents ever generate licensing revenue. The rest sit in maintenance-fee queues, costing their owners thousands per year while producing nothing. Hayat Amin argues the problem is measurement, not patent quality. Most companies have never calculated the ROI of their patent portfolio because nobody taught them what to measure.
 
 Patent portfolio ROI is the ratio of economic value your patents generate, through licensing revenue, competitive exclusion, valuation premium, and litigation avoidance, to the total cost of obtaining and maintaining them. Measured correctly, the number tells you exactly which patents to keep, which to license, and which to abandon. Skip the measurement, and you are writing cheques to the patent office on faith.
 
 ## What is patent portfolio ROI and why do most companies get it wrong?
 
-Patent portfolio ROI is the total economic return your patents deliver divided by their total cost of ownership, measured across four value dimensions rather than just licensing revenue alone. Most companies get it wrong because they only count one dimension, or none at all.
+Patent portfolio ROI is the total economic return your patents deliver divided by their total cost of ownership, measured across four value dimensions rather than licensing revenue alone. Most companies get it wrong because they only count one dimension, or none at all.
 
-The standard mistake is treating patents as a binary: either they block a competitor or they do not. That framing ignores three of the four ways patents generate economic value. A patent that has never been asserted or licensed can still be driving ROI through valuation premium in fundraising rounds, through defensive positioning that prevents litigation, and through the competitive exclusion effect that keeps rivals from entering your market segment.
+The standard mistake is treating patents as a binary: either they block a competitor or they don't. That framing ignores three of the four ways patents generate economic value. A patent that's never been asserted or licensed can still drive ROI: through valuation premium in fundraising rounds, defensive positioning that prevents litigation, and competitive exclusion that keeps rivals out of your market segment.
 
-Hayat Amin's rule on this is direct: if you cannot put a number on what your patent portfolio returned last year, you are not managing it, you are hoarding it. The difference between the two is the difference between a performing asset and a line item your CFO wants to cut.
+Hayat Amin's rule: if you can't put a number on what your portfolio returned last year, you're hoarding patents, not managing them. That's the difference between a performing asset and a line item your CFO wants cut.
 
-## Why Do 93% of Patent Portfolios Produce Zero Revenue?
+## Why do 93% of patent portfolios produce zero revenue?
 
-The overwhelming majority of patent portfolios produce zero direct revenue because they were built for defence without any licensing or monetisation architecture, and because the companies that own them have no system for identifying which patents have commercial value beyond their own products.
+Most patent portfolios produce zero direct revenue because they were built for defence, with no licensing or monetisation plan behind them, and because the companies that own them have no system for identifying which patents have value beyond their own products.
 
-Hayat Amin says the root cause is structural. Patent attorneys are paid to file and prosecute. Nobody in the typical organisation is paid to extract revenue from the portfolio after the patent grants. The filing roadmap ends at the grant date. There is no licensing roadmap, no royalty-rate analysis, no target-licensee mapping. The patent exists. It costs money every year. And it generates nothing because nobody is working it.
+Hayat Amin says the root cause is structural. Patent attorneys get paid to file and prosecute, but nobody in the typical organisation gets paid to extract revenue from the portfolio once the patent grants. The filing roadmap ends at the grant date, there's no licensing roadmap, no royalty-rate analysis, no target-licensee mapping. The patent sits there, costs money every year, and generates nothing because nobody is working it.
 
-This is where the disconnect gets expensive. According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now make up 90% of S&P 500 market capitalisation. Yet fewer than 5% of those intangible assets, including patents, are ever pledged, licensed, or monetised as standalone revenue streams. The gap between what patents are worth on paper and what they return in practice is the largest unrealised asset class in corporate finance.
+The disconnect is expensive. Ocean Tomo's 2025 Intangible Asset Market Value Study puts intangible assets at 90% of S&P 500 market capitalisation, yet fewer than 5% of those intangibles, patents included, are ever pledged, licensed, or monetised as standalone revenue. The gap between what patents are worth on paper and what they return in practice is the largest unrealised asset class in corporate finance.
 
 ## What are the 4 metrics in a patent portfolio ROI audit?
 
@@ -47,7 +47,7 @@ A patent portfolio ROI audit starts with a complete inventory of costs, a claim-
 
 **Step 1: Calculate total portfolio cost.** Sum every dollar spent on each patent: filing fees, prosecution fees, office action responses, maintenance and renewal fees, foreign filing costs, and outside counsel time. Most companies undercount by 30% to 40% because prosecution costs are buried across multiple law firm invoices spanning years.
 
-**Step 2: Map claims to commercial products.** For each patent, map the independent claims to your own products (defensive value) and to competitors' products (licensing potential). This is the step most companies skip, and it is the step that reveals licensing revenue sitting unclaimed. A single patent with broad claims practised by three competitors in a $500M market segment is worth more than twenty narrow patents covering features nobody else uses.
+**Step 2: Map claims to commercial products.** For each patent, map the independent claims to your own products (defensive value) and to competitors' products (licensing potential). This is the step most companies skip, and the one that reveals licensing revenue sitting unclaimed. A single patent with broad claims practised by three competitors in a $500M market segment is worth more than twenty narrow patents covering features nobody else uses.
 
 **Step 3: Score each patent on the four metrics.** Assign a dollar value or range to each patent across all four ROI dimensions. Many patents will score zero on licensing yield today but high on defensive savings or competitive exclusion. The total across all four dimensions is the patent's economic value. Compare it to that patent's annual maintenance cost.
 
@@ -57,15 +57,15 @@ A patent portfolio ROI audit starts with a complete inventory of costs, a claim-
 
 A patent should be abandoned when its total ROI score across all four dimensions is less than its annual maintenance cost and there is no credible path to improving that score within 24 months. This is a hard decision for founders who spent $20,000 to $40,000 obtaining the patent, but the sunk cost is irrelevant to the forward-looking ROI calculation.
 
-Hayat Amin reminds founders that abandoning a low-value patent is not admitting failure, it is capital allocation. The maintenance fees saved on five abandoned patents can fund two new provisional filings on innovations with 10x the commercial potential. The best patent portfolios are pruned portfolios. They contain fewer patents, each with higher individual ROI, and the total portfolio generates more value at lower cost than the bloated version it replaced.
+Hayat Amin tells founders that abandoning a low-value patent is capital allocation, not failure. The maintenance fees saved on five abandoned patents can fund two new provisional filings on innovations with 10x the commercial potential. The best patent portfolios are pruned portfolios. They contain fewer patents, each with higher individual ROI, and the total portfolio generates more value at lower cost than the bloated version it replaced.
 
 ## What does a high-ROI patent portfolio look like?
 
 A high-ROI patent portfolio is concentrated, commercially mapped, and actively worked. It typically contains 8 to 20 patents covering core differentiators, with each patent mapped to at least one product in the market, either the company's own product for defensive value or a competitor's product for licensing potential. The portfolio generates measurable returns across multiple dimensions and is reviewed quarterly.
 
-The companies that pull this off treat their patent portfolio like a financial instrument rather than a legal filing cabinet. They assign a portfolio owner, increasingly a fractional Chief IP Officer, who is accountable for ROI as well as prosecution outcomes. They run annual audits using all four metrics. And they make explicit keep-license-abandon decisions on every patent, every year.
+The companies that pull this off treat their portfolio like a financial instrument, not a legal filing cabinet. They assign a portfolio owner, often a fractional Chief IP Officer, accountable for ROI as well as prosecution outcomes, run annual audits against all four metrics, and make explicit keep-license-abandon calls on every patent every year.
 
-Beyond Elevation runs patent portfolio ROI audits for technology companies preparing for fundraising, licensing campaigns, or exit. The audit typically surfaces 20% to 35% of portfolio value that the company was not capturing, through unidentified licensing targets, undervalued defensive positions, or maintenance spend on patents with no commercial path. Book a portfolio ROI audit at [beyondelevation.com](https://beyondelevation.com) to see what your patents are really returning.
+Beyond Elevation runs patent portfolio ROI audits for technology companies preparing for fundraising, licensing campaigns, or exit. The audit typically surfaces 20% to 35% of portfolio value that the company was not capturing, through unidentified licensing targets, undervalued defensive positions, or maintenance spend on patents with no commercial path. Book a portfolio ROI audit at [beyondelevation.com](https://beyondelevation.com) to see what your patents are returning.
 
 
 
@@ -99,7 +99,7 @@ Annually at minimum, and before any major capital event, fundraising round, acqu
 
 ### What is the biggest mistake companies make with patent portfolio management?
 
-Filing without a licensing or monetisation plan. Most companies spend 90% of their IP budget obtaining patents and less than 10% extracting value from them. Flipping that ratio, even partially, is the single highest-impact change a company can make to its patent portfolio ROI.
+Filing without a licensing or monetisation plan. Most companies spend 90% of their IP budget obtaining patents and less than 10% extracting value from them. Flipping that ratio, even partially, is the highest-impact change a company can make to its patent portfolio ROI.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
