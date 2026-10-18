@@ -1,16 +1,21 @@
-Most founders know their revenue. Acquirers don't look at revenue first.
+The average SME spends £47K a year prosecuting patents.
 
-The 6 numbers they pull before anything else:
+Average licensing revenue: £0.
 
-1. Gross margin (not revenue — margin)
-2. Customer concentration (top 3 = what % of ARR?)
-3. Net revenue retention (are you losing customers quietly?)
-4. Payroll as % of revenue
-5. Days Sales Outstanding
-6. Rolling 12-month EBITDA, not annual
+That's not an IP problem. That's a commercial structure problem.
 
-The founders who exit at 7x understood these numbers before their banker arrived.
+Filing a patent creates a right.
 
-The ones who exit at 3x scrambled to explain them in the data room.
+Filing a licensing framework creates a revenue line.
 
-#FractionalCFO #CFO #ExitReadiness
+Most founders know how to do the first one. Almost none have done the second.
+
+3 things that kill licensing before it starts:
+
+No rate card. No minimum guarantee clause. No commercial owner for the IP.
+
+Your IP counsel drafts claims. They don't build licensing programmes.
+
+That's a Chief IP Officer job. And most companies don't have one.
+
+#IPStrategy #Licensing #FractionalCIPO

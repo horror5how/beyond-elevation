@@ -788,3 +788,4 @@ ai-agents-replace-3-hires-2026
 fractional-chief-ip-officer-vs-law-firm
 ai-sop-adoption-gap-2026
 founders-financial-numbers-acquirers-read-2026
+patent-prosecution-vs-licensing-gap-2026
