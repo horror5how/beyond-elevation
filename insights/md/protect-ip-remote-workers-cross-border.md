@@ -95,7 +95,7 @@ At least fifteen major jurisdictions require or provide for additional compensat
 
 ### Can Beyond Elevation help with cross-border IP audits?
 
-Yes. Beyond Elevation runs cross-border IP audits for companies with remote engineering teams, identifying jurisdiction-by-jurisdiction ownership gaps and deploying Hayat Amin’s Cross-Border IP Assignment Matrix to close them. The process typically takes four to six weeks and covers contract remediation, local formality compliance, and ongoing invention capture process setup. Book a strategy session at [beyondelevation.com](https://beyondelevation.com).
+Yes. Beyond Elevation runs cross-border IP audits for companies with remote engineering teams, identifying jurisdiction-by-jurisdiction ownership gaps and deploying the Cross-Border IP Assignment Matrix to close them. The process typically takes four to six weeks and covers contract remediation, local formality compliance, and ongoing invention capture process setup. Book a strategy session at [beyondelevation.com](https://beyondelevation.com).
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
