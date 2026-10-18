@@ -517,5 +517,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Which AI tool is used for automated customer service? Six priced side by side](https://beyondelevation.com/insights/which-ai-tool-is-used-for-automated-customer-service) — /insights/md/which-ai-tool-is-used-for-automated-customer-service.md
 - [Your Remote Team Is Building IP You Do Not Own: The Cross-Border Clause That Fixes It](https://beyondelevation.com/insights/protect-ip-remote-workers-cross-border) — /insights/md/protect-ip-remote-workers-cross-border.md
 - [What to Delegate to a Fractional Executive: The Scope Mistake That Wastes 60 Percent of the Engagement](https://beyondelevation.com/insights/what-to-delegate-fractional-executive) — /insights/md/what-to-delegate-fractional-executive.md
+- [Management Accounts vs Financial Statements: One Runs Your Company, One Sells It](https://beyondelevation.com/insights/management-accounts-vs-financial-statements) — /insights/md/management-accounts-vs-financial-statements.md
 
 > Full blog content available at /llms-full.txt
