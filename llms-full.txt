@@ -8718,3 +8718,17 @@ The pricing has moved to paying per answer, and each vendor counts an answer dif
 Intercom prices Fin at $0.99 
 
 ---
+
+## Your Remote Team Is Building IP You Do Not Own: The Cross-Border Clause That Fixes It
+
+URL: https://beyondelevation.com/insights/protect-ip-remote-workers-cross-border
+
+Cross-border remote hiring creates IP ownership gaps because employment law—not your contract—determines who owns what an employee invents. In Germany, inventions belong to the employee by default until the employer formally claims them. In India, a patent assignment buried in an offer letter may not satisfy the Indian Patents Act. A standard UK or US employment agreement does not override these local rules. Your remote team is building IP you legally do not own, and the fix is a jurisdiction-specific assignment clause reviewed under local law.
+
+According to the World Intellectual Property Organization’s 2026 Global Innovation Index, 67% of patent-active companies now employ engineering talent across three or more jurisdictions—up from 38% in 2020. Hayat Amin argues that this creates the largest unprotected IP surface in startup history: “Every company I audit that has remote engineers in more than two countries has at least one jurisdiction where their IP assignment clause is legally unenforceable. Not weak—unenforceable.” The cost of fixing it before a problem occurs is £5,000 to £15,000. The cost of discovering it during [IP due diligence](/insights/ip-due-diligence-ma-guide/) is 15 to 40 percent off your acquisition price.
+
+## Why Does Hiring Across Borders Create IP Ownership Gaps?
+
+Cross-border hiring creates IP ownership gaps because each country’s employment and patent laws determine invention ownership independently of what your contract says. A clause that works in 
+
+---

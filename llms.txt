@@ -515,5 +515,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI for Wholesale Distributors: the 8 Systems to Connect First](https://beyondelevation.com/insights/ai-for-wholesale-distributors) — /insights/md/ai-for-wholesale-distributors.md
 - [FP&A for Startups: The Finance Function Gap Between Bookkeeping and Board-Ready Numbers](https://beyondelevation.com/insights/fpa-for-startups-financial-planning-analysis) — /insights/md/fpa-for-startups-financial-planning-analysis.md
 - [Which AI tool is used for automated customer service? Six priced side by side](https://beyondelevation.com/insights/which-ai-tool-is-used-for-automated-customer-service) — /insights/md/which-ai-tool-is-used-for-automated-customer-service.md
+- [Your Remote Team Is Building IP You Do Not Own: The Cross-Border Clause That Fixes It](https://beyondelevation.com/insights/protect-ip-remote-workers-cross-border) — /insights/md/protect-ip-remote-workers-cross-border.md
 
 > Full blog content available at /llms-full.txt
