@@ -1,21 +1,16 @@
-You built 14 AI workflows last quarter. Adoption rate: 23%.
+Most founders know their revenue. Acquirers don't look at revenue first.
 
-The other 77% run the task manually, with a different tool, or a different prompt every time.
+The 6 numbers they pull before anything else:
 
-That is not an AI problem.
+1. Gross margin (not revenue — margin)
+2. Customer concentration (top 3 = what % of ARR?)
+3. Net revenue retention (are you losing customers quietly?)
+4. Payroll as % of revenue
+5. Days Sales Outstanding
+6. Rolling 12-month EBITDA, not annual
 
-That is a change management gap — erasing the ROI you promised your board.
+The founders who exit at 7x understood these numbers before their banker arrived.
 
-Three fixes in 30 days:
+The ones who exit at 3x scrambled to explain them in the data room.
 
-Embed the SOP in the workflow. Not a Notion doc. In the tool.
-
-Remove the manual override. Process exists — team follows it.
-
-Audit usage weekly for 90 days. Quarterly reviews miss the drift.
-
-The gap between 4x AI ROI and 0.3x is not the model.
-
-It is whether your team uses it.
-
-#AIOperations #OperationalExcellence #FractionalCFO
+#FractionalCFO #CFO #ExitReadiness
