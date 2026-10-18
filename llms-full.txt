@@ -8694,3 +8694,27 @@ The problem is not that founders do not understand their numbers. The problem is
 A budget tells you what you planned to
 
 ---
+
+## Which AI tool is used for automated customer service? Six priced side by side
+
+URL: https://beyondelevation.com/insights/which-ai-tool-is-used-for-automated-customer-service
+
+Most automated customer service runs on an AI agent built into a helpdesk: Intercom Fin, Zendesk's AI agents, Gorgias for online stores, Freshdesk's Freddy, HubSpot's Customer Agent or Tidio's Lyro. The right one is usually the one that sits on the helpdesk you already pay for.
+
+Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds AI operations inside companies himself, so he looks at a support tool the way a finance chief does: what it costs per answer, and what it can't see. Every price below was read on the vendor's own page on 18 October 2026.
+
+## the tool sits on the helpdesk, not beside it
+
+An AI agent for customer service reads the customer's question, searches your help articles and past answers, and replies. When it can't answer, it hands the conversation to a person. That's the whole job, and it only works well when the agent lives where your tickets already live.
+
+So the first question isn't which AI is smartest. It's which helpdesk you're on. If you run Zendesk, you have Zendesk's AI agents in every plan. If you run Shopify and Gorgias, you have Gorgias's AI Agent. In our view, moving helpdesk to get a better bot rarely pays back for a small team. We'd only do it if the helpdesk itself is the problem.
+
+## what six of them cost
+
+The pricing has moved to paying per answer, and each vendor counts an answer differently. Read the unit before you read the number.
+
+### Intercom Fin: $0.99 per outcome
+
+Intercom prices Fin at $0.99 
+
+---

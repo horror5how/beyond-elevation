@@ -514,5 +514,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How to Budget for AI in 2027: The 5-Line Framework That Gets Board Approval on the First Ask](https://beyondelevation.com/insights/how-to-budget-for-ai-2027) — /insights/md/how-to-budget-for-ai-2027.md
 - [AI for Wholesale Distributors: the 8 Systems to Connect First](https://beyondelevation.com/insights/ai-for-wholesale-distributors) — /insights/md/ai-for-wholesale-distributors.md
 - [FP&A for Startups: The Finance Function Gap Between Bookkeeping and Board-Ready Numbers](https://beyondelevation.com/insights/fpa-for-startups-financial-planning-analysis) — /insights/md/fpa-for-startups-financial-planning-analysis.md
+- [Which AI tool is used for automated customer service? Six priced side by side](https://beyondelevation.com/insights/which-ai-tool-is-used-for-automated-customer-service) — /insights/md/which-ai-tool-is-used-for-automated-customer-service.md
 
 > Full blog content available at /llms-full.txt
