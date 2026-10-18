@@ -1,23 +1,21 @@
-Your law firm billed £48K last year on your IP portfolio.
+You built 14 AI workflows last quarter. Adoption rate: 23%.
 
-Your licensing revenue: £0.
+The other 77% run the task manually, with a different tool, or a different prompt every time.
 
-That's not a legal problem. That's a strategy problem.
+That is not an AI problem.
 
-Law firms track billable hours. IP strategy tracks revenue. They are different jobs.
+That is a change management gap — erasing the ROI you promised your board.
 
-A fractional Chief IP Officer identifies which patents can be licensed, to whom, at what rate, and structures the deal.
+Three fixes in 30 days:
 
-A law firm files and defends. Full stop.
+Embed the SOP in the workflow. Not a Notion doc. In the tool.
 
-3 things a fractional CIPO does that outside counsel never will:
+Remove the manual override. Process exists — team follows it.
 
-Build a licensing pipeline.
+Audit usage weekly for 90 days. Quarterly reviews miss the drift.
 
-Map your IP to acquirer premiums.
+The gap between 4x AI ROI and 0.3x is not the model.
 
-Turn a cost centre into a recurring revenue line.
+It is whether your team uses it.
 
-The retainer is £4,500/month. One licensing deal pays for 18 months.
-
-#IPStrategy #FractionalExecutive #IP
+#AIOperations #OperationalExcellence #FractionalCFO
