@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 For most US companies of 10 to 200 people with no developer on staff, the best AI workflow automation platform is Zapier. Make is the visual alternative, n8n wins if you have a developer or need the data on your own servers, and Power Automate wins inside Microsoft 365.
 
-Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer. He now builds these workflows inside companies himself, as a forward deployed engineer, so the ranking below comes from someone who has to keep the automations running after the demo. We read every price on the vendor's own pricing page on 19 October 2026, in US dollars unless the page showed another currency. Where a vendor doesn't print a price, we say so rather than borrow one from a review site.
+Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer. He now builds these workflows inside companies himself, as a forward deployed engineer, so the ranking below comes from someone who has to keep the automations running after the demo. We read every price on the vendor's own pricing page on 19 October 2026, in US dollars unless the page showed another currency. If a vendor doesn't print a price, we say so instead of borrowing one from a review site.
 
 ## how we ranked the eight
 

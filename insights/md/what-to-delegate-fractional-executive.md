@@ -11,11 +11,11 @@ site: Beyond Elevation
 
 Most CEOs hire a fractional executive at six to twelve thousand pounds a month and immediately hand them the work nobody else wants to do. Month-end reconciliations. Vendor negotiations. Internal process documentation. Within 90 days, the engagement feels like an overpaid contractor arrangement, and the CEO blames the model.
 
-The model is not the problem. The scope is.
+The scope is the problem.
 
 According to a 2025 Staffing Industry Analysts survey, 62 percent of fractional executive engagements that underperform do so because of scope misalignment, not skill gaps. Hayat Amin, who has placed and operated as a fractional executive across three continents, argues the failure pattern is predictable: CEOs delegate down when they should delegate up. They hand over tasks when they should hand over decisions.
 
-## What Should You Delegate to a Fractional Executive?
+## What should you delegate to a fractional executive?
 
 Delegate the work that requires senior judgment, institutional knowledge, and strategic decision-making. A fractional executive exists to fill a function gap, not a task gap. The distinction between those two words is the entire engagement and the reason most scoping conversations go wrong before the contract is signed.
 
@@ -23,7 +23,7 @@ A fractional CFO should own your financial model, your fundraise readiness, and 
 
 The pattern is the same regardless of role. You delegate the function, not the tasks within the function. Hayat Amin calls this the **Delegation Altitude Framework**: four levels of work, each with a different owner, and the fractional executive should spend 80 percent of their time at Levels 1 and 2.
 
-## How Does the Delegation Altitude Framework Work?
+## How does the Delegation Altitude Framework work?
 
 The Delegation Altitude Framework separates every task in a fractional executive's domain into four levels based on decision altitude, and the level where you focus the engagement determines whether you get strategic value or expensive admin. Beyond Elevation uses this framework in every fractional placement to align CEO expectations before day one.
 
@@ -33,19 +33,19 @@ The Delegation Altitude Framework separates every task in a fractional executive
 
 **Level 3: Operational cadence.** Weekly rhythms, reporting cycles, team check-ins, vendor management. This level requires consistent daily presence, which is exactly what a fractional executive does not have. Delegate sparingly here. The fractional exec should design the cadence and train someone internal to run it. If you delegate Level 3 work to a two-day-a-week executive, you get two good days and five days of drift.
 
-**Level 4: Execution tasks.** Data entry, reconciliations, renewals, filings, scheduling. Never delegate this to a fractional executive. If you are paying four hundred pounds an hour for someone to update a spreadsheet, you have a scope problem, not a people problem. This work belongs to junior staff, software, or [AI agents](/insights/automate-first/).
+**Level 4: Execution tasks.** Data entry, reconciliations, renewals, filings, scheduling. Never delegate this to a fractional executive. Paying four hundred pounds an hour for someone to update a spreadsheet is a scope problem. This work belongs to junior staff, software, or [AI agents](/insights/automate-first/).
 
-## What Should You Never Delegate to a Fractional Executive?
+## What should you never delegate to a fractional executive?
 
-Never delegate culture decisions, founder narrative, or tasks that require daily physical presence to a fractional executive. These three categories fail by design, not by effort, because a part-time operator cannot own something that demands full-time context. Attempting it wastes their limited hours and frustrates everyone involved.
+Never delegate culture decisions, founder narrative, or tasks that require daily physical presence to a fractional executive. These three categories fail because a part-time operator cannot own something that demands full-time context. Attempting it wastes their limited hours and frustrates everyone involved.
 
-Culture is the most common trap. A CEO hires a fractional Managing Director and asks them to fix the culture in two days a week. Culture is set by who gets promoted, who gets fired, and what behaviour gets tolerated in the moments between meetings. A fractional executive sees 40 percent of those moments at best. They can diagnose culture problems and design corrective frameworks, but they cannot own culture the way a full-time leader can.
+Culture is the most common trap. A CEO hires a fractional Managing Director and asks them to fix the culture in two days a week. Culture is set by who gets promoted, who gets fired, and what behaviour gets tolerated in the moments between meetings. A fractional executive sees 40 percent of those moments at best. They can diagnose culture problems and design corrective frameworks, but they cannot own culture the way a leader who is there every day can.
 
 Founder narrative is the second trap. Your fundraise story, your vision deck, your positioning. Hayat Amin reminds founders that investors fund conviction, not delegation. A fractional CFO can build the [financial model behind the narrative](/insights/fractional-cfo-fundraising/), but the narrative itself must come from the founder, every time.
 
 Daily-presence tasks are the third trap. If a task requires someone to be in the office or on Slack five days a week to work, it does not belong on a fractional executive's plate. Build the system so it runs on its own, and use the fractional exec's limited days for the decisions the system cannot make.
 
-## How Does the Right Delegation Scope Change by Fractional Role?
+## How does the right delegation scope change by fractional role?
 
 The delegation scope shifts based on which function the fractional executive fills, but the altitude principle stays constant across every role. Strategic and function-building work first. Operational and execution work last or never. Here is what good scope looks like for the three most common fractional roles.
 
@@ -53,17 +53,17 @@ The delegation scope shifts based on which function the fractional executive fil
 
 **Fractional Chief IP Officer.** Delegate your [IP strategy](/insights/ip-strategy-startups-guide/), patent portfolio prioritisation, licensing negotiation, and IP valuation for fundraise or exit. Do not delegate trademark renewals, prior art searching, or patent filing paperwork. Those belong to your IP law firm or your paralegal.
 
-**Fractional AI Operations Lead.** Delegate your [automation roadmap](/insights/what-to-automate-first-with-ai-agents/), agent architecture decisions, build-versus-buy analysis, and AI governance framework. Do not delegate prompt engineering, workflow testing, or tool configuration. Those belong to your engineering team or your implementation partner.
+**Fractional AI Operations Lead.** Delegate your [automation roadmap](/insights/what-to-automate-first-with-ai-agents/), agent architecture decisions, build versus buy calls, and your AI governance framework. Do not delegate prompt engineering, workflow testing, or tool configuration. Those belong to your engineering team or your implementation partner.
 
 Hayat Amin argues the same scoping error appears in all three roles. CEOs hand over the bottom of the function because it feels urgent. The urgent work is always Level 3 or Level 4. The valuable work is always Level 1 or Level 2. A fractional executive who spends most of their time at the bottom of the stack cannot produce results at the top.
 
-## The 90-Day Scope Reset That Doubles Output
+## The 90-day scope reset that doubles output
 
-Every fractional executive engagement needs a deliberate scope reset at 90 days because the scope you define at the start is always wrong. Not slightly wrong. Structurally wrong. You scope based on what you think the function needs. By day 90, the fractional executive has audited the function and found what it actually needs.
+Every fractional executive engagement needs a deliberate scope reset at 90 days because the scope you define at the start is always wrong. Not slightly wrong. Structurally wrong. You scope based on what you think the function needs. By day 90, the fractional executive has audited the function and found what it needs.
 
-Run the reset in three steps. First, review where the fractional executive has actually spent their time against the original scope. If more than 30 percent of their hours went to Level 3 or Level 4 work, the scope has drifted downward and needs correction. Second, list the strategic decisions the executive made and the systems they built. If the list is short, the altitude is wrong. Third, rewrite the scope document with the executive, explicitly moving any recurring Level 3 or Level 4 tasks off their plate and replacing them with the Level 1 and Level 2 priorities that emerged during the first 90 days.
+Run the reset in three steps. First, review where the fractional executive has spent their time against the original scope. If more than 30 percent of their hours went to Level 3 or Level 4 work, the scope has drifted downward and needs correction. Second, list the strategic decisions the executive made and the systems they built. If the list is short, the altitude is wrong. Third, rewrite the scope document with the executive, explicitly moving any recurring Level 3 or Level 4 tasks off their plate and replacing them with the Level 1 and Level 2 priorities that emerged during the first 90 days.
 
-Hayat Amin says the 90-day reset is the single intervention that most reliably converts a failed engagement into a successful one. At Beyond Elevation, every fractional placement includes a built-in 90-day scope review as standard. The [30-day scorecard](/insights/fractional-executive-30-day-scorecard/) catches early drift. The 90-day reset rebuilds the engagement around what the company actually needs.
+Hayat Amin says the 90-day reset is the single intervention that most reliably converts a failed engagement into a successful one. At Beyond Elevation, every fractional placement includes a built-in 90-day scope review as standard. The [30-day scorecard](/insights/fractional-executive-30-day-scorecard/) catches early drift. The 90-day reset rebuilds the engagement around what the company needs.
 
 If you are hiring a fractional executive or resetting an engagement that is not delivering, the delegation altitude is the first thing to diagnose. [Beyond Elevation](https://beyondelevation.com) places fractional CFOs, Chief IP Officers, and AI Operations leads with a structured scope design and 90-day reset built into every engagement.
 
@@ -87,7 +87,7 @@ Most fractional executive engagements run between 8 and 16 hours per week, typic
 
 ### Can a fractional executive build a team?
 
-Yes, and they should. Building the permanent team beneath them is one of the highest-value Level 2 tasks a fractional executive can own. A well-scoped engagement includes hiring the function's first one or two full-time staff, training them on the systems the fractional executive designed, and then [transitioning operational ownership](/insights/when-to-replace-fractional-executive-full-time/) to that team.
+Yes, and they should. Building the permanent team beneath them is one of the highest-value Level 2 tasks a fractional executive can own. A well-scoped engagement includes hiring the function's first one or two permanent staff, training them on the systems the fractional executive designed, and then [transitioning operational ownership](/insights/when-to-replace-fractional-executive-full-time/) to that team.
 
 ### What is the biggest delegation mistake CEOs make with fractional executives?
 

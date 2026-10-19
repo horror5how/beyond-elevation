@@ -13,11 +13,11 @@ Most automated customer service runs on an AI agent built into a helpdesk: Inter
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds AI operations inside companies himself, so he looks at a support tool the way a finance chief does: what it costs per answer, and what it can't see. Every price below was read on the vendor's own page on 18 October 2026.
 
-## the tool sits on the helpdesk, not beside it
+## the tool lives inside your helpdesk
 
-An AI agent for customer service reads the customer's question, searches your help articles and past answers, and replies. When it can't answer, it hands the conversation to a person. That's the whole job, and it only works well when the agent lives where your tickets already live.
+An AI agent for customer service reads the customer's question, searches your help articles and past answers, and replies. If it can't answer, it hands the conversation to a person. That's the whole job, and it only works well when the agent lives where your tickets already live.
 
-So the first question isn't which AI is smartest. It's which helpdesk you're on. If you run Zendesk, you have Zendesk's AI agents in every plan. If you run Shopify and Gorgias, you have Gorgias's AI Agent. In our view, moving helpdesk to get a better bot rarely pays back for a small team. We'd only do it if the helpdesk itself is the problem.
+The first question is which helpdesk you're on, not which AI is smartest. If you run Zendesk, you have Zendesk's AI agents in every plan. If you run Shopify and Gorgias, you have Gorgias's AI Agent. In our view, moving helpdesk to get a better bot rarely pays back for a small team. We'd only do it if the helpdesk itself is the problem.
 
 ## what six of them cost
 
@@ -51,7 +51,7 @@ Tidio has a free plan, and its Lyro AI Agent starts at $32.50 a month for 50 con
 
 Take a company getting 1,000 support conversations a month. Say 300 of them are the same five questions, which is our assumption, not a measured figure. At Intercom's $0.99, those 300 cost $297 a month. At Zendesk's pay as you go $2.00, they'd cost $600, less the included resolutions. On our arithmetic, that's $3,564 to $7,200 a year.
 
-The Bureau of Labor Statistics puts the median pay for a customer service representative at $21.53 an hour, or $44,770 a year, in 2025. If each of those 300 conversations takes 6 minutes of a person's time, again our assumption, that's 30 hours a month, about $646 at median pay. So the AI agent is cheaper per answer, but not by the margin the vendors' demos suggest, and it's only cheaper if it gets the answer right.
+The Bureau of Labor Statistics puts the median pay for a customer service representative at $21.53 an hour, or $44,770 a year, in 2025. If each of those 300 conversations takes 6 minutes of a person's time, again our assumption, that's 30 hours a month, about $646 at median pay. The AI agent works out cheaper per answer, but not by the margin the vendors' demos suggest, and only if it gets the answer right.
 
 The same Bureau of Labor Statistics page projects customer service jobs to fall 5% between 2025 and 2035, from 2,666,000 jobs in 2025. The work isn't vanishing. The repeat questions are moving to software, and the people are left with the hard ones.
 

@@ -9,13 +9,13 @@ site: Beyond Elevation
 
 # AI for Wholesale Distributors: the 8 Systems to Connect First
 
-AI for wholesale distributors pays off first in the order desk and the back office, not in a forecasting model. The eight systems to connect first are the purchase order inbox, EDI, the ERP, accounts payable, inventory planning, the CRM, parcel shipping and a live screen for the owner. When they don't talk to each other, someone carries data between them by hand every day, and the owner sees the result at month end.
+AI for wholesale distributors pays off in the order desk and the back office. The eight systems to connect first are the purchase order inbox, EDI, the ERP, accounts payable, inventory planning, the CRM, parcel shipping and a live screen for the owner. If they don't talk to each other, someone carries data between them by hand every day, and the owner sees the result at month end.
 
 Hayat Amin has spent twenty years in technology and sold three companies as chief financial officer, and he reads a distributor the way a buyer does: by margin per order, cash tied up in stock and the hours it takes to turn a customer's PDF into a shipped pallet. He now builds these connections inside companies himself, as a forward deployed engineer. Every price below was read on the vendor's own page on 17 October 2026, in US dollars, and where a vendor hides its price we say so.
 
 ## which distributors get the most from this
 
-Three symptoms qualify a distributor. Customer orders arrive as emailed PDFs and spreadsheets, and someone retypes each line into the ERP. The buyer decides what to reorder from a spreadsheet exported on Monday. And the owner can't say what gross margin the business made this week until the books close after month end.
+Three symptoms qualify a distributor. Customer orders arrive as emailed PDFs and spreadsheets, and someone retypes each line into the ERP. The buyer decides what to reorder from a spreadsheet exported on Monday. The owner can't say what gross margin the business made this week until the books close after month end.
 
 The retyping is a measurable job. The Bureau of Labor Statistics counts 75,200 order clerks in the United States in May 2025, with a median wage of $22.20 an hour, or $46,170 a year. Of those, 13,540 work at merchant wholesalers of durable goods and 7,020 at merchant wholesalers of nondurable goods, so about 27 percent of the country's order clerks sit inside wholesale. Wholesale trade as a whole employed 6,078,300 people in September 2026, a preliminary BLS figure.
 
@@ -75,7 +75,7 @@ Everything above feeds one view: orders taken today, lines keyed by hand against
 
 Microsoft Power BI Pro is $14 per user per month and Premium Per User $24, both paid yearly. The tool is cheap. The work is in the joins: getting the ERP, the AP tool, the planning tool and the CRM to agree on what a customer, an order and a SKU are, so the number on the screen is one the owner can act on before Friday.
 
-## Where Beyond Elevation fits, and the disclosure
+## Beyond Elevation's role here, and the disclosure
 
 Beyond Elevation is Hayat Amin's firm, so read this paragraph as an interested one. We build the joins between the products above, and items 1, 4 and 8 most often: the purchase order inbox writing into the ERP you already run, supplier invoices matched against receipts, and the live screen a distributor's owner can run the week on. Hayat Amin takes this work on for distributors in New York, New Jersey and across the United States as a forward deployed engineer, writes the integration in your own stack and hands it over documented and running. The engagement is on the [forward deployed engineering page](/fde), where smaller companies start with a two week AI Audit at a fixed $3,000, and the build conversation is at [meethayat.com/services/fde](https://meethayat.com/services/fde). If the finance seat is the gap, that's [meethayat.com/cfo](https://meethayat.com/cfo). The same problem in other industries is in [freight broker back office automation](/insights/freight-broker-back-office-automation/) and [AI for construction companies](/insights/ai-for-construction-companies/), and what a build costs is in [how much AI automation costs](/insights/how-much-does-ai-automation-cost/).
 
