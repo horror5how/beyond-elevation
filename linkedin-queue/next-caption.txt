@@ -1,17 +1,20 @@
-Every company has AI workflows running.
+Your revenue grew 40% last year. Your bank account shrank.
 
-1 in 3 has someone who actually owns them.
+That is the working capital trap.
 
-No owner means no governance.
+When sales outpace collections, growth destroys cash.
 
-No governance means workflows drift — and eventually fail.
+3 signs you're in it:
+- DSO crept past 45 days while you weren't watching
+- Creditors paid in 30, customers paying you in 68
+- Board wants 18-month runway. You can only show 9
 
-68% of AI deployments need manual override at least once a week.
+Most founders hire another salesperson to fix it.
 
-Most get caught by accident, not by design.
+The fix is a cash conversion cycle audit, not a new AE.
 
-Companies compounding on AI have one thing in common: a named owner for every workflow, a defined SLA, and a weekly review.
+A fractional CFO identifies the gap in week one and closes it in 90 days. Without adding headcount.
 
-That is not a tech hire. That is an operations decision.
+Revenue growth with no cash to show is just a faster way to run out.
 
-#AIOperations #FractionalExecutive #AIGovernance
+#FractionalCFO #CashFlow #FounderFinance
