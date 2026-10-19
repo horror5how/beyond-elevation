@@ -1,21 +1,17 @@
-The average SME spends £47K a year prosecuting patents.
+Every company has AI workflows running.
 
-Average licensing revenue: £0.
+1 in 3 has someone who actually owns them.
 
-That's not an IP problem. That's a commercial structure problem.
+No owner means no governance.
 
-Filing a patent creates a right.
+No governance means workflows drift — and eventually fail.
 
-Filing a licensing framework creates a revenue line.
+68% of AI deployments need manual override at least once a week.
 
-Most founders know how to do the first one. Almost none have done the second.
+Most get caught by accident, not by design.
 
-3 things that kill licensing before it starts:
+Companies compounding on AI have one thing in common: a named owner for every workflow, a defined SLA, and a weekly review.
 
-No rate card. No minimum guarantee clause. No commercial owner for the IP.
+That is not a tech hire. That is an operations decision.
 
-Your IP counsel drafts claims. They don't build licensing programmes.
-
-That's a Chief IP Officer job. And most companies don't have one.
-
-#IPStrategy #Licensing #FractionalCIPO
+#AIOperations #FractionalExecutive #AIGovernance
