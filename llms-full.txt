@@ -8798,3 +8798,17 @@ In an exclusive deal, you trade breadth for depth. The licensee pays more per li
 Beyond Elevation structures both types routinely. The question is never which is better. It is w
 
 ---
+
+## Your Finance Pack Is 40 Pages. You Need One. The Weekly CEO Dashboard That Runs a Company on 7 Numbers.
+
+URL: https://beyondelevation.com/insights/weekly-ceo-dashboard-7-numbers
+
+A weekly CEO dashboard is a single-page view of seven financial and operational numbers that tell a CEO whether the company is on track or bleeding. It replaces the monthly 40-page finance pack — which most CEOs skim two pages of and ignore the rest — with a view that takes 90 seconds to read and drives decisions the same morning. According to the 2026 FP&A Trends survey by the Association for Financial Professionals, 68% of CEOs at companies under $50M revenue receive financial data too infrequently to act on it. Hayat Amin argues the fix is not more data — it is fewer, better numbers delivered every Monday before the CEO’s first meeting: “The 40-page monthly pack exists because the CFO is covering their back, not serving the CEO. A weekly CEO dashboard serves one person and answers one question: are we winning or losing this week?”
+
+## What Belongs on a Weekly CEO Dashboard?
+
+A weekly CEO dashboard should contain exactly seven numbers: cash balance, cash runway, revenue (trailing four weeks), gross margin, net new pipeline, customer churn, and the single most important operating metric for the company’s stage. Everything else is noise that belongs in the CFO’s working files, not the CEO’s decision screen.
+
+Most finance functions overreport. They send the CEO a P&L, a balance sheet, a cash flow statement, an AR aging report, an AP summary, a budget variance report, and a department breakdown — 40 pages that answer every question nobody asked. The weekly CEO dashboard answers
+
+---
