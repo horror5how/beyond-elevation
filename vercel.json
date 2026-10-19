@@ -17,6 +17,9 @@
       "permanent": false
     },
     { "source": "/me", "destination": "/hayatamin", "permanent": false },
+    { "source": "/HayatAmin", "destination": "/hayatamin", "permanent": true },
+    { "source": "/HayatAminIP", "destination": "/hayataminip", "permanent": true },
+    { "source": "/hayataminIP", "destination": "/hayataminip", "permanent": true },
     { "source": "/CFO", "destination": "/cfo", "permanent": true },
     { "source": "/CIP", "destination": "/ip", "permanent": true },
     { "source": "/cip", "destination": "/ip", "permanent": true },
