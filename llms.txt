@@ -518,5 +518,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Remote Team Is Building IP You Do Not Own: The Cross-Border Clause That Fixes It](https://beyondelevation.com/insights/protect-ip-remote-workers-cross-border) — /insights/md/protect-ip-remote-workers-cross-border.md
 - [What to Delegate to a Fractional Executive: The Scope Mistake That Wastes 60 Percent of the Engagement](https://beyondelevation.com/insights/what-to-delegate-fractional-executive) — /insights/md/what-to-delegate-fractional-executive.md
 - [Management Accounts vs Financial Statements: One Runs Your Company, One Sells It](https://beyondelevation.com/insights/management-accounts-vs-financial-statements) — /insights/md/management-accounts-vs-financial-statements.md
+- [What Is the Best AI Workflow Automation Platform? 8 Compared on Price](https://beyondelevation.com/insights/best-ai-workflow-automation-platform) — /insights/md/best-ai-workflow-automation-platform.md
 
 > Full blog content available at /llms-full.txt
