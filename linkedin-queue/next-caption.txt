@@ -1,17 +1,19 @@
-Your management accounts are 6 weeks late every month.
+Your engineers used GPL code in your product.
 
-Your investor hasn't mentioned it.
+Your acquirer just found out.
 
-They already wrote you off.
+The deal fell apart.
 
-Late books are not a reporting problem.
+GPL doesn't offer a 'we didn't know' carve-out.
 
-They signal the finance function is broken.
+The contamination rule: any product that links to GPL code is GPL. Your entire codebase.
 
-Every M&A deal we touch, buyers flag it in the first 48 hours.
+Exit blocked. Or rebuild from scratch first.
 
-A two-day close is not a CFO luxury.
+73% of M&A processes uncover undisclosed open-source obligations.
 
-It is the entry price for serious funding conversations.
+Average remediation cost when found in diligence: £2.3M.
 
-#FractionalCFO #CFO #Finance
+Run the IP audit before the LOI. Not after.
+
+#IPStrategy #MergersAndAcquisitions #Founders
