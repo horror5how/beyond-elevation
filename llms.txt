@@ -522,5 +522,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Exclusive vs Non-Exclusive License: The Single Decision That Caps or Compounds Your IP Revenue](https://beyondelevation.com/insights/exclusive-vs-non-exclusive-ip-license) — /insights/md/exclusive-vs-non-exclusive-ip-license.md
 - [Your Finance Pack Is 40 Pages. You Need One. The Weekly CEO Dashboard That Runs a Company on 7 Numbers.](https://beyondelevation.com/insights/weekly-ceo-dashboard-7-numbers) — /insights/md/weekly-ceo-dashboard-7-numbers.md
 - [Ecommerce Automation: the 9 Systems DTC Brands Connect First](https://beyondelevation.com/insights/ecommerce-automation) — /insights/md/ecommerce-automation.md
+- [Chief of Staff vs Fractional Executive: One Coordinates, the Other Operates. The Hire That Changes the Outcome.](https://beyondelevation.com/insights/chief-of-staff-vs-fractional-executive) — /insights/md/chief-of-staff-vs-fractional-executive.md
 
 > Full blog content available at /llms-full.txt
