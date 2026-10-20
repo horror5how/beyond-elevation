@@ -8861,3 +8861,19 @@ Most founders assume they have this. They do not. They have a patent attorney's 
 
 
 ---
+
+## Startup Cash Conversion Cycle: Why Profitable Companies Still Run Out of Money
+
+URL: https://beyondelevation.com/insights/startup-cash-conversion-cycle
+
+82% of businesses that fail cite cash flow as the primary cause, according to a 2024 US Bank study. Not losses. Not revenue decline. Cash flow. The number that separates surviving startups from dead ones is not on the P&L. It is the cash conversion cycle: the days between spending money and collecting it. Hayat Amin argues this is the most dangerous metric founders ignore because profitability masks it until the bank account forces the conversation. A company booking £50K per month in profit can still die in 90 days if its cash conversion cycle runs longer than its runway.
+
+## What Is a Startup's Cash Conversion Cycle?
+
+The cash conversion cycle (CCC) measures the number of days between when a company pays for its inputs and when it collects cash from customers. For startups, this number determines whether growth creates cash or destroys it. A CCC of 45 days means every pound spent takes 45 days to return as collected revenue. A CCC of negative 15 means customers pay before your bills come due. Beyond Elevation runs CCC as the first diagnostic in every fractional CFO engagement because it reveals whether the business model generates cash or consumes it at scale.
+
+The formula: CCC = DSO + DIO - DPO. DSO is days sales outstanding (how fast you collect). DIO is days inventory outstanding (how long you hold stock or deliver services). DPO is days payable outstanding (how long you take to pay suppliers). Each variable is a lever. Most founders track none of them.
+
+## Why Do Profit
+
+---
