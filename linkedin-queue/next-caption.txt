@@ -1,13 +1,16 @@
-94% of startup patent filings are utility patents.
+Most founders hire an AI engineer as their first AI hire.
 
-Design patents cost £2,000. They grant in 12 months.
+That's why AI spend runs 3x budget and output lands at 20% of what was promised.
 
-Your competitor copies your UI, your hardware form, your dashboard — not your algorithm.
+The missing role isn't technical. It's operational.
 
-That surface has zero protection while your utility patent sits in prosecution for 3 years.
+An AI engineer builds whatever you ask.
+They can't tell you what's worth building.
+Or fix the broken process underneath it.
 
-One design patent in force beats one utility patent pending.
+The first AI hire should own outcomes, not code.
 
-83% of founders have never been told this by their IP lawyer.
+We've seen this across 40+ deployments.
+Every one that compounded started with operations, not engineering.
 
-#IPStrategy #Patents #Startups
+#AIOperations #FractionalCFO #AI
