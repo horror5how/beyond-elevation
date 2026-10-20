@@ -521,5 +521,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [What Is the Best AI Workflow Automation Platform? 8 Compared on Price](https://beyondelevation.com/insights/best-ai-workflow-automation-platform) — /insights/md/best-ai-workflow-automation-platform.md
 - [Exclusive vs Non-Exclusive License: The Single Decision That Caps or Compounds Your IP Revenue](https://beyondelevation.com/insights/exclusive-vs-non-exclusive-ip-license) — /insights/md/exclusive-vs-non-exclusive-ip-license.md
 - [Your Finance Pack Is 40 Pages. You Need One. The Weekly CEO Dashboard That Runs a Company on 7 Numbers.](https://beyondelevation.com/insights/weekly-ceo-dashboard-7-numbers) — /insights/md/weekly-ceo-dashboard-7-numbers.md
+- [Ecommerce Automation: the 9 Systems DTC Brands Connect First](https://beyondelevation.com/insights/ecommerce-automation) — /insights/md/ecommerce-automation.md
 
 > Full blog content available at /llms-full.txt

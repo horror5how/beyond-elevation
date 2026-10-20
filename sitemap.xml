@@ -3167,4 +3167,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://beyondelevation.com/insights/ecommerce-automation</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
