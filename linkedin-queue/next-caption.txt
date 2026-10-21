@@ -1,19 +1,13 @@
-Your engineers used GPL code in your product.
+Most founders automate their most visible process first.
 
-Your acquirer just found out.
+That's why 68% of AI rollouts produce nothing after 12 months.
 
-The deal fell apart.
+The highest-ROI automations are boring: invoice matching, approval routing, management reporting.
 
-GPL doesn't offer a 'we didn't know' carve-out.
+Not chatbots. Not dashboards. The back office.
 
-The contamination rule: any product that links to GPL code is GPL. Your entire codebase.
+Companies that start there reach ROI 4x faster than those that start customer-facing.
 
-Exit blocked. Or rebuild from scratch first.
+Pick one workflow. Automate it completely. Prove it in 30 days. Then expand.
 
-73% of M&A processes uncover undisclosed open-source obligations.
-
-Average remediation cost when found in diligence: £2.3M.
-
-Run the IP audit before the LOI. Not after.
-
-#IPStrategy #MergersAndAcquisitions #Founders
+#AIOperations #FractionalCFO #BusinessAutomation
