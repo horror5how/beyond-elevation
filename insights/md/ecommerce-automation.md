@@ -43,7 +43,7 @@ Amazon's Professional selling plan is $39.99 a month plus selling fees, and the 
 
 If you ship yourself, ShipStation lists Starter from $14.99 a month for 50 shipments, Standard from $29.99 for 50 and $449.99 for 10,000, and Premium from $349.99, all monthly, with annual billing advertised at 20 percent off. If you hand fulfilment to a 3PL, ShipBob publishes no prices at all: its page says every quote is customised and lists warehousing, pick and pack, returns and kitting as fees without amounts. It does say the software and its turnkey integrations, Shopify among them, cost nothing.
 
-The join to check is the tracking number. It has to write back to the Shopify order the moment the label prints, so the customer's shipping email fires from the same record. When it doesn't, the next system on the list pays for it.
+The join to check is the tracking number. It has to write back to the Shopify order the moment the label prints, so the customer's shipping email fires from the same record. Miss that, and the next system on the list pays for it.
 
 ## 5. the support inbox
 
@@ -53,7 +53,7 @@ Do the arithmetic before you switch on an AI agent for tracking questions. Say y
 
 ## 6. returns and exchanges
 
-Loop lists Essential from $155 a month and Advanced from $340, with a free Checkout+ option paid for by return shipping. Advanced includes Instant Exchange. The return itself is easy to buy. What breaks is the three things that have to happen after it: the item goes back into sellable stock in the inventory system, the refund or store credit posts to the books, and the support ticket closes. If any of those happens by hand, your stock count and your margin are both wrong until someone catches it.
+Loop lists Essential from $155 a month and Advanced from $340, with a free Checkout+ option paid for by return shipping. Advanced includes Instant Exchange. The return itself is easy to buy. Three things have to happen after that, and that's where it breaks: the item goes back into sellable stock in the inventory system, the refund or store credit posts to the books, and the support ticket closes. If any of those happens by hand, your stock count and your margin are both wrong until someone catches it.
 
 ## 7. subscriptions and the email list
 

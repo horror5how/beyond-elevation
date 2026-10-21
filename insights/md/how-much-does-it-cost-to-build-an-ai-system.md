@@ -11,9 +11,9 @@ site: Beyond Elevation
 
 For a small or mid sized company, a custom AI system costs about 20,000 dollars in year one for the example in this piece. The build accounts for most of that. Model, database and hosting fees run from 50 to about 200 dollars a month. The engineer's time is the bill, and most quotes hide that.
 
-Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he prices an AI system the way a buyer prices a business: line by line, with the assumptions written next to the numbers. He now builds these systems inside companies himself. Every price below was read on the vendor's own page on 21 October 2026. Where a figure is our arithmetic or our assumption, we say so.
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he prices an AI system the way a buyer prices a business: line by line, with the assumptions written next to the numbers. He now builds these systems inside companies himself. Every price below was read on the vendor's own page on 21 October 2026. When a figure is our arithmetic or our assumption, we say so.
 
-## what counts as an AI system
+## what makes something an AI system
 
 An AI system here means software your company owns that reads your own records and does something with them. It answers a staff question from your contracts, drafts a reply from your order history, or reads a supplier invoice and writes it into QuickBooks. It's built for you, on your data, and it connects to the systems you already run.
 
@@ -125,7 +125,7 @@ Less than a custom system when the job is joining two tools with a few steps. We
 
 ### Is AI automation worth it in 2026?
 
-When the work runs through your own systems and someone in the company reads the results weekly, usually yes. When it's one person writing faster, buy seats. We set out the test in [is AI automation worth it](/insights/is-ai-automation-worth-it/).
+Mostly yes, when the work runs through your own systems and someone in the company reads the results weekly. If it's one person writing faster, buy seats. We set out the test in [is AI automation worth it](/insights/is-ai-automation-worth-it/).
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

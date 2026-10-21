@@ -9,29 +9,29 @@ site: Beyond Elevation
 
 # Startup Cash Conversion Cycle: Why Profitable Companies Still Run Out of Money
 
-82% of businesses that fail cite cash flow as the primary cause, according to a 2024 US Bank study. Not losses. Not revenue decline. Cash flow. The number that separates surviving startups from dead ones is not on the P&L. It is the cash conversion cycle: the days between spending money and collecting it. Hayat Amin argues this is the most dangerous metric founders ignore because profitability masks it until the bank account forces the conversation. A company booking £50K per month in profit can still die in 90 days if its cash conversion cycle runs longer than its runway.
+82% of businesses that fail cite cash flow as the primary cause, not losses or revenue decline, according to a 2024 US Bank study. The number that separates surviving startups from dead ones sits off the P&L: the cash conversion cycle, the days between spending money and collecting it. Hayat Amin argues this is the most dangerous metric founders ignore, because profitability masks it until the bank account forces the conversation. A company booking £50K a month in profit can still die in 90 days if its cash conversion cycle runs longer than its runway.
 
-## What Is a Startup's Cash Conversion Cycle?
+## What is a startup's cash conversion cycle?
 
 The cash conversion cycle (CCC) measures the number of days between when a company pays for its inputs and when it collects cash from customers. For startups, this number determines whether growth creates cash or destroys it. A CCC of 45 days means every pound spent takes 45 days to return as collected revenue. A CCC of negative 15 means customers pay before your bills come due. Beyond Elevation runs CCC as the first diagnostic in every fractional CFO engagement because it reveals whether the business model generates cash or consumes it at scale.
 
 The formula: CCC = DSO + DIO - DPO. DSO is days sales outstanding (how fast you collect). DIO is days inventory outstanding (how long you hold stock or deliver services). DPO is days payable outstanding (how long you take to pay suppliers). Each variable is a lever. Most founders track none of them.
 
-## Why Do Profitable Startups Run Out of Cash?
+## Why do profitable startups run out of cash?
 
 Profitable startups run out of cash because revenue recognition and cash collection are two different events separated by weeks or months. A SaaS company booking £100K in annual contracts recognises the revenue monthly but often collects payment 30 to 60 days after invoicing. Enterprise customers routinely pay at net-60 or net-90. The P&L says growth. The bank statement says negative.
 
 The problem compounds with growth. Hayat Amin calls this the cash conversion trap: every new customer acquired at a 45-day CCC requires 45 days of working capital before the cash arrives. Grow 30% quarter over quarter and the working capital gap widens faster than the profit accumulates. A startup running £500K monthly revenue at a 60-day CCC needs £1M in working capital just to fund the receivables. That money sits in someone else's account while payroll goes out weekly.
 
-This is not a profitability problem. It is a timing problem. And timing problems kill companies that accounting says should survive.
+It's a timing problem, not a profitability one, and timing problems kill companies that accounting says should survive.
 
-## What Is a Good Cash Conversion Cycle for a Startup?
+## What is a good cash conversion cycle for a startup?
 
 A good startup CCC depends on the business model, but the benchmarks are clear. SaaS companies with monthly billing and card-on-file collection run a CCC of 0 to 15 days. SaaS companies selling to enterprise on annual contracts with net-30 invoicing run 30 to 60 days. E-commerce runs 20 to 40 days. Services companies with milestone billing run 45 to 90 days. Any startup running a CCC above 60 days and growing above 20% year over year needs a cash management plan or it will hit a wall.
 
 According to the Hackett Group's 2025 Working Capital Survey, top-quartile companies across all sectors run a CCC 35 days shorter than the median. That 35-day gap is the difference between self-funding growth and needing a bridge round. The companies that master CCC treat it as a financial KPI on the weekly dashboard, not an accounting footnote their bookkeeper calculates once a year.
 
-## How Do You Calculate Your Startup's Cash Conversion Cycle?
+## How do you calculate your startup's cash conversion cycle?
 
 Calculate CCC in three steps using 12-month trailing data from your accounting system. Most founders can run this in 20 minutes if their books are clean.
 
@@ -43,7 +43,7 @@ Calculate CCC in three steps using 12-month trailing data from your accounting s
 
 **Result: CCC = 61 + 30 - 49 = 42 days.** Every pound spent takes 42 days to return as cash. At £100K monthly spend, that means £140K perpetually tied up in the cycle. Grow to £200K monthly spend and the gap doubles to £280K with no new decision required.
 
-## What Are the 3 Levers That Fix a Bad Cash Conversion Cycle?
+## What are the 3 levers that fix a bad cash conversion cycle?
 
 Three levers control CCC and each one directly converts to freed cash within 30 to 60 days of adjustment. Hayat Amin's Cash Cycle Compression framework works them in sequence: collect faster, hold less, pay smarter.
 
@@ -61,7 +61,7 @@ VCs look at net burn, but net burn does not distinguish between strategic invest
 
 Beyond Elevation's fractional CFOs run CCC compression as part of every [first 100 days engagement](/insights/first-100-days-fractional-cfo/) because the fastest way to extend runway is not cutting spend. It is collecting cash that already belongs to you.
 
-## When Does a Long Cash Conversion Cycle Mean You Need a CFO?
+## When does a long cash conversion cycle mean you need a CFO?
 
 Four triggers signal the CCC has moved from a bookkeeping concern to a strategic threat that demands operator-level finance. First, your CCC exceeds 60 days and revenue is growing above 20% year over year. Growth will make it worse, not better. Second, you are drawing on a credit facility or founders' personal funds to cover payroll while waiting for receivables. That is a structural problem, not a timing blip. Third, your accountant cannot tell you your CCC when asked. If the person managing your finances does not track this number, they are managing books, not cash. Fourth, you raised a round and the cash is disappearing faster than the [burn rate model](/insights/startup-burn-rate-runway-extension/) predicted. The model assumed revenue converts to cash at the same pace it hits the P&L. It does not.
 
@@ -95,7 +95,7 @@ Most [fractional CFO](/insights/fractional-cfo-cost-2026/) engagements compress 
 
 ### Does cash conversion cycle affect startup valuation?
 
-Directly. A shorter CCC means less working capital required to fund growth, which means less dilution and higher capital efficiency. Investors weight [unit economics](/insights/unit-economics-investors-check-before-funding/) and capital efficiency when pricing rounds. Two startups at identical ARR where one self-funds growth and the other needs bridge rounds will receive materially different term sheets. The short-CCC company has leverage. The long-CCC company has urgency.
+Directly. A shorter CCC means less working capital required to fund growth, which means less dilution and higher capital efficiency. Investors weight [unit economics](/insights/unit-economics-investors-check-before-funding/) and capital efficiency when pricing rounds. Two startups at identical ARR, where one self-funds growth and the other needs bridge rounds, will receive materially different term sheets. The short-CCC company holds the upper hand. The long-CCC company has urgency.
 
 ### Is cash conversion cycle the same as cash flow?
 
