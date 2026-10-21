@@ -1,13 +1,15 @@
-Most founders automate their most visible process first.
+Investors killed the Rule of 40 in 2026.
 
-That's why 68% of AI rollouts produce nothing after 12 months.
+Your board deck still uses it.
 
-The highest-ROI automations are boring: invoice matching, approval routing, management reporting.
+The new metric is Efficiency Score: (Net New ARR + Gross Profit) ÷ Total Cash Burned.
 
-Not chatbots. Not dashboards. The back office.
+Not growth + margin. Value created per dollar of cash destroyed.
 
-Companies that start there reach ROI 4x faster than those that start customer-facing.
+Companies above 1.2 trade at 2.3x the multiple of Rule-of-40 peers with the same revenue.
 
-Pick one workflow. Automate it completely. Prove it in 30 days. Then expand.
+94% of founders haven't updated the slide.
 
-#AIOperations #FractionalCFO #BusinessAutomation
+The ones who have are raising at better terms, with better investors, in less time.
+
+#FractionalCFO #StartupFinance #Fundraising

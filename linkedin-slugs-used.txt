@@ -796,3 +796,4 @@ ai-hire-wrong-role-first-2026
 management-accounts-founder-mistake-2026
 open-source-gpl-ip-exit-risk-2026
 what-to-automate-first-agents-2026
+rule-of-40-dead-2026
