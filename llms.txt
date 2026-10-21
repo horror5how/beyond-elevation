@@ -527,5 +527,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Startup Cash Conversion Cycle: Why Profitable Companies Still Run Out of Money](https://beyondelevation.com/insights/startup-cash-conversion-cycle) — /insights/md/startup-cash-conversion-cycle.md
 - [How much does it cost to build an AI system? The five lines on the bill, priced](https://beyondelevation.com/insights/how-much-does-it-cost-to-build-an-ai-system) — /insights/md/how-much-does-it-cost-to-build-an-ai-system.md
 - [The 10 Financial Controls Investors Check Before Writing a Check (3 Missing Controls Kill More Deals Than Bad Revenue)](https://beyondelevation.com/insights/startup-financial-controls-series-a) — /insights/md/startup-financial-controls-series-a.md
+- [The AI-Powered Fractional Executive: Why One Operator With Agents Now Replaces a Department](https://beyondelevation.com/insights/ai-powered-fractional-executive) — /insights/md/ai-powered-fractional-executive.md
 
 > Full blog content available at /llms-full.txt
