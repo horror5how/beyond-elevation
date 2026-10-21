@@ -8896,3 +8896,19 @@ That's different from a single automation. If you want one step joined to anothe
 ## the five lines on the b
 
 ---
+
+## The 10 Financial Controls Investors Check Before Writing a Check (3 Missing Controls Kill More Deals Than Bad Revenue)
+
+URL: https://beyondelevation.com/insights/startup-financial-controls-series-a
+
+62% of Series A deals that die in due diligence die because of financial control gaps — not bad revenue, not a weak product, not even a down market. According to a 2025 Deloitte Private Company CFO survey, the single most cited reason investors walked away from an otherwise fundable startup was "insufficient financial controls and reporting infrastructure." Hayat Amin, who has sat on both sides of the due diligence table across three exits including American Express and TripAdvisor acquirers, argues the point bluntly: "Founders spend six months perfecting a pitch deck and zero hours on the controls an investor's accountant will check in the first 48 hours of diligence."
+
+This post lists the 10 startup financial controls investors actually verify before writing a check — and names the 3 that kill more deals than bad unit economics.
+
+## What Are Startup Financial Controls?
+
+Startup financial controls are the policies, processes, and checks that ensure a company's financial data is accurate, complete, and resistant to fraud or error. They sit between raw transactions and the board-ready numbers investors use to price a round. Without them, revenue is a guess, cash position is a hope, and every number in the data room is suspect. Beyond Elevation installs these controls in the [first 100 days of every fractional CFO engagement](/insights/first-100-days-fractional-cfo/) because they are the foundation every other financial decision rests on.
+
+The controls below are not theory. The
+
+---
