@@ -8962,3 +8962,21 @@ A trademark strategy is a systematic plan for identifying, registering, monitori
 Patents protect inventions. Copyrights protect code. Trademarks protect the name customers type into Google when they want your product. If a competitor registers your brand name in a new market before you do, you lose the right to use your own name in that territory. It happens every year to companies that should h
 
 ---
+
+## Your Investor Deck Says 'Path to Profitability.' Your CFO Should Be Able to Name the Month.
+
+URL: https://beyondelevation.com/insights/path-to-profitability-cfo-framework
+
+73% of Series A decks include the phrase "path to profitability." Fewer than 11% contain an actual date. That gap is where term sheets die. Hayat Amin, who has reviewed over 200 startup finance functions as a fractional CFO, argues that a profitability timeline without a month attached is not a plan — it is a wish dressed in a spreadsheet.
+
+The shift happened in 2023 and it has not reversed. According to Carta's 2025 State of Private Markets report, 68% of lead investors now require a defined profitability milestone before committing to a Series B term sheet — up from 29% in 2021. "Path to profitability" is no longer a slide title. It is a deliverable. And the person who builds it is not your CEO or your head of sales. It is your CFO.
+
+## What Is a Path to Profitability and Why Do Most Startups Get It Wrong?
+
+A path to profitability is a month-by-month financial model that shows exactly when a company's contribution margin covers its fixed cost base — the crossover month where the business stops requiring external capital to survive. Most founders confuse it with a revenue forecast, which is why most paths to profitability collapse under investor scrutiny.
+
+The distinction matters because revenue growth does not guarantee profitability. A company growing 100% year-over-year can burn faster in year two than year one if customer acquisition costs scale nonlinearly — and in SaaS, they almost always do past the early-adopter cohort.
+
+Hayat Amin's Profitability Crossover Model bre
+
+---
