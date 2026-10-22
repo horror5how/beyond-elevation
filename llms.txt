@@ -529,5 +529,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The 10 Financial Controls Investors Check Before Writing a Check (3 Missing Controls Kill More Deals Than Bad Revenue)](https://beyondelevation.com/insights/startup-financial-controls-series-a) — /insights/md/startup-financial-controls-series-a.md
 - [The AI-Powered Fractional Executive: Why One Operator With Agents Now Replaces a Department](https://beyondelevation.com/insights/ai-powered-fractional-executive) — /insights/md/ai-powered-fractional-executive.md
 - [Accounting Firm Automation: the 9 Systems US Firms Connect First](https://beyondelevation.com/insights/accounting-firm-automation) — /insights/md/accounting-firm-automation.md
+- [Trademark Strategy for Startups: The $275 Filing That Outlasts Every Patent in Your Portfolio](https://beyondelevation.com/insights/trademark-strategy-tech-startups) — /insights/md/trademark-strategy-tech-startups.md
 
 > Full blog content available at /llms-full.txt
