@@ -1,25 +1,23 @@
-You hired 4 AI tools last year.
+Your lender put 14 covenants in your facility agreement.
 
-You still don't have AI operations.
+You signed them. You don't know what they are.
 
-They are not the same thing.
+Covenant breach doesn't require missing a payment.
 
-AI tools = software licences.
-AI operations = a function that owns outcomes, not dashboards.
+Revenue falls 15% below forecast: breach.
 
-Most companies have the first.
-Almost none have the second.
+Add a director without lender approval: breach.
 
-The gap costs 3-4 months of compounding advantage every quarter.
+Pay a dividend while EBITDA is negative: breach.
 
-What an AI operations function actually requires:
+Breach discovered in diligence = funding round delayed 6 weeks.
 
-Outcome metrics — not usage stats.
-Escalation design before the agent fails.
-Model deprecation without operational downtime.
-Every workflow turned into a reusable asset.
+Breach discovered at next draw = margin call.
 
-AI tools are a cost line.
-AI operations is a growth engine.
+42% of SME debt covenant breaches surface in year 2 of the facility.
 
-#AIOperations #FractionalExec #Operations
+Your fractional CFO monitors every line. Monthly.
+
+Because the call doesn't come with a warning.
+
+#FractionalCFO #Startups #Finance
