@@ -1,21 +1,25 @@
-Your P&L says £180K profit. Your bank account is empty.
+You hired 4 AI tools last year.
 
-This is not an accounting error.
+You still don't have AI operations.
 
-74% of profitable UK SMEs hit a cash crisis at least once per year.
+They are not the same thing.
 
-Revenue recognises the invoice. Cash needs the actual payment.
+AI tools = software licences.
+AI operations = a function that owns outcomes, not dashboards.
 
-Three gaps that drain cash while the P&L looks healthy:
+Most companies have the first.
+Almost none have the second.
 
-Slow debtor days — customers paying in 60–90 days.
+The gap costs 3-4 months of compounding advantage every quarter.
 
-Inventory sitting on shelves that hasn't moved.
+What an AI operations function actually requires:
 
-Revenue recognised before the cash lands.
+Outcome metrics — not usage stats.
+Escalation design before the agent fails.
+Model deprecation without operational downtime.
+Every workflow turned into a reusable asset.
 
-Fix the timing. Build a 13-week cash forecast.
+AI tools are a cost line.
+AI operations is a growth engine.
 
-Your bank balance is the real score.
-
-#FractionalCFO #CashFlow #FounderFinance
+#AIOperations #FractionalExec #Operations
