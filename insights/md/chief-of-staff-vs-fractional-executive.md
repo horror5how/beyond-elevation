@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Chief of Staff vs Fractional Executive: One Coordinates, the Other Operates. The Hire That Changes the Outcome.
 
-A chief of staff coordinates. A fractional executive operates. That one-word difference decides whether you're buying a pair of hands or a brain that changes the company's trajectory. According to Glassdoor's October 2026 salary data, the median chief of staff in the US earns $128,000 a year. A fractional executive at the same seniority costs $48,000 to $144,000 a year for two to three days a week. Hayat Amin argues that companies between 2 million and 15 million in revenue hire a chief of staff when they need an operator more than half the time: "The CEO is drowning, so they hire someone to manage the drowning. What they need is someone to drain the water."
+A chief of staff coordinates. A fractional executive operates. That one-word difference decides whether you're paying for a pair of hands or an operator who changes the company's direction. According to Glassdoor's October 2026 salary data, the median chief of staff in the US earns $128,000 a year. A fractional executive at the same seniority costs $48,000 to $144,000 a year for two to three days a week. Hayat Amin says companies between 2 million and 15 million in revenue hire a chief of staff when they need an operator more than half the time: "The CEO is drowning, so they hire someone to manage the drowning. What they need is someone to drain the water."
 
 This is the comparison that decides whether the next 12 months look like better organisation or better performance. Beyond Elevation places fractional executives, so the interest is declared. The comparison below is fair, because a biased one wastes your time and ours.
 
@@ -47,7 +47,7 @@ Hire a chief of staff when the CEO is the bottleneck on execution but the leader
 
 The chief of staff is also the right hire when the CEO is managing a complex transition: a merger integration, a geographic expansion, or a board restructuring that requires someone to track 50 workstreams simultaneously. That is project management at the executive level, and a chief of staff is built for it.
 
-Hayat Amin's message to founders: a chief of staff multiplies what the team already does. It doesn't lead it. "If you need someone to make your existing team faster, hire a chief of staff. If you need someone to make the company better at something it cannot do today, hire an operator."
+Hayat Amin's message to founders: a chief of staff multiplies what the team already does rather than leading it. "If you need someone to make your existing team faster, hire a chief of staff. If you need someone to make the company better at something it cannot do today, hire an operator."
 
 ## When should you hire a fractional executive instead of a chief of staff?
 
@@ -55,7 +55,7 @@ Hire a fractional executive when a specific function is broken, missing, or held
 
 A fractional executive is also the right hire when the company is 12 to 24 months from a capital event. Investors and acquirers want to see that functions run independently. A [fractional CFO preparing for exit](/insights/fractional-cfo-exit-preparation/) builds the data room, installs investor-grade reporting, and presents the numbers in due diligence. A chief of staff cannot do that because they do not own the function.
 
-The cost advantage compounds at the growth stage. A company at 5 million in revenue can afford a fractional CFO at 8,000 pounds per month, a fractional chief IP officer at 6,000, and a fractional AI operations lead at 5,000, three senior operators for a combined 228,000 pounds per year. A single managing director at that level costs 250,000 to 350,000 pounds. Three operators for the price of one generalist. That is the arithmetic Hayat Amin presents to every founder who says they cannot afford senior leadership: "You cannot afford a full-time C-suite. You can afford [three fractional ones who have done the job before](/insights/run-company-on-fractional-executives/)."
+The cost advantage compounds at the growth stage. A company at 5 million in revenue can afford a fractional CFO at 8,000 pounds per month, a fractional chief IP officer at 6,000, and a fractional AI operations lead at 5,000, three senior operators for a combined 228,000 pounds per year. A single managing director at that level costs 250,000 to 350,000 pounds, so three operators cost less than one generalist. That's the arithmetic Hayat Amin gives to every founder who says they can't afford senior leadership: "A C-suite doesn't have to be full-time. You can afford [three fractional ones who have done the job before](/insights/run-company-on-fractional-executives/)."
 
 ## The 3 questions that decide the hire
 
@@ -67,7 +67,7 @@ Beyond Elevation uses a 3-question decision framework to help founders choose be
 
 **Question 3: What changes in 90 days?** A chief of staff delivers a tighter operating rhythm and a more organised CEO. A fractional executive delivers a measurable result: cash runway extended, [month-end close cut to two days](/insights/two-day-month-end-close-playbook/), IP audit completed, or first automation deployed. If the company needs the measurable result, the fractional executive is the hire.
 
-The decision is not about budget. A chief of staff at $128,000 and a fractional executive at $96,000 are in the same range. It is about what the company gets for the money: a better-organised version of today, or a different capability it did not have yesterday.
+Budget rarely decides this. A chief of staff at $128,000 and a fractional executive at $96,000 sit in the same range. What decides it is what the company gets for that money, a better-organised version of today or a capability it didn't have yesterday.
 
 ## How does Beyond Elevation help companies decide?
 
@@ -95,7 +95,7 @@ Rarely. The skills are different. A chief of staff excels at coordination, commu
 
 ### Is a chief of staff cheaper than a fractional executive?
 
-Not necessarily. A US chief of staff earns a median of $128,000 per year in salary alone, plus benefits and equity that push total compensation to $150,000 to $190,000. A fractional executive costs $48,000 to $144,000 per year on a retained contract with no benefits, equity, or severance obligation. The fractional executive is often cheaper in total cost and always cheaper in exit cost if the fit is wrong.
+Not necessarily. A US chief of staff earns a median of $128,000 per year in salary alone, plus benefits and equity that push total compensation to $150,000 to $190,000. A fractional executive costs $48,000 to $144,000 per year on a retained contract with no benefits, equity, or severance obligation. The fractional executive usually costs less overall, and always costs less to exit if the fit is wrong.
 
 ### Do startups need a chief of staff?
 

@@ -21,7 +21,7 @@ The people doing that retyping are expensive and scarce. The Bureau of Labor Sta
 
 ## how we picked the nine
 
-A system made the list if a firm of 5 to 50 people runs it every week, a named product does the job today, and the handoff around it is one we see done by hand. Prices come from each vendor's own page, read on 22 October 2026. Where a page contradicts itself, we say so. Ignition showed no prices on its pricing page, TaxDome returned an error, and Dext's US pricing page didn't load for us, so none of the three has a figure here. Nobody paid to appear. Beyond Elevation appears once, near the end, with the affiliation stated.
+A system made the list if a firm of 5 to 50 people runs it every week, a named product does the job today, and the handoff around it is one we see done by hand. Prices come from each vendor's own page, read on 22 October 2026. If a page contradicts itself, we say so. Ignition showed no prices on its pricing page, TaxDome returned an error, and Dext's US pricing page didn't load for us, so none of the three has a figure here. Nobody paid to appear. Beyond Elevation appears once, near the end, with the affiliation stated.
 
 ## 1. practice management, the hub everything else plugs into
 
@@ -57,7 +57,7 @@ The join to build runs two ways. Client details and prior year data should come 
 
 ## 7. engagement letters and billing
 
-Ignition sells proposals, engagement letters, payments and WIP billing, with a 14 day free trial, but its pricing page showed no figures when we read it. Karbon's Team plan and Canopy's Standard plan include billing and payments, so many firms can do this inside the hub. What breaks is the link between the signed engagement and the work: the letter says monthly bookkeeping plus a 1120S, and someone has to create those jobs and the recurring invoice by hand. Connected, the signature creates both.
+Ignition sells proposals, engagement letters, payments and WIP billing, with a 14 day free trial, but its pricing page showed no figures when we read it. Karbon's Team plan and Canopy's Standard plan include billing and payments, so many firms can do this inside the hub. The link that breaks is between the signed engagement and the work: the letter says monthly bookkeeping plus a 1120S, and someone has to create those jobs and the recurring invoice by hand. Connected, the signature creates both.
 
 ## 8. the month end close across every client
 
@@ -111,7 +111,7 @@ Rules move data when the format is fixed. AI handles the messy step: reading a c
 
 ### Will accounting be automated?
 
-Parts of it already are, and the BLS still projects 5 percent growth for accountants and auditors from 2025 to 2035, with about 115,300 openings a year. What goes is the retyping and the chasing. The judgement on a return, and the client conversation, stay with the accountant.
+Parts of it already are, and the BLS still projects 5 percent growth for accountants and auditors from 2025 to 2035, with about 115,300 openings a year. The jobs that go are the retyping and the chasing. The judgement on a return, and the client conversation, stay with the accountant.
 
 ### What is a good CPA firm tech stack?
 

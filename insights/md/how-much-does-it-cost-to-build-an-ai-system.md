@@ -11,15 +11,15 @@ site: Beyond Elevation
 
 For a small or mid sized company, a custom AI system costs about 20,000 dollars in year one for the example in this piece. The build accounts for most of that. Model, database and hosting fees run from 50 to about 200 dollars a month. The engineer's time is the bill, and most quotes hide that.
 
-Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he prices an AI system the way a buyer prices a business: line by line, with the assumptions written next to the numbers. He now builds these systems inside companies himself. Every price below was read on the vendor's own page on 21 October 2026. When a figure is our arithmetic or our assumption, we say so.
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he prices an AI system the way a buyer prices a business: line by line, with the assumptions written next to the numbers. He now builds these systems inside companies himself. Every price below was read on the vendor's own page on 21 October 2026. We say so whenever a figure is our arithmetic or our assumption.
 
-## what makes something an AI system
+## What makes something an AI system
 
 An AI system here means software your company owns that reads your own records and does something with them. It answers a staff question from your contracts, drafts a reply from your order history, or reads a supplier invoice and writes it into QuickBooks. It's built for you, on your data, and it connects to the systems you already run.
 
 That's different from a single automation. If you want one step joined to another in Zapier or Make, read [how much AI automation costs](/insights/how-much-does-ai-automation-cost/) instead, because the numbers are smaller and the platforms do most of the work. And it's different from buying seats in a tool like Microsoft 365 Copilot, which we price further down so you can compare.
 
-## the five lines on the bill
+## The five lines on the bill
 
 Every custom AI system has five costs, whether the quote lists them or not:
 
@@ -51,7 +51,7 @@ Back to the example. Say your team asks it 5,000 questions a month. We'll assume
 
 On Sonnet 5.5 that's 85 dollars a month. On Opus 5.5 it's 170. On gpt-5 it's 62.50, on gpt-5-mini 12.50, and on Haiku 5.5 about 4.25. All of that is our arithmetic off the published rates. We'd start on the mid tier, read 50 answers, and only move down a tier once the cheaper model gets the same answers right.
 
-## the search index and hosting, priced
+## The search index and hosting, priced
 
 Before the system can answer from 10,000 pages, each page has to be turned into numbers it can search, which is called embedding. OpenAI lists text-embedding-3-small at 0.02 dollars per million tokens. At an assumed 500 tokens a page, the whole library is 5 million tokens, so embedding it once costs about 10 cents. Pinecone's own embedding model, llama-text-embed-v2, is 0.16 dollars per million, so 80 cents. Neither is worth a meeting.
 
@@ -67,7 +67,7 @@ Put the five lines together for the example. The build is about 15,700 dollars. 
 
 Now compare it with buying seats. Microsoft lists Microsoft 365 Copilot Business at 25.20 dollars per user per month on monthly billing. There's also a yearly price of 18 dollars, discounted from 21, but Microsoft says that offer runs only from 1 July to 31 December 2026, for existing eligible Microsoft 365 Business customers, in the first year. For 20 staff on monthly billing that's 504 dollars a month, or 6,048 dollars a year. Claude's Team plan is 25 dollars a seat billed monthly, or 20 billed annually.
 
-Seats are cheaper in year one and they're the right answer when your people need a smarter way to write and search their own files. A built system is the right answer when the work runs through your own systems: when the answer lives in your ERP, your job management software or your contracts library, and when you want the system to write the result back instead of handing a draft to a person. We wrote the longer version of that decision in [build vs buy AI](/insights/build-vs-buy-ai-decision/).
+Seats are cheaper in year one. They're the right answer when your people need a smarter way to write and search their own files. A built system is the right answer when the work runs through your own systems: when the answer lives in your ERP, your job management software or your contracts library, and when you want the system to write the result back instead of handing a draft to a person. I wrote the longer version of that decision in [build vs buy AI](/insights/build-vs-buy-ai-decision/).
 
 ## where the money goes wrong
 
@@ -83,15 +83,15 @@ Most of the money lost on these builds goes on scope. Check for these four befor
 
 ## Beyond Elevation's part in this
 
-Beyond Elevation is Hayat Amin's firm, and our prices are on our site so you can hold us to them. A two week AI audit is 3,000 dollars fixed. Projects start from 30,000 dollars. Fractional work, one or two days a week, starts from 5,800 dollars a month. That's above the salary arithmetic in this piece on purpose. It's for companies in New York, across the United States and in London that are joining four or five systems, and the client owns everything at the end: the code, the agents, the accounts and the documents. If your need is one question answering tool over one folder, buy the seats and you don't need us. Our [forward deployed engineering](/fde) work is how we build the rest, and the conversation starts at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+Beyond Elevation is my firm, and our prices are on our site so you can hold us to them. A two week AI audit is 3,000 dollars fixed. Projects start from 30,000 dollars. Fractional work, one or two days a week, starts from 5,800 dollars a month. That's above the salary arithmetic in this piece on purpose. It's for companies in New York, across the United States and in London that are joining four or five systems, and the client owns everything at the end: the code, the agents, the accounts and the documents. If your need is one question answering tool over one folder, buy the seats and you don't need us. Our [forward deployed engineering](/fde) work is how we build the rest, and the conversation starts at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 ## About Hayat Amin
 
-Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. He's sat beside founders from the first conversation to the wire transfer on an exit, which is why he reads an AI quote line by line before anyone signs it.
+I've spent twenty years in technology, most of them as a chief financial officer. I sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. I've sat beside founders from the first conversation to the wire transfer on an exit, which is why I read an AI quote line by line before anyone signs it.
 
-Hayat Amin is a CFO turned forward deployed engineer, and he's exceptional at the part that decides what an AI system is worth: connecting the systems that don't talk to each other, then putting a real time dashboard in front of the chief executive so the cost and the return are visible every week, not at month end. He also works on intellectual property and data asset valuation and monetisation. He's available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde), and for the finance seat at [meethayat.com/cfo](https://meethayat.com/cfo).
+I'm a CFO turned forward deployed engineer, and the part I'm good at is the part that decides what an AI system is worth: connecting the systems that don't talk to each other, then putting a real time dashboard in front of the chief executive so the cost and the return are visible every week, not at month end. I also work on intellectual property and data asset valuation and monetisation. I'm available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde), and for the finance seat at [meethayat.com/cfo](https://meethayat.com/cfo).
 
-If you want to know which of your own processes are worth building an AI system for, and what each would cost, we do a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
+If you want to know which of your own processes are worth building an AI system for, and what each would cost, I do a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 
 
 

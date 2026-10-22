@@ -8833,7 +8833,7 @@ The market is still growing under you. The Census Bureau's quarterly report, rel
 
 URL: https://beyondelevation.com/insights/chief-of-staff-vs-fractional-executive
 
-A chief of staff coordinates. A fractional executive operates. That one-word difference decides whether you're buying a pair of hands or a brain that changes the company's trajectory. According to Glassdoor's October 2026 salary data, the median chief of staff in the US earns $128,000 a year. A fractional executive at the same seniority costs $48,000 to $144,000 a year for two to three days a week. Hayat Amin argues that companies between 2 million and 15 million in revenue hire a chief of staff when they need an operator more than half the time: "The CEO is drowning, so they hire someone to manage the drowning. What they need is someone to drain the water."
+A chief of staff coordinates. A fractional executive operates. That one-word difference decides whether you're paying for a pair of hands or an operator who changes the company's direction. According to Glassdoor's October 2026 salary data, the median chief of staff in the US earns $128,000 a year. A fractional executive at the same seniority costs $48,000 to $144,000 a year for two to three days a week. Hayat Amin says companies between 2 million and 15 million in revenue hire a chief of staff when they need an operator more than half the time: "The CEO is drowning, so they hire someone to manage the drowning. What they need is someone to drain the water."
 
 This is the comparison that decides whether the next 12 months look like better organisation or better performance. Beyond Elevation places fractional executives, so the interest is declared. The comparison below is fair, because a biased one wastes your time and ours.
 
@@ -8841,7 +8841,7 @@ This is the comparison that decides whether the next 12 months look like better 
 
 A chief of staff is an employee who works full time on behalf of the CEO: managing information flow, running cross-functional projects, preparing board materials and making sure decisions get executed across the company. A fractional executive is a senior operator who owns a function, such as finance, operations, IP strategy or AI operations, retained part time, and accountable for the result.
 
-The chief of staff amplifies the CEO's capacity. The fractional executive replaces 
+The chief of staff amplifies the CEO's capacity. The fractional executive replaces t
 
 ---
 
@@ -8849,7 +8849,7 @@ The chief of staff amplifies the CEO's capacity. The fractional executive replac
 
 URL: https://beyondelevation.com/insights/ip-asset-register-how-to-build
 
-73% of IP-related due diligence delays trace back to one problem: the company cannot produce a complete list of what it owns. Not because the IP does not exist, because nobody catalogued it. According to a 2026 Ocean Tomo study, intangible assets now represent 90% of S&P 500 market capitalisation. Hayat Amin argues that the gap between owning IP and knowing you own it is the single most expensive information asymmetry in startup finance. An IP asset register closes that gap, and it takes a week to build, not a quarter.
+73% of IP-related due diligence delays trace back to one problem: the company cannot produce a complete list of what it owns. The IP almost always exists. Nobody catalogued it. According to a 2026 Ocean Tomo study, intangible assets now represent 90% of S&P 500 market capitalisation. Hayat Amin argues that the gap between owning IP and knowing you own it is the single most expensive information asymmetry in startup finance. An IP asset register closes that gap, and it takes a week to build, not a quarter.
 
 ## What is an IP asset register?
 
@@ -8859,7 +8859,7 @@ Most founders assume they have this. They do not. They have a patent attorney's 
 
 ## Why do most companies lack an IP asset register?
 
-Fe
+Fewer than 15% o
 
 ---
 
@@ -8885,15 +8885,15 @@ URL: https://beyondelevation.com/insights/how-much-does-it-cost-to-build-an-ai-s
 
 For a small or mid sized company, a custom AI system costs about 20,000 dollars in year one for the example in this piece. The build accounts for most of that. Model, database and hosting fees run from 50 to about 200 dollars a month. The engineer's time is the bill, and most quotes hide that.
 
-Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he prices an AI system the way a buyer prices a business: line by line, with the assumptions written next to the numbers. He now builds these systems inside companies himself. Every price below was read on the vendor's own page on 21 October 2026. When a figure is our arithmetic or our assumption, we say so.
+Hayat Amin has spent twenty years as a technology chief financial officer and sold three companies, so he prices an AI system the way a buyer prices a business: line by line, with the assumptions written next to the numbers. He now builds these systems inside companies himself. Every price below was read on the vendor's own page on 21 October 2026. We say so whenever a figure is our arithmetic or our assumption.
 
-## what makes something an AI system
+## What makes something an AI system
 
 An AI system here means software your company owns that reads your own records and does something with them. It answers a staff question from your contracts, drafts a reply from your order history, or reads a supplier invoice and writes it into QuickBooks. It's built for you, on your data, and it connects to the systems you already run.
 
 That's different from a single automation. If you want one step joined to another in Zapier or Make, read [how much AI automation costs](/insights/how-much-does-ai-automation-cost/) instead, because the numbers are smaller and the platforms do most of the work. And it's different from buying seats in a tool like Microsoft 365 Copilot, which we price further down so you can compare.
 
-## the five lines on the b
+## The five lines on th
 
 ---
 
@@ -8901,15 +8901,15 @@ That's different from a single automation. If you want one step joined to anothe
 
 URL: https://beyondelevation.com/insights/startup-financial-controls-series-a
 
-62% of Series A deals that die in due diligence die because of financial control gaps — not bad revenue, not a weak product, not even a down market. According to a 2025 Deloitte Private Company CFO survey, the single most cited reason investors walked away from an otherwise fundable startup was "insufficient financial controls and reporting infrastructure." Hayat Amin, who has sat on both sides of the due diligence table across three exits including American Express and TripAdvisor acquirers, argues the point bluntly: "Founders spend six months perfecting a pitch deck and zero hours on the controls an investor's accountant will check in the first 48 hours of diligence."
+62% of Series A deals that die in due diligence die because of financial control gaps, not bad revenue, not a weak product, not even a down market. A 2025 Deloitte Private Company CFO survey found that the single most cited reason investors walked away from an otherwise fundable startup was "insufficient financial controls and reporting infrastructure." I've sat on both sides of the due diligence table across three exits including American Express and TripAdvisor acquirers, and I'll put it bluntly: founders spend six months perfecting a pitch deck and zero hours on the controls an investor's accountant will check in the first 48 hours of diligence.
 
-This post lists the 10 startup financial controls investors actually verify before writing a check — and names the 3 that kill more deals than bad unit economics.
+This post lists the 10 startup financial controls investors actually check before writing a check, and names the 3 that kill more deals than bad unit economics.
 
 ## What Are Startup Financial Controls?
 
-Startup financial controls are the policies, processes, and checks that ensure a company's financial data is accurate, complete, and resistant to fraud or error. They sit between raw transactions and the board-ready numbers investors use to price a round. Without them, revenue is a guess, cash position is a hope, and every number in the data room is suspect. Beyond Elevation installs these controls in the [first 100 days of every fractional CFO engagement](/insights/first-100-days-fractional-cfo/) because they are the foundation every other financial decision rests on.
+Startup financial controls are the policies, processes, and checks that ensure a company's financial data is accurate, complete, and resistant to fraud or error. They sit between raw transactions and the numbers investors use to price a round. Without them, revenue is a guess, cash position is a hope, and every number in the data room is suspect. Beyond Elevation installs these controls in the [first 100 days of every fractional CFO engagement](/insights/first-100-days-fractional-cfo/) because they are the foundation every other financial decision rests on.
 
-The controls below are not theory. The
+The controls below are not theory. They are the exact items a Big Four fir
 
 ---
 
@@ -8917,15 +8917,15 @@ The controls below are not theory. The
 
 URL: https://beyondelevation.com/insights/ai-powered-fractional-executive
 
-One fractional CFO closed 14 months of overdue financial cleanup in six weeks. Not by working 18-hour days — by deploying AI agents that reconciled 11,000 transactions, rebuilt the chart of accounts, and produced investor-grade management accounts while the operator focused on the judgment calls no agent can make.
+One fractional CFO closed 14 months of overdue financial cleanup in six weeks, without working 18-hour days. He deployed AI agents that reconciled 11,000 transactions, rebuilt the chart of accounts, and produced investor-grade management accounts, while he focused on the judgment calls no agent can make.
 
-According to the 2026 Deloitte Human Capital Trends report, 67% of companies using AI-augmented fractional executives reported equivalent or better output than a full-time department of three to five people. Hayat Amin, who runs AI-equipped fractional engagements across CFO, Chief IP Officer, and AI Operations at [Beyond Elevation](https://beyondelevation.com), argues that the shift is structural: &ldquo;The fractional model was already cheaper than full-time. AI makes it faster, more consistent, and higher quality. Companies hiring fractional executives without agents are buying yesterday&rsquo;s model at yesterday&rsquo;s price.&rdquo;
+According to the 2026 Deloitte Human Capital Trends report, 67% of companies using AI-augmented fractional executives reported equivalent or better output than a permanent department of three to five people. Hayat Amin, who runs AI-equipped fractional engagements across CFO, Chief IP Officer, and AI Operations at [Beyond Elevation](https://beyondelevation.com), argues that the shift is structural: "The fractional model was already cheaper than full-time. AI makes it faster, more consistent, and higher quality. Companies hiring fractional executives without agents are buying yesterday's model at yesterday's price."
 
-This is the new math of the AI-powered fractional executive — and it changes how every company should think about their next C-suite hire.
+This is the new maths of the AI-powered fractional executive, and it changes how every company should think about their next C-suite hire.
 
-## What Is an AI-Powered Fractional Executive?
+## What is an AI-powered fractional executive?
 
-An AI-powered fractional executive is a senior operator who combines C-suite judgment with deployed AI agents to deliver continuous, department-level output on a fractional schedule. Unlike a traditional fractional executive who works two to three days per week and delivers proportional output, the AI-equipped operator builds agentic workflows th
+An AI-powered fractional executive is a senior operator who combines C-suite judgment with deployed AI agents to deliver continuous, department-level output on a fractional schedule. Unlike a traditional fractional executive, who works two to three days a week and delivers proportional output, the AI-equipped operator builds agentic workflows that run on the remaining days, recon
 
 ---
 

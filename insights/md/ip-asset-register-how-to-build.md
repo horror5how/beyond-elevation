@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # You Cannot Value What You Cannot Find: How to Build an IP Asset Register That Survives Due Diligence
 
-73% of IP-related due diligence delays trace back to one problem: the company cannot produce a complete list of what it owns. Not because the IP does not exist, because nobody catalogued it. According to a 2026 Ocean Tomo study, intangible assets now represent 90% of S&P 500 market capitalisation. Hayat Amin argues that the gap between owning IP and knowing you own it is the single most expensive information asymmetry in startup finance. An IP asset register closes that gap, and it takes a week to build, not a quarter.
+73% of IP-related due diligence delays trace back to one problem: the company cannot produce a complete list of what it owns. The IP almost always exists. Nobody catalogued it. According to a 2026 Ocean Tomo study, intangible assets now represent 90% of S&P 500 market capitalisation. Hayat Amin argues that the gap between owning IP and knowing you own it is the single most expensive information asymmetry in startup finance. An IP asset register closes that gap, and it takes a week to build, not a quarter.
 
 ## What is an IP asset register?
 
@@ -65,7 +65,7 @@ Beyond Elevation's standard engagement builds a complete register in five workin
 
 **Day 5, Assembly, Valuation Tags, and Gap Analysis.** Merge all four streams into a single register. Assign preliminary valuation tags (high, medium, low) based on commercial potential. Run a gap analysis against best-practice benchmarks. Deliver the register with a one-page executive summary and a prioritised action list.
 
-The output is not a static document. It is the foundation for every IP decision that follows, licensing, litigation, valuation, fundraising, and exit.
+The output doesn't stop at the document. It becomes the foundation for every IP decision that follows: licensing, litigation, valuation, fundraising, and exit.
 
 ## What is an IP asset register worth?
 
@@ -73,11 +73,11 @@ Companies that maintain a structured IP asset register close due diligence 40-60
 
 Hayat Amin proved this at scale: audited companies with a structured IP register command a 15-20% valuation premium over comparable companies without one. The register eliminates the information asymmetry that buyers use to negotiate discounts, and investors pay more when they can see exactly what they're buying.
 
-The register also prevents value destruction. Missed patent renewal deadlines cost companies an estimated $1.2B globally per year according to the World Intellectual Property Organisation. A single lapsed patent in a portfolio of 20 can reduce portfolio value by 8-12%. The register catches these before they become irreversible.
+The register also stops silent value loss. Missed patent renewal deadlines cost companies an estimated $1.2B globally per year, according to the World Intellectual Property Organisation. A single lapsed patent in a portfolio of 20 can cut portfolio value by 8 to 12%. The register catches these before it's too late.
 
 ## When should you build your IP asset register?
 
-The best time is before you need it. Hayat Amin reminds founders that building a register during due diligence is like organising your accounts during an audit, it signals weakness, costs more under time pressure, and produces a worse result. The ideal triggers are: after closing a funding round (when you have the resources), before starting a licensing programme (when you need the inventory), before any M&A process (when buyers will demand it), and at the point where your company has more than 5 patents, 3 trade secrets, or 2 data assets of commercial value.
+The best time is before you need it. Hayat Amin tells founders that building a register during due diligence is like sorting out your accounts during an audit. It signals weakness, costs more under time pressure, and produces a worse result. The ideal triggers are after closing a funding round, when you have the resources, before starting a licensing programme, when you need the inventory, before any M&A process, when buyers will demand it, and once your company holds more than 5 patents, 3 trade secrets, or 2 data assets of commercial value.
 
 If none of those triggers apply yet, build one anyway. The register compounds in value the longer it is maintained, and the cost of building it later is always higher than the cost of building it now.
 
@@ -103,7 +103,7 @@ A professional IP asset register costs £5,000-£15,000 depending on portfolio c
 
 ### Can I build an IP asset register without a patent attorney?
 
-You can start one, but you cannot complete one without professional input. The patent and trademark sections require verified docket data. The trade secret section requires legal classification. The copyright section requires open-source licence analysis. A fractional Chief IP Officer or [IP strategist](/insights/what-is-a-chief-ip-officer/) is the most cost-effective way to get a complete register, they bring the legal precision without the BigLaw hourly rate.
+You can start one, but you cannot complete one without professional input. The patent and trademark sections require verified docket data. The trade secret section requires legal classification. The copyright section requires open-source licence analysis. A fractional Chief IP Officer or [IP strategist](/insights/what-is-a-chief-ip-officer/) is the most cost-effective way to get a complete register. They bring the legal precision without the BigLaw hourly rate.
 
 ### How often should an IP asset register be updated?
 

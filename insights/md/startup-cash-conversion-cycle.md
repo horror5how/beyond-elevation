@@ -23,7 +23,7 @@ Profitable startups run out of cash because revenue recognition and cash collect
 
 The problem compounds with growth. Hayat Amin calls this the cash conversion trap: every new customer acquired at a 45-day CCC requires 45 days of working capital before the cash arrives. Grow 30% quarter over quarter and the working capital gap widens faster than the profit accumulates. A startup running £500K monthly revenue at a 60-day CCC needs £1M in working capital just to fund the receivables. That money sits in someone else's account while payroll goes out weekly.
 
-It's a timing problem, not a profitability one, and timing problems kill companies that accounting says should survive.
+It's a timing problem, and accounting won't catch it. Timing problems kill companies the books say should survive.
 
 ## What is a good cash conversion cycle for a startup?
 
@@ -53,7 +53,7 @@ Three levers control CCC and each one directly converts to freed cash within 30 
 
 **Lever 3: Extend DPO (pay smarter).** Negotiate 45 to 60 day payment terms with vendors. Use payment scheduling to match outflows to inflows. Consolidate vendor payments to a single monthly cycle. Do not extend beyond what the relationship can sustain. The goal is alignment, not antagonism.
 
-## How Does the Cash Conversion Cycle Affect Fundraising?
+## How does the cash conversion cycle affect fundraising?
 
 Investors read your CCC whether they name it or not. A startup with a 15-day CCC at £2M ARR self-funds its growth. A startup with a 75-day CCC at the same ARR needs £400K in working capital just to keep the lights on between invoices. Hayat Amin reminds founders that a long CCC is a hidden dilution event: every month of cash trapped in the cycle is a month closer to a bridge round nobody planned for.
 
@@ -63,7 +63,7 @@ Beyond Elevation's fractional CFOs run CCC compression as part of every [first 1
 
 ## When does a long cash conversion cycle mean you need a CFO?
 
-Four triggers signal the CCC has moved from a bookkeeping concern to a strategic threat that demands operator-level finance. First, your CCC exceeds 60 days and revenue is growing above 20% year over year. Growth will make it worse, not better. Second, you are drawing on a credit facility or founders' personal funds to cover payroll while waiting for receivables. That is a structural problem, not a timing blip. Third, your accountant cannot tell you your CCC when asked. If the person managing your finances does not track this number, they are managing books, not cash. Fourth, you raised a round and the cash is disappearing faster than the [burn rate model](/insights/startup-burn-rate-runway-extension/) predicted. The model assumed revenue converts to cash at the same pace it hits the P&L. It does not.
+Four triggers tell you your CCC needs a finance operator, not just a bookkeeper. First, your CCC exceeds 60 days and revenue is growing above 20% a year. Growth will make this worse, not better. Second, you're drawing on a credit facility or the founders' own money to cover payroll while you wait on receivables. That's a structural problem, and it will keep happening until it's fixed. Third, your accountant can't tell you your CCC when you ask. If the person managing your finances doesn't track this number, they're managing books, not cash. Fourth, you raised a round and the cash is disappearing faster than the [burn rate model](/insights/startup-burn-rate-runway-extension/) predicted. The model assumed revenue converts to cash at the same pace it hits the P&L. It doesn't.
 
 Hayat Amin says the cash conversion cycle is the line between a founder who controls the business and a founder the business controls. The founders who track it raise on their terms. The ones who do not raise because they have no other option. [Book a consultation](https://beyondelevation.com) with Beyond Elevation to run the CCC diagnostic before the bank account makes the decision for you.
 
