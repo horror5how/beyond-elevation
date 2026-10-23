@@ -1,23 +1,17 @@
-Your lender put 14 covenants in your facility agreement.
+Your contractor delivered the code last week.
 
-You signed them. You don't know what they are.
+You paid the invoice. You don't own what they built.
 
-Covenant breach doesn't require missing a payment.
+Work created by a contractor defaults to them — not you — in most jurisdictions.
 
-Revenue falls 15% below forecast: breach.
+73% of founder contracts have no IP assignment clause.
 
-Add a director without lender approval: breach.
+That gap costs £840K to resolve at Series B diligence. Investors find it. Deals fall apart.
 
-Pay a dividend while EBITDA is negative: breach.
+One fix: add three lines to every contractor agreement before work starts.
 
-Breach discovered in diligence = funding round delayed 6 weeks.
+"All IP created is assigned to [Company] upon creation. Contractor waives moral rights. This clause survives termination."
 
-Breach discovered at next draw = margin call.
+No solicitor required. Done in 20 minutes.
 
-42% of SME debt covenant breaches surface in year 2 of the facility.
-
-Your fractional CFO monitors every line. Monthly.
-
-Because the call doesn't come with a warning.
-
-#FractionalCFO #Startups #Finance
+#IPStrategy #Founders #StartupLegal
