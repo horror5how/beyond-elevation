@@ -531,5 +531,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Accounting Firm Automation: the 9 Systems US Firms Connect First](https://beyondelevation.com/insights/accounting-firm-automation) — /insights/md/accounting-firm-automation.md
 - [Trademark Strategy for Startups: The $275 Filing That Outlasts Every Patent in Your Portfolio](https://beyondelevation.com/insights/trademark-strategy-tech-startups) — /insights/md/trademark-strategy-tech-startups.md
 - [Your Investor Deck Says 'Path to Profitability.' Your CFO Should Be Able to Name the Month.](https://beyondelevation.com/insights/path-to-profitability-cfo-framework) — /insights/md/path-to-profitability-cfo-framework.md
+- [How to Run a Board Meeting When Your C-Suite Is Fractional: The Reporting Framework That Keeps Investors Confident](https://beyondelevation.com/insights/fractional-executive-board-meeting) — /insights/md/fractional-executive-board-meeting.md
 
 > Full blog content available at /llms-full.txt
