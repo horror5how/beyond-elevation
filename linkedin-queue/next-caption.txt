@@ -1,17 +1,23 @@
-Your contractor delivered the code last week.
+78% of AI deployments fail within 90 days of going into production.
 
-You paid the invoice. You don't own what they built.
+Not because the model was wrong.
 
-Work created by a contractor defaults to them — not you — in most jurisdictions.
+Because no one owned the output.
 
-73% of founder contracts have no IP assignment clause.
+Every AI pilot has someone manually checking results in the demo environment.
 
-That gap costs £840K to resolve at Series B diligence. Investors find it. Deals fall apart.
+That person disappears when you scale.
 
-One fix: add three lines to every contractor agreement before work starts.
+3 things that predict if your AI spend compounds instead of decays:
 
-"All IP created is assigned to [Company] upon creation. Contractor waives moral rights. This clause survives termination."
+1. Every automated output has a named owner
 
-No solicitor required. Done in 20 minutes.
+2. Error detection time is under 4 hours
 
-#IPStrategy #Founders #StartupLegal
+3. Feedback loops are documented, not assumed
+
+You don't have AI operations if you can't name the output owner in 30 seconds.
+
+You have AI experiments.
+
+#AIOperations #Founders #OperationalExcellence
