@@ -1,23 +1,15 @@
-78% of AI deployments fail within 90 days of going into production.
+Your Series B investor asked for 3 years of management accounts.
 
-Not because the model was wrong.
+You have 18 months. The rest were estimates.
 
-Because no one owned the output.
+The deal closed at 2.4x. It should have been 3.7x.
 
-Every AI pilot has someone manually checking results in the demo environment.
+That gap is not a negotiation failure. It is a financial records failure.
 
-That person disappears when you scale.
+Investors price uncertainty into the multiple. Incomplete history = unverifiable EBITDA = haircut on every number.
 
-3 things that predict if your AI spend compounds instead of decays:
+The fix takes 90 days. The records take 3 years to rebuild credibly.
 
-1. Every automated output has a named owner
+Start now.
 
-2. Error detection time is under 4 hours
-
-3. Feedback loops are documented, not assumed
-
-You don't have AI operations if you can't name the output owner in 30 seconds.
-
-You have AI experiments.
-
-#AIOperations #Founders #OperationalExcellence
+#FractionalCFO #ExitReadiness #Valuation
