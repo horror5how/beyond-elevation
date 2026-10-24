@@ -1,19 +1,17 @@
-Your CFO just approved £180K for 2 AP clerks.
+Most companies spend 80% of their IP budget filing patents.
 
-AI would have done it for £14K.
+3% on actually collecting from them.
 
-3 moves that rewrote their job description:
+The result:
 
-Route every vendor invoice through AI extraction. Keying errors drop to zero.
+Average SME patent portfolio: £190K in prosecution fees. £0 in licensing income by year 3.
 
-Auto-match against POs in 2 seconds. Approval queue: 3 days to 4 hours.
+A licensing-led portfolio: same spend. £85K recurring royalties by month 18.
 
-Exception-only human review. 400 invoices in. 22 needed human eyes.
+Your patent attorney gets paid to file.
 
-The other 378 never needed anyone.
+Nobody owns the revenue outcome.
 
-Cost per invoice went from £42 to £8.
+That is the gap killing your IP ROI.
 
-Your AP team didn't disappear. They started doing work that actually mattered.
-
-#AIOperations #FractionalCFO #FinanceOps
+#IPStrategy #PatentLicensing #FractionalCFO
