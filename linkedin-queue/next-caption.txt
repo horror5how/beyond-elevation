@@ -1,15 +1,19 @@
-Your Series B investor asked for 3 years of management accounts.
+Your CFO just approved £180K for 2 AP clerks.
 
-You have 18 months. The rest were estimates.
+AI would have done it for £14K.
 
-The deal closed at 2.4x. It should have been 3.7x.
+3 moves that rewrote their job description:
 
-That gap is not a negotiation failure. It is a financial records failure.
+Route every vendor invoice through AI extraction. Keying errors drop to zero.
 
-Investors price uncertainty into the multiple. Incomplete history = unverifiable EBITDA = haircut on every number.
+Auto-match against POs in 2 seconds. Approval queue: 3 days to 4 hours.
 
-The fix takes 90 days. The records take 3 years to rebuild credibly.
+Exception-only human review. 400 invoices in. 22 needed human eyes.
 
-Start now.
+The other 378 never needed anyone.
 
-#FractionalCFO #ExitReadiness #Valuation
+Cost per invoice went from £42 to £8.
+
+Your AP team didn't disappear. They started doing work that actually mattered.
+
+#AIOperations #FractionalCFO #FinanceOps
