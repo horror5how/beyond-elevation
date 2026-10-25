@@ -1,17 +1,15 @@
-Your competitor runs finance with 2 people. You have 8. They close in 2 days. You take 12.
+Most founders spend 80% of their IP budget on patents.
 
-Here is what changed.
+Patents rank 3rd in acquisition due diligence.
 
-Invoice matching. AI processes 3,000 invoices overnight. No clerks.
+Know-how, trade secrets, and data assets rank 1st.
 
-Variance analysis. AI flags it at 6am. No analyst needed.
+Here is the exit cost:
 
-Board pack. AI pulls it in 4 hours. No PA required.
+An acquirer finds £3M in unregistered data assets.
+They discount them to zero — not transferable, not documented.
+Deal closes 40% below your model.
 
-The 2 people left approve decisions. Your 8 are still approving data entry.
+Budget for what acquirers actually value.
 
-This is not about cutting jobs. It is about cutting the work that was never supposed to be a job.
-
-Build the 2-person finance team or keep explaining the headcount to your board.
-
-#FractionalCFO #AIOperations #FinanceFunction
+#IPStrategy #Founders #MergersAndAcquisitions
