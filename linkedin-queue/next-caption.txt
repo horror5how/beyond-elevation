@@ -1,23 +1,15 @@
-78% of AI deployments fail within 90 days of going into production.
+Your fractional CFO has been with you 3 months. You still don't know if they're working.
 
-Not because the model was wrong.
+Most founders measure fractional executives by hours. Wrong metric.
 
-Because no one owned the output.
+3 numbers that tell you if the retainer is actually delivering:
 
-Every AI pilot has someone manually checking results in the demo environment.
+Days to close. Should drop 40% within 60 days.
 
-That person disappears when you scale.
+Investor-ready data room. Should exist within 90 days.
 
-3 things that predict if your AI spend compounds instead of decays:
+CFO cost per £1M raised. Should be under £8K.
 
-1. Every automated output has a named owner
+If none of these moved, you hired a part-time employee. Not an operator.
 
-2. Error detection time is under 4 hours
-
-3. Feedback loops are documented, not assumed
-
-You don't have AI operations if you can't name the output owner in 30 seconds.
-
-You have AI experiments.
-
-#AIOperations #Founders #OperationalExcellence
+#FractionalCFO #Leadership #Finance
