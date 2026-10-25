@@ -1,15 +1,17 @@
-3 Series B rounds died last quarter because the finance function couldn't deliver 3 years of clean management accounts in 72 hours.
+Your competitor runs finance with 2 people. You have 8. They close in 2 days. You take 12.
 
-Not the product.
+Here is what changed.
 
-Not the market.
+Invoice matching. AI processes 3,000 invoices overnight. No clerks.
 
-The numbers weren't ready.
+Variance analysis. AI flags it at 6am. No analyst needed.
 
-A fractional CFO costs £3,500/month.
+Board pack. AI pulls it in 4 hours. No PA required.
 
-The rounds were worth £8M each.
+The 2 people left approve decisions. Your 8 are still approving data entry.
 
-That's the calculation your board hasn't run yet.
+This is not about cutting jobs. It is about cutting the work that was never supposed to be a job.
 
-#FractionalCFO #SeriesB #FinanceFunction
+Build the 2-person finance team or keep explaining the headcount to your board.
+
+#FractionalCFO #AIOperations #FinanceFunction
