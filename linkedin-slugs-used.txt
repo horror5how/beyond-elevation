@@ -811,3 +811,4 @@ ai-finance-team-size-2026
 ip-budget-wrong-assets-2026
 fractional-executive-kpis-2026
 ai-operations-maturity-gap-2026
+fractional-cfo-brief-failure-2026

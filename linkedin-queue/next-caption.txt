@@ -1,17 +1,25 @@
-68% of AI deployments fail to reach ROI targets.
+3 in 5 fractional CFOs fail in their first quarter.
 
-Not because the technology doesn't work.
+Not because they're bad.
 
-Because nobody owns the operations layer.
+Because the brief was wrong.
 
-Tools get bought. Prompts get written. Nobody owns the workflow, the quality gate, or the failure mode.
+The founder gave them: 'sort out the accounts.'
 
-That's not an AI problem. That's an operations problem.
+The CFO needed: cap table, debt structure, next milestone, investor timeline.
 
-The companies extracting value from AI all have the same thing: an operator who runs the AI function like a business unit, not an IT project.
+Most fractional CFO engagements fail at context, not execution.
 
-Buying AI tools doesn't make you AI-native. Operations is the difference.
+A proper brief has three things:
 
-Close that gap before your next tool purchase.
+Goal. Fundraise, exit prep, cashflow, compliance — not 'fix finances.'
 
-#AIOperations #FractionalExecutive #Leadership
+Constraints. What's off-limits. What the board agreed.
+
+Pressure. Who needs what, by when.
+
+Right brief: delivers in weeks. Wrong brief: first month gone figuring out the job.
+
+That's your Q4 window.
+
+#FractionalCFO #Finance #FounderOps
