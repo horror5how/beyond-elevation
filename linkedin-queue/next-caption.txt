@@ -1,15 +1,17 @@
-Your fractional CFO has been with you 3 months. You still don't know if they're working.
+68% of AI deployments fail to reach ROI targets.
 
-Most founders measure fractional executives by hours. Wrong metric.
+Not because the technology doesn't work.
 
-3 numbers that tell you if the retainer is actually delivering:
+Because nobody owns the operations layer.
 
-Days to close. Should drop 40% within 60 days.
+Tools get bought. Prompts get written. Nobody owns the workflow, the quality gate, or the failure mode.
 
-Investor-ready data room. Should exist within 90 days.
+That's not an AI problem. That's an operations problem.
 
-CFO cost per £1M raised. Should be under £8K.
+The companies extracting value from AI all have the same thing: an operator who runs the AI function like a business unit, not an IT project.
 
-If none of these moved, you hired a part-time employee. Not an operator.
+Buying AI tools doesn't make you AI-native. Operations is the difference.
 
-#FractionalCFO #Leadership #Finance
+Close that gap before your next tool purchase.
+
+#AIOperations #FractionalExecutive #Leadership
