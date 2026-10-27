@@ -79,6 +79,11 @@ async function main() {
   post.alexReview = post.alexReview || { approved: true, approved_at: now, score: null, notes: 'auto-approved (no human gate)' };
   post.queued_at = now;
 
+  if (require('./no-loans-check.js').offends(post)) {
+    console.error('ERROR: post is about loans or says we provide financing. Beyond Elevation never lends (Hayat, 27 Oct 2026).');
+    process.exit(3);
+  }
+
   const posts = JSON.parse(fs.readFileSync(POSTS_JSON, 'utf8'));
 
   // Dedup: slug match or title substring match

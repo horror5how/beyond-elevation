@@ -24,6 +24,10 @@ The site relaunched on 24 Aug 2026 with a new positioning. Everything below this
 section (Tiers 1 to 5) is the OLD IP-only strategy: keep it for dedup checks and
 keyword history, but DO NOT pick topics from the old IP-only angle by default.
 
+**WE NEVER LEND (Hayat's rule, 27 Oct 2026).** Beyond Elevation does not provide, arrange, broker or structure loans, venture debt or any financing. Never write a post about borrowing against patents or data, IP-backed loans, lenders, collateral, venture debt, IP funding or non-dilutive capital, and never say or imply that Beyond Elevation or Hayat helps anyone get a loan. Two prospects booked calls thinking we lend. Our IP work is filing, where to file, valuation, licensing, marketing the IP and turning it into an asset. `scripts/no-loans-check.js` drops any post that breaks this before it goes live.
+
+This also bans the old Tier 5 IP-finance cluster (T5-131, T5-133 and every loan, lender, collateral or venture debt brief below). Skip them.
+
 **New positioning:** Beyond Elevation places exited C-suite operators into
 fractional executive positions. Three positions: Chief Financial Officer (/cfo),
 Chief IP Officer (/ip), AI Operations (/fde). Operators, not consultants.
