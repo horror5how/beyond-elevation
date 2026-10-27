@@ -77,7 +77,7 @@ The licence is worth 2.1x the sale in direct cashflow before secondary licences.
 
 Beyond Elevation runs a three-step process on every patent monetisation engagement. First, we audit the portfolio to identify which patents have genuine licensing potential versus which are better sold or abandoned. Not every patent deserves a licence.
 
-Second, we build the financial model for each path — sale, licence, hybrid, patent-backed loan — so the founder sees the real delta in dollars, not theory.
+Second, we build the financial model for each path — sale, licence or hybrid — so the founder sees the real delta in dollars, not theory.
 
 Third, we structure the deal with the required protections: upfront fees, minimum royalties, audit rights, and field-of-use restrictions. The goal is always the same — maximum cashflow, preserved optionality, real enforcement.
 

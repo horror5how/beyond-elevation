@@ -35,7 +35,7 @@ Intangible assets make up roughly 90% of S&P 500 market capitalization. Fewer th
 
 The rails opened in 2026. Singapore's IP Financing Scheme facilitated over $100 million in IP-backed loans. The UK IPO is running a patent-backed lending pilot. The US SBA now accepts IP as supplementary collateral. Mainstream venture debt providers including Western Technology Investment and Horizon Technology Finance formally incorporate IP valuation into underwriting and request the patent schedule before the financial model.
 
-The math exposes the AI startup IP strategy mistake clearly. A $3 million IP-backed loan at 12% over three years costs roughly $1.08 million in total interest. The same $3 million raised as equity at a $15 million pre-money valuation costs 20% of the company, which is $20 million at a $100 million exit. Hayat Amin reminds founders in every [IP-backed financing engagement](/blog/posts/ip-collateral-95-percent-unpledged-gap-2026/) that the first question is not whether you qualify for an IP loan. The first question is whether you have a patent portfolio structured to be pledgeable.
+The math exposes the AI startup IP strategy mistake clearly. A $3 million IP-backed loan at 12% over three years costs roughly $1.08 million in total interest. The same $3 million raised as equity at a $15 million pre-money valuation costs 20% of the company, which is $20 million at a $100 million exit. The first question is not whether you qualify for an IP loan. It is whether you have a patent portfolio structured to be pledgeable.
 
 ## Mistake 4: Are You Filing AI Patents Without the 2025 Subject Matter Eligibility Declaration?
 

@@ -37,7 +37,7 @@ Three mechanisms drive this:
 
 **1. Investor confidence.** When data appears as a recognised asset, due-diligence teams can point to it in the financial statements. It becomes a line item with an auditable value, not a hand-wave in a pitch deck. Companies with patents are 10.2x more likely to secure early-stage funding — and recognised data assets trigger the same pattern-matching in investor psychology.
 
-**2. Collateral eligibility.** Tangible assets secure traditional debt. Recognised intangible assets — including capitalised datasets — qualify for [IP-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/). Unrecognised data qualifies for nothing. The classification literally determines whether your data can fund your next round without dilution.
+**2. Collateral eligibility.** Tangible assets secure traditional debt. Recognised intangible assets — including capitalised datasets — qualify for IP-backed financing. Unrecognised data qualifies for nothing. The classification literally determines whether your data can fund your next round without dilution.
 
 **3. Exit multiple attribution.** In M&A, purchase price allocation (PPA) assigns value to identifiable intangible assets. If your data is already classified and valued pre-transaction, you control the narrative. If it is not, the acquirer's accountants classify it for you — usually at the lowest defensible number. Hayat Amin reminds founders: "The acquirer's valuation team is not on your side. If you have not classified your data assets before the LOI, you have already lost 20% of the negotiation."
 

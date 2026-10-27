@@ -59,7 +59,7 @@ Intangible assets represent roughly 90% of S&P 500 market capitalization, yet fe
 
 Singapore's IP Financing Scheme has facilitated over $100M in IP-backed loans. The UK IPO is running a patent-backed lending pilot. The US SBA now accepts IP as supplementary collateral. Mainstream venture debt providers including Western Technology Investment and Horizon Technology Finance formally incorporate IP valuation into underwriting and ask for the patent schedule before the financial model.
 
-Hayat Amin reminds founders of the cost comparison that nobody runs: a $3M IP-backed loan at 12% over three years costs roughly $1.08M in total interest. Raising the same $3M as equity at a $15M pre-money costs 20% of the company, which at a $100M exit translates to $20M. The founder who uses IP as collateral keeps $18.9M more.
+The cost comparison nobody runs is simple: a $3M IP-backed loan at 12% over three years costs roughly $1.08M in total interest. Raising the same $3M as equity at a $15M pre-money costs 20% of the company, which at a $100M exit translates to $20M. The founder who uses IP as collateral keeps $18.9M more.
 
 The first rated intangible-backed securities are expected to issue in the 2026 to 2028 window. Founders who have not registered and valued their IP assets will miss the cheapest capital available.
 
@@ -69,7 +69,7 @@ Every founder preparing to raise in the next 12 months should run this sequence.
 
 Hayat Amin says the single biggest mistake founders make is treating IP valuation as a legal exercise instead of a financial one. The lawyers who filed your patents are not the right people to value them for a raise. The right team understands investor scoring models, can quantify the rebuild cost, and knows how to present IP as both a defensive moat and a revenue asset.
 
-Beyond Elevation runs this exact pre-raise IP valuation diagnostic for founders at every stage. The engagement typically pays for itself within the first term sheet negotiation. [The 41% valuation gap](/blog/posts/ip-audit-valuation-multiple-41-percent-gap-2026/) is real, documented, and fixable. [Defensibility now beats growth](/blog/posts/ip-defensibility-beats-growth-2026/) in every major scoring framework. And [the 95% collateral gap](/blog/posts/ip-collateral-95-percent-unpledged-gap-2026/) is a capital source most founders do not know exists.
+Beyond Elevation runs the IP audit and valuation steps of this sequence for founders at every stage. The engagement typically pays for itself within the first term sheet negotiation. [The 41% valuation gap](/blog/posts/ip-audit-valuation-multiple-41-percent-gap-2026/) is real, documented, and fixable. [Defensibility now beats growth](/blog/posts/ip-defensibility-beats-growth-2026/) in every major scoring framework.
 
 
 

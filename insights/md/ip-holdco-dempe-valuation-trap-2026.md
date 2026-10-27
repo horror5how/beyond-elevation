@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 73% of venture-backed companies with IP holding companies would fail a 2026 OECD DEMPE analysis. That means the asset your lender plans to underwrite is not where your legal title says it is.
 
-Hayat Amin saw this exact scenario unfold when a Series B SaaS company approached Beyond Elevation for an IP-backed loan. The founders had moved 14 patents into a Delaware holdco three years earlier on tax counsel's advice. The lender's transfer pricing team ran DEMPE in week one of underwriting and attributed zero economic value to the holdco's IP. The patents were legally held by the holdco. The value was attributed to the operating company that developed, enhanced, maintained, protected, and exploited them. The founders' tax-saving structure had stripped the collateral they needed to borrow against.
+Hayat Amin saw this exact scenario unfold when a Series B SaaS company applied for an IP-backed loan. The founders had moved 14 patents into a Delaware holdco three years earlier on tax counsel's advice. The lender's transfer pricing team ran DEMPE in week one of underwriting and attributed zero economic value to the holdco's IP. The patents were legally held by the holdco. The value was attributed to the operating company that developed, enhanced, maintained, protected, and exploited them. The founders' tax-saving structure had stripped the collateral they needed to borrow against.
 
 This is not an edge case. Under the 2026 OECD DEMPE framework, IP holding company transfer pricing rules have shifted from formality to enforcement. Every lender, acquirer, and growth equity fund running due diligence now asks one question before they open your financial model: who performs the DEMPE functions on this IP?
 
@@ -47,7 +47,7 @@ Companies that fix the mismatch before due diligence avoid the discount entirely
 
 ## What Is Hayat Amin's DEMPE Holdco Diagnostic?
 
-Hayat Amin's DEMPE Holdco Diagnostic is a five-question test that reveals whether your IP holding company would survive a lender or acquirer's transfer pricing analysis. Beyond Elevation runs this diagnostic on every client with an IP holdco structure before any financing or exit engagement.
+Hayat Amin's DEMPE Holdco Diagnostic is a five-question test that reveals whether your IP holding company would survive a lender or acquirer's transfer pricing analysis. Beyond Elevation runs this diagnostic on every client with an IP holdco structure before any fundraise or exit.
 
 **Question 1: Who employs the engineers?** If every engineer works for the operating company and zero work for the holdco, the Development and Enhancement functions sit in the opco. The holdco has no DEMPE claim to D or E.
 
@@ -67,7 +67,7 @@ There are two paths to fixing a DEMPE-failing holdco: move substance into the ho
 
 **Path 1: Build DEMPE substance.** Hire or contract IP management professionals at the holdco level. Route patent maintenance fees, enforcement decisions, and licensing negotiations through the holdco. Document board-level IP strategy decisions made by holdco directors. This creates genuine DEMPE activity that supports the holdco's ownership claim. The cost runs $100K to $250K per year in additional headcount and overhead, but it preserves the tax structure and creates a holdco that lenders will underwrite at full LTV.
 
-**Path 2: Collapse the structure.** Assign the IP back to the operating company and accept the standard tax treatment. This eliminates the DEMPE mismatch entirely. For companies where the annual tax savings from the holdco structure are less than $200K, this is almost always the right move. The simplification makes lending, [IP-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/), and M&A due diligence faster and cheaper.
+**Path 2: Collapse the structure.** Assign the IP back to the operating company and accept the standard tax treatment. This eliminates the DEMPE mismatch entirely. For companies where the annual tax savings from the holdco structure are less than $200K, this is almost always the right move. The simplification makes lending, IP-backed financing, and M&A due diligence faster and cheaper.
 
 Hayat Amin recommends running the DEMPE Holdco Diagnostic at least 12 months before any planned debt raise or exit. Restructuring DEMPE functions takes 6 to 9 months to document credibly. Attempting to paper over the gap during due diligence invites scrutiny that makes the problem worse.
 

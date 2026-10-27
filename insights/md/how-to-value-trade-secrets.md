@@ -73,7 +73,7 @@ First, AI companies are keeping their most valuable innovations as trade secrets
 
 Second, acquirers now run trade secret audits during diligence. A [pre-exit IP audit](/blog/posts/pre-exit-ip-audit-acquisition-premium/) that includes trade secret valuation adds 15 to 20% to the acquisition multiple. Without it, buyers apply a discount for unmeasured risk.
 
-Third, lenders accept trade secrets as collateral for [IP-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/) when they are properly documented and valued. IP-backed loans no longer require granted patents exclusively. A documented trade secret portfolio with a defensible valuation can support $2 million to $20 million in non-dilutive capital.
+Third, lenders accept trade secrets as collateral for IP-backed financing when they are properly documented and valued. IP-backed loans no longer require granted patents exclusively. A documented trade secret portfolio with a defensible valuation can support $2 million to $20 million in non-dilutive capital.
 
 Hayat Amin says the $0 trade secret problem is not a legal issue. It is a finance issue. "Patent attorneys cannot solve this because they do not think in multiples. You need someone who understands what a trade secret is worth to a buyer, a lender, and a licensee. Three different numbers, three different methods, one defensible range."
 
@@ -99,7 +99,7 @@ A trade secret valuation typically runs $15,000 to $75,000 depending on portfoli
 
 ### Can trade secrets be used as collateral for loans?
 
-Yes, when properly documented and valued. [IP-backed lenders](/blog/posts/venture-debt-ip-collateral-playbook/) in 2026 accept trade secret portfolios alongside or instead of granted patents, provided the valuation uses accepted methodologies and the protection measures are documented. Insurance-wrapped structures reduce lender risk further.
+Yes, when properly documented and valued. IP-backed lenders in 2026 accept trade secret portfolios alongside or instead of granted patents, provided the valuation uses accepted methodologies and the protection measures are documented. Insurance-wrapped structures reduce lender risk further.
 
 ### What is the difference between trade secret valuation and patent valuation?
 

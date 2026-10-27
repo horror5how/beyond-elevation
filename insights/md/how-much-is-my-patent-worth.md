@@ -15,7 +15,7 @@ That is a 42x gap between the lowest estimate and reality. And it is not unusual
 
 If you are searching "how much is my patent worth," you are already ahead of the 93% of patent holders who never run the math. But the answer is not a single number. It is three numbers — and most patent attorneys, brokers, and even VCs only know one of them.
 
-Beyond Elevation developed the 3-Number Patent Valuation Formula to give founders a defensible answer in any negotiation: licensing deals, fundraising, M&A, or IP-backed lending. Here is how it works.
+Beyond Elevation developed the 3-Number Patent Valuation Formula to give founders a defensible answer in any negotiation: licensing deals, fundraising or M&A. Here is how it works.
 
 ## How Much Is My Patent Worth? The Answer Is Three Numbers
 

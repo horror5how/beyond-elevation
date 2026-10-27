@@ -73,7 +73,7 @@ Founders should prepare their patent portfolio for valuation the same way they p
 
 Getting patent portfolio valuation right before a fundraise or exit is not optional. The difference between individual patent math and portfolio-level valuation is the difference between a $700K line item and a $5M strategic asset on your cap table. The founders who capture that gap are the ones who treat their portfolio as a system, not a stack of documents.
 
-Beyond Elevation runs patent portfolio valuations for AI, SaaS, and deep-tech companies preparing for fundraising rounds, M&A exits, and [IP-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/). Book a portfolio review at [beyondelevation.com](https://beyondelevation.com) and find out whether your IP is priced at what it is worth or what your attorney told you it cost.
+Beyond Elevation runs patent portfolio valuations for AI, SaaS, and deep-tech companies preparing for fundraising rounds and M&A exits. Book a portfolio review at [beyondelevation.com](https://beyondelevation.com) and find out whether your IP is priced at what it is worth or what your attorney told you it cost.
 
 
 

@@ -49,9 +49,9 @@ Risk: process know-how disclosure. Manufacturing know-how cannot be unlearned on
 
 ### 3. Patent and IP Collateral Escrow (Lending and Licensing)
 
-In [IP-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/), lenders sometimes require the borrower to escrow pre-signed patent assignments that the lender can execute if the borrower defaults. In licensing deals, escrow may hold royalty payments pending milestone verification.
+In IP-backed financing, lenders sometimes require the borrower to escrow pre-signed patent assignments that the lender can execute if the borrower defaults. In licensing deals, escrow may hold royalty payments pending milestone verification.
 
-Risk: accelerated transfer. A pre-signed patent assignment in escrow means the lender can take ownership of your entire patent portfolio on a single default event. Hayat Amin's team at Beyond Elevation has reviewed three IP-backed loan agreements in 2026 where the escrow contained blanket assignments covering patents the borrower had not even filed yet.
+Risk: accelerated transfer. A pre-signed patent assignment in escrow means the lender can take ownership of your entire patent portfolio on a single default event.
 
 ## What Does a Bad IP Escrow Agreement Cost You?
 
@@ -61,7 +61,7 @@ A badly structured IP escrow agreement costs founders in three compounding ways.
 
 **Valuation impairment.** When an acquirer runs [IP due diligence](/blog/posts/ip-due-diligence-ma-guide/), they map every escrow agreement attached to the target's IP. Each agreement with broad release triggers represents a contingent IP-access right that reduces the acquirer's exclusivity premium. Hayat Amin proved this in one restructuring where three escrow agreements with Fortune 500 customers had reduced the portfolio's assessed value by 22% — $4.1M in value erased by boilerplate clauses nobody had reviewed.
 
-**Lender exposure.** For companies using [patents as loan collateral](/blog/posts/venture-debt-ip-collateral-playbook/), an existing customer-facing escrow with a release trigger tied to "insolvency proceedings" means the lender's collateral evaporates at exactly the moment they need it — during borrower distress.
+**Lender exposure.** For companies using patents as loan collateral, an existing customer-facing escrow with a release trigger tied to "insolvency proceedings" means the lender's collateral evaporates at exactly the moment they need it — during borrower distress.
 
 ## How Should Founders Structure IP Escrow? The Hayat Amin 4-Tier IP Escrow Decision Matrix
 
@@ -93,7 +93,7 @@ The average tech company with $5M+ ARR carries 4.2 active escrow agreements in 2
 
 The fix is not eliminating escrow. Enterprise customers will always require it. The fix is structuring the escrow so the deposited IP represents the minimum viable access the beneficiary needs and nothing the acquirer or lender would consider a competing access right.
 
-If your company has more than 3 active escrow agreements, or if you are preparing for an exit, fundraise, or IP-backed loan, [contact Beyond Elevation](https://beyondelevation.com) for an escrow clause audit before due diligence exposes the gap.
+If your company has more than 3 active escrow agreements, or if you are preparing for an exit or fundraise, [contact Beyond Elevation](https://beyondelevation.com) for an escrow clause audit before due diligence exposes the gap.
 
 
 

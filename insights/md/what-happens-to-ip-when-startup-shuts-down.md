@@ -23,7 +23,7 @@ This surprises people because founders think of patents as theirs. Legally they 
 
 In a startup insolvency the patents follow one of three paths, and the path is set by paperwork, not merit.
 
-**Path one: the secured creditor takes them.** If a venture debt lender or a bank has a perfected security interest over company assets, and the company defaults, the lender can foreclose on the IP and sell it to recover the loan. Venture debt in 2026 routinely names the patent portfolio as collateral. That is why understanding [patents as collateral](ip-backed-financing-patents-as-collateral) before you borrow decides who owns them if the loan goes bad.
+**Path one: the secured creditor takes them.** If a venture debt lender or a bank has a perfected security interest over company assets, and the company defaults, the lender can foreclose on the IP and sell it to recover the loan. Venture debt in 2026 routinely names the patent portfolio as collateral. That is why understanding patents as collateral before you borrow decides who owns them if the loan goes bad.
 
 **Path two: an assignee or trustee sells them.** Companies that skip formal bankruptcy often use an Assignment for the Benefit of Creditors, where a third party assignee takes control of every asset and sells it to raise cash for creditors. The assignee has one job: get the highest price fast. They will sell your patents to a competitor, a patent buyer, or whoever bids, and the founders have no veto. This is the same buyer pool described in [distressed IP acquisition](distressed-ip-portfolio-acquisition), where portfolios change hands at steep discounts.
 

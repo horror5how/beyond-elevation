@@ -35,15 +35,15 @@ Not every dataset qualifies for Data Asset Foundation registration. The data mus
 
 Datasets that typically qualify include curated training data for AI and machine learning models, proprietary market intelligence compiled from unique sources, IoT and sensor data from industrial operations, transaction-level data from financial platforms, and [domain-specific datasets with identifiable commercial applications](/blog/posts/examples-of-data-assets/). The common thread is exclusivity: if the data can be freely scraped, purchased from a commodity provider, or recreated by a competitor with modest effort, it lacks the scarcity value that makes DAF registration worthwhile.
 
-Hayat Amin applies what the Beyond Elevation team calls the **Data Collateral Readiness Test** — a five-question diagnostic that scores a dataset on exclusivity, refresh frequency, commercial demand, legal clarity, and governance maturity. Datasets that score below three out of five are not ready for DAF registration. Datasets that score four or five are almost certainly undervalued on the founder's own books.
+Hayat Amin applies what the Beyond Elevation team calls the **Data Asset Readiness Test** — a five-question diagnostic that scores a dataset on exclusivity, refresh frequency, commercial demand, legal clarity, and governance maturity. Datasets that score below three out of five are not ready for DAF registration. Datasets that score four or five are almost certainly undervalued on the founder's own books.
 
 ## How Does a Data Asset Foundation Compare to Patent-Backed Financing?
 
-The Data Asset Foundation extends the same structural logic that [patent-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/) uses — creating a registered, valued, transferable asset that lenders can underwrite — but applies it to data instead of patents. Both vehicles solve the same problem: intangible assets that are commercially valuable but structurally invisible to traditional debt markets.
+The Data Asset Foundation extends the same structural logic that patent-backed financing uses — creating a registered, valued, transferable asset that lenders can underwrite — but applies it to data instead of patents. Both vehicles solve the same problem: intangible assets that are commercially valuable but structurally invisible to traditional debt markets.
 
 Patent-backed financing is more mature. Lenders like Western Technology Investment and Horizon Technology Finance have refined their underwriting criteria over a decade. DAF-backed lending is months old, with fewer lenders, smaller deal sizes, and less precedent. But the trajectory is unmistakable. The EUIPO report that identified &euro;580 billion in locked IP finance potential specifically flagged data assets as the next frontier.
 
-For founders with both patents and proprietary data, the strategic play is to structure both asset classes for collateralisation. Beyond Elevation already advises clients preparing dual-asset lending packages — patents registered through standard IP offices, data structured through DAFs or equivalent vehicles — to maximise total borrowing capacity without diluting equity.
+For founders with both patents and proprietary data, the strategic play is to structure both asset classes for collateralisation.
 
 ## What Should U.S. and UK Founders Do Right Now?
 
@@ -51,7 +51,7 @@ U.S. and UK founders do not need to relocate to the Isle of Man to benefit from 
 
 The steps are concrete. First, conduct a [formal data asset inventory](/blog/posts/data-monetization-strategy-framework/) that catalogues every proprietary dataset by source, volume, refresh frequency, commercial application, and ownership status. Second, implement a documented data governance programme with access controls, quality standards, and retention policies — lenders will not underwrite ungoverned data. Third, commission an independent data valuation using the income or market approach (the cost approach systematically undervalues data because it ignores commercial potential). Fourth, clean up all contractual rights — licensing agreements, terms of service, employee IP assignments, and third-party data provider contracts must unambiguously support the company's right to register and transact the dataset.
 
-Hayat Amin reminds founders that the DAF is a vehicle, not a strategy. "The founders who will move fastest are the ones who already know what their data is worth, who has the rights, and what the governance looks like. Everyone else will spend six months getting ready while the early movers are already borrowing against their datasets." [Beyond Elevation](https://beyondelevation.com) runs a 4-week Data Collateral Readiness engagement that covers all four steps and delivers a lender-ready data asset brief.
+Hayat Amin reminds founders that the DAF is a vehicle, not a strategy. "The founders who will move fastest are the ones who already know what their data is worth, who has the rights, and what the governance looks like. Everyone else will spend six months getting ready while the early movers are already borrowing against their datasets." [Beyond Elevation](https://beyondelevation.com) values the dataset and maps its licensing potential.
 
 ## Is a Data Asset Foundation Only for Large Companies?
 

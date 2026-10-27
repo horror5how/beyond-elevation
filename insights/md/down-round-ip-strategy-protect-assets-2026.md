@@ -77,7 +77,7 @@ Yes. An independent, credentialed IP appraisal (ASA or AICPA standard) establish
 
 ### Can I use patents as collateral instead of raising a down round?
 
-Yes. IP-backed lenders like Western Technology Investment and Horizon underwrite patent portfolios at 20% to 40% LTV. A $10M appraised portfolio supports $2M to $4M in debt financing at 8% to 15% interest, which is dramatically cheaper than the equity dilution in a down round. Read the full IP-backed lending playbook here.
+Yes. IP-backed lenders like Western Technology Investment and Horizon underwrite patent portfolios at 20% to 40% LTV. A $10M appraised portfolio supports $2M to $4M in debt financing at 8% to 15% interest, which is dramatically cheaper than the equity dilution in a down round.
 
 ### What types of IP hold value in a down round?
 

@@ -64,7 +64,7 @@ The filing fee is the visible cost. The hidden costs are what drain founder budg
 
 **Design-around monitoring.** A granted patent has no value if competitors design around it undetected. Monitoring competitor products for potential infringement requires ongoing technical analysis, either in-house or through a service, costing $5,000 to $15,000 per year for a focused portfolio.
 
-**Enforcement.** If someone infringes your patent, enforcement costs $500,000 to $3,000,000+ in litigation. Even a demand letter and negotiation sequence runs $50,000 to $150,000 in attorney fees. Most founders never budget for enforcement, which means they own a patent they cannot afford to use. [IP-backed financing](/blog/posts/ip-backed-financing-patents-as-collateral/) and contingency-fee enforcement firms are changing this dynamic in 2026, but founders must plan for it from the start.
+**Enforcement.** If someone infringes your patent, enforcement costs $500,000 to $3,000,000+ in litigation. Even a demand letter and negotiation sequence runs $50,000 to $150,000 in attorney fees. Most founders never budget for enforcement, which means they own a patent they cannot afford to use. IP-backed financing and contingency-fee enforcement firms are changing this dynamic in 2026, but founders must plan for it from the start.
 
 ## How Much Should a Startup Spend on Patents at Each Stage?
 

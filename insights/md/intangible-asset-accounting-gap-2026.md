@@ -29,7 +29,7 @@ The intangible asset accounting gap directly reduces the capital available to IP
 
 Hayat Amin's view is direct: the gap is not a reporting issue — it is a negotiating handicap. "When a VC sees $2M in total assets on your balance sheet but you are asking for a $30M pre-money valuation, the entire negotiation becomes about justifying the gap," Hayat Amin says. "Hand them an independent IP valuation and the conversation changes from 'prove your value' to 'how do we structure this.'"
 
-The lending side is more stark. Traditional asset-based lenders cannot lend against assets that do not appear on the balance sheet. This is why fewer than [5% of identifiable IP assets have ever been pledged as collateral](/blog/posts/ip-collateral-95-percent-unpledged-gap-2026/) — despite intangibles representing 90% of enterprise value. The accounting treatment creates a structural barrier to [non-dilutive financing](/blog/posts/ip-backed-financing-patents-as-collateral/).
+The lending side is more stark. Traditional asset-based lenders cannot lend against assets that do not appear on the balance sheet. This is why fewer than 5% of identifiable IP assets have ever been pledged as collateral — despite intangibles representing 90% of enterprise value. The accounting treatment creates a structural barrier to non-dilutive financing.
 
 At [Beyond Elevation](https://beyondelevation.com), the team has seen this gap range from 2x to 15x the book value of a company's total assets. For AI and deep tech companies with minimal physical assets, the ratio can be even more extreme.
 

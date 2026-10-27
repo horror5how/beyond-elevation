@@ -43,7 +43,7 @@ The math works for most IP-rich startups. A company with $2 million in patent po
 
 ## Does IP Insurance Increase Your Patent Portfolio Value?
 
-IP insurance increases patent portfolio value in two measurable ways: enforcement credibility and lending terms. These are not theoretical. Beyond Elevation has documented portfolio value lifts of 15% to 30% after enforcement coverage was added, driven entirely by improved licensing negotiation outcomes and better [IP-backed financing terms](/blog/posts/ip-backed-financing-patents-as-collateral/).
+IP insurance increases patent portfolio value in two measurable ways: enforcement credibility and lending terms.
 
 The enforcement credibility effect is direct. When a startup sends a licensing demand backed by enforcement insurance, the target company's legal team runs a different calculation. Without insurance, the target assumes the startup will settle for a low-ball offer because litigation costs $3 million and takes 2 years. With insurance, that assumption breaks. The startup can credibly threaten full litigation, which shifts the negotiation range upward by 2x to 4x.
 
@@ -77,11 +77,11 @@ Hayat Amin says this is not about risk aversion. It is about economics. "The fou
 
 ## How Does Beyond Elevation Build IP Insurance Into Patent Strategy?
 
-Beyond Elevation integrates IP insurance into every portfolio structuring engagement for clients with 5 or more patents. The process follows 3 steps that turn insurance from an expense line into a revenue multiplier that pays for itself through improved lending terms and licensing outcomes.
+Beyond Elevation integrates IP insurance into every portfolio structuring engagement for clients with 5 or more patents. The process follows 3 steps that turn insurance from an expense line into a revenue multiplier that pays for itself through licensing outcomes.
 
 First, the team runs a portfolio audit to identify which patents have active infringers and which have licensing potential. This determines the coverage type: enforcement-only for licensing-stage portfolios, defense-only for companies facing troll risk, or combined for mature portfolios with both needs.
 
-Second, Beyond Elevation structures the insurance alongside IP-backed financing. An insured portfolio qualifies for better lending terms, which creates a non-dilutive capital source that funds the licensing campaign itself. The insurance premium pays for itself through improved loan terms alone, before any licensing revenue arrives.
+Second, Beyond Elevation values the portfolio and maps its licensing potential.
 
 Third, the team uses the enforcement coverage as a negotiation tool in licensing outreach. Targets receive documentation that the patent holder has litigation funding in place. This shifts the negotiation from "can they afford to sue?" to "how much should we pay to license?" That shift changes deal outcomes by 2x to 4x in documented cases.
 

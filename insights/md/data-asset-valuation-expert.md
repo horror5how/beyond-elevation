@@ -73,7 +73,7 @@ You need a data asset valuation expert at four inflection points — and hiring 
 
 **Data licensing negotiations.** Every licensing deal requires a defensible price anchor. A formal data asset valuation transforms "we think our data is valuable" into "here is the income approach at 8% royalty on attributable revenue, benchmarked against three comparable transactions." The first statement gets pushback. The second gets a term sheet.
 
-**Balance sheet recognition.** With the Isle of Man Data Asset Foundation structure now live, companies can register datasets as balance-sheet assets for the first time. A formal valuation is required for DAF registration and creates a recognised asset that can be used as collateral — a structure Beyond Elevation has helped multiple clients complete since the framework launched.
+**Balance sheet recognition.** With the Isle of Man Data Asset Foundation structure now live, companies can register datasets as balance-sheet assets for the first time. A formal valuation is required for DAF registration and creates a recognised asset that can be used as collateral.
 
 
 
