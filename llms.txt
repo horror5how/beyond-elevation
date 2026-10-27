@@ -518,5 +518,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your AI Pilot Worked and Nothing Changed. The 4 Operations Gaps That Kill AI Deployment.](https://beyondelevation.com/insights/ai-deployment-operations-gaps) — /insights/md/ai-deployment-operations-gaps.md
 - [Your Annual Budget Is Fiction by February. The Rolling Forecast That Actually Runs a Growth Company.](https://beyondelevation.com/insights/rolling-forecast-vs-annual-budget) — /insights/md/rolling-forecast-vs-annual-budget.md
 - [Shadow AI Costs Companies $1,200 Per Employee Per Year. Most CEOs Have No Idea It Exists.](https://beyondelevation.com/insights/shadow-ai-hidden-cost-per-employee-2026) — /insights/md/shadow-ai-hidden-cost-per-employee-2026.md
+- [The Year-End CFO Checklist Most Companies Start Two Months Too Late](https://beyondelevation.com/insights/year-end-cfo-checklist-before-january) — /insights/md/year-end-cfo-checklist-before-january.md
 
 > Full blog content available at /llms-full.txt
