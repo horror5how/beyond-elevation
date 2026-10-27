@@ -27,7 +27,8 @@ module.exports = async (req, res) => {
   if (Number.isNaN(Date.parse(startIso))) return res.status(400).end(JSON.stringify({ error: "Pick a time first." }));
 
   try {
-    const r = await book({ startIso, name, email, company, notes, guestTz, source, answers });
+    const ip = clean(String(req.headers["x-forwarded-for"] || "").split(",")[0], 45);
+    const r = await book({ startIso, name, email, company, notes, guestTz, source, answers, ip });
     res.status(200).end(JSON.stringify({ ok: true, start: r.start, end: r.end, meet: r.meet, link: r.link }));
   } catch (e) {
     if (e.code === "BAD_INPUT") return res.status(400).end(JSON.stringify({ error: e.message }));
