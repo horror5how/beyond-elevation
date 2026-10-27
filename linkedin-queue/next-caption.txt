@@ -1,17 +1,15 @@
-Your AI vendor scored 10/10 in the demo.
+Your term sheet has 14 clauses that can destroy your exit.
 
-It scored 3 in production.
+Most founders only read price and ownership percentage.
 
-73% of AI tools underperform their demo benchmarks once you plug in real data, real users, real exceptions.
+Liquidation preferences stacked 3x wiped a founder's £8M payout to zero.
 
-The problem isn't the AI.
+Anti-dilution ratchets transferred 18% equity on one down round.
 
-Demos run on clean data with vendor engineers on the call.
+Pro-rata rights blocked the co-investor who would have led the next round.
 
-Production runs on 4 years of messy data with zero support.
+A fractional CFO reads these before you sign.
 
-The fix isn't a better vendor.
+After you sign, every clause is locked.
 
-It's an operator who closes the gap before the contract is signed.
-
-#AIOperations #FractionalExecutive #AI
+#FractionalCFO #Fundraising #FounderFinance
