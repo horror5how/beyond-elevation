@@ -1,20 +1,17 @@
-Most founders hire an IP lawyer. They bill for time, not outcomes.
+Your AI vendor scored 10/10 in the demo.
 
-A fractional Chief IP Officer is different.
+It scored 3 in production.
 
-In the first 12 months, one typically:
+73% of AI tools underperform their demo benchmarks once you plug in real data, real users, real exceptions.
 
-— Finds 3–6 IP assets not on your balance sheet
-— Structures 1–2 licensing conversations worth £500K–£2M
-— Kills 20–35% of your patent spend on dead filings
-— Documents monetisation that adds 0.4–0.8x to your exit multiple
+The problem isn't the AI.
 
-Monthly cost: £4,000–£8,000.
+Demos run on clean data with vendor engineers on the call.
 
-One term sheet change covers the year.
+Production runs on 4 years of messy data with zero support.
 
-The question is not whether you can afford a fractional CIPO.
+The fix isn't a better vendor.
 
-It is what you have already left on the table.
+It's an operator who closes the gap before the contract is signed.
 
-#IPStrategy #FractionalExecutive #ExitReadiness
+#AIOperations #FractionalExecutive #AI

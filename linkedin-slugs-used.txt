@@ -813,3 +813,4 @@ fractional-executive-kpis-2026
 ai-operations-maturity-gap-2026
 fractional-cfo-brief-failure-2026
 fractional-cipo-roi-12-months-2026
+ai-vendor-selection-mistake-2026
