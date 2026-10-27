@@ -47,6 +47,12 @@ The accrual that trips up growth-stage companies most often is unbilled revenue.
 
 Hayat Amin reminds founders that accruals are where year-end numbers go from "audit-ready" to "audit-proof." "An auditor does not care what you intend to bill. They care what the contract says, what was delivered, and whether the accrual matches both. If it does not, they adjust it — and the adjustment appears in the management letter your board reads."
 
+## Which Tax and Compliance Deadlines Hit Before Year-End?
+
+Tax and compliance deadlines that hit before year-end include corporate tax provision estimates, R&D tax credit documentation, transfer pricing adjustments for multi-entity groups, and VAT or sales tax reconciliations. Missing a filing deadline does not just cost a penalty — it signals to auditors and investors that the finance function lacks control.
+
+The R&D tax credit is the one most growth-stage companies leave on the table. If your engineering team built anything novel this year, those hours and costs qualify for a credit that directly reduces your tax liability. But the documentation must be assembled before year-end — retroactive claims are weaker and attract more scrutiny. A fractional CFO who has filed R&D credits before knows exactly which project logs, timesheets, and expense records to pull.
+
 ## What Forward-Looking Numbers Should Be Set Before January?
 
 The forward-looking numbers that belong on every year-end CFO checklist are the 2027 operating budget, Q1 cash flow forecast, headcount plan with fully loaded costs, and capital expenditure schedule. These numbers do not just plan the next year — they set the baseline against which every board meeting and investor update in 2027 will be measured.
