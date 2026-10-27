@@ -22,13 +22,20 @@
 .bk-step{margin:0 0 10px}
 .call-h1{font-family:var(--sans,inherit);font-weight:800;font-size:clamp(44px,6vw,84px);line-height:1;letter-spacing:-.02em;color:var(--ink);margin:0 0 12px}
 .call-sub{font-size:clamp(17px,1.6vw,21px);color:var(--mute);margin:0 0 36px;max-width:46ch}
-.bk-tzband{background:#FFF4CC;border:2px solid #F2B705;border-radius:14px;padding:18px 20px;margin:0 0 22px;display:grid;grid-template-columns:auto 1fr;gap:6px 16px;align-items:center}
-.bk-tzband .bk-tznum{grid-row:span 3;width:40px;height:40px;border-radius:50%;background:#F2B705;color:#1a1a1a;font-weight:800;font-size:18px;display:flex;align-items:center;justify-content:center}
-.bk-tzband b.bk-tztitle{font-size:18px;color:#1a1a1a}
-.bk-tzband select{font:inherit;font-size:17px;font-weight:600;padding:10px 12px;border:2px solid #1a1a1a;border-radius:10px;background:#fff;width:100%;max-width:420px}
-.bk-tzband .bk-tznote{font-size:14px;color:#5a4a00;margin:0}
-.bk-tzband.flash{animation:bkflash 1.2s ease 2}
-@keyframes bkflash{50%{box-shadow:0 0 0 6px rgba(242,183,5,.45)}}
+.bk-tzband{position:relative;display:flex;gap:16px;align-items:flex-start;padding:20px 22px;margin:0 0 24px;border-radius:16px;background:linear-gradient(135deg,#EEF2FF 0%,#F8FAFF 60%,#FFFFFF 100%);border:1px solid #D9E0FF;box-shadow:0 1px 2px rgba(17,24,39,.04),0 8px 24px -12px rgba(79,70,229,.25);animation:bkpulse 2.4s ease-out 1}
+@keyframes bkpulse{0%{box-shadow:0 0 0 0 rgba(79,70,229,.35)}70%{box-shadow:0 0 0 10px rgba(79,70,229,0)}100%{box-shadow:0 1px 2px rgba(17,24,39,.04),0 8px 24px -12px rgba(79,70,229,.25)}}
+.bk-tzicon{flex:none;width:44px;height:44px;border-radius:12px;background:#4F46E5;color:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 14px -6px rgba(79,70,229,.6)}
+.bk-tzbody{flex:1;min-width:0}
+.bk-tzkicker{margin:0 0 2px;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#4F46E5}
+.bk-tztitle{display:block;font-size:18px;font-weight:700;color:#111827;letter-spacing:-.01em;margin-bottom:12px}
+.bk-tzrow{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.bk-tzsel{position:relative;flex:1;min-width:220px;max-width:380px}
+.bk-tzsel::after{content:"";position:absolute;right:14px;top:50%;width:8px;height:8px;border-right:2px solid #4F46E5;border-bottom:2px solid #4F46E5;transform:translateY(-70%) rotate(45deg);pointer-events:none}
+.bk-tzsel select{appearance:none;-webkit-appearance:none;width:100%;font:inherit;font-size:16px;font-weight:600;color:#111827;padding:12px 40px 12px 14px;border:1px solid #C7D2FE;border-radius:12px;background:#fff;cursor:pointer;transition:border-color .15s,box-shadow .15s}
+.bk-tzsel select:hover{border-color:#818CF8}
+.bk-tzsel select:focus{outline:none;border-color:#4F46E5;box-shadow:0 0 0 4px rgba(79,70,229,.15)}
+.bk-tzclock{display:inline-flex;align-items:center;gap:7px;padding:8px 12px;border-radius:999px;background:#fff;border:1px solid #E5E7EB;font-size:13px;font-weight:600;color:#374151;white-space:nowrap}
+.bk-tznote{margin:10px 0 0;font-size:13px;color:#6B7280}
 .bk-head{margin-bottom:12px}
 .bk-grid-wrap{display:grid;grid-template-columns:1.25fr 1fr;gap:28px}
 .bk-month{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
@@ -62,7 +69,7 @@
 .bk-done h2 .mono{font-size:12px;margin-left:8px}
 .bk-done p{line-height:1.55}
 @media(max-width:900px){.callgrid .callframe.bk{order:-1}}
-@media(max-width:700px){.bk-tzband{grid-template-columns:1fr}.bk-tzband .bk-tznum{grid-row:auto}.bk-grid-wrap{grid-template-columns:1fr}.bk-times{border-left:0;padding-left:0;min-height:0}.bk-row{grid-template-columns:1fr}.bk-list{max-height:none}}
+@media(max-width:700px){.bk-tzband{padding:16px}.bk-tzicon{display:none}.bk-tzsel{min-width:0;max-width:none;flex-basis:100%}.bk-grid-wrap{grid-template-columns:1fr}.bk-times{border-left:0;padding-left:0;min-height:0}.bk-row{grid-template-columns:1fr}.bk-list{max-height:none}}
 </style>
 </head>
 <body>
@@ -130,6 +137,6 @@
   <p class="fineprint">© 2026 Beyond Elevation · <a href="/company">Company</a> · <a href="/privacy">Privacy</a></p>
 </footer>
 <script src="../assets/site.js?v=12"></script>
-<script src="/assets/book.js?v=3" defer></script>
+<script src="/assets/book.js?v=4" defer></script>
 </body>
 </html>

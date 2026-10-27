@@ -37,10 +37,9 @@
 
   function tzNote() {
     const z = tz.replace(/_/g, " ");
-    const now = clock(new Date().toISOString());
-    if (tzHow === "chosen") return `All times below are in ${z}. Your time there now: ${now}.`;
+    if (tzHow === "chosen") return `All times below are in ${z}.`;
     if (tzHow === "default") return `We could not detect where you are. Pick your city so the times are right.`;
-    return `We set this to ${z} from your ${tzHow === "ip" ? "location" : "device"}. Your time there now: ${now}. Wrong? Change it before you pick.`;
+    return `Detected from your ${tzHow === "ip" ? "location" : "device"}. Wrong? Change it before you pick a time.`;
   }
 
   function render() {
@@ -66,10 +65,16 @@
     const times = day ? (days[day] || []) : [];
     root.innerHTML = `
       <div class="bk-tzband" id="bk-tzband">
-        <span class="bk-tznum">1</span>
-        <b class="bk-tztitle">Please select your time zone first</b>
-        <select id="bk-tz" aria-label="Your time zone">${tzOptions()}</select>
-        <p class="bk-tznote">${tzNote()}</p>
+        <span class="bk-tzicon" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg></span>
+        <div class="bk-tzbody">
+          <p class="bk-tzkicker">Step 1</p>
+          <b class="bk-tztitle">Please select your time zone first</b>
+          <div class="bk-tzrow">
+            <div class="bk-tzsel"><select id="bk-tz" aria-label="Your time zone">${tzOptions()}</select></div>
+            <span class="bk-tzclock"><svg width="8" height="8" viewBox="0 0 8 8" aria-hidden="true"><circle cx="4" cy="4" r="4" fill="#22C55E"/></svg>${clock(new Date().toISOString())} there now</span>
+          </div>
+          <p class="bk-tznote">${tzNote()}</p>
+        </div>
       </div>
       <div class="bk-head"><p class="mono bk-step">2. Pick a day</p></div>
       <div class="bk-grid-wrap">
