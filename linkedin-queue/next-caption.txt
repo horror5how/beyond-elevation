@@ -1,15 +1,22 @@
-Your term sheet has 14 clauses that can destroy your exit.
+Your AI spend is on the P&L. Your AI waste isn't.
 
-Most founders only read price and ownership percentage.
+Most companies track AI subscriptions.
 
-Liquidation preferences stacked 3x wiped a founder's £8M payout to zero.
+Nobody tracks rework when the model gets it wrong.
 
-Anti-dilution ratchets transferred 18% equity on one down round.
+Nobody tracks decisions acted on blind — no human gate.
 
-Pro-rata rights blocked the co-investor who would have led the next round.
+Nobody tracks the cost of the team member who owns nothing.
 
-A fractional CFO reads these before you sign.
+That's where the real loss is.
 
-After you sign, every clause is locked.
+3 numbers to pull this week:
+— Total AI subscription spend
+— Rework hours from bad AI output × hourly rate
+— Decisions reviewed vs decisions acted on blind
 
-#FractionalCFO #Fundraising #FounderFinance
+The second number is almost always bigger than the first.
+
+Fix governance before you buy another tool.
+
+#AIOperations #OperationalExcellence #FractionalCFO
