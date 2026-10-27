@@ -19,4 +19,6 @@ assert.ok(a.includes("tomorrow, Tuesday 27 October at 4:30 PM New York time. 30 
 assert.ok(a.includes("here it is for reference: https://meet.google.com/abc-defg-hij"));
 assert.ok(b.includes("starts in one hour, at 4:30 PM New York time."));
 assert.ok(a.endsWith("Executive Assistant to Hayat Amin") && !a.includes("\\n"));
-console.log(a + "\n----\n" + b + "\nreminders ok");
+const c = reminderText("r3", p, start, start + 1800000);
+assert.ok(c.startsWith("Hi Frank,") && c.includes("Thank you for taking the time to speak with Hayat today."));
+console.log(a + "\n----\n" + b + "\n----\n" + c + "\nreminders ok");
