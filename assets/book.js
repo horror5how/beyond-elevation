@@ -4,7 +4,9 @@
   if (!root) return;
   const qs = new URLSearchParams(location.search);
   const source = (qs.get("s") || qs.get("ref") || "").slice(0, 40);
-  let tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "Europe/London";
+  const deviceTz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+  let tz = deviceTz || "Europe/London";
+  let tzHow = deviceTz ? "device" : "default"; // device | ip | default | chosen
   let data = null; // {tz, duration, slots}
   let month = null; // Date (1st of month, local)
   let day = null; // "YYYY-MM-DD" in visitor tz
@@ -15,6 +17,8 @@
     const p = new Intl.DateTimeFormat("en-CA", { timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date(iso));
     return p; // en-CA gives YYYY-MM-DD
   };
+  // 12-hour clock with AM/PM: US guests read a 24h "03:30" as afternoon and booked 3:30 AM.
+  const clock = (iso) => new Intl.DateTimeFormat("en-US", { timeZone: tz, hour: "numeric", minute: "2-digit", hour12: true }).format(new Date(iso));
   const el = (h) => { const t = document.createElement("template"); t.innerHTML = h.trim(); return t.content.firstChild; };
   const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -29,6 +33,14 @@
     try { list = Intl.supportedValuesOf("timeZone"); } catch (_) { list = ["Europe/London", "Asia/Dubai", "America/New_York", "America/Los_Angeles", "Europe/Paris", "Asia/Singapore"]; }
     if (!list.includes(tz)) list.unshift(tz);
     return list.map((z) => `<option value="${z}"${z === tz ? " selected" : ""}>${z.replace(/_/g, " ")}</option>`).join("");
+  }
+
+  function tzNote() {
+    const z = tz.replace(/_/g, " ");
+    const now = clock(new Date().toISOString());
+    if (tzHow === "chosen") return `All times below are in ${z}. Your time there now: ${now}.`;
+    if (tzHow === "default") return `We could not detect where you are. Pick your city so the times are right.`;
+    return `We set this to ${z} from your ${tzHow === "ip" ? "location" : "device"}. Your time there now: ${now}. Wrong? Change it before you pick.`;
   }
 
   function render() {
@@ -53,11 +65,13 @@
 
     const times = day ? (days[day] || []) : [];
     root.innerHTML = `
-      <div class="bk-head">
-        <div><p class="mono bk-step">1. Pick a day</p></div>
-        <label class="bk-tz"><span class="mono">Times shown in</span>
-          <select id="bk-tz">${tzOptions()}</select></label>
+      <div class="bk-tzband" id="bk-tzband">
+        <span class="bk-tznum">1</span>
+        <b class="bk-tztitle">Please select your time zone first</b>
+        <select id="bk-tz" aria-label="Your time zone">${tzOptions()}</select>
+        <p class="bk-tznote">${tzNote()}</p>
       </div>
+      <div class="bk-head"><p class="mono bk-step">2. Pick a day</p></div>
       <div class="bk-grid-wrap">
         <div class="bk-cal">
           <div class="bk-month">
@@ -69,14 +83,14 @@
           <div class="bk-cells">${cells}</div>
         </div>
         <div class="bk-times">
-          <p class="mono bk-step">2. Pick a time</p>
-          ${day ? `<p class="bk-dayname">${fmt(times[0] || new Date(day + "T12:00:00Z").toISOString(), { weekday: "long", day: "numeric", month: "long" })}</p>` : `<p class="bk-hint">${data.link && data.link.intro ? esc(data.link.intro) + " " : ""}Choose a day on the left. ${data.duration} minutes, ${esc((data.link && data.link.location) || "Google Meet")}.</p>`}
-          <div class="bk-list">${times.map((s) => `<button type="button" class="bk-time${s === pick ? " sel" : ""}" data-start="${s}">${fmt(s, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" })}</button>`).join("")}</div>
+          <p class="mono bk-step">3. Pick a time</p>
+          ${day ? `<p class="bk-dayname">${fmt(times[0] || new Date(day + "T12:00:00Z").toISOString(), { weekday: "long", day: "numeric", month: "long" })}</p>` : `<p class="bk-hint">Choose a day on the left. ${data.duration} minutes, ${esc((data.link && data.link.location) || "Google Meet")}.</p>`}
+          <div class="bk-list">${times.map((s) => `<button type="button" class="bk-time${s === pick ? " sel" : ""}" data-start="${s}">${clock(s)}</button>`).join("")}</div>
         </div>
       </div>
       <form id="bk-form" class="bk-form${pick ? "" : " hidden"}" novalidate>
-        <p class="mono bk-step">3. Your details</p>
-        <p class="bk-picked">${pick ? `${fmt(pick, { weekday: "long", day: "numeric", month: "long" })}, ${fmt(pick, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" })} to ${fmt(new Date(Date.parse(pick) + data.duration * 60000).toISOString(), { hour: "2-digit", minute: "2-digit", hourCycle: "h23" })} (${tz.replace(/_/g, " ")})` : ""}</p>
+        <p class="mono bk-step">4. Your details</p>
+        <p class="bk-picked">${pick ? `${fmt(pick, { weekday: "long", day: "numeric", month: "long" })}, ${clock(pick)} to ${clock(new Date(Date.parse(pick) + data.duration * 60000).toISOString())} (${tz.replace(/_/g, " ")})` : ""}</p>
         <div class="bk-row"><label>Name<input name="name" required autocomplete="name" maxlength="80"></label>
         <label>Email<input name="email" type="email" required autocomplete="email" maxlength="120"></label></div>
         <label>Company <span class="mono">optional</span><input name="company" autocomplete="organization" maxlength="80"></label>
@@ -87,7 +101,7 @@
         <button class="btn lg" type="submit" id="bk-submit">Confirm the call <span class="arw">&rarr;</span></button>
       </form>`;
 
-    root.querySelector("#bk-tz").onchange = (e) => { tz = e.target.value; day = null; pick = null; render(); };
+    root.querySelector("#bk-tz").onchange = (e) => { tz = e.target.value; tzHow = "chosen"; day = null; pick = null; render(); };
     root.querySelector("#bk-prev").onclick = () => { month = new Date(month.getFullYear(), month.getMonth() - 1, 1); render(); };
     root.querySelector("#bk-next").onclick = () => { month = new Date(month.getFullYear(), month.getMonth() + 1, 1); render(); };
     root.querySelectorAll(".bk-cell.open").forEach((b) => (b.onclick = () => { day = b.dataset.day; pick = null; render(); }));
@@ -122,7 +136,7 @@
       if (link.redirectUrl) { location.href = link.redirectUrl; return; }
       root.innerHTML = `<div class="bk-done">
         <p class="mono">Booked</p>
-        <h2>${esc(fmt(j.start, { weekday: "long", day: "numeric", month: "long" }))}<br>${esc(fmt(j.start, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" }))} to ${esc(fmt(j.end, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" }))} <span class="mono">${esc(tz.replace(/_/g, " "))}</span></h2>
+        <h2>${esc(fmt(j.start, { weekday: "long", day: "numeric", month: "long" }))}<br>${esc(clock(j.start))} to ${esc(clock(j.end))} <span class="mono">${esc(tz.replace(/_/g, " "))}</span></h2>
         <p>The invite is on its way to <b>${esc(f.email.value.trim())}</b>${j.meet ? ` with the Google Meet link` : ""}. Nothing to prepare.</p>
         ${j.meet ? `<p><a class="btn" href="${esc(j.meet)}">Google Meet link <span class="arw">&rarr;</span></a></p>` : ""}
         ${link.confirmText ? `<p>${esc(link.confirmText)}</p>` : ""}
@@ -142,6 +156,8 @@
       if (!r.ok) throw new Error(r.status);
       data = await r.json();
       if (!data.slots.length) throw new Error("empty");
+      // Device clock wins (VPNs fool IP lookups); the IP guess only fills in when the device says nothing useful.
+      if ((!deviceTz || /^(Etc\/)?UTC$/.test(deviceTz)) && data.ipTz && tzHow !== "chosen") { tz = data.ipTz; tzHow = "ip"; }
       if (!month) { const f = new Date(data.slots[0]); month = new Date(f.getFullYear(), f.getMonth(), 1); }
       render();
     } catch (_) {
