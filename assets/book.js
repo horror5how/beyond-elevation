@@ -8,6 +8,11 @@
   let tz = deviceTz || "Europe/London";
   let tzHow = deviceTz ? "device" : "default"; // device | ip | default | chosen
   let data = null; // {tz, duration, slots}
+  let rawSlots = [];
+  // Only offer hours a guest would take: 7am to 9pm in THEIR zone. His diary runs 9-9 Dubai,
+  // which put midnight-to-6am slots in front of US founders, and two booked 3:30 AM.
+  const sane = (iso) => { const h = +new Intl.DateTimeFormat("en-GB", { timeZone: tz, hour: "2-digit", hourCycle: "h23" }).format(new Date(iso)); return h >= 7 && h < 21; };
+  const applyTz = () => { data.slots = rawSlots.filter(sane); };
   let month = null; // Date (1st of month, local)
   let day = null; // "YYYY-MM-DD" in visitor tz
   let pick = null; // ISO start
@@ -89,7 +94,7 @@
         </div>
         <div class="bk-times">
           <p class="mono bk-step">3. Pick a time</p>
-          ${day ? `<p class="bk-dayname">${fmt(times[0] || new Date(day + "T12:00:00Z").toISOString(), { weekday: "long", day: "numeric", month: "long" })}</p>` : `<p class="bk-hint">Choose a day on the left. ${data.duration} minutes, ${esc((data.link && data.link.location) || "Google Meet")}.</p>`}
+          ${day ? `<p class="bk-dayname">${fmt(times[0] || new Date(day + "T12:00:00Z").toISOString(), { weekday: "long", day: "numeric", month: "long" })}</p>` : `<p class="bk-hint">${data.slots.length ? "Choose a day on the left." : "No times between 7am and 9pm in your zone in the next few days. Email hayat@beyondelevation.com and we will find one."} ${data.duration} minutes, ${esc((data.link && data.link.location) || "Google Meet")}.</p>`}
           <div class="bk-list">${times.map((s) => `<button type="button" class="bk-time${s === pick ? " sel" : ""}" data-start="${s}">${clock(s)}</button>`).join("")}</div>
         </div>
       </div>
@@ -106,7 +111,7 @@
         <button class="btn lg" type="submit" id="bk-submit">Confirm the call <span class="arw">&rarr;</span></button>
       </form>`;
 
-    root.querySelector("#bk-tz").onchange = (e) => { tz = e.target.value; tzHow = "chosen"; day = null; pick = null; render(); };
+    root.querySelector("#bk-tz").onchange = (e) => { tz = e.target.value; tzHow = "chosen"; day = null; pick = null; applyTz(); render(); };
     root.querySelector("#bk-prev").onclick = () => { month = new Date(month.getFullYear(), month.getMonth() - 1, 1); render(); };
     root.querySelector("#bk-next").onclick = () => { month = new Date(month.getFullYear(), month.getMonth() + 1, 1); render(); };
     root.querySelectorAll(".bk-cell.open").forEach((b) => (b.onclick = () => { day = b.dataset.day; pick = null; render(); }));
@@ -161,9 +166,11 @@
       if (!r.ok) throw new Error(r.status);
       data = await r.json();
       if (!data.slots.length) throw new Error("empty");
+      rawSlots = data.slots;
       // Device clock wins (VPNs fool IP lookups); the IP guess only fills in when the device says nothing useful.
       if ((!deviceTz || /^(Etc\/)?UTC$/.test(deviceTz)) && data.ipTz && tzHow !== "chosen") { tz = data.ipTz; tzHow = "ip"; }
-      if (!month) { const f = new Date(data.slots[0]); month = new Date(f.getFullYear(), f.getMonth(), 1); }
+      applyTz();
+      if (!month) { const f = data.slots.length ? new Date(data.slots[0]) : new Date(); month = new Date(f.getFullYear(), f.getMonth(), 1); }
       render();
     } catch (_) {
       root.innerHTML = `<div class="bk-done"><p class="mono">The diary is not answering</p><p>Email <a href="mailto:hayat@beyondelevation.com?subject=Call%20booking">hayat@beyondelevation.com</a> with two or three times that suit you and we will confirm one by hand.</p></div>`;
