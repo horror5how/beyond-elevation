@@ -40,6 +40,15 @@
     return list.map((z) => `<option value="${z}"${z === tz ? " selected" : ""}>${z.replace(/_/g, " ")}</option>`).join("");
   }
 
+  // City from the visitor's IP (Vercel geo). Only shown when the picked zone is that IP's zone,
+  // so "2:47 AM in Philadelphia" is never paired with the wrong clock.
+  const here = () => (data && data.ipCity && data.ipTz === tz ? data.ipCity : "");
+  function ipSuggest() {
+    if (!data || !data.ipTz || data.ipTz === tz || tzHow === "chosen") return "";
+    const z = data.ipTz.replace(/_/g, " ");
+    return `<button type="button" class="bk-tzsuggest" id="bk-tzsuggest">${data.ipCity ? `Looks like you are in ${esc(data.ipCity)}.` : "Looks like you are elsewhere."} Use ${esc(z)} time (${new Intl.DateTimeFormat("en-US", { timeZone: data.ipTz, hour: "numeric", minute: "2-digit", hour12: true }).format(new Date())}) &rarr;</button>`;
+  }
+
   function tzNote() {
     const z = tz.replace(/_/g, " ");
     if (tzHow === "chosen") return `All times below are in ${z}.`;
@@ -76,8 +85,9 @@
           <b class="bk-tztitle">Please select your time zone first</b>
           <div class="bk-tzrow">
             <div class="bk-tzsel"><select id="bk-tz" aria-label="Your time zone">${tzOptions()}</select></div>
-            <span class="bk-tzclock"><svg width="8" height="8" viewBox="0 0 8 8" aria-hidden="true"><circle cx="4" cy="4" r="4" fill="#22C55E"/></svg>${clock(new Date().toISOString())} there now</span>
+            <span class="bk-tzclock"><svg width="8" height="8" viewBox="0 0 8 8" aria-hidden="true"><circle cx="4" cy="4" r="4" fill="#22C55E"/></svg>${clock(new Date().toISOString())} ${here() ? `in ${esc(here())}` : "there now"}</span>
           </div>
+          ${ipSuggest()}
           <p class="bk-tznote">${tzNote()}</p>
         </div>
       </div>
@@ -111,6 +121,8 @@
         <button class="btn lg" type="submit" id="bk-submit">Confirm the call <span class="arw">&rarr;</span></button>
       </form>`;
 
+    const sug = root.querySelector("#bk-tzsuggest");
+    if (sug) sug.onclick = () => { tz = data.ipTz; tzHow = "ip"; day = null; pick = null; applyTz(); render(); };
     root.querySelector("#bk-tz").onchange = (e) => { tz = e.target.value; tzHow = "chosen"; day = null; pick = null; applyTz(); render(); };
     root.querySelector("#bk-prev").onclick = () => { month = new Date(month.getFullYear(), month.getMonth() - 1, 1); render(); };
     root.querySelector("#bk-next").onclick = () => { month = new Date(month.getFullYear(), month.getMonth() + 1, 1); render(); };
