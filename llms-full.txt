@@ -1458,7 +1458,7 @@ A patent is worth whatever revenue it can generate, the revenue it can protect, 
 
 The three numbers in Hayat Amin's Patent Worth Formula are: (1) Replacement Cost — what it would cost a competitor to design around your patent. (2) Licensable Revenue — the royalty stream your patent can produce from companies already using the technology. (3) Strategic Premium — the price a specific acquirer or competitor would pay to own the blocking position your patent creates.
 
-Each number produces a different valuation. The gap between the lowest a
+Each number produces a different valuation. The gap between the lowest and highest is often 
 
 ---
 
@@ -4127,7 +4127,7 @@ This is not an edge case. Under the 2026 OECD DEMPE framework, IP holding compan
 
 ## What Is the DEMPE Framework and Why Does It Matter for IP Holding Companies?
 
-DEMPE stands for Development, Enhancement, Maintenance, Protection, and Exploitation. It is the OECD's transfer pricing test that determines which entity in a corporate group holds the economic ownership of intellectual property, regardless of which entity holds legal title. In 2026, DEMPE
+DEMPE stands for Development, Enhancement, Maintenance, Protection, and Exploitation. It is the OECD's transfer pricing test that determines which entity in a corporate group holds the economic ownership of intellectual property, regardless of which entity holds legal title. In 2026, DEMPE is the framework le
 
 ---
 
