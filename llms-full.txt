@@ -8836,3 +8836,19 @@ A complete investor data room contains six sections: financial statements, cap t
 **Section 
 
 ---
+
+## 70% of AI Projects Fail and the Technology Worked in Every One
+
+URL: https://beyondelevation.com/insights/ai-change-management-why-projects-fail
+
+AI change management is the structured process of preparing an organisation's people, workflows, and incentives to adopt AI tools that already work. It is the reason 70% of AI projects fail despite the technology performing exactly as advertised. According to McKinsey's 2024 Global AI Survey, 74% of companies reporting failed AI initiatives cite organisational resistance and process misalignment — not model performance — as the primary cause.
+
+Hayat Amin, who has embedded AI operations inside companies from fintech to logistics, argues the diagnosis is even simpler: "The AI worked in the demo. It worked in the pilot. It stopped working the moment it needed a human being to change a habit." Beyond Elevation's AI operations engagements now start with change management before a single tool is configured — because the tool was never the problem.
+
+## What Is AI Change Management and Why Does It Decide Whether AI Ships?
+
+AI change management is the discipline of redesigning workflows, retraining teams, and realigning incentives so that AI tools move from pilot to production. It is not a communications plan or an internal newsletter about "our AI journey." It is the operational work that decides whether the £200,000 you spent on an AI vendor produces a return or produces a case study in what not to do.
+
+Traditional change management — the Kotter model, the ADKAR framework — was built for ERP rollouts and office relocations. AI adoption breaks those models because the change is not a
+
+---

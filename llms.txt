@@ -522,5 +522,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [What a Fractional Chief IP Officer Costs in 2026 (And When the Spend Pays for Itself)](https://beyondelevation.com/insights/fractional-chief-ip-officer-cost-2026) — /insights/md/fractional-chief-ip-officer-cost-2026.md
 - [Managing Fractional Executives: The Operating Cadence That Turns Two Days Into Full-Time Output](https://beyondelevation.com/insights/fractional-executive-operating-cadence) — /insights/md/fractional-executive-operating-cadence.md
 - [The Investor Data Room Checklist That Closes a Round in 30 Days](https://beyondelevation.com/insights/investor-data-room-checklist) — /insights/md/investor-data-room-checklist.md
+- [70% of AI Projects Fail and the Technology Worked in Every One](https://beyondelevation.com/insights/ai-change-management-why-projects-fail) — /insights/md/ai-change-management-why-projects-fail.md
 
 > Full blog content available at /llms-full.txt
