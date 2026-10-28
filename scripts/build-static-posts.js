@@ -198,8 +198,8 @@ const NAV = `<header class="nav">
 
 const GKSLIM = `<section class="gkslim">
   <div class="gkslim-who">
-    <img loading="lazy" decoding="async" src="/assets/img/georgina-king.webp" alt="Georgina King">
-    <p><b>Still reading? Talk it through instead.</b><span>A free 30-minute call with Georgina. Straight answer, no pitch, if there is nothing worth doing, we say so.</span></p>
+    <img loading="lazy" decoding="async" src="/assets/img/georgina-king.webp" alt="Georgina King"><img loading="lazy" decoding="async" src="/assets/img/clara-hawkins.webp" alt="Clara Hawkins">
+    <p><b>Still reading? Talk it through instead.</b><span>A free 30-minute call with Hayat Amin, set up by Clara. Straight answer, no pitch, if there is nothing worth doing, we say so.</span></p>
   </div>
   <a class="btn" href="/call">Book a free call <span class="arw">↗</span></a>
 </section>`;
@@ -343,7 +343,7 @@ function pageTemplate(post, related) {
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="${datePublished}">
 <meta property="article:modified_time" content="${dateModified}">
-<link rel="stylesheet" href="/assets/style.css?v=42">
+<link rel="stylesheet" href="/assets/style.css?v=43">
 <script type="application/ld+json">${JSON.stringify(articleSchema)}</script>
 <script type="application/ld+json">${JSON.stringify(breadcrumbSchema)}</script>${faqScript}
 </head>
@@ -419,7 +419,7 @@ function insightsIndexTemplate(posts) {
 <meta property="og:title" content="Insights | Beyond Elevation">
 <meta property="og:description" content="Straight talking pieces on finance, AI operations, IP strategy, data and the money behind them.">
 <meta property="og:type" content="website">
-<link rel="stylesheet" href="/assets/style.css?v=42">
+<link rel="stylesheet" href="/assets/style.css?v=43">
 <script type="application/ld+json">${JSON.stringify(itemList)}</script>
 </head>
 <body>
@@ -446,14 +446,14 @@ ${cards}
   <div class="about-copy">
     <p class="eyebrow">Let&rsquo;s get on a call</p>
     <h2 class="h2">Want this position in your company?</h2>
-    <p class="sub"><b>Georgina</b> books you a free 30 minute call. Straight answer, no pitch. If there is nothing worth doing, we say so on the call.</p>
+    <p class="sub"><b>Clara</b> books you a free 30 minute call with Hayat Amin. Straight answer, no pitch. If there is nothing worth doing, we say so on the call.</p>
     <p class="mono small">Consultants are paid to advise. We are paid to deliver.</p>
     <a class="gk-btn" href="/call">Get on a call now <span class="arw">↗</span></a>
   </div>
   <figure class="about-art gk-art">
-    <img loading="lazy" decoding="async" src="/assets/img/georgina-king.webp" alt="Georgina King" width="800" height="800">
+    <img loading="lazy" decoding="async" src="/assets/img/georgina-king.webp" alt="Georgina King" width="800" height="800"><img loading="lazy" decoding="async" src="/assets/img/clara-hawkins.webp" alt="Clara Hawkins" width="800" height="800">
     <span class="gk-status"><span class="gk-pulse"></span>Available this week</span>
-    <figcaption><b>Georgina King</b><i>Executive Partnership Manager</i></figcaption>
+    <figcaption><b>Georgina King &amp; Clara Hawkins</b><i>Partnerships, and the assistant who sets your call up</i></figcaption>
   </figure>
 </section>
 
