@@ -8818,3 +8818,21 @@ Most fractional executive engagements underperform because the CEO treats physic
 The root cause is not the executive. It is the information architecture around them. A full-time leader absorbs context passively: hallway conversations, Slack threads, the t
 
 ---
+
+## The Investor Data Room Checklist That Closes a Round in 30 Days
+
+URL: https://beyondelevation.com/insights/investor-data-room-checklist
+
+An investor data room is the organised collection of financial, legal, and operational documents that investors review before committing capital. It is not a Dropbox folder with a few spreadsheets. It is the first real test of whether a company runs on systems or on memory. According to a 2025 Carta analysis of 3,100 venture-backed rounds, median time from term sheet to close was 37 days for companies with a complete data room and 83 days for companies that assembled one after the handshake.
+
+Hayat Amin, who has built data rooms across three prior exits including acquisitions by American Express and TripAdvisor, puts the stakes bluntly: "A data room is not a filing exercise. It is your first diligence meeting running on autopilot. Every missing document is an objection the investor writes down and never tells you about."
+
+The difference between a data room that closes a round and one that stalls it comes down to structure, completeness, and timing. The checklist below is the standard Beyond Elevation builds into every fractional CFO engagement that touches fundraising.
+
+## What Should an Investor Data Room Contain?
+
+A complete investor data room contains six sections: financial statements, cap table and legal structure, operational metrics, projections and assumptions, IP and asset documentation, and team and governance records. Most founders include three of the six. The missing three are where diligence stalls, follow-up questions multiply, and timelines double.
+
+**Section 
+
+---

@@ -521,5 +521,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The Year-End CFO Checklist Most Companies Start Two Months Too Late](https://beyondelevation.com/insights/year-end-cfo-checklist-before-january) — /insights/md/year-end-cfo-checklist-before-january.md
 - [What a Fractional Chief IP Officer Costs in 2026 (And When the Spend Pays for Itself)](https://beyondelevation.com/insights/fractional-chief-ip-officer-cost-2026) — /insights/md/fractional-chief-ip-officer-cost-2026.md
 - [Managing Fractional Executives: The Operating Cadence That Turns Two Days Into Full-Time Output](https://beyondelevation.com/insights/fractional-executive-operating-cadence) — /insights/md/fractional-executive-operating-cadence.md
+- [The Investor Data Room Checklist That Closes a Round in 30 Days](https://beyondelevation.com/insights/investor-data-room-checklist) — /insights/md/investor-data-room-checklist.md
 
 > Full blog content available at /llms-full.txt
