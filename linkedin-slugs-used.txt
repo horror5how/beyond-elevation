@@ -818,3 +818,4 @@ fractional-cfo-term-sheet-reading-2026
 ai-no-governance-hidden-cost-2026
 trademark-vs-patent-licensing-revenue-2026
 cfo-metrics-founders-ignore-2026
+ai-agent-decision-audit-2026

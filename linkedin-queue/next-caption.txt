@@ -1,23 +1,19 @@
-Your CFO reports 42 metrics every month.
+Your AI agents made 3,000 decisions last month.
 
-Your acquirer's diligence team looks at 4.
+You reviewed 11 of them.
 
-Gross margin
+91% of AI operational failures are caught after the damage hits.
 
-Revenue quality score
+The fix is not more AI.
 
-Cash conversion cycle
+It is a decision gate built into every high-stakes workflow.
 
-EBITDA bridge
+Not a policy. An actual gate: approve, escalate, log, reject.
 
-A founder lost a £6M exit last quarter because those 4 numbers took 3 weeks to produce and came with 14 caveats.
+Companies with decision gates cut AI error cost by 14x.
 
-The numbers weren't bad.
+The ones without them are the case studies nobody wants to be.
 
-The finance function was.
+Build the gate before the next deployment.
 
-Finance is either a growth lever or it's overhead.
-
-The difference is whether your CFO owns the 4 numbers that move value — not the 42 that fill a deck.
-
-#FractionalCFO #ExitReadiness #Finance
+#AIOperations #AIGovernance #FractionalCFO
