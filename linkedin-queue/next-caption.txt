@@ -1,22 +1,15 @@
-Your AI spend is on the P&L. Your AI waste isn't.
+Your patent costs £15,000 to file. Your trademark costs £300.
 
-Most companies track AI subscriptions.
+The trademark generates 3x more licensing revenue in years 1–3.
 
-Nobody tracks rework when the model gets it wrong.
+Most founders file patents because patents sound defensible.
 
-Nobody tracks decisions acted on blind — no human gate.
+Trademarks compound. Licensees pay for brand association, not just barriers.
 
-Nobody tracks the cost of the team member who owns nothing.
+A £300 trademark on the right brand can produce £40K+ per year in royalties.
 
-That's where the real loss is.
+The same patent produces zero until it survives challenge and gets enforced.
 
-3 numbers to pull this week:
-— Total AI subscription spend
-— Rework hours from bad AI output × hourly rate
-— Decisions reviewed vs decisions acted on blind
+File patents for barriers. License trademarks for income.
 
-The second number is almost always bigger than the first.
-
-Fix governance before you buy another tool.
-
-#AIOperations #OperationalExcellence #FractionalCFO
+#IPStrategy #Licensing #IntellectualProperty
