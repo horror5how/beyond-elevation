@@ -22,8 +22,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
-      # Prefer the INSTAGRAM_TOKEN secret (update via repo Settings → Secrets) over the hardcoded fallback
-      ACTIVE_IG_TOKEN: ${{ secrets.INSTAGRAM_TOKEN || 'EAASSEUy7BCoBRU1jEwOKcOHbd6gtz0nilxU9hJblV8I9KpbpjFITnFZAlQGadjpm8sOsilvi6SICmqkvmxRCJpLGeZCIZCZB72S7kQDOtEZApWyz8AVlz3WFpDDhZAJwvcqlfVN0tpvnHQmDeLY0YNgBig4mAhAGeNRhXm6JwWNkpUBMZCZBUS4GCZCZBjilS6meS8Yed9RT5nBwZDZD' }}
+      # The token lives ONLY in the INSTAGRAM_TOKEN secret. A literal fallback sat here in this public repo from 24 Jun to
+      # 28 Oct 2026 (cto-weekly found it); that token must be revoked in Meta and the secret replaced with a fresh one.
+      ACTIVE_IG_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
       ACTIVE_IG_BUSINESS_ID: '17841422274109557'
     steps:
       - uses: actions/checkout@v4
