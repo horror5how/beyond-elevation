@@ -5,9 +5,11 @@ const { sendDueReminders } = require("../lib/booking");
 module.exports = async (req, res) => {
   res.setHeader("Cache-Control", "no-store");
   res.setHeader("Content-Type", "application/json");
-  // ponytail: open when CRON_SECRET is unset; a stray call can only send reminders that are already due, never early or twice.
-  const secret = process.env.CRON_SECRET;
-  if (secret && req.headers.authorization !== `Bearer ${secret}`) return res.status(401).end(JSON.stringify({ error: "no" }));
+  // fail closed: with no CRON_SECRET nothing runs; the compare is timing-safe (cto-weekly, 28 Oct 2026)
+  const secret = process.env.CRON_SECRET || "";
+  const got = String(req.headers.authorization || "").replace(/^Bearer\s+/i, "");
+  const ok = secret && got.length === secret.length && require("crypto").timingSafeEqual(Buffer.from(got), Buffer.from(secret));
+  if (!ok) return res.status(401).end(JSON.stringify({ error: "no" }));
   try {
     const sent = await sendDueReminders();
     res.status(200).end(JSON.stringify({ ok: true, sent }));

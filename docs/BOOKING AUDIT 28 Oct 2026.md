@@ -30,3 +30,9 @@ Google wiring verified live on 28 Oct 2026: every token minted, every calendar r
 | B22 | low | Slot and submit read link settings separately; a Mail HQ blip between them re-validated against defaults. | open |
 
 Open after this pass: B17, B22. Weekly follow-up: the `cto-weekly` robot in hayat-cloud-ops reads this file first.
+
+## cto-weekly, first run (dry), 28 Oct 2026 12:31 UTC
+
+Robot findings on this repo, fixed the same day: an Instagram token sat as a literal fallback in `.github/workflows/instagram-post.yml` of this PUBLIC repo since 24 June (moved to the `INSTAGRAM_TOKEN` secret; Hayat must revoke it in Meta and issue a fresh one); the reminders cron now fails closed with a timing-safe compare; the reminder claim carries the event's etag (`If-Match`), so two overlapping runs cannot both send.
+
+Still open from that run: `/api/book` has no rate limit (honeypot and slot check only); the daily cap stops counting a meeting once it has started; switching off the default `call` link does not block slugs with no row of their own (they fall back to it by design, see B5).
