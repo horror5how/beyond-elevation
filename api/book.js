@@ -12,7 +12,7 @@ module.exports = async (req, res) => {
   if (typeof body === "string") { try { body = JSON.parse(body); } catch (_) { body = {}; } }
   body = body || {};
 
-  if (body.website) return res.status(200).end(JSON.stringify({ ok: true })); // honeypot: bots think they won
+  if (body.website) return res.status(200).end(JSON.stringify({ ok: true, start: null, end: null, meet: "", link: {} })); // honeypot: bots think they won
   const name = clean(body.name, 80);
   const email = clean(body.email, 120).toLowerCase();
   const company = clean(body.company, 80);

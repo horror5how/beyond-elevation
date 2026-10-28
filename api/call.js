@@ -37,7 +37,7 @@ module.exports = async (req, res) => {
   try {
     if (BOT.test(ua)) throw new Error("bot");
     await fetch(POSTHOG_CAPTURE, {
-      method: "POST",
+      method: "POST", signal: AbortSignal.timeout(1500),
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
         api_key: POSTHOG_KEY,

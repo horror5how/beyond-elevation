@@ -25,7 +25,7 @@
   // 12-hour clock with AM/PM: US guests read a 24h "03:30" as afternoon and booked 3:30 AM.
   const clock = (iso) => new Intl.DateTimeFormat("en-US", { timeZone: tz, hour: "numeric", minute: "2-digit", hour12: true }).format(new Date(iso));
   const el = (h) => { const t = document.createElement("template"); t.innerHTML = h.trim(); return t.content.firstChild; };
-  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
   function byDay() {
     const m = {};
@@ -37,7 +37,7 @@
     let list = [];
     try { list = Intl.supportedValuesOf("timeZone"); } catch (_) { list = ["Europe/London", "Asia/Dubai", "America/New_York", "America/Los_Angeles", "Europe/Paris", "Asia/Singapore"]; }
     if (!list.includes(tz)) list.unshift(tz);
-    return list.map((z) => `<option value="${z}"${z === tz ? " selected" : ""}>${z.replace(/_/g, " ")}</option>`).join("");
+    return list.map((z) => `<option value="${esc(z)}"${z === tz ? " selected" : ""}>${esc(z.replace(/_/g, " "))}</option>`).join("");
   }
 
   // City from the visitor's IP (Vercel geo). Only shown when the picked zone is that IP's zone,
@@ -68,16 +68,21 @@
     for (let d = 1; d <= dim; d++) {
       const key = `${month.getFullYear()}-${String(month.getMonth() + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
       const open = !!days[key];
-      cells += `<button type="button" class="bk-cell${open ? " open" : ""}${key === day ? " sel" : ""}${key === todayKey ? " today" : ""}" data-day="${key}" ${open ? "" : "disabled"}>${d}</button>`;
+      const label = new Date(key + "T12:00:00Z").toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" });
+      cells += `<button type="button" class="bk-cell${open ? " open" : ""}${key === day ? " sel" : ""}${key === todayKey ? " today" : ""}" data-day="${key}" aria-label="${label}${open ? "" : ", no times"}" aria-pressed="${key === day}" ${open ? "" : "disabled"}>${d}</button>`;
     }
     const monthName = first.toLocaleDateString("en-GB", { month: "long", year: "numeric" });
     const now = new Date();
     const canPrev = month > new Date(now.getFullYear(), now.getMonth(), 1);
-    const lastSlot = data.slots.length ? new Date(data.slots[data.slots.length - 1]) : now;
-    const canNext = new Date(month.getFullYear(), month.getMonth() + 1, 1) <= lastSlot;
+    const lastKey = data.slots.length ? ymd(data.slots[data.slots.length - 1]) : ymd(now.toISOString());
+    const nextKey = `${month.getFullYear()}-${String(month.getMonth() + 2).padStart(2, "0")}-01`.replace(/-13-01$/, "-01-01");
+    const canNext = nextKey <= lastKey; // compared as yyyy-mm-dd in the picked zone (the device clock put a 7-hour-ahead guest a month out)
 
     const times = day ? (days[day] || []) : [];
+    if (data.link && data.link.inactive) { root.innerHTML = `<div class="bk-done"><p class="mono">Not taking bookings</p><p>This link is paused for now. Email <a href="mailto:hayat@beyondelevation.com?subject=Call%20booking">hayat@beyondelevation.com</a> and we will find a time by hand.</p></div>`; return; }
+    const focused = document.activeElement && document.activeElement.id; // the whole frame re-renders; put focus back where it was
     root.innerHTML = `
+      ${data.link && data.link.intro ? `<p class="bk-hint" style="margin:0 0 14px">${esc(data.link.intro)}</p>` : ""}
       <div class="bk-tzband" id="bk-tzband">
         <span class="bk-tzicon" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg></span>
         <div class="bk-tzbody">
@@ -105,7 +110,7 @@
         <div class="bk-times">
           <p class="mono bk-step">3. Pick a time</p>
           ${day ? `<p class="bk-dayname">${fmt(times[0] || new Date(day + "T12:00:00Z").toISOString(), { weekday: "long", day: "numeric", month: "long" })}</p>` : `<p class="bk-hint">${data.slots.length ? "Choose a day on the left." : "No times between 7am and 9pm in your zone in the next few days. Email hayat@beyondelevation.com and we will find one."} ${data.duration} minutes, ${esc((data.link && data.link.location) || "Google Meet")}.</p>`}
-          <div class="bk-list">${times.map((s) => `<button type="button" class="bk-time${s === pick ? " sel" : ""}" data-start="${s}">${clock(s)}</button>`).join("")}</div>
+          <div class="bk-list">${times.map((s) => `<button type="button" class="bk-time${s === pick ? " sel" : ""}" data-start="${s}" aria-pressed="${s === pick}">${clock(s)}</button>`).join("")}</div>
         </div>
       </div>
       <form id="bk-form" class="bk-form${pick ? "" : " hidden"}" novalidate>
@@ -116,7 +121,7 @@
         <label>Company <span class="mono">optional</span><input name="company" autocomplete="organization" maxlength="80"></label>
         ${((data.link && data.link.questions) || []).map((q, i) => `<label>${esc(q.label)}${q.required ? "" : ' <span class="mono">optional</span>'}${q.kind === "textarea" ? `<textarea name="q${i}" rows="3" maxlength="1500"${q.required ? " required" : ""}></textarea>` : `<input name="q${i}" maxlength="300"${q.required ? " required" : ""}>`}</label>`).join("")}
         <label>What should we look at first? <span class="mono">optional</span><textarea name="notes" rows="3" maxlength="1500"></textarea></label>
-        <input name="website" tabindex="-1" autocomplete="off" class="bk-hp" aria-hidden="true">
+        <input name="bk_zq9" tabindex="-1" autocomplete="off" class="bk-hp" aria-hidden="true">
         <p class="bk-err" id="bk-err" role="alert"></p>
         <button class="btn lg" type="submit" id="bk-submit">Confirm the call <span class="arw">&rarr;</span></button>
       </form>`;
@@ -129,6 +134,7 @@
     root.querySelectorAll(".bk-cell.open").forEach((b) => (b.onclick = () => { day = b.dataset.day; pick = null; render(); }));
     root.querySelectorAll(".bk-time").forEach((b) => (b.onclick = () => { pick = b.dataset.start; render(); root.querySelector("#bk-form input[name=name]").focus(); }));
     root.querySelector("#bk-form").onsubmit = submit;
+    if (focused) { const f = root.querySelector("#" + focused); if (f) f.focus(); }
   }
 
   async function submit(e) {
@@ -146,19 +152,20 @@
     btn.disabled = true; btn.textContent = "Booking…";
     try {
       const r = await fetch("/api/book", { method: "POST", headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ start: pick, name: f.name.value, email: f.email.value, company: f.company.value, notes: f.notes.value, answers, tz, source, website: f.website.value }) });
+        body: JSON.stringify({ start: pick, name: f.name.value, email: f.email.value, company: f.company.value, notes: f.notes.value, answers, tz, source, website: f.bk_zq9.value }) });
       const j = await r.json().catch(() => ({}));
       if (!r.ok || !j.ok) {
         err.textContent = j.error || "Something broke. Email hayat@beyondelevation.com and we will fix it by hand.";
         btn.disabled = false; btn.innerHTML = 'Confirm the call <span class="arw">&rarr;</span>';
-        if (r.status === 409) { await load(); }
+        if (r.status === 409) { const keep = { name: f.name.value, email: f.email.value, company: f.company.value, notes: f.notes.value }; pick = null; await load(true); const f2 = root.querySelector("#bk-form"); if (f2) { f2.name.value = keep.name; f2.email.value = keep.email; f2.company.value = keep.company; f2.notes.value = keep.notes; } const e2 = root.querySelector("#bk-err"); if (e2) e2.textContent = j.error || "That time has just gone. Pick another."; }
         return;
       }
       const link = j.link || {};
       if (link.redirectUrl) { location.href = link.redirectUrl; return; }
+      const when = j.start ? `<h2>${esc(fmt(j.start, { weekday: "long", day: "numeric", month: "long" }))}<br>${esc(clock(j.start))} to ${esc(clock(j.end))} <span class="mono">${esc(tz.replace(/_/g, " "))}</span></h2>` : "";
       root.innerHTML = `<div class="bk-done">
         <p class="mono">Booked</p>
-        <h2>${esc(fmt(j.start, { weekday: "long", day: "numeric", month: "long" }))}<br>${esc(clock(j.start))} to ${esc(clock(j.end))} <span class="mono">${esc(tz.replace(/_/g, " "))}</span></h2>
+        ${when}
         <p>The invite is on its way to <b>${esc(f.email.value.trim())}</b>${j.meet ? ` with the Google Meet link` : ""}. Nothing to prepare.</p>
         ${j.meet ? `<p><a class="btn" href="${esc(j.meet)}">Google Meet link <span class="arw">&rarr;</span></a></p>` : ""}
         ${link.confirmText ? `<p>${esc(link.confirmText)}</p>` : ""}
@@ -171,14 +178,13 @@
     }
   }
 
-  async function load() {
-    root.innerHTML = `<p class="bk-hint">Checking the diary…</p>`;
+  async function load(quiet) {
+    if (!quiet) root.innerHTML = `<p class="bk-hint">Checking the diary…</p>`;
     try {
       const r = await fetch(`/api/slots?s=${encodeURIComponent(source)}`, { cache: "no-store" });
       if (!r.ok) throw new Error(r.status);
       data = await r.json();
-      if (!data.slots.length) throw new Error("empty");
-      rawSlots = data.slots;
+      rawSlots = data.slots || []; // an empty list is a real answer (fully booked, or a paused link), not an outage
       // Device clock wins (VPNs fool IP lookups); the IP guess only fills in when the device says nothing useful.
       if ((!deviceTz || /^(Etc\/)?UTC$/.test(deviceTz)) && data.ipTz && tzHow !== "chosen") { tz = data.ipTz; tzHow = "ip"; }
       applyTz();
