@@ -8852,3 +8852,27 @@ AI change management is the discipline of redesigning workflows, retraining team
 Traditional change management — the Kotter model, the ADKAR framework — was built for ERP rollouts and office relocations. AI adoption breaks those models because the change is not a
 
 ---
+
+## How much is Claude AI for small business? Every plan priced for a team of 1, 5 and 20
+
+URL: https://beyondelevation.com/insights/how-much-is-claude-ai-for-small-business
+
+Claude costs a small business 20 dollars a month for one person on Pro, or 25 dollars a seat on the Team plan billed monthly, 20 if you pay for the year. A team of five pays 100 to 125 dollars a month. Anthropic's Claude for Small Business plugin runs on those same plans, and Anthropic's own FAQ for it says Pro for one person, Team for more than one.
+
+Hayat Amin sold three companies as a chief financial officer and now builds AI operations inside companies himself, so this piece prices Claude the way he'd price any line on a budget: what you pay, what you get for it, and where the bill grows. Every price below was read on Anthropic's own pricing page on 29 October 2026. Anthropic says its prices don't include tax and can change, and where a figure is our arithmetic we say so.
+
+## Every Claude plan, priced
+
+Anthropic sells five ways in. Here's each one as the pricing page lists it today:
+
+- Free: 0 dollars. Chat, web search, files and connected apps, with lower usage limits.
+
+- Pro: 20 dollars a month billed monthly, or 17 dollars a month on the annual plan, which is 200 dollars paid up front.
+
+- Max: from 100 dollars a month, for 5 or 20 times the usage of Pro, plus 100 to 200 dollars a month in API credits.
+
+- Team: for teams of 2 to 150. A standard seat is 25 dollars a month billed monthly or 20 billed annually. A premium seat, with 5 times the usage of a standard seat, is 125 dollars monthly or 100 annually.
+
+- Enterprise: 20 dollars a seat a month billed annually, with a 
+
+---
