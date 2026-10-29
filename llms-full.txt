@@ -8890,3 +8890,21 @@ A year-end IP review is a structured audit of every intellectual property asset 
 The distinction matters because most co
 
 ---
+
+## 5 Cap Table Errors That Cost Founders Equity Before the Term Sheet Arrives
+
+URL: https://beyondelevation.com/insights/cap-table-cleanup-before-fundraising
+
+73% of Series A due diligence processes uncover at least one cap table error that triggers a correction round. The average correction costs the founder 8 to 15 points of additional dilution. These are not edge cases. They are the norm.
+
+Hayat Amin says the cap table is the first document an investor's lawyer opens and the last thing most founders check. According to a 2025 Carta analysis of 12,000 startup cap tables, more than half contained structural discrepancies that required legal intervention before closing. Cap table management is not paperwork. It is the financial architecture of your company, and every error in it compounds with every round you raise.
+
+Beyond Elevation's fractional CFO operators see these five errors repeatedly. Each one is preventable. Each one costs real equity when it surfaces in due diligence.
+
+## What Is Cap Table Management and Why Does It Kill Deals?
+
+Cap table management is the ongoing process of tracking, structuring and verifying every equity instrument your company has ever issued: founder shares, employee options, advisor grants, convertible notes, SAFEs and warrants. A clean cap table shows exactly who owns what percentage, on what terms, with what vesting, and what happens when new money comes in. An unclean one delays your round, inflates your legal bill and hands leverage to the investor.
+
+The reason cap table errors kill deals is timing. Due diligence runs on a clock. When an investor's counsel finds a discrepancy between your cap ta
+
+---
