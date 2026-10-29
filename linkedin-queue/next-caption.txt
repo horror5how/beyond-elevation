@@ -1,19 +1,19 @@
-Your AI agents made 3,000 decisions last month.
+Your gross margin is lying to you.
 
-You reviewed 11 of them.
+Most SaaS founders report 68% gross margin to investors.
 
-91% of AI operational failures are caught after the damage hits.
+Their true contribution margin is 34%.
 
-The fix is not more AI.
+That gap costs 2.4x at exit.
 
-It is a decision gate built into every high-stakes workflow.
+Gross margin excludes customer success, onboarding, and implementation costs.
 
-Not a policy. An actual gate: approve, escalate, log, reject.
+Contribution margin includes every variable cost tied to delivering revenue.
 
-Companies with decision gates cut AI error cost by 14x.
+PE buyers and strategic acquirers model on contribution margins — not gross.
 
-The ones without them are the case studies nobody wants to be.
+If your unit economics look broken at contribution level, the deal dies in diligence.
 
-Build the gate before the next deployment.
+Fix the reporting 3 months before your raise, not after.
 
-#AIOperations #AIGovernance #FractionalCFO
+#FractionalCFO #SaaS #Fundraising
