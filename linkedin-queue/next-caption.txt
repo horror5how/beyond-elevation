@@ -1,19 +1,21 @@
-Your gross margin is lying to you.
+73% of patent portfolios contain at least one licensable claim.
 
-Most SaaS founders report 68% gross margin to investors.
+Most founders have collected £0 from theirs.
 
-Their true contribution margin is 34%.
+Your IP lawyer files. Your IP lawyer renews. Nobody hunts the licenses.
 
-That gap costs 2.4x at exit.
+Licensing doesn't start with enforcement.
 
-Gross margin excludes customer success, onboarding, and implementation costs.
+It starts with a 3-question claim audit.
 
-Contribution margin includes every variable cost tied to delivering revenue.
+Who is already using your strongest claim commercially?
 
-PE buyers and strategic acquirers model on contribution margins — not gross.
+What would it cost them to design around it vs. pay you a royalty?
 
-If your unit economics look broken at contribution level, the deal dies in diligence.
+Is there an adjacent market that would pay for field-of-use exclusivity?
 
-Fix the reporting 3 months before your raise, not after.
+One deal covers 5 years of maintenance fees.
 
-#FractionalCFO #SaaS #Fundraising
+The audit takes a morning. The revenue compounds for years.
+
+#IPStrategy #PatentLicensing #FractionalCIPO
