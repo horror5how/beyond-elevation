@@ -45,13 +45,13 @@ Mixing seat types is allowed on Team, and it's where most of the saving is. In a
 
 Enterprise only starts to make sense past the point where you need the controls. Twenty seats is 400 dollars a month in seat fees before any usage, and the usage is metered on top. A 20 person company that doesn't need audit logs or SCIM is paying for paperwork.
 
-## Why a business with staff should pay for Team
+## Team pays off once a business has staff
 
 Three lines on the comparison table decide this, and none of them is the seat price.
 
 The first is training. On Free, Pro and Max, Anthropic's table says model training is opt out, so each person has to switch it off. On Team and Enterprise it's "none by default". If staff paste in customer emails, contracts or payroll, that line matters more than 5 dollars a seat.
 
-The second is control. Team adds central billing, single sign on, admin controls over the connectors people can switch on, and organisation level spend limits. When someone leaves, you remove a seat. On five personal Pro accounts you're asking an ex employee to hand back their chat history.
+The second is control. Team adds central billing, single sign on, admin controls over the connectors people can switch on, and organisation level spend limits. You remove a seat when someone leaves. On five personal Pro accounts, you're asking an ex-employee to hand back their chat history instead.
 
 The third is credit. Team lists up to 500 dollars a month in pooled API credits, which matters the day you want Claude to run a job on its own instead of in a chat window.
 
@@ -63,13 +63,13 @@ Anthropic launched Claude for Small Business on 13 May 2026. It's a plugin you t
 
 The jobs it ships with are the ones that eat an owner's evenings: planning payroll against the cash position, closing the month and writing a plain English profit and loss for the accountant, chasing overdue invoices, a Monday brief on cash and sales, and lead replies. Anthropic says nothing sends, posts or pays until you approve it, and Claude only sees what the connected account can see.
 
-Anthropic doesn't list a separate price for the plugin. Its FAQ answers "what will it cost each month?" by pointing at the plans: Pro for one person, Team for more than one, both month to month. What you still pay for is the software it connects to. QuickBooks, HubSpot and Shopify bill you as they do today. Anthropic also says most owners using it run businesses under ten people, many of them solo.
+Anthropic doesn't list a separate price for the plugin. Its FAQ answers "what will it cost each month?" by pointing at the plans: Pro for one person, Team for more than one, both month to month. You still pay for the software it connects to. QuickBooks, HubSpot and Shopify bill you as they do today. Anthropic also says most owners using it run businesses under ten people, many of them solo.
 
 Anthropic gives a reason for the push. It says small businesses account for 44% of US GDP, and that their AI use mostly stops at the chat window. That matches what we see. A seat you only chat in is worth 20 dollars a month. A seat that closes your month is worth a lot more, and the price is the same.
 
-## When you pay per use instead of per seat
+## paying per use instead of per seat
 
-The seat plans are for people. When you want Claude running inside your own systems with no one typing, reading every supplier invoice that lands and writing it into your books, you pay the API rate for each piece of text it reads and writes. Anthropic prices that per million tokens.
+The seat plans are for people. Run Claude inside your own systems instead, with no one typing, reading every supplier invoice that lands and writing it into your books, and you pay the API rate for each piece of text it reads and writes. Anthropic prices that per million tokens.
 
 - Haiku 5.5: 0.10 dollars in, 0.50 out, for prompts up to 100,000 tokens.
 
@@ -81,7 +81,7 @@ The seat plans are for people. When you want Claude running inside your own syst
 
 Batch processing saves 50%, and US only processing costs 1.1 times the standard rate. Take a company that reads 2,000 supplier invoices a month. We'll assume each one is 3,000 tokens in and 300 out, which is our assumption, not Anthropic's. That's 6 million tokens in and 600,000 out. On Haiku 5.5 it's about 90 cents a month. On Sonnet 5.5 it's 18 dollars, or 9 in batch. On Opus 5.5 it's 36. The model is rarely the expensive part. The build that connects it to your systems is, and we priced that in [how much it costs to build an AI system](/insights/how-much-does-it-cost-to-build-an-ai-system/).
 
-## Where small businesses overpay for Claude
+## what makes small businesses overpay for Claude
 
 We see the same four mistakes in owner managed companies across New York and the wider United States:
 
@@ -93,7 +93,7 @@ We see the same four mistakes in owner managed companies across New York and the
 
 - Seats with nothing connected. If Claude can't see your accounting, CRM or job system, staff copy and paste into it, and the 20 dollars buys a faster typist.
 
-## How Beyond Elevation helps with this
+## what Beyond Elevation does about this
 
 The seat is the cheap part. The work is deciding which of your processes Claude should run, connecting it to the systems that don't talk to each other, and checking the output for long enough that your team trusts it. That's what Beyond Elevation does for small and mid sized companies in New York, across the United States and in London: Hayat Amin and the team move into the business and build the AI operations themselves. Our prices are published. A two week AI audit is 3,000 dollars fixed, projects start from 30,000 dollars, and fractional work starts from 5,800 dollars a month. If all you need is five people writing faster, buy the Team seats and you don't need us. The rest is our [forward deployed engineering](/fde) work, and it starts at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
