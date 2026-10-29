@@ -524,5 +524,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The Investor Data Room Checklist That Closes a Round in 30 Days](https://beyondelevation.com/insights/investor-data-room-checklist) — /insights/md/investor-data-room-checklist.md
 - [70% of AI Projects Fail and the Technology Worked in Every One](https://beyondelevation.com/insights/ai-change-management-why-projects-fail) — /insights/md/ai-change-management-why-projects-fail.md
 - [How much is Claude AI for small business? Every plan priced for a team of 1, 5 and 20](https://beyondelevation.com/insights/how-much-is-claude-ai-for-small-business) — /insights/md/how-much-is-claude-ai-for-small-business.md
+- [Your Company Created IP All Year. Nobody Checked Whether You Still Own It. The Year-End IP Review Checklist.](https://beyondelevation.com/insights/year-end-ip-review-cipo-checklist) — /insights/md/year-end-ip-review-cipo-checklist.md
 
 > Full blog content available at /llms-full.txt
