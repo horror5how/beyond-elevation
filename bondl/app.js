@@ -69,7 +69,7 @@ function show(v,first){view=v;document.querySelectorAll("[data-v]").forEach(b=>b
 /* ---------- hero (shared on interview) ---------- */
 function hero(){const r=readiness(),pct=Math.round(answered()/TOTAL()*100),done=MS.filter(m=>(D.PG[m[0]]||{}).s==="done").length,facts=countConf("fact");
   return `<section class="hero"><div><div class="who"><img src="/bondl/img/hayat.jpg" alt="Hayat Amin"><h1><span>Hayat Amin's</span><span><em>business</em> canvas</span></h1></div>
-   <div class="kpis">${[[pct,"% answered",histSpark("a")],[r.score,"Investor readiness",histSpark("r")],[done,"Milestones done",""],[facts,"Answers backed as fact",""]].map(k=>`<div class="kpi"><b data-count="${k[0]}">0</b><span>${k[1]}</span>${k[2]}</div>`).join("")}</div></div>
+   <div class="kpis">${[[pct,"Answered",histSpark("a"),"%"],[r.score,"Investor readiness",histSpark("r"),"%"],[done,"Milestones done","",""],[facts,"Answers backed as fact","",""]].map(k=>`<div class="kpi"><b data-count="${k[0]}" data-suffix="${k[3]}">0${k[3]}</b><span>${k[1]}</span>${k[2]}</div>`).join("")}</div></div>
    <div class="strip" aria-hidden="true">${["surgery","hands","pathology","vault","archive"].map(n=>`<figure><img src="/bondl/img/${n}.jpg" alt=""></figure>`).join("")}</div></section>`}
 
 /* ---------- interview ---------- */
@@ -183,7 +183,7 @@ function recordHist(){const now=Date.now(),last=D.hist[D.hist.length-1],r=readin
   if(!last||now-last.t>60000){D.hist.push({t:now,r,a});if(D.hist.length>300)D.hist.shift()}else{last.r=r;last.a=a}}
 function histSpark(k){const h=D.hist.slice(-40);if(h.length<2)return `<svg viewBox="0 0 100 28" preserveAspectRatio="none"><line x1="0" y1="26" x2="100" y2="26" stroke="var(--line2)"/></svg>`;
   const xs=h.map((p,i)=>i/(h.length-1)*100),ys=h.map(p=>26-p[k]/100*24);return `<svg viewBox="0 0 100 28" preserveAspectRatio="none"><polyline class="draw" pathLength="1" fill="none" stroke="var(--accent)" stroke-width="1.5" vector-effect="non-scaling-stroke" points="${xs.map((x,i)=>x.toFixed(1)+","+ys[i].toFixed(1)).join(" ")}"/></svg>`}
-function countUps(){document.querySelectorAll("[data-count]").forEach(el=>{const to=+el.dataset.count,from=+(el.dataset.from||0);if(reduce){el.textContent=to;return}const t0=performance.now();
+function countUps(){document.querySelectorAll("[data-count]").forEach(el=>{const to=+el.dataset.count,from=+(el.dataset.from||0);if(reduce){el.textContent=to+(el.dataset.suffix||"");return}const t0=performance.now();
   const f=t=>{const k=Math.min(1,(t-t0)/900),e=1-Math.pow(1-k,3);el.textContent=Math.round(from+(to-from)*e)+(el.dataset.suffix||"");if(k<1)requestAnimationFrame(f)};requestAnimationFrame(f)})}
 
 /* ---------- canvas board ---------- */
@@ -217,7 +217,7 @@ function present(i){const list=S();let k=i;const paint=()=>{const s=list[k],item
 /* ---------- progress ---------- */
 function renderProgress(){const st=id=>(D.PG[id]||{}).s||"todo",r=readiness(),d=MS.filter(m=>st(m[0])==="done").length,g=MS.filter(m=>st(m[0])==="doing").length;
   $("main").innerHTML=`<div class="wrap view"><div class="head"><div><h2>Where it really is</h2><p>${d} done, ${g} in progress, ${MS.length-d-g} not started. "Done" needs evidence an investor could see.</p></div></div>
-   <div class="score"><div><span class="label">Investor readiness</span><b data-count="${r.score}">0</b>${histSpark("r")}</div>${r.parts.map(p=>`<div><span class="label">${esc(p[0])}</span><b data-count="${Math.round(p[1]*100)}" data-suffix="%">0</b></div>`).join("")}</div>
+   <div class="score"><div><span class="label">Investor readiness</span><b data-count="${r.score}" data-suffix="%">0%</b>${histSpark("r")}</div>${r.parts.map(p=>`<div><span class="label">${esc(p[0])}</span><b data-count="${Math.round(p[1]*100)}" data-suffix="%">0</b></div>`).join("")}</div>
    <div class="pgtrack">${MS.map((m,i)=>`<i class="${st(m[0])}" title="${esc(m[1])}" style="animation-delay:${i*40}ms"></i>`).join("")}</div>
    <div class="pglist">${MS.map((m,i)=>`<div class="pgrow" style="animation-delay:${i*30}ms"><span class="label">${String(i+1).padStart(2,"0")}</span><div><b>${esc(m[1])}</b><small>${esc(m[2])}</small></div>
     <div class="seg" role="group" aria-label="Status">${["todo","doing","done"].map(k=>`<button class="${k}" data-m="${m[0]}" data-k="${k}" aria-pressed="${st(m[0])===k}">${LBL[k]}</button>`).join("")}</div>
@@ -312,7 +312,7 @@ const BADGES=[["first","First words","Answer the first question",()=>answered()>
  ["clean","Clean story","Resolve every contradiction",()=>{const r=D.REG.contradictions||[];return r.length&&r.every(x=>x.status==="Resolved")}],
  ["ready","Investor grade","Reach a readiness score of 70",()=>readiness().score>=70],["all","Complete picture","Answer every question",()=>answered()>=TOTAL()]];
 function checkBadges(){BADGES.forEach(([id,name,,test])=>{if(!D.badges[id]&&test()){D.badges[id]=Date.now();gain(25);confetti();toast(`Badge earned: ${name}`);touch()}})}
-function badgeSheet(){const r=readiness();$("layer").innerHTML=`<div class="scrim" id="scrim"><div class="sheet" role="dialog" aria-modal="true" aria-label="Progress"><span class="label">Level ${level()} · ${D.XP} XP · readiness ${r.score}</span><h3>${esc(LEVELS[level()-1])}</h3>
+function badgeSheet(){const r=readiness();$("layer").innerHTML=`<div class="scrim" id="scrim"><div class="sheet" role="dialog" aria-modal="true" aria-label="Progress"><span class="label">Level ${level()} · ${D.XP} XP · readiness ${r.score}%</span><h3>${esc(LEVELS[level()-1])}</h3>
   <div class="badges">${BADGES.map(([id,name,how])=>`<div class="badge ${D.badges[id]?"got":""}"><svg viewBox="0 0 40 40"><polygon points="20,3 35,11.5 35,28.5 20,37 5,28.5 5,11.5" fill="${D.badges[id]?"var(--ink)":"none"}" stroke="var(--ink)" stroke-width="1.5"/>${D.badges[id]?'<path d="M13 20l5 5 9-10" stroke="var(--bg)" stroke-width="2.5" fill="none"/>':""}</svg><b>${esc(name)}</b><span>${esc(how)}</span></div>`).join("")}</div>
   <div class="qfoot"><button class="btn primary" id="sx">Close</button></div></div></div>`;const c=()=>$("layer").innerHTML="";$("sx").onclick=c;$("scrim").onclick=e=>{if(e.target.id==="scrim")c()}}
 function orb(){const p=Math.round(answered()/TOTAL()*100);$("orbArc").setAttribute("stroke-dasharray",`${p} 100`);$("orbTxt").textContent=p+"%"}
@@ -367,7 +367,7 @@ function dictate(){const SR=window.SpeechRecognition||window.webkitSpeechRecogni
 /* ---------- export ---------- */
 function download(name,data,type){const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([data],{type}));a.download=name;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},500);toast(`Saved ${name} to Downloads`)}
 async function backup(){download(`canvas-backup-${new Date().toISOString().slice(0,10)}.canvas`,JSON.stringify(await seal(D)),"application/json")}
-function packMd(){const d=new Date().toISOString().slice(0,10),r=readiness();let m=`# ${D.meta.company||""} business canvas\n\nHayat Amin, Fractional CFO. ${d}.\n\nInvestor readiness: ${r.score}/100. Answered ${answered()} of ${TOTAL()}.\n\n## Milestones\n\n`;
+function packMd(){const d=new Date().toISOString().slice(0,10),r=readiness();let m=`# ${D.meta.company||""} business canvas\n\nHayat Amin, Fractional CFO. ${d}.\n\nInvestor readiness: ${r.score}%. Answered ${answered()} of ${TOTAL()}.\n\n## Milestones\n\n`;
   MS.forEach(x=>{const p=D.PG[x[0]]||{};m+=`- ${x[1]}: ${LBL[p.s||"todo"]}${p.n?` (${p.n})`:""}\n`});
   let g="";S().forEach(s=>{if(s.g!==g){g=s.g;m+=`\n# ${g}\n`}m+=`\n## ${s.t}\n\n`;s.q.forEach((q,i)=>{const a=ans(s.id,i);if(!a)return;const c=(D.C[s.id]||{})[i],e=String((D.E[s.id]||{})[i]||"").trim();m+=`**${q[0]}**${c?` _(${c})_`:""}\n\n${a}\n${e?`\nEvidence: ${e}\n`:""}\n`})});
   REGS.forEach(rg=>{const rows=D.REG[rg.id]||[];if(!rows.length)return;m+=`\n## ${rg.t}\n\n| ${rg.cols.map(c=>c[1]).join(" | ")} |\n|${rg.cols.map(()=>"---").join("|")}|\n`;rows.forEach(row=>m+=`| ${rg.cols.map(c=>String(row[c[0]]??"").replace(/\n/g," ").replace(/\|/g,"/")).join(" | ")} |\n`)});return m}
