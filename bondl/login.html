@@ -54,7 +54,8 @@ button.go:hover{transform:translateY(-1px)}
 button.go::after{content:"";position:absolute;top:0;left:-60%;width:40%;height:100%;background:linear-gradient(90deg,transparent,rgba(95,140,255,.35),transparent);animation:sheen 3s 2s infinite}
 @keyframes sheen{to{left:130%}}
 button.go[disabled]{opacity:.7;cursor:wait}
-.msg{min-height:20px;margin-top:12px;font-size:13px}
+.msg{min-height:20px;margin-top:14px;font-size:14px;font-weight:600}
+.msg.bad{background:rgba(255,138,138,.12);border:1px solid rgba(255,138,138,.5);padding:12px 14px}
 .msg.bad{color:var(--bad)}.msg.ok{color:var(--ok)}
 .shake{animation:shake .45s}
 @keyframes shake{20%,60%{transform:translateX(-8px)}40%,80%{transform:translateX(8px)}}
@@ -93,7 +94,7 @@ button.go[disabled]{opacity:.7;cursor:wait}
     <h2>Sign in</h2>
     <p class="sub">This workspace is password protected. Nothing loads until the server has checked your password.</p>
     <label for="u">Username</label>
-    <div class="field"><input id="u" name="username" autocomplete="username" spellcheck="false" autocapitalize="off" required></div>
+    <div class="field"><input id="u" name="username" placeholder="Hayat" autocomplete="username" spellcheck="false" autocapitalize="off" required></div>
     <label for="p">Password</label>
     <div class="field"><input id="p" name="password" type="password" autocomplete="current-password" required><button class="eye" type="button" id="eye" aria-label="Show password">SHOW</button></div>
     <button class="go" id="go" type="submit">Unlock canvas</button>
@@ -163,7 +164,7 @@ f.addEventListener("submit",async e=>{e.preventDefault();if(!u.value||!p.value){
     go.textContent="Unlocking";await putKey(await deriveKey(p.value));p.value="";
     msg.className="msg ok";msg.textContent="Verified. Opening your canvas.";collapse=0;const iv=setInterval(()=>{collapse=Math.min(1,collapse+.05)},30);
     setTimeout(()=>document.getElementById("flash").classList.add("on"),500);setTimeout(()=>{clearInterval(iv);location.href="/bondl/"},1500)}
-  catch(err){go.disabled=false;go.textContent="Unlock canvas";msg.className="msg bad";msg.textContent="That username or password is not right.";f.classList.remove("shake");void f.offsetWidth;f.classList.add("shake");p.select()}});
+  catch(err){go.disabled=false;go.textContent="Unlock canvas";msg.className="msg bad";msg.textContent="Not signed in: that username or password did not match. Username is Hayat (or your email). The password is case sensitive.";f.classList.remove("shake");void f.offsetWidth;f.classList.add("shake");p.select()}});
 u.focus();
 </script>
 </body>

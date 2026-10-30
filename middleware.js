@@ -55,7 +55,8 @@ async function bondlGate(req, url) {
     let body = {};
     try { body = await req.json(); } catch (e) {}
     const user = String(body.u || '').trim().toLowerCase();
-    const ok = process.env.BONDL_PASS_SHA256 && user === 'hayat' &&
+    const okUser = ['hayat', 'hayat amin', 'hayat@beyondelevation.com', 'amin.hayat05@gmail.com'].includes(user);
+    const ok = process.env.BONDL_PASS_SHA256 && okUser &&
       bEq(await bSha((process.env.BONDL_SALT || '') + String(body.p || '')), process.env.BONDL_PASS_SHA256);
     if (!ok) { await new Promise((r) => setTimeout(r, 900)); return new Response(JSON.stringify({ ok: false }), { status: 401, headers: { 'Content-Type': 'application/json', ...bHeaders } }); }
     const exp = Math.floor(Date.now() / 1000) + B_TTL;
