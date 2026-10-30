@@ -528,5 +528,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [5 Cap Table Errors That Cost Founders Equity Before the Term Sheet Arrives](https://beyondelevation.com/insights/cap-table-cleanup-before-fundraising) — /insights/md/cap-table-cleanup-before-fundraising.md
 - [The Operating Model That Lets a 15-Person Company Run Like a 50-Person One](https://beyondelevation.com/insights/lean-operating-model-fractional-executives) — /insights/md/lean-operating-model-fractional-executives.md
 - [Your First External Audit Will Expose Every Finance Shortcut — Here Is the 90-Day Fix](https://beyondelevation.com/insights/first-external-audit-preparation-checklist) — /insights/md/first-external-audit-preparation-checklist.md
+- [Your Company Pays for 14 AI Tools. Your Team Uses 4. The Stack Audit That Kills the Other 10.](https://beyondelevation.com/insights/ai-tool-sprawl-stack-audit) — /insights/md/ai-tool-sprawl-stack-audit.md
 
 > Full blog content available at /llms-full.txt
