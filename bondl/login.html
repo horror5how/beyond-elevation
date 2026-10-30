@@ -101,7 +101,7 @@ button.go[disabled]{opacity:.7;cursor:wait}
     <div class="msg" id="msg" role="status" aria-live="polite"></div>
     <div class="proof">
       <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Server-checked sign in.</b> The page and app code stay locked until the password is verified. Sessions end after 12 hours.</span></div>
-      <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Your data stays on Hayat's MacBook.</b> Every answer is saved in this browser and in a file on the Mac. This website only delivers the app, never the data.</span></div>
+      <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Your data is held by Hayat, not this website.</b> Every answer is saved in this browser and in an encrypted file on Hayat's Mac, backed up to his own Google Drive still encrypted. This website only delivers the app, never the data.</span></div>
       <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Encrypted with your password.</b> The canvas is locked with AES-256 using a key made from your password. Without it, the file is unreadable.</span></div>
       <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Auto-lock.</b> The canvas locks itself after 15 minutes without activity.</span></div>
     </div>
@@ -145,7 +145,7 @@ addEventListener("resize",size);addEventListener("pointermove",e=>{mx=e.clientX/
 size();cx.fillStyle="#03050c";cx.fillRect(0,0,W,H);frame();
 
 /* ticker of live-looking system lines (describes this page, not Bondl data) */
-const tk=document.getElementById("ticker");const lines=[["SESSION","server gate"],["CIPHER","AES-256-GCM"],["KEY","PBKDF2 · 310,000 rounds"],["STORAGE","this MacBook only"],["IDLE LOCK","15 min"]];
+const tk=document.getElementById("ticker");const lines=[["SESSION","server gate"],["CIPHER","AES-256-GCM"],["KEY","PBKDF2 · 310,000 rounds"],["STORAGE","Hayat's Mac + encrypted backup"],["IDLE LOCK","15 min"]];
 tk.innerHTML=lines.map(l=>`<span>${l[0]} <b>${l[1]}</b></span>`).join("");
 
 /* sign in */
