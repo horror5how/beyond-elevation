@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Hayat Amin Business Canvas · Sign in</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Dark-first single look: a living starfield and pulsing core behind a glass sign-in card. */
+:root{--bg:#03050c;--ink:#eef2ff;--ink2:#9aa6c6;--mute:#5d6886;--line:rgba(160,185,255,.18);--glow:#5f8cff;--ice:#9fd0ff;--ok:#7ee0b5;--bad:#ff8a8a;
+  --serif:"Instrument Serif",Georgia,serif;--sans:"Inter Tight",-apple-system,system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;color-scheme:dark}
+*{box-sizing:border-box;margin:0}
+html,body{height:100%;background:var(--bg);color:var(--ink);font-family:var(--sans);overflow:hidden}
+canvas#sky{position:fixed;inset:0;width:100%;height:100%;display:block}
+.vignette{position:fixed;inset:0;pointer-events:none;background:radial-gradient(ellipse at 62% 50%,transparent 30%,rgba(3,5,12,.55) 75%,rgba(3,5,12,.95) 100%)}
+.grain{position:fixed;inset:-50%;pointer-events:none;opacity:.06;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");animation:g 1.2s steps(6) infinite}
+@keyframes g{0%{transform:translate(0,0)}25%{transform:translate(-3%,2%)}50%{transform:translate(2%,-3%)}75%{transform:translate(-2%,-1%)}100%{transform:translate(0,0)}}
+.shell{position:relative;z-index:2;height:100%;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,460px);gap:48px;align-items:center;padding:clamp(20px,5vw,72px);padding-top:calc(clamp(20px,5vw,72px) + env(safe-area-inset-top,0px))}
+.left{align-self:stretch;display:flex;flex-direction:column;justify-content:space-between;min-width:0}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.32em;text-transform:uppercase;color:var(--ice);opacity:0;animation:up .9s .2s forwards}
+h1{font-family:var(--serif);font-weight:400;font-size:clamp(46px,7.4vw,112px);line-height:.92;letter-spacing:-.02em;margin-top:22px}
+h1 span{display:block;opacity:0;transform:translateY(40px);filter:blur(10px);animation:in 1.2s cubic-bezier(.2,.8,.2,1) forwards}
+h1 span:nth-child(2){animation-delay:.18s;font-style:italic;background:linear-gradient(90deg,#fff,var(--ice) 40%,var(--glow));-webkit-background-clip:text;background-clip:text;color:transparent}
+h1 span:nth-child(3){animation-delay:.36s}
+@keyframes in{to{opacity:1;transform:none;filter:none}}
+@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.pillars{display:flex;gap:28px;flex-wrap:wrap;margin-top:28px}
+.pillar{opacity:0;animation:up .8s forwards;font-family:var(--mono);font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--ink2);display:flex;align-items:center;gap:10px}
+.pillar svg{width:22px;height:22px;stroke:var(--ice);fill:none;stroke-width:1.4}
+.pillar:nth-child(1){animation-delay:.9s}.pillar:nth-child(2){animation-delay:1.05s}.pillar:nth-child(3){animation-delay:1.2s}.pillar:nth-child(4){animation-delay:1.35s}
+.ticker{font-family:var(--mono);font-size:10.5px;color:var(--mute);letter-spacing:.08em;display:flex;gap:18px;flex-wrap:wrap;opacity:0;animation:up 1s 1.6s forwards}
+.ticker b{color:var(--ice);font-weight:500}
+.card{position:relative;background:linear-gradient(160deg,rgba(20,28,52,.62),rgba(8,12,26,.72));border:1px solid var(--line);backdrop-filter:blur(18px) saturate(140%);-webkit-backdrop-filter:blur(18px) saturate(140%);padding:34px 32px 28px;opacity:0;transform:translateY(24px) scale(.98);animation:card 1.1s .5s cubic-bezier(.2,.8,.2,1) forwards;overflow:hidden}
+.card::before{content:"";position:absolute;inset:-1px;background:conic-gradient(from var(--a,0deg),transparent 0 70%,rgba(159,208,255,.55) 80%,transparent 90%);-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;padding:1px;animation:spin 6s linear infinite;pointer-events:none}
+@property --a{syntax:"<angle>";inherits:false;initial-value:0deg}
+@keyframes spin{to{--a:360deg}}
+@keyframes card{to{opacity:1;transform:none}}
+.me{display:flex;align-items:center;gap:14px;margin-bottom:26px}
+.me img{width:52px;height:52px;border-radius:50%;object-fit:cover;filter:grayscale(1) contrast(1.05);border:1px solid var(--line);box-shadow:0 0 0 4px rgba(95,140,255,.08),0 0 30px rgba(95,140,255,.25)}
+.me b{display:block;font-size:15px;font-weight:600}.me span{font-size:12px;color:var(--ink2)}
+.lock{margin-left:auto;width:38px;height:38px;display:grid;place-items:center;border:1px solid var(--line)}
+.lock svg{width:18px;height:18px;stroke:var(--ice);fill:none;stroke-width:1.6}
+h2{font-family:var(--serif);font-weight:400;font-size:30px;letter-spacing:-.01em;margin-bottom:6px}
+.sub{font-size:13px;color:var(--ink2);margin-bottom:22px;line-height:1.5}
+label{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink2);margin:14px 0 7px}
+.field{position:relative}
+input{width:100%;background:rgba(3,6,16,.65);border:1px solid var(--line);color:var(--ink);font:500 15px var(--sans);padding:14px 14px;outline:none;transition:border-color .3s,box-shadow .3s}
+input:focus{border-color:rgba(159,208,255,.7);box-shadow:0 0 0 4px rgba(95,140,255,.14),0 0 24px rgba(95,140,255,.18)}
+.eye{position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:0;color:var(--ink2);font:500 11px var(--mono);letter-spacing:.1em;cursor:pointer;padding:8px}
+button.go{margin-top:22px;width:100%;position:relative;overflow:hidden;background:linear-gradient(90deg,#dfe9ff,#ffffff);color:#060a18;border:0;padding:15px;font:700 14px var(--sans);letter-spacing:.04em;cursor:pointer;transition:transform .2s}
+button.go:hover{transform:translateY(-1px)}
+button.go::after{content:"";position:absolute;top:0;left:-60%;width:40%;height:100%;background:linear-gradient(90deg,transparent,rgba(95,140,255,.35),transparent);animation:sheen 3s 2s infinite}
+@keyframes sheen{to{left:130%}}
+button.go[disabled]{opacity:.7;cursor:wait}
+.msg{min-height:20px;margin-top:12px;font-size:13px}
+.msg.bad{color:var(--bad)}.msg.ok{color:var(--ok)}
+.shake{animation:shake .45s}
+@keyframes shake{20%,60%{transform:translateX(-8px)}40%,80%{transform:translateX(8px)}}
+.proof{margin-top:22px;border-top:1px solid var(--line);padding-top:18px;display:grid;gap:11px}
+.proof div{display:grid;grid-template-columns:18px 1fr;gap:10px;font-size:12.5px;line-height:1.45;color:var(--ink2);opacity:0;animation:up .7s forwards}
+.proof div:nth-child(1){animation-delay:1.3s}.proof div:nth-child(2){animation-delay:1.45s}.proof div:nth-child(3){animation-delay:1.6s}.proof div:nth-child(4){animation-delay:1.75s}
+.proof svg{width:16px;height:16px;stroke:var(--ok);fill:none;stroke-width:2;margin-top:1px}
+.proof b{color:var(--ink);font-weight:600}
+.flash{position:fixed;inset:0;background:radial-gradient(circle at 62% 50%,#fff,rgba(159,208,255,.7) 20%,transparent 60%);opacity:0;pointer-events:none;z-index:5}
+.flash.on{animation:fl 1.1s forwards}
+@keyframes fl{0%{opacity:0}35%{opacity:1}100%{opacity:1;background:#03050c}}
+@media (max-width:900px){html,body{overflow:auto}.shell{grid-template-columns:1fr;height:auto;min-height:100%}.left{gap:28px}.ticker{display:none}}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01s!important;animation-delay:0s!important}}
+</style>
+</head>
+<body>
+<canvas id="sky" aria-hidden="true"></canvas><div class="vignette"></div><div class="grain"></div><div class="flash" id="flash"></div>
+<main class="shell">
+  <section class="left">
+    <div>
+      <div class="eyebrow">Private workspace · by invitation</div>
+      <h1><span>Hayat Amin's</span><span>business</span><span>canvas</span></h1>
+      <div class="pillars">
+        <div class="pillar"><svg viewBox="0 0 24 24"><path d="M12 3l7 3v6c0 4.5-3 7.8-7 9-4-1.2-7-4.5-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg>Verified sources</div>
+        <div class="pillar"><svg viewBox="0 0 24 24"><rect x="3" y="11" width="18" height="10"/><path d="M7 11V7a5 5 0 0110 0v4"/></svg>Encrypted on device</div>
+        <div class="pillar"><svg viewBox="0 0 24 24"><path d="M3 20h18M6 16l4-5 3 3 5-7"/></svg>Live financial model</div>
+        <div class="pillar"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Built together, in session</div>
+      </div>
+    </div>
+    <div class="ticker" id="ticker"></div>
+  </section>
+
+  <form class="card" id="f" autocomplete="on" novalidate>
+    <div class="me"><img src="data:image/jpeg;base64,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" alt="Hayat Amin"><div><b>Hayat Amin</b><span>Fractional CFO</span></div>
+      <div class="lock" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="4" y="11" width="16" height="10"/><path d="M8 11V7a4 4 0 018 0v4"/></svg></div></div>
+    <h2>Sign in</h2>
+    <p class="sub">This workspace is password protected. Nothing loads until the server has checked your password.</p>
+    <label for="u">Username</label>
+    <div class="field"><input id="u" name="username" autocomplete="username" spellcheck="false" autocapitalize="off" required></div>
+    <label for="p">Password</label>
+    <div class="field"><input id="p" name="password" type="password" autocomplete="current-password" required><button class="eye" type="button" id="eye" aria-label="Show password">SHOW</button></div>
+    <button class="go" id="go" type="submit">Unlock canvas</button>
+    <div class="msg" id="msg" role="status" aria-live="polite"></div>
+    <div class="proof">
+      <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Server-checked sign in.</b> The page and app code stay locked until the password is verified. Sessions end after 12 hours.</span></div>
+      <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Your data stays on Hayat's MacBook.</b> Every answer is saved in this browser and in a file on the Mac. This website only delivers the app, never the data.</span></div>
+      <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Encrypted with your password.</b> The canvas is locked with AES-256 using a key made from your password. Without it, the file is unreadable.</span></div>
+      <div><svg viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg><span><b>Auto-lock.</b> The canvas locks itself after 15 minutes without activity.</span></div>
+    </div>
+  </form>
+</main>
+<script>
+/* sky: starfield streaming into a pulsing hexagonal core, with light beams and data rails */
+const cv=document.getElementById("sky"),cx=cv.getContext("2d");let W,H,DPR,core,stars=[],rails=[],t=0,boost=0,mx=0,my=0,collapse=0;
+const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+function size(){DPR=Math.min(2,devicePixelRatio||1);W=cv.width=innerWidth*DPR;H=cv.height=innerHeight*DPR;core={x:W*(innerWidth>900?.47:.84),y:H*(innerWidth>900?.5:.13)};
+  stars=Array.from({length:Math.round(W*H/(5200*DPR))},()=>mk(true));rails=Array.from({length:14},(_,i)=>({y:Math.random(),s:.4+Math.random()*1.2,o:Math.random()*W,w:60+Math.random()*220,d:Math.random()<.5?1:-1}))}
+function mk(any){const a=Math.random()*Math.PI*2,r=(any?Math.random():1)*Math.hypot(W,H)*.75+40*DPR;return {a,r,s:.15+Math.random()*.9,z:Math.random(),tw:Math.random()*6}}
+function hex(x,y,r,rot){cx.beginPath();for(let i=0;i<6;i++){const a=rot+i*Math.PI/3;cx[i?"lineTo":"moveTo"](x+r*Math.cos(a),y+r*Math.sin(a))}cx.closePath()}
+function frame(){t+=1;const sp=1+boost*3+collapse*14;boost*=.96;
+  cx.fillStyle="rgba(3,5,12,.34)";cx.fillRect(0,0,W,H);
+  const ox=(mx-.5)*40*DPR,oy=(my-.5)*30*DPR,X=core.x+ox*.3,Y=core.y+oy*.3;
+  /* rails of data */
+  cx.font=`${10*DPR}px IBM Plex Mono, monospace`;
+  rails.forEach(r=>{r.o+=r.s*r.d*sp*1.6*DPR;if(r.o>W+300)r.o=-300;if(r.o<-300)r.o=W+300;const y=r.y*H;
+    const g=cx.createLinearGradient(r.o-r.w*DPR,0,r.o,0);g.addColorStop(0,"rgba(95,140,255,0)");g.addColorStop(1,"rgba(159,208,255,.35)");
+    cx.fillStyle=g;cx.fillRect(r.o-r.w*DPR,y,r.w*DPR,1*DPR);if(t%3===0&&Math.random()<.02){cx.fillStyle="rgba(159,208,255,.28)";cx.fillText(Math.random().toString(16).slice(2,10),r.o,y-4*DPR)}});
+  /* stars spiralling inward */
+  stars.forEach(s=>{s.r-=s.s*sp*DPR*(.6+s.z);s.a+=.0009*sp;if(s.r<24*DPR){Object.assign(s,mk(false))}
+    const x=X+Math.cos(s.a)*s.r+ox*s.z,y=Y+Math.sin(s.a)*s.r*.62+oy*s.z,al=Math.min(1,s.r/(200*DPR))*(.35+.65*Math.abs(Math.sin(t*.02+s.tw)));
+    cx.fillStyle=`rgba(${170+s.z*60|0},${200+s.z*40|0},255,${al})`;cx.fillRect(x,y,(1+s.z*1.6)*DPR,(1+s.z*1.6)*DPR)});
+  /* beams */
+  const pulse=.6+.4*Math.sin(t*.03);
+  [[W,1],[H*.9,0]].forEach(([len,hz])=>{const g=hz?cx.createLinearGradient(X-len,0,X+len,0):cx.createLinearGradient(0,Y-len,0,Y+len);
+    g.addColorStop(0,"rgba(95,140,255,0)");g.addColorStop(.5,`rgba(200,225,255,${.55*pulse+collapse})`);g.addColorStop(1,"rgba(95,140,255,0)");cx.fillStyle=g;hz?cx.fillRect(X-len,Y-.8*DPR,len*2,1.6*DPR):cx.fillRect(X-.8*DPR,Y-len,1.6*DPR,len*2)});
+  /* rings */
+  for(let i=0;i<5;i++){const r=((t*.6*sp+i*60)%300)*DPR+40*DPR;cx.strokeStyle=`rgba(159,208,255,${(1-r/(340*DPR))*.35})`;cx.lineWidth=1*DPR;cx.beginPath();cx.ellipse(X,Y,r,r*.92,0,0,Math.PI*2);cx.stroke()}
+  /* core */
+  const R=(38+6*pulse)*DPR*(1-collapse*.6),glow=cx.createRadialGradient(X,Y,0,X,Y,R*4.5);glow.addColorStop(0,`rgba(220,236,255,${.9})`);glow.addColorStop(.25,"rgba(95,140,255,.45)");glow.addColorStop(1,"rgba(95,140,255,0)");
+  cx.fillStyle=glow;cx.beginPath();cx.arc(X,Y,R*4.5,0,Math.PI*2);cx.fill();
+  hex(X,Y,R,Math.PI/6+t*.002);cx.fillStyle="rgba(6,10,24,.92)";cx.fill();cx.strokeStyle="rgba(210,230,255,.95)";cx.lineWidth=2*DPR;cx.stroke();
+  hex(X,Y,R*1.35,Math.PI/6-t*.003);cx.strokeStyle="rgba(159,208,255,.35)";cx.lineWidth=1*DPR;cx.stroke();
+  /* keyhole */
+  cx.fillStyle="rgba(210,230,255,.95)";cx.beginPath();cx.arc(X,Y-R*.18,R*.17,0,Math.PI*2);cx.fill();cx.fillRect(X-R*.07,Y-R*.12,R*.14,R*.42);
+  if(!reduce||t<2)requestAnimationFrame(frame)}
+addEventListener("resize",size);addEventListener("pointermove",e=>{mx=e.clientX/innerWidth;my=e.clientY/innerHeight});
+size();cx.fillStyle="#03050c";cx.fillRect(0,0,W,H);frame();
+
+/* ticker of live-looking system lines (describes this page, not Bondl data) */
+const tk=document.getElementById("ticker");const lines=[["SESSION","server gate"],["CIPHER","AES-256-GCM"],["KEY","PBKDF2 · 310,000 rounds"],["STORAGE","this MacBook only"],["IDLE LOCK","15 min"]];
+tk.innerHTML=lines.map(l=>`<span>${l[0]} <b>${l[1]}</b></span>`).join("");
+
+/* sign in */
+const f=document.getElementById("f"),u=document.getElementById("u"),p=document.getElementById("p"),go=document.getElementById("go"),msg=document.getElementById("msg");
+document.getElementById("eye").onclick=e=>{const s=p.type==="password";p.type=s?"text":"password";e.target.textContent=s?"HIDE":"SHOW";p.focus()};
+[u,p].forEach(i=>i.addEventListener("input",()=>{boost=Math.min(1,boost+.25);msg.textContent=""}));
+const SALT="hayat-business-canvas-v1",ITER=310000;
+async function deriveKey(pw){const base=await crypto.subtle.importKey("raw",new TextEncoder().encode(pw),"PBKDF2",false,["deriveKey"]);
+  return crypto.subtle.deriveKey({name:"PBKDF2",salt:new TextEncoder().encode(SALT),iterations:ITER,hash:"SHA-256"},base,{name:"AES-GCM",length:256},false,["encrypt","decrypt"])}
+function idb(){return new Promise((res,rej)=>{const r=indexedDB.open("hayat-canvas",1);r.onupgradeneeded=()=>{r.result.createObjectStore("kv")};r.onsuccess=()=>res(r.result);r.onerror=()=>rej(r.error)})}
+async function putKey(k){const db=await idb();await new Promise((res,rej)=>{const tx=db.transaction("kv","readwrite");tx.objectStore("kv").put(k,"key");tx.oncomplete=res;tx.onerror=()=>rej(tx.error)})}
+f.addEventListener("submit",async e=>{e.preventDefault();if(!u.value||!p.value){msg.className="msg bad";msg.textContent="Enter your username and password.";return}
+  go.disabled=true;go.textContent="Checking";msg.className="msg";msg.textContent="";
+  try{const r=await fetch("/bondl/auth",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({u:u.value,p:p.value}),credentials:"same-origin"});
+    if(!r.ok)throw new Error("bad");
+    go.textContent="Unlocking";await putKey(await deriveKey(p.value));p.value="";
+    msg.className="msg ok";msg.textContent="Verified. Opening your canvas.";collapse=0;const iv=setInterval(()=>{collapse=Math.min(1,collapse+.05)},30);
+    setTimeout(()=>document.getElementById("flash").classList.add("on"),500);setTimeout(()=>{clearInterval(iv);location.href="/bondl/"},1500)}
+  catch(err){go.disabled=false;go.textContent="Unlock canvas";msg.className="msg bad";msg.textContent="That username or password is not right.";f.classList.remove("shake");void f.offsetWidth;f.classList.add("shake");p.select()}});
+u.focus();
+</script>
+</body>
+</html>

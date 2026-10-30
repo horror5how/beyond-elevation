@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Hayat Amin Business Canvas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="/bondl/app.css?v=1">
+</head>
+<body>
+<div id="boot" class="screen"><div class="spinner" aria-label="Opening"></div></div>
+
+<div id="gate" class="screen" hidden>
+  <div class="gatecard">
+    <span class="label">Step 1 of 1 · this MacBook</span>
+    <h1>Open your canvas file</h1>
+    <p>Your canvas lives in an encrypted file on this Mac, in <b>~/BondlCanvas</b>. Choose it once. After that it stays in this browser on this Mac and saves back to the same file as you work.</p>
+    <div class="row"><button class="btn primary" id="pick">Choose canvas file</button><input type="file" id="fileIn" accept=".canvas,.json,application/json" hidden></div>
+    <p class="label" id="gateMsg" style="margin-top:20px"></p>
+  </div>
+</div>
+
+<div id="app" hidden>
+  <header class="bar"><div class="wrap in">
+    <div class="brand"><img src="/bondl/img/hayat.jpg" alt=""><b>Hayat Amin</b></div>
+    <nav class="tabs" aria-label="Views" id="tabs"></nav>
+    <button class="icon-btn" id="cmdBtn" aria-label="Search and commands (Cmd K)"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button>
+    <button class="xp" id="xpBtn" aria-label="Level and badges"><span class="lv" id="lv">1</span><b id="xpNum">0 XP</b><span id="lvName"></span></button>
+    <span class="lockpill" id="lockpill"><i></i><span id="saveTxt">Saved on this Mac</span></span>
+    <button class="icon-btn" id="themeBtn" aria-label="Switch light or dark"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.4 1.4M17.6 17.6L19 19M5 19l1.4-1.4M17.6 6.4L19 5"/></svg></button>
+    <button class="icon-btn" id="lockBtn" aria-label="Lock canvas"><svg viewBox="0 0 24 24"><rect x="4" y="11" width="16" height="10"/><path d="M8 11V7a4 4 0 018 0v4"/></svg></button>
+  </div></header>
+  <main id="main"></main>
+  <nav class="mobilebar" id="mobilebar" aria-label="Views"></nav>
+  <button class="orb" id="orb" aria-label="Progress and badges"><svg viewBox="0 0 62 62"><circle cx="31" cy="31" r="26" fill="none" stroke="var(--line)" stroke-width="5"/><circle id="orbArc" cx="31" cy="31" r="26" fill="none" stroke="var(--accent)" stroke-width="5" pathLength="100" stroke-dasharray="0 100" transform="rotate(-90 31 31)" style="transition:stroke-dasharray .8s"/><text id="orbTxt" x="31" y="36" text-anchor="middle" style="font:700 14px var(--sans);fill:var(--ink)">0%</text></svg></button>
+</div>
+<div id="layer"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<canvas id="fx" aria-hidden="true"></canvas>
+<script src="/bondl/app.js?v=1"></script>
+</body>
+</html>
