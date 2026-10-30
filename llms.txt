@@ -527,5 +527,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Company Created IP All Year. Nobody Checked Whether You Still Own It. The Year-End IP Review Checklist.](https://beyondelevation.com/insights/year-end-ip-review-cipo-checklist) — /insights/md/year-end-ip-review-cipo-checklist.md
 - [5 Cap Table Errors That Cost Founders Equity Before the Term Sheet Arrives](https://beyondelevation.com/insights/cap-table-cleanup-before-fundraising) — /insights/md/cap-table-cleanup-before-fundraising.md
 - [The Operating Model That Lets a 15-Person Company Run Like a 50-Person One](https://beyondelevation.com/insights/lean-operating-model-fractional-executives) — /insights/md/lean-operating-model-fractional-executives.md
+- [Your First External Audit Will Expose Every Finance Shortcut — Here Is the 90-Day Fix](https://beyondelevation.com/insights/first-external-audit-preparation-checklist) — /insights/md/first-external-audit-preparation-checklist.md
 
 > Full blog content available at /llms-full.txt
