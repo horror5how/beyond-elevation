@@ -1,20 +1,17 @@
-Your AI model was 94% accurate on launch day.
+Your 2027 budget has 3 line items that will kill your fundraise.
 
-Did you check it last month?
+AI spend categorised as OpEx.
 
-By month 6 without retraining, accuracy drops to 71%.
+Your acquirer reclassifies it as COGS — cutting gross margin by 12 points on the model.
 
-Your team trusts it. They stopped questioning it.
+IP budget buried in Legal.
 
-That's not a technology problem. That's an operations gap.
+VCs apply 8× to licensing revenue. You have zero licensing revenue.
 
-AI operations means drift monitoring, retraining schedules, accuracy benchmarks.
+Headcount plan built for 2024 growth rates.
 
-Without a human owner on each model, you paid to build a liability.
+Your competitor runs the same revenue with 40% fewer people. That gap shows up in every benchmark.
 
-3 moves before Q4 closes:
-→ Audit accuracy on every live model
-→ Set monthly drift thresholds with alerts
-→ Assign a named owner to each model
+Fix the categorisation before January.
 
-#AIOperations #AIStrategy #FractionalExecutive
+#FractionalCFO #AIOperations #IPStrategy
