@@ -8960,3 +8960,19 @@ AI tool sprawl is the uncontrolled accumulation of AI subscriptions across an or
 The pattern is predictable. Marketing buys a content generator. Sales buys a call summarizer. Finance buys an invoice processor. Customer support buys a ticket classifier. Each tool works in isolation. None of them talk to each other, and none of them feed data back into a central syste
 
 ---
+
+## Half Your Patents Are Liabilities: The IP Portfolio Pruning Playbook That Saves Six Figures a Year
+
+URL: https://beyondelevation.com/insights/ip-portfolio-pruning-playbook
+
+Half your patent portfolio is costing you money every year with nothing to show for it. IP portfolio pruning — the disciplined annual review that kills underperforming patents and doubles down on the winners — is the single highest-ROI exercise a patent-holding company can run. Most never do it.
+
+According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now account for 90% of S&P 500 market capitalisation. Yet a 2024 Dennemeyer study found that 40–60% of patents in a typical corporate portfolio generate no licensing revenue and provide no measurable defensive value. Hayat Amin argues this gap is not a filing problem — it is a management problem. "Companies file patents because their attorneys tell them to. Nobody asks whether the patent earns its keep three years later," Amin says. The fix is not to file less. It is to prune harder.
+
+## What Is IP Portfolio Pruning?
+
+IP portfolio pruning is the systematic process of evaluating every patent in a portfolio against revenue potential, defensive coverage, and maintenance cost — then abandoning the assets that fail all three tests. It is the IP equivalent of cutting underperforming products from a product line. Companies that prune annually save an average of $50,000 to $500,000 per year in maintenance fees alone, depending on portfolio size.
+
+Most companies treat their patent portfolio as a filing cabinet — they add to it but never subtract. This creates a compounding cost problem. Patent maintenance fe
+
+---
