@@ -1,15 +1,20 @@
-Running on fractional executives + AI is the new operating model.
+Your AI model was 94% accurate on launch day.
 
-Full-time CFO, CIPO, COO: £600K in annual salary.
+Did you check it last month?
 
-Fractional CFO + CIPO + AI operations: £120K.
+By month 6 without retraining, accuracy drops to 71%.
 
-Same decisions. Faster execution. Zero empire-building.
+Your team trusts it. They stopped questioning it.
 
-Companies running this model close in 2 days. They forecast in hours. They licence IP most founders never knew they had.
+That's not a technology problem. That's an operations gap.
 
-Your board still thinks this is a startup trick.
+AI operations means drift monitoring, retraining schedules, accuracy benchmarks.
 
-It's not. It's how serious operators run lean in 2026.
+Without a human owner on each model, you paid to build a liability.
 
-#FractionalExecutive #AIOperations #BeyondElevation
+3 moves before Q4 closes:
+→ Audit accuracy on every live model
+→ Set monthly drift thresholds with alerts
+→ Assign a named owner to each model
+
+#AIOperations #AIStrategy #FractionalExecutive

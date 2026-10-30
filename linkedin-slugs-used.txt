@@ -822,3 +822,4 @@ ai-agent-decision-audit-2026
 gross-margin-vs-contribution-margin-2026
 patent-portfolio-licensable-audit-2026
 fractional-plus-ai-operating-model-2026
+ai-model-drift-operations-gap-2026
