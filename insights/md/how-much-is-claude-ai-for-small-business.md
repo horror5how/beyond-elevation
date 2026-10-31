@@ -15,7 +15,7 @@ Hayat Amin sold three companies as a chief financial officer and now builds AI o
 
 ## Every Claude plan, priced
 
-Anthropic sells five ways in. Here's each one as the pricing page lists it today:
+Anthropic sells five ways in. This is each one, as the pricing page lists it today:
 
 - Free: 0 dollars. Chat, web search, files and connected apps, with lower usage limits.
 
@@ -31,7 +31,7 @@ If you're one person, Pro is where nearly everyone should start. If you've got s
 
 ## what a team of 1, 5 and 20 pays
 
-Here's the arithmetic for the three company sizes we're asked about most. It's ours, off the published seat prices.
+This is the arithmetic for the three company sizes we're asked about most. It's ours, off the published seat prices.
 
 - One owner on Pro: 240 dollars a year paid monthly, or 200 dollars paid annually.
 

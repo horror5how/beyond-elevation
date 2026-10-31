@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 To automate SOPs, don't paste the document into a prompt. Split it: every step that's a fixed rule goes to an automation tool, every step that needs judgement goes to a model with one narrow job, and a person approves anything a client will see. That's the whole method.
 
-Hayat Amin ran finance through three company exits as a chief financial officer and now builds AI operations inside companies himself, so this is written from the build, not from a slide. A thread on r/Entrepreneur asked the question more bluntly: why do most agency SOPs fail when they're turned into prompts? Here's the straight answer, and the framework we use instead.
+Hayat Amin ran finance through three company exits as a chief financial officer and now builds AI operations inside companies himself, so this is written from the build, not from a slide. A thread on r/Entrepreneur asked the question more bluntly: why do most agency SOPs fail when they're turned into prompts? That's the question this piece answers, along with the framework we use instead.
 
 ## why most agency SOPs fail when turned into prompts
 
@@ -21,7 +21,7 @@ An SOP is written for a person who already works at the agency. It assumes they 
 
 - Steps say "check" or "make sure" with no test for passing. A person fills the gap with experience. A model fills it with a guess.
 
-- The whole SOP goes into one prompt. A 20 step client onboarding in a single instruction gives the model 20 chances to skip a step, and nothing tells you which one it skipped.
+- The whole SOP goes into one prompt. A 20-step client onboarding in a single instruction gives the model 20 chances to skip a step, and nothing tells you which one it skipped.
 
 - The SOP only covers the easy case. It says what to do when the client sends everything on time. It says nothing about the client who sends half the assets two days late, which is most of them.
 
@@ -29,7 +29,7 @@ An SOP is written for a person who already works at the agency. It assumes they 
 
 - The document describes how the team says they work, not how they do. The account manager who's run the monthly report for 3 years skips 2 steps and adds 4 that aren't written down.
 
-None of this is a model problem. It's a document written for the wrong reader.
+The problem is the document, not the model. It's written for the wrong reader.
 
 ## what the people who build agents say
 
