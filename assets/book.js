@@ -181,7 +181,7 @@
   async function load(quiet) {
     if (!quiet) root.innerHTML = `<p class="bk-hint">Checking the diary…</p>`;
     try {
-      const r = await fetch(`/api/slots?s=${encodeURIComponent(source)}${["from", "to"].filter((k) => qs.get(k)).map((k) => `&${k}=${encodeURIComponent(qs.get(k))}`).join("")}`, { cache: "no-store" });
+      const r = await fetch(`/api/slots?s=${encodeURIComponent(source)}${["from", "to", "w"].filter((k) => qs.get(k)).map((k) => `&${k}=${encodeURIComponent(qs.get(k))}`).join("")}`, { cache: "no-store" });
       if (!r.ok) throw new Error(r.status);
       data = await r.json();
       rawSlots = data.slots || []; // an empty list is a real answer (fully booked, or a paused link), not an outage
