@@ -1,17 +1,17 @@
-Most companies pay £40,000 a year for IP legal advice and collect £0 in licensing income.
+73% of AI rollouts last year missed their ROI target.
 
-The legal bill is not an IP strategy.
+Not because the AI was bad. Because no one owned the process.
 
-A Chief IP Officer runs IP as a P&L line, not a cost centre.
+Before Q4 closes, make these 3 moves:
 
-What they deliver in 90 days:
+1. Assign an AI Operations owner (not your CTO — they're building, not running)
 
-IP audit — which assets are licensable, which are dead weight
+2. Kill every AI tool with no measurable output after 60 days of use
 
-3 live licensing conversations with named counterparties
+3. Reclassify AI spend in your accounts — it changes your EBITDA multiple
 
-Board slide with a DCF on the IP portfolio, not just a patent count
+Companies that do this cut operational overhead by 31%.
 
-Month 3: first term sheet on the table.
+Those that don't enter 2027 paying for tools running blind.
 
-#IPStrategy #FractionalExecutive #ChiefIPOfficer
+#AIOperations #FractionalCFO #Q4
