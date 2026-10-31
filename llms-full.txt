@@ -9014,3 +9014,19 @@ An SOP is written for a person who already works at the agency. It assumes they 
 - The SOP only covers the easy case. It says what to do when the client sends everything 
 
 ---
+
+## One Client Owns 40% of Your Revenue. Investors Just Knocked 40% Off Your Valuation.
+
+URL: https://beyondelevation.com/insights/customer-concentration-risk-valuation-discount
+
+Customer concentration risk is the single fastest way to kill a startup valuation that looks healthy from every other angle. One client pays 40 percent of your revenue. Investors see a company worth 40 percent less. The math is that blunt, and most founders discover it three weeks before the term sheet.
+
+According to Houlihan Lokey's 2024 middle-market M&A report, targets where a single customer exceeded 25 percent of revenue received acquisition offers 22 to 38 percent below comparable peers with diversified revenue. Hayat Amin calls this the revenue dependency trap: "Founders celebrate landing a whale account. Investors price the risk that the whale leaves. A fractional CFO tracks concentration monthly so it never becomes a data room surprise."
+
+## What Is Customer Concentration Risk?
+
+Customer concentration risk is the financial exposure a company faces when a disproportionate share of revenue depends on one or a small number of clients. If your top customer accounts for more than 20 percent of revenue, your business carries a structural fragility that investors and acquirers price into every negotiation. It is not a sales metric. It is a valuation metric.
+
+Most founders track customer count. Few track customer revenue distribution. The difference matters because a company with 200 customers and one paying 45 percent of total revenue is more fragile than a company with 50 customers where none exceeds 8 percent. Revenue diversity, not customer count, is what underwriters an
+
+---

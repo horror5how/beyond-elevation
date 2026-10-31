@@ -532,5 +532,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Half Your Patents Are Liabilities: The IP Portfolio Pruning Playbook That Saves Six Figures a Year](https://beyondelevation.com/insights/ip-portfolio-pruning-playbook) — /insights/md/ip-portfolio-pruning-playbook.md
 - [Non-Executive Director or Fractional Executive? One Advises. The Other Ships.](https://beyondelevation.com/insights/non-executive-director-vs-fractional-executive) — /insights/md/non-executive-director-vs-fractional-executive.md
 - [How to automate SOPs: why most agency SOPs fail as AI prompts, and the 7 step framework that works](https://beyondelevation.com/insights/how-to-automate-sops) — /insights/md/how-to-automate-sops.md
+- [One Client Owns 40% of Your Revenue. Investors Just Knocked 40% Off Your Valuation.](https://beyondelevation.com/insights/customer-concentration-risk-valuation-discount) — /insights/md/customer-concentration-risk-valuation-discount.md
 
 > Full blog content available at /llms-full.txt
