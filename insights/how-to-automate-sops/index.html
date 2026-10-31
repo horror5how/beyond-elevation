@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to automate SOPs: why most agency SOPs fail as AI prompts, and the 7 step framework that works</title>
+<meta name="description" content="To automate SOPs, split each one into rules and judgements: rules go to Zapier, Make or n8n, judgements go to a model with one narrow job, and a person">
+<link rel="stylesheet" href="/assets/fonts/fonts.css">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="canonical" href="https://beyondelevation.com/insights/how-to-automate-sops">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="theme-color" content="#FFFFFF">
+<meta property="og:url" content="https://beyondelevation.com/insights/how-to-automate-sops">
+<meta property="og:image" content="https://beyondelevation.com/assets/img/insights/how-to-automate-sops.jpg">
+<meta property="og:title" content="How to automate SOPs: why most agency SOPs fail as AI prompts, and the 7 step framework that works">
+<meta property="og:description" content="To automate SOPs, split each one into rules and judgements: rules go to Zapier, Make or n8n, judgements go to a model with one narrow job, and a person">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2026-10-31">
+<meta property="article:modified_time" content="2026-10-31">
+<link rel="stylesheet" href="/assets/style.css?v=45">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"How to automate SOPs: why most agency SOPs fail as AI prompts, and the 7 step framework that works","description":"To automate SOPs, split each one into rules and judgements: rules go to Zapier, Make or n8n, judgements go to a model with one narrow job, and a person","image":"https://beyondelevation.com/assets/img/insights/how-to-automate-sops.jpg","datePublished":"2026-10-31","dateModified":"2026-10-31","author":{"@type":"Person","name":"Hayat Amin","jobTitle":"Chief Financial Officer turned Forward Deployed Engineer","url":"https://beyondelevation.com/about","sameAs":["https://meethayat.com","https://beyondelevation.com","https://www.linkedin.com/in/hayatamin"],"description":"Hayat Amin has spent twenty years in technology and sold three companies as Chief Financial Officer, with American Express and TripAdvisor among the buyers, and three Financial Times 100 fastest growing companies listings. A CFO turned forward deployed engineer, he builds AI operations inside companies himself, connects systems that do not talk to each other, builds real-time dashboards a chief executive can run the week on, and works on intellectual property and data asset valuation and monetisation. Available for fractional CFO and AI operations work through Beyond Elevation."},"publisher":{"@type":"Organization","name":"Beyond Elevation","url":"https://beyondelevation.com","logo":{"@type":"ImageObject","url":"https://beyondelevation.com/assets/img/insights/how-to-automate-sops.jpg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://beyondelevation.com/insights/how-to-automate-sops"},"articleSection":"AI Operations"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://beyondelevation.com"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://beyondelevation.com/insights/"},{"@type":"ListItem","position":3,"name":"How to automate SOPs: why most agency SOPs fail as AI prompts, and the 7 step framework that works","item":"https://beyondelevation.com/insights/how-to-automate-sops"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you automate SOPs?","acceptedAnswer":{"@type":"Answer","text":"Rewrite the SOP as it's done, label each step a rule or a judgement, send the rules to an automation tool such as Zapier, Make or n8n, give each judgement to a model as one narrow job, and have a person approve anything a client sees."}},{"@type":"Question","name":"What are the best SOP automation tools?","acceptedAnswer":{"@type":"Answer","text":"For the rule steps, Zapier, Make and n8n all do the job. Zapier's Pro plan starts at 19.99 dollars a month billed annually for 750 tasks, and n8n's Starter is 20 euros a month billed annually. The judgement steps need a model, called from inside the same workflow."}},{"@type":"Question","name":"Can AI do SOP automation on its own?","acceptedAnswer":{"@type":"Answer","text":"Not well. OpenAI's own guide says a deterministic solution may suffice where a job doesn't need judgement, and Anthropic advises the simplest solution possible. Use the model for the few steps that need it, and rules for the rest."}},{"@type":"Question","name":"What is the difference between an SOP and a workflow?","acceptedAnswer":{"@type":"Answer","text":"An SOP is the written instruction for a person. A workflow is the sequence a system runs. Automating an SOP means turning the first into the second, with every step made explicit enough that a machine can't misread it."}},{"@type":"Question","name":"Should I use an AI SOP generator?","acceptedAnswer":{"@type":"Answer","text":"For writing the document, it can save time. For automating it, the generator doesn't help, because it writes the SOP the way people say they work. Watch one real run first, then write."}}]}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="nav">
+  <a class="brand" href="/"><span class="mark"></span>Beyond&nbsp;Elevation</a>
+  <nav class="navlinks">
+    <a href="/cfo">Chief Financial Officer</a>
+    <a href="/ip">Chief IP Officer</a>
+    <a href="/fde">AI Operations (FDE)</a>
+    <a href="/case-studies">Case Studies</a>
+    <a class="on" href="/insights">Insights</a>
+    <a href="/about">About</a>
+  </nav>
+  <div class="navcta">
+    <a class="btn" href="/call">Book a free call <span class="arw">↗</span></a>
+  </div>
+  <button class="menubtn" aria-label="Menu" aria-expanded="false" type="button"><span></span><span></span><span></span></button>
+  <nav class="mobilemenu" aria-label="Menu">
+    <div class="mm-grid">
+      <div><p class="mono">The three positions</p><a href="/cfo">Chief Financial Officer</a><a href="/ip">Chief IP Officer</a><a href="/fde">AI Operations (FDE)</a><a href="/which-seat">Which position do I need?</a></div>
+      <div><p class="mono">Proof</p><a href="/case-studies">Case studies</a><a href="/insights">Insights</a><a href="/faq">Questions, answered</a></div>
+      <div><p class="mono">Company</p><a href="/about">About</a><a href="/how-it-works">How it works</a><a href="/contact">Contact</a><a href="/privacy">Privacy policy</a></div>
+      <div class="mm-contact"><p class="mono">Talk to us</p><p><a href="/call">Book a free call</a></p><p><a href="tel:+15713807699">+1 571 380 7699</a></p><p><a href="tel:+447476383531">+44 7476 383531</a></p><p><a href="tel:+971521125754">+971 52 112 5754</a></p><p><a href="mailto:clara.hawkins@beyondelevation.com">clara.hawkins@beyondelevation.com</a></p></div>
+    </div>
+  </nav>
+</header>
+<div id="main"></div>
+
+<main class="article">
+  <p class="mono">AI Operations (FDE) insight</p>
+  <h1>How to automate SOPs: why most agency SOPs fail as AI prompts, and the 7 step framework that works</h1>
+  <p class="mono">Hayat Amin · Updated 2026-10-31</p>
+  <img class="article-hero" src="/assets/img/insights/how-to-automate-sops.jpg" alt="How to automate SOPs: why most agency SOPs fail as AI prompts, and the 7 step framework that works" style="width:100%;height:auto;display:block;margin:26px 0 6px;border:1px solid var(--line)" decoding="async">
+  <p class="standfirst">To automate SOPs, split each one into rules and judgements: rules go to Zapier, Make or n8n, judgements go to a model with one narrow job, and a person approves anything a client sees. Here is why pasting an SOP into a prompt fails, and the 7 steps that work.</p>
+  <p>To automate SOPs, don't paste the document into a prompt. Split it: every step that's a fixed rule goes to an automation tool, every step that needs judgement goes to a model with one narrow job, and a person approves anything a client will see. That's the whole method.</p>
+
+<p>Hayat Amin ran finance through three company exits as a chief financial officer and now builds AI operations inside companies himself, so this is written from the build, not from a slide. A thread on r/Entrepreneur asked the question more bluntly: why do most agency SOPs fail when they're turned into prompts? Here's the straight answer, and the framework we use instead.</p>
+
+<h2>why most agency SOPs fail when turned into prompts</h2>
+
+<p>An SOP is written for a person who already works at the agency. It assumes they know the client, the tone, which folder the logins are in and what "good" looks like. A model knows none of that. These are the six failures that break them:</p>
+
+<ul>
+<li>The context lives in someone's head. "Use the usual tone for this client" means nothing to a model unless the usual tone is written down.</li>
+<li>Steps say "check" or "make sure" with no test for passing. A person fills the gap with experience. A model fills it with a guess.</li>
+<li>The whole SOP goes into one prompt. A 20 step client onboarding in a single instruction gives the model 20 chances to skip a step, and nothing tells you which one it skipped.</li>
+<li>The SOP only covers the easy case. It says what to do when the client sends everything on time. It says nothing about the client who sends half the assets two days late, which is most of them.</li>
+<li>The model is asked to do arithmetic, dates and routing. Those are rules. A rule engine gets them right every time, and a model only gets them right most times.</li>
+<li>The document describes how the team says they work, not how they do. The account manager who's run the monthly report for 3 years skips 2 steps and adds 4 that aren't written down.</li>
+</ul>
+
+<p>None of this is a model problem. It's a document written for the wrong reader.</p>
+
+<h2>what the people who build agents say</h2>
+
+<p>OpenAI's practical guide to building agents tells teams to start from the documents they already have: "use existing operating procedures, support scripts, or policy documents to create LLM-friendly routines." It then gives 4 rules for those routines. Use existing documents, ask the model to break dense material into smaller steps, make every step correspond to a specific action or output, and capture the edge cases with conditional branches for when information is missing.</p>
+
+<p>Anthropic's Building effective agents, published on 19 December 2024, draws the line that matters for an agency owner. A workflow is a system where models and tools are "orchestrated through predefined code paths". An agent is one where the model directs its own process. Anthropic's advice is to find "the simplest solution possible" and only add complexity when it's needed. For most SOPs that means a workflow, not an agent. Our longer explanation is in <a href="/insights/what-is-an-ai-agent-for-small-business/">what an AI agent for small business is</a>.</p>
+
+<p>OpenAI's guide also says that before you build an agent you should check the job involves complex judgement, rules that have become hard to maintain, or a lot of unstructured text. If it doesn't, "a deterministic solution may suffice." Most of an agency SOP is deterministic. Only a few steps aren't.</p>
+
+<h2>the framework: 7 steps from SOP to automation</h2>
+
+<p>This is the order we work in. Skip a step and the build usually fails at the place you skipped.</p>
+
+<h3>1. pick the SOP that runs most often</h3>
+
+<p>Count runs per month, not hours per run. The monthly client report, new client onboarding, the weekly status email and invoice chasing usually win, because they repeat with the same inputs. A process that runs twice a year isn't worth the build, however painful it is.</p>
+
+<h3>2. rewrite it as it's done</h3>
+
+<p>Sit with the person who runs it, or record their screen for one full run, and write down every click. Note each system they open. In an agency that's usually some mix of HubSpot or Pipedrive, ClickUp or Asana, Google Drive, Slack, Google Analytics and QuickBooks. You'll find the steps that aren't in the document, and the ones in the document nobody does.</p>
+
+<h3>3. label every step a rule or a judgement</h3>
+
+<p>A rule has one right answer: pull last month's numbers, file the PDF in the client folder, create the task, send the reminder on day 7. A judgement doesn't: write the two paragraphs explaining why traffic fell, decide whether a client email is a complaint. In a typical agency SOP, most of the steps are rules. Rules go to Zapier, Make or n8n. Only the judgements go to a model.</p>
+
+<h3>4. give each judgement one job</h3>
+
+<p>Anthropic calls this prompt chaining: each model call takes the output of the last one. One call drafts the commentary from the numbers. A second checks the draft against the client's notes. Every call has one input, one output and a test you can read. That's OpenAI's "define clear actions" rule in practice.</p>
+
+<h3>5. write the edge cases down</h3>
+
+<p>For each step, ask what happens when the input is missing, late or wrong, and write the branch. If the client hasn't sent the ad spend by the 3rd, the workflow posts in Slack and waits. It doesn't guess the number.</p>
+
+<h3>6. put a person in front of the client</h3>
+
+<p>OpenAI's guide names 2 triggers for handing control back to a human: the system exceeds a set number of retries or failures, or the action is sensitive, irreversible or high stakes. For an agency, anything a client reads is high stakes. The draft goes to the account manager, they approve it, and only then does it send.</p>
+
+<h3>7. run it beside the person for 4 weeks</h3>
+
+<p>Let the automation and the person both do the job for a month and compare the outputs side by side. Switch over when the automation's misses are fewer than the person's. That's our rule of thumb, and it's what earns the team's trust in the build.</p>
+
+<h2>a worked example: the monthly client report</h2>
+
+<p>Take an agency with 25 retainer clients, each getting a monthly report that takes an account manager 3 hours. That's our assumption, and it's 75 hours a month. Split by the framework, the report has perhaps 10 rule steps: pull the numbers from Google Analytics and the ad platforms, drop them into the template, compare against last month, file it, create the review task. It has 2 judgement steps: write the commentary and flag anything the client will ask about.</p>
+
+<p>The rule steps run in an automation tool. Say each report uses 10 tasks in Zapier, which is our estimate, so 25 reports use 250 tasks a month. Zapier's Pro plan with 750 tasks a month is 19.99 dollars a month billed annually, or 29.99 billed monthly, and it's the cheapest plan that includes Zapier's own AI steps and Paths. n8n's Starter plan is 20 euros a month billed annually for 2,500 workflow executions, and n8n publishes a self hosted version on GitHub. The judgement steps are the model calls. The account manager's 3 hours become a read and an approve.</p>
+
+<p>The software is the cheap line. The time goes into steps 2 and 5, finding out how the report is made and writing down what happens when it goes wrong. We compared the tools in more depth in <a href="/insights/best-ai-workflow-automation-platform/">the best AI workflow automation platform</a>, and the mechanics are in <a href="/insights/how-does-workflow-automation-work/">how workflow automation works</a>.</p>
+
+<h2>what Beyond Elevation does about this</h2>
+
+<p>If your SOPs are already clean and someone on the team likes building in Zapier, you can do this yourself with the 7 steps above, and you don't need us. Most agencies have the SOPs and no one with the time to do steps 2 and 5. That's what Beyond Elevation does for small and mid sized companies in New York, across the United States and in London: Hayat Amin and the team sit with the people who run the process, rebuild it as rules and judgements, connect the systems that don't talk to each other, and stay until the team trusts the output. Our prices are published. A two week AI audit is 3,000 dollars fixed, projects start from 30,000 dollars over 8 to 14 weeks, and fractional work starts from 5,800 dollars a month. It's our <a href="/fde">forward deployed engineering</a> work, and you can book it at <a href="https://meethayat.com/services/fde">meethayat.com/services/fde</a>. For the wider picture, start with <a href="/insights/how-can-i-automate-my-business/">how to automate your business</a>.</p>
+
+<h2>About Hayat Amin</h2>
+
+<p>Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's exceptional at the unglamorous part of automation that decides whether it works: watching how a process is run, connecting the systems a company already pays for, and putting a real time dashboard in front of the chief executive so the hours saved show up every week. He also works on intellectual property and data asset valuation and monetisation, and sits beside founders from the first conversation to the wire transfer on an exit. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at <a href="https://meethayat.com/services/fde">meethayat.com/services/fde</a>.</p>
+
+<p>If you'd like to know which of your own SOPs are worth automating first, we do a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at <a href="https://beyondelevation.com/call/audit">beyondelevation.com/call/audit</a>.</p>
+
+<h2>Frequently asked questions</h2>
+
+<h3>How do you automate SOPs?</h3>
+<p>Rewrite the SOP as it's done, label each step a rule or a judgement, send the rules to an automation tool such as Zapier, Make or n8n, give each judgement to a model as one narrow job, and have a person approve anything a client sees.</p>
+
+<h3>What are the best SOP automation tools?</h3>
+<p>For the rule steps, Zapier, Make and n8n all do the job. Zapier's Pro plan starts at 19.99 dollars a month billed annually for 750 tasks, and n8n's Starter is 20 euros a month billed annually. The judgement steps need a model, called from inside the same workflow.</p>
+
+<h3>Can AI do SOP automation on its own?</h3>
+<p>Not well. OpenAI's own guide says a deterministic solution may suffice where a job doesn't need judgement, and Anthropic advises the simplest solution possible. Use the model for the few steps that need it, and rules for the rest.</p>
+
+<h3>What is the difference between an SOP and a workflow?</h3>
+<p>An SOP is the written instruction for a person. A workflow is the sequence a system runs. Automating an SOP means turning the first into the second, with every step made explicit enough that a machine can't misread it.</p>
+
+<h3>Should I use an AI SOP generator?</h3>
+<p>For writing the document, it can save time. For automating it, the generator doesn't help, because it writes the SOP the way people say they work. Watch one real run first, then write.</p>
+
+</main>
+
+<section class="storynav" style="border-top:0;padding-top:0">
+  <a href="/fde"><p class="mono">The position behind it</p><b>The AI Operations (FDE) position →</b></a>
+  <a href="/insights"><p class="mono">Keep reading</p><b>All insights →</b></a>
+</section>
+
+<section style="padding:0 0 clamp(40px,5vw,72px)" aria-label="Related insights">
+  <div class="insgrid">
+    <a class="inscard" href="/insights/patent-strategy-for-ai-startups">
+      <p class="mono">IP insight</p>
+      <h3>The AI Startup Patent Strategy Most Founders Get Wrong (And the 4-Step Framework That Wins)</h3>
+      <p class="ins-go">Read the insight <span class="arw">↗</span></p>
+    </a>
+    <a class="inscard" href="/insights/ip-competitive-intelligence-framework-2026">
+      <p class="mono">IP insight</p>
+      <h3>IP Competitive Intelligence: The 5-Step Framework That Reveals What Your Competitors Are Building Next</h3>
+      <p class="ins-go">Read the insight <span class="arw">↗</span></p>
+    </a>
+    <a class="inscard" href="/insights/how-to-evaluate-ai-company-checklist">
+      <p class="mono">AI insight</p>
+      <h3>The 8-Axis AI Company Evaluation Checklist (And Why Most AI Startups Fail on Axis 3)</h3>
+      <p class="ins-go">Read the insight <span class="arw">↗</span></p>
+    </a>
+    <a class="inscard" href="/insights/ip-defensibility-assessment-framework">
+      <p class="mono">IP insight</p>
+      <h3>The 7-Point IP Defensibility Test That Exposes Most Startup Portfolios</h3>
+      <p class="ins-go">Read the insight <span class="arw">↗</span></p>
+    </a>
+  </div>
+</section>
+<section class="gkslim">
+  <div class="gkslim-who">
+    <img loading="lazy" decoding="async" src="/assets/img/georgina-king.webp" alt="Georgina King"><img loading="lazy" decoding="async" src="/assets/img/clara-hawkins.webp" alt="Clara Hawkins">
+    <p><b>Still reading? Talk it through instead.</b><span>A free 30-minute call with Hayat Amin, set up by Clara. Straight answer, no pitch, if there is nothing worth doing, we say so.</span></p>
+  </div>
+  <a class="btn" href="/call">Book a free call <span class="arw">↗</span></a>
+</section>
+
+<footer class="foot">
+  <div class="foot-top">
+    <p class="footline">Exited operators. Wired to AI.</p>
+    <a class="btn" href="/call">Book a free call <span class="arw">↗</span></a>
+  </div>
+  <div class="foot-cols">
+    <div><p class="mono">The three positions</p><a href="/ip">Chief IP Officer</a><a href="/cfo">Chief Financial Officer</a><a href="/fde">AI Operations (FDE)</a><a href="/which-seat">Which position do I need?</a></div>
+    <div><p class="mono">Company</p><a href="/case-studies">Case studies</a><a href="/insights">Insights</a><a href="/about">About</a></div>
+    <div><p class="mono">Contact</p><a href="tel:+15713807699">+1 571 380 7699</a><a href="tel:+447476383531">+44 7476 383531</a><a href="mailto:clara.hawkins@beyondelevation.com">clara.hawkins@beyondelevation.com</a></div>
+  </div>
+  <p class="fineprint">Beyond Elevation places exited C-suite operators into fractional executive positions. New York · London · Dubai.</p>
+  <p class="fineprint">© 2026 Beyond Elevation · <a href="/company">Company</a> · <a href="/privacy">Privacy</a></p>
+</footer>
+<script src="/assets/site.js?v=12"></script>
+</body>
+</html>

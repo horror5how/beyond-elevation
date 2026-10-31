@@ -8992,3 +8992,25 @@ A non-executive director is a part-time board member who provides independent go
 The NED role exists to protect shareholders and improve board-level decision-making. In regulated industries — financial services, healthcare, energy — NEDs are of
 
 ---
+
+## How to automate SOPs: why most agency SOPs fail as AI prompts, and the 7 step framework that works
+
+URL: https://beyondelevation.com/insights/how-to-automate-sops
+
+To automate SOPs, don't paste the document into a prompt. Split it: every step that's a fixed rule goes to an automation tool, every step that needs judgement goes to a model with one narrow job, and a person approves anything a client will see. That's the whole method.
+
+Hayat Amin ran finance through three company exits as a chief financial officer and now builds AI operations inside companies himself, so this is written from the build, not from a slide. A thread on r/Entrepreneur asked the question more bluntly: why do most agency SOPs fail when they're turned into prompts? Here's the straight answer, and the framework we use instead.
+
+## why most agency SOPs fail when turned into prompts
+
+An SOP is written for a person who already works at the agency. It assumes they know the client, the tone, which folder the logins are in and what "good" looks like. A model knows none of that. These are the six failures that break them:
+
+- The context lives in someone's head. "Use the usual tone for this client" means nothing to a model unless the usual tone is written down.
+
+- Steps say "check" or "make sure" with no test for passing. A person fills the gap with experience. A model fills it with a guess.
+
+- The whole SOP goes into one prompt. A 20 step client onboarding in a single instruction gives the model 20 chances to skip a step, and nothing tells you which one it skipped.
+
+- The SOP only covers the easy case. It says what to do when the client sends everything on time. It says no
+
+---
