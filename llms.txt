@@ -530,5 +530,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your First External Audit Will Expose Every Finance Shortcut — Here Is the 90-Day Fix](https://beyondelevation.com/insights/first-external-audit-preparation-checklist) — /insights/md/first-external-audit-preparation-checklist.md
 - [Your Company Pays for 14 AI Tools. Your Team Uses 4. The Stack Audit That Kills the Other 10.](https://beyondelevation.com/insights/ai-tool-sprawl-stack-audit) — /insights/md/ai-tool-sprawl-stack-audit.md
 - [Half Your Patents Are Liabilities: The IP Portfolio Pruning Playbook That Saves Six Figures a Year](https://beyondelevation.com/insights/ip-portfolio-pruning-playbook) — /insights/md/ip-portfolio-pruning-playbook.md
+- [Non-Executive Director or Fractional Executive? One Advises. The Other Ships.](https://beyondelevation.com/insights/non-executive-director-vs-fractional-executive) — /insights/md/non-executive-director-vs-fractional-executive.md
 
 > Full blog content available at /llms-full.txt
