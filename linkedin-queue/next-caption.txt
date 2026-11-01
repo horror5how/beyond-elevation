@@ -1,29 +1,23 @@
-Your cheapest hire costs £8 per task.
+When your fractional CFO leaves, they take 18 months of institutional knowledge with them.
 
-AI agents cost £0.12.
+Unless they hand it over properly.
 
-That gap is not a cost story.
+Most don't.
 
-It is a speed story.
+The average fractional engagement lasts 8 months.
 
-Companies running AI agents resolve queries in 4 minutes.
+The average handover: 1 exit meeting and a shared folder.
 
-Manual teams: 48 minutes.
+That gap costs 6 months of rebuild time.
 
-Same quality. 340x the throughput.
+What a proper handover looks like:
 
-3 things that change when you wire AI into operations:
+A living finance manual, not a Notion dump.
 
-Your fixed cost base drops.
+Documented model assumptions, not just outputs.
 
-Your response time collapses.
+30-day successor overlap, not a Friday email.
 
-Your team stops doing tasks and starts making decisions.
+The fractional model only works if the exit is planned from day one.
 
-The companies building this now will be structurally cheaper than you in 18 months.
-
-That is not a technology advantage.
-
-That is a capital efficiency moat.
-
-#AIOperations #FractionalExecutive #OperationalExcellence
+#FractionalCFO #FinanceLeadership #FractionalExecutive

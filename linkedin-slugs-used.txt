@@ -829,3 +829,4 @@ ai-ops-q4-three-moves-2026
 fractional-managing-director
 three-ip-questions-board-should-ask-2026
 ai-agent-cost-per-task-benchmark-2026
+fractional-executive-handover-process-2026
