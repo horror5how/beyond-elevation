@@ -1,19 +1,29 @@
-Your board just approved a £5M acquisition.
+Your cheapest hire costs £8 per task.
 
-Nobody asked about the IP.
+AI agents cost £0.12.
 
-3 questions every board should put on the agenda before any major deal:
+That gap is not a cost story.
 
-1. Is every IP asset formally assigned — employees, contractors, acquired companies?
+It is a speed story.
 
-2. Are there open-source or AI-generated contamination risks?
+Companies running AI agents resolve queries in 4 minutes.
 
-3. What licensing revenue has this IP generated, and what is it leaving on the table?
+Manual teams: 48 minutes.
 
-IP is 68% of average enterprise value.
+Same quality. 340x the throughput.
 
-Most boards cannot name one IP asset they own.
+3 things that change when you wire AI into operations:
 
-That is why the Chief IP Officer exists.
+Your fixed cost base drops.
 
-#IPStrategy #FractionalExecutive #BoardGovernance
+Your response time collapses.
+
+Your team stops doing tasks and starts making decisions.
+
+The companies building this now will be structurally cheaper than you in 18 months.
+
+That is not a technology advantage.
+
+That is a capital efficiency moat.
+
+#AIOperations #FractionalExecutive #OperationalExcellence
