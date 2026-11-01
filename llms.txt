@@ -536,5 +536,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How is hiring a forward deployed engineer different from hiring a regular software engineer? 7 differences](https://beyondelevation.com/insights/how-is-hiring-a-forward-deployed-engineer-different) — /insights/md/how-is-hiring-a-forward-deployed-engineer-different.md
 - [Your Patent Portfolio Is a Cost Centre. Here Is the 5-Stage Roadmap to Make It Print Money.](https://beyondelevation.com/insights/ip-commercialisation-roadmap) — /insights/md/ip-commercialisation-roadmap.md
 - [Too Big for Spreadsheets, Too Small for SAP: The AI Operations Playbook for Scaling Businesses](https://beyondelevation.com/insights/ai-operations-scaling-businesses-playbook) — /insights/md/ai-operations-scaling-businesses-playbook.md
+- [Startup Financial Benchmarks by Stage: The Numbers Investors Screen Before They Read Your Deck](https://beyondelevation.com/insights/startup-financial-benchmarks-by-stage) — /insights/md/startup-financial-benchmarks-by-stage.md
 
 > Full blog content available at /llms-full.txt
