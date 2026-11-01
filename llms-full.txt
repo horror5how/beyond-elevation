@@ -9030,3 +9030,19 @@ Customer concentration risk is the financial exposure a company faces when a dis
 Most founders track customer count. Few track customer revenue distribution. The difference matters because a company with 200 customers and one paying 45 percent of total revenue is more fragile than a company with 50 customers where none exceeds 8 percent. Revenue diversity, not customer count, is what underwriters an
 
 ---
+
+## How is hiring a forward deployed engineer different from hiring a regular software engineer? 7 differences
+
+URL: https://beyondelevation.com/insights/how-is-hiring-a-forward-deployed-engineer-different
+
+Hiring a forward deployed engineer is different from hiring a regular software engineer in seven ways: the job description, the interview, the pay, where you find them, how long the search takes, what the first 90 days look like and how you measure them. You're hiring someone to get one system working inside a business, so you test customer judgement and shipped code in the real world, not algorithm puzzles.
+
+Hayat Amin spent twenty years as a technology CFO, sold three companies, and now does this work himself as a forward deployed engineer, so he has sat on both sides of this hire: signing the offer, and being the person the offer was for. Google keeps showing our [forward deployed engineer vs software engineer](/insights/forward-deployed-engineer-vs-software-engineer/) piece to people asking this exact question. That piece compares the two jobs. This one is about the hire.
+
+## why this hire is on so many CEO desks
+
+Forward deployed engineer job listings grew about 800% between January and September 2025, and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform. Palantir is the biggest hirer, then OpenAI, Anthropic, Google and Databricks. You are competing with them for the same people. Paraform's guide, published on 20 October 2026, names the clearest trigger for the first hire: a stalled proof of concept, held up by integration work the product team can't take on.
+
+If that's your week, a 
+
+---
