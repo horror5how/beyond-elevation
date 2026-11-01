@@ -9064,3 +9064,19 @@ This post is that roadmap.
 IP commercialisation is the process of converting intellectual property — patents, trade secrets, proprietary data, and know-how — into measurable revenue through licensing, sale, or strategic deployment. Most companies fail at it because they treat IP as a legal asset instead of a commercial one. Beyond Elevation
 
 ---
+
+## Too Big for Spreadsheets, Too Small for SAP: The AI Operations Playbook for Scaling Businesses
+
+URL: https://beyondelevation.com/insights/ai-operations-scaling-businesses-playbook
+
+Companies between £2M and £30M in revenue sit in the most expensive gap in business operations. They have outgrown spreadsheets, manual invoicing, and ad-hoc reporting — but enterprise platforms like SAP, Oracle, and NetSuite cost six figures to implement and take 12 to 18 months to deploy. According to a 2025 McKinsey analysis, mid-market companies spend 30% more per transaction on back-office operations than their larger peers — not because of scale economics, but because of manual processes they have not yet replaced. The fix is not buying enterprise software. It is deploying AI operations at the specific points where manual work burns the most cash.
+
+Hayat Amin argues that this revenue stage is where AI operations delivers the highest return per pound spent — not at enterprise scale, where the savings are marginal improvements on already-optimised systems, and not at startup scale, where the volume does not justify the setup. The scaling business is the sweet spot, and most miss it because they are looking at the wrong solutions.
+
+## Why Do Scaling Businesses Waste the Most on Manual Operations?
+
+Scaling businesses waste the most on manual operations because they have enterprise-level transaction volume running on startup-level infrastructure. A company processing 500 invoices per month on spreadsheets burns 80 to 120 hours of staff time that AI handles in minutes. That gap widens every month the business grows.
+
+The typical scaling business hires to solve this problem. M
+
+---
