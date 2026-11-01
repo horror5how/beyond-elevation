@@ -1,23 +1,21 @@
-When your fractional CFO leaves, they take 18 months of institutional knowledge with them.
+I've reviewed 200+ patent applications.
 
-Unless they hand it over properly.
+Here are 4 situations where I always say: don't file.
 
-Most don't.
+Filing costs £8,000–25,000 before prosecution. 83% of patents never generate £1 in licensing.
 
-The average fractional engagement lasts 8 months.
+Filing without a commercialisation plan is a cost centre.
 
-The average handover: 1 exit meeting and a shared folder.
+The 4 situations where filing is the wrong call:
 
-That gap costs 6 months of rebuild time.
+1. You have 1 patent and no licensing programme to exploit it
 
-What a proper handover looks like:
+2. Your market moves faster than patent pendency (18–30 months)
 
-A living finance manual, not a Notion dump.
+3. You can't enforce it — defendants sit in jurisdictions you can't afford to litigate
 
-Documented model assumptions, not just outputs.
+4. A trade secret gives better protection with zero public disclosure
 
-30-day successor overlap, not a Friday email.
+Build the IP asset first. Then decide how to protect it.
 
-The fractional model only works if the exit is planned from day one.
-
-#FractionalCFO #FinanceLeadership #FractionalExecutive
+#IPStrategy #PatentStrategy #FractionalCIPO
