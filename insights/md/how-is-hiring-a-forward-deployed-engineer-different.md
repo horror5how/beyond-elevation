@@ -23,7 +23,7 @@ If that's your week, a pilot that worked in the demo and stopped at your real da
 
 ### 1. the job description names a customer problem, not a stack
 
-A software engineer's job description lists languages and frameworks. A forward deployed engineer's starts with the problem they'll own and where they'll work. Paraform's guide says to state which kind of FDE you want (an enterprise integration specialist, a post sales AI implementation engineer, or a product embedded FDE) and to spell out travel and on site expectations. What to do this week: write one paragraph that names the stuck workflow, the systems it touches and the date it has to run by. If you can't write that paragraph, you're not ready to hire anyone yet.
+A software engineer's job description lists languages and frameworks. A forward deployed engineer's starts with the problem they'll own and where they'll work. Paraform's guide says to state which kind of FDE you want (an enterprise integration specialist, a post sales AI implementation engineer, or a product embedded FDE) and to spell out travel and on site expectations. This week, write one paragraph that names the stuck workflow, the systems it touches and the date it has to run by. If you can't write that paragraph, you're not ready to hire anyone yet.
 
 ### 2. the interview tests judgement in front of a client
 
@@ -31,7 +31,7 @@ A standard engineering loop leans on coding rounds. Paraform lays out a five sta
 
 ### 3. the CV signals are different
 
-"Standard engineering titles don't predict success here," as Paraform puts it. Big tech tenure counts for less than startup, consulting or customer deployment experience. Ask for code that went live on a customer's infrastructure, and ask the candidate to explain a failed deployment as if you were a non technical chief executive. Paraform's 4 red flags are worth printing: a pure backend engineer with no customer contact, a solutions architect with no production code, someone who says they'd rather focus only on the code, and no flexibility to travel. Treat a vague answer on travel as a no.
+"Standard engineering titles don't predict success here," as Paraform puts it. Big tech tenure counts for less than startup, consulting or customer deployment experience. Ask for code that went live on a customer's infrastructure, and ask the candidate to explain a failed deployment as if you were a non-technical chief executive. Paraform's 4 red flags are worth printing: a pure backend engineer with no customer contact, a solutions architect with no production code, someone who says they'd rather focus only on the code, and no flexibility to travel. Treat a vague answer on travel as a no.
 
 ### 4. the pay band sits higher
 
@@ -67,7 +67,7 @@ If step 3 shows the pilot fails on a handful of messy fields, your own engineers
 
 ## what Beyond Elevation does about this
 
-That second case is when you bring in a forward deployed engineer, and Hayat Amin is the forward deployed engineer and AI operations specialist CEOs bring in to do this work inside small and mid sized companies in New York, across the United States and in London. He sits with the team, maps the process, joins the systems and stays until the first system is live. Our prices are published on [beyondelevation.com/fde](/fde). A two week AI audit is $3,000 fixed. Fractional work starts from $5,800 a month for 1 to 2 days a week, with no notice period, which is $69,600 over twelve months by our arithmetic, against a $150,000 to $217,000 base and a recruiter fee for a full time hire. Projects start from $30,000 over 8 to 14 weeks, and the first system goes live inside 8 weeks. You can book it at [meethayat.com/services/fde](https://meethayat.com/services/fde). If you're earlier than this and still deciding whether you need the role at all, start with [forward deployed engineer for startups](/insights/forward-deployed-engineer-for-startups/).
+That second case is when you bring in a forward deployed engineer, and Hayat Amin is the forward deployed engineer and AI operations specialist CEOs bring in to do this work inside small and mid-sized companies in New York, across the United States and in London. He sits with the team, maps the process, joins the systems and stays until the first system is live. Our prices are published on [beyondelevation.com/fde](/fde). A two week AI audit is $3,000 fixed. Fractional work starts from $5,800 a month for 1 to 2 days a week, with no notice period, which is $69,600 over twelve months by our arithmetic, against a $150,000 to $217,000 base and a recruiter fee for a full time hire. Projects start from $30,000 over 8 to 14 weeks, and the first system goes live inside 8 weeks. You can book it at [meethayat.com/services/fde](https://meethayat.com/services/fde). If you're earlier than this and still deciding whether you need the role at all, start with [forward deployed engineer for startups](/insights/forward-deployed-engineer-for-startups/).
 
 ## About Hayat Amin
 
@@ -99,7 +99,7 @@ Paraform reports base salaries of $150,000 to $217,000, with staff and principal
 
 ### What do you ask in a forward deployed engineer interview?
 
-Give them a vague customer problem and ask them to break it into scoped work. Ask for code that went live on a customer's infrastructure. Ask them to explain a failed deployment to a non technical executive, and ask what share of their time they can spend on site.
+Give them a vague customer problem and ask them to break it into scoped work. Ask for code that went live on a customer's infrastructure. Ask them to explain a failed deployment to a non-technical executive, and ask what share of their time they can spend on site.
 
 ### Who can I hire to get a stuck AI pilot into production?
 

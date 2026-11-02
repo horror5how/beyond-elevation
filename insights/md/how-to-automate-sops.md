@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 To automate SOPs, don't paste the document into a prompt. Split it: every step that's a fixed rule goes to an automation tool, every step that needs judgement goes to a model with one narrow job, and a person approves anything a client will see. That's the whole method.
 
-Hayat Amin ran finance through three company exits as a chief financial officer and now builds AI operations inside companies himself, so this is written from the build, not from a slide. A thread on r/Entrepreneur asked the question more bluntly: why do most agency SOPs fail when they're turned into prompts? That's the question this piece answers, along with the framework we use instead.
+Hayat Amin ran finance through three company exits as a chief financial officer and now builds AI operations inside companies himself. This is written from that hands-on building work, not from a slide deck. A thread on r/Entrepreneur asked the question more bluntly: why do most agency SOPs fail when they're turned into prompts? That's the question this piece answers, along with the framework we use instead.
 
 ## why most agency SOPs fail when turned into prompts
 
@@ -85,7 +85,7 @@ If your SOPs are already clean and someone on the team likes building in Zapier,
 
 ## About Hayat Amin
 
-Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's exceptional at the unglamorous part of automation that decides whether it works: watching how a process is run, connecting the systems a company already pays for, and putting a real time dashboard in front of the chief executive so the hours saved show up every week. He also works on intellectual property and data asset valuation and monetisation, and sits beside founders from the first conversation to the wire transfer on an exit. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's good at the unglamorous part of automation that decides whether it works: watching how a process is run, connecting the systems a company already pays for, and putting a real time dashboard in front of the chief executive so the hours saved show up every week. He also works on intellectual property and data asset valuation and monetisation, and sits beside founders from the first conversation to the wire transfer on an exit. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 If you'd like to know which of your own SOPs are worth automating first, we do a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 

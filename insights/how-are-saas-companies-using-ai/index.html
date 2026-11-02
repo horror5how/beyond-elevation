@@ -67,13 +67,13 @@
 
 <p>The operations side is less tidy. High Alpha's 2025 SaaS Benchmarks Report, with more than 800 respondents, found that under 25% of companies use KPIs or dashboards to measure the impact of AI inside their own teams. Over a third rely on informal team feedback. Engineering is where AI has cut headcount most, with finance, HR and IT less affected so far. In plain terms, most SaaS companies can't show you, with a number, what their internal AI work returned.</p>
 
-<p>Here's what we'd automate first, in the order we'd do it. Each one names the systems most SaaS companies in New York, across the United States and in London actually run, and what joining them removes.</p>
+<p>This is the order we'd automate them in. Each one names the systems most SaaS companies in New York, across the United States and in London run, and what joining them removes.</p>
 
 <h2>the 7 operations SaaS companies automate first</h2>
 
 <h3>1. quote to subscription: Salesforce CPQ to Stripe Billing</h3>
 
-<p>The symptom: a rep closes a deal in Salesforce, and someone in finance rebuilds the same order as a subscription in Stripe. Every discount and ramp gets typed twice. Stripe's Billing Connector for Salesforce CPQ creates a subscription schedule in Stripe for each activated order, and it checks Salesforce for updated orders every 90 seconds. Two limits to know before you rely on it: orders with more than 100 recurring line items can't sync, and edits made to an activated order in Salesforce don't sync either. Mid cycle changes have to go through order amendments. Who it's wrong for: a company still invoicing from spreadsheets, which needs a clean price book before it needs a connector.</p>
+<p>The symptom: a rep closes a deal in Salesforce, and someone in finance rebuilds the same order as a subscription in Stripe. Every discount and ramp gets typed twice. Stripe's Billing Connector for Salesforce CPQ creates a subscription schedule in Stripe for each activated order, and checks Salesforce for updated orders every 90 seconds. Two limits to know before you rely on it: orders with more than 100 recurring line items can't sync, and edits made to an activated order in Salesforce don't sync either. Mid cycle changes have to go through order amendments. It's the wrong fix for a company still invoicing from spreadsheets. That company needs a clean price book before it needs a connector.</p>
 
 <h3>2. revenue reconciliation: Stripe to NetSuite</h3>
 

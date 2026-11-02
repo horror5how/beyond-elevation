@@ -15,11 +15,11 @@ According to Houlihan Lokey's 2024 middle-market M&A report, targets where a sin
 
 ## What Is Customer Concentration Risk?
 
-Customer concentration risk is the financial exposure a company faces when a disproportionate share of revenue depends on one or a small number of clients. If your top customer accounts for more than 20 percent of revenue, your business carries a structural fragility that investors and acquirers price into every negotiation. It is not a sales metric. It is a valuation metric.
+Customer concentration risk is the financial exposure a company faces when a disproportionate share of revenue depends on one or a small number of clients. If your top customer accounts for more than 20 percent of revenue, your business carries a structural fragility that investors and acquirers price into every negotiation. It is a valuation metric, not a sales metric.
 
-Most founders track customer count. Few track customer revenue distribution. The difference matters because a company with 200 customers and one paying 45 percent of total revenue is more fragile than a company with 50 customers where none exceeds 8 percent. Revenue diversity, not customer count, is what underwriters and investors evaluate.
+Most founders track customer count. Few track customer revenue distribution. The difference matters because a company with 200 customers and one paying 45 percent of total revenue is more fragile than a company with 50 customers where none exceeds 8 percent. Underwriters and investors evaluate revenue diversity, not customer count.
 
-## How Much Customer Concentration Is Too Much?
+## How much customer concentration is too much?
 
 Any single customer contributing more than 20 percent of total revenue triggers investor scrutiny. Above 30 percent is a red flag in most institutional term sheets. Above 50 percent makes a business functionally uninvestable for venture capital and most private equity buyers. These are not arbitrary thresholds. They reflect how acquirer DCF models increase the discount rate for concentrated revenue streams.
 
@@ -27,7 +27,7 @@ The practical rule Hayat Amin applies in Beyond Elevation's fractional CFO engag
 
 Public-market data confirms the pattern. A 2023 Audit Analytics study of SEC filings found that companies disclosing major-customer concentration (10 percent or more from one customer) traded at a median 18 percent discount to their sector peer group on EV/Revenue.
 
-## Why Do Investors and Acquirers Penalise Customer Concentration?
+## Why do investors and acquirers penalise customer concentration?
 
 Investors penalise customer concentration because it converts revenue risk into binary risk. A diversified revenue base declines gradually if a customer churns. A concentrated one collapses. The acquirer or investor is modelling a scenario where the top customer leaves, and if that scenario wipes 30 to 50 percent of revenue, the entire valuation model breaks.
 
@@ -39,19 +39,19 @@ Three specific mechanisms drive the penalty.
 
 **Integration risk in M&A.** Post-acquisition, the acquirer inherits the relationship. If the customer has a personal connection with the founder rather than a contractual lock-in, the acquirer expects attrition. Hayat Amin's experience running M&A preparations is direct: "Every acquirer I have worked with models 100 percent attrition of the top customer in year two. If the deal still works under that assumption, the concentration is tolerable. If it does not, the offer price reflects it."
 
-## How Do You Measure Customer Concentration?
+## How do you measure customer concentration?
 
 The standard measure is the customer revenue share: the percentage of total revenue each customer represents, ranked from largest to smallest. A fractional CFO builds this table monthly, not quarterly, because concentration shifts faster than most founders realise. Two metrics matter most: top-customer share and top-five-customer share.
 
-Sophisticated operators also use the Herfindahl-Hirschman Index adapted for customer revenue. Square each customer's revenue share, sum the results. A score below 1,000 signals healthy diversification. Above 2,500 signals dangerous concentration. The index captures the shape of the entire distribution, not just the peak.
+Sophisticated operators also use the Herfindahl-Hirschman Index adapted for customer revenue. Square each customer's revenue share, sum the results. A score below 1,000 signals healthy diversification. Above 2,500 signals dangerous concentration. The index captures the shape of the whole distribution, beyond the top customer alone.
 
 Build the report in a single spreadsheet tab: customer name, trailing-twelve-month revenue, percentage of total, cumulative percentage ranked high to low, and the HHI contribution. Update it monthly. Present it in every board pack. This is one of the numbers [on the weekly CEO dashboard](/insights/weekly-ceo-dashboard-7-numbers/) that Hayat Amin's fractional CFO engagements install from day one.
 
-## How Do You Fix Customer Concentration Before a Fundraise?
+## How do you fix customer concentration before a fundraise?
 
 Fixing customer concentration takes 6 to 12 months of deliberate execution, which is why a fractional CFO flags it early rather than during data room prep. The objective is reducing the top-customer share below 20 percent and the top-five share below 40 percent before the process opens. Hayat Amin's Revenue Dependency Scorecard is the diagnostic Beyond Elevation runs on every pre-fundraise engagement.
 
-### The Hayat Amin Revenue Dependency Scorecard: Five Axes
+### The Hayat Amin Revenue Dependency Scorecard: five axes
 
 **1. Contractual lock-in.** Does the top customer have a multi-year contract with auto-renewal, or are they on month-to-month? A three-year contract with 12-month notice converts concentration risk into contractual certainty. Get it signed before the raise.
 
@@ -65,7 +65,7 @@ Fixing customer concentration takes 6 to 12 months of deliberate execution, whic
 
 Score each axis 0 to 2. A total of 7 or above means concentration is defensible. Below 5 means the fundraise should not start until the score improves.
 
-## What Does a Fractional CFO Do About Customer Concentration?
+## What does a fractional CFO do about customer concentration?
 
 A fractional CFO installs the measurement, runs the diagnostic, builds the board narrative, and holds the founder accountable to the diversification timeline. This is operational finance work that happens inside the company every month. At [Beyond Elevation](/), the fractional CFO engagement starts with a concentration audit in week one because it determines the shape of every financial narrative that follows.
 
@@ -87,9 +87,9 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ## FAQ
 
-### What percentage of revenue from one customer is considered high concentration risk?
+### What percentage of revenue from one customer counts as high concentration risk?
 
-Any single customer above 20 percent of total revenue is considered concentrated. Above 30 percent triggers material valuation discounts in most fundraise and M&A processes. The threshold depends on contract length and renewal certainty, but the 20 percent line is where institutional investors start adjusting their models.
+Any single customer above 20 percent of total revenue counts as concentrated. Above 30 percent triggers material valuation discounts in most fundraise and M&A processes. The threshold depends on contract length and renewal certainty, but the 20 percent line is where institutional investors start adjusting their models.
 
 ### Can you fix customer concentration risk quickly?
 
@@ -101,7 +101,7 @@ Yes. Companies with a single customer above 25 percent of revenue typically rece
 
 ### Should customer concentration appear in my board pack?
 
-Yes. Hayat Amin argues that concentration metrics belong in every monthly board pack, not just fundraise materials. Tracking it monthly means the board sees the trend early enough to act. By the time it appears only in a data room, the window to fix it has closed.
+Yes. Hayat Amin argues concentration metrics belong in every monthly board pack, long before a fundraise is on the table. Tracking it monthly means the board sees the trend early enough to act. By the time it appears only in a data room, the window to fix it has closed.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

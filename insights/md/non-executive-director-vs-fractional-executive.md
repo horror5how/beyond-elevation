@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 A non-executive director advises. A fractional executive runs the function. That single distinction costs companies years of stalled execution when they pick the wrong one. According to the UK Institute of Directors (2025), 58 percent of SMEs with revenue between two and twenty million pounds have at least one NED on the board, yet fewer than 15 percent have a fractional executive in an operating role. Hayat Amin argues that this ratio is backwards: most companies at that stage need someone who ships, not someone who sits in a monthly board meeting and asks better questions.
 
-The non-executive director vs fractional executive decision is the most consequential leadership hire most founders get wrong. Both cost a fraction of what a permanent executive costs. Both bring senior experience. But they solve different problems, and confusing the two leaves a critical function without an owner.
+Founders mix up the non-executive director and the fractional executive more than any other hiring decision, and it's an expensive mistake. Both cost a fraction of what a permanent executive costs. Both bring senior experience. But they solve different problems, and confusing the two leaves a critical function without an owner.
 
 ## What Is a Non-Executive Director?
 
@@ -29,7 +29,7 @@ A NED sits above the executive team. A fractional executive sits inside it. A fr
 
 Accountability for execution is what separates the two roles.
 
-## Non-executive director vs fractional executive: the full comparison
+## Non-executive director vs fractional executive, the full comparison
 
 Non-Executive DirectorFractional Executive
 
@@ -56,7 +56,7 @@ The decision comes down to one question: does your company need governance or ex
 
 - You need someone to challenge the executive team's blind spots
 
-- The function already has a competent owner and just needs strategic direction at board level
+- The function already has a competent owner and needs strategic direction at board level
 
 **Hire a fractional executive when:**
 
@@ -74,7 +74,7 @@ A non-executive director in the UK typically costs between fifteen and forty tho
 
 A fractional executive typically costs between three and eight thousand pounds a month, roughly thirty-six to ninety-six thousand pounds a year, for two to three days a week of embedded operational work. The cost is higher than a NED in absolute terms, but the output is different. Hayat Amin reminds founders that a fractional CFO who closes the books in two days instead of twelve is a margin improvement that pays for itself by month two.
 
-The real comparison is fractional versus full-time. A full-time CFO costs £120,000 to £200,000 in salary alone, plus benefits, equity, and recruitment fees. A fractional CFO delivers the same critical outputs at a fraction of that cost, and steps aside once the function no longer needs that level of seniority.
+Compare fractional against full-time, not against a NED fee. A full-time CFO costs £120,000 to £200,000 in salary alone, plus benefits, equity, and recruitment fees. A fractional CFO delivers the same outputs at a fraction of that cost, and steps aside once the function no longer needs that level of seniority.
 
 ## When does a company need both?
 
