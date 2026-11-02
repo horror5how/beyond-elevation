@@ -36,3 +36,18 @@ Open after this pass: B17, B22. Weekly follow-up: the `cto-weekly` robot in haya
 Robot findings on this repo, fixed the same day: an Instagram token sat as a literal fallback in `.github/workflows/instagram-post.yml` of this PUBLIC repo since 24 June (moved to the `INSTAGRAM_TOKEN` secret; Hayat must revoke it in Meta and issue a fresh one); the reminders cron now fails closed with a timing-safe compare; the reminder claim carries the event's etag (`If-Match`), so two overlapping runs cannot both send.
 
 Still open from that run: `/api/book` has no rate limit (honeypot and slot check only); the daily cap stops counting a meeting once it has started; switching off the default `call` link does not block slugs with no row of their own (they fall back to it by design, see B5).
+
+## cto-weekly, 2 Nov 2026
+
+Live at the start: `/api/slots?s=call` 588 slots in Asia/Dubai, `/call` 200 with `book.js?v=7`, deploys green. DST maths re-run by hand (London 25 Oct, New York 1 Nov, Dubai none): correct. The new `w=` window parameter is display-only; `book()` re-checks the full diary.
+
+Fixed in 3ce015d3 (deployed 2 Nov 2026, slots and page re-checked live):
+
+| Severity | Where | Finding |
+|---|---|---|
+| medium | `lib/booking.js:530` | a Gmail error on the confirmation after the event existed answered the guest 500 and skipped `scheduleReminders`; Clara's reminders then read "Re: undefined" / "Hi undefined" in London time. Insert now carries first/tz/subj; the failure is logged when the event exists |
+| medium | `lib/booking.js:446` | `lostRace` counted events Hayat declined (freeBusy does not): every booking of that slot was deleted with a 409 |
+| low-medium | `lib/booking.js:412` | since B6's live recompute, r1/r2 skipped at booking (booked after 6pm the night before, or inside the hour) fired minutes after the confirmation |
+| low | `lib/booking.js:269` | a backslash in the guest name left the quoted To display name unterminated |
+
+Still open: `/api/book` rate limit; B17 (cap counted from mailed confirmations, `lib/booking.js:221`); B22 (slots and submit read settings separately); the daily cap stops counting a meeting once it has ended (`lib/booking.js:180`) and switches off entirely when the Gmail search fails (`:190`); `lostRace` ignores the 15-minute buffers, so two racing guests can land back to back; a required question over 120 characters, with stray whitespace, or after the 10th can never be answered (`api/book.js:24`, latent: the `call` link has none); a bare CR in notes reaches the .ics fallback (`icsEsc`); December's month step in `assets/book.js:78` builds January of the same year (Next always enabled).
