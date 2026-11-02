@@ -68,7 +68,7 @@ function show(v,first){view=v;document.querySelectorAll("[data-v]").forEach(b=>b
 
 /* ---------- hero (shared on interview) ---------- */
 function hero(){const r=readiness(),pct=Math.round(answered()/TOTAL()*100),done=MS.filter(m=>(D.PG[m[0]]||{}).s==="done").length,facts=countConf("fact");
-  return `<section class="hero"><div><div class="who"><img src="/bondl/img/hayat.jpg" alt="Hayat Amin"><h1><span>Hayat Amin's</span><span><em>business</em> canvas</span></h1></div>
+  return `<section class="hero"><div><div class="who"><img src="/bondl/img/hayat.jpg" alt="Hayat Amin"><h1><span>Hayat's</span><span>business canvas</span><span>for <em>Bondl</em></span></h1></div>
    <div class="kpis">${[[pct,"Answered",histSpark("a"),"%"],[r.score,"Investor readiness",histSpark("r"),"%"],[done,"Milestones done","",""],[facts,"Answers backed as fact","",""]].map(k=>`<div class="kpi"><b data-count="${k[0]}" data-suffix="${k[3]}">0${k[3]}</b><span>${k[1]}</span>${k[2]}</div>`).join("")}</div></div>
    <div class="strip" aria-hidden="true">${["surgery","hands","pathology","vault","archive"].map(n=>`<figure><img src="/bondl/img/${n}.jpg" alt=""></figure>`).join("")}</div></section>`}
 
