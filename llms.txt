@@ -538,5 +538,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Too Big for Spreadsheets, Too Small for SAP: The AI Operations Playbook for Scaling Businesses](https://beyondelevation.com/insights/ai-operations-scaling-businesses-playbook) — /insights/md/ai-operations-scaling-businesses-playbook.md
 - [Startup Financial Benchmarks by Stage: The Numbers Investors Screen Before They Read Your Deck](https://beyondelevation.com/insights/startup-financial-benchmarks-by-stage) — /insights/md/startup-financial-benchmarks-by-stage.md
 - [How are SaaS companies using AI? The 7 operations they automate first](https://beyondelevation.com/insights/how-are-saas-companies-using-ai) — /insights/md/how-are-saas-companies-using-ai.md
+- [67% of PE-Backed Companies Use Fractional Executives. Your Investors Already Know.](https://beyondelevation.com/insights/do-investors-discount-fractional-executives) — /insights/md/do-investors-discount-fractional-executives.md
 
 > Full blog content available at /llms-full.txt
