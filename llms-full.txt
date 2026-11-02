@@ -9098,3 +9098,21 @@ Startup financial benchmarks are the quantitative thresholds — gross margin, b
 The problem is which benchmarks. Most founders reference industry-wide medians from public reports. Medians include companies that never rais
 
 ---
+
+## How are SaaS companies using AI? The 7 operations they automate first
+
+URL: https://beyondelevation.com/insights/how-are-saas-companies-using-ai
+
+SaaS companies are using AI in two places: inside the product they sell, and inside their own operations. The internal side is where most of them stall. They buy a support bot and a sales tool, but the CRM, billing, accounting and ticketing systems still don't talk, so a person moves the data by hand every week.
+
+Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds this internal plumbing for SaaS founders himself as a forward deployed engineer. This piece is for the CEO or COO of a SaaS company past its first million in revenue who suspects the team is busier than the numbers say it should be.
+
+## what the surveys say SaaS companies are doing with AI
+
+The KeyBanc Capital Markets and Sapphire Ventures 16th annual Private Company SaaS Survey, released on 13 November 2025, found that 67% of companies are already monetising AI. More than half plan to raise AI spend by more than 21%, and none plan to cut it. That's the product side, and it gets the board's attention.
+
+The operations side is less tidy. High Alpha's 2025 SaaS Benchmarks Report, with more than 800 respondents, found that under 25% of companies use KPIs or dashboards to measure the impact of AI inside their own teams. Over a third rely on informal team feedback. Engineering is where AI has cut headcount most, with finance, HR and IT less affected so far. In plain terms, most SaaS companies can't show you, with a number, what their internal AI work returned.
+
+Here's what we'd au
+
+---
