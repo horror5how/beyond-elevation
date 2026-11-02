@@ -9152,3 +9152,19 @@ This is the gap [Beyond Elevation](https://beyondelevation.com) fills with every
 Automate the processes that are rule-based, repetitive, and high-volume before anything else. Bank reconciliation, accounts payable invoice matching, expense categorisation, and recurring journal entries fit this description in
 
 ---
+
+## Filing Patents in One Country Leaves 85% of Your IP Value Unprotected
+
+URL: https://beyondelevation.com/insights/international-patent-filing-strategy-pct
+
+An international patent filing strategy determines which countries your patents cover and in what order you file them. Companies that file only in their home jurisdiction protect at most 15% of addressable global market value, according to WIPO's 2025 World Intellectual Property Indicators report. The Patent Cooperation Treaty gives founders a single filing that buys 30 months of decision time across 157 countries.
+
+Hayat Amin argues that most founders treat international filing as an afterthought — something their patent attorney mentions at the end of a $15K invoice. In one Beyond Elevation engagement, a founder had filed only in the US while their largest licensee operated in Germany. The patent was unenforceable in the one market that mattered most. That single gap cost more than 10 international filings combined.
+
+## What Is the PCT and How Does It Work?
+
+The Patent Cooperation Treaty is an international agreement between 157 countries that lets you file one patent application and preserve the right to enter any member country later. It is not a "world patent" — no such thing exists. It is a 30-month clock that starts from your earliest filing date.
+
+Here is the sequence. You file a national patent application in your home country. Within 12 months, you file a PCT application claiming priority from that first filing. The PCT application triggers an International Search Report and Written Opinion — essentially a preview of whether your claims will survive examination. You
+
+---

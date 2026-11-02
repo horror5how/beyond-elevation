@@ -540,5 +540,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How are SaaS companies using AI? The 7 operations they automate first](https://beyondelevation.com/insights/how-are-saas-companies-using-ai) — /insights/md/how-are-saas-companies-using-ai.md
 - [67% of PE-Backed Companies Use Fractional Executives. Your Investors Already Know.](https://beyondelevation.com/insights/do-investors-discount-fractional-executives) — /insights/md/do-investors-discount-fractional-executives.md
 - [Finance Automation for Startups: 7 Manual Processes That Cost You 40 Hours a Month](https://beyondelevation.com/insights/finance-automation-startups-stack) — /insights/md/finance-automation-startups-stack.md
+- [Filing Patents in One Country Leaves 85% of Your IP Value Unprotected](https://beyondelevation.com/insights/international-patent-filing-strategy-pct) — /insights/md/international-patent-filing-strategy-pct.md
 
 > Full blog content available at /llms-full.txt
