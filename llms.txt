@@ -539,5 +539,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Startup Financial Benchmarks by Stage: The Numbers Investors Screen Before They Read Your Deck](https://beyondelevation.com/insights/startup-financial-benchmarks-by-stage) — /insights/md/startup-financial-benchmarks-by-stage.md
 - [How are SaaS companies using AI? The 7 operations they automate first](https://beyondelevation.com/insights/how-are-saas-companies-using-ai) — /insights/md/how-are-saas-companies-using-ai.md
 - [67% of PE-Backed Companies Use Fractional Executives. Your Investors Already Know.](https://beyondelevation.com/insights/do-investors-discount-fractional-executives) — /insights/md/do-investors-discount-fractional-executives.md
+- [Finance Automation for Startups: 7 Manual Processes That Cost You 40 Hours a Month](https://beyondelevation.com/insights/finance-automation-startups-stack) — /insights/md/finance-automation-startups-stack.md
 
 > Full blog content available at /llms-full.txt
