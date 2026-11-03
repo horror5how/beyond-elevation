@@ -9168,3 +9168,21 @@ The Patent Cooperation Treaty is an international agreement between 157 countrie
 Here is the sequence. You file a national patent application in your home country. Within 12 months, you file a PCT application claiming priority from that first filing. The PCT application triggers an International Search Report and Written Opinion — essentially a preview of whether your claims will survive examination. You
 
 ---
+
+## Forward deployed engineer cost: what hiring one costs in 2026, four ways to pay
+
+URL: https://beyondelevation.com/insights/forward-deployed-engineer-cost
+
+A forward deployed engineer costs a US company $150,000 to $217,000 in base salary as a full time hire, close to $300,000 in year one once benefits and a recruiter fee are added. Contract rates run $95 to $235 an hour. Fractional starts from $5,800 a month.
+
+Hayat Amin spent twenty years as a technology CFO and sold three companies, so he has signed the offers, read the payroll and watched what a senior hire costs the business in its first year. He now does this work himself as a forward deployed engineer. This piece puts the four ways to pay for one side by side, with the arithmetic shown, and tells you what to do this week before you spend any of it.
+
+## why the price has gone up
+
+Forward deployed engineer job listings grew about 800% between January and September 2025, and more than 1,000% year on year into early 2026, according to Pragmatic Engineer, Perspective AI's analysis of 1,000 job posts and Paraform. Palantir is the biggest hirer, then OpenAI, Anthropic, Google and Databricks. OpenAI launched a $4 billion deployment subsidiary in May 2026 built on this role. You're bidding for the same people they are, and the salary bands show it.
+
+## option 1: a full time hire
+
+Paraform's hiring guide, published on 20 October 2026, puts forward deployed engineer base salaries at $150,000 to $217,000, with staff and principal roles reaching $288,000 base. It cites Levels.fyi total compensation of $172,000 at the 25th percentile, $220,000 at the median and $300,000 at the 75th per
+
+---
