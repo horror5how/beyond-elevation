@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Startup Financial Benchmarks by Stage: The Numbers Investors Screen Before They Read Your Deck
 
-Investors reject 73% of decks before the second slide, and the first filter isn't your product, it's your numbers. Startup financial benchmarks are the invisible screen that determines whether a founder gets a meeting or a form rejection, and most founders have never seen the real thresholds.
+Investors reject 73% of decks before the second slide. The first filter is the numbers, not the product. Startup financial benchmarks are the invisible screen that determines whether a founder gets a meeting or a form rejection, and most founders have never seen the real thresholds.
 
 According to a 2025 Carta report, median seed-stage startups that successfully raised Series A had gross margins above 65% and burn multiples below 2.0x, numbers most founders cannot quote from memory. Hayat Amin argues the benchmark gap comes down to finance leadership, not data: "Founders who do not have a fractional CFO running their numbers against stage-appropriate benchmarks are fundraising blind. They do not know whether their metrics are investable until an investor tells them they are not."
 
@@ -33,7 +33,7 @@ Pre-seed and seed benchmarks focus on capital efficiency and product-market fit 
 
 **Gross margin:** Above 60% for software, above 40% for hardware-inclusive models. Below these floors, the unit economics story falls apart under Series A diligence.
 
-**Revenue (seed):** $10K, $50K MRR is the qualification band for most seed-stage SaaS rounds. Investors at this stage are not looking for scale, they are looking for evidence that customers will pay.
+**Revenue (seed):** $10K, $50K MRR is the qualification band for most seed-stage SaaS rounds. Investors at this stage want proof that customers will pay, not a case for scale.
 
 ## What Series A startup financial benchmarks do investors screen for?
 

@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Your Patent Portfolio Is a Cost Centre. Here Is the 5-Stage Roadmap to Make It Print Money.
 
-Ninety-three percent of patent portfolios generate zero licensing revenue. The owners pay maintenance fees every year, defend claims they never enforce, and watch their IP depreciate like equipment nobody uses. The other seven percent treat their patents as a revenue line. The difference is an IP commercialisation roadmap, not the quality of the patents.
+Ninety-three percent of patent portfolios generate zero licensing revenue. The owners pay maintenance fees every year, defend claims they never enforce, and watch their IP depreciate like equipment nobody uses. The other seven percent treat their patents as a revenue line. The difference is an IP commercialisation roadmap. The quality of the patents has little to do with it.
 
 Hayat Amin has restructured patent portfolios that sat dormant for years and turned them into eight-figure recurring royalty streams. The Position Imaging portfolio, 66 patents, zero licensing revenue at the start, now generates eight figures annually. The patents didn't get better. Amin applied a repeatable commercialisation process that most patent holders never learn exists.
 
@@ -25,7 +25,7 @@ The failure is structural. Patent attorneys file patents, they don't build licen
 
 A single patent costs an average of $30,000 or more over its lifetime in filing, prosecution, and maintenance fees across major jurisdictions. Multiply that by a portfolio of 15 to 50 patents and you are spending $450,000 to $1.5 million on assets that produce no return. IP commercialisation closes that gap by turning each patent from an expense line into a revenue source.
 
-## What an IP commercialisation roadmap looks like
+## the shape of an IP commercialisation roadmap
 
 A complete IP commercialisation roadmap has five stages that move sequentially from asset identification to recurring revenue. Hayat Amin's IP Commercialisation Staircase, the framework Beyond Elevation runs on every client portfolio, structures these stages so that each one builds the evidence base the next stage requires. Skip a stage and the licensing programme collapses under its own assumptions.
 
@@ -41,7 +41,7 @@ Deliverable: a ranked asset register with cost-per-asset and estimated commercia
 
 ### Stage 2: market mapping, who needs your patents?
 
-The second stage identifies who in the market uses technology that falls within your patent claims. This is not guesswork. It is systematic claim charting against competitor products, industry standards, and adjacent markets.
+The second stage identifies who in the market uses technology that falls within your patent claims, through systematic claim charting against competitor products, industry standards, and adjacent markets, not guesswork.
 
 The highest-value licensing targets sit in adjacent industries: companies that use the same underlying technology for different applications, not direct competitors. A patent on a data compression method may be used in telecommunications, streaming media, and autonomous vehicles simultaneously. Each application is a separate licensing opportunity.
 
@@ -65,9 +65,9 @@ Structure the conversation as a commercial transaction between two businesses, n
 
 ### Stage 5: revenue architecture and scaling
 
-A signed licence is not the end of IP commercialisation. It is the start of a revenue architecture. The fifth stage structures the licensing programme for recurring, scalable income, not one-off settlements that spike the books and disappear.
+A signed licence is the start of a revenue architecture, not the end of IP commercialisation. The fifth stage structures the licensing programme for recurring, scalable income, instead of one-off settlements that spike the books and disappear.
 
-Hayat Amin reminds founders that licensing revenue transforms the investor conversation. Companies with patents are 10.2x more likely to secure early-stage funding. Companies with patents *that generate licensing revenue* move into a different valuation category entirely, because investors see a proven, defensible revenue stream that is independent of the core product.
+Hayat Amin reminds founders that licensing revenue changes the investor conversation. Companies with patents are 10.2x more likely to secure early-stage funding. Companies with patents *that generate licensing revenue* move into a different valuation category entirely, because investors see a proven, defensible revenue stream that is independent of the core product.
 
 Revenue architecture means deciding between exclusive and non-exclusive licences, field-of-use restrictions, territory splits, and royalty escalation clauses. Each structural choice affects the total addressable licensing revenue by a factor of two to five. A poorly structured first licence can cap your entire programme. A well-structured one creates a template that scales across dozens of licensees.
 
@@ -83,13 +83,13 @@ The cost of waiting is real. Every year a licensable patent sits unlicensed is r
 
 ## What mistakes kill an IP commercialisation programme?
 
-Three mistakes kill most IP commercialisation programmes before they generate a pound of revenue. First, skipping the market map and approaching only direct competitors, this misses the majority of licensing revenue, which comes from adjacent industries. Second, leading with litigation threats instead of commercial proposals, this escalates cost and delays revenue by years. Third, accepting lump-sum settlements instead of building recurring royalty structures, this sacrifices long-term revenue for short-term cash.
+Three mistakes kill most IP commercialisation programmes before they generate a pound of revenue. First, skipping the market map and approaching only direct competitors. This misses the majority of licensing revenue, which comes from adjacent industries. Second, leading with litigation threats instead of commercial proposals. This escalates cost and delays revenue by years. Third, accepting lump-sum settlements instead of building recurring royalty structures. This sacrifices long-term revenue for short-term cash.
 
-Hayat Amin proved the alternative with the Position Imaging restructure: the portfolio generated zero licensing revenue under the old approach. Once the claims were mapped to adjacent markets, priced using the income method, and licensed on a recurring royalty basis, the same portfolio produced eight figures annually. Same patents. Different roadmap.
+Hayat Amin proved the alternative with the Position Imaging restructure: the portfolio generated zero licensing revenue under the old approach. Once the claims were mapped to adjacent markets, priced using the income method, and licensed on a recurring royalty basis, the same portfolio produced eight figures annually. The patents stayed the same. Only the roadmap changed.
 
 ## How does IP commercialisation affect company valuation?
 
-IP commercialisation directly increases company valuation through two channels. First, licensing revenue is high-margin, recurring income that investors value at premium multiples. Second, an active licensing programme proves the IP has market-validated commercial relevance, which increases the defensibility premium investors assign to the portfolio.
+IP commercialisation increases company valuation through two channels. First, licensing revenue is high-margin, recurring income that investors value at premium multiples. Second, an active licensing programme proves the IP has market-validated commercial relevance, which increases the defensibility premium investors assign to the portfolio.
 
 Companies that complete all five stages of the IP commercialisation roadmap typically see a 15% to 40% increase in enterprise value at their next funding event or exit, depending on the scale of licensing revenue relative to product revenue. The premium comes from the revenue itself and from the signal it sends: this company's IP has been tested in the market and buyers are willing to pay for it.
 
