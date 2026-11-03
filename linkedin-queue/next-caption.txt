@@ -1,15 +1,17 @@
-Your AI agent approved a £50,000 payment last month. It went to the wrong account.
+Your financial model has 1 mistake investors spot in 3 minutes.
 
-Nobody knows who to fire.
+They never tell you.
 
-The AI has no liability. The CFO blamed the workflow. The CEO blamed the CFO.
+Your revenue curve assumes linear growth. Their model assumes S-curve.
 
-You don't have an AI problem. You have a governance problem you're calling AI operations.
+Your headcount plan front-loads sales. Their model back-loads it.
 
-73% of mid-market companies have no named human owner for AI-agent errors above £10K.
+Your gross margin improves over time. Their model has a blended rule.
 
-Set the rule: every AI agent decision above a threshold needs an accountable human.
+A fractional CFO builds the model from the investor's point of view.
 
-Build the gate before the mistake.
+Not the founder's.
 
-#AIOperations #FractionalCFO #AIGovernance
+That is the only version that gets a term sheet.
+
+#FractionalCFO #Fundraising #Finance
