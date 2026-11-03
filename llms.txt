@@ -542,5 +542,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Finance Automation for Startups: 7 Manual Processes That Cost You 40 Hours a Month](https://beyondelevation.com/insights/finance-automation-startups-stack) — /insights/md/finance-automation-startups-stack.md
 - [Filing Patents in One Country Leaves 85% of Your IP Value Unprotected](https://beyondelevation.com/insights/international-patent-filing-strategy-pct) — /insights/md/international-patent-filing-strategy-pct.md
 - [Forward deployed engineer cost: what hiring one costs in 2026, four ways to pay](https://beyondelevation.com/insights/forward-deployed-engineer-cost) — /insights/md/forward-deployed-engineer-cost.md
+- [20 Employees and Zero Executives. The 5 Revenue Signals That Say You Are Already Late.](https://beyondelevation.com/insights/five-signals-company-needs-executive) — /insights/md/five-signals-company-needs-executive.md
 
 > Full blog content available at /llms-full.txt
