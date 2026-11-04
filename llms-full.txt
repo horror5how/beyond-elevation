@@ -9254,3 +9254,21 @@ The three fractional executive deal structures are the monthly retainer, the day
 The monthly retainer pays a fixed fee — typically £3,000 to 
 
 ---
+
+## Most Fractional CFOs Cannot Read an AI Company's P&L. Here Is What to Hire Instead.
+
+URL: https://beyondelevation.com/insights/fractional-cfo-for-ai-company
+
+Your AI company's P&L has line items your fractional CFO has never seen. GPU compute, inference costs, training amortisation, data acquisition — these are not SaaS metrics with different names. They are fundamentally different cost structures that break every financial model built on subscription-revenue assumptions. Hayat Amin argues that the fastest way to test whether your CFO understands AI economics is one question: what is your cost per inference? If they cannot answer it, they are building your financial model blind.
+
+According to Bessemer Venture Partners' 2026 State of Cloud report, AI-native companies operate at gross margins between 40% and 65% — compared to 75% to 85% for traditional SaaS. That margin compression changes every downstream metric your investors use to price your round.
+
+## What Makes a Fractional CFO for an AI Company Different from a SaaS CFO?
+
+A fractional CFO for an AI company must understand compute cost structures, inference unit economics, and the revenue model differences between AI-native and SaaS businesses — three areas that traditional SaaS finance training does not cover.
+
+In a SaaS business, COGS means hosting, support, and payment processing. Gross margins sit comfortably above 75%. The CFO's job is to track CAC, LTV, net retention, and cash conversion. The financial model runs on a subscription waterfall that any competent finance professional can build.
+
+In an AI business, COGS includes GPU compute, model training runs, inference ser
+
+---

@@ -546,5 +546,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [A Fractional CFO Should Pay for Itself in 90 Days. Here Are the Five Line Items That Prove It.](https://beyondelevation.com/insights/fractional-cfo-roi-90-day-payback) — /insights/md/fractional-cfo-roi-90-day-payback.md
 - [Forward deployed engineer as a service: what it is, who sells it and what it costs in 2026](https://beyondelevation.com/insights/forward-deployed-engineer-as-a-service) — /insights/md/forward-deployed-engineer-as-a-service.md
 - [Retainer, Day Rate, or Equity: How to Structure a Fractional Executive Deal That Works](https://beyondelevation.com/insights/fractional-executive-deal-structure) — /insights/md/fractional-executive-deal-structure.md
+- [Most Fractional CFOs Cannot Read an AI Company's P&L. Here Is What to Hire Instead.](https://beyondelevation.com/insights/fractional-cfo-for-ai-company) — /insights/md/fractional-cfo-for-ai-company.md
 
 > Full blog content available at /llms-full.txt
