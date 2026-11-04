@@ -544,5 +544,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Forward deployed engineer cost: what hiring one costs in 2026, four ways to pay](https://beyondelevation.com/insights/forward-deployed-engineer-cost) — /insights/md/forward-deployed-engineer-cost.md
 - [20 Employees and Zero Executives. The 5 Revenue Signals That Say You Are Already Late.](https://beyondelevation.com/insights/five-signals-company-needs-executive) — /insights/md/five-signals-company-needs-executive.md
 - [A Fractional CFO Should Pay for Itself in 90 Days. Here Are the Five Line Items That Prove It.](https://beyondelevation.com/insights/fractional-cfo-roi-90-day-payback) — /insights/md/fractional-cfo-roi-90-day-payback.md
+- [Forward deployed engineer as a service: what it is, who sells it and what it costs in 2026](https://beyondelevation.com/insights/forward-deployed-engineer-as-a-service) — /insights/md/forward-deployed-engineer-as-a-service.md
 
 > Full blog content available at /llms-full.txt
