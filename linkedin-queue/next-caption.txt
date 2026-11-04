@@ -1,19 +1,26 @@
-Your finance team produces 12 reports a month.
+An NDA does not protect your IP.
 
-Each one costs £340 in staff time.
+73% of UK startups have NDAs with contractors.
 
-AI produces the same 12 for £4.20.
+Fewer than 20% have properly executed IP assignments.
 
-That is not a productivity gain.
+Different documents. Different legal effects.
 
-It is a category error to keep paying for the old model.
+An NDA stops your contractor from disclosing.
 
-The saving is not the £336.
+An IP assignment means YOU legally own what they built.
 
-It is the 3 hours your CFO spent on formatting instead of decisions.
+Without the assignment, they own the IP.
 
-A fractional CFO wired to AI gets you the analysis without the overhead.
+4 situations where this has killed exits:
 
-The report is not the work. The decision is.
+1. Contractor dispute pre-Series A
+2. Missing chain of title in due diligence
+3. Patent attribution rejected at prosecution
+4. Acquirer walks on IP ownership gap
 
-#AIOperations #FractionalCFO #Finance
+Costs nothing to fix before you sign.
+
+Costs everything to fix after the fact.
+
+#IPStrategy #IntellectualProperty #Founders
