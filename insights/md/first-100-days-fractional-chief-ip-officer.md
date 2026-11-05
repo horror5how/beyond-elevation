@@ -2,8 +2,8 @@
 title: "The First 100 Days of a Fractional Chief IP Officer: The Sequence That Builds a Portfolio, Not a Paper Pile"
 slug: first-100-days-fractional-chief-ip-officer
 date: 2026-11-05
-url: https://beyondelevation.com/insights/first-100-days-fractional-chief-ip-officer/
-author: Beyond Elevation Team
+url: https://beyondelevation.com/insights/first-100-days-fractional-chief-ip-officer
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -69,6 +69,18 @@ Law firms bill hours. A fractional CIPO is measured on portfolio value created, 
 
 Beyond Elevation places fractional Chief IP Officers who have sat in the operator seat — not former attorneys rebranded as strategists. The first 100 days is where that difference shows. [Book an IP strategy consultation](https://beyondelevation.com) to see what a structured 100-day engagement would look like for your portfolio.
 
+
+
+---
+
+### Want this position in your company?
+
+Beyond Elevation places exited C-suite operators into fractional executive positions: Chief Financial Officer, Chief IP Officer, AI Operations. A free 30 minute call, straight answer, no pitch. If there is nothing worth doing, we say so on the call.
+
+[Book a free call →](https://beyondelevation.com/call)
+
+---
+
 ## FAQ
 
 ### How much does a fractional Chief IP Officer cost for 100 days?
@@ -90,3 +102,6 @@ A consultant delivers a report. A fractional CIPO delivers an operating IP funct
 ### How quickly can a fractional Chief IP Officer generate ROI?
 
 The fastest return comes from identifying licensable IP in the existing portfolio that no one has commercialised. In several Beyond Elevation engagements, the first licensing conversation was opened within 60 days of the CIPO starting. Full ROI on the engagement — where licensing revenue or valuation uplift exceeds the retainer — typically occurs within six to nine months.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
