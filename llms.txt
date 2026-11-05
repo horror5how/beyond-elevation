@@ -547,5 +547,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Forward deployed engineer as a service: what it is, who sells it and what it costs in 2026](https://beyondelevation.com/insights/forward-deployed-engineer-as-a-service) — /insights/md/forward-deployed-engineer-as-a-service.md
 - [Retainer, Day Rate, or Equity: How to Structure a Fractional Executive Deal That Works](https://beyondelevation.com/insights/fractional-executive-deal-structure) — /insights/md/fractional-executive-deal-structure.md
 - [Most Fractional CFOs Cannot Read an AI Company's P&L. Here Is What to Hire Instead.](https://beyondelevation.com/insights/fractional-cfo-for-ai-company) — /insights/md/fractional-cfo-for-ai-company.md
+- [AI for manufacturing companies: the 7 operations to fix first, and when to hire an FDE](https://beyondelevation.com/insights/ai-for-manufacturing-companies) — /insights/md/ai-for-manufacturing-companies.md
 
 > Full blog content available at /llms-full.txt
