@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 A forward deployed engineer costs a US company $150,000 to $217,000 in base salary as a full time hire, close to $300,000 in year one once benefits and a recruiter fee are added. Contract rates run $95 to $235 an hour. Fractional starts from $5,800 a month.
 
-Hayat Amin spent twenty years as a technology CFO and sold three companies, so he has signed the offers, read the payroll and watched what a senior hire costs the business in its first year. He now does this work himself as a forward deployed engineer. This piece puts the four ways to pay for one side by side, with the arithmetic shown, and tells you what to do this week before you spend any of it.
+Hayat Amin spent twenty years as a technology CFO and sold three companies. He's signed the offers, read the payroll, and watched what a senior hire costs a business in its first year. Now he does this work himself, as a forward deployed engineer. This piece lays out the four ways to pay for one, side by side, with the arithmetic shown, and tells you what to do this week before you spend any of it.
 
 ## why the price has gone up
 
@@ -23,7 +23,7 @@ Paraform's hiring guide, published on 20 October 2026, puts forward deployed eng
 
 Base salary isn't the cost. The US Bureau of Labor Statistics release of 9 September 2026 says wages were 70.0% of what private employers paid per hour worked in June 2026, with benefits the other 30.0%. That's an average across all private sector workers, so treat it as a rough guide for a senior engineer, not a quote. Apply it to a $180,000 base and the employment cost is about $257,000 a year. Add Paraform's recruiter fee of around 25% of first year base, which is $45,000 on the same salary, and year one comes to roughly $302,000 before equity. That's our arithmetic, and the inputs are all named above.
 
-Then there's the wait. Paraform tells companies to budget 8 to 12 weeks for the search. For those weeks the stuck pilot stays stuck.
+Then there's the wait. Paraform tells companies to budget 8 to 12 weeks for the search. For those weeks, the stuck pilot stays stuck.
 
 A full time hire is right when you have a pipeline of deployment work for the next two years, not one broken workflow.
 
@@ -75,7 +75,7 @@ If step 4 shows a handful of bad fields, your team can likely fix it. If it show
 
 ## About Hayat Amin
 
-Hayat Amin has spent twenty years in technology, most of it as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's exceptional at the question this article asks, because he reads the cost of a hire the way a buyer's due diligence team will: what it costs in year one, what it returns, and whether the number holds up. He builds the AI operations himself, connects systems that don't talk to each other and puts a real time dashboard in front of the chief executive. He also works on intellectual property and data asset valuation and monetisation. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+Hayat Amin has spent twenty years in technology, most of it as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's well placed to answer the question this article asks, because he reads the cost of a hire the way a buyer's due diligence team will: what it costs in year one, what it returns, and whether the number holds up. He builds the AI operations himself, connects systems that don't talk to each other, and puts a real time dashboard in front of the chief executive. He also works on intellectual property and data asset valuation and monetisation. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 If you want to know whether your stuck workflow needs a forward deployed engineer at all, we do a free audit call: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 

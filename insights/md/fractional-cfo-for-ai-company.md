@@ -9,13 +9,13 @@ site: Beyond Elevation
 
 # Most Fractional CFOs Cannot Read an AI Company's P&L. Here Is What to Hire Instead.
 
-Your AI company's P&L has line items your fractional CFO has never seen. GPU compute, inference costs, training amortisation, data acquisition — these are not SaaS metrics with different names. They are fundamentally different cost structures that break every financial model built on subscription-revenue assumptions. Hayat Amin argues that the fastest way to test whether your CFO understands AI economics is one question: what is your cost per inference? If they cannot answer it, they are building your financial model blind.
+Your AI company's P&L has line items your fractional CFO has never seen: GPU compute, inference costs, training amortisation, data acquisition. These carry cost structures that break every financial model built on subscription-revenue assumptions. Hayat Amin argues that the fastest way to test whether your CFO understands AI economics is one question: what is your cost per inference? If they can't answer it, they're building your financial model blind.
 
-According to Bessemer Venture Partners' 2026 State of Cloud report, AI-native companies operate at gross margins between 40% and 65% — compared to 75% to 85% for traditional SaaS. That margin compression changes every downstream metric your investors use to price your round.
+According to Bessemer Venture Partners' 2026 State of Cloud report, AI-native companies operate at gross margins between 40% and 65%, compared to 75% to 85% for traditional SaaS. That margin compression changes every downstream metric your investors use to price your round.
 
 ## What Makes a Fractional CFO for an AI Company Different from a SaaS CFO?
 
-A fractional CFO for an AI company must understand compute cost structures, inference unit economics, and the revenue model differences between AI-native and SaaS businesses — three areas that traditional SaaS finance training does not cover.
+A fractional CFO for an AI company must understand compute cost structures, inference unit economics, and the revenue model differences between AI-native and SaaS businesses, three areas that traditional SaaS finance training does not cover.
 
 In a SaaS business, COGS means hosting, support, and payment processing. Gross margins sit comfortably above 75%. The CFO's job is to track CAC, LTV, net retention, and cash conversion. The financial model runs on a subscription waterfall that any competent finance professional can build.
 
@@ -31,47 +31,47 @@ A fractional CFO for an AI company must track three metrics that do not exist on
 
 **GPU utilisation rate.** The average AI company utilises 55% to 65% of its GPU capacity. The best operators hit 85% or higher. Every percentage point of unused GPU capacity is money you are paying for and not using. A good CFO builds utilisation targets into the capacity planning model and flags wastage before it compounds.
 
-**Training-to-inference cost ratio.** Early-stage AI companies spend 80% of compute budget on training and 20% on inference. As the product scales, that ratio should flip. If your CFO does not model this transition, your cash runway projection is wrong — and you will run out of money months before your model predicts.
+**Training-to-inference cost ratio.** Early-stage AI companies spend 80% of compute budget on training and 20% on inference. As the product scales, that ratio should flip. If your CFO does not model this transition, your cash runway projection is wrong, and you will run out of money months before your model predicts.
 
-## Why Do SaaS CFO Frameworks Break for AI Companies?
+## Why do SaaS CFO frameworks break for AI companies?
 
-SaaS financial frameworks assume stable gross margins, predictable cost scaling, and subscription-based revenue recognition — none of which hold for AI companies. Applying SaaS frameworks to an AI P&L understates costs, overstates margins, and misleads investors.
+SaaS financial frameworks assume stable gross margins, predictable cost scaling, and subscription-based revenue recognition. None of that holds for an AI company. Apply a SaaS framework to an AI P&L and you understate costs, overstate margins, and mislead investors.
 
-Take CAC and LTV. In SaaS, customer lifetime value is revenue minus support costs over the customer's lifespan. In AI, every customer interaction carries a variable compute cost. A customer who makes 10x more API calls than average is not 10x more valuable — they might be unprofitable if your inference costs exceed their revenue contribution. Your CFO needs a usage-weighted LTV model, not a subscription-based one.
+Take CAC and LTV. In SaaS, customer lifetime value is revenue minus support costs over the customer's lifespan. In AI, every customer interaction carries a variable compute cost. A customer who makes 10x more API calls than average isn't 10x more valuable. If their inference costs exceed their revenue, they're unprofitable. Your CFO needs a usage-weighted LTV model, not a subscription-based one.
 
 Revenue recognition creates another gap. Most AI companies charge on a usage or consumption basis. Revenue does not arrive in predictable monthly blocks. Cash flow forecasting requires a demand model, not a churn model. Hayat Amin's AI Finance Readiness Test starts with one question: can your CFO build a revenue forecast from usage data rather than contract values? If they default to ARR projections, they are building a fiction.
 
 Capacity planning is the third break point. In SaaS, infrastructure scales elastically. In AI, GPU capacity must be reserved or contracted in advance. A CFO who does not model GPU procurement timelines, spot versus reserved pricing, and the impact of model architecture changes on compute requirements will present a cash runway that ignores your largest variable cost.
 
-## How Do You Evaluate Whether a Fractional CFO Understands AI Economics?
+## How do you evaluate whether a fractional CFO understands AI economics?
 
 Ask five questions before you hire. If a candidate cannot answer at least four, they will cost you more in misallocated capital than they save in financial management. Beyond Elevation runs this screening on every fractional CFO placement for AI companies.
 
-**1. What is the difference between training cost and inference cost, and how do you amortise training?** The right answer involves amortisation over the model's useful life, typically 6 to 18 months depending on retraining cycles.
+**1. Ask them the difference between training cost and inference cost, and how they amortise training.** The right answer involves amortisation over the model's useful life, typically 6 to 18 months depending on retraining cycles.
 
-**2. How do you model gross margin for a usage-based AI product?** The right answer separates model-layer margin from platform margin. A blended number hides the problem.
+**2. Ask how they'd model gross margin for a usage-based AI product.** The right answer separates model-layer margin from platform margin. A blended number hides the problem.
 
-**3. What GPU pricing structures exist and when would you recommend reserved versus spot?** A CFO who has operated in AI knows the trade-offs between AWS, Azure, Google Cloud, and dedicated GPU providers like CoreWeave or Lambda.
+**3. Ask which GPU pricing structures exist and when they'd recommend reserved versus spot.** A CFO who has operated in AI knows the trade-offs between AWS, Azure, Google Cloud, and dedicated GPU providers like CoreWeave or Lambda.
 
-**4. How do you forecast revenue for a consumption-based AI product?** The right answer starts with usage cohort analysis, not ARR projections.
+**4. Ask how they'd forecast revenue for a consumption-based AI product.** The right answer starts with usage cohort analysis, not ARR projections.
 
-**5. What would you present to investors as the key AI-specific metrics alongside standard SaaS metrics?** Hayat Amin reminds founders that investors now benchmark AI companies separately from SaaS. The right CFO presents compute efficiency trends, cost-per-inference trajectory, and model improvement velocity alongside revenue and retention.
+**5. Ask what they'd present to investors as the key AI-specific metrics alongside standard SaaS metrics.** Hayat Amin reminds founders that investors now benchmark AI companies separately from SaaS. The right CFO presents compute efficiency trends, cost-per-inference trajectory, and model improvement velocity alongside revenue and retention.
 
-## What Should a Fractional CFO for an AI Company Build in the First 90 Days?
+## What should a fractional CFO for an AI company build in the first 90 days?
 
 A competent fractional CFO for an AI company delivers four things in the first 90 days: a compute cost model, a unit economics dashboard, an investor-ready AI metrics pack, and a cash runway model that accounts for GPU procurement cycles.
 
 **Weeks 1 to 4: the compute cost model.** Map every GPU instance, every training run, every inference endpoint. Calculate cost per inference at the model level and at the product level. Benchmark against industry medians. This model becomes the foundation for everything else.
 
-**Weeks 3 to 6: the unit economics dashboard.** Build a real-time view of revenue per customer, compute cost per customer, and gross margin per customer. Usage-weighted, not averaged. Flag unprofitable customer segments before they scale.
+**Weeks 3 to 6: the unit economics dashboard.** Build a real-time view of revenue per customer, compute cost per customer, and gross margin per customer, weighted by usage rather than averaged. Flag unprofitable customer segments before they scale.
 
 **Weeks 5 to 8: the investor metrics pack.** Investors see hundreds of AI company decks. Hayat Amin argues that the companies who close rounds faster present four things their competitors do not: cost-per-inference trends declining, GPU utilisation improving, gross margin at the model layer expanding, and a clear path from current margins to target margins. Package these in a quarterly board deck that speaks investor language.
 
 **Weeks 7 to 12: the GPU-aware cash runway model.** A cash runway model that ignores GPU procurement cycles is fiction. Reserved GPU contracts, spot pricing volatility, and model architecture changes all affect burn rate. The right model stress-tests three scenarios: current trajectory, 2x usage growth, and a model retraining event.
 
-## Where Do You Find a Fractional CFO Who Understands AI?
+## Where do you find a fractional CFO who understands AI?
 
-Beyond Elevation places fractional CFOs who have operated inside AI companies — not consultants who have read about them. The difference shows in the first board meeting. A CFO who has built compute cost models, negotiated GPU contracts, and presented AI-specific metrics to investors does not need a learning curve on your budget. [Book a call](https://beyondelevation.com) and describe your AI company's stage. If a fractional CFO is not the right fit, we will tell you.
+Beyond Elevation places fractional CFOs who have operated inside AI companies, not consultants who have read about them. The difference shows in the first board meeting. A CFO who has built compute cost models, negotiated GPU contracts, and presented AI-specific metrics to investors does not need a learning curve on your budget. [Book a call](https://beyondelevation.com) and describe your AI company's stage. If a fractional CFO is not the right fit, we will tell you.
 
 
 
@@ -89,7 +89,7 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### How much does a fractional CFO for an AI company cost?
 
-Expect £4,000 to £8,000 per month for a fractional CFO with genuine AI company experience. That is 60% to 70% less than a full-time hire at the same calibre, with no equity, no benefits overhead, and no 12-month notice period.
+Expect to pay £4,000 to £8,000 a month for a fractional CFO with genuine AI company experience, around 60% to 70% less than hiring a full-time CFO of the same calibre, with no equity, no benefits overhead, and no 12-month notice period.
 
 ### Can a SaaS CFO learn AI economics on the job?
 
@@ -101,7 +101,7 @@ As soon as compute costs exceed £10,000 per month. Below that threshold, a comp
 
 ### What is the biggest financial mistake AI companies make?
 
-Reporting SaaS-equivalent gross margins to investors by excluding compute costs from COGS. Investors catch this in diligence. The correction — sometimes 20 to 30 percentage points of margin compression — destroys trust and kills term sheets.
+Reporting SaaS-equivalent gross margins to investors by excluding compute costs from COGS. Investors catch this in diligence. The correction, sometimes 20 to 30 percentage points of margin compression, destroys trust and kills term sheets.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
