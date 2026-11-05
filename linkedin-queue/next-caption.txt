@@ -1,15 +1,17 @@
-56 days to year-end. Most founders are watching revenue.
+Most founders take 11 weeks to build a data room.
 
-The ones who exit well watch working capital.
+AI does it in 11 days.
 
-3 levers a CFO pulls in Q4:
+Not magic. Parallelism.
 
-Debtor chase: collect invoices before 20 Dec. Average unlock: £340K.
+AI extracts from accounting software, CRM, and contracts simultaneously.
+AI flags gaps against standard VC checklists in hours, not weeks.
+Your team fills the gaps and verifies. Not extracts.
 
-Supplier terms: extend December payables. Average timing gain: 18 days.
+The investors reviewing you in Q1 2027 are already looking at founders who move this fast.
 
-Prepayment audit: catch annual subscriptions auto-renewing. Average unnecessary spend found: £60K.
+The question is not whether to use AI for fundraising prep.
 
-These aren't accounting tactics. They're the difference between a clean January and a bridge round you didn't need.
+It is whether you will be the founder who figured it out before your round.
 
-#CFO #FractionalCFO #Finance
+#FractionalCFO #AIOperations #Fundraising
