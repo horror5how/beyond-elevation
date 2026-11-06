@@ -9318,3 +9318,19 @@ Hardware startups need a different fractional CFO because the financial mechanic
 The difference starts with the **cash conversion cycle**. A typical SaaS company collects payment before or at the point of delivery. A hardware company pays for raw materials 60 to 120 days before it ships a finished product, and then waits another 30 to 60 days for payment. That gap — often 90 to 180 da
 
 ---
+
+## Why do most AI pilots fail? Six reasons, and what to do this week
+
+URL: https://beyondelevation.com/insights/why-do-most-ai-pilots-fail
+
+Most AI pilots fail because they're built on clean demo data, owned by nobody in operations, and never wired into the systems where the work happens. MIT's NANDA initiative found that about 95% of enterprise generative AI pilots deliver little to no measurable impact on profit and loss. The model is rarely the problem.
+
+Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads a pilot the way a buyer reads a business: does the number hold up when a stranger opens it? Now he builds AI operations inside companies himself, as a forward deployed engineer. This piece sets out why pilots stall, what the two biggest studies found, and six steps you can take this week to get yours moving or to kill it cleanly.
+
+## what the research says
+
+The 95% figure comes from *The GenAI Divide: State of AI in Business 2025*, published by MIT's NANDA initiative with Aditya Challapally as lead author and reported by Fortune on 18 August 2025. It draws on 150 interviews with leaders, a survey of 350 employees and an analysis of 300 public AI deployments. About 5% of pilots reached rapid revenue acceleration. The authors put the rest down to a "learning gap" in the tools and in the companies using them, not to model quality or regulation.
+
+S&P Global Market Intelligence found the same pattern from another direction. Its survey of more than 1,000 respondents in North America and Europe, reported by CIO Dive on 14 March 2025, says 42% of businesses scrapped most of the
+
+---

@@ -550,5 +550,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI for manufacturing companies: the 7 operations to fix first, and when to hire an FDE](https://beyondelevation.com/insights/ai-for-manufacturing-companies) — /insights/md/ai-for-manufacturing-companies.md
 - [The First 100 Days of a Fractional Chief IP Officer: The Sequence That Builds a Portfolio, Not a Paper Pile](https://beyondelevation.com/insights/first-100-days-fractional-chief-ip-officer) — /insights/md/first-100-days-fractional-chief-ip-officer.md
 - [SaaS CFOs Break Hardware Companies. Here Is What a Hardware CFO Actually Does Differently.](https://beyondelevation.com/insights/fractional-cfo-hardware-startups) — /insights/md/fractional-cfo-hardware-startups.md
+- [Why do most AI pilots fail? Six reasons, and what to do this week](https://beyondelevation.com/insights/why-do-most-ai-pilots-fail) — /insights/md/why-do-most-ai-pilots-fail.md
 
 > Full blog content available at /llms-full.txt
