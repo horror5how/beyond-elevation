@@ -1,13 +1,17 @@
-Your co-founder left in month 4. They took your core IP with them.
+Most founders have never had a CFO audit their pricing.
 
-You had a signed IP assignment. You had no vesting schedule on it.
+The gap between what you charge and what you could charge is 8–12 margin points.
 
-73% of UK startup IP assignments have no vesting provision.
+4 places a good CFO looks first:
 
-A founder who departs in month 2 walks out with full legal title to your technology — and your investors find out before you do.
+1. Discounting — 68% of deals close below list price with no pushback.
 
-One clause fixes it. Most founders only discover it's missing during due diligence.
+2. Contract terms — payment milestones costing 3–4 weeks of cash.
 
-A Chief IP Officer reviews this on day 1 of a 90-day engagement.
+3. Tiering — most SaaS pricing has 3 tiers but 60% of revenue in one.
 
-#IPStrategy #StartupLegal #FractionalCIPO
+4. Cost-to-serve — the client you think is profitable often isn't.
+
+A CFO who only closes the books hasn't done their job.
+
+#FractionalCFO #PricingStrategy #Founders
