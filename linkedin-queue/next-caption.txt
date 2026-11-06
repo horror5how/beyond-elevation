@@ -1,17 +1,19 @@
-Most founders have never had a CFO audit their pricing.
+Buyers in 2027 will check how you run your AI.
 
-The gap between what you charge and what you could charge is 8–12 margin points.
+Not what tools you have. How they run.
 
-4 places a good CFO looks first:
+Do your agents have owners?
 
-1. Discounting — 68% of deals close below list price with no pushback.
+Is there a governance layer?
 
-2. Contract terms — payment milestones costing 3–4 weeks of cash.
+Can you show output quality over time?
 
-3. Tiering — most SaaS pricing has 3 tiers but 60% of revenue in one.
+Three questions. Most founders have no answers.
 
-4. Cost-to-serve — the client you think is profitable often isn't.
+73% of acquisition targets in 2026 had AI subscriptions. 11% had an AI operations function.
 
-A CFO who only closes the books hasn't done their job.
+The gap between "we use AI" and "AI is a function we run" is showing up in buyer conversations now.
 
-#FractionalCFO #PricingStrategy #Founders
+Build the function before they ask.
+
+#AIOperations #BeyondElevation #FractionalExecutive
