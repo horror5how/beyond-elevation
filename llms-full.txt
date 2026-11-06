@@ -9225,15 +9225,15 @@ The reason the payback window is 90 days and not twelve months is that the highe
 
 URL: https://beyondelevation.com/insights/forward-deployed-engineer-as-a-service
 
-Forward deployed engineer as a service means you rent the engineer instead of hiring one. A firm sends a forward deployed engineer into your company for a set number of days a week or a fixed project, they build inside your own systems, and you pay a monthly fee or a project price instead of a $150,000 to $217,000 salary.
+Forward deployed engineer as a service means you rent the engineer instead of hiring one. A firm sends a forward deployed engineer into your company for a set number of days a week, or for a fixed project. They build inside your own systems, and you pay a monthly fee or a project price instead of a $150,000 to $217,000 salary.
 
-Hayat Amin has spent twenty years as a technology CFO and sold three companies, and he now does this work himself as a forward deployed engineer, sold as a service through Beyond Elevation. This piece is written from the seller&rsquo;s chair, with the prices on the table. It covers who sells it in 2026, what it costs, when it beats a hire, and what you should check this week before you buy any of it.
+Hayat Amin has spent twenty years as a technology CFO and sold three companies, and he now does this work himself as a forward deployed engineer, sold as a service through Beyond Elevation. This piece is written from the seller's chair, with the prices on the table. It covers who sells it in 2026, what it costs, when it beats a hire, and what you should check this week before you buy any of it.
 
 ## what you get when you buy it
 
-The job is the same one a full-time forward deployed engineer does. Someone sits with your team, maps the process that&rsquo;s broken, then builds the fix on top of the tools you already run, and stays until it works on your real data. The difference is the contract. You aren&rsquo;t adding a seat to payroll, waiting through a search, or paying a recruiter. You&rsquo;re buying days, or an outcome, from a firm that already employs the engineer.
+The job is the same one you'd get from an in-house forward deployed engineer. Someone sits with your team, maps the process that's broken, then builds the fix on top of the tools you already run, and stays until it works on your real data. The difference is the contract. You aren't adding a seat to payroll, waiting through a search, or paying a recruiter. You're buying days, or an outcome, from a firm that already employs the engineer.
 
-OpenAI describes its own version in plain terms. Its forward deployed engineers work with business leaders and frontline teams, usually start with a targeted assessment of the most promising workflows, then build and test production systems that connect the models to the customer&rsquo;s
+OpenAI describes its own version in plain terms. Its forward deployed engineers work with business leaders and frontline teams, and usually start with a targeted assessment of the most promising workflows. They build and test production systems that connect the models to the customer's data, tool
 
 ---
 
@@ -9243,15 +9243,15 @@ URL: https://beyondelevation.com/insights/fractional-executive-deal-structure
 
 The wrong deal structure kills more fractional executive engagements than the wrong operator.
 
-According to a 2025 Staffing Industry Analysts report, the flexible executive talent market grew 31% year on year, with fractional C-suite placements accounting for the fastest-growing segment. Hayat Amin argues that the surge has created a dangerous mismatch: founders are hiring fractional executives faster than they are learning how to structure the deal. The result is compensation that incentivises the wrong behaviour, misaligns timelines, and ends a productive engagement inside six months.
+According to a 2025 Staffing Industry Analysts report, the flexible executive talent market grew 31% year on year, and fractional C-suite placements are the fastest-growing segment within it. Hayat Amin argues the surge has created a mismatch: founders are hiring fractional executives faster than they're learning how to structure the deal. The pay structure ends up rewarding the wrong behaviour, timelines drift out of sync, and a productive engagement folds inside six months.
 
-Three compensation models dominate fractional executive deal structures in 2026: monthly retainer, day rate, and equity-linked hybrid. Each suits a different company stage, scope, and exit horizon. The structure you pick determines whether the operator builds systems or delivers slide decks.
+Three compensation models dominate fractional executive deal structures in 2026: monthly retainer, day rate, and equity-linked hybrid. Each suits a different company stage, scope, and exit horizon. The structure you pick decides whether the operator builds systems or just delivers slide decks.
 
 ## What are the three fractional executive deal structures?
 
-The three fractional executive deal structures are the monthly retainer, the day rate, and the equity-linked hybrid. Each creates different incentives, different commitment levels, and different risk profiles for both the company and the operator. Most founders default to whichever structure the fractional executive proposes, which is exactly the wrong way to make this decision.
+The three fractional executive deal structures are the monthly retainer, the day rate, and the equity-linked hybrid. Each sets a different incentive, a different commitment level, and a different risk profile for the company and the operator. Most founders default to whichever structure the fractional executive proposes, which is exactly the wrong way to make this decision.
 
-The monthly retainer pays a fixed fee, typically £3,000 to £12,000 per month for a fractional CFO, £4,000 to £10,000 for a fractional Chief IP Officer, and £5,000 to £
+The monthly retainer pays a fixed fee, typically £3,000 to £12,000 per month for a fractional CFO, £4,000 to £10,000 for a fractional Chief IP Officer, and £5,000 to £15,000 for an AI Oper
 
 ---
 
@@ -9261,15 +9261,15 @@ URL: https://beyondelevation.com/insights/fractional-cfo-for-ai-company
 
 Your AI company's P&L has line items your fractional CFO has never seen: GPU compute, inference costs, training amortisation, data acquisition. These carry cost structures that break every financial model built on subscription-revenue assumptions. Hayat Amin argues that the fastest way to test whether your CFO understands AI economics is one question: what is your cost per inference? If they can't answer it, they're building your financial model blind.
 
-According to Bessemer Venture Partners' 2026 State of Cloud report, AI-native companies operate at gross margins between 40% and 65%, compared to 75% to 85% for traditional SaaS. That margin compression changes every downstream metric your investors use to price your round.
+According to Bessemer Venture Partners' 2026 State of Cloud report, AI-native companies operate at gross margins between 40% and 65%, compared with 75% to 85% for traditional SaaS. That margin compression changes every downstream metric your investors use to price your round.
 
-## What Makes a Fractional CFO for an AI Company Different from a SaaS CFO?
+## What makes a fractional CFO for an AI company different from a SaaS CFO?
 
-A fractional CFO for an AI company must understand compute cost structures, inference unit economics, and the revenue model differences between AI-native and SaaS businesses, three areas that traditional SaaS finance training does not cover.
+A fractional CFO for an AI company must understand compute cost structures, inference unit economics and the revenue model differences between AI-native and SaaS businesses, three areas that traditional SaaS finance training does not cover.
 
-In a SaaS business, COGS means hosting, support, and payment processing. Gross margins sit comfortably above 75%. The CFO's job is to track CAC, LTV, net retention, and cash conversion. The financial model runs on a subscription waterfall that any competent finance professional can build.
+In a SaaS business, COGS means hosting, support and payment processing. Gross margins sit comfortably above 75%. The CFO's job is to track CAC, LTV, net retention and cash conversion. The financial model runs on a subscription waterfall that any competent finance professional can build.
 
-In an AI business, COGS includes GPU compute, model training runs, inference serving, data licensing, and annotation costs. Those costs scale non-linearly 
+In an AI business, COGS includes GPU compute, model training runs, inference serving, data licensing and annotation costs. Those costs scale non-linearly wi
 
 ---
 
@@ -9277,15 +9277,15 @@ In an AI business, COGS includes GPU compute, model training runs, inference ser
 
 URL: https://beyondelevation.com/insights/ai-for-manufacturing-companies
 
-AI for manufacturing companies pays off first in the office, not on the line. The quick wins are the jobs where a person retypes data between systems: customer orders keyed into the ERP, quotes rebuilt from drawings, maintenance logged on paper, and a production number the owner can't see until month end. Fix those joins, then put a live dashboard on top.
+For manufacturing companies, AI pays off first in the office, long before it reaches the production line. The quick wins are the jobs where someone retypes data between systems: customer orders keyed into the ERP, quotes rebuilt from drawings, maintenance logged on paper, and a production number the owner can't see until month end. Fix those joins, then put a live dashboard on top.
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds these joins inside companies himself as a forward deployed engineer. This piece is for the CEO or COO of a US manufacturer, roughly 20 to 500 people, who's weighing whether to hire someone for AI operations and wants to know what that person would fix first.
 
-## what the surveys say manufacturers are doing with AI
+## What the surveys say manufacturers are doing with AI
 
 The Manufacturing Leadership Council's Smart Factories and Digital Production Survey, published on 31 January 2025, found 22% of manufacturers scaling or at scale with AI, and another 42% piloting at least one AI project. Lack of data interoperability was a top three roadblock for 22% of them. In plain terms, most manufacturers are stuck between the pilot and the plant, and the reason is usually that their systems don't share data.
 
-The labour side makes this urgent. Deloitte and the Manufacturing Institute reported on 3 April 2024 that US manufacturing could need as many as 3.8 million additional employees between 2024 and 2033, and that 1.9 million of those jobs could go unfilled. 65% of the manufacturers they surveyed
+The labour side makes this urgent. Deloitte and the Manufacturing Institute reported on 3 April 2024 that US manufacturing could need as many as 3.8 million additional employees between 2024 and 2033, and that 1.9 million of those jobs could go unfilled. 65% of the 
 
 ---
 
@@ -9293,13 +9293,13 @@ The labour side makes this urgent. Deloitte and the Manufacturing Institute repo
 
 URL: https://beyondelevation.com/insights/first-100-days-fractional-chief-ip-officer
 
-Companies that hire a fractional Chief IP Officer in the first 100 days of an IP strategy overhaul see measurably different outcomes from those that wait. According to Ocean Tomo, intangible assets now represent 90 percent of S&P 500 market capitalisation — yet most companies below $50M in revenue have no one accountable for that value. Hayat Amin argues that the first 100 days of a fractional CIPO engagement determine whether a company's IP becomes a revenue-generating asset or stays an unmanaged cost centre. The difference is not talent. It is sequence.
+Companies that hire a fractional Chief IP Officer in the first 100 days of an IP strategy overhaul see measurably different outcomes from those that wait. According to Ocean Tomo, intangible assets now represent 90 percent of S&P 500 market capitalisation, yet most companies below $50M in revenue have no one accountable for that value. Hayat Amin argues that the first 100 days of a fractional CIPO engagement determine whether a company's IP becomes a revenue-generating asset or stays an unmanaged cost centre. The difference is not talent. It is sequence.
 
 Beyond Elevation has placed fractional Chief IP Officers into companies ranging from pre-revenue deep tech to $40M SaaS platforms. The pattern that separates a successful engagement from a wasted retainer is always the same: the CIPO who runs the right plays in the right order during days one through 100 builds a defensible, licensable portfolio. The one who starts filing on day three builds a pile of expensive paper.
 
-## What Does a Fractional Chief IP Officer Do in the First 100 Days?
+## What does a fractional Chief IP Officer do in the first 100 days?
 
-A fractional Chief IP Officer spends the first 100 days auditing existing IP, building a filing and licensing roadmap, and activating at least one revenue or defensibility outcome the board can measure. The role is not advisory — it is operational. A fractional CIPO takes ownership of the IP function the same way a [fractional CFO takes ownership of finance](/insights/first-100-days-fractional-cfo/): they build the system, not just the stra
+A fractional Chief IP Officer spends the first 100 days auditing existing IP, building a filing and licensing roadmap, and activating at least one revenue or defensibility outcome the board can measure. The role is operational, not advisory. A fractional CIPO takes ownership of the IP function the same way a [fractional CFO takes ownership of finance](/insights/first-100-days-fractional-cfo/): they build the operating system, and the strateg
 
 ---
 
@@ -9309,13 +9309,13 @@ URL: https://beyondelevation.com/insights/fractional-cfo-hardware-startups
 
 A fractional CFO for hardware startups manages cash conversion cycles, bill-of-materials costing, and inventory carrying costs that a SaaS-trained CFO has never touched. Hardware companies convert cash to inventory to revenue three to six times slower than software companies. Hire a CFO who has only optimised MRR and CAC, and your hardware startup will run out of runway before it ships.
 
-According to a 2026 CB Insights post-mortem analysis, 38% of hardware startups that fail cite cash mismanagement as a primary cause — nearly double the rate for software companies. Hayat Amin argues that the gap is not intelligence but experience: "A SaaS CFO who has never costed a bill of materials will misforecast your COGS by 15 to 30 percent. That error compounds through every unit you ship."
+According to a 2026 CB Insights post-mortem analysis, 38% of hardware startups that fail cite cash mismanagement as a primary cause, nearly double the rate for software companies. Hayat Amin argues the gap comes down to experience rather than intelligence: "A SaaS CFO who has never costed a bill of materials will misforecast your COGS by 15 to 30 percent. That error compounds through every unit you ship."
 
-## Why Do Hardware Startups Need a Different Fractional CFO?
+## Why do hardware startups need a different fractional CFO?
 
-Hardware startups need a different fractional CFO because the financial mechanics of physical products — inventory carrying costs, supplier payment terms, tooling amortisation, and warranty reserves — have no equivalent in software. A SaaS CFO optimises for monthly recurring revenue. A hardware CFO optimises for cash-to-cash cycle time.
+Hardware startups need a different fractional CFO because the financial mechanics of physical products, inventory carrying costs, supplier payment terms, tooling amortisation, and warranty reserves, have no equivalent in software. A SaaS CFO optimises for monthly recurring revenue. A hardware CFO optimises for cash-to-cash cycle time.
 
-The difference starts with the **cash conversion cycle**. A typical SaaS company collects payment before or at the point of delivery. A hardware company pays for raw materials 60 to 120 days before it ships a finished product, and then waits another 30 to 60 days for payment. That gap — often 90 to 180 da
+The difference starts with the **cash conversion cycle**. A typical SaaS company collects payment before or at the point of delivery. A hardware company pays for raw materials 60 to 120 days before it ships a finished product, and then waits another 30 to 60 days for payment. That gap, often 90 to 
 
 ---
 
@@ -9325,12 +9325,12 @@ URL: https://beyondelevation.com/insights/why-do-most-ai-pilots-fail
 
 Most AI pilots fail because they're built on clean demo data, owned by nobody in operations, and never wired into the systems where the work happens. MIT's NANDA initiative found that about 95% of enterprise generative AI pilots deliver little to no measurable impact on profit and loss. The model is rarely the problem.
 
-Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads a pilot the way a buyer reads a business: does the number hold up when a stranger opens it? Now he builds AI operations inside companies himself, as a forward deployed engineer. This piece sets out why pilots stall, what the two biggest studies found, and six steps you can take this week to get yours moving or to kill it cleanly.
+Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads a pilot the way a buyer reads a business: does the number hold up when a stranger opens it? Now he builds AI operations inside companies himself, as a forward deployed engineer. This piece covers why pilots stall, what the two biggest studies found, and six steps to get yours moving this week, or to kill it cleanly.
 
 ## what the research says
 
 The 95% figure comes from *The GenAI Divide: State of AI in Business 2025*, published by MIT's NANDA initiative with Aditya Challapally as lead author and reported by Fortune on 18 August 2025. It draws on 150 interviews with leaders, a survey of 350 employees and an analysis of 300 public AI deployments. About 5% of pilots reached rapid revenue acceleration. The authors put the rest down to a "learning gap" in the tools and in the companies using them, not to model quality or regulation.
 
-S&P Global Market Intelligence found the same pattern from another direction. Its survey of more than 1,000 respondents in North America and Europe, reported by CIO Dive on 14 March 2025, says 42% of businesses scrapped most of the
+S&P Global Market Intelligence found the same pattern from another direction. Its survey of more than 1,000 respondents in North America and Europe, reported by CIO Dive on 14 March 2025, says 42% of businesses scrapped most of their AI initiati
 
 ---

@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 Most AI pilots fail because they're built on clean demo data, owned by nobody in operations, and never wired into the systems where the work happens. MIT's NANDA initiative found that about 95% of enterprise generative AI pilots deliver little to no measurable impact on profit and loss. The model is rarely the problem.
 
-Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads a pilot the way a buyer reads a business: does the number hold up when a stranger opens it? Now he builds AI operations inside companies himself, as a forward deployed engineer. This piece sets out why pilots stall, what the two biggest studies found, and six steps you can take this week to get yours moving or to kill it cleanly.
+Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads a pilot the way a buyer reads a business: does the number hold up when a stranger opens it? Now he builds AI operations inside companies himself, as a forward deployed engineer. This piece covers why pilots stall, what the two biggest studies found, and six steps to get yours moving this week, or to kill it cleanly.
 
 ## what the research says
 
@@ -29,7 +29,7 @@ I'll list them in the order I'd check them, because the first two cause most of 
 
 - **It isn't connected to the systems of record.** The answer lands in a chat window, and someone copies it into HubSpot, Salesforce, QuickBooks or NetSuite by hand. Your staff are still retyping. You've added a step, not removed one.
 
-- **Nobody in operations owns it.** IT built it and operations was meant to use it. When it gets something wrong, there's no named person whose job is to fix the rule, so people quietly go back to the old way.
+- **Nobody in operations owns it.** IT built it and operations was meant to use it. Nobody owns the rule, so when it breaks, people quietly go back to the old way.
 
 - **The budget went to the wrong place.** MIT found more than half of generative AI budgets go to sales and marketing tools, while the biggest return showed up in back office automation. Invoices, order entry and month end reconciliation are dull, and that's where pilots pay.
 
@@ -63,7 +63,7 @@ Hayat Amin is the forward deployed engineer and AI operations specialist CEOs br
 
 ## About Hayat Amin
 
-Hayat Amin has spent twenty years in technology, most of it as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's exceptional at the part of AI work where pilots die: connecting systems that don't talk to each other, putting the result in production, and giving the chief executive a real time dashboard that proves it's working. He doesn't write a report about it, he builds it. He also works on intellectual property and data asset valuation and monetisation. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+Hayat Amin has spent twenty years in technology, most of it as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's exceptional at the part of AI work where pilots die: connecting systems that don't talk to each other, putting the result in production, and giving the chief executive a real time dashboard that proves it's working. He builds it instead of writing a report about it. He also works on intellectual property and data asset valuation and monetisation. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 If you want to know whether your stalled pilot is worth saving, we do a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 

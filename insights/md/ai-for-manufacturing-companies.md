@@ -9,11 +9,11 @@ site: Beyond Elevation
 
 # AI for manufacturing companies: the 7 operations to fix first, and when to hire an FDE
 
-AI for manufacturing companies pays off first in the office, not on the line. The quick wins are the jobs where a person retypes data between systems: customer orders keyed into the ERP, quotes rebuilt from drawings, maintenance logged on paper, and a production number the owner can't see until month end. Fix those joins, then put a live dashboard on top.
+For manufacturing companies, AI pays off first in the office, long before it reaches the production line. The quick wins are the jobs where someone retypes data between systems: customer orders keyed into the ERP, quotes rebuilt from drawings, maintenance logged on paper, and a production number the owner can't see until month end. Fix those joins, then put a live dashboard on top.
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds these joins inside companies himself as a forward deployed engineer. This piece is for the CEO or COO of a US manufacturer, roughly 20 to 500 people, who's weighing whether to hire someone for AI operations and wants to know what that person would fix first.
 
-## what the surveys say manufacturers are doing with AI
+## What the surveys say manufacturers are doing with AI
 
 The Manufacturing Leadership Council's Smart Factories and Digital Production Survey, published on 31 January 2025, found 22% of manufacturers scaling or at scale with AI, and another 42% piloting at least one AI project. Lack of data interoperability was a top three roadblock for 22% of them. In plain terms, most manufacturers are stuck between the pilot and the plant, and the reason is usually that their systems don't share data.
 

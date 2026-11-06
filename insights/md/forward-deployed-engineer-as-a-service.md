@@ -9,25 +9,25 @@ site: Beyond Elevation
 
 # Forward deployed engineer as a service: what it is, who sells it and what it costs in 2026
 
-Forward deployed engineer as a service means you rent the engineer instead of hiring one. A firm sends a forward deployed engineer into your company for a set number of days a week or a fixed project, they build inside your own systems, and you pay a monthly fee or a project price instead of a $150,000 to $217,000 salary.
+Forward deployed engineer as a service means you rent the engineer instead of hiring one. A firm sends a forward deployed engineer into your company for a set number of days a week, or for a fixed project. They build inside your own systems, and you pay a monthly fee or a project price instead of a $150,000 to $217,000 salary.
 
-Hayat Amin has spent twenty years as a technology CFO and sold three companies, and he now does this work himself as a forward deployed engineer, sold as a service through Beyond Elevation. This piece is written from the seller&rsquo;s chair, with the prices on the table. It covers who sells it in 2026, what it costs, when it beats a hire, and what you should check this week before you buy any of it.
+Hayat Amin has spent twenty years as a technology CFO and sold three companies, and he now does this work himself as a forward deployed engineer, sold as a service through Beyond Elevation. This piece is written from the seller's chair, with the prices on the table. It covers who sells it in 2026, what it costs, when it beats a hire, and what you should check this week before you buy any of it.
 
 ## what you get when you buy it
 
-The job is the same one a full-time forward deployed engineer does. Someone sits with your team, maps the process that&rsquo;s broken, then builds the fix on top of the tools you already run, and stays until it works on your real data. The difference is the contract. You aren&rsquo;t adding a seat to payroll, waiting through a search, or paying a recruiter. You&rsquo;re buying days, or an outcome, from a firm that already employs the engineer.
+The job is the same one you'd get from an in-house forward deployed engineer. Someone sits with your team, maps the process that's broken, then builds the fix on top of the tools you already run, and stays until it works on your real data. The difference is the contract. You aren't adding a seat to payroll, waiting through a search, or paying a recruiter. You're buying days, or an outcome, from a firm that already employs the engineer.
 
-OpenAI describes its own version in plain terms. Its forward deployed engineers work with business leaders and frontline teams, usually start with a targeted assessment of the most promising workflows, then build and test production systems that connect the models to the customer&rsquo;s data, tools and processes. That&rsquo;s a fair description of the whole category, whoever sells it.
+OpenAI describes its own version in plain terms. Its forward deployed engineers work with business leaders and frontline teams, and usually start with a targeted assessment of the most promising workflows. They build and test production systems that connect the models to the customer's data, tools and processes. That's a fair description of the whole category, whoever sells it.
 
 ## who sells forward deployed engineering as a service in 2026
 
-&ldquo;FDE as a service&rdquo; completed in Google in August 2026 with nothing credible ranking for it. Since then the big players have moved in, and almost all of them sell to large enterprises.
+"FDE as a service" completed in Google in August 2026 with nothing credible ranking for it. Since then the big players have moved in, and almost all of them sell to large enterprises.
 
 - OpenAI Deployment Company. Launched on 11 May 2026 with more than $4 billion in starting capital from 19 investors, led by TPG. It bought Tomoro, which brought about 150 engineers who could be placed with clients from day one. They work on site.
 
-- Ode with Anthropic. Launched in July 2026 with Blackstone and Hellman & Friedman, built on Anthropic&rsquo;s acquisition of Fractional AI.
+- Ode with Anthropic. Launched in July 2026 with Blackstone and Hellman & Friedman, built on Anthropic's acquisition of Fractional AI.
 
-- Deloitte. On 12 August 2026 Deloitte said it was the first global systems integrator to staff and deliver a Salesforce forward deployed engineering engagement, as a founding member of Salesforce&rsquo;s FDE Partner Network. The work centres on Agentforce.
+- Deloitte. On 12 August 2026 Deloitte said it was the first global systems integrator to staff and deliver a Salesforce forward deployed engineering engagement, as a founding member of Salesforce's FDE Partner Network. The work centres on Agentforce.
 
 - Accenture. It set up a forward deployed engineering practice with Microsoft in March 2026 and announced a second programme with ServiceNow in May 2026, aimed at taking agentic AI from pilot to production.
 
@@ -49,7 +49,7 @@ Buy it as a service when you've got one or two workflows worth fixing and no cas
 
 Hire when you have two years of deployment work queued, when the work needs someone in the building five days a week, or when the systems are your product and the knowledge has to stay in house. A firm that tells you to rent forever isn't being honest with you. The point of a good engagement is that it ends with software your team runs without the firm.
 
-One warning from the finance side. Ask who owns the code and the accounts on the last day. If the answer is the vendor, you haven't bought a service, you've bought a dependency, and the monthly fee is the real price of leaving.
+One warning from the finance side. Ask who owns the code and the accounts on the last day. If the answer is the vendor, you've bought a dependency. The monthly fee is the real price of leaving.
 
 ## what to do this week before you buy anything
 
