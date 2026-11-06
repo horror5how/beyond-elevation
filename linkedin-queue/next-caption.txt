@@ -1,17 +1,13 @@
-Most founders take 11 weeks to build a data room.
+Your co-founder left in month 4. They took your core IP with them.
 
-AI does it in 11 days.
+You had a signed IP assignment. You had no vesting schedule on it.
 
-Not magic. Parallelism.
+73% of UK startup IP assignments have no vesting provision.
 
-AI extracts from accounting software, CRM, and contracts simultaneously.
-AI flags gaps against standard VC checklists in hours, not weeks.
-Your team fills the gaps and verifies. Not extracts.
+A founder who departs in month 2 walks out with full legal title to your technology — and your investors find out before you do.
 
-The investors reviewing you in Q1 2027 are already looking at founders who move this fast.
+One clause fixes it. Most founders only discover it's missing during due diligence.
 
-The question is not whether to use AI for fundraising prep.
+A Chief IP Officer reviews this on day 1 of a 90-day engagement.
 
-It is whether you will be the founder who figured it out before your round.
-
-#FractionalCFO #AIOperations #Fundraising
+#IPStrategy #StartupLegal #FractionalCIPO
