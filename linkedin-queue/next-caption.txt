@@ -1,21 +1,23 @@
-Your board wants 3 scenarios for 2027.
+Most fractional executives fail because the company hired the wrong role first.
 
-Most founders send 1.
+73% of founders who've used fractional executives hired the wrong one first.
 
-The difference between base, upside, and downside is not a spreadsheet exercise.
+Not because the exec was bad.
 
-It tells your board how well you understand your own business.
+Because nobody told them the sequence.
 
-A fractional CFO builds the scenario architecture:
+Before Series A: CFO.
 
-Revenue tied to 2 key assumptions, not 7.
+Before scale-up: COO or AI Operations lead.
 
-Headcount phased against milestones, not calendar months.
+Before acquisition: Chief IP Officer.
 
-Cash floor defined for each scenario.
+Hire a COO when you need a CFO and you get operational efficiency with no capital to fund it.
 
-Board decision triggers written in advance.
+Hire a CIPO after diligence starts and you've already surrendered 30% of your exit multiple.
 
-Your accountant files last year's numbers. A CFO models the ones that decide next year.
+The first fractional hire sets the ceiling for every hire after it.
 
-#FractionalCFO #StartupFinance #FounderAdvice
+Get the sequence right.
+
+#FractionalExecutive #Founders #Leadership
