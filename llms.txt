@@ -556,5 +556,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The IP Operating Model Most Companies Never Build (And What It Costs Them at Exit)](https://beyondelevation.com/insights/ip-operating-model) — /insights/md/ip-operating-model.md
 - [How much does it cost to hire a forward deployed engineer through a recruiter?](https://beyondelevation.com/insights/how-much-does-it-cost-to-hire-a-forward-deployed-engineer-through-a-recruiter) — /insights/md/how-much-does-it-cost-to-hire-a-forward-deployed-engineer-through-a-recruiter.md
 - [Vendor Due Diligence: The Sell-Side CFO Playbook That Stops Buyers From Setting the Price](https://beyondelevation.com/insights/vendor-due-diligence-sell-side-cfo-playbook) — /insights/md/vendor-due-diligence-sell-side-cfo-playbook.md
+- [7 Questions That Expose a Fake Fractional Executive in the First Interview](https://beyondelevation.com/insights/how-to-vet-fractional-executive) — /insights/md/how-to-vet-fractional-executive.md
 
 > Full blog content available at /llms-full.txt
