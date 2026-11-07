@@ -9436,3 +9436,19 @@ Vetting a fractional executive requires testing for speed, systems thinking, and
 The failure mode is predictable. A company hires a fractional executive who looks senior on paper, gives them a retainer, and six months later the function is no better than b
 
 ---
+
+## Three People Ship More AI Than Twelve: the AI Operations Team Structure That Actually Works
+
+URL: https://beyondelevation.com/insights/ai-operations-team-structure
+
+Three people. That is the AI operations team structure most companies actually need. According to McKinsey's 2025 Global Survey on AI, fewer than 30 percent of companies have deployed AI beyond the pilot stage — and the most common reason is not technology. It is organisational bloat. Companies hire twelve people before a single agent goes live, then wonder why nothing ships.
+
+Hayat Amin argues that the biggest AI failure mode is not picking the wrong model — it is building the wrong team. Most companies copy the software engineering org chart for AI. Twelve titles, zero agents in production. The [AI operations operator](/insights/ai-operations-operator-vs-consultant/) who ships real automation runs a team of three — not a department of twelve.
+
+## What Is the Right AI Operations Team Structure?
+
+The right AI operations team structure is three roles: an operator, a builder, and a domain expert. The operator decides what to automate, in what order, and holds the business case. The builder wires the agents, integrations, and data pipelines. The domain expert knows the process being automated well enough to validate whether the output is correct.
+
+Every company that ships AI fast uses some version of this triad. Every company stuck in pilot purgatory has too many roles and not enough ownership. Beyond Elevation has deployed this structure across finance, legal, and operations teams — from five-person startups to 200-person scale-ups. The results are consistent: fewer people, fas
+
+---
