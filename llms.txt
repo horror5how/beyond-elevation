@@ -554,5 +554,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Most Fractional Executive Engagements Fail in Week One. The 14-Day Onboarding Playbook That Prevents It.](https://beyondelevation.com/insights/fractional-executive-onboarding-14-day-playbook) — /insights/md/fractional-executive-onboarding-14-day-playbook.md
 - [Fractional CFO vs Outsourced Accounting: Why Clean Books Do Not Close Funding Rounds](https://beyondelevation.com/insights/fractional-cfo-vs-outsourced-accounting) — /insights/md/fractional-cfo-vs-outsourced-accounting.md
 - [The IP Operating Model Most Companies Never Build (And What It Costs Them at Exit)](https://beyondelevation.com/insights/ip-operating-model) — /insights/md/ip-operating-model.md
+- [How much does it cost to hire a forward deployed engineer through a recruiter?](https://beyondelevation.com/insights/how-much-does-it-cost-to-hire-a-forward-deployed-engineer-through-a-recruiter) — /insights/md/how-much-does-it-cost-to-hire-a-forward-deployed-engineer-through-a-recruiter.md
 
 > Full blog content available at /llms-full.txt
