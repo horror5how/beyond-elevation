@@ -21,7 +21,7 @@ The difference starts with the **cash conversion cycle**. A typical SaaS company
 
 Then there is **BOM complexity**. A bill of materials for a single hardware SKU can run to 200 line items across 15 suppliers in four countries. Each line carries a landed cost that shifts with commodity prices, tariffs, shipping rates, and minimum order quantities. A CFO who has never managed a BOM will default to a flat COGS assumption. That assumption is wrong on day one and gets worse every quarter.
 
-**Inventory carrying costs** are the third wedge. Warehousing, insurance, obsolescence risk, and working capital tied up in unsold stock typically add 20 to 30 percent on top of the unit cost. SaaS companies have zero inventory. Hardware companies can have 40 percent of their total capital locked in a warehouse. A [working capital management strategy](/insights/working-capital-management-startups/) is existential, not optional.
+**Inventory carrying costs** are the third wedge. Warehousing, insurance, obsolescence risk, and working capital tied up in unsold stock typically add 20 to 30 percent on top of the unit cost. SaaS companies have zero inventory. Hardware companies can have 40 percent of their total capital locked in a warehouse. A [working capital management strategy](/insights/working-capital-management-startups/) is existential.
 
 ## What does a fractional CFO do for a hardware startup?
 
@@ -51,7 +51,7 @@ The five costliest financial mistakes hardware startups make are undercosting th
 
 **Mistake 3: No warranty reserves.** Most hardware startups set warranty reserves at zero until the first returns arrive. By then the P&L is already wrong. Industry-standard warranty reserve for consumer electronics runs 2 to 5 percent of revenue. For industrial hardware, 1 to 3 percent. A CFO who has shipped physical products knows these ranges from day one.
 
-**Mistake 4: Conflating gross margin with contribution margin.** A 55 percent gross margin looks strong until you realise it excludes shipping, returns, warranty costs, payment processing, and customer support. Contribution margin, the number investors care about, includes all variable costs. The gap between the two is 15 to 25 percentage points for hardware companies. A [unit economics model investors actually trust](/insights/unit-economics-investors-check-before-funding/) shows contribution margin, not gross margin.
+**Mistake 4: Conflating gross margin with contribution margin.** A 55 percent gross margin looks strong until you realise it excludes shipping, returns, warranty costs, payment processing, and customer support. Contribution margin, the number investors care about, includes all variable costs. The gap between the two is 15 to 25 percentage points for hardware companies. A [unit economics model investors trust](/insights/unit-economics-investors-check-before-funding/) shows contribution margin, not gross margin.
 
 **Mistake 5: Paying suppliers too early.** Founders pay invoices the day they arrive out of fear of losing the relationship. A hardware CFO pays on the last day of the agreed term, every time. On a £1M annual spend with net-60 terms, paying on day one instead of day 60 costs the company roughly £50K in lost working capital yield. That is money you set on fire to feel polite.
 
@@ -103,15 +103,15 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### Can a SaaS fractional CFO learn hardware finance on the job?
 
-Technically, yes. Practically, no, not on your runway. Hardware financial mistakes compound with every production run. A SaaS CFO learning BOM costing while you are shipping product is like a surgeon learning anatomy during surgery. Hire someone who has already made the expensive mistakes at another company.
+Technically, yes. Practically, no, not on your runway. Hardware financial mistakes compound with every production run. A SaaS CFO learning BOM costing while you're shipping product is like a surgeon learning anatomy during surgery. Hire someone who has already made the expensive mistakes at another company.
 
 ### Do hardware startups need a fractional CFO or someone full time?
 
-At pre-revenue through £5M in annual revenue, fractional. The operational complexity justifies specialised finance leadership, but not 40 hours a week of it. A fractional CFO at two to three days per week covers the critical functions, BOM costing, supplier terms, cash cycle management, without the £150K to £200K fully loaded cost of hiring someone full time.
+At pre-revenue through £5M in annual revenue, fractional. The operational complexity justifies specialised finance leadership, but not 40 hours a week of it. A fractional CFO at two to three days a week covers the critical functions, BOM costing, supplier terms, cash cycle management, without the £150K to £200K fully loaded cost of hiring someone full time.
 
-### What is the biggest difference between a hardware CFO and a SaaS CFO?
+### What's the biggest difference between a hardware CFO and a SaaS CFO?
 
-Cash timing. A SaaS CFO manages a business where revenue arrives before or at delivery. A hardware CFO manages a business where cash leaves the building 90 to 180 days before revenue arrives. That gap is the entire job. Everything else, inventory, suppliers, tooling, warranty, flows from it.
+Cash timing. A SaaS CFO manages a business where revenue arrives before or at delivery. A hardware CFO manages a business where cash leaves the building 90 to 180 days before revenue arrives. That gap is the whole job. Everything else, inventory, suppliers, tooling, warranty, flows from it.
 
 ### How do investors evaluate a hardware startup's financial model?
 

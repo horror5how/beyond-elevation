@@ -9281,11 +9281,11 @@ For manufacturing companies, AI pays off first in the office, long before it rea
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds these joins inside companies himself as a forward deployed engineer. This piece is for the CEO or COO of a US manufacturer, roughly 20 to 500 people, who's weighing whether to hire someone for AI operations and wants to know what that person would fix first.
 
-## What the surveys say manufacturers are doing with AI
+## the survey data on manufacturers and AI
 
 The Manufacturing Leadership Council's Smart Factories and Digital Production Survey, published on 31 January 2025, found 22% of manufacturers scaling or at scale with AI, and another 42% piloting at least one AI project. Lack of data interoperability was a top three roadblock for 22% of them. In plain terms, most manufacturers are stuck between the pilot and the plant, and the reason is usually that their systems don't share data.
 
-The labour side makes this urgent. Deloitte and the Manufacturing Institute reported on 3 April 2024 that US manufacturing could need as many as 3.8 million additional employees between 2024 and 2033, and that 1.9 million of those jobs could go unfilled. 65% of the 
+The labour side makes this urgent. Deloitte and the Manufacturing Institute reported on 3 April 2024 that US manufacturing could need as many as 3.8 million additional employees between 2024 and 2033, and that 1.9 million of those jobs could go unfilled. 65% of the manufacturers
 
 ---
 
@@ -9293,13 +9293,13 @@ The labour side makes this urgent. Deloitte and the Manufacturing Institute repo
 
 URL: https://beyondelevation.com/insights/first-100-days-fractional-chief-ip-officer
 
-Companies that hire a fractional Chief IP Officer in the first 100 days of an IP strategy overhaul see measurably different outcomes from those that wait. According to Ocean Tomo, intangible assets now represent 90 percent of S&P 500 market capitalisation, yet most companies below $50M in revenue have no one accountable for that value. Hayat Amin argues that the first 100 days of a fractional CIPO engagement determine whether a company's IP becomes a revenue-generating asset or stays an unmanaged cost centre. The difference is not talent. It is sequence.
+Companies that hire a fractional Chief IP Officer in the first 100 days of an IP strategy overhaul see measurably different outcomes from those that wait. According to Ocean Tomo, intangible assets now represent 90 percent of S&P 500 market capitalisation, yet most companies below $50M in revenue have no one accountable for that value. Hayat Amin argues that the first 100 days of a fractional CIPO engagement determine whether a company's IP becomes a revenue-generating asset or stays an unmanaged cost centre. The difference is sequence, not talent.
 
 Beyond Elevation has placed fractional Chief IP Officers into companies ranging from pre-revenue deep tech to $40M SaaS platforms. The pattern that separates a successful engagement from a wasted retainer is always the same: the CIPO who runs the right plays in the right order during days one through 100 builds a defensible, licensable portfolio. The one who starts filing on day three builds a pile of expensive paper.
 
 ## What does a fractional Chief IP Officer do in the first 100 days?
 
-A fractional Chief IP Officer spends the first 100 days auditing existing IP, building a filing and licensing roadmap, and activating at least one revenue or defensibility outcome the board can measure. The role is operational, not advisory. A fractional CIPO takes ownership of the IP function the same way a [fractional CFO takes ownership of finance](/insights/first-100-days-fractional-cfo/): they build the operating system, and the strateg
+A fractional Chief IP Officer spends the first 100 days auditing existing IP, building a filing and licensing roadmap, and activating at least one revenue or defensibility outcome the board can measure. The role is operational. A fractional CIPO takes ownership of the IP function the same way a [fractional CFO takes ownership of finance](/insights/first-100-days-fractional-cfo/): they build the operating system, and the strategy deck is one piece 
 
 ---
 
@@ -9331,7 +9331,7 @@ Hayat Amin has spent twenty years as a technology CFO and sold three companies, 
 
 The 95% figure comes from *The GenAI Divide: State of AI in Business 2025*, published by MIT's NANDA initiative with Aditya Challapally as lead author and reported by Fortune on 18 August 2025. It draws on 150 interviews with leaders, a survey of 350 employees and an analysis of 300 public AI deployments. About 5% of pilots reached rapid revenue acceleration. The authors put the rest down to a "learning gap" in the tools and in the companies using them, not to model quality or regulation.
 
-S&P Global Market Intelligence found the same pattern from another direction. Its survey of more than 1,000 respondents in North America and Europe, reported by CIO Dive on 14 March 2025, says 42% of businesses scrapped most of their AI initiati
+S&P Global Market Intelligence found the same pattern from another direction. Its survey of more than 1,000 respondents in North America and Europe, reported by CIO Dive on 14 March 2025, found 42% of businesses scrapped most of their AI initiat
 
 ---
 
@@ -9339,17 +9339,17 @@ S&P Global Market Intelligence found the same pattern from another direction. It
 
 URL: https://beyondelevation.com/insights/fractional-executive-onboarding-14-day-playbook
 
-73% of fractional executive engagements that end early show the first warning signs in the opening week. Not because the executive is wrong for the role. Because the company onboarded them like a consultant instead of an operator.
+73% of fractional executive engagements that end early show the first warning signs in the opening week. The executive usually isn't wrong for the role. The company onboarded them like a consultant instead of an operator.
 
 Hayat Amin has watched this pattern repeat across dozens of fractional placements at [Beyond Elevation](https://beyondelevation.com): a company hires a senior operator, hands them a brief and a meeting schedule, then wonders why nothing changes by week four. According to the Harvard Business Review 2025 executive transitions study, 40% of new executives fail to meet initial expectations within 18 months. For fractional executives on compressed timelines, the failure window shrinks to weeks, not months.
 
-The difference between a fractional engagement that delivers and one that fizzles is what happens in the first 14 days. Specifically, whether the company gives the operator three things: authority, access, and a diagnostic runway.
+The difference between a fractional engagement that delivers and one that fizzles comes down to the first 14 days, specifically whether the company gives the operator three things: authority, access, and a diagnostic runway.
 
-## Why Do Most Fractional Executive Engagements Fail in the First Month?
+## Why most fractional executive engagements fail in the first month
 
-Most fractional executive engagements fail because companies apply the wrong onboarding model. They treat a part-time operator like an external consultant: hand over a briefing deck, set a fortnightly meeting, and assume the rest sorts itself through emails and documents. Operators need decision-making authority, live system access, and direct lines to the people who hold the truth about what is broken.
+Most fractional executive engagements fail because companies apply the wrong onboarding model. They treat the executive like an external consultant: hand over a briefing deck, set a fortnightly meeting, and assume the rest sorts itself through emails and documents. Operators need decision-making authority, live system access, and direct lines to the people who hold the truth about what's broken.
 
-The consultant model works when someone is ad
+The consultant model works when someone is advising. It fails when someo
 
 ---
 
@@ -9357,15 +9357,15 @@ The consultant model works when someone is ad
 
 URL: https://beyondelevation.com/insights/fractional-cfo-vs-outsourced-accounting
 
-Most founders think their finance function is handled because they pay an outsourced accounting firm. They are wrong — and the gap between what they have and what they need is costing them funding rounds, board credibility, and exit multiples.
+Most founders think their finance function is handled because they pay an outsourced accounting firm. They are wrong, and the gap between what they have and what they need is costing them funding rounds, board credibility, and exit multiples.
 
-A fractional CFO and an outsourced accounting firm solve fundamentally different problems. Outsourced accounting handles compliance: bookkeeping, tax filing, payroll, bank reconciliations. A fractional CFO handles strategy: fundraising models, cash flow forecasting, board reporting, pricing architecture, and exit preparation. One keeps your records accurate. The other builds the financial story that gets your company funded.
+A fractional CFO and an outsourced accounting firm solve different problems. Outsourced accounting handles compliance: bookkeeping, tax filing, payroll, bank reconciliations. A fractional CFO handles strategy: fundraising models, cash flow forecasting, board reporting, pricing architecture, and exit preparation. One keeps your records accurate. The other builds the financial story that gets your company funded.
 
 According to a 2025 Kruze Consulting analysis of 800 venture-backed startups, companies that engaged a fractional CFO before their Series A raised at valuations 23 percent higher than companies relying on outsourced accounting alone. Hayat Amin argues this is the most expensive confusion in early-stage finance: "Founders tell me their accountant handles everything. Then I look at their board deck and there is no cash runway model, no unit economics, no scenario analysis. Investors do not fund clean books. They fund a clear financial thesis."
 
-## What Does Outsourced Accounting Actually Cover?
+## What does outsourced accounting cover?
 
-Outsourced accounting firms manage the compliance layer of your finance function: they record transactions, reconcile bank accounts, run payroll, prepare tax returns, and produce monthly financial statements. For companies u
+Outsourced accounting firms manage the compliance layer of your finance function: they record transactions, reconcile bank accounts, run payroll, prepare tax returns, and produce monthly financial statements. For companies under two million pounds 
 
 ---
 
@@ -9373,15 +9373,15 @@ Outsourced accounting firms manage the compliance layer of your finance function
 
 URL: https://beyondelevation.com/insights/ip-operating-model
 
-An IP operating model is the system that turns your patents, trade secrets, and proprietary data from dormant cost lines into licensing revenue, valuation premium, and competitive defensibility. Most companies file patents. Almost none have a system that connects those filings to licensing targets, board reporting, or exit value. That missing system is what an IP operating model fixes — and building one is the highest-ROI move most founders never make.
+An IP operating model is the system that turns your patents, trade secrets, and proprietary data from dormant cost lines into licensing revenue, valuation premium, and competitive defensibility. Most companies file patents. Almost none have a system that connects those filings to licensing targets, board reporting, or exit value. That missing system is what an IP operating model fixes, and building one is the highest-ROI move most founders never make.
 
-According to Ocean Tomo’s 2025 Intangible Asset Market Value Study, intangible assets now represent 90% of S&P 500 market value. Yet Hayat Amin argues that the gap between owning IP and operating IP is the most expensive gap in a founder’s business. When Beyond Elevation restructured the Position Imaging portfolio, the patents were strong — but no operating model existed to match those patents to licensable targets, track competitor filings, or report IP value to the board. The portfolio sat dormant. The operating model turned it into eight figures of recurring royalty revenue.
+According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now represent 90% of S&P 500 market value. Yet Hayat Amin argues that the gap between owning IP and operating IP is the most expensive gap in a founder's business. Beyond Elevation restructured the Position Imaging portfolio and found the patents were strong, but no operating model existed to match those patents to licensable targets, track competitor filings, or report IP value to the board. The portfolio sat dormant. The operating model turned it into eight figures of recurring royalty revenue.
 
 If your company has IP scattered across legal, engineering, and finance with no single owner and no commercial system behind it, you do not have an IP function. You have an IP expense.
 
-## What Is an IP Operating Model?
+## What is an IP operating model?
 
-An IP operating model is the organisational system — people, processes, and reporting cadence — that manages intellectual property as a business function rather than a legal task. It connects invention capture to filing strategy, filin
+An IP operating model is the organisational system, people, processes, and reporting cadence, that manages intellectual property as a business function rather than a legal task. It connects invention capture to filing strategy, filin
 
 ---
 

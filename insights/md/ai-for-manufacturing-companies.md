@@ -13,7 +13,7 @@ For manufacturing companies, AI pays off first in the office, long before it rea
 
 Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds these joins inside companies himself as a forward deployed engineer. This piece is for the CEO or COO of a US manufacturer, roughly 20 to 500 people, who's weighing whether to hire someone for AI operations and wants to know what that person would fix first.
 
-## What the surveys say manufacturers are doing with AI
+## the survey data on manufacturers and AI
 
 The Manufacturing Leadership Council's Smart Factories and Digital Production Survey, published on 31 January 2025, found 22% of manufacturers scaling or at scale with AI, and another 42% piloting at least one AI project. Lack of data interoperability was a top three roadblock for 22% of them. In plain terms, most manufacturers are stuck between the pilot and the plant, and the reason is usually that their systems don't share data.
 

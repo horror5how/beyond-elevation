@@ -55,7 +55,7 @@ Two invoices at 25% can cost you very different amounts. I'd read 4 clauses befo
 
 - The guarantee. Paraform runs a free replacement search if the hire leaves inside 90 days. Robert Half gives a 90 day pro rata guarantee if you pay within 15 days of the invoice, and 30 days if you don't. Robert Walters' US terms give no rebate, only a replacement inside 12 weeks.
 
-- When the money is due. Contingency is 100% on hire. Retained is a third at the start, a third at the shortlist and a third at completion, so you pay two thirds before you've met the person you hire.
+- Payment timing. Contingency is 100% on hire. Retained is a third at the start, a third at the shortlist and a third at completion, so you pay two thirds before you've met the person you hire.
 
 - Volume. Second Talent charges 25% for one hire and 20% each for three or more. If you're planning a second deployment role inside a year, say so up front.
 

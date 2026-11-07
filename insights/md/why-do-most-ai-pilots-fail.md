@@ -17,7 +17,7 @@ Hayat Amin has spent twenty years as a technology CFO and sold three companies, 
 
 The 95% figure comes from *The GenAI Divide: State of AI in Business 2025*, published by MIT's NANDA initiative with Aditya Challapally as lead author and reported by Fortune on 18 August 2025. It draws on 150 interviews with leaders, a survey of 350 employees and an analysis of 300 public AI deployments. About 5% of pilots reached rapid revenue acceleration. The authors put the rest down to a "learning gap" in the tools and in the companies using them, not to model quality or regulation.
 
-S&P Global Market Intelligence found the same pattern from another direction. Its survey of more than 1,000 respondents in North America and Europe, reported by CIO Dive on 14 March 2025, says 42% of businesses scrapped most of their AI initiatives that year, up from 17% the year before. The average company dropped 46% of its AI proofs of concept before they reached production. Cost, data privacy and security risk were the top obstacles named.
+S&P Global Market Intelligence found the same pattern from another direction. Its survey of more than 1,000 respondents in North America and Europe, reported by CIO Dive on 14 March 2025, found 42% of businesses scrapped most of their AI initiatives that year, up from 17% the year before. The average company dropped 46% of its AI proofs of concept before they reached production. Cost, data privacy and security risk were the top obstacles named.
 
 The two studies count different things, and people argue over the 95% headline. They still point the same way. Getting a demo to work is cheap. Getting it into production is where the money goes.
 
