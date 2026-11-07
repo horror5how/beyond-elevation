@@ -847,3 +847,4 @@ ip-assignment-vesting-founders-2026
 cfo-pricing-review-hidden-margin-2026
 ai-ops-ma-due-diligence-2027
 ip-december-deadline-founder-2026
+cfo-scenario-planning-2027
