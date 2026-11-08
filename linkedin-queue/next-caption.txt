@@ -1,21 +1,17 @@
-Most founders have IP worth licensing. Zero have a first deal.
+Most founders build a finance function backwards.
 
-Not because the IP has no value.
+They hire a bookkeeper. Then an accountant. Eventually, a CFO.
 
-Because nobody told them what a first deal looks like.
+By the time the CFO arrives, there are years of inconsistent data to clean.
 
-$50k upfront. 4% royalty. 3 years. That is a licensing deal.
+The right order: process first. Tools second. People third.
 
-You do not need a law firm. You need four clauses:
+A CFO-designed finance function closes the books in 2 days, not 8.
 
-1. What they are licensed to do
+It produces board-ready numbers before every meeting. Not 2 weeks before a raise.
 
-2. The minimum royalty ($25k to $150k is normal)
+63% of UK founders define the finance headcount before they define what the function should do.
 
-3. Your audit right
+The ones who design first raise at higher multiples and exit cleaner.
 
-4. Termination if they stop paying
-
-Your IP is not speculative. It is unlicensed.
-
-#IPStrategy #FractionalCIPO #Licensing
+#FractionalCFO #FinanceFunction #StartupFinance
