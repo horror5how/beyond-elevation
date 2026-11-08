@@ -1,15 +1,21 @@
-Your month-end close takes 8 days. The best fractional CFOs do it in 2.
+Most founders have IP worth licensing. Zero have a first deal.
 
-Not because they work faster.
+Not because the IP has no value.
 
-Because they replaced the manual work with AI agents.
+Because nobody told them what a first deal looks like.
 
-Agent 1: pulls actuals from the ERP at close-of-day on the 1st. No waiting for the team.
+$50k upfront. 4% royalty. 3 years. That is a licensing deal.
 
-Agent 2: runs variance analysis against budget. Flags every line over 5% with a reason code.
+You do not need a law firm. You need four clauses:
 
-Agent 3: drafts the board narrative. CFO reviews, edits 3 paragraphs, done.
+1. What they are licensed to do
 
-The 8-day close is a process problem. Not a headcount problem.
+2. The minimum royalty ($25k to $150k is normal)
 
-#FractionalCFO #AIOperations #MonthEndClose
+3. Your audit right
+
+4. Termination if they stop paying
+
+Your IP is not speculative. It is unlicensed.
+
+#IPStrategy #FractionalCIPO #Licensing
