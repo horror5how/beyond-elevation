@@ -560,5 +560,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Three People Ship More AI Than Twelve: the AI Operations Team Structure That Actually Works](https://beyondelevation.com/insights/ai-operations-team-structure) — /insights/md/ai-operations-team-structure.md
 - [AI implementation checklist: 9 things to check before AI goes live, and when to hire an FDE](https://beyondelevation.com/insights/ai-implementation-checklist) — /insights/md/ai-implementation-checklist.md
 - [Three Entities, Two Currencies, One Accountant: Why International Expansion Breaks Without a CFO](https://beyondelevation.com/insights/fractional-cfo-international-expansion) — /insights/md/fractional-cfo-international-expansion.md
+- [Hire a Fractional Executive Before the Crisis, or Pay 3x More](https://beyondelevation.com/insights/fractional-executive-pre-crisis-hire) — /insights/md/fractional-executive-pre-crisis-hire.md
 
 > Full blog content available at /llms-full.txt
