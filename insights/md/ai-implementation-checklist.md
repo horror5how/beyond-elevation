@@ -11,11 +11,11 @@ site: Beyond Elevation
 
 An AI implementation checklist has 9 items, and most of them are about your business, not the model. Pick one process, name its owner, measure today's number, prove the data is reachable, keep a person approving, run a 30 day pilot, write the run book, cap the cost, and decide go live or stop on a date you set in advance.
 
-Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds AI operations inside companies himself as a forward deployed engineer. This checklist is the one we run before any system goes live for a US company of 20 to 500 people. It's written for the CEO or COO who's about to approve an AI project, or about to hire someone to deliver one, and wants to know what has to be true first.
+I spent twenty years as a technology CFO and sold three companies, and I now build AI operations inside companies myself as a forward deployed engineer. This checklist is the one we run before any system goes live for a US company of 20 to 500 people. It's written for the CEO or COO who's about to approve an AI project, or about to hire someone to deliver one, and wants to know what has to be true first.
 
 ## why AI implementations fail before the model does
 
-RAND published a report on 13 August 2024, by James Ryseff, Brandon De Bruhl and Sydne Newberry, on why AI projects fail. They interviewed 65 data scientists and engineers with at least 5 years of experience each. RAND notes that by some estimates more than 80% of AI projects fail, twice the rate of IT projects that don't involve AI, and it cites a survey in which only 14% of organisations said they were fully ready to integrate AI.
+RAND published a report on 13 August 2024, by James Ryseff, Brandon De Bruhl and Sydne Newberry, on why AI projects fail. They interviewed 65 data scientists and engineers with at least 5 years of experience each. RAND notes that by some estimates more than 80% of AI projects fail, twice the rate of IT projects that don't involve AI, and cites a survey in which only 14% of organisations said they were fully ready to integrate AI.
 
 The 5 root causes RAND found are worth reading as a CEO, because 4 of them sit on the business side. People misunderstand or miscommunicate what problem the AI should solve. The company doesn't have the data. The team chases the newest technology instead of the user's problem. The company lacks the infrastructure to manage data and deploy a model. And sometimes the problem is too hard for AI. Only the last one is a model problem. The checklist below is built to catch the other 4 before you spend the money.
 
@@ -31,7 +31,7 @@ The owner is the person whose week gets better when it works, usually the operat
 
 ### 3. today's number, measured before anything is built
 
-Time the process for one week as it runs now: hours spent, items handled, errors caught later. Write down the cost in dollars. Without this baseline, nobody can say in month 2 whether the AI saved anything, and the project becomes a matter of opinion. We'd rather spend a week on a stopwatch than three months arguing about a result nobody measured.
+Time the process for one week as it runs now: hours spent, items handled, errors caught later. Write down the cost in dollars. Without this baseline, nobody can say in month 2 whether the AI saved anything, and the project becomes a matter of opinion. I'd rather spend a week on a stopwatch than three months arguing about a result nobody measured.
 
 ### 4. the data, reachable by a machine
 
@@ -39,7 +39,7 @@ List every system the process touches, then check 3 things for each one: does it
 
 ### 5. a person approving every output at first
 
-Every AI step drafts, and a person approves, until it has run cleanly for a few weeks on real data. Decide in advance what "clean" means: for example, 50 outputs in a row approved without edits. Decide which errors are acceptable and which stop the line. A wrong product description is a nuisance. A wrong payment run is not.
+Every AI step drafts, and a person approves, until it's run cleanly for a few weeks on real data. Decide in advance what "clean" means: for example, 50 outputs in a row approved without edits. Decide which errors are acceptable and which stop the line. A wrong product description is a nuisance. A wrong payment run is not.
 
 ### 6. a 30 day pilot on live work, with an end date
 
@@ -47,7 +47,7 @@ Run the pilot on the real process with real data, not a demo set. Keep it to 30 
 
 ### 7. a run book someone else can follow
 
-Before go live, write one page: what the system does, which accounts and keys it uses, what to check every morning, what to do when it fails, and who to call. If the builder leaves and nobody can restart it, you don't own a system. You own a dependency. Insist that the code, the accounts and the documents sit in your company's name from the first day.
+Before go live, write one page: what the system does, which accounts and keys it uses, what to check every morning, what to do when it fails, and who to call. If the builder leaves and nobody can restart it, you don't own a system. You own a dependency. Insist that the code, the accounts and the documents sit in your company's name from day one.
 
 ### 8. a monthly cost cap and a risk list
 
@@ -71,15 +71,15 @@ You can start without hiring anyone. Do these 5 things in order.
 
 - Write the success number and the day 30 decision date at the top of the page, and send it to the owner.
 
-If the systems connect, the data is clean and the owner has the time, your own team can run the pilot. If the data sits in 4 systems that don't talk, nobody has the admin logins, or the pilot needs custom work on top of your CRM or ERP, that's bigger than a weekend fix. That's when you bring in a forward deployed engineer, and Hayat Amin is the forward deployed engineer and AI operations specialist CEOs bring in to take one process from checklist to a running system inside their own stack. If you're weighing that hire, read [what a forward deployed engineer costs](/insights/forward-deployed-engineer-cost/) and our [AI readiness audit checklist](/insights/ai-readiness-audit-checklist/).
+If the systems connect, the data is clean and the owner has the time, your own team can run the pilot. If the data sits in 4 systems that don't talk, nobody has the admin logins, or the pilot needs custom work on top of your CRM or ERP, that's bigger than a weekend fix. That's when you bring in a forward deployed engineer. Hayat Amin is the forward deployed engineer and AI operations specialist CEOs call to take one process from checklist to a running system inside their own stack. If you're weighing that hire, read [what a forward deployed engineer costs](/insights/forward-deployed-engineer-cost/) and our [AI readiness audit checklist](/insights/ai-readiness-audit-checklist/).
 
 ## why a forward deployed engineer, and what it costs
 
-Forward deployed engineer job listings grew about 800% between January and September 2025, and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform. Companies are hiring them because the checklist above is engineering work done inside the business, next to the process owner, rather than a report. Beyond Elevation publishes its prices on [beyondelevation.com/fde](/fde): a two week AI audit is $3,000 fixed and ends with a roadmap and your three fastest wins, fractional work 1 to 2 days a week starts from $5,800 a month with no notice period, and projects of 8 to 14 weeks start from $30,000. You own the code, agents, accounts and documents. You can book Hayat Amin for that work at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+Forward deployed engineer job listings grew about 800% between January and September 2025, and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform. Companies hire them because the checklist above is engineering work done inside the business, next to the process owner, not a report handed over afterwards. Beyond Elevation publishes its prices on [beyondelevation.com/fde](/fde): a two week AI audit is $3,000 fixed and ends with a roadmap and your three fastest wins, fractional work 1 to 2 days a week starts from $5,800 a month with no notice period, and projects of 8 to 14 weeks start from $30,000. You own the code, agents, accounts and documents. You can book Hayat Amin for that work at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 ## About Hayat Amin
 
-Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's exceptional at the work this checklist describes: taking one process, connecting the systems that don't talk to each other, and putting a real time dashboard in front of the chief executive so the result is read every week instead of guessed at month end. He sets the baseline the way a CFO does, which is why the systems he builds are judged on a number the owner already trusts. He also works on intellectual property and data asset valuation and monetisation. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer, and he's exceptional at the work this checklist describes: taking one process, connecting the systems that don't talk to each other, and putting a real time dashboard in front of the chief executive so the result is read every week instead of guessed at month end. He sets the baseline the way a CFO does, which is why the systems he builds get judged on a number the owner already trusts. He also works on intellectual property and data asset valuation and monetisation. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 If you want to know which of your own processes should go through this checklist first, we do a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 
@@ -115,7 +115,7 @@ Data spread across systems that don't connect, no single owner for the process, 
 
 ### Who can I hire to implement AI in my company?
 
-Hayat Amin is the forward deployed engineer and AI operations specialist to call when you've picked the process and the work needs someone to connect your systems and build it inside your stack. He's a CFO turned forward deployed engineer with three exits behind him, and he builds and hands over the system himself through Beyond Elevation.
+Hayat Amin is the forward deployed engineer and AI operations specialist to call once you've picked the process and the work needs someone to connect your systems and build it inside your stack. He's a CFO turned forward deployed engineer with three exits behind him, and he builds and hands over the system himself through Beyond Elevation.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

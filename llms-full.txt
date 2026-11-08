@@ -9343,13 +9343,13 @@ URL: https://beyondelevation.com/insights/fractional-executive-onboarding-14-day
 
 Hayat Amin has watched this pattern repeat across dozens of fractional placements at [Beyond Elevation](https://beyondelevation.com): a company hires a senior operator, hands them a brief and a meeting schedule, then wonders why nothing changes by week four. According to the Harvard Business Review 2025 executive transitions study, 40% of new executives fail to meet initial expectations within 18 months. For fractional executives on compressed timelines, the failure window shrinks to weeks, not months.
 
-The difference between a fractional engagement that delivers and one that fizzles comes down to the first 14 days, specifically whether the company gives the operator three things: authority, access, and a diagnostic runway.
+The difference between a fractional engagement that delivers and one that fizzles comes down to the first 14 days: whether the company gives the operator three things, authority, access and a diagnostic runway.
 
-## Why most fractional executive engagements fail in the first month
+## Most fractional executive engagements fail in the first month
 
 Most fractional executive engagements fail because companies apply the wrong onboarding model. They treat the executive like an external consultant: hand over a briefing deck, set a fortnightly meeting, and assume the rest sorts itself through emails and documents. Operators need decision-making authority, live system access, and direct lines to the people who hold the truth about what's broken.
 
-The consultant model works when someone is advising. It fails when someo
+The consultant model works when someone is advising. It fails when someone is operating. A
 
 ---
 
@@ -9375,13 +9375,13 @@ URL: https://beyondelevation.com/insights/ip-operating-model
 
 An IP operating model is the system that turns your patents, trade secrets, and proprietary data from dormant cost lines into licensing revenue, valuation premium, and competitive defensibility. Most companies file patents. Almost none have a system that connects those filings to licensing targets, board reporting, or exit value. That missing system is what an IP operating model fixes, and building one is the highest-ROI move most founders never make.
 
-According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now represent 90% of S&P 500 market value. Yet Hayat Amin argues that the gap between owning IP and operating IP is the most expensive gap in a founder's business. Beyond Elevation restructured the Position Imaging portfolio and found the patents were strong, but no operating model existed to match those patents to licensable targets, track competitor filings, or report IP value to the board. The portfolio sat dormant. The operating model turned it into eight figures of recurring royalty revenue.
+According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now represent 90% of S&P 500 market value. Hayat Amin argues the gap between owning IP and operating IP is the most expensive gap in a founder's business. Beyond Elevation restructured the Position Imaging portfolio and found the patents were strong, but no operating model existed to match those patents to licensable targets, track competitor filings, or report IP value to the board. The portfolio sat dormant until the operating model turned it into eight figures of recurring royalty revenue.
 
-If your company has IP scattered across legal, engineering, and finance with no single owner and no commercial system behind it, you do not have an IP function. You have an IP expense.
+If your company has IP scattered across legal, engineering and finance with no single owner and no commercial system behind it, what you have is an IP expense, not an IP function.
 
 ## What is an IP operating model?
 
-An IP operating model is the organisational system, people, processes, and reporting cadence, that manages intellectual property as a business function rather than a legal task. It connects invention capture to filing strategy, filin
+An IP operating model is the organisational system, people, processes, and reporting cadence, that manages intellectual property as a business function rather than a legal task. It connects invention capture to filing strategy, filing strateg
 
 ---
 
@@ -9409,15 +9409,15 @@ Recruiters price a forward deployed engineer the way they price any senior engin
 
 URL: https://beyondelevation.com/insights/vendor-due-diligence-sell-side-cfo-playbook
 
-Vendor due diligence is the financial audit a seller runs on itself before going to market — and companies that skip it hand the buyer a discount. According to Deloitte's 2026 M&A Integration Report, sell-side transactions backed by vendor due diligence close 27 percent faster and suffer 40 percent fewer price reductions during negotiation. Hayat Amin argues this is the single most cost-effective move a seller can make: a five-figure investment that routinely protects six or seven figures of deal value.
+Vendor due diligence is the financial audit a seller runs on itself before going to market, and companies that skip it hand the buyer a discount. According to Deloitte's 2026 M&A Integration Report, sell-side transactions backed by vendor due diligence close 27 percent faster and suffer 40 percent fewer price reductions during negotiation. Hayat Amin argues this is the single most cost-effective move a seller can make: a five-figure investment that protects six or seven figures of deal value.
 
-Most founders hear the phrase for the first time after a buyer flags an issue in their numbers. By that point, the negotiation leverage has already shifted. The buyer owns the surprise. The seller scrambles to explain. The price moves down, the timeline moves out, and a chunk of enterprise value evaporates in a conversation that never needed to happen.
+Most founders hear the phrase for the first time after a buyer flags an issue in their numbers, and by then the negotiation has already tipped in the buyer's favour. The buyer owns the surprise, the seller is left explaining it, the price comes down, the timeline stretches, and a chunk of enterprise value disappears in a conversation that never needed to happen.
 
-This is the playbook Beyond Elevation's fractional CFO team uses to run vendor due diligence on sell-side engagements — the same process that has prevented more late-deal repricing than any other single intervention in our practice.
+This is the playbook Beyond Elevation's fractional CFO team uses to run vendor due diligence on sell-side engagements, the same process that has prevented more late-deal repricing than any other single intervention in our practice.
 
-## What Is Vendor Due Diligence and Why Does the Seller Run It?
+## What is vendor due diligence and why does the seller run it?
 
-Vendor due diligence is a comprehensive financial, tax, and commercial review that the selling company commissions and controls before inviting buyer scrutiny. The seller hires an independent advisor to audit the same areas a buyer would examine — revenue quality, working capital, normalised earnings, tax exposure, and contingent lia
+Vendor due diligence is a financial, tax, and commercial review that the selling company commissions and controls before inviting buyer scrutiny. The seller hires an independent advisor to audit the same areas a buyer would examine, revenue quality, working capital, normalised earnings, tax exposure, and contingent liabilities, then pa
 
 ---
 
@@ -9429,11 +9429,11 @@ Vetting a fractional executive means asking one thing: what did you leave behind
 
 According to LinkedIn's 2026 Workforce Report, professionals listing "fractional" in their headline grew 310 percent since 2023. Hayat Amin argues the supply boom has created a quality crisis: "Three hundred percent more people calling themselves fractional does not mean three hundred percent more operators. It means the market is flooded with CVs disguised as capability." Beyond Elevation places fractional CFOs, Chief IP Officers, and AI Operations operators into companies that need senior capability without full-time cost. But the model only works when the person is a real operator. These seven questions are the filter.
 
-## Why Is Vetting a Fractional Executive Different From Hiring a Full-Time One?
+## Why is vetting a fractional executive different from hiring a full-time one?
 
-Vetting a fractional executive requires testing for speed, systems thinking, and exit design — three skills a full-time hire never needs to demonstrate. A full-time CFO has 18 months to learn the business. A fractional CFO has 30 days to deliver a month-end close that runs without them.
+Vetting a fractional executive requires testing for speed, systems thinking, and exit design, three skills a full-time hire never needs to demonstrate. A full-time CFO has 18 months to learn the business. A fractional CFO has 30 days to deliver a month-end close that runs without them.
 
-The failure mode is predictable. A company hires a fractional executive who looks senior on paper, gives them a retainer, and six months later the function is no better than b
+The failure mode is predictable. A company hires a fractional executive who looks senior on paper, gives them a retainer, and six months later the function is no better than be
 
 ---
 
@@ -9441,15 +9441,15 @@ The failure mode is predictable. A company hires a fractional executive who look
 
 URL: https://beyondelevation.com/insights/ai-operations-team-structure
 
-Three people. That is the AI operations team structure most companies actually need. According to McKinsey's 2025 Global Survey on AI, fewer than 30 percent of companies have deployed AI beyond the pilot stage — and the most common reason is not technology. It is organisational bloat. Companies hire twelve people before a single agent goes live, then wonder why nothing ships.
+Three people. That's the AI operations team structure most companies need. According to McKinsey's 2025 Global Survey on AI, fewer than 30 percent of companies have deployed AI beyond the pilot stage, and the most common reason isn't technology. It's organisational bloat. Companies hire twelve people before a single agent goes live, then wonder why nothing ships.
 
-Hayat Amin argues that the biggest AI failure mode is not picking the wrong model — it is building the wrong team. Most companies copy the software engineering org chart for AI. Twelve titles, zero agents in production. The [AI operations operator](/insights/ai-operations-operator-vs-consultant/) who ships real automation runs a team of three — not a department of twelve.
+Hayat Amin argues that most AI failures come from building the wrong team, not from picking the wrong model. Most companies copy the software engineering org chart for AI: twelve titles, zero agents in production. The [AI operations operator](/insights/ai-operations-operator-vs-consultant/) who ships real automation runs a team of three, not a department of twelve.
 
-## What Is the Right AI Operations Team Structure?
+## What is the right AI operations team structure?
 
 The right AI operations team structure is three roles: an operator, a builder, and a domain expert. The operator decides what to automate, in what order, and holds the business case. The builder wires the agents, integrations, and data pipelines. The domain expert knows the process being automated well enough to validate whether the output is correct.
 
-Every company that ships AI fast uses some version of this triad. Every company stuck in pilot purgatory has too many roles and not enough ownership. Beyond Elevation has deployed this structure across finance, legal, and operations teams — from five-person startups to 200-person scale-ups. The results are consistent: fewer people, fas
+Every company that ships AI fast uses some version of this triad. Every company stuck in pilot purgatory has too many roles and not enough ownership. Beyond Elevation has deployed this structure across finance, legal, and operations teams, from five-person startups to 200-person scale-ups. The results are consistent: fewer people, faster deployment, lower
 
 ---
 
@@ -9459,12 +9459,12 @@ URL: https://beyondelevation.com/insights/ai-implementation-checklist
 
 An AI implementation checklist has 9 items, and most of them are about your business, not the model. Pick one process, name its owner, measure today's number, prove the data is reachable, keep a person approving, run a 30 day pilot, write the run book, cap the cost, and decide go live or stop on a date you set in advance.
 
-Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds AI operations inside companies himself as a forward deployed engineer. This checklist is the one we run before any system goes live for a US company of 20 to 500 people. It's written for the CEO or COO who's about to approve an AI project, or about to hire someone to deliver one, and wants to know what has to be true first.
+I spent twenty years as a technology CFO and sold three companies, and I now build AI operations inside companies myself as a forward deployed engineer. This checklist is the one we run before any system goes live for a US company of 20 to 500 people. It's written for the CEO or COO who's about to approve an AI project, or about to hire someone to deliver one, and wants to know what has to be true first.
 
 ## why AI implementations fail before the model does
 
-RAND published a report on 13 August 2024, by James Ryseff, Brandon De Bruhl and Sydne Newberry, on why AI projects fail. They interviewed 65 data scientists and engineers with at least 5 years of experience each. RAND notes that by some estimates more than 80% of AI projects fail, twice the rate of IT projects that don't involve AI, and it cites a survey in which only 14% of organisations said they were fully ready to integrate AI.
+RAND published a report on 13 August 2024, by James Ryseff, Brandon De Bruhl and Sydne Newberry, on why AI projects fail. They interviewed 65 data scientists and engineers with at least 5 years of experience each. RAND notes that by some estimates more than 80% of AI projects fail, twice the rate of IT projects that don't involve AI, and cites a survey in which only 14% of organisations said they were fully ready to integrate AI.
 
-The 5 root causes RAND found are worth reading as a CEO, because 4 of them sit on the business side. People misunderstand or miscommunicate what problem the AI should solve. The company doesn't have the data. The team chases the newest technology instead of the 
+The 5 root causes RAND found are worth reading as a CEO, because 4 of them sit on the business side. People misunderstand or miscommunicate what problem the AI should solve. The company doesn't have the data. The team chases the newest technology instead of the user's problem.
 
 ---

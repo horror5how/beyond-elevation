@@ -11,17 +11,17 @@ site: Beyond Elevation
 
 An IP operating model is the system that turns your patents, trade secrets, and proprietary data from dormant cost lines into licensing revenue, valuation premium, and competitive defensibility. Most companies file patents. Almost none have a system that connects those filings to licensing targets, board reporting, or exit value. That missing system is what an IP operating model fixes, and building one is the highest-ROI move most founders never make.
 
-According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now represent 90% of S&P 500 market value. Yet Hayat Amin argues that the gap between owning IP and operating IP is the most expensive gap in a founder's business. Beyond Elevation restructured the Position Imaging portfolio and found the patents were strong, but no operating model existed to match those patents to licensable targets, track competitor filings, or report IP value to the board. The portfolio sat dormant. The operating model turned it into eight figures of recurring royalty revenue.
+According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets now represent 90% of S&P 500 market value. Hayat Amin argues the gap between owning IP and operating IP is the most expensive gap in a founder's business. Beyond Elevation restructured the Position Imaging portfolio and found the patents were strong, but no operating model existed to match those patents to licensable targets, track competitor filings, or report IP value to the board. The portfolio sat dormant until the operating model turned it into eight figures of recurring royalty revenue.
 
-If your company has IP scattered across legal, engineering, and finance with no single owner and no commercial system behind it, you do not have an IP function. You have an IP expense.
+If your company has IP scattered across legal, engineering and finance with no single owner and no commercial system behind it, what you have is an IP expense, not an IP function.
 
 ## What is an IP operating model?
 
 An IP operating model is the organisational system, people, processes, and reporting cadence, that manages intellectual property as a business function rather than a legal task. It connects invention capture to filing strategy, filing strategy to licensing pipeline, and licensing pipeline to board-level revenue reporting. Without it, every IP decision is ad hoc, disconnected from commercial objectives, and invisible to the people who allocate capital.
 
-Most companies operate without one. Their patent attorney files whatever the engineering team invents. Legal pays the maintenance fees. Finance books the cost. Nobody asks whether those patents are generating revenue, blocking competitors, or building valuation premium. The IP operating model is the system that asks those questions and turns the answers into action.
+Most companies operate without one. Their patent attorney files whatever the engineering team invents. Legal pays the maintenance fees and finance books the cost. Nobody asks whether those patents are generating revenue, blocking competitors, or building valuation premium. The IP operating model is the system that asks those questions and turns the answers into action.
 
-Hayat Amin's rule is direct: if nobody in your company can tell you the annual commercial return on your IP spend within 30 seconds, you do not have an IP operating model. You have a filing habit.
+Hayat Amin's rule is direct: if nobody in your company can tell you the annual commercial return on your IP spend within 30 seconds, what you have is a filing habit, not an IP operating model.
 
 ## Why do most companies lack an IP operating model?
 
@@ -57,7 +57,7 @@ An IP operating model produces three measurable outcomes within the first 12 mon
 
 ## Who should build the IP operating model?
 
-A patent attorney cannot build an IP operating model. Attorneys are trained to file, prosecute, and defend, not to build commercial systems, licensing pipelines, or board reporting cadences. Asking your patent lawyer to build an IP operating model is like asking your accountant to build a finance function. They are different disciplines that require different skills.
+A patent attorney can't build an IP operating model. Attorneys are trained to file, prosecute, and defend, not to build commercial systems, licensing pipelines, or board reporting cadences. Asking your patent lawyer to build an IP operating model is like asking your accountant to build a finance function. They're different disciplines that require different skills.
 
 The role that owns the IP operating model is the Chief IP Officer. For companies not ready to hire one outright, a fractional CIPO fills the seat. Hayat Amin argues that every company with more than five granted patents and any intention to license, raise, or exit needs someone in this role. The alternative is what most companies live with: strong patents, no system, and millions left on the table when the term sheet or LOI arrives.
 
@@ -87,7 +87,7 @@ A fractional Chief IP Officer typically builds a functional IP operating model i
 
 ### Does my company need an IP operating model?
 
-If your company holds more than five patents, has proprietary trade secrets or data assets, and plans to license, raise capital, or exit within the next 36 months, an IP operating model is the difference between capturing that value and leaving it on the table. Companies without one consistently achieve lower exit multiples than peers with structured IP programmes.
+If your company holds more than five patents, has proprietary trade secrets or data assets, and plans to license, raise capital, or exit within the next 36 months, an IP operating model is the difference between capturing that value and leaving it on the table. Companies without one achieve lower exit multiples than peers with structured IP programmes.
 
 ### What is the difference between IP strategy and an IP operating model?
 

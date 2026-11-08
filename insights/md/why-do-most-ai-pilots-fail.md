@@ -27,7 +27,7 @@ I'll list them in the order I'd check them, because the first two cause most of 
 
 - **It was tested on demo data.** A quoting agent that handles 20 tidy sample emails then meets scanned PDFs, a customer who replies three messages down the thread, and a part number typed with a space in it. It worked in the room. It breaks on a Tuesday.
 
-- **It isn't connected to the systems of record.** The answer lands in a chat window, and someone copies it into HubSpot, Salesforce, QuickBooks or NetSuite by hand. Your staff are still retyping. You've added a step, not removed one.
+- **It isn't connected to the systems of record.** The answer lands in a chat window, and someone copies it into HubSpot, Salesforce, QuickBooks or NetSuite by hand. Your staff are still retyping. You've added a step instead of removing one.
 
 - **Nobody in operations owns it.** IT built it and operations was meant to use it. Nobody owns the rule, so when it breaks, people quietly go back to the old way.
 

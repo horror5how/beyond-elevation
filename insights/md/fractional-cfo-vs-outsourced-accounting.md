@@ -27,39 +27,39 @@ This is not a criticism of accounting firms. They deliver exactly what they prom
 
 A fractional CFO builds the strategic finance layer that sits between your accounting data and your board, the models, forecasts, and narratives that turn historical numbers into forward-looking decisions. Standard deliverables include financial modelling with scenario analysis, board packs ready for investors, 13-week cash flow forecasts, unit economics tracking, pricing strategy, fundraising preparation, and exit readiness planning.
 
-Hayat Amin proved this gap at Beyond Elevation. One client had spotless books from a reputable outsourced firm, and still could not answer the three questions every Series A investor asks first: what is your burn rate trajectory, when do you reach default alive, and what does your unit economics payback look like at two times current volume. The accountant had the data. Nobody had built the model.
+Hayat Amin proved this gap at Beyond Elevation. One client had spotless books from a reputable outsourced firm, and still couldn't answer the three questions every Series A investor asks first: what's the burn rate trajectory, when do you reach default alive, and what does unit economics payback look like at two times current volume. The accountant had the data. Nobody had built the model.
 
 Hayat Amin's 3-Layer Finance Stack is the diagnostic Beyond Elevation runs on every new client engagement. Layer one is bookkeeping, transaction recording and reconciliation. Layer two is management accounting, monthly reporting and compliance. Layer three is strategic finance, the CFO layer that turns data into decisions. Most companies under ten million in revenue have layers one and two covered and layer three completely empty.
 
-The cost of an empty layer three is not theoretical. Founders with clean books but no financial strategy regularly lose 15 to 30 percent of potential valuation in fundraising negotiations because they cannot model scenarios, cannot articulate unit economics trajectories, and cannot answer follow-up questions that go beyond historical performance. The accounting is perfect. The strategy is missing.
+The cost of an empty layer three shows up fast. Founders with clean books but no financial strategy regularly lose 15 to 30 percent of potential valuation in fundraising negotiations, because they can't model scenarios, can't articulate unit economics trajectories, and can't answer questions that go beyond historical performance. The accounting is perfect, the strategy is missing.
 
 ## How much does a fractional CFO cost vs outsourced accounting in 2026?
 
-The real comparison is not one versus the other, most companies need both. Here are 2026 market rates based on Beyond Elevation placement data and published rate surveys across London, New York, and Dubai.
+Most companies need both outsourced accounting and a fractional CFO, not one on its own. Here are 2026 market rates based on Beyond Elevation placement data and published rate surveys across London, New York and Dubai.
 
-ServiceMonthly Cost (GBP)Monthly Cost (USD)What You GetOutsourced bookkeeping only&pound;300–&pound;800$400–$1,000Transaction recording, bank reconciliationsOutsourced accounting (full service)&pound;1,500–&pound;4,000$2,000–$5,000Bookkeeping, management accounts, tax filing, payrollFractional CFO (1–2 days per week)&pound;3,000–&pound;7,000$4,000–$9,000Financial strategy, board reporting, fundraising, scenario planningFull-time CFO hire&pound;12,000–&pound;20,000+$15,000–$25,000+All of the above, present full timeThe number that matters: a fractional CFO layered on top of outsourced accounting costs five thousand to ten thousand pounds per month total. A CFO working full time with equivalent experience costs twelve thousand to twenty thousand pounds per month in salary alone, before benefits, equity, and overhead. Hayat Amin's rule is direct: "You do not replace your accountant with a CFO. You layer a CFO on top. The combined cost is still 40 to 60 percent less than a single full-time hire, and you get both compliance and strategy covered."
+ServiceMonthly Cost (GBP)Monthly Cost (USD)What You GetOutsourced bookkeeping only&pound;300–&pound;800$400–$1,000Transaction recording, bank reconciliationsOutsourced accounting (full service)&pound;1,500–&pound;4,000$2,000–$5,000Bookkeeping, management accounts, tax filing, payrollFractional CFO (1–2 days per week)&pound;3,000–&pound;7,000$4,000–$9,000Financial strategy, board reporting, fundraising, scenario planningFull-time CFO hire&pound;12,000–&pound;20,000+$15,000–$25,000+All of the above, present full timeA fractional CFO layered on top of outsourced accounting costs five thousand to ten thousand pounds a month in total. A CFO working full-time with equivalent experience costs twelve thousand to twenty thousand pounds a month in salary alone, before benefits, equity and overhead. Hayat Amin's rule is direct: "You don't replace your accountant with a CFO, you layer a CFO on top. The combined cost is still 40 to 60 percent less than a single full-time hire, and you get both compliance and strategy covered."
 
 For companies between one million and ten million in revenue, the combined cost of outsourced accounting plus a fractional CFO typically runs five thousand to ten thousand pounds per month, roughly half what a CFO working full time, with the same calibre of experience, would cost in total compensation.
 
 ## Choosing between outsourced accounting and a fractional CFO
 
-The decision depends on what your company needs from its finance function right now, not what it might need in a year. Adding a fractional CFO too early wastes money on strategy work the business cannot yet execute. Adding one too late means the gap surfaces during a fundraise or exit when there is no time to close it.
+The decision depends on what your company needs from its finance function right now, not what it might need in a year. Add a fractional CFO too early and you waste money on strategy work the business can't yet execute. Add one too late and the gap surfaces during a fundraise or exit, when there's no time to close it.
 
 **Stay with outsourced accounting alone if:** your annual revenue is below one million pounds, you are not fundraising within the next 12 months, you have no board or investor reporting obligations, and your business model is simple enough that standard management accounts tell the full story.
 
 **Add a fractional CFO when:** you are preparing to raise and need financials that satisfy investors, your board is asking questions your accountant cannot answer, you need forward-looking forecasts rather than backward-looking reports, you are evaluating pricing changes or market expansion, or your revenue has crossed one million and financial complexity has outgrown the compliance scope.
 
-Beyond Elevation runs a simple diagnostic on every initial assessment: if your last board meeting ended with a question nobody in the room could answer with a number, you have outgrown accounting-only finance. The board does not need more data. It needs someone who can interpret what the data means for the next 18 months.
+Beyond Elevation runs a simple diagnostic on every initial assessment: if your last board meeting ended with a question nobody in the room could answer with a number, you've outgrown accounting-only finance. The board needs someone who can interpret what the data means for the next 18 months, not more data.
 
-The transition is faster than most founders expect. A fractional CFO typically onboards in two to four weeks by reviewing existing accounting outputs, building the initial financial model, and preparing the first reporting pack ready for the board. They do not redo your accounting. They build on top of it.
+The transition is faster than most founders expect. A fractional CFO typically onboards in two to four weeks, reviewing existing accounting outputs, building the initial financial model, and preparing the first reporting pack ready for the board. They build on top of your accounting rather than redoing it.
 
-## The mistake that costs founders their round
+## Why your accountant can't build your fundraising model
 
 The most expensive version of this confusion is the founder who asks their outsourced accountant to prepare the financial model for a fundraise. Accounting firms produce financial statements: profit and loss, balance sheet, cash flow statement. Investors need financial models: three-year projections with scenario analysis, sensitivity tables, unit economics breakdowns, and a path to either profitability or the next funding milestone. These are different documents, built with different skills.
 
 An accountant records what happened. A CFO projects what will happen and explains why that projection is credible. Hayat Amin reminds founders of this distinction every week: "Your accountant can tell an investor what you spent last quarter. A fractional CFO can walk them through what the next eight quarters look like under three different scenarios. Investors fund the second conversation, not the first."
 
-Beyond Elevation places fractional CFOs who build this strategic finance layer, the function that sits on top of clean books and turns them into decisions the board can act on, investors can trust, and a buyer can rely on at exit. The books are the foundation. The CFO is the structure. You need both.
+Beyond Elevation places fractional CFOs who build this strategic finance layer, the function that sits on top of clean books and turns them into decisions the board can act on, investors can trust, and a buyer can rely on at exit. The books are the foundation, the CFO is the structure, and you need both.
 
 
 
@@ -81,7 +81,7 @@ No. Outsourced accounting handles compliance: bookkeeping, tax, payroll, and fin
 
 ### Should I replace my accountant when I hire a fractional CFO?
 
-Almost never. A fractional CFO works with your accounting data, not instead of it. Most companies keep their outsourced accounting firm and layer a fractional CFO on top. The combined cost is still 40 to 60 percent less than hiring a CFO full time.
+Almost never. A fractional CFO works with your accounting data rather than replacing it. Most companies keep their outsourced accounting firm and layer a fractional CFO on top. The combined cost is still 40 to 60 percent less than hiring a CFO full-time.
 
 ### At what revenue should I add a fractional CFO?
 

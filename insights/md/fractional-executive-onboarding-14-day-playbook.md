@@ -13,29 +13,29 @@ site: Beyond Elevation
 
 Hayat Amin has watched this pattern repeat across dozens of fractional placements at [Beyond Elevation](https://beyondelevation.com): a company hires a senior operator, hands them a brief and a meeting schedule, then wonders why nothing changes by week four. According to the Harvard Business Review 2025 executive transitions study, 40% of new executives fail to meet initial expectations within 18 months. For fractional executives on compressed timelines, the failure window shrinks to weeks, not months.
 
-The difference between a fractional engagement that delivers and one that fizzles comes down to the first 14 days, specifically whether the company gives the operator three things: authority, access, and a diagnostic runway.
+The difference between a fractional engagement that delivers and one that fizzles comes down to the first 14 days: whether the company gives the operator three things, authority, access and a diagnostic runway.
 
-## Why most fractional executive engagements fail in the first month
+## Most fractional executive engagements fail in the first month
 
 Most fractional executive engagements fail because companies apply the wrong onboarding model. They treat the executive like an external consultant: hand over a briefing deck, set a fortnightly meeting, and assume the rest sorts itself through emails and documents. Operators need decision-making authority, live system access, and direct lines to the people who hold the truth about what's broken.
 
 The consultant model works when someone is advising. It fails when someone is operating. A [fractional CFO](/insights/first-100-days-fractional-cfo/) cannot close the books in two days if they are still waiting for accounting system access in week two. A fractional Chief IP Officer cannot restructure a patent portfolio if nobody told the legal team they have authority to direct filings. A fractional AI operations lead cannot automate anything if they have never seen the actual data pipeline.
 
-This is a structural problem, not a soft-skills one. The company sets up the fractional executive to fail by restricting the three inputs every operator needs from day one.
+The problem is structural, not a soft-skills one. The company restricts the three inputs every operator needs from day one, and that sets the fractional executive up to fail.
 
-## What the first 48 hours of a fractional executive engagement should look like
+## The first 48 hours of a fractional executive engagement
 
 The first 48 hours of a fractional executive engagement should deliver three outputs: a written authority map, live access to every relevant system, and a face-to-face alignment meeting with the CEO or founder. Skip any one of these and the engagement starts with a handicap that compounds every day it goes unresolved.
 
-Hayat Amin argues the first meeting should be about plumbing, not strategy. Which systems does the executive need? Who grants access? What decisions can they make without asking permission? Who do they call when something is stuck? These are operational prerequisites, not administrative details.
+Hayat Amin argues the first meeting should be about plumbing, not strategy. Which systems does the executive need? Who grants access? What decisions can they make without asking permission? Who do they call when something is stuck? These questions are operational prerequisites to settle before anything else begins.
 
 **The authority map** is a one-page document that answers three questions: What can the fractional executive approve without escalation? What requires CEO sign-off? Who on the team reports to them, and who do they coordinate with laterally? Hayat Amin's rule is blunt: if this document doesn't exist by end of day one, the engagement is already behind schedule.
 
-**System access** means production-level access to the tools that hold the truth: accounting software, CRM, project management, data warehouses, bank feeds. Read-only is acceptable for week one if security policies require it, but the executive must see every number that matters. Beyond Elevation's standard engagement brief requires this access to be provisioned before the executive's first day.
+**System access** means production-level access to the systems that show what's actually happening: accounting software, CRM, project management, data warehouses, bank feeds. Read-only is acceptable for week one if security policies require it, but the executive must see every number that matters. Beyond Elevation's standard engagement brief requires this access to be provisioned before the executive's first day.
 
 **The CEO alignment** is a 60-minute working session covering three areas: the three outcomes the CEO expects in the first 90 days, the three things that have already been tried and failed, and the internal politics, meaning which team members are allies, which are sceptics, and which have been burned by a previous hire. This meeting determines whether the engagement starts on solid ground or on assumptions.
 
-## How the 14-day diagnostic sprint works
+## The 14-day diagnostic sprint, step by step
 
 The 14-day diagnostic sprint is a structured process where the fractional executive identifies the top three operational or financial gaps and presents a prioritised action plan to the CEO or board by day 14. It replaces the traditional 90-day observation period with a compressed assessment built on evidence, producing a deliverable the company can act on immediately.
 
@@ -63,7 +63,7 @@ The five most common onboarding mistakes are restricting system access, failing 
 
 **Mistake 5: Calendar flooding.** A fractional executive working three days a week cannot spend two of those three days in standing meetings inherited from the last full-time hire. Protect at least 60% of their time for diagnostic and execution work in the first month.
 
-## How much a bad fractional executive onboarding costs
+## The cost of a bad fractional executive onboarding
 
 A failed fractional executive engagement costs between 30,000 and 80,000 pounds in wasted fees, plus the opportunity cost of three to six months of stalled progress in the function they were hired to fix. The Centre for Economics and Business Research estimates executive turnover costs UK businesses an average of 2.6 times the executive's annual compensation when accounting for lost productivity and restart time.
 
@@ -91,7 +91,7 @@ A fractional executive should be fully operational within 14 to 21 days. The fir
 
 ### Should a fractional executive attend board meetings?
 
-Yes. A fractional executive with C-suite authority should present at board meetings just like a full-time executive would. Leaving them out signals to the board that they're temporary, which undermines their authority with the team and limits their ability to drive change.
+Yes. A fractional executive with C-suite authority should present at board meetings just like a full-time executive would. Leaving them out tells the board they're temporary, and that undermines their authority with the team and limits how much they can actually change.
 
 ### What is the biggest risk in a fractional executive engagement?
 
