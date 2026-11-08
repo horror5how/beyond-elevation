@@ -559,5 +559,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [7 Questions That Expose a Fake Fractional Executive in the First Interview](https://beyondelevation.com/insights/how-to-vet-fractional-executive) — /insights/md/how-to-vet-fractional-executive.md
 - [Three People Ship More AI Than Twelve: the AI Operations Team Structure That Actually Works](https://beyondelevation.com/insights/ai-operations-team-structure) — /insights/md/ai-operations-team-structure.md
 - [AI implementation checklist: 9 things to check before AI goes live, and when to hire an FDE](https://beyondelevation.com/insights/ai-implementation-checklist) — /insights/md/ai-implementation-checklist.md
+- [Three Entities, Two Currencies, One Accountant: Why International Expansion Breaks Without a CFO](https://beyondelevation.com/insights/fractional-cfo-international-expansion) — /insights/md/fractional-cfo-international-expansion.md
 
 > Full blog content available at /llms-full.txt
