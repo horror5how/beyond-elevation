@@ -9452,3 +9452,19 @@ The right AI operations team structure is three roles: an operator, a builder, a
 Every company that ships AI fast uses some version of this triad. Every company stuck in pilot purgatory has too many roles and not enough ownership. Beyond Elevation has deployed this structure across finance, legal, and operations teams — from five-person startups to 200-person scale-ups. The results are consistent: fewer people, fas
 
 ---
+
+## AI implementation checklist: 9 things to check before AI goes live, and when to hire an FDE
+
+URL: https://beyondelevation.com/insights/ai-implementation-checklist
+
+An AI implementation checklist has 9 items, and most of them are about your business, not the model. Pick one process, name its owner, measure today's number, prove the data is reachable, keep a person approving, run a 30 day pilot, write the run book, cap the cost, and decide go live or stop on a date you set in advance.
+
+Hayat Amin spent twenty years as a technology CFO and sold three companies, and he now builds AI operations inside companies himself as a forward deployed engineer. This checklist is the one we run before any system goes live for a US company of 20 to 500 people. It's written for the CEO or COO who's about to approve an AI project, or about to hire someone to deliver one, and wants to know what has to be true first.
+
+## why AI implementations fail before the model does
+
+RAND published a report on 13 August 2024, by James Ryseff, Brandon De Bruhl and Sydne Newberry, on why AI projects fail. They interviewed 65 data scientists and engineers with at least 5 years of experience each. RAND notes that by some estimates more than 80% of AI projects fail, twice the rate of IT projects that don't involve AI, and it cites a survey in which only 14% of organisations said they were fully ready to integrate AI.
+
+The 5 root causes RAND found are worth reading as a CEO, because 4 of them sit on the business side. People misunderstand or miscommunicate what problem the AI should solve. The company doesn't have the data. The team chases the newest technology instead of the 
+
+---
