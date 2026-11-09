@@ -565,5 +565,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Forward deployed engineer agency: 8 places to hire an FDE in 2026, compared](https://beyondelevation.com/insights/forward-deployed-engineer-agency) — /insights/md/forward-deployed-engineer-agency.md
 - [Your Annual Plan Is a Fiction If Nobody Owns the Numbers](https://beyondelevation.com/insights/startup-annual-planning-fractional-cfo) — /insights/md/startup-annual-planning-fractional-cfo.md
 - [Fractional Executives for Scale-Ups: Why the £2M to £20M Stage Needs Operators, Not Advisers](https://beyondelevation.com/insights/fractional-executives-for-scale-ups) — /insights/md/fractional-executives-for-scale-ups.md
+- [How to License Your Technology to a Larger Company Without Getting Lowballed](https://beyondelevation.com/insights/license-technology-larger-company) — /insights/md/license-technology-larger-company.md
 
 > Full blog content available at /llms-full.txt

@@ -9568,3 +9568,19 @@ The scale-up leadership gap is the period between £2M and £20M revenue where a
 Most scale-ups at this stage have 
 
 ---
+
+## How to License Your Technology to a Larger Company Without Getting Lowballed
+
+URL: https://beyondelevation.com/insights/license-technology-larger-company
+
+Technology licensing is how founders turn intellectual property into recurring revenue without giving up equity or control. A well-structured licensing deal with a larger company can generate seven figures annually. A poorly structured one can lock you into a below-market rate for a decade. The difference sits in six contract terms that most founders never negotiate.
+
+According to the World Intellectual Property Organization, technology licensing revenue globally exceeded $450 billion in 2025, growing at 8.2 per cent annually. Yet most founders leave 40 to 60 per cent of their deal value on the table because they negotiate like sellers when they should negotiate like operators.
+
+Hayat Amin argues that the licensing negotiation is won or lost before the first meeting ever happens. "If you walk into a licensing conversation without knowing your technology's forward-looking revenue contribution to the licensee, you have already been lowballed," Amin says. "The number you anchor on in the first five minutes sets the ceiling for the entire deal." That principle — anchor high with proof, not hope — is what separates operators who build recurring royalty streams from founders who treat licensing as an afterthought.
+
+## Why Do Larger Companies License Technology Instead of Building It?
+
+Larger companies license technology when the cost of internal development exceeds the cost of licensing by a factor of three or more, or when time to market is the binding constraint. A 2025 Deloitte 
+
+---
