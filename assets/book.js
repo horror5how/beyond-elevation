@@ -75,7 +75,8 @@
     const now = new Date();
     const canPrev = month > new Date(now.getFullYear(), now.getMonth(), 1);
     const lastKey = data.slots.length ? ymd(data.slots[data.slots.length - 1]) : ymd(now.toISOString());
-    const nextKey = `${month.getFullYear()}-${String(month.getMonth() + 2).padStart(2, "0")}-01`.replace(/-13-01$/, "-01-01");
+    const nx = new Date(month.getFullYear(), month.getMonth() + 1, 1); // December steps into January of the NEXT year
+    const nextKey = `${nx.getFullYear()}-${String(nx.getMonth() + 1).padStart(2, "0")}-01`;
     const canNext = nextKey <= lastKey; // compared as yyyy-mm-dd in the picked zone (the device clock put a 7-hour-ahead guest a month out)
 
     const times = day ? (days[day] || []) : [];
