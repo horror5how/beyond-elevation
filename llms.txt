@@ -562,5 +562,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Three Entities, Two Currencies, One Accountant: Why International Expansion Breaks Without a CFO](https://beyondelevation.com/insights/fractional-cfo-international-expansion) — /insights/md/fractional-cfo-international-expansion.md
 - [Hire a Fractional Executive Before the Crisis, or Pay 3x More](https://beyondelevation.com/insights/fractional-executive-pre-crisis-hire) — /insights/md/fractional-executive-pre-crisis-hire.md
 - [The Average IP Lawsuit Burns $2.6M Over 3 Years. The Resolution Framework That Settles in 90 Days.](https://beyondelevation.com/insights/ip-dispute-resolution-framework) — /insights/md/ip-dispute-resolution-framework.md
+- [Forward deployed engineer agency: 8 places to hire an FDE in 2026, compared](https://beyondelevation.com/insights/forward-deployed-engineer-agency) — /insights/md/forward-deployed-engineer-agency.md
 
 > Full blog content available at /llms-full.txt

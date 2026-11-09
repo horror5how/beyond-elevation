@@ -9516,3 +9516,19 @@ Most IP disputes are not legal emergencies. They are commercial problems wearing
 Most founders handle IP dispute resolution wrong because they hire a litigator first, which frames the dispute as a fight instead of a commercial opportunity. According to Wil
 
 ---
+
+## Forward deployed engineer agency: 8 places to hire an FDE in 2026, compared
+
+URL: https://beyondelevation.com/insights/forward-deployed-engineer-agency
+
+A forward deployed engineer agency is a firm that puts an engineer inside your company to build and run AI systems on your real data, then hands them over. The 8 firms below come in 6 kinds: a firm that does the work itself, a talent network, a freelance marketplace, a nearshore or offshore developer, a Big 4 consultancy, and recruiters who find you a full-time hire. The right one depends on whether you need a system built this quarter or a person on payroll for years.
+
+Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer himself, so he's sat on both sides of this purchase: the one signing the invoice and the one doing the build. Beyond Elevation, his firm, is entry 1 on this list. That's disclosed here, and the other 7 are judged on what their own pages say.
+
+## why "forward deployed engineer agency" is a hard search
+
+Type the phrase into Google and most of what comes back is job boards. Our August 2026 research found the same thing: the term autocompletes, but the results are listings for engineers looking for work, not firms selling the work to a CEO. Meanwhile demand keeps climbing. Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform.
+
+So a chief executive in New York or Chicago who wants one has to sort 3 different 
+
+---
