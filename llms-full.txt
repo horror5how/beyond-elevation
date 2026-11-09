@@ -9552,3 +9552,19 @@ The three failure modes Hayat Amin sees in almost every portfolio company that h
 **Wrong inputs.** The plan uses last year&rsquo;s growth rate as t
 
 ---
+
+## Fractional Executives for Scale-Ups: Why the £2M to £20M Stage Needs Operators, Not Advisers
+
+URL: https://beyondelevation.com/insights/fractional-executives-for-scale-ups
+
+Scale-ups between £2M and £20M revenue face the most expensive leadership gap in business. They have outgrown advisers and accountants, but three full-time C-suite hires would cost a combined £450K to £600K in annual salary before equity and benefits. Fractional executives close this gap by embedding proven operators 2 to 3 days per week at 30 to 40 per cent of the full-time cost.
+
+According to Beauhurst's 2026 UK Scaleup Index, 78 per cent of companies between £2M and £20M revenue report senior leadership gaps as their primary barrier to the next funding round. Hayat Amin, who has served as a fractional CFO and Chief IP Officer through exits with American Express and TripAdvisor, argues that the default response to this gap is the wrong one. "Most founders at £5M revenue hire an adviser or a coach. What they actually need is an operator who closes the books, files the patents, and builds the function," says Amin. "An adviser tells you what to do. An operator does it."
+
+## What Is the Scale-Up Leadership Gap?
+
+The scale-up leadership gap is the period between £2M and £20M revenue where a company's operational complexity outpaces its management team, but its budget cannot support a full-time C-suite. A full-time CFO costs £150,000 to £200,000 per year. A Chief IP Officer costs £140,000 to £180,000. An AI Operations lead costs £120,000 to £160,000. Combined, that is nearly half a million pounds in fixed cost before a single deliverable ships.
+
+Most scale-ups at this stage have 
+
+---
