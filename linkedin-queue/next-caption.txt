@@ -1,17 +1,15 @@
-Most founders build a finance function backwards.
+Your competitor filed a patent for your core product feature 8 months ago. AI flagged it in 48 hours. You found out today.
 
-They hire a bookkeeper. Then an accountant. Eventually, a CFO.
+Most founders monitor IP like they monitor the news.
+Reactively. After the damage is done.
 
-By the time the CFO arrives, there are years of inconsistent data to clean.
+AI IP-watching tools now scan 3 million patent filings and 180 trademark jurisdictions daily.
+The alert lands before they file — not after they enforce.
 
-The right order: process first. Tools second. People third.
+The window to respond is 48 hours if you catch it early.
+It is £400,000 in litigation if you don't.
 
-A CFO-designed finance function closes the books in 2 days, not 8.
+A Chief IP Officer builds the watching system.
+Most founders never do.
 
-It produces board-ready numbers before every meeting. Not 2 weeks before a raise.
-
-63% of UK founders define the finance headcount before they define what the function should do.
-
-The ones who design first raise at higher multiples and exit cleaner.
-
-#FractionalCFO #FinanceFunction #StartupFinance
+#IPStrategy #AIOperations #Patents
