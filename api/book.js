@@ -21,7 +21,7 @@ module.exports = async (req, res) => {
   const source = clean(body.source, 40);
   const startIso = clean(body.start, 40);
   const answers = {};
-  for (const [k, v] of Object.entries(body.answers && typeof body.answers === "object" ? body.answers : {}).slice(0, 10)) answers[clean(k, 120)] = String(v || "").trim().slice(0, 1500);
+  for (const [k, v] of Object.entries(body.answers && typeof body.answers === "object" ? body.answers : {}).slice(0, 30)) // Mail HQ sets no question count; at 10 a required 11th could never be answered answers[clean(k, 120)] = String(v || "").trim().slice(0, 1500);
   if (name.length < 2) return res.status(400).end(JSON.stringify({ error: "Please add your name." }));
   if (!EMAIL.test(email)) return res.status(400).end(JSON.stringify({ error: "That email does not look right." }));
   if (Number.isNaN(Date.parse(startIso))) return res.status(400).end(JSON.stringify({ error: "Pick a time first." }));
