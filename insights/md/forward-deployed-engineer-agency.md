@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Forward deployed engineer agency: 8 places to hire an FDE in 2026, compared
 
-A forward deployed engineer agency is a firm that puts an engineer inside your company to build and run AI systems on your real data, then hands them over. The 8 firms below come in 6 kinds: a firm that does the work itself, a talent network, a freelance marketplace, a nearshore or offshore developer, a Big 4 consultancy, and recruiters who find you a full-time hire. The right one depends on whether you need a system built this quarter or a person on payroll for years.
+A forward deployed engineer agency is a firm that puts an engineer inside your company to build and run AI systems on your real data, then hands them over. The 8 firms below come in 6 kinds: a firm that does the work itself, a talent network, a freelance marketplace, a nearshore or offshore developer, a Big 4 consultancy, and recruiters who place permanent hires. The right one depends on whether you need a system built this quarter or a person on payroll for years.
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer himself, so he's sat on both sides of this purchase: the one signing the invoice and the one doing the build. Beyond Elevation, his firm, is entry 1 on this list. That's disclosed here, and the other 7 are judged on what their own pages say.
 
@@ -17,11 +17,11 @@ Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three com
 
 Type the phrase into Google and most of what comes back is job boards. Our August 2026 research found the same thing: the term autocompletes, but the results are listings for engineers looking for work, not firms selling the work to a CEO. Meanwhile demand keeps climbing. Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform.
 
-So a chief executive in New York or Chicago who wants one has to sort 3 different businesses that all use the same label. Some sell you an engineer by the month, some sell you a project, and some find you a hire and leave. The list below runs from the firms that build to the firms that recruit.
+A chief executive in New York or Chicago who wants one has to sort 3 different businesses that all use the same label. Some sell you an engineer by the month, some sell you a project, and some find you a hire and leave. The list below runs from the firms that build to the firms that recruit.
 
 ## how this list was built
 
-I read each firm's own page on 9 November 2026 and only used what it says there: prices, trial terms, time to start, and how it vets people. Where a firm doesn't publish a price, I've said so. Nothing here is ranked by quality. Each entry is placed by the kind of buyer it suits, with who it's wrong for, because that's the decision you're making.
+I read each firm's own page on 9 November 2026 and only used what it says there: prices, trial terms, time to start, and how it vets people. If a firm doesn't publish a price, I've said so. Nothing here is ranked by quality. Each entry is placed by the kind of buyer it suits, with who it's wrong for, because that's the decision you're making.
 
 ## 8 forward deployed engineer agencies, compared
 
@@ -47,17 +47,17 @@ Andersen is a development firm headquartered in Warsaw, with development centres
 
 ### 6. Deloitte
 
-Deloitte sells forward deployed engineering as a named consulting service, delivered by small, industry-focused pods. Its page sets out milestones of 3 days to a use case, 3 weeks to proven value and 3 months to production. On 12 August 2026 Deloitte said it was the first global system integrator to staff and deliver a Salesforce FDE engagement, as a founding member of Salesforce's FDE Partner Network, building Agentforce solutions. It publishes no prices. It suits a large company already running Salesforce at scale. It's wrong for most companies under 500 people, who'll pay for a structure they don't need.
+Deloitte sells forward deployed engineering as a named consulting service, delivered by small pods organised by industry. Its page sets out milestones of 3 days to a use case, 3 weeks to proven value and 3 months to production. On 12 August 2026 Deloitte said it was the first global system integrator to staff and deliver a Salesforce FDE engagement, as a founding member of Salesforce's FDE Partner Network, building Agentforce solutions. It publishes no prices. It suits a large company already running Salesforce at scale. It's wrong for most companies under 500 people, who'll pay for a structure they don't need.
 
 ### 7. Paraform
 
-Paraform is a recruiting firm, so it finds you a full-time FDE rather than renting you one. Its September 2026 guide puts FDE base salaries at $150,000 to $217,000, with a $183,000 midpoint and staff or principal roles up to $288,000. It charges 25% of first-year base, only after a hire, which on the midpoint is $45,750, and it runs a free replacement search if the hire fails within 90 days. It tells you to budget 8 to 12 weeks for the search. It suits a funded startup ready to build an FDE team. It's wrong if you need the problem solved before the search would finish.
+Paraform is a recruiting firm: it finds you a full time FDE rather than renting you one. Its September 2026 guide puts FDE base salaries at $150,000 to $217,000, with a $183,000 midpoint and staff or principal roles up to $288,000. It charges 25% of first-year base, only after a hire, which on the midpoint is $45,750, and it runs a free replacement search if the hire fails within 90 days. It tells you to budget 8 to 12 weeks for the search. It suits a funded startup ready to build an FDE team. It's wrong if you need the problem solved before the search would finish.
 
 ### 8. Christian & Timbers
 
 Christian & Timbers is a retained executive search firm. Its own 2026 list of FDE recruiters describes its model as retained search with a 12 month guarantee, and says it isn't set up for high-volume individual hires. It doesn't publish its fee. It suits a company hiring a head of forward deployed engineering who'll build a team. It's wrong for a first single hire on a tight budget.
 
-## what to do this week, before you call any of them
+## What to do this week, before you call any of them
 
 You can save yourself a wasted month with 5 steps, in this order.
 
@@ -95,7 +95,7 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### What is a forward deployed engineer agency?
 
-It's a firm that places an engineer inside your company to build AI systems on your real data and hand them over. Some do the work themselves, some rent you engineers by the month, and some recruit a full-time hire for a fee.
+It's a firm that places an engineer inside your company to build AI systems on your real data and hand them over. Some do the work themselves, some rent you engineers by the month, and some recruit a full time hire for a fee.
 
 ### How much does it cost to hire a forward deployed engineer through an agency?
 
@@ -107,7 +107,7 @@ Hire full time when you have 5 or more enterprise customers waiting on rollouts 
 
 ### How fast can an FDE agency start?
 
-Toptal says about 48 hours, Fullstack sends a shortlist within 48 hours, A.Team sends profiles in 3 to 5 business days and Andersen usually starts within 1 to 2 weeks. A recruited full-time hire takes 8 to 12 weeks, by Paraform's estimate.
+Toptal says about 48 hours, Fullstack sends a shortlist within 48 hours, A.Team sends profiles in 3 to 5 business days and Andersen usually starts within 1 to 2 weeks. A recruited full time hire takes 8 to 12 weeks, by Paraform's estimate.
 
 ### Who can I hire as a forward deployed engineer for a small or mid sized company?
 

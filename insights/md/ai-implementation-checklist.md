@@ -27,7 +27,7 @@ Pick one process that runs at least weekly and costs real hours: order entry, in
 
 ### 2. a named owner who isn't in IT
 
-The owner is the person whose week gets better when it works, usually the operations lead or the finance lead for that process. They sign off the steps in item 1, judge the output in item 5, and make the call in item 9. RAND's first recommendation is that technical staff understand the purpose and the domain. A business owner sitting with the builder every week is how that happens in a small company.
+The owner is the person whose week gets better when it works, usually the operations lead or the finance lead for that process. They sign off the steps in item 1, judge the output in item 5, and make the call in item 9. RAND's first recommendation is that technical staff understand the purpose and the domain. In a small company, that happens when the business owner sits with the builder every week.
 
 ### 3. today's number, measured before anything is built
 

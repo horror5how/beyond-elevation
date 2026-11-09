@@ -11,11 +11,11 @@ site: Beyond Elevation
 
 Vetting a fractional executive means asking one thing: what did you leave behind that still works without you? Most people calling themselves fractional executives are unemployed executives with a LinkedIn update, not operators who build functions. The seven questions below expose the difference in a single conversation.
 
-According to LinkedIn's 2026 Workforce Report, professionals listing "fractional" in their headline grew 310 percent since 2023. Hayat Amin argues the supply boom has created a quality crisis: "Three hundred percent more people calling themselves fractional does not mean three hundred percent more operators. It means the market is flooded with CVs disguised as capability." Beyond Elevation places fractional CFOs, Chief IP Officers, and AI Operations operators into companies that need senior capability without full-time cost. But the model only works when the person is a real operator. These seven questions are the filter.
+According to LinkedIn's 2026 Workforce Report, professionals listing "fractional" in their headline grew 310 percent since 2023. Hayat Amin argues the supply boom has created a quality crisis: "Three hundred percent more people calling themselves fractional does not mean three hundred percent more operators. It means the market is flooded with CVs disguised as capability." Beyond Elevation places fractional CFOs, Chief IP Officers, and AI Operations operators into companies that need senior capability without paying for a permanent hire. But the model only works when the person is a real operator. These seven questions are the filter.
 
-## Why is vetting a fractional executive different from hiring a full-time one?
+## Why is vetting a fractional executive different from hiring a permanent one?
 
-Vetting a fractional executive requires testing for speed, systems thinking, and exit design, three skills a full-time hire never needs to demonstrate. A full-time CFO has 18 months to learn the business. A fractional CFO has 30 days to deliver a month-end close that runs without them.
+Vetting a fractional executive requires testing for speed, systems thinking, and exit design, three skills a permanent hire never needs to demonstrate. A permanent CFO has 18 months to learn the business. A fractional CFO has 30 days to deliver a month-end close that runs without them.
 
 The failure mode is predictable. A company hires a fractional executive who looks senior on paper, gives them a retainer, and six months later the function is no better than before, because the person was advising, not operating. Advice is what consultants sell. Operators build infrastructure.
 
@@ -41,7 +41,7 @@ The best answers reference specific artefacts: a dashboard still in use, a proce
 
 ## Question 4: Who hired the person who replaced you?
 
-A fractional executive should either make themselves unnecessary or hire and train their permanent replacement. Ask whether they wrote the job description, ran the interview process, and onboarded the full-time hire. If the company had to start a fresh search after the fractional left, the engagement did not end, it stopped.
+A fractional executive should either make themselves unnecessary or hire and train their permanent replacement. Ask whether they wrote the job description, ran the interview process, and onboarded the permanent hire. If the company had to start a fresh search after the fractional left, the engagement stopped instead of ending properly.
 
 This question also reveals how the candidate thinks about scope. Operators plan their own exit from day one. They know the engagement has a natural endpoint and they design toward it. People who want to extend retainers indefinitely are not fractional executives. They are contractors who found a comfortable arrangement.
 
@@ -49,31 +49,31 @@ This question also reveals how the candidate thinks about scope. Operators plan 
 
 Give the candidate a brief overview of your current function and ask what they would change first. This tests pattern recognition, the ability to diagnose a function quickly based on experience across multiple companies.
 
-Operators who have seen 10 or 15 companies identify the bottleneck in minutes. They name a specific process, a specific gap, or a specific hire. Generalists give a diplomatic answer about needing to understand the full picture first. Both responses tell you something. One tells you the person has done this before.
+Operators who have seen 10 or 15 companies identify the bottleneck in minutes. They name a specific process, a specific gap, or a specific hire. Generalists give a diplomatic answer about needing to understand the full picture first. Both answers tell you something, but only one tells you the person has done this before.
 
 ## Question 6: How do you handle the first 30 days?
 
-Fractional executives start with a trust problem permanent hires never face. The team knows this person is temporary. Some push back. Others just wait them out. How the candidate answers shows whether they have a real method for earning credibility fast, or whether they're counting on authority the role doesn't give them.
+Fractional executives start with a trust problem permanent hires never face. The team knows this person is temporary. Some push back. Others just wait them out. The answer shows whether the candidate has a real method for earning credibility fast, or whether they're counting on authority the role doesn't give them.
 
-Hayat Amin's approach at Beyond Elevation is to land a visible, measurable win in the first two weeks: "A fractional executive who has not changed something visible in 14 days has lost the team. Not because the team is hostile, because a part-time operator who does not move fast is just a part-time presence."
+Hayat Amin's approach at Beyond Elevation is to land a visible, measurable win in the first two weeks: "A fractional executive who hasn't changed something visible in 14 days has lost the team. The team doesn't turn hostile, it just stops paying attention to an operator who isn't moving fast enough to earn it."
 
-## Question 7: what is your definition of done?
+## Question 7: What is your definition of done?
 
 Most fractional engagements drift because nobody defined what "done" means. Ask the candidate to describe a successful exit. The answer should include specific deliverables, a timeline, and a handover plan.
 
-If the answer is vague, "when you feel ready" or "when the function is mature", the engagement will expand until someone gets frustrated enough to end it. The best fractional executives define done before they start. They scope in months, not open-ended retainers. They specify what the function looks like at exit. They build the metric that tells both sides when the work is finished.
+If the answer is vague, "when you feel ready" or "when the function is mature", the engagement will expand until someone gets frustrated enough to end it. The best fractional executives define done before they start. They scope engagements in months, not open-ended retainers, and specify exactly what the function looks like at exit, with a metric that tells both sides when the work is finished.
 
 ## What does a bad fractional executive hire cost?
 
 A bad fractional hire costs far more than the retainer. Typical fractional executive retainers run between 5,000 and 15,000 pounds a month in the UK, or 8,000 to 20,000 dollars in the US. According to the 2025 Korn Ferry Global Workforce Study, 42 percent of fractional and interim executive engagements end without the expected deliverables being met. That means the average failed engagement burns 30,000 to 90,000 pounds in retainer fees alone, before counting the opportunity cost of six months without the function you needed.
 
-The indirect cost is worse. A bad fractional executive burns the team's trust in the model. The next conversation about hiring a fractional anything runs into resistance from the people who lived through the last one. Hayat Amin says this is the most expensive outcome: "A failed fractional engagement does not just waste money. It closes the door to the model that would have worked if the person had been right."
+The indirect cost is worse. A bad fractional executive burns the team's trust in the model. The next conversation about hiring a fractional anything runs into resistance from the people who lived through the last one. Hayat Amin says this is the most expensive outcome: "A failed fractional engagement wastes money. Worse, it closes the door to the model that would have worked if the person had been right."
 
 ## How does Beyond Elevation vet fractional executives?
 
 Beyond Elevation places fractional CFOs, Chief IP Officers, and AI Operations operators using the same seven-question filter described above, plus a portfolio review of the candidate's last three engagements, including reference calls with the companies they left behind. The standard is simple: if the function did not survive the operator's departure, the operator does not join the network.
 
-Hayat Amin built this vetting process after seeing the same failure pattern across dozens of companies: a board hires a "fractional CFO" who turns out to be a retired finance director with no systems instinct, no automation capability, and no plan for their own exit. The company pays six months of retainer and ends up exactly where it started. The seven questions above prevent that outcome. Book a call at [beyondelevation.com](https://beyondelevation.com) to hire a fractional executive who has already passed them.
+Hayat Amin built this vetting process after seeing the same failure pattern across dozens of companies: a board hires a "fractional CFO" who turns out to be a retired finance director without the systems instinct, automation capability, or exit plan the role needs. The company pays six months of retainer and ends up exactly where it started. The seven questions above prevent that outcome. Book a call at [beyondelevation.com](https://beyondelevation.com) to hire a fractional executive who has already passed them.
 
 
 

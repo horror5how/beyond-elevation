@@ -19,7 +19,7 @@ Recruiters price a forward deployed engineer the way they price any senior engin
 
 - Contingency, paid only on hire. The most common direct hire fee in North America is 20% of first year salary, according to a 2021 Staffing Industry Analysts survey cited by Second Talent. Paraform, a recruiting marketplace that places forward deployed engineers, charges 25% of first year base.
 
-- Agency default rates. Robert Walters' US terms set a standard 30% unless another rate is agreed in writing. Robert Half's standard schedule is 35% of annual salary, cut to 25% for a single search, as Second Talent reads its terms.
+- Agency default rates. Robert Walters' US terms set a standard 30%, unless you agree a different rate in writing. Robert Half's standard schedule is 35% of annual salary, cut to 25% for a single search, as Second Talent reads its terms.
 
 - Retained search, paid in thirds. Korn Ferry's annual report puts its fee at one third of estimated first year cash compensation, and Heidrick and Struggles quotes about one third, billed over three months.
 
@@ -115,7 +115,7 @@ Executive search firms quote about one third of first year compensation. Korn Fe
 
 ### Is forward deployed engineer recruiting worth the fee?
 
-It is when you have two years of deployment work and can't find the person yourself inside Paraform's 8 to 12 week window. It isn't when the job is one broken workflow, because the fee alone can exceed what that workflow costs you in a year.
+Worth it when you have two years of deployment work and can't find the person yourself inside Paraform's 8 to 12 week window. Not worth it when the job is one broken workflow, since the fee alone can exceed what that workflow costs you in a year.
 
 ### Who can I hire to fix a stuck AI workflow without paying a recruiter fee?
 
