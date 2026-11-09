@@ -853,3 +853,4 @@ ai-month-end-close-2026
 ip-licensing-first-deal-2026
 finance-function-design-cfo-2026
 ai-ip-watch-competitor-patent-2026
+know-how-licensing-no-patent-2026
