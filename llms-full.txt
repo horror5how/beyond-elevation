@@ -9532,3 +9532,23 @@ Type the phrase into Google and most of what comes back is job boards. Our Augus
 A chief executive in New York or Chicago who wants one has to sort 3 different busines
 
 ---
+
+## Your Annual Plan Is a Fiction If Nobody Owns the Numbers
+
+URL: https://beyondelevation.com/insights/startup-annual-planning-fractional-cfo
+
+Your annual plan is a fiction if nobody owns the numbers. Most startup annual plans are dead by February — not because the strategy was wrong, but because nobody in the building is paid to hold every department to their line items, reforecast when actuals diverge, and report variance to the board before the cash gets tight.
+
+According to a 2025 Bain & Company analysis, fewer than 15% of companies consistently achieve their strategic plans — and the gap is widest in companies under $50M revenue where no dedicated finance leader runs the process. Hayat Amin argues this is not a strategy problem but an ownership problem: &ldquo;An annual plan without an operator behind it is a slide deck. A slide deck does not prevent a cash crisis.&rdquo;
+
+## Why Do Most Startup Annual Plans Fail?
+
+Most startup annual plans fail because they are built by founders in a weekend, approved by a board in an hour, and never touched again. The plan has no owner, no reforecast cadence, and no mechanism to connect top-line targets to department-level spend. When Q1 actuals miss by 20%, nobody is responsible for explaining why or adjusting the model.
+
+The three failure modes Hayat Amin sees in almost every portfolio company that hires Beyond Elevation mid-year:
+
+**No financial owner.** The founder builds the plan in a spreadsheet. Nobody updates it. By March, the plan and reality have diverged so far that the board stops asking about it.
+
+**Wrong inputs.** The plan uses last year&rsquo;s growth rate as t
+
+---
