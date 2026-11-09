@@ -51,3 +51,18 @@ Fixed in 3ce015d3 (deployed 2 Nov 2026, slots and page re-checked live):
 | low | `lib/booking.js:269` | a backslash in the guest name left the quoted To display name unterminated |
 
 Still open: `/api/book` rate limit; B17 (cap counted from mailed confirmations, `lib/booking.js:221`); B22 (slots and submit read settings separately); the daily cap stops counting a meeting once it has ended (`lib/booking.js:180`) and switches off entirely when the Gmail search fails (`:190`); `lostRace` ignores the 15-minute buffers, so two racing guests can land back to back; a required question over 120 characters, with stray whitespace, or after the 10th can never be answered (`api/book.js:24`, latent: the `call` link has none); a bare CR in notes reaches the .ics fallback (`icsEsc`); December's month step in `assets/book.js:78` builds January of the same year (Next always enabled).
+
+## cto-weekly, 9 Nov 2026
+
+Live at the start: `/api/slots?s=call` 512 slots in Asia/Dubai (first 12 Nov 05:00 UTC), `/call` 200 with `book.js?v=7`, deploys green. No engine changes since 3ce015d3.
+
+Fixed (pushed to main 9 Nov 2026, checked with `node --check` and `node -e`):
+
+| Severity | Where | Finding | Commit |
+|---|---|---|---|
+| medium | `lib/booking.js:251` | `icsEsc` escaped only `\n`: a bare CR from the notes box ended the line in the fallback .ics, so a guest could add properties to the invite on Hayat's calendar. All line breaks escaped | 059ef548 |
+| low-medium | `lib/booking.js:445` | `lostRace` ignored the link's buffers: two racing guests could land back to back. Widened by the link's buffers in `book()`; the healer keeps 0 | 059ef548 |
+| low | `api/book.js:23` | answers cut at 10 while Mail HQ allows any number of questions; a required 11th could never be answered. Cap 30 (labels are already trimmed and capped at 120 by Mail HQ, so that part of the 2 Nov item is not reachable) | 059ef548 |
+| low | `assets/book.js:78` | December's Next built "2026-01-01" and was always enabled. Real Date step; `book.js?v=8` | 14446d9e |
+
+Still open: `/api/book` rate limit (needs a store; none in this repo); B17 (cap counted from mailed confirmations, `lib/booking.js:221`); B22 (slots and submit read settings separately); the daily cap stops counting a meeting once it has ended and switches off when the Gmail search fails.
