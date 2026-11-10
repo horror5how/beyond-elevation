@@ -53,7 +53,7 @@ Fractional engagements are designed to be finite. The operator builds a function
 
 ## What Does Hayat Amin's First-Call Diagnostic Actually Test?
 
-Hayat Amin's First-Call Diagnostic is a five-question filter that Beyond Elevation runs on every inbound enquiry before any proposal is written. It takes fifteen minutes and catches the five failure modes above before they cost either side money. The five questions are:
+The First-Call Diagnostic is a five-question filter that Beyond Elevation runs on every inbound enquiry before any proposal is written. It takes fifteen minutes and catches the five failure modes above before they cost either side money. The five questions are:
 
 **1. Revenue and finance maturity.** Is the company generating enough revenue to justify executive-level spend, and does a basic finance or operations infrastructure already exist?
 
