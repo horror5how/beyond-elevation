@@ -569,5 +569,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI consultant vs AI engineer: which should you hire first?](https://beyondelevation.com/insights/ai-consultant-vs-ai-engineer) — /insights/md/ai-consultant-vs-ai-engineer.md
 - [The IP Landscape Analysis That Turns Your Competitor's Patent Filings Into Your Product Strategy](https://beyondelevation.com/insights/ip-landscape-analysis-competitive-intelligence) — /insights/md/ip-landscape-analysis-competitive-intelligence.md
 - [Fractional CFO vs VP of Finance: The Hire That Costs Three Times More and Delivers Half the Strategic Value](https://beyondelevation.com/insights/fractional-cfo-vs-vp-finance) — /insights/md/fractional-cfo-vs-vp-finance.md
+- [We Turn Away 40% of Inbound Leads. Here Are the 5 Signs a Company Is Not Ready for a Fractional Executive.](https://beyondelevation.com/insights/when-fractional-executive-is-wrong-hire) — /insights/md/when-fractional-executive-is-wrong-hire.md
 
 > Full blog content available at /llms-full.txt
