@@ -17,7 +17,7 @@ I spent twenty years as a technology CFO and sold three companies, and I now bui
 
 RAND published a report on 13 August 2024, by James Ryseff, Brandon De Bruhl and Sydne Newberry, on why AI projects fail. They interviewed 65 data scientists and engineers with at least 5 years of experience each. RAND notes that by some estimates more than 80% of AI projects fail, twice the rate of IT projects that don't involve AI, and cites a survey in which only 14% of organisations said they were fully ready to integrate AI.
 
-The 5 root causes RAND found are worth reading as a CEO, because 4 of them sit on the business side. People misunderstand or miscommunicate what problem the AI should solve. The company doesn't have the data. The team chases the newest technology instead of the user's problem. The company lacks the infrastructure to manage data and deploy a model. And sometimes the problem is too hard for AI. Only the last one is a model problem. The checklist below is built to catch the other 4 before you spend the money.
+The 5 root causes RAND found are worth reading as a CEO, because 4 of them sit on the business side. People misunderstand or miscommunicate what problem the AI should solve. The company doesn't have the data. The team chases the newest technology instead of the user's problem. The company lacks the infrastructure to manage data and deploy a model. Sometimes the problem is too hard for AI. Only the last one is a model problem. The checklist below is built to catch the other 4 before you spend the money.
 
 ## the 9 item AI implementation checklist
 
@@ -47,7 +47,7 @@ Run the pilot on the real process with real data, not a demo set. Keep it to 30 
 
 ### 7. a run book someone else can follow
 
-Before go live, write one page: what the system does, which accounts and keys it uses, what to check every morning, what to do when it fails, and who to call. If the builder leaves and nobody can restart it, you don't own a system. You own a dependency. Insist that the code, the accounts and the documents sit in your company's name from day one.
+Before go live, write one page: what the system does, which accounts and keys it uses, what to check every morning, what to do when it fails, and who to call. If the builder leaves and nobody can restart it, you're left with a dependency, not a system. Insist that the code, the accounts and the documents sit in your company's name from day one.
 
 ### 8. a monthly cost cap and a risk list
 

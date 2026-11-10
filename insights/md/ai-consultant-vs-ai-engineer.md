@@ -19,7 +19,7 @@ An AI consultant sells a decision. You get a view on which processes are worth a
 
 An AI engineer sells a working system. They write the code, connect the model to your data, test it, ship it and keep it running. The output is software in production, and it needs someone to own it after launch.
 
-Insight Global, the staffing firm, put the split plainly in a 29 October 2026 piece: hire AI talent when AI is an ongoing capability you want to own, and use a consulting team when you have a defined problem, need several skills at once or need help choosing use cases. That matches what we see. The mistake isn't picking the wrong one. It's hiring an engineer before anyone has decided what's worth building, or hiring a consultant and expecting code.
+Insight Global, the staffing firm, put the split plainly in a 29 October 2026 piece: hire AI talent when AI is an ongoing capability you want to own, and use a consulting team when you have a defined problem, need several skills at once or need help choosing use cases. That matches what we see. The real mistake is hiring an engineer before anyone has decided what's worth building, or hiring a consultant and expecting code.
 
 ## what each one costs in 2026
 
@@ -43,13 +43,13 @@ A consultant wins when the question is still "where". You've got six ideas, a bo
 
 They also win when the work crosses functions. Compliance, finance, operations and sales all have to agree before anything is built, and an outsider can run that conversation faster than a new hire who reports to one of them.
 
-Where they lose is the last mile. A roadmap doesn't move a single invoice. If the consultant's deliverable is a slide deck and nobody inside can build it, you've paid for a plan you can't use. Ask in the first call whether the output is a recommendation or a working system, and get it in writing.
+The last mile is where they lose. A roadmap doesn't move a single invoice. If the consultant's deliverable is a slide deck and nobody inside can build it, you've paid for a plan you can't use. Ask in the first call whether the output is a recommendation or a working system, and get it in writing.
 
 ## where the AI engineer wins
 
 An engineer wins when AI is part of what you sell. If you're a SaaS company and the feature has to sit in front of customers next quarter, you need someone who owns that code for years, not months. KORE1 and Insight Global both land in the same place: own the capability in house when it's a lasting part of the product.
 
-Where they lose is the operations side of a small or mid sized company. Your problem is rarely a model. It's that HubSpot, QuickBooks and the shared inbox don't talk, and a person retypes orders between them for 10 hours a week. A $150,000 engineer hired into that company often spends the first quarter learning how the business works, with no one senior enough to tell them which problem to fix first. That's how a pilot ends up working in the demo and failing on real data, which we wrote about in [why most AI pilots fail](/insights/why-do-most-ai-pilots-fail/).
+The operations side of a small or mid sized company is where they lose. Your problem is rarely a model. It's that HubSpot, QuickBooks and the shared inbox don't talk, and a person retypes orders between them for 10 hours a week. A $150,000 engineer hired into that company often spends the first quarter learning how the business works, with no one senior enough to tell them which problem to fix first. That's how a pilot ends up working in the demo and failing on real data, which we wrote about in [why most AI pilots fail](/insights/why-do-most-ai-pilots-fail/).
 
 ## the hire most owners need first
 
@@ -67,7 +67,7 @@ You can make this call in about four hours, spread over five days. Do these in o
 
 - Put a dollar figure on each one. Hours a week times a loaded hourly cost times 52. Eight hours a week at $55 an hour is $22,880 a year, by our arithmetic.
 
-- Answer one question honestly. Do you know which task to fix first? If no, you need the consultant's skill. If yes, and it lives inside your product, you need the engineer's.
+- Answer one question. Do you know which task to fix first? If no, you need the consultant's skill. If yes, and it lives inside your product, you need the engineer's.
 
 - If you know what to fix and it lives in operations, not the product, scope one workflow with a 30 day finish line and one owner inside the business. Don't hire anyone full time until that one workflow is live.
 

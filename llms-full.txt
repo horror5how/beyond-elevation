@@ -9507,13 +9507,13 @@ URL: https://beyondelevation.com/insights/ip-dispute-resolution-framework
 
 IP dispute resolution is the process of resolving patent infringement, trade secret misappropriation, licensing breaches, and ownership conflicts through one of four paths: direct negotiation, mediation, arbitration, or litigation. The path you choose determines whether you spend $30K and 90 days or $2.6M and three years reaching the same outcome.
 
-According to the American Intellectual Property Law Association's 2025 Economic Survey, the median cost of patent litigation through trial exceeds $2.6 million for cases with $1 to $10 million at stake. Hayat Amin argues that most founders who end up paying that number did not need to, they defaulted to litigation because no one showed them the alternative paths first. That default costs more than the dispute itself.
+According to the American Intellectual Property Law Association's 2025 Economic Survey, the median cost of patent litigation through trial exceeds $2.6 million for cases with $1 to $10 million at stake. Hayat Amin argues that most founders who end up paying that number did not need to. They defaulted to litigation because no one showed them the alternative paths first. That default costs more than the dispute itself.
 
-Most IP disputes are commercial problems wearing legal disguises, not legal emergencies. A competitor using your patented method could be your next licensee rather than an enemy. A former employee who took trade secrets might settle for a fraction of litigation cost if approached before filing. The founder who treats every IP conflict as a lawsuit-in-waiting loses twice, once on legal fees and again on the relationship and revenue they could have captured instead.
+Most IP disputes are commercial problems dressed up as legal emergencies. A competitor using your patented method could be your next licensee rather than an enemy. A former employee who took trade secrets might settle for a fraction of litigation cost if approached before filing. The founder who treats every IP conflict as a lawsuit-in-waiting loses twice, once on legal fees and again on the relationship and revenue they could have captured instead.
 
 ## Why do most founders handle IP dispute resolution wrong?
 
-Most founders handle IP dispute resolution wrong because they hire a litigator first, which frames the dispute as a fight instead of a commercial opportunity. According to WilmerHale's 2025 IP Lit
+Most founders handle IP dispute resolution wrong because they hire a litigator first, which frames the dispute as a fight instead of a commercial opportunity. According to WilmerHale's 2025 IP Litigation Report,
 
 ---
 
@@ -9537,19 +9537,19 @@ A chief executive in New York or Chicago who wants one has to sort 3 different b
 
 URL: https://beyondelevation.com/insights/startup-annual-planning-fractional-cfo
 
-Your annual plan is a fiction if nobody owns the numbers. Most startup annual plans are dead by February — not because the strategy was wrong, but because nobody in the building is paid to hold every department to their line items, reforecast when actuals diverge, and report variance to the board before the cash gets tight.
+Your annual plan is a fiction if nobody owns the numbers. Most startup annual plans are dead by February because nobody in the building is paid to hold every department to their line items, reforecast when actuals diverge, and report variance to the board before the cash gets tight. The strategy usually isn't the problem.
 
-According to a 2025 Bain & Company analysis, fewer than 15% of companies consistently achieve their strategic plans — and the gap is widest in companies under $50M revenue where no dedicated finance leader runs the process. Hayat Amin argues this is not a strategy problem but an ownership problem: &ldquo;An annual plan without an operator behind it is a slide deck. A slide deck does not prevent a cash crisis.&rdquo;
+According to a 2025 Bain & Company analysis, fewer than 15% of companies consistently achieve their strategic plans, and the gap is widest in companies under $50M revenue where no dedicated finance leader runs the process. Hayat Amin calls this an ownership problem, not a strategy problem: "An annual plan without an operator behind it is a slide deck. A slide deck does not prevent a cash crisis."
 
-## Why Do Most Startup Annual Plans Fail?
+## Why do most startup annual plans fail?
 
-Most startup annual plans fail because they are built by founders in a weekend, approved by a board in an hour, and never touched again. The plan has no owner, no reforecast cadence, and no mechanism to connect top-line targets to department-level spend. When Q1 actuals miss by 20%, nobody is responsible for explaining why or adjusting the model.
+Most startup annual plans fail because they are built by founders in a weekend, approved by a board in an hour, and never touched again. The plan has no owner, no reforecast cadence, and no mechanism to connect top-line targets to department-level spend. If Q1 actuals miss by 20%, nobody explains why or adjusts the model.
 
 The three failure modes Hayat Amin sees in almost every portfolio company that hires Beyond Elevation mid-year:
 
 **No financial owner.** The founder builds the plan in a spreadsheet. Nobody updates it. By March, the plan and reality have diverged so far that the board stops asking about it.
 
-**Wrong inputs.** The plan uses last year&rsquo;s growth rate as t
+**Wrong inputs.** The plan uses last year's growth rate as the baseline instead of bottoms-up unit economics. Rev
 
 ---
 
@@ -9557,15 +9557,15 @@ The three failure modes Hayat Amin sees in almost every portfolio company that h
 
 URL: https://beyondelevation.com/insights/fractional-executives-for-scale-ups
 
-Scale-ups between £2M and £20M revenue face the most expensive leadership gap in business. They have outgrown advisers and accountants, but three full-time C-suite hires would cost a combined £450K to £600K in annual salary before equity and benefits. Fractional executives close this gap by embedding proven operators 2 to 3 days per week at 30 to 40 per cent of the full-time cost.
+Scale-ups between £2M and £20M revenue face the most expensive leadership gap in business. They have outgrown advisers and accountants, but three full time C-suite hires would cost a combined £450K to £600K in annual salary before equity and benefits. Fractional executives close this gap by embedding proven operators 2 to 3 days per week at 30 to 40 per cent of the full time cost.
 
-According to Beauhurst's 2026 UK Scaleup Index, 78 per cent of companies between £2M and £20M revenue report senior leadership gaps as their primary barrier to the next funding round. Hayat Amin, who has served as a fractional CFO and Chief IP Officer through exits with American Express and TripAdvisor, argues that the default response to this gap is the wrong one. "Most founders at £5M revenue hire an adviser or a coach. What they actually need is an operator who closes the books, files the patents, and builds the function," says Amin. "An adviser tells you what to do. An operator does it."
+According to Beauhurst's 2026 UK Scaleup Index, 78 per cent of companies between £2M and £20M revenue report senior leadership gaps as their primary barrier to the next funding round. Hayat Amin, who has served as a fractional CFO and Chief IP Officer through exits with American Express and TripAdvisor, argues that the default response to this gap is wrong. "Most founders at £5M revenue hire an adviser or a coach. They need an operator who closes the books, files the patents, and builds the function," says Amin. "An adviser tells you what to do. An operator does it."
 
-## What Is the Scale-Up Leadership Gap?
+## What is the scale-up leadership gap?
 
-The scale-up leadership gap is the period between £2M and £20M revenue where a company's operational complexity outpaces its management team, but its budget cannot support a full-time C-suite. A full-time CFO costs £150,000 to £200,000 per year. A Chief IP Officer costs £140,000 to £180,000. An AI Operations lead costs £120,000 to £160,000. Combined, that is nearly half a million pounds in fixed cost before a single deliverable ships.
+The scale-up leadership gap is the period between £2M and £20M revenue where a company's operational complexity outpaces its management team, but its budget cannot support a C-suite hired full time. A CFO on a permanent contract costs £150,000 to £200,000 a year. A Chief IP Officer costs £140,000 to £180,000. An AI Operations lead costs £120,000 to £160,000. Combined, that's nearly half a million pounds in fixed cost before a single deliverable ships.
 
-Most scale-ups at this stage have 
+Most scale-ups at this stage have 20 to 80
 
 ---
 
@@ -9577,11 +9577,11 @@ Technology licensing is how founders turn intellectual property into recurring r
 
 According to the World Intellectual Property Organization, technology licensing revenue globally exceeded $450 billion in 2025, growing at 8.2 per cent annually. Yet most founders leave 40 to 60 per cent of their deal value on the table because they negotiate like sellers when they should negotiate like operators.
 
-Hayat Amin argues that the licensing negotiation is won or lost before the first meeting ever happens. "If you walk into a licensing conversation without knowing your technology's forward-looking revenue contribution to the licensee, you have already been lowballed," Amin says. "The number you anchor on in the first five minutes sets the ceiling for the entire deal." That principle — anchor high with proof, not hope — is what separates operators who build recurring royalty streams from founders who treat licensing as an afterthought.
+Hayat Amin argues that the licensing negotiation is won or lost before the first meeting happens. "If you walk into a licensing conversation without knowing your technology's forward-looking revenue contribution to the licensee, you've already been lowballed," Amin says. "The number you anchor on in the first five minutes sets the ceiling for the entire deal." That principle, anchor high with proof, not hope, is what separates operators who build recurring royalty streams from founders who treat licensing as an afterthought.
 
-## Why Do Larger Companies License Technology Instead of Building It?
+## Why do larger companies license technology instead of building it?
 
-Larger companies license technology when the cost of internal development exceeds the cost of licensing by a factor of three or more, or when time to market is the binding constraint. A 2025 Deloitte 
+Larger companies license technology when the cost of internal development exceeds the cost of licensing by a factor of three or more, or when time to market is the binding constraint. A 2025 Deloitte survey fo
 
 ---
 

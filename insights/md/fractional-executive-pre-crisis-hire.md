@@ -23,7 +23,7 @@ The hidden cost is worse. A reactive hire inherits problems instead of preventin
 
 ## What is the pre-crisis hiring calendar for fractional executives?
 
-The pre-crisis hiring calendar is a planning tool that maps fractional executive hires to revenue milestones and board events, not emergencies. Hayat Amin's Pre-Crisis Hiring Calendar is the framework Beyond Elevation uses with portfolio companies and PE-backed businesses, to schedule fractional hires 90 to 180 days before the function comes under pressure.
+The pre-crisis hiring calendar is a planning tool that maps fractional executive hires to revenue milestones and board events, not emergencies. Hayat Amin's Pre-Crisis Hiring Calendar is the framework Beyond Elevation uses with portfolio companies and PE-backed businesses to schedule fractional hires 90 to 180 days before the function comes under pressure.
 
 The calendar runs on a simple principle: every business function has a predictable breaking point tied to revenue, headcount, or transaction complexity. The fractional executive should arrive before that point, not after.
 

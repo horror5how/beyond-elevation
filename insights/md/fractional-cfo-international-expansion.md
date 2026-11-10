@@ -41,11 +41,11 @@ The cost of getting transfer pricing right at setup is £5,000 to £15,000 in do
 
 ## What does unmanaged FX exposure cost?
 
-Currency risk is the silent margin killer in international expansion. A startup billing US customers in dollars while paying UK staff in sterling is exposed to GBP/USD volatility on every transaction. In 2025, GBP/USD moved within a 12% range across the year. For a startup with £2 million in cross-border revenue, that's up to £240,000 in unhedged exposure, more than the annual cost of a fractional CFO.
+Currency risk is the margin cost most founders miss in international expansion. A startup billing US customers in dollars while paying UK staff in sterling is exposed to GBP/USD volatility on every transaction. In 2025, GBP/USD moved within a 12% range across the year. For a startup with £2 million in cross-border revenue, that's up to £240,000 in unhedged exposure, more than the annual cost of a fractional CFO.
 
 Most founders don't hedge because they don't know how. Forward contracts, natural hedging through matched currency expenses, and simple policy rules like invoicing in your home currency where possible are all tools a fractional CFO deploys in the first month of an international engagement.
 
-Hayat Amin treats FX risk as something to remove, not predict. The goal is a P&L the board can read without a forex footnote explaining away the variance. Investors want predictable margins, and unhedged FX exposure works against that.
+Hayat Amin removes FX risk rather than trying to predict it. The goal is a P&L the board can read without a forex footnote explaining away the variance. Investors want predictable margins, and unhedged FX exposure works against that.
 
 ## What is Hayat Amin's cross-border finance readiness test?
 

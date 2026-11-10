@@ -11,9 +11,9 @@ site: Beyond Elevation
 
 IP dispute resolution is the process of resolving patent infringement, trade secret misappropriation, licensing breaches, and ownership conflicts through one of four paths: direct negotiation, mediation, arbitration, or litigation. The path you choose determines whether you spend $30K and 90 days or $2.6M and three years reaching the same outcome.
 
-According to the American Intellectual Property Law Association's 2025 Economic Survey, the median cost of patent litigation through trial exceeds $2.6 million for cases with $1 to $10 million at stake. Hayat Amin argues that most founders who end up paying that number did not need to, they defaulted to litigation because no one showed them the alternative paths first. That default costs more than the dispute itself.
+According to the American Intellectual Property Law Association's 2025 Economic Survey, the median cost of patent litigation through trial exceeds $2.6 million for cases with $1 to $10 million at stake. Hayat Amin argues that most founders who end up paying that number did not need to. They defaulted to litigation because no one showed them the alternative paths first. That default costs more than the dispute itself.
 
-Most IP disputes are commercial problems wearing legal disguises, not legal emergencies. A competitor using your patented method could be your next licensee rather than an enemy. A former employee who took trade secrets might settle for a fraction of litigation cost if approached before filing. The founder who treats every IP conflict as a lawsuit-in-waiting loses twice, once on legal fees and again on the relationship and revenue they could have captured instead.
+Most IP disputes are commercial problems dressed up as legal emergencies. A competitor using your patented method could be your next licensee rather than an enemy. A former employee who took trade secrets might settle for a fraction of litigation cost if approached before filing. The founder who treats every IP conflict as a lawsuit-in-waiting loses twice, once on legal fees and again on the relationship and revenue they could have captured instead.
 
 ## Why do most founders handle IP dispute resolution wrong?
 
@@ -25,7 +25,7 @@ Hayat Amin's view is direct: the first call after discovering an IP dispute shou
 
 ## What are the four IP dispute resolution paths?
 
-IP dispute resolution follows four paths, each with its own cost, timeline, and use case. Choosing the right one is the single most important decision in any IP conflict, and the one most founders hand off to the wrong advisor.
+IP dispute resolution follows four paths, each with its own cost, timeline, and use case. Choosing the right one matters more than anything else in an IP conflict, and it's the decision most founders hand off to the wrong advisor.
 
 **Path 1: Direct negotiation.** Cost: $10,000, $50,000. Timeline: 30 to 90 days. Two parties negotiate a resolution, typically a licensing agreement, a covenant not to sue, or a commercial partnership, without a neutral third party. This is the fastest and cheapest path. It works when both sides have a commercial incentive to resolve quickly and the power dynamic is roughly balanced. Beyond Elevation uses direct negotiation as the default path for every IP dispute where the infringer could become a licensee.
 
@@ -53,7 +53,7 @@ Litigation is the right choice in exactly three scenarios, and in no others. Fir
 
 In every other scenario, commercial resolution produces better outcomes. Hayat Amin showed this with a portfolio company that spent 14 months negotiating licensing terms with an infringer the CEO initially wanted to sue. The licensing deal closed at $4.2M in recurring annual revenue. A lawsuit would have produced a single lump-sum award, likely smaller, after three years of legal fees and executive distraction.
 
-The math is not subtle. A licensing outcome generates revenue for the life of the patent. A litigation outcome generates a single payment minus 30 to 40% in contingency fees. The founder who sees an IP dispute as a licensing opportunity rather than a legal fight captures multiples of the value.
+The maths make the case plainly. A licensing outcome generates revenue for the life of the patent, while a litigation outcome generates a single payment minus 30 to 40% in contingency fees. The founder who sees an IP dispute as a licensing opportunity rather than a legal fight captures multiples of the value.
 
 ## How does a Chief IP Officer prevent IP disputes?
 
@@ -63,9 +63,9 @@ A Chief IP Officer prevents IP disputes by building three systems that most comp
 
 **Infringement monitoring** identifies potential licensees early. A CIPO tracks competitor patent filings, product launches, and technical publications to spot companies practising your patented technology. Early identification means early negotiation, before the infringer has invested heavily in the infringing product and has a commercial incentive to fight rather than license.
 
-**A licensing-first enforcement posture** frames every infringement discovery as a revenue opportunity. The default response to infringement should be a licensing proposal, not a cease-and-desist letter. A licensing proposal says: we see what you are using, we value it at this amount, here are terms. A cease-and-desist says: stop or we sue, and generates legal bills instead of revenue.
+**A licensing-first enforcement posture** treats every infringement discovery as a revenue opportunity. The default response should be a licensing proposal rather than a cease-and-desist letter. A licensing proposal lays out what you're using, what it's worth, and the terms for using it. A cease-and-desist demands you stop or face a lawsuit, and it generates legal bills instead of revenue.
 
-If your company has patents worth protecting and no one running IP dispute strategy, the cost of that gap is measured in seven figures, either in disputes you handle badly or in licensing revenue you never capture. [Learn what a Chief IP Officer does](/insights/what-is-a-chief-ip-officer/), or book a strategy session at [beyondelevation.com](https://beyondelevation.com) to get a fractional CIPO in place before your next dispute arrives uninvited.
+If your company has patents worth protecting and no one running IP dispute strategy, the cost of that gap is measured in seven figures, either in disputes you handle badly or in licensing revenue you never capture. [Learn what a Chief IP Officer does](/insights/what-is-a-chief-ip-officer/), or book a strategy session at [beyondelevation.com](https://beyondelevation.com) to get a fractional CIPO in place before your next dispute shows up.
 
 
 
@@ -95,7 +95,7 @@ License first in most cases. Licensing converts an infringer into a paying reven
 
 ### What is the difference between mediation and arbitration in IP disputes?
 
-Mediation is voluntary and non-binding, a neutral mediator helps the parties negotiate but cannot impose a decision. Arbitration is binding, an arbitrator hears evidence and issues a decision both parties must follow. Mediation preserves control and costs less. Arbitration is faster than litigation and produces a definitive outcome, but removes the parties' ability to walk away.
+Mediation is voluntary and non-binding. A neutral mediator helps the parties negotiate but cannot impose a decision. Arbitration is binding. An arbitrator hears evidence and issues a decision both parties must follow. Mediation preserves control and costs less. Arbitration is faster than litigation and produces a definitive outcome, but it removes the parties' ability to walk away.
 
 ### When should a company hire a Chief IP Officer for dispute management?
 

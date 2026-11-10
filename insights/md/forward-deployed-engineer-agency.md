@@ -57,7 +57,7 @@ Paraform is a recruiting firm: it finds you a full time FDE rather than renting 
 
 Christian & Timbers is a retained executive search firm. Its own 2026 list of FDE recruiters describes its model as retained search with a 12 month guarantee, and says it isn't set up for high-volume individual hires. It doesn't publish its fee. It suits a company hiring a head of forward deployed engineering who'll build a team. It's wrong for a first single hire on a tight budget.
 
-## What to do this week, before you call any of them
+## Five steps to take this week, before you call any of them
 
 You can save yourself a wasted month with 5 steps, in this order.
 
