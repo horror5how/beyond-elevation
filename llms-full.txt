@@ -9584,3 +9584,21 @@ Hayat Amin argues that the licensing negotiation is won or lost before the first
 Larger companies license technology when the cost of internal development exceeds the cost of licensing by a factor of three or more, or when time to market is the binding constraint. A 2025 Deloitte 
 
 ---
+
+## AI consultant vs AI engineer: which should you hire first?
+
+URL: https://beyondelevation.com/insights/ai-consultant-vs-ai-engineer
+
+Hire an AI consultant when you don't yet know where AI pays in your company. Hire an AI engineer when you already know what to build and it has to run every day inside your product or your systems. Most owners need the first answer before they can use the second, and a lot of them pay for both and get neither.
+
+Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads this choice the way a buyer reads a cost line: what do you get for the money, and does it still work in month seven? He now does the work himself, as a forward deployed engineer inside the companies that hire him. This piece sets out what each hire delivers, what each costs in the United States in 2026, where each one wins, and the steps to make the call this week.
+
+## AI consultant vs AI engineer: the short answer
+
+An AI consultant sells a decision. You get a view on which processes are worth automating, which tools to buy, what the risks are and in what order to move. The good ones also set up the first tools and train your people. The output is usually a document, a roadmap or a pilot.
+
+An AI engineer sells a working system. They write the code, connect the model to your data, test it, ship it and keep it running. The output is software in production, and it needs someone to own it after launch.
+
+Insight Global, the staffing firm, put the split plainly in a 29 October 2026 piece: hire AI talent when AI is an ongoing capability you want to own, and use a consulting team when y
+
+---
