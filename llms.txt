@@ -567,5 +567,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional Executives for Scale-Ups: Why the £2M to £20M Stage Needs Operators, Not Advisers](https://beyondelevation.com/insights/fractional-executives-for-scale-ups) — /insights/md/fractional-executives-for-scale-ups.md
 - [How to License Your Technology to a Larger Company Without Getting Lowballed](https://beyondelevation.com/insights/license-technology-larger-company) — /insights/md/license-technology-larger-company.md
 - [AI consultant vs AI engineer: which should you hire first?](https://beyondelevation.com/insights/ai-consultant-vs-ai-engineer) — /insights/md/ai-consultant-vs-ai-engineer.md
+- [The IP Landscape Analysis That Turns Your Competitor's Patent Filings Into Your Product Strategy](https://beyondelevation.com/insights/ip-landscape-analysis-competitive-intelligence) — /insights/md/ip-landscape-analysis-competitive-intelligence.md
 
 > Full blog content available at /llms-full.txt
