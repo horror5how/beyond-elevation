@@ -1,21 +1,17 @@
-Most UK founders claim 60% of what HMRC owes them in R&D tax relief.
+You shared your proprietary process with ChatGPT.
+You just lost your trade secret.
 
-The 40% gap is not a tax law problem.
+Two DTSA rulings in 2026 confirmed it.
+Inputting confidential data into a generative AI tool = legal disclosure.
 
-It is a categorisation problem from month 1.
+73% of UK founders use AI tools for internal processes.
+3 in 4 have zero AI usage policy.
 
-Qualifying costs most founders miss entirely:
+Your trade secret has no filing date.
+No registration. No notice.
+Loss of secrecy is permanent. No recovery.
 
-Subcontractor R&D (capped at 65% — still thousands)
+A compliant AI usage policy takes 4 hours to implement.
+Most founders find out the hard way they needed one.
 
-Cloud compute and data costs tied directly to development
-
-Prototype and beta testing expenditure
-
-The average unclaimed amount for a 15-person UK tech company: £47,000 per year.
-
-Your accountant filed what you gave them.
-
-A fractional CFO finds the gap in 60 days.
-
-#FractionalCFO #RDTaxRelief #Founders
+#IPStrategy #TradeSecrets #AIGovernance
