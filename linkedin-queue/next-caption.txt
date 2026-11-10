@@ -1,17 +1,21 @@
-8 in 10 AI automation projects fail in year one.
+Most UK founders claim 60% of what HMRC owes them in R&D tax relief.
 
-The technology is not the problem.
+The 40% gap is not a tax law problem.
 
-Most companies automate the wrong processes.
+It is a categorisation problem from month 1.
 
-They buy tools before they map what actually happens in the business.
+Qualifying costs most founders miss entirely:
 
-No named owner. No success criteria. No baseline to measure against.
+Subcontractor R&D (capped at 65% — still thousands)
 
-The ones that get it right do 3 things before deploying anything.
+Cloud compute and data costs tied directly to development
 
-Map the process. Assign an owner. Start with the 3 highest-volume, lowest-risk tasks.
+Prototype and beta testing expenditure
 
-Result: 6-month payback, not 24.
+The average unclaimed amount for a 15-person UK tech company: £47,000 per year.
 
-#AIOperations #Automation #Fractional
+Your accountant filed what you gave them.
+
+A fractional CFO finds the gap in 60 days.
+
+#FractionalCFO #RDTaxRelief #Founders
