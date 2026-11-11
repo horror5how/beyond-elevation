@@ -1,17 +1,16 @@
-90% of S&P 500 value is intangible assets.
+Most AI rollouts fail in month 3. Not month 1.
 
-Fewer than 5% of those assets have ever been pledged to a lender.
+Month 3 is when the novelty wears off and nobody owns the process.
 
-That is a 95% financing gap most founders never open.
+Companies that stick the landing do 15 checks before they deploy anything.
 
-Lenders now accept patents, trade secrets, and data assets as collateral.
+Governance before go-live.
+Ownership before automation.
+Measurement before momentum.
 
-The founders who know this raise debt at 6-8%.
+68% of AI automation projects with a designated process owner hit targets.
+24% without one do.
 
-The ones who do not sell equity at 20-25% dilution instead.
+That is not an automation problem. That is an operations problem.
 
-You do not need a new investor.
-
-You need an IP schedule your lender can underwrite.
-
-#IPStrategy #FractionalCFO #StartupFinance
+#AIOperations #FractionalExecutive #Automation
