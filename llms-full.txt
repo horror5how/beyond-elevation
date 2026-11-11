@@ -9668,3 +9668,19 @@ The spending is real. The proof isn't. PwC's 29th Global CEO Survey, which asked
 KPMG's Global AI Pulse for the third quarter of 2026 asked 2,131 senior leaders in 20 countries and found the gap is in the measuring. 89% said AI gives them measurable value, yet only 12% consistently weigh that value against what it costs. Among the companies that report established returns, 48% do weigh it against cost, four times the rate of everyone els
 
 ---
+
+## Your Startup Has Zero Internal Controls. Your Investor Already Noticed.
+
+URL: https://beyondelevation.com/insights/internal-controls-startup-fractional-cfo
+
+Internal controls for startups are the approval, reconciliation and access rules that prevent money moving without a second pair of eyes. Most companies under £10M revenue have none. Hayat Amin, who has audited the finance functions of over forty growth-stage businesses at Beyond Elevation, says the pattern is the same every time: "The CEO signs everything, the bookkeeper has admin access to the bank, and nobody reconciles anything until the accountant asks for it three months later." According to a 2025 Association of Certified Fraud Examiners report, companies with fewer than 100 employees lose a median of £150,000 per fraud case — more than double the rate at larger firms. That is not a number most Series A companies can absorb.
+
+## What Are Internal Controls and Why Do Startups Skip Them?
+
+Internal controls are the policies, procedures and checks that ensure financial transactions are authorised, recorded accurately and safeguarded from error or fraud. Every growing company needs them, but most startups delay building them because the finance function is one person doing everything.
+
+The bookkeeper enters the invoices, approves the payments, reconciles the bank and runs payroll. That is not a finance function. That is a single point of failure.
+
+The reason is cultural as much as structural. Founders optimise for speed. Approval workflows feel like bureaucracy. The implicit assumption is that a team of twelve people who trust each other does not need the controls that a 50
+
+---

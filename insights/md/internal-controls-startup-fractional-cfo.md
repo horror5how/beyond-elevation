@@ -2,8 +2,8 @@
 title: "Your Startup Has Zero Internal Controls. Your Investor Already Noticed."
 slug: internal-controls-startup-fractional-cfo
 date: 2026-11-11
-url: https://beyondelevation.com/insights/internal-controls-startup-fractional-cfo/
-author: Beyond Elevation Team
+url: https://beyondelevation.com/insights/internal-controls-startup-fractional-cfo
+author: Hayat Amin
 site: Beyond Elevation
 ---
 
@@ -64,14 +64,28 @@ A fractional CFO builds internal controls in three phases: immediate risk contro
 Beyond Elevation follows Hayat Amin's Five-Control Foundation as the first phase, then layers on two more phases that take the finance function from reactive to audit-ready.
 
 **Phase 2 — Process controls (weeks 3 to 6):**
+
 Purchase order workflow for all spend above £1,000. Monthly close checklist with named sign-off dates. Vendor onboarding with payment terms documented before the first invoice. Revenue recognition policy documented and applied consistently.
 
 **Phase 3 — Monitoring controls (months 2 to 3):**
+
 Monthly management accounts reviewed against budget with variance commentary on every line above 10 percent. Quarterly control self-assessment — fifteen yes-or-no questions, thirty minutes. Board reporting that includes a one-paragraph control summary so investors see governance without asking for it.
 
 The total cost of this programme when delivered by a fractional CFO is typically £3,000 to £5,000 per month for three months — roughly the cost of one month of a full-time CFO hire's salary, for a permanent upgrade to the finance function that survives after the fractional engagement ends.
 
 If your startup has no internal controls today, that is fixable. If your startup still has no internal controls after your next fundraise, that is a choice your investors will remember. [Book a finance function audit with Beyond Elevation](https://beyondelevation.com) and find out where you stand before your investor does.
+
+
+
+---
+
+### Want this position in your company?
+
+Beyond Elevation places exited C-suite operators into fractional executive positions: Chief Financial Officer, Chief IP Officer, AI Operations. A free 30 minute call, straight answer, no pitch. If there is nothing worth doing, we say so on the call.
+
+[Book a free call →](https://beyondelevation.com/call)
+
+---
 
 ## FAQ
 
@@ -94,3 +108,6 @@ A fractional CFO can implement the five core controls in two weeks and build a c
 ### What is the cost of not having internal controls?
 
 The median fraud loss for companies with fewer than 100 employees is £150,000 per incident according to the ACFE. Beyond fraud, the cost includes misstated financials, delayed fundraises and reduced valuations. Any single one of those outcomes can exceed the total cost of implementing controls by ten times or more.
+
+---
+*Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
