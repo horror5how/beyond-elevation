@@ -858,3 +858,4 @@ ai-automation-failure-rate-2026
 rd-tax-credit-claim-founders-2026
 trade-secret-ai-tool-risk-2026
 ai-q4-year-end-close-founders-2026
+profit-vs-cash-cfo-founder-trap-2026
