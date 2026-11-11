@@ -13,9 +13,9 @@ A forward deployed engineer agency is a firm that puts an engineer inside your c
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer himself, so he's sat on both sides of this purchase: the one signing the invoice and the one doing the build. Beyond Elevation, his firm, is entry 1 on this list. That's disclosed here, and the other 7 are judged on what their own pages say.
 
-## why "forward deployed engineer agency" is a hard search
+## The search term "forward deployed engineer agency" is hard to pin down
 
-Type the phrase into Google and most of what comes back is job boards. Our August 2026 research found the same thing: the term autocompletes, but the results are listings for engineers looking for work, not firms selling the work to a CEO. Meanwhile demand keeps climbing. Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform.
+Type the phrase into Google and most of what comes back is job boards. Our August 2026 research found the same thing: the term autocompletes, but the results are listings for engineers looking for work, rather than firms selling the work to a CEO. Demand keeps climbing all the same. Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform.
 
 A chief executive in New York or Chicago who wants one has to sort 3 different businesses that all use the same label. Some sell you an engineer by the month, some sell you a project, and some find you a hire and leave. The list below runs from the firms that build to the firms that recruit.
 

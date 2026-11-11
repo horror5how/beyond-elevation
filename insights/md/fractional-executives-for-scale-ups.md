@@ -17,7 +17,7 @@ According to Beauhurst's 2026 UK Scaleup Index, 78 per cent of companies between
 
 The scale-up leadership gap is the period between £2M and £20M revenue where a company's operational complexity outpaces its management team, but its budget cannot support a C-suite hired full time. A CFO on a permanent contract costs £150,000 to £200,000 a year. A Chief IP Officer costs £140,000 to £180,000. An AI Operations lead costs £120,000 to £160,000. Combined, that's nearly half a million pounds in fixed cost before a single deliverable ships.
 
-Most scale-ups at this stage have 20 to 80 employees, a board that expects professional-grade reporting, and investors asking questions the founding team cannot yet answer. The gap isn't about intelligence, founders at the scale-up stage are sharp. The problem is that financial modelling, IP portfolio management, and AI workflow automation take ten or more years of operating experience to master. You can't learn them between product sprints. You either hire the experience or fly blind through the most capital-intensive phase of the company.
+Most scale-ups at this stage have 20 to 80 employees, a board that expects professional-grade reporting, and investors asking questions the founding team cannot yet answer. Founders at the scale-up stage are sharp, so that's not the problem. The problem is that financial modelling, IP portfolio management, and AI workflow automation take ten or more years of operating experience to master. You can't learn them between product sprints. You either hire the experience or fly blind through the most capital-intensive phase of the company.
 
 ## Why do advisers fail at the scale-up stage?
 

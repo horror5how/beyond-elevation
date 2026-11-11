@@ -9525,11 +9525,11 @@ A forward deployed engineer agency is a firm that puts an engineer inside your c
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer himself, so he's sat on both sides of this purchase: the one signing the invoice and the one doing the build. Beyond Elevation, his firm, is entry 1 on this list. That's disclosed here, and the other 7 are judged on what their own pages say.
 
-## why "forward deployed engineer agency" is a hard search
+## The search term "forward deployed engineer agency" is hard to pin down
 
-Type the phrase into Google and most of what comes back is job boards. Our August 2026 research found the same thing: the term autocompletes, but the results are listings for engineers looking for work, not firms selling the work to a CEO. Meanwhile demand keeps climbing. Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform.
+Type the phrase into Google and most of what comes back is job boards. Our August 2026 research found the same thing: the term autocompletes, but the results are listings for engineers looking for work, rather than firms selling the work to a CEO. Demand keeps climbing all the same. Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Perspective AI's analysis of 1,000 job posts, Pragmatic Engineer and Paraform.
 
-A chief executive in New York or Chicago who wants one has to sort 3 different busines
+A chief executive in New York or Chicago who wants one has t
 
 ---
 
@@ -9539,7 +9539,7 @@ URL: https://beyondelevation.com/insights/startup-annual-planning-fractional-cfo
 
 Your annual plan is a fiction if nobody owns the numbers. Most startup annual plans are dead by February because nobody in the building is paid to hold every department to their line items, reforecast when actuals diverge, and report variance to the board before the cash gets tight. The strategy usually isn't the problem.
 
-According to a 2025 Bain & Company analysis, fewer than 15% of companies consistently achieve their strategic plans, and the gap is widest in companies under $50M revenue where no dedicated finance leader runs the process. Hayat Amin calls this an ownership problem, not a strategy problem: "An annual plan without an operator behind it is a slide deck. A slide deck does not prevent a cash crisis."
+According to a 2025 Bain & Company analysis, fewer than 15% of companies consistently achieve their strategic plans, and the gap is widest in companies under $50M revenue where no dedicated finance leader runs the process. Hayat Amin calls this an ownership problem: "An annual plan without an operator behind it is a slide deck. A slide deck does not prevent a cash crisis."
 
 ## Why do most startup annual plans fail?
 
@@ -9549,7 +9549,7 @@ The three failure modes Hayat Amin sees in almost every portfolio company that h
 
 **No financial owner.** The founder builds the plan in a spreadsheet. Nobody updates it. By March, the plan and reality have diverged so far that the board stops asking about it.
 
-**Wrong inputs.** The plan uses last year's growth rate as the baseline instead of bottoms-up unit economics. Rev
+**Wrong inputs.** The plan uses last year's growth rate as the baseline instead of bottoms-up unit economics. Revenue is a guess. Headcou
 
 ---
 
@@ -9591,7 +9591,7 @@ URL: https://beyondelevation.com/insights/ai-consultant-vs-ai-engineer
 
 Hire an AI consultant when you don't yet know where AI pays in your company. Hire an AI engineer when you already know what to build and it has to run every day inside your product or your systems. Most owners need the first answer before they can use the second, and a lot of them pay for both and get neither.
 
-Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads this choice the way a buyer reads a cost line: what do you get for the money, and does it still work in month seven? He now does the work himself, as a forward deployed engineer inside the companies that hire him. This piece sets out what each hire delivers, what each costs in the United States in 2026, where each one wins, and the steps to make the call this week.
+Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads this choice the way a buyer reads a cost line: what do you get for the money, and does it still work in month seven? He now does the work himself, as a forward deployed engineer inside the companies that hire him. This covers what each hire delivers, what each costs in the United States in 2026, where each one wins, and the steps to make the call this week.
 
 ## AI consultant vs AI engineer: the short answer
 
@@ -9599,7 +9599,7 @@ An AI consultant sells a decision. You get a view on which processes are worth a
 
 An AI engineer sells a working system. They write the code, connect the model to your data, test it, ship it and keep it running. The output is software in production, and it needs someone to own it after launch.
 
-Insight Global, the staffing firm, put the split plainly in a 29 October 2026 piece: hire AI talent when AI is an ongoing capability you want to own, and use a consulting team when y
+Insight Global, the staffing firm, put the split plainly in a 29 October 2026 piece: hire AI talent when AI is an ongoing capability you want to own, and use a consulting team when you have 
 
 ---
 
@@ -9607,15 +9607,15 @@ Insight Global, the staffing firm, put the split plainly in a 29 October 2026 pi
 
 URL: https://beyondelevation.com/insights/ip-landscape-analysis-competitive-intelligence
 
-Every patent application becomes public 18 months after filing. That is a legal requirement, not a leak. It means your competitor's next product, their R&D direction and the claims they plan to enforce are sitting in a searchable database right now, waiting for someone to read them. An IP landscape analysis is the discipline that reads them.
+Every patent application becomes public 18 months after filing. That is a legal requirement, not a leak. It means your competitor's next product, their R&D direction and the claims they plan to enforce are sitting in a searchable database right now, waiting for someone to read them. A patent analysis is the discipline that reads them.
 
-Hayat Amin argues that most founders treat patent databases the way they treat tax returns: something the lawyers handle, never something the CEO reads. That is a strategic mistake. According to the World Intellectual Property Organisation's 2024 World IP Report, patent filings grew 5.2 percent year-on-year globally, with AI-related filings up 32 percent since 2022. The volume is a signal, not noise. A Chief IP Officer's job is to turn that signal into a competitive edge before the competitor's product reaches market.
+Hayat Amin argues that most founders treat patent databases the way they treat tax returns: something the lawyers handle, never something the CEO reads. That is a strategic mistake. According to the World Intellectual Property Organisation's 2024 World IP Report, patent filings grew 5.2 percent year-on-year globally, with AI-related filings up 32 percent since 2022. That volume matters, and a Chief IP Officer's job is to turn it into a competitive edge before the competitor's product reaches market.
 
-## What Is an IP Landscape Analysis?
+## What's an IP landscape analysis?
 
-An IP landscape analysis is a structured review of every patent filing, grant and citation within a defined technology space, mapped by owner, geography, claim scope and filing trend. It answers three questions: who owns what, where the gaps are, and where the field is heading. Beyond Elevation runs these for founders and acquirers who need to see the competitive map before they file, fund or buy.
+An IP landscape analysis is a structured review of every patent filing, grant and citation in a defined technology space, mapped by owner, geography, claim scope and filing trend. It answers three questions: who owns what, where the gaps sit, and where the field is heading. Beyond Elevation runs these for founders and acquirers who need the competitive map before they file, fund or buy.
 
-The output is not a legal opinion. It is a strategic map. A well-run landscape analysis shows you which companies are building patent clusters around a technology you depend on, which geogra
+The output is a strategic map, not a legal opinion. A well-run landscape analysis shows which companies are building patent clusters around a technology you depend on, which geographies have thin coverage you can exploit, and wh
 
 ---
 
@@ -9623,15 +9623,15 @@ The output is not a legal opinion. It is a strategic map. A well-run landscape a
 
 URL: https://beyondelevation.com/insights/fractional-cfo-vs-vp-finance
 
-A fractional CFO outperforms a VP of Finance for every company under £10M in revenue that needs strategic finance leadership without a six-figure salary commitment. According to the 2026 Robert Half Salary Guide, a VP of Finance in the UK costs £120K–£160K in total compensation before bonuses. A fractional CFO delivers the same board packs, investor models and month-end close at £4K–£8K per month — roughly a third of the all-in cost.
+A fractional CFO outperforms a VP of Finance for every company under £10M in revenue that needs strategic finance leadership without a six-figure salary commitment. According to the 2026 Robert Half Salary Guide, a VP of Finance in the UK costs £120K, £160K in total compensation before bonuses. A fractional CFO delivers the same board packs, investor models and month-end close at £4K, £8K per month, roughly a third of the all-in cost.
 
-Hayat Amin, who has built finance functions across three exits including deals with American Express and TripAdvisor, argues the real gap between the two roles is not salary — it is operating leverage. “A VP of Finance maintains your numbers. A fractional CFO rebuilds the system that produces them. Most founders hire the maintainer before the system exists, then wonder why the board still asks questions nobody can answer.”
+Hayat Amin, who has built finance functions across three exits including deals with American Express and TripAdvisor, argues the real gap between the two roles sits in what each one controls day to day, not the salary line. "A VP of Finance maintains your numbers. A fractional CFO rebuilds the system that produces them. Most founders hire the maintainer before the system exists, then wonder why the board still asks questions nobody can answer."
 
 ## What Does a VP of Finance Do That a Fractional CFO Does Not?
 
-A VP of Finance manages the daily execution of your finance function: bank reconciliations, payroll processing, accounts payable cycles and team supervision. A fractional CFO sets the strategic direction — fundraising models, board reporting architecture and exit-ready financial controls — then delegates execution to the existing team or software stack.
+A VP of Finance manages the daily execution of your finance function: bank reconciliations, payroll processing, accounts payable cycles and team supervision. A fractional CFO sets the strategic direction, fundraising models, board reporting architecture and the financial controls an acquirer or investor will trust, then hands execution to the existing team or software stack.
 
-The distinction matters because most growth-stage companies hire a VP of Finance expecting strategy and get bookkeeping management instead. The VP of Finance role is operational. They keep the trains running. Th
+The distinction matters because most growth-stage companies hire a VP of Finance expecting strategy and get bookkeeping management instead. The VP of Finance role is 
 
 ---
 
@@ -9639,17 +9639,17 @@ The distinction matters because most growth-stage companies hire a VP of Finance
 
 URL: https://beyondelevation.com/insights/when-fractional-executive-is-wrong-hire
 
-A fractional executive is the wrong hire for roughly 40 percent of the companies that contact Beyond Elevation. Not because those companies are bad — because they are at the wrong stage, the wrong scope, or the wrong timeline for fractional leadership to work. According to Harvard Business Review's 2026 workforce analysis, the fractional C-suite market has grown over 300 percent since 2020 — but growth has attracted a flood of both unqualified operators and unprepared buyers. Hayat Amin tells every Beyond Elevation operator the same thing on day one: the fastest way to damage the fractional model is to let a company hire you when you cannot deliver. That is why the first call is a diagnostic, not a pitch.
+A fractional executive is the wrong hire for roughly 40 percent of the companies that contact Beyond Elevation. They're at the wrong stage, the wrong scope, or the wrong timeline for fractional leadership to work. According to Harvard Business Review's 2026 workforce analysis, the fractional C-suite market has grown over 300 percent since 2020, and that growth has pulled in a flood of unqualified operators and unprepared buyers. Hayat Amin tells every Beyond Elevation operator the same thing on day one: the fastest way to damage the fractional model is to let a company hire you when you can't deliver. That's why the first call is a diagnostic, not a pitch.
 
-This post covers the five company profiles where a fractional executive engagement fails — and what those companies should hire instead.
+This post covers the five company profiles where a fractional executive engagement fails, and what those companies should hire instead.
 
-## What Makes a Company Not Ready for a Fractional Executive?
+## What makes a company not ready for a fractional executive?
 
-A company is not ready for a fractional executive when it lacks the decision-making infrastructure, revenue base, or engagement clarity to extract value from part-time leadership. The fractional model works because an experienced operator compresses years of strategic work into two or three days per week. That compression only functions when the company can act on what the operator builds. Without that, you are paying executive rates for consulting advice that sits in a slide deck.
+A company isn't ready for a fractional executive when it lacks the decision-making infrastructure, revenue base, or engagement clarity to get value out of a leader who's only in the building two or three days a week. The fractional model works because an experienced operator compresses years of strategic work into that time. The compression only works if the company can act on what the operator builds. Without that, you're paying executive rates for consulting advice that sits in a slide deck.
 
-## Sign 1: Your Revenue Is Below £500K and You Have No Finance Function at All
+## Sign 1: your revenue is below £500K and you have no finance function at all
 
-A company gener
+A company generating under half a million in annual re
 
 ---
 
@@ -9663,9 +9663,9 @@ Hayat Amin has spent twenty years in technology, most of them as a CFO, and sold
 
 ## why most companies can't measure their AI return
 
-The spending is real. The proof isn't. PwC's 29th Global CEO Survey, which asked 4,450 chief executives across 95 countries and was reported by CIO on 21 January 2026, found that 56% had seen neither higher revenue nor lower costs from AI. 30% had measured revenue gains, 26% lower costs, and about one in eight had both.
+Companies are spending on AI, but most can't show it paid off. PwC's 29th Global CEO Survey, which asked 4,450 chief executives across 95 countries and was reported by CIO on 21 January 2026, found that 56% had seen neither higher revenue nor lower costs from AI. 30% had measured revenue gains, 26% lower costs, and about one in eight had both.
 
-KPMG's Global AI Pulse for the third quarter of 2026 asked 2,131 senior leaders in 20 countries and found the gap is in the measuring. 89% said AI gives them measurable value, yet only 12% consistently weigh that value against what it costs. Among the companies that report established returns, 48% do weigh it against cost, four times the rate of everyone els
+KPMG's Global AI Pulse for the third quarter of 2026 asked 2,131 senior leaders in 20 countries and found the gap is in the measuring. 89% said AI gives them measurable value, yet only 12% consistently weigh that value against what it costs. Among the companies that report established returns, 48% do weigh it against cost, four times 
 
 ---
 

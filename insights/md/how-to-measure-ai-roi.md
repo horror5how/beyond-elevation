@@ -15,7 +15,7 @@ Hayat Amin has spent twenty years in technology, most of them as a CFO, and sold
 
 ## why most companies can't measure their AI return
 
-The spending is real. The proof isn't. PwC's 29th Global CEO Survey, which asked 4,450 chief executives across 95 countries and was reported by CIO on 21 January 2026, found that 56% had seen neither higher revenue nor lower costs from AI. 30% had measured revenue gains, 26% lower costs, and about one in eight had both.
+Companies are spending on AI, but most can't show it paid off. PwC's 29th Global CEO Survey, which asked 4,450 chief executives across 95 countries and was reported by CIO on 21 January 2026, found that 56% had seen neither higher revenue nor lower costs from AI. 30% had measured revenue gains, 26% lower costs, and about one in eight had both.
 
 KPMG's Global AI Pulse for the third quarter of 2026 asked 2,131 senior leaders in 20 countries and found the gap is in the measuring. 89% said AI gives them measurable value, yet only 12% consistently weigh that value against what it costs. Among the companies that report established returns, 48% do weigh it against cost, four times the rate of everyone else.
 
@@ -49,19 +49,19 @@ Year two is where it gets interesting, because the build cost is gone and only t
 
 ## what not to count
 
-- Usage. Logins, prompts sent and seats active tell you people opened the tool. They don't tell you the business changed.
+- Usage numbers aren't a return. Logins, prompts sent and seats active tell you people opened the tool, not that the business changed.
 
-- Hours nobody redeploys. If the saved time doesn't show up somewhere you can point to, leave it out.
+- Hours nobody redeploys aren't a return either. If the saved time doesn't show up somewhere you can point to, leave it out.
 
-- Vendor case studies. Their numbers came from their best customer, not from your data.
+- Vendor case studies aren't a return. Their numbers came from their best customer, not from your data.
 
-- Soft benefits with no number attached. "Better morale" may be true, but it won't hold up in a board pack.
+- Soft benefits with no number attached aren't a return. "Better morale" may be true, but it won't hold up in a board pack.
 
 ## the number a CEO should see every week
 
 KPMG found that 77% of the companies with established returns use cost monitoring dashboards, against 43% of those still experimenting. That fits what I see. Month end is too late to learn that a tool you pay for every month did nothing for four weeks.
 
-The weekly view I'd want as a chief executive is short. Total AI cost this month. The baseline number for each use case, then and now. Dollars saved or earned to date. And one owner's name against each line, because KPMG also found 53% of organisations now put accountability for decisions informed by AI on a named executive, the CEO or an executive committee.
+The weekly view I'd want as a chief executive is short: total AI cost for the month, the baseline number for each use case then and now, and dollars saved or earned to date. Each line should carry an owner's name, because KPMG also found 53% of organisations now put accountability for decisions informed by AI on a named executive, the CEO or an executive committee.
 
 ## when it's bigger than a weekend fix
 

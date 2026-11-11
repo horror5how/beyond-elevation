@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 Hire an AI consultant when you don't yet know where AI pays in your company. Hire an AI engineer when you already know what to build and it has to run every day inside your product or your systems. Most owners need the first answer before they can use the second, and a lot of them pay for both and get neither.
 
-Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads this choice the way a buyer reads a cost line: what do you get for the money, and does it still work in month seven? He now does the work himself, as a forward deployed engineer inside the companies that hire him. This piece sets out what each hire delivers, what each costs in the United States in 2026, where each one wins, and the steps to make the call this week.
+Hayat Amin has spent twenty years as a technology CFO and sold three companies, so he reads this choice the way a buyer reads a cost line: what do you get for the money, and does it still work in month seven? He now does the work himself, as a forward deployed engineer inside the companies that hire him. This covers what each hire delivers, what each costs in the United States in 2026, where each one wins, and the steps to make the call this week.
 
 ## AI consultant vs AI engineer: the short answer
 

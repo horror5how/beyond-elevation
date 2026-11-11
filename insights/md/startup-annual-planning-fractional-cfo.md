@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 Your annual plan is a fiction if nobody owns the numbers. Most startup annual plans are dead by February because nobody in the building is paid to hold every department to their line items, reforecast when actuals diverge, and report variance to the board before the cash gets tight. The strategy usually isn't the problem.
 
-According to a 2025 Bain & Company analysis, fewer than 15% of companies consistently achieve their strategic plans, and the gap is widest in companies under $50M revenue where no dedicated finance leader runs the process. Hayat Amin calls this an ownership problem, not a strategy problem: "An annual plan without an operator behind it is a slide deck. A slide deck does not prevent a cash crisis."
+According to a 2025 Bain & Company analysis, fewer than 15% of companies consistently achieve their strategic plans, and the gap is widest in companies under $50M revenue where no dedicated finance leader runs the process. Hayat Amin calls this an ownership problem: "An annual plan without an operator behind it is a slide deck. A slide deck does not prevent a cash crisis."
 
 ## Why do most startup annual plans fail?
 
@@ -43,7 +43,7 @@ Hayat Amin's Annual Planning Operating System breaks it into a six-to-eight-week
 
 ## How does a fractional CFO run the annual planning process?
 
-A fractional CFO runs the annual planning process by building the financial model, facilitating department-level budget conversations, pressure-testing every assumption against actuals, and presenting the consolidated plan to the board. It's a structured six-to-eight-week operating cycle that starts in October for a January fiscal year, not a one-week project.
+A fractional CFO runs the annual planning process by building the financial model, facilitating department-level budget conversations, pressure-testing every assumption against actuals, and presenting the consolidated plan to the board. It's a structured six-to-eight-week operating cycle that starts in October for a January fiscal year.
 
 The sequence Beyond Elevation follows:
 
@@ -53,7 +53,7 @@ The sequence Beyond Elevation follows:
 
 **Weeks 5 to 6: Consolidation and scenarios.** Three scenarios: base, upside, downside. The downside scenario must show the company surviving 12 months with no new revenue. If it does not, the plan needs rework before it reaches the board.
 
-**Weeks 7 to 8: Board presentation and lock.** The plan goes to the board with a narrative that connects every number to a strategic priority. The test: if a board member has to ask what a number means, the plan is not ready.
+**Weeks 7 to 8: Board presentation and lock.** The plan goes to the board with a narrative that connects every number to a strategic priority. If a board member has to ask what a number means, the plan isn't ready.
 
 ## What does annual planning cost with a fractional CFO?
 
@@ -85,7 +85,7 @@ Hayat Amin's framework for stress-testing a finished plan is blunt: "Show me the
 
 ## Ready to build an annual plan that works?
 
-Beyond Elevation places fractional CFOs who build annual plans that survive contact with reality. The planning cycle takes six to eight weeks. The output is a board-ready financial model, a variance reporting cadence, and a quarterly reforecast process that keeps your numbers honest all year.
+Beyond Elevation places fractional CFOs who build annual plans that survive contact with reality. The planning cycle takes six to eight weeks. The output is a financial model your board can act on, a variance reporting cadence, and a quarterly reforecast process that keeps your numbers honest all year.
 
 Book a planning diagnostic at [beyondelevation.com](https://beyondelevation.com). The first conversation is free. The annual plan you build from it will be the most useful document in your company.
 

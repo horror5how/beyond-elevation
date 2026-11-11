@@ -19,7 +19,7 @@ Hayat Amin argues that the licensing negotiation is won or lost before the first
 
 Larger companies license technology when the cost of internal development exceeds the cost of licensing by a factor of three or more, or when time to market is the binding constraint. A 2025 Deloitte survey found that 67 per cent of Fortune 500 R&D leaders cited speed as the primary reason for inbound licensing, not cost savings.
 
-This matters because it changes who holds the stronger hand. If the licensee needs your technology to hit a launch window, a regulatory deadline, a competitive response, a board commitment, time pressure is worth more than any patent claim. Hayat Amin's Licensing Leverage Framework starts with one question: what happens to the licensee if this deal falls through? If the answer is "they miss a window they cannot reopen," your royalty rate should reflect that urgency, not a generic market comparable.
+That shifts who holds the stronger hand in a negotiation. If the licensee needs your technology to hit a launch window, a regulatory deadline, a competitive response, or a board commitment, time pressure counts for more than any patent claim. Hayat Amin's Licensing Leverage Framework starts with one question: what happens to the licensee if the deal falls through? If the answer is "they miss a window they can't reopen," set your royalty rate to reflect that urgency, not a generic market comparable.
 
 Three scenarios give you the strongest hand in a licensing negotiation:
 
@@ -57,7 +57,7 @@ The calculation takes four steps:
 
 - **Apply the 25 per cent rule as a floor.** The Georgia-Pacific framework suggests 25 per cent of the licensee's incremental profit as a reasonable royalty floor. This is a starting point, not a ceiling.
 
-- **Adjust for your position.** If you hold exclusivity, time pressure, or competitive positioning, push above 25 per cent. Hayat Amin's Licensing Leverage Framework applies three multipliers: urgency (is the licensee under time pressure?), scarcity (how many alternatives exist?), and switching cost (how hard is it to replace your technology once integrated?).
+- **Adjust for your position.** If you hold exclusivity, time pressure, or competitive positioning, push above 25 per cent. Hayat Amin's Licensing Leverage Framework uses three multipliers: urgency (is the licensee under time pressure?), scarcity (how many alternatives exist?), and switching cost (how hard would it be to replace your technology once it's built in?).
 
 A common mistake: founders anchor on what the licensee is willing to pay rather than on what the technology is worth. The licensee's first offer is designed to test your floor. Your counter should be anchored on the incremental-profit calculation, not on what feels reasonable.
 
@@ -87,7 +87,7 @@ Three signals that you need a fractional CIPO for licensing:
 
 - **You hold technology that could be licensed to multiple parties.** A CIPO builds the licensing programme. The terms set in the first deal become precedent and compound across every future licensee.
 
-Beyond Elevation places fractional Chief IP Officers who have run licensing programmes across technology, data, and patent portfolios. The difference between an operator and a lawyer in a licensing negotiation is straightforward: the lawyer protects you from downside. The operator captures upside. You need both. But the operator goes first.
+Beyond Elevation places fractional Chief IP Officers who have run licensing programmes across technology, data, and patent portfolios. A lawyer protects you from downside risk. An operator captures the upside. You need both, but the operator should go first.
 
 
 
