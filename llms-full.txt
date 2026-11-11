@@ -9652,3 +9652,19 @@ A company is not ready for a fractional executive when it lacks the decision-mak
 A company gener
 
 ---
+
+## How to measure AI ROI when the spend has nothing to show yet
+
+URL: https://beyondelevation.com/insights/how-to-measure-ai-roi
+
+To measure AI ROI, take one number you track today, such as hours a week, days to close the books or cost per ticket, and measure it before and after. Turn the change into dollars, subtract everything the AI costs you in a year, and divide by that cost. If you can't name the number you started with, you can't measure the return, and that's where most companies are stuck.
+
+Hayat Amin has spent twenty years in technology, most of them as a CFO, and sold three companies, so he has sat on the side of the table where every return has to survive a buyer's diligence. He now builds AI operations inside companies as a forward deployed engineer. This is the method he uses, with the steps you can run this week and the point where it needs more than a spreadsheet.
+
+## why most companies can't measure their AI return
+
+The spending is real. The proof isn't. PwC's 29th Global CEO Survey, which asked 4,450 chief executives across 95 countries and was reported by CIO on 21 January 2026, found that 56% had seen neither higher revenue nor lower costs from AI. 30% had measured revenue gains, 26% lower costs, and about one in eight had both.
+
+KPMG's Global AI Pulse for the third quarter of 2026 asked 2,131 senior leaders in 20 countries and found the gap is in the measuring. 89% said AI gives them measurable value, yet only 12% consistently weigh that value against what it costs. Among the companies that report established returns, 48% do weigh it against cost, four times the rate of everyone els
+
+---
