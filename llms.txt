@@ -572,5 +572,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [We Turn Away 40% of Inbound Leads. Here Are the 5 Signs a Company Is Not Ready for a Fractional Executive.](https://beyondelevation.com/insights/when-fractional-executive-is-wrong-hire) — /insights/md/when-fractional-executive-is-wrong-hire.md
 - [How to measure AI ROI when the spend has nothing to show yet](https://beyondelevation.com/insights/how-to-measure-ai-roi) — /insights/md/how-to-measure-ai-roi.md
 - [Your Startup Has Zero Internal Controls. Your Investor Already Noticed.](https://beyondelevation.com/insights/internal-controls-startup-fractional-cfo) — /insights/md/internal-controls-startup-fractional-cfo.md
+- [IP Strategy for 2027: The 5 Priorities Every CEO Should Set Before January](https://beyondelevation.com/insights/ip-strategy-priorities-2027-ceo-planning) — /insights/md/ip-strategy-priorities-2027-ceo-planning.md
 
 > Full blog content available at /llms-full.txt
