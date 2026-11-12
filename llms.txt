@@ -576,5 +576,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Forward deployed engineer vs full stack engineer: 7 differences that decide which one you hire](https://beyondelevation.com/insights/forward-deployed-engineer-vs-full-stack-engineer) — /insights/md/forward-deployed-engineer-vs-full-stack-engineer.md
 - [Quality of Earnings Reports Kill One in Three Deals. Here Is Exactly What They Check.](https://beyondelevation.com/insights/quality-of-earnings-report-kills-deals) — /insights/md/quality-of-earnings-report-kills-deals.md
 - [The 7 Numbers That Prove Your Fractional Executive Is Working (And 3 Red Flags They Are Not)](https://beyondelevation.com/insights/fractional-executive-success-metrics) — /insights/md/fractional-executive-success-metrics.md
+- [IP Enforcement Strategy: The Framework That Stops Patent Holders Spending $4 Million on the Wrong Fight](https://beyondelevation.com/insights/ip-enforcement-decision-framework) — /insights/md/ip-enforcement-decision-framework.md
 
 > Full blog content available at /llms-full.txt
