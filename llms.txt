@@ -575,5 +575,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [IP Strategy for 2027: The 5 Priorities Every CEO Should Set Before January](https://beyondelevation.com/insights/ip-strategy-priorities-2027-ceo-planning) — /insights/md/ip-strategy-priorities-2027-ceo-planning.md
 - [Forward deployed engineer vs full stack engineer: 7 differences that decide which one you hire](https://beyondelevation.com/insights/forward-deployed-engineer-vs-full-stack-engineer) — /insights/md/forward-deployed-engineer-vs-full-stack-engineer.md
 - [Quality of Earnings Reports Kill One in Three Deals. Here Is Exactly What They Check.](https://beyondelevation.com/insights/quality-of-earnings-report-kills-deals) — /insights/md/quality-of-earnings-report-kills-deals.md
+- [The 7 Numbers That Prove Your Fractional Executive Is Working (And 3 Red Flags They Are Not)](https://beyondelevation.com/insights/fractional-executive-success-metrics) — /insights/md/fractional-executive-success-metrics.md
 
 > Full blog content available at /llms-full.txt
