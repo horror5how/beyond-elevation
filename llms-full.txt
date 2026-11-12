@@ -9702,3 +9702,23 @@ Most companies are still running the IP playbook they set in 2024. That playbook
 Beyond Elevation sees this pattern every quarter. Founders who treat IP as a legal checkbox instead of a strategic
 
 ---
+
+## Forward deployed engineer vs full stack engineer: 7 differences that decide which one you hire
+
+URL: https://beyondelevation.com/insights/forward-deployed-engineer-vs-full-stack-engineer
+
+A full stack engineer builds and maintains your own product, front end to database, from a roadmap someone else has already scoped. A forward deployed engineer works inside the business, finds the problem with your operations team, connects the systems that don't talk and puts a working AI system into production on your real data. If you sell software and need more of it built, hire the full stack engineer. If your company runs on 4 tools that don't connect and an AI pilot is stuck, you need the FDE.
+
+Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer himself, so he's watched CEOs hire the wrong one of these two and pay for it in a quarter that went nowhere.
+
+## Why CEOs are typing "forward deployed engineer vs full stack engineer"
+
+Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Pragmatic Engineer, Perspective AI's analysis of 1,000 job posts and Paraform. Most founders already know what a full stack engineer is. So when the board asks for an AI plan, the first question is whether the full stack engineer they already know how to hire can do this job too.
+
+Sometimes yes. Often no. The 7 differences below are the ones that decide it, and each one ends with the question to ask yourself.
+
+## How I built this comparison
+
+I've used the US Bureau of Labor Statistics for full stack pay, because ful
+
+---
