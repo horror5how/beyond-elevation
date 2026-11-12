@@ -1,11 +1,14 @@
-Most companies spend £38,000 a year renewing patents that earn £0 in licensing revenue.
+Your 2027 ops plan has a headcount budget.
+It doesn't have an AI budget.
 
-The average SME portfolio has 11 live patents.
+That's why you'll hire 3 people to do work 3 agents can handle for 70% less.
 
-9 have no licensing prospects. 2 are worth protecting. 1 is worth licensing now.
+3 hires at £60K each: £180K salary. Add NI, benefits, management overhead: £234K total.
 
-A half-day audit with your Chief IP Officer finds all three.
+3 AI agents covering the same workflows: £14K in annual compute.
 
-Most founders never run it. They just keep paying the renewal invoices.
+The gap is not marginal. It's operational leverage most founders won't see until Q2 2027.
 
-#IPStrategy #Patents #FractionalCIPO
+By then the competitor who saw it in November has a 6-month compounding head start.
+
+#AIOperations #FractionalCFO #FounderFinance
