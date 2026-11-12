@@ -1,16 +1,17 @@
-Most AI rollouts fail in month 3. Not month 1.
+Most founders haven't modeled their own exit.
 
-Month 3 is when the novelty wears off and nobody owns the process.
+They know the valuation.
 
-Companies that stick the landing do 15 checks before they deploy anything.
+They don't know what they'd actually receive.
 
-Governance before go-live.
-Ownership before automation.
-Measurement before momentum.
+Liquidation preferences, participating rounds, anti-dilution clauses — each one silently cuts your payout.
 
-68% of AI automation projects with a designated process owner hit targets.
-24% without one do.
+A £50M exit can deliver less than £2M to a founder after 3 rounds of participating preferred.
 
-That is not an automation problem. That is an operations problem.
+Most founders only find out at the closing table.
 
-#AIOperations #FractionalExecutive #Automation
+A fractional CFO models the full waterfall before you sign the next term sheet.
+
+Not after.
+
+#FractionalCFO #StartupFinance #Founders
