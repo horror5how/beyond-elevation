@@ -13,15 +13,15 @@ A full stack engineer builds and maintains your own product, front end to databa
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer himself, so he's watched CEOs hire the wrong one of these two and pay for it in a quarter that went nowhere.
 
-## Why CEOs are typing "forward deployed engineer vs full stack engineer"
+## CEOs are typing "forward deployed engineer vs full stack engineer"
 
-Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Pragmatic Engineer, Perspective AI's analysis of 1,000 job posts and Paraform. Most founders already know what a full stack engineer is. So when the board asks for an AI plan, the first question is whether the full stack engineer they already know how to hire can do this job too.
+Forward deployed engineer job listings grew about 800% between January and September 2025 and more than 1,000% year on year into early 2026, according to Pragmatic Engineer, Perspective AI's analysis of 1,000 job posts and Paraform. Most founders already know what a full stack engineer is, so when the board asks for an AI plan, the first question is whether the full stack engineer they already know how to hire can do this job too.
 
 Sometimes yes. Often no. The 7 differences below are the ones that decide it, and each one ends with the question to ask yourself.
 
 ## How I built this comparison
 
-I've used the US Bureau of Labor Statistics for full stack pay, because full stack engineers sit inside its software developers category, and Paraform's September 2026 FDE hiring guide for forward deployed pay and search terms. TechTarget's July 2026 piece by Gerie Owen supplies the conditions under which the forward deployed model makes sense. Beyond Elevation's prices come from its own page, read on 12 November 2026. Where I give a view of my own, I say so.
+I've used the US Bureau of Labor Statistics for full stack pay, because full stack engineers sit inside its software developers category, and Paraform's September 2026 FDE hiring guide for forward deployed pay and search terms. TechTarget's July 2026 piece by Gerie Owen supplies the conditions under which the forward deployed model makes sense. Beyond Elevation's prices come from its own page, read on 12 November 2026. I say so wherever I give a view of my own.
 
 ## 7 differences between a forward deployed engineer and a full stack engineer
 
@@ -41,15 +41,15 @@ I'd measure a full stack engineer on features shipped and the product staying up
 
 The Bureau of Labor Statistics puts the median annual wage for US software developers at $135,980 in May 2025. Paraform's September 2026 guide puts forward deployed engineer base salaries at $150,000 to $217,000, with a midpoint of $183,000. That's $47,020 a year more at the midpoint, before equity, benefits and a recruiter's fee. Paraform charges 25% of first-year base, which on $183,000 is $45,750. Ask yourself: does the problem justify a permanent salary, or does it need a few months of senior work and a handover?
 
-### 5. How long it takes to get one
+### 5. The time it takes to hire one
 
 Paraform tells clients to budget 8 to 12 weeks for an FDE search, and it describes FDE hiring as different from a standard software engineer search. A fractional FDE can start sooner: Beyond Elevation lists a two week AI audit at $3,000 fixed, fractional work at 1 to 2 days a week from $5,800 a month with no notice period, and projects of 8 to 14 weeks from $30,000. Ask yourself: can this problem wait three months for a hire to start?
 
-### 6. When the model fits at all
+### 6. The conditions where this model fits
 
 Gerie Owen's TechTarget piece names 4 conditions for the forward deployed model: restricted domains where data has to stay locked down, complex workflows on heavily customised legacy systems, vague requirements that someone has to turn into software, and constant change driven by the market. If any one applies, she says the FDE model should be considered. If none applies and you have a clear product roadmap, that's full stack work.
 
-### 7. What you're left with afterwards
+### 7. The outcome once the work is done
 
 A full stack hire stays and keeps building, which is right when the product is the business. A good FDE engagement ends with the system running and your team owning it. At Beyond Elevation the client keeps the code, the agents, the accounts and the documents. Ask yourself: do I want a permanent builder, or a working system and the keys to it?
 
@@ -95,7 +95,7 @@ A full stack engineer builds your own product from a scoped roadmap. A forward d
 
 ### Can a full stack developer become an FDE?
 
-The coding skills carry over. What a full stack developer has to add is the customer side: running discovery with operators, working inside other people's systems, and owning a number on the operations report instead of a feature list.
+The coding skills carry over. A full stack developer has to add the customer side: running discovery with operators, working inside other people's systems, and owning a number on the operations report instead of a feature list.
 
 ### Is a forward deployed engineer paid more than a full stack engineer?
 

@@ -9,11 +9,11 @@ site: Beyond Elevation
 
 # Fractional CFO vs VP of Finance: The Hire That Costs Three Times More and Delivers Half the Strategic Value
 
-A fractional CFO outperforms a VP of Finance for every company under £10M in revenue that needs strategic finance leadership without a six-figure salary commitment. According to the 2026 Robert Half Salary Guide, a VP of Finance in the UK costs £120K, £160K in total compensation before bonuses. A fractional CFO delivers the same board packs, investor models and month-end close at £4K, £8K per month, roughly a third of the all-in cost.
+A fractional CFO outperforms a VP of Finance for every company under £10M in revenue that needs strategic finance leadership without a six-figure salary commitment. According to the 2026 Robert Half Salary Guide, a VP of Finance in the UK costs £120K to £160K in total compensation before bonuses. A fractional CFO delivers the same board packs, investor models and month-end close at £4K to £8K per month, roughly a third of the all-in cost.
 
 Hayat Amin, who has built finance functions across three exits including deals with American Express and TripAdvisor, argues the real gap between the two roles sits in what each one controls day to day, not the salary line. "A VP of Finance maintains your numbers. A fractional CFO rebuilds the system that produces them. Most founders hire the maintainer before the system exists, then wonder why the board still asks questions nobody can answer."
 
-## What Does a VP of Finance Do That a Fractional CFO Does Not?
+## What does a VP of Finance do that a fractional CFO does not?
 
 A VP of Finance manages the daily execution of your finance function: bank reconciliations, payroll processing, accounts payable cycles and team supervision. A fractional CFO sets the strategic direction, fundraising models, board reporting architecture and the financial controls an acquirer or investor will trust, then hands execution to the existing team or software stack.
 
@@ -21,15 +21,15 @@ The distinction matters because most growth-stage companies hire a VP of Finance
 
 [Beyond Elevation](https://beyondelevation.com) applies a simple filter with every company that enquires about a VP of Finance: if your finance function lacks a documented [month-end close process](/insights/two-day-close/), a [13-week cash flow model](/insights/cash-flow-forecast-13-week-model/) and a board pack a Series A investor would accept without follow-up questions, you need a CFO first. The VP of Finance comes after the architecture is built.
 
-## How Much Does a Fractional CFO Cost Compared to a VP of Finance in 2026?
+## How much does a fractional CFO cost compared to a VP of Finance in 2026?
 
 A fractional CFO costs between £3,000 and £10,000 per month depending on scope and seniority. A VP of Finance costs £120,000, £160,000 in annual base salary plus 15 to 25 percent in employer National Insurance, pension contributions and benefits, a total loaded cost of £140,000, £200,000 per year before recruitment fees.
 
 The gap widens when you factor in hiring risk. A mis-hire at VP of Finance level costs six to nine months of salary in recruitment fees, lost productivity and severance. According to the CIPD 2026 Resourcing and Talent Planning Survey, the average time to fill a senior finance role in the UK is 68 business days. A fractional CFO engagement starts in under two weeks and carries zero severance exposure.
 
-Hayat Amin says the comparison bluntly: "If you are spending £150K on a VP of Finance and still building your own board pack, you have hired an expensive accountant. The fractional model forces clarity because the scope is contractual, not assumed." That contractual clarity is one reason fractional CFO engagements deliver measurable outcomes faster, there is no ambiguity about what "success" looks like at month three.
+Hayat Amin says the comparison bluntly: "If you are spending £150K on a VP of Finance and still building your own board pack, you have hired an expensive accountant. The fractional model forces clarity because the scope is contractual, not assumed." That contractual clarity is one reason fractional CFO engagements deliver measurable outcomes faster. There is no ambiguity about what "success" looks like at month three.
 
-## At What Revenue Should You Switch From Fractional CFO to VP of Finance?
+## At what revenue should you switch from fractional CFO to VP of Finance?
 
 The transition point typically sits between £10M and £20M in annual revenue, when transaction volume, headcount complexity and reporting frequency demand someone running the finance function daily, not part of the week. Below that threshold, a fractional CFO combined with modern automation tools delivers more strategic value per pound than any permanent hire at the same price.
 
@@ -42,29 +42,29 @@ Revenue alone is an incomplete signal. Hayat Amin developed what Beyond Elevatio
 
 If fewer than three of these four conditions are true, the fractional CFO model still wins on both cost and strategic output. Most companies hit all four somewhere between £12M and £18M in revenue. Below £10M, a VP of Finance hire almost always overpays for capacity that sits idle three weeks out of every four.
 
-## Why Do Most VP of Finance Hires Underperform at Growth-Stage Companies?
+## Why do most VP of Finance hires underperform at growth-stage companies?
 
-Most VP of Finance candidates come from corporate accounting backgrounds where the system already existed. Growth-stage companies need someone who builds the system from zero, designs the chart of accounts, selects the tech stack, automates the close and presents to investors, which is a CFO skill set, not a VP of Finance skill set.
+Most VP of Finance candidates come from corporate accounting backgrounds where the system already existed. Growth-stage companies need someone who builds the system from zero: designs the chart of accounts, selects the tech stack, automates the close and presents to investors. That's a CFO skill set, not a VP of Finance skill set.
 
 The hiring pipeline causes the mismatch. Recruiters fill VP of Finance roles from the same talent pool as Financial Controller roles. The candidate reconciles a balance sheet but cannot build a fundraising model or challenge a term sheet. The company pays £140K for a hire who needs a CFO above them to function, then spends six months wondering why the lead investor's questions go unanswered.
 
 Hayat Amin proved this pattern at a portfolio company that had cycled through two VP of Finance hires in eighteen months. Neither could produce a board pack that satisfied the lead investor. A fractional CFO rebuilt the reporting stack in six weeks, automated 70 percent of the reconciliation workload and produced a board pack the investor signed off without revisions. The company closed its Series B with that same fractional structure still in place, no CFO on the payroll, no VP of Finance, and a finance function that ran on two days of operator time per month.
 
-## What Is the Right Sequence: Fractional CFO First, VP of Finance Second?
+## What is the right sequence: fractional CFO first, VP of Finance second?
 
 The right sequence for most growth-stage companies is fractional CFO first to build the finance infrastructure, then a VP of Finance to run it once the systems, processes and reporting cadence are established. Reversing this order is the mistake that costs founders six figures and twelve months of strategic drift.
 
-A fractional CFO builds three things a VP of Finance inherits: the two-day month-end close, the investor-grade reporting pack and the rolling cash flow forecast. Once those three are live and automated, the VP of Finance role becomes operational, supervise the close, distribute the pack, update the forecast. That operational role is worth £130K. Without the three foundations underneath it, the role produces nothing a good bookkeeper could not deliver at a quarter of the price.
+A fractional CFO builds three things a VP of Finance inherits: the two-day month-end close, the investor-grade reporting pack and the rolling cash flow forecast. Once those three are live and automated, the VP of Finance role becomes operational: supervise the close, distribute the pack, update the forecast. That operational role is worth £130K. Without the three foundations underneath it, the role produces nothing a good bookkeeper couldn't deliver at a quarter of the price.
 
-This is why Beyond Elevation structures every fractional CFO engagement with a documented handover milestone. The goal is not to bill indefinitely. It is to build the finance function so well that a mid-level hire can maintain it. The fractional CFO is the architect. The VP of Finance is the site manager. Hiring the site manager before the blueprints exist is how companies waste £120K and a year of board credibility.
+This is why Beyond Elevation structures every fractional CFO engagement with a documented handover milestone. The goal is to build the finance function well enough that a mid-level hire can maintain it, not to keep billing indefinitely. The fractional CFO is the architect. The VP of Finance is the site manager. Hiring the site manager before the blueprints exist is how companies waste £120K and a year of board credibility.
 
-## Can a Fractional CFO and VP of Finance Work at the Same Time?
+## Can a fractional CFO and VP of Finance work at the same time?
 
 Yes. The hybrid model, a fractional CFO setting strategy while a VP of Finance handles daily execution, is the most cost-efficient finance leadership structure for companies between £8M and £25M in revenue. The fractional CFO attends board meetings, builds fundraising models and owns investor relations. The VP of Finance runs the close and manages the finance team.
 
-Hayat Amin reminds founders that the hybrid structure is not a compromise. It is how the best-run companies in the £10M to £25M range operate. "You do not promote your VP of Finance to CFO because they hit their reconciliation targets. You promote them when they can sit across from a lead investor and challenge a term sheet. Until that day, the fractional CFO holds the strategic line."
+Hayat Amin reminds founders that the hybrid structure is how the best-run companies in the £10M to £25M range operate. "You do not promote your VP of Finance to CFO because they hit their reconciliation targets. You promote them when they can sit across from a lead investor and challenge a term sheet. Until that day, the fractional CFO holds the strategic line."
 
-The economics work because the fractional CFO in a hybrid model typically operates at two to three days per month, roughly £3K, £5K. Combined with a VP of Finance at £130K, total finance leadership cost lands under £170K for coverage that would run £280K or more if both roles were hired outright. That saving funds an additional [finance automation investment](/insights/fractional-cfo-cost-2026/) that shrinks the VP of Finance workload even further.
+The economics work because the fractional CFO in a hybrid model typically operates at two to three days per month, roughly £3K to £5K. Combined with a VP of Finance at £130K, total finance leadership cost lands under £170K for coverage that would run £280K or more if both roles were hired outright. That saving funds an additional [finance automation investment](/insights/fractional-cfo-cost-2026/) that shrinks the VP of Finance workload even further.
 
 
 

@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # We Turn Away 40% of Inbound Leads. Here Are the 5 Signs a Company Is Not Ready for a Fractional Executive.
 
-A fractional executive is the wrong hire for roughly 40 percent of the companies that contact Beyond Elevation. They're at the wrong stage, the wrong scope, or the wrong timeline for fractional leadership to work. According to Harvard Business Review's 2026 workforce analysis, the fractional C-suite market has grown over 300 percent since 2020, and that growth has pulled in a flood of unqualified operators and unprepared buyers. Hayat Amin tells every Beyond Elevation operator the same thing on day one: the fastest way to damage the fractional model is to let a company hire you when you can't deliver. That's why the first call is a diagnostic, not a pitch.
+A fractional executive is the wrong hire for roughly 40 percent of the companies that contact Beyond Elevation. They're at the wrong stage, the wrong scope, or the wrong timeline for fractional leadership to work. According to Harvard Business Review's 2026 workforce analysis, the fractional C-suite market has grown over 300 percent since 2020, and that growth has pulled in a flood of unqualified operators and unprepared buyers. Hayat Amin tells every Beyond Elevation operator the same thing on day one: the fastest way to damage the fractional model is to let a company hire you when you can't deliver. That's why the first call at Beyond Elevation is built around diagnosis rather than selling.
 
 This post covers the five company profiles where a fractional executive engagement fails, and what those companies should hire instead.
 
@@ -33,7 +33,7 @@ The diagnostic question Beyond Elevation uses: *Name one decision in the last qu
 
 ## Sign 3: you need daily presence for a crisis or turnaround
 
-Fractional executives work two to three days per week. That cadence is designed for building systems, not fighting fires. If the company is in genuine distress, a cash crisis, a regulatory investigation, a failed product launch that threatens the business, it needs someone in the building five days a week until the bleeding stops. A fractional operator in a turnaround is like a surgeon who only operates two days a week: technically qualified, but not present enough to keep the patient alive.
+Fractional executives work two to three days per week. That cadence suits building systems. It doesn't suit fighting fires. If the company is in genuine distress, a cash crisis, a regulatory investigation, a failed product launch that threatens the business, it needs someone in the building five days a week until the bleeding stops. A fractional operator in a turnaround is like a surgeon who only operates two days a week: technically qualified, but not present enough to keep the patient alive.
 
 **What to hire instead:** An interim executive on a three-to-six-month contract, in the building five days a week. Interim executives are turnaround specialists who embed completely, stabilise the situation, then exit. Beyond Elevation's own data shows that companies in crisis who hire fractional instead of interim take 2.4 times longer to stabilise, because the fractional operator loses context between visits and the fire reignites every Thursday.
 
@@ -41,13 +41,13 @@ Fractional executives work two to three days per week. That cadence is designed 
 
 Fractional executives are strategic operators. They design the finance function, build the IP portfolio architecture, or wire the AI operations stack. They don't process invoices, file patent forms, or configure automation tools day in, day out. If the company's primary need is execution, someone to do the daily work of a function, then it needs a senior individual contributor, not a fractional C-suite operator.
 
-Hayat Amin's test for founders is simple: if the job description is a list of tasks, you need a hire. If it's a set of outcomes, you need a fractional executive. Tasks are inputs, outcomes are results. A fractional CFO's outcome is numbers that hold up in front of an investor. Reconciling bank statements isn't their job, it's the infrastructure they build so the reconciliation happens without them.
+Hayat Amin's test for founders is simple: if the job description is a list of tasks, you need a hire. If it's a set of outcomes, you need a fractional executive. Tasks are inputs, outcomes are results. A fractional CFO's outcome is numbers that hold up in front of an investor. Reconciling bank statements isn't their job. They build the infrastructure so the reconciliation happens without them.
 
 **What to hire instead:** A senior individual contributor, a financial controller, an IP paralegal, or an AI engineer, who owns the execution layer. Pair them with a fractional executive later, once the execution base exists and you need someone to set the direction.
 
 ## Sign 5: your engagement timeline exceeds 18 months with no off-ramp
 
-Fractional engagements are designed to be finite. The operator builds a function, hires the permanent team, transfers knowledge, and exits. If the company's plan is to keep a fractional executive indefinitely, with no intention of hiring permanently or building internal capability, the economics stop working. Beyond 18 months at two to three days a week, a permanent hire at the same seniority level is almost always cheaper and more effective. The fractional model's value is speed and expertise compression, not permanent headcount substitution.
+Fractional engagements are designed to be finite. The operator builds a function, hires the permanent team, transfers knowledge, and exits. If the company's plan is to keep a fractional executive indefinitely, with no intention of hiring permanently or building internal capability, the economics stop working. Beyond 18 months at two to three days a week, a permanent hire at the same seniority level is almost always cheaper and more effective. The fractional model's value is speed and compressed expertise. It isn't a substitute for permanent headcount.
 
 **What to hire instead:** A permanent executive recruited through a specialist search firm. Use the fractional engagement as a bridge: three to six months to define the role, build the function, and write the job specification, then hire permanently and let the fractional operator hand off.
 
@@ -65,11 +65,11 @@ The First-Call Diagnostic is a five-question filter that Beyond Elevation runs o
 
 **5. Exit timeline.** Does the engagement have a defined end state, a permanent hire, a completed function build, a successful fundraise, or is it open-ended?
 
-Companies that score three out of five or below are redirected. Beyond Elevation either recommends a different hire or suggests they return when their stage has changed. This is quality control, not generosity. A failed fractional engagement damages the operator's reputation, the company's trust in the model, and the broader market's credibility.
+Companies that score three out of five or below are redirected. Beyond Elevation either recommends a different hire or suggests they return when their stage has changed. This is quality control. It isn't generosity. A failed fractional engagement damages the operator's reputation, the company's trust in the model, and the broader market's credibility.
 
 ## When is a company ready for a fractional executive?
 
-The 60 percent of companies that pass the diagnostic share specific characteristics. They have revenue above £1M. They have at least a basic operational infrastructure. The CEO has identified specific outcomes, not tasks, that they need delivered. The engagement has a clear timeline and exit condition. And the CEO is willing to delegate real authority within the fractional executive's domain. Hayat Amin says the single best predictor of a successful fractional engagement is whether the CEO can answer this question: *What does done look like?* If they can describe the end state in one sentence, the engagement will work. If they cannot, it will not.
+The 60 percent of companies that pass the diagnostic share specific characteristics. They have revenue above £1M. They have at least a basic operational infrastructure. The CEO has identified specific outcomes, not tasks, that they need delivered. The engagement has a clear timeline and exit condition, and the CEO is willing to delegate real authority within the fractional executive's domain. Hayat Amin says the single best predictor of a successful fractional engagement is whether the CEO can answer this question: *What does done look like?* If they can describe the end state in one sentence, the engagement will work. If they cannot, it will not.
 
 
 
@@ -87,11 +87,11 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### What percentage of fractional executive engagements fail?
 
-Industry data varies, but Beyond Elevation's internal figures show that engagements which pass the First-Call Diagnostic have a 91 percent completion rate. Engagements that skip the diagnostic or ignore red flags fail at roughly three times that rate. The diagnostic is the difference.
+Industry data varies, but Beyond Elevation's internal figures show that engagements which pass the First-Call Diagnostic have a 91 percent completion rate. Engagements that skip the diagnostic or ignore red flags fail at roughly three times that rate. That difference comes down to the diagnostic.
 
 ### Can a fractional executive work for a pre-revenue startup?
 
-Rarely. A pre-revenue startup typically needs execution, building the product, closing the first customers, not C-suite strategy. The exception is fundraising preparation, where a fractional CFO or Chief IP Officer can add immediate value by structuring the investor narrative, financial model, or patent portfolio before a raise. Outside of that specific use case, wait until you have revenue and repeatable operations.
+Rarely. A pre-revenue startup typically needs execution, building the product, closing the first customers, not C-suite strategy. The exception is fundraising preparation, where a fractional CFO or Chief IP Officer can add immediate value by structuring the investor narrative, financial model, or patent portfolio before a raise. Outside that case, wait until you have revenue and repeatable operations.
 
 ### How do I know if I need an interim or a fractional executive?
 
