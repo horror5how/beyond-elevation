@@ -9722,3 +9722,19 @@ Sometimes yes. Often no. The 7 differences below are the ones that decide it, an
 I've used the US Bureau of Labor Statistics for full stack pay, because full st
 
 ---
+
+## Quality of Earnings Reports Kill One in Three Deals. Here Is Exactly What They Check.
+
+URL: https://beyondelevation.com/insights/quality-of-earnings-report-kills-deals
+
+A quality of earnings report is the single document that kills more acquisitions than bad revenue, bad culture, or bad timing combined. According to Bain & Company's 2025 Global M&A Report, roughly 30 percent of signed deals collapse during financial due diligence, and the quality of earnings report is where the collapse starts. Hayat Amin, who has sat on both sides of an acquisition table as an operator and fractional CFO, argues that most founders hear the phrase 'quality of earnings' for the first time in the week their buyer's accountants show up. By then, the damage is baked in.
+
+This is the guide to what a quality of earnings report actually is, what it checks, and what a fractional CFO builds in advance so the report confirms your numbers instead of destroying your deal.
+
+## What Is a Quality of Earnings Report?
+
+A quality of earnings report is an independent financial analysis that tests whether a company's reported earnings are real, repeatable, and sustainable. It is commissioned by the buyer (or the buyer's lender) during M&A due diligence, and it is the single most common reason deals reprice or die. Unlike an audit, which checks whether the accounting rules were followed, a QoE report asks a harder question: would a rational buyer pay this price based on what the numbers actually show?
+
+The report is typically prepared by a Big Four or mid-market accounting firm hired by the acquirer. It takes four to eight weeks, costs between 50,000 and 250,000 dollars dependin
+
+---
