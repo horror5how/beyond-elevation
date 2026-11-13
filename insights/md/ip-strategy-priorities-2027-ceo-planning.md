@@ -13,11 +13,11 @@ Companies with patents are 10.2x more likely to secure early-stage funding, acco
 
 The five IP strategy priorities below are the ones Hayat Amin runs when onboarding a new Beyond Elevation client in Q4. They take 90 days to implement, cost a fraction of one bad patent filing, and position a company to raise, license, or exit on its own terms.
 
-## Why IP strategy needs a 2027 reset
+## IP strategy needs a 2027 reset
 
 IP strategy in 2027 needs a reset because the rules, technology and competition around IP moved faster in 2026 than in any year before it. Three forces converged: the EU AI Act's first enforcement provisions, a wave of court rulings on AI-generated content ownership, and a VC market that now prices defensibility above growth rate in its scoring frameworks.
 
-Most companies are still running the IP playbook they set in 2024. That playbook did not account for AI agents generating patentable output, employees feeding trade secrets into public AI tools, or data assets becoming licensable at scale. A company entering 2027 with an unreformed IP strategy is leaving valuation on the table, and risk on the books.
+Most companies are still running the IP playbook they set in 2024. That playbook did not account for AI agents generating patentable output, employees feeding trade secrets into public AI tools, or data assets becoming licensable at scale. A company entering 2027 with an unreformed IP strategy is leaving value on the table and risk on the books.
 
 Beyond Elevation sees this pattern every quarter. Founders who treat IP as a legal checkbox instead of a strategic asset trail their competitors in every metric that matters: valuation multiple, licensing revenue, and acquirer interest. The fix is five priorities, starting now.
 
@@ -51,13 +51,13 @@ Trade secret protection collapsed for two companies in early 2026 when US courts
 
 Hayat Amin says the lesson is blunt and most companies have not acted on it: if your employees can paste proprietary information into a public AI tool without a policy stopping them, you have a disclosure programme, not a trade secret one.
 
-The 2027-ready fix is a written AI tool usage policy that specifies which tools are approved, what information can and cannot be entered, and what the consequences are for violations. Pair it with an approved-tools list and a quarterly audit. Companies that implemented this after Beyond Elevation's trade secret reviews found an average of seven undisclosed AI tool accounts per team, each one a potential leak.
+Fixing this for 2027 means writing an AI tool usage policy that spells out which tools are approved, what information staff can and cannot enter, and what happens if they break the rule. Pair it with an approved-tools list and a quarterly audit. Companies that brought this in after Beyond Elevation's trade secret reviews found an average of seven undisclosed AI tool accounts per team, each one a potential leak.
 
 ## Priority 5: who owns your IP strategy?
 
-The first four priorities fail without an owner. A [Chief IP Officer](/insights/what-is-a-chief-ip-officer/), fractional or full-time, is the executive who turns IP from a legal cost centre into a strategic revenue line. Without one, the patent filing roadmap drifts, the data licensing audit stalls, and the trade secret policy gathers dust in a shared drive nobody opens.
+The first four priorities fail without someone owning them. A [Chief IP Officer](/insights/what-is-a-chief-ip-officer/) (fractional or full-time) is the executive who turns IP from a legal cost into a line of revenue. Without one, the patent filing roadmap drifts, the data licensing audit stalls, and the trade secret policy sits in a shared drive nobody opens.
 
-Most companies under £50 million in revenue do not need a full-time CIPO. A fractional Chief IP Officer operates two to four days per month, runs the [KPIs that matter](/insights/chief-ip-officer-kpis/), and costs less than a single patent litigation. The real question is whether you can afford another year without one.
+Most companies under £50 million in revenue don't need a CIPO full time. A fractional Chief IP Officer works two to four days a month, runs the [KPIs that matter](/insights/chief-ip-officer-kpis/), and costs less than a single patent litigation. The real question is whether you can afford another year without one.
 
 Hayat Amin built the framework Beyond Elevation uses for every new CIPO engagement: the **Hayat Amin IP Readiness Scorecard**. It scores a company across five dimensions, patent coverage, trade secret hygiene, data licensing readiness, AI IP ownership clarity, and filing roadmap alignment, and produces a single number that tells a board exactly where the IP function stands. A score below 60 means the company is exposed. Below 40 means it is leaving money on the table at every raise and every exit conversation.
 

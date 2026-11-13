@@ -9,29 +9,29 @@ site: Beyond Elevation
 
 # Quality of Earnings Reports Kill One in Three Deals. Here Is Exactly What They Check.
 
-A quality of earnings report is the single document that kills more acquisitions than bad revenue, bad culture, or bad timing combined. According to Bain & Company's 2025 Global M&A Report, roughly 30 percent of signed deals collapse during financial due diligence, and the quality of earnings report is where the collapse starts. Hayat Amin, who has sat on both sides of an acquisition table as an operator and fractional CFO, argues that most founders hear the phrase 'quality of earnings' for the first time in the week their buyer's accountants show up. By then, the damage is baked in.
+A quality of earnings report is the single document that kills more acquisitions than bad revenue, bad culture, or bad timing combined. According to Bain & Company's 2025 Global M&A Report, roughly 30 percent of signed deals collapse during financial due diligence, and the quality of earnings report is where the collapse starts. Hayat Amin, who has sat on both sides of an acquisition table as an operator and fractional CFO, says most founders hear the phrase 'quality of earnings' for the first time in the week their buyer's accountants show up. By then, the damage is baked in.
 
-This is the guide to what a quality of earnings report actually is, what it checks, and what a fractional CFO builds in advance so the report confirms your numbers instead of destroying your deal.
+This is the guide to what a quality of earnings report is, what it checks, and what a fractional CFO builds in advance so the report confirms your numbers instead of destroying your deal.
 
-## What Is a Quality of Earnings Report?
+## What is a quality of earnings report?
 
-A quality of earnings report is an independent financial analysis that tests whether a company's reported earnings are real, repeatable, and sustainable. It is commissioned by the buyer (or the buyer's lender) during M&A due diligence, and it is the single most common reason deals reprice or die. Unlike an audit, which checks whether the accounting rules were followed, a QoE report asks a harder question: would a rational buyer pay this price based on what the numbers actually show?
+A quality of earnings report is an independent financial analysis that tests whether a company's reported earnings are real, repeatable, and sustainable. It is commissioned by the buyer (or the buyer's lender) during M&A due diligence, and it is the single most common reason deals reprice or die. Unlike an audit, which checks whether the accounting rules were followed, a QoE report asks a harder question: would a rational buyer pay this price based on what the numbers show?
 
-The report is typically prepared by a Big Four or mid-market accounting firm hired by the acquirer. It takes four to eight weeks, costs between 50,000 and 250,000 dollars depending on company size, and the seller has almost no control over what it finds. The QoE analyst is not looking for fraud. They are looking for earnings that will not repeat after the deal closes.
+The report is prepared by a Big Four or mid-market accounting firm hired by the acquirer. It takes four to eight weeks, costs between 50,000 and 250,000 dollars depending on company size, and the seller has almost no control over what it finds. The QoE analyst is not looking for fraud. They are looking for earnings that will not repeat after the deal closes.
 
 That distinction matters. A company can have clean audited financials and still fail a QoE. The audit says the accounting is correct. The QoE says the economics are not.
 
-## What Does a Quality of Earnings Report Check?
+## What does a quality of earnings report check?
 
 A quality of earnings report checks five categories of adjustments that separate reported EBITDA from normalised, repeatable EBITDA. These are the categories that Beyond Elevation's fractional CFOs prepare clients for months before a deal process begins.
 
 ### 1. Revenue Quality Adjustments
 
-The analyst breaks revenue into recurring, repeating, and one-time buckets. A 10-million-dollar top line that includes 2 million in one-off project revenue and 1.5 million in channel-stuffed Q4 orders will get restated. Customer concentration above 20 percent in a single account triggers a risk flag. Hayat Amin reminds founders that revenue the buyer cannot rely on next year is revenue the buyer will not pay for this year.
+The analyst splits revenue into recurring, repeating, and non-recurring buckets. A 10-million-dollar top line that includes 2 million in one-off project revenue and 1.5 million in channel-stuffed Q4 orders will get restated. Customer concentration above 20 percent in a single account triggers a risk flag. Hayat Amin reminds founders that revenue the buyer cannot rely on next year is revenue the buyer will not pay for this year.
 
 ### 2. Expense Normalisation
 
-Owner compensation, related-party transactions, and one-time costs get stripped out and replaced with market-rate equivalents. A founder paying themselves 80,000 pounds when the market rate for a CEO is 250,000 means EBITDA drops by 170,000 on paper. Every personal expense run through the business adds to the adjustment. The QoE analyst has seen every version of this and will find it.
+Owner compensation, related-party transactions, and one-off costs get stripped out and replaced with market-rate equivalents. A founder paying themselves 80,000 pounds when the market rate for a CEO is 250,000 means EBITDA drops by 170,000 on paper. Every personal expense run through the business adds to the adjustment. The QoE analyst has seen every version of this and will find it.
 
 ### 3. Working Capital Analysis
 
@@ -41,19 +41,19 @@ The report calculates a normalised working capital peg, which is the amount of w
 
 Deferred revenue, accrued liabilities, outstanding litigation, unfunded pension obligations, and capital lease commitments are all treated as debt-like items. They reduce enterprise value dollar for dollar. Most founders do not realise that a 500,000-dollar deferred revenue balance is a liability the buyer inherits, not an asset.
 
-### 5. Pro Forma and Run-Rate Adjustments
+### 5. Pro forma and run-rate adjustments
 
 Cost savings the buyer expects to realise (synergies) are usually excluded. Cost increases the buyer will face (replacing the founder's below-market salary, hiring staff the company should have had) are included. The net effect almost always compresses EBITDA.
 
-## Why Do Quality of Earnings Reports Kill Deals?
+## Why do quality of earnings reports kill deals?
 
 Quality of earnings reports kill deals because the gap between reported EBITDA and adjusted EBITDA is almost always larger than the seller expected. The median EBITDA adjustment in lower-middle-market deals is 15 to 25 percent downward, according to GF Data's 2025 M&A database. On a business priced at 8x EBITDA, a 20 percent downward adjustment does not reduce the price by 20 percent. It reduces the price by 20 percent times the multiple, which is 1.6x of the original EBITDA, or roughly a million and a half on a five-million-dollar deal.
 
 That is the repricing scenario. The kill scenario is worse. Hayat Amin tells the story of a SaaS founder whose reported EBITDA was 3.2 million. The QoE came back at 1.8 million after normalising owner compensation, reclassifying capitalised development costs, and adjusting for a single customer that represented 34 percent of revenue. The buyer walked. Not because the business was bad, but because the founder had not prepared the numbers for scrutiny, and the gap destroyed trust.
 
-The pattern repeats across industries. The seller's internal financials show the business as the founder sees it. The QoE shows the business as the buyer prices it. When the gap is small, the deal closes with a minor adjustment. When the gap is large, the buyer questions everything else.
+The pattern repeats across industries. The seller's internal financials show the business as the founder sees it. The QoE shows the business as the buyer prices it. A small gap closes the deal with a minor adjustment. A large gap makes the buyer question everything else.
 
-## How Does a Fractional CFO Prepare You for a Quality of Earnings Report?
+## How does a fractional CFO prepare you for a quality of earnings report?
 
 A fractional CFO prepares you for a quality of earnings report by running the same analysis the buyer's accountants will run, but 12 months earlier, when there is still time to fix what it finds. Beyond Elevation calls this the pre-QoE readiness sprint, and it follows Hayat Amin's QoE Readiness Audit, a structured process that closes the gap before the buyer ever sees the numbers.
 
@@ -75,9 +75,9 @@ The audit covers seven areas:
 
 Hayat Amin argues that the QoE Readiness Audit is the highest-ROI engagement a fractional CFO can run. A 20,000-pound audit that prevents a 1.5-million-pound price adjustment is a 75x return. Most founders do not think in those terms until the adjustment has already landed.
 
-## How Far in Advance Should You Prepare for a Quality of Earnings Report?
+## How far in advance should you prepare for a quality of earnings report?
 
-You should start preparing for a quality of earnings report at least 12 months before you expect to enter a deal process. Hayat Amin's rule is blunt: if you are thinking about selling in the next two years, your fractional CFO should be building the QoE-ready financial package now. The reason is that many of the fixes, particularly related-party cleanups, salary normalisations, and revenue concentration reductions, take two to four quarters to flow through the financials. A founder who starts preparing three months before a deal will be presenting one quarter of clean data against three quarters of messy data, and the QoE analyst will weight the messy quarters.
+You should start preparing for a quality of earnings report at least 12 months before you expect to enter a deal process. Hayat Amin's rule is blunt: if you are thinking about selling in the next two years, your fractional CFO should be building the financial package the QoE will expect, now. The reason is that many of the fixes, particularly related-party cleanups, salary normalisations, and revenue concentration reductions, take two to four quarters to flow through the financials. A founder who starts preparing three months before a deal will be presenting one quarter of clean data against three quarters of messy data, and the QoE analyst will weight the messy quarters.
 
 The practical timeline looks like this:
 
@@ -107,7 +107,7 @@ Beyond Elevation places exited C-suite operators into fractional executive posit
 
 ### How much does a quality of earnings report cost?
 
-A quality of earnings report costs between 50,000 and 250,000 dollars depending on company size, complexity, and the firm conducting it. Lower-middle-market deals (5 to 50 million enterprise value) typically see QoE fees of 50,000 to 100,000. The buyer almost always pays, but the cost is effectively deducted from the purchase price if the report finds material adjustments.
+A quality of earnings report costs between 50,000 and 250,000 dollars depending on company size, complexity, and the firm conducting it. Lower-middle-market deals (5 to 50 million enterprise value) typically see QoE fees of 50,000 to 100,000. The buyer almost always pays, but the cost comes out of the purchase price if the report finds material adjustments.
 
 ### Can a seller commission their own quality of earnings report?
 
@@ -119,11 +119,11 @@ An audit checks whether financial statements comply with accounting standards. A
 
 ### What triggers the biggest EBITDA adjustments in a quality of earnings report?
 
-The three largest adjustment categories are owner compensation normalisation (replacing below-market founder salaries with market rates), revenue quality adjustments (removing one-time or non-recurring revenue), and working capital shortfalls. Together, these three categories account for roughly 70 percent of total EBITDA adjustments in lower-middle-market deals.
+The three largest adjustment categories are owner compensation normalisation (replacing below-market founder salaries with market rates), revenue quality adjustments (removing revenue that will not repeat), and working capital shortfalls. Together, these three categories account for roughly 70 percent of total EBITDA adjustments in lower-middle-market deals.
 
 ### Do I need a fractional CFO to prepare for a quality of earnings report?
 
-You do not need one, but companies that hire a fractional CFO to run a QoE readiness process before entering a deal lose significantly less value to adjustments. The fractional CFO runs the same analysis the buyer's team will run, identifies the gaps early, and fixes them while there is still time. The alternative is discovering the gaps in a live deal, when the buyer has leverage and the seller has none.
+You do not need one, but companies that hire a fractional CFO to run a QoE readiness process before entering a deal lose far less value to adjustments. The fractional CFO runs the same analysis the buyer's team will run, identifies the gaps early, and fixes them while there is still time. The alternative is discovering the gaps in a live deal, when the buyer holds the power and the seller has none.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

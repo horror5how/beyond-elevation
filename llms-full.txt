@@ -9675,13 +9675,13 @@ URL: https://beyondelevation.com/insights/internal-controls-startup-fractional-c
 
 Internal controls for startups are the approval, reconciliation and access rules that prevent money moving without a second pair of eyes. Most companies under £10M revenue have none. Hayat Amin, who has audited the finance functions of over forty growth-stage businesses at Beyond Elevation, says the pattern is the same every time: "The CEO signs everything, the bookkeeper has admin access to the bank, and nobody reconciles anything until the accountant asks for it three months later." According to a 2025 Association of Certified Fraud Examiners report, companies with fewer than 100 employees lose a median of £150,000 per fraud case, more than double the rate at larger firms. That is not a number most Series A companies can absorb.
 
-## What internal controls are and why startups skip them
+## internal controls, and why startups skip them
 
 Internal controls are the policies, procedures and checks that ensure financial transactions are authorised, recorded accurately and safeguarded from error or fraud. Every growing company needs them, but most startups delay building them because the finance function is one person doing everything.
 
 The bookkeeper enters the invoices, approves the payments, reconciles the bank and runs payroll. One person running the whole loop is a single point of failure.
 
-The reason is cultural as much as structural. Founders optimise for speed. Approval workflows feel like bureaucracy. The implicit assumption is that a team of twelve people who trust each other does not need the controls that a 500-person
+The reason is cultural as much as structural. Founders optimise for speed. Approval workflows feel like bureaucracy. The implicit assumption is that a team of twelve people who trust each other does not need the controls that a 500-person company
 
 ---
 
@@ -9693,13 +9693,13 @@ Companies with patents are 10.2x more likely to secure early-stage funding, acco
 
 The five IP strategy priorities below are the ones Hayat Amin runs when onboarding a new Beyond Elevation client in Q4. They take 90 days to implement, cost a fraction of one bad patent filing, and position a company to raise, license, or exit on its own terms.
 
-## Why IP strategy needs a 2027 reset
+## IP strategy needs a 2027 reset
 
 IP strategy in 2027 needs a reset because the rules, technology and competition around IP moved faster in 2026 than in any year before it. Three forces converged: the EU AI Act's first enforcement provisions, a wave of court rulings on AI-generated content ownership, and a VC market that now prices defensibility above growth rate in its scoring frameworks.
 
-Most companies are still running the IP playbook they set in 2024. That playbook did not account for AI agents generating patentable output, employees feeding trade secrets into public AI tools, or data assets becoming licensable at scale. A company entering 2027 with an unreformed IP strategy is leaving valuation on the table, and risk on the books.
+Most companies are still running the IP playbook they set in 2024. That playbook did not account for AI agents generating patentable output, employees feeding trade secrets into public AI tools, or data assets becoming licensable at scale. A company entering 2027 with an unreformed IP strategy is leaving value on the table and risk on the books.
 
-Beyond Elevation sees this pattern every quarter. Founders who treat IP as a legal checkbox instead of a strategic asset trail t
+Beyond Elevation sees this pattern every quarter. Founders who treat IP as a legal checkbox instead of a strategic asset trail their comp
 
 ---
 
@@ -9727,15 +9727,15 @@ I've used the US Bureau of Labor Statistics for full stack pay, because full st
 
 URL: https://beyondelevation.com/insights/quality-of-earnings-report-kills-deals
 
-A quality of earnings report is the single document that kills more acquisitions than bad revenue, bad culture, or bad timing combined. According to Bain & Company's 2025 Global M&A Report, roughly 30 percent of signed deals collapse during financial due diligence, and the quality of earnings report is where the collapse starts. Hayat Amin, who has sat on both sides of an acquisition table as an operator and fractional CFO, argues that most founders hear the phrase 'quality of earnings' for the first time in the week their buyer's accountants show up. By then, the damage is baked in.
+A quality of earnings report is the single document that kills more acquisitions than bad revenue, bad culture, or bad timing combined. According to Bain & Company's 2025 Global M&A Report, roughly 30 percent of signed deals collapse during financial due diligence, and the quality of earnings report is where the collapse starts. Hayat Amin, who has sat on both sides of an acquisition table as an operator and fractional CFO, says most founders hear the phrase 'quality of earnings' for the first time in the week their buyer's accountants show up. By then, the damage is baked in.
 
-This is the guide to what a quality of earnings report actually is, what it checks, and what a fractional CFO builds in advance so the report confirms your numbers instead of destroying your deal.
+This is the guide to what a quality of earnings report is, what it checks, and what a fractional CFO builds in advance so the report confirms your numbers instead of destroying your deal.
 
-## What Is a Quality of Earnings Report?
+## What is a quality of earnings report?
 
-A quality of earnings report is an independent financial analysis that tests whether a company's reported earnings are real, repeatable, and sustainable. It is commissioned by the buyer (or the buyer's lender) during M&A due diligence, and it is the single most common reason deals reprice or die. Unlike an audit, which checks whether the accounting rules were followed, a QoE report asks a harder question: would a rational buyer pay this price based on what the numbers actually show?
+A quality of earnings report is an independent financial analysis that tests whether a company's reported earnings are real, repeatable, and sustainable. It is commissioned by the buyer (or the buyer's lender) during M&A due diligence, and it is the single most common reason deals reprice or die. Unlike an audit, which checks whether the accounting rules were followed, a QoE report asks a harder question: would a rational buyer pay this price based on what the numbers show?
 
-The report is typically prepared by a Big Four or mid-market accounting firm hired by the acquirer. It takes four to eight weeks, costs between 50,000 and 250,000 dollars dependin
+The report is prepared by a Big Four or mid-market accounting firm hired by the acquirer. It takes four to eight weeks, costs between 50,000 and 250,000 dollars depending on company size, and the seller h
 
 ---
 
@@ -9743,15 +9743,15 @@ The report is typically prepared by a Big Four or mid-market accounting firm hir
 
 URL: https://beyondelevation.com/insights/fractional-executive-success-metrics
 
-Most companies hire a fractional executive and measure nothing. Then six months later, the CEO cannot answer whether the engagement was worth the fee. According to a 2025 Staffing Industry Analysts report, the fractional executive market grew 34 percent year-over-year — but fewer than one in four engagements had defined success metrics at kickoff. Hayat Amin argues this is the single most expensive oversight in fractional hiring: not choosing the wrong person, but never defining what right looks like.
+Most companies hire a fractional executive and measure nothing. Then six months later, the CEO cannot answer whether the engagement was worth the fee. According to a 2025 Staffing Industry Analysts report, the fractional executive market grew 34 percent year-over-year, but fewer than one in four engagements had defined success metrics at kickoff. Hayat Amin argues this is the single most expensive oversight in fractional hiring: founders spend their effort choosing the person and never define what success looks like.
 
-Fractional executive success metrics are the specific, measurable outcomes that prove a fractional engagement is delivering business value — not activity reports, not hours logged, not meetings attended. The right metrics are tied to the function the executive owns, the timeline the board agreed to, and the commercial outcomes the company needs. Without them, you are paying for presence, not performance.
+Fractional executive success metrics are the specific, measurable outcomes that prove an engagement is delivering business value. Activity reports, hours logged, and meetings attended do not count. The right metrics are tied to the function the executive owns, the timeline the board agreed to, and the commercial outcomes the company needs. Without them, you are paying for presence, not performance.
 
-## What Should Fractional Executive Success Metrics Actually Measure?
+## What should fractional executive success metrics measure?
 
-Fractional executive success metrics should measure function-level business outcomes — revenue impact, cost reduction, risk elimination, and capability creation — over a defined 90-day evaluation window. Activity metrics like hours worked, meetings held, and documents produced tell you the executive is busy. They say nothing about whether the engagement is working.
+Fractional executive success metrics should measure function-level business outcomes, revenue impact, cost reduction, risk elimination, and capability creation, over a defined 90-day evaluation window. Activity metrics like hours worked, meetings held, and documents produced tell you the executive is busy. They say nothing about whether the engagement is working.
 
-The distinction matters because fractional executives operate differently from full-time hires. They work compressed schedules, typically two t
+The distinction matters because fractional executives operate differently from permanent hires. They work compressed schedules, typically two to
 
 ---
 
@@ -9763,7 +9763,7 @@ The right IP enforcement strategy uses a three-path decision framework: ignore t
 
 Hayat Amin, who has structured IP enforcement decisions across portfolios generating eight figures in licensing revenue, argues that the single most expensive mistake a patent holder makes is treating every infringement as a litigation event. "Most founders discover infringement and call a litigator the same day," Hayat Amin says. "That phone call costs them more than the infringement ever did." Beyond Elevation runs the enforcement triage before any legal spend begins, because the data is clear: companies with patents are 10.2x more likely to secure early-stage funding (Kauffman Foundation, 2023), but only if those patents are generating value rather than generating legal bills.
 
-## What Are the Three Paths in an IP Enforcement Strategy?
+## What are the three paths in an IP enforcement strategy?
 
 An IP enforcement strategy has exactly three options: ignore the infringer and focus resources elsewhere, license them and convert the infringement into recurring revenue, or litigate and seek damages or an injunction. Every other enforcement action is a variation
 
@@ -9773,14 +9773,14 @@ An IP enforcement strategy has exactly three options: ignore the infringer and f
 
 URL: https://beyondelevation.com/insights/ai-for-logistics-companies
 
-AI for logistics companies pays first in the work between systems, not in a new tool. The 7 jobs below are the ones I'd fix first: check calls, order entry, proof of delivery to invoice, carrier invoice matching, carrier compliance, customer ETA updates and a live margin number. Each of the 7 starts with data that already sits in software like your TMS or telematics platform. The connection between them is the missing part.
+AI for logistics companies pays off first in the work between systems, not in a new tool. The 7 jobs below are the ones I'd fix first: check calls, order entry, proof of delivery to invoice, carrier invoice matching, carrier compliance, customer ETA updates and a live margin number. Each of the 7 starts with data that already sits in software like your TMS or telematics platform. The connection between them is the missing part.
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer, building the AI operations himself inside companies whose systems don't talk to each other.
 
-## The reasons most logistics AI hasn't paid yet
+## Why most logistics AI hasn't paid off yet
 
 BCG surveyed more than 180 logistics providers and shippers in January 2026, with Alpega. About 40% of logistics service providers said they'd deployed AI beyond pilots. Only about one in ten had it inside core operations at scale, and just 13% reported measurable value. In North America the figure for AI embedded in core operations was 14%.
 
-BCG's August 2026 follow up names the reasons. Data is fragmented across legacy systems that weren't built to connect. 80% of respondents pointed to a single standalone tool as their most impactful AI. And 37% of logistics executives said a lack of internal AI expertise was their main barrier. Roughly 60% of providers in the March survey said integrating AI into their existing systems would be their main investment priority for the next one to t
+BCG's August 2026 follow-up names the reasons. Data is fragmented across legacy systems that weren't built to connect. 80% of respondents pointed to a single standalone tool as their most impactful AI. And 37% of logistics executives said a lack of internal AI expertise was their main barrier. Roughly 60% of providers in the March survey said integrating AI into their existing systems would be their main investment priority for the next one to t
 
 ---

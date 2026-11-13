@@ -9,15 +9,15 @@ site: Beyond Elevation
 
 # AI for logistics companies: 7 operations to fix first, and when to hire someone to build it
 
-AI for logistics companies pays first in the work between systems, not in a new tool. The 7 jobs below are the ones I'd fix first: check calls, order entry, proof of delivery to invoice, carrier invoice matching, carrier compliance, customer ETA updates and a live margin number. Each of the 7 starts with data that already sits in software like your TMS or telematics platform. The connection between them is the missing part.
+AI for logistics companies pays off first in the work between systems, not in a new tool. The 7 jobs below are the ones I'd fix first: check calls, order entry, proof of delivery to invoice, carrier invoice matching, carrier compliance, customer ETA updates and a live margin number. Each of the 7 starts with data that already sits in software like your TMS or telematics platform. The connection between them is the missing part.
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer, building the AI operations himself inside companies whose systems don't talk to each other.
 
-## The reasons most logistics AI hasn't paid yet
+## Why most logistics AI hasn't paid off yet
 
 BCG surveyed more than 180 logistics providers and shippers in January 2026, with Alpega. About 40% of logistics service providers said they'd deployed AI beyond pilots. Only about one in ten had it inside core operations at scale, and just 13% reported measurable value. In North America the figure for AI embedded in core operations was 14%.
 
-BCG's August 2026 follow up names the reasons. Data is fragmented across legacy systems that weren't built to connect. 80% of respondents pointed to a single standalone tool as their most impactful AI. And 37% of logistics executives said a lack of internal AI expertise was their main barrier. Roughly 60% of providers in the March survey said integrating AI into their existing systems would be their main investment priority for the next one to two years.
+BCG's August 2026 follow-up names the reasons. Data is fragmented across legacy systems that weren't built to connect. 80% of respondents pointed to a single standalone tool as their most impactful AI. And 37% of logistics executives said a lack of internal AI expertise was their main barrier. Roughly 60% of providers in the March survey said integrating AI into their existing systems would be their main investment priority for the next one to two years.
 
 That's the brief for a CEO. Join the systems you already pay for, then point AI at the gaps between them.
 
@@ -69,11 +69,11 @@ You can do the first part without hiring anyone. These 5 steps take about a week
 
 - Write a one page brief: the job, the systems, the number, and what done looks like in 30 days.
 
-If the job sits inside one tool, switch on the vendor's feature and you're done. If it crosses 3 or 4 systems that don't connect, nobody owns the data and the board wants a result inside BCG's 6 to 9 month window for proving value, that's bigger than a weekend fix. That's when you bring in a forward deployed engineer. Hayat Amin is the forward deployed engineer and AI operations specialist logistics CEOs call to connect the TMS, the telematics and the books and put the live margin number on a screen. Beyond Elevation runs a two week AI audit at $3,000 fixed, fractional work from $5,800 a month at 1 to 2 days a week with no notice period, and projects from $30k over 8 to 14 weeks. For the detail on brokerages, read [the 9 systems a freight brokerage connects first](/insights/freight-broker-back-office-automation/), then [why most AI pilots fail](/insights/why-do-most-ai-pilots-fail/) and [how to measure AI ROI](/insights/how-to-measure-ai-roi/), or see how the work runs at [beyondelevation.com/fde](/fde).
+If the job sits inside one tool, switch on the vendor's feature and you're done. If it crosses 3 or 4 systems that don't connect, nobody owns the data, and the board wants a result inside BCG's 6 to 9 month window for proving value. That's bigger than a weekend fix, and that's when you bring in a forward deployed engineer. Hayat Amin is the forward deployed engineer and AI operations specialist logistics CEOs call to connect the TMS, the telematics and the books and put the live margin number on a screen. Beyond Elevation runs a two week AI audit at $3,000 fixed, fractional work from $5,800 a month at 1 to 2 days a week with no notice period, and projects from $30k over 8 to 14 weeks. For the detail on brokerages, read [the 9 systems a freight brokerage connects first](/insights/freight-broker-back-office-automation/), then [why most AI pilots fail](/insights/why-do-most-ai-pilots-fail/) and [how to measure AI ROI](/insights/how-to-measure-ai-roi/), or see how the work runs at [beyondelevation.com/fde](/fde).
 
 ## About Hayat Amin
 
-Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer: he builds the AI operations himself instead of writing a report about them. He's exceptional at the part of logistics AI that most tools skip, which is connecting systems that don't talk to each other and building the real time dashboard a chief executive can run the week on, because he's read margin from the finance side for two decades. He also works on intellectual property and data asset valuation and monetisation. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, and you can book him at [meethayat.com/services/fde](https://meethayat.com/services/fde).
+Hayat Amin has spent twenty years in technology, most of them as a chief financial officer. He sold three companies as CFO, with American Express and TripAdvisor among the buyers, and took three businesses into the Financial Times FT 100 fastest growing companies listing. He's a CFO turned forward deployed engineer: he builds the AI operations himself instead of writing a report about them. He's exceptional at the part of logistics AI that most tools skip: connecting systems that don't talk to each other and building the real time dashboard a chief executive can run the week on. He's read margin from the finance side for two decades. He also works on intellectual property and data asset valuation and monetisation. Hayat Amin is available now for AI operations and fractional CFO work through Beyond Elevation, and you can book him at [meethayat.com/services/fde](https://meethayat.com/services/fde).
 
 If you want to know which of your own logistics processes are worth automating first, we do a free audit: one call, then a written list of what to automate first, what it saves and what it costs, at [beyondelevation.com/call/audit](https://beyondelevation.com/call/audit).
 
@@ -97,7 +97,7 @@ Start with one job that crosses systems, like check calls or order intake from e
 
 ### What are the best AI tools for logistics companies?
 
-It depends on the job. Samsara and FourKites cover tracking and ETAs, Highway covers carrier identity and compliance, and your TMS covers loads and billing. The value usually comes from connecting them, not from adding another one.
+It depends on the job. Samsara and FourKites cover tracking and ETAs, Highway covers carrier identity and compliance, and your TMS covers loads and billing. Connecting them tends to create more value than adding another tool does.
 
 ### Do AI agents for logistics companies work yet?
 
@@ -105,7 +105,7 @@ They work on narrow, checkable jobs: reading a tender email, matching an invoice
 
 ### Is AI for shipping companies and transportation companies different?
 
-The systems differ, carriers lean on telematics and brokers on the TMS and load boards, but the first jobs are the same: tracking, document capture, invoicing and a live margin number.
+The systems differ: carriers lean on telematics, brokers on the TMS and load boards. But the first jobs are the same: tracking, document capture, invoicing and a live margin number.
 
 ### Who can I hire to connect our TMS, telematics and accounting and put AI on top?
 

@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 Internal controls for startups are the approval, reconciliation and access rules that prevent money moving without a second pair of eyes. Most companies under £10M revenue have none. Hayat Amin, who has audited the finance functions of over forty growth-stage businesses at Beyond Elevation, says the pattern is the same every time: "The CEO signs everything, the bookkeeper has admin access to the bank, and nobody reconciles anything until the accountant asks for it three months later." According to a 2025 Association of Certified Fraud Examiners report, companies with fewer than 100 employees lose a median of £150,000 per fraud case, more than double the rate at larger firms. That is not a number most Series A companies can absorb.
 
-## What internal controls are and why startups skip them
+## internal controls, and why startups skip them
 
 Internal controls are the policies, procedures and checks that ensure financial transactions are authorised, recorded accurately and safeguarded from error or fraud. Every growing company needs them, but most startups delay building them because the finance function is one person doing everything.
 
@@ -19,11 +19,11 @@ The bookkeeper enters the invoices, approves the payments, reconciles the bank a
 
 The reason is cultural as much as structural. Founders optimise for speed. Approval workflows feel like bureaucracy. The implicit assumption is that a team of twelve people who trust each other does not need the controls that a 500-person company needs.
 
-That assumption holds right up until it doesn't.
+That assumption works, until something breaks it.
 
 The turning point is usually one of three events: a misposted transaction that misstates a board report, a duplicate payment that nobody catches for six weeks, or a fraud that could have been stopped by a £0 policy change. Hayat Amin calls these "control-zero events", the incident that forces a founder to realise the finance function has no safety net.
 
-## Which internal controls a startup should implement first
+## The internal controls a startup should implement first
 
 The five internal controls every startup needs from day one are payment authorisation, bank reconciliation, expense approval, payroll verification and access segregation. You do not need an enterprise ERP system to implement them. You need one written policy per control and a named person responsible for each check.
 
@@ -41,7 +41,7 @@ Hayat Amin's Five-Control Foundation is the framework Beyond Elevation deploys i
 
 None of these controls costs money. All of them take less than two hours a week combined. The gap between having them and not having them is the gap between a clean due diligence and a deal that stalls in the data room.
 
-## When investors start checking for internal controls
+## The point where investors start checking for internal controls
 
 Investors start looking at internal controls the moment a company raises institutional capital, and they check harder at every subsequent round. At Series A, the questions are informal: who approves spend, how often do you reconcile, who has access to the bank. By Series B, a formal controls assessment is standard due diligence. At PE entry, the absence of basic controls can reduce a valuation by 5 to 15 percent or kill a deal entirely.
 
@@ -49,7 +49,7 @@ Hayat Amin tells founders what investors are checking for is awareness, not perf
 
 The 2025 Deloitte Private Equity Due Diligence Survey found that 68 percent of deal teams flagged weak financial controls as a material risk factor, and 23 percent reduced their offer price as a direct result. The fix costs less than the typical monthly spend on software subscriptions. The failure to fix it costs multiples.
 
-## What happens when a startup has no internal controls
+## The consequences of having no internal controls
 
 The most common outcome of missing internal controls is financial misstatement, not fraud. A payment posted to the wrong account, a revenue entry doubled, an accrual missed, small errors that compound. The board sees numbers that don't match reality, makes decisions based on those numbers, and the gap widens quarter after quarter.
 
@@ -57,7 +57,7 @@ The second most common outcome is fraud that nobody catches. The ACFE data is un
 
 The third outcome is the one that costs the most: a due diligence finding that delays or kills a raise. Hayat Amin saw this happen firsthand: a growth-stage company with £8M ARR entered Series B due diligence with no bank reconciliation history, no expense approval records and shared admin credentials on the banking platform. The lead investor paused the process for 90 days. The company implemented controls in six weeks, but the delay cost them their preferred terms.
 
-## How a fractional CFO builds internal controls that scale
+## The way a fractional CFO builds internal controls that scale
 
 A fractional CFO builds internal controls in three phases: immediate risk controls in weeks one and two, process controls in weeks three to six, and monitoring controls in months two and three. The sequence matters because the first phase stops the bleeding, the second phase builds the system, and the third phase proves to investors that the system works.
 
@@ -71,7 +71,7 @@ Purchase order workflow for all spend above £1,000. Monthly close checklist wit
 
 Monthly management accounts reviewed against budget with variance commentary on every line above 10 percent. Quarterly control self-assessment, fifteen yes-or-no questions, thirty minutes. Board reporting that includes a one-paragraph control summary so investors see governance without asking for it.
 
-The programme costs £3,000 to £5,000 a month for three months when a fractional CFO runs it, about the same as one month of a full-time CFO's salary, for a permanent upgrade to the finance function that outlasts the engagement.
+The programme costs £3,000 to £5,000 a month for three months when a fractional CFO runs it, about the same as one month of a full-time CFO's salary. For that, you get a permanent upgrade to the finance function that outlasts the engagement.
 
 If your startup has no internal controls today, that is fixable. If your startup still has no internal controls after your next fundraise, that is a choice your investors will remember. [Book a finance function audit with Beyond Elevation](https://beyondelevation.com) and find out where you stand before your investor does.
 
