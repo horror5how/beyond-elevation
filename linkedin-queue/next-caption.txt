@@ -1,17 +1,17 @@
-Your 2027 plan has a headcount budget.
+You built a SaaS product. Your contracts give the customer full data ownership.
 
-It has an AI subscriptions line.
+You just handed away your most valuable asset.
 
-It does not have an AI Operations function.
+Most founders sign standard templates. The data clause looks fine. It is not.
 
-4 companies we worked with replaced £80K of junior headcount with 4 AI agents at £18K annual cost.
+Anonymised aggregate data is worth licensing. You cannot use it if your contract says it belongs to them.
 
-The difference was not the tools.
+Three clauses to fix now:
 
-It was one person with full ownership of the agent fleet.
+1. Data ownership vs licence: who holds title to raw inputs
+2. Derived data rights: who owns insights built from that data
+3. Anonymisation carve-outs: whether you can use aggregate data at all
 
-AI Operations is not a technology decision. It is an operating model decision.
+Fix this before the next deal. Not in due diligence.
 
-Add the function. Not more tools.
-
-#AIOperations #FractionalCSuite #BeyondElevation
+#IPStrategy #ChiefIPOfficer #BeyondElevation
