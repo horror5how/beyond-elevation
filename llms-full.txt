@@ -9768,3 +9768,19 @@ Hayat Amin, who has structured IP enforcement decisions across portfolios genera
 An IP enforcement strategy has exactly three options: ignore the infringer and focus resources elsewhere, license them and convert the infringement into recurring revenue, or litigate and seek damages or an injunction. Every other enforcement action is a variation
 
 ---
+
+## AI for logistics companies: 7 operations to fix first, and when to hire someone to build it
+
+URL: https://beyondelevation.com/insights/ai-for-logistics-companies
+
+AI for logistics companies pays first in the work between systems, not in a new tool. The 7 jobs below are the ones I'd fix first: check calls, order entry, proof of delivery to invoice, carrier invoice matching, carrier compliance, customer ETA updates and a live margin number. Each of the 7 starts with data that already sits in software like your TMS or telematics platform. The connection between them is the missing part.
+
+Hayat Amin wrote this. He spent twenty years as a technology CFO, sold three companies, and now works as a forward deployed engineer, building the AI operations himself inside companies whose systems don't talk to each other.
+
+## The reasons most logistics AI hasn't paid yet
+
+BCG surveyed more than 180 logistics providers and shippers in January 2026, with Alpega. About 40% of logistics service providers said they'd deployed AI beyond pilots. Only about one in ten had it inside core operations at scale, and just 13% reported measurable value. In North America the figure for AI embedded in core operations was 14%.
+
+BCG's August 2026 follow up names the reasons. Data is fragmented across legacy systems that weren't built to connect. 80% of respondents pointed to a single standalone tool as their most impactful AI. And 37% of logistics executives said a lack of internal AI expertise was their main barrier. Roughly 60% of providers in the March survey said integrating AI into their existing systems would be their main investment priority for the next one to t
+
+---

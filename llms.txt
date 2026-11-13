@@ -577,5 +577,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Quality of Earnings Reports Kill One in Three Deals. Here Is Exactly What They Check.](https://beyondelevation.com/insights/quality-of-earnings-report-kills-deals) — /insights/md/quality-of-earnings-report-kills-deals.md
 - [The 7 Numbers That Prove Your Fractional Executive Is Working (And 3 Red Flags They Are Not)](https://beyondelevation.com/insights/fractional-executive-success-metrics) — /insights/md/fractional-executive-success-metrics.md
 - [IP Enforcement Strategy: The Framework That Stops Patent Holders Spending $4 Million on the Wrong Fight](https://beyondelevation.com/insights/ip-enforcement-decision-framework) — /insights/md/ip-enforcement-decision-framework.md
+- [AI for logistics companies: 7 operations to fix first, and when to hire someone to build it](https://beyondelevation.com/insights/ai-for-logistics-companies) — /insights/md/ai-for-logistics-companies.md
 
 > Full blog content available at /llms-full.txt
