@@ -39,9 +39,7 @@ The seven sections of a strong investor update are: headline metric, cash positi
 
 ## How does a fractional CFO build the investor update each month?
 
-A fractional CFO builds the investor update in 20 minutes because the underlying data already exists in the management accounts. Cash, burn, and runway come from the bank reconciliation. Revenue and pipeline come from the CRM and the P&L. Wins and risks come from the weekly leadership meeting notes. A fractional CFO extracts the numbers, writes the narrative, and hands the founder a draft to approve before it goes out.
-
-The value is not the writing. The value is the discipline. Beyond Elevation installs a recurring calendar block — the 5th of every month — where the fractional CFO pulls the numbers, writes the draft, and sends it to the founder for a 10-minute review. By month three it runs on autopilot. By month six the founder forgets there was ever a time when updates did not go out.
+A fractional CFO builds the investor update in 20 minutes because the underlying data already exists in the management accounts. Cash, burn, and runway come from the bank reconciliation. Revenue and pipeline come from the CRM and the P&L. Wins and risks come from the weekly leadership meeting notes. The value is not the writing — the value is the discipline. Beyond Elevation installs a recurring calendar block — the 5th of every month — where the fractional CFO pulls the numbers, writes the draft, and sends it to the founder for a 10-minute review. By month three it runs on autopilot. By month six the founder forgets there was ever a time when updates did not go out.
 
 This is why hiring a [fractional CFO in the first 100 days](/insights/first-100-days-fractional-cfo/) compounds: the investor update is one of 15 processes they install, and each process feeds the next. The update pulls from the [management accounts](/insights/management-accounts-vs-financial-statements/), which pull from the close, which pulls from the reconciliation. Break one link and the chain fails. A fractional CFO builds the chain.
 
@@ -55,9 +53,9 @@ Do not include more than eight numbers in the body of the update. Beyond eight, 
 
 ## How often should founders send investor updates?
 
-Monthly, without exception, from the day the round closes until the company exits or the cap table dissolves. Quarterly is too slow — by the time an investor reads a quarterly update, the data is six weeks old and the window to help has closed. Weekly is too fast for most investors and creates fatigue. Monthly is the cadence that matches board cycles, accounting closes, and human attention spans.
+Monthly, without exception, from the day the round closes until the company exits or the cap table dissolves. Quarterly is too slow — the data is six weeks old by the time anyone reads it. Weekly creates fatigue. Monthly is the cadence that matches board cycles, accounting closes, and human attention spans.
 
-The real risk is not frequency — it is inconsistency. Founders who send three updates, skip two months, then send a panicked email asking for a bridge have destroyed more investor relationships than founders who never sent an update at all. Hayat Amin tells every founder the same thing: the update that goes out on the 5th of every month, good news or bad, is worth more than a perfect quarterly deck that arrives late.
+The real risk is not frequency — it is inconsistency. Founders who send three updates, skip two months, then send a panicked email asking for a bridge have destroyed more investor relationships than founders who never sent an update at all. The update that goes out on the 5th of every month, good news or bad, is worth more than a perfect quarterly deck that arrives late.
 
 If the company is in trouble, send the update faster, not slower. Investors who find out about a cash crisis from a bridge request — instead of from a monthly update three months earlier — do not write follow-on cheques. They write off.
 
@@ -65,7 +63,7 @@ If the company is in trouble, send the update faster, not slower. Investors who 
 
 Five mistakes kill investor updates: burying the numbers below narrative, sending as a PDF attachment instead of inline text, using "we" without naming who did what, skipping the ask, and inconsistency. Each one is fixable in five minutes.
 
-The PDF mistake alone cuts readership in half. Investors read email on phones between meetings. An inline update renders instantly. A PDF requires a download, a pinch-zoom, and patience nobody has at 7am. Send the update as plain text or a simple HTML email with one table. Save the formatted PDF for the board pack.
+The PDF mistake alone cuts readership in half. Investors read email on phones between meetings. An inline update renders instantly. A PDF requires a download, a pinch-zoom, and patience nobody has at 7am. Send the update as plain text or simple HTML with one table.
 
 The "we" problem is subtler. "We had a great month" tells the investor nothing. "James closed Acme Corp at £120K ACV and Maria shipped the API integration three weeks early" tells the investor the team is performing and the founder knows who is delivering. Named attribution in updates builds investor confidence in the bench, not just the founder.
 
@@ -111,7 +109,7 @@ If you have angels or advisors on the cap table, yes. Monthly updates to pre-see
 
 ### What is the best day and time to send an investor update?
 
-Between the 3rd and the 7th of the month, before 9am in the investor's timezone. Tuesday through Thursday outperform Monday and Friday on open rates. The exact day matters less than consistency — pick one and never move it.
+Between the 3rd and the 7th of the month, before 9am in the investor's timezone. Tuesday through Thursday outperform Monday and Friday. The exact day matters less than consistency — pick one and never move it.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*
