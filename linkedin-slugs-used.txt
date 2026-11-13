@@ -864,3 +864,4 @@ ai-rollout-15-checks-2026
 cap-table-waterfall-exit-founders-2026
 ip-maintenance-costs-audit-2026
 headcount-vs-ai-2027
+cfo-cashflow-fixes-founders-miss-2026

@@ -1,14 +1,19 @@
-Your 2027 ops plan has a headcount budget.
-It doesn't have an AI budget.
+Most founders think their cashflow problem is a revenue problem.
 
-That's why you'll hire 3 people to do work 3 agents can handle for 70% less.
+It's not.
 
-3 hires at £60K each: £180K salary. Add NI, benefits, management overhead: £234K total.
+The average growth-stage company has £340K of working capital sitting idle in 3 places.
 
-3 AI agents covering the same workflows: £14K in annual compute.
+Collections: invoices 60+ days overdue that nobody is chasing.
 
-The gap is not marginal. It's operational leverage most founders won't see until Q2 2027.
+Accruals: expenses booked wrong quarter, distorting the P&L.
 
-By then the competitor who saw it in November has a 6-month compounding head start.
+AP timing: paying 30-day terms when suppliers accept 90.
 
-#AIOperations #FractionalCFO #FounderFinance
+A fractional CFO finds these in 30 days.
+
+No new revenue. No cuts.
+
+Just better use of what's already there.
+
+#FractionalCFO #Cashflow #FounderFinance
