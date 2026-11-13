@@ -580,5 +580,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI for logistics companies: 7 operations to fix first, and when to hire someone to build it](https://beyondelevation.com/insights/ai-for-logistics-companies) — /insights/md/ai-for-logistics-companies.md
 - [The investor update your board actually reads: a fractional CFO's 7-section template](https://beyondelevation.com/insights/fractional-cfo-investor-update-template) — /insights/md/fractional-cfo-investor-update-template.md
 - [AI for Legal Operations: 7 Jobs Worth Automating Before You Hire Another Lawyer](https://beyondelevation.com/insights/ai-for-legal-operations) — /insights/md/ai-for-legal-operations.md
+- [Managing Fractional Executives: The Operating System 90% of CEOs Never Build (and the $120K It Costs Them)](https://beyondelevation.com/insights/managing-fractional-executives-operating-system) — /insights/md/managing-fractional-executives-operating-system.md
 
 > Full blog content available at /llms-full.txt
