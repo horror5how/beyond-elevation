@@ -9784,3 +9784,19 @@ BCG surveyed more than 180 logistics providers and shippers in January 2026, wit
 BCG's August 2026 follow-up names the reasons. Data is fragmented across legacy systems that weren't built to connect. 80% of respondents pointed to a single standalone tool as their most impactful AI. And 37% of logistics executives said a lack of internal AI expertise was their main barrier. Roughly 60% of providers in the March survey said integrating AI into their existing systems would be their main investment priority for the next one to t
 
 ---
+
+## The investor update your board actually reads: a fractional CFO's 7-section template
+
+URL: https://beyondelevation.com/insights/fractional-cfo-investor-update-template
+
+A fractional CFO investor update template changes the entire relationship between a founder and their cap table. According to Visible.vc's 2026 LP Survey, founders who send structured monthly updates are 34% more likely to receive follow-on funding from existing investors. Hayat Amin argues that most founders either send nothing — silence that erodes trust — or send a five-page essay nobody finishes. The fix is a one-page, seven-section update that takes 20 minutes to write and 90 seconds to read. Beyond Elevation's fractional CFOs install this template in the first month of every engagement.
+
+## Why do most investor updates fail?
+
+Most investor updates fail because they report activity instead of outcomes. Investors scan for three things: whether cash will run out, whether revenue is accelerating, and whether anyone needs to act. The standard "here's what we've been up to" email answers none of those questions. It buries the numbers under narrative. It arrives inconsistently. And it never asks for anything, which means the investor never engages.
+
+Hayat Amin's rule on investor updates is blunt: if the update does not contain a number, a request, and a deadline, delete it and start again. That filter alone kills 80% of the filler founders default to.
+
+The data supports this. First Round Capital's 2025 founder survey found that investors open fewer than 40% of updates longer than 500 words. Below 300 words and one clear table, the open-and-reply rate jumps to 68%. Brevity is n
+
+---
