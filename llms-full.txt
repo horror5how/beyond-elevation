@@ -9800,3 +9800,19 @@ Hayat Amin's rule on investor updates is blunt: if the update does not contain a
 The data supports this. First Round Capital's 2025 founder survey found that investors open fewer than 40% of updates longer than 500 words. Below 300 words and one clear table, the open-and-reply rate jumps to 68%. Brevity is n
 
 ---
+
+## AI for Legal Operations: 7 Jobs Worth Automating Before You Hire Another Lawyer
+
+URL: https://beyondelevation.com/insights/ai-for-legal-operations
+
+Your in-house legal team costs $300 to $600 an hour depending on seniority and spends roughly 70% of that time on tasks an AI agent completes in under a minute. According to a 2026 Thomson Reuters Institute survey, 68% of legal professionals report that AI already handles document review faster and more consistently than junior associates. AI for legal operations is the largest automation arbitrage in any back-office function, and most companies have not touched it.
+
+Hayat Amin argues that legal is the last function most CEOs think to automate and the first where the ROI surprises them. "Founders automate finance and customer support because those teams ask for it," says Amin. "Legal never asks. But legal is running $400-an-hour humans on pattern-matching tasks a $20-a-month agent handles in seconds." At [Beyond Elevation](https://beyondelevation.com), AI operations deployments in legal teams consistently deliver 4x to 8x ROI in the first 90 days.
+
+## What Legal Operations Should You Automate With AI First?
+
+The seven legal operations jobs worth automating first are contract review, legal intake and routing, compliance monitoring, IP portfolio management, legal spend analytics, document generation, and precedent research. These seven tasks account for roughly 70% of in-house legal time and produce the fastest, most measurable returns when an AI agent replaces the manual process.
+
+The order matters. Most companies start with the flashiest use case, contract drafting, and skip 
+
+---
