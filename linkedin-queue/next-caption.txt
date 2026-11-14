@@ -1,17 +1,16 @@
-Most founders pay themselves a salary.
+Most AI agents break not because the code is wrong.
 
-It is the most expensive way to take money out of your own company.
+They break because nobody designed the handoff.
 
-£80K salary: 20% income tax + 12% NI contributions.
+8 in 10 AI agent deployments add a human review step in month 2.
+The teams that skip it have a 3x higher failure rate by month 6.
 
-£30K salary + £50K dividends: 8.75% on the dividend slice.
+The pattern: an agent handles 85% of cases automatically.
+The other 15% needs a human. Without a clear handoff, the agent either halts or guesses.
 
-Annual difference: £12,400 stays in your pocket.
+Both are expensive.
 
-A fractional CFO models this in one meeting.
+An AI operations function designs the handoff before the agent ships.
+Not after it breaks.
 
-Your accountant filed 3 years of accounts and never mentioned it.
-
-This is not tax avoidance. It is director remuneration planning.
-
-#FractionalCFO #FounderFinance #TaxPlanning
+#AIOperations #AI #FractionalExecutive
