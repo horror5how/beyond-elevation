@@ -582,5 +582,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI for Legal Operations: 7 Jobs Worth Automating Before You Hire Another Lawyer](https://beyondelevation.com/insights/ai-for-legal-operations) — /insights/md/ai-for-legal-operations.md
 - [Managing Fractional Executives: The Operating System 90% of CEOs Never Build (and the $120K It Costs Them)](https://beyondelevation.com/insights/managing-fractional-executives-operating-system) — /insights/md/managing-fractional-executives-operating-system.md
 - [R&D Tax Credits for Startups: Why 40% of Qualifying Spend Never Gets Claimed](https://beyondelevation.com/insights/rd-tax-credits-startups-fractional-cfo) — /insights/md/rd-tax-credits-startups-fractional-cfo.md
+- [The 6-Slide Chief IP Officer Board Deck That Actually Gets Budget Approved](https://beyondelevation.com/insights/chief-ip-officer-board-deck) — /insights/md/chief-ip-officer-board-deck.md
 
 > Full blog content available at /llms-full.txt

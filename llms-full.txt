@@ -9850,3 +9850,17 @@ That six-figure gap compounds. A startup that underclaims by £80,000 per year f
 R&D tax credits are government incentives that refund between 15% and 33% of qualifying research and development expenditure, depending on jurisdiction, company size, and profitability. In the UK, the merged R&D scheme launched in April 2024 offers an above-the-line credit of 20% for mo
 
 ---
+
+## The 6-Slide Chief IP Officer Board Deck That Actually Gets Budget Approved
+
+URL: https://beyondelevation.com/insights/chief-ip-officer-board-deck
+
+Most Chief IP Officer board decks are 40 slides of prosecution timelines, claim charts, and filing statistics. The board reads none of them. According to Ocean Tomo's 2025 Intangible Asset Market Value Study, intangible assets represent 90% of S&P 500 market capitalisation — yet fewer than one in five companies report IP performance to their board as a standalone agenda item. Hayat Amin argues this is the single biggest value leak in corporate IP: &ldquo;Your patents are worth more than your plant and equipment combined, and your board sees them once a year in a legal footnote. That is not an IP strategy. That is an IP accident waiting to happen.&rdquo;
+
+Hayat Amin's 6-Slide IP Board Deck framework strips away the prosecution noise and gives your board the only six things they need to see: revenue attribution, licensing pipeline, competitive threat, filing ROI, maintenance economics, and the 90-day ask. Beyond Elevation builds this deck in the first 30 days of every fractional Chief IP Officer engagement.
+
+## Why Do Most Chief IP Officer Board Decks Fail?
+
+Most IP board decks fail because they speak the language of patent prosecution instead of the language of capital allocation. Board members care about revenue protection, competitive distance, and return on investment. They do not care about Office Action response timelines, IDS filing counts, or the difference between a continuation and a divisional. A Chief IP Officer board deck that leads with claims data instead of comm
+
+---
