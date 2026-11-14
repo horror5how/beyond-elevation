@@ -867,3 +867,4 @@ headcount-vs-ai-2027
 cfo-cashflow-fixes-founders-miss-2026
 ai-ops-headcount-2027
 data-ownership-b2b-saas-contracts-2026
+salary-vs-dividends-founder-cfo-2026

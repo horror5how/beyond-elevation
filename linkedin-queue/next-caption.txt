@@ -1,17 +1,17 @@
-You built a SaaS product. Your contracts give the customer full data ownership.
+Most founders pay themselves a salary.
 
-You just handed away your most valuable asset.
+It is the most expensive way to take money out of your own company.
 
-Most founders sign standard templates. The data clause looks fine. It is not.
+£80K salary: 20% income tax + 12% NI contributions.
 
-Anonymised aggregate data is worth licensing. You cannot use it if your contract says it belongs to them.
+£30K salary + £50K dividends: 8.75% on the dividend slice.
 
-Three clauses to fix now:
+Annual difference: £12,400 stays in your pocket.
 
-1. Data ownership vs licence: who holds title to raw inputs
-2. Derived data rights: who owns insights built from that data
-3. Anonymisation carve-outs: whether you can use aggregate data at all
+A fractional CFO models this in one meeting.
 
-Fix this before the next deal. Not in due diligence.
+Your accountant filed 3 years of accounts and never mentioned it.
 
-#IPStrategy #ChiefIPOfficer #BeyondElevation
+This is not tax avoidance. It is director remuneration planning.
+
+#FractionalCFO #FounderFinance #TaxPlanning
