@@ -1,16 +1,17 @@
-Most AI agents break not because the code is wrong.
+Germany approved a patent equivalent for your invention in 6 weeks.
 
-They break because nobody designed the handoff.
+You filed a US patent instead. It took 3 years.
 
-8 in 10 AI agent deployments add a human review step in month 2.
-The teams that skip it have a 3x higher failure rate by month 6.
+A utility model is a patent with no examination.
 
-The pattern: an agent handles 85% of cases automatically.
-The other 15% needs a human. Without a clear handoff, the agent either halts or guesses.
+You file, you get protection. No examiner. No rejection letters. No office actions.
 
-Both are expensive.
+20+ countries offer it. Germany, China, Japan, South Korea, Italy, Spain, Australia, Brazil.
 
-An AI operations function designs the handoff before the agent ships.
-Not after it breaks.
+10-year protection for £500 and 6 weeks.
 
-#AIOperations #AI #FractionalExecutive
+UK and US founders miss this because their patent attorney doesn't file them.
+
+Your international IP strategy just got cheaper by £50K.
+
+#IPstrategy #founders #patents
