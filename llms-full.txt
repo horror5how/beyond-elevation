@@ -9834,3 +9834,19 @@ Managing fractional executives requires three structural commitments: a recurrin
 The mistake most CEOs make is defau
 
 ---
+
+## R&D Tax Credits for Startups: Why 40% of Qualifying Spend Never Gets Claimed
+
+URL: https://beyondelevation.com/insights/rd-tax-credits-startups-fractional-cfo
+
+The average tech startup leaves 40% of its qualifying R&D expenditure unclaimed every year. According to a 2025 HMRC analysis of SME R&D tax credit claims, one in three submissions is materially undervalued — not because the rules are complicated, but because the person filing the claim has never set foot in an engineering stand-up.
+
+Hayat Amin, who has rebuilt finance functions across multiple portfolio companies as a fractional CFO, argues that R&D tax credits are the single highest-ROI finance task a startup can fix — and the one most founders hand to the wrong person. "Your accountant sees invoices. A fractional CFO sees qualifying activities," Hayat Amin says. "The gap between those two perspectives is usually six figures."
+
+That six-figure gap compounds. A startup that underclaims by £80,000 per year for three years has left £240,000 on the table — enough to fund two senior hires or extend runway by a full quarter. Companies with patents are [10.2x more likely to secure early-stage funding](https://beyondelevation.com), and the R&D tax credit is often the bridge that keeps the lights on while the patent portfolio matures.
+
+## What Are R&D Tax Credits and Why Do Most Startups Underclaim?
+
+R&D tax credits are government incentives that refund between 15% and 33% of qualifying research and development expenditure, depending on jurisdiction, company size, and profitability. In the UK, the merged R&D scheme launched in April 2024 offers an above-the-line credit of 20% for mo
+
+---
