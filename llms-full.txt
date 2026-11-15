@@ -9882,3 +9882,17 @@ The average private equity firm manages 12 portfolio companies. Each one runs it
  **Short hold periods punish experimentation.** A five-year hold means the ops team needs payback inside 18 months. Traditional IT project
 
 ---
+
+## Your Financial Model Has 47 Tabs. Investors Open 3. Here Is What Goes in Them.
+
+URL: https://beyondelevation.com/insights/startup-financial-model-investors-open
+
+A startup financial model is not a spreadsheet. It is a test of whether your CFO function works. According to Kruze Consulting's 2025 analysis of pre-Series A companies, fewer than 35% of startup financial models survive first contact with an investor's due diligence process. The other 65% get opened, glanced at, and closed. Not because the numbers are wrong, but because the model answers questions nobody asked while ignoring the three things every investor actually needs to see. Hayat Amin argues that the gap is not analytical skill. It is architecture. "A 47-tab model tells me the founder spent three weeks in Excel," Amin says. "A 3-tab model tells me someone who understands capital allocation built this." That distinction is the difference between a term sheet and a polite pass.
+
+## What Do Investors Actually Look at in a Startup Financial Model?
+
+Investors look at three things in a startup financial model: the revenue build, the unit economics, and the cash bridge. Everything else is noise that obscures the signal. The revenue build proves you understand how money enters the business. The unit economics prove each unit of revenue is worth acquiring. The cash bridge proves you know exactly when you run out of money and what triggers the next raise.
+
+Beyond Elevation's [fractional CFO engagements](/insights/first-100-days-fractional-cfo/) start with stripping models back to these three layers, because founders who can articulate all three in under two minutes close rounds f
+
+---

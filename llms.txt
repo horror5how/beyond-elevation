@@ -584,5 +584,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [R&D Tax Credits for Startups: Why 40% of Qualifying Spend Never Gets Claimed](https://beyondelevation.com/insights/rd-tax-credits-startups-fractional-cfo) — /insights/md/rd-tax-credits-startups-fractional-cfo.md
 - [The 6-Slide Chief IP Officer Board Deck That Actually Gets Budget Approved](https://beyondelevation.com/insights/chief-ip-officer-board-deck) — /insights/md/chief-ip-officer-board-deck.md
 - [AI Operations for Private Equity Portfolio Companies: The Playbook That Turns One Deployment Into Fund-Wide Margin Gains](https://beyondelevation.com/insights/ai-operations-private-equity-portfolio) — /insights/md/ai-operations-private-equity-portfolio.md
+- [Your Financial Model Has 47 Tabs. Investors Open 3. Here Is What Goes in Them.](https://beyondelevation.com/insights/startup-financial-model-investors-open) — /insights/md/startup-financial-model-investors-open.md
 
 > Full blog content available at /llms-full.txt
