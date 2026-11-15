@@ -586,5 +586,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI Operations for Private Equity Portfolio Companies: The Playbook That Turns One Deployment Into Fund-Wide Margin Gains](https://beyondelevation.com/insights/ai-operations-private-equity-portfolio) — /insights/md/ai-operations-private-equity-portfolio.md
 - [Your Financial Model Has 47 Tabs. Investors Open 3. Here Is What Goes in Them.](https://beyondelevation.com/insights/startup-financial-model-investors-open) — /insights/md/startup-financial-model-investors-open.md
 - [Your AI Agents Are Running Blind. Here Is the Observability Stack That Stops Silent Failures.](https://beyondelevation.com/insights/ai-agent-observability-monitoring-stack) — /insights/md/ai-agent-observability-monitoring-stack.md
+- [The Fractional Executive Turnaround: Why Distressed Companies Are Ditching £250K Restructuring Firms](https://beyondelevation.com/insights/fractional-executive-company-turnaround) — /insights/md/fractional-executive-company-turnaround.md
 
 > Full blog content available at /llms-full.txt
