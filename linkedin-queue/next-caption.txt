@@ -1,19 +1,21 @@
-Your AI agent was 94% accurate on day 1.
+Most founders file a provisional patent and move on.
 
-You deployed it. Moved on. Never checked it again.
+12 months later the priority date has expired.
 
-6 months later it is still running. And costing you more than it saves.
+Here's what that costs you.
 
-3 things every agent needs every 30 days:
+The provisional buys 12 months of "patent pending" for ~£1,500.
 
-Accuracy check. Sample 50 outputs. If the error rate exceeds 3%, reprompt.
+Don't convert by month 12 and that date is gone forever.
 
-Cost audit. Token spend compounds. What costs £0.12 per task today is often £0.40 by month six.
+A competitor can file the same invention the next day and claim it first.
 
-Handoff review. The agent passes work to a human somewhere. That handoff breaks silently.
+Three things nobody tells you:
 
-Most founders deploy AI agents and read the uptime dashboard.
+1. The deadline is non-extendable. No exceptions.
+2. File PCT at month 11 to get 30 months of international runway.
+3. Tell your IP counsel the deadline before your Series A — not after.
 
-Nobody checks whether the agent still does what it was built to do.
+We've seen acquirers walk away. The invention was real. The protection was not.
 
-#AIOperations #AI #Founders
+#IP #Patents #Founders
