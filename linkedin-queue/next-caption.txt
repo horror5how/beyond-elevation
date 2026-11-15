@@ -1,11 +1,19 @@
-Your revenue grew 40% last quarter. You almost ran out of cash. That is overtrading. Most founders have never heard of it.
+Your AI agent was 94% accurate on day 1.
 
-More revenue does not mean more cash.
+You deployed it. Moved on. Never checked it again.
 
-Three things eat your working capital as you grow: longer debtor days, more stock, slower supplier payments.
+6 months later it is still running. And costing you more than it saves.
 
-A fractional CFO spots this in week one. Most founders only see it after the bank call.
+3 things every agent needs every 30 days:
 
-The fix: a 13-week rolling cash flow, tightened payment terms, and a credit facility before you need it.
+Accuracy check. Sample 50 outputs. If the error rate exceeds 3%, reprompt.
 
-#FractionalCFO #WorkingCapital #FounderFinance
+Cost audit. Token spend compounds. What costs £0.12 per task today is often £0.40 by month six.
+
+Handoff review. The agent passes work to a human somewhere. That handoff breaks silently.
+
+Most founders deploy AI agents and read the uptime dashboard.
+
+Nobody checks whether the agent still does what it was built to do.
+
+#AIOperations #AI #Founders
