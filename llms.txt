@@ -587,5 +587,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Financial Model Has 47 Tabs. Investors Open 3. Here Is What Goes in Them.](https://beyondelevation.com/insights/startup-financial-model-investors-open) — /insights/md/startup-financial-model-investors-open.md
 - [Your AI Agents Are Running Blind. Here Is the Observability Stack That Stops Silent Failures.](https://beyondelevation.com/insights/ai-agent-observability-monitoring-stack) — /insights/md/ai-agent-observability-monitoring-stack.md
 - [The Fractional Executive Turnaround: Why Distressed Companies Are Ditching £250K Restructuring Firms](https://beyondelevation.com/insights/fractional-executive-company-turnaround) — /insights/md/fractional-executive-company-turnaround.md
+- [Same ARR, 3x Valuation Gap: Why Revenue Quality Decides What Your Company Is Worth](https://beyondelevation.com/insights/revenue-quality-valuation-gap) — /insights/md/revenue-quality-valuation-gap.md
 
 > Full blog content available at /llms-full.txt
