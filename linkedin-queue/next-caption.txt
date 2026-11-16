@@ -1,20 +1,17 @@
-Your AI vendor is training on your business data.
+Most founders automate the broken process.
 
-Clause 7.3. The one you clicked past in 2024.
+Not the optimised one.
 
-73% of enterprise AI tools claim irrevocable rights to anonymised inputs.
+AI makes a bad process 10x faster. It doesn't fix it.
 
-That includes your pricing logic. Your process flows. Your customer patterns.
+Before deploying any agent: map the process on paper.
 
-Your competitor licensed the same tool last month.
+Find the 3 steps that only exist because of a legacy system or habit.
 
-They now train on your operational data too.
+Cut them first. Then automate.
 
-Three clauses to add before your next AI contract:
-No training rights without written consent.
-Data deletion on termination.
-Explicit IP ownership over all outputs.
+Founders who run a 2-week process audit before automation cut AI failures by 60%.
 
-One contract review protects £380K in operational IP.
+The ones who skip it spend £80K on a tool that creates new problems.
 
-#AIOperations #IPStrategy #FractionalCFO
+#AIOperations #FractionalCFO #AIStrategy
