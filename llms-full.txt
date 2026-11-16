@@ -9964,3 +9964,21 @@ AI procurement differs from standard software procurement in one critical dimens
 This distinction breaks the standard procurement checklist. Feature comparisons, pricing tiers, and uptime SLAs — the m
 
 ---
+
+## Your Startup IP Strategy Breaks at 10M Revenue. Here Is What Replaces It.
+
+URL: https://beyondelevation.com/insights/ip-strategy-scaleups-10m-revenue-inflection
+
+Seventy-three percent of scaleups between £5M and £50M revenue have an IP portfolio that no one on the leadership team can explain to an investor. That number comes from a 2025 IP Pragmatics survey of 400 UK technology companies — and it means the majority of scaleups are sitting on intellectual property that is either undervalued, unprotected, or both.
+
+Hayat Amin argues this is the single most expensive blind spot in the scaleup playbook. "At seed stage, filing a provisional patent is enough," Hayat says. "At £10M revenue, you need an IP strategy for scaleups that connects every patent, trade secret, and dataset to a revenue line or an exit multiple. Most founders never make that shift."
+
+The difference between a startup IP strategy and a scaleup IP strategy is not complexity — it is purpose. At the startup stage, IP is defensive: you file to stop competitors copying your core innovation. At the scaleup stage, IP becomes offensive: it drives licensing revenue, lifts valuation multiples, and creates the defensibility narrative that determines whether your Series B prices at 8x or 14x revenue.
+
+According to a 2026 Beauhurst report, UK scaleups with structured IP portfolios received valuations 41 percent higher than comparable companies without documented IP strategies. That gap shows up in every term sheet and every acquisition offer.
+
+## What Changes in IP Strategy at the Scaleup Stage?
+
+IP strategy for scaleups requires a fundamental shift from "protect the product" to "bui
+
+---
