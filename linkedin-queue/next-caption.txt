@@ -1,21 +1,17 @@
-Most founders file a provisional patent and move on.
+Your P&L shows £340K profit.
 
-12 months later the priority date has expired.
+Your bank shows £18K.
 
-Here's what that costs you.
+That gap has a name: debtor days.
 
-The provisional buys 12 months of "patent pending" for ~£1,500.
+The average UK B2B company waits 54 days to get paid.
 
-Don't convert by month 12 and that date is gone forever.
+You invoice on day 1. Cash lands on day 54.
 
-A competitor can file the same invention the next day and claim it first.
+Meanwhile: payroll goes out on day 28. VAT on day 37.
 
-Three things nobody tells you:
+A CFO models this gap before it opens. An accountant explains it after.
 
-1. The deadline is non-extendable. No exceptions.
-2. File PCT at month 11 to get 30 months of international runway.
-3. Tell your IP counsel the deadline before your Series A — not after.
+If your receivables are over £100K and you have never built a 13-week cash forecast, you need a CFO.
 
-We've seen acquirers walk away. The invention was real. The protection was not.
-
-#IP #Patents #Founders
+#FractionalCFO #CashFlow #Founders
