@@ -1,17 +1,20 @@
-Your P&L shows £340K profit.
+Your AI vendor is training on your business data.
 
-Your bank shows £18K.
+Clause 7.3. The one you clicked past in 2024.
 
-That gap has a name: debtor days.
+73% of enterprise AI tools claim irrevocable rights to anonymised inputs.
 
-The average UK B2B company waits 54 days to get paid.
+That includes your pricing logic. Your process flows. Your customer patterns.
 
-You invoice on day 1. Cash lands on day 54.
+Your competitor licensed the same tool last month.
 
-Meanwhile: payroll goes out on day 28. VAT on day 37.
+They now train on your operational data too.
 
-A CFO models this gap before it opens. An accountant explains it after.
+Three clauses to add before your next AI contract:
+No training rights without written consent.
+Data deletion on termination.
+Explicit IP ownership over all outputs.
 
-If your receivables are over £100K and you have never built a 13-week cash forecast, you need a CFO.
+One contract review protects £380K in operational IP.
 
-#FractionalCFO #CashFlow #Founders
+#AIOperations #IPStrategy #FractionalCFO
