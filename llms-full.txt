@@ -9982,3 +9982,21 @@ According to a 2026 Beauhurst report, UK scaleups with structured IP portfolios 
 IP strategy for scaleups requires a fundamental shift from "protect the product" to "bui
 
 ---
+
+## How to Write a Fractional CFO Scope of Work (So Neither Side Wastes the First 90 Days)
+
+URL: https://beyondelevation.com/insights/fractional-cfo-scope-of-work
+
+Most fractional CFO engagements collapse before the invoice cycle even stabilises. The cause is never the CFO's ability. It is a scope of work that was never written — or one written so vaguely that neither side knows what success looks like after 90 days.
+
+A fractional CFO scope of work is the document that defines exactly what your part-time finance executive will deliver, how often, at what cost, and against which milestones. According to a 2025 Deloitte CFO Signals survey, 62% of fractional executive engagements that end before six months cite unclear deliverables as the primary cause. Hayat Amin argues the real failure rate is closer to 80% — because most engagements that limp past six months are still running without a written scope. They just have not failed visibly yet.
+
+The fix is not hiring a better CFO. The fix is writing a better scope.
+
+## Why Do Most Fractional CFO Engagements Fail Without a Proper Scope?
+
+Most fractional CFO engagements fail without a scope because the CEO and the CFO start with incompatible assumptions about what the role covers — and those assumptions never surface until three months of billable hours have passed. Three patterns repeat across every failed engagement.
+
+**Pattern 1: The unlimited mandate.** The scope says "provide strategic financial leadership." That means everything and nothing. The CFO touches AP, AR, board packs, fundraising, tax, and hiring — none deeply. The CEO sees breadth without depth and concludes the CFO is spread t
+
+---
