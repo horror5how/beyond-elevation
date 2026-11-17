@@ -1,15 +1,15 @@
-Patent search software costs £50,000 a year.
+Your AI workflows have no documentation.
 
-Most founders use 3 of its 15 features.
+73% will break when the person who built them leaves.
 
-4 free tools cover those 3 features.
+The rebuild cost: 6x the original build, plus 90 days of lost output.
 
-We ranked 11 platforms on recall, FTO accuracy, AI search, and total cost of ownership.
+You didn't build AI operations.
 
-The tool most IP boutiques actually use is not PatSnap.
+You built a key-person dependency that runs on prompts.
 
-It is Orbit Intelligence. Half the price, deeper FTO coverage.
+AI Operations means documented, owned, testable workflows.
 
-Know which tool fits your stage before you sign anything.
+Not tools held together by one person's memory.
 
-#patents #ipstrategy #founders
+#AIOperations #FractionalExecutive #OperationsLeadership
