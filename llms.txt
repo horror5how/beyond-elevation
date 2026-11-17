@@ -591,5 +591,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [7 AI Procurement Questions Your Company Skips (And the Contract Clause That Costs You the Data Moat)](https://beyondelevation.com/insights/ai-procurement-checklist-seven-questions) — /insights/md/ai-procurement-checklist-seven-questions.md
 - [Your Startup IP Strategy Breaks at 10M Revenue. Here Is What Replaces It.](https://beyondelevation.com/insights/ip-strategy-scaleups-10m-revenue-inflection) — /insights/md/ip-strategy-scaleups-10m-revenue-inflection.md
 - [How to Write a Fractional CFO Scope of Work (So Neither Side Wastes the First 90 Days)](https://beyondelevation.com/insights/fractional-cfo-scope-of-work) — /insights/md/fractional-cfo-scope-of-work.md
+- [73% of Funded Startups Pivot. Their IP Strategy Breaks the Same Day.](https://beyondelevation.com/insights/ip-strategy-startup-pivot) — /insights/md/ip-strategy-startup-pivot.md
 
 > Full blog content available at /llms-full.txt

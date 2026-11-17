@@ -10000,3 +10000,17 @@ Most fractional CFO engagements fail without a scope because the CEO and the CFO
 **Pattern 1: The unlimited mandate.** The scope says "provide strategic financial leadership." That means everything and nothing. The CFO touches AP, AR, board packs, fundraising, tax, and hiring — none deeply. The CEO sees breadth without depth and concludes the CFO is spread t
 
 ---
+
+## 73% of Funded Startups Pivot. Their IP Strategy Breaks the Same Day.
+
+URL: https://beyondelevation.com/insights/ip-strategy-startup-pivot
+
+Seventy-three percent of funded startups pivot at least once before finding product-market fit, according to a 2025 Startup Genome study. The day they pivot, every patent claim they filed is still pointed at the old product, the old market, the old competitive set. According to Hayat Amin, the IP strategist who has restructured portfolios through more than a dozen pivots, the patent portfolio is the last thing founders update and the first thing investors check. The result is predictable: a startup walks into a Series A pitch with patents that protect a product it no longer sells.
+
+Beyond Elevation sees this pattern repeat every quarter. A deep-tech startup pivots from hardware to SaaS, or from B2C to B2B, or from one vertical to another. The engineering team rebuilds the product in weeks. The IP portfolio sits unchanged for months. By the time the next funding round arrives, the due diligence reveals a patent portfolio that is a museum exhibit — technically impressive, commercially irrelevant.
+
+## Why Does a Startup Pivot Break Your IP Strategy?
+
+A startup pivot breaks your IP strategy because patent claims are written against specific technical implementations, specific use cases, and specific markets. When the product changes, the claims do not change with it. A patent that covered a novel sensor-fusion algorithm for autonomous drones does not automatically cover the same algorithm repurposed for warehouse robotics. The claims may be broad enough to stretch — or they may n
+
+---
