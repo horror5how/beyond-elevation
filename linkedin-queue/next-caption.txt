@@ -1,15 +1,21 @@
-Your AI workflows have no documentation.
+Most founders think exit prep starts when the bankers call.
 
-73% will break when the person who built them leaves.
+It starts 18 months before that.
 
-The rebuild cost: 6x the original build, plus 90 days of lost output.
+The day a buyer opens your data room, your finance function is either your biggest asset or your biggest problem.
 
-You didn't build AI operations.
+4 moves that determine your exit multiple before a banker is hired:
 
-You built a key-person dependency that runs on prompts.
+Clean books, no restatements — saves 2–6 months of due diligence
 
-AI Operations means documented, owned, testable workflows.
+3 years of board-quality management accounts — buyers pay for certainty
 
-Not tools held together by one person's memory.
+EBITDA addbacks documented before you need them — undocumented ones get cut 50%
 
-#AIOperations #FractionalExecutive #OperationsLeadership
+Working capital dialled in — buyers discount 25% for cash risk
+
+Your multiple is built now.
+
+Not in the data room.
+
+#FractionalCFO #ExitReadiness #MandA
