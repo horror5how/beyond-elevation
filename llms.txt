@@ -595,5 +595,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [What Does a Fractional Executive Actually Do All Week? A Real Schedule, Not a Sales Pitch](https://beyondelevation.com/insights/what-does-a-fractional-executive-do-all-week) — /insights/md/what-does-a-fractional-executive-do-all-week.md
 - [Fractional CFO for PE Portfolio Companies: The Sponsor's Finance Audit Your Controller Will Fail](https://beyondelevation.com/insights/fractional-cfo-pe-portfolio-company) — /insights/md/fractional-cfo-pe-portfolio-company.md
 - [The 2027 AI Operations Budget: What to Fund, What to Cut, and What Most Companies Overspend On](https://beyondelevation.com/insights/ai-operations-budget-2027) — /insights/md/ai-operations-budget-2027.md
+- [Your 2027 Fractional Executive Budget: Three Operators for Less Than One Full-Time Hire](https://beyondelevation.com/insights/fractional-executive-budget-2027) — /insights/md/fractional-executive-budget-2027.md
 
 > Full blog content available at /llms-full.txt
