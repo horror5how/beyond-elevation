@@ -10116,3 +10116,19 @@ Most frameworks stop at adoption metrics: users, sessions, tools purchased. That
 ## Where Does Your Comp
 
 ---
+
+## The CFO Role Is Splitting in Two. Most Companies Are Hiring for the Wrong Half.
+
+URL: https://beyondelevation.com/insights/cfo-role-ai-era-split
+
+The average CFO spends 60% of their week on work that AI already does faster, cheaper, and with fewer errors. According to a 2026 Gartner survey, 61% of finance leaders report that AI tools now handle the majority of their reconciliation, reporting, and compliance monitoring tasks. The companies that have figured this out are not eliminating the CFO. They are freeing the role to do the only work that actually moves the valuation needle.
+
+Hayat Amin argues that this is the biggest structural shift in the finance function since the spreadsheet replaced the ledger book. The CFO role is splitting into two distinct jobs — an execution layer that machines now own and a decision layer that is more valuable than ever. Most companies are still hiring for the execution half. That is a seven-figure mistake.
+
+## What Does AI Actually Replace in the CFO Role?
+
+AI replaces the repeatable, rules-based work that used to consume most of a CFO's calendar — reconciliation, variance analysis, expense categorisation, invoice processing, and compliance reporting. These tasks are now handled by agents that run continuously, cost a fraction of a finance hire, and produce fewer errors than manual processes.
+
+The shift is not theoretical. Companies running AI-native finance stacks report 70% fewer hours spent on month-end close, near-zero manual reconciliation errors, and real-time cash visibility that used to require a weekly analyst sprint. The operational CFO — the one who spent Monday pulling repo
+
+---
