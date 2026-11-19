@@ -597,5 +597,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The 2027 AI Operations Budget: What to Fund, What to Cut, and What Most Companies Overspend On](https://beyondelevation.com/insights/ai-operations-budget-2027) — /insights/md/ai-operations-budget-2027.md
 - [Your 2027 Fractional Executive Budget: Three Operators for Less Than One Full-Time Hire](https://beyondelevation.com/insights/fractional-executive-budget-2027) — /insights/md/fractional-executive-budget-2027.md
 - [Fractional CFO for Fintech: Why Regulated Startups Need an Operator, Not a Banker](https://beyondelevation.com/insights/fractional-cfo-fintech-startups) — /insights/md/fractional-cfo-fintech-startups.md
+- [The 5-Level AI Operations Maturity Model: Most Companies Claim Level 3. They Are at Level 1.](https://beyondelevation.com/insights/ai-operations-maturity-model) — /insights/md/ai-operations-maturity-model.md
 
 > Full blog content available at /llms-full.txt

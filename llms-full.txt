@@ -10096,3 +10096,23 @@ According to a 2025 CB Insights post-mortem analysis, 38 percent of failed finte
 Most fintech startups hire their first CFO from a bank or a Big Four firm, and the mismatch kills the hire within 18 months. The gap is structural: bank CFOs build for certainty, startup CFOs build for speed, and fintech demands both simultaneously. A banker who has never closed a ve
 
 ---
+
+## The 5-Level AI Operations Maturity Model: Most Companies Claim Level 3. They Are at Level 1.
+
+URL: https://beyondelevation.com/insights/ai-operations-maturity-model
+
+72% of companies describe their AI maturity as intermediate or higher, according to MIT Sloan's 2026 AI adoption survey. Fewer than 15% have a single AI workflow running in production without daily human intervention. That gap is not a measurement error. It is delusion — and it is where AI budgets disappear.
+
+Hayat Amin argues this is the most expensive blind spot in modern operations: companies spending six figures on AI tools while operating at Level 1 of the AI operations maturity model. Beyond Elevation sees it in every diagnostic — the CEO who says "we use AI" and the ops team that opens ChatGPT when they remember the password.
+
+Here is the framework that tells you exactly where you sit, what each level costs, and what it takes to move up.
+
+## What Is an AI Operations Maturity Model?
+
+An AI operations maturity model is a five-level scoring framework that measures how deeply AI is embedded in your business operations — from individual tool use to fully autonomous agent-driven workflows. It tells you where you sit today, what the next level looks like, and what it costs to get there.
+
+Most frameworks stop at adoption metrics: users, sessions, tools purchased. That measures gym memberships, not fitness. The AI operations maturity model measures outcomes — how many processes run on AI without human initiation, how many decisions are AI-informed, and what percentage of your operations budget flows through automated workflows rather than manual labour.
+
+## Where Does Your Comp
+
+---
