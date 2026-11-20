@@ -1,17 +1,20 @@
-Your AI workflow broke 3 weeks ago.
+6 weeks to year-end.
 
-Nobody noticed.
+The average UK SME has £180,000 in SaaS and software subscriptions.
 
-The reports are still sending. The numbers are wrong. The team assumes it is working because nothing crashed.
+94% of founders cannot name which ones auto-renew in January.
 
-Silent failure is the most expensive failure mode in AI operations.
+The contracts were signed 12 months ago.
+Most renew for another year with no negotiation window.
+The window is now. Not January 2nd.
 
-You cannot fix what you cannot see.
+Your CFO's job this week: pull every contract with a renewal date in Q1 2027.
+Renegotiate the ones you use.
+Cancel the ones you don't.
+Add a 90-day break clause to every new contract from January.
 
-Most AI rollouts have no monitoring, no ownership and no audit cycle. So errors compound quietly while your business makes decisions on bad data.
+£180,000 annual spend. 2 days to audit it.
 
-That is not a technology problem. That is an operations problem.
+That is what a fractional CFO actually does.
 
-Build the AI. Then build the system that watches the AI.
-
-#AIOperations #AI #FractionalExecutive
+#FractionalCFO #FinanceLeadership #AIOperations
