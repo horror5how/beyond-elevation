@@ -1,22 +1,17 @@
-Your competitor received £750,000 from Innovate UK this year.
+Your AI workflow broke 3 weeks ago.
 
-You didn't apply.
+Nobody noticed.
 
-Innovate UK rejects 68% of applications.
+The reports are still sending. The numbers are wrong. The team assumes it is working because nothing crashed.
 
-The technical section rarely fails.
+Silent failure is the most expensive failure mode in AI operations.
 
-The financial viability section almost always does.
+You cannot fix what you cannot see.
 
-What assessors want to see:
-— 3-year monthly forecast with assumptions
-— Gross margin pathway to breakeven
-— Market sizing with methodology, not TAM/SAM/SOM boxes
+Most AI rollouts have no monitoring, no ownership and no audit cycle. So errors compound quietly while your business makes decisions on bad data.
 
-A fractional CFO prepares that model in 6 weeks.
+That is not a technology problem. That is an operations problem.
 
-The grant is free capital.
+Build the AI. Then build the system that watches the AI.
 
-The model is what unlocks it.
-
-#FractionalCFO #InnovateUK #Founders
+#AIOperations #AI #FractionalExecutive
