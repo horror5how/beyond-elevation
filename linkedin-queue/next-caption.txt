@@ -1,21 +1,22 @@
-42 days to year-end.
+Your competitor received £750,000 from Innovate UK this year.
 
-Most founders have 3 IP deadlines passing quietly in December.
+You didn't apply.
 
-They find out in January. It costs 10x to fix.
+Innovate UK rejects 68% of applications.
 
-4 IP moves before year-end:
+The technical section rarely fails.
 
-1. Renewal audit. Any patent, trademark or design right due in 90 days?
+The financial viability section almost always does.
 
-2. Chain of title check. Does your company own what it thinks it owns? One unsigned contractor agreement breaks this.
+What assessors want to see:
+— 3-year monthly forecast with assumptions
+— Gross margin pathway to breakeven
+— Market sizing with methodology, not TAM/SAM/SOM boxes
 
-3. Licensing review. Minimum guarantees. Notice periods. December is when these trigger.
+A fractional CFO prepares that model in 6 weeks.
 
-4. Trade secret log. What know-how did your team share with AI tools this year? Courts ruled it unprotectable.
+The grant is free capital.
 
-November is 3 hours of work.
+The model is what unlocks it.
 
-January is a 6-figure repricing in due diligence.
-
-#IPStrategy #Founders #ExitReadiness
+#FractionalCFO #InnovateUK #Founders
