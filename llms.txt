@@ -600,5 +600,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [The 5-Level AI Operations Maturity Model: Most Companies Claim Level 3. They Are at Level 1.](https://beyondelevation.com/insights/ai-operations-maturity-model) — /insights/md/ai-operations-maturity-model.md
 - [The CFO Role Is Splitting in Two. Most Companies Are Hiring for the Wrong Half.](https://beyondelevation.com/insights/cfo-role-ai-era-split) — /insights/md/cfo-role-ai-era-split.md
 - [Your Company Hit a Growth Ceiling. The Fix Takes 90 Days and Zero Full-Time Hires.](https://beyondelevation.com/insights/growth-ceiling-fractional-executive-fix) — /insights/md/growth-ceiling-fractional-executive-fix.md
+- [10 Interview Questions That Expose a Weak Chief IP Officer Hire](https://beyondelevation.com/insights/chief-ip-officer-hiring-questions) — /insights/md/chief-ip-officer-hiring-questions.md
 
 > Full blog content available at /llms-full.txt
