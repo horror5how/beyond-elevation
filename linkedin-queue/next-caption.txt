@@ -1,20 +1,19 @@
-6 weeks to year-end.
+Your competitor filed 23 patents last quarter.
 
-The average UK SME has £180,000 in SaaS and software subscriptions.
+You filed 0.
 
-94% of founders cannot name which ones auto-renew in January.
+That is not a legal problem.
 
-The contracts were signed 12 months ago.
-Most renew for another year with no negotiation window.
-The window is now. Not January 2nd.
+That is a valuation problem.
 
-Your CFO's job this week: pull every contract with a renewal date in Q1 2027.
-Renegotiate the ones you use.
-Cancel the ones you don't.
-Add a 90-day break clause to every new contract from January.
+Patent velocity is a signal VC and acquirers use to price defensibility.
 
-£180,000 annual spend. 2 days to audit it.
+3 filings a quarter: table stakes.
+10 a quarter: you have a moat.
+0: you are building on sand.
 
-That is what a fractional CFO actually does.
+A Chief IP Officer watches competitor filings weekly and translates them into your strategy.
 
-#FractionalCFO #FinanceLeadership #AIOperations
+Your lawyer does not do this. That is not their brief.
+
+#IPStrategy #Patents #ChiefIPOfficer
