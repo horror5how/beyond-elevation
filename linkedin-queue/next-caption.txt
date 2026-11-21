@@ -1,19 +1,13 @@
-Your competitor filed 23 patents last quarter.
+Your back office runs on 11 people.
 
-You filed 0.
+It should run on 2 and a stack of agents.
 
-That is not a legal problem.
+Invoice processing. Expense management. AP reconciliation. Month-end prep.
 
-That is a valuation problem.
+All automatable. Most UK companies have not started.
 
-Patent velocity is a signal VC and acquirers use to price defensibility.
+The ones that have are running 60% leaner on back-office headcount.
 
-3 filings a quarter: table stakes.
-10 a quarter: you have a moat.
-0: you are building on sand.
+This is not 2030. This is now.
 
-A Chief IP Officer watches competitor filings weekly and translates them into your strategy.
-
-Your lawyer does not do this. That is not their brief.
-
-#IPStrategy #Patents #ChiefIPOfficer
+#AIOperations #FractionalCFO #Automation
