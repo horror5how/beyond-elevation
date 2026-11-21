@@ -603,5 +603,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [10 Interview Questions That Expose a Weak Chief IP Officer Hire](https://beyondelevation.com/insights/chief-ip-officer-hiring-questions) — /insights/md/chief-ip-officer-hiring-questions.md
 - [AI Technical Debt Doubles Your AI Budget in Year Two. Here Is the Audit That Stops It.](https://beyondelevation.com/insights/ai-technical-debt-doubles-spend-year-two) — /insights/md/ai-technical-debt-doubles-spend-year-two.md
 - [Startup Treasury Management Is Not a Series C Problem. It Is Week-One CFO Work.](https://beyondelevation.com/insights/startup-treasury-management-cfo) — /insights/md/startup-treasury-management-cfo.md
+- [Why Fractional Executives Underperform: 5 CEO Mistakes That Waste the Retainer](https://beyondelevation.com/insights/why-fractional-executives-underperform) — /insights/md/why-fractional-executives-underperform.md
 
 > Full blog content available at /llms-full.txt
