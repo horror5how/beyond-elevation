@@ -41,7 +41,7 @@ Beyond Elevation's AI operations engagements consistently uncover five categorie
 
 **2. Pipeline rot.** Data pipelines that fed training and inference break silently when upstream schemas change, APIs update, or data sources go offline. The model continues to produce outputs — they are just wrong. Pipeline rot is the most expensive form of AI technical debt because it generates confidently incorrect results that your team acts on.
 
-**3. Prompt sprawl.** Teams using large language models accumulate hundreds of prompt variants across departments with no central registry, no version control, and no performance measurement. When one prompt degrades, nobody notices because nobody owns it. Hayat Amin’s AI operations audits routinely find companies running over 300 active prompts with no documentation on which ones work and which ones were abandoned mid-experiment.
+**3. Prompt sprawl.** Teams using large language models accumulate hundreds of prompt variants across departments with no central registry, no version control, and no performance measurement. When one prompt degrades, nobody notices because nobody owns it. Beyond Elevation’s AI operations audits routinely find companies running over 300 active prompts with no documentation on which ones work and which ones were abandoned mid-experiment.
 
 **4. Abandoned experiment cost.** AI development involves continuous experimentation. Fine-tuning runs, API subscriptions, staging environments, and test deployments accumulate over months. Most are never formally decommissioned. They continue consuming compute, storage, and API credits long after the experiment concluded. Beyond Elevation’s audits routinely find 15 to 25 percent of a company’s AI infrastructure spend going to systems nobody is using.
 
