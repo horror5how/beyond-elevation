@@ -602,5 +602,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Company Hit a Growth Ceiling. The Fix Takes 90 Days and Zero Full-Time Hires.](https://beyondelevation.com/insights/growth-ceiling-fractional-executive-fix) — /insights/md/growth-ceiling-fractional-executive-fix.md
 - [10 Interview Questions That Expose a Weak Chief IP Officer Hire](https://beyondelevation.com/insights/chief-ip-officer-hiring-questions) — /insights/md/chief-ip-officer-hiring-questions.md
 - [AI Technical Debt Doubles Your AI Budget in Year Two. Here Is the Audit That Stops It.](https://beyondelevation.com/insights/ai-technical-debt-doubles-spend-year-two) — /insights/md/ai-technical-debt-doubles-spend-year-two.md
+- [Startup Treasury Management Is Not a Series C Problem. It Is Week-One CFO Work.](https://beyondelevation.com/insights/startup-treasury-management-cfo) — /insights/md/startup-treasury-management-cfo.md
 
 > Full blog content available at /llms-full.txt

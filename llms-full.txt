@@ -10182,3 +10182,21 @@ AI technical debt is the accumulated cost of shortcuts, unmaintained systems, an
 Google researchers coined the term in a landmark 2015 NeurIPS paper, *Hidden Technical Debt in Machine Learning Systems*, identifying over a dozen failure modes unique to AI. A decade later, most companies deploying AI still have no system for tracking any of th
 
 ---
+
+## Startup Treasury Management Is Not a Series C Problem. It Is Week-One CFO Work.
+
+URL: https://beyondelevation.com/insights/startup-treasury-management-cfo
+
+Your startup raised $2M and deposited it in one bank account. No sweep. No counterparty diversification. No yield. No written policy. That is not startup treasury management. It is a cheque waiting to bounce the month a wire gets stuck.
+
+Hayat Amin, who has built startup treasury management systems across three prior exits, argues the problem is simpler than founders make it: nobody on the team owns cash. According to the Federal Reserve's 2023 Small Business Credit Survey, 48% of firms with under $5M in revenue have no formal cash management procedures. For venture-backed startups, the number is worse. Most operate with zero treasury controls until a CFO shows up and builds them from scratch.
+
+## What Is Startup Treasury Management?
+
+Startup treasury management is the system that controls where your cash sits, what it earns, how fast you can access it, and what happens if one counterparty fails. It is not a spreadsheet. It is a policy, a set of accounts, and a weekly rhythm a fractional CFO runs alongside the rest of the finance function.
+
+When Silicon Valley Bank collapsed in March 2023, an estimated 2,500 startups discovered their entire operating cash was concentrated in a single counterparty with 93% of deposits uninsured. The startups that survived had one thing in common: a treasury structure that distributed cash across multiple banks and instruments before the crisis hit.
+
+At Beyond Elevation, the first thing a fractional CFO builds is exactly this structure. Not bec
+
+---
