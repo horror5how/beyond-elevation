@@ -605,5 +605,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Startup Treasury Management Is Not a Series C Problem. It Is Week-One CFO Work.](https://beyondelevation.com/insights/startup-treasury-management-cfo) — /insights/md/startup-treasury-management-cfo.md
 - [Why Fractional Executives Underperform: 5 CEO Mistakes That Waste the Retainer](https://beyondelevation.com/insights/why-fractional-executives-underperform) — /insights/md/why-fractional-executives-underperform.md
 - [AI Operations Costs 3x What the Vendor Quoted. Here Is Where the Real Budget Goes.](https://beyondelevation.com/insights/ai-operations-real-cost-breakdown) — /insights/md/ai-operations-real-cost-breakdown.md
+- [You Do Not Need Revenue to Need a Fractional CFO: The Pre-Seed Hire That Closes Rounds Faster](https://beyondelevation.com/insights/fractional-cfo-pre-seed-founders) — /insights/md/fractional-cfo-pre-seed-founders.md
 
 > Full blog content available at /llms-full.txt
