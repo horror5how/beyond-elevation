@@ -10250,3 +10250,21 @@ The deliverables are specific: cap table modelling, financial projections, unit 
 The mistake most founders mak
 
 ---
+
+## Your Engineers Created 47 Patentable Ideas Last Year. You Filed 3. Here Is the Triage System That Decides Which Ones Actually Matter.
+
+URL: https://beyondelevation.com/insights/patent-triage-system-filing-priority
+
+Most companies file patents based on what their engineers think is clever. That is the wrong filter. The right filter is what an acquirer, investor, or licensee would pay for. The gap between clever and commercially valuable is where patent budgets get wasted and real IP opportunities get missed.
+
+Hayat Amin argues that the patent filing decision is the highest-leverage IP decision a company makes — and most companies delegate it to the wrong person. According to the 2025 WIPO Global Innovation Index, patent filing costs increased 18% year over year while the percentage of patents generating licensing revenue held flat at roughly 5%. Companies are spending more to file patents that earn nothing. A triage system fixes this.
+
+## Why Do Most Companies File the Wrong Patents?
+
+Most companies file the wrong patents because they confuse technical novelty with commercial value. An invention can be genuinely new and still worth nothing as a patent — if no competitor needs to use the technique, no licensee will pay for it, and no acquirer will price it into their offer.
+
+The root cause is process. In most organisations, the patent filing pipeline starts with an engineer writing an invention disclosure, a patent attorney reviewing it for novelty and non-obviousness, and a decision-maker approving the filing based on legal merit. Notice what is missing: nobody asks whether this patent will generate revenue, block a competitor, or increase the company's exit multiple.
+
+Hayat Amin's view 
+
+---

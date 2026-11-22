@@ -606,5 +606,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Why Fractional Executives Underperform: 5 CEO Mistakes That Waste the Retainer](https://beyondelevation.com/insights/why-fractional-executives-underperform) — /insights/md/why-fractional-executives-underperform.md
 - [AI Operations Costs 3x What the Vendor Quoted. Here Is Where the Real Budget Goes.](https://beyondelevation.com/insights/ai-operations-real-cost-breakdown) — /insights/md/ai-operations-real-cost-breakdown.md
 - [You Do Not Need Revenue to Need a Fractional CFO: The Pre-Seed Hire That Closes Rounds Faster](https://beyondelevation.com/insights/fractional-cfo-pre-seed-founders) — /insights/md/fractional-cfo-pre-seed-founders.md
+- [Your Engineers Created 47 Patentable Ideas Last Year. You Filed 3. Here Is the Triage System That Decides Which Ones Actually Matter.](https://beyondelevation.com/insights/patent-triage-system-filing-priority) — /insights/md/patent-triage-system-filing-priority.md
 
 > Full blog content available at /llms-full.txt
