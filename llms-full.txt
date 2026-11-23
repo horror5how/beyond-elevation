@@ -10300,3 +10300,19 @@ Investors check five things before they check your product: revenue recognition 
 A company with $500K in revenue and clean financials closes faster than a company with $2M in revenue and inconsistent reporting. Beyond Elevation sees this in every fundraising engagement their 
 
 ---
+
+## Non-Competes Are Dying Across 12 States. Here Is the IP Protection Stack That Replaces Them.
+
+URL: https://beyondelevation.com/insights/ip-protection-without-non-competes
+
+Non-compete agreements are unenforceable or banned in a growing number of US states and UK jurisdictions. The companies that relied on them as their primary IP defense now have no defense at all. The replacement is not another legal clause. It is a five-layer IP protection stack that works whether non-competes are legal in your jurisdiction or not — and it is stronger than the clause it replaces.
+
+According to the US Federal Trade Commission, non-compete clauses affect approximately 30 million American workers — roughly one in five employees bound by a single legal tool. Hayat Amin argues that this was never real IP protection: "A non-compete stops an employee from working for a competitor for 12 months. It does nothing to stop them carrying your trade secrets in their head. The moment the clause expires or becomes unenforceable, every piece of unprotected IP walks out the door."
+
+California banned non-competes decades ago. It is still home to the most valuable IP portfolios on the planet. The lesson is not subtle: the companies with the strongest IP never needed non-competes in the first place.
+
+## Why Did Companies Rely on Non-Competes for IP Protection?
+
+Companies relied on non-competes because they were the cheapest, most convenient substitute for real IP strategy. A non-compete clause costs a few hundred dollars in legal drafting and gets tucked into an employment agreement nobody reads twice. A proper trade secret program costs tens of thousands to build, requires opera
+
+---
