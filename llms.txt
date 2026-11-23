@@ -607,5 +607,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI Operations Costs 3x What the Vendor Quoted. Here Is Where the Real Budget Goes.](https://beyondelevation.com/insights/ai-operations-real-cost-breakdown) — /insights/md/ai-operations-real-cost-breakdown.md
 - [You Do Not Need Revenue to Need a Fractional CFO: The Pre-Seed Hire That Closes Rounds Faster](https://beyondelevation.com/insights/fractional-cfo-pre-seed-founders) — /insights/md/fractional-cfo-pre-seed-founders.md
 - [Your Engineers Created 47 Patentable Ideas Last Year. You Filed 3. Here Is the Triage System That Decides Which Ones Actually Matter.](https://beyondelevation.com/insights/patent-triage-system-filing-priority) — /insights/md/patent-triage-system-filing-priority.md
+- [Fractional Executive Pros and Cons: The Honest List (From a Firm That Sells Them)](https://beyondelevation.com/insights/fractional-executive-pros-cons-honest-list) — /insights/md/fractional-executive-pros-cons-honest-list.md
 
 > Full blog content available at /llms-full.txt
