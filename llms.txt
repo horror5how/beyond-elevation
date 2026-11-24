@@ -610,5 +610,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional Executive Pros and Cons: The Honest List (From a Firm That Sells Them)](https://beyondelevation.com/insights/fractional-executive-pros-cons-honest-list) — /insights/md/fractional-executive-pros-cons-honest-list.md
 - [5 Financial Red Flags That Kill Your Fundraise Before the Product Demo](https://beyondelevation.com/insights/financial-red-flags-kill-fundraise) — /insights/md/financial-red-flags-kill-fundraise.md
 - [Non-Competes Are Dying Across 12 States. Here Is the IP Protection Stack That Replaces Them.](https://beyondelevation.com/insights/ip-protection-without-non-competes) — /insights/md/ip-protection-without-non-competes.md
+- [Freelance forward deployed engineer: when to hire one, what it costs and how to own the work](https://beyondelevation.com/insights/freelance-forward-deployed-engineer) — /insights/md/freelance-forward-deployed-engineer.md
 
 > Full blog content available at /llms-full.txt

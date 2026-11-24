@@ -10316,3 +10316,31 @@ California banned non-competes decades ago. It is still home to the most valuabl
 Companies relied on non-competes because they were the cheapest, most convenient substitute for real IP strategy. A non-compete clause costs a few hundred dollars in legal drafting and gets tucked into an employment agreement nobody reads twice. A proper trade secret program costs tens of thousands to build, requires opera
 
 ---
+
+## Freelance forward deployed engineer: when to hire one, what it costs and how to own the work
+
+URL: https://beyondelevation.com/insights/freelance-forward-deployed-engineer
+
+A freelance forward deployed engineer is the right hire when you have one AI job with a clear finish line, like a stuck pilot that has to reach production, and you can own the result once they leave. It's the wrong hire when the work will run for a year or crosses every system you have.
+
+Hayat Amin wrote this. He spent twenty years in technology as a CFO, sold three companies, and now works as a forward deployed engineer, building the AI operations himself inside companies whose systems don't talk to each other.
+
+## What a freelance forward deployed engineer does for you
+
+A forward deployed engineer sits inside your company, learns the process, and builds the AI into the systems you already run. A freelancer does that as one independent person, on a contract, usually by the hour or the day. You get a senior builder without a recruiter fee, a notice period or a salary on the books.
+
+The trade is concentration. Everything the freelancer knows about your build lives in one head. If they get ill, take a bigger client or finish the contract, the knowledge goes with them unless you planned for it on day 1. Most of this piece is about that plan.
+
+## When a freelancer is the right call, and when it isn't
+
+I'd hire a freelance FDE in these cases:
+
+- One defined job: get one pilot into production, connect 2 systems, or build one agent with a test you can check.
+
+- A finish line inside 8 to 12 weeks.
+
+- Someone on your side, even part time, who'll own the system after handover.
+
+- Clean
+
+---
