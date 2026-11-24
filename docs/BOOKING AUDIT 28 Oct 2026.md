@@ -66,3 +66,11 @@ Fixed (pushed to main 9 Nov 2026, checked with `node --check` and `node -e`):
 | low | `assets/book.js:78` | December's Next built "2026-01-01" and was always enabled. Real Date step; `book.js?v=8` | 14446d9e |
 
 Still open: `/api/book` rate limit (needs a store; none in this repo); B17 (cap counted from mailed confirmations, `lib/booking.js:221`); B22 (slots and submit read settings separately); the daily cap stops counting a meeting once it has ended and switches off when the Gmail search fails.
+
+## cto-weekly, 24 Nov 2026
+
+Live at the start: `/api/slots?s=call` 587 slots in Asia/Dubai (first 24 Nov 10:30 UTC, last 24 Dec 18:30 UTC = 22:30 Dubai, matching the link's 09:00-23:00 hours), `/call` 200 with `book.js?v=8`, deploys green, Mail HQ settings URL answers 200. One engine change since 9 Nov (272b1197, call brief started after a booking: awaited with a 4 s timeout, its failure only logged). Nothing broken found; no code change this week.
+
+Note for Hayat (not a code fault): Mail HQ moved its home zone to Cape Town on 19 Nov, but both links have no zone of their own, so the engine uses his Google Calendar's zone, which is still Asia/Dubai. The page therefore offers 09:00-23:00 Dubai, which is 07:00-21:00 in Cape Town. Changing the calendar's zone in Google, or setting a zone on the link in Mail HQ, moves it; this pass changes no settings.
+
+Still open: `/api/book` rate limit (needs a store); B17 (cap counted from mailed confirmations, `lib/booking.js:221`, latent while both links have no daily cap); B22 (slots and submit read settings separately, `lib/booking.js:459`: on a cold instance with Mail HQ unreachable the submit checks against built-in 09:00-18:00 and can refuse an evening slot as taken); the daily cap stops counting a meeting once it has ended and switches off when the Gmail search fails (latent, no cap set).
