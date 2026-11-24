@@ -612,5 +612,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Non-Competes Are Dying Across 12 States. Here Is the IP Protection Stack That Replaces Them.](https://beyondelevation.com/insights/ip-protection-without-non-competes) — /insights/md/ip-protection-without-non-competes.md
 - [Freelance forward deployed engineer: when to hire one, what it costs and how to own the work](https://beyondelevation.com/insights/freelance-forward-deployed-engineer) — /insights/md/freelance-forward-deployed-engineer.md
 - [Fractional CFO Cash Management: The 60-Day Fix for Companies Growing Into a Cash Crisis](https://beyondelevation.com/insights/fractional-cfo-cash-management) — /insights/md/fractional-cfo-cash-management.md
+- [The Fractional C-Suite: Why One Operator Changes Nothing and Three Change Everything](https://beyondelevation.com/insights/fractional-c-suite-three-role-stack) — /insights/md/fractional-c-suite-three-role-stack.md
 
 > Full blog content available at /llms-full.txt
