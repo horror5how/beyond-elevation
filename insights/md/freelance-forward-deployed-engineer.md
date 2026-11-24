@@ -13,13 +13,13 @@ A freelance forward deployed engineer is the right hire when you have one AI job
 
 Hayat Amin wrote this. He spent twenty years in technology as a CFO, sold three companies, and now works as a forward deployed engineer, building the AI operations himself inside companies whose systems don't talk to each other.
 
-## What a freelance forward deployed engineer does for you
+## The job of a freelance forward deployed engineer
 
 A forward deployed engineer sits inside your company, learns the process, and builds the AI into the systems you already run. A freelancer does that as one independent person, on a contract, usually by the hour or the day. You get a senior builder without a recruiter fee, a notice period or a salary on the books.
 
 The trade is concentration. Everything the freelancer knows about your build lives in one head. If they get ill, take a bigger client or finish the contract, the knowledge goes with them unless you planned for it on day 1. Most of this piece is about that plan.
 
-## When a freelancer is the right call, and when it isn't
+## The right time to hire a freelancer, and the wrong time
 
 I'd hire a freelance FDE in these cases:
 
@@ -39,7 +39,7 @@ I wouldn't, in these:
 
 - The board wants a plan as well as a build. A freelancer builds what you scope. They don't usually write the scope.
 
-## What a freelance forward deployed engineer costs in the US
+## The cost of a freelance forward deployed engineer in the US
 
 Nobody publishes an FDE freelance rate card, so the nearest benchmark is the AI engineer one. Second Talent's US table, dated September 2026, puts freelance AI engineers at $95 to $142 an hour for junior, $119 to $185 for mid level and $155 to $235 for senior. An FDE job wants the senior band, because the person has to talk to your operators as well as write the code.
 
@@ -51,13 +51,13 @@ The full time route costs more and takes longer. Paraform's October 2026 guide p
 
 ### 1. Who owns the code
 
-This is the one most founders get wrong. Under US copyright law, work an employee creates in their regular duties belongs to the employer. Work from an independent contractor is different. The US Copyright Office's Circular 30 says commissioned work only counts as a work made for hire if it falls in one of 9 listed categories, like a translation or a compilation, and both sides sign a written agreement saying so. Custom software isn't on that list by name. So "work for hire" in a freelance contract may not do what you think. Put a signed assignment of copyright and inventions in the contract as well, and have your lawyer read it before the first commit.
+This is the one most founders get wrong. Under US copyright law, work an employee creates in their regular duties belongs to the employer. Work from an independent contractor is different. The US Copyright Office's Circular 30 says commissioned work only counts as a work made for hire if it falls in one of 9 listed categories, like a translation or a compilation, and both sides sign a written agreement saying so. Custom software isn't on that list by name. That means "work for hire" in a freelance contract may not do what you think. Put a signed assignment of copyright and inventions in the contract as well, and have your lawyer read it before the first commit.
 
 ### 2. Whether they're a contractor at all
 
 The IRS looks at 3 kinds of evidence: behavioural control (do you direct how the work gets done), financial control (who pays expenses, who supplies the tools) and the type of relationship (benefits, an ongoing arrangement, work central to the business). It says there's no set number of factors that decides it. If you set the freelancer's hours, give them a company laptop and keep them on for 18 months, you've built an employee with a contractor's paperwork. Scope by deliverable, let them use their own tools where you can, and put an end date in the contract. If you're unsure, Form SS-8 asks the IRS to decide, though the IRS says that can take at least 6 months.
 
-### 3. How the work survives the handover
+### 3. The work survives the handover
 
 Make it a condition of the last payment, not a favour. The code lives in your repository from day 1, under your account. Every API key and service account is yours, and you can revoke the freelancer's access in 10 minutes. The last week of the contract is documentation and a recorded walkthrough with the person who'll own it.
 
