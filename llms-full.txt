@@ -10376,3 +10376,19 @@ The maths is blunt. One full-time CFO costs £180,000 to £350,000 in salary bef
 A fractional C-suite is a coordinated group of two or three part-time senior executives who operate as a unified leadership team on a retained basis. Each executive covers a distinct function — typically finance, intellectual property, and AI operations — but they share a single reporting cadence, a common board pack, and an aligned set of priorities. Beyond Elevation structures every multi-role
 
 ---
+
+## How to Run an AI Operations Quarterly Review That Actually Saves Money
+
+URL: https://beyondelevation.com/insights/ai-operations-quarterly-review
+
+Most companies have between eight and fifteen AI projects running at any given time. According to Gartner's 2026 AI in the Enterprise survey, 54% of AI initiatives that reach pilot never progress to production — and 31% of those remain funded for over six months after they stall. That is not a technology problem. That is an operations problem. Hayat Amin argues that the fix is not better AI — it is a better review cadence. A single quarterly meeting, run correctly, catches the dead projects before they consume another quarter of budget.
+
+An AI operations quarterly review is a structured 90-minute meeting that evaluates every active AI initiative against three criteria — impact, adoption, and cost trajectory — and forces a keep, scale, or kill decision on each one. Beyond Elevation runs this process for portfolio companies, and the median finding in the first review is three dead projects still drawing compute and headcount.
+
+## Why Do Most Companies Skip the AI Operations Review?
+
+Most companies skip the AI operations review because nobody owns the AI portfolio end to end. Engineering owns the models. Product owns the features. Finance owns the budget. Nobody owns the operational layer that connects all three — the layer that answers whether this AI project is actually working, actually adopted, and actually worth what it costs to run.
+
+Without that owner, AI projects get reviewed the same way as software features: by shipping milestones. But an AI project that shipped is not
+
+---
