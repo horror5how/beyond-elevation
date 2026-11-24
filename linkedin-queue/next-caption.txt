@@ -1,16 +1,21 @@
-Your runway is 14 months.
+Your finance team is running 4 AI tools.
 
-Your investors think it's 18.
+They were each bought separately.
 
-The gap is not a fundraising problem.
-It is a finance function problem.
+None of them share data.
 
-A good CFO finds 4 months of runway in receivables timing, VAT refunds, and R&D tax credits most founders never claim on time.
+There is no audit trail.
 
-£140,000 sitting in HMRC.
-90-day debtors when 45 is achievable.
-Annual contracts billed upfront collecting dust.
+Nobody is measuring what they save.
 
-You are burning capital you already earned.
+That is not an AI strategy.
 
-#FractionalCFO #CFO #Finance
+That is £60,000 of spend with no owner.
+
+An AI Operations operator does one thing in the first 30 days: maps every AI tool your team uses and kills the ones delivering nothing.
+
+The average SME cuts 2 tools and recovers £38,000 in year one.
+
+Before you buy tool 5, wire the ones you have.
+
+#AIOperations #FractionalExecutive #Finance

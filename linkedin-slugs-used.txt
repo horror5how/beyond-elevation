@@ -897,3 +897,4 @@ ai-stack-refresh-q4-2026
 fractional-cfo-vs-full-time-cfo-2026
 ip-performance-metrics-ceo-2026
 burn-rate-runway-extension-cfo-2026
+agentic-ai-finance-team-2026
