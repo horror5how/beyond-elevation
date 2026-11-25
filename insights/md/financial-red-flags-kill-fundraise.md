@@ -15,7 +15,7 @@ According to DocSend's 2026 Fundraising Report, 41 percent of investors who pass
 
 ## What financial red flags do investors check first?
 
-Investors check five things before they check your product: revenue recognition consistency, customer concentration, burn efficiency, financial infrastructure maturity, and model-to-actual variance. Each tells the investor something about how the company operates, beyond how it performs. These financial red flags aren't about bad numbers. They're about numbers that don't match the story.
+Investors check five things before they check your product: revenue recognition consistency, customer concentration, burn efficiency, financial infrastructure maturity, and model-to-actual variance. Each tells the investor something about how the company operates, beyond how it performs. A financial red flag is a number that doesn't match the story the founder is telling, even when the number itself looks good.
 
 A company with $500K in revenue and clean financials closes faster than a company with $2M in revenue and inconsistent reporting. Beyond Elevation sees this in every fundraising engagement their fractional CFOs run: the investors who write the biggest cheques are the ones who trust the numbers most.
 
@@ -29,7 +29,7 @@ Hayat Amin's rule is blunt: "If your accountant cannot explain your revenue reco
 
 ## What does customer concentration do to your valuation multiple?
 
-Customer concentration, where a single customer accounts for more than 25 percent of revenue, directly reduces your valuation multiple because it converts revenue risk into counterparty risk. Investors aren't buying your revenue, they're buying the probability that revenue continues. Lose one customer that size and that probability drops fast.
+Customer concentration, where a single customer accounts for more than 25 percent of revenue, directly reduces your valuation multiple because it converts revenue risk into counterparty risk. Investors are buying the probability that your revenue continues. Lose one customer that size and that probability drops fast.
 
 According to Bain Capital's 2025 growth equity benchmark, companies with no customer representing more than 15 percent of revenue command valuation multiples 20 to 35 percent higher than companies with equivalent revenue but high concentration. The discount is applied before the conversation about growth rate even begins.
 
@@ -45,7 +45,7 @@ A fractional CFO builds the weekly burn reporting that keeps this number visible
 
 ## How does missing financial infrastructure signal founder quality?
 
-Missing financial infrastructure, no monthly close, no reporting the board can actually use, no documented financial policies, tells investors the founding team treats finance as an afterthought. These systems aren't expensive to build. Their absence shows how the founders make decisions, and what they think is worth building in the first place.
+Missing financial infrastructure, no monthly close, no reporting the board can use, no documented financial policies, tells investors the founding team treats finance as an afterthought. These systems aren't expensive to build. Their absence shows how the founders make decisions, and what they think is worth building in the first place.
 
 Investors who see no financial infrastructure read it one way: the founders don't know their own numbers well enough to run the business from them. If the CEO can't pull up last month's gross margin in 30 seconds, the investor assumes no one's managing margin at all.
 
@@ -55,7 +55,7 @@ A fractional CFO builds this in 60 to 90 days. Without one, most startups arrive
 
 ## What happens when your financial model doesn't match your actuals?
 
-A financial model that shows three million in projected revenue when actuals are tracking at 1.8 million is a credibility problem, not optimism. Investors compare the model to actuals as a test of forecasting ability, and a large variance in either direction tells them the management team doesn't understand its own business well enough to predict outcomes.
+A financial model that shows three million in projected revenue when actuals are tracking at 1.8 million is a credibility problem. Investors compare the model to actuals as a test of forecasting ability, and a large variance in either direction tells them the management team doesn't understand its own business well enough to predict outcomes.
 
 Hayat Amin proves this in every fundraising preparation engagement at Beyond Elevation: "I ask the founder for their financial model and their last three months of actuals. If the variance is more than 20 percent, we rebuild the model before we build the deck. No investor has ever said the problem was the forecast was too conservative. The problem is always that the forecast was not grounded in the operating data."
 
@@ -63,7 +63,7 @@ The discipline that fixes this is simple: update the model monthly against actua
 
 ## How do you fix financial red flags before the data room opens?
 
-You fix financial red flags with a structured Pre-Round Finance Diagnostic that audits all five red flag categories, produces a gap report with specific fixes, and builds a 60-day remediation timeline that completes before the first investor meeting. The sequence matters, clean the numbers, build the infrastructure, then open the data room.
+You fix financial red flags with a structured Pre-Round Finance Diagnostic that audits all five red flag categories, produces a gap report with specific fixes, and builds a 60-day remediation timeline that completes before the first investor meeting. The sequence matters: clean the numbers, build the infrastructure, then open the data room.
 
 Hayat Amin's Pre-Round Finance Diagnostic is the framework Beyond Elevation's fractional CFOs run in the first two weeks of every fundraising engagement. The cost of a fractional CFO running this diagnostic is a fraction of the valuation discount a single uncaught financial red flag imposes. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to find out which of these five red flags your data room is sending right now.
 

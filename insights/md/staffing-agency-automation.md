@@ -13,13 +13,13 @@ Staffing agency automation pays first where one piece of data gets typed twice. 
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO and sold three companies, so he reads a staffing agency by gross margin per placement, and he now builds the connections below inside companies himself as a forward deployed engineer.
 
-## Why staffing firms feel the double entry more than most
+## Staffing firms feel the double entry more than most
 
 Volume is the reason. The American Staffing Association says nearly 2.0 million temporary and contract employees worked for America's staffing companies in an average week in 2025, and that staffing companies hired 9.5 million temporary and contract employees over the year. Its last firm count, for 2021, was around 27,000 staffing and recruiting companies running close to 54,000 offices.
 
 Every one of those weekly workers produces a timesheet, a pay line and an invoice line. If a person touches each of those 3 by hand, the cost grows with every placement you win. The Bureau of Labor Statistics put the median wage for payroll and timekeeping clerks at $58,260 a year in May 2025. On a 2,080 hour year that's about $28 an hour, so 10 hours a week of rekeying costs roughly $280 a week, or about $14,600 a year, per person doing it. That's my arithmetic on the BLS median, not a survey, so time your own team before you trust it.
 
-## How I ranked the 9 systems
+## The way I ranked the 9 systems
 
 I ranked each connection on 3 tests. First, how often the data crosses the gap: every placement or every week beats once a quarter. Second, whether the gap holds up cash, like an invoice that can't go out until hours are matched. Third, whether the vendor already exposes the data through an API, webhooks or a built in integration, so the job is a connection and not a rebuild. The order is my judgement from the CFO's chair. Every product fact below was read on the vendor's or the government's own page on 25 November 2026, and none of the vendors paid to be here.
 
@@ -27,7 +27,7 @@ I ranked each connection on 3 tests. First, how often the data crosses the gap: 
 
 ### 1. The client's VMS (SAP Fieldglass, Beeline)
 
-Large clients release work through a vendor management system, and the requisition has to reach your ATS before a recruiter can work it. Beeline says its Supplier Network lets staffing suppliers "automate ATS/VMS workflows via secure APIs, manage job postings and candidate submissions, and reduce manual work". Bullhorn says it can "automatically load jobs directly into the Bullhorn ATS and send all your candidate data back to your VMS." If a coordinator still copies job orders out of a client portal each morning, this is the first connection to make. It's wrong for an agency whose clients don't use a VMS at all. Then the job order arrives by email, and the fix is an AI step that reads the email and drafts the job order.
+Large clients release work through a vendor management system, and the requisition has to reach your ATS before a recruiter can work it. Beeline says its Supplier Network lets staffing suppliers "automate ATS/VMS workflows via secure APIs, manage job postings and candidate submissions, and reduce manual work". Bullhorn says it can "automatically load jobs directly into the Bullhorn ATS and send all your candidate data back to your VMS." If a coordinator still copies job orders out of a client portal each morning, this is the first connection to make. That's wrong for an agency whose clients don't use a VMS at all. Then the job order arrives by email, and the fix is an AI step that reads the email and drafts the job order.
 
 ### 2. The ATS and CRM (Bullhorn)
 
@@ -55,7 +55,7 @@ Avionté says it processes $15B in payroll and 4.6M W2s a year, and runs recruit
 
 ### 8. Invoicing back to the client
 
-The invoice is the same hours at the bill rate. When it's built from the same approved timesheet that ran payroll, it can't disagree with the VMS, and it can go out the day the week closes. When it's typed separately, every mismatch becomes a dispute and every dispute is days added to the cash cycle. As a former CFO, this is the one I'd watch hardest, because a payroll you've funded and an invoice you haven't sent is the agency lending its client money.
+The invoice is the same hours at the bill rate. Built from the same approved timesheet that ran payroll, it can't disagree with the VMS, and it can go out the day the week closes. Typed separately, every mismatch becomes a dispute, and every dispute adds days to the cash cycle. As a former CFO, this is the one I'd watch hardest, because a payroll you've funded and an invoice you haven't sent means the agency is lending its client money.
 
 ### 9. Accounting and the live margin number (QuickBooks Online, NetSuite, a dashboard)
 

@@ -21,9 +21,9 @@ Companies relied on non-competes because they were the cheapest, most convenient
 
 Most startups chose the cheap path. They signed every employee to a non-compete, assumed the IP was locked down, and never built the systems that protect competitive knowledge. The assumption worked when non-competes were enforceable everywhere. That assumption no longer holds.
 
-The core problem: non-competes were always a time-delay mechanism, not a protection mechanism. They delayed a departing employee from competing, typically for 12 to 24 months. They did not prevent the employee from remembering your proprietary processes, your pricing strategy, your customer list, or the engineering decisions that make your product work. Once the non-compete window closed, everything that employee knew was fair game.
+The core problem: non-competes only ever delayed a departing employee, typically for 12 to 24 months. They never stopped that employee remembering your proprietary processes, your pricing strategy, your customer list, or the engineering decisions that make your product work. Once the window closed, everything the employee knew was fair game.
 
-Now that window is closing permanently. California, Colorado, Minnesota, North Dakota, Oklahoma, Washington DC, and several other states have banned or severely restricted non-competes. The UK has proposed limiting them to three months. The trend is global and irreversible.
+California, Colorado, Minnesota, North Dakota, Oklahoma, Washington DC, and several other states have banned or severely restricted non-competes. The UK has proposed limiting them to three months. More states and countries are moving the same way, not fewer.
 
 ## What does the post-non-compete IP protection stack look like?
 
@@ -39,21 +39,21 @@ The replacement for non-competes is a structured five-layer IP defence that prot
 
 **Layer 5: Exit IP protocols.** The moment an employee resigns, the IP protection clock starts. A proper exit protocol includes a trade secret reminder interview, what confidential information did you have access to?, plus a device and account audit, a signed acknowledgement of ongoing confidentiality obligations, and documented handoff of any IP work in progress. This is not a legal formality. It is the evidence you need if that employee shows up at a competitor three weeks later building suspiciously similar technology.
 
-## How a fractional Chief IP Officer builds this stack
+## Building the stack with a fractional Chief IP Officer
 
 A fractional Chief IP Officer builds the full five-layer stack in 60 to 90 days. The first two weeks are an audit, mapping what IP exists, who has access, and where the gaps are. Weeks three through six are the build: drafting the agreements, standing up the trade secret register, prioritising patent filings, and designing the disclosure workflow. Weeks seven through twelve are operationalisation, training the team, running the first round of invention disclosures, and stress-testing the exit protocol.
 
-Hayat Amin showed this sequence in a recent engagement where a Series B company had relied entirely on non-competes to protect its core algorithm. Their lead engineer resigned to join a direct competitor in California, where the non-compete was unenforceable, and at that point the company had no trade secret documentation, no patent protection on the algorithm, and no exit interview record. The cost of that gap was an 18-month legal fight and a seven-figure settlement that protected nothing.
+Hayat Amin ran this exact sequence in a recent engagement where a Series B company had relied entirely on non-competes to protect its core algorithm. Their lead engineer resigned to join a direct competitor in California, where the non-compete was unenforceable, and at that point the company had no trade secret documentation, no patent protection on the algorithm, and no exit interview record. The cost of that gap was an 18-month legal fight and a seven-figure settlement that protected nothing.
 
 "The companies that treat non-competes as IP protection are the same ones that treat an NDA as a sales contract," Hayat Amin says. "It is a piece of paper that makes you feel safe. It does not make you safe."
 
 The investment to build this stack with a fractional CIPO runs between £4,000 and £8,000 per month, a fraction of a single trade secret litigation. Beyond Elevation places operators who have built these systems across multiple portfolios, not consultants who hand you a report and leave.
 
-## What happens when you keep relying on non-competes
+## The risk of relying only on non-competes
 
 Companies that do nothing face a compounding risk. Every departing employee carries unprotected IP. Every new hire from a competitor brings potential contamination claims. Every jurisdiction that bans non-competes removes another layer of the only protection these companies ever had.
 
-The 10.2x stat is worth repeating: companies with patents are 10.2 times more likely to secure early-stage funding. Investors do not check whether your employees signed non-competes. They check whether your IP is structurally protected, patents filed, trade secrets documented, assignment agreements clean. The post-non-compete world makes this the default expectation rather than a competitive advantage.
+Companies with patents are 10.2 times more likely to secure early-stage funding. Investors do not check whether your employees signed non-competes. They check whether your IP is structurally protected, patents filed, trade secrets documented, assignment agreements clean. The post-non-compete world makes this the default expectation rather than a competitive advantage.
 
 Hayat Amin tells founders the shift away from non-competes is an upgrade. The companies that build the five-layer stack now will be better protected than they ever were with a non-compete clause. The ones that wait will find the gap the way most companies do, when it is already too expensive to fix.
 
