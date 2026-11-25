@@ -1,15 +1,17 @@
-Your company doesn't own your product. You do.
+Your board approved an AI strategy.
 
-That is not a legal problem. It is a due diligence killer.
+Nobody on that board can evaluate it.
 
-40% of acquisition delays trace back to IP assignment gaps found in the data room.
+94% of large companies have an AI strategy.
+7% of board members have hands-on AI experience.
 
-The fix: a Deed of Assignment. £2,500 in legal fees. Two hours of your time.
+The CTO presents 40 slides.
+The board nods.
+Nothing gets challenged.
 
-The alternative: your £8M deal gets restructured at week 3 of diligence.
+That is not governance.
+It is £4.8M of risk rubber-stamped by people who cannot read the map.
 
-Your solicitor assumes it's done. Your investors assume it's done. Nobody checked.
+One operator who has shipped real AI changes what happens in that boardroom.
 
-Sort it before the bankers arrive.
-
-#IPStrategy #Founders #Acquisitions
+#AIGovernance #FractionalExecutive #AIStrategy
