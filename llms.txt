@@ -616,5 +616,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [How to Run an AI Operations Quarterly Review That Actually Saves Money](https://beyondelevation.com/insights/ai-operations-quarterly-review) — /insights/md/ai-operations-quarterly-review.md
 - [Staffing agency automation: the 9 systems to connect first, and when to hire someone to build it](https://beyondelevation.com/insights/staffing-agency-automation) — /insights/md/staffing-agency-automation.md
 - [Most Startups Price by Gut. A Fractional CFO Prices by Margin. The Difference Is 30 Percent.](https://beyondelevation.com/insights/startup-pricing-strategy-fractional-cfo) — /insights/md/startup-pricing-strategy-fractional-cfo.md
+- [How Long Does It Take to Earn Revenue From a Patent? The 18-Month Roadmap Most Founders Never See](https://beyondelevation.com/insights/how-long-patent-revenue-timeline) — /insights/md/how-long-patent-revenue-timeline.md
 
 > Full blog content available at /llms-full.txt
