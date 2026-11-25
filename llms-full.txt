@@ -10444,3 +10444,19 @@ The timeline breaks into three phases.
 **Phase one: Filing and claim positioning (months 1 to 6).** File the provisional, then use the 12-month window to ref
 
 ---
+
+## Your Company's Biggest Single Point of Failure Is a Person. Here Is the 14-Day Fix.
+
+URL: https://beyondelevation.com/insights/key-person-risk-fractional-executive-fix
+
+Your company has a single point of failure and it is not your server. It is the one person who holds your financial model, your IP strategy, or your AI operations pipeline in their head. When they leave — and according to LinkedIn's 2026 Workforce Report, the average C-suite tenure at companies under 500 employees is now 2.3 years — you do not lose an employee. You lose a function.
+
+Hayat Amin calls this the most expensive risk founders refuse to price. "I have watched three portfolio companies stall for six months after a finance lead quit," Hayat Amin says. "Not because the work was complicated. Because nobody documented how to do it."
+
+## What Is Key-Person Risk and Why Does It Kill Companies?
+
+Key-person risk is the operational and financial exposure a company faces when a critical function depends entirely on one individual. It is the gap between what one person knows and what the company owns as documented, transferable capability. Investors check for it during due diligence, insurers price it into key-man policies, and acquirers discount valuations by 15 to 25 percent when they find it — yet fewer than 20 percent of companies under 200 employees have a mitigation plan, according to a 2025 Deloitte Private Company Survey.
+
+The problem is structural, not personal. Fast-growing companies concentrate knowledge by default. The founder who does the monthly close also holds every banking relationship. The patent attorney who filed the original claims also holds the licensing 
+
+---
