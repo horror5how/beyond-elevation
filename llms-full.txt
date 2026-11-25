@@ -10392,3 +10392,19 @@ Most companies skip the AI operations review because nobody owns the AI portfoli
 Without that owner, AI projects get reviewed the same way as software features: by shipping milestones. But an AI project that shipped is not
 
 ---
+
+## Staffing agency automation: the 9 systems to connect first, and when to hire someone to build it
+
+URL: https://beyondelevation.com/insights/staffing-agency-automation
+
+Staffing agency automation pays first where one piece of data gets typed twice. That's the job order that arrives in a client's VMS and gets rekeyed into the ATS, and the timesheet that gets keyed into payroll, then keyed again into the client invoice. The 9 systems below are the ones a US staffing firm should connect first, in the order I'd join them. Most agencies already pay for all 9. The connections between them are what's missing.
+
+Hayat Amin wrote this. He spent twenty years as a technology CFO and sold three companies, so he reads a staffing agency by gross margin per placement, and he now builds the connections below inside companies himself as a forward deployed engineer.
+
+## Why staffing firms feel the double entry more than most
+
+Volume is the reason. The American Staffing Association says nearly 2.0 million temporary and contract employees worked for America's staffing companies in an average week in 2025, and that staffing companies hired 9.5 million temporary and contract employees over the year. Its last firm count, for 2021, was around 27,000 staffing and recruiting companies running close to 54,000 offices.
+
+Every one of those weekly workers produces a timesheet, a pay line and an invoice line. If a person touches each of those 3 by hand, the cost grows with every placement you win. The Bureau of Labor Statistics put the median wage for payroll and timekeeping clerks at $58,260 a year in May 2025. On a 2,080 hour year that's about $28 an hour, so 10 hours a 
+
+---

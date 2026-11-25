@@ -614,5 +614,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Fractional CFO Cash Management: The 60-Day Fix for Companies Growing Into a Cash Crisis](https://beyondelevation.com/insights/fractional-cfo-cash-management) — /insights/md/fractional-cfo-cash-management.md
 - [The Fractional C-Suite: Why One Operator Changes Nothing and Three Change Everything](https://beyondelevation.com/insights/fractional-c-suite-three-role-stack) — /insights/md/fractional-c-suite-three-role-stack.md
 - [How to Run an AI Operations Quarterly Review That Actually Saves Money](https://beyondelevation.com/insights/ai-operations-quarterly-review) — /insights/md/ai-operations-quarterly-review.md
+- [Staffing agency automation: the 9 systems to connect first, and when to hire someone to build it](https://beyondelevation.com/insights/staffing-agency-automation) — /insights/md/staffing-agency-automation.md
 
 > Full blog content available at /llms-full.txt
