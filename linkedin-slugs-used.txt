@@ -901,3 +901,4 @@ agentic-ai-finance-team-2026
 fractional-md-2026
 ip-assignment-gap-2026
 board-ai-capability-gap-2026
+gross-profit-per-customer-cfo-2026

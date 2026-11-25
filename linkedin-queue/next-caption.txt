@@ -1,17 +1,13 @@
-Your board approved an AI strategy.
+Most founders don't know their gross profit per customer.
 
-Nobody on that board can evaluate it.
+Their acquirer will find it in 48 hours.
 
-94% of large companies have an AI strategy.
-7% of board members have hands-on AI experience.
+Investors don't price revenue. They price margin per unit of customer.
 
-The CTO presents 40 slides.
-The board nods.
-Nothing gets challenged.
+If you can't answer 'what does it cost to serve your best customer?' you are not exit-ready.
 
-That is not governance.
-It is £4.8M of risk rubber-stamped by people who cannot read the map.
+3 numbers separate a fundable pitch from a great sales deck: gross profit per customer, payback period, NRR.
 
-One operator who has shipped real AI changes what happens in that boardroom.
+Your fractional CFO should have all three on a single slide before Q1 starts.
 
-#AIGovernance #FractionalExecutive #AIStrategy
+#FractionalCFO #ExitReadiness #FounderFinance
