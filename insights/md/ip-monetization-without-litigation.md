@@ -21,7 +21,7 @@ IP monetization without litigation is the systematic conversion of intellectual 
 
 The distinction matters because litigation-first IP monetization has three structural problems. First, it is expensive: a single patent infringement case costs £1-5 million through trial in the UK and $3-10 million in the US. Second, it is slow: the average patent case takes 24-36 months from filing to resolution. Third, it is adversarial: a company you sue becomes an enemy, not a customer. Licensing without litigation inverts all three: it costs thousands, takes weeks to months, and creates a commercial relationship that generates recurring revenue.
 
-Hayat Amin's view on this is blunt: "Every patent has two prices — the price a court sets and the price a business conversation sets. The court price is always lower when you subtract the cost of getting there."
+The operator's view is blunt: "Every patent has two prices — the price a court sets and the price a business conversation sets. The court price is always lower when you subtract the cost of getting there."
 
 ## What Are the 5 IP Monetization Strategies That Skip the Courtroom?
 
