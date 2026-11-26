@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # Staffing agency automation: the 9 systems to connect first, and when to hire someone to build it
 
-Staffing agency automation pays first where one piece of data gets typed twice. That's the job order that arrives in a client's VMS and gets rekeyed into the ATS, and the timesheet that gets keyed into payroll, then keyed again into the client invoice. The 9 systems below are the ones a US staffing firm should connect first, in the order I'd join them. Most agencies already pay for all 9. The connections between them are what's missing.
+Staffing agency automation pays off first at the point where one piece of data gets typed twice. That's the job order that arrives in a client's VMS and gets rekeyed into the ATS, and the timesheet that gets keyed into payroll, then keyed again into the client invoice. The 9 systems below are the ones a US staffing firm should connect first, in the order I'd join them. Most agencies already pay for all 9. The connections between them are what's missing.
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO and sold three companies, so he reads a staffing agency by gross margin per placement, and he now builds the connections below inside companies himself as a forward deployed engineer.
 

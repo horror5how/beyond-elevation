@@ -11,7 +11,7 @@ site: Beyond Elevation
 
 82 percent of startup failures involve cash flow problems, not revenue problems. According to a 2023 CB Insights analysis, companies mostly die because they run out of money before the revenue they have turns into cash they can spend, not because nobody wants the product. Hayat Amin, who has sat as fractional CFO across three prior exits including American Express and TripAdvisor acquisitions, argues that most founders confuse a profit-and-loss statement with a bank statement, and that confusion kills companies faster than bad product-market fit.
 
-Fractional CFO cash management is the discipline of converting revenue into usable cash on a predictable, measurable cadence. It's a 60-day operational overhaul, not bookkeeping or quarterly reporting, that changes how cash enters, sits in and leaves your business, run by an operator who has done it before.
+Fractional CFO cash management is the discipline of converting revenue into usable cash on a predictable, measurable cadence. It's a 60-day operational overhaul, run by an operator who has done it before, that changes how cash enters, sits in and leaves your business. That's different from bookkeeping or quarterly reporting.
 
 ## What is fractional CFO cash management?
 
@@ -19,7 +19,7 @@ Fractional CFO cash management is the process of building a cash operating syste
 
 Most startups track revenue. Almost none track cash conversion, the gap between when revenue is recognised and when cash arrives. That gap is where companies die. A SaaS business with $3 million in annual recurring revenue can be 60 days from payroll failure if its collection cycle runs 75 days and its vendor payments run 30. The P&L looks healthy. The bank account does not.
 
-A fractional CFO closes this gap by building the systems that make cash visible, predictable, and controlled. The work is operational, not advisory. It involves touching invoices, payment terms, vendor contracts, payroll timing, and treasury policy, not writing a strategy deck.
+A fractional CFO closes this gap by building systems that make cash visible, predictable and controlled. The work is hands-on: touching invoices, payment terms, vendor contracts, payroll timing and treasury policy, rather than producing a strategy deck.
 
 ## Why do growing companies run out of cash?
 
@@ -39,7 +39,7 @@ A fractional CFO builds a cash operating system in 60 days by running five inter
 
 **Week 1 to 2: Cash visibility.** Build a 13-week rolling cash forecast. This is the single most important financial tool a growth company can have, more important than the annual budget, the board pack, or the monthly management accounts. It maps every expected cash inflow and outflow across 91 days at weekly granularity. Beyond Elevation's fractional CFOs build this in the first five working days. For a detailed walkthrough, read the guide on [the 13-week cash flow model](/insights/cash-flow-forecast-13-week-model/).
 
-**Week 3 to 4: Collection acceleration.** Audit every outstanding receivable. Tighten payment terms on new contracts from net-60 to net-30 where possible. Implement automated invoice reminders at day 7, day 21, and day 28. Assign collection responsibility to a named person, not the founder, not the sales team. This single intervention typically accelerates cash inflow by 15 to 25 percent within 30 days.
+**Week 3 to 4: Collection acceleration.** Audit every outstanding receivable. Tighten payment terms on new contracts from net-60 to net-30 where possible. Implement automated invoice reminders at day 7, day 21, and day 28. Assign collection responsibility to one named person, separate from the founder and the sales team. This single intervention typically accelerates cash inflow by 15 to 25 percent within 30 days.
 
 **Week 4 to 5: Payment timing optimisation.** Review every vendor payment schedule. Check whether early-payment discounts justify the cash impact, and drop the ones that don't. For everything else, extend payment terms to match your collection cycles. The goal is to narrow the gap between when cash comes in and when cash goes out, the cash conversion cycle.
 
@@ -59,7 +59,7 @@ Hayat Amin argues the first question every founder should ask their finance func
 
 A company needs a fractional CFO for cash management when any three of these five signals appear at the same time. One signal is a data point. Two is a pattern. Three is a system failure that will not fix itself. For a deeper look at the full list of triggers, read the guide on [when to hire a fractional CFO](/insights/when-to-hire-fractional-cfo/).
 
-**Signal 1:** The founder checks the bank balance more than twice a week to decide whether to approve a spend. That's anxiety masquerading as oversight, not financial management.
+**Signal 1:** The founder checks the bank balance more than twice a week to decide whether to approve a spend. That's anxiety masquerading as financial oversight.
 
 **Signal 2:** The company has missed or nearly missed payroll, a vendor payment, or a tax deadline in the last 12 months.
 
@@ -77,7 +77,7 @@ A fractional CFO cash management engagement costs between £3,000 and £7,000 pe
 
 The return is measurable within the first quarter. Beyond Elevation's fractional CFOs typically recover 8 to 15 percent of monthly operating spend through collection acceleration, expense reduction, and payment timing alone. On a $200K monthly burn, that is $16K to $30K per month in recovered or accelerated cash, a 3x to 5x return on the fractional CFO engagement fee.
 
-Hayat Amin reminds founders that the alternative to a fractional CFO is not saving the fee, it is discovering the cash crisis 30 days too late, when the options narrow to emergency fundraising at a punishing valuation, cutting staff, or shutting down. The fee is insurance against all three. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to run a cash health diagnostic on your business.
+Hayat Amin reminds founders that skipping a fractional CFO costs more than the fee saved: the real cost is discovering the cash crisis 30 days too late, when the options narrow to emergency fundraising at a punishing valuation, cutting staff, or shutting down. The fee is insurance against all three. Book a strategy session at [beyondelevation.com](https://beyondelevation.com) to run a cash health diagnostic on your business.
 
 
 
@@ -107,7 +107,7 @@ A bookkeeper records transactions. A CFO manages cash. The difference is the sam
 
 ### What is the first thing a fractional CFO does for cash management?
 
-The first deliverable is always a 13-week rolling cash forecast. It maps every expected cash inflow and outflow across 91 days at weekly granularity. This forecast replaces the bank-balance check as the company's primary cash planning tool and becomes the foundation for every subsequent cash management intervention.
+The first deliverable is always a 13-week rolling cash forecast. It maps every cash inflow and outflow across 91 days, week by week. This forecast replaces the bank-balance check as the company's main cash planning tool, and everything else in cash management builds on it.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

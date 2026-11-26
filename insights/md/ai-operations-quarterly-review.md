@@ -9,7 +9,7 @@ site: Beyond Elevation
 
 # How to Run an AI Operations Quarterly Review That Actually Saves Money
 
-Most companies have between eight and fifteen AI projects running at any given time. According to Gartner's 2026 AI in the Enterprise survey, 54% of AI initiatives that reach pilot never progress to production, and 31% of those stay funded for over six months after they stall. That's an operations problem, not a technology one. Hayat Amin argues the fix is a better review cadence, not better AI. A single quarterly meeting, run correctly, catches the dead projects before they consume another quarter of budget.
+Most companies run between eight and fifteen AI projects at any one time. Gartner's 2026 AI in the Enterprise survey found that 54% of AI initiatives that reach pilot never make it to production, and 31% of those stay funded for over six months after they stall. This is an operations problem. Hayat Amin argues the fix is a better review cadence. A single quarterly meeting, run properly, catches the dead projects before they burn through another quarter of budget.
 
 An AI operations quarterly review is a structured 90-minute meeting that evaluates every active AI initiative against three criteria, impact, adoption, and cost trajectory, and forces a keep, scale, or kill decision on each one. Beyond Elevation runs this process for portfolio companies, and the median finding in the first review is three dead projects still drawing compute and headcount.
 
@@ -19,7 +19,7 @@ Most companies skip the AI operations review because nobody owns the AI portfoli
 
 Without that owner, AI projects get reviewed the same way as software features: by shipping milestones. But an AI project that shipped is not necessarily an AI project that works. A model in production that nobody uses is a cost centre. A model with 90% accuracy that the operations team ignores because they do not trust it is a cost centre. The quarterly review catches what milestone tracking cannot.
 
-Hayat Amin's view: the absence of a quarterly AI review is a strategy gap, not a process one. Companies that treat AI spend like R&D and never audit it operationally will spend twice what they should and ship half of what they could.
+Hayat Amin's view: skipping the quarterly AI review is a strategy failure. Companies that treat AI spend like R&D and never audit it operationally will spend twice what they should and ship half of what they could.
 
 ## What should an AI operations quarterly review cover?
 
@@ -27,7 +27,7 @@ An AI operations quarterly review should cover four categories for every active 
 
 **Performance metrics.** Is the model doing what it was built to do? Measure accuracy, latency, error rate, and drift since last quarter. A model that was 94% accurate at launch and is now 87% accurate has a drift problem that will not fix itself. Surface it now or pay for it in six months.
 
-**User adoption.** Are the people who were supposed to use this AI using it? Measure daily active users, task completion rate, and manual override frequency. A procurement AI that gets overridden 60% of the time is a suggestion engine, not an automation. The quarterly review forces an honest conversation about why adoption stalled and whether the fix is training, UX, or cancellation.
+**User adoption.** Are the people who were supposed to use this AI using it? Measure daily active users, task completion rate, and manual override frequency. A procurement AI that gets overridden 60% of the time is acting as a suggestion engine rather than an automation. The quarterly review forces an honest conversation about why adoption stalled and whether the fix is training, UX, or cancellation.
 
 **Cost trajectory.** What does this AI initiative cost per month, compute, API calls, data pipeline maintenance, and the human time spent feeding, monitoring, and correcting it? Plot the trend over three quarters. If cost is rising faster than value delivered, the project is on a path to negative ROI regardless of how impressive the demo was.
 
@@ -37,7 +37,7 @@ An AI operations quarterly review should cover four categories for every active 
 
 Hayat Amin's AI Portfolio Triage Method is a scoring framework that sorts every active AI project into one of three buckets after the quarterly review: scale, maintain, or kill. The method was developed during Beyond Elevation's work with mid-market companies running between five and twenty concurrent AI initiatives, where the typical finding was that 25% to 35% of active projects should have been killed at least one quarter earlier.
 
-The triage works on a simple matrix. Each project scores 1 to 5 on two axes: operational impact (measured by the four categories above) and strategic value (measured by alignment with the company's current top-three priorities). Projects scoring 8 or above get scaled, more budget, more headcount, more integration. Projects scoring 5 to 7 get maintained, same budget, same scope, reviewed again next quarter. Projects scoring below 5 get killed. Not paused. Not deprioritised. Killed. Budget reallocated within the same quarter.
+The triage runs on a simple matrix. Each project scores 1 to 5 on two axes: operational impact (measured by the four categories above) and strategic value (measured against the company's current top three priorities). Projects scoring 8 or above get scaled: more budget, more headcount, more integration. Projects scoring 5 to 7 get maintained at the same budget and scope, and come back for review next quarter. Projects scoring below 5 get killed outright, and the budget is reallocated within the same quarter.
 
 The discipline is in the kill threshold. Hayat Amin reminds founders that most AI waste comes from projects nobody is willing to cancel. They sit in maintenance mode, drawing compute and engineering attention, and producing outputs nobody uses, because the sunk cost feels too high to write off. The triage method removes the emotion. A score below 5 is a kill, with no committee and no appeals process. The maths decides.
 

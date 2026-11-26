@@ -21,7 +21,7 @@ The pay reflects a configuration role. PayScale puts the average implementation 
 
 The limit is built into the job. Their brief ends where the product ends. If your invoices live in QuickBooks, your jobs in a field service tool and your customers in HubSpot, an implementation consultant for any one of them will make that one work. Nobody on their contract owns the gap between the three.
 
-## What a forward deployed engineer does
+## The forward deployed engineer's job
 
 A forward deployed engineer sits inside your company, learns how the work gets done, and builds the software that fixes it, in your systems, against your real data. Paraform's October 2026 hiring guide draws the same line: an FDE ships production code inside the customer's environment, where an architect advises and designs.
 
@@ -40,13 +40,13 @@ Done meansGo-live and trained usersThe number you hired them for has moved
 US pay benchmark$85,834 average (PayScale, 2026)$150,000 to $217,000 base (Paraform, October 2026)
 Best forA new ERP, CRM or HR system set up properlyAI pilots that stalled, systems that don't talk, retyped data
 
-## When the implementation consultant is the right call
+## The implementation consultant is the right call
 
-I'd say this plainly, because an FDE would be the wrong hire here. If you've just signed for NetSuite and the job is to get your chart of accounts, approvals and reports set up by quarter end, hire the vendor's partner. Setting up that product is their whole job, they know the product's corners, and they cost less. An FDE on that job is paying senior rates for work that has a known answer.
+An FDE would be the wrong hire here. If you've just signed for NetSuite and the job is to get your chart of accounts, approvals and reports set up by quarter end, hire the vendor's partner. Setting up that product is their whole job, they know the product's corners, and they cost less. An FDE on that job is paying senior rates for work that has a known answer.
 
 The same goes for any single product rollout where the vendor's standard process fits your business with modest changes. That's the job implementation consultants are built for.
 
-## When you need a forward deployed engineer instead
+## Signs you need a forward deployed engineer instead
 
 Watch for these 5 signs:
 
