@@ -620,5 +620,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Your Company's Biggest Single Point of Failure Is a Person. Here Is the 14-Day Fix.](https://beyondelevation.com/insights/key-person-risk-fractional-executive-fix) — /insights/md/key-person-risk-fractional-executive-fix.md
 - [Forward deployed engineer vs implementation consultant: which one a CEO should hire](https://beyondelevation.com/insights/forward-deployed-engineer-vs-implementation-consultant) — /insights/md/forward-deployed-engineer-vs-implementation-consultant.md
 - [What a Chief IP Officer Reports to the Board Every Quarter (And What 90% of Companies Never Show)](https://beyondelevation.com/insights/cipo-quarterly-board-report-framework) — /insights/md/cipo-quarterly-board-report-framework.md
+- [Startup Founder Salary: The Number by Stage and the Mistake 62 Percent of Founders Make](https://beyondelevation.com/insights/startup-founder-salary-by-stage) — /insights/md/startup-founder-salary-by-stage.md
 
 > Full blog content available at /llms-full.txt

@@ -10492,3 +10492,19 @@ A Chief IP Officer should present a quarterly IP board report covering five area
 The problem is familiar to anyone who has sat in a board meeting. The CFO presents financials. The CTO presents product. Marketing presents pipeline. Nobody presents IP. Hayat Amin's Quarterly IP Board Report Framework was built to close that gap — a o
 
 ---
+
+## Startup Founder Salary: The Number by Stage and the Mistake 62 Percent of Founders Make
+
+URL: https://beyondelevation.com/insights/startup-founder-salary-by-stage
+
+A fractional CFO's first question in every founder engagement is not about revenue, margins or burn rate. It is about founder salary. Hayat Amin, who has structured founder compensation across three prior exits and dozens of fractional CFO engagements at Beyond Elevation, argues the number a founder pays themselves is the single fastest signal of financial maturity an investor reads — and 62% of seed-stage founders never formally agree that number with their board.
+
+According to a 2026 Kruze Consulting analysis of 450 venture-backed startups, the median seed-stage founder salary sits at $82,000 (roughly £65,000), yet the range spans from zero to $225,000. That spread is not ambition. It is confusion. And it costs companies twice: underpay and the founder burns out before Series A; overpay and the runway shrinks from 24 months to 16.
+
+## What Should a Startup Founder Pay Themselves at Each Stage?
+
+A startup founder's salary should be set by funding stage, cash position and board composition — not by market benchmarks or personal need. Pre-seed founders typically draw $0–40,000, seed-funded founders $60,000–100,000, Series A founders $120,000–175,000, and Series B and later founders 70–80% of the equivalent full-time executive market rate. The principle is the same at every stage: the salary must remove personal financial stress without signalling to investors that the founder optimises for cash compensation over equity upside.
+
+The numbers follow a runway-preservation formula.
+
+---
