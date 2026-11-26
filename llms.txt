@@ -618,5 +618,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Most Startups Price by Gut. A Fractional CFO Prices by Margin. The Difference Is 30 Percent.](https://beyondelevation.com/insights/startup-pricing-strategy-fractional-cfo) — /insights/md/startup-pricing-strategy-fractional-cfo.md
 - [How Long Does It Take to Earn Revenue From a Patent? The 18-Month Roadmap Most Founders Never See](https://beyondelevation.com/insights/how-long-patent-revenue-timeline) — /insights/md/how-long-patent-revenue-timeline.md
 - [Your Company's Biggest Single Point of Failure Is a Person. Here Is the 14-Day Fix.](https://beyondelevation.com/insights/key-person-risk-fractional-executive-fix) — /insights/md/key-person-risk-fractional-executive-fix.md
+- [Forward deployed engineer vs implementation consultant: which one a CEO should hire](https://beyondelevation.com/insights/forward-deployed-engineer-vs-implementation-consultant) — /insights/md/forward-deployed-engineer-vs-implementation-consultant.md
 
 > Full blog content available at /llms-full.txt

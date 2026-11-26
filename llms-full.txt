@@ -10460,3 +10460,21 @@ Key-person risk is the operational and financial exposure a company faces when a
 The problem is structural, not personal. Fast-growing companies concentrate knowledge by default. The founder who does the monthly close also holds every banking relationship. The patent attorney who filed the original claims also holds the licensing 
 
 ---
+
+## Forward deployed engineer vs implementation consultant: which one a CEO should hire
+
+URL: https://beyondelevation.com/insights/forward-deployed-engineer-vs-implementation-consultant
+
+Hire an implementation consultant when you've bought one software product and need it set up the way the vendor intended. Hire a forward deployed engineer when the job crosses several systems, needs code written inside your stack, and is judged on a number moving in your business, not on a go-live date. Most AI work is the second kind.
+
+Hayat Amin wrote this. He spent twenty years in technology as a CFO, sold three companies, and now works as a forward deployed engineer, which means he's sat on the buyer's side of both of these hires and now does the second job himself.
+
+## What an implementation consultant does
+
+An implementation consultant takes a product you've already bought, like NetSuite, Salesforce, HubSpot or Workday, and configures it for your company. They map your process to the product's settings, load your data, test it before go-live and train your staff. Many work for the vendor or for one of its certified partners, so they know that one product very well.
+
+The pay reflects a configuration role. PayScale puts the average implementation consultant salary in the US at $85,834 in 2026, with a range of $62k to $122k, from 851 salary profiles updated 26 August 2026. PayScale's own description of the job is installing and setting up software or hardware at client sites.
+
+The limit is built into the job. Their brief ends where the product ends. If your invoices live in QuickBooks, your jobs in a field service tool and your customers in HubSpot, an implementation consu
+
+---
