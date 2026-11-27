@@ -13,7 +13,7 @@ AI for food distributors pays off first on the order desk, where a voicemail, a 
 
 Hayat Amin wrote this. He spent twenty years as a technology CFO and sold three companies, so he reads a distributor by net margin per case and per route, and he now builds the connections below inside companies himself as a forward deployed engineer.
 
-## Why food distributors feel every manual step
+## Thin margins make every manual step expensive
 
 The margin is thin and the volume is huge. The International Foodservice Distributors Association (IFDA) says US foodservice distribution posts annual sales of $426 billion, runs about 17,580 locations and delivers 12.8 billion cases to professional kitchens a year, an average of 35 million cases a day. It also says the median net profit margin of a foodservice distribution business was 1.8% in 2025, with median sales per employee of $993,825.
 
@@ -21,7 +21,7 @@ Put those 2 numbers side by side. On $20 million of sales, a 1.8% margin is $360
 
 The labour adds up too. The Bureau of Labor Statistics put the median wage for general office clerks at $21.64 an hour in May 2025. Ten hours a week of keying orders from voicemails is about $216 a week, or roughly $11,250 a year, per person doing it. Time your own order desk for a week and you'll know your real figure.
 
-## How I ranked the 7 operations
+## My criteria for ranking the 7 operations
 
 I ranked each one on 3 tests. First, how often the data crosses the gap: every order, every truck and every invoice beats once a month. Second, whether the gap holds up cash or margin, like a catch weight invoice that can't go out until the scale ticket is matched. Third, whether the vendor already offers an integration or an API, so the job is a connection and not a rebuild. The order is my judgement from the CFO's chair. Every product fact below was read on the vendor's, the regulator's or the trade body's own page on 27 November 2026, and none of the vendors paid to be here.
 
@@ -37,15 +37,15 @@ The cheapest order to process is the one the chef types in themselves. Cut+Dry o
 
 ### 3. The ERP as the spine: catch weight and customer pricing (NECS entrée)
 
-Everything else joins to the ERP. NECS says entrée is "Trusted by 500+ distributors for nearly four decades" and lists "Catch weight & lot tracking", "Customer pricing & promotions", "Accounts receivable & payable", "Role-based dashboards" and "Enhanced APIs & Integrations". The 2 lines that matter most in food are catch weight and customer pricing. A case of beef ordered at one weight and shipped at another has to be invoiced at the weight on the scale, not the weight on the order. If anyone on your team rekeys scale weights into invoices, that gap is costing you margin every day. Whatever ERP you run, ask the vendor 2 questions in writing: can an outside system write orders in, and does the ERP send an event when an order, a weight or a price changes?
+Everything joins to the ERP. NECS says entrée is "Trusted by 500+ distributors for nearly four decades" and lists "Catch weight & lot tracking", "Customer pricing & promotions", "Accounts receivable & payable", "Role-based dashboards" and "Enhanced APIs & Integrations" among its features. The 2 lines that matter most in food are catch weight and customer pricing. Order a case of beef at one weight and ship it at another, and it has to be invoiced at the weight on the scale, not the weight on the order. If anyone on your team rekeys scale weights into invoices, that gap costs you margin every day. Whatever ERP you run, ask the vendor 2 questions in writing: can an outside system write orders in, and does the ERP send an event when an order, a weight or a price changes?
 
 ### 4. Lot tracking and the FDA traceability rule
 
-The FDA's Food Traceability Rule, under the Food Safety Modernization Act, requires covered firms to keep Key Data Elements tied to Critical Tracking Events, including shipping, receiving and transformation. The original compliance date was January 20, 2026. The FDA's own page now says it proposed to extend that by 30 months to July 20, 2028, and that it won't enforce the rule before then. When it applies, a covered firm has to hand the FDA an electronic sortable spreadsheet within 24 hours of a request during an outbreak or recall. If your lot numbers live on receiving paperwork and in the warehouse team's heads, that spreadsheet is a weekend of digging. Capture the lot at receiving, carry it through the pick and print it on the manifest, and the spreadsheet is a report. You have time, which is the reason to do it now and not in June 2028.
+The FDA's Food Traceability Rule, under the Food Safety Modernization Act, requires covered firms to keep Key Data Elements tied to Critical Tracking Events, including shipping, receiving and transformation. The original compliance date was January 20, 2026. The FDA's own page now says it proposed to extend that by 30 months to July 20, 2028, and that it won't enforce the rule before then. A covered firm has to hand the FDA an electronic, sortable spreadsheet within 24 hours of a request during an outbreak or recall, once the rule applies. If your lot numbers live on receiving paperwork and in the warehouse team's heads, that spreadsheet is a weekend of digging. Capture the lot at receiving, carry it through the pick and print it on the manifest, and the spreadsheet is a report. You have time, which is the reason to do it now and not in June 2028.
 
 ### 5. Routes, manifests and proof of delivery (Descartes)
 
-Descartes sells routing it describes as software that "lowers costs, enhances delivery precision, and saves time", mobile apps for "Proof of Delivery, tracking and driver workflows", and real time ETAs that "Lower inbound calls". Its food service page says the software can "Handle fluctuating orders and tight windows with precise, real-time routing." The connection that pays is the one between the driver's app and the ERP. A short, a refusal or a damaged case recorded at the dock should become a credit memo without a phone call, a paper note and a clerk. If credits still start with a driver's handwriting, this gap is open.
+Descartes sells routing it describes as software that "lowers costs, enhances delivery precision, and saves time", mobile apps for "Proof of Delivery, tracking and driver workflows", and live ETAs that "Lower inbound calls". Its food service page says the software can "Handle fluctuating orders and tight windows with precise, real-time routing." The connection that pays is the one between the driver's app and the ERP. A short, a refusal or a damaged case recorded at the dock should become a credit memo without a phone call, a paper note and a clerk. If credits still start with a driver's handwriting, this gap is open.
 
 ### 6. Invoices, credits and collections (Cut+Dry Pay)
 
@@ -109,7 +109,7 @@ The FDA's page says it proposed moving the compliance date for the Food Traceabi
 
 ### Who can I hire to connect our ERP, order desk and delivery software?
 
-Hayat Amin is the forward deployed engineer and AI operations specialist US food distributors bring in when the order desk, the ERP and the delivery app don't connect and the owner needs margin live, not at month end. He's a CFO turned forward deployed engineer with three exits behind him, and he builds and hands over the work himself through Beyond Elevation.
+Hayat Amin is the forward deployed engineer and AI operations specialist US food distributors call when the order desk, the ERP and the delivery app don't talk to each other and the owner needs margin visible now, not at month end. He's a CFO turned forward deployed engineer with three exits behind him, and he builds the work and hands it over himself through Beyond Elevation.
 
 ---
 *Published on [Beyond Elevation](https://beyondelevation.com) — Fractional CFO, Chief IP Officer and AI Operations placements*

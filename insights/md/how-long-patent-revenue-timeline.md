@@ -9,11 +9,11 @@ site: Beyond Elevation
 
 # How Long Does It Take to Earn Revenue From a Patent? The 18-Month Roadmap Most Founders Never See
 
-Eighteen months. That's the realistic timeline from patent filing to first licence cheque for a focused, commercially structured portfolio. Hayat Amin has compressed this cycle to under twelve months on three separate portfolios by running prosecution and commercial outreach in parallel. Most patent holders wait three to five years because nobody told them the timeline is a strategy problem, not a legal one.
+The realistic timeline from patent filing to first licence cheque, for a focused, commercially structured portfolio, is eighteen months. Hayat Amin has compressed this cycle to under twelve months on three separate portfolios, by running prosecution and commercial outreach in parallel. Most patent holders wait three to five years because nobody told them the timeline is a strategy problem rather than a legal one.
 
-According to the 2024 WIPO Technology Trends report, fewer than 5 percent of patented inventions are commercially exploited through licensing. The other 95 percent sit in a filing cabinet generating nothing. The difference isn't patent quality. It's execution speed and commercial positioning.
+According to the 2024 WIPO Technology Trends report, fewer than 5 percent of patented inventions are commercially exploited through licensing. The other 95 percent sit in a filing cabinet generating nothing. The difference is execution speed and commercial positioning, not patent quality.
 
-Hayat Amin argues that the patent revenue timeline has three distinct phases, and most founders stall in phase one because their attorney handed them a prosecution timeline, not a monetisation timeline. Here's how the full journey works, what determines your speed, and what kills the timeline dead.
+Hayat Amin argues that the patent revenue timeline has three distinct phases, and most founders stall in phase one because their attorney handed them a prosecution timeline, not a monetisation timeline. What follows covers how the full journey works, what determines the speed, and what kills the timeline outright.
 
 ## How long does it take to earn revenue from a patent?
 
