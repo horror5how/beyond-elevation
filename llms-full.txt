@@ -10592,3 +10592,17 @@ IP strategy for private equity portfolio companies is a structured programme tha
 Most PE value creation plans focus on three levers: revenue growth, margin improvement, and operational efficiency. What they miss is a fourth lever that compoun
 
 ---
+
+## Rob Eijgenraam: 9 Years Raising Capital Without Equity
+
+URL: https://beyondelevation.com/insights/rob-eijgenraam-raise-capital-without-giving-up-equity
+
+*Guest article from TokenMinds, published as part of a content exchange with Beyond Elevation.*
+
+**TL;DR:** Rob Eijgenraam is the founder of TokenMinds. Since 2017, he has helped various companies raise capital through token sales. This method allows founders to raise funds while retaining full ownership of their companies. His work, alongside his team, has resulted in a documented total of over $25 million raised. Rob believes this method is most effective for established businesses with real revenue. Therefore, he wants to raise awareness about it to a wider audience.
+
+Companies have several ways to fund their growth. One well-known way is to sell shares, which reduces the founders' ownership. Another is to borrow money, which must be repaid with interest. A token sale is another option, and it is now receiving more attention. On August 18, 2026, the US Securities and Exchange Commission [proposed Regulation Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets). Under this proposal, a company could raise up to $5 million through a token offering over four years. [Members of the public could also invest, up to a set limit](https://forkast.news/secs-token-offering-exemptions-enter-final-comment-days-as-agencies-rebuild-crypto-market-structure/).
+
+However, a proposed rule does not make a company ready to sell a token. Most established businesses have revenue and a good track record. They often lack the token design and th
+
+---
