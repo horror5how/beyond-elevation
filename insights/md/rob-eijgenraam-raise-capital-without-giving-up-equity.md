@@ -17,7 +17,6 @@ Companies have several ways to fund their growth. One well-known way is to sell 
 
 However, a proposed rule does not make a company ready to sell a token. Most established businesses have revenue and a good track record. They often lack the token design and the investor network that a sale needs. Rob Eijgenraam has spent nine years helping companies with exactly this problem.
 
-Rob Eijgenraam on stage at Money20/20 Asia 2026.
 ## Who Is Rob Eijgenraam?
 
 Rob Eijgenraam did not begin his career in crypto. He is the founder of [TokenMinds](https://tokenminds.co), a global company that manages token launches. Before that, he built his early career in e-commerce and digital marketing and [worked as a director at the online retailer Zalora](https://www.entrepreneurshiplife.com/web3-founder-rob-eijgenraam/). In 2017, he founded TokenMinds, and he has led the company since then.
