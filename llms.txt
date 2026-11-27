@@ -625,5 +625,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [AI for food distributors: 7 operations worth automating first, and when to hire someone to build it](https://beyondelevation.com/insights/ai-for-food-distributors) — /insights/md/ai-for-food-distributors.md
 - [The Fractional Executive M&A Playbook: Three Operators, 90 Days, One Deal Done Right](https://beyondelevation.com/insights/fractional-executive-ma-playbook) — /insights/md/fractional-executive-ma-playbook.md
 - [Budget vs Actual: the Monthly Report That Separates a Real CFO From an Expensive Bookkeeper](https://beyondelevation.com/insights/budget-vs-actual-cfo-monthly-report) — /insights/md/budget-vs-actual-cfo-monthly-report.md
+- [IP Strategy for Private Equity: The Value Creation Lever Most Firms Never Pull](https://beyondelevation.com/insights/ip-strategy-private-equity-portfolio-companies) — /insights/md/ip-strategy-private-equity-portfolio-companies.md
 
 > Full blog content available at /llms-full.txt
