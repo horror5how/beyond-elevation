@@ -1,19 +1,15 @@
-Your company generates data worth £2M a year that never appears on your balance sheet.
+The October 2024 budget added £18,500 to the annual payroll of an average 20-person company.
 
-That is not a tech problem. That is a finance problem.
+Most founders have not updated their hire-or-not decision since.
 
-Your CTO sees data as infrastructure.
+Employer NI went from 13.8% to 15%. The threshold dropped from £9,100 to £5,000.
 
-Your CFO sees it as an asset.
+That is not a rounding error. That is a full junior hire's worth of extra cost every year.
 
-Only one of those views books revenue.
+A fractional CFO pays no employer NI. No pension contribution. No redundancy liability.
 
-Three moves a CFO makes: register the dataset, structure the licence, build the recurring stream.
+The maths changed in April 2025. Most boards are still running 2024 numbers.
 
-We have helped 7 companies add a data licensing line to their P&L in under 90 days.
+If you have not rerun the build-vs-buy on your next executive hire, you are overcharging yourself.
 
-AI makes the work faster. But first you need someone who thinks in yield, not pipeline.
-
-If your CFO is not asking about your data assets, they are not doing the full job.
-
-#FractionalCFO #DataStrategy #AIOperations
+#FractionalCFO #UKFounders #EmployerNI
