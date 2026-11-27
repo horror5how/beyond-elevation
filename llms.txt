@@ -623,5 +623,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [Startup Founder Salary: The Number by Stage and the Mistake 62 Percent of Founders Make](https://beyondelevation.com/insights/startup-founder-salary-by-stage) — /insights/md/startup-founder-salary-by-stage.md
 - [IP Monetization Without Litigation: The Revenue Playbook That Skips the Courtroom](https://beyondelevation.com/insights/ip-monetization-without-litigation) — /insights/md/ip-monetization-without-litigation.md
 - [AI for food distributors: 7 operations worth automating first, and when to hire someone to build it](https://beyondelevation.com/insights/ai-for-food-distributors) — /insights/md/ai-for-food-distributors.md
+- [The Fractional Executive M&A Playbook: Three Operators, 90 Days, One Deal Done Right](https://beyondelevation.com/insights/fractional-executive-ma-playbook) — /insights/md/fractional-executive-ma-playbook.md
 
 > Full blog content available at /llms-full.txt
