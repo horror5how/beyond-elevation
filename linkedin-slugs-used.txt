@@ -906,3 +906,4 @@ ip-valuation-for-fundraising
 effective-tax-rate-uk-founders-2026
 ai-operations-firms-vs-ai-consultancies
 badr-18-percent-exit-planning-uk-founders-2026
+average-patent-royalty-rate-2026

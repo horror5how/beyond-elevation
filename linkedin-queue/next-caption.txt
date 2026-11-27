@@ -1,17 +1,23 @@
-BADR just went to 18%.
+The standard royalty rate for a software patent licence is 4–6% of licensee revenue.
 
-Your exit plan was built for 10%.
+The average founder-negotiated rate is under 0.8%.
 
-That 8-point gap costs £80,000 on a £1m exit.
+That gap is not a negotiation problem.
 
-£800,000 on a £10m exit.
+It is a valuation and strategy failure.
 
-Most UK founders haven't updated their modelling since the 2024 budget.
+IP lawyers price your patent's validity.
 
-They are optimising for a tax rate that no longer exists.
+IP strategists price its leverage.
 
-Your fractional CFO should have flagged this in Q1.
+A 4% rate on £5M licensee revenue = £200,000 per year per licence.
 
-If they didn't, you need a different CFO.
+At 0.8%, that is £40,000.
 
-#FractionalCFO #ExitPlanning #UKTax
+Same patent. Same claim. Different preparation.
+
+Three things drive royalty rates up: documented market impact, prior art map, enforcement credibility.
+
+Most founders have none of them written down before the first licence negotiation.
+
+#IPStrategy #PatentLicensing #FractionalCIPO
