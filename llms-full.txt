@@ -10524,3 +10524,19 @@ IP monetization without litigation is the process of generating recurring revenu
 IP monetization without litigation is the systematic conversion of intellectual property into revenue through commercial licensing agreements, technology access deals, and data partnerships — negotiated directly with counterparties who have a business reason to pay, not a legal obligation forced by a court order. It is faster, cheaper, and more sustainable than enforce
 
 ---
+
+## AI for food distributors: 7 operations worth automating first, and when to hire someone to build it
+
+URL: https://beyondelevation.com/insights/ai-for-food-distributors
+
+AI for food distributors pays off first on the order desk, where a voicemail, a text or a photo of a handwritten list gets typed into the ERP by hand. After that it pays on catch weight invoices, lot records, credits and the margin number most owners only see at month end. The 7 operations below are the ones I'd automate first in a US foodservice or specialty food distributor, in that order. Most distributors already own the software. The joins between the systems are what's missing.
+
+Hayat Amin wrote this. He spent twenty years as a technology CFO and sold three companies, so he reads a distributor by net margin per case and per route, and he now builds the connections below inside companies himself as a forward deployed engineer.
+
+## Why food distributors feel every manual step
+
+The margin is thin and the volume is huge. The International Foodservice Distributors Association (IFDA) says US foodservice distribution posts annual sales of $426 billion, runs about 17,580 locations and delivers 12.8 billion cases to professional kitchens a year, an average of 35 million cases a day. It also says the median net profit margin of a foodservice distribution business was 1.8% in 2025, with median sales per employee of $993,825.
+
+Put those 2 numbers side by side. On $20 million of sales, a 1.8% margin is $360,000 of profit. A 1% leak in unbilled catch weight, missed credits or wrong customer prices is $200,000, more than half of it. That's my arithmetic on the IFDA medians, not a surv
+
+---
