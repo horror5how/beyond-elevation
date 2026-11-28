@@ -10606,3 +10606,23 @@ Companies have several ways to fund their growth. One well-known way is to sell 
 However, a proposed rule does not make a company ready to sell a token. Most established businesses have revenue and a good track record. They often lack the token design and th
 
 ---
+
+## Hire vetted forward deployed engineers: the 5 checks to run before you sign
+
+URL: https://beyondelevation.com/insights/hire-vetted-forward-deployed-engineers
+
+To hire a vetted forward deployed engineer, test the three things the job needs at once: production code shipped into someone else's systems, the ability to explain a failure to a non-technical executive, and the judgment to cut a vague problem down to one scoped job. Check all three on your own work, before you sign anything.
+
+Hayat Amin wrote this. He spent twenty years in technology as a CFO, sold three companies, and now works as a forward deployed engineer, so he has sat on both sides of the table this piece is about.
+
+## What "vetted" has to mean for a forward deployed engineer
+
+Most CEOs vet an FDE the way they'd vet a software engineer. A coding round, a system design chat, a culture call. That catches half the job. The other half is sitting with your operations team, working out what they do on a Tuesday, and building AI into the systems they already run without breaking the week.
+
+Paraform's October 2026 hiring guide, written by its co-founder John Kim, sets out a 5 stage loop that covers both halves: a recruiter screen, a practical integration task against a real system, system design under the constraints of a customer's environment, a decomposition case where the candidate breaks a vague problem into scoped work, and a behavioural round on customer communication and ownership. I'd use that loop as the spine. What I'd change is the material. Run every stage on your own problem, not a puzzle.
+
+## Check you need an FDE before you vet one
+
+The same Paraform guide quo
+
+---
