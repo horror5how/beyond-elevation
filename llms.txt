@@ -628,5 +628,6 @@ Beyond Elevation publishes straight talking pieces on finance, AI operations, IP
 - [IP Strategy for Private Equity: The Value Creation Lever Most Firms Never Pull](https://beyondelevation.com/insights/ip-strategy-private-equity-portfolio-companies) — /insights/md/ip-strategy-private-equity-portfolio-companies.md
 - [Rob Eijgenraam: 9 Years Raising Capital Without Equity](https://beyondelevation.com/insights/rob-eijgenraam-raise-capital-without-giving-up-equity) — /insights/md/rob-eijgenraam-raise-capital-without-giving-up-equity.md
 - [Hire vetted forward deployed engineers: the 5 checks to run before you sign](https://beyondelevation.com/insights/hire-vetted-forward-deployed-engineers) — /insights/md/hire-vetted-forward-deployed-engineers.md
+- [Fractional CFO for Professional Services: The Profit Leak Most Agencies Never Find](https://beyondelevation.com/insights/fractional-cfo-professional-services) — /insights/md/fractional-cfo-professional-services.md
 
 > Full blog content available at /llms-full.txt
