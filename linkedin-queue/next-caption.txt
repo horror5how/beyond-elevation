@@ -1,21 +1,15 @@
-Your finance team spent 11 hours building last month's board pack.
+You outsourced development to save £180,000.
 
-An AI agent stack does it in 40 minutes.
+That developer may own your product.
 
-The variance report, the cash flow bridge, the management accounts summary — none of these should touch a human hand in 2026.
+Most founder contracts with overseas devs have no IP assignment clause.
 
-73% of finance task hours require zero judgment.
+Your acquirer's lawyer finds it on day 1 of due diligence.
 
-Just data assembly, formatting, rechecking.
+The deal pauses. You discount 15% to cover the risk.
 
-That is what agents are for.
+The fix: a 2-page IP assignment agreement, signed before line 1 of code.
 
-Wire the board pack first.
+If nobody owns this in your company, you need a Chief IP Officer.
 
-Then the management accounts.
-
-Then cash flow.
-
-That sequence pays for the rollout inside 90 days.
-
-#AIOperations #FractionalCFO #AIAutomation
+#IPStrategy #Founders #FractionalCIPO
