@@ -1,15 +1,21 @@
-The October 2024 budget added £18,500 to the annual payroll of an average 20-person company.
+Your finance team spent 11 hours building last month's board pack.
 
-Most founders have not updated their hire-or-not decision since.
+An AI agent stack does it in 40 minutes.
 
-Employer NI went from 13.8% to 15%. The threshold dropped from £9,100 to £5,000.
+The variance report, the cash flow bridge, the management accounts summary — none of these should touch a human hand in 2026.
 
-That is not a rounding error. That is a full junior hire's worth of extra cost every year.
+73% of finance task hours require zero judgment.
 
-A fractional CFO pays no employer NI. No pension contribution. No redundancy liability.
+Just data assembly, formatting, rechecking.
 
-The maths changed in April 2025. Most boards are still running 2024 numbers.
+That is what agents are for.
 
-If you have not rerun the build-vs-buy on your next executive hire, you are overcharging yourself.
+Wire the board pack first.
 
-#FractionalCFO #UKFounders #EmployerNI
+Then the management accounts.
+
+Then cash flow.
+
+That sequence pays for the rollout inside 90 days.
+
+#AIOperations #FractionalCFO #AIAutomation
