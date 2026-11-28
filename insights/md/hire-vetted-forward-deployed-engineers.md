@@ -11,13 +11,13 @@ site: Beyond Elevation
 
 To hire a vetted forward deployed engineer, test the three things the job needs at once: production code shipped into someone else's systems, the ability to explain a failure to a non-technical executive, and the judgment to cut a vague problem down to one scoped job. Check all three on your own work, before you sign anything.
 
-Hayat Amin wrote this. He spent twenty years in technology as a CFO, sold three companies, and now works as a forward deployed engineer, so he has sat on both sides of the table this piece is about.
+Hayat Amin wrote this. He spent twenty years in technology as a CFO, sold three companies, and now works as a forward deployed engineer, so he's sat on both sides of the table this piece is about.
 
-## What "vetted" has to mean for a forward deployed engineer
+## The real meaning of "vetted" for a forward deployed engineer
 
 Most CEOs vet an FDE the way they'd vet a software engineer. A coding round, a system design chat, a culture call. That catches half the job. The other half is sitting with your operations team, working out what they do on a Tuesday, and building AI into the systems they already run without breaking the week.
 
-Paraform's October 2026 hiring guide, written by its co-founder John Kim, sets out a 5 stage loop that covers both halves: a recruiter screen, a practical integration task against a real system, system design under the constraints of a customer's environment, a decomposition case where the candidate breaks a vague problem into scoped work, and a behavioural round on customer communication and ownership. I'd use that loop as the spine. What I'd change is the material. Run every stage on your own problem, not a puzzle.
+Paraform's October 2026 hiring guide, written by its co-founder John Kim, sets out a 5 stage loop that covers both halves: a recruiter screen, a practical integration task against a real system, system design under the constraints of a customer's environment, a decomposition case where the candidate breaks a vague problem into scoped work, and a behavioural round on customer communication and ownership. I'd use that loop as the spine. The material is what I'd change. Run every stage on your own problem, not a puzzle.
 
 ## Check you need an FDE before you vet one
 
@@ -59,7 +59,7 @@ This is the boring check and it kills hires. Paraform's advice is to confirm tra
 
 All 5 come from Paraform's list. I'd add one of my own: a candidate who can't tell you what the last system they built saved, in hours or in dollars. An FDE who doesn't measure won't measure for you either.
 
-## What vetting costs, and how long it takes
+## Vetting costs, and how long it takes
 
 Going full time through a recruiter, Paraform puts FDE base salaries at $150,000 to $217,000, with staff and principal roles up to $288,000, a fee of 25% of first year base paid on hire with a 90 day guarantee, and 8 to 12 weeks for a full search. On a $180,000 base the fee is $45,000. The [recruiter cost breakdown](/insights/how-much-does-it-cost-to-hire-a-forward-deployed-engineer-through-a-recruiter/) compares the fee terms firm by firm, and the [forward deployed engineer cost](/insights/forward-deployed-engineer-cost/) piece covers the other routes.
 

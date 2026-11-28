@@ -23,7 +23,7 @@ The framework isn't theoretical. Beyond Elevation deploys it in every fractional
 
 Most boards never see IP metrics because no one in the company owns the responsibility of translating patents into business language. The general counsel owns legal risk. The CTO owns the technology. The CFO owns the financials. The IP portfolio sits between all three with no advocate, no budget owner, and no reporting line to the board.
 
-This isn't a small problem. Ask a board member "what's our IP worth?" in a due diligence call, and the answer too often starts with silence. Hayat Amin says that in 8 out of 10 companies at growth stage, what comes back is a forwarded email from the patent attorney listing application numbers, not a valuation, not a competitive map, not a licensing pipeline.
+This is a real problem. Ask a board member "what's our IP worth?" in a due diligence call, and the answer too often starts with silence. Hayat Amin says that in 8 out of 10 companies at growth stage, what comes back is a forwarded email from the patent attorney listing application numbers, nothing on valuation, competitive position or licensing pipeline.
 
 The root cause is the same every time. IP reporting requires someone who speaks both patent language and board language. Patent attorneys speak in claims and prosecution. CFOs speak in revenue and margins. The Chief IP Officer translates between them. Without that translator, IP never makes it into the board pack.
 
@@ -61,9 +61,9 @@ The 10.2x stat still holds: companies with patents are 10.2 times more likely to
 
 ## How do you start quarterly IP board reporting without a full-time Chief IP Officer?
 
-You don't need a full-time Chief IP Officer to start quarterly IP board reporting. A fractional CIPO works two to four days a month, builds the reporting framework in the first quarter, and presents to the board alongside the CFO. The cost is a fraction of what a permanent hire would run, and the board gets the same quality of reporting.
+You don't need to hire a Chief IP Officer full time to start quarterly IP board reporting. A fractional CIPO works two to four days a month, builds the reporting framework in the first quarter, and presents to the board alongside the CFO. The cost is a fraction of what a permanent hire would run, and the board gets the same quality of reporting.
 
-Hayat Amin reminds founders that hiring a full-time Chief IP Officer at a stage when the role doesn't fill 40 hours a week is the more expensive mistake. A fractional CIPO at Beyond Elevation builds the Quarterly IP Board Report Framework, trains the internal team on data collection, and hands the presentation to an in-house lead once the process is established. Most companies never need someone full-time. They need the system, and they need someone who has built it before.
+Hayat Amin reminds founders that hiring a full-time Chief IP Officer at a stage when the role doesn't fill 40 hours a week is the more expensive mistake. A fractional CIPO at Beyond Elevation builds the Quarterly IP Board Report Framework, trains the internal team on data collection, and hands the presentation to an in-house lead once the process is established. Most companies never need someone permanent. They need the system, and they need someone who has built it before.
 
 Start with one quarter: one board report, five sections, 12 minutes. If the board doesn't change a single decision based on what it sees, stop there. In practice, every board that has seen the first report asks for the second.
 

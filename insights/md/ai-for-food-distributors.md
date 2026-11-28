@@ -29,7 +29,7 @@ I ranked each one on 3 tests. First, how often the data crosses the gap: every o
 
 ### 1. Orders that arrive by voicemail, text and email (Pepper, Choco)
 
-Independent restaurants order the way they always have: a 10pm voicemail, a text with a photo, an email with a list. Someone on the order desk keys each one into the ERP before the pick starts. Pepper says its Order Agent "takes orders on any channel and in any format" and removes "manual ERP entry", drawing on each customer's order guide and order history. Choco says its AI "captures every voicemail, email, text, and handwritten note" and "feeds it straight into your ERP, no manual entry needed." This is the first job I'd fix because it runs every night for every customer. It's wrong for a distributor whose customers already order through a portal, where the gain is small.
+Independent restaurants order the way they always have: a 10pm voicemail, a text with a photo, an email with a list. Someone on the order desk keys each one into the ERP before the pick starts. Pepper says its Order Agent "takes orders on any channel and in any format" and removes "manual ERP entry", drawing on each customer's order guide and order history. Choco says its AI "captures every voicemail, email, text, and handwritten note" and "feeds it straight into your ERP, no manual entry needed." This is the first job I'd fix because it runs every night for every customer. It's the wrong fix for a distributor whose customers already order through a portal, where the gain is small.
 
 ### 2. Online ordering and order guides (Cut+Dry, entrée.NET)
 
@@ -37,7 +37,7 @@ The cheapest order to process is the one the chef types in themselves. Cut+Dry o
 
 ### 3. The ERP as the spine: catch weight and customer pricing (NECS entrée)
 
-Everything joins to the ERP. NECS says entrée is "Trusted by 500+ distributors for nearly four decades" and lists "Catch weight & lot tracking", "Customer pricing & promotions", "Accounts receivable & payable", "Role-based dashboards" and "Enhanced APIs & Integrations" among its features. The 2 lines that matter most in food are catch weight and customer pricing. Order a case of beef at one weight and ship it at another, and it has to be invoiced at the weight on the scale, not the weight on the order. If anyone on your team rekeys scale weights into invoices, that gap costs you margin every day. Whatever ERP you run, ask the vendor 2 questions in writing: can an outside system write orders in, and does the ERP send an event when an order, a weight or a price changes?
+Everything joins to the ERP. NECS says entrée is "Trusted by 500+ distributors for nearly four decades," with features including "Catch weight & lot tracking," "Customer pricing & promotions," "Accounts receivable & payable," "Role-based dashboards" and "Enhanced APIs & Integrations." The 2 lines that matter most in food are catch weight and customer pricing. Order a case of beef at one weight and ship it at another, and it has to be invoiced at the weight on the scale, not the weight on the order. If anyone on your team rekeys scale weights into invoices, that gap costs you margin every day. Whatever ERP you run, ask the vendor 2 questions in writing: can an outside system write orders in, and does the ERP send an event when an order, a weight or a price changes?
 
 ### 4. Lot tracking and the FDA traceability rule
 
@@ -45,7 +45,7 @@ The FDA's Food Traceability Rule, under the Food Safety Modernization Act, requi
 
 ### 5. Routes, manifests and proof of delivery (Descartes)
 
-Descartes sells routing it describes as software that "lowers costs, enhances delivery precision, and saves time", mobile apps for "Proof of Delivery, tracking and driver workflows", and live ETAs that "Lower inbound calls". Its food service page says the software can "Handle fluctuating orders and tight windows with precise, real-time routing." The connection that pays is the one between the driver's app and the ERP. A short, a refusal or a damaged case recorded at the dock should become a credit memo without a phone call, a paper note and a clerk. If credits still start with a driver's handwriting, this gap is open.
+Descartes sells routing software it describes as something that "lowers costs, enhances delivery precision, and saves time." It also sells mobile apps for "Proof of Delivery, tracking and driver workflows," and live ETAs that "Lower inbound calls." Its food service page says the software can "Handle fluctuating orders and tight windows with precise, real-time routing." The connection that pays is the one between the driver's app and the ERP. A short, a refusal or a damaged case recorded at the dock should become a credit memo without a phone call, a paper note and a clerk. If credits still start with a driver's handwriting, this gap is open.
 
 ### 6. Invoices, credits and collections (Cut+Dry Pay)
 
